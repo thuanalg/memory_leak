@@ -10,11 +10,11 @@
 #include <unistd.h>
 #include "shared_data.h"
 #ifdef USING_MUTEX
-	#error "Using MUTEX"
+	//#error "Using MUTEX"
 #elif defined(USING_SEMAPHORE) 
-	#error "Using SEMAPHORE"
+	// "Using SEMAPHORE"
 #else
-	//#error "Choose MUTEX OR SEMAPHORE"
+	#error "Choose MUTEX OR SEMAPHORE"
 #endif
 
 #define _X(u) AAA_##u
@@ -320,7 +320,7 @@ int check_exit(char increase) {
 	do
 	{
 		if(! p->should_exit) {
-			break
+			break;
 		}
 		if(increase) {
 			count_should_exit++;
