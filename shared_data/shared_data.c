@@ -8,12 +8,13 @@
 #include <fcntl.h> /* For O_* constants */
 #include <pthread.h>
 #include <unistd.h>
+#include "shared_data.h"
 #ifdef USING_MUTEX
 	#error "Using MUTEX"
-#elif defined(USING SEMAPHORE) 
+#elif defined(USING_SEMAPHORE) 
 	#error "Using SEMAPHORE"
 #else
-	#error "Choose MUTEX OR SEMAPHORE"
+	//#error "Choose MUTEX OR SEMAPHORE"
 #endif
 
 #define _X(u) AAA_##u
@@ -26,8 +27,6 @@
 
 static int _X(init_service)(char *path, void **, int);
 static int _X(init_shm_mtx)(pthread_mutex_t *);
-int real_equal(SHARED_ITEM *a, SHARED_ITEM *b);
-int compare_traffic_info(SHARED_ITEM *a, SHARED_ITEM *b);
 
 int ntt_unlink_shm()
 {
@@ -317,172 +316,6 @@ void  ntt_init_watching_thread()
 
 void *ntt_data_shm = 0;
 
-//void analyse_data()
-//{
-//	char *data = 0;
-//	int n = 0;
-//	int k = 0;
-//	int szitem =  sizeof(SHARED_ITEM);
-//	int i = 0;
-//	//int szlist =  sizeof(LIST_SHARED_DATA);
-//	SHARED_ITEM *tmp = 0;
-//	SHARED_ITEM *t = 0;
-//	
-//	LIST_SHARED_DATA *p = (LIST_SHARED_DATA *)ntt_data_shm;
-//	//LIST_SHARED_DATA *psessions = (LIST_SHARED_DATA *) &sdn_list;
-//	struct timespec updated_at;
-//	memset(&updated_at, 0, sizeof(updated_at));
-//
-//	if( clock_gettime( CLOCK_REALTIME, &updated_at) == -1 ) {
-//		LOG(ERROR) << "MC2-985, " << __FILE__ << ":" << __FUNCTION__ << ":" << __LINE__ 
-//			<< " : " << ", clock_gettime: error" 
-//			<< std::endl;
-//		exit(1);
-//	}
-//
-//	//std::string str = "";
-//
-//	if(!p)
-//	{
-//		return;	
-//	}
-//	if(!psessions)
-//	{
-//		return;
-//	}
-//	n = ntt_read_shm(p, (char **)&data, 0);
-//
-//	if( n < 1 || !data){
-//		return;	
-//	}
-//	k = n / szitem;
-//	tmp = (SHARED_ITEM *)data;
-//
-//	do 
-//	{
-//		int mm = 0, u = 0;
-//		pthread_mutex_t *mtx = &(session_mtx);
-//		pthread_mutex_lock(mtx);
-//		do
-//		{
-//			for(i = 0; i < k; ++i)
-//			{
-//				char found = 0;
-//				char cond = 0;
-////				str = "";
-////				dump_traffic_to_str(tmp + i, (void *)&str);
-//
-//				t = (SHARED_ITEM *)psessions->data;
-//				mm = psessions->used_data/szitem;
-//
-//				for(u = 0; u < mm; ++u)
-//				{
-////					str = "";
-////					dump_traffic_to_str(t + u, (void *)&str);
-////					LOG(ERROR) << "MC2-985, " << __FILE__ << ":" << __FUNCTION__ << ":" << __LINE__ 
-////						<< " : " << ", i: " << i
-////						<< " : " << ", k: " << k
-////						<< " : " << ", u: " << u
-////						<< " : " << ", sessioens: " << mm
-////						<< ":" << str.c_str() 
-////						<< std::endl;
-////
-//
-//					cond = (updated_at.tv_sec - t[u].updated_at.tv_sec > (10*60));
-//					if(cond){
-//						t[u].is_closed = 1;	
-//					}
-//					
-//					cond = (t[u].start_at.tv_sec != tmp[i].start_at.tv_sec);
-//					if(cond){
-//						continue;
-//					}
-//
-//					cond = (t[u].start_at.tv_nsec != tmp[i].start_at.tv_nsec);
-//					if(cond){
-//						continue;
-//					}
-//
-//					cond = (t[u].pid != tmp[i].pid);
-//					if(cond){
-//						continue;
-//					}
-//
-//					cond = (t[u].stream_id != tmp[i].stream_id);
-//					if(cond){
-//						continue;
-//					}
-//
-//					found = 1;
-//					break;
-//				}
-//
-////				str = "";
-////				dump_traffic_to_str(t + u, (void *)&str);
-////				LOG(ERROR) << "MC2-985, " << __FILE__ << ":" << __FUNCTION__ << ":" << __LINE__ 
-////					<< " : " << ", i: " << i
-////					<< " : " << ", toal from buffer: " << k
-////					<< " : " << ", u: " << u
-////					<< " : " << ", sessions: " << mm
-////					<< " : " << ", found: " << (found ? "1" : "0")
-////					<< ":" << str.c_str() 
-////					<< std::endl;
-//				
-//				if(!found){
-//					add_item_traffic(&psessions, (char *)(tmp + i), szitem);
-//				}
-//				else 
-//				{
-//					t[u].updated_at = tmp[i].updated_at;
-//					if(tmp[i].port > 0)
-//					{
-//						t[u].port = tmp[i].port;	
-//					}
-//					if(tmp[i].upload > t[u].upload)
-//					{
-//						t[u].delta_upload += ( tmp[i].upload - t[u].upload);
-//						t[u].upload = tmp[i].upload;
-//					}
-//					if(tmp[i].download > t[u].download)
-//					{
-//						t[u].delta_download += ( tmp[i].download - t[u].download);
-//						t[u].download = tmp[i].download;
-//					}
-//					if(t[u].is_first)
-//					{
-//						t[u].is_first = 0;
-//						t[u].delta_download = tmp[i].download;
-//						t[u].delta_upload = tmp[i].upload;
-//					}
-//					t[u].is_closed = tmp[i].is_closed;
-//					if(tmp[i].proto[0])
-//					{
-//						snprintf(t[u].proto, 5, "%s", tmp[i].proto);	
-//					}
-//					if(tmp[i].ip[0])
-//					{
-//						snprintf(t[u].ip, 64, "%s", tmp[i].ip);	
-//					}
-//
-//				}
-//			}
-//			//End for
-//		}while(0);
-//
-//		pthread_mutex_unlock(mtx);
-//	}
-//	while(0);
-//
-//	if(data){
-//		free(data);
-//	}
-//}
-//
-//
-//
-////ntthuan
-////#ifndef __SHARE_DATA__
-//#define __SHARE_DATA__
 
 void add_item_traffic(LIST_SHARED_DATA **p, char *item, int sz)
 {
@@ -525,7 +358,6 @@ void add_item_traffic(LIST_SHARED_DATA **p, char *item, int sz)
             (*p) = (LIST_SHARED_DATA *) realloc( (*p), up_size);
             if(!(*p))
             {
-                LOG(FATAL) << __LINE__ <<", MC2-985 , REALLOC error " << std::endl;
                 exit(1);
             }
             t = *p;
@@ -538,171 +370,12 @@ void add_item_traffic(LIST_SHARED_DATA **p, char *item, int sz)
     }
     while(0);
 }
-//int ntt_take_traffic_data(char **data)
-//{
-//	int n = 0;
-//	char *p = 0;
-//	LIST_SHARED_DATA *pp = 0;
-//	int k = 0;
-//	int sz = sizeof(SHARED_ITEM);
-//	SHARED_ITEM *t = 0;
-//	do
-//	{
-//		int i = 0;
-//		if(!data)
-//		{
-//			break;	
-//		}
-//		if(!psessions)
-//		{
-//			break;	
-//		}
-//		pthread_mutex_t *mtx = &(session_mtx);
-//		pthread_mutex_lock(mtx);
-//		do
-//		{
-//			n = psessions->used_data;
-//			if(!n)
-//			{
-//				break;	
-//			}
-//			k = n / sz;
-//			p = (char *) malloc(n + 1);
-//			memset(p, 0, n + 1);
-//			memcpy(p, psessions->data, n);
-//			//Clean close session
-//			t = (SHARED_ITEM *)psessions->data;
-//			for(i = 0; i < k; ++i)
-//			{
-//				if(t[i].is_closed)
-//				{
-//					continue;	
-//				}
-//				t[i].delta_upload = 0;
-//				t[i].delta_download = 0;
-//				add_item_traffic(&pp, (char *)(t + i), sz);
-//			}
-//			if(pp)
-//			{
-//				//memset(psessions->data, 0, psessions->used_data);
-//				psessions->used_data = pp->used_data;	
-//				memcpy(psessions->data, pp->data, pp->used_data);	
-//			}
-//			else {
-//				psessions->used_data = 0;	
-//			}
-//			//*data = p;
-//		}
-//		while(0);
-//		pthread_mutex_unlock(mtx);
-//	}
-//	while(0);
-//	if(pp)
-//	{
-//		free(pp);	
-//		pp = 0;
-//	}
-//	if(p) {
-//		int high = 0;
-//		int ii = 0;
-//		do
-//		{
-//			high = (n / sizeof(SHARED_ITEM));
-//			if(high < 1){
-//				break;
-//			}
-//			
-//			SHARED_ITEM item;
-//			SHARED_ITEM *info = (SHARED_ITEM *)p;
-//			char checked = 0;
-//			int j = 0;
-//			int k = 0;
-//			SHARED_ITEM *t = 0;
-//			item = info[0];
-//			add_item_traffic(&pp, (char *)&item, sizeof(item));
-//			for(ii = 1; ii < high; ++ii)
-//			{
-//				if(!pp)
-//				{
-//					break;
-//				}
-//				k = pp->used_data/sizeof(SHARED_ITEM);
-//				t = (SHARED_ITEM *)pp->data;
-//				checked = 0;
-//				for(j = 0; j < k; ++j)
-//				{
-//					if(real_equal(info + ii, t + j))
-//					{
-//						t[j].delta_upload += info[ii].delta_upload;
-//						t[j].delta_download += info[ii].delta_download;
-//						checked = 1;
-//						break;
-//					}
-//				}
-//				if(!checked)
-//				{
-//					add_item_traffic(&pp, (char *) (info + ii), sizeof(item));
-//				}
-//			}
-//			free(p); p = 0;
-//			n = pp->used_data;	
-//			p = (char *) malloc(n + 1);
-//			memset(p, 0, n + 1);
-//			memcpy(p, pp->data, n);
-//			*data = p;
-//			if(pp)
-//			{
-//				free(pp);
-//			}
-//		}
-//		while(0);
-//	}
-//	return n;
-//}
-//#endif
-// ok
-//int real_less_than(SHARED_ITEM *a, SHARED_ITEM *b){
-//	return (compare_traffic_info(a, b) == -1);
-//}
-//ok
-//int real_equal(SHARED_ITEM *a, SHARED_ITEM *b){
-//	return (compare_traffic_info(a, b) == 0);
-//}
-//ok
-//int equal_less_than(SHARED_ITEM *a, SHARED_ITEM *b){
-//	return (compare_traffic_info(a, b) != -1);
-//}
-////ok
-//int equal_greater_than(SHARED_ITEM *a, SHARED_ITEM *b){
-//	return (compare_traffic_info(a, b) != 1);
-//}
+void ntt_read_pthread()
+{
 
-// a < b --> 1
-// a == b --> 0
-// a > b --> -1
-//int compare_traffic_info(SHARED_ITEM *a, SHARED_ITEM *b)
-//{
-//	int n = 0;
-//	do
-//	{
-//		if(!a) {n = 1; break;};
-//		if(!b) {n = -1 ; break;};
-//		if(a->port < b->port) {n = 1; break;};
-//		if(a->port > b->port) {n = -1;break;};
-//		n = strncmp(a->proto, b->proto, 4);
-//		if(n) {
-//			n = (n > 0) ? 1 : -1;
-//			break;
-//		}
-//		n = strncmp(a->ip, b->ip, 24);
-//		if(n) {
-//			n = (n > 0) ? 1 : -1;
-//			break;
-//		}
-//		n = 0;
-//	}
-//	while(0);
-//	return n;
-//}
+}
+void ntt_write_pthread()
+{
 
+}
 //Endfile
