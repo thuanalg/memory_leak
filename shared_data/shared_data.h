@@ -19,6 +19,7 @@ typedef struct {
 	//To stop working a group of processes
 	pthread_mutex_t exit_mtx;
 	char should_exit;
+
 	char data[0];
 } LIST_SHARED_DATA;
 

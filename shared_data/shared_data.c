@@ -27,6 +27,9 @@
 
 static int _X(init_service)(char *path, void **, int);
 static int _X(init_shm_mtx)(pthread_mutex_t *);
+void *read_body_thread(void *data);
+void *write_body_thread(void *data);
+int check_exit(char increase);
 
 int ntt_unlink_shm()
 {
@@ -127,14 +130,24 @@ int _X(init_service)(char *path, void **out, int sz)
     }
 	//Must initial data
     memset(data, 0, sz);
-	#ifdef USING_NTT_MTX
-		LIST_SHARED_DATA *p = (LIST_SHARED_DATA *)data;
-		pthread_mutex_t *mtx = &(p->frame_mtx);
-		p->total = LIST_SHARED_DATA_SZ;
-    	err  = _X(init_shm_mtx)(mtx);
-	#else
-
-	#endif
+	do {
+		#ifdef USING_MUTEX
+			LIST_SHARED_DATA *p = (LIST_SHARED_DATA *)data;
+			pthread_mutex_t *mtx = &(p->frame_mtx);
+			p->total = LIST_SHARED_DATA_SZ;
+	    	err  = _X(init_shm_mtx)(mtx);
+			if(err) {
+				break;
+			}
+			mtx = &(p->exit_mtx);
+	    	err  = _X(init_shm_mtx)(mtx);
+			if(err) {
+				break;
+			}
+		#else
+	
+		#endif
+	} while(0);
   }
   while(0);
   if(err) {
@@ -278,104 +291,49 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 	return rs;
 }
 
-pthread_t dummy_watching = 0;
-LIST_SHARED_DATA *psessions = 0;
-pthread_mutex_t session_mtx =  PTHREAD_MUTEX_INITIALIZER;
-//void analyse_data();
-void *dummy_watching_body(void *dta)
+
+void ntt_read_thread()
 {
+
+}
+void ntt_write_thread()
+{
+
+}
+void *read_body_thread(void *data) {
 	while(1)
 	{
-		sleep(3);	
-		//analyse_data();
+		sleep(1);
 	}
-	return 0;	
+	return 0;
 }
 
-void  ntt_init_watching_thread()
-{
-	int rc = 0;
-  int err = 0;                                                           
-	if(!psessions)
-	{
-		psessions = (LIST_SHARED_DATA*)malloc(sizeof(LIST_SHARED_DATA));
-		memset(psessions, 0, sizeof(LIST_SHARED_DATA));
-		psessions->total = sizeof(LIST_SHARED_DATA);
-    err = pthread_mutex_init( &(psessions->frame_mtx), 0);                                                           
-	}
-	if(err)
-	{
-		exit(1);	
-	}
-	rc = pthread_create(&dummy_watching, 0, dummy_watching_body, 0);
-	if(rc)
-	{
-		exit(1);	
-	}
+void *write_body_thread(void *data) {
+	return 0;
 }
+int count_should_exit = 0; 
+int check_exit(char increase) {
+	int rs = 0;
+	LIST_SHARED_DATA *p = (LIST_SHARED_DATA*) ntt_data_shm;
+	pthread_mutex_t *mtx = &(p->exit_mtx);
+	pthread_mutex_lock(mtx);
+	do
+	{
+		if(! p->should_exit) {
+			break
+		}
+		if(increase) {
+			count_should_exit++;
+			rs = count_should_exit;
+			break;
+		}
+		if(!count_should_exit) count_should_exit++;
+		rs = count_should_exit;
+	} while(0);
+	pthread_mutex_unlock(mtx);
+	return rs;
+}
+
 
 void *ntt_data_shm = 0;
-
-
-void add_item_traffic(LIST_SHARED_DATA **p, char *item, int sz)
-{
-    LIST_SHARED_DATA *t = 0;
-    unsigned long long n = 0;
-    char *pdata = 0;
-    do
-    {
-        if(sz < 1){
-            break;
-        }
-        if(!item){
-            break;
-        }
-        if(!p){
-            break;
-        }
-        if(!(*p))
-        {
-            (*p) = (LIST_SHARED_DATA *) malloc(SHARED_DATA_STEP);
-            if(!(*p))
-            {
-                //LOG(FATAL) << __LINE__ <<", MALLOC error " << std::endl;
-                exit(1);
-            }
-            t = *p;
-            memset(t, 0, SHARED_DATA_STEP);
-            t->total = SHARED_DATA_STEP;
-        }
-        t = *p;
-        n = t->used_data + sizeof(LIST_SHARED_DATA) + sz;
-        if( (n+1) > t->total)
-        {
-            unsigned long long up_size = t->total + SHARED_DATA_STEP;
-            while( up_size < (n+1))
-            {
-                up_size += SHARED_DATA_STEP;
-            }
-
-            (*p) = (LIST_SHARED_DATA *) realloc( (*p), up_size);
-            if(!(*p))
-            {
-                exit(1);
-            }
-            t = *p;
-            t->total = up_size;
-        }
-
-        pdata = t->data;
-        memcpy(pdata + t->used_data, item, sz);
-        t->used_data += sz;
-    }
-    while(0);
-}
-void ntt_read_pthread()
-{
-
-}
-void ntt_write_pthread()
-{
-
-}
 //Endfile
