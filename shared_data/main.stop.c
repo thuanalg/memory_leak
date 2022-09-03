@@ -10,10 +10,7 @@ int main(int argc, char *argv[])
 	{
 		exit (1);
 	}
-	pthread_mutex_lock(&(p->exit_mtx));
-		p->should_exit = 1;
-	pthread_mutex_unlock(&(p->exit_mtx));
-	
+	set_exit_group(1);	
 	ntt_unlink_shm();
 	return 0;
 }

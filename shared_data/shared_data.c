@@ -1,3 +1,9 @@
+//#ifdef USING_MUTEX
+//#elif defined(USING_SEMAPHORE) 
+//#else
+//	#error "Choose MUTEX OR SEMAPHORE"
+//#endif
+
 //#
 #include <unistd.h>
 #include <stdio.h>
@@ -131,8 +137,8 @@ int _X(init_service)(char *path, void **out, int sz)
 	//Must initial data
     memset(data, 0, sz);
 	do {
-		#ifdef USING_MUTEX
 			LIST_SHARED_DATA *p = (LIST_SHARED_DATA *)data;
+		#ifdef USING_MUTEX
 			pthread_mutex_t *mtx = &(p->frame_mtx);
 			p->total = LIST_SHARED_DATA_SZ;
 	    	err  = _X(init_shm_mtx)(mtx);
@@ -144,8 +150,19 @@ int _X(init_service)(char *path, void **out, int sz)
 			if(err) {
 				break;
 			}
+		#elif defined(USING_SEMAPHORE) 
+			sem_t *t = &(p->frame_sem);
+			err = sem_init(t, 1, 1);
+			if(err) {
+				break;
+			}
+			t = &(p->exit_sem);
+			err = sem_init(t, 1, 1);
+			if(err) {
+				break;
+			}
 		#else
-	
+			#error "Must use MUTEX or SEMAPHORE"	
 		#endif
 	} while(0);
   }
@@ -211,9 +228,13 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n)
 	
 		tmp = p->data;
 
+#ifdef USING_MUTEX
 		errx = pthread_mutex_lock(&(p->frame_mtx));
-
-			//fprintf(stdout, "errx: %d\n", errx);
+#elif defined(USING_SEMAPHORE) 
+		errx = sem_wait(&(p->frame_sem));
+#else
+	#error "Choose MUTEX OR SEMAPHORE"
+#endif
 			do {
 				if(errx) {
 					break;	
@@ -232,7 +253,13 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n)
 			while(0);
 
 		if(!errx){
+#ifdef USING_MUTEX
 			errx = pthread_mutex_unlock(&(p->frame_mtx));
+#elif defined(USING_SEMAPHORE) 
+			errx = sem_post(&(p->frame_sem));
+#else
+	#error "Choose MUTEX OR SEMAPHORE"
+#endif
 		}
 
 	}
@@ -259,7 +286,13 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 			break;	
 		}
 
+#ifdef USING_MUTEX
 		errx = pthread_mutex_lock(&(p->frame_mtx));
+#elif defined(USING_SEMAPHORE) 
+		errx = sem_wait(&(p->frame_sem));
+#else
+	#error "Choose MUTEX OR SEMAPHORE"
+#endif
 		do {
 			if(errx) {
 				break;	
@@ -283,7 +316,13 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 		while(0);
 
 		if(!errx) {
+#ifdef USING_MUTEX
 			errx = pthread_mutex_unlock(&(p->frame_mtx));
+#elif defined(USING_SEMAPHORE) 
+			errx = sem_post(&(p->frame_sem));
+#else
+	#error "Choose MUTEX OR SEMAPHORE"
+#endif
 		}
 		(*data) = tmp;
 	}
@@ -332,12 +371,22 @@ void *write_body_thread(void *data) {
 //	}
 	return 0;
 }
+
 int count_should_exit = 0; 
 int check_exit(char increase) {
 	int rs = 0;
 	LIST_SHARED_DATA *p = (LIST_SHARED_DATA*) ntt_data_shm;
+#ifdef USING_MUTEX
 	pthread_mutex_t *mtx = &(p->exit_mtx);
 	pthread_mutex_lock(mtx);
+#elif defined(USING_SEMAPHORE) 
+	sem_t *t = &(p->exit_sem);
+	sem_wait(t);
+#else
+	#error "Choose MUTEX OR SEMAPHORE"
+#endif
+
+
 	do
 	{
 		if(! p->should_exit) {
@@ -351,10 +400,32 @@ int check_exit(char increase) {
 		if(!count_should_exit) count_should_exit++;
 		rs = count_should_exit;
 	} while(0);
+#ifdef USING_MUTEX
 	pthread_mutex_unlock(mtx);
+#elif defined(USING_SEMAPHORE) 
+	sem_post(t);
+#else
+#endif
 	return rs;
 }
 
+
+int set_exit_group(char val) {
+	LIST_SHARED_DATA *p = 0;
+	p = (LIST_SHARED_DATA *) ntt_data_shm;
+#ifdef USING_MUTEX
+	pthread_mutex_lock(&(p->exit_mtx));
+		p->should_exit = val;
+	pthread_mutex_unlock(&(p->exit_mtx));
+#elif defined(USING_SEMAPHORE) 
+	sem_wait(&(p->exit_sem));
+		p->should_exit = val;
+	sem_post(&(p->exit_sem));
+#else
+	#error "Choose MUTEX OR SEMAPHORE"
+#endif
+	return 0;
+}
 
 void *ntt_data_shm = 0;
 //Endfile
