@@ -12,5 +12,6 @@ int main(int argc, char *argv[])
 		n = check_exit(0);
 		if(n >= COUNT_EXIT_READ) break;	
 	}
+	ntt_unlink_shm();
 	return 0;
 }
