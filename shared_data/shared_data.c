@@ -294,7 +294,10 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 
 void ntt_read_thread()
 {
-
+	int rc = 0;
+	pthread_t ptid = 0;
+	rc = pthread_create(&ptid, 0, read_body_thread, 0);
+	fprintf(stdout, "f: %s, rc: %d, ptid: %llui\n", __FUNCTION__, rc, ptid);
 }
 void ntt_write_thread()
 {
@@ -303,12 +306,14 @@ void ntt_write_thread()
 void *read_body_thread(void *data) {
 	while(1)
 	{
-		char *dta = =
+		char *dta = 0;
+		LIST_SHARED_DATA *p = (LIST_SHARED_DATA*) ntt_data_shm;
 		int n = check_exit(1);
 		if(n) break;
 		n = ntt_read_shm(p, &dta, 1);
 		if(!n){
 			sleep(1);
+			fprintf(stdout, "Sleeping %s\n", __FUNCTION__);
 		}
 		else {
 			fprintf(stdout, "Have data size: %d\n", n);
