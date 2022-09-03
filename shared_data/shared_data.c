@@ -303,12 +303,28 @@ void ntt_write_thread()
 void *read_body_thread(void *data) {
 	while(1)
 	{
-		sleep(1);
+		char *dta = =
+		int n = check_exit(1);
+		if(n) break;
+		n = ntt_read_shm(p, &dta, 1);
+		if(!n){
+			sleep(1);
+		}
+		else {
+			fprintf(stdout, "Have data size: %d\n", n);
+			free(dta);
+		}
 	}
 	return 0;
 }
 
 void *write_body_thread(void *data) {
+//	while(1)
+//	{
+//		int n = check_exit(1);
+//		if(n) break;
+//		sleep(1);
+//	}
 	return 0;
 }
 int count_should_exit = 0; 
