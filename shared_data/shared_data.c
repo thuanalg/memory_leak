@@ -152,6 +152,7 @@ int _X(init_service)(char *path, void **out, int sz)
 			}
 		#elif defined(USING_SEMAPHORE) 
 			sem_t *t = &(p->frame_sem);
+			p->total = LIST_SHARED_DATA_SZ;
 			err = sem_init(t, 1, 1);
 			if(err) {
 				break;
@@ -161,6 +162,7 @@ int _X(init_service)(char *path, void **out, int sz)
 			if(err) {
 				break;
 			}
+			fprintf(stdout, "used_data: %d, total: %d\n", p->used_data, p->total);
 		#else
 			#error "Must use MUTEX or SEMAPHORE"	
 		#endif
@@ -249,6 +251,7 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n)
 				memcpy(tmp + p->used_data, data, n);
 				p->used_data += n;
 				rs = p->used_data;
+				fprintf(stdout, "used_data: %d, total: %d\n", p->used_data, p->total);
 			}
 			while(0);
 
@@ -357,6 +360,7 @@ void *read_body_thread(void *data) {
 		else {
 			fprintf(stdout, "Have data size: %d\n", n);
 			free(dta);
+			dta = 0;
 		}
 	}
 	return 0;
