@@ -13,18 +13,26 @@ extern "C" {
 #endif
 
 typedef struct {
+	//Size of whole region
 	unsigned long long total;
+	//Size of segment is used
 	unsigned long long used_data;
+	//Mutex with used case: USING_MUTEX macro
 	//To access critical region
 	pthread_mutex_t frame_mtx;
 	//To stop working a group of processes
 	pthread_mutex_t exit_mtx;
-		
+	
+	//Mutex with used case: USING_SEMAPORE macro
+	//To access critical region	
 	sem_t frame_sem;
+	//To stop working a group of processes
 	sem_t exit_sem;
 
+	//Check group exit, you can ignore
 	char should_exit;
-
+	
+	//to occupy data
 	char data[0];
 } LIST_SHARED_DATA;
 
