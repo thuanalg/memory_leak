@@ -1,0 +1,312 @@
+	2022-05-08
+24-hour clock		<-->	noun+C1    
+academic year		<-->	noun+C1    
+AD		<-->	abbreviation+CC1    
+aeon		<-->	noun+C2    
+after		<-->	preposition+A1    
+afternoon		<-->	noun+A1    
+afternoons		<-->	adverb+A2    
+afterwards		<-->	adverb+B2    
+age		<-->	noun+B2    
+ago		<-->	adverb+A1    
+AH		<-->	abbreviation+CC2    
+ahead of		<-->	preposition+C2    
+ahead of/behind time		<-->	idiom+B2
+all-day		<-->	adjective+C1    
+all the time		<-->	idiom+A2
+alternate		<-->	adjective+C1    
+annual		<-->	adjective+B2    
+annually		<-->	adverb+B2    
+April		<-->	noun+A1    
+around-the-clock		<-->	adjective+C2    
+as from…/as of…		<-->	idiom+C1
+AST		<-->	abbreviation+CC2    
+Atlantic Daylight Time		<-->	noun+C2    
+Atlantic Standard Time		<-->	noun+C2    
+at the same time		<-->	idiom+A1
+at times		<-->	idiom+B1
+August		<-->	noun+A1    
+autumn		<-->	noun+A1    
+a week yesterday, last Monday, etc.		<-->	idiom+C1
+bank holiday		<-->	noun+C1    
+BC		<-->	abbreviation+CC1    
+BCE		<-->	abbreviation+CC1    
+before		<-->	preposition+A1    
+beforeconjunctionA2    
+before		<-->	adverb+A2    
+beforehand		<-->	adverb+C1    
+behind the times		<-->	idiom+C1
+beyond		<-->	preposition+B2    
+biannual		<-->	adjective+C2    
+bicentenary		<-->	noun+C2    
+bicentenary		<-->	adjective+C2    
+bicentennial		<-->	noun+C2    
+bicentennial		<-->	adjective+C2    
+biennial		<-->	adjective+C2    
+biennially		<-->	adverb+C2    
+bimonthly		<-->	adjective+C2    
+British Summer Time		<-->	noun+C2    
+calendar		<-->	noun+B2    
+calendar month		<-->	noun+C2    
+calendar year		<-->	noun+C2    
+CE		<-->	abbreviation+CC1    
+centenary		<-->	noun+C2    
+Central Daylight Time		<-->	noun+C2    
+Central European Summer Time		<-->	noun+C2    
+Central European Time		<-->	noun+C2    
+Central Standard Time		<-->	noun+C2    
+century		<-->	noun+A1    
+chapter		<-->	noun+C1    
+chronological		<-->	adjective+C1    
+continual		<-->	adjective+C1    
+continually		<-->	adverb+C1    
+continuous		<-->	adjective+B1    
+continuously		<-->	adverb+B1    
+Coordinated Universal Time		<-->	noun+C2    
+daily		<-->	adjective+A2    
+daily		<-->	adverb+B1    
+date		<-->	noun+A1    
+dawn		<-->	noun+C1    
+day		<-->	noun+A1    
+daybreak		<-->	noun+C2    
+day in, day out		<-->	idiom+C2
+daylight		<-->	noun+B1    
+daylight saving time		<-->	noun+C2    
+daytime		<-->	noun+B1    
+day-to-day		<-->	adjective+B2    
+decade		<-->	noun+B1    
+December		<-->	noun+A1    
+diurnal		<-->	adjective+C2    
+during		<-->	preposition+A1    
+dusk		<-->	noun+C1    
+early		<-->	adjective+A1    
+Eastern Daylight Time		<-->	noun+C2    
+Eastern Standard Time		<-->	noun+C2    
+elapseverbC2    
+eon		<-->	noun+C2    
+epoch		<-->	noun+C2    
+equinox		<-->	noun+C2    
+era		<-->	noun+B2    
+eternity		<-->	noun+C1    
+eve		<-->	noun+C2    
+evening		<-->	noun+A1    
+eventual		<-->	adjective+C1    
+eventually		<-->	adverb+B1    
+(every) now and again/then		<-->	idiom+B2
+(every) now and then/again		<-->	idiom+B2
+every other		<-->	idiom+B2
+fall		<-->	noun+A2    
+far		<-->	adverb+B1    
+February		<-->	noun+A1    
+financial year		<-->	noun+C1    
+fiscal year		<-->	noun+C2    
+for the meantime/meanwhile		<-->	idiom+C1
+for the meanwhile/meantime		<-->	idiom+C1
+for the moment/present		<-->	idiom+B2
+for the time being		<-->	idiom+C1
+fortnight		<-->	noun+B2    
+frequent		<-->	adjective+B2    
+Friday		<-->	noun+A1    
+from day to day		<-->	idiom+C2
+from one day to the next		<-->	idiom+C2
+from that day/time forth		<-->	idiom+C2
+from that time/day forth		<-->	idiom+C2
+from time to time		<-->	idiom+C1
+GMT		<-->	abbreviation+CC2    
+Gregorian calendar		<-->	noun+C2    
+half-century		<-->	noun+C1    
+half hour		<-->	noun+B1    
+half-hourly		<-->	adverb+C2    
+half-hourly		<-->	adjective+C2    
+half past one, two, etc.		<-->	idiom+A1
+half-yearly		<-->	adverb+C2    
+half-yearly		<-->	adjective+C2    
+hour		<-->	noun+A1    
+hourly		<-->	adjective+B2    
+hourly		<-->	adverb+B2    
+immediate		<-->	adjective+B1    
+immediately		<-->	adverb+A2    
+in		<-->	preposition+A1    
+indefinite		<-->	adjective+C1    
+indefinitely		<-->	adverb+C1    
+in due course		<-->	idiom+C1
+in future		<-->	idiom+B1
+in good time		<-->	idiom+C1
+in/over the course of…		<-->	idiom+C1
+instant		<-->	adjective+B2    
+instant		<-->	noun+C1    
+in the course of time		<-->	idiom+C1
+in the end		<-->	idiom+A2
+in the fullness of time		<-->	idiom+C2
+in the meantime/meanwhile		<-->	idiom+C1
+in the meanwhile/meantime		<-->	idiom+C1
+in the morning		<-->	idiom+A1
+in time		<-->	idiom+C2
+in time (for something/to do something)		<-->	idiom+B1
+January		<-->	noun+A1    
+Julian calendar		<-->	noun+C2    
+July		<-->	noun+A1    
+June		<-->	noun+A1    
+just		<-->	adverb+A1    
+keep… hours		<-->	idiom+C1
+lastdeterminerA1    
+lastverbA2    
+late		<-->	adjective+A1    
+late		<-->	adverb+A1    
+lately		<-->	adverb+B2    
+lateness		<-->	noun+B2    
+later		<-->	adjective+A2    
+later on		<-->	idiom+B2
+latter		<-->	adjective+C1    
+latterly		<-->	adverb+C2    
+leap year		<-->	noun+C1    
+local time		<-->	noun+B2    
+long-term		<-->	adjective+B2    
+lunar cycle		<-->	noun+C2    
+lunar day		<-->	noun+C2    
+lunar month		<-->	noun+C2    
+lunar year		<-->	noun+C2    
+lunchtime		<-->	noun+A2    
+March		<-->	noun+A1    
+May		<-->	noun+A1    
+MDT		<-->	abbreviation+CC2    
+medium-term		<-->	adjective+C1    
+microsecond		<-->	noun+C2    
+midday		<-->	noun+B1    
+midnight		<-->	noun+A1    
+midsummer		<-->	noun+C1    
+midway		<-->	adverb+C2    
+midwinter		<-->	noun+C1    
+millennial		<-->	adjective+C2    
+millennium		<-->	noun+B2    
+millisecond		<-->	noun+C2    
+minute		<-->	noun+A1    
+minute hand		<-->	noun+C2    
+mo		<-->	noun+C2    
+moment		<-->	noun+A1    
+Monday		<-->	noun+A1    
+month		<-->	noun+A1    
+monthly		<-->	adjective+B2    
+monthly		<-->	adverb+B2    
+morning		<-->	noun+A1    
+morning, noon and night		<-->	idiom+C2
+morrow		<-->	noun+C2    
+Mountain Daylight Time		<-->	noun+C2    
+Mountain Standard Time		<-->	noun+C2    
+nanosecond		<-->	noun+C2    
+near		<-->	preposition+B1    
+never		<-->	adverb+A1    
+next up		<-->	idiom+C1
+night		<-->	noun+A1    
+nightly		<-->	adjective+C1    
+night-time		<-->	noun+B1    
+noon		<-->	noun+C1    
+noontide		<-->	noun+C2    
+November		<-->	noun+A1    
+occasional		<-->	adjective+C1    
+October		<-->	noun+A1    
+of all time		<-->	idiom+B1
+often		<-->	adverb+A1    
+on		<-->	preposition+A1    
+on time		<-->	idiom+A2
+o’clock		<-->	adverb+A1    
+Pacific Daylight Time		<-->	noun+C2    
+Pacific Standard Time		<-->	noun+C2    
+past		<-->	preposition+A1    
+perennial		<-->	adjective+C2    
+period		<-->	noun+A1    
+perpetual		<-->	adjective+C2    
+predawn		<-->	adjective+C2    
+present		<-->	adjective+A1    
+quarter		<-->	noun+A1    
+rare		<-->	adjective+B1    
+recent		<-->	adjective+A2    
+recently		<-->	adverb+A2    
+regular		<-->	adjective+A2    
+regularly		<-->	adverb+B1    
+round-the-clock		<-->	adjective+C2    
+Saturday		<-->	noun+A1    
+season		<-->	noun+A2    
+seasonal		<-->	adjective+C1    
+seasonality		<-->	noun+C2    
+sec		<-->	noun+C2    
+second		<-->	noun+A1    
+second hand		<-->	noun+C2    
+semester		<-->	noun+B1    
+September		<-->	noun+A1    
+session		<-->	noun+B2    
+short-range		<-->	adjective+C2    
+short-term		<-->	adjective+B2    
+simultaneous		<-->	adjective+C1    
+simultaneously		<-->	adverb+C1    
+since		<-->	preposition+A2    
+sinceconjunctionA2    
+solar year		<-->	noun+C2    
+solstice		<-->	noun+C1    
+sometimes		<-->	adverb+A1    
+spasmodic		<-->	adjective+C2    
+spell		<-->	noun+C1    
+spring		<-->	noun+A1    
+springtime		<-->	noun+B1    
+the noughties		<-->	noun+C2    
+stretch		<-->	noun+C2    
+subsequently		<-->	adverb+B2    
+sudden		<-->	adjective+B1    
+suddenly		<-->	adverb+A2    
+summer		<-->	noun+A1    
+summer time		<-->	noun+C2    
+summertime		<-->	noun+B1    
+Sunday		<-->	noun+A1    
+sunrise		<-->	noun+B2    
+sunset		<-->	noun+B2    
+tax year		<-->	noun+C1    
+term		<-->	noun+B1    
+termly		<-->	adjective+C2    
+term time		<-->	noun+B2    
+term-time		<-->	adjective+B2    
+the other day/morning/evening/week		<-->	idiom+B1
+the small/early hours		<-->	idiom+C2
+through		<-->	adverb+A2    
+throughout		<-->	preposition+B1    
+Thursday		<-->	noun+A1    
+time		<-->	noun+A1    
+time after time		<-->	idiom+B2
+time lag		<-->	noun+C2    
+time span		<-->	noun+C2    
+time zone		<-->	noun+B2    
+to date		<-->	idiom+C1
+today		<-->	adverb+A1    
+today		<-->	noun+A1    
+today, tomorrow, Monday, etc. week		<-->	idiom+C1
+tomorrow		<-->	adverb+A1    
+tomorrow		<-->	noun+A1    
+tonight		<-->	noun+A1    
+triennial		<-->	adjective+C2    
+trimester		<-->	noun+C2    
+Tuesday		<-->	noun+A1    
+twelvemonth		<-->	noun+C2    
+twenty-four seven		<-->	adverb+C2    
+Universal Coordinated Time		<-->	noun+C2    
+usually		<-->	adverb+A1    
+UTC		<-->	abbreviation+CC2    
+Wednesday		<-->	noun+A1    
+week		<-->	noun+A1    
+weekday		<-->	noun+B1    
+weekdays		<-->	adverb+B2    
+weekend		<-->	noun+A1    
+weekly		<-->	adjective+B2    
+while		<-->	noun+B1    
+winter		<-->	noun+A1    
+wintertime		<-->	noun+B1    
+year		<-->	noun+A1    
+year after year		<-->	idiom+B2
+year by year		<-->	idiom+C2
+year in, year out		<-->	idiom+C2
+year-long		<-->	adjective+C1    
+yearly		<-->	adverb+C1    
+yearly		<-->	adjective+C1    
+year-round		<-->	adjective+C1    
+yesterday		<-->	adverb+A1    
+yesterday		<-->	noun+A1    
+yet		<-->	adverb+A2    
+yonks		<-->	noun+C2    

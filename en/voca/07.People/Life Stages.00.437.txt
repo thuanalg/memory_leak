@@ -1,0 +1,437 @@
+abort		<-->	verb+C2[-0]	.
+abortion		<-->	noun+C1[-0]	.
+adolescence		<-->	noun+C1[-0]	.
+adolescent		<-->	noun+C1[-0]	.
+adolescent		<-->	adjective+B2[-0]	.
+adopt		<-->	verb+B2[-0]	.
+adoption		<-->	noun+C1[-0]	.
+adoptive		<-->	adjective+C1[-0]	.
+adult		<-->	noun+A1[-0]	.
+adulthood		<-->	noun+B2[-0]	.
+adulting		<-->	noun+C2[-0]	.
+afterbirth		<-->	noun+C2[-0]	.
+aged		<-->	adjective+C1[-0]	.
+ageless		<-->	adjective+C2[-0]	.
+Alzheimer’s		<-->	noun+C2[-0]	.
+anniversary		<-->	noun+B2[-0]	.
+antenatal		<-->	adjective+C2[-0]	.
+arranged marriage		<-->	noun+B2[-0]	.
+arthritis		<-->	noun+C2[-0]	.
+ash		<-->	noun+C2[-0]	.
+a/somebody’s second childhood		<-->	idiom+C2[-0]	.
+assisted dying		<-->	noun+C2[-0]	.
+at rest		<-->	idiom+C2[-0]	.
+au pair		<-->	noun+C1[-0]	.
+autopsy		<-->	noun+C2[-0]	.
+baby		<-->	noun+A1[-0]	.
+baby blues		<-->	noun+C2[-0]	.
+baby buggy		<-->	noun+C2[-0]	.
+baby-faced		<-->	adjective+C1[-0]	.
+babyhood		<-->	noun+C1[-0]	.
+babysit		<-->	verb+B2[-0]	.
+babysitter		<-->	noun+B2[-0]	.
+babysitting		<-->	noun+B2[-0]	.
+bachelor		<-->	noun+C2[-0]	.
+bachelorette		<-->	noun+C2[-0]	.
+bachelorette party		<-->	noun+C2[-0]	.
+bachelorhood		<-->	noun+C2[-0]	.
+bachelor party		<-->	noun+C2[-0]	.
+be expecting (a baby/child)		<-->	idiom+CA2[-0]	.
+best man		<-->	noun+C1[-0]	.
+best woman		<-->	noun+C1[-0]	.
+be with child		<-->	idiom+C2[-0]	.
+bier		<-->	noun+C2[-0]	.
+bigamous		<-->	adjective+C2[-0]	.
+birth		<-->	noun+A2[-0]	.
+birth father		<-->	noun+C1[-0]	.
+birthing		<-->	noun+C2[-0]	.
+birth mother		<-->	noun+C1[-0]	.
+birthweight		<-->	noun+C2[-0]	.
+born		<-->	verb+A1[-0]	.
+bottle		<-->	noun+B2[-0]	.
+bottle-feed		<-->	verb+C1[-0]	.
+boy		<-->	noun+A1[-0]	.
+boyhood		<-->	noun+C1[-0]	.
+breadwinner		<-->	noun+C1[-0]	.
+break		<-->	verb+C2[-0]	.
+breastfeed		<-->	verb+C1[-0]	.
+breech birth		<-->	noun+C2[-0]	.
+bridal		<-->	adjective+C2[-0]	.
+bride		<-->	noun+B1[-0]	.
+bridegroom		<-->	noun+B2[-0]	.
+bridesmaid		<-->	noun+B2[-0]	.
+bring up		<-->	phrasal verb+B2[-0]	.
+buggy		<-->	noun+C2[-0]	.
+burial		<-->	noun+C1[-0]	.
+burial ground		<-->	noun+C2[-0]	.
+bury		<-->	verb+B1[-0]	.
+cadaver		<-->	noun+C2[-0]	.
+care		<-->	noun+A2[-0]	.
+care home		<-->	noun+C1[-0]	.
+carry		<-->	verb+C2[-0]	.
+carrycot		<-->	noun+C2[-0]	.
+casket		<-->	noun+C2[-0]	.
+catacombs		<-->	noun+C2[-0]	.
+catafalque		<-->	noun+C2[-0]	.
+cemetery		<-->	noun+C1[-0]	.
+centenarian		<-->	noun+C2[-0]	.
+ceremony		<-->	noun+B1[-0]	.
+certificate		<-->	noun+B2[-0]	.
+cesarean		<-->	noun+C2[-0]	.
+cesarian		<-->	noun+C2[-0]	.
+chapel of rest		<-->	noun+C2[-0]	.
+child		<-->	noun+A1[-0]	.
+childbearing		<-->	noun+C2[-0]	.
+childbirth		<-->	noun+B2[-0]	.
+childcare		<-->	noun+B2[-0]	.
+childhood		<-->	noun+B1[-0]	.
+childish		<-->	adjective+B2[-0]	.
+childminder		<-->	noun+C1[-0]	.
+childproof		<-->	adjective+C2[-0]	.
+civil marriage		<-->	noun+C1[-0]	.
+civil partnership		<-->	noun+C1[-0]	.
+coddle		<-->	verb+C2[-0]	.
+coffin		<-->	noun+C1[-0]	.
+committal		<-->	noun+C2[-0]	.
+conceive		<-->	verb+C1[-0]	.
+conception		<-->	noun+C1[-0]	.
+confetti		<-->	noun+C2[-0]	.
+confinement		<-->	noun+C2[-0]	.
+conjugal		<-->	adjective+C2[-0]	.
+connubial		<-->	adjective+C2[-0]	.
+consummate		<-->	verb+C2[-0]	.
+consummation		<-->	noun+C2[-0]	.
+contraction		<-->	noun+C2[-0]	.
+co-parent		<-->	noun+C1[-0]	.
+co-parent		<-->	verb+C1[-0]	.
+co-parenting		<-->	noun+C1[-0]	.
+corpse		<-->	noun+C2[-0]	.
+cot		<-->	noun+C1[-0]	.
+cradle		<-->	noun+C1[-0]	.
+crawl		<-->	verb+C1[-0]	.
+cremains		<-->	noun+C2[-0]	.
+cremate		<-->	verb+C2[-0]	.
+cremation		<-->	noun+C2[-0]	.
+crematorium		<-->	noun+C2[-0]	.
+crib		<-->	noun+C1[-0]	.
+crèche		<-->	noun+C2[-0]	.
+curfew		<-->	noun+C1[-0]	.
+day nursery		<-->	noun+C1[-0]	.
+dead		<-->	adjective+A2[-0]	.
+death		<-->	noun+A2[-0]	.
+deceased		<-->	adjective+C2[-0]	.
+deliver		<-->	verb+C2[-0]	.
+delivery		<-->	noun+C2[-0]	.
+dementia		<-->	noun+C2[-0]	.
+departed		<-->	adjective+C2[-0]	.
+depart this life		<-->	idiom+C2[-0]	.
+dependant		<-->	noun+C2[-0]	.
+diamond wedding		<-->	noun+C2[-0]	.
+diaper		<-->	noun+C1[-0]	.
+diaper rash		<-->	noun+C2[-0]	.
+die		<-->	verb+A1[-0]	.
+discipline		<-->	verb+C2[-0]	.
+doddering		<-->	adjective+C2[-0]	.
+dotage		<-->	noun+C2[-0]	.
+doula		<-->	noun+C2[-0]	.
+dowry		<-->	noun+C2[-0]	.
+dummy		<-->	noun+C2[-0]	.
+elder		<-->	adjective+C1[-0]	.
+elder		<-->	noun+C1[-0]	.
+elderly		<-->	adjective+B2[-0]	.
+engaged		<-->	adjective+B1[-0]	.
+engagement		<-->	noun+C1[-0]	.
+engagement ring		<-->	noun+C1[-0]	.
+epitaph		<-->	noun+C2[-0]	.
+extramarital		<-->	adjective+C2[-0]	.
+family		<-->	noun+A1[-0]	.
+father		<-->	noun+A1[-0]	.
+fatherhood		<-->	noun+C1[-0]	.
+feed		<-->	noun+B2[-0]	.
+fiancé		<-->	noun+C1[-0]	.
+fiancée		<-->	noun+C1[-0]	.
+forceps		<-->	noun+C2[-0]	.
+foster		<-->	verb+C1[-0]	.
+fresh-faced		<-->	adjective+C2[-0]	.
+full-term		<-->	adjective+C2[-0]	.
+funeral		<-->	noun+C1[-0]	.
+funeral director		<-->	noun+C2[-0]	.
+gawky		<-->	adjective+C2[-0]	.
+geriatric		<-->	noun+C2[-0]	.
+geriatric		<-->	adjective+C2[-0]	.
+gerontology		<-->	noun+C2[-0]	.
+get hitched		<-->	idiom+C2[-0]	.
+girl		<-->	noun+A1[-0]	.
+girlhood		<-->	noun+C1[-0]	.
+give away		<-->	phrasal verb+C2[-0]	.
+godparent		<-->	noun+C2[-0]	.
+golden wedding		<-->	noun+C2[-0]	.
+go/walk down the aisle		<-->	idiom+C2[-0]	.
+grave		<-->	noun+C1[-0]	.
+gravestone		<-->	noun+C2[-0]	.
+graveyard		<-->	noun+C1[-0]	.
+gray		<-->	adjective+A1[-0]	.
+grey		<-->	adjective+A1[-0]	.
+grey		<-->	verb+B2[-0]	.
+groom		<-->	noun+B2[-0]	.
+groomsman		<-->	noun+C2[-0]	.
+ground		<-->	verb+C2[-0]	.
+growing pains		<-->	noun+C2[-0]	.
+grow into		<-->	phrasal verb+C2[-0]	.
+grown-up		<-->	adjective+B2[-0]	.
+grown-up		<-->	noun+B2[-0]	.
+grow out of		<-->	phrasal verb+C1[-0]	.
+grow up		<-->	phrasal verb+A1[-0]	.
+guardian		<-->	noun+C2[-0]	.
+hearse		<-->	noun+C2[-0]	.
+hen party		<-->	noun+C2[-0]	.
+homeschool		<-->	verb+C1[-0]	.
+homeschooling		<-->	noun+C1[-0]	.
+honeymoon		<-->	noun+B2[-0]	.
+housewife		<-->	noun+B1[-0]	.
+immature		<-->	adjective+B2[-0]	.
+incubator		<-->	noun+C2[-0]	.
+induce		<-->	verb+C2[-0]	.
+induction		<-->	noun+C2[-0]	.
+infancy		<-->	noun+C1[-0]	.
+infant		<-->	noun+C1[-0]	.
+infirm		<-->	adjective+C2[-0]	.
+ingénue		<-->	noun+C2[-0]	.
+innocent		<-->	adjective+B2[-0]	.
+inter		<-->	verb+C2[-0]	.
+interment		<-->	noun+C2[-0]	.
+juvenile		<-->	adjective+C1[-0]	.
+kid		<-->	noun+A2[-0]	.
+labor		<-->	noun+C2[-0]	.
+labour		<-->	noun+C2[-0]	.
+lad		<-->	noun+C1[-0]	.
+lass		<-->	noun+C2[-0]	.
+lone parent		<-->	noun+C2[-0]	.
+lone-parent family		<-->	noun+C2[-0]	.
+love match		<-->	noun+C2[-0]	.
+lullaby		<-->	noun+C2[-0]	.
+lying-in		<-->	noun+C2[-0]	.
+maid of honour		<-->	noun+C2[-0]	.
+man		<-->	noun+A1[-0]	.
+manhood		<-->	noun+C2[-0]	.
+marital		<-->	adjective+C1[-0]	.
+marriage		<-->	noun+B1[-0]	.
+marriageable		<-->	adjective+C2[-0]	.
+marriage counselling		<-->	noun+C2[-0]	.
+marriage guidance		<-->	noun+C2[-0]	.
+marriage lines		<-->	noun+C2[-0]	.
+marriage of convenience		<-->	noun+C2[-0]	.
+married		<-->	adjective+A1[-0]	.
+marry		<-->	verb+A2[-0]	.
+match		<-->	noun+C2[-0]	.
+maternity leave		<-->	noun+C1[-0]	.
+matrimonial		<-->	adjective+C2[-0]	.
+matrimony		<-->	noun+C2[-0]	.
+matronly		<-->	adjective+C2[-0]	.
+maturation		<-->	noun+C2[-0]	.
+mature		<-->	adjective+C1[-0]	.
+mature		<-->	verb+C1[-0]	.
+maturity		<-->	noun+C1[-0]	.
+mausoleum		<-->	noun+C2[-0]	.
+menopausal		<-->	adjective+C2[-0]	.
+menopause		<-->	noun+C2[-0]	.
+middle age		<-->	noun+B2[-0]	.
+middle-aged		<-->	adjective+B2[-0]	.
+middle-age spread		<-->	noun+C2[-0]	.
+midlife		<-->	noun+C2[-0]	.
+midlife crisis		<-->	noun+C2[-0]	.
+midwife		<-->	noun+C2[-0]	.
+minor		<-->	noun+C2[-0]	.
+miscarriage		<-->	noun+C2[-0]	.
+miscarry		<-->	verb+C2[-0]	.
+mollycoddle		<-->	verb+C2[-0]	.
+morgue		<-->	noun+C2[-0]	.
+morning sickness		<-->	noun+C2[-0]	.
+mortal		<-->	adjective+C2[-0]	.
+mortician		<-->	noun+C2[-0]	.
+mortuary		<-->	noun+C2[-0]	.
+mother		<-->	noun+A1[-0]	.
+motherhood		<-->	noun+C1[-0]	.
+mothering		<-->	noun+C2[-0]	.
+mother-to-be		<-->	noun+C2[-0]	.
+mourner		<-->	noun+C2[-0]	.
+mummify		<-->	verb+C2[-0]	.
+naive		<-->	adjective+C1[-0]	.
+nanny		<-->	noun+C1[-0]	.
+nappy		<-->	noun+C1[-0]	.
+nappy rash		<-->	noun+C2[-0]	.
+natal		<-->	adjective+C2[-0]	.
+natural childbirth		<-->	noun+C1[-0]	.
+neonate		<-->	noun+C2[-0]	.
+newborn		<-->	adjective+C1[-0]	.
+newly-wed		<-->	noun+C2[-0]	.
+newly-wed		<-->	adjective+C2[-0]	.
+nuclear family		<-->	noun+C1[-0]	.
+nuptial		<-->	adjective+C2[-0]	.
+nuptials		<-->	noun+C2[-0]	.
+nursery		<-->	noun+C1[-0]	.
+nursing home		<-->	noun+C1[-0]	.
+nurture		<-->	verb+C1[-0]	.
+nurture		<-->	noun+C1[-0]	.
+OAP		<-->	noun+C2[-0]	.
+obstetric		<-->	adjective+C2[-0]	.
+obstetrics		<-->	noun+C2[-0]	.
+old		<-->	adjective+A1[-0]	.
+old age		<-->	noun+B1[-0]	.
+old-age pensioner		<-->	noun+C2[-0]	.
+old people’s home		<-->	noun+C1[-0]	.
+one-parent family		<-->	noun+B2[-0]	.
+orphan		<-->	noun+C1[-0]	.
+pageboy		<-->	noun+C2[-0]	.
+parent		<-->	noun+A1[-0]	.
+parent		<-->	verb+C1[-0]	.
+parental		<-->	adjective+C1[-0]	.
+parenthood		<-->	noun+C1[-0]	.
+parenting		<-->	noun+C1[-0]	.
+partner		<-->	noun+A2[-0]	.
+pass away		<-->	phrasal verb+C1[-0]	.
+paternity leave		<-->	noun+C1[-0]	.
+pension		<-->	noun+B2[-0]	.
+pensioner		<-->	noun+C1[-0]	.
+pension off		<-->	phrasal verb+C2[-0]	.
+perinatal		<-->	adjective+C2[-0]	.
+placenta		<-->	noun+C2[-0]	.
+playground		<-->	noun+B1[-0]	.
+playgroup		<-->	noun+C1[-0]	.
+playpen		<-->	noun+C2[-0]	.
+playroom		<-->	noun+B2[-0]	.
+playscheme		<-->	noun+C2[-0]	.
+playschool		<-->	noun+C1[-0]	.
+post-mortem		<-->	noun+C2[-0]	.
+postnatal		<-->	adjective+C2[-0]	.
+postnatal depression		<-->	noun+C2[-0]	.
+post-partum		<-->	adjective+C2[-0]	.
+potty-train		<-->	verb+C2[-0]	.
+potty-training		<-->	noun+C2[-0]	.
+pram		<-->	noun+C2[-0]	.
+pregnancy		<-->	noun+C1[-0]	.
+pregnant		<-->	adjective+B2[-0]	.
+premature		<-->	adjective+C1[-0]	.
+prenatal		<-->	adjective+C2[-0]	.
+prenuptial agreement		<-->	noun+C2[-0]	.
+pre-teen		<-->	adjective+C2[-0]	.
+pre-teen		<-->	noun+C2[-0]	.
+proposal		<-->	noun+B2[-0]	.
+propose		<-->	verb+B2[-0]	.
+puberty		<-->	noun+C2[-0]	.
+pubescent		<-->	adjective+C2[-0]	.
+pushchair		<-->	noun+C2[-0]	.
+pyre		<-->	noun+C2[-0]	.
+raise		<-->	verb+B2[-0]	.
+rear		<-->	verb+C2[-0]	.
+reception		<-->	noun+B1[-0]	.
+registry office		<-->	noun+C1[-0]	.
+remains		<-->	noun+C1[-0]	.
+remembrance		<-->	noun+C2[-0]	.
+reminisce		<-->	verb+C1[-0]	.
+reminiscence		<-->	noun+C2[-0]	.
+retire		<-->	verb+B1[-0]	.
+retirement		<-->	noun+B2[-0]	.
+retirement community		<-->	noun+C1[-0]	.
+retirement home		<-->	noun+B2[-0]	.
+ring		<-->	noun+A2[-0]	.
+ring bearer		<-->	noun+C2[-0]	.
+role model		<-->	noun+B2[-0]	.
+rompers		<-->	noun+C2[-0]	.
+ruby wedding		<-->	noun+C2[-0]	.
+sarcophagus		<-->	noun+C2[-0]	.
+scan		<-->	noun+B2[-0]	.
+school day		<-->	noun+B1[-0]	.
+senile		<-->	adjective+C2[-0]	.
+senility		<-->	noun+C2[-0]	.
+senior		<-->	adjective+C1[-0]	.
+senior		<-->	noun+C1[-0]	.
+senior citizen		<-->	noun+C1[-0]	.
+senior moment		<-->	noun+C2[-0]	.
+sepulchre		<-->	noun+C2[-0]	.
+settle down		<-->	phrasal verb+C1[-0]	.
+shotgun wedding		<-->	noun+C2[-0]	.
+shower		<-->	noun+C2[-0]	.
+shroud		<-->	noun+C2[-0]	.
+SIDS		<-->	noun+C2[-0]	.
+silver wedding		<-->	noun+C2[-0]	.
+single parent		<-->	noun+B2[-0]	.
+single-parent family		<-->	noun+B1[-0]	.
+sleepsuit		<-->	noun+C2[-0]	.
+smack		<-->	verb+C2[-0]	.
+smacking		<-->	noun+C2[-0]	.
+socialization		<-->	noun+C1[-0]	.
+somebody’s waters break		<-->	idiom+C2[-0]	.
+soother		<-->	noun+C2[-0]	.
+spank		<-->	verb+C2[-0]	.
+spanking		<-->	noun+C2[-0]	.
+sperm bank		<-->	noun+C2[-0]	.
+spoon-feed		<-->	verb+C2[-0]	.
+sprightliness		<-->	noun+C2[-0]	.
+sprightly		<-->	adjective+C2[-0]	.
+spry		<-->	adjective+C2[-0]	.
+stag night		<-->	noun+C2[-0]	.
+stay-at-home		<-->	adjective+C1[-0]	.
+stillbirth		<-->	noun+C2[-0]	.
+stretch marks		<-->	noun+C2[-0]	.
+stroller		<-->	noun+C2[-0]	.
+suckle		<-->	verb+C2[-0]	.
+suckling		<-->	noun+C2[-0]	.
+surrogacy		<-->	noun+C2[-0]	.
+surrogate		<-->	adjective+C2[-0]	.
+tantrum		<-->	noun+C2[-0]	.
+tearaway		<-->	noun+C2[-0]	.
+teenage		<-->	adjective+A2[-0]	.
+teenager		<-->	noun+A1[-0]	.
+teens		<-->	noun+B2[-0]	.
+teethe		<-->	verb+C2[-0]	.
+telling-off		<-->	noun+C2[-0]	.
+terminate		<-->	verb+C1[-0]	.
+termination		<-->	noun+C2[-0]	.
+test-tube baby		<-->	noun+C2[-0]	.
+toast		<-->	verb+C2[-0]	.
+toddle		<-->	verb+C2[-0]	.
+toddler		<-->	noun+C1[-0]	.
+toilet-train		<-->	verb+C2[-0]	.
+toilet-training		<-->	noun+C2[-0]	.
+tot		<-->	noun+C2[-0]	.
+trimester		<-->	noun+C2[-0]	.
+tween		<-->	noun+C2[-0]	.
+umbilical cord		<-->	noun+C2[-0]	.
+unborn		<-->	adjective+C1[-0]	.
+underage		<-->	adjective+C1[-0]	.
+undertaker		<-->	noun+C2[-0]	.
+union		<-->	noun+C2[-0]	.
+unmarried		<-->	adjective+B1[-0]	.
+upbringing		<-->	noun+B2[-0]	.
+urn		<-->	noun+C2[-0]	.
+venerable		<-->	adjective+C2[-0]	.
+vow		<-->	verb+C1[-0]	.
+vow		<-->	noun+C1[-0]	.
+wake		<-->	noun+C2[-0]	.
+walker		<-->	noun+C2[-0]	.
+ward		<-->	noun+C2[-0]	.
+wardship		<-->	noun+C2[-0]	.
+wedding		<-->	noun+A2[-0]	.
+wedding anniversary		<-->	noun+B2[-0]	.
+wedding band		<-->	noun+C2[-0]	.
+wedding cake		<-->	noun+A2[-0]	.
+wedding dress		<-->	noun+A2[-0]	.
+wedding ring		<-->	noun+A2[-0]	.
+wedlock		<-->	noun+C2[-0]	.
+white wedding		<-->	noun+C2[-0]	.
+widow		<-->	noun+C1[-0]	.
+widower		<-->	noun+C1[-0]	.
+widowhood		<-->	noun+C2[-0]	.
+winding sheet		<-->	noun+C2[-0]	.
+wisdom		<-->	noun+B2[-0]	.
+wise		<-->	adjective+B2[-0]	.
+wizened		<-->	adjective+C2[-0]	.
+woman		<-->	noun+A1[-0]	.
+womanhood		<-->	noun+C2[-0]	.
+wunderkind		<-->	noun+C2[-0]	.
+young		<-->	adjective+A1[-0]	.
+young adult		<-->	noun+A2[-0]	.
+youngster		<-->	noun+C1[-0]	.
+youth		<-->	noun+B1[-0]	.
+youthful		<-->	adjective+C1    

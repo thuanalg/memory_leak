@@ -1,0 +1,3465 @@
+	2022-07-01[-0]	.
+
+
+
+
+
+50-yard line		<-->	noun+C1[-0]	.
+
+
+
+
+
+ace		<-->	noun+C2[-0]	.
+
+
+
+
+
+advantage		<-->	noun+C2[-0]	.
+
+
+
+
+
+air ball		<-->	noun+C2[-0]	.
+
+
+
+
+
+alley		<-->	noun+C2[-0]	.
+
+
+
+
+
+alley-oop		<-->	exclamation+C2[-0]	.
+
+
+
+
+
+alley-oop		<-->	noun+C2[-0]	.
+
+
+
+
+
+American football		<-->	noun+A2[-0]	.
+
+
+
+
+
+area		<-->	noun+C1[-0]	.
+
+
+
+
+
+assist		<-->	noun+C2[-0]	.
+
+
+
+
+
+assistant referee		<-->	noun+B2[-0]	.
+
+
+
+
+
+Association football		<-->	noun+A1[-0]	.
+
+
+
+
+
+at-bat		<-->	noun+C2[-0]	.
+
+
+
+
+
+at bat		<-->	idiom+C2[-0]	.
+
+
+
+
+
+at home		<-->	idiom+C1[-0]	.
+
+
+
+
+
+attack		<-->	verb+B2[-0]	.
+
+
+
+
+
+attacker		<-->	noun+B2[-0]	.
+
+
+
+
+
+away		<-->	111+B2[-0]	.
+
+
+
+
+
+away		<-->	adjective+B2[-0]	.
+
+
+
+
+
+away from home		<-->	idiom+B2[-0]	.
+
+
+
+
+
+backboard		<-->	noun+C2[-0]	.
+
+
+
+
+
+backcourt		<-->	noun+C2[-0]	.
+
+
+
+
+
+backfield		<-->	noun+C2[-0]	.
+
+
+
+
+
+backhand		<-->	noun+C2[-0]	.
+
+
+
+
+
+backline		<-->	noun+C2[-0]	.
+
+
+
+
+
+backstop		<-->	noun+C2[-0]	.
+
+
+
+
+
+back-to-back		<-->	noun+C2[-0]	.
+
+
+
+
+
+badminton		<-->	noun+C1[-0]	.
+
+
+
+
+
+bail		<-->	noun+C2[-0]	.
+
+
+
+
+
+ball		<-->	noun+A1[-0]	.
+
+
+
+
+
+ballboy		<-->	noun+C2[-0]	.
+
+
+
+
+
+ball game		<-->	noun+B2[-0]	.
+
+
+
+
+
+ballgirl		<-->	noun+C2[-0]	.
+
+
+
+
+
+ballhawk		<-->	noun+C2[-0]	.
+
+
+
+
+
+ball hockey		<-->	noun+C2[-0]	.
+
+
+
+
+
+ballpark		<-->	noun+B2[-0]	.
+
+
+
+
+
+ballplayer		<-->	noun+C2[-0]	.
+
+
+
+
+
+base		<-->	noun+C1[-0]	.
+
+
+
+
+
+baseball		<-->	noun+A2[-0]	.
+
+
+
+
+
+baseline		<-->	noun+C2[-0]	.
+
+
+
+
+
+baseman		<-->	noun+C2[-0]	.
+
+
+
+
+
+basket		<-->	noun+B2[-0]	.
+
+
+
+
+
+basketball		<-->	noun+A2[-0]	.
+
+
+
+
+
+bat		<-->	noun+B2[-0]	.
+
+
+
+
+
+batboy		<-->	noun+C2[-0]	.
+
+
+
+
+
+batgirl		<-->	noun+C2[-0]	.
+
+
+
+
+
+batsman		<-->	noun+C2[-0]	.
+
+
+
+
+
+batswoman		<-->	noun+C2[-0]	.
+
+
+
+
+
+batter		<-->	noun+C1[-0]	.
+
+
+
+
+
+batting average		<-->	noun+C2[-0]	.
+
+
+
+
+
+bench		<-->	noun+C1[-0]	.
+
+
+
+
+
+big league		<-->	noun+C2[-0]	.
+
+
+
+
+
+birdie		<-->	noun+C2[-0]	.
+
+
+
+
+
+bogey		<-->	noun+C2[-0]	.
+
+
+
+
+
+bomb		<-->	noun+C2[-0]	.
+
+
+
+
+
+book		<-->	verb+C1[-0]	.
+
+
+
+
+
+booking		<-->	noun+C1[-0]	.
+
+
+
+
+
+bouncer		<-->	noun+C1[-0]	.
+
+
+
+
+
+boundary		<-->	noun+C2[-0]	.
+
+
+
+
+
+bowl		<-->	noun+C2[-0]	.
+
+
+
+
+
+bowler		<-->	noun+C1[-0]	.
+
+
+
+
+
+bowling		<-->	noun+C1[-0]	.
+
+
+
+
+
+bowling ball		<-->	noun+B2[-0]	.
+
+
+
+
+
+box		<-->	noun+C2[-0]	.
+
+
+
+
+
+box score		<-->	noun+C2[-0]	.
+
+
+
+
+
+break		<-->	noun+C2[-0]	.
+
+
+
+
+
+break point		<-->	noun+C2[-0]	.
+
+
+
+
+
+brushback		<-->	noun+C2[-0]	.
+
+
+
+
+
+bullpen		<-->	noun+C2[-0]	.
+
+
+
+
+
+bunker		<-->	noun+C2[-0]	.
+
+
+
+
+
+bunt		<-->	verb+C2[-0]	.
+
+
+
+
+
+caddie		<-->	noun+C2[-0]	.
+
+
+
+
+
+cap		<-->	verb+C2[-0]	.
+
+
+
+
+
+captain		<-->	noun+B1[-0]	.
+
+
+
+
+
+cart		<-->	noun+C1[-0]	.
+
+
+
+
+
+catch		<-->	verb+A2[-0]	.
+
+
+
+
+
+catcher		<-->	noun+B2[-0]	.
+
+
+
+
+
+centre back		<-->	noun+C2[-0]	.
+
+
+
+
+
+centre field		<-->	noun+C2[-0]	.
+
+
+
+
+
+centre forward		<-->	noun+C2[-0]	.
+
+
+
+
+
+centre half		<-->	noun+C2[-0]	.
+
+
+
+
+
+century		<-->	noun+C2[-0]	.
+
+
+
+
+
+chip		<-->	noun+C2[-0]	.
+
+
+
+
+
+chip		<-->	verb+C2[-0]	.
+
+
+
+
+
+chip shot		<-->	noun+C2[-0]	.
+
+
+
+
+
+clay court		<-->	noun+C1[-0]	.
+
+
+
+
+
+clear		<-->	verb+C2[-0]	.
+
+
+
+
+
+clearance		<-->	noun+C2[-0]	.
+
+
+
+
+
+club		<-->	noun+A1[-0]	.
+
+
+
+
+
+clutch		<-->	adjective+C2[-0]	.
+
+
+
+
+
+coliseum		<-->	noun+C2[-0]	.
+
+
+
+
+
+commentary box		<-->	noun+C1[-0]	.
+
+
+
+
+
+competing		<-->	adjective+B1[-0]	.
+
+
+
+
+
+conversion		<-->	noun+C2[-0]	.
+
+
+
+
+
+convert		<-->	verb+C2[-0]	.
+
+
+
+
+
+corner		<-->	noun+B2[-0]	.
+
+
+
+
+
+cornerback		<-->	noun+C2[-0]	.
+
+
+
+
+
+corner kick		<-->	noun+B2[-0]	.
+
+
+
+
+
+course		<-->	noun+B1[-0]	.
+
+
+
+
+
+court		<-->	noun+B1[-0]	.
+
+
+
+
+
+court tennis		<-->	noun+C2[-0]	.
+
+
+
+
+
+crease		<-->	noun+C2[-0]	.
+
+
+
+
+
+cricket		<-->	noun+A2[-0]	.
+
+
+
+
+
+cricketer		<-->	noun+B1[-0]	.
+
+
+
+
+
+cricketing		<-->	adjective+B2[-0]	.
+
+
+
+
+
+cross		<-->	verb+C2[-0]	.
+
+
+
+
+
+cross		<-->	noun+C2[-0]	.
+
+
+
+
+
+cup		<-->	noun+A2[-0]	.
+
+
+
+
+
+curve		<-->	noun+C2[-0]	.
+
+
+
+
+
+daisy-cutter		<-->	noun+C2[-0]	.
+
+
+
+
+
+debutant		<-->	noun+C2[-0]	.
+
+
+
+
+
+debutante		<-->	noun+C2[-0]	.
+
+
+
+
+
+declare		<-->	verb+C2[-0]	.
+
+
+
+
+
+defence		<-->	noun+B2[-0]	.
+
+
+
+
+
+defend		<-->	verb+C1[-0]	.
+
+
+
+
+
+defender		<-->	noun+B2[-0]	.
+
+
+
+
+
+defense		<-->	noun+B2[-0]	.
+
+
+
+
+
+defensive line		<-->	noun+C2[-0]	.
+
+
+
+
+
+delivery		<-->	noun+C2[-0]	.
+
+
+
+
+
+deuce		<-->	noun+C2[-0]	.
+
+
+
+
+
+diamond		<-->	noun+C2[-0]	.
+
+
+
+
+
+dismiss		<-->	verb+C2[-0]	.
+
+
+
+
+
+dismissal		<-->	noun+C2[-0]	.
+
+
+
+
+
+dive		<-->	verb+C1[-0]	.
+
+
+
+
+
+division		<-->	noun+C2[-0]	.
+
+
+
+
+
+divot		<-->	noun+C2[-0]	.
+
+
+
+
+
+dog-leg		<-->	noun+C2[-0]	.
+
+
+
+
+
+double		<-->	noun+C1[-0]	.
+
+
+
+
+
+double fault		<-->	noun+C2[-0]	.
+
+
+
+
+
+double-fault		<-->	verb+C2[-0]	.
+
+
+
+
+
+double play		<-->	noun+C2[-0]	.
+
+
+
+
+
+down		<-->	noun+C2[-0]	.
+
+
+
+
+
+downswing		<-->	noun+C2[-0]	.
+
+
+
+
+
+draw		<-->	verb+C1[-0]	.
+
+
+
+
+
+draw		<-->	noun+C1[-0]	.
+
+
+
+
+
+dribble		<-->	verb+C2[-0]	.
+
+
+
+
+
+dribble		<-->	noun+C2[-0]	.
+
+
+
+
+
+drive		<-->	noun+C2[-0]	.
+
+
+
+
+
+driver		<-->	noun+C2[-0]	.
+
+
+
+
+
+driving range		<-->	noun+C2[-0]	.
+
+
+
+
+
+drop goal		<-->	noun+C2[-0]	.
+
+
+
+
+
+drop kick		<-->	noun+C2[-0]	.
+
+
+
+
+
+drop-kick		<-->	verb+C2[-0]	.
+
+
+
+
+
+duck		<-->	noun+C2[-0]	.
+
+
+
+
+
+dugout		<-->	noun+C2[-0]	.
+
+
+
+
+
+dunk		<-->	verb+C2[-0]	.
+
+
+
+
+
+eagle		<-->	noun+C2[-0]	.
+
+
+
+
+
+end		<-->	noun+A2[-0]	.
+
+
+
+
+
+end run		<-->	noun+C2[-0]	.
+
+
+
+
+
+end zone		<-->	noun+C2[-0]	.
+
+
+
+
+
+equalize		<-->	verb+C2[-0]	.
+
+
+
+
+
+fairway		<-->	noun+C2[-0]	.
+
+
+
+
+
+fan		<-->	noun+A2[-0]	.
+
+
+
+
+
+fantasy		<-->	noun+C2[-0]	.
+
+
+
+
+
+fantasy football		<-->	noun+C2[-0]	.
+
+
+
+
+
+farm team		<-->	noun+C2[-0]	.
+
+
+
+
+
+fastball		<-->	noun+B2[-0]	.
+
+
+
+
+
+fast bowler		<-->	noun+C1[-0]	.
+
+
+
+
+
+fault		<-->	noun+C2[-0]	.
+
+
+
+
+
+field		<-->	noun+A2[-0]	.
+
+
+
+
+
+field		<-->	verb+C2[-0]	.
+
+
+
+
+
+fielder		<-->	noun+C2[-0]	.
+
+
+
+
+
+field goal		<-->	noun+C2[-0]	.
+
+
+
+
+
+fielding		<-->	noun+C2[-0]	.
+
+
+
+
+
+Final Four		<-->	noun+C2[-0]	.
+
+
+
+
+
+fireballer		<-->	noun+C2[-0]	.
+
+
+
+
+
+first base		<-->	noun+C1[-0]	.
+
+
+
+
+
+first down		<-->	noun+C2[-0]	.
+
+
+
+
+
+first-string		<-->	adjective+C2[-0]	.
+
+
+
+
+
+five-a-side		<-->	noun+C1[-0]	.
+
+
+
+
+
+fives		<-->	noun+C2[-0]	.
+
+
+
+
+
+flag football		<-->	noun+C2[-0]	.
+
+
+
+
+
+flank		<-->	noun+C2[-0]	.
+
+
+
+
+
+flanker		<-->	noun+C2[-0]	.
+
+
+
+
+
+fly ball		<-->	noun+C2[-0]	.
+
+
+
+
+
+fly half		<-->	noun+C2[-0]	.
+
+
+
+
+
+follow-on		<-->	noun+C2[-0]	.
+
+
+
+
+
+follow on		<-->	222+C2[-0]	.
+
+
+
+
+
+follow-through		<-->	noun+C2[-0]	.
+
+
+
+
+
+football		<-->	noun+A1[-0]	.
+
+
+
+
+
+football boot		<-->	noun+A2[-0]	.
+
+
+
+
+
+footballer		<-->	noun+B1[-0]	.
+
+
+
+
+
+footballing		<-->	adjective+B1[-0]	.
+
+
+
+
+
+foot fault		<-->	noun+C2[-0]	.
+
+
+
+
+
+footie		<-->	noun+C2[-0]	.
+
+
+
+
+
+footy		<-->	noun+C2[-0]	.
+
+
+
+
+
+force-out		<-->	noun+C2[-0]	.
+
+
+
+
+
+force play		<-->	noun+C2[-0]	.
+
+
+
+
+
+fore		<-->	111+C2[-0]	.
+
+
+
+
+
+forehand		<-->	noun+C2[-0]	.
+
+
+
+
+
+forkball		<-->	noun+C2[-0]	.
+
+
+
+
+
+forward		<-->	noun+C2[-0]	.
+
+
+
+
+
+foul		<-->	verb+C1[-0]	.
+
+
+
+
+
+foul		<-->	noun+C1[-0]	.
+
+
+
+
+
+foul ball		<-->	noun+C2[-0]	.
+
+
+
+
+
+foul line		<-->	noun+C2[-0]	.
+
+
+
+
+
+foul trouble		<-->	noun+C2[-0]	.
+
+
+
+
+
+four		<-->	noun+C2[-0]	.
+
+
+
+
+
+free kick		<-->	noun+B2[-0]	.
+
+
+
+
+
+free safety		<-->	noun+C2[-0]	.
+
+
+
+
+
+friendly		<-->	adjective+B1[-0]	.
+
+
+
+
+
+friendly		<-->	noun+C2[-0]	.
+
+
+
+
+
+full back		<-->	noun+C2[-0]	.
+
+
+
+
+
+full-court press		<-->	noun+C2[-0]	.
+
+
+
+
+
+full toss		<-->	noun+C2[-0]	.
+
+
+
+
+
+fumble		<-->	verb+C2[-0]	.
+
+
+
+
+
+fumble		<-->	noun+C2[-0]	.
+
+
+
+
+
+futsal		<-->	noun+C2[-0]	.
+
+
+
+
+
+game		<-->	noun+A2[-0]	.
+
+
+
+
+
+game point		<-->	noun+C2[-0]	.
+
+
+
+
+
+get/keep somebody onside		<-->	idiom+C2[-0]	.
+
+
+
+
+
+goal		<-->	noun+A2[-0]	.
+
+
+
+
+
+goal area		<-->	noun+B2[-0]	.
+
+
+
+
+
+goal difference		<-->	noun+C2[-0]	.
+
+
+
+
+
+goalkeeper		<-->	noun+B1[-0]	.
+
+
+
+
+
+goalkeeping		<-->	noun+B2[-0]	.
+
+
+
+
+
+goal kick		<-->	noun+B2[-0]	.
+
+
+
+
+
+goal line		<-->	noun+C1[-0]	.
+
+
+
+
+
+goalpost		<-->	noun+B2[-0]	.
+
+
+
+
+
+goalscorer		<-->	noun+C1[-0]	.
+
+
+
+
+
+goaltender		<-->	noun+C2[-0]	.
+
+
+
+
+
+GOAT		<-->	noun+C2[-0]	.
+
+
+
+
+
+golden goal		<-->	noun+C2[-0]	.
+
+
+
+
+
+golf		<-->	noun+A2[-0]	.
+
+
+
+
+
+golf cart		<-->	noun+B2[-0]	.
+
+
+
+
+
+golf club		<-->	noun+C1[-0]	.
+
+
+
+
+
+golf course		<-->	noun+B2[-0]	.
+
+
+
+
+
+golfer		<-->	noun+B1[-0]	.
+
+
+
+
+
+golf links		<-->	noun+C2[-0]	.
+
+
+
+
+
+googly		<-->	noun+C2[-0]	.
+
+
+
+
+
+go out		<-->	222+B2[-0]	.
+
+
+
+
+
+grand slam		<-->	noun+C2[-0]	.
+
+
+
+
+
+grass court		<-->	noun+B2[-0]	.
+
+
+
+
+
+green		<-->	noun+C2[-0]	.
+
+
+
+
+
+gridiron		<-->	noun+C2[-0]	.
+
+
+
+
+
+grip		<-->	noun+C1[-0]	.
+
+
+
+
+
+ground ball		<-->	noun+C2[-0]	.
+
+
+
+
+
+grounder		<-->	noun+C2[-0]	.
+
+
+
+
+
+groundout		<-->	noun+C2[-0]	.
+
+
+
+
+
+groundstroke		<-->	noun+C2[-0]	.
+
+
+
+
+
+grubber		<-->	noun+C2[-0]	.
+
+
+
+
+
+guard		<-->	noun+C2[-0]	.
+
+
+
+
+
+half		<-->	noun+A1[-0]	.
+
+
+
+
+
+half back		<-->	noun+C2[-0]	.
+
+
+
+
+
+half-century		<-->	noun+C2[-0]	.
+
+
+
+
+
+half-time		<-->	noun+B1[-0]	.
+
+
+
+
+
+half-volley		<-->	noun+C2[-0]	.
+
+
+
+
+
+handball		<-->	noun+C2[-0]	.
+
+
+
+
+
+handicap		<-->	noun+C2[-0]	.
+
+
+
+
+
+handoff		<-->	noun+C2[-0]	.
+
+
+
+
+
+hardball		<-->	noun+C2[-0]	.
+
+
+
+
+
+hard court		<-->	noun+C1[-0]	.
+
+
+
+
+
+hat-trick		<-->	noun+C2[-0]	.
+
+
+
+
+
+he		<-->	111+C2[-0]	.
+
+
+
+
+
+header		<-->	noun+C1[-0]	.
+
+
+
+
+
+helmet		<-->	noun+B2[-0]	.
+
+
+
+
+
+high-top		<-->	adjective+C2[-0]	.
+
+
+
+
+
+high-tops		<-->	noun+C2[-0]	.
+
+
+
+
+
+hockey		<-->	noun+A2[-0]	.
+
+
+
+
+
+hole		<-->	noun+B1[-0]	.
+
+
+
+
+
+hole-in-one		<-->	noun+C2[-0]	.
+
+
+
+
+
+home		<-->	adjective+B2[-0]	.
+
+
+
+
+
+home plate		<-->	noun+C2[-0]	.
+
+
+
+
+
+homer		<-->	noun+C2[-0]	.
+
+
+
+
+
+home run		<-->	noun+C2[-0]	.
+
+
+
+
+
+hook		<-->	noun+C2[-0]	.
+
+
+
+
+
+hooker		<-->	noun+C2[-0]	.
+
+
+
+
+
+hook shot		<-->	noun+C2[-0]	.
+
+
+
+
+
+hoop		<-->	noun+C1[-0]	.
+
+
+
+
+
+howzat		<-->	exclamation+C2[-0]	.
+
+
+
+
+
+huddle		<-->	noun+C2[-0]	.
+
+
+
+
+
+hurling		<-->	noun+C2[-0]	.
+
+
+
+
+
+in		<-->	111+C2[-0]	.
+
+
+
+
+
+inbounds		<-->	adjective+C2[-0]	.
+
+
+
+
+
+infield		<-->	noun+C2[-0]	.
+
+
+
+
+
+in-goal area		<-->	noun+C2[-0]	.
+
+
+
+
+
+injury time		<-->	noun+B2[-0]	.
+
+
+
+
+
+inning		<-->	noun+C2[-0]	.
+
+
+
+
+
+innings		<-->	noun+C2[-0]	.
+
+
+
+
+
+iron		<-->	noun+C2[-0]	.
+
+
+
+
+
+jai alai		<-->	noun+C2[-0]	.
+
+
+
+
+
+keeper		<-->	noun+C1[-0]	.
+
+
+
+
+
+keep wicket		<-->	idiom+C2[-0]	.
+
+
+
+
+
+kick		<-->	verb+A2[-0]	.
+
+
+
+
+
+kickball		<-->	noun+C2[-0]	.
+
+
+
+
+
+kicker		<-->	noun+C2[-0]	.
+
+
+
+
+
+kick off		<-->	222+C2[-0]	.
+
+
+
+
+
+knock-down		<-->	noun+C2[-0]	.
+
+
+
+
+
+knockout		<-->	noun+C2[-0]	.
+
+
+
+
+
+lacrosse		<-->	noun+C2[-0]	.
+
+
+
+
+
+lawn tennis		<-->	noun+C2[-0]	.
+
+
+
+
+
+lay-up		<-->	noun+C2[-0]	.
+
+
+
+
+
+lbwabbreviationC2[-0]	.
+
+
+
+
+
+league		<-->	noun+B2[-0]	.
+
+
+
+
+
+league table		<-->	noun+C1[-0]	.
+
+
+
+
+
+left field		<-->	noun+C2[-0]	.
+
+
+
+
+
+leg bye		<-->	noun+C2[-0]	.
+
+
+
+
+
+line		<-->	noun+A1[-0]	.
+
+
+
+
+
+linebacker		<-->	noun+C2[-0]	.
+
+
+
+
+
+line drive		<-->	noun+C2[-0]	.
+
+
+
+
+
+lineman		<-->	noun+C2[-0]	.
+
+
+
+
+
+line of scrimmage		<-->	noun+C2[-0]	.
+
+
+
+
+
+line-out		<-->	noun+C2[-0]	.
+
+
+
+
+
+linesman		<-->	noun+C2[-0]	.
+
+
+
+
+
+links		<-->	noun+C2[-0]	.
+
+
+
+
+
+Little League		<-->	noun+C2[-0]	.
+
+
+
+
+
+lob		<-->	verb+C2[-0]	.
+
+
+
+
+
+lock		<-->	noun+C2[-0]	.
+
+
+
+
+
+long ball		<-->	noun+C2[-0]	.
+
+
+
+
+
+loose forward		<-->	noun+C2[-0]	.
+
+
+
+
+
+loose head		<-->	noun+C2[-0]	.
+
+
+
+
+
+love		<-->	noun+C2[-0]	.
+
+
+
+
+
+magic number		<-->	noun+C2[-0]	.
+
+
+
+
+
+maiden		<-->	noun+C2[-0]	.
+
+
+
+
+
+major league		<-->	noun+C2[-0]	.
+
+
+
+
+
+make the cut		<-->	idiom+C2[-0]	.
+
+
+
+
+
+March Madness™		<-->	noun+C2[-0]	.
+
+
+
+
+
+marker		<-->	noun+C2[-0]	.
+
+
+
+
+
+marking		<-->	noun+C2[-0]	.
+
+
+
+
+
+match		<-->	noun+A1[-0]	.
+
+
+
+
+
+match play		<-->	noun+C2[-0]	.
+
+
+
+
+
+match point		<-->	noun+C1[-0]	.
+
+
+
+
+
+matchup		<-->	noun+C2[-0]	.
+
+
+
+
+
+medal play		<-->	noun+C2[-0]	.
+
+
+
+
+
+Mexican wave		<-->	noun+C1[-0]	.
+
+
+
+
+
+midfield		<-->	noun+C1[-0]	.
+
+
+
+
+
+miniature golf		<-->	noun+C2[-0]	.
+
+
+
+
+
+minigolf		<-->	noun+C2[-0]	.
+
+
+
+
+
+minor league		<-->	noun+C2[-0]	.
+
+
+
+
+
+mixed doubles		<-->	noun+C2[-0]	.
+
+
+
+
+
+NBAabbreviationC2[-0]	.
+
+
+
+
+
+net		<-->	noun+A2[-0]	.
+
+
+
+
+
+netball		<-->	noun+C1[-0]	.
+
+
+
+
+
+neutral zone		<-->	noun+C2[-0]	.
+
+
+
+
+
+NFCabbreviationC2[-0]	.
+
+
+
+
+
+NFLabbreviationC2[-0]	.
+
+
+
+
+
+nil		<-->	noun+C1[-0]	.
+
+
+
+
+
+no-ball		<-->	noun+C2[-0]	.
+
+
+
+
+
+no-hitter		<-->	noun+C2[-0]	.
+
+
+
+
+
+nose tackle		<-->	noun+C2[-0]	.
+
+
+
+
+
+no side		<-->	noun+C2[-0]	.
+
+
+
+
+
+offense		<-->	noun+C1[-0]	.
+
+
+
+
+
+offensive line		<-->	noun+C2[-0]	.
+
+
+
+
+
+offside		<-->	adjective+C2[-0]	.
+
+
+
+
+
+offside		<-->	noun+C2[-0]	.
+
+
+
+
+
+off-tackle		<-->	adjective+C2[-0]	.
+
+
+
+
+
+onside		<-->	adjective+C2[-0]	.
+
+
+
+
+
+onside		<-->	111+C2[-0]	.
+
+
+
+
+
+opener		<-->	noun+C2[-0]	.
+
+
+
+
+
+out		<-->	111+C2[-0]	.
+
+
+
+
+
+outfield		<-->	noun+C2[-0]	.
+
+
+
+
+
+outfielder		<-->	noun+C2[-0]	.
+
+
+
+
+
+over		<-->	noun+C2[-0]	.
+
+
+
+
+
+own goal		<-->	noun+B2[-0]	.
+
+
+
+
+
+pace bowler		<-->	noun+C2[-0]	.
+
+
+
+
+
+pad		<-->	noun+B2[-0]	.
+
+
+
+
+
+par		<-->	noun+C2[-0]	.
+
+
+
+
+
+park		<-->	noun+A2[-0]	.
+
+
+
+
+
+pass		<-->	verb+B1[-0]	.
+
+
+
+
+
+pass		<-->	noun+C1[-0]	.
+
+
+
+
+
+passing shot		<-->	noun+C2[-0]	.
+
+
+
+
+
+pass play		<-->	noun+C2[-0]	.
+
+
+
+
+
+penalty		<-->	noun+C1[-0]	.
+
+
+
+
+
+penalty area		<-->	noun+C1[-0]	.
+
+
+
+
+
+penalty kick		<-->	noun+C1[-0]	.
+
+
+
+
+
+penalty shoot-out		<-->	noun+C1[-0]	.
+
+
+
+
+
+penalty spot		<-->	noun+C2[-0]	.
+
+
+
+
+
+pennant		<-->	noun+C2[-0]	.
+
+
+
+
+
+pinch-hit		<-->	verb+C2[-0]	.
+
+
+
+
+
+ping-pong		<-->	noun+B2[-0]	.
+
+
+
+
+
+pitch		<-->	noun+B2[-0]	.
+
+
+
+
+
+pitch		<-->	verb+C2[-0]	.
+
+
+
+
+
+pitch and putt		<-->	noun+C2[-0]	.
+
+
+
+
+
+pitcher		<-->	noun+C2[-0]	.
+
+
+
+
+
+pitchout		<-->	noun+C2[-0]	.
+
+
+
+
+
+place kick		<-->	noun+C2[-0]	.
+
+
+
+
+
+play		<-->	verb+A1[-0]	.
+
+
+
+
+
+play		<-->	noun+B1[-0]	.
+
+
+
+
+
+player		<-->	noun+A1[-0]	.
+
+
+
+
+
+playing field		<-->	noun+B2[-0]	.
+
+
+
+
+
+point		<-->	noun+A2[-0]	.
+
+
+
+
+
+pool		<-->	noun+C2[-0]	.
+
+
+
+
+
+pop fly		<-->	noun+C2[-0]	.
+
+
+
+
+
+premiership		<-->	noun+C2[-0]	.
+
+
+
+
+
+preseason		<-->	adjective+C1[-0]	.
+
+
+
+
+
+preseason		<-->	noun+C1[-0]	.
+
+
+
+
+
+prop		<-->	noun+C2[-0]	.
+
+
+
+
+
+pro shop		<-->	noun+C2[-0]	.
+
+
+
+
+
+pulling guard		<-->	noun+C2[-0]	.
+
+
+
+
+
+punt		<-->	noun+C2[-0]	.
+
+
+
+
+
+put-in		<-->	noun+C2[-0]	.
+
+
+
+
+
+putt		<-->	verb+C2[-0]	.
+
+
+
+
+
+putter		<-->	noun+C2[-0]	.
+
+
+
+
+
+putting green		<-->	noun+C2[-0]	.
+
+
+
+
+
+qualification		<-->	noun+B1[-0]	.
+
+
+
+
+
+qualify		<-->	verb+B1[-0]	.
+
+
+
+
+
+quarter		<-->	noun+C2[-0]	.
+
+
+
+
+
+quarterback		<-->	noun+C2[-0]	.
+
+
+
+
+
+quarter-final		<-->	noun+C2[-0]	.
+
+
+
+
+
+quarter-finalist		<-->	noun+C2[-0]	.
+
+
+
+
+
+racket		<-->	noun+B1[-0]	.
+
+
+
+
+
+racket abuse		<-->	noun+C2[-0]	.
+
+
+
+
+
+racquet		<-->	noun+B2[-0]	.
+
+
+
+
+
+rally		<-->	noun+C2[-0]	.
+
+
+
+
+
+RBI		<-->	noun+C2[-0]	.
+
+
+
+
+
+real tennis		<-->	noun+C2[-0]	.
+
+
+
+
+
+rebound		<-->	noun+C2[-0]	.
+
+
+
+
+
+receive		<-->	verb+C2[-0]	.
+
+
+
+
+
+receiver		<-->	noun+C2[-0]	.
+
+
+
+
+
+red card		<-->	noun+C1[-0]	.
+
+
+
+
+
+red zone		<-->	noun+C2[-0]	.
+
+
+
+
+
+ref		<-->	noun+C2[-0]	.
+
+
+
+
+
+referee		<-->	noun+B2[-0]	.
+
+
+
+
+
+referee’s assistant		<-->	noun+B2[-0]	.
+
+
+
+
+
+relegate		<-->	verb+C2[-0]	.
+
+
+
+
+
+reliever		<-->	noun+C2[-0]	.
+
+
+
+
+
+replay		<-->	noun+B2[-0]	.
+
+
+
+
+
+reserve		<-->	noun+C2[-0]	.
+
+
+
+
+
+result		<-->	noun+A1[-0]	.
+
+
+
+
+
+return		<-->	verb+C2[-0]	.
+
+
+
+
+
+right field		<-->	noun+C2[-0]	.
+
+
+
+
+
+right fielder		<-->	noun+C2[-0]	.
+
+
+
+
+
+rough		<-->	noun+C2[-0]	.
+
+
+
+
+
+rounders		<-->	noun+C2[-0]	.
+
+
+
+
+
+royal tennis		<-->	noun+C2[-0]	.
+
+
+
+
+
+ruck		<-->	noun+C2[-0]	.
+
+
+
+
+
+rugby		<-->	noun+B1[-0]	.
+
+
+
+
+
+Rugby League		<-->	noun+C2[-0]	.
+
+
+
+
+
+Rugby Union		<-->	noun+C2[-0]	.
+
+
+
+
+
+rugger		<-->	noun+C2[-0]	.
+
+
+
+
+
+run		<-->	noun+C2[-0]	.
+
+
+
+
+
+run interference		<-->	idiom+C2[-0]	.
+
+
+
+
+
+running back		<-->	noun+C2[-0]	.
+
+
+
+
+
+run-out		<-->	noun+C2[-0]	.
+
+
+
+
+
+run out		<-->	222+C2[-0]	.
+
+
+
+
+
+run play		<-->	noun+C2[-0]	.
+
+
+
+
+
+sack		<-->	verb+C2[-0]	.
+
+
+
+
+
+safety		<-->	noun+C2[-0]	.
+
+
+
+
+
+sand iron		<-->	noun+C2[-0]	.
+
+
+
+
+
+sand trap		<-->	noun+C2[-0]	.
+
+
+
+
+
+sand wedge		<-->	noun+C2[-0]	.
+
+
+
+
+
+save		<-->	verb+B1[-0]	.
+
+
+
+
+
+save		<-->	noun+B1[-0]	.
+
+
+
+
+
+score		<-->	verb+A2[-0]	.
+
+
+
+
+
+score		<-->	noun+A2[-0]	.
+
+
+
+
+
+scratch		<-->	adjective+C2[-0]	.
+
+
+
+
+
+screen pass		<-->	noun+C2[-0]	.
+
+
+
+
+
+scrimmage		<-->	noun+C2[-0]	.
+
+
+
+
+
+scrum		<-->	noun+C2[-0]	.
+
+
+
+
+
+scrum half		<-->	noun+C2[-0]	.
+
+
+
+
+
+second base		<-->	noun+C1[-0]	.
+
+
+
+
+
+seed		<-->	noun+C2[-0]	.
+
+
+
+
+
+seed		<-->	verb+C2[-0]	.
+
+
+
+
+
+seeded		<-->	adjective+C2[-0]	.
+
+
+
+
+
+semi-finalist		<-->	noun+C1[-0]	.
+
+
+
+
+
+sending-off		<-->	noun+C1[-0]	.
+
+
+
+
+
+send off		<-->	222+B2[-0]	.
+
+
+
+
+
+series		<-->	noun+C2[-0]	.
+
+
+
+
+
+serve		<-->	verb+C2[-0]	.
+
+
+
+
+
+serve		<-->	noun+C2[-0]	.
+
+
+
+
+
+server		<-->	noun+C2[-0]	.
+
+
+
+
+
+service		<-->	noun+C2[-0]	.
+
+
+
+
+
+set		<-->	noun+C2[-0]	.
+
+
+
+
+
+set point		<-->	noun+C2[-0]	.
+
+
+
+
+
+set shot		<-->	noun+C2[-0]	.
+
+
+
+
+
+shaft		<-->	noun+C2[-0]	.
+
+
+
+
+
+shoot		<-->	verb+B2[-0]	.
+
+
+
+
+
+shootaround		<-->	noun+C2[-0]	.
+
+
+
+
+
+shooting guard		<-->	noun+C2[-0]	.
+
+
+
+
+
+shortstop		<-->	noun+C2[-0]	.
+
+
+
+
+
+shot		<-->	noun+B2[-0]	.
+
+
+
+
+
+shotmaking		<-->	noun+C2[-0]	.
+
+
+
+
+
+shoulder pad		<-->	noun+C1[-0]	.
+
+
+
+
+
+shuttlecock		<-->	noun+C2[-0]	.
+
+
+
+
+
+side		<-->	noun+A2[-0]	.
+
+
+
+
+
+sideline		<-->	noun+C2[-0]	.
+
+
+
+
+
+single		<-->	noun+C1[-0]	.
+
+
+
+
+
+six		<-->	noun+C2[-0]	.
+
+
+
+
+
+slam		<-->	noun+C2[-0]	.
+
+
+
+
+
+slam dunk		<-->	noun+C2[-0]	.
+
+
+
+
+
+slam-dunk		<-->	verb+C2[-0]	.
+
+
+
+
+
+sledging		<-->	noun+C2[-0]	.
+
+
+
+
+
+slice		<-->	noun+C2[-0]	.
+
+
+
+
+
+smash		<-->	noun+C2[-0]	.
+
+
+
+
+
+snap		<-->	verb+C2[-0]	.
+
+
+
+
+
+soccer		<-->	noun+A2[-0]	.
+
+
+
+
+
+softball		<-->	noun+C2[-0]	.
+
+
+
+
+
+spin		<-->	noun+C1[-0]	.
+
+
+
+
+
+spinner		<-->	noun+C2[-0]	.
+
+
+
+
+
+sport		<-->	noun+A1[-0]	.
+
+
+
+
+
+spot kick		<-->	noun+C2[-0]	.
+
+
+
+
+
+spring training		<-->	noun+B2[-0]	.
+
+
+
+
+
+squash		<-->	noun+B2[-0]	.
+
+
+
+
+
+stadium		<-->	noun+B1[-0]	.
+
+
+
+
+
+stand		<-->	noun+C2[-0]	.
+
+
+
+
+
+stand-off half		<-->	noun+C2[-0]	.
+
+
+
+
+
+the Super Bowl™		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+steal		<-->	verb+C2[-0]	.
+
+
+
+
+
+stick		<-->	noun+A2[-0]	.
+
+
+
+
+
+stoppage		<-->	noun+C2[-0]	.
+
+
+
+
+
+strike		<-->	noun+C1[-0]	.
+
+
+
+
+
+strike out		<-->	222+C2[-0]	.
+
+
+
+
+
+strikeout		<-->	noun+C2[-0]	.
+
+
+
+
+
+striker		<-->	noun+C2[-0]	.
+
+
+
+
+
+strike rate		<-->	noun+C2[-0]	.
+
+
+
+
+
+string		<-->	noun+B2[-0]	.
+
+
+
+
+
+strip		<-->	noun+C2[-0]	.
+
+
+
+
+
+stroke		<-->	noun+B2[-0]	.
+
+
+
+
+
+stroke play		<-->	noun+C2[-0]	.
+
+
+
+
+
+strong safety		<-->	noun+C2[-0]	.
+
+
+
+
+
+stump		<-->	noun+C2[-0]	.
+
+
+
+
+
+substitute		<-->	noun+C1[-0]	.
+
+
+
+
+
+sweeper		<-->	noun+C2[-0]	.
+
+
+
+
+
+swing		<-->	noun+C2[-0]	.
+
+
+
+
+
+switch-hitter		<-->	noun+C2[-0]	.
+
+
+
+
+
+table tennis		<-->	noun+A2[-0]	.
+
+
+
+
+
+tackle		<-->	verb+C1[-0]	.
+
+
+
+
+
+tackle		<-->	noun+C1[-0]	.
+
+
+
+
+
+take		<-->	verb+B2[-0]	.
+
+
+
+
+
+tap penalty		<-->	noun+C2[-0]	.
+
+
+
+
+
+taxi squad		<-->	noun+C2[-0]	.
+
+
+
+
+
+T-ballC2[-0]	.
+
+
+
+
+
+team		<-->	noun+A1[-0]	.
+
+
+
+
+
+technical foul		<-->	noun+C2[-0]	.
+
+
+
+
+
+tee		<-->	noun+C2[-0]	.
+
+
+
+
+
+Tee Ball™		<-->	noun+C2[-0]	.
+
+
+
+
+
+tennis		<-->	noun+A1[-0]	.
+
+
+
+
+
+tennis racket		<-->	noun+B1[-0]	.
+
+
+
+
+
+terrace		<-->	noun+C2[-0]	.
+
+
+
+
+
+Test match		<-->	noun+C2[-0]	.
+
+
+
+
+
+third base		<-->	noun+C1[-0]	.
+
+
+
+
+
+throw		<-->	verb+A2[-0]	.
+
+
+
+
+
+throw-in		<-->	noun+C1[-0]	.
+
+
+
+
+
+tie		<-->	noun+C1[-0]	.
+
+
+
+
+
+tiebreaker		<-->	noun+C2[-0]	.
+
+
+
+
+
+tight end		<-->	noun+C2[-0]	.
+
+
+
+
+
+tight head		<-->	noun+C2[-0]	.
+
+
+
+
+
+tip-in		<-->	noun+C2[-0]	.
+
+
+
+
+
+topspin		<-->	noun+C2[-0]	.
+
+
+
+
+
+touch down		<-->	222+C2[-0]	.
+
+
+
+
+
+touchdown		<-->	noun+C2[-0]	.
+
+
+
+
+
+touch football		<-->	noun+C2[-0]	.
+
+
+
+
+
+touch judge		<-->	noun+C2[-0]	.
+
+
+
+
+
+touchline		<-->	noun+C2[-0]	.
+
+
+
+
+
+tournament		<-->	noun+B2[-0]	.
+
+
+
+
+
+tourney		<-->	noun+C2[-0]	.
+
+
+
+
+
+training ground		<-->	noun+B2[-0]	.
+
+
+
+
+
+tramlines		<-->	noun+C2[-0]	.
+
+
+
+
+
+transfer		<-->	verb+C1[-0]	.
+
+
+
+
+
+transfer		<-->	noun+C1[-0]	.
+
+
+
+
+
+travel		<-->	verb+C2[-0]	.
+
+
+
+
+
+trey		<-->	noun+C2[-0]	.
+
+
+
+
+
+trolley		<-->	noun+B2[-0]	.
+
+
+
+
+
+try		<-->	noun+C2[-0]	.
+
+
+
+
+
+two-handed		<-->	adjective+B2[-0]	.
+
+
+
+
+
+umpire		<-->	noun+C1[-0]	.
+
+
+
+
+
+unmarked		<-->	adjective+C2[-0]	.
+
+
+
+
+
+unseeded		<-->	adjective+C2[-0]	.
+
+
+
+
+
+up-and-under		<-->	noun+C2[-0]	.
+
+
+
+
+
+volley		<-->	noun+C2[-0]	.
+
+
+
+
+
+volley		<-->	verb+C2[-0]	.
+
+
+
+
+
+volleyball		<-->	noun+A2[-0]	.
+
+
+
+
+
+walk		<-->	verb+C2[-0]	.
+
+
+
+
+
+wedge		<-->	noun+C2[-0]	.
+
+
+
+
+
+whiff		<-->	noun+C2[-0]	.
+
+
+
+
+
+whiff		<-->	verb+C2[-0]	.
+
+
+
+
+
+whistle		<-->	noun+C1[-0]	.
+
+
+
+
+
+wicket		<-->	noun+C2[-0]	.
+
+
+
+
+
+wicketkeeper		<-->	noun+C2[-0]	.
+
+
+
+
+
+wideout		<-->	noun+C2[-0]	.
+
+
+
+
+
+wide receiver		<-->	noun+C2[-0]	.
+
+
+
+
+
+wing		<-->	noun+C2[-0]	.
+
+
+
+
+
+wing back		<-->	noun+C2[-0]	.
+
+
+
+
+
+winger		<-->	noun+C2[-0]	.
+
+
+
+
+
+wood		<-->	noun+C2[-0]	.
+
+
+
+
+
+yardage		<-->	noun+C2[-0]	.
+
+
+
+
+
+yellow card		<-->	noun+C1[-0]	.

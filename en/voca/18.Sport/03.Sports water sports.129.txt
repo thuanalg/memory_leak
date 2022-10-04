@@ -1,0 +1,129 @@
+aft		<-->	adveerb+C2[-0]	.
+aqualung		<-->	nooun+C2[-0]	.
+backcrawl		<-->	nooun+C2[-0]	.
+backstroke		<-->	nooun+C2[-0]	.
+bather		<-->	nooun+C2[-0]	.
+bathing cap		<-->	nooun+C2[-0]	.
+bathing suit		<-->	nooun+C1[-0]	.
+bend		<-->	nooun+C2[-0]	.
+boardsailing		<-->	nooun+C2[-0]	.
+boat		<-->	nooun+A1[-0]	.
+boating		<-->	nooun+B2[-0]	.
+bodyboard		<-->	nooun+C2[-0]	.
+bodyboarding		<-->	nooun+C2[-0]	.
+breaststroke		<-->	nooun+C2[-0]	.
+butterfly		<-->	nooun+C2[-0]	.
+canoe		<-->	nooun+B2[-0]	.
+canoeing		<-->	nooun+B2[-0]	.
+catamaran		<-->	nooun+C2[-0]	.
+chlorine		<-->	nooun+C2[-0]	.
+cox		<-->	nooun+C2[-0]	.
+crawl		<-->	nooun+C2[-0]	.
+crew		<-->	nooun+C1[-0]	.
+crew		<-->	veerb+C1[-0]	.
+decompression		<-->	nooun+C2[-0]	.
+deep-sea		<-->	adjeective+B1[-0]	.
+deep-water		<-->	adjeective+B1[-0]	.
+dive		<-->	veerb+B2[-0]	.
+dive		<-->	nooun+B2[-0]	.
+diver		<-->	nooun+B1[-0]	.
+diving		<-->	nooun+A2[-0]	.
+diving board		<-->	nooun+B1[-0]	.
+dog-paddle		<-->	nooun+C2[-0]	.
+drysuit		<-->	nooun+C2[-0]	.
+eight		<-->	nooun+C2[-0]	.
+flipper		<-->	nooun+C2[-0]	.
+fore		<-->	adveerb+C2[-0]	.
+four		<-->	nooun+C2[-0]	.
+freestyle		<-->	nooun+C2[-0]	.
+frogman		<-->	nooun+C2[-0]	.
+gala		<-->	nooun+C2[-0]	.
+goggles		<-->	nooun+C1[-0]	.
+jet-skiing		<-->	nooun+C2[-0]	.
+Jet Ski™		<-->	nooun+C2[-0]	.
+kayak		<-->	nooun+C1[-0]	.
+kayaking		<-->	nooun+C1[-0]	.
+lane		<-->	nooun+C1[-0]	.
+length		<-->	nooun+C1[-0]	.
+lido		<-->	nooun+C2[-0]	.
+lifeguard		<-->	nooun+C1[-0]	.
+life jacket		<-->	nooun+B2[-0]	.
+life vest		<-->	nooun+B2[-0]	.
+longboard		<-->	nooun+C2[-0]	.
+longboat		<-->	nooun+C2[-0]	.
+mask		<-->	nooun+C1[-0]	.
+medley		<-->	nooun+C2[-0]	.
+oar		<-->	nooun+C2[-0]	.
+paddle		<-->	nooun+C1[-0]	.
+paddleboard		<-->	nooun+C2[-0]	.
+paddleboarding		<-->	nooun+C2[-0]	.
+plunge		<-->	nooun+C1[-0]	.
+poolside		<-->	nooun+B2[-0]	.
+port		<-->	nooun+C2[-0]	.
+raft		<-->	nooun+B2[-0]	.
+rafting		<-->	nooun+B2[-0]	.
+regatta		<-->	nooun+C2[-0]	.
+row		<-->	veerb+B2[-0]	.
+rowboat		<-->	nooun+B2[-0]	.
+rowing		<-->	nooun+B2[-0]	.
+rowing boat		<-->	nooun+B2[-0]	.
+sail		<-->	veerb+A2[-0]	.
+sail		<-->	nooun+B1[-0]	.
+sailboard		<-->	nooun+C2[-0]	.
+sailboat		<-->	nooun+B2[-0]	.
+sailing		<-->	nooun+A2[-0]	.
+sailor		<-->	nooun+B1[-0]	.
+scuba diving		<-->	nooun+B2[-0]	.
+scull		<-->	nooun+C2[-0]	.
+scull		<-->	veerb+C2[-0]	.
+sidestroke		<-->	nooun+C2[-0]	.
+skiff		<-->	nooun+C2[-0]	.
+skin diving		<-->	nooun+C2[-0]	.
+sloop		<-->	nooun+C2[-0]	.
+snorkel		<-->	nooun+C1[-0]	.
+snorkel		<-->	veerb+C1[-0]	.
+snorkelling		<-->	nooun+C1[-0]	.
+springboard		<-->	nooun+C2[-0]	.
+starboard		<-->	nooun+C2[-0]	.
+steer		<-->	veerb+C1[-0]	.
+stroke		<-->	nooun+C1[-0]	.
+surf		<-->	veerb+B1[-0]	.
+surfboard		<-->	nooun+B1[-0]	.
+surfer		<-->	nooun+B1[-0]	.
+surfing		<-->	nooun+B1[-0]	.
+surf lifesaver		<-->	nooun+C2[-0]	.
+swim		<-->	veerb+A1[-0]	.
+swimmer		<-->	nooun+A2[-0]	.
+swimming		<-->	nooun+A1[-0]	.
+swimming bath		<-->	nooun+C1[-0]	.
+swimming cap		<-->	nooun+B1[-0]	.
+swimming costume		<-->	nooun+B1[-0]	.
+swimming pool		<-->	nooun+A1[-0]	.
+swimming trunks		<-->	nooun+B1[-0]	.
+swimsuit		<-->	nooun+B1[-0]	.
+swimwear		<-->	nooun+C1[-0]	.
+synchronized swimming		<-->	nooun+C2[-0]	.
+tank		<-->	nooun+B2[-0]	.
+tetrathlon		<-->	nooun+C2[-0]	.
+trimaran		<-->	nooun+C2[-0]	.
+wading pool		<-->	nooun+C1[-0]	.
+wakeboard		<-->	veerb+C2[-0]	.
+wakeboarding		<-->	nooun+C2[-0]	.
+water polo		<-->	nooun+C2[-0]	.
+waterski		<-->	veerb+B2[-0]	.
+waterski		<-->	nooun+B2[-0]	.
+waterskiing		<-->	nooun+B2[-0]	.
+water sports		<-->	nooun+A1[-0]	.
+wave machine		<-->	nooun+B2[-0]	.
+weight belt		<-->	nooun+C1[-0]	.
+wetsuit		<-->	nooun+C1[-0]	.
+whirlpool		<-->	nooun+C2[-0]	.
+white water		<-->	nooun+C1[-0]	.
+width		<-->	nooun+C1[-0]	.
+windsurf		<-->	veerb+C1[-0]	.
+windsurfer		<-->	nooun+C1[-0]	.
+windsurfing		<-->	nooun+C1[-0]	.
+wipe out		<-->	phrasal veerb+C2[-0]	.
+yacht		<-->	nooun+B2[-0]	.
+yachting		<-->	nooun+C1[-0]	.
+yawl		<-->	nooun+C2	.

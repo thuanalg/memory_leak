@@ -1,0 +1,5999 @@
+abashed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+abhor		<-->	verb+C2[-0]	.
+
+
+
+
+
+abominable		<-->	adjective+C2[-0]	.
+
+
+
+
+
+abominate		<-->	verb+C2[-0]	.
+
+
+
+
+
+absorbed		<-->	adjective+C1[-0]	.
+
+
+
+
+
+absorption		<-->	noun+C2[-0]	.
+
+
+
+
+
+abuse		<-->	noun+C1[-0]	.
+
+
+
+
+
+acrimonious		<-->	adjective+C2[-0]	.
+
+
+
+
+
+acrimony		<-->	noun+C2[-0]	.
+
+
+
+
+
+addict		<-->	noun+C1[-0]	.
+
+
+
+
+
+addicted		<-->	adjective+B2[-0]	.
+
+
+
+
+
+adoration		<-->	noun+C2[-0]	.
+
+
+
+
+
+adore		<-->	verb+B2[-0]	.
+
+
+
+
+
+adoring		<-->	adjective+C2[-0]	.
+
+
+
+
+
+adrenaline		<-->	noun+C1[-0]	.
+
+
+
+
+
+adrift		<-->	adjective+C2[-0]	.
+
+
+
+
+
+affection		<-->	noun+C1[-0]	.
+
+
+
+
+
+affectionate		<-->	adjective+C1[-0]	.
+
+
+
+
+
+aflutter		<-->	adjective+C2[-0]	.
+
+
+
+
+
+afraid		<-->	adjective+A1[-0]	.
+
+
+
+
+
+aggression		<-->	noun+C1[-0]	.
+
+
+
+
+
+aggressive		<-->	adjective+B2[-0]	.
+
+
+
+
+
+aghast		<-->	adjective+C2[-0]	.
+
+
+
+
+
+agitate		<-->	verb+C1[-0]	.
+
+
+
+
+
+agitated		<-->	adjective+C1[-0]	.
+
+
+
+
+
+agitation		<-->	noun+C2[-0]	.
+
+
+
+
+
+agog		<-->	adjective+C2[-0]	.
+
+
+
+
+
+alarm		<-->	noun+B2[-0]	.
+
+
+
+
+
+alarm		<-->	verb+B2[-0]	.
+
+
+
+
+
+alarmed		<-->	adjective+B2[-0]	.
+
+
+
+
+
+alone		<-->	adjective+B1[-0]	.
+
+
+
+
+
+amaze		<-->	verb+B1[-0]	.
+
+
+
+
+
+amazed		<-->	adjective+B1[-0]	.
+
+
+
+
+
+amazement		<-->	noun+B2[-0]	.
+
+
+
+
+
+amorous		<-->	adjective+C2[-0]	.
+
+
+
+
+
+amour		<-->	noun+C2[-0]	.
+
+
+
+
+
+amusement		<-->	noun+B2[-0]	.
+
+
+
+
+
+anger		<-->	noun+B2[-0]	.
+
+
+
+
+
+anger		<-->	verb+B2[-0]	.
+
+
+
+
+
+angrily		<-->	adverb+B1[-0]	.
+
+
+
+
+
+angry		<-->	adjective+A1[-0]	.
+
+
+
+
+
+annoy		<-->	verb+B1[-0]	.
+
+
+
+
+
+annoyance		<-->	noun+C1[-0]	.
+
+
+
+
+
+annoyed		<-->	adjective+B1[-0]	.
+
+
+
+
+
+annoying		<-->	adjective+B1[-0]	.
+
+
+
+
+
+antagonism		<-->	noun+C2[-0]	.
+
+
+
+
+
+antagonize		<-->	verb+C2[-0]	.
+
+
+
+
+
+anxiety		<-->	noun+B2[-0]	.
+
+
+
+
+
+anxious		<-->	adjective+B2[-0]	.
+
+
+
+
+
+apathy		<-->	noun+C2[-0]	.
+
+
+
+
+
+apoplectic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+appalled		<-->	adjective+C1[-0]	.
+
+
+
+
+
+apprehension		<-->	noun+C2[-0]	.
+
+
+
+
+
+apprehensive		<-->	adjective+C1[-0]	.
+
+
+
+
+
+approval		<-->	noun+B2[-0]	.
+
+
+
+
+
+ardour		<-->	noun+C2[-0]	.
+
+
+
+
+
+argue		<-->	verb+A2[-0]	.
+
+
+
+
+
+argument		<-->	noun+A2[-0]	.
+
+
+
+
+
+ashamed		<-->	adjective+B2[-0]	.
+
+
+
+
+
+(as) pleased/proud as Punch		<-->	idiom+C2[-0]	.
+
+
+
+
+
+(as) sick as a parrot		<-->	idiom+C2[-0]	.
+
+
+
+
+
+astonish		<-->	verb+B2[-0]	.
+
+
+
+
+
+astonished		<-->	adjective+B2[-0]	.
+
+
+
+
+
+astonishment		<-->	noun+C1[-0]	.
+
+
+
+
+
+astound		<-->	verb+C1[-0]	.
+
+
+
+
+
+astounded		<-->	adjective+C1[-0]	.
+
+
+
+
+
+attraction		<-->	noun+B1[-0]	.
+
+
+
+
+
+awkward		<-->	adjective+B2[-0]	.
+
+
+
+
+
+bad		<-->	adjective+B1[-0]	.
+
+
+
+
+
+bashful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+be a bag/bundle of nerves		<-->	idiom+C2[-0]	.
+
+
+
+
+
+beam		<-->	verb+C2[-0]	.
+
+
+
+
+
+be at your wits’ end		<-->	idiom+C2[-0]	.
+
+
+
+
+
+be frightened/nervous/scared of your own shadow		<-->	idiom+C2[-0]	.
+
+
+
+
+
+be/get (all) riled up		<-->	idiom+C2[-0]	.
+
+
+
+
+
+be/get (all) steamed up (about/over something)		<-->	idiom+C2[-0]	.
+
+
+
+
+
+belong		<-->	verb+B1[-0]	.
+
+
+
+
+
+be lost for words		<-->	idiom+C1[-0]	.
+
+
+
+
+
+be on edge		<-->	idiom+C2[-0]	.
+
+
+
+
+
+(be) on tenterhooks		<-->	idiom+C2[-0]	.
+
+
+
+
+
+bereft		<-->	adjective+C2[-0]	.
+
+
+
+
+
+berserk		<-->	adjective+C2[-0]	.
+
+
+
+
+
+be scared/bored witless		<-->	idiom+C2[-0]	.
+
+
+
+
+
+besotted		<-->	adjective+C2[-0]	.
+
+
+
+
+
+be starving (for something)		<-->	idiom+C2[-0]	.
+
+
+
+
+
+be taken aback (by somebody/something)		<-->	idiom+C2[-0]	.
+
+
+
+
+
+be tickled pink		<-->	idiom+C2[-0]	.
+
+
+
+
+
+bitter		<-->	adjective+B2[-0]	.
+
+
+
+
+
+blanch		<-->	verb+C2[-0]	.
+
+
+
+
+
+blaze up		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+blazing		<-->	adjective+C2[-0]	.
+
+
+
+
+
+bleary		<-->	adjective+C2[-0]	.
+
+
+
+
+
+bleary-eyed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+blench		<-->	verb+C2[-0]	.
+
+
+
+
+
+blindside		<-->	verb+C2[-0]	.
+
+
+
+
+
+blissful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+blithe		<-->	adjective+C2[-0]	.
+
+
+
+
+
+bloom		<-->	verb+C2[-0]	.
+
+
+
+
+
+blow a fuse		<-->	idiom+C2[-0]	.
+
+
+
+
+
+blow/knock somebody’s socks off		<-->	idiom+C2[-0]	.
+
+
+
+
+
+blow-up		<-->	noun+C2[-0]	.
+
+
+
+
+
+blow up		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+blue		<-->	adjective+C2[-0]	.
+
+
+
+
+
+blush		<-->	verb+C1[-0]	.
+
+
+
+
+
+body blow		<-->	noun+C2[-0]	.
+
+
+
+
+
+boggle		<-->	verb+C2[-0]	.
+
+
+
+
+
+boil		<-->	verb+C2[-0]	.
+
+
+
+
+
+boil over		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+boil up		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+bore		<-->	verb+C1[-0]	.
+
+
+
+
+
+bore		<-->	noun+C1[-0]	.
+
+
+
+
+
+bored		<-->	adjective+A1[-0]	.
+
+
+
+
+
+boredom		<-->	noun+B2[-0]	.
+
+
+
+
+
+bowl over		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+brain-dead		<-->	adjective+C2[-0]	.
+
+
+
+
+
+break		<-->	verb+C2[-0]	.
+
+
+
+
+
+breathtaking		<-->	adjective+B2[-0]	.
+
+
+
+
+
+bristle		<-->	verb+C2[-0]	.
+
+
+
+
+
+broken		<-->	adjective+C1[-0]	.
+
+
+
+
+
+broken heart		<-->	noun+C1[-0]	.
+
+
+
+
+
+broken-hearted		<-->	adjective+C1[-0]	.
+
+
+
+
+
+brood		<-->	verb+C2[-0]	.
+
+
+
+
+
+broody		<-->	adjective+C2[-0]	.
+
+
+
+
+
+bum		<-->	verb+C2[-0]	.
+
+
+
+
+
+bust-up		<-->	noun+C2[-0]	.
+
+
+
+
+
+buzz		<-->	noun+C1[-0]	.
+
+
+
+
+
+caper		<-->	verb+C2[-0]	.
+
+
+
+
+
+capture		<-->	verb+B2[-0]	.
+
+
+
+
+
+care		<-->	verb+A2[-0]	.
+
+
+
+
+
+careworn		<-->	adjective+C2[-0]	.
+
+
+
+
+
+carry a torch for somebody		<-->	idiom+C2[-0]	.
+
+
+
+
+
+(catch/throw somebody) off balance		<-->	idiom+C2[-0]	.
+
+
+
+
+
+chafe		<-->	verb+C2[-0]	.
+
+
+
+
+
+chagrin		<-->	noun+C2[-0]	.
+
+
+
+
+
+channel		<-->	noun+C1[-0]	.
+
+
+
+
+
+chatter		<-->	verb+C2[-0]	.
+
+
+
+
+
+cheerful		<-->	adjective+B1[-0]	.
+
+
+
+
+
+cheery		<-->	adjective+C2[-0]	.
+
+
+
+
+
+chill		<-->	noun+C2[-0]	.
+
+
+
+
+
+choked		<-->	adjective+C2[-0]	.
+
+
+
+
+
+choleric		<-->	adjective+C2[-0]	.
+
+
+
+
+
+chuffed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+chug		<-->	verb+C2[-0]	.
+
+
+
+
+
+churn		<-->	verb+C2[-0]	.
+
+
+
+
+
+cloud		<-->	verb+C2[-0]	.
+
+
+
+
+
+cold sweat		<-->	noun+C2[-0]	.
+
+
+
+
+
+come alive		<-->	idiom+C1[-0]	.
+
+
+
+
+
+complain		<-->	verb+A2[-0]	.
+
+
+
+
+
+condole		<-->	verb+C2[-0]	.
+
+
+
+
+
+confess		<-->	verb+B2[-0]	.
+
+
+
+
+
+confession		<-->	noun+C1[-0]	.
+
+
+
+
+
+confound		<-->	verb+C2[-0]	.
+
+
+
+
+
+confrontational		<-->	adjective+C2[-0]	.
+
+
+
+
+
+conscience-stricken		<-->	adjective+C2[-0]	.
+
+
+
+
+
+consternation		<-->	noun+C2[-0]	.
+
+
+
+
+
+contempt		<-->	noun+C1[-0]	.
+
+
+
+
+
+contemptuous		<-->	adjective+C1[-0]	.
+
+
+
+
+
+content		<-->	adjective+C1[-0]	.
+
+
+
+
+
+controversial		<-->	adjective+B2[-0]	.
+
+
+
+
+
+cool		<-->	adjective+B2[-0]	.
+
+
+
+
+
+cowed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+cower		<-->	verb+C2[-0]	.
+
+
+
+
+
+cranky		<-->	adjective+C2[-0]	.
+
+
+
+
+
+crazy		<-->	adjective+A2[-0]	.
+
+
+
+
+
+creepy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+crestfallen		<-->	adjective+C2[-0]	.
+
+
+
+
+
+cringe		<-->	verb+C2[-0]	.
+
+
+
+
+
+cringeworthy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+cross		<-->	adjective+C2[-0]	.
+
+
+
+
+
+crotchety		<-->	adjective+C2[-0]	.
+
+
+
+
+
+crumple		<-->	verb+C2[-0]	.
+
+
+
+
+
+cry		<-->	verb+A2[-0]	.
+
+
+
+
+
+curdle		<-->	verb+C2[-0]	.
+
+
+
+
+
+curious		<-->	adjective+B2[-0]	.
+
+
+
+
+
+dead beat		<-->	adjective+C2[-0]	.
+
+
+
+
+
+dejected		<-->	adjective+C2[-0]	.
+
+
+
+
+
+dejection		<-->	noun+C2[-0]	.
+
+
+
+
+
+delighted		<-->	adjective+B2[-0]	.
+
+
+
+
+
+delirious		<-->	adjective+C2[-0]	.
+
+
+
+
+
+demolish		<-->	verb+C2[-0]	.
+
+
+
+
+
+depressed		<-->	adjective+B2[-0]	.
+
+
+
+
+
+depressing		<-->	adjective+B2[-0]	.
+
+
+
+
+
+depression		<-->	noun+B2[-0]	.
+
+
+
+
+
+desire		<-->	noun+B2[-0]	.
+
+
+
+
+
+desolate		<-->	adjective+C1[-0]	.
+
+
+
+
+
+desolation		<-->	noun+C2[-0]	.
+
+
+
+
+
+despair		<-->	noun+C1[-0]	.
+
+
+
+
+
+despair		<-->	verb+C1[-0]	.
+
+
+
+
+
+desperate		<-->	adjective+B2[-0]	.
+
+
+
+
+
+desperation		<-->	noun+C2[-0]	.
+
+
+
+
+
+despondency		<-->	noun+C2[-0]	.
+
+
+
+
+
+despondent		<-->	adjective+C2[-0]	.
+
+
+
+
+
+detest		<-->	verb+C1[-0]	.
+
+
+
+
+
+devastate		<-->	verb+C1[-0]	.
+
+
+
+
+
+devoted		<-->	adjective+C1[-0]	.
+
+
+
+
+
+devotion		<-->	noun+C1[-0]	.
+
+
+
+
+
+devour		<-->	verb+C1[-0]	.
+
+
+
+
+
+diffidence		<-->	noun+C2[-0]	.
+
+
+
+
+
+diffident		<-->	adjective+C2[-0]	.
+
+
+
+
+
+disappoint		<-->	verb+B2[-0]	.
+
+
+
+
+
+disappointed		<-->	adjective+B1[-0]	.
+
+
+
+
+
+disappointing		<-->	adjective+B1[-0]	.
+
+
+
+
+
+disappointment		<-->	noun+B2[-0]	.
+
+
+
+
+
+disapproval		<-->	noun+C1[-0]	.
+
+
+
+
+
+discomfit		<-->	verb+C2[-0]	.
+
+
+
+
+
+discomfiture		<-->	noun+C2[-0]	.
+
+
+
+
+
+discomfort		<-->	verb+C1[-0]	.
+
+
+
+
+
+disconcert		<-->	verb+C2[-0]	.
+
+
+
+
+
+disconcerted		<-->	adjective+C2[-0]	.
+
+
+
+
+
+disconcerting		<-->	adjective+C2[-0]	.
+
+
+
+
+
+disconsolate		<-->	adjective+C2[-0]	.
+
+
+
+
+
+discontent		<-->	noun+C1[-0]	.
+
+
+
+
+
+discontented		<-->	adjective+C1[-0]	.
+
+
+
+
+
+disgrace		<-->	verb+C2	[220913][1]	./dɪsˈɡreɪs/-NAmE /dɪsˈɡreɪs/
+	;sỉ nhục -- (1) to behave badly in a way that makes you or other people feel ashamed
+		;disgrace yourself I disgraced myself by drinking far too much.
+		;disgrace somebody/something He had disgraced the family name.
+		;TOPICS FeelingsC2
+		;<<insult, disgrace, >>
+
+
+
+
+
+
+
+disgraceful		<-->	adjective+C2	[220913][1]	./dɪsˈɡreɪsfl/-NAmE /dɪsˈɡreɪsfl/
+	;quá tồi tệ -- (1) very bad or unacceptable; that people should feel ashamed about
+		;His behaviour was absolutely disgraceful!
+		;It's disgraceful that none of the family tried to help her.
+		;a disgraceful waste of money
+		;TOPICS FeelingsC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;be
+				;adverb
+				;absolutelyquiteutterly…
+		;See full entry
+
+
+
+
+
+
+disgruntled		<-->	adjective+C2[-0]	.
+
+
+
+
+
+disgust		<-->	noun+C1[-0]	.dɪsˈɡʌst/-NAmE /dɪsˈɡʌst/ [uncountable]
+	;cảm giác/rất căm ghét ai đó -- (1) a strong feeling of dislike for somebody/something that you feel is unacceptable, or for something that looks, smells, etc. unpleasant
+		;The idea fills me with disgust.
+		;disgust for somebody I can only feel disgust for these criminals.
+		;disgust at/with something She expressed her disgust at the programme in a tweet.
+		;in disgust He walked away in disgust
+		;She wrinkled her nose in disgust at the smell.
+		;with disgust He regarded the cubes of fat with disgust.
+		;to somebody's disgust Much to my disgust, they refused to help.
+		;Extra Examples:
+		;I couldn't find the words to express my disgust at his actions.
+		;People are showing their disgust with the existing regime.
+		;They both looked with disgust at the men.
+		;Much to his disgust, he found himself sharing a carriage with a noisy young family.
+		;He threw her one look, then turned away in disgust.
+		;Marion threw down the book in disgust.
+		;Mr Haynes shook his head in obvious disgust and walked off.
+		;He gave a snort of disgust.
+		;She tried to hide the disgust that she felt.
+		;expressions of public disgust over the affair
+		;TOPICS Preferences and decisionsC1, FeelingsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;greatabsolutecomplete…
+				;verb + disgust
+				;feelexpressshow…
+				;preposition
+				;in disgustwith disgustdisgust at…
+				;phrases
+				;a snort of disgustan expression of disgusta look of disgust…
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+disgust		<-->	verb+C2	[220913][1]	./dɪsˈɡʌst/-NAmE /dɪsˈɡʌst/
+	;căm ghét -- (1) disgust somebody if something disgusts you, it makes you feel shocked and almost sick because it is so unpleasant
+		;The level of violence in the film really disgusted me.
+		;The feel of it, all cold and slimy, disgusted him.
+		;TOPICS FeelingsC2
+
+
+
+
+
+
+
+
+
+
+
+
+disgusted		<-->	adjective+C1	[220913][1]	./dɪsˈɡʌstɪd/-NAmE /dɪsˈɡʌstɪd/
+	;chán ghét -- (1) feeling or showing disgust
+		;disgusted (at/by somebody/something) I was disgusted at/by the sight.
+		;disgusted (with somebody/something/yourself) I was disgusted with myself for eating so much.
+		;disgusted (to see, hear, etc…) He was disgusted to see such awful living conditions.
+		;Extra Examples:
+		;I'm quite disgusted at the way he's treated you.
+		;I was thoroughly disgusted with her behaviour.
+		;I was thoroughly disgusted with the brutality of the system.
+		;She looked visibly disgusted.
+		;TOPICS FeelingsC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;reallyabsolutelyquite…
+				;preposition
+				;atbywith…
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+
+
+disgusting		<-->	adjective+B2	[220913][1]	./dɪsˈɡʌstɪŋ/-NAmE /dɪsˈɡʌstɪŋ/
+	;kinh tởm -- (1) extremely unpleasant
+		;SYNONYM revolting
+		;The kitchen was in a disgusting state when she left.
+		;What a disgusting smell!
+		;Synonyms DISGUSTING: foul, revolting, repulsive, offensive, gross
+		;<< DISGUSTING, foul, revolting, repulsive, offensive, gross, >>
+		;Extra Examples:
+		;He has some rather disgusting habits.
+		;That soup tastes disgusting!
+		;I've always thought he was a disgusting little man.
+		;Picking your nose is a disgusting habit.
+		;The sink was full of a disgusting black slime.
+		;This tastes absolutely disgusting.
+		;TOPICS FeelingsB2
+				;Oxford Collocations Dictionary
+				;verbs
+				;belooksmell…
+				;adverb
+				;particularlyreallytruly…
+		;See full entry
+
+
+
+
+disillusioned		<-->	adjective+C1[-0]	.
+
+
+
+
+
+disinterested		<-->	adjective+C2[-0]	.
+
+
+
+
+
+dismay		<-->	noun+C2[-0]	.
+
+
+
+
+
+dismay		<-->	verb+C2[-0]	.
+
+
+
+
+
+distress		<-->	noun+C1[-0]	.
+
+
+
+
+
+distress		<-->	verb+C1[-0]	.
+
+
+
+
+
+distressed		<-->	adjective+C1[-0]	.
+
+
+
+
+
+distressing		<-->	adjective+C1[-0]	.
+
+
+
+
+
+disturbed		<-->	adjective+C1[-0]	.
+
+
+
+
+
+dog-tired		<-->	adjective+C2[-0]	.
+
+
+
+
+
+doldrums		<-->	noun+C2[-0]	.
+
+
+
+
+
+doleful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+dote on		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+dote upon		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+doting		<-->	adjective+C2[-0]	.
+
+
+
+
+
+down		<-->	verb+C2[-0]	.
+
+
+
+
+
+down		<-->	adjective+B2[-0]	.
+
+
+
+
+
+downcast		<-->	adjective+C2[-0]	.
+
+
+
+
+
+downer		<-->	noun+C2[-0]	.
+
+
+
+
+
+downhearted		<-->	adjective+C2[-0]	.
+
+
+
+
+
+down in the dumps		<-->	idiom+C2[-0]	.
+
+
+
+
+
+down in the mouth		<-->	idiom+C2[-0]	.
+
+
+
+
+
+drab		<-->	adjective+C2[-0]	.
+
+
+
+
+
+drag		<-->	noun+C2[-0]	.
+
+
+
+
+
+drained		<-->	adjective+C2[-0]	.
+
+
+
+
+
+dre		<-->	adverb+C1[-0]	.
+
+
+
+
+
+dread		<-->	noun+C1[-0]	.
+
+
+
+
+
+dreaded		<-->	adjective+C2[-0]	.
+
+
+
+
+
+dreadful		<-->	adjective+B2[-0]	.
+
+
+
+
+
+dreary		<-->	adjective+C2[-0]	.
+
+
+
+
+
+droop		<-->	verb+C2[-0]	.
+
+
+
+
+
+drowsy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+dry		<-->	adjective+C2[-0]	.
+
+
+
+
+
+dull		<-->	adjective+B2[-0]	.
+
+
+
+
+
+dumbfound		<-->	verb+C2[-0]	.
+
+
+
+
+
+dumbfounded		<-->	adjective+C2[-0]	.
+
+
+
+
+
+eager		<-->	adjective+C1[-0]	.
+
+
+
+
+
+eagerness		<-->	noun+C1[-0]	.
+
+
+
+
+
+eco-anxiety		<-->	noun+C1[-0]	.
+
+
+
+
+
+ecstatic		<-->	adjective+C1[-0]	.
+
+
+
+
+
+edgy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+effervescent		<-->	adjective+C2[-0]	.
+
+
+
+
+
+ejaculation		<-->	noun+C2[-0]	.
+
+
+
+
+
+elated		<-->	adjective+C2[-0]	.
+
+
+
+
+
+electric		<-->	adjective+C2[-0]	.
+
+
+
+
+
+electrify		<-->	verb+C2[-0]	.
+
+
+
+
+
+embarrassed		<-->	adjective+B1[-0]	.
+
+
+
+
+
+embarrassing		<-->	adjective+B1[-0]	.
+
+
+
+
+
+embarrassment		<-->	noun+C1[-0]	.
+
+
+
+
+
+embitter		<-->	verb+C2[-0]	.
+
+
+
+
+
+embittered		<-->	adjective+C2[-0]	.
+
+
+
+
+
+emotion		<-->	noun+B1[-0]	.
+
+
+
+
+
+emotional		<-->	adjective+B2[-0]	.
+
+
+
+
+
+empathetic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+empathetically		<-->	adverb+C2[-0]	.
+
+
+
+
+
+emptiness		<-->	noun+C2[-0]	.
+
+
+
+
+
+empty		<-->	adjective+B2[-0]	.
+
+
+
+
+
+enamoured		<-->	adjective+C2[-0]	.
+
+
+
+
+
+enchant		<-->	verb+C2[-0]	.
+
+
+
+
+
+engrossed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+enjoy		<-->	verb+A2[-0]	.
+
+
+
+
+
+enjoyment		<-->	noun+B2[-0]	.
+
+
+
+
+
+enrage		<-->	verb+C2[-0]	.
+
+
+
+
+
+enthuse		<-->	verb+C2[-0]	.
+
+
+
+
+
+enthusiasm		<-->	noun+B2[-0]	.
+
+
+
+
+
+enthusiast		<-->	noun+C1[-0]	.
+
+
+
+
+
+envy		<-->	noun+C1[-0]	.
+
+
+
+
+
+envy		<-->	verb+C1[-0]	.
+
+
+
+
+
+exasperated		<-->	adjective+C2[-0]	.
+
+
+
+
+
+excitable		<-->	adjective+C2[-0]	.
+
+
+
+
+
+excite		<-->	verb+C1[-0]	.
+
+
+
+
+
+excited		<-->	adjective+B2[-0]	.
+
+
+
+
+
+excitement		<-->	noun+B1[-0]	.
+
+
+
+
+
+exclamatory		<-->	adjective+C2[-0]	.
+
+
+
+
+
+exhausted		<-->	adjective+B1[-0]	.
+
+
+
+
+
+exhausting		<-->	adjective+B2[-0]	.
+
+
+
+
+
+exhaustion		<-->	noun+C1[-0]	.
+
+
+
+
+
+exhilarate		<-->	verb+C2[-0]	.
+
+
+
+
+
+exhilarated		<-->	adjective+C2[-0]	.
+
+
+
+
+
+exhilaration		<-->	noun+C2[-0]	.
+
+
+
+
+
+explode		<-->	verb+C2[-0]	.
+
+
+
+
+
+explosive		<-->	adjective+C2[-0]	.
+
+
+
+
+
+exult		<-->	verb+C2[-0]	.
+
+
+
+
+
+exultant		<-->	adjective+C2[-0]	.
+
+
+
+
+
+fail		<-->	verb+C1[-0]	.
+
+
+
+
+
+faintness		<-->	noun+C2[-0]	.
+
+
+
+
+
+fall for		<-->	phrasal verb+C1[-0]	.
+
+
+
+
+
+famished		<-->	adjective+C2[-0]	.
+
+
+
+
+
+fancy		<-->	verb+B1[-0]	.
+
+
+
+
+
+far from pleased		<-->	idiom+C2[-0]	.
+
+
+
+
+
+fascinated		<-->	adjective+B2[-0]	.
+
+
+
+
+
+fascination		<-->	noun+C1[-0]	.
+
+
+
+
+
+fatigue		<-->	noun+C1[-0]	.
+
+
+
+
+
+fatigued		<-->	adjective+C2[-0]	.
+
+
+
+
+
+fear		<-->	verb+B1[-0]	.
+
+
+
+
+
+fear for		<-->	phrasal verb+C1[-0]	.
+
+
+
+
+
+fearful		<-->	adjective+B2[-0]	.
+
+
+
+
+
+fearsome		<-->	adjective+C2[-0]	.
+
+
+
+
+
+febrile		<-->	adjective+C2[-0]	.
+
+
+
+
+
+fed up		<-->	adjective+B1[-0]	.
+
+
+
+
+
+feellinking 		<-->	verb+A1[-0]	.
+
+
+
+
+
+feel good		<-->	idiom+A2[-0]	.
+
+
+
+
+
+feel-good		<-->	adjective+B2[-0]	.
+
+
+
+
+
+feeling		<-->	noun+A1[-0]	.
+
+
+
+
+
+fidget		<-->	verb+C2[-0]	.
+
+
+
+
+
+fidgety		<-->	adjective+C2[-0]	.
+
+
+
+
+
+fierce		<-->	adjective+C1[-0]	.
+
+
+
+
+
+fiery		<-->	adjective+C2[-0]	.
+
+
+
+
+
+fire		<-->	verb+C2[-0]	.
+
+
+
+
+
+flabbergasted		<-->	adjective+C2[-0]	.
+
+
+
+
+
+flap		<-->	verb+C2[-0]	.
+
+
+
+
+
+flare		<-->	verb+C2[-0]	.
+
+
+
+
+
+flare-up		<-->	noun+C2[-0]	.
+
+
+
+
+
+flare up		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+flattering		<-->	adjective+C2[-0]	.
+
+
+
+
+
+flinch		<-->	verb+C2[-0]	.
+
+
+
+
+
+flinch from		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+flinch from doing		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+flip		<-->	verb+C2[-0]	.
+
+
+
+
+
+flip your lid		<-->	idiom+C2[-0]	.
+
+
+
+
+
+float/walk on air		<-->	idiom+C2[-0]	.
+
+
+
+
+
+floor		<-->	verb+C2[-0]	.
+
+
+
+
+
+flop		<-->	verb+C2[-0]	.
+
+
+
+
+
+flourish		<-->	verb+C1[-0]	.
+
+
+
+
+
+flush		<-->	verb+C2[-0]	.
+
+
+
+
+
+flush		<-->	noun+C2[-0]	.
+
+
+
+
+
+fluster		<-->	noun+C2[-0]	.
+
+
+
+
+
+flutter		<-->	verb+C2[-0]	.
+
+
+
+
+
+flutter		<-->	noun+C2[-0]	.
+
+
+
+
+
+fly into a rage, temper, etc.		<-->	idiom+C2[-0]	.
+
+
+
+
+
+fly off the handle		<-->	idiom+C2[-0]	.
+
+
+
+
+
+foam at the mouth		<-->	idiom+C2[-0]	.
+
+
+
+
+
+FOMOabbreviationC2[-0]	.
+
+
+
+
+
+fond		<-->	adjective+C1[-0]	.
+
+
+
+
+
+foolish		<-->	adjective+C1[-0]	.
+
+
+
+
+
+for fear of something/of doing something		<-->	idiom+C1[-0]	.
+
+
+
+
+
+forlorn		<-->	adjective+C2[-0]	.
+
+
+
+
+
+frantic		<-->	adjective+C1[-0]	.
+
+
+
+
+
+frazzled		<-->	adjective+C2[-0]	.
+
+
+
+
+
+freak		<-->	verb+C2[-0]	.
+
+
+
+
+
+freeze your blood		<-->	idiom+C2[-0]	.
+
+
+
+
+
+fret		<-->	verb+C2[-0]	.
+
+
+
+
+
+fretful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+fright		<-->	noun+C1[-0]	.
+
+
+
+
+
+frightened		<-->	adjective+B1[-0]	.
+
+
+
+
+
+frisson		<-->	noun+C2[-0]	.
+
+
+
+
+
+frozen		<-->	adjective+C1[-0]	.
+
+
+
+
+
+frustrate		<-->	verb+C1	[220913][1]	./frʌˈstreɪt/-NAmE /ˈfrʌstreɪt/
+	;làm phiền -- (1) frustrate somebody to make somebody feel annoyed or impatient because they cannot do or achieve what they want
+		;What frustrates him is that there's too little money to spend on the project.
+		;TOPICS FeelingsC1
+
+
+
+
+
+frustrated		<-->	adjective+C1	[220913][1]	./frʌˈstreɪtɪd/-NAmE /ˈfrʌstreɪtɪd/
+	;nản lòng -- (1) feeling annoyed and impatient because you cannot do or achieve what you want
+		;It's very easy to get frustrated in this job.
+		;His apathy just made her even more frustrated.
+		;frustrated at/with something They felt frustrated at the lack of progress.
+		;Extra Examples:
+		;She sounded rather frustrated to me.
+		;Sometimes he gets really frustrated with his violin playing.
+		;This failure leaves the child depressed and frustrated.
+		;We were frustrated by the long delays.
+		;Airport workers were left to deal with the thousands of frustrated passengers.
+		;She gave a little frustrated sigh.
+		;TOPICS FeelingsC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;appearbefeel…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;atbywith…
+
+
+
+
+
+
+
+fulfil		<-->	verb+B2[-0]	.
+
+
+
+
+
+fulfilled		<-->	adjective+C1[-0]	.
+
+
+
+
+
+fume		<-->	verb+C2[-0]	.
+
+
+
+
+
+fun		<-->	noun+A1[-0]	.
+
+
+
+
+
+furious		<-->	adjective+B2[-0]	.
+
+
+
+
+
+fury		<-->	noun+C1	[220913][1]	./ˈfjʊəri/-NAmE /ˈfjʊri/
+​[singular] a state of being extremely angry about something
+SYNONYM rage
+He flew into a fury when I refused.
+Extra Examples
+TOPICS FeelingsC1[-0]	.
+Oxford Collocations Dictionary
+
+
+
+
+gall		<-->	verb+C2[-0]	.
+
+
+
+
+
+galling		<-->	adjective+C2[-0]	.
+
+
+
+
+
+galvanize		<-->	verb+C2[-0]	.
+
+
+
+
+
+gasp		<-->	verb+C1[-0]	.
+
+
+
+
+
+get/have cold feet		<-->	idiom+C2[-0]	.
+
+
+
+
+
+get/have the hots for somebody		<-->	idiom+C2[-0]	.
+
+
+
+
+
+gibber		<-->	verb+C2[-0]	.
+
+
+
+
+
+giddy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+give somebody the creeps		<-->	idiom+C2[-0]	.
+
+
+
+
+
+give your heart to somebody		<-->	idiom+C2[-0]	.
+
+
+
+
+
+glad		<-->	adjective+B1[-0]	.
+
+
+
+
+
+gladden		<-->	verb+C2[-0]	.
+
+
+
+
+
+glare		<-->	verb+C1[-0]	.
+
+
+
+
+
+glare		<-->	noun+C1[-0]	.
+
+
+
+
+
+glaze		<-->	verb+C2[-0]	.
+
+
+
+
+
+glee		<-->	noun+C2[-0]	.
+
+
+
+
+
+gleeful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+gloom		<-->	noun+C1[-0]	.
+
+
+
+
+
+gloomy		<-->	adjective+C1[-0]	.
+
+
+
+
+
+glow		<-->	verb+C2[-0]	.
+
+
+
+
+
+glow		<-->	noun+C2[-0]	.
+
+
+
+
+
+glower		<-->	verb+C2[-0]	.
+
+
+
+
+
+glued/riveted/rooted to the spot		<-->	idiom+C2[-0]	.
+
+
+
+
+
+glued/riveted/rooted to the spot		<-->	idiom+C2[-0]	.
+
+
+
+
+
+glum		<-->	adjective+C2[-0]	.
+
+
+
+
+
+gnash your teeth		<-->	idiom+C2[-0]	.
+
+
+
+
+
+gnaw at		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+go ballistic		<-->	idiom+C2[-0]	.
+
+
+
+
+
+go bananas		<-->	idiom+C2[-0]	.
+
+
+
+
+
+gobble		<-->	verb+C2[-0]	.
+
+
+
+
+
+gobsmacked		<-->	adjective+C2[-0]	.
+
+
+
+
+
+goggle		<-->	verb+C2[-0]	.
+
+
+
+
+
+goggle-eyed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+go hot and cold		<-->	idiom+C2[-0]	.
+
+
+
+
+
+go off on one		<-->	idiom+C2[-0]	.
+
+
+
+
+
+go on		<-->	phrasal verb+C1[-0]	.
+
+
+
+
+
+goose pimples		<-->	noun+C2[-0]	.
+
+
+
+
+
+gorge		<-->	verb+C2[-0]	.
+
+
+
+
+
+go spare		<-->	idiom+C2[-0]	.
+
+
+
+
+
+go through the roof		<-->	idiom+C2[-0]	.
+
+
+
+
+
+grab		<-->	verb+C2[-0]	.
+
+
+
+
+
+grateful		<-->	adjective+B1[-0]	.
+
+
+
+
+
+gratitude		<-->	noun+C1[-0]	.
+
+
+
+
+
+grave		<-->	adjective+C2[-0]	.
+
+
+
+
+
+greed		<-->	noun+C1[-0]	.
+
+
+
+
+
+greedy		<-->	adjective+B2[-0]	.
+
+
+
+
+
+grief-stricken		<-->	adjective+C2[-0]	.
+
+
+
+
+
+grieve		<-->	verb+C2[-0]	.
+
+
+
+
+
+groggy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+gross-out		<-->	noun+C2[-0]	.
+
+
+
+
+
+gross-out		<-->	adjective+C2[-0]	.
+
+
+
+
+
+grudge		<-->	noun+C2[-0]	.
+
+
+
+
+
+guilt		<-->	noun+C1[-0]	.
+
+
+
+
+
+guilty		<-->	adjective+B1[-0]	.
+
+
+
+
+
+gutted		<-->	adjective+C2[-0]	.
+
+
+
+
+
+guzzle		<-->	verb+C2[-0]	.
+
+
+
+
+
+hacked off		<-->	adjective+C2[-0]	.
+
+
+
+
+
+hang-up		<-->	noun+C2[-0]	.
+
+
+
+
+
+happiness		<-->	noun+B1[-0]	.
+
+
+
+
+
+happy		<-->	adjective+A1[-0]	.
+
+
+
+
+
+happy place		<-->	noun+C2[-0]	.
+
+
+
+
+
+harp on		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+hate		<-->	verb+A1[-0]	.
+
+
+
+
+
+hate		<-->	noun+B1[-0]	.
+
+
+
+
+
+hatred		<-->	noun+C1[-0]	.
+
+
+
+
+
+have a quick/short temper		<-->	idiom+C2[-0]	.
+
+
+
+
+
+have a thing for somebody/something		<-->	idiom+C2[-0]	.
+
+
+
+
+
+have got it bad		<-->	idiom+C2[-0]	.
+
+
+
+
+
+have hysterics		<-->	idiom+C2[-0]	.
+
+
+
+
+
+head over heels in love		<-->	idiom+C2[-0]	.
+
+
+
+
+
+heady		<-->	adjective+C2[-0]	.
+
+
+
+
+
+heart		<-->	noun+B1[-0]	.
+
+
+
+
+
+heartache		<-->	noun+C2[-0]	.
+
+
+
+
+
+heartbreak		<-->	noun+C2[-0]	.
+
+
+
+
+
+heartbreaking		<-->	adjective+C2[-0]	.
+
+
+
+
+
+heartbroken		<-->	adjective+C1[-0]	.
+
+
+
+
+
+heart-rending		<-->	adjective+C2[-0]	.
+
+
+
+
+
+heartsick		<-->	adjective+C2[-0]	.
+
+
+
+
+
+heaven		<-->	noun+B2[-0]	.
+
+
+
+
+
+het up		<-->	adjective+C2[-0]	.
+
+
+
+
+
+highly strung		<-->	adjective+C2[-0]	.
+
+
+
+
+
+hit the roof		<-->	idiom+C2[-0]	.
+
+
+
+
+
+hit/touch/strike a (raw/sensitive) nerve		<-->	idiom+C2[-0]	.
+
+
+
+
+
+homesick		<-->	adjective+B2[-0]	.
+
+
+
+
+
+homesickness		<-->	noun+C1[-0]	.
+
+
+
+
+
+honor		<-->	noun+B2[-0]	.
+
+
+
+
+
+honour		<-->	noun+B2[-0]	.
+
+
+
+
+
+hook		<-->	noun+C2[-0]	.
+
+
+
+
+
+hope		<-->	verb+A1[-0]	.
+
+
+
+
+
+hope		<-->	noun+A2[-0]	.
+
+
+
+
+
+hopping mad		<-->	idiom+C2[-0]	.
+
+
+
+
+
+horrified		<-->	adjective+C1[-0]	.
+
+
+
+
+
+horrify		<-->	verb+B2[-0]	.
+
+
+
+
+
+horrifying		<-->	adjective+C1[-0]	.
+
+
+
+
+
+horror		<-->	noun+B1[-0]	.
+
+
+
+
+
+horror-struck		<-->	adjective+C2[-0]	.
+
+
+
+
+
+hostile		<-->	adjective+C1[-0]	.
+
+
+
+
+
+hostility		<-->	noun+C1[-0]	.
+
+
+
+
+
+hot		<-->	adjective+C1[-0]	.
+
+
+
+
+
+hot-blooded		<-->	adjective+C2[-0]	.
+
+
+
+
+
+hot-tempered		<-->	adjective+C2[-0]	.
+
+
+
+
+
+hot under the collar		<-->	idiom+C2[-0]	.
+
+
+
+
+
+huff		<-->	verb+C2[-0]	.
+
+
+
+
+
+huff and puff		<-->	idiom+C2[-0]	.
+
+
+
+
+
+humdrum		<-->	adjective+C2[-0]	.
+
+
+
+
+
+humiliate		<-->	verb+C1	[220913][1]	./hjuːˈmɪlieɪt/
+/hjuːˈmɪlieɪt/
+	;sỉ nhục, làm nhục -- Verb Forms
+​		;humiliate somebody/yourself/something to make somebody feel ashamed or stupid and lose the respect of other people
+		;I didn't want to humiliate her in front of her colleagues.
+		;I've never felt so humiliated.
+		;How could I humiliate myself like that?
+		;The party was humiliated in the recent elections.
+		;Extra Examples
+		;TOPICS FeelingsC1[-0]	.
+		;Oxford Collocations Dictionary
+			;adverb
+				;deeply,  completely, totally…
+			;preposition
+				;in front of
+			;phrases
+				;feel humiliated
+
+
+
+
+humiliating		<-->	adjective+C1[-0]	.
+
+
+
+
+
+humiliation		<-->	noun+C1[-0]	.
+
+
+
+
+
+hunger		<-->	noun+B2[-0]	.
+
+
+
+
+
+hungry		<-->	adjective+A1[-0]	.
+
+
+
+
+
+hunted		<-->	adjective+C2[-0]	.
+
+
+
+
+
+hurt		<-->	verb+B2[-0]	.
+
+
+
+
+
+hyped up		<-->	adjective+C2[-0]	.
+
+
+
+
+
+hyper		<-->	adjective+C2[-0]	.
+
+
+
+
+
+hyperventilate		<-->	verb+C2[-0]	.
+
+
+
+
+
+hysteria		<-->	noun+C1[-0]	.
+
+
+
+
+
+hysterics		<-->	noun+C2[-0]	.
+
+
+
+
+
+idol		<-->	noun+C1[-0]	.
+
+
+
+
+
+idolatrous		<-->	adjective+C2[-0]	.
+
+
+
+
+
+idolatry		<-->	noun+C2[-0]	.
+
+
+
+
+
+idolize		<-->	verb+C2[-0]	.
+
+
+
+
+
+idyll		<-->	noun+C2[-0]	.
+
+
+
+
+
+ignominious		<-->	adjective+C2[-0]	.
+
+
+
+
+
+ignominy		<-->	noun+C2[-0]	.
+
+
+
+
+
+ill-tempered		<-->	adjective+C2[-0]	.
+
+
+
+
+
+illuminate		<-->	verb+C2[-0]	.
+
+
+
+
+
+illumine		<-->	verb+C2[-0]	.
+
+
+
+
+
+in a (flat) spin		<-->	idiom+C2[-0]	.
+
+
+
+
+
+in a huff		<-->	idiom+C2[-0]	.
+
+
+
+
+
+incense		<-->	verb+C2[-0]	.
+
+
+
+
+
+incensed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+inconsolable		<-->	adjective+C2[-0]	.
+
+
+
+
+
+indignant		<-->	adjective+C2[-0]	.
+
+
+
+
+
+indignation		<-->	noun+C2[-0]	.
+
+
+
+
+
+indignity		<-->	noun+C2[-0]	.
+
+
+
+
+
+infatuated		<-->	adjective+C2[-0]	.
+
+
+
+
+
+infatuation		<-->	noun+C2[-0]	.
+
+
+
+
+
+in fear of your life		<-->	idiom+C2[-0]	.
+
+
+
+
+
+inflamed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+infuriate		<-->	verb+C1[-0]	.
+
+
+
+
+
+infuriating		<-->	adjective+C1[-0]	.
+
+
+
+
+
+in good heart		<-->	idiom+C2[-0]	.
+
+
+
+
+
+inhibited		<-->	adjective+C2[-0]	.
+
+
+
+
+
+inhibition		<-->	noun+C2[-0]	.
+
+
+
+
+
+inquisitive		<-->	adjective+C1[-0]	.
+
+
+
+
+
+insecure		<-->	adjective+C1[-0]	.
+
+
+
+
+
+insecurity		<-->	noun+C1[-0]	.
+
+
+
+
+
+in seventh heaven		<-->	idiom+C2[-0]	.
+
+
+
+
+
+interest		<-->	noun+A1[-0]	.
+
+
+
+
+
+intimidated		<-->	adjective+C2[-0]	.
+
+
+
+
+
+intoxicated		<-->	adjective+C2[-0]	.
+
+
+
+
+
+intoxicating		<-->	adjective+C2[-0]	.
+
+
+
+
+
+intrigue		<-->	verb+C1[-0]	.
+
+
+
+
+
+intrigued		<-->	adjective+C1[-0]	.
+
+
+
+
+
+invective		<-->	noun+C2[-0]	.
+
+
+
+
+
+irascibility		<-->	noun+C2[-0]	.
+
+
+
+
+
+irascible		<-->	adjective+C2[-0]	.
+
+
+
+
+
+irate		<-->	adjective+C2[-0]	.
+
+
+
+
+
+irrepressible		<-->	adjective+C2[-0]	.
+
+
+
+
+
+irritate		<-->	verb+C1[-0]	.
+
+
+
+
+
+irritated		<-->	adjective+B2[-0]	.
+
+
+
+
+
+isolation		<-->	noun+C1[-0]	.
+
+
+
+
+
+jaunty		<-->	adjective+C2[-0]	.
+
+
+
+
+
+jealous		<-->	adjective+B1[-0]	.
+
+
+
+
+
+jealousy		<-->	noun+B2[-0]	.
+
+
+
+
+
+jitters		<-->	noun+C2[-0]	.
+
+
+
+
+
+jittery		<-->	adjective+C2[-0]	.
+
+
+
+
+
+jolt		<-->	noun+C2[-0]	.
+
+
+
+
+
+JOMOabbreviationC2[-0]	.
+
+
+
+
+
+joy		<-->	noun+B2[-0]	.
+
+
+
+
+
+joyful		<-->	adjective+C1[-0]	.
+
+
+
+
+
+joyous		<-->	adjective+C2[-0]	.
+
+
+
+
+
+jump		<-->	verb+B1[-0]	.
+
+
+
+
+
+jumpy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+keen		<-->	adjective+B1[-0]	.
+
+
+
+
+
+keyed up		<-->	adjective+C2[-0]	.
+
+
+
+
+
+kick off		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+knock		<-->	verb+C2[-0]	.
+
+
+
+
+
+knock somebody sideways		<-->	idiom+C2[-0]	.
+
+
+
+
+
+knot		<-->	verb+C2[-0]	.
+
+
+
+
+
+lament		<-->	verb+C2[-0]	.
+
+
+
+
+
+lash		<-->	verb+C2[-0]	.
+
+
+
+
+
+laugh		<-->	verb+A1[-0]	.
+
+
+
+
+
+laugh		<-->	noun+A1[-0]	.
+
+
+
+
+
+livid		<-->	adjective+C2[-0]	.
+
+
+
+
+
+loathe		<-->	verb+C1[-0]	.
+
+
+
+
+
+loathsome		<-->	adjective+C2[-0]	.
+
+
+
+
+
+loneliness		<-->	noun+C1[-0]	.
+
+
+
+
+
+lonely		<-->	adjective+B1[-0]	.
+
+
+
+
+
+loner		<-->	noun+C2[-0]	.
+
+
+
+
+
+lonesome		<-->	adjective+C2[-0]	.
+
+
+
+
+
+longing		<-->	noun+C2[-0]	.
+
+
+
+
+
+look/feel small		<-->	idiom+C2[-0]	.
+
+
+
+
+
+lose your heart (to somebody/something)		<-->	idiom+C2[-0]	.
+
+
+
+
+
+lose your rag		<-->	idiom+C2[-0]	.
+
+
+
+
+
+lovable		<-->	adjective+C1[-0]	.
+
+
+
+
+
+love		<-->	noun+A1[-0]	.
+
+
+
+
+
+love		<-->	verb+A1[-0]	.
+
+
+
+
+
+loved-up		<-->	adjective+C2[-0]	.
+
+
+
+
+
+loveless		<-->	adjective+C1[-0]	.
+
+
+
+
+
+lovelorn		<-->	adjective+C2[-0]	.
+
+
+
+
+
+lovesick		<-->	adjective+C2[-0]	.
+
+
+
+
+
+lovey-dovey		<-->	adjective+C2[-0]	.
+
+
+
+
+
+loving		<-->	adjective+C1[-0]	.
+
+
+
+
+
+lugubrious		<-->	adjective+C2[-0]	.
+
+
+
+
+
+lukewarm		<-->	adjective+C2[-0]	.
+
+
+
+
+
+lurch		<-->	verb+C2[-0]	.
+
+
+
+
+
+lurve		<-->	noun+C2[-0]	.
+
+
+
+
+
+lust		<-->	noun+C2[-0]	.
+
+
+
+
+
+mad		<-->	adjective+B1[-0]	.
+
+
+
+
+
+madden		<-->	verb+C2[-0]	.
+
+
+
+
+
+maddening		<-->	adjective+C2[-0]	.
+
+
+
+
+
+make somebody sick		<-->	idiom+C2[-0]	.
+
+
+
+
+
+make somebody’s blood boil		<-->	idiom+C2[-0]	.
+
+
+
+
+
+make somebody’s blood run cold		<-->	idiom+C2[-0]	.
+
+
+
+
+
+make somebody’s day		<-->	idiom+C1[-0]	.
+
+
+
+
+
+make somebody’s toes curl		<-->	idiom+C2[-0]	.
+
+
+
+
+
+make your flesh creep		<-->	idiom+C2[-0]	.
+
+
+
+
+
+make your skin crawl		<-->	idiom+C2[-0]	.
+
+
+
+
+
+manic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+marvel		<-->	verb+C1[-0]	.
+
+
+
+
+
+melancholy		<-->	noun+C2[-0]	.
+
+
+
+
+
+melancholy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+mellow		<-->	adjective+C2[-0]	.
+
+
+
+
+
+melting		<-->	adjective+C2[-0]	.
+
+
+
+
+
+menace		<-->	noun+C2[-0]	.
+
+
+
+
+
+merriment		<-->	noun+C2[-0]	.
+
+
+
+
+
+merry		<-->	adjective+C1[-0]	.
+
+
+
+
+
+messed-up		<-->	adjective+C2[-0]	.
+
+
+
+
+
+miffed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+mind-numbing		<-->	adjective+C2[-0]	.
+
+
+
+
+
+miserable		<-->	adjective+B2[-0]	.
+
+
+
+
+
+misery		<-->	noun+C1[-0]	.
+
+
+
+
+
+monotonous		<-->	adjective+C1[-0]	.
+
+
+
+
+
+monotony		<-->	noun+C2[-0]	.
+
+
+
+
+
+mood		<-->	noun+B2[-0]	.
+
+
+
+
+
+moody		<-->	adjective+B2[-0]	.
+
+
+
+
+
+moon about		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+moon around		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+moonstruck		<-->	adjective+C2[-0]	.
+
+
+
+
+
+morose		<-->	adjective+C2[-0]	.
+
+
+
+
+
+mortification		<-->	noun+C2[-0]	.
+
+
+
+
+
+mortify		<-->	verb+C2[-0]	.
+
+
+
+
+
+mortifying		<-->	adjective+C2[-0]	.
+
+
+
+
+
+mourn		<-->	verb+C2[-0]	.
+
+
+
+
+
+mournful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+munchies		<-->	noun+C2[-0]	.
+
+
+
+
+
+nail-biting		<-->	adjective+C2[-0]	.
+
+
+
+
+
+nerve		<-->	noun+B2[-0]	.
+
+
+
+
+
+nervous		<-->	adjective+A2[-0]	.
+
+
+
+
+
+nervy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+nettle		<-->	verb+C2[-0]	.
+
+
+
+
+
+neurosis		<-->	noun+C2[-0]	.
+
+
+
+
+
+nuts		<-->	adjective+C2[-0]	.
+
+
+
+
+
+offend		<-->	verb+B2[-0]	.
+
+
+
+
+
+OK		<-->	adjective+A1[-0]	.
+
+
+
+
+
+on top of the world		<-->	idiom+C1[-0]	.
+
+
+
+
+
+on your conscience		<-->	idiom+C2[-0]	.
+
+
+
+
+
+open-mouthed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+outrage		<-->	noun+C1[-0]	.
+
+
+
+
+
+outrage		<-->	verb+C1[-0]	.
+
+
+
+
+
+overawe		<-->	verb+C2[-0]	.
+
+
+
+
+
+overawed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+overexcited		<-->	adjective+C1[-0]	.
+
+
+
+
+
+overheated		<-->	adjective+C2[-0]	.
+
+
+
+
+
+overjoyed		<-->	adjective+C1[-0]	.
+
+
+
+
+
+overprotective		<-->	adjective+C2[-0]	.
+
+
+
+
+
+over the moon		<-->	idiom+C1[-0]	.
+
+
+
+
+
+overtired		<-->	adjective+C2[-0]	.
+
+
+
+
+
+overwrought		<-->	adjective+C2[-0]	.
+
+
+
+
+
+pain		<-->	noun+A2[-0]	.
+
+
+
+
+
+painful		<-->	adjective+B1[-0]	.
+
+
+
+
+
+palpitate		<-->	verb+C2[-0]	.
+
+
+
+
+
+panic		<-->	verb+B2[-0]	.
+
+
+
+
+
+paranoia		<-->	noun+C2[-0]	.
+
+
+
+
+
+parched		<-->	adjective+C2[-0]	.
+
+
+
+
+
+passion		<-->	noun+B1[-0]	.
+
+
+
+
+
+passionate		<-->	adjective+B2[-0]	.
+
+
+
+
+
+peckish		<-->	adjective+C2[-0]	.
+
+
+
+
+
+pessimism		<-->	noun+B2[-0]	.
+
+
+
+
+
+pessimist		<-->	noun+B2[-0]	.
+
+
+
+
+
+petrified		<-->	adjective+C2[-0]	.
+
+
+
+
+
+petrify		<-->	verb+C2[-0]	.
+
+
+
+
+
+phobia		<-->	noun+B1[-0]	.
+
+
+
+
+
+pig		<-->	verb+C1[-0]	.
+
+
+
+
+
+pine		<-->	verb+C2[-0]	.
+
+
+
+
+
+pique		<-->	noun+C2[-0]	.
+
+
+
+
+
+pity		<-->	noun+C1[-0]	.
+
+
+
+
+
+pity		<-->	verb+B2[-0]	.
+
+
+
+
+
+plaintive		<-->	adjective+C2[-0]	.
+
+
+
+
+
+pleased		<-->	adjective+A2[-0]	.
+
+
+
+
+
+pleasure		<-->	noun+B1[-0]	.
+
+
+
+
+
+poignancy		<-->	noun+C2[-0]	.
+
+
+
+
+
+poignant		<-->	adjective+C2[-0]	.
+
+
+
+
+
+poleaxe		<-->	verb+C2[-0]	.
+
+
+
+
+
+ponderous		<-->	adjective+C2[-0]	.
+
+
+
+
+
+pop		<-->	verb+C2[-0]	.
+
+
+
+
+
+pop-eyed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+predictable		<-->	adjective+C1[-0]	.
+
+
+
+
+
+prickle		<-->	verb+C2[-0]	.
+
+
+
+
+
+protective		<-->	adjective+C1[-0]	.
+
+
+
+
+
+proud		<-->	adjective+B1[-0]	.
+
+
+
+
+
+provocation		<-->	noun+C2[-0]	.
+
+
+
+
+
+provocative		<-->	adjective+C1[-0]	.
+
+
+
+
+
+provoke		<-->	verb+C1[-0]	.
+
+
+
+
+
+psyched		<-->	adjective+C2[-0]	.
+
+
+
+
+
+pull, tug, etc. at somebody's heartstrings		<-->	idiom+C2[-0]	.
+
+
+
+
+
+pump up		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+puppy love		<-->	noun+C2[-0]	.
+
+
+
+
+
+push		<-->	verb+C1[-0]	.
+
+
+
+
+
+put somebody on the spot		<-->	idiom+C2[-0]	.
+
+
+
+
+
+quail		<-->	verb+C2[-0]	.
+
+
+
+
+
+quake		<-->	verb+C2[-0]	.
+
+
+
+
+
+quarrel		<-->	noun+C2[-0]	.
+
+
+
+
+
+queasy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+quench		<-->	verb+C2[-0]	.
+
+
+
+
+
+querulous		<-->	adjective+C2[-0]	.
+
+
+
+
+
+quick-tempered		<-->	adjective+C2[-0]	.
+
+
+
+
+
+race		<-->	verb+C2[-0]	.
+
+
+
+
+
+radiance		<-->	noun+C2[-0]	.
+
+
+
+
+
+radiant		<-->	adjective+C2[-0]	.
+
+
+
+
+
+rage		<-->	noun+C1[-0]	.
+
+
+
+
+
+rage		<-->	verb+C2[-0]	.
+
+
+
+
+
+rail		<-->	verb+C2[-0]	.
+
+
+
+
+
+rankle		<-->	verb+C2[-0]	.
+
+
+
+
+
+rant		<-->	verb+C2[-0]	.
+
+
+
+
+
+rant and rave		<-->	idiom+C2[-0]	.
+
+
+
+
+
+rantings		<-->	noun+C2[-0]	.
+
+
+
+
+
+rapt		<-->	adjective+C2[-0]	.
+
+
+
+
+
+rattle		<-->	verb+C2[-0]	.
+
+
+
+
+
+ratty		<-->	adjective+C2[-0]	.
+
+
+
+
+
+rave		<-->	verb+C2[-0]	.
+
+
+
+
+
+ravenous		<-->	adjective+C2[-0]	.
+
+
+
+
+
+recluse		<-->	noun+C2[-0]	.
+
+
+
+
+
+reclusive		<-->	adjective+C2[-0]	.
+
+
+
+
+
+recoil		<-->	verb+C2[-0]	.
+
+
+
+
+
+red		<-->	adjective+A2[-0]	.
+
+
+
+
+
+red-faced		<-->	adjective+B1[-0]	.
+
+
+
+
+
+regret		<-->	noun+B2[-0]	.
+
+
+
+
+
+regretful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+rejoicing		<-->	noun+C2[-0]	.
+
+
+
+
+
+relief		<-->	noun+B2[-0]	.
+
+
+
+
+
+relieved		<-->	adjective+B2[-0]	.
+
+
+
+
+
+repel		<-->	verb+C2[-0]	.
+
+
+
+
+
+repetitive		<-->	adjective+B2[-0]	.
+
+
+
+
+
+reproach		<-->	verb+C2[-0]	.
+
+
+
+
+
+repugnance		<-->	noun+C2[-0]	.
+
+
+
+
+
+repugnant		<-->	adjective+C2[-0]	.
+
+
+
+
+
+repulse		<-->	verb+C2[-0]	.
+
+
+
+
+
+requite		<-->	verb+C2[-0]	.
+
+
+
+
+
+resent		<-->	verb+C1[-0]	.
+
+
+
+
+
+resentful		<-->	adjective+C1[-0]	.
+
+
+
+
+
+resentment		<-->	noun+C1[-0]	.
+
+
+
+
+
+retiring		<-->	adjective+C2[-0]	.
+
+
+
+
+
+revolt		<-->	verb+C2[-0]	.
+
+
+
+
+
+revulsion		<-->	noun+C2[-0]	.
+
+
+
+
+
+rile		<-->	verb+C2[-0]	.
+
+
+
+
+
+rip into		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+rivet		<-->	verb+C2[-0]	.
+
+
+
+
+
+roast		<-->	verb+C2[-0]	.
+
+
+
+
+
+round-eyed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+rouse		<-->	verb+C2[-0]	.
+
+
+
+
+
+routine		<-->	noun+B1[-0]	.
+
+
+
+
+
+routine		<-->	adjective+B2[-0]	.
+
+
+
+
+
+row		<-->	noun+C2[-0]	.
+
+
+
+
+
+rueful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+rut		<-->	noun+C2[-0]	.
+
+
+
+
+
+sad		<-->	adjective+A1[-0]	.
+
+
+
+
+
+sadden		<-->	verb+C2[-0]	.
+
+
+
+
+
+sadly		<-->	adverb+A2[-0]	.
+
+
+
+
+
+sadness		<-->	noun+B1[-0]	.
+
+
+
+
+
+satisfied		<-->	adjective+B2[-0]	.
+
+
+
+
+
+satisfy		<-->	verb+B2[-0]	.
+
+
+
+
+
+scare		<-->	noun+B2[-0]	.
+
+
+
+
+
+scared		<-->	adjective+A2[-0]	.
+
+
+
+
+
+scene		<-->	noun+C2[-0]	.
+
+
+
+
+
+scoff		<-->	verb+C2[-0]	.
+
+
+
+
+
+scream		<-->	verb+B2[-0]	.
+
+
+
+
+
+secure		<-->	adjective+B2[-0]	.
+
+
+
+
+
+security		<-->	noun+B2[-0]	.
+
+
+
+
+
+see red		<-->	idiom+C2[-0]	.
+
+
+
+
+
+seethe		<-->	verb+C2[-0]	.
+
+
+
+
+
+self-conscious		<-->	adjective+C1[-0]	.
+
+
+
+
+
+self-effacement		<-->	noun+C2[-0]	.
+
+
+
+
+
+self-effacing		<-->	adjective+C2[-0]	.
+
+
+
+
+
+self-esteem		<-->	noun+C1[-0]	.
+
+
+
+
+
+self-fulfilment		<-->	noun+C2[-0]	.
+
+
+
+
+
+self-loathing		<-->	noun+C2[-0]	.
+
+
+
+
+
+self-satisfaction		<-->	noun+C2[-0]	.
+
+
+
+
+
+self-satisfied		<-->	adjective+C2[-0]	.
+
+
+
+
+
+sensation		<-->	noun+C1[-0]	.
+
+
+
+
+
+sensational		<-->	adjective+C1[-0]	.
+
+
+
+
+
+sentiment		<-->	noun+C1[-0]	.
+
+
+
+
+
+sentimental		<-->	adjective+C1[-0]	.
+
+
+
+
+
+sepulchral		<-->	adjective+C2[-0]	.
+
+
+
+
+
+seraphic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+shake		<-->	verb+B2[-0]	.
+
+
+
+
+
+shake in your boots/shoes		<-->	idiom+C2[-0]	.
+
+
+
+
+
+shaken		<-->	adjective+C1[-0]	.
+
+
+
+
+
+shame		<-->	noun+B2[-0]	.
+
+
+
+
+
+shamefaced		<-->	adjective+C2[-0]	.
+
+
+
+
+
+shameful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+shaming		<-->	adjective+C2[-0]	.
+
+
+
+
+
+shattered		<-->	adjective+C1[-0]	.
+
+
+
+
+
+sheepish		<-->	adjective+C2[-0]	.
+
+
+
+
+
+shirty		<-->	adjective+C2[-0]	.
+
+
+
+
+
+shiver		<-->	verb+C1[-0]	.
+
+
+
+
+
+shock		<-->	verb+B2[-0]	.
+
+
+
+
+
+short-fused		<-->	adjective+C2[-0]	.
+
+
+
+
+
+short-tempered		<-->	adjective+C2[-0]	.
+
+
+
+
+
+shriek		<-->	verb+C2[-0]	.
+
+
+
+
+
+shriek		<-->	noun+C2[-0]	.
+
+
+
+
+
+shrink		<-->	verb+C2[-0]	.
+
+
+
+
+
+shudder		<-->	verb+C2[-0]	.
+
+
+
+
+
+shy		<-->	adjective+B1[-0]	.
+
+
+
+
+
+sick at heart		<-->	idiom+C2[-0]	.
+
+
+
+
+
+sickness		<-->	noun+C2[-0]	.
+
+
+
+
+
+sigh		<-->	verb+C1[-0]	.
+
+
+
+
+
+slake		<-->	verb+C2[-0]	.
+
+
+
+
+
+smile		<-->	verb+A2[-0]	.
+
+
+
+
+
+smile		<-->	noun+A2[-0]	.
+
+
+
+
+
+smile/grin/beam from ear to ear		<-->	idiom+C2[-0]	.
+
+
+
+
+
+smirk		<-->	verb+C2[-0]	.
+
+
+
+
+
+smirk		<-->	noun+C2[-0]	.
+
+
+
+
+
+smitten		<-->	adjective+C2[-0]	.
+
+
+
+
+
+smize		<-->	verb+C2[-0]	.
+
+
+
+
+
+smize		<-->	noun+C2[-0]	.
+
+
+
+
+
+smother		<-->	verb+C2[-0]	.
+
+
+
+
+
+snap		<-->	verb+C2[-0]	.
+
+
+
+
+
+snarf		<-->	verb+C2[-0]	.
+
+
+
+
+
+snarl		<-->	verb+C2[-0]	.
+
+
+
+
+
+solitary		<-->	adjective+C1[-0]	.
+
+
+
+
+
+solitude		<-->	noun+C2[-0]	.
+
+
+
+
+
+sombre		<-->	adjective+C2[-0]	.
+
+
+
+
+
+somebody’s blood is up		<-->	idiom+C2[-0]	.
+
+
+
+
+
+somebody’s face is like thunder		<-->	idiom+C2[-0]	.
+
+
+
+
+
+somebody’s heart is in their mouth		<-->	idiom+C2[-0]	.
+
+
+
+
+
+somebody’s heart leaps		<-->	idiom+C2[-0]	.
+
+
+
+
+
+something boggles the mind		<-->	idiom+C2[-0]	.
+
+
+
+
+
+sore		<-->	adjective+C2[-0]	.
+
+
+
+
+
+sorrow		<-->	noun+C1[-0]	.
+
+
+
+
+
+sorrowful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+sorry		<-->	adjective+A1[-0]	.
+
+
+
+
+
+soulful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+speechless		<-->	adjective+C1[-0]	.
+
+
+
+
+
+spent		<-->	adjective+C2[-0]	.
+
+
+
+
+
+spiky		<-->	adjective+C2[-0]	.
+
+
+
+
+
+spineless		<-->	adjective+C2[-0]	.
+
+
+
+
+
+spit		<-->	verb+C2[-0]	.
+
+
+
+
+
+splenetic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+spook		<-->	verb+C2[-0]	.
+
+
+
+
+
+square		<-->	adjective+C2[-0]	.
+
+
+
+
+
+stagger		<-->	verb+C2[-0]	.
+
+
+
+
+
+staggered		<-->	adjective+C2[-0]	.
+
+
+
+
+
+staid		<-->	adjective+C2[-0]	.
+
+
+
+
+
+start		<-->	verb+C2[-0]	.
+
+
+
+
+
+startle		<-->	verb+C2[-0]	.
+
+
+
+
+
+startled		<-->	adjective+C2[-0]	.
+
+
+
+
+
+static		<-->	noun+C2[-0]	.
+
+
+
+
+
+the heebie-jeebies		<-->	noun+C2[-0]	.
+
+
+
+
+
+the willies		<-->	noun+C2[-0]	.
+
+
+
+
+
+steal somebody’s heart		<-->	idiom+C2[-0]	.
+
+
+
+
+
+steaming		<-->	adjective+C2[-0]	.
+
+
+
+
+
+stimulate		<-->	verb+C1[-0]	.
+
+
+
+
+
+sting		<-->	verb+C2[-0]	.
+
+
+
+
+
+stir		<-->	verb+C2[-0]	.
+
+
+
+
+
+stir the blood		<-->	idiom+C2[-0]	.
+
+
+
+
+
+stoked		<-->	adjective+C2[-0]	.
+
+
+
+
+
+stoke up		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+stop/halt somebody in their tracks		<-->	idiom+C2[-0]	.
+
+
+
+
+
+storm		<-->	verb+C2[-0]	.
+
+
+
+
+
+stormy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+stress		<-->	noun+A2[-0]	.
+
+
+
+
+
+stress		<-->	verb+B2[-0]	.
+
+
+
+
+
+stressed		<-->	adjective+B1[-0]	.
+
+
+
+
+
+strife		<-->	noun+C2[-0]	.
+
+
+
+
+
+string along		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+strung up		<-->	adjective+C2[-0]	.
+
+
+
+
+
+stuff		<-->	verb+C2[-0]	.
+
+
+
+
+
+stuffed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+stuffy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+stun		<-->	verb+C1[-0]	.
+
+
+
+
+
+stupefaction		<-->	noun+C2[-0]	.
+
+
+
+
+
+stupefy		<-->	verb+C2[-0]	.
+
+
+
+
+
+subdued		<-->	adjective+C2[-0]	.
+
+
+
+
+
+suburban		<-->	adjective+C2[-0]	.
+
+
+
+
+
+sulk		<-->	verb+C2[-0]	.
+
+
+
+
+
+sulk		<-->	noun+C2[-0]	.
+
+
+
+
+
+sulky		<-->	adjective+C2[-0]	.
+
+
+
+
+
+sunny		<-->	adjective+C1[-0]	.
+
+
+
+
+
+surprise		<-->	noun+A2[-0]	.
+
+
+
+
+
+surprise		<-->	verb+A2[-0]	.
+
+
+
+
+
+surprised		<-->	adjective+A2[-0]	.
+
+
+
+
+
+surprising		<-->	adjective+A2[-0]	.
+
+
+
+
+
+sweep somebody off their feet		<-->	idiom+C2[-0]	.
+
+
+
+
+
+switched on		<-->	adjective+C2[-0]	.
+
+
+
+
+
+swoon		<-->	verb+C2[-0]	.
+
+
+
+
+
+take aback		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+tantrum		<-->	noun+C2[-0]	.
+
+
+
+
+
+tease		<-->	verb+B2[-0]	.
+
+
+
+
+
+teed off		<-->	adjective+C2[-0]	.
+
+
+
+
+
+tee off		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+temper		<-->	noun+B2[-0]	.
+
+
+
+
+
+temperamental		<-->	adjective+C2[-0]	.
+
+
+
+
+
+tense		<-->	adjective+C1[-0]	.
+
+
+
+
+
+terrible		<-->	adjective+A1[-0]	.
+
+
+
+
+
+terrify		<-->	verb+B2[-0]	.
+
+
+
+
+
+terrifying		<-->	adjective+B2[-0]	.
+
+
+
+
+
+terror		<-->	noun+B2[-0]	.
+
+
+
+
+
+tetchy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+thankful		<-->	adjective+C1[-0]	.
+
+
+
+
+
+the feel-good factor		<-->	idiom+C2[-0]	.
+
+
+
+
+
+thirst		<-->	noun+B2[-0]	.
+
+
+
+
+
+thirsty		<-->	adjective+A1[-0]	.
+
+
+
+
+
+thrill		<-->	noun+B2[-0]	.
+
+
+
+
+
+thrill		<-->	verb+B2[-0]	.
+
+
+
+
+
+thrilled		<-->	adjective+C1[-0]	.
+
+
+
+
+
+throw		<-->	verb+C2[-0]	.
+
+
+
+
+
+thunderous		<-->	adjective+C2[-0]	.
+
+
+
+
+
+thunderstruck		<-->	adjective+C2[-0]	.
+
+
+
+
+
+tight		<-->	adjective+C2[-0]	.
+
+
+
+
+
+tight-lipped		<-->	adjective+C2[-0]	.
+
+
+
+
+
+tirade		<-->	noun+C2[-0]	.
+
+
+
+
+
+tire		<-->	verb+C2[-0]	.
+
+
+
+
+
+tired		<-->	adjective+A1[-0]	.
+
+
+
+
+
+tiredness		<-->	noun+B1[-0]	.
+
+
+
+
+
+togetherness		<-->	noun+C2[-0]	.
+
+
+
+
+
+tongue-tied		<-->	adjective+C2[-0]	.
+
+
+
+
+
+torrid		<-->	adjective+C2[-0]	.
+
+
+
+
+
+torture		<-->	noun+C1[-0]	.
+
+
+
+
+
+torture		<-->	verb+C1[-0]	.
+
+
+
+
+
+tortured		<-->	adjective+C2[-0]	.
+
+
+
+
+
+tragic		<-->	adjective+B2[-0]	.
+
+
+
+
+
+tremble		<-->	verb+C1[-0]	.
+
+
+
+
+
+tremor		<-->	noun+C2[-0]	.
+
+
+
+
+
+tremulous		<-->	adjective+C2[-0]	.
+
+
+
+
+
+trepidation		<-->	noun+C2[-0]	.
+
+
+
+
+
+trigger		<-->	verb+C2[-0]	.
+
+
+
+
+
+trippy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+trouble		<-->	noun+B1[-0]	.
+
+
+
+
+
+truculence		<-->	noun+C2[-0]	.
+
+
+
+
+
+truculent		<-->	adjective+C2[-0]	.
+
+
+
+
+
+twinkle		<-->	noun+C2[-0]	.
+
+
+
+
+
+twitchy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+uncomfortable		<-->	adjective+B2[-0]	.
+
+
+
+
+
+unconcerned		<-->	adjective+C1[-0]	.
+
+
+
+
+
+unconsolable		<-->	adjective+C2[-0]	.
+
+
+
+
+
+underfed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+unease		<-->	noun+C2[-0]	.
+
+
+
+
+
+uneasy		<-->	adjective+C1[-0]	.
+
+
+
+
+
+unhappiness		<-->	noun+B1[-0]	.
+
+
+
+
+
+unhappy		<-->	adjective+A2[-0]	.
+
+
+
+
+
+uninterested		<-->	adjective+B2[-0]	.
+
+
+
+
+
+unnerve		<-->	verb+C2[-0]	.
+
+
+
+
+
+unnerving		<-->	adjective+C2[-0]	.
+
+
+
+
+
+unrequited		<-->	adjective+C2[-0]	.
+
+
+
+
+
+up		<-->	adjective+C2[-0]	.
+
+
+
+
+
+uplifted		<-->	adjective+C2[-0]	.
+
+
+
+
+
+upset		<-->	adjective+B1[-0]	.
+
+
+
+
+
+upset		<-->	verb+B1[-0]	.
+
+
+
+
+
+upsetting		<-->	adjective+B2[-0]	.
+
+
+
+
+
+uptight		<-->	adjective+C2[-0]	.
+
+
+
+
+
+vexed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+wail		<-->	verb+C2[-0]	.
+
+
+
+
+
+walk tall		<-->	idiom+C2[-0]	.
+
+
+
+
+
+wearing		<-->	adjective+C2[-0]	.
+
+
+
+
+
+wearisome		<-->	adjective+C2[-0]	.
+
+
+
+
+
+wear out		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+weary		<-->	adjective+C2[-0]	.
+
+
+
+
+
+weep		<-->	verb+C1[-0]	.
+
+
+
+
+
+weepy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+whacked		<-->	adjective+C2[-0]	.
+
+
+
+
+
+whip up		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+whirl		<-->	verb+C2[-0]	.
+
+
+
+
+
+whoop		<-->	verb+C2[-0]	.
+
+
+
+
+
+wide-eyed		<-->	adjective+C2[-0]	.
+
+
+
+
+
+wilt		<-->	verb+C2[-0]	.
+
+
+
+
+
+win somebody’s heart		<-->	idiom+C2[-0]	.
+
+
+
+
+
+wiped out		<-->	adjective+C2[-0]	.
+
+
+
+
+
+wired		<-->	adjective+C2[-0]	.
+
+
+
+
+
+with bated breath		<-->	idiom+C2[-0]	.
+
+
+
+
+
+woebegone		<-->	adjective+C2[-0]	.
+
+
+
+
+
+woeful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+wolf		<-->	verb+C2[-0]	.
+
+
+
+
+
+wonder		<-->	noun+B1[-0]	.
+
+
+
+
+
+wonderful		<-->	adjective+B1[-0]	.
+
+
+
+
+
+wonderment		<-->	noun+C2[-0]	.
+
+
+
+
+
+woo		<-->	verb+C2[-0]	.
+
+
+
+
+
+worked up		<-->	adjective+C2[-0]	.
+
+
+
+
+
+work off		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+worn		<-->	adjective+C2[-0]	.
+
+
+
+
+
+worn out		<-->	adjective+C1[-0]	.
+
+
+
+
+
+worried		<-->	adjective+A2[-0]	.
+
+
+
+
+
+worry		<-->	verb+A2[-0]	.
+
+
+
+
+
+worry		<-->	noun+B1[-0]	.
+
+
+
+
+
+worship		<-->	noun+C1[-0]	.
+
+
+
+
+
+worship		<-->	verb+C1[-0]	.
+
+
+
+
+
+wretched		<-->	adjective+C2[-0]	.
+
+
+
+
+
+wry		<-->	adjective+C2[-0]	.

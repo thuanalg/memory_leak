@@ -1,0 +1,5232 @@
+absentee ballot		<-->	noun+C2    
+
+
+
+
+
+
+
+
+absolutism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+abstain		<-->	verb+C2    
+
+
+
+
+
+
+
+
+abstention		<-->	noun+C2    
+
+
+
+
+
+
+
+
+act		<-->	noun+B1    
+
+
+
+
+
+
+
+
+activism		<-->	noun+C1    
+
+
+
+
+
+
+
+
+activist		<-->	noun+C1    
+
+
+
+
+
+
+
+
+affair		<-->	noun+B2    
+
+
+
+
+
+
+
+
+agency		<-->	noun+B2    
+
+
+
+
+
+
+
+
+agitprop		<-->	noun+C2    
+
+
+
+
+
+
+
+
+alliance		<-->	noun+C1    
+
+
+
+
+
+
+
+
+allied		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+ally		<-->	noun+C1    
+
+
+
+
+
+
+
+
+alternative vote		<-->	noun+C2    
+
+
+
+
+
+
+
+
+alt-right		<-->	noun+C2    
+
+
+
+
+
+
+
+
+ambassador		<-->	noun+C1    
+
+
+
+
+
+
+
+
+anarchism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+anarchist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+anarchy		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Antifa		<-->	noun+C2    
+
+
+
+
+
+
+
+
+apathy		<-->	noun+C2    
+
+
+
+
+
+
+
+
+apolitical		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+arena		<-->	noun+C1    
+
+
+
+
+
+
+
+
+arms control		<-->	noun+C2    
+
+
+
+
+
+
+
+
+assembly		<-->	noun+C1    
+
+
+
+
+
+
+
+
+attack ad		<-->	noun+C2    
+
+
+
+
+
+
+
+
+autonomous		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+autonomy		<-->	noun+C1    
+
+
+
+
+
+
+
+
+axis		<-->	noun+C2    
+
+
+
+
+
+
+
+
+back bench		<-->	noun+C2    
+
+
+
+
+
+
+
+
+backbencher		<-->	noun+C2    
+
+
+
+
+
+
+
+
+balance of power		<-->	noun+C2    
+
+
+
+
+
+
+
+
+ballot		<-->	noun+C1    
+
+
+
+
+
+
+
+
+ballot box		<-->	noun+C2    
+
+
+
+
+
+
+
+
+barangay		<-->	noun+C2    
+
+
+
+
+
+
+
+
+bench		<-->	noun+C2    
+
+
+
+
+
+
+
+
+bilateral		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+bill		<-->	noun+B2    
+
+
+
+
+
+
+
+
+bipartisan		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+bipartisanship		<-->	noun+C2    
+
+
+
+
+
+
+
+
+bloc		<-->	noun+C2    
+
+
+
+
+
+
+
+
+border		<-->	noun+B1    
+
+
+
+
+
+
+
+
+Brexit		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Brexiteer		<-->	noun+C2    
+
+
+
+
+
+
+
+
+bridge-building		<-->	noun+C2    
+
+
+
+
+
+
+
+
+brinkmanship		<-->	noun+C2    
+
+
+
+
+
+
+
+
+broker		<-->	verb+C2    
+
+
+
+
+
+
+
+
+budget		<-->	noun+B2    
+
+
+
+
+
+
+
+
+bundler		<-->	noun+C2    
+
+
+
+
+
+
+
+
+bureau		<-->	noun+C1    
+
+
+
+
+
+
+
+
+bureaucracy		<-->	noun+C1    
+
+
+
+
+
+
+
+
+bureaucrat		<-->	noun+C2    
+
+
+
+
+
+
+
+
+by-election		<-->	noun+C2    
+
+
+
+
+
+
+
+
+cabinet		<-->	noun+C1    
+
+
+
+
+
+
+
+
+campaign		<-->	noun+B1    
+
+
+
+
+
+
+
+
+candidacy		<-->	noun+C2    
+
+
+
+
+
+
+
+
+candidature		<-->	noun+C2    
+
+
+
+
+
+
+
+
+canvass		<-->	noun+C2    
+
+
+
+
+
+
+
+
+canvass		<-->	verb+C2    
+
+
+
+
+
+
+
+
+canvasser		<-->	noun+C2    
+
+
+
+
+
+
+
+
+capitalism		<-->	noun+C1    
+
+
+
+
+
+
+
+
+capitol		<-->	noun+C2    
+
+
+
+
+
+
+
+
+center		<-->	noun+B2    
+
+
+
+
+
+
+
+
+centralism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+centralist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+centre		<-->	noun+B2    
+
+
+
+
+
+
+
+
+centrist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+centrist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+chamber		<-->	noun+C1    
+
+
+
+
+
+
+
+
+chancellor		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Chief Whip		<-->	noun+C2    
+
+
+
+
+
+
+
+
+civil servant		<-->	noun+C1    
+
+
+
+
+
+
+
+
+coalition		<-->	noun+C1    
+
+
+
+
+
+
+
+
+collectivism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+collectivist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+colonialism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+colonialist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+colonialist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+commerce		<-->	noun+C1    
+
+
+
+
+
+
+
+
+commissioner		<-->	noun+C2    
+
+
+
+
+
+
+
+
+common market		<-->	noun+C1    
+
+
+
+
+
+
+
+
+communiqué		<-->	noun+C2    
+
+
+
+
+
+
+
+
+communism		<-->	noun+C1    
+
+
+
+
+
+
+
+
+communist		<-->	noun+C1    
+
+
+
+
+
+
+
+
+compact		<-->	noun+C2    
+
+
+
+
+
+
+
+
+comrade		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Con.abbreviationC2
+
+
+
+
+
+
+
+
+confederation		<-->	noun+C2    
+
+
+
+
+
+
+
+
+conference committee		<-->	noun+C2    
+
+
+
+
+
+
+
+
+conflict		<-->	noun+B2    
+
+
+
+
+
+
+
+
+congress		<-->	noun+B2    
+
+
+
+
+
+
+
+
+congressional		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+congressional district		<-->	noun+C2    
+
+
+
+
+
+
+
+
+congresswoman		<-->	noun+B2    
+
+
+
+
+
+
+
+
+conservatism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+conservative		<-->	adjective+BB2    
+
+
+
+
+
+
+
+
+conservative		<-->	noun+B2    
+
+
+
+
+
+
+
+
+constituency		<-->	noun+C1    
+
+
+
+
+
+
+
+
+constituent		<-->	noun+C2    
+
+
+
+
+
+
+
+
+constitution		<-->	noun+C1    
+
+
+
+
+
+
+
+
+constitutional		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+constitutionalism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+constitutionality		<-->	noun+C2    
+
+
+
+
+
+
+
+
+constitutionally		<-->	adverb+C1    
+
+
+
+
+
+
+
+
+constitutional monarchy		<-->	noun+C2    
+
+
+
+
+
+
+
+
+contest		<-->	noun+B2    
+
+
+
+
+
+
+
+
+contest		<-->	verb+B2    
+
+
+
+
+
+
+
+
+convention		<-->	noun+C1    
+
+
+
+
+
+
+
+
+corporation		<-->	noun+C2    
+
+
+
+
+
+
+
+
+council		<-->	noun+B2    
+
+
+
+
+
+
+
+
+councillor		<-->	noun+C1    
+
+
+
+
+
+
+
+
+coup		<-->	noun+C1    
+
+
+
+
+
+
+
+
+cross-border		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+crown		<-->	noun+C1    
+
+
+
+
+
+
+
+
+current affairs		<-->	noun+C1    
+
+
+
+
+
+
+
+
+customs union		<-->	noun+C2    
+
+
+
+
+
+
+
+
+debate		<-->	noun+B2    
+
+
+
+
+
+
+
+
+debate		<-->	verb+B2    
+
+
+
+
+
+
+
+
+Dem.abbreviationC2
+
+
+
+
+
+
+
+
+demagogue		<-->	noun+C2    
+
+
+
+
+
+
+
+
+democracy		<-->	noun+B2    
+
+
+
+
+
+
+
+
+democrat		<-->	noun+B2    
+
+
+
+
+
+
+
+
+democratic		<-->	adjective+BB2    
+
+
+
+
+
+
+
+
+department		<-->	noun+A2    
+
+
+
+
+
+
+
+
+deposit		<-->	noun+C2    
+
+
+
+
+
+
+
+
+deputy		<-->	noun+C1    
+
+
+
+
+
+
+
+
+deselect		<-->	verb+C2    
+
+
+
+
+
+
+
+
+despot		<-->	noun+C2    
+
+
+
+
+
+
+
+
+destabilize		<-->	verb+C2    
+
+
+
+
+
+
+
+
+detente		<-->	noun+C2    
+
+
+
+
+
+
+
+
+devolution		<-->	noun+C2    
+
+
+
+
+
+
+
+
+devolved		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+devolve on		<-->	phrasal verb+C2
+
+
+
+
+
+
+
+
+devolve to		<-->	phrasal verb+C2
+
+
+
+
+
+
+
+
+devolve upon		<-->	phrasal verb+C2
+
+
+
+
+
+
+
+
+dialogue		<-->	noun+B2    
+
+
+
+
+
+
+
+
+dictator		<-->	noun+C1    
+
+
+
+
+
+
+
+
+dictatorship		<-->	noun+C1    
+
+
+
+
+
+
+
+
+diplomacy		<-->	noun+C1    
+
+
+
+
+
+
+
+
+diplomat		<-->	noun+C1    
+
+
+
+
+
+
+
+
+diplomatic		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+diplomatically		<-->	adverb+C1    
+
+
+
+
+
+
+
+
+diplomatic bag		<-->	noun+C2    
+
+
+
+
+
+
+
+
+diplomatic corps		<-->	noun+C2    
+
+
+
+
+
+
+
+
+diplomatic immunity		<-->	noun+C2    
+
+
+
+
+
+
+
+
+diplomatist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+dirty trick		<-->	noun+C2    
+
+
+
+
+
+
+
+
+disenfranchise		<-->	verb+C2    
+
+
+
+
+
+
+
+
+dissidence		<-->	noun+C2    
+
+
+
+
+
+
+
+
+dissident		<-->	noun+C2    
+
+
+
+
+
+
+
+
+dissident		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+divine right		<-->	noun+C2    
+
+
+
+
+
+
+
+
+dog whistle		<-->	noun+C2    
+
+
+
+
+
+
+
+
+domestic		<-->	adjective+BB2    
+
+
+
+
+
+
+
+
+economy		<-->	noun+B1    
+
+
+
+
+
+
+
+
+egalitarian		<-->	noun+C2    
+
+
+
+
+
+
+
+
+egalitarian		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+egalitarianism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+elect		<-->	verb+B2    
+
+
+
+
+
+
+
+
+electable		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+election		<-->	noun+B1    
+
+
+
+
+
+
+
+
+electioneering		<-->	noun+C2    
+
+
+
+
+
+
+
+
+elective		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+elector		<-->	noun+C2    
+
+
+
+
+
+
+
+
+electoral		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+electoral college		<-->	noun+C2    
+
+
+
+
+
+
+
+
+electorate		<-->	noun+C1    
+
+
+
+
+
+
+
+
+embassy		<-->	noun+C1    
+
+
+
+
+
+
+
+
+enfranchise		<-->	verb+C2    
+
+
+
+
+
+
+
+
+enfranchisement		<-->	noun+C2    
+
+
+
+
+
+
+
+
+entente		<-->	noun+C2    
+
+
+
+
+
+
+
+
+EUabbreviationB1    
+
+
+
+
+
+
+
+
+executive		<-->	noun+C1    
+
+
+
+
+
+
+
+
+executive order		<-->	noun+C2    
+
+
+
+
+
+
+
+
+executive privilege		<-->	noun+C2    
+
+
+
+
+
+
+
+
+exile		<-->	noun+C1    
+
+
+
+
+
+
+
+
+exit poll		<-->	noun+C2    
+
+
+
+
+
+
+
+
+expansionism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+expansionist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+expansionist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+extremism		<-->	noun+C1    
+
+
+
+
+
+
+
+
+extremist		<-->	noun+C1    
+
+
+
+
+
+
+
+
+extremist		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+fanatic		<-->	noun+C2    
+
+
+
+
+
+
+
+
+fanatical		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+fanatically		<-->	adverb+C2    
+
+
+
+
+
+
+
+
+fanaticism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+fascism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+fascist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+fascist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+federal		<-->	adjective+BB2    
+
+
+
+
+
+
+
+
+federal governmentB2    
+
+
+
+
+
+
+
+
+federalism		<-->	noun+C1    
+
+
+
+
+
+
+
+
+federalist		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+federalist		<-->	noun+C1    
+
+
+
+
+
+
+
+
+federally		<-->	adverb+B2    
+
+
+
+
+
+
+
+
+federation		<-->	noun+C1    
+
+
+
+
+
+
+
+
+fellow traveller		<-->	noun+C2    
+
+
+
+
+
+
+
+
+feudal		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+feudalism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+first-past-the-post		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+floating voter		<-->	noun+C2    
+
+
+
+
+
+
+
+
+FLOTUSabbreviationC2    
+
+
+
+
+
+
+
+
+foreign		<-->	adjective+BA2    
+
+
+
+
+
+
+
+
+Foreign Service		<-->	noun+C2    
+
+
+
+
+
+
+
+
+franchise		<-->	noun+C2    
+
+
+
+
+
+
+
+
+free trade		<-->	noun+C1    
+
+
+
+
+
+
+
+
+frontier		<-->	noun+C1    
+
+
+
+
+
+
+
+
+general election		<-->	noun+C1    
+
+
+
+
+
+
+
+
+geopolitical		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+geopolitics		<-->	noun+C2    
+
+
+
+
+
+
+
+
+globalism		<-->	noun+C1    
+
+
+
+
+
+
+
+
+globalist		<-->	noun+C1    
+
+
+
+
+
+
+
+
+globalist		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+globalization		<-->	noun+B2    
+
+
+
+
+
+
+
+
+good-neighbourliness		<-->	noun+C2    
+
+
+
+
+
+
+
+
+govern		<-->	verb+B2    
+
+
+
+
+
+
+
+
+government		<-->	noun+A2    
+
+
+
+
+
+
+
+
+governor		<-->	noun+B2    
+
+
+
+
+
+
+
+
+green		<-->	adjective+BB1    
+
+
+
+
+
+
+
+
+green		<-->	noun+B2    
+
+
+
+
+
+
+
+
+hard left		<-->	noun+C2    
+
+
+
+
+
+
+
+
+hard power		<-->	noun+C2    
+
+
+
+
+
+
+
+
+hard right		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Home Secretary		<-->	noun+C2    
+
+
+
+
+
+
+
+
+human right		<-->	noun+B2    
+
+
+
+
+
+
+
+
+hustings		<-->	noun+C2    
+
+
+
+
+
+
+
+
+ideal		<-->	noun+B2    
+
+
+
+
+
+
+
+
+idealism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+identity politics		<-->	noun+C2    
+
+
+
+
+
+
+
+
+ideological		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+ideologically		<-->	adverb+C1    
+
+
+
+
+
+
+
+
+ideologue		<-->	noun+C2    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ideology		<-->	noun+C1    /ˌaɪdiˈɒlədʒi/
+
+
+
+
+
+
+
+
+ /ˌaɪdiˈɑːlədʒi/
+
+
+
+
+
+
+
+
+	;hệ tư tưởng -- [countable, uncountable] (plural ideologies)(sometimes disapproving)a set of ideas that an economic or political system is based on
+
+
+
+
+
+
+
+
+		;Marxist/capitalist ideology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+imperialism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+imperialist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+imperialist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+inaugural		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+inaugural		<-->	noun+C2    
+
+
+
+
+
+
+
+
+inaugurate		<-->	verb+C2    
+
+
+
+
+
+
+
+
+inauguration		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Inauguration Day		<-->	noun+C2    
+
+
+
+
+
+
+
+
+incoming		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+independence		<-->	noun+B2    
+
+
+
+
+
+
+
+
+independent		<-->	adjective+BA2    
+
+
+
+
+
+
+
+
+independent		<-->	noun+C1    
+
+
+
+
+
+
+
+
+interest group		<-->	noun+C2    
+
+
+
+
+
+
+
+
+intergovernmental		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+international		<-->	adjective+BA2    
+
+
+
+
+
+
+
+
+internationalism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+internationalist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+internationalist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+internationally		<-->	adverb+B1    
+
+
+
+
+
+
+
+
+interventionism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+interventionist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+interventionist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+isolationism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+isolationist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+isolationist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+king		<-->	noun+A2    
+
+
+
+
+
+
+
+
+kleptocracy		<-->	noun+C2    
+
+
+
+
+
+
+
+
+kleptocratic		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+Lab.abbreviationC2
+
+
+
+
+
+
+
+
+labour		<-->	noun+B2    
+
+
+
+
+
+
+
+
+landslide		<-->	noun+C2    
+
+
+
+
+
+
+
+
+law		<-->	noun+A2    
+
+
+
+
+
+
+
+
+lawful		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+leader		<-->	noun+A2    
+
+
+
+
+
+
+
+
+leadership		<-->	noun+B2    
+
+
+
+
+
+
+
+
+league		<-->	noun+B2    
+
+
+
+
+
+
+
+
+leaver		<-->	noun+C2    
+
+
+
+
+
+
+
+
+left		<-->	noun+B1    
+
+
+
+
+
+
+
+
+leftism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+leftist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+leftist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+left wing		<-->	noun+C1    
+
+
+
+
+
+
+
+
+left-wing		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+left-winger		<-->	noun+C1    
+
+
+
+
+
+
+
+
+legislate		<-->	verb+C1    
+
+
+
+
+
+
+
+
+legislation		<-->	noun+C1    
+
+
+
+
+
+
+
+
+legislative		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+legislator		<-->	noun+C1    
+
+
+
+
+
+
+
+
+legislature		<-->	noun+C1    
+
+
+
+
+
+
+
+
+Leninism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Leninist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+Leninist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Lib DemabbreviationC2    
+
+
+
+
+
+
+
+
+liberal		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+liberalism		<-->	noun+C1    
+
+
+
+
+
+
+
+
+libertarian		<-->	noun+C2    
+
+
+
+
+
+
+
+
+line-item veto		<-->	noun+C2    
+
+
+
+
+
+
+
+
+lobby		<-->	noun+C2    
+
+
+
+
+
+
+
+
+lobby		<-->	verb+C1    
+
+
+
+
+
+
+
+
+mainstream		<-->	noun+C1    
+
+
+
+
+
+
+
+
+majority		<-->	noun+B2    
+
+
+
+
+
+
+
+
+majority whip		<-->	noun+C2    
+
+
+
+
+
+
+
+
+mandate		<-->	noun+C1    
+
+
+
+
+
+
+
+
+manifesto		<-->	noun+C1    
+
+
+
+
+
+
+
+
+marginal		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+marginal		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Marxism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Marxist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Marxist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+mass		<-->	noun+B2    
+
+
+
+
+
+
+
+
+mayor		<-->	noun+B2    
+
+
+
+
+
+
+
+
+Member of Congress		<-->	noun+B2    
+
+
+
+
+
+
+
+
+Member of Parliament		<-->	noun+B1    
+
+
+
+
+
+
+
+
+militarism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+militarist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+militaristic		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+minister		<-->	noun+B2    
+
+
+
+
+
+
+
+
+ministerial		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+ministry		<-->	noun+C1    
+
+
+
+
+
+
+
+
+minority government		<-->	noun+C2    
+
+
+
+
+
+
+
+
+moderate		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+moderate		<-->	noun+C1    
+
+
+
+
+
+
+
+
+monarch		<-->	noun+B2    
+
+
+
+
+
+
+
+
+monarchy		<-->	noun+B2    
+
+
+
+
+
+
+
+
+movement		<-->	noun+B1    
+
+
+
+
+
+
+
+
+MP		<-->	noun+B1    
+
+
+
+
+
+
+
+
+multilateral		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+multilateralism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+municipality		<-->	noun+C2    
+
+
+
+
+
+
+
+
+national convention		<-->	noun+C2    
+
+
+
+
+
+
+
+
+nationalism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+nationalist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+nationalist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+nationalistic		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+NATOabbreviationC1    
+
+
+
+
+
+
+
+
+negotiate		<-->	verb+B2    
+
+
+
+
+
+
+
+
+negotiation		<-->	noun+B2    
+
+
+
+
+
+
+
+
+neocolonialism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+neoconservative		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+neoconservative		<-->	noun+C2    
+
+
+
+
+
+
+
+
+neoliberal		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+neoliberalism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+nominate		<-->	verb+C1    
+
+
+
+
+
+
+
+
+nomination		<-->	noun+C1    
+
+
+
+
+
+
+
+
+non-aggression		<-->	noun+C2    
+
+
+
+
+
+
+
+
+non-intervention		<-->	noun+C2    
+
+
+
+
+
+
+
+
+non-interventionism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+non-interventionist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+non-partisan		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+non-violence		<-->	noun+C2    
+
+
+
+
+
+
+
+
+non-violent		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+office		<-->	noun+A2    
+
+
+
+
+
+
+
+
+off year		<-->	noun+C2    
+
+
+
+
+
+
+
+
+oligarch		<-->	noun+C2    
+
+
+
+
+
+
+
+
+oligarchy		<-->	noun+C2    
+
+
+
+
+
+
+
+
+opposition		<-->	noun+B2    
+
+
+
+
+
+
+
+
+outgoing		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+overall majority		<-->	noun+C2    
+
+
+
+
+
+
+
+
+PACabbreviationC2    
+
+
+
+
+
+
+
+
+pacifism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+pacifist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+pacifist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+pairing		<-->	noun+C2    
+
+
+
+
+
+
+
+
+parliament		<-->	noun+B2    
+
+
+
+
+
+
+
+
+parliamentarian		<-->	noun+C2    /ˌpɑːləmənˈteəriən/
+ /ˌpɑːrləmənˈteriən/
+	;thành viên quốc hội -- == a member of a parliament, especially one with a lot of skill and experience
+		;TOPICS PoliticsC2
+
+
+
+
+
+
+
+parliamentary		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+parliamentary privilege		<-->	noun+C2    
+
+
+
+
+
+
+
+
+partition		<-->	noun+C2    
+
+
+
+
+
+
+
+
+party		<-->	noun+B1    
+
+
+
+
+
+
+
+
+party line		<-->	noun+C2    
+
+
+
+
+
+
+
+
+party political		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+party political broadcast		<-->	noun+C2    
+
+
+
+
+
+
+
+
+party politics		<-->	noun+C2    
+
+
+
+
+
+
+
+
+pass		<-->	verb+B2    
+
+
+
+
+
+
+
+
+passage		<-->	noun+C2    
+
+
+
+
+
+
+
+
+passing		<-->	noun+C1    
+
+
+
+
+
+
+
+
+pentagon		<-->	noun+C2    
+
+
+
+
+
+
+
+
+people power		<-->	noun+C2    
+
+
+
+
+
+
+
+
+platform		<-->	noun+C2    
+
+
+
+
+
+
+
+
+PM		<-->	noun+B2    
+
+
+
+
+
+
+
+
+police state		<-->	noun+C1    
+
+
+
+
+
+
+
+
+policy		<-->	noun+B1    
+
+
+
+
+
+
+
+
+policymaker		<-->	noun+C1    
+
+
+
+
+
+
+
+
+policymaking		<-->	noun+C1    
+
+
+
+
+
+
+
+
+political		<-->	adjective+BB1    
+
+
+
+
+
+
+
+
+political action committee		<-->	noun+C2    
+
+
+
+
+
+
+
+
+political capital		<-->	noun+C2    
+
+
+
+
+
+
+
+
+political geography		<-->	noun+C2    
+
+
+
+
+
+
+
+
+politically		<-->	adverb+B1    
+
+
+
+
+
+
+
+
+political science		<-->	noun+C1    
+
+
+
+
+
+
+
+
+political scientist		<-->	noun+C1    
+
+
+
+
+
+
+
+
+politician		<-->	noun+B1    
+
+
+
+
+
+
+
+
+politics		<-->	noun+B1    
+
+
+
+
+
+
+
+
+poll		<-->	noun+C1    
+
+
+
+
+
+
+
+
+polling		<-->	noun+C1    
+
+
+
+
+
+
+
+
+polling booth		<-->	noun+C2    
+
+
+
+
+
+
+
+
+polling day		<-->	noun+C2    
+
+
+
+
+
+
+
+
+polling station		<-->	noun+C2    
+
+
+
+
+
+
+
+
+popular vote		<-->	noun+C2    
+
+
+
+
+
+
+
+
+populism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+populist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+populist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+postal vote		<-->	noun+C2    
+
+
+
+
+
+
+
+
+POTUSabbreviationC2    
+
+
+
+
+
+
+
+
+power		<-->	noun+A2    
+
+
+
+
+
+
+
+
+power grab		<-->	noun+C2    
+
+
+
+
+
+
+
+
+power politics		<-->	noun+C2    
+
+
+
+
+
+
+
+
+premier		<-->	noun+C2    
+
+
+
+
+
+
+
+
+president		<-->	noun+A2    
+
+
+
+
+
+
+
+
+press gallery		<-->	noun+C2    
+
+
+
+
+
+
+
+
+pressure group		<-->	noun+C2    
+
+
+
+
+
+
+
+
+primary		<-->	noun+C2    
+
+
+
+
+
+
+
+
+prime minister		<-->	noun+B1    
+
+
+
+
+
+
+
+
+pro-prefixC1    
+
+
+
+
+
+
+
+
+propaganda		<-->	noun+C1    
+
+
+
+
+
+
+
+
+proportional representation		<-->	noun+C2    
+
+
+
+
+
+
+
+
+proposition		<-->	noun+C1    
+
+
+
+
+
+
+
+
+prorogue		<-->	verb+C2    
+
+
+
+
+
+
+
+
+protest vote		<-->	noun+B2    
+
+
+
+
+
+
+
+
+psephologist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+psephology		<-->	noun+C2    
+
+
+
+
+
+
+
+
+push poll		<-->	noun+C2    
+
+
+
+
+
+
+
+
+push polling		<-->	noun+C2    
+
+
+
+
+
+
+
+
+queen		<-->	noun+A2    
+
+
+
+
+
+
+
+
+radical		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+radical		<-->	noun+C1    
+
+
+
+
+
+
+
+
+radicalism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+rainbow coalition		<-->	noun+C2    
+
+
+
+
+
+
+
+
+rally		<-->	noun+C1    
+
+
+
+
+
+
+
+
+rapprochement		<-->	noun+C2    
+
+
+
+
+
+
+
+
+reactionary		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+reactionary		<-->	noun+C2    
+
+
+
+
+
+
+
+
+recess		<-->	noun+C2    
+
+
+
+
+
+
+
+
+red		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+red		<-->	noun+C1    
+
+
+
+
+
+
+
+
+red tape		<-->	noun+C2    
+
+
+
+
+
+
+
+
+referendum		<-->	noun+C1    
+
+
+
+
+
+
+
+
+reform		<-->	noun+C1    
+
+
+
+
+
+
+
+
+reform		<-->	verb+C1    
+
+
+
+
+
+
+
+
+reformer		<-->	noun+C1    
+
+
+
+
+
+
+
+
+reformist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+regime		<-->	noun+C1    
+
+
+
+
+
+
+
+
+regime change		<-->	noun+C1    
+
+
+
+
+
+
+
+
+relation		<-->	noun+B1    
+
+
+
+
+
+
+
+
+relationship		<-->	noun+A2    
+
+
+
+
+
+
+
+
+Remainer		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Remoaner		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Rep.abbreviationC2
+
+
+
+
+
+
+
+
+repeal		<-->	noun+C2    
+
+
+
+
+
+
+
+
+repeal		<-->	verb+C2    
+
+
+
+
+
+
+
+
+representative		<-->	noun+B2    
+
+
+
+
+
+
+
+
+representative		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+republic		<-->	noun+C1    
+
+
+
+
+
+
+
+
+republican		<-->	noun+C2    
+
+
+
+
+
+
+
+
+republican		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+republicanism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+resolution		<-->	noun+C1    
+
+
+
+
+
+
+
+
+result		<-->	noun+A1    
+
+
+
+
+
+
+
+
+revisionist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+revisionist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+revolt		<-->	noun+C2    
+
+
+
+
+
+
+
+
+revolt		<-->	verb+C2    
+
+
+
+
+
+
+
+
+revolution		<-->	noun+B2    
+
+
+
+
+
+
+
+
+revolutionary		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+revolutionary		<-->	noun+C1    
+
+
+
+
+
+
+
+
+rightist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+rightist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+right-wing		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+right-winger		<-->	noun+C1    
+
+
+
+
+
+
+
+
+rule		<-->	noun+B2    
+
+
+
+
+
+
+
+
+rule		<-->	verb+B1    
+
+
+
+
+
+
+
+
+ruler		<-->	noun+B1    
+
+
+
+
+
+
+
+
+ruling		<-->	noun+C1    
+
+
+
+
+
+
+
+
+run		<-->	verb+B2    
+
+
+
+
+
+
+
+
+running mate		<-->	noun+C2    
+
+
+
+
+
+
+
+
+safe seat		<-->	noun+C2    
+
+
+
+
+
+
+
+
+seat		<-->	noun+B2    
+
+
+
+
+
+
+
+
+second chamber		<-->	noun+C2    
+
+
+
+
+
+
+
+
+secretary		<-->	noun+B2    
+
+
+
+
+
+
+
+
+Secretary of State		<-->	noun+C2    
+
+
+
+
+
+
+
+
+secularism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+secularist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+senate		<-->	noun+C1    
+
+
+
+
+
+
+
+
+senator		<-->	noun+C1    
+
+
+
+
+
+
+
+
+session		<-->	noun+B2    
+
+
+
+
+
+
+
+
+shadow		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+sit		<-->	verb+C2    
+
+
+
+
+
+
+
+
+slogan		<-->	noun+B2    
+
+
+
+
+
+
+
+
+smear		<-->	verb+C2    
+
+
+
+
+
+
+
+
+smear		<-->	noun+C2    
+
+
+
+
+
+
+
+
+socialism		<-->	noun+C1    
+
+
+
+
+
+
+
+
+socialist		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+soft money		<-->	noun+C2    
+
+
+
+
+
+
+
+
+soft power		<-->	noun+C2    
+
+
+
+
+
+
+
+
+speaker		<-->	noun+C2    
+
+
+
+
+
+
+
+
+special interest group		<-->	noun+C2    
+
+
+
+
+
+
+
+
+speech		<-->	noun+A2    
+
+
+
+
+
+
+
+
+spin		<-->	noun+C2    
+
+
+
+
+
+
+
+
+spin doctor		<-->	noun+C2    
+
+
+
+
+
+
+
+
+spokesman		<-->	noun+B2    
+
+
+
+
+
+
+
+
+spokesperson		<-->	noun+B2    
+
+
+
+
+
+
+
+
+spokeswoman		<-->	noun+B2    
+
+
+
+
+
+
+
+
+stand		<-->	verb+B2    
+
+
+
+
+
+
+
+
+state		<-->	noun+A2    
+
+
+
+
+
+
+
+
+state		<-->	adjective+BB1    
+
+
+
+
+
+
+
+
+state house		<-->	noun+C2    
+
+
+
+
+
+
+
+
+statesman		<-->	noun+C1    
+
+
+
+
+
+
+
+
+statism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+statist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+statist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+statute		<-->	noun+C2    
+
+
+
+
+
+
+
+
+statute law		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Foreign, Commonwealth and Development Office		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the legislative branch		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the judicial branch		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the civil service		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Conservative Party		<-->	noun+B2    
+
+
+
+
+
+
+
+
+the Communist Party		<-->	noun+C1    
+
+
+
+
+
+
+
+
+the Diplomatic Service		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Democratic Party		<-->	noun+B2    
+
+
+
+
+
+
+
+
+the European Union		<-->	noun+B1    
+
+
+
+
+
+
+
+
+the executive branch		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the front bench		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Foreign Secretary		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Home Office		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Houses of Parliament		<-->	noun+C1    
+
+
+
+
+
+
+
+
+the House of Representatives		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the House of Lords		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the House of Commons		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Labour Party		<-->	noun+B2    
+
+
+
+
+
+
+
+
+the Leader of the House		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Leader of the Opposition		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Liberal Democrats		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Republican Party		<-->	noun+C1    
+
+
+
+
+
+
+
+
+the right wing		<-->	noun+C1    
+
+
+
+
+
+
+
+
+the Schengen agreement		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the Scottish National Party		<-->	noun+B2    
+
+
+
+
+
+
+
+
+the State of the Union Address		<-->	noun+C2    
+
+
+
+
+
+
+
+
+the United Nations		<-->	noun+B1    
+
+
+
+
+
+
+
+
+the Commons		<-->	noun+C2    
+
+
+
+
+
+
+
+
+straw poll		<-->	noun+C2    
+
+
+
+
+
+
+
+
+summit		<-->	noun+C1    
+
+
+
+
+
+
+
+
+support		<-->	verb+A2    
+
+
+
+
+
+
+
+
+supporter		<-->	noun+B1    
+
+
+
+
+
+
+
+
+swing state		<-->	noun+C2    
+
+
+
+
+
+
+
+
+swing vote		<-->	noun+C2    
+
+
+
+
+
+
+
+
+swing voter		<-->	noun+C2    
+
+
+
+
+
+
+
+
+thaw		<-->	verb+C2    
+
+
+
+
+
+
+
+
+thaw		<-->	noun+C2    
+
+
+
+
+
+
+
+
+ticket		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Tory		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Tory		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+Toryism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+town hall		<-->	noun+B1    
+
+
+
+
+
+
+
+
+trade		<-->	noun+B1    
+
+
+
+
+
+
+
+
+transatlantic		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+transnational		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+treaty		<-->	noun+C1    
+
+
+
+
+
+
+
+
+turnout		<-->	noun+C1    
+
+
+
+
+
+
+
+
+tyrant		<-->	noun+C2    
+
+
+
+
+
+
+
+
+unelected		<-->	adjective+BC1    
+
+
+
+
+
+
+
+
+unilateralism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+unilateralist		<-->	noun+C2    
+
+
+
+
+
+
+
+
+unilateralist		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+unrest		<-->	noun+C2    
+
+
+
+
+
+
+
+
+upper chamber		<-->	noun+C2    
+
+
+
+
+
+
+
+
+upper house		<-->	noun+C2    
+
+
+
+
+
+
+
+
+uprising		<-->	noun+C2    
+
+
+
+
+
+
+
+
+utilitarian		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+utilitarianism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+utopian		<-->	adjective+BC2    
+
+
+
+
+
+
+
+
+utopianism		<-->	noun+C2    
+
+
+
+
+
+
+
+
+vote		<-->	noun+B1    
+
+
+
+
+
+
+
+
+vote		<-->	verb+B1    
+
+
+
+
+
+
+
+
+voter		<-->	noun+B1    
+
+
+
+
+
+
+
+
+voting		<-->	noun+B2    
+
+
+
+
+
+
+
+
+voting booth		<-->	noun+C2    
+
+
+
+
+
+
+
+
+voting machine		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Westminster		<-->	noun+C2    
+
+
+
+
+
+
+
+
+whip		<-->	noun+C2    
+
+
+
+
+
+
+
+
+wing		<-->	noun+C1    
+
+
+
+
+
+
+
+
+witch-hunt		<-->	noun+C2    

@@ -1,0 +1,1387 @@
+	2022-05-08
+
+
+
+
+
+
+
+
+absinthe		<-->	noun+C2    
+
+
+
+
+
+
+
+
+advocaat		<-->	noun+C2    
+
+
+
+
+
+
+
+
+alcohol		<-->	noun+B1    
+
+
+
+
+
+
+
+
+alcoholic		<-->	adjective+B1    
+
+
+
+
+
+
+
+
+alcopop		<-->	noun+C2    
+
+
+
+
+
+
+
+
+ale		<-->	noun+C2    
+
+
+
+
+
+
+
+
+aperitif		<-->	noun+C2    
+
+
+
+
+
+
+
+
+bar		<-->	noun+A2    
+
+
+
+
+
+
+
+
+barley water		<-->	noun+C2    
+
+
+
+
+
+
+
+
+beef tea		<-->	noun+C2    
+
+
+
+
+
+
+
+
+beer		<-->	noun+A1    
+
+
+
+
+
+
+
+
+beverage		<-->	noun+C1    
+
+
+
+
+
+
+
+
+Bloody Mary		<-->	noun+C2    
+
+
+
+
+
+
+
+
+booze		<-->	noun+C2    
+
+
+
+
+
+
+
+
+bourbon		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Bovril™		<-->	noun+C2    
+
+
+
+
+
+
+
+
+brandy		<-->	noun+C1    
+
+
+
+
+
+
+
+
+brew		<-->	verb+C1    
+
+
+
+
+
+
+
+
+brewery		<-->	noun+C1    
+
+
+
+
+
+
+
+
+bubble tea		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Buck’s Fizz		<-->	noun+C2    
+
+
+
+
+
+
+
+
+burgundy		<-->	noun+C2    
+
+
+
+
+
+
+
+
+buttermilk		<-->	noun+C2    
+
+
+
+
+
+
+
+
+caffè latte		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Calvados		<-->	noun+C2    
+
+
+
+
+
+
+
+
+champagne		<-->	noun+B1    
+
+
+
+
+
+
+
+
+chartreuse		<-->	noun+C2    
+
+
+
+
+
+
+
+
+cider		<-->	noun+C2    
+
+
+
+
+
+
+
+
+claret		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Coca-Cola™		<-->	noun+A1    
+
+
+
+
+
+
+
+
+cocktail		<-->	noun+C1    
+
+
+
+
+
+
+
+
+cocoa		<-->	noun+B2    
+
+
+
+
+
+
+
+
+coffee		<-->	noun+A1    
+
+
+
+
+
+
+
+
+cognac		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Cointreau™		<-->	noun+C2    
+
+
+
+
+
+
+
+
+cold brew		<-->	noun+C2    
+
+
+
+
+
+
+
+
+cordial		<-->	noun+C2    
+
+
+
+
+
+
+
+
+corkscrew		<-->	noun+C1    
+
+
+
+
+
+
+
+
+craft beer		<-->	noun+C2    
+
+
+
+
+
+
+
+
+craft brewery		<-->	noun+C2    
+
+
+
+
+
+
+
+
+cream soda		<-->	noun+C2    
+
+
+
+
+
+
+
+
+crème de cacao		<-->	noun+C2    
+
+
+
+
+
+
+
+
+crème de menthe		<-->	noun+C2    
+
+
+
+
+
+
+
+
+decaffeinated		<-->	adjective+C1    
+
+
+
+
+
+
+
+
+distil		<-->	verb+C2    
+
+
+
+
+
+
+
+
+distillery		<-->	noun+C2    
+
+
+
+
+
+
+
+
+drink		<-->	noun+A1    
+
+
+
+
+
+
+
+
+drink		<-->	verb+A1    
+
+
+
+
+
+
+
+
+drinking chocolate		<-->	noun+A2    
+
+
+
+
+
+
+
+
+eggnog		<-->	noun+C2    
+
+
+
+
+
+
+
+
+energy drink		<-->	noun+C1    
+
+
+
+
+
+
+
+
+fizzy		<-->	adjective+B1    
+
+
+
+
+
+
+
+
+flat		<-->	adjective+C2    
+
+
+
+
+
+
+
+
+G and T		<-->	noun+C2    
+
+
+
+
+
+
+
+
+gin		<-->	noun+C1    
+
+
+
+
+
+
+
+
+ginger ale		<-->	noun+C2    
+
+
+
+
+
+
+
+
+ginger beer		<-->	noun+C2    
+
+
+
+
+
+
+
+
+ginger wine		<-->	noun+C2    
+
+
+
+
+
+
+
+
+goldwasser		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Grand Marnier™		<-->	noun+C2    
+
+
+
+
+
+
+
+
+grappa		<-->	noun+C2    
+
+
+
+
+
+
+
+
+gulp		<-->	verb+C2    
+
+
+
+
+
+
+
+
+gulp		<-->	noun+C2    
+
+
+
+
+
+
+
+
+guzzle		<-->	verb+C2    
+
+
+
+
+
+
+
+
+herbal tea		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Horlicks™		<-->	noun+C2    
+
+
+
+
+
+
+
+
+hot chocolate		<-->	noun+A2    
+
+
+
+
+
+
+
+
+ice		<-->	noun+A1    
+
+
+
+
+
+
+
+
+ice cube		<-->	noun+B2    
+
+
+
+
+
+
+
+
+infusion		<-->	noun+C2    
+
+
+
+
+
+
+
+
+isotonic		<-->	adjective+C2    
+
+
+
+
+
+
+
+
+juice		<-->	noun+A1    
+
+
+
+
+
+
+
+
+julep		<-->	noun+C2    
+
+
+
+
+
+
+
+
+kefir		<-->	noun+C2    
+
+
+
+
+
+
+
+
+kettle		<-->	noun+B1    
+
+
+
+
+
+
+
+
+lager		<-->	noun+C2    
+
+
+
+
+
+
+
+
+latte		<-->	noun+C2    
+
+
+
+
+
+
+
+
+lemonade		<-->	noun+B1    
+
+
+
+
+
+
+
+
+limeade		<-->	noun+C2    
+
+
+
+
+
+
+
+
+liqueur		<-->	noun+C2    
+
+
+
+
+
+
+
+
+liquor		<-->	noun+C2    
+
+
+
+
+
+
+
+
+malt		<-->	noun+C2    
+
+
+
+
+
+
+
+
+malted milk		<-->	noun+C2    
+
+
+
+
+
+
+
+
+malt liquor		<-->	noun+C2    
+
+
+
+
+
+
+
+
+manhattan		<-->	noun+C2    
+
+
+
+
+
+
+
+
+margarita		<-->	noun+C2    
+
+
+
+
+
+
+
+
+martini		<-->	noun+C2    
+
+
+
+
+
+
+
+
+microbrewery		<-->	noun+C2    
+
+
+
+
+
+
+
+
+milk		<-->	noun+A1    
+
+
+
+
+
+
+
+
+milkshake		<-->	noun+B2    
+
+
+
+
+
+
+
+
+milk tea		<-->	noun+C1    
+
+
+
+
+
+
+
+
+milky		<-->	adjective+B1    
+
+
+
+
+
+
+
+
+mimosa		<-->	noun+C2    
+
+
+
+
+
+
+
+
+mineral water		<-->	noun+B2    
+
+
+
+
+
+
+
+
+mint julep		<-->	noun+C2    
+
+
+
+
+
+
+
+
+mixer		<-->	noun+C2    
+
+
+
+
+
+
+
+
+mocha		<-->	noun+C2    
+
+
+
+
+
+
+
+
+neat		<-->	adjective+C2    
+
+
+
+
+
+
+
+
+non-alcoholic		<-->	adjective+B1    
+
+
+
+
+
+
+
+
+on iceidiomB2
+
+
+
+
+
+
+
+
+orange		<-->	noun+A1    
+
+
+
+
+
+
+
+
+orangeade		<-->	noun+C2    
+
+
+
+
+
+
+
+
+orange squash		<-->	noun+C2    
+
+
+
+
+
+
+
+
+pina colada		<-->	noun+C2    
+
+
+
+
+
+
+
+
+pint		<-->	noun+C1    
+
+
+
+
+
+
+
+
+port		<-->	noun+C2    
+
+
+
+
+
+
+
+
+poteen		<-->	noun+C2    
+
+
+
+
+
+
+
+
+potheen		<-->	noun+C2    
+
+
+
+
+
+
+
+
+pour		<-->	verb+B1    
+
+
+
+
+
+
+
+
+Prosecco™		<-->	noun+C2    
+
+
+
+
+
+
+
+
+protein shake		<-->	noun+C2    
+
+
+
+
+
+
+
+
+pub		<-->	noun+A2    
+
+
+
+
+
+
+
+
+public house		<-->	noun+C2    
+
+
+
+
+
+
+
+
+punch		<-->	noun+C2    
+
+
+
+
+
+
+
+
+quench		<-->	verb+C2    
+
+
+
+
+
+
+
+
+raki		<-->	noun+C2    
+
+
+
+
+
+
+
+
+rosé		<-->	noun+C2    
+
+
+
+
+
+
+
+
+rum		<-->	noun+C2    
+
+
+
+
+
+
+
+
+sake		<-->	noun+C2    
+
+
+
+
+
+
+
+
+sangria		<-->	noun+C2    
+
+
+
+
+
+
+
+
+sarsaparilla		<-->	noun+C2    
+
+
+
+
+
+
+
+
+Scotch		<-->	noun+C2    
+
+
+
+
+
+
+
+
+shandy		<-->	noun+C2    
+
+
+
+
+
+
+
+
+sherry		<-->	noun+C2    
+
+
+
+
+
+
+
+
+short		<-->	noun+C2    
+
+
+
+
+
+
+
+
+sip		<-->	verb+C1    
+
+
+
+
+
+
+
+
+skimmed milk		<-->	noun+B2    
+
+
+
+
+
+
+
+
+slurp		<-->	verb+C2    
+
+
+
+
+
+
+
+
+smoothie		<-->	noun+C1    
+
+
+
+
+
+
+
+
+soda		<-->	noun+B1    
+
+
+
+
+
+
+
+
+soft		<-->	adjective+C1    
+
+
+
+
+
+
+
+
+soft drink		<-->	noun+B2    
+
+
+
+
+
+
+
+
+sparkling		<-->	adjective+B2    
+
+
+
+
+
+
+
+
+spirit		<-->	noun+B2    
+
+
+
+
+
+
+
+
+spritzer		<-->	noun+C2    
+
+
+
+
+
+
+
+
+squash		<-->	noun+C2    
+
+
+
+
+
+
+
+
+still		<-->	adjective+C1    
+
+
+
+
+
+
+
+
+straight		<-->	adjective+C2    
+
+
+
+
+
+
+
+
+tea		<-->	noun+A1    
+
+
+
+
+
+
+
+
+tea leaf		<-->	noun+C1    
+
+
+
+
+
+
+
+
+teapot		<-->	noun+B1    
+
+
+
+
+
+
+
+
+tequila		<-->	noun+C2    
+
+
+
+
+
+
+
+
+tequila sunrise		<-->	noun+C2    
+
+
+
+
+
+
+
+
+thirst		<-->	noun+B2    
+
+
+
+
+
+
+
+
+thirsty		<-->	adjective+A1    
+
+
+
+
+
+
+
+
+tonic		<-->	noun+C2    
+
+
+
+
+
+
+
+
+vintage		<-->	noun+C2    
+
+
+
+
+
+
+
+
+vintage		<-->	adjective+C2    
+
+
+
+
+
+
+
+
+vodka		<-->	noun+C1    
+
+
+
+
+
+
+
+
+water		<-->	noun+A1    
+
+
+
+
+
+
+
+
+whisky		<-->	noun+B2    
+
+
+
+
+
+
+
+
+whisky mac		<-->	noun+C2    
+
+
+
+
+
+
+
+
+whisky sour		<-->	noun+C2    
+
+
+
+
+
+
+
+
+wine		<-->	noun+A1    

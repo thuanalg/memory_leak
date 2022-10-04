@@ -1,0 +1,3169 @@
+absorb		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+
+
+
+accelerate		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+
+
+acceleration		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+acid		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+acid		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+acidity		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+activate		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+
+
+
+activation		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+aerodynamics		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+alcohol		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+alkali		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+alloy		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+alpha particle		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+alpha radiation		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+aluminium		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+ammonia		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+amphoteric		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+amplitude		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+anion		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+antimatter		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+arsenic		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+atom		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+atomic		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+atomic energy		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+atomic number		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+bend		<-->	verb+B1[-0]	.
+
+
+
+
+
+
+
+
+
+block		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+boiling point		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+bond		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+bond		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+
+
+breeze block		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+brick		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+bronze		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+calcium		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+carbon		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+carbon dioxide		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+carbon monoxide		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+catalyse		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+catalysis		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+catalyst		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+catalytic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+cation		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+caustic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+Celsius		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+cement		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+centigrade		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+centre of mass		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+centripetal force		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+chalk		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+charcoal		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+charge		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+charge		<-->	verb+B1[-0]	.
+
+
+
+
+
+
+
+
+
+charged		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+charger		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+chemical		<-->	adjective+B1[-0]	.
+
+
+
+
+
+
+
+
+
+chemical		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+chemist		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+chemistry		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+chlorine		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+chrome		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+circulate		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+
+
+cobalt		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+composition		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+compound		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+compress		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+
+
+concrete		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+
+
+
+concrete		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+condense		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+conductive		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+conductivity		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+conductor		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+contract		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+
+
+
+copper		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+corrode		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+corrosion		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+covalent		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+crack		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+
+
+
+crystal		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+dark matter		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+deactivate		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+decay		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+density		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+depleted uranium		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+detergent		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+dissolve		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+
+
+distil		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+ductile		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+dynamic		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+dynamite		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+effort		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+electric		<-->	adjective+A2[-0]	.
+
+
+
+
+
+
+
+
+
+electrical		<-->	adjective+A2[-0]	.
+
+
+
+
+
+
+
+
+
+electricity		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+electromagnetic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+electromagnetism		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+electron		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+element		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+elementary particle		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+emission		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+emit		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+
+
+energy		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+entropy		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+evaporate		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+
+
+evaporation		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+expand		<-->	verb+B1[-0]	.
+
+
+
+
+
+
+
+
+
+expansivity		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+fabric		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+Fahrenheit		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+fibre		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+fibreboard		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+fibreglass		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+field		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+filtrate		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+fissile		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+fission		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+flameproof		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+flexible		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+
+
+
+fluoride		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+force		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+freezing point		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+frequency		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+friction		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+fundamental force		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+fundamental particle		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+fusion		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+gamma radiation		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+gas		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+gelignite		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+glucose		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+gold		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+graphite		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+gravitation		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+gravitational		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+gravitational wave		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+gravity		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+gunpowder		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+heat		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+heavy		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+
+
+
+helium		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+hydroelectric		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+
+
+
+hydrogen		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+incident		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+induction		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+inertia		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+infrared		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+inorganic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+insoluble		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+insulated		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+insulating		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+interference		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+iodine		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+ion		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+ionic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+iron		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+isotope		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+kinetic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+laser		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+lead		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+light		<-->	nooun+A1[-0]	.
+
+
+
+
+
+
+
+
+
+light		<-->	adjective+A2[-0]	.
+
+
+
+
+
+
+
+
+
+lightweight		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+liquid		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+lithium		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+magnesium		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+magnet		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+magnetic		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+magnetism		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+magnetize		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+mass		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+material		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+matter		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+mechanic		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+mechanical		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+melamine		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+melt		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+
+
+
+mercury		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+metal		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+metallic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+microwave		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+mineral		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+mole		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+molecular		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+molecule		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+momentum		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+motion		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+nanotechnological		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+nanotechnology		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+neon		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+neutron		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+nickel		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+nitrogen		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+nuclear		<-->	adjective+B1[-0]	.
+
+
+
+
+
+
+
+
+
+nuclear energy		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+nuclear fission		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+nuclear fusion		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+nuclear physics		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+nuclear power		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+nuclear reactor		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+nucleus		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+nylon		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+ore		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+organic		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+oscillate		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+oxygen		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+ozone		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+particle		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+paving stone		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+Perspex™		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+petrol		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+petroleum		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+pH		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+photon		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+physical		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+
+
+
+physicist		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+physics		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+plasma		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+plastic		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+plastic		<-->	adjective+A2[-0]	.
+
+
+
+
+
+
+
+
+
+platinum		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+plutonium		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+pole		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+polyester		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+polythene		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+polyurethane		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+potassium		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+potential energy		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+precipitate		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+pressure		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+product		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+proof		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+
+
+
+property		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+proton		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+pull		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+PVC		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+quark		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+radiate		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+
+
+radiation		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+radioactive		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+radioactivity		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+radium		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+raw material		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+ray		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+rayon		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+react		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+
+
+
+reaction		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+reactor		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+reflect		<-->	verb+B1[-0]	.
+
+
+
+
+
+
+
+
+
+reflectivity		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+refract		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+refraction		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+refractive index		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+reinforce		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+
+
+resilient		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+resin		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+resistance		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+rigid		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+RNA		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+salt		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+sand		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+shape		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+
+
+
+
+shatter		<-->	verb+C1[-0]	./ˈʃætə(r)/-NAmE /ˈʃætər/
+	;vỡ ra đột ngột -- [intransitive, transitive] to suddenly break into small pieces; to make something suddenly break into small pieces
+		;shatter (into something) He dropped the vase and it shattered into pieces on the floor.
+		;The mirror shattered into a thousand pieces.
+		;the sound of shattering glass
+		;shatter something (into something) The explosion shattered all the windows in the building.
+
+
+
+
+
+
+
+
+
+ 
+sheet		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+silicon		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+silver		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+sodium		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+solar		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+
+
+
+solid		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+solidify		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+soluble		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+solute		<-->	nooun+C2[-0]	./ˈsɒljuːt/,  /sɒˈljuːt/
+ /ˈsɑːljuːt/ (chemistry)
+	;chất tan -- == (1) a substance that has been dissolved in a liquid (= made to become part of the liquid) so that together they form a solution
+		;TOPICS Physics and chemistryC2
+
+
+
+
+
+
+
+
+solution		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+solvent		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+spectrum		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+static		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+static		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+the periodic table		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+steel		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+stick		<-->	verb+B1[-0]	.
+
+
+
+
+
+
+
+
+
+stone		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+strain		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+stress		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+stretch		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+
+
+
+strong force		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+substance		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+sulphite		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+sulphur		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+sulphurous		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+sun		<-->	nooun+A1[-0]	.
+
+
+
+
+
+
+
+
+
+suspension		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+synthesis		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+synthesize		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+synthetic		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+tensile		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+terminal velocity		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+thermal		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+
+
+thermoplastic		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+thermostatic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+thermostatically		<-->	adverb+C2[-0]	.
+
+
+
+
+
+
+
+
+
+tin		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+titanium		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+twist		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+
+
+ultraviolet		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+uranium		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+vacuum		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+vapor		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+vapour		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+vector		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+velocity		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+volatile		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+water-repellent		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+
+
+wave		<-->	nooun+B1[-0]	.
+
+
+
+
+
+
+
+
+
+wavelength		<-->	nooun+C1[-0]	.
+
+
+
+
+
+
+
+
+
+weak force		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+
+wood		<-->	nooun+A2[-0]	.
+
+
+
+
+
+
+
+
+
+X-ray		<-->	nooun+B2[-0]	.
+
+
+
+
+
+
+
+
+
+zinc		<-->	nooun+C2[-0]	.
+
+
+
+
+
+
+
+
+

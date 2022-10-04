@@ -1,0 +1,530 @@
+	Line 87: -bunk off		<-->	 phrasal verb+C2
+	Line 88: -bunk off school		<-->	 phrasal verb+C2
+	Line 89: -bunk off work		<-->	 phrasal verb+C2
+	Line 173: -drop out		<-->	 phrasal verb+B2
+	Line 341: -major in		<-->	 phrasal verb+C1
+	Line 346: -mark down		<-->	 phrasal verb+C2
+	Line 360: -mess around		<-->	 phrasal verb+C1
+	Line 547: -swot up		<-->	 phrasal verb+C2
+	Line 548: -swot up on		<-->	 phrasal verb+C2
+	Line 561: -tell off		<-->	 phrasal verb+C1
+	Line 562: -tell on		<-->	 phrasal verb+C2
+	Line 655: -break up		<-->	 phrasal verb+B1
+	Line 743: -fall in with		<-->	 phrasal verb+C2
+	Line 770: -get off with		<-->	 phrasal verb+C2
+	Line 771: -get on		<-->	 phrasal verb+B1
+	Line 773: -get on with		<-->	 phrasal verb+B1
+	Line 808: -hook up with		<-->	 phrasal verb+C2
+	Line 835: -lead on		<-->	 phrasal verb+C2
+	Line 860: -make out		<-->	 phrasal verb+C2
+	Line 905: -pal around		<-->	 phrasal verb+C2
+	Line 924: -pick up		<-->	 phrasal verb+C2
+	Line 1087: -blaze up		<-->	 phrasal verb+C2
+	Line 1099: -blow up		<-->	 phrasal verb+C2
+	Line 1105: -boil over		<-->	 phrasal verb+C2
+	Line 1106: -boil up		<-->	 phrasal verb+C2
+	Line 1111: -bowl over		<-->	 phrasal verb+C2
+	Line 1230: -dote on		<-->	 phrasal verb+C2
+	Line 1231: -dote upon		<-->	 phrasal verb+C2
+	Line 1304: -fall for		<-->	 phrasal verb+C1
+	Line 1313: -fear for		<-->	 phrasal verb+C1
+	Line 1331: -flare up		<-->	 phrasal verb+C2
+	Line 1334: -flinch from		<-->	 phrasal verb+C2
+	Line 1335: -flinch from doing		<-->	 phrasal verb+C2
+	Line 1399: -gnaw at		<-->	 phrasal verb+C2
+	Line 1408: -go on		<-->	 phrasal verb+C1
+	Line 1434: -harp on		<-->	 phrasal verb+C2
+	Line 1549: -kick off		<-->	 phrasal verb+C2
+	Line 1610: -moon about		<-->	 phrasal verb+C2
+	Line 1611: -moon around		<-->	 phrasal verb+C2
+	Line 1680: -pump up		<-->	 phrasal verb+C2
+	Line 1730: -rip into		<-->	 phrasal verb+C2
+	Line 1841: -stoke up		<-->	 phrasal verb+C2
+	Line 1849: -string along		<-->	 phrasal verb+C2
+	Line 1870: -take aback		<-->	 phrasal verb+C2
+	Line 1874: -tee off		<-->	 phrasal verb+C2
+	Line 1940: -wear out		<-->	 phrasal verb+C2
+	Line 1945: -whip up		<-->	 phrasal verb+C2
+	Line 1962: -work off		<-->	 phrasal verb+C2
+	Line 2038: -bring up		<-->	 phrasal verb+B2
+	Line 2141: -give away		<-->	 phrasal verb+C2
+	Line 2155: -grow into		<-->	 phrasal verb+C2
+	Line 2158: -grow out of		<-->	 phrasal verb+C1
+	Line 2159: -grow up		<-->	 phrasal verb+A1
+	Line 2267: -pass away		<-->	 phrasal verb+C1
+	Line 2271: -pension off		<-->	 phrasal verb+C2
+	Line 2327: -settle down		<-->	 phrasal verb+C1
+	Line 2537: -chicken out		<-->	 phrasal verb+C2
+	Line 2551: -come out of yourself		<-->	 phrasal verb+C2
+	Line 2693: -get on		<-->	 phrasal verb+B1
+	Line 2694: -get on with		<-->	 phrasal verb+B1
+	Line 2804: -invest in		<-->	 phrasal verb+C2
+	Line 2826: -laze away		<-->	 phrasal verb+C1
+	Line 2829: -lead on		<-->	 phrasal verb+C2
+	Line 2833: -lie around		<-->	 phrasal verb+C1
+	Line 2930: -perk up		<-->	 phrasal verb+C2
+	Line 3052: -show off		<-->	 phrasal verb+B2
+	Line 3062: -slob around		<-->	 phrasal verb+C2
+	Line 3063: -slob out		<-->	 phrasal verb+C2
+	Line 3200: -while away		<-->	 phrasal verb+C2
+	Line 3407: -fall through		<-->	 phrasal verb+C2
+	Line 3444: -go under		<-->	 phrasal verb+C2
+	Line 3476: -lay off		<-->	 phrasal verb+C2
+	Line 3588: -pull out		<-->	 phrasal verb+C2
+	Line 3658: -take over		<-->	 phrasal verb+C1
+	Line 3672: -trade in		<-->	 phrasal verb+C2
+	Line 4076: -report to		<-->	 phrasal verb+C1
+	Line 4260: -bottom out		<-->	 phrasal verb+C2
+	Line 4261: -bounce back		<-->	 phrasal verb+C2
+	Line 4324: -cool down		<-->	 phrasal verb+C2
+	Line 4326: -cool off		<-->	 phrasal verb+C2
+	Line 4470: -go down		<-->	 phrasal verb+A2
+	Line 4471: -go up		<-->	 phrasal verb+A2
+	Line 4479: -hedge against		<-->	 phrasal verb+C2
+	Line 4521: -level off		<-->	 phrasal verb+C1
+	Line 4522: -level out		<-->	 phrasal verb+C1
+	Line 4529: -live on		<-->	 phrasal verb+C1
+	Line 4582: -pay back		<-->	 phrasal verb+B2
+	Line 4586: -pay off		<-->	 phrasal verb+C1
+	Line 4588: -pay up		<-->	 phrasal verb+C2
+	Line 4705: -take out		<-->	 phrasal verb+B1
+	Line 4778: -adjourn to		<-->	 phrasal verb+C2
+	Line 4808: -clock in		<-->	 phrasal verb+C2
+	Line 4809: -clock off		<-->	 phrasal verb+C2
+	Line 4810: -clock on		<-->	 phrasal verb+C2
+	Line 4811: -clock out		<-->	 phrasal verb+C2
+	Line 4844: -follow up		<-->	 phrasal verb+C1
+	Line 4876: -lock out		<-->	 phrasal verb+C2
+	Line 4902: -pencil in		<-->	 phrasal verb+C2
+	Line 4904: -pension off		<-->	 phrasal verb+C2
+	Line 5018: -check in		<-->	 phrasal verb+A2
+	Line 5059: -get away		<-->	 phrasal verb+B2
+	Line 5259: -bail out		<-->	 phrasal verb+C2
+	Line 5287: -check in		<-->	 phrasal verb+A2
+	Line 5467: -take off		<-->	 phrasal verb+A2
+	Line 5475: -touch down		<-->	 phrasal verb+C1
+	Line 5605: -pull away		<-->	 phrasal verb+C1
+	Line 5606: -pull in		<-->	 phrasal verb+C1
+	Line 5608: -pull out		<-->	 phrasal verb+C1
+	Line 5750: -block in		<-->	 phrasal verb+C2
+	Line 5765: -branch off		<-->	 phrasal verb+C2
+	Line 5766: -break down		<-->	 phrasal verb+B1
+	Line 5811: -change down		<-->	 phrasal verb+C2
+	Line 5812: -change up		<-->	 phrasal verb+C2
+	Line 5841: -cone off		<-->	 phrasal verb+C2
+	Line 5848: -cordon off		<-->	 phrasal verb+C2
+	Line 5874: -cut in		<-->	 phrasal verb+C2
+	Line 5875: -cut up		<-->	 phrasal verb+C2
+	Line 5907: -drive away		<-->	 phrasal verb+B1
+	Line 5908: -drive off		<-->	 phrasal verb+B2
+	Line 5909: -drive on		<-->	 phrasal verb+B2
+	Line 6058: -jack up		<-->	 phrasal verb+C2
+	Line 6186: -pick up		<-->	 phrasal verb+B1
+	Line 6192: -plough into		<-->	 phrasal verb+C2
+	Line 6200: -pull in		<-->	 phrasal verb+C1
+	Line 6201: -pull off		<-->	 phrasal verb+C2
+	Line 6202: -pull out		<-->	 phrasal verb+C1
+	Line 6203: -pull over		<-->	 phrasal verb+C1
+	Line 6204: -pull up		<-->	 phrasal verb+C1
+	Line 6278: -run over		<-->	 phrasal verb+C1
+	Line 6324: -soup up		<-->	 phrasal verb+C2
+	Line 6365: -tail back		<-->	 phrasal verb+C2
+	Line 6373: -tank up		<-->	 phrasal verb+C2
+	Line 6427: -turn off		<-->	 phrasal verb+B2
+	Line 6496: -bail out		<-->	 phrasal verb+C2
+	Line 6541: -cast off		<-->	 phrasal verb+C2
+	Line 6763: -put in		<-->	 phrasal verb+C2
+	Line 6764: -put into		<-->	 phrasal verb+C2
+	Line 6856: -stow away		<-->	 phrasal verb+C2
+	Line 6981: -break in		<-->	 phrasal verb+B2
+	Line 6983: -break into		<-->	 phrasal verb+B2
+	Line 6988: -bring in		<-->	 phrasal verb+C2
+	Line 7143: -front for		<-->	 phrasal verb+C2
+	Line 7157: -get away with		<-->	 phrasal verb+C1
+	Line 7189: -hold up		<-->	 phrasal verb+C2
+	Line 7268: -lock away		<-->	 phrasal verb+C2
+	Line 7270: -lock up		<-->	 phrasal verb+C1
+	Line 7389: -rip off		<-->	 phrasal verb+C1
+	Line 7437: -stake out		<-->	 phrasal verb+C2
+	Line 7471: -tip off		<-->	 phrasal verb+C2
+	Line 7520: -abide by		<-->	 phrasal verb+C2
+	Line 7541: -bail out		<-->	 phrasal verb+C2
+	Line 7562: -bring in		<-->	 phrasal verb+C2
+	Line 7608: -cordon off		<-->	 phrasal verb+C2
+	Line 7648: -draw up		<-->	 phrasal verb+C1
+	Line 7666: -find against		<-->	 phrasal verb+C2
+	Line 7667: -find for		<-->	 phrasal verb+C2
+	Line 7750: -lock down		<-->	 phrasal verb+C2
+	Line 7917: -vest in		<-->	 phrasal verb+C2
+	Line 8004: -come out		<-->	 phrasal verb+C2
+	Line 8378: -devolve on		<-->	 phrasal verb+C2
+	Line 8379: -devolve to		<-->	 phrasal verb+C2
+	Line 8380: -devolve upon		<-->	 phrasal verb+C2
+	Line 9709: -jack up		<-->	 phrasal verb+C2
+	Line 9719: -lay off		<-->	 phrasal verb+C2
+	Line 9855: -sign on		<-->	 phrasal verb+C2
+	Line 10018: -blow up		<-->	 phrasal verb+C1
+	Line 10198: -gun down		<-->	 phrasal verb+C2
+	Line 10564: -boil over		<-->	 phrasal verb+C2
+	Line 10647: -dine out		<-->	 phrasal verb+C2
+	Line 10662: -eat in		<-->	 phrasal verb+C2
+	Line 10665: -eat out		<-->	 phrasal verb+A2
+	Line 10724: -heat up		<-->	 phrasal verb+B2
+	Line 10763: -live on		<-->	 phrasal verb+C1
+	Line 11008: -warm up		<-->	 phrasal verb+C1
+	Line 11016: -whip up		<-->	 phrasal verb+C2
+	Line 12156: -plough back		<-->	 phrasal verb+C2
+	Line 12157: -plough back in		<-->	 phrasal verb+C2
+	Line 12159: -plough up		<-->	 phrasal verb+C2
+	Line 12275: -branch off		<-->	 phrasal verb+C2
+	Line 12871: -clean up		<-->	 phrasal verb+B1
+	Line 13130: -clear up			<-->	 phrasal verb+C1
+	Line 13192: -get up		<-->	 phrasal verb+C2
+	Line 13481: -do up		<-->	 phrasal verb+C2
+	Line 13604: -knock down		<-->	 phrasal verb+B2
+	Line 13605: -knock together		<-->	 phrasal verb+C2
+	Line 13737: -pull down		<-->	 phrasal verb+C1
+	Line 13792: -shore up		<-->	 phrasal verb+C2
+	Line 13909: -cut back		<-->	 phrasal verb+C2
+	Line 13910: -cut down		<-->	 phrasal verb+B2
+	Line 14142: -dry up		<-->	 phrasal verb+C1
+	Line 14500: -wash up		<-->	 phrasal verb+B1
+	Line 14602: -bubble with		<-->	phrasal verb+C2
+	Line 14653: -lock down		<-->	phrasal verb+C2
+	Line 14700: -thrive on		<-->	phrasal verb+C1
+	Line 14714: -work out		<-->	phrasal verb+A2
+	Line 14778: -bounce back		<-->	phrasal verb+C1
+	Line 14827: -come down with		<-->	phrasal verb+C2
+	Line 14830: -complain of		<-->	phrasal verb+C1
+	Line 14907: -fade away		<-->	phrasal verb+C2
+	Line 14943: -get over		<-->	phrasal verb+B2
+	Line 15003: -keel over		<-->	phrasal verb+C2
+	Line 15005: -knock out		<-->	phrasal verb+C1
+	Line 15008: -lay up		<-->	phrasal verb+C2
+	Line 15063: -pass out		<-->	phrasal verb+C2
+	Line 15083: -pull through		<-->	phrasal verb+C2
+	Line 15231: -waste away		<-->	phrasal verb+C2
+	Line 15305: -care for		<-->	phrasal verb+B1
+	Line 15329: -come around		<-->	phrasal verb+C1
+	Line 15330: -come round		<-->	phrasal verb+C1
+	Line 15607: -scrub up		<-->	phrasal verb+C2
+	Line 15704: -come off		<-->	phrasal verb+C2
+	Line 16043: -blast off		<-->	phrasal verb+C2
+	Line 16045: -come out		<-->	phrasal verb+B2
+	Line 16047: -come up		<-->	phrasal verb+B2
+	Line 16068: -go around		<-->	phrasal verb+B2
+	Line 16069: -go down		<-->	phrasal verb+C1
+	Line 16070: -go round		<-->	phrasal verb+B2
+	Line 16083: -lift off		<-->	phrasal verb+C1
+	Line 16157: -take off		<-->	phrasal verb+A2
+	Line 18459: -die out		<-->	phrasal verb+B2
+	Line 19519: -comb out		<-->	phrasal verb+C2
+	Line 19637: -grow back		<-->	phrasal verb+C2
+	Line 19638: -grow out		<-->	phrasal verb+C2
+	Line 20299: -be dressed up		<-->	phrasal verb+B2
+	Line 20414: -dress down		<-->	phrasal verb+C2
+	Line 20416: -dress up		<-->	phrasal verb+B2
+	Line 20480: -glam up		<-->	phrasal verb+C2
+	Line 20502: -have on		<-->	phrasal verb+B1
+	Line 20546: -layer up		<-->	phrasal verb+C2
+	Line 20645: -put on		<-->	phrasal verb+A2
+	Line 20831: -wear out		<-->	phrasal verb+B2
+	Line 20914: -colour in		<-->	phrasal verb+C1
+	Line 21271: -brush up		<-->	phrasal verb+C2
+	Line 21272: -brush up on		<-->	phrasal verb+C2
+	Line 21734: -call back		<-->	phrasal verb+B1
+	Line 21740: -call in		<-->	phrasal verb+C1
+	Line 21741: -call up		<-->	phrasal verb+B1
+	Line 21767: -copy in		<-->	phrasal verb+C2
+	Line 21770: -cut off		<-->	phrasal verb+B2
+	Line 21779: -dial in		<-->	phrasal verb+C2
+	Line 21780: -dial into		<-->	phrasal verb+C2
+	Line 21783: -dial up		<-->	phrasal verb+C2
+	Line 21833: -get through		<-->	phrasal verb+C1
+	Line 21850: -hook up		<-->	phrasal verb+C2
+	Line 21952: -put through		<-->	phrasal verb+C1
+	Line 21966: -ring around		<-->	phrasal verb+C2
+	Line 21967: -ring back		<-->	phrasal verb+B2
+	Line 21969: -ring in		<-->	phrasal verb+B2
+	Line 21970: -ring off		<-->	phrasal verb+C2
+	Line 21971: -ring round		<-->	phrasal verb+C2
+	Line 21972: -ring through		<-->	phrasal verb+C2
+	Line 22636: -put on		<-->	phrasal verb+C1
+	Line 22782: -zoom in		<-->	phrasal verb+C2
+	Line 22783: -zoom out		<-->	phrasal verb+C2
+	Line 22946: -jot down		<-->	phrasal verb+C1
+	Line 23691: -tune up		<-->	phrasal verb+C2
+	Line 23810: -close down		<-->	phrasal verb+C1
+	Line 23881: -go out		<-->	phrasal verb+B2
+	Line 23923: -listen in		<-->	phrasal verb+B1
+	Line 24052: -ring in		<-->	phrasal verb+B2
+	Line 24138: -tune in		<-->	phrasal verb+C1
+	Line 24177: -abide by		<-->	phrasal verb+C2
+	Line 24207: -argue into doing		<-->	phrasal verb+C1
+	Line 24208: -argue out of doing		<-->	phrasal verb+C1
+	Line 24219: -beat down		<-->	phrasal verb+C2
+	Line 24221: -bend to		<-->	phrasal verb+C2
+	Line 24225: -bow to		<-->	phrasal verb+C2
+	Line 24230: -bring A and B together		<-->	phrasal verb+C1
+	Line 24231: -bring round		<-->	phrasal verb+C2
+	Line 24275: -contract in		<-->	phrasal verb+C2
+	Line 24276: -contract out		<-->	phrasal verb+C2
+	Line 24292: -defer to		<-->	phrasal verb+C2
+	Line 24310: -get around		<-->	phrasal verb+C2
+	Line 24311: -get out of		<-->	phrasal verb+C2
+	Line 24312: -get round		<-->	phrasal verb+C2
+	Line 24314: -give in		<-->	phrasal verb+B2
+	Line 24316: -go along with		<-->	phrasal verb+C1
+	Line 24317: -go with		<-->	phrasal verb+C2
+	Line 24318: -hammer out		<-->	phrasal verb+C2
+	Line 24322: -hash out		<-->	phrasal verb+C2
+	Line 24323: -hold out for		<-->	phrasal verb+C2
+	Line 24324: -hold with		<-->	phrasal verb+C2
+	Line 24336: -interest in		<-->	phrasal verb+C1
+	Line 24343: -jolly into		<-->	phrasal verb+C2
+	Line 24344: -jolly into doing		<-->	phrasal verb+C2
+	Line 24349: -make up		<-->	phrasal verb+C1
+	Line 24360: -nail down		<-->	phrasal verb+C2
+	Line 24374: -patch up		<-->	phrasal verb+C2
+	Line 24387: -prevail on to do		<-->	phrasal verb+C2
+	Line 24388: -prevail upon to do		<-->	phrasal verb+C2
+	Line 24392: -put aside		<-->	phrasal verb+C2
+	Line 24397: -reason with		<-->	phrasal verb+C2
+	Line 24411: -run out		<-->	phrasal verb+B2
+	Line 24420: -sign on		<-->	phrasal verb+C2
+	Line 24422: -sign up		<-->	phrasal verb+C2
+	Line 24423: -sign up to		<-->	phrasal verb+C2
+	Line 24428: -soften up		<-->	phrasal verb+C2
+	Line 24437: -subscribe to		<-->	phrasal verb+C2
+	Line 24441: -talk into		<-->	phrasal verb+C1
+	Line 24442: -talk out of		<-->	phrasal verb+C1
+	Line 24443: -talk over		<-->	phrasal verb+C1
+	Line 24444: -talk round		<-->	phrasal verb+C2
+	Line 24472: -win around		<-->	phrasal verb+C2
+	Line 24473: -win over		<-->	phrasal verb+C2
+	Line 24474: -win round		<-->	phrasal verb+C2
+	Line 24476: -work on		<-->	phrasal verb+C2
+	Line 24477: -wrap up		<-->	phrasal verb+C1
+	Line 24478: -write into		<-->	phrasal verb+C2
+	Line 24484: -admit of		<-->	phrasal verb+C2
+	Line 24506: -believe in		<-->	phrasal verb+A2
+	Line 24524: -check on		<-->	phrasal verb+C1
+	Line 24525: -check over		<-->	phrasal verb+C1
+	Line 24526: -check through		<-->	phrasal verb+C1
+	Line 24528: -check up on		<-->	phrasal verb+C1
+	Line 24546: -count on		<-->	phrasal verb+C1
+	Line 24554: -depend on		<-->	phrasal verb+A2
+	Line 24555: -depend upon		<-->	phrasal verb+A2
+	Line 24674: -swear by		<-->	phrasal verb+C2
+	Line 24717: -accord with		<-->	phrasal verb+C2
+	Line 24735: -align yourself with		<-->	phrasal verb+C2
+	Line 24745: -answer for		<-->	phrasal verb+C2
+	Line 24758: -argue with		<-->	phrasal verb+C2
+	Line 24830: -bust up		<-->	phrasal verb+C2
+	Line 24839: -carry on		<-->	phrasal verb+C2
+	Line 24847: -chime with		<-->	phrasal verb+C2
+	Line 24854: -climb down		<-->	phrasal verb+C2
+	Line 24860: -come around		<-->	phrasal verb+C2
+	Line 24861: -come off it		<-->	phrasal verb+C2
+	Line 24862: -come out		<-->	phrasal verb+C2
+	Line 24864: -come over		<-->	phrasal verb+C2
+	Line 24865: -come round		<-->	phrasal verb+C2
+	Line 25029: -face off		<-->	phrasal verb+C2
+	Line 25032: -fall in with		<-->	phrasal verb+C2
+	Line 25033: -fall out		<-->	phrasal verb+B2
+	Line 25038: -feed back		<-->	phrasal verb+C2
+	Line 25050: -fight it out		<-->	phrasal verb+C1
+	Line 25051: -fight out		<-->	phrasal verb+C1
+	Line 25062: -flesh out		<-->	phrasal verb+C2
+	Line 25089: -get above yourself		<-->	phrasal verb+C2
+	Line 25096: -go against		<-->	phrasal verb+C1
+	Line 25098: -go by		<-->	phrasal verb+C2
+	Line 25100: -go on		<-->	phrasal verb+C2
+	Line 25126: -have out		<-->	phrasal verb+C2
+	Line 25142: -hold against		<-->	phrasal verb+C2
+	Line 25151: -hunker down		<-->	phrasal verb+C2
+	Line 25217: -lay out		<-->	phrasal verb+C2
+	Line 25220: -lean to		<-->	phrasal verb+C2
+	Line 25221: -lean toward		<-->	phrasal verb+C2
+	Line 25222: -lean towards		<-->	phrasal verb+C2
+	Line 25320: -play along		<-->	phrasal verb+C2
+	Line 25326: -point out		<-->	phrasal verb+B1
+	Line 25351: -pronounce on		<-->	phrasal verb+C2
+	Line 25352: -pronounce upon		<-->	phrasal verb+C2
+	Line 25375: -quarrel with		<-->	phrasal verb+C2
+	Line 25421: -row back		<-->	phrasal verb+C2
+	Line 25433: -score off		<-->	phrasal verb+C2
+	Line 25453: -shoot down		<-->	phrasal verb+C2
+	Line 25461: -side with		<-->	phrasal verb+C2
+	Line 25467: -size up		<-->	phrasal verb+C2
+	Line 25488: -sound off		<-->	phrasal verb+C2
+	Line 25491: -spark up		<-->	phrasal verb+C2
+	Line 25495: -speak out		<-->	phrasal verb+C1
+	Line 25508: -square with		<-->	phrasal verb+C2
+	Line 25509: -stake out		<-->	phrasal verb+C2
+	Line 25514: -stand by		<-->	phrasal verb+C2
+	Line 25524: -stir up		<-->	phrasal verb+C2
+	Line 25544: -sum up		<-->	phrasal verb+B2
+	Line 25568: -tangle with		<-->	phrasal verb+C2
+	Line 25569: -tear apart		<-->	phrasal verb+C2
+	Line 25592: -tie in		<-->	phrasal verb+C2
+	Line 25652: -wade in		<-->	phrasal verb+C2
+	Line 25653: -wade into		<-->	phrasal verb+C2
+	Line 25655: -weigh in		<-->	phrasal verb+C2
+	Line 25656: -weigh up		<-->	phrasal verb+C2
+	Line 25676: -write in		<-->	phrasal verb+C2
+	Line 25694: -adhere to		<-->	phrasal verb+C1
+	Line 25780: -lay down		<-->	phrasal verb+C2
+	Line 25851: -slap on		<-->	phrasal verb+C2
+	Line 25949: -find against		<-->	phrasal verb+C2
+	Line 25950: -find for		<-->	phrasal verb+C2
+	Line 25958: -go before		<-->	phrasal verb+C2
+	Line 25959: -go for		<-->	phrasal verb+C2
+	Line 25960: -go off		<-->	phrasal verb+C2
+	Line 25961: -grow on		<-->	phrasal verb+C2
+	Line 25963: -hand down		<-->	phrasal verb+C2
+	Line 25967: -have against		<-->	phrasal verb+C2
+	Line 26002: -lean to		<-->	phrasal verb+C2
+	Line 26003: -lean toward		<-->	phrasal verb+C2
+	Line 26004: -lean towards		<-->	phrasal verb+C2
+	Line 26015: -nail down		<-->	phrasal verb+C2
+	Line 26016: -narrow down		<-->	phrasal verb+C2
+	Line 26045: -put off		<-->	phrasal verb+C1
+	Line 26051: -remit to		<-->	phrasal verb+C2
+	Line 26066: -settle on		<-->	phrasal verb+C2
+	Line 26067: -sleep on		<-->	phrasal verb+C2
+	Line 26077: -take against		<-->	phrasal verb+C2
+	Line 26081: -take to		<-->	phrasal verb+C2
+	Line 26085: -think over		<-->	phrasal verb+C1
+	Line 26098: -warm to		<-->	phrasal verb+C2
+	Line 26099: -warm towards		<-->	phrasal verb+C2
+	Line 26111: -act on		<-->	phrasal verb+C1
+	Line 26112: -act upon		<-->	phrasal verb+C1
+	Line 26133: -bring forward		<-->	phrasal verb+C2
+	Line 26161: -hand out		<-->	phrasal verb+C1
+	Line 26213: -point to		<-->	phrasal verb+C2
+	Line 26226: -put forward		<-->	phrasal verb+C1
+	Line 26229: -put to		<-->	phrasal verb+C1
+	Line 26257: -turn to		<-->	phrasal verb+C1
+	Line 26263: -warn off		<-->	phrasal verb+C2
+	Line 26278: -account for		<-->	phrasal verb+B2
+	Line 26284: -add up to		<-->	phrasal verb+C2
+	Line 26307: -bring about		<-->	phrasal verb+C1
+	Line 26309: -build up		<-->	phrasal verb+B2
+	Line 26340: -creep up		<-->	phrasal verb+C2
+	Line 26359: -drop away		<-->	phrasal verb+C2
+	Line 26360: -drop off		<-->	phrasal verb+C2
+	Line 26382: -fall back		<-->	phrasal verb+C2
+	Line 26385: -fall off		<-->	phrasal verb+C2
+	Line 26386: -flow from		<-->	phrasal verb+C2
+	Line 26444: -proceed from		<-->	phrasal verb+C2
+	Line 26472: -set off		<-->	phrasal verb+C2
+	Line 26473: -shoot up		<-->	phrasal verb+C1
+	Line 26483: -spiral down		<-->	phrasal verb+C2
+	Line 26484: -spiral downward		<-->	phrasal verb+C2
+	Line 26485: -spiral downwards		<-->	phrasal verb+C2
+	Line 26487: -stem from		<-->	phrasal verb+C1
+	Line 26532: -boil over		<-->	phrasal verb+C2
+	Line 26533: -boil up		<-->	phrasal verb+C2
+	Line 26577: -flirt with		<-->	phrasal verb+C2
+	Line 26586: -gamble on		<-->	phrasal verb+C2
+	Line 26587: -gamble on doing		<-->	phrasal verb+C2
+	Line 26602: -hold on		<-->	phrasal verb+C2
+	Line 26603: -hold out		<-->	phrasal verb+C2
+	Line 26618: -look out		<-->	phrasal verb+B1
+	Line 26630: -mind out		<-->	phrasal verb+C2
+	Line 26691: -boil over		<-->phrasal verb+C2
+	Line 26692: -boil up		<-->phrasal verb+C2
+	Line 26736: -flirt with		<-->phrasal verb+C2
+	Line 26745: -gamble on		<-->phrasal verb+C2
+	Line 26746: -gamble on doing		<-->phrasal verb+C2
+	Line 26761: -hold on		<-->phrasal verb+C2
+	Line 26762: -hold out		<-->phrasal verb+C2
+	Line 26777: -look out		<-->phrasal verb+B1
+	Line 26789: -mind out		<-->phrasal verb+C2
+	Line 26878: -break down		<-->	phrasal verb+C1
+	Line 26888: -catch up with		<-->	phrasal verb+C2
+	Line 26902: -come off		<-->	phrasal verb+C2
+	Line 26953: -faff about		<-->	phrasal verb+C2
+	Line 26954: -faff around		<-->	phrasal verb+C2
+	Line 26976: -fizzle out		<-->	phrasal verb+C2
+	Line 26995: -get behind		<-->	phrasal verb+C2
+	Line 27057: -interfere with		<-->	phrasal verb+C1
+	Line 27070: -let down		<-->	phrasal verb+B2
+	Line 27092: -muck up		<-->	phrasal verb+C2
+	Line 27126: -pike on		<-->	phrasal verb+C2
+	Line 27131: -play up		<-->	phrasal verb+C2
+	Line 27136: -pull down		<-->	phrasal verb+C2
+	Line 27138: -put out		<-->	phrasal verb+C2
+	Line 27141: -put to		<-->	phrasal verb+C2
+	Line 27150: -run up against		<-->	phrasal verb+C2
+	Line 27169: -strike out		<-->	phrasal verb+C2
+	Line 27176: -talk down		<-->	phrasal verb+C2
+	Line 27231: -write off		<-->	phrasal verb+C2
+	Line 27314: -belong to		<-->	phrasal verb+C2
+	Line 27341: -bluff your way in		<-->	phrasal verb+C2
+	Line 27342: -bluff your way into		<-->	phrasal verb+C2
+	Line 27343: -bluff your way out		<-->	phrasal verb+C2
+	Line 27344: -bluff your way out of		<-->	phrasal verb+C2
+	Line 27345: -bluff your way through		<-->	phrasal verb+C2
+	Line 27356: -bounce back		<-->	phrasal verb+C1
+	Line 27360: -break into		<-->	phrasal verb+C2
+	Line 27362: -break through		<-->	phrasal verb+C2
+	Line 27365: -breeze through		<-->	phrasal verb+C2
+	Line 27371: -bring off		<-->	phrasal verb+C2
+	Line 27373: -bubble under		<-->	phrasal verb+C2
+	Line 27384: -carry off		<-->	phrasal verb+C2
+	Line 27385: -carry through		<-->	phrasal verb+C2
+	Line 27393: -chalk up		<-->	phrasal verb+C2
+	Line 27401: -come back in		<-->	phrasal verb+C2
+	Line 27403: -come off		<-->	phrasal verb+C2
+	Line 27405: -come through		<-->	phrasal verb+C2
+	Line 27420: -dial in		<-->	phrasal verb+C2
+	Line 27421: -dial into		<-->	phrasal verb+C2
+	Line 27423: -dispose of		<-->	phrasal verb+C2
+	Line 27503: -get around		<-->	phrasal verb+C1
+	Line 27507: -get on		<-->	phrasal verb+C1
+	Line 27508: -get round		<-->	phrasal verb+C1
+	Line 27511: -get through		<-->	phrasal verb+C2
+	Line 27526: -go for		<-->	phrasal verb+C1
+	Line 27542: -hammer away at		<-->	phrasal verb+C2
+	Line 27648: -measure up		<-->	phrasal verb+C2
+	Line 27657: -muddle through		<-->	phrasal verb+C2
+	Line 27694: -parlay into		<-->	phrasal verb+C2
+	Line 27696: -pay off		<-->	phrasal verb+C1
+	Line 27733: -pull off		<-->	phrasal verb+C2
+	Line 27764: -sail through		<-->	phrasal verb+C2
+	Line 27770: -scrape through		<-->	phrasal verb+C2
+	Line 27785: -shoot for		<-->	phrasal verb+C2
+	Line 27797: -smile on		<-->	phrasal verb+C2
+	Line 27809: -stick at		<-->	phrasal verb+C2
+	Line 27834: -take off		<-->	phrasal verb+C1
+	Line 27853: -thrive on		<-->	phrasal verb+C1
+	Line 27866: -top off		<-->	phrasal verb+C2
+	Line 27880: -turn around		<-->	phrasal verb+C2
+	Line 27881: -turn round		<-->	phrasal verb+C2
+	Line 27897: -walk into		<-->	phrasal verb+C2
+	Line 27909: -win out		<-->	phrasal verb+C2
+	Line 27910: -win through		<-->	phrasal verb+C2
+	Line 27915: -work at		<-->	phrasal verb+C2
+	Line 27917: -work on		<-->	phrasal verb+B1
+	Line 27918: -work out		<-->	phrasal verb+C1
+	Line 27920: -work towards		<-->	phrasal verb+C1
+	Line 28181: -back up		<-->	phrasal verb+C1
+	Line 28406: -log in		<-->	phrasal verb+B1
+	Line 28408: -log off		<-->	phrasal verb+B2
+	Line 28409: -log on		<-->	phrasal verb+B1
+	Line 28411: -log out		<-->	phrasal verb+B2
+	Line 28588: -time out		<-->	phrasal verb+C1
+	Line 28679: -break down		<-->	phrasal verb+B1
+	Line 28705: -crank up		<-->	phrasal verb+C2
+	Line 28804: -shut down		<-->	phrasal verb+B2
+	Line 28806: -shut off		<-->	phrasal verb+C2
+	Line 28814: -switch off		<-->	phrasal verb+B1
+	Line 28815: -switch on		<-->	phrasal verb+B1
+	Line 28826: -turn off		<-->	phrasal verb+A2
+	Line 28827: -turn on		<-->	phrasal verb+A2
+	Line 28843: -add up		<-->	phrasal verb+B1
+	Line 28844: -add up to		<-->	phrasal verb+B2
+	Line 28846: -amount to		<-->	phrasal verb+B2
+	Line 28846: -amount to		<-->	phrasal verb+B2

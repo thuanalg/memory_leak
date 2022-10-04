@@ -1,0 +1,286 @@
+Asian		<-->	adjective+A2	.
+Asian American		<-->	noun+B2	.
+Asian-American		<-->	adjective+B2	.
+background		<-->	noun+A2	.
+BAME		<-->	abbreviation+C2	.
+baron		<-->	noun+C1	.
+baroness		<-->	noun+C2	.
+belonging		<-->	noun+C1	.
+binary		<-->	noun+C2	.
+biracial		<-->	adjective+C1	.
+bisexual		<-->	adjective+C1	.
+bisexual		<-->	noun+C1	.
+black		<-->	adjective+A1	.
+black		<-->	noun+B2	.
+Black Lives Matter		<-->	noun+C1	.
+BLM		<-->	abbreviation+C2	.
+BME		<-->	abbreviation+C2	.
+boss		<-->	noun+A2	.
+captain		<-->	noun+B1	.
+captain		<-->	verb+B2	.
+caste		<-->	noun+C2	.
+Caucasian		<-->	noun+C2	.
+Caucasian		<-->	adjective+C2	.
+Celt		<-->	noun+C2	.
+chav		<-->	noun+C2	.
+Chicana		<-->	noun+C2	.
+Chicano		<-->	noun+C2	.
+chief		<-->	noun+B2	.
+cis		<-->	adjective+C2	.
+cisgender		<-->	adjective+C2	.
+citizen		<-->	noun+B2	.
+citizenship		<-->	noun+C1	.
+civic		<-->	adjective+C1	.
+civics		<-->	noun+C2	.
+class		<-->	noun+B1	.
+class		<-->	verb+B2	.
+class-conscious		<-->	adjective+C2	.
+class-consciousness		<-->	noun+C2	.
+closeted		<-->	adjective+C2	.
+collective		<-->	adjective+C1	.
+color		<-->	noun+A2	.
+color bar		<-->	noun+C2	.
+color-blind		<-->	adjective+C2	.
+colour		<-->	noun+A2	.
+colour bar		<-->	noun+C2	.
+colour-blind		<-->	adjective+C2	.
+come out		<-->	phrasal verb+C2	.
+committee		<-->	noun+B2	.
+commoner		<-->	noun+C2	.
+community		<-->	noun+A2	.
+count		<-->	noun+C1	.
+countess		<-->	noun+C1	.
+cross-dresser		<-->	noun+C2	.
+cross-dressing		<-->	noun+C2	.
+czar		<-->	noun+C2	.
+demographic		<-->	noun+C1	.
+demographic		<-->	adjective+C1	.
+denizen		<-->	noun+C2	.
+disadvantaged		<-->	noun+C2	.
+diversity		<-->	noun+B2	.
+dual heritage		<-->	noun+C2	.
+duchess		<-->	noun+C1	.
+duke		<-->	noun+B2	.
+earl		<-->	noun+C1	.
+emperor		<-->	noun+B2	.
+empress		<-->	noun+C2	.
+ethnic		<-->	adjective+B2	.
+ethnic group		<-->	noun+B2	.
+ethnicity		<-->	noun+C1	.
+ethnic minority		<-->	noun+C1	.
+Eurasian		<-->	adjective+C2	.
+Eurasian		<-->	noun+C2	.
+European		<-->	adjective+A2	.
+European		<-->	noun+A2	.
+female		<-->	adjective+A2	.
+feminine		<-->	adjective+C1	.
+femininity		<-->	noun+C2	.
+gay		<-->	adjective+B2	.
+gay		<-->	noun+C1	.
+gender		<-->	noun+B2	.
+gender binary		<-->	noun+C2	.
+gendered		<-->	adjective+C2	.
+gender expression		<-->	noun+C2	.
+gender-fluid		<-->	adjective+C2	.
+gender gap		<-->	noun+C1	.
+gender identity		<-->	noun+C1	.
+genderless		<-->	adjective+C1	.
+gender-neutral		<-->	adjective+C1	.
+genderqueer		<-->	adjective+C2	.
+gender-specific		<-->	adjective+C1	.
+generation		<-->	noun+B1	.
+Generation X		<-->	noun+C2	.
+Generation Xer		<-->	noun+C2	.
+Generation Y		<-->	noun+C2	.
+Generation Yer		<-->	noun+C2	.
+Generation Z		<-->	noun+C2	.
+Generation Zer		<-->	noun+C2	.
+Gen X		<-->	noun+C2	.
+Gen Xer		<-->	noun+C2	.
+Gen Y		<-->	noun+C2	.
+Gen Yer		<-->	noun+C2	.
+Gen Z		<-->	noun+C2	.
+Gen Zer		<-->	noun+C2	.
+global		<-->	adjective+B1	.
+global village		<-->	noun+C2	.
+globe		<-->	noun+B2	.
+grassroots		<-->	noun+C2	.
+group		<-->	noun+A1	.
+head		<-->	noun+A2	.
+head		<-->	verb+B1	.
+heterosexual		<-->	adjective+C1	.
+heterosexual		<-->	noun+C2	.
+hijra		<-->	noun+C2	.
+Hispanic		<-->	adjective+C2	.
+Hispanic		<-->	noun+C2	.
+homeless		<-->	noun+B2	.
+homosexual		<-->	adjective+C1	.
+homosexual		<-->	noun+C1	.
+homosexuality		<-->	noun+C2	.
+incel		<-->	noun+C2	.
+inclusionary		<-->	adjective+C2	.
+indigenous		<-->	adjective+C1	.
+inferior		<-->	adjective+C2	.
+inferior		<-->	noun+C2	.
+integrate		<-->	verb+C1	.
+integration		<-->	noun+C1	.
+intersectional		<-->	adjective+C2	.
+intersectionality		<-->	noun+C2	.
+intersex		<-->	adjective+C2	.
+king		<-->	noun+A2	.
+knight		<-->	noun+B2	.
+Ku Klux Klan		<-->	noun+C2	.
+lady		<-->	noun+B2	.
+laird		<-->	noun+C2	.
+Latina		<-->	adjective+C2	.
+Latina		<-->	noun+C2	.
+Latino		<-->	adjective+C2	.
+Latino		<-->	noun+C2	.
+Latinx		<-->	noun+C2	.
+Latinx		<-->	adjective+C2	.
+leader		<-->	noun+A2	.
+leadership		<-->	noun+B2	.
+lesbian		<-->	adjective+C1	.
+lesbian		<-->	noun+C1	.
+lesbianism		<-->	noun+C2	.
+LGBT		<-->	abbreviation+C1	.
+LGBTI		<-->	abbreviation+C2	.
+LGBTQ		<-->	abbreviation+C1	.
+LGBTQI		<-->	abbreviation+C2	.
+LGBTQIA		<-->	abbreviation+C2	.
+lived experience		<-->	noun+C1	.
+lord		<-->	noun+B2	.
+lower class		<-->	adjective+B1	.
+lynch		<-->	verb+C2	.
+lynching		<-->	noun+C2	.
+lynch mob		<-->	noun+C2	.
+male		<-->	adjective+A2	.
+man		<-->	noun+A1	.
+man of colour		<-->	noun+B1	.
+marchioness		<-->	noun+C2	.
+marginalized		<-->	adjective+C2	.
+marquess		<-->	noun+C2	.
+marquis		<-->	noun+C2	.
+marquise		<-->	noun+C2	.
+masculine		<-->	adjective+C1	.
+masculinity		<-->	noun+C2	.
+microaggression		<-->	noun+C2	.
+middle class		<-->	noun+B2	.
+middle-class		<-->	adjective+B2	.
+military service		<-->	noun+C1	.
+minority		<-->	noun+B2	.
+misgender		<-->	verb+C2	.
+mixed		<-->	adjective+B2	.
+mixed-race		<-->	adjective+C1	.
+monarch		<-->	noun+B2	.
+multicultural		<-->	adjective+C1	.
+multiculturalism		<-->	noun+C2	.
+multi-ethnic		<-->	adjective+C1	.
+multiracial		<-->	adjective+C2	.
+Mx		<-->	abbreviation+C2	.
+new money		<-->	noun+C2	.
+nimby		<-->	noun+C2	.
+nobility		<-->	noun+C2	.
+noble		<-->	adjective+C1	.
+noble		<-->	noun+C1	.
+non-binary		<-->	adjective+C2	.
+non-white		<-->	noun+C2	.
+non-white		<-->	adjective+C2	.
+nouveau riche		<-->	adjective+C2	.
+nouveau riche		<-->	noun+C2	.
+of color		<-->	idiom+A1	.
+of colour		<-->	idiom+A1	.
+old money		<-->	noun+C2	.
+organization		<-->	noun+A2	.
+other		<-->	verb+C2	.
+othering		<-->	noun+C2	.
+out		<-->	adjective+C2	.
+overlord		<-->	noun+C2	.
+pansexual		<-->	adjective+C2	.
+pansexual		<-->	noun+C2	.
+pansexuality		<-->	noun+C2	.
+peer		<-->	noun+C1	.
+person of colour		<-->	noun+B1	.
+plural		<-->	adjective+C2	.
+pluralism		<-->	noun+C2	.
+pluralist		<-->	adjective+C2	.
+pluralist		<-->	noun+C2	.
+polity		<-->	noun+C2	.
+poor		<-->	adjective+A1	.
+prefect		<-->	noun+C2	.
+preferred pronoun		<-->	noun+C1	.
+president		<-->	noun+A2	.
+prince		<-->	noun+B1	.
+princess		<-->	noun+B1	.
+public		<-->	adjective+A2	.
+public		<-->	noun+A2	.
+public spirit		<-->	noun+C2	.
+public-spirited		<-->	adjective+C2	.
+queen		<-->	noun+A2	.
+queer		<-->	adjective+C2	.
+queerness		<-->	noun+C2	.
+race		<-->	noun+B1	.
+racism		<-->	noun+B2	.
+racist		<-->	adjective+B2	.
+rank		<-->	noun+B2	.
+represent		<-->	verb+B1	.
+representation		<-->	noun+C1	.
+representative		<-->	noun+B2	.
+rich		<-->	adjective+A1	.
+segregate		<-->	verb+C2	.
+segregation		<-->	noun+C1	.
+segregationist		<-->	adjective+C2	.
+segregationist		<-->	noun+C2	.
+senior		<-->	adjective+B2	.
+senior		<-->	noun+C1	.
+senior citizen		<-->	noun+C1	.
+sexuality		<-->	noun+C1	.
+shaikh		<-->	noun+C2	.
+sheikh		<-->	noun+C2	.
+social		<-->	adjective+B1	.
+social capital		<-->	noun+C2	.
+social contract		<-->	noun+C2	.
+society		<-->	noun+A2	.
+sociological		<-->	adjective+C1	.
+sociologist		<-->	noun+B2	.
+sociology		<-->	noun+B2	.
+sociopolitical		<-->	adjective+C2	.
+sovereign		<-->	noun+C2	.
+sovereign		<-->	adjective+C2	.
+stateless		<-->	adjective+C2	.
+status		<-->	noun+B2	.
+the bourgeoisie		<-->	noun+C2	.
+the lower orders		<-->	noun+C2	.
+the lower middle class		<-->	noun+C1	.
+the lower classes		<-->	noun+B2	.
+the rat race		<-->	noun+C2	.
+the upper middle class		<-->	noun+C1	.
+the upper class		<-->	noun+B1	.
+the working class		<-->	noun+B1	.
+straight		<-->	adjective+C1	.
+stratum		<-->	noun+C2	.
+subordinate		<-->	noun+C2	.
+sultan		<-->	noun+C1	.
+superior		<-->	adjective+C1	.
+superior		<-->	noun+C2	.
+supremacist		<-->	noun+C2	.
+the chattering classes		<-->	idiom+C2	.
+third gender		<-->	noun+C2	.
+town meeting		<-->	noun+C1	.
+toxic masculinity		<-->	noun+C2	.
+trans		<-->	adjective+C1	.
+transgender		<-->	adjective+C1	.
+transsexual		<-->	noun+C2	.
+transvestism		<-->	noun+C2	.
+transvestite		<-->	noun+C2	.
+tribe		<-->	noun+B2	.
+tsar		<-->	noun+C2	.
+tsarina		<-->	noun+C2	.
+tzar		<-->	noun+C2	.
+underclass		<-->	noun+C2	.
+upper class		<-->	adjective+B1	.
+white		<-->	adjective+A1	.
+white		<-->	noun+B2	.
+woman		<-->	noun+A1	.
+woman of colour		<-->	noun+B1	.
+working class		<-->	adjective+B1

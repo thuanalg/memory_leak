@@ -1,0 +1,479 @@
+abbreviation		<-->	noun+B1    
+ablative		<-->	adjective+C2    
+ablative		<-->	noun+C2    
+abstract 		<-->	noun+		<-->	noun+B2    
+accent		<-->	noun+B2    
+accusative		<-->	adjective+C2    
+accusative		<-->	noun+C2    
+active		<-->	adjective+B1    
+active		<-->	noun+B1    
+acute accent		<-->	noun+C2    
+adjectival		<-->	adjective+C2    
+		<-->	adjective+		<-->	noun+A1    
+advanced		<-->	adjective+B1    
+adverb		<-->	noun+A1    
+adverbial		<-->	adjective+B1    
+affirmative		<-->	adjective+C1    
+affix		<-->	noun+C1    
+Afrikaans		<-->	noun+C2    
+agreeverbB2    
+agreement		<-->	noun+B2    
+alliteration		<-->	noun+C2    
+allophone		<-->	noun+C2    
+allusion		<-->	noun+C2    
+alphabet		<-->	noun+A1    
+ampersand		<-->	noun+C2    
+analogy		<-->	noun+C1    
+anaphor		<-->	noun+C2    
+anaphora		<-->	noun+C2    
+Anglicism		<-->	noun+C2    
+Anglo-Saxon		<-->	noun+C1    
+anthropomorphic		<-->	adjective+C2    
+anthropomorphism		<-->	noun+C2    
+antithesis		<-->	noun+C2    
+apostrophe		<-->	noun+B1    
+apposition		<-->	noun+C2    
+appositional		<-->	adjective+C2    
+appositional		<-->	noun+C2    
+Arabic		<-->	noun+A2    
+Aramaic		<-->	noun+C2    
+archaism		<-->	noun+C2    
+argument		<-->	noun+B1    
+article		<-->	noun+B1    
+articulateverbC1    
+articulate		<-->	adjective+C1    
+aspirate		<-->	noun+C2    
+aspirateverbC2    
+assonance		<-->	noun+C2    
+asterisk		<-->	noun+C2    
+attributive		<-->	adjective+C2    
+aural		<-->	adjective+C2    
+auxiliary		<-->	noun+B1    
+backslash		<-->	noun+C2    
+Bahasa Indonesia		<-->	noun+C2    
+Bahasa Malaysia		<-->	noun+C2    
+Bangla		<-->	noun+C2    
+Basque		<-->	noun+C2    
+beginner		<-->	noun+B1    
+Bengali		<-->	noun+C1    
+bilabial		<-->	noun+C2    
+binomial		<-->	noun+C2    
+brace		<-->	noun+C2    
+bracket		<-->	noun+C1    
+Breton		<-->	noun+C2    
+broad		<-->	adjective+C2    
+brush upphrasal verbC2
+brush up onphrasal verbC2
+bullet point		<-->	noun+B2    
+cacophony		<-->	noun+C2    
+calque		<-->	noun+C2    
+Cantonese		<-->	noun+C2    
+cardinal		<-->	noun+C2    
+Carib		<-->	noun+C2    
+Catalan		<-->	noun+C2    
+cataphor		<-->	noun+C2    
+cataphora		<-->	noun+C2    
+cedilla		<-->	noun+C2    
+character		<-->	noun+C1    
+chiasmus		<-->	noun+C2    
+Chinese		<-->	noun+A2    
+circumflex		<-->	noun+C2    
+circumlocution		<-->	noun+C2    
+clause		<-->	noun+B1    
+closed syllable		<-->	noun+C2    
+cluster		<-->	noun+C1    
+code word		<-->	noun+C1    
+coherent		<-->	adjective+C1    
+coinage		<-->	noun+C2    
+collocation		<-->	noun+A2    
+colloquialism		<-->	noun+C2    
+colon		<-->	noun+C1    
+comma		<-->	noun+A2    
+common 		<-->	noun+		<-->	noun+B2    
+communication		<-->	noun+B1    
+comparative		<-->	adjective+A2    
+comparative		<-->	noun+A2    
+complement		<-->	noun+B2    
+compound		<-->	noun+B2    
+compound		<-->	adjective+B2    
+conditional		<-->	adjective+A2    
+conditional		<-->	noun+A2    
+conjugateverbC2    
+conjunction		<-->	noun+B1    
+consonant		<-->	noun+A2    
+continuant		<-->	adjective+C2    
+continuant		<-->	noun+C2    
+continuous		<-->	adjective+B1    
+contraction		<-->	noun+B1    
+Cornish		<-->	noun+C2    
+countable		<-->	adjective+A1    
+count 		<-->	noun+		<-->	noun+A1    
+Creole		<-->	noun+C2    
+Danish		<-->	noun+B2    
+dash		<-->	noun+B2    
+dative		<-->	noun+C2    
+dative		<-->	adjective+C2    
+declension		<-->	noun+C2    
+declineverbC2    
+defining		<-->	adjective+B1    
+definite article		<-->	noun+B1    
+deontic		<-->	adjective+C2    
+dependent clause		<-->	noun+B2    
+derivative		<-->	noun+C2    
+descriptor		<-->	noun+C2    
+determiner		<-->	noun+B1    
+Dharuk		<-->	noun+C2    
+diaeresis		<-->	noun+C2    
+dialect		<-->	noun+C1    
+diphthong		<-->	noun+C1    
+direct object		<-->	noun+B1    
+direct speech		<-->	noun+B1    
+ditto		<-->	noun+C2    
+dot		<-->	noun+B2    
+double negative		<-->	noun+B2    
+drill		<-->	noun+C2    
+drillverbC2    
+elideverbC2    
+elision		<-->	noun+C2    
+ellipsis		<-->	noun+C1    
+elliptical		<-->	adjective+C2    
+encodeverbC2    
+ending		<-->	noun+A2    
+English		<-->	noun+A1    
+enjambement		<-->	noun+C2    
+epithet		<-->	noun+C2    
+Erse		<-->	noun+C2    
+Etruscan		<-->	noun+C2    
+etymological		<-->	adjective+C2    
+etymology		<-->	noun+C2    
+euphemism		<-->	noun+C1    
+exclamation		<-->	noun+B1    
+exclamation mark		<-->	noun+B1    
+expression		<-->	noun+A2    
+fable		<-->	noun+C1    
+faultless		<-->	adjective+C2    
+feminine		<-->	adjective+C1    
+feminine		<-->	noun+C1    
+Filipino		<-->	noun+C2    
+Flemish		<-->	noun+C2    
+fluency		<-->	noun+B2    
+fluent		<-->	adjective+B1    
+form		<-->	noun+A1    
+formverbA1    
+free form		<-->	noun+C2    
+French		<-->	noun+A1    
+fricative		<-->	noun+C2    
+future		<-->	noun+A1    
+gabbleverbC2    
+Gaelic		<-->	noun+C2    
+Gaulish		<-->	noun+C2    
+gender		<-->	noun+C1    
+gender-neutral		<-->	adjective+C1    
+generative grammar		<-->	noun+C2    
+genitive		<-->	noun+C2    
+genitive		<-->	adjective+C2    
+German		<-->	noun+A1    
+gerund		<-->	noun+B1    
+glide		<-->	noun+C2    
+glottal		<-->	noun+C2    
+glottal stop		<-->	noun+C2    
+grammar		<-->	noun+A1    
+grammatical		<-->	adjective+B1    
+grave		<-->	noun+C2    
+Greek		<-->	noun+A2    
+Gujarati		<-->	noun+C2    
+Gullah		<-->	noun+C2    
+hard		<-->	adjective+C1    
+Hausa		<-->	noun+C2    
+Hebrew		<-->	noun+C2    
+heritage language		<-->	noun+C2    
+holophrasis		<-->	noun+C2    
+homograph		<-->	noun+C1    
+homonym		<-->	noun+C1    
+homophone		<-->	noun+C1    
+homophonous		<-->	adjective+C2    
+hyperbole		<-->	noun+C2    
+hyphen		<-->	noun+B2    
+hyphenateverbC1    
+Ibo		<-->	noun+C2    
+idiolect		<-->	noun+C2    
+idiom		<-->	noun+C1    
+idiomatic		<-->	adjective+B2    
+Igbo		<-->	noun+C2    
+imperative		<-->	adjective+B1    
+imperative		<-->	noun+B1    
+imperfect		<-->	noun+C2    
+inarticulate		<-->	adjective+C2    
+incomprehensibility		<-->	noun+C2    
+incomprehensible		<-->	adjective+C1    
+indefinite article		<-->	noun+B1    
+independent clause		<-->	noun+C2    
+indicative		<-->	adjective+C2    
+indicative		<-->	noun+C2    
+indirect object		<-->	noun+B1    
+indirect speech		<-->	noun+B1    
+infinitive		<-->	noun+A1    
+inflection		<-->	noun+C2    
+innuendo		<-->	noun+C2    
+interjection		<-->	noun+C1    
+intermediate		<-->	adjective+C1    
+intermediate		<-->	noun+B2    
+internal rhyme		<-->	noun+C2    
+interrogative		<-->	adjective+B1    
+interrogative		<-->	noun+C1    
+intonation		<-->	noun+B1    
+intransitive		<-->	adjective+B2    
+inversion		<-->	noun+C1    
+inverted commas		<-->	noun+C2    
+Irish		<-->	noun+B1    
+ironic		<-->	adjective+C1    
+irony		<-->	noun+C1    
+irregular		<-->	adjective+A2    
+isiXhosa		<-->	noun+C2    
+isiZulu		<-->	noun+C2    
+Italian		<-->	noun+A1    
+jargon		<-->	noun+C1    
+Javanese		<-->	noun+C2    
+Kannada		<-->	noun+C2    
+Khmer		<-->	noun+C2    
+Kiswahili		<-->	noun+C1    
+labial		<-->	noun+C2    
+labiodental		<-->	noun+C2    
+labiovelar		<-->	noun+C2    
+Lahnda		<-->	noun+C2    
+language		<-->	noun+A1    
+language transfer		<-->	noun+C2    
+Latin		<-->	noun+A2    
+lexeme		<-->	noun+C2    
+lexical unit		<-->	noun+C2    
+lexis		<-->	noun+C2    
+linguistic		<-->	adjective+B2    
+linguistics		<-->	noun+C2    
+litotes		<-->	noun+C2    
+loan translation		<-->	noun+C2    
+locative		<-->	adjective+C2    
+main clause		<-->	noun+B1    
+malapropism		<-->	noun+C2    
+Malay		<-->	noun+C2    
+Malayalam		<-->	noun+C2    
+Maltese		<-->	noun+C2    
+Maori		<-->	noun+C1    
+Marathi		<-->	noun+C2    
+masculine		<-->	adjective+C1    
+masculine		<-->	noun+C1    
+masterverbB2    
+metaphor		<-->	noun+B2    
+metonymy		<-->	noun+C2    
+Middle English		<-->	noun+C2    
+modal		<-->	noun+A2    
+mood		<-->	noun+C2    
+morpheme		<-->	noun+C2    
+Nahuatl		<-->	noun+C2    
+nasal		<-->	adjective+C2    
+native speaker		<-->	noun+B1    
+negative		<-->	adjective+A1    
+neologism		<-->	noun+C2    
+neuter		<-->	adjective+C1    
+nominative		<-->	noun+C2    
+nominative		<-->	adjective+C2    
+non-count		<-->	adjective+C2    
+non-defining		<-->	adjective+C1    
+non sequitur		<-->	noun+C2    
+Norse		<-->	noun+C2    
+		<-->	noun+		<-->	noun+A1    
+number		<-->	noun+B2    
+object		<-->	noun+B1    
+Occitan		<-->	noun+C2    
+Old English		<-->	noun+C1    
+Old Norse		<-->	noun+C2    
+onomatopoeia		<-->	noun+C2    
+oral		<-->	adjective+C1    
+oral		<-->	noun+C1    
+ordinal		<-->	noun+C1    
+Oriya		<-->	noun+C2    
+oxymoron		<-->	noun+C2    
+palatal		<-->	noun+C2    
+palindrome		<-->	noun+C2    
+paradox		<-->	noun+C1    
+paragraph		<-->	noun+A1    
+parenthesis		<-->	noun+C1    
+parseverbC2    
+participle		<-->	noun+A2    
+particle		<-->	noun+B2    
+part of speech		<-->	noun+B1    
+Pashto		<-->	noun+C2    
+passive		<-->	adjective+B1    
+passive		<-->	noun+B1    
+past		<-->	adjective+A1    
+past		<-->	noun+A1    
+past participle		<-->	noun+A2    
+pathetic fallacy		<-->	noun+C2    
+perfect		<-->	adjective+A2    
+perfectverbC1    
+perfect		<-->	noun+A2    
+period		<-->	noun+B1    
+Persian		<-->	noun+C2    
+person		<-->	noun+B2    
+personal pronoun		<-->	noun+B2    
+Phoenician		<-->	noun+C2    
+phoneme		<-->	noun+C2    
+phonetics		<-->	noun+C1    
+phrasal verb		<-->	noun+A1    
+phrase		<-->	noun+A1    
+Pictish		<-->	noun+C2    
+pidgin		<-->	noun+C2    
+pitch		<-->	noun+C1    
+pleonasm		<-->	noun+C2    
+plosive		<-->	noun+C2    
+pluperfect		<-->	noun+C2    
+plural		<-->	noun+A1    
+plural		<-->	adjective+A1    
+point		<-->	noun+B1    
+polish		<-->	noun+C2    
+Polish		<-->	noun+A2    
+portmanteau word		<-->	noun+C2    
+Portuguese		<-->	noun+A2    
+positive		<-->	adjective+A1    
+possessive		<-->	adjective+A2    
+possessive		<-->	noun+A2    
+pound sign		<-->	noun+C2    
+practiseverbA1    
+pragmatics		<-->	noun+C2    
+predeterminer		<-->	noun+C2    
+predicative		<-->	adjective+C2    
+prefix		<-->	noun+B1    
+preposition		<-->	noun+A1    
+prepositional		<-->	adjective+B1    
+present		<-->	noun+A1    
+present participle		<-->	noun+A2    
+primary stress		<-->	noun+C1    
+principal parts		<-->	noun+C2    
+progressive		<-->	adjective+B1    
+pronoun		<-->	noun+A1    
+pronunciation		<-->	noun+A1    
+proper 		<-->	noun+		<-->	noun+B1    
+prosody		<-->	noun+C2    
+Proto-Indo-European		<-->	noun+C2    
+proverb		<-->	noun+B2    
+pun		<-->	noun+C2    
+punctuateverbC1    
+punctuation		<-->	noun+A2    
+punctuation mark		<-->	noun+A2    
+Punjabi		<-->	noun+C2    
+Quechua		<-->	noun+C2    
+question mark		<-->	noun+A2    
+question tag		<-->	noun+A2    
+quotation marks		<-->	noun+B1    
+quoteverbB1    
+quote		<-->	noun+B2    
+reflexive		<-->	adjective+B1    
+register		<-->	noun+C2    
+regular		<-->	adjective+A2    
+relative		<-->	adjective+B1    
+reported speech		<-->	noun+B1    
+rhetorical		<-->	adjective+C1    
+rhotic		<-->	adjective+C2    
+rollverbC2    
+Romani		<-->	noun+C2    
+round bracket		<-->	noun+C1    
+rounded		<-->	adjective+C2    
+Russian		<-->	noun+A2    
+rusty		<-->	adjective+C2    
+Sanskrit		<-->	noun+C2    
+sarcasm		<-->	noun+C2    
+satire		<-->	noun+C2    
+saying		<-->	noun+B1    
+schwa		<-->	noun+B2    
+secondary stress		<-->	noun+C1    
+semantics		<-->	noun+C2    
+semicolon		<-->	noun+C1    
+sentence		<-->	noun+A1    
+Shona		<-->	noun+C2    
+shwa		<-->	noun+B2    
+sibilant		<-->	noun+C2    
+simile		<-->	noun+B2    
+Sindhi		<-->	noun+C2    
+singular		<-->	noun+A1    
+singular		<-->	adjective+A1    
+Sinhalese		<-->	noun+C2    
+slang		<-->	noun+B2    
+slash		<-->	noun+C1    
+soft		<-->	adjective+C1    
+Spanish		<-->	noun+A1    
+spellverbA1    
+spelling		<-->	noun+A1    
+spirant		<-->	noun+C2    
+spoken word		<-->	noun+B2    
+spoonerism		<-->	noun+C2    
+stammerverbC2    
+the first person		<-->	noun+B2    
+the past perfect		<-->	noun+B1    
+the present perfect		<-->	noun+A2    
+the present tense		<-->	noun+A1    
+stress		<-->	noun+A2    
+stressverbA2    
+stressed		<-->	adjective+A2    
+stress mark		<-->	noun+C1    
+stress-timed		<-->	adjective+C2    
+stumbleverbC2    
+subject		<-->	noun+A1    
+subjunctive		<-->	adjective+C1    
+subjunctive		<-->	noun+C1    
+subordinate clause		<-->	noun+B2    
+suffix		<-->	noun+B1    
+superlative		<-->	adjective+A2    
+superlative		<-->	noun+A2    
+Swahili		<-->	noun+C1    
+syllabic		<-->	adjective+C2    
+syllable		<-->	noun+A2    
+syllable-timed		<-->	adjective+C2    
+syncope		<-->	noun+C2    
+syntax		<-->	noun+C2    
+Tagalog		<-->	noun+C2    
+tag question		<-->	noun+B1    
+Taino		<-->	noun+C2    
+Tamil		<-->	noun+C1    
+tap		<-->	noun+C2    
+tautology		<-->	noun+C2    
+Telugu		<-->	noun+C2    
+tense		<-->	noun+A1    
+thorn		<-->	noun+C2    
+tilde		<-->	noun+C2    
+timbre		<-->	noun+C2    
+Tok Pisin		<-->	noun+C2    
+tone		<-->	noun+C1    
+transitive		<-->	adjective+B1    
+trill		<-->	noun+C2    
+truism		<-->	noun+C2    
+Turkish		<-->	noun+B2    
+umlaut		<-->	noun+C2    
+uncountable		<-->	adjective+A1    
+uncount 		<-->	noun+		<-->	noun+A1    
+ungrammatical		<-->	adjective+B2    
+unrounded		<-->	adjective+C2    
+unvoiced		<-->	adjective+C1    
+upspeak		<-->	noun+C2    
+uptalk		<-->	noun+C2    
+Urdu		<-->	noun+C1    
+uvular		<-->	adjective+C2    
+Vedic		<-->	noun+C2    
+velar		<-->	noun+C2    
+verb		<-->	noun+A1    
+verbal		<-->	adjective+C1    
+vocabulary		<-->	noun+A1    
+vocative		<-->	adjective+C2    
+vocative		<-->	noun+C2    
+voice		<-->	noun+B2    
+voiceverbC1    
+voiced		<-->	adjective+C1    
+voiceless		<-->	adjective+C1    
+vowel		<-->	noun+A2    
+Welsh		<-->	noun+B1    
+Wiradhuri		<-->	noun+C2    
+word		<-->	noun+A1    
+Xhosa		<-->	noun+C2    
+Yiddish		<-->	noun+C2    
+Yoruba		<-->	noun+C2    
+Yue		<-->	noun+C2    
+zeugma		<-->	noun+C2    
+Zulu		<-->	noun+C2    

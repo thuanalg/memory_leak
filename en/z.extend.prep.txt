@@ -1,0 +1,303 @@
+
+=============
+Prep
+
+	Line 84: about		<-->	preposition+A1  
+	Line 98: above		<-->	preposition+A1  
+	Line 352: according to		<-->	preposition+A2  
+	Line 520: across		<-->	preposition+A1  
+	Line 1070: after		<-->	preposition+A1  
+	Line 1124: against		<-->	preposition+A2  
+	Line 1611: along		<-->	preposition+A2  
+	Line 1618: alongside		<-->	preposition+B2  
+	Line 1796: amid		<-->	preposition+C1  
+	Line 1803: among		<-->	preposition+A2  
+	Line 2607: around		<-->	preposition+A1  
+	Line 2771: as		<-->	preposition+A1  
+	Line 3022: at		<-->	preposition+A1  
+	Line 3915: before		<-->	preposition+A1  
+	Line 3963: behind		<-->	preposition+A1  
+	Line 4011: below		<-->	preposition+A1  
+	Line 4047: beneath		<-->	preposition+C1  
+	Line 4083: beside		<-->	preposition+B2  
+	Line 4095: besides		<-->	preposition+B2  
+	Line 4161: between		<-->	preposition+A1  
+	Line 4173: beyond		<-->	preposition+B2  
+	Line 5130: but		<-->	preposition+B2  
+	Line 5160: by		<-->	preposition+A1  
+	Line 9975: despite		<-->	preposition+B1  
+	Line 11141: down		<-->	preposition+A1  
+	Line 11538: during		<-->	preposition+A1  
+	Line 12972: except		<-->	preposition+A2  
+	Line 14589: following		<-->	preposition+B2  
+	Line 14631: for		<-->	preposition+A1  
+	Line 15039: from		<-->	preposition+A1  
+	Line 18138: in		<-->	preposition+A1  
+	Line 18226: including		<-->	preposition+A2  
+	Line 18834: inside		<-->	preposition+A2  
+	Line 19418: into		<-->	preposition+A1  
+	Line 21293: like		<-->	preposition+A1  
+	Line 24496: near		<-->	preposition+A1  
+	Line 24832: next to		<-->	preposition+A1  
+	Line 25584: of		<-->	preposition+A1  
+	Line 25600: off		<-->	preposition+A1  
+	Line 25776: on		<-->	preposition+A1  
+	Line 25872: onto		<-->	preposition+A2  
+	Line 26016: opposite		<-->	preposition+A1  
+	Line 26304: out		<-->	preposition+A1  
+	Line 26448: outside		<-->	preposition+A2  
+	Line 26488: over		<-->	preposition+A1  
+	Line 27152: past		<-->	preposition+A1  
+	Line 27400: per		<-->	preposition+A2  
+	Line 28245: plus		<-->	preposition+B1  
+	Line 33135: round		<-->	preposition+A2  
+	Line 35441: since		<-->	preposition+A2  
+	Line 39763: than		<-->	preposition+A1  
+	Line 40251: through		<-->	preposition+A1  
+	Line 40267: throughout		<-->	preposition+B1  
+	Line 40379: till		<-->	preposition+B1  
+	Line 40499: to		<-->	preposition+A1  
+	Line 40827: towards		<-->	preposition+A2  
+	Line 41820: under		<-->	preposition+A1  
+	Line 42084: unlike		<-->	preposition+B1  
+	Line 42141: until		<-->	preposition+A1  
+	Line 42195: up		<-->	preposition+A1  
+	Line 42262: upon		<-->	preposition+B1  
+	Line 42719: versus		<-->	preposition+C1  
+	Line 42767: via		<-->	preposition+B2  
+	Line 44219: with		<-->	preposition+A1  
+	Line 44243: within		<-->	preposition+B1  
+	Line 44251: without		<-->	preposition+A1  
+	
+=========
+Conjuction:
+ D:\en\voca\CEFR.C1.01.txt (32 hits)
+	Line 129:		after		<-->	conjunction+A2  
+	Line 163:		albeit		<-->	conjunction+C1  
+	Line 203:		although		<-->	conjunction+A2  
+	Line 229:		and		<-->	conjunction+A1  
+	Line 329:		as		<-->	conjunction+A2  
+	Line 484:		because		<-->	conjunction+A1  
+	Line 492:		before		<-->	conjunction+A2  
+	Line 695:		but		<-->	conjunction+A1  
+	Line 1907:		except		<-->	conjunction+B1  
+	Line 2626:		if		<-->	conjunction+A1  
+	Line 3529:		nor		<-->	conjunction+B1  
+	Line 3556:		now		<-->	conjunction+B1  
+	Line 3624:		once		<-->	conjunction+B1  
+	Line 3659:		or		<-->	conjunction+A1  
+	Line 3928:		plus		<-->	conjunction+B2  
+	Line 4811:		since		<-->	conjunction+A2  
+	Line 4880:		so		<-->	conjunction+A1  
+	Line 5329:		than		<-->	conjunction+A1  
+	Line 5336:		that		<-->	conjunction+A1  
+	Line 5377:		though		<-->	conjunction+B1  
+	Line 5406:		till		<-->	conjunction+B1  
+	Line 5618:		unless		<-->	conjunction+B1  
+	Line 5624:		until		<-->	conjunction+A1  
+	Line 5824:		when		<-->	conjunction+A1  
+	Line 5826:		whenever		<-->	conjunction+B1  
+	Line 5828:		where		<-->	conjunction+A1  
+	Line 5829:		whereas		<-->	conjunction+B2  
+	Line 5831:		wherever		<-->	conjunction+B2  
+	Line 5832:		whether		<-->	conjunction+B1  
+	Line 5835:		while		<-->	conjunction+A2  
+	Line 5837:		whilst		<-->	conjunction+C1  
+	Line 5946:		yet		<-->	conjunction+B2  
+	
+=====================
+	Adverb:
+	Line 2: 	Line 7:			about		<-->	adverb+A1  
+	Line 3: 	Line 9:			above		<-->	adverb+A1  
+	Line 4: 	Line 11:		abroad		<-->	adverb+A2  
+	Line 9: 	Line 64:		across		<-->	adverb+A1  
+	Line 13: 	Line 128:		after		<-->	adverb+A2  
+	Line 14: 	Line 133:		afterwards		<-->	adverb+B2  
+	Line 15: 	Line 134:		again		<-->	adverb+A1  
+	Line 16: 	Line 144:		ago		<-->	adverb+A1  
+	Line 17: 	Line 150:		ahead		<-->	adverb+B1  
+	Line 18: 	Line 175:		alike		<-->	adverb+C1  
+	Line 19: 	Line 177:		all		<-->	adverb+A2  
+	Line 20: 	Line 181:		all right		<-->	adverb+A2  
+	Line 22: 	Line 192:		almost		<-->	adverb+A2  
+	Line 23: 	Line 194:		alone		<-->	adverb+A2  
+	Line 24: 	Line 195:		along		<-->	adverb+A2  
+	Line 25: 	Line 198:		already		<-->	adverb+A2  
+	Line 26: 	Line 199:		also		<-->	adverb+A1  
+	Line 27: 	Line 204:		altogether		<-->	adverb+B2  
+	Line 28: 	Line 206:		always		<-->	adverb+A1  
+	Line 30: 	Line 253:		any		<-->	adverb+A2  
+	Line 31: 	Line 256:		any more		<-->	adverb+A2  
+	Line 32: 	Line 260:		anyway		<-->	adverb+A2  
+	Line 33: 	Line 261:		anywhere		<-->	adverb+A2  
+	Line 34: 	Line 263:		apart		<-->	adverb+B1  
+	Line 39: 	Line 311:		around		<-->	adverb+A1  
+	Line 40: 	Line 328:		as		<-->	adverb+A2  
+	Line 41: 	Line 333:		aside		<-->	adverb+B2  
+	Line 43: 	Line 412:		away		<-->	adverb+A1  
+	Line 44: 	Line 417:		back		<-->	adverb+A1  
+	Line 45: 	Line 424:		backwards		<-->	adverb+B1  
+	Line 49: 	Line 491:		before		<-->	adverb+A2  
+	Line 50: 	Line 500:		behind		<-->	adverb+A1  
+	Line 51: 	Line 508:		below		<-->	adverb+A1  
+	Line 52: 	Line 522:		besides		<-->	adverb+B2  
+	Line 53: 	Line 525:		best		<-->	adverb+A2  
+	Line 54: 	Line 531:		better		<-->	adverb+A2  
+	Line 55: 	Line 533:		between		<-->	adverb+A2  
+	Line 56: 	Line 535:		beyond		<-->	adverb+B2  
+	Line 59: 	Line 700:		by		<-->	adverb+B1  
+	Line 62: 	Line 830:		cheap		<-->	adverb+B1  
+	Line 64: 	Line 909:		close		<-->	adverb+B1  
+	Line 77: 	Line 1373:		deep		<-->	adverb+B1  
+	Line 83: 	Line 1511:		direct		<-->	adverb+B1  
+	Line 85: 	Line 1616:		double		<-->	adverb+B1  
+	Line 86: 	Line 1622:		down		<-->	adverb+A1  
+	Line 87: 	Line 1627:		downstairs		<-->	adverb+A1  
+	Line 88: 	Line 1629:		downtown		<-->	adverb+B2  
+	Line 89: 	Line 1631:		downwards		<-->	adverb+B2  
+	Line 91: 	Line 1679:		each		<-->	adverb+A1  
+	Line 94: 	Line 1694:		east		<-->	adverb+A1  
+	Line 97: 	Line 1729:		either		<-->	adverb+A2  
+	Line 98: 	Line 1752:		else		<-->	adverb+A1  
+	Line 99: 	Line 1753:		elsewhere		<-->	adverb+B2  
+	Line 101: 	Line 1813:		enough		<-->	adverb+A1  
+	Line 106: 	Line 1878:		even		<-->	adverb+A1  
+	Line 108: 	Line 1882:		ever		<-->	adverb+A1  
+	Line 109: 	Line 1888:		everywhere		<-->	adverb+A2  
+	Line 114: 	Line 1985:		extra		<-->	adverb+B1  
+	Line 117: 	Line 2029:		far		<-->	adverb+A1  
+	Line 118: 	Line 2039:		fast		<-->	adverb+A1  
+	Line 121: 	Line 2120:		first		<-->	adverb+A1  
+	Line 123: 	Line 2193:		forever		<-->	adverb+B1  
+	Line 125: 	Line 2207:		forth		<-->	adverb+C1  
+	Line 127: 	Line 2215:		forward		<-->	adverb+A2  
+	Line 129: 	Line 2234:		free		<-->	adverb+A2  
+	Line 132: 	Line 2266:		full-time		<-->	adverb+B2  
+	Line 135: 	Line 2285:		further		<-->	adverb+B1  
+	Line 136: 	Line 2286:		furthermore		<-->	adverb+B2  
+	Line 141: 	Line 2432:		half		<-->	adverb+A2  
+	Line 142: 	Line 2436:		halfway		<-->	adverb+C1  
+	Line 144: 	Line 2455:		hard		<-->	adverb+A1  
+	Line 147: 	Line 2504:		hence		<-->	adverb+B2  
+	Line 148: 	Line 2508:		here		<-->	adverb+A1  
+	Line 149: 	Line 2520:		high		<-->	adverb+A2  
+	Line 151: 	Line 2553:		home		<-->	adverb+A1  
+	Line 153: 	Line 2586:		how		<-->	adverb+A1  
+	Line 154: 	Line 2587:		however		<-->	adverb+A1  
+	Line 156: 	Line 2668:		in		<-->	adverb+A1  
+	Line 159: 	Line 2691:		indeed		<-->	adverb+B1  
+	Line 160: 	Line 2704:		indoors		<-->	adverb+B1  
+	Line 163: 	Line 2756:		inside		<-->	adverb+A2  
+	Line 165: 	Line 2772:		instead		<-->	adverb+A2  
+	Line 167: 	Line 2903:		just		<-->	adverb+A1  
+	Line 169: 	Line 2961:		last		<-->	adverb+A2  
+	Line 170: 	Line 2966:		late		<-->	adverb+A1  
+	Line 172: 	Line 2969:		later		<-->	adverb+A1  
+	Line 173: 	Line 3002:		least		<-->	adverb+A2  
+	Line 174: 	Line 3011:		left		<-->	adverb+A1  
+	Line 175: 	Line 3029:		less		<-->	adverb+A2  
+	Line 176: 	Line 3066:		likewise		<-->	adverb+B2  
+	Line 178: 	Line 3095:		little		<-->	adverb+A2  
+	Line 179: 	Line 3099:		live		<-->	adverb+B1  
+	Line 180: 	Line 3124:		long		<-->	adverb+A1  
+	Line 181: 	Line 3127:		long-term		<-->	adverb+B2  
+	Line 182: 	Line 3139:		lot		<-->	adverb+A1  
+	Line 183: 	Line 3144:		loud		<-->	adverb+A2  
+	Line 185: 	Line 3150:		low		<-->	adverb+A2  
+	Line 187: 	Line 3252:		maybe		<-->	adverb+A1  
+	Line 188: 	Line 3261:		meanwhile		<-->	adverb+B1  
+	Line 190: 	Line 3387:		more		<-->	adverb+A1  
+	Line 191: 	Line 3390:		moreover		<-->	adverb+B2  
+	Line 192: 	Line 3394:		most		<-->	adverb+A1  
+	Line 194: 	Line 3416:		much		<-->	adverb+A1  
+	Line 197: 	Line 3461:		near		<-->	adverb+A1  
+	Line 198: 	Line 3464:		nearby		<-->	adverb+B2  
+	Line 201: 	Line 3484:		neither		<-->	adverb+B1  
+	Line 202: 	Line 3494:		never		<-->	adverb+A1  
+	Line 203: 	Line 3495:		nevertheless		<-->	adverb+B2  
+	Line 205: 	Line 3502:		next		<-->	adverb+A1  
+	Line 206: 	Line 3525:		nonetheless		<-->	adverb+C1  
+	Line 207: 	Line 3528:		nor		<-->	adverb+B1  
+	Line 209: 	Line 3535:		north		<-->	adverb+A1  
+	Line 210: 	Line 3539:		not		<-->	adverb+A1  
+	Line 212: 	Line 3555:		now		<-->	adverb+A1  
+	Line 213: 	Line 3557:		nowadays		<-->	adverb+B2  
+	Line 214: 	Line 3558:		nowhere		<-->	adverb+A2  
+	Line 215: 	Line 3568:		o'clock		<-->	adverb+A1  
+	Line 218: 	Line 3599:		off		<-->	adverb+A1  
+	Line 219: 	Line 3613:		often		<-->	adverb+A1  
+	Line 220: 	Line 3617:		OK		<-->	adverb+A1  
+	Line 221: 	Line 3621:		on		<-->	adverb+A1  
+	Line 222: 	Line 3623:		once		<-->	adverb+A1  
+	Line 223: 	Line 3631:		online		<-->	adverb+A1  
+	Line 226: 	Line 3650:		opposite		<-->	adverb+A1  
+	Line 228: 	Line 3682:		otherwise		<-->	adverb+B2  
+	Line 229: 	Line 3687:		out		<-->	adverb+A1  
+	Line 230: 	Line 3692:		outdoors		<-->	adverb+B1  
+	Line 231: 	Line 3704:		outside		<-->	adverb+A1  
+	Line 232: 	Line 3710:		over		<-->	adverb+A1  
+	Line 233: 	Line 3713:		overall		<-->	adverb+B2  
+	Line 235: 	Line 3717:		overnight		<-->	adverb+B2  
+	Line 236: 	Line 3719:		overseas		<-->	adverb+B2  
+	Line 240: 	Line 3792:		past		<-->	adverb+A2  
+	Line 241: 	Line 3827:		per cent		<-->	adverb+A2  
+	Line 243: 	Line 3836:		perhaps		<-->	adverb+A2  
+	Line 252: 	Line 4047:		pretty		<-->	adverb+A1  
+	Line 260: 	Line 4215:		quite		<-->	adverb+A1  
+	Line 263: 	Line 4256:		rather		<-->	adverb+A2  
+	Line 268: 	Line 4333:		regardless		<-->	adverb+C1  
+	Line 274: 	Line 4502:		right		<-->	adverb+A1  
+	Line 276: 	Line 4541:		round		<-->	adverb+A2  
+	Line 278: 	Line 4587:		same		<-->	adverb+A1  
+	Line 279: 	Line 4647:		second		<-->	adverb+A2  
+	Line 282: 	Line 4670:		seldom		<-->	adverb+C1  
+	Line 290: 	Line 4810:		since		<-->	adverb+B1  
+	Line 293: 	Line 4879:		so		<-->	adverb+A1  
+	Line 295: 	Line 4908:		somehow		<-->	adverb+B2  
+	Line 296: 	Line 4911:		sometime		<-->	adverb+B2  
+	Line 297: 	Line 4912:		sometimes		<-->	adverb+A1  
+	Line 298: 	Line 4913:		somewhat		<-->	adverb+B2  
+	Line 299: 	Line 4914:		somewhere		<-->	adverb+A2  
+	Line 300: 	Line 4918:		soon		<-->	adverb+A1  
+	Line 301: 	Line 4931:		south		<-->	adverb+A1  
+	Line 304: 	Line 5060:		still		<-->	adverb+A1  
+	Line 305: 	Line 5075:		straight		<-->	adverb+A2  
+	Line 314: 	Line 5190:		sure		<-->	adverb+A2  
+	Line 319: 	Line 5335:		that		<-->	adverb+B1  
+	Line 320: 	Line 5348:		then		<-->	adverb+A1  
+	Line 321: 	Line 5354:		there		<-->	adverb+A1  
+	Line 322: 	Line 5355:		thereafter		<-->	adverb+C1  
+	Line 323: 	Line 5356:		thereby		<-->	adverb+C1  
+	Line 324: 	Line 5357:		therefore		<-->	adverb+B1  
+	Line 325: 	Line 5371:		this		<-->	adverb+B1  
+	Line 327: 	Line 5376:		though		<-->	adverb+B1  
+	Line 328: 	Line 5390:		through		<-->	adverb+A1  
+	Line 329: 	Line 5392:		throughout		<-->	adverb+B1  
+	Line 330: 	Line 5397:		thus		<-->	adverb+B2  
+	Line 331: 	Line 5424:		today		<-->	adverb+A1  
+	Line 332: 	Line 5427:		together		<-->	adverb+A1  
+	Line 333: 	Line 5433:		tomorrow		<-->	adverb+A1  
+	Line 334: 	Line 5438:		tonight		<-->	adverb+A1  
+	Line 335: 	Line 5441:		too		<-->	adverb+A1  
+	Line 338: 	Line 5564:		twice		<-->	adverb+A1  
+	Line 341: 	Line 5585:		under		<-->	adverb+A1  
+	Line 342: 	Line 5590:		underground		<-->	adverb+A2  
+	Line 345: 	Line 5628:		up		<-->	adverb+A1  
+	Line 346: 	Line 5641:		upstairs		<-->	adverb+A1  
+	Line 347: 	Line 5642:		upwards		<-->	adverb+B2  
+	Line 350: 	Line 5693:		very		<-->	adverb+A1  
+	Line 351: 	Line 5772:		way		<-->	adverb+B2  
+	Line 352: 	Line 5806:		well		<-->	adverb+A1  
+	Line 353: 	Line 5811:		west		<-->	adverb+A1  
+	Line 354: 	Line 5817:		whatever		<-->	adverb+C1  
+	Line 355: 	Line 5820:		whatsoever		<-->	adverb+C1  
+	Line 356: 	Line 5823:		when		<-->	adverb+A1  
+	Line 357: 	Line 5827:		where		<-->	adverb+A1  
+	Line 358: 	Line 5830:		whereby		<-->	adverb+C1  
+	Line 360: 	Line 5851:		why		<-->	adverb+A1  
+	Line 362: 	Line 5906:		worldwide		<-->	adverb+B1  
+	Line 363: 	Line 5912:		worse		<-->	adverb+B1  
+	Line 364: 	Line 5917:		worst		<-->	adverb+B1  
+	Line 365: 	Line 5934:		wrong		<-->	adverb+B1  
+	Line 366: 	Line 5943:		yesterday		<-->	adverb+A1  
+	Line 367: 	Line 5945:		yet		<-->	adverb+A2 	

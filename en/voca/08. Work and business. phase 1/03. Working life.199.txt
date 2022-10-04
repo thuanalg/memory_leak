@@ -1,0 +1,1387 @@
+absentee		<-->	noun+C2	.
+
+
+
+
+
+
+achieve		<-->	verb+A2	.
+
+
+
+
+
+
+adjourn		<-->	verb+C2	.
+
+
+
+
+
+
+adjournment		<-->	noun+C2	.
+
+
+
+
+
+
+adjourn to		<-->	phrasal verb+C2	.
+
+
+
+
+
+
+agenda		<-->	noun+B2	.
+
+
+
+
+
+
+AGM		<-->	noun+C2	.
+
+
+
+
+
+
+AOB		<-->	abbreviation+C2	.
+
+
+
+
+
+
+apology		<-->	noun+C2	.
+
+
+
+
+
+
+application		<-->	noun+B1	.
+
+
+
+
+
+
+apply		<-->	verb+A2	.
+
+
+
+
+
+
+appoint		<-->	verb+C1	.
+
+
+
+
+
+
+appointment		<-->	noun+B1	.
+
+
+
+
+
+
+arduous		<-->	adjective+C2	.
+
+
+
+
+
+
+attend		<-->	verb+A2	.
+
+
+
+
+
+
+attendance		<-->	noun+C1	.
+
+
+
+
+
+
+back-breaking		<-->	adjective+C2	.
+
+
+
+
+
+
+between jobs		<-->	idiom+C1	.
+
+
+
+
+
+
+blue Monday		<-->	noun+C2	.
+
+
+
+
+
+
+boardroom		<-->	noun+C1	.
+
+
+
+
+
+
+bonus		<-->	noun+C1	.
+
+
+
+
+
+
+boring		<-->	adjective+A1	.
+
+
+
+
+
+
+boss		<-->	noun+A2	.
+
+
+
+
+
+
+brainstorm		<-->	verb+B2	.
+
+
+
+
+
+
+brainstorming		<-->	noun+B2	.
+
+
+
+
+
+
+break		<-->	noun+A1	.
+
+
+
+
+
+
+breakout		<-->	adjective+C2	.
+
+
+
+
+
+
+business		<-->	noun+A1	.
+
+
+
+
+
+
+call		<-->	verb+B1	.
+
+
+
+
+
+
+candidate		<-->	noun+B1	.
+
+
+
+
+
+
+career		<-->	noun+A1	.
+
+
+
+
+
+
+chair		<-->	noun+B2	.
+
+
+
+
+
+
+chair		<-->	verb+B2	.
+
+
+
+
+
+
+challenging		<-->	adjective+B2	.
+
+
+
+
+
+
+clock in		<-->	phrasal verb+C2	.
+
+
+
+
+
+
+clock off		<-->	phrasal verb+C2	.
+
+
+
+
+
+
+clock on		<-->	phrasal verb+C2	.
+
+
+
+
+
+
+clock out		<-->	phrasal verb+C2	.
+
+
+
+
+
+
+collaborative		<-->	adjective+C1	.
+
+
+
+
+
+
+colleague		<-->	noun+A2	.
+
+
+
+
+
+
+commence		<-->	verb+C1	.
+
+
+
+
+
+
+commission		<-->	noun+B2	.
+
+
+
+
+
+
+committee		<-->	noun+B2	.
+
+
+
+
+
+
+competitive		<-->	adjective+B1	.
+
+
+
+
+
+
+condition		<-->	noun+B1	.
+
+
+
+
+
+
+contract		<-->	noun+B2	.
+
+
+
+
+
+
+convene		<-->	verb+C2	.
+
+
+
+
+
+
+copier		<-->	noun+B2	.
+
+
+
+
+
+
+covering letter		<-->	noun+B2	.
+
+
+
+
+
+
+co-worker		<-->	noun+B2	.
+
+
+
+
+
+
+creative		<-->	adjective+A2	.
+
+
+
+
+
+
+CV		<-->	noun+B1	.
+
+
+
+
+
+
+danger money		<-->	noun+C2	.
+
+
+
+
+
+
+dangerous		<-->	adjective+A1	.
+
+
+
+
+
+
+demanding		<-->	adjective+B2	.
+
+
+
+
+
+
+department		<-->	noun+A2	.
+
+
+
+
+
+
+desk		<-->	noun+A1	.
+
+
+
+
+
+
+diary		<-->	noun+A2	.
+
+
+
+
+
+
+discipline		<-->	noun+B2	.
+
+
+
+
+
+
+discrimination		<-->	noun+C1	.
+
+
+
+
+
+
+easy		<-->	adjective+A1	.
+
+
+
+
+
+
+employee		<-->	noun+A2	.
+
+
+
+
+
+
+employer		<-->	noun+A2	.
+
+
+
+
+
+
+exciting		<-->	adjective+A1	.
+
+
+
+
+
+
+exhausting		<-->	adjective+B2	.
+
+
+
+
+
+
+exit interview		<-->	noun+C2	.
+
+
+
+
+
+
+experience		<-->	noun+A2	.
+
+
+
+
+
+
+exploit		<-->	verb+B2	.
+
+
+
+
+
+
+file		<-->	noun+B1	.
+
+
+
+
+
+
+filing cabinet		<-->	noun+C1	.
+
+
+
+
+
+
+follow up		<-->	phrasal verb+C1	.
+
+
+
+
+
+
+grill		<-->	verb+C2	.
+
+
+
+
+
+
+gruelling		<-->	adjective+C2	.
+
+
+
+
+
+
+hard		<-->	adjective+A1	.
+
+
+
+
+
+
+hazard pay		<-->	noun+C2	.
+
+
+
+
+
+
+hectic		<-->	adjective+C1	.
+
+
+
+
+
+
+hire		<-->	verb+B1	.
+
+
+
+
+
+
+hold		<-->	verb+B1	.
+
+
+
+
+
+
+hot desk		<-->	noun+C2	.
+
+
+
+
+
+
+industry		<-->	noun+A2	.
+
+
+
+
+
+
+innovative		<-->	adjective+B2	.
+
+
+
+
+
+
+intellectual		<-->	adjective+B2	.
+
+
+
+
+
+
+intensive		<-->	adjective+C1	.
+
+
+
+
+
+
+intermittent		<-->	adjective+C2	.
+
+
+
+
+
+
+intern		<-->	noun+C1	.
+
+
+
+
+
+
+internship		<-->	noun+C1	.
+
+
+
+
+
+
+interview		<-->	noun+A1	.
+
+
+
+
+
+
+interview		<-->	verb+A1	.
+
+
+
+
+
+
+interviewee		<-->	noun+C1	.
+
+
+
+
+
+
+interviewer		<-->	noun+A2	.
+
+
+
+
+
+
+in tray		<-->	noun+C2	.
+
+
+
+
+
+
+job		<-->	noun+A1	.
+
+
+
+
+
+
+job description		<-->	noun+B2	.
+
+
+
+
+
+
+job-hunt		<-->	verb+C1	.
+
+
+
+
+
+
+job security		<-->	noun+B1	.
+
+
+
+
+
+
+labor		<-->	noun+B2	.
+
+
+
+
+
+
+labor union		<-->	noun+B1	.
+
+
+
+
+
+
+labour		<-->	noun+B2	.
+
+
+
+
+
+
+labour-intensive		<-->	adjective+C2	.
+
+
+
+
+
+
+leave		<-->	noun+B2	.
+
+
+
+
+
+
+light		<-->	adjective+B1	.
+
+
+
+
+
+
+living wage		<-->	noun+C1	.
+
+
+
+
+
+
+lock out		<-->	phrasal verb+C2	.
+
+
+
+
+
+
+lockout		<-->	noun+C2	.
+
+
+
+
+
+
+low-paid		<-->	adjective+B2	.
+
+
+
+
+
+
+lunch hour		<-->	noun+B1	.
+
+
+
+
+
+
+manage		<-->	verb+A2	.
+
+
+
+
+
+
+meet		<-->	verb+A1	.
+
+
+
+
+
+
+meeting		<-->	noun+A1	.
+
+
+
+
+
+
+menial		<-->	adjective+C2	.
+
+
+
+
+
+
+minimum wage		<-->	noun+C1	.
+
+
+
+
+
+
+minute		<-->	noun+C2	.
+
+
+
+
+
+
+monotonous		<-->	adjective+C1	.
+
+
+
+
+
+
+multi-skilling		<-->	noun+C1	.
+
+
+
+
+
+
+multitask		<-->	verb+C1	.
+
+
+
+
+
+
+off - adverb+A2	.
+
+
+
+
+
+
+off-duty		<-->	adjective+B2	.
+
+
+
+
+
+
+office		<-->	noun+A1	.
+
+
+
+
+
+
+one-on-one		<-->	adjective+C1	.
+
+
+
+
+
+
+one-to-one		<-->	adjective+C1	.
+
+
+
+
+
+
+on/off duty		<-->	idiom+B2	.
+
+
+
+
+
+
+out tray		<-->	noun+C2	.
+
+
+
+
+
+
+overtime		<-->	noun+C1	.
+
+
+
+
+
+
+painstaking		<-->	adjective+C2	.
+
+
+
+
+
+
+pay		<-->	noun+A2	.
+
+
+
+
+
+
+pay as you earn		<-->	noun+C2	.
+
+
+
+
+
+
+PAYE		<-->	abbreviation+C2	.
+
+
+
+
+
+
+pay gap		<-->	noun+C1	.
+
+
+
+
+
+
+pencil in		<-->	phrasal verb+C2	.
+
+
+
+
+
+
+pension		<-->	noun+B2	.
+
+
+
+
+
+
+pension off		<-->	phrasal verb+C2	.
+
+
+
+
+
+
+photocopier		<-->	noun+B2	.
+
+
+
+
+
+
+physical		<-->	adjective+A2	.
+
+
+
+
+
+
+picket		<-->	noun+C2	.
+
+
+
+
+
+
+picket		<-->	verb+C2	.
+
+
+
+
+
+
+placement		<-->	noun+B2	.
+
+
+
+
+
+
+position		<-->	noun+B2	.
+
+
+
+
+
+
+post		<-->	noun+B2	.
+
+
+
+
+
+
+postpone		<-->	verb+C1	.
+
+
+
+
+
+
+postponement		<-->	noun+C1	.
+
+
+
+
+
+
+professional		<-->	adjective+B1	.
+
+
+
+
+
+
+qualification		<-->	noun+B1	.
+
+
+
+
+
+
+qualified		<-->	adjective+B1	.
+
+
+
+
+
+
+question		<-->	verb+A2	.
+
+
+
+
+
+
+quorum		<-->	noun+C2	.
+
+
+
+
+
+
+reception		<-->	noun+A2	.
+
+
+
+
+
+
+recruit		<-->	verb+B2	.
+
+
+
+
+
+
+redundancy		<-->	noun+C1	.
+
+
+
+
+
+
+redundant		<-->	adjective+C1	.
+
+
+
+
+
+
+referee		<-->	noun+C1	.
+
+
+
+
+
+
+reference		<-->	noun+B2	.
+
+
+
+
+
+
+resign		<-->	verb+B2	.
+
+
+
+
+
+
+resignation		<-->	noun+C1	.
+
+
+
+
+
+
+rewarding		<-->	adjective+B2	.
+
+
+
+
+
+
+résumé		<-->	noun+C1	.
+
+
+
+
+
+
+sabbatical		<-->	noun+C2	.
+
+
+
+
+
+
+sack		<-->	verb+C1	.
+
+
+
+
+
+
+sacking		<-->	noun+C1	.
+
+
+
+
+
+
+salary		<-->	noun+A2	.
+
+
+
+
+
+
+satisfying		<-->	adjective+B2	.
+
+
+
+
+
+
+schedule		<-->	noun+A2	.
+
+
+
+
+
+
+schedule		<-->	verb+B2	.
+
+
+
+
+
+
+shoddy		<-->	adjective+C2	.
+
+
+
+
+
+
+sick day		<-->	noun+C1	.
+
+
+
+
+
+
+sick leave		<-->	noun+C1	.
+
+
+
+
+
+
+skive		<-->	verb+C2	.
+
+
+
+
+
+
+solitary		<-->	adjective+C1	.
+
+
+
+
+
+
+stimulating		<-->	adjective+C1	.
+
+
+
+
+
+
+stressful		<-->	adjective+B1	.
+
+
+
+
+
+
+strike		<-->	verb+B2	.
+
+
+
+
+
+
+strike		<-->	noun+B2	.
+
+
+
+
+
+
+supervisor		<-->	noun+C1	.
+
+
+
+
+
+
+supervisory		<-->	adjective+C2	.
+
+
+
+
+
+
+sweatshop		<-->	noun+C2	.
+
+
+
+
+
+
+table		<-->	verb+C2	.
+
+
+
+
+
+
+target		<-->	noun+A2	.
+
+
+
+
+
+
+task		<-->	noun+A2	.
+
+
+
+
+
+
+taxing		<-->	adjective+C2	.
+
+
+
+
+
+
+tedious		<-->	adjective+C1	.
+
+
+
+
+
+
+tiring		<-->	adjective+B2	.
+
+
+
+
+
+
+trade union		<-->	noun+B1	.
+
+
+
+
+
+
+underemployed		<-->	adjective+C1	.
+
+
+
+
+
+
+unfinished		<-->	adjective+B2	.
+
+
+
+
+
+
+union		<-->	noun+B1	.
+
+
+
+
+
+
+vacancy		<-->	noun+C1	.
+
+
+
+
+
+
+wage gap		<-->	noun+C1	.
+
+
+
+
+
+
+wage slave		<-->	noun+C1	.
+
+
+
+
+
+
+water cooler		<-->	noun+C2	.
+
+
+
+
+
+
+WFH		<-->	abbreviation+C2	.
+
+
+
+
+
+
+work		<-->	verb+A1	.
+
+
+
+
+
+
+work		<-->	noun+A1	.
+
+
+
+
+
+
+workday		<-->	noun+B1	.
+
+
+
+
+
+
+worker		<-->	noun+A1	.
+
+
+
+
+
+
+work experience		<-->	noun+B1	.
+
+
+
+
+
+
+workforce		<-->	noun+B2	.
+
+
+
+
+
+
+work from home		<-->	idiom+B1	.
+
+
+
+
+
+
+workload		<-->	noun+C1	.
+
+
+
+
+
+
+workplace		<-->	noun+B2	.
+
+
+
+
+
+
+zero-hours		<-->	adjective+C2	.

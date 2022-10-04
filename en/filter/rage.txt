@@ -1,0 +1,11 @@
+average		<-->	noun+A2  
+average		<-->	verb+B1  
+courage		<-->	noun+B2  
+coverage		<-->	noun+B2  
+discourage		<-->	verb+B2  
+encourage		<-->	verb+B1  
+garage		<-->	noun+B1  
+outrage		<-->	noun+C1  
+outrage		<-->	verb+C1  
+rage		<-->	noun+C1  
+storage		<-->	noun+C1  

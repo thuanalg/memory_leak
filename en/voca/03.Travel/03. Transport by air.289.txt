@@ -1,0 +1,2291 @@
+aboard		<-->	adverb+C1[-0]	.
+
+
+
+
+
+
+
+aerial		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+aerodrome		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+aerodynamic		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+aerodynamics		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+aeronaut		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+aeronautical		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+aeronautics		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+aerospace		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+aft		<-->	adverb+C2[-0]	.
+
+
+
+
+
+
+
+aileron		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+airbase		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+airborne		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+air bridge		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+Airbus™		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+air corridor		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+aircraft		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+aircrew		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+airdrome		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+airfare		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+airfield		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+air hostess		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+air lane		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+airline		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+
+airliner		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+air marshal		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+Air Miles™		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+airplane		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+
+air pocket		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+airport		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+
+airship		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+airsick		<-->	adjective+B1[-0]	.
+
+
+
+
+
+
+
+airsickness		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+airspace		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+airspeed		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+airstrip		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+air terminal		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+air traffic control		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+air traffic controller		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+airworthiness		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+airworthy		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+aisle		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+altimeter		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+announcer		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+approach		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+apron		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+arrival		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+automatic pilot		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+autopilot		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+aviation		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+aviator		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+baggage		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+
+baggage carousel		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+baggage reclaim		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+bail out		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+
+
+balloon		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+beacon		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+biplane		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+bird strike		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+black box		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+blade		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+boardverbB1[-0]	.
+
+
+
+
+
+
+
+boarding card		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+bomber		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+bookverbA2[-0]	.
+
+
+
+
+
+
+
+bulkhead		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+bump		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+business class		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+business class		<-->	adverb+B1[-0]	.
+
+
+
+
+
+
+
+cabin		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+cabin crew		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+canopy		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+captain		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+cargo		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+carousel		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+carry-on		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+catchverbA2[-0]	.
+
+
+
+
+
+
+
+changeverbA2[-0]	.
+
+
+
+
+
+
+
+charter		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+charter		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+charter flight		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+check-in		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+check in		<-->	phrasal verb+A2[-0]	.
+
+
+
+
+
+
+
+class		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+clearance		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+club class		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+coach		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+cockpit		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+code-sharing		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+concourse		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+connection		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+contrail		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+control tower		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+conveyor belt		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+co-pilot		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+copter		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+cowling		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+crash-dive		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+crash-land		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+crash landing		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+customs		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+deep vein thrombosis		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+delta wing		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+departure		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+deplane		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+descent		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+disembark		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+disembarkation		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+distress		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+ditch		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+diveverbB2[-0]	.
+
+
+
+
+
+
+
+dive		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+domestic		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+
+drone		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+dual controls		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+duty-free shop		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+economy class syndrome		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+ejector seat		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+elevator		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+engineer		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+ETAabbreviationC2[-0]	.
+
+
+
+
+
+
+
+ETDabbreviationC2[-0]	.
+
+
+
+
+
+
+
+e-ticket		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+excess baggage		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+fare		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+fighter		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+fin		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+first-class		<-->	adjective+B1[-0]	.
+
+
+
+
+
+
+
+first class		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+first class		<-->	adverb+B1[-0]	.
+
+
+
+
+
+
+
+flap		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+flier		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+flight		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+
+flight attendant		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+flight crew		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+flight deck		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+flight path		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+flight recorder		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+flyverbA1[-0]	.
+
+
+
+
+
+
+
+flyer		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+flying boat		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+forced landing		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+frequent flyer		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+fuselage		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+galley		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+gangway		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+gate		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+
+glide		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+glider		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+go-around		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+go-round		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+ground crew		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+gyroscope		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+hand baggage		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+hand luggage		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+hangar		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+hang-glider		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+hatch		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+hatchway		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+helicopter		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+helipad		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+heliport		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+hold		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+hot-air balloon		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+hub		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+immigration		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+inboard		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+in-flight		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+intercom		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+international		<-->	adjective+A2[-0]	.
+
+
+
+
+
+
+
+jet		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+jet		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+jet engine		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+jet lag		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+jetliner		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+joystick		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+jumbo		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+jump jet		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+landverbA2[-0]	.
+
+
+
+
+
+
+
+landing		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+landing card		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+landing gear		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+landing strip		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+last call		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+leading edge		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+legroom		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+light aircraft		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+log		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+long-haul		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+long haul		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+lounge		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+Mayday		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+metal detector		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+microlight		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+mid-air		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+mid-air		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+monoplane		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+navigateverbB2[-0]	.
+
+
+
+
+
+
+
+navigator		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+no-fly zone		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+nose		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+nose cone		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+on-board		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+
+one-way		<-->	adjective+B1[-0]	.
+
+
+
+
+
+
+
+originate		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+outboard		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+overbook		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+overfly		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+overshoot		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+oxygen mask		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+parachute		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+parachuteverbB2[-0]	.
+
+
+
+
+
+
+
+parachutist		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+paraglider		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+passenger		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+
+passport		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+
+payload		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+pilot		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+
+plane		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+
+planeload		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+propeller		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+radar		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+red-eye		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+refuel		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+reservation		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+return ticket		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+
+rocket		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+round trip		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+round-trip		<-->	adjective+B1[-0]	.
+
+
+
+
+
+
+
+rudder		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+runway		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+safety belt		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+scheduled flight		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+seaplane		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+seat		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+
+seat belt		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+security		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+short-haul		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+
+sick		<-->	adjective+A1[-0]	.
+
+
+
+
+
+
+
+sick bag		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+single		<-->	adjective+A2[-0]	.
+
+
+
+
+
+
+
+ski-plane		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+skycap		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+sky marshal		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+soar		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+sonic boom		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+spacecraft		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+spaceship		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+space shuttle		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+spoiler		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+stabilizer		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+stack		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+standby		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+
+steward		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+stewardess		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+stick		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+stopover		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+stowage		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+tail		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+tailplane		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+tailspin		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+take-off		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+take off		<-->	phrasal verb+A2[-0]	.
+
+
+
+
+
+
+
+Tarmac™		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+taxi		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+
+taxiway		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+terminal		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+test flight		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+test pilot		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+ticket		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+
+touch down		<-->	phrasal verb+C1[-0]	.
+
+
+
+
+
+
+
+touchdown		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+tourist class		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+transit		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+travelator		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+travel-sick		<-->	adjective+B1[-0]	.
+
+
+
+
+
+
+
+travel sickness		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+travolator		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+turbojet		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+turboprop		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+turbulence		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+
+ultralight		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+undercarriage		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+upgrade		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+
+warplane		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
+window seat		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+
+wing		<-->	noun+B1[-0]	.
+
+

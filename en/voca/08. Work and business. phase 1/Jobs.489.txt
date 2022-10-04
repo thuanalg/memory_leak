@@ -1,0 +1,4881 @@
+academic		<-->	adjective+B1	.
+
+
+
+
+
+
+
+
+
+accountant		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+acting		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+actor		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+actress		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+actuary		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+administrative		<-->	adjective+C1	.
+
+
+
+
+
+
+
+
+
+administrator		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+adviser		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+agent		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+aide		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+air hostess		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+air traffic controller		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+ambassador		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+analyst		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+ancillary		<-->	adjective+C2	.
+
+
+
+
+
+
+
+
+
+apprentice		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+apprenticeship		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+archaeologist		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+archeologist		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+architect		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+archivist		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+artisan		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+artisan		<-->	adjective+C2	.
+
+
+
+
+
+
+
+
+
+artist		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+assistant		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+assistant		<-->	adjective+A2	.
+
+
+
+
+
+
+
+
+
+astronaut		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+attendant		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+attorney		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+auctioneer		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+auditor		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+au pair		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+babysit		<-->	verb+B2	.
+
+
+
+
+
+
+
+
+
+bailiff		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+baker		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+ballerina		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+banker		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+barber		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+barmaid		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+barman		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+barrister		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+bartender		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+beautician		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+bishop		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+blacksmith		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+bodyguard		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+bookie		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+bookkeeper		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+bookkeeping		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+bookmaker		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+bookseller		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+boss		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+bouncer		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+bricklayer		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+bricklaying		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+broadcaster		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+broker		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+builder		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+bursar		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+businessman		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+business person		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+businesswoman		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+butcher		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+butler		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+buyer		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+cab driver		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+cabin crew		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+care assistant		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+carer		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+care worker		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+carpenter		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+cashier		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+cash in handidiomC2	.
+
+
+
+
+
+
+
+
+
+casual		<-->	adjective+C1	.
+
+
+
+
+
+
+
+
+
+caterer		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+CEO		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+certified financial planner		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+CFO		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+chambermaid		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+chartered		<-->	adjective+C2	.
+
+
+
+
+
+
+
+
+
+chauffeur		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+chef		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+chemist		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+chief		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+chief executive		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+chief financial officer		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+chief technology officer		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+childminder		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+chimney sweep		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+chiropodist		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+civil servant		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+cleaner		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+clerical		<-->	adjective+C2	.
+
+
+
+
+
+
+
+
+
+clerk		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+clown		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+coal miner		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+coastguard		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+cobbler		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+cocktail waiter		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+cocktail waitress		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+comedian		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+community organizer		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+composer		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+conductor		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+constable		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+consul		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+consultant		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+contact tracer		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+cook		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+coroner		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+counsellor		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+courier		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+court reporter		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+cowboy		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+cowpoke		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+CPAabbreviationC2	.
+
+
+
+
+
+
+
+
+
+craftsman		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+creative		<-->	adjective+A2	.
+
+
+
+
+
+
+
+
+
+critic		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+CTO		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+curate		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+curator		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+custodian		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+dancer		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+day labor		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+day labourer		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+dealer		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+debt collector		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+decorator		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+demote		<-->	verb+C2	.
+
+
+
+
+
+
+
+
+
+dental surgeon		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+dentist		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+designer		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+detective		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+developer		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+dietician		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+diplomat		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+diplomatist		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+director		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+disc jockey		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+disk jockey		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+dispensing chemist		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+dispensing optician		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+diver		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+DJ		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+doctor		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+doorman		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+doorwoman		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+draftsman		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+driver		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+dustman		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+duty		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+economist		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+editor		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+editor-in-chief		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+electrician		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+employ		<-->	verb+A2	.
+
+
+
+
+
+
+
+
+
+employment		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+engine driver		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+engineer		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+engineering		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+entrepreneur		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+entrepreneurial		<-->	adjective+C2	.
+
+
+
+
+
+
+
+
+
+entrepreneurship		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+estate agent		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+event manager		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+executioner		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+executive		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+executive		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+executive director		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+exterminator		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+farmer		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+fashion designer		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+fire chief		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+firefighter		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+fireman		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+fisherman		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+fishmonger		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+flexitime		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+flight attendant		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+florist		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+flying doctor		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+food technologist		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+foreman		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+forewoman		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+freelance		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+frogman		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+frontline		<-->	adjective+C1	.
+
+
+
+
+
+
+
+
+
+full professor		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+full-time		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+fund manager		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+fundraiser		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+funeral director		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+gamekeeper		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+garbage man		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+gardener		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+general secretary		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+gig economy		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+glazier		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+governor		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+GP		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+graduate assistant		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+greengrocer		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+grocer		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+groom		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+ground crew		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+guard		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+guild		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+hairdresser		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+hairstylist		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+handler		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+handyman		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+handywoman		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+hangman		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+head		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+health professional		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+homeopath		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+hotelier		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+house husband		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+housekeeper		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+housewife		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+illustrator		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+imam		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+industrial		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+influencer		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+inspector		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+instructor		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+interior design		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+internship		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+interpreter		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+janitor		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+jeweller		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+job		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+jobber		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+job-share		<-->	verb+C1	.
+
+
+
+
+
+
+
+
+
+job-sharing		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+joiner		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+joinery		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+journalist		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+judge		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+junior		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+key worker		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+laborer		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+laboring		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+labourer		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+labouring		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+landlady		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+landlord		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+landscape architect		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+landscape architecture		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+landscape gardener		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+landscape gardening		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+launderer		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+lawyer		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+lecturer		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+librarian		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+librarianship		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+life coach		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+life coaching		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+lifeguard		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+live-in		<-->	adjective+C1	.
+
+
+
+
+
+
+
+
+
+lock-keeper		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+locksmith		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+logger		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+lucrative		<-->	adjective+C1	.
+
+
+
+
+
+
+
+
+
+machinist		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+magistrate		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+maid		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+mail carrier		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+mailman		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+mailwoman		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+management consultant		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+manager		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+manageress		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+managerial		<-->	adjective+C1	.
+
+
+
+
+
+
+
+
+
+managing director		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+managing editor		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+manual		<-->	adjective+C1	.
+
+
+
+
+
+
+
+
+
+marketing		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+mason		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+masseur		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+matron		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+mechanic		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+medical		<-->	adjective+A2	.
+
+
+
+
+
+
+
+
+
+Member of Parliament		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+merchant		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+meteorologist		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+midwife		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+midwifery		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+milkman		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+milkwoman		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+minder		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+miner		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+minister		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+missionary		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+model		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+monitor		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+mortician		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+MP		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+musician		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+nanny		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+newsagent		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+newsreader		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+nightwatchman		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+nurse		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+occupation		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+occupational		<-->	adjective+C1	.
+
+
+
+
+
+
+
+
+
+occupationally		<-->	111+C2	.
+
+
+
+
+
+
+
+
+
+officer		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+ombudsman		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+ombudswoman		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+operator		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+ophthalmic optician		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+optician		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+orderly		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+organization chart		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+osteopath		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+PA		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+painter		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+paramedic		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+paramedical		<-->	adjective+C2	.
+
+
+
+
+
+
+
+
+
+partner		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+part-time		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+pawnbroker		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+PCabbreviationC2	.
+
+
+
+
+
+
+
+
+
+permanent		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+personnel		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+pharmacist		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+photographer		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+photojournalist		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+physiotherapist		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+pilot		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+placement		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+plasterer		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+plumber		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+podiatrist		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+police constable		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+policeman		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+police officer		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+policewoman		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+politician		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+porter		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+postie		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+postman		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+practice		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+practise		<-->	verb+B2	.
+
+
+
+
+
+
+
+
+
+practitioner		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+presenter		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+president		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+principal		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+producer		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+profession		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+professional		<-->	adjective+B1	.
+
+
+
+
+
+
+
+
+
+professor		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+programmer		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+promote		<-->	verb+B1	.
+
+
+
+
+
+
+
+
+
+promoter		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+promotion		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+prostitute		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+psychiatrist		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+psychoanalyst		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+psychologist		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+publican		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+publicist		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+public relations		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+qualified		<-->	adjective+B1	.
+
+
+
+
+
+
+
+
+
+quant		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+quantitative analyst		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+rabbi		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+radiographer		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+real estate agent		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+receptionist		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+registrar		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+report to		<-->	222+C1	.
+
+
+
+
+
+
+
+
+
+representative		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+researcher		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+retire		<-->	verb+B1	.
+
+
+
+
+
+
+
+
+
+retired		<-->	adjective+B1	.
+
+
+
+
+
+
+
+
+
+retirement		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+runner		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+sailor		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+sales clerk		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+salesman		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+salesperson		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+saleswoman		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+scientific		<-->	adjective+B1	.
+
+
+
+
+
+
+
+
+
+scientist		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+sculptor		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+seasonal		<-->	adjective+C1	.
+
+
+
+
+
+
+
+
+
+secret agent		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+secretarial		<-->	adjective+C2	.
+
+
+
+
+
+
+
+
+
+secretary		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+security guard		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+self-employed		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+self-employment		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+senior		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+sergeant		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+servant		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+sheepherder		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+shepherd		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+sheriff		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+shipbuilder		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+shop assistant		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+shopkeeper		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+side hustle		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+singer		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+skilled		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+smith		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+social worker		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+soldier		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+solicitor		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+songwriter		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+specialist		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+spokesman		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+sportsman		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+sportswoman		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+spy		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+staff writer		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+steady		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+steeplejack		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+steward		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+stewardess		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+stockbroker		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+stockjobber		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+stonemason		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+storekeeper		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+striker		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+structural engineer		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+stylist		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+superintendent		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+supermodel		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+supervise		<-->	verb+C1	.
+
+
+
+
+
+
+
+
+
+supervision		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+supervisor		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+supervisory		<-->	adjective+C2	.
+
+
+
+
+
+
+
+
+
+surf lifesaver		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+surgeon		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+surveyor		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+sweep		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+tailor		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+teacher		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+technician		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+temp		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+temporary		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+therapy		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+title		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+trader		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+tradesman		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+tradeswoman		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+traffic warden		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+train		<-->	verb+A2	.
+
+
+
+
+
+
+
+
+
+trainee		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+training		<-->	noun+A2	.
+
+
+
+
+
+
+
+
+
+translator		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+travel agent		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+treasurer		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+trustee		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+turf accountant		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+tutor		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+typist		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+undertaker		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+unpaid		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+unqualified		<-->	adjective+B1	.
+
+
+
+
+
+
+
+
+
+unskilled		<-->	adjective+B1	.
+
+
+
+
+
+
+
+
+
+vet		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+veterinarian		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+veterinary surgeon		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+vicar		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+vice-combining formC2	.
+
+
+
+
+
+
+
+
+
+vice-president		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+vocational		<-->	adjective+C1	.
+
+
+
+
+
+
+
+
+
+voluntary		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+wage		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+waiter		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+waitress		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+warden		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+warder		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+well paid		<-->	adjective+B2	.
+
+
+
+
+
+
+
+
+
+window cleaner		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+window washer		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+work		<-->	verb+A1	.
+
+
+
+
+
+
+
+
+
+work		<-->	noun+A1	.
+
+
+
+
+
+
+
+
+
+workaholic		<-->	noun+C2	.
+
+
+
+
+
+
+
+
+
+working		<-->	adjective+A2	.
+
+
+
+
+
+
+
+
+
+workman		<-->	noun+B1	.
+
+
+
+
+
+
+
+
+
+workmate		<-->	noun+C1	.
+
+
+
+
+
+
+
+
+
+work placement		<-->	noun+B2	.
+
+
+
+
+
+
+
+
+
+writer		<-->	noun+A1	.

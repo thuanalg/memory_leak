@@ -1,0 +1,445 @@
+18		<-->	noun+C2    
+act		<-->	verb+A2    
+act		<-->	noun+C1    
+acting		<-->	noun+A2    
+action		<-->	noun+B2    
+actioner		<-->	noun+C2    
+action film		<-->	noun+B1    
+action movie		<-->	noun+B1    
+actor		<-->	noun+A1    
+actor-manager		<-->	noun+C1    
+actress		<-->	noun+A1    
+adapt		<-->	verb+B2    
+adaptation		<-->	noun+C1    
+ad lib		<-->	111+C2    
+ad lib		<-->	noun+C2    
+ad-lib		<-->	verb+C2    
+ad-lib		<-->	adjective+C2    
+agent		<-->	noun+B1    
+aisle		<-->	noun+B2    
+allegory		<-->	noun+C2    
+amateur dramatics		<-->	noun+C2    
+animate		<-->	verb+C1    
+animated		<-->	adjective+B2    
+animation		<-->	noun+B2    
+anime		<-->	noun+C2    
+appear		<-->	verb+B2    
+art director		<-->	noun+C1    
+artistic director		<-->	noun+C1    
+aside		<-->	noun+C2    
+audience		<-->	noun+A2    
+audition		<-->	verb+C2    
+auditorium		<-->	noun+C2    
+backcloth		<-->	noun+C1    
+backdrop		<-->	noun+C1    
+backlot		<-->	noun+C2    
+backstage		<-->	111+C2    
+backstory		<-->	noun+C1    
+baddy		<-->	noun+C2    
+balcony		<-->	noun+C2    
+ballet		<-->	noun+B2    
+be in the can		<-->	idiom+C2
+benefit		<-->	noun+C2    
+bill		<-->	noun+C2    
+biopic		<-->	noun+C2    
+bit part		<-->	noun+C2    
+bit player		<-->	noun+C2    
+black and white		<-->	idiom+A1
+blockbuster		<-->	noun+C1    
+blockbusting		<-->	adjective+C2    
+Blu-ray		<-->	noun+C1    
+Blu-ray Disc™		<-->	noun+C1    
+B-movie		<-->	noun+C2    
+bodice-ripper		<-->	noun+C2    
+body double		<-->	noun+C2    
+Bollywood		<-->	noun+C1    
+booking		<-->	noun+B2    
+booking office		<-->	noun+B2    
+box office		<-->	noun+B2    
+B-picture		<-->	noun+C2    
+Broadway		<-->	noun+C1    
+buddy movie		<-->	noun+C2    
+buff		<-->	noun+C2    
+cameo		<-->	noun+C2    
+camera		<-->	noun+A1    
+cameraman		<-->	noun+B1    
+camerawoman		<-->	noun+B1    
+camerawork		<-->	noun+C1    
+canister		<-->	noun+C2    
+cartoon		<-->	noun+A2    
+cast		<-->	verb+C1    
+cast		<-->	noun+B2    
+casting		<-->	noun+C1    
+castmate		<-->	noun+C2    
+celluloid		<-->	noun+C2    
+CGIabbreviationC2    
+character		<-->	noun+A2    
+character actor		<-->	noun+C1    
+chick flick		<-->	noun+C2    
+chorus		<-->	noun+C2    
+chorus line		<-->	noun+C2    
+cinema		<-->	noun+A1    
+cinemagoer		<-->	noun+C1    
+cinematography		<-->	noun+C2    
+circle		<-->	noun+C2    
+clapperboard		<-->	noun+C2    
+classic		<-->	noun+B2    
+cliffhanger		<-->	noun+C2    
+climax		<-->	noun+C1    
+clip		<-->	noun+B2    
+close-up		<-->	noun+C1    
+colorize		<-->	verb+C2    
+colourize		<-->	verb+C2    
+comedy		<-->	noun+A2    
+comedy of manners		<-->	noun+C2    
+community theater		<-->	noun+C2    
+continuity		<-->	noun+C2    
+co-star		<-->	noun+C1    
+costume		<-->	noun+B1    
+costume drama		<-->	noun+C1    
+costumier		<-->	noun+C2    
+coup de théâtre		<-->	noun+C2    
+credit		<-->	noun+C2    
+critic		<-->	noun+B2    
+cue		<-->	noun+B2    
+curtain		<-->	noun+B1    
+curtain call		<-->	noun+C2    
+curtain-up		<-->	noun+C2    
+cut		<-->	verb+C1    
+cut		<-->	noun+C1    
+debutant		<-->	noun+C2    
+debutante		<-->	noun+C2    
+denouement		<-->	noun+C2    
+detective story		<-->	noun+A2    
+dialogue		<-->	noun+A1    
+direct		<-->	verb+B1    
+direction		<-->	noun+C1    
+director		<-->	noun+A2    
+director’s chair		<-->	noun+B2    
+director’s cut		<-->	noun+C2    
+dolly		<-->	noun+C2    
+doorman		<-->	noun+C1    
+doorwoman		<-->	noun+C1    
+double		<-->	noun+B2    
+downstage		<-->	111+C2    
+drama		<-->	noun+A2    
+dramatic		<-->	adjective+B2    
+dramatic irony		<-->	noun+C2    
+dramatis personae		<-->	noun+C2    
+dramatist		<-->	noun+C1    
+dramatize		<-->	verb+C1    
+dresser		<-->	noun+C1    
+dressing room		<-->	noun+C2    
+dress rehearsal		<-->	noun+C1    
+drive-in		<-->	noun+C2    
+drop curtain		<-->	noun+C2    
+dub		<-->	verb+C1    
+DVD		<-->	noun+A1    
+edit		<-->	verb+B2    
+editor		<-->	noun+B2    
+enact		<-->	verb+C2    
+ending		<-->	noun+A2    
+entr’acte		<-->	noun+C2    
+epic		<-->	noun+C1    
+epilogue		<-->	noun+C2    
+exit		<-->	noun+C1    
+extra		<-->	noun+C1    
+fade-in		<-->	noun+C2    
+fade-out		<-->	noun+C2    
+farce		<-->	noun+C2    
+feature		<-->	noun+C1    
+feature film		<-->	noun+C1    
+feature-length		<-->	adjective+C2    
+fictionalize		<-->	verb+C2    
+film		<-->	noun+A1    
+film		<-->	verb+A2    
+filmgoer		<-->	noun+C1    
+film-maker		<-->	noun+C1    
+film noir		<-->	noun+C2    
+film star		<-->	noun+A1    
+filmstrip		<-->	noun+C2    
+first night		<-->	noun+C2    
+flashback		<-->	noun+C2    
+flash-forward		<-->	noun+C2    
+fleapit		<-->	noun+C2    
+floodlight		<-->	noun+C1    
+flop		<-->	verb+C2    
+flop		<-->	noun+C2    
+footage		<-->	noun+C1    
+footlights		<-->	noun+C2    
+fourth wall		<-->	noun+C2    
+foyer		<-->	noun+C2    
+fpsabbreviationC2
+frame		<-->	noun+C1    
+franchise		<-->	noun+C2    
+freeze		<-->	verb+C2    
+freeze-frame		<-->	noun+C2    
+fringe theatre		<-->	noun+C2    
+front of house		<-->	noun+C2    
+gaffer		<-->	noun+C2    
+gallery		<-->	noun+C2    
+gangway		<-->	noun+C2    
+genre		<-->	noun+B2    
+god		<-->	noun+C2    
+goodie		<-->	noun+C2    
+goody		<-->	noun+C2    
+green room		<-->	noun+C2    
+grip		<-->	noun+C2    
+ham		<-->	noun+C2    
+HD		<-->	noun+C1    
+heart-throb		<-->	noun+C2    
+hero		<-->	noun+A2    
+heroine		<-->	noun+A2    
+Hollywood		<-->	noun+A2    
+Hollywood ending		<-->	noun+C2    
+home cinema		<-->	noun+B1    
+home theater		<-->	noun+B1    
+horror		<-->	noun+B1    
+house		<-->	noun+C2    
+intercut		<-->	verb+C2    
+interlude		<-->	noun+C2    
+intermission		<-->	noun+C2    
+interpretation		<-->	noun+C1    
+interval		<-->	noun+B2    
+kabuki		<-->	noun+C2    
+key grip		<-->	noun+C2    
+Kollywood		<-->	noun+C2    
+lead		<-->	noun+C1    
+leading lady		<-->	noun+C1    
+lighting engineer		<-->	noun+B2    
+line		<-->	noun+B1    
+location		<-->	noun+B1    
+love interest		<-->	noun+C1    
+M		<-->	noun+C1    
+make-up		<-->	noun+B2    
+manager		<-->	noun+B2    
+masque		<-->	noun+C2    
+master		<-->	noun+C2    
+masterpiece		<-->	noun+B2    
+masterwork		<-->	noun+C2    
+matinee		<-->	noun+C2    
+matinee idol		<-->	noun+C2    
+megastar		<-->	noun+C2    
+melodrama		<-->	noun+C2    
+merchandising		<-->	noun+C2    
+meta		<-->	adjective+C2    
+method acting		<-->	noun+C2    
+mezzanine		<-->	noun+C2    
+mime		<-->	noun+C2    
+miscast		<-->	verb+C2    
+mixer		<-->	noun+C2    
+monologue		<-->	noun+C2    
+montage		<-->	noun+C2    
+morality play		<-->	noun+C2    
+motion picture		<-->	noun+C2    
+movie		<-->	noun+A1    
+moviegoer		<-->	noun+C1    
+movie star		<-->	noun+A1    
+movie theater		<-->	noun+A1    
+multiplex		<-->	noun+C1    
+musical		<-->	noun+B1    
+music hall		<-->	noun+C2    
+mystery play		<-->	noun+C2    
+narrate		<-->	verb+C1    
+nativity play		<-->	noun+C2    
+new wave		<-->	noun+C2    
+off-Broadway		<-->	adjective+C2    
+offstage		<-->	adjective+C2    
+offstage		<-->	111+C2    
+onstage		<-->	adjective+C2    
+onstage		<-->	111+C2    
+opening		<-->	noun+B2    
+opening night		<-->	noun+B2    
+orchestra		<-->	noun+C2    
+orchestra pit		<-->	noun+C2    
+out-take		<-->	noun+C2    
+ovation		<-->	noun+C2    
+overact		<-->	verb+C2    
+pantomime		<-->	noun+C2    
+part		<-->	noun+B1    
+perform		<-->	verb+A2    
+performance		<-->	noun+B1    
+performer		<-->	noun+B1    
+period piece		<-->	noun+C2    
+PGabbreviationC2    
+play		<-->	noun+A1    
+playbill		<-->	noun+C2    
+player		<-->	noun+C2    
+playgoer		<-->	noun+C1    
+playwright		<-->	noun+C1    
+plot		<-->	noun+B1    
+plug		<-->	verb+C2    
+portray		<-->	verb+C1    
+potboiler		<-->	noun+C2    
+premiere		<-->	noun+C1    
+pre-production		<-->	noun+C2    
+pre-production		<-->	adjective+C2    
+prequel		<-->	noun+C2    
+press agent		<-->	noun+C2    
+preview		<-->	noun+B2    
+preview		<-->	verb+B1    
+prima donna		<-->	noun+C2    
+produce		<-->	verb+B2    
+producer		<-->	noun+B1    
+production		<-->	noun+B2    
+production number		<-->	noun+C2    
+production values		<-->	noun+C2    
+projector		<-->	noun+C1    
+prologue		<-->	noun+C2    
+promoter		<-->	noun+C1    
+prompt		<-->	verb+C2    
+prompt		<-->	noun+C2    
+prompter		<-->	noun+C2    
+prop		<-->	noun+C2    
+proscenium		<-->	noun+C2    
+protagonist		<-->	noun+C2    
+psychodrama		<-->	noun+C2    
+publicist		<-->	noun+C2    
+put on		<-->	222+C1
+RabbreviationC2    
+rating		<-->	noun+C2    
+rave review		<-->	noun+C2    
+read-through		<-->	noun+C2    
+reel		<-->	noun+C1    
+rehearsal		<-->	noun+B2    
+rehearse		<-->	verb+B2    
+release		<-->	verb+B2    
+release		<-->	noun+B2    
+remake		<-->	noun+C1    
+review		<-->	noun+A2    
+review		<-->	verb+A2    
+revival		<-->	noun+C2    
+revue		<-->	noun+C2    
+road movie		<-->	noun+C1    
+role		<-->	noun+A2    
+romcom		<-->	noun+C2    
+rough cut		<-->	noun+C2    
+routine		<-->	noun+B2    
+running time		<-->	noun+C2    
+run-through		<-->	noun+C2    
+safety curtain		<-->	noun+C2    
+scenario		<-->	noun+B2    
+scene		<-->	noun+A2    
+scenery		<-->	noun+B1    
+scene-shifter		<-->	noun+C2    
+scene-shifting		<-->	noun+C2    
+science fiction		<-->	noun+A2    
+sci-fi		<-->	noun+B2    
+score		<-->	noun+C1    
+screen		<-->	noun+A2    
+screen		<-->	verb+B2    
+screening		<-->	noun+B2    
+screenplay		<-->	noun+C1    
+screen test		<-->	noun+C2    
+screenwriter		<-->	noun+B2    
+script		<-->	noun+B1    
+season		<-->	noun+B2    
+sell-out		<-->	noun+C2    
+sequel		<-->	noun+C1    
+sequence		<-->	noun+C2    
+set		<-->	verb+B1    
+set		<-->	noun+B2    
+set piece		<-->	noun+C2    
+setting		<-->	noun+B1    
+SFXabbreviationC2    
+shoot		<-->	verb+B2    
+shooting		<-->	noun+B2    
+short		<-->	noun+C2    
+shot		<-->	noun+B2    
+show business		<-->	noun+B2    
+showing		<-->	noun+C1    
+silent		<-->	adjective+B2    
+sketch		<-->	noun+C1    
+slasher		<-->	noun+C2    
+sleeper		<-->	noun+C2    
+smash		<-->	noun+C2    
+soliloquy		<-->	noun+C2    
+sound		<-->	noun+A1    
+sound effect		<-->	noun+B2    
+sound stage		<-->	noun+C2    
+soundtrack		<-->	noun+C1    
+spaghetti western		<-->	noun+C2    
+special effects		<-->	noun+B1    
+speech		<-->	noun+B1    
+spin-off		<-->	noun+C2    
+spoiler		<-->	noun+C2    
+spoiler alert		<-->	noun+C2    
+spoof		<-->	noun+C2    
+spotlight		<-->	noun+C1    
+stage		<-->	noun+B1    
+stage		<-->	verb+B2    
+stagecraft		<-->	noun+C2    
+stage direction		<-->	noun+C2    
+stage door		<-->	noun+C2    
+stagehand		<-->	noun+C2    
+stage left		<-->	111+C2    
+stage manager		<-->	noun+C2    
+stage right		<-->	111+C2    
+stage-struck		<-->	adjective+C2    
+stage whisper		<-->	noun+C2    
+stall		<-->	noun+C2    
+stand-in		<-->	noun+C2    
+star		<-->	noun+A1    
+starlet		<-->	noun+C2    
+the big screen		<-->	noun+C2    
+the performing arts		<-->	noun+B2    
+the silver screen		<-->	noun+C2    
+still		<-->	noun+C2    
+storyboard		<-->	noun+C2    
+storyboard		<-->	verb+C2    
+storyboarding		<-->	noun+C2    
+story editor		<-->	noun+C2    
+storyline		<-->	noun+B2    
+studio		<-->	noun+B1    
+stunt		<-->	noun+B2    
+stuntman		<-->	noun+C1    
+stuntwoman		<-->	noun+C1    
+subplot		<-->	noun+C2    
+subtitle		<-->	noun+B2    
+superhero		<-->	noun+B1    
+superstar		<-->	noun+B1    
+supporting		<-->	adjective+C2    
+surtitles		<-->	noun+C2    
+suspenseful		<-->	adjective+C2    
+take		<-->	noun+C1    
+takings		<-->	noun+C2    
+talkie		<-->	noun+C2    
+tear-jerker		<-->	noun+C2    
+telefilm		<-->	noun+C2    
+tension		<-->	noun+B2    
+theatre		<-->	noun+A1    
+theatregoer		<-->	noun+C1    
+theatre-going		<-->	adjective+C1    
+theatrical		<-->	adjective+C1    
+theme music		<-->	noun+C1    
+thriller		<-->	noun+B1    
+tout		<-->	noun+C2    
+tragedian		<-->	noun+C2    
+tragedy		<-->	noun+B2    
+tragicomedy		<-->	noun+C2    
+trailer		<-->	noun+C1    
+trouper		<-->	noun+C2    
+twist		<-->	noun+C1    
+two-hander		<-->	noun+C2    
+typecast		<-->	verb+C2    
+UabbreviationC2    
+understudy		<-->	noun+C2    
+upper circle		<-->	noun+C2    
+upstage		<-->	111+C2    
+usher		<-->	noun+C2    
+usherette		<-->	noun+C2    
+variety		<-->	noun+C2    
+vaudeville		<-->	noun+C2    
+villain		<-->	noun+B2    
+voice-over		<-->	noun+C1    
+wardrobe		<-->	noun+C2    
+wardrobe master		<-->	noun+C2    
+wardrobe mistress		<-->	noun+C2    
+weepy		<-->	noun+C2    
+western		<-->	noun+B1    
+whodunnit		<-->	noun+C2    
+wind machine		<-->	noun+B2    
+wing		<-->	noun+C2    
+young adult		<-->	adjective+B1    
+zoom in		<-->	222+C2
+zoom out		<-->	222+C2
