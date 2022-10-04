@@ -1,0 +1,4 @@
+clear;
+cd cluster/$1;
+make clean; make;
+
