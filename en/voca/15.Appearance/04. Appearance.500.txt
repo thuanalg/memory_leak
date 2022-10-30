@@ -1,3494 +1,4994 @@
-acne		<-->	noun+C2    
+acne		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-Adonis		<-->	noun+C2    
+Adonis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-Afro		<-->	noun+C2    
+Afro		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-Afro		<-->	adjective+C2    
+Afro		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-albino		<-->	noun+C2    
+albino		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-allure		<-->	noun+C2    
+allure		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-alluring		<-->	adjective+C2    
+alluring		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-angelic		<-->	adjective+C2    
+angelic		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-appearance		<-->	noun+A2    
+appearance		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-ash blonde		<-->	adjective+C2    
+ash blonde		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-attractive		<-->	adjective+A2    
+attractive		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-attractiveness		<-->	noun+C1    
+attractiveness		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-auburn		<-->	adjective+C2    
+auburn		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-awkward		<-->	adjective+C1    
+awkward		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-backcomb		<-->	verb+C2    
+backcomb		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bald		<-->	adjective+B2    
+bald		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-balding		<-->	adjective+C2    
+balding		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-balm		<-->	noun+C2    
+balm		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bang		<-->	noun+C2    
+bang		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-barber		<-->	noun+C1    
+barber		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beam		<-->	noun+C2    
+beam		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beam		<-->	verb+C2    
+beam		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beanpole		<-->	noun+C2    
+beanpole		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beard		<-->	noun+A2    
+beard		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beaut		<-->	noun+C2    
+beaut		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beauteous		<-->	adjective+C2    
+beauteous		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beautiful		<-->	adjective+A1    
+beautiful		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beauty		<-->	noun+B2    
+beauty		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beauty salon		<-->	noun+C1    
+beauty salon		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beauty school		<-->	noun+C2    
+beauty school		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beefy		<-->	adjective+C2    
+beefy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beehive		<-->	noun+C2    
+beehive		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-beer belly		<-->	noun+C2    
+beer belly		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-belle		<-->	noun+C2    
+belle		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bewitching		<-->	adjective+C2    
+bewitching		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bingo wings		<-->	noun+C2    
+bingo wings		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-birthmark		<-->	noun+C2    
+birthmark		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-blackhead		<-->	noun+C2    
+blackhead		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-blemish		<-->	noun+C2    
+blemish		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-blonde		<-->	adjective+A1    
+blonde		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-blotch		<-->	noun+C2    
+blotch		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-blow-dry		<-->	noun+C2    
+blow-dry		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-blow-dry		<-->	verb+C2    
+blow-dry		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-blush		<-->	verb+C1    
+blush		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-blush		<-->	noun+C1    
+blush		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-blusher		<-->	noun+C2    
+blusher		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bob		<-->	verb+C2    
+bob		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bob		<-->	noun+C2    
+bob		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bobbed		<-->	adjective+C2    
+bobbed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-body		<-->	noun+C2    
+body		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bonny		<-->	adjective+C2    
+bonny		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bony		<-->	adjective+C2    
+bony		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bottle blonde		<-->	adjective+C2    
+bottle blonde		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bouffant		<-->	adjective+C2    
+bouffant		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bounce		<-->	noun+C2    
+bounce		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-boyish		<-->	adjective+C2    
+boyish		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-braid		<-->	noun+C2    
+braid		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-braid		<-->	verb+C2    
+braid		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-brawny		<-->	adjective+C2    
+brawny		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-brilliantine		<-->	noun+C2    
+brilliantine		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bristle		<-->	noun+C2    
+bristle		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bronzed		<-->	adjective+C2    
+bronzed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-brow		<-->	noun+C2    
+brow		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-brunette		<-->	noun+C2    
+brunette		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-brush		<-->	verb+A2    
+brush		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bubble bath		<-->	noun+C2    
+bubble bath		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-buff		<-->	adjective+C2    
+buff		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bumfluff		<-->	noun+C2    
+bumfluff		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bun		<-->	noun+C2    
+bun		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bunch		<-->	noun+C2    
+bunch		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-bushy		<-->	adjective+C2    
+bushy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-buxom		<-->	adjective+C2    
+buxom		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-buzz cut		<-->	noun+C2    
+buzz cut		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-cadaverous		<-->	adjective+C2    
+cadaverous		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-callus		<-->	noun+C2    
+callus		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-carroty		<-->	adjective+C2    
+carroty		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-chignon		<-->	noun+C2    
+chignon		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-chubbiness		<-->	noun+C2    
+chubbiness		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-chubby		<-->	adjective+C2    
+chubby		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-cleanser		<-->	noun+C2    
+cleanser		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-clean-shaven		<-->	adjective+C2    
+clean-shaven		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-close-cropped		<-->	adjective+C2    
+close-cropped		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-clumsy		<-->	adjective+C1    
+clumsy		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-coiffure		<-->	noun+C2    
+coiffure		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-cold cream		<-->	noun+C2    
+cold cream		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-colorant		<-->	noun+C2    
+colorant		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-coloring		<-->	noun+C1    
+coloring		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-colourant		<-->	noun+C2    
+colourant		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-colouring		<-->	noun+C1    
+colouring		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-comb		<-->	noun+B2    
+comb		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-comb		<-->	verb+B2    
+comb		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-comb out		<-->	222+C2
+comb out		<-->	222+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-comely		<-->	adjective+C2    
+comely		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-complexion		<-->	noun+C2    
+complexion		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-concealer		<-->	noun+C2    
+concealer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-condition		<-->	verb+C2    
+condition		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-conditioner		<-->	noun+C2    
+conditioner		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-cornrows		<-->	noun+C2    
+cornrows		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-corpulence		<-->	noun+C2    
+corpulence		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-corpulent		<-->	adjective+C2    
+corpulent		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-cotton bud		<-->	noun+C2    
+cotton bud		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-cotton wool		<-->	noun+C2    
+cotton wool		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-countenance		<-->	noun+C2    
+countenance		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-cowlick		<-->	noun+C2    
+cowlick		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-crew cut		<-->	noun+C2    
+crew cut		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-crew-cut		<-->	adjective+C2    
+crew-cut		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-crimp		<-->	verb+C2    
+crimp		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-crinkly		<-->	adjective+C2    
+crinkly		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-crop		<-->	noun+C2    
+crop		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-crop		<-->	verb+C2    
+crop		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-crow’s feet		<-->	noun+C2    
+crow’s feet		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-curl		<-->	verb+C1    
+curl		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-curl		<-->	noun+C1    
+curl		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-curler		<-->	noun+C2    
+curler		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-curling tongs		<-->	noun+C2    
+curling tongs		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-curly		<-->	adjective+A2    
+curly		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-cut		<-->	noun+B1    
+cut		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-cute		<-->	adjective+B2    
+cute		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-cutie		<-->	noun+C2    
+cutie		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dainty		<-->	adjective+C2    
+dainty		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dandruff		<-->	noun+C2    
+dandruff		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dark		<-->	adjective+A1    
+dark		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dashing		<-->	adjective+C2    
+dashing		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-debonair		<-->	adjective+C2    
+debonair		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-deft		<-->	adjective+C2    
+deft		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-delouse		<-->	verb+C2    
+delouse		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dental floss		<-->	noun+C2    
+dental floss		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-depilator		<-->	noun+C2    
+depilator		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-depilatory		<-->	noun+C2    
+depilatory		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-depilatory		<-->	adjective+C2    
+depilatory		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dimple		<-->	noun+C2    
+dimple		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dowdy		<-->	adjective+C2    
+dowdy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-down		<-->	noun+C2    
+down		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-downcast		<-->	adjective+C2    
+downcast		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-downy		<-->	adjective+C2    
+downy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dreadlocks		<-->	noun+C2    
+dreadlocks		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dreamboat		<-->	noun+C2    
+dreamboat		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dreamy		<-->	adjective+C2    
+dreamy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dye		<-->	verb+B2    
+dye		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-dye		<-->	noun+B2    
+dye		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-ectomorph		<-->	noun+C2    
+ectomorph		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-electric razor		<-->	noun+B2    
+electric razor		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-endomorph		<-->	noun+C2    
+endomorph		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-English rose		<-->	noun+C2    
+English rose		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-erect		<-->	adjective+C2    
+erect		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-expression		<-->	noun+B1    
+expression		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-eyebrow		<-->	noun+B2    
+eyebrow		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-eyebrow pencil		<-->	noun+C2    
+eyebrow pencil		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-eyelash		<-->	noun+C1    
+eyelash		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-eyeliner		<-->	noun+C2    
+eyeliner		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-eyeshadow		<-->	noun+C2    
+eyeshadow		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-face cream		<-->	noun+C1    
+face cream		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-face mask		<-->	noun+C2    
+face mask		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-face powder		<-->	noun+C1    
+face powder		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-fair		<-->	adjective+B1    
+fair		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-fair-haired		<-->	adjective+B1    
+fair-haired		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-fairness		<-->	noun+C1    
+fairness		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-fanciable		<-->	adjective+C2    
+fanciable		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-fat		<-->	adjective+A1    
+fat		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-figure		<-->	noun+B1    
+figure		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-fit		<-->	adjective+C2    
+fit		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-fix		<-->	verb+C2    
+fix		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-flabby		<-->	adjective+C2    
+flabby		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-flat-top		<-->	noun+C2    
+flat-top		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-flaxen		<-->	adjective+C2    
+flaxen		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-flyaway		<-->	adjective+C2    
+flyaway		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-foundation		<-->	noun+C2    
+foundation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-freckle		<-->	noun+C2    
+freckle		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-freckled		<-->	adjective+C2    
+freckled		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-French braid		<-->	noun+C2    
+French braid		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-French plait		<-->	noun+C2    
+French plait		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-French pleat		<-->	noun+C2    
+French pleat		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-French twist		<-->	noun+C2    
+French twist		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-fringe		<-->	noun+C2    
+fringe		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-frizz		<-->	verb+C2    
+frizz		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-frizz		<-->	noun+C2    
+frizz		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-frizzy		<-->	adjective+C2    
+frizzy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-frown		<-->	verb+C1    
+frown		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-frown		<-->	noun+C1    
+frown		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-fuzz		<-->	noun+C2    
+fuzz		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-fuzzy		<-->	adjective+C2    
+fuzzy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-gamine		<-->	adjective+C2    
+gamine		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-gangling		<-->	adjective+C2    
+gangling		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-gaunt		<-->	adjective+C2    
+gaunt		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-gel		<-->	noun+B2    
+gel		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-gel		<-->	verb+C2    
+gel		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-ginger		<-->	adjective+B2    
+ginger		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-girn		<-->	verb+C2    
+girn		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-glamorous		<-->	adjective+B2    
+glamorous		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-glazed		<-->	adjective+C2    
+glazed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-glossy		<-->	adjective+C2    
+glossy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-glower		<-->	verb+C2    
+glower		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-goatee		<-->	noun+C2    
+goatee		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-good-looking		<-->	adjective+A2    
+good-looking		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-gorgeous		<-->	adjective+B2    
+gorgeous		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grace		<-->	noun+C1    
+grace		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-graceful		<-->	adjective+C1    
+graceful		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-graceless		<-->	adjective+C2    
+graceless		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-gray		<-->	adjective+A1    
+gray		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-greasy		<-->	adjective+C1    
+greasy		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grey		<-->	adjective+A1    
+grey		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grey-haired		<-->	adjective+B1    
+grey-haired		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grimace		<-->	verb+C2    
+grimace		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grimace		<-->	noun+C2    
+grimace		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grin		<-->	verb+C1    
+grin		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grin		<-->	noun+C1    
+grin		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grizzled		<-->	adjective+C2    
+grizzled		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grooming		<-->	noun+C2    
+grooming		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grotesque		<-->	adjective+C2    
+grotesque		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grow back		<-->	222+C2
+grow back		<-->	222+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-grow out		<-->	222+C2
+grow out		<-->	222+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-gurn		<-->	verb+C2    
+gurn		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hair		<-->	noun+A1    
+hair		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairbrush		<-->	noun+A2    
+hairbrush		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-haircut		<-->	noun+B1    
+haircut		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairdo		<-->	noun+C2    
+hairdo		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairdresser		<-->	noun+A2    
+hairdresser		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairdryer		<-->	noun+B1    
+hairdryer		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hair extension		<-->	noun+C2    
+hair extension		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairless		<-->	adjective+C2    
+hairless		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairline		<-->	noun+C2    
+hairline		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairpiece		<-->	noun+C2    
+hairpiece		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairspray		<-->	noun+C2    
+hairspray		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairstyle		<-->	noun+B1    
+hairstyle		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairstylist		<-->	noun+C2    
+hairstylist		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hairy		<-->	adjective+B2    
+hairy		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hand cream		<-->	noun+B2    
+hand cream		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-handsome		<-->	adjective+A2    
+handsome		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hangdog		<-->	adjective+C2    
+hangdog		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-heart-throb		<-->	noun+C2    
+heart-throb		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-heavy		<-->	adjective+A2    
+heavy		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-height		<-->	noun+A2    
+height		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-henna		<-->	noun+C2    
+henna		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hideous		<-->	adjective+C1    
+hideous		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-highlight		<-->	verb+C1    
+highlight		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-highlight		<-->	noun+C1    
+highlight		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hirsute		<-->	adjective+C2    
+hirsute		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hoary		<-->	adjective+C2    
+hoary		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-homely		<-->	adjective+C2    
+homely		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hunch		<-->	verb+C2    
+hunch		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-hydrogen peroxide		<-->	noun+C2    
+hydrogen peroxide		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-knockout		<-->	noun+C2    
+knockout		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-knot		<-->	noun+C2    
+knot		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-knot		<-->	verb+C2    
+knot		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lacquer		<-->	noun+C2    
+lacquer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lacquer		<-->	verb+C2    
+lacquer		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-languid		<-->	adjective+C2    
+languid		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-languidly		<-->	111+C2    
+languidly		<-->	111+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lank		<-->	adjective+C2    
+lank		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lanky		<-->	adjective+C2    
+lanky		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-layer		<-->	verb+C2    
+layer		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lean		<-->	adjective+C2    
+lean		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-leer		<-->	verb+C2    
+leer		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-leer		<-->	noun+C2    
+leer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-light-footed		<-->	adjective+C2    
+light-footed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-liner		<-->	noun+C2    
+liner		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lip balm		<-->	noun+C2    
+lip balm		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lip gloss		<-->	noun+C2    
+lip gloss		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lip liner		<-->	noun+C2    
+lip liner		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lipstick		<-->	noun+B2    
+lipstick		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lissom		<-->	adjective+C2    
+lissom		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lithe		<-->	adjective+C2    
+lithe		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lithely		<-->	111+C2    
+lithely		<-->	111+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-liver spot		<-->	noun+C2    
+liver spot		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lock		<-->	noun+C2    
+lock		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-long		<-->	adjective+A1    
+long		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-looker		<-->	noun+C2    
+looker		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-loose-limbed		<-->	adjective+C2    
+loose-limbed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-love handles		<-->	noun+C2    
+love handles		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lovely		<-->	adjective+A2    
+lovely		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lowlights		<-->	noun+C2    
+lowlights		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-lumbering		<-->	adjective+C2    
+lumbering		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-luxuriant		<-->	adjective+C2    
+luxuriant		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-makeover		<-->	noun+B2    
+makeover		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-make-up		<-->	noun+B2    
+make-up		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-mascara		<-->	noun+C2    
+mascara		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-mask		<-->	noun+C2    
+mask		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-matted		<-->	adjective+C2    
+matted		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-mesomorph		<-->	noun+C2    
+mesomorph		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-Mohican		<-->	noun+C2    
+Mohican		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-moisturizer		<-->	noun+C2    
+moisturizer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-mole		<-->	noun+C2    
+mole		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-mop		<-->	noun+C2    
+mop		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-mousey		<-->	adjective+C2    
+mousey		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-mousse		<-->	noun+C2    
+mousse		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-moustache		<-->	noun+B1    
+moustache		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-mousy		<-->	adjective+C2    
+mousy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-mouthwash		<-->	noun+C2    
+mouthwash		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-mullet		<-->	noun+C2    
+mullet		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-muscular		<-->	adjective+C1    
+muscular		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-nail clippers		<-->	noun+C2    
+nail clippers		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-nail polish		<-->	noun+C2    
+nail polish		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-nail scissors		<-->	noun+C2    
+nail scissors		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-nice-looking		<-->	adjective+C1    
+nice-looking		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-nimble		<-->	adjective+C2    
+nimble		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-obese		<-->	adjective+B2    
+obese		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-obesity		<-->	noun+B2    
+obesity		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-oil		<-->	noun+A2    
+oil		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-overweight		<-->	adjective+B2    
+overweight		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pale		<-->	adjective+B1    
+pale		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-part		<-->	verb+C2    
+part		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-parting		<-->	noun+C2    
+parting		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pate		<-->	noun+C2    
+pate		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pepper-and-salt		<-->	adjective+C2    
+pepper-and-salt		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-perm		<-->	noun+C2    
+perm		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-perm		<-->	verb+C2    
+perm		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-permatan		<-->	noun+C2    
+permatan		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-peroxide		<-->	noun+C2    
+peroxide		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-petite		<-->	adjective+C2    
+petite		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-photogenic		<-->	adjective+C2    
+photogenic		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pigtail		<-->	noun+C2    
+pigtail		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pimple		<-->	noun+C2    
+pimple		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pimply		<-->	adjective+C2    
+pimply		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-plain		<-->	adjective+B2    
+plain		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-plait		<-->	noun+C2    
+plait		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-plait		<-->	verb+C2    
+plait		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-platinum blonde		<-->	adjective+C2    
+platinum blonde		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-plump		<-->	adjective+C2    
+plump		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-podgy		<-->	adjective+C2    
+podgy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pomade		<-->	noun+C2    
+pomade		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-ponytail		<-->	noun+C2    
+ponytail		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pore		<-->	noun+C2    
+pore		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-portly		<-->	adjective+C2    
+portly		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-port wine stain		<-->	noun+C2    
+port wine stain		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-posture		<-->	noun+C1    
+posture		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pot-bellied		<-->	adjective+C2    
+pot-bellied		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-powder puff		<-->	noun+C2    
+powder puff		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pretty		<-->	adjective+A1    
+pretty		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-primp		<-->	verb+C2    
+primp		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-product		<-->	noun+C1    
+product		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pull/make faces/a face (at somebody)idiomC2
+pull/make faces/a face (at somebody)idiomC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-pumice		<-->	noun+C2    
+pumice		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-punky		<-->	adjective+C2    
+punky		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-quiff		<-->	noun+C2    
+quiff		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-rangy		<-->	adjective+C2    
+rangy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-raven		<-->	adjective+C2    
+raven		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-ravishing		<-->	adjective+C2    
+ravishing		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-razor		<-->	noun+B2    
+razor		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-recede		<-->	verb+C2    
+recede		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-red		<-->	adjective+A1    
+red		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-redhead		<-->	noun+C2    
+redhead		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-red-headed		<-->	adjective+C2    
+red-headed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-ringlet		<-->	noun+C2    
+ringlet		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-rinse		<-->	noun+C2    
+rinse		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-roller		<-->	noun+C2    
+roller		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-roly-poly		<-->	adjective+C2    
+roly-poly		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-rosy		<-->	adjective+C2    
+rosy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-rotund		<-->	adjective+C2    
+rotund		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-rotundity		<-->	noun+C2    
+rotundity		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-round-shouldered		<-->	adjective+C2    
+round-shouldered		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-rugged		<-->	adjective+C2    
+rugged		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-salon		<-->	noun+B2    
+salon		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-salt-and-pepper		<-->	adjective+C2    
+salt-and-pepper		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sandy		<-->	adjective+C2    
+sandy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-scissors		<-->	noun+B1    
+scissors		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-scowl		<-->	verb+C2    
+scowl		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-scowl		<-->	noun+C2    
+scowl		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-scrawny		<-->	adjective+C2    
+scrawny		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-scruffy		<-->	adjective+C1    
+scruffy		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-scrunch		<-->	verb+C2    
+scrunch		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-scrunch-dry		<-->	verb+C2    
+scrunch-dry		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-set		<-->	verb+C2    
+set		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sex appeal		<-->	noun+C2    
+sex appeal		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sex symbol		<-->	noun+C2    
+sex symbol		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sexy		<-->	adjective+B2    
+sexy		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shaggy		<-->	adjective+C2    
+shaggy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shampoo		<-->	noun+B1    
+shampoo		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shampoo		<-->	verb+B1    
+shampoo		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shapely		<-->	adjective+C2    
+shapely		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shave		<-->	verb+B1    
+shave		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shaven		<-->	adjective+C2    
+shaven		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shaver		<-->	noun+B1    
+shaver		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shear		<-->	verb+C2    
+shear		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shiny		<-->	adjective+B1    
+shiny		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shock		<-->	noun+C2    
+shock		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shock-headed		<-->	adjective+C2    
+shock-headed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-short		<-->	adjective+A1    
+short		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-shoulder-length		<-->	adjective+C1    
+shoulder-length		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sideburn		<-->	noun+C2    
+sideburn		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-side whiskers		<-->	noun+C2    
+side whiskers		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-silky		<-->	adjective+C2    
+silky		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sinewy		<-->	adjective+C2    
+sinewy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sit/stand bolt uprightidiomC2
+sit/stand bolt uprightidiomC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-skin		<-->	noun+A2    
+skin		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-skinhead		<-->	noun+C2    
+skinhead		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-skinny		<-->	adjective+B2    
+skinny		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-slaphead		<-->	noun+C2    
+slaphead		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sleek		<-->	adjective+C2    
+sleek		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-slender		<-->	adjective+C1    
+slender		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-slick		<-->	verb+C2    
+slick		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-slight		<-->	adjective+C2    
+slight		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-slim		<-->	adjective+A2    
+slim		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-slouch		<-->	verb+C2    
+slouch		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-slouchy		<-->	adjective+C2    
+slouchy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-slumped		<-->	adjective+C2    
+slumped		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-smile		<-->	verb+A2    
+smile		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-smile		<-->	noun+A2    
+smile		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-smirk		<-->	verb+C2    
+smirk		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-smirk		<-->	noun+C2    
+smirk		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-smize		<-->	verb+C2    
+smize		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-smize		<-->	noun+C2    
+smize		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sneer		<-->	verb+C2    
+sneer		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sneer		<-->	noun+C2    
+sneer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-soap		<-->	noun+A2    
+soap		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-somebody’s face is like thunderidiomC2
+somebody’s face is like thunderidiomC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sour-faced		<-->	adjective+C2    
+sour-faced		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-southern belle		<-->	noun+C2    
+southern belle		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-spare tyre		<-->	noun+C2    
+spare tyre		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-spiky		<-->	adjective+C2    
+spiky		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-split end		<-->	noun+C2    
+split end		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-spot		<-->	noun+B1    
+spot		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-squat		<-->	adjective+C2    
+squat		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-squint		<-->	verb+C2    
+squint		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-statuesque		<-->	adjective+C2    
+statuesque		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-stockily		<-->	111+C2    
+stockily		<-->	111+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-stocky		<-->	adjective+C2    
+stocky		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-stoop		<-->	verb+C2    
+stoop		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-stooped		<-->	adjective+C2    
+stooped		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-stout		<-->	adjective+C2    
+stout		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-straight		<-->	adjective+A2    
+straight		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-strand		<-->	noun+C1    
+strand		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-strawberry blonde		<-->	adjective+C2    
+strawberry blonde		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-streak		<-->	noun+C1    
+streak		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-striking		<-->	adjective+C1    
+striking		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-stringy		<-->	adjective+C2    
+stringy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-stubble		<-->	noun+C2    
+stubble		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-stunner		<-->	noun+C2    
+stunner		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-stunning		<-->	adjective+B2    
+stunning		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-styling		<-->	noun+C1    
+styling		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-stylist		<-->	noun+C1    
+stylist		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sullen		<-->	adjective+C2    
+sullen		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sunburned		<-->	adjective+B2    
+sunburned		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-suntan		<-->	noun+C1    
+suntan		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-suntanned		<-->	adjective+C1    
+suntanned		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-supple		<-->	adjective+C2    
+supple		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-svelte		<-->	adjective+C2    
+svelte		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-swarthy		<-->	adjective+C2    
+swarthy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sweep		<-->	verb+C2    
+sweep		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-swept-back		<-->	adjective+C2    
+swept-back		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-sylph		<-->	noun+C2    
+sylph		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-talcum powder		<-->	noun+C2    
+talcum powder		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tall		<-->	adjective+A1    
+tall		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tan		<-->	verb+C1    
+tan		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tan		<-->	noun+C1    
+tan		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tangle		<-->	noun+C2    
+tangle		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tanned		<-->	adjective+C1    
+tanned		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tattoo		<-->	noun+B2    
+tattoo		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tease		<-->	verb+C2    
+tease		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tendril		<-->	noun+C2    
+tendril		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-thatch		<-->	noun+C2    
+thatch		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-thick		<-->	adjective+B1    
+thick		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-thin		<-->	adjective+A2    
+thin		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-thin/bald on topidiomC2
+thin/bald on topidiomC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tint		<-->	noun+C2    
+tint		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tint		<-->	verb+C2    
+tint		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tone		<-->	noun+C2    
+tone		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-toner		<-->	noun+C2    
+toner		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tongs		<-->	noun+C2    
+tongs		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tonic		<-->	noun+C2    
+tonic		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-toothpaste		<-->	noun+B1    
+toothpaste		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-topknot		<-->	noun+C2    
+topknot		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-toupee		<-->	noun+C2    
+toupee		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tousle		<-->	verb+C2    
+tousle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tousled		<-->	adjective+C2    
+tousled		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tresses		<-->	noun+C2    
+tresses		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-trim		<-->	verb+C2    
+trim		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tubby		<-->	adjective+C2    
+tubby		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tuft		<-->	noun+C2    
+tuft		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-tweezers		<-->	noun+C2    
+tweezers		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-ugly		<-->	adjective+B1    
+ugly		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-unattractive		<-->	adjective+B1    
+unattractive		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-uncombed		<-->	adjective+C2    
+uncombed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-uncoordinated		<-->	adjective+C2    
+uncoordinated		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-undercut		<-->	noun+C2    
+undercut		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-underweight		<-->	adjective+B2    
+underweight		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-ungainly		<-->	adjective+C2    
+ungainly		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-unkempt		<-->	adjective+C2    
+unkempt		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-unlovely		<-->	adjective+C2    
+unlovely		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-untangle		<-->	verb+C2    
+untangle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-upright		<-->	adjective+C1    
+upright		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-volumize		<-->	verb+C2    
+volumize		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-voluptuous		<-->	adjective+C2    
+voluptuous		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wave		<-->	noun+C1    
+wave		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wave		<-->	verb+C1    
+wave		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wavy		<-->	adjective+A2    
+wavy		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wear		<-->	verb+C1    
+wear		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-weight		<-->	noun+A2    
+weight		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-well dressed		<-->	adjective+B1    
+well dressed		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wet look		<-->	noun+C2    
+wet look		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wet-look		<-->	adjective+C2    
+wet-look		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wig		<-->	noun+C1    
+wig		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wince		<-->	noun+C2    
+wince		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wince		<-->	verb+C2    
+wince		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wind-blown		<-->	adjective+C2    
+wind-blown		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wink		<-->	verb+C2    
+wink		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wink		<-->	noun+C2    
+wink		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-winning		<-->	adjective+C2    
+winning		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wiry		<-->	adjective+C2    
+wiry		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wisp		<-->	noun+C2    
+wisp		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-wrinkle		<-->	noun+C1    
+wrinkle		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 

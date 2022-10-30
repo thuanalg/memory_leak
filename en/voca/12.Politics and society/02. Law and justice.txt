@@ -1,4 +1,9 @@
 abide by		<-->	phrasal verb+C2[-0]	.
+	;tuân thủ -- (1) [-abide by something] (formal) to accept and act according to a law, an agreement, etc.
+		;You'll have to abide by the rules of the club.
+		;We will abide by their decision.
+		;TOPICS Discussion and agreementC2, Law and justiceC2
+		;WORDFINDER NOTE AT law
 
 
 
@@ -8,7 +13,21 @@ abide by		<-->	phrasal verb+C2[-0]	.
 
 
 
-acquit		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+acquit		<-->	verb+C1[-0]	./əˈkwɪt/
+ /əˈkwɪt/
+	;phán -- (1) acquit somebody (of something) to decide and state officially in court that somebody is not guilty of a crime
+		;The jury acquitted him of murder.
+		;Both defendants were acquitted.
+		;She was acquitted on all charges.
+		;He was acquitted on the grounds of insufficient evidence.
+		;OPPOSITE convict
+		;TOPICS Law and justiceC1
 
 
 
@@ -18,7 +37,16 @@ acquit		<-->	verb+C1[-0]	.
 
 
 
-act		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+act		<-->	noun+B1[-0]	./cef/
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
@@ -28,7 +56,15 @@ act		<-->	noun+B1[-0]	.
 
 
 
-action		<-->	noun+B2[-0]	.
+
+
+
+
+
+action		<-->	noun+B2[-0]	./cef/
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
@@ -38,7 +74,15 @@ action		<-->	noun+B2[-0]	.
 
 
 
-adopt		<-->	verb+B2[-0]	.
+
+
+
+
+
+adopt		<-->	verb+B2[-0]	./cef/
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
@@ -48,7 +92,15 @@ adopt		<-->	verb+B2[-0]	.
 
 
 
-adoption		<-->	noun+C1[-0]	.
+
+
+
+
+
+adoption		<-->	noun+C1[-0]	./cef/
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
@@ -58,7 +110,20 @@ adoption		<-->	noun+C1[-0]	.
 
 
 
-advocate		<-->	noun+C2[-0]	.
+
+
+
+
+
+advocate		<-->	noun+C2[-0]	./cef/
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -73,6 +138,14 @@ affidavit		<-->	noun+C2[-0]	./ˌæfəˈdeɪvɪt/
 	;bản tuyên thệ -- (1) a written statement that you swear is true, and that can be used as evidence in court
 		;to make/swear/sign an affidavit
 		;They swore affidavits and put further material before the court.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;TOPICS Law and justiceC2
 
 
@@ -83,6 +156,14 @@ affidavit		<-->	noun+C2[-0]	./ˌæfəˈdeɪvɪt/
 
 
 age of consent		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -93,6 +174,14 @@ age of consent		<-->	noun+C2[-0]	.
 
 
 agreement		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -103,6 +192,14 @@ agreement		<-->	noun+B1[-0]	.
 
 
 annulment		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -113,6 +210,14 @@ annulment		<-->	noun+C2[-0]	.
 
 
 appeal		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -123,6 +228,14 @@ appeal		<-->	noun+B2[-0]	.
 
 
 appeal		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -133,6 +246,14 @@ appeal		<-->	verb+B2[-0]	.
 
 
 appeal court		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -143,6 +264,14 @@ appeal court		<-->	noun+C2[-0]	.
 
 
 appellant		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -153,6 +282,14 @@ appellant		<-->	noun+C2[-0]	.
 
 
 appellate court		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -163,6 +300,14 @@ appellate court		<-->	noun+C2[-0]	.
 
 
 article		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -173,6 +318,14 @@ article		<-->	noun+C2[-0]	.
 
 
 attorney		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -183,6 +336,14 @@ attorney		<-->	noun+C1[-0]	.
 
 
 authority		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -193,6 +354,14 @@ authority		<-->	noun+B2[-0]	.
 
 
 bail		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -203,6 +372,14 @@ bail		<-->	noun+C1[-0]	.
 
 
 bail		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -213,6 +390,14 @@ bail		<-->	verb+C1[-0]	.
 
 
 bail out		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -223,6 +408,14 @@ bail out		<-->	phrasal verb+C2[-0]	.
 
 
 bar		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -233,6 +426,14 @@ bar		<-->	noun+C2[-0]	.
 
 
 barrister		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -243,6 +444,14 @@ barrister		<-->	noun+C2[-0]	.
 
 
 baton		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -253,6 +462,14 @@ baton		<-->	noun+C2[-0]	.
 
 
 beat		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -263,6 +480,14 @@ beat		<-->	noun+C2[-0]	.
 
 
 bill		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -273,6 +498,14 @@ bill		<-->	noun+B2[-0]	.
 
 
 billy club		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -283,6 +516,14 @@ billy club		<-->	noun+C2[-0]	.
 
 
 binding		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -293,6 +534,14 @@ binding		<-->	adjective+C2[-0]	.
 
 
 birth certificate		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -303,6 +552,14 @@ birth certificate		<-->	noun+B2[-0]	.
 
 
 Black Maria		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -313,6 +570,14 @@ Black Maria		<-->	noun+C2[-0]	.
 
 
 blotter		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -323,6 +588,14 @@ blotter		<-->	noun+C2[-0]	.
 
 
 bobby		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -333,6 +606,14 @@ bobby		<-->	noun+C2[-0]	.
 
 
 body armour		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -343,6 +624,14 @@ body armour		<-->	noun+C2[-0]	.
 
 
 body search		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -353,6 +642,14 @@ body search		<-->	noun+C1[-0]	.
 
 
 boilerplate		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -363,6 +660,14 @@ boilerplate		<-->	noun+C2[-0]	.
 
 
 bond		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -373,6 +678,14 @@ bond		<-->	noun+C1[-0]	.
 
 
 breathalyse		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -383,6 +696,14 @@ breathalyse		<-->	verb+C2[-0]	.
 
 
 breathalyser		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -393,6 +714,14 @@ breathalyser		<-->	noun+C2[-0]	.
 
 
 breath test		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -403,6 +732,14 @@ breath test		<-->	noun+C2[-0]	.
 
 
 brief		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -413,6 +750,14 @@ brief		<-->	noun+C2[-0]	.
 
 
 brief		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -423,6 +768,14 @@ brief		<-->	verb+C2[-0]	.
 
 
 bring in		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -433,6 +786,14 @@ bring in		<-->	phrasal verb+C2[-0]	.
 
 
 bring/press/lay/prefer charges against somebody		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -443,6 +804,14 @@ bring/press/lay/prefer charges against somebody		<-->	idiom+C2[-0]	.
 
 
 bust		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -453,6 +822,14 @@ bust		<-->	verb+C2[-0]	.
 
 
 bust		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -463,6 +840,14 @@ bust		<-->	noun+C2[-0]	.
 
 
 cadet		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -473,6 +858,14 @@ cadet		<-->	noun+C2[-0]	.
 
 
 case		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -483,6 +876,14 @@ case		<-->	noun+B1[-0]	.
 
 
 case law		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -493,6 +894,14 @@ case law		<-->	noun+C2[-0]	.
 
 
 caution		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -503,6 +912,14 @@ caution		<-->	verb+C2[-0]	.
 
 
 cease-and-desist		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -513,6 +930,14 @@ cease-and-desist		<-->	adjective+C2[-0]	.
 
 
 certiorari		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -523,6 +948,14 @@ certiorari		<-->	noun+C2[-0]	.
 
 
 challenge		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -533,6 +966,14 @@ challenge		<-->	verb+B2[-0]	.
 
 
 charge		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -543,6 +984,14 @@ charge		<-->	noun+B2[-0]	.
 
 
 charge		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -553,6 +1002,14 @@ charge		<-->	verb+B2[-0]	.
 
 
 charge sheet		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -563,6 +1020,14 @@ charge sheet		<-->	noun+C2[-0]	.
 
 
 chief constable		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -573,6 +1038,14 @@ chief constable		<-->	noun+C2[-0]	.
 
 
 chief inspector		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -583,6 +1056,14 @@ chief inspector		<-->	noun+C2[-0]	.
 
 
 chief superintendent		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -593,6 +1074,14 @@ chief superintendent		<-->	noun+C2[-0]	.
 
 
 CID		<-->	abbreviation+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -603,6 +1092,14 @@ CID		<-->	abbreviation+C2[-0]	.
 
 
 circuit breaker		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -613,6 +1110,14 @@ circuit breaker		<-->	noun+C2[-0]	.
 
 
 civil law		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -623,6 +1128,14 @@ civil law		<-->	noun+C2[-0]	.
 
 
 claim		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -633,6 +1146,14 @@ claim		<-->	verb+B1[-0]	.
 
 
 claim		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -643,6 +1164,14 @@ claim		<-->	noun+B2[-0]	.
 
 
 clause		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -653,6 +1182,14 @@ clause		<-->	noun+B2[-0]	.
 
 
 closing argument		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -663,6 +1200,14 @@ closing argument		<-->	noun+C1[-0]	.
 
 
 commander		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -673,6 +1218,14 @@ commander		<-->	noun+C2[-0]	.
 
 
 commissioner		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -683,6 +1236,14 @@ commissioner		<-->	noun+C2[-0]	.
 
 
 common law		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -693,6 +1254,14 @@ common law		<-->	noun+C2[-0]	.
 
 
 complainant		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -703,6 +1272,14 @@ complainant		<-->	noun+C2[-0]	.
 
 
 conditional discharge		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -713,6 +1290,14 @@ conditional discharge		<-->	noun+C2[-0]	.
 
 
 constable		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -723,6 +1308,14 @@ constable		<-->	noun+C2[-0]	.
 
 
 constabulary		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -733,6 +1326,14 @@ constabulary		<-->	noun+C2[-0]	.
 
 
 contempt of court		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -743,6 +1344,14 @@ contempt of court		<-->	noun+C2[-0]	.
 
 
 contract		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -753,6 +1362,14 @@ contract		<-->	noun+B2[-0]	.
 
 
 contract		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -763,6 +1380,14 @@ contract		<-->	verb+C2[-0]	.
 
 
 contractual		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -773,6 +1398,14 @@ contractual		<-->	adjective+C2[-0]	.
 
 
 conveyance		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -783,6 +1416,14 @@ conveyance		<-->	noun+C2[-0]	.
 
 
 conveyancer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -793,6 +1434,14 @@ conveyancer		<-->	noun+C2[-0]	.
 
 
 conveyancing		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -803,6 +1452,14 @@ conveyancing		<-->	noun+C2[-0]	.
 
 
 convict		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -813,6 +1470,14 @@ convict		<-->	verb+C1[-0]	.
 
 
 conviction		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -823,6 +1488,14 @@ conviction		<-->	noun+C1[-0]	.
 
 
 cop		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -833,6 +1506,14 @@ cop		<-->	noun+C1[-0]	.
 
 
 copper		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -843,6 +1524,14 @@ copper		<-->	noun+C2[-0]	.
 
 
 copyright		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -853,6 +1542,14 @@ copyright		<-->	noun+C1[-0]	.
 
 
 copyright		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -863,6 +1560,14 @@ copyright		<-->	adjective+C1[-0]	.
 
 
 copyright		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -873,6 +1578,14 @@ copyright		<-->	verb+C1[-0]	.
 
 
 cordon		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -883,6 +1596,14 @@ cordon		<-->	noun+C2[-0]	.
 
 
 cordon off		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -893,6 +1614,14 @@ cordon off		<-->	phrasal verb+C2[-0]	.
 
 
 co-sign		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -903,6 +1632,14 @@ co-sign		<-->	verb+C2[-0]	.
 
 
 co-signatory		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -913,6 +1650,14 @@ co-signatory		<-->	noun+C2[-0]	.
 
 
 counsel		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -923,6 +1668,14 @@ counsel		<-->	noun+C2[-0]	.
 
 
 count		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -933,6 +1686,14 @@ count		<-->	noun+C2[-0]	.
 
 
 countersign		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -943,6 +1704,14 @@ countersign		<-->	verb+C2[-0]	.
 
 
 county court		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -953,6 +1722,14 @@ county court		<-->	noun+C1[-0]	.
 
 
 court		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -963,6 +1740,14 @@ court		<-->	noun+B1[-0]	.
 
 
 court of appeal		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -973,6 +1758,14 @@ court of appeal		<-->	noun+C2[-0]	.
 
 
 court order		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -983,6 +1776,14 @@ court order		<-->	noun+C1[-0]	.
 
 
 criminal		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -993,6 +1794,14 @@ criminal		<-->	adjective+B1[-0]	.
 
 
 criminal law		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1003,6 +1812,14 @@ criminal law		<-->	noun+B2[-0]	.
 
 
 cross-examination		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1013,6 +1830,14 @@ cross-examination		<-->	noun+C2[-0]	.
 
 
 cross-examine		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1023,6 +1848,14 @@ cross-examine		<-->	verb+C2[-0]	.
 
 
 cruiser		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1033,6 +1866,14 @@ cruiser		<-->	noun+C2[-0]	.
 
 
 cuff		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1043,6 +1884,14 @@ cuff		<-->	verb+C2[-0]	.
 
 
 custody		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1053,6 +1902,14 @@ custody		<-->	noun+C1[-0]	.
 
 
 death certificate		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1063,6 +1920,14 @@ death certificate		<-->	noun+B2[-0]	.
 
 
 debenture		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1073,6 +1938,14 @@ debenture		<-->	noun+C2[-0]	.
 
 
 declaration		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1083,6 +1956,14 @@ declaration		<-->	noun+C1[-0]	.
 
 
 decree		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1093,6 +1974,14 @@ decree		<-->	noun+C2[-0]	.
 
 
 deed		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1103,6 +1992,14 @@ deed		<-->	noun+C2[-0]	.
 
 
 defence		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1113,6 +2010,14 @@ defence		<-->	noun+C1[-0]	.
 
 
 defend		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1123,6 +2028,14 @@ defend		<-->	verb+B2[-0]	.
 
 
 defendant		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1133,6 +2046,14 @@ defendant		<-->	noun+C1[-0]	.
 
 
 defense		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1143,6 +2064,14 @@ defense		<-->	noun+C1[-0]	.
 
 
 deport		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1153,6 +2082,14 @@ deport		<-->	verb+C2[-0]	.
 
 
 deportation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1163,6 +2100,14 @@ deportation		<-->	noun+C2[-0]	.
 
 
 deputy		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1173,6 +2118,14 @@ deputy		<-->	noun+C2[-0]	.
 
 
 detain		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1183,6 +2136,14 @@ detain		<-->	verb+C1[-0]	.
 
 
 detective		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1193,6 +2154,14 @@ detective		<-->	noun+A2[-0]	.
 
 
 discharge		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1203,6 +2172,14 @@ discharge		<-->	verb+C2[-0]	.
 
 
 dissent		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1213,6 +2190,14 @@ dissent		<-->	noun+C2[-0]	.
 
 
 divorce		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1223,6 +2208,14 @@ divorce		<-->	noun+B2[-0]	.
 
 
 divorce		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1233,6 +2226,14 @@ divorce		<-->	verb+B2[-0]	.
 
 
 dock		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1243,6 +2244,14 @@ dock		<-->	noun+C2[-0]	.
 
 
 document		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1253,6 +2262,14 @@ document		<-->	noun+A2[-0]	.
 
 
 dog handler		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1263,6 +2280,14 @@ dog handler		<-->	noun+C2[-0]	.
 
 
 draft		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1273,6 +2298,14 @@ draft		<-->	noun+B2[-0]	.
 
 
 draft		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1283,6 +2316,14 @@ draft		<-->	verb+B2[-0]	.
 
 
 draw up		<-->	phrasal verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1293,6 +2334,14 @@ draw up		<-->	phrasal verb+C1[-0]	.
 
 
 drunk tank		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1303,6 +2352,14 @@ drunk tank		<-->	noun+C2[-0]	.
 
 
 due diligence		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1313,6 +2370,14 @@ due diligence		<-->	noun+C2[-0]	.
 
 
 due process of law		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1323,6 +2388,14 @@ due process of law		<-->	noun+C2[-0]	.
 
 
 duty of care		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1333,6 +2406,14 @@ duty of care		<-->	noun+C2[-0]	.
 
 
 electronic tagging		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1343,6 +2424,14 @@ electronic tagging		<-->	noun+C2[-0]	.
 
 
 emergency services		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1353,6 +2442,14 @@ emergency services		<-->	noun+B2[-0]	.
 
 
 employment tribunal		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1363,6 +2460,14 @@ employment tribunal		<-->	noun+C2[-0]	.
 
 
 enforce		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1373,6 +2478,14 @@ enforce		<-->	verb+C1[-0]	.
 
 
 equity		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1383,6 +2496,14 @@ equity		<-->	noun+C2[-0]	.
 
 
 evidence		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1393,6 +2514,14 @@ evidence		<-->	noun+A2[-0]	.
 
 
 executioner		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1403,6 +2532,14 @@ executioner		<-->	noun+C2[-0]	.
 
 
 exhibit		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1413,6 +2550,14 @@ exhibit		<-->	noun+C2[-0]	.
 
 
 fair dealing		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1423,6 +2568,14 @@ fair dealing		<-->	noun+C2[-0]	.
 
 
 fair use		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1433,6 +2586,14 @@ fair use		<-->	noun+C2[-0]	.
 
 
 family court		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1443,6 +2604,14 @@ family court		<-->	noun+B2[-0]	.
 
 
 FBI		<-->	abbreviation+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1453,6 +2622,14 @@ FBI		<-->	abbreviation+C1[-0]	.
 
 
 find		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1463,6 +2640,14 @@ find		<-->	verb+C1[-0]	.
 
 
 find against		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1473,6 +2658,14 @@ find against		<-->	phrasal verb+C2[-0]	.
 
 
 find for		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1483,6 +2676,14 @@ find for		<-->	phrasal verb+C2[-0]	.
 
 
 finding		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1493,6 +2694,14 @@ finding		<-->	noun+C2[-0]	.
 
 
 fixed-term		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1503,6 +2712,14 @@ fixed-term		<-->	adjective+C2[-0]	.
 
 
 flying squad		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1513,6 +2730,14 @@ flying squad		<-->	noun+C2[-0]	.
 
 
 force		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1523,6 +2748,14 @@ force		<-->	noun+C1[-0]	.
 
 
 fraud squad		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1533,6 +2766,14 @@ fraud squad		<-->	noun+C2[-0]	.
 
 
 gendarme		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1543,6 +2784,14 @@ gendarme		<-->	noun+C2[-0]	.
 
 
 general counsel		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1553,6 +2802,14 @@ general counsel		<-->	noun+C2[-0]	.
 
 
 gown		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1563,6 +2820,14 @@ gown		<-->	noun+C1[-0]	.
 
 
 grant		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1573,6 +2838,14 @@ grant		<-->	verb+B2[-0]	.
 
 
 guilt		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1583,6 +2856,14 @@ guilt		<-->	noun+C1[-0]	.
 
 
 guilty		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1593,6 +2874,14 @@ guilty		<-->	adjective+B1[-0]	.
 
 
 handcuff		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1603,6 +2892,14 @@ handcuff		<-->	verb+C2[-0]	.
 
 
 handcuffs		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1613,6 +2910,14 @@ handcuffs		<-->	noun+C1[-0]	.
 
 
 hangman		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1623,6 +2928,14 @@ hangman		<-->	noun+C1[-0]	.
 
 
 hear		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1633,6 +2946,14 @@ hear		<-->	verb+C1[-0]	.
 
 
 hearing		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1643,6 +2964,14 @@ hearing		<-->	noun+C1[-0]	.
 
 
 ID card		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1653,6 +2982,14 @@ ID card		<-->	noun+B2[-0]	.
 
 
 identity card		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1663,6 +3000,14 @@ identity card		<-->	noun+B2[-0]	.
 
 
 illegal		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1673,6 +3018,14 @@ illegal		<-->	adjective+B1[-0]	.
 
 
 illegally		<-->	adverb+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1683,6 +3036,14 @@ illegally		<-->	adverb+B1[-0]	.
 
 
 impeach		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1693,6 +3054,14 @@ impeach		<-->	verb+C2[-0]	.
 
 
 impeachment		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1703,6 +3072,14 @@ impeachment		<-->	noun+C2[-0]	.
 
 
 incident room		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1713,6 +3090,14 @@ incident room		<-->	noun+C2[-0]	.
 
 
 indictment		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1723,6 +3108,14 @@ indictment		<-->	noun+C2[-0]	.
 
 
 industrial tribunal		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1733,6 +3126,14 @@ industrial tribunal		<-->	noun+C2[-0]	.
 
 
 infringe		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1743,6 +3144,14 @@ infringe		<-->	verb+C2[-0]	.
 
 
 innocence		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1753,6 +3162,14 @@ innocence		<-->	noun+C1[-0]	.
 
 
 innocent		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1763,6 +3180,14 @@ innocent		<-->	adjective+B1[-0]	.
 
 
 inquest		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1773,6 +3198,14 @@ inquest		<-->	noun+C2[-0]	.
 
 
 inspector		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1783,6 +3216,14 @@ inspector		<-->	noun+B2[-0]	.
 
 
 Interpol		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1793,6 +3234,14 @@ Interpol		<-->	noun+C2[-0]	.
 
 
 interrogate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1803,6 +3252,14 @@ interrogate		<-->	verb+C2[-0]	.
 
 
 interrogatory		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1813,6 +3270,14 @@ interrogatory		<-->	noun+C2[-0]	.
 
 
 intestacy		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1823,6 +3288,14 @@ intestacy		<-->	noun+C2[-0]	.
 
 
 intestate		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1833,6 +3306,14 @@ intestate		<-->	adjective+C2[-0]	.
 
 
 invalid		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1843,6 +3324,14 @@ invalid		<-->	adjective+C1[-0]	.
 
 
 invalidate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1853,6 +3342,14 @@ invalidate		<-->	verb+C2[-0]	.
 
 
 invalidation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1863,6 +3360,14 @@ invalidation		<-->	noun+C2[-0]	.
 
 
 invalidity		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1873,6 +3378,14 @@ invalidity		<-->	noun+C2[-0]	.
 
 
 issue		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1883,6 +3396,14 @@ issue		<-->	verb+C1[-0]	.
 
 
 JP		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1900,14 +3421,86 @@ judge		<-->	noun+B1[-0]	./dʒʌdʒ/
 		;the presiding trial judge
 		;to appoint a judge
 		;before a judge The case comes before Judge Cooper next week.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;He will appear before a judge tomorrow.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;The judge sentenced him to five years in prison.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;The judge ruled that the evidence was inadmissible.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;A judge ordered her to be remanded in custody.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;The judge in the case reminded the jury not to discuss the case outside the courtroom.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;Appeals court judges overturned the previous ruling.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;She has a reputation as a liberal, activist judge.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;The judge awarded him damages of £20 000.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;COMPARE Justice of the Peace, magistrate
 		;Culture the legal system
 		;TOPICS Preferences and decisionsB1, Law and justiceB1, JobsB1
@@ -1932,6 +3525,14 @@ judge		<-->	noun+B1[-0]	./dʒʌdʒ/
 
 
 judge		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1942,6 +3543,14 @@ judge		<-->	verb+B2[-0]	.
 
 
 judgement		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1952,6 +3561,14 @@ judgement		<-->	noun+B2[-0]	.
 
 
 judicial		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1962,6 +3579,14 @@ judicial		<-->	adjective+C1[-0]	.
 
 
 judiciary		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1972,6 +3597,14 @@ judiciary		<-->	noun+C2[-0]	.
 
 
 jurisdiction		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1982,6 +3615,14 @@ jurisdiction		<-->	noun+C1[-0]	.
 
 
 jurist		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -1992,6 +3633,14 @@ jurist		<-->	noun+C2[-0]	.
 
 
 jury		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2002,6 +3651,14 @@ jury		<-->	noun+B2[-0]	.
 
 
 jury duty		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2018,19 +3675,91 @@ justice		<-->	noun+B2[-0]	./ˈdʒʌstɪs/
 		;The European Court of Justice
 		;the administration/obstruction of justice
 		;(British English) They were accused of attempting to pervert the course of justice.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;(North American English) They were accused of attempting to obstruct justice.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;Civilians were not subject to summary justice.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;So far the robbers have escaped justice.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;the battle for Taylor to face justice before the High Court
 		;those who are ultimately responsible for dispensing justice
 		;Restorative justice can only work when all parties agree.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;the deadliest episode of vigilante justice in American history
 		;Some people saw the epidemic as divine justice.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;Civilians were not subject to summary justice.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;So far the robbers have escaped justice.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;the battle for Taylor to face justice before the High Court
 		;those who are ultimately responsible for dispensing justice
 		;Restorative justice can only work when all parties agree.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 		;the deadliest episode of vigilante justice in American history
 		;Some people saw the epidemic as divine justice.		
 		;SEE ALSO restorative justice
@@ -2114,6 +3843,14 @@ justice		<-->	noun+B2[-0]	./ˈdʒʌstɪs/
 
 
 Justice of the Peace		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2124,6 +3861,14 @@ Justice of the Peace		<-->	noun+C2[-0]	.
 
 
 justiciary		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2134,6 +3879,14 @@ justiciary		<-->	noun+C2[-0]	.
 
 
 juvenile		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2144,6 +3897,14 @@ juvenile		<-->	adjective+C1[-0]	.
 
 
 lathi		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2154,6 +3915,14 @@ lathi		<-->	noun+C2[-0]	.
 
 
 law		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2164,6 +3933,14 @@ law		<-->	noun+A2[-0]	.
 
 
 law and order		<-->	idiom+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2174,6 +3951,14 @@ law and order		<-->	idiom+B2[-0]	.
 
 
 lawful		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2184,6 +3969,14 @@ lawful		<-->	adjective+C2[-0]	.
 
 
 lawfully		<-->	adverb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2194,6 +3987,14 @@ lawfully		<-->	adverb+C2[-0]	.
 
 
 lawsuit		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2204,6 +4005,14 @@ lawsuit		<-->	noun+C1[-0]	.
 
 
 lawyer		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2214,6 +4023,14 @@ lawyer		<-->	noun+A2[-0]	.
 
 
 lease		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2224,6 +4041,14 @@ lease		<-->	noun+C1[-0]	.
 
 
 leaseback		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2234,6 +4059,14 @@ leaseback		<-->	noun+C2[-0]	.
 
 
 legal		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2244,6 +4077,14 @@ legal		<-->	adjective+B1[-0]	.
 
 
 legal action		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2254,6 +4095,14 @@ legal action		<-->	noun+C1[-0]	.
 
 
 legality		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2264,6 +4113,14 @@ legality		<-->	noun+C1[-0]	.
 
 
 legalization		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2274,6 +4131,14 @@ legalization		<-->	noun+C1[-0]	.
 
 
 legalize		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2284,6 +4149,14 @@ legalize		<-->	verb+C1[-0]	.
 
 
 legally		<-->	adverb+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2294,6 +4167,14 @@ legally		<-->	adverb+B1[-0]	.
 
 
 legal proceedings		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2304,6 +4185,14 @@ legal proceedings		<-->	noun+C1[-0]	.
 
 
 legislate		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2314,6 +4203,14 @@ legislate		<-->	verb+C1[-0]	.
 
 
 legislation		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2324,6 +4221,14 @@ legislation		<-->	noun+C1[-0]	.
 
 
 legislative		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2334,6 +4239,14 @@ legislative		<-->	adjective+C1[-0]	.
 
 
 legislature		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2344,6 +4257,14 @@ legislature		<-->	noun+C1[-0]	.
 
 
 legitimate		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2354,6 +4275,14 @@ legitimate		<-->	adjective+C1[-0]	.
 
 
 legitimize		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2364,6 +4293,14 @@ legitimize		<-->	verb+C2[-0]	.
 
 
 liable		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2374,6 +4311,14 @@ liable		<-->	adjective+C1[-0]	.
 
 
 lieutenant		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2384,6 +4329,14 @@ lieutenant		<-->	noun+C2[-0]	.
 
 
 litigant		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2394,6 +4347,14 @@ litigant		<-->	noun+C2[-0]	.
 
 
 litigate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2404,6 +4365,14 @@ litigate		<-->	verb+C2[-0]	.
 
 
 litigation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2414,6 +4383,14 @@ litigation		<-->	noun+C2[-0]	.
 
 
 litigator		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2424,6 +4401,14 @@ litigator		<-->	noun+C2[-0]	.
 
 
 lock down		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2434,6 +4419,14 @@ lock down		<-->	phrasal verb+C2[-0]	.
 
 
 lockdown		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2444,6 +4437,14 @@ lockdown		<-->	noun+B2[-0]	.
 
 
 Mace™		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2454,6 +4455,14 @@ Mace™		<-->	noun+C2[-0]	.
 
 
 magistrate		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2464,6 +4473,14 @@ magistrate		<-->	noun+C1[-0]	.
 
 
 magistrates' court		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2474,6 +4491,14 @@ magistrates' court		<-->	noun+C2[-0]	.
 
 
 majority verdict		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2484,6 +4509,14 @@ majority verdict		<-->	noun+C2[-0]	.
 
 
 marriage		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2494,6 +4527,14 @@ marriage		<-->	noun+B1[-0]	.
 
 
 marriage certificate		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2504,6 +4545,14 @@ marriage certificate		<-->	noun+B2[-0]	.
 
 
 marriage licence		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2514,6 +4563,14 @@ marriage licence		<-->	noun+C2[-0]	.
 
 
 marshal		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2524,6 +4581,14 @@ marshal		<-->	noun+C2[-0]	.
 
 
 McKenzie friend		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2534,6 +4599,14 @@ McKenzie friend		<-->	noun+C2[-0]	.
 
 
 memorandum		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2544,6 +4617,14 @@ memorandum		<-->	noun+C2[-0]	.
 
 
 military police		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2554,6 +4635,14 @@ military police		<-->	noun+C1[-0]	.
 
 
 Miranda		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2564,6 +4653,14 @@ Miranda		<-->	adjective+C2[-0]	.
 
 
 mugshot		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2574,6 +4671,14 @@ mugshot		<-->	noun+C2[-0]	.
 
 
 nightstick		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2584,6 +4689,14 @@ nightstick		<-->	noun+C2[-0]	.
 
 
 notarize		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2594,6 +4707,14 @@ notarize		<-->	verb+C2[-0]	.
 
 
 notary		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2604,6 +4725,14 @@ notary		<-->	noun+C2[-0]	.
 
 
 nullify		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2614,6 +4743,14 @@ nullify		<-->	verb+C2[-0]	.
 
 
 officer		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2624,6 +4761,14 @@ officer		<-->	noun+A2[-0]	.
 
 
 operations room		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2634,6 +4779,14 @@ operations room		<-->	noun+C2[-0]	.
 
 
 order		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2644,6 +4797,14 @@ order		<-->	noun+B1[-0]	.
 
 
 outlaw		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2654,6 +4815,14 @@ outlaw		<-->	verb+C1[-0]	.
 
 
 overturn		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2664,6 +4833,14 @@ overturn		<-->	verb+C1[-0]	.
 
 
 paddy wagon		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2674,6 +4851,14 @@ paddy wagon		<-->	noun+C2[-0]	.
 
 
 panda car		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2684,6 +4869,14 @@ panda car		<-->	noun+C2[-0]	.
 
 
 pardon		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2694,6 +4887,14 @@ pardon		<-->	noun+C2[-0]	.
 
 
 pardon		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2704,6 +4905,14 @@ pardon		<-->	verb+C2[-0]	.
 
 
 parole		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2714,6 +4923,14 @@ parole		<-->	noun+C2[-0]	.
 
 
 party		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2724,6 +4941,14 @@ party		<-->	noun+C1[-0]	.
 
 
 passport		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2734,6 +4959,14 @@ passport		<-->	noun+A1[-0]	.
 
 
 patrol		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2744,6 +4977,14 @@ patrol		<-->	noun+C1[-0]	.
 
 
 patrol		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2754,6 +4995,14 @@ patrol		<-->	verb+C1[-0]	.
 
 
 patrolman		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2764,6 +5013,14 @@ patrolman		<-->	noun+C2[-0]	.
 
 
 patrol wagon		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2774,6 +5031,14 @@ patrol wagon		<-->	noun+C2[-0]	.
 
 
 patrolwoman		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2784,6 +5049,14 @@ patrolwoman		<-->	noun+C2[-0]	.
 
 
 PC		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2794,6 +5067,14 @@ PC		<-->	noun+C1[-0]	.
 
 
 PC Plod		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2804,6 +5085,14 @@ PC Plod		<-->	noun+C2[-0]	.
 
 
 peace officer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2814,6 +5103,14 @@ peace officer		<-->	noun+C2[-0]	.
 
 
 plain clothes		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2824,6 +5121,14 @@ plain clothes		<-->	noun+C2[-0]	.
 
 
 plain-clothes		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2834,6 +5139,14 @@ plain-clothes		<-->	adjective+C2[-0]	.
 
 
 plaintiff		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2844,6 +5157,14 @@ plaintiff		<-->	noun+C2[-0]	.
 
 
 plea		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2854,6 +5175,14 @@ plea		<-->	noun+C1[-0]	.
 
 
 ple		<-->	adverb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2864,6 +5193,14 @@ ple		<-->	adverb+C1[-0]	.
 
 
 plod		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2874,6 +5211,14 @@ plod		<-->	noun+C2[-0]	.
 
 
 point duty		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2884,6 +5229,14 @@ point duty		<-->	noun+C2[-0]	.
 
 
 police		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2894,6 +5247,14 @@ police		<-->	noun+A1[-0]	.
 
 
 police		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2904,6 +5265,14 @@ police		<-->	verb+C1[-0]	.
 
 
 police commissioner		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2914,6 +5283,14 @@ police commissioner		<-->	noun+C2[-0]	.
 
 
 police constable		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2924,6 +5301,14 @@ police constable		<-->	noun+C2[-0]	.
 
 
 police department		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2934,6 +5319,14 @@ police department		<-->	noun+B1[-0]	.
 
 
 police dog		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2944,6 +5337,14 @@ police dog		<-->	noun+B1[-0]	.
 
 
 police force		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2954,6 +5355,14 @@ police force		<-->	noun+B1[-0]	.
 
 
 policeman		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2964,6 +5373,14 @@ policeman		<-->	noun+A1[-0]	.
 
 
 police officer		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2974,6 +5391,14 @@ police officer		<-->	noun+A2[-0]	.
 
 
 police state		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2984,6 +5409,14 @@ police state		<-->	noun+C1[-0]	.
 
 
 police station		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -2994,6 +5427,14 @@ police station		<-->	noun+A2[-0]	.
 
 
 policewoman		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3004,6 +5445,14 @@ policewoman		<-->	noun+A1[-0]	.
 
 
 policing		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3014,6 +5463,14 @@ policing		<-->	noun+C1[-0]	.
 
 
 pretrial		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3024,6 +5481,14 @@ pretrial		<-->	adjective+C1[-0]	.
 
 
 prevention		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3034,6 +5499,14 @@ prevention		<-->	noun+C1[-0]	.
 
 
 probable cause		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3044,6 +5517,14 @@ probable cause		<-->	noun+C2[-0]	.
 
 
 probate		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3054,6 +5535,14 @@ probate		<-->	noun+C2[-0]	.
 
 
 proceeding		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3064,6 +5553,14 @@ proceeding		<-->	noun+C1[-0]	.
 
 
 process		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3074,6 +5571,14 @@ process		<-->	noun+A2[-0]	.
 
 
 prohibit		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3084,6 +5589,14 @@ prohibit		<-->	verb+B2[-0]	.
 
 
 prohibition		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3094,6 +5607,14 @@ prohibition		<-->	noun+B2[-0]	.
 
 
 prosecute		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3104,6 +5625,14 @@ prosecute		<-->	verb+C1[-0]	.
 
 
 prosecution		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3114,6 +5643,14 @@ prosecution		<-->	noun+C1[-0]	.
 
 
 prosecutor		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3124,6 +5661,14 @@ prosecutor		<-->	noun+C1[-0]	.
 
 
 protection order		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3134,6 +5679,14 @@ protection order		<-->	noun+C2[-0]	.
 
 
 provision		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3144,6 +5697,14 @@ provision		<-->	noun+C1[-0]	.
 
 
 public defender		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3154,6 +5715,14 @@ public defender		<-->	noun+C2[-0]	.
 
 
 public prosecutor		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3164,6 +5733,14 @@ public prosecutor		<-->	noun+C2[-0]	.
 
 
 punitive damages		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3174,6 +5751,14 @@ punitive damages		<-->	noun+C2[-0]	.
 
 
 pursue		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3184,6 +5769,14 @@ pursue		<-->	verb+B2[-0]	.
 
 
 pursuit		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3194,6 +5787,14 @@ pursuit		<-->	noun+C1[-0]	.
 
 
 raid		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3204,6 +5805,14 @@ raid		<-->	noun+C1[-0]	.
 
 
 raid		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3214,6 +5823,14 @@ raid		<-->	verb+C1[-0]	.
 
 
 recess		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3224,6 +5841,14 @@ recess		<-->	noun+C2[-0]	.
 
 
 record		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3234,6 +5859,14 @@ record		<-->	noun+C1[-0]	.
 
 
 record		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3244,6 +5877,14 @@ record		<-->	verb+C2[-0]	.
 
 
 recruit		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3254,6 +5895,14 @@ recruit		<-->	verb+B2[-0]	.
 
 
 recruit		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3264,6 +5913,14 @@ recruit		<-->	noun+B2[-0]	.
 
 
 recuse		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3274,6 +5931,14 @@ recuse		<-->	verb+C2[-0]	.
 
 
 redcap		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3284,6 +5949,14 @@ redcap		<-->	noun+C2[-0]	.
 
 
 regulation		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3294,6 +5967,14 @@ regulation		<-->	noun+B2[-0]	.
 
 
 reinforcement		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3304,6 +5985,14 @@ reinforcement		<-->	noun+C2[-0]	.
 
 
 remand		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3314,6 +6003,14 @@ remand		<-->	verb+C2[-0]	.
 
 
 remand		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3324,6 +6021,14 @@ remand		<-->	noun+C2[-0]	.
 
 
 represent		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3334,6 +6039,14 @@ represent		<-->	verb+B1[-0]	.
 
 
 representation		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3344,6 +6057,14 @@ representation		<-->	noun+C1[-0]	.
 
 
 respect		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3354,6 +6075,14 @@ respect		<-->	verb+B1[-0]	.
 
 
 right		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3364,6 +6093,14 @@ right		<-->	noun+B1[-0]	.
 
 
 riot gear		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3374,6 +6111,14 @@ riot gear		<-->	noun+C2[-0]	.
 
 
 riot police		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3384,6 +6129,14 @@ riot police		<-->	noun+C2[-0]	.
 
 
 riot shield		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3394,6 +6147,14 @@ riot shield		<-->	noun+C2[-0]	.
 
 
 roadblock		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3404,6 +6165,14 @@ roadblock		<-->	noun+C2[-0]	.
 
 
 roundsman		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3414,6 +6183,14 @@ roundsman		<-->	noun+C2[-0]	.
 
 
 rowdy sheet		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3424,6 +6201,14 @@ rowdy sheet		<-->	noun+C2[-0]	.
 
 
 rubber bullet		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3434,6 +6219,14 @@ rubber bullet		<-->	noun+C2[-0]	.
 
 
 rule		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3444,6 +6237,14 @@ rule		<-->	verb+C1[-0]	.
 
 
 ruling		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3454,6 +6255,14 @@ ruling		<-->	noun+C1[-0]	.
 
 
 sanction		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3464,6 +6273,14 @@ sanction		<-->	noun+C2[-0]	.
 
 
 sanction		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3474,6 +6291,14 @@ sanction		<-->	verb+C2[-0]	.
 
 
 Scotland Yard		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3484,6 +6309,14 @@ Scotland Yard		<-->	noun+C2[-0]	.
 
 
 search warrant		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3494,6 +6327,14 @@ search warrant		<-->	noun+C2[-0]	.
 
 
 secret police		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3504,6 +6345,14 @@ secret police		<-->	noun+C1[-0]	.
 
 
 security		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3514,6 +6363,14 @@ security		<-->	noun+B1[-0]	.
 
 
 seize		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3524,6 +6381,14 @@ seize		<-->	verb+C1[-0]	.
 
 
 seizure		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3534,6 +6399,14 @@ seizure		<-->	noun+C2[-0]	.
 
 
 sentence		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3544,6 +6417,14 @@ sentence		<-->	noun+B2[-0]	.
 
 
 sentence		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3554,6 +6435,14 @@ sentence		<-->	verb+B2[-0]	.
 
 
 sergeant		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3564,6 +6453,14 @@ sergeant		<-->	noun+C2[-0]	.
 
 
 settlement		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3574,6 +6471,14 @@ settlement		<-->	noun+C2[-0]	.
 
 
 severable		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3584,6 +6489,14 @@ severable		<-->	adjective+C2[-0]	.
 
 
 sheriff		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3594,6 +6507,14 @@ sheriff		<-->	noun+C1[-0]	.
 
 
 shield		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3604,6 +6525,14 @@ shield		<-->	noun+C2[-0]	.
 
 
 siege		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3614,6 +6543,14 @@ siege		<-->	noun+C2[-0]	.
 
 
 sign		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3624,6 +6561,14 @@ sign		<-->	verb+A2[-0]	.
 
 
 signatory		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3634,6 +6579,14 @@ signatory		<-->	noun+C2[-0]	.
 
 
 siren		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3644,6 +6597,14 @@ siren		<-->	noun+C1[-0]	.
 
 
 solicitor		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3654,6 +6615,14 @@ solicitor		<-->	noun+C1[-0]	.
 
 
 Special Branch		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3664,6 +6633,14 @@ Special Branch		<-->	noun+C2[-0]	.
 
 
 special constable		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3674,6 +6651,14 @@ special constable		<-->	noun+C2[-0]	.
 
 
 squad		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3684,6 +6669,14 @@ squad		<-->	noun+C1[-0]	.
 
 
 squad car		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3694,6 +6687,14 @@ squad car		<-->	noun+C2[-0]	.
 
 
 statement		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3704,6 +6705,14 @@ statement		<-->	noun+B1[-0]	.
 
 
 state trooper		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3714,6 +6723,14 @@ state trooper		<-->	noun+C2[-0]	.
 
 
 station		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3724,6 +6741,14 @@ station		<-->	noun+A2[-0]	.
 
 
 station house		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3734,6 +6759,14 @@ station house		<-->	noun+C2[-0]	.
 
 
 statute		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3744,6 +6777,14 @@ statute		<-->	noun+C2[-0]	.
 
 
 statute book		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3754,6 +6795,14 @@ statute book		<-->	noun+C2[-0]	.
 
 
 statute law		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3764,6 +6813,14 @@ statute law		<-->	noun+C2[-0]	.
 
 
 statute of limitations		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3774,6 +6831,14 @@ statute of limitations		<-->	noun+C2[-0]	.
 
 
 statutory		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3784,6 +6849,14 @@ statutory		<-->	adjective+C2[-0]	.
 
 
 the Canadian Charter of Rights and Freedoms		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3794,6 +6867,14 @@ the Canadian Charter of Rights and Freedoms		<-->	noun+C2[-0]	.
 
 
 the magistracy		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3804,6 +6885,14 @@ the magistracy		<-->	noun+C2[-0]	.
 
 
 the Old Bill		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3814,6 +6903,14 @@ the Old Bill		<-->	noun+C2[-0]	.
 
 
 the small print		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3824,6 +6921,14 @@ the small print		<-->	noun+C1[-0]	.
 
 
 stun gun		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3834,6 +6939,14 @@ stun gun		<-->	noun+C2[-0]	.
 
 
 subclause		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3844,6 +6957,14 @@ subclause		<-->	noun+C2[-0]	.
 
 
 subsection		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3854,6 +6975,14 @@ subsection		<-->	noun+C2[-0]	.
 
 
 sue		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3864,6 +6993,14 @@ sue		<-->	verb+C1[-0]	.
 
 
 summons		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3874,6 +7011,14 @@ summons		<-->	noun+C2[-0]	.
 
 
 superintendent		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3884,6 +7029,14 @@ superintendent		<-->	noun+C2[-0]	.
 
 
 SWAT team		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3894,6 +7047,14 @@ SWAT team		<-->	noun+C2[-0]	.
 
 
 takedown		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3904,6 +7065,14 @@ takedown		<-->	noun+C2[-0]	.
 
 
 tear gas		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3914,6 +7083,14 @@ tear gas		<-->	noun+C2[-0]	.
 
 
 testify		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3924,6 +7101,14 @@ testify		<-->	verb+C1[-0]	.
 
 
 testimony		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3934,6 +7119,14 @@ testimony		<-->	noun+C1[-0]	.
 
 
 the boys in blue		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3944,6 +7137,14 @@ the boys in blue		<-->	idiom+C2[-0]	.
 
 
 title		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3954,6 +7155,14 @@ title		<-->	noun+C2[-0]	.
 
 
 tracker dog		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3964,6 +7173,14 @@ tracker dog		<-->	noun+C2[-0]	.
 
 
 traffic warden		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3974,6 +7191,14 @@ traffic warden		<-->	noun+C2[-0]	.
 
 
 trial		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3984,6 +7209,14 @@ trial		<-->	noun+B2[-0]	.
 
 
 truncheon		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3994,6 +7227,14 @@ truncheon		<-->	noun+C2[-0]	.
 
 
 try		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4004,6 +7245,14 @@ try		<-->	verb+B2[-0]	.
 
 
 undercover		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4014,6 +7263,14 @@ undercover		<-->	adjective+C1[-0]	.
 
 
 undercover		<-->	adverb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4024,6 +7281,14 @@ undercover		<-->	adverb+C1[-0]	.
 
 
 uniform		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4034,6 +7299,14 @@ uniform		<-->	noun+A2[-0]	.
 
 
 uphold		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4044,6 +7317,14 @@ uphold		<-->	verb+C1[-0]	.
 
 
 valid		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4054,6 +7335,14 @@ valid		<-->	adjective+B2[-0]	.
 
 
 validate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4064,6 +7353,14 @@ validate		<-->	verb+C2[-0]	.
 
 
 validation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4074,6 +7371,14 @@ validation		<-->	noun+C2[-0]	.
 
 
 validity		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4084,6 +7389,14 @@ validity		<-->	noun+C1[-0]	.
 
 
 verdict		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4094,6 +7407,14 @@ verdict		<-->	noun+C1[-0]	.
 
 
 vest in		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4104,6 +7425,14 @@ vest in		<-->	phrasal verb+C2[-0]	.
 
 
 vice squad		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4114,6 +7443,14 @@ vice squad		<-->	noun+C2[-0]	.
 
 
 victim support		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4124,6 +7461,14 @@ victim support		<-->	noun+C2[-0]	.
 
 
 violate		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4134,6 +7479,14 @@ violate		<-->	verb+C1[-0]	.
 
 
 void		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4144,6 +7497,14 @@ void		<-->	adjective+C2[-0]	.
 
 
 void		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4154,6 +7515,14 @@ void		<-->	verb+C2[-0]	.
 
 
 waive		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4164,6 +7533,14 @@ waive		<-->	verb+C2[-0]	.
 
 
 waiver		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4174,6 +7551,14 @@ waiver		<-->	noun+C2[-0]	.
 
 
 warrant		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4184,6 +7569,14 @@ warrant		<-->	noun+C1[-0]	.
 
 
 water cannon		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4194,6 +7587,14 @@ water cannon		<-->	noun+C2[-0]	.
 
 
 will		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4204,6 +7605,14 @@ will		<-->	noun+B2[-0]	.
 
 
 witness		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4214,6 +7623,14 @@ witness		<-->	noun+B2[-0]	.
 
 
 witness box		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -4224,6 +7641,14 @@ witness box		<-->	noun+C2[-0]	.
 
 
 writ		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 

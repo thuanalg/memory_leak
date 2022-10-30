@@ -7,7 +7,7 @@ abort		<-->	verb+C2	[220808][1]	./əˈbɔːt/-NAmE /əˈbɔːrt/
 
 
 
-abortion		<-->	noun+C1[-0]	./əˈbɔːʃn/-NAmE /əˈbɔːrʃn/
+abortion		<-->	noun+C1	[221029][1]	./əˈbɔːʃn/-NAmE /əˈbɔːrʃn/
 	;phá thai -- [uncountable] the deliberate ending of a pregnancy at an early stage
 		;the country's strict abortion laws
 
@@ -16,14 +16,34 @@ abortion		<-->	noun+C1[-0]	./əˈbɔːʃn/-NAmE /əˈbɔːrʃn/
 
 
 
-accident and emergency		<-->	noun+B2[-0]	.
+accident and emergency		<-->	noun+B2	[221029][1]	./ˌæksɪdənt ən ɪˈmɜːdʒənsi/
+ /ˌæksɪdənt ən ɪˈmɜːrdʒənsi/
+	;[uncountable] (abbreviation A & E) (British English) (North American English emergency room [countable])
+	;bộ phận cấp cứu -- (1) the part of a hospital where people who need immediate treatment are taken
+		;The teenager was rushed to accident and emergency.
+		;the hospital accident and emergency department
+		;SEE ALSO casualty
+		;Extra Examples:
+		;one of the busiest accident and emergency departments in Scotland
+		;the closure of the hospital's accident and emergency department
+		;TOPICS HealthcareB2
+				;Oxford Collocations Dictionary
+				;Accident and emergency is used before these nouns:
+				;admissiondepartmentunit…
+		;See full entry
 
 
 
 
 
 
-acetaminophen		<-->	noun+C2[-0]	./əˌsiːtəˈmɪnəfen/-NAmE /əˌsiːtəˈmɪnəfen/
+
+
+
+
+
+
+acetaminophen		<-->	noun+C2	[221029][1]	./əˌsiːtəˈmɪnəfen/-NAmE /əˌsiːtəˈmɪnəfen/
 	;thuốc giảm đau, hạ sốt -- [uncountable, countable] a drug used to reduce pain and high temperature
 
 
@@ -31,7 +51,7 @@ acetaminophen		<-->	noun+C2[-0]	./əˌsiːtəˈmɪnəfen/-NAmE /əˌsiːtəˈmɪ
 
 
 
-acupressure		<-->	noun+C2[-0]	./ˈækjupreʃə(r)/-NAmE /ˈækjupreʃər/
+acupressure		<-->	noun+C2	[221029][1]	./ˈækjupreʃə(r)/-NAmE /ˈækjupreʃər/
 	;bấm huyệt -- [uncountable] a form of medical treatment, originally from East Asia, in which pressure is applied to particular parts of the body using the fingers
 
 
@@ -39,7 +59,7 @@ acupressure		<-->	noun+C2[-0]	./ˈækjupreʃə(r)/-NAmE /ˈækjupreʃər/
 
 
 
-acupuncture		<-->	noun+B2[-0]	./ˈækjupʌŋktʃə(r)/-NAmE /ˈækjupʌŋktʃər/
+acupuncture		<-->	noun+B2	[221029][1]	./ˈækjupʌŋktʃə(r)/-NAmE /ˈækjupʌŋktʃər/
 	;châm cứu -- [uncountable] a method of treating pain and illness using special thin needles that are pushed into the skin in particular parts of the body
 		;I'm having acupuncture for a bad back.
 
@@ -48,7 +68,7 @@ acupuncture		<-->	noun+B2[-0]	./ˈækjupʌŋktʃə(r)/-NAmE /ˈækjupʌŋktʃər
 
 
 
-acupuncturist		<-->	noun+C2[-0]	./ˈækjupʌŋktʃərɪst/-NAmE /ˈækjupʌŋktʃərɪst/
+acupuncturist		<-->	noun+C2	[221029][1]	./ˈækjupʌŋktʃərɪst/-NAmE /ˈækjupʌŋktʃərɪst/
 	;người châm cứu -- a person who is trained to perform acupuncture
 
 
@@ -56,8 +76,8 @@ acupuncturist		<-->	noun+C2[-0]	./ˈækjupʌŋktʃərɪst/-NAmE /ˈækjupʌŋkt�
 
 
 
-administer		<-->	verb+C1[-0]	./ədˈmɪnɪstə(r)/-NAmE /ədˈmɪnɪstər/
-	;giao thuốc -- (formal) to give drugs, medicine, etc. to somebody
+administer		<-->	verb+C1	[221029][1]	./ədˈmɪnɪstə(r)/-NAmE /ədˈmɪnɪstər/
+	;tiêm thuốc -- (formal) to give drugs, medicine, etc. to somebody
 		;administer something to somebody: The dose was administered to the child intravenously(tĩnh mạch).
 
 
@@ -65,8 +85,8 @@ administer		<-->	verb+C1[-0]	./ədˈmɪnɪstə(r)/-NAmE /ədˈmɪnɪstər/
 
 
 
-administration		<-->	noun+B2[-0]	./ədˌmɪnɪˈstreɪʃn/-NAmE /ədˌmɪnɪˈstreɪʃn/
-	;việc giao thuốc -- [uncountable] (formal) the act of giving a drug to somebody
+administration		<-->	noun+B2	[221029][1]	./ədˌmɪnɪˈstreɪʃn/-NAmE /ədˌmɪnɪˈstreɪʃn/
+	;h.d tiêm thuốc -- [uncountable] (formal) the act of giving a drug to somebody
 		;the administration of antibiotics
 
 
@@ -74,7 +94,7 @@ administration		<-->	noun+B2[-0]	./ədˌmɪnɪˈstreɪʃn/-NAmE /ədˌmɪnɪˈst
 
 
 
-admission		<-->	noun+C1[-0]	./ədˈmɪʃn/-NAmE /ədˈmɪʃn/
+admission		<-->	noun+C1	[221029][1]	./ədˈmɪʃn/-NAmE /ədˈmɪʃn/
 	;sự chấp thuận, quyền vào một nơi nào đó -- [uncountable, countable] the act of accepting somebody into an institution, organization, etc.; the right to enter a place or to join an institution or organization
 		;Hospital admission is not necessary in most cases.
 		;the university admissions policy/office
@@ -86,7 +106,7 @@ admission		<-->	noun+C1[-0]	./ədˈmɪʃn/-NAmE /ədˈmɪʃn/
 
 
 
-admit		<-->	verb+C1[-0]	./ədˈmɪt/-NAmE /ədˈmɪt/-\/m\
+admit		<-->	verb+C1	[221029][1]	./ədˈmɪt/-NAmE /ədˈmɪt/-\/m\
 	;nhập viện -- [transitive, often passive] (formal) to take somebody to a hospital or other institution where they can receive special care
 		; be admitted to something: Two crash victims were admitted to the local hospital.
 
@@ -95,7 +115,7 @@ admit		<-->	verb+C1[-0]	./ədˈmɪt/-NAmE /ədˈmɪt/-\/m\
 
 
 
-aftercare		<-->	noun+C2[-0]	./ˈɑːftəkeə(r)/-NAmE /ˈæftərker/	
+aftercare		<-->	noun+C2	[221029][1]	./ˈɑːftəkeə(r)/-NAmE /ˈæftərker/	
 	;hậu quan sát, chăm sóc -- care or treatment given to a person who has just left hospital, prison, etc.
 		;aftercare services
 
@@ -104,7 +124,7 @@ aftercare		<-->	noun+C2[-0]	./ˈɑːftəkeə(r)/-NAmE /ˈæftərker/
 
 
 
-aggressive		<-->	adjective+C2[-0]	./əˈɡresɪv/-NAmE /əˈɡresɪv/
+aggressive		<-->	adjective+C2	[221029][1]	./əˈɡresɪv/-NAmE /əˈɡresɪv/
 	;dùng mọi cách chữa trị -- (of medical treatment) using all possible treatment options in order to extend somebody’s life
 		;Nicholas was diagnosed with the rare disease in November and has undergone aggressive treatments since then.
 
@@ -113,7 +133,7 @@ aggressive		<-->	adjective+C2[-0]	./əˈɡresɪv/-NAmE /əˈɡresɪv/
 
 
 
-Alexander technique		<-->	noun+C2[-0]	./ˌælɪɡˈzɑːndə tekniːk/,  /ˌælɪɡˈzændə tekniːk/-NAmE /ˌælɪɡˈzændər tekniːk/+\
+Alexander technique		<-->	noun+C2	[221029][1]	./ˌælɪɡˈzɑːndə tekniːk/,  /ˌælɪɡˈzændə tekniːk/-NAmE /ˌælɪɡˈzændər tekniːk/+\
 	;một liệu trình vật lý trị liệu -- [singular, uncountable] a method of improving somebody’s health by teaching them how to stand, sit and move correctly
 
 
@@ -121,7 +141,7 @@ Alexander technique		<-->	noun+C2[-0]	./ˌælɪɡˈzɑːndə tekniːk/,  /ˌæl�
 
 
 
-alternative medicine		<-->	noun+B2[-0]	./ɔːlˌtɜːnətɪv ˈmedsn/,  /ɔːlˌtɜːnətɪv ˈmedɪsn/-NAmE /ɔːlˌtɜːrnətɪv ˈmedɪsn/+\
+alternative medicine		<-->	noun+B2	[221029][1]	./ɔːlˌtɜːnətɪv ˈmedsn/,  /ɔːlˌtɜːnətɪv ˈmedɪsn/-NAmE /ɔːlˌtɜːrnətɪv ˈmedɪsn/+\
 	;liệu pháp điều trị phi tây y, dùng thảo mộc -- [countable, uncountable] any type of treatment that does not use the usual scientific methods of Western medicine, for example one using plants instead of artificial drugs
 
 
@@ -129,7 +149,7 @@ alternative medicine		<-->	noun+B2[-0]	./ɔːlˌtɜːnətɪv ˈmedsn/,  /ɔːlˌ
 
 
 
-ambulance		<-->	noun+B2[-0]	./ˈæmbjələns/-NAmE /ˈæmbjələns/
+ambulance		<-->	noun+B2	[221029][1]	./ˈæmbjələns/-NAmE /ˈæmbjələns/
 	;​xe cấp cứu -- a vehicle with special equipment, used for taking sick or injured people to a hospital
 		;The ambulance crew rushed her to the hospital.
 
@@ -147,7 +167,7 @@ amputate		<-->	verb+C2	[220808][1]	./ˈæmpjuteɪt/-NAmE /ˈæmpjuteɪt/
 
 
 
-amputation		<-->	noun+C2[-0]	./ˌæmpjuˈteɪʃn/-NAmE /ˌæmpjuˈteɪʃn/
+amputation		<-->	noun+C2	[221029][1]	./ˌæmpjuˈteɪʃn/-NAmE /ˌæmpjuˈteɪʃn/
 	;sự cưa chi -- [uncountable, countable] the act of cutting off somebody's arm, leg, finger or toe in a medical operation
 		;A boyhood accident led to the amputation of one of his legs.
 
@@ -156,7 +176,7 @@ amputation		<-->	noun+C2[-0]	./ˌæmpjuˈteɪʃn/-NAmE /ˌæmpjuˈteɪʃn/
 
 
 
-anaesthesia		<-->	noun+C2[-0]	./ˌænəsˈθiːziə/-NAmE /ˌænəsˈθiːʒə/
+anaesthesia		<-->	noun+C2	[221029][1]	./ˌænəsˈθiːziə/-NAmE /ˌænəsˈθiːʒə/
 	;sự gây tê -- [uncountable] ​the use of anaesthetics during medical operations
 
 
@@ -164,7 +184,7 @@ anaesthesia		<-->	noun+C2[-0]	./ˌænəsˈθiːziə/-NAmE /ˌænəsˈθiːʒə/
 
 
 
-anaesthetic		<-->	noun+C1[-0]	./ˌænəsˈθetɪk/-NAmE /ˌænəsˈθetɪk/
+anaesthetic		<-->	noun+C1	[221029][1]	./ˌænəsˈθetɪk/-NAmE /ˌænəsˈθetɪk/
 	;thuốc tê -- [uncountable, countable] a drug that makes a person or an animal unable to feel anything, especially pain, either in the whole body or in a part of the body
 		; under anaesthetic: How long will I be under anaesthetic?
 
@@ -173,7 +193,7 @@ anaesthetic		<-->	noun+C1[-0]	./ˌænəsˈθetɪk/-NAmE /ˌænəsˈθetɪk/
 
 
 
-anaesthetic		<-->	adjective+C1[-0]	./ˌænəsˈθetɪk/-NAmE /ˌænəsˈθetɪk/
+anaesthetic		<-->	adjective+C1	[221029][1]	./ˌænəsˈθetɪk/-NAmE /ˌænəsˈθetɪk/
 	;(thuộc) gây tê -- [only before noun] ​containing a substance that makes a person or an animal unable to feel pain in all or part of the body
 		;an anaesthetic drug/spray
 
@@ -182,7 +202,7 @@ anaesthetic		<-->	adjective+C1[-0]	./ˌænəsˈθetɪk/-NAmE /ˌænəsˈθetɪk/
 
 
 
-anaesthetist		<-->	noun+C2[-0]	./əˈniːsθətɪst/-NAmE /əˈnesθətɪst/
+anaesthetist		<-->	noun+C2	[221029][1]	./əˈniːsθətɪst/-NAmE /əˈnesθətɪst/
 	;(US English anesthetist)
 	;chuyên gia gây mê -- a person who is trained to give anaesthetics to patients
 
@@ -200,7 +220,7 @@ anaesthetize		<-->	verb+C2	[220808][1]	./əˈniːsθətaɪz/-NAmE /əˈnesθəta
 
 
 
-anaesthesia		<-->	noun+C2[-0]	./ˌænəsˈθiːziə/-NAmE /ˌænəsˈθiːʒə/
+anaesthesia		<-->	noun+C2	[221029][1]	./ˌænəsˈθiːziə/-NAmE /ˌænəsˈθiːʒə/
 	;gây tê -- [uncountable] ​the use of anaesthetics during medical operations
 		; under anaesthesia: surgery carried out under anaesthesia
 
@@ -209,7 +229,7 @@ anaesthesia		<-->	noun+C2[-0]	./ˌænəsˈθiːziə/-NAmE /ˌænəsˈθiːʒə/
 
 
 
-antibiotic		<-->	noun+B2[-0]	./ˌæntibaɪˈɒtɪk/-NAmE /ˌæntibaɪˈɑːtɪk/,  /ˌæntaɪbaɪˈɑːtɪk/
+antibiotic		<-->	noun+B2	[221029][1]	./ˌæntibaɪˈɒtɪk/-NAmE /ˌæntibaɪˈɑːtɪk/,  /ˌæntaɪbaɪˈɑːtɪk/
 	;kháng sinh -- [usually plural] a substance, for example penicillin, that can destroy or prevent the growth of bacteria and cure infections
 		;The doctor put her on antibiotics (= told her to take them).
 
@@ -218,7 +238,7 @@ antibiotic		<-->	noun+B2[-0]	./ˌæntibaɪˈɒtɪk/-NAmE /ˌæntibaɪˈɑːtɪk/
 
 
 
-antidote		<-->	noun+C2[-0]	./ˈæntidəʊt/-NAmE /ˈæntidəʊt/
+antidote		<-->	noun+C2	[221029][1]	./ˈæntidəʊt/-NAmE /ˈæntidəʊt/
 	;thuốc giải độc -- ​antidote (to something): a substance that controls the effects of a poison or disease
 
 
@@ -226,7 +246,7 @@ antidote		<-->	noun+C2[-0]	./ˈæntidəʊt/-NAmE /ˈæntidəʊt/
 
 
 
-antihistamine		<-->	noun+C2[-0]	./ˌæntiˈhɪstəmiːn/-NAmE /ˌæntiˈhɪstəmiːn/
+antihistamine		<-->	noun+C2	[221029][1]	./ˌæntiˈhɪstəmiːn/-NAmE /ˌæntiˈhɪstəmiːn/
 	;thuốc chống dị ứng -- [countable, uncountable] a drug used to treat allergies, especially hay fever
 		;antihistamine cream/injections/shots
 
@@ -235,7 +255,7 @@ antihistamine		<-->	noun+C2[-0]	./ˌæntiˈhɪstəmiːn/-NAmE /ˌæntiˈhɪstəm
 
 
 
-antiseptic		<-->	noun+C1[-0]	./ˌæntiˈseptɪk/-NAmE /ˌæntiˈseptɪk/
+antiseptic		<-->	noun+C1	[221029][1]	./ˌæntiˈseptɪk/-NAmE /ˌæntiˈseptɪk/
 	;thuốc kháng khuẩn -- a substance that helps to prevent infection in wounds by killing bacteria ~ SYNONYM disinfectant
 		;Use antiseptic to clean and dress cuts.
 
@@ -244,7 +264,7 @@ antiseptic		<-->	noun+C1[-0]	./ˌæntiˈseptɪk/-NAmE /ˌæntiˈseptɪk/
 
 
 
-anti-vaccine		<-->	adjective+C1[-0]	./ˌænti ˈvæksiːn/-NAmE /ˌænti vækˈsiːn/,  /ˌæntaɪ vækˈsiːn/
+anti-vaccine		<-->	adjective+C1	[221029][1]	./ˌænti ˈvæksiːn/-NAmE /ˌænti vækˈsiːn/,  /ˌæntaɪ vækˈsiːn/
 	;chống vaccine -- opposed to vaccination
 		;Anti-vaccine activists have been accused of spreading misinformation about the Covid vaccine.
 
@@ -253,7 +273,7 @@ anti-vaccine		<-->	adjective+C1[-0]	./ˌænti ˈvæksiːn/-NAmE /ˌænti vækˈs
 
 
 
-antiviral		<-->	adjective+C2[-0]	./ˌæntiˈvaɪrəl/-NAmE /ˌæntiˈvaɪrəl/,  /ˌæntaɪˈvaɪrəl/
+antiviral		<-->	adjective+C2	[221029][1]	./ˌæntiˈvaɪrəl/-NAmE /ˌæntiˈvaɪrəl/,  /ˌæntaɪˈvaɪrəl/
 	;(thuốc) chống virus -- (of a drug) used to treat diseases caused by a virus
 
 
@@ -261,7 +281,7 @@ antiviral		<-->	adjective+C2[-0]	./ˌæntiˈvaɪrəl/-NAmE /ˌæntiˈvaɪrəl/, 
 
 
 
-antiviral		<-->	noun+C2[-0]	./ˌæntiˈvaɪrəl/-NAmE /ˌæntiˈvaɪrəl/,  /ˌæntaɪˈvaɪrəl/\
+antiviral		<-->	noun+C2	[221029][1]	./ˌæntiˈvaɪrəl/-NAmE /ˌæntiˈvaɪrəl/,  /ˌæntaɪˈvaɪrəl/\
 	;thuốc kháng virus -- a drug used to treat diseases caused by a virus
 		;It is vital to ensure adequate supplies of effective vaccines and antivirals.
 
@@ -270,7 +290,7 @@ antiviral		<-->	noun+C2[-0]	./ˌæntiˈvaɪrəl/-NAmE /ˌæntiˈvaɪrəl/,  /ˌ�
 
 
 
-appointment		<-->	noun+B1[-0]	./əˈpɔɪntmənt/-NAmE /əˈpɔɪntmənt/
+appointment		<-->	noun+B1	[221029][1]	./əˈpɔɪntmənt/-NAmE /əˈpɔɪntmənt/
 	;sự hẹn trước -- [countable] a formal arrangement to meet or visit somebody at a particular time, especially for a reason connected with their work
 		;to book/make/keep an appointment
 
@@ -279,7 +299,7 @@ appointment		<-->	noun+B1[-0]	./əˈpɔɪntmənt/-NAmE /əˈpɔɪntmənt/
 
 
 
-arthroscopic surgery		<-->	noun+C2[-0]	./ˌɑːθrəˌskɒpɪk ˈsɜːdʒəri/-NAmE /ˌɑːrθrəˌskɑːpɪk ˈsɜːrdʒəri/+\
+arthroscopic surgery		<-->	noun+C2	[221029][1]	./ˌɑːθrəˌskɒpɪk ˈsɜːdʒəri/-NAmE /ˌɑːrθrəˌskɑːpɪk ˈsɜːrdʒəri/+\
 	;kỹ thuật mổ nội soi -- medical operations that involve only a very small cut being made in the patient’s body
 
 
@@ -287,7 +307,7 @@ arthroscopic surgery		<-->	noun+C2[-0]	./ˌɑːθrəˌskɒpɪk ˈsɜːdʒəri/-N
 
 
 
-aseptic		<-->	adjective+C2[-0]	./ˌeɪˈseptɪk/-NAmE /ˌeɪˈseptɪk/
+aseptic		<-->	adjective+C2	[221029][1]	./ˌeɪˈseptɪk/-NAmE /ˌeɪˈseptɪk/
 	;vô trùng -- free from harmful bacteria ~ OPPOSITE septic
 
 
@@ -295,7 +315,7 @@ aseptic		<-->	adjective+C2[-0]	./ˌeɪˈseptɪk/-NAmE /ˌeɪˈseptɪk/
 
 
 
-aspirin		<-->	noun+B2[-0]	./ˈæsprɪn/,  /ˈæspərɪn/-NAmE /ˈæsprɪn/,  /ˈæspərɪn/
+aspirin		<-->	noun+B2	[221029][1]	./ˈæsprɪn/,  /ˈæspərɪn/-NAmE /ˈæsprɪn/,  /ˈæspərɪn/
 	;thuốc giảm đau aspririn -- a drug used to reduce pain, high temperature and inflammation
 		;Do you have any aspirin?
 
@@ -304,7 +324,7 @@ aspirin		<-->	noun+B2[-0]	./ˈæsprɪn/,  /ˈæspərɪn/-NAmE /ˈæsprɪn/,  /ˈ
 
 
 
-attendant		<-->	noun+B2[-0]	./əˈtendənt/-NAmE /əˈtendənt/
+attendant		<-->	noun+B2	[221029][1]	./əˈtendənt/-NAmE /əˈtendənt/
 	;người chăm sóc y tế đi kèm -- a person who takes care of and lives or travels with a person who has an important job, or who has a medical condition or disability
 
 
@@ -312,7 +332,7 @@ attendant		<-->	noun+B2[-0]	./əˈtendənt/-NAmE /əˈtendənt/
 
 
 
-Ayurvedic medicine		<-->	noun+C2[-0]	./ˌaɪəˌveɪdɪk ˈmedsn/,  /ˌaɪəˌveɪdɪk ˈmedɪsn/-NAmE /ˌaɪərˌveɪdɪk ˈmedɪsn/
+Ayurvedic medicine		<-->	noun+C2	[221029][1]	./ˌaɪəˌveɪdɪk ˈmedsn/,  /ˌaɪəˌveɪdɪk ˈmedɪsn/-NAmE /ˌaɪərˌveɪdɪk ˈmedɪsn/
 	;một thuốc từ Ấn Độ truyền thống -- a type of traditional Hindu medicine that treats illnesses using a combination of foods, herbs and breathing exercises
 
 
@@ -320,7 +340,7 @@ Ayurvedic medicine		<-->	noun+C2[-0]	./ˌaɪəˌveɪdɪk ˈmedsn/,  /ˌaɪəˌve
 
 
 
-bandage		<-->	noun+B2[-0]	./ˈbændɪdʒ/-NAmE /ˈbændɪdʒ/
+bandage		<-->	noun+B2	[221029][1]	./ˈbændɪdʒ/-NAmE /ˈbændɪdʒ/
 	;băng ca, băng kẹp -- a long narrow piece of cloth used for tying around a part of the body that has been hurt in order to protect or support it
 		;She had a bandage on her arm.
 
@@ -329,8 +349,8 @@ bandage		<-->	noun+B2[-0]	./ˈbændɪdʒ/-NAmE /ˈbændɪdʒ/
 
 
 
-bandage		<-->	verb+B2[-0]	./ˈbændɪdʒ/-NAmE /ˈbændɪdʒ/
-	;băng bó -- bandage something/somebody (up): to wrap a bandage around a part of the body in order to protect it because it is injured
+bandage		<-->	verb+B2	[221029][1][x]	./ˈbændɪdʒ/-NAmE /ˈbændɪdʒ/
+	;băng bó, kẹp xương -- bandage something/somebody (up): to wrap a bandage around a part of the body in order to protect it because it is injured
 		;Don't bandage the wound too tightly.
 
 
@@ -338,7 +358,7 @@ bandage		<-->	verb+B2[-0]	./ˈbændɪdʒ/-NAmE /ˈbændɪdʒ/
 
 
 
-Band-Aid™		<-->	noun+C2[-0]	./ˈbænd eɪd/-NAmE /ˈbænd eɪd/
+Band-Aid™		<-->	noun+C2	[221029][1]	./ˈbænd eɪd/-NAmE /ˈbænd eɪd/
 	;băng cá nhân -- (British English also plaster, sticking plaster) [countable, uncountable] material that can be stuck to the skin to protect a small wound or cut; a piece of this
 
 
@@ -346,7 +366,7 @@ Band-Aid™		<-->	noun+C2[-0]	./ˈbænd eɪd/-NAmE /ˈbænd eɪd/
 
 
 
-barbiturate		<-->	noun+C2[-0]	./bɑːˈbɪtʃərət/-NAmE /bɑːrˈbɪtʃərət/
+barbiturate		<-->	noun+C2	[221029][1]	./bɑːˈbɪtʃərət/-NAmE /bɑːrˈbɪtʃərət/
 	;loại thuốc ab thần mạnh -- a powerful drug that makes you feel calm and relaxed or puts you to sleep. There are several types of barbiturate.
 		;He died from an overdose of barbiturates.
 
@@ -355,7 +375,7 @@ barbiturate		<-->	noun+C2[-0]	./bɑːˈbɪtʃərət/-NAmE /bɑːrˈbɪtʃərət/
 
 
 
-barium meal		<-->	noun+C2[-0]	./ˌbeəriəm ˈmiːl/-NAmE /ˌberiəm ˈmiːl/
+barium meal		<-->	noun+C2	[221029][1]	./ˌbeəriəm ˈmiːl/-NAmE /ˌberiəm ˈmiːl/
 	;chất bari dùng để nuốt -- a substance containing barium that a doctor gives somebody to swallow before an X-ray because it makes organs in the body easier to see
 
 
@@ -363,7 +383,7 @@ barium meal		<-->	noun+C2[-0]	./ˌbeəriəm ˈmiːl/-NAmE /ˌberiəm ˈmiːl/
 
 
 
-bathe		<-->	verb+C1[-0]	./beɪð/-NAmE /beɪð/
+bathe		<-->	verb+C1	[221029][1]	./beɪð/-NAmE /beɪð/
 	;rửa vết thương bằng nước -- ​[transitive] bathe something to wash something with water, especially a part of your body
 		;Bathe the wound and apply a clean dressing.
 
@@ -372,7 +392,7 @@ bathe		<-->	verb+C1[-0]	./beɪð/-NAmE /beɪð/
 
 
 
-bedpan		<-->	noun+C2[-0]	./ˈbedpæn/-NAmE /ˈbedpæn/
+bedpan		<-->	noun+C2	[221029][1]	./ˈbedpæn/-NAmE /ˈbedpæn/
 	;giường bệnh có toa-lét tại chỗ -- a container used as a toilet by a person who is too ill to get out of bed
 
 
@@ -380,7 +400,7 @@ bedpan		<-->	noun+C2[-0]	./ˈbedpæn/-NAmE /ˈbedpæn/
 
 
 
-bed rest		<-->	noun+B2[-0]	./ˈbed rest/-NAmE /ˈbed rest/+\
+bed rest		<-->	noun+B2	[221029][1]	./ˈbed rest/-NAmE /ˈbed rest/+\
 	;giường bệnh -- time spent resting in bed as a way to recover from an illness or injury
 		;She was put on bed rest by her doctor.
 
@@ -389,7 +409,7 @@ bed rest		<-->	noun+B2[-0]	./ˈbed rest/-NAmE /ˈbed rest/+\
 
 
 
-bedside manner		<-->	noun+C2[-0]	./ˌbedsaɪd ˈmænə(r)/-NAmE /ˌbedsaɪd ˈmænər/+\
+bedside manner		<-->	noun+C2	[221029][1]	./ˌbedsaɪd ˈmænə(r)/-NAmE /ˌbedsaɪd ˈmænər/+\
 	;cách báo bệnh -- the way in which a doctor or other person talks to somebody who is ill
 		;a sympathetic bedside manner
 
@@ -398,7 +418,7 @@ bedside manner		<-->	noun+C2[-0]	./ˌbedsaɪd ˈmænə(r)/-NAmE /ˌbedsaɪd ˈm�
 
 
 
-biopsy		<-->	noun+C2[-0]	./ˈbaɪɒpsi/-NAmE /ˈbaɪɑːpsi/
+biopsy		<-->	noun+C2	[221029][1]	./ˈbaɪɒpsi/-NAmE /ˈbaɪɑːpsi/
 	;(plural biopsies)
 	;phân tích mô -- the process of removing and examining tissue from the body of somebody who is ill, in order to find out more about their disease
 
@@ -407,7 +427,7 @@ biopsy		<-->	noun+C2[-0]	./ˈbaɪɒpsi/-NAmE /ˈbaɪɑːpsi/
 
 
 
-blood group		<-->	noun+C1[-0]	./ˈblʌd ɡruːp/-NAmE /ˈblʌd ɡruːp/
+blood group		<-->	noun+C1	[221029][1]	./ˈblʌd ɡruːp/-NAmE /ˈblʌd ɡruːp/
 	; -- (also blood type especially in North American English) any of the different types that human blood is separated into for medical purposes
 		;(British English) What blood group are you?
 
@@ -416,21 +436,37 @@ blood group		<-->	noun+C1[-0]	./ˈblʌd ɡruːp/-NAmE /ˈblʌd ɡruːp/
 
 
 
-blood test		<-->	noun+B1[-0]	.
+blood test		<-->	noun+B1	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
 
 
 
-blood type		<-->	noun+C1[-0]	.
+
+
+
+
+
+blood type		<-->	noun+C1	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
 
 
 
-booster		<-->	noun+C2[-0]	./ˈbuːstə(r)/-NAmE /ˈbuːstər/
+
+
+
+
+
+booster		<-->	noun+C2	[221029][1]	./ˈbuːstə(r)/-NAmE /ˈbuːstər/
 	;vaccine mà tiêm vào cơ thể -- an extra small amount of a vaccine that is given to increase the effect of one given earlier, for example to protect you from a disease for longer
 		;a tetanus(uốn ván) booster
 
@@ -439,7 +475,7 @@ booster		<-->	noun+C2[-0]	./ˈbuːstə(r)/-NAmE /ˈbuːstər/
 
 
 
-brace		<-->	noun+C1[-0]	./breɪs/-NAmE /breɪs/\
+brace		<-->	noun+C1	[221029][1]	./breɪs/-NAmE /breɪs/\
 	;cái nẹp -- ​[countable] a device that holds things together or holds and supports them in position
 		;a neck brace (= worn to support the neck after an injury)
 
@@ -448,7 +484,7 @@ brace		<-->	noun+C1[-0]	./breɪs/-NAmE /breɪs/\
 
 
 
-bypass		<-->	noun+C2[-0]	./ˈbaɪpɑːs/-NAmE /ˈbaɪpæs/
+bypass		<-->	noun+C2	[221029][1]	./ˈbaɪpɑːs/-NAmE /ˈbaɪpæs/
 	;sự bỏ qua, vượt qua -- ​a medical operation in which blood is directed along a different route so that it does not flow through a part that is damaged or blocked, especially to improve blood flow to the heart; the new route that the blood takes
 		;a triple bypass operation
 		;heart bypass surgery
@@ -458,7 +494,7 @@ bypass		<-->	noun+C2[-0]	./ˈbaɪpɑːs/-NAmE /ˈbaɪpæs/
 
 
 
-caesarean		<-->	noun+C2[-0]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
+caesarean		<-->	noun+C2	[221029][1]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
 	;phương pháp sin mổ -- [countable, uncountable], ~(US English "cesarean") , [countable, uncountable] a caesarean section (= a medical operation in which an opening is cut in a woman’s body in order to take out a baby)
 		;She had to have a caesarean.
 
@@ -467,7 +503,7 @@ caesarean		<-->	noun+C2[-0]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
 
 
 
-caesarean		<-->	adjective+C2[-0]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
+caesarean		<-->	adjective+C2	[221029][1]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
 	;sinh mổ -- by or connected with a caesarean section (= a medical operation in which an opening is cut in a woman’s body in order to take out a baby)
 		;a caesarean birth/delivery
 
@@ -476,7 +512,7 @@ caesarean		<-->	adjective+C2[-0]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
 
 
 
-cannula		<-->	noun+C2[-0]	./ˈkænjələ/-NAmE /ˈkænjələ/	
+cannula		<-->	noun+C2	[221029][1]	./ˈkænjələ/-NAmE /ˈkænjələ/	
 	;(plural cannulae  /ˈkænjəliː/  /ˈkænjəliː/, cannulas)
 	;ống tiêm -- a thin tube that is put into a vein or other part of the body, for example to give somebody medicine
 		;A cannula was then inserted into the vein.
@@ -486,7 +522,7 @@ cannula		<-->	noun+C2[-0]	./ˈkænjələ/-NAmE /ˈkænjələ/
 
 
 
-Caplet™		<-->	noun+C2[-0]	./ˈkæplət/-NAmE /ˈkæplət/
+Caplet™		<-->	noun+C2	[221029][1]	./ˈkæplət/-NAmE /ˈkæplət/
 	;viên thuốc -- ​a long narrow tablet of medicine, with round ends, that you swallow(nuốt)
 
 
@@ -494,7 +530,7 @@ Caplet™		<-->	noun+C2[-0]	./ˈkæplət/-NAmE /ˈkæplət/
 
 
 
-capsule		<-->	noun+C1[-0]	./ˈkæpsjuːl/-NAmE /ˈkæpsl/,  /ˈkæpsuːl/
+capsule		<-->	noun+C1	[221029][1]	./ˈkæpsjuːl/-NAmE /ˈkæpsl/,  /ˈkæpsuːl/
 	;dạng viên nang -- a small container that has a measured amount of a medicine inside and that dissolves(tan, hoà tan) (= becomes part of a liquid) when you swallow it (= make it go down your throat into your stomach)
 		;The medicine can be taken in tablet or capsule form.
 
@@ -503,21 +539,41 @@ capsule		<-->	noun+C1[-0]	./ˈkæpsjuːl/-NAmE /ˈkæpsl/,  /ˈkæpsuːl/
 
 
 
-care		<-->	noun+A2[-0]	.
+care		<-->	noun+A2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
 
 
 
-care for		<-->	phrasal verb+B1[-0]	.
+
+
+
+
+
+care for		<-->	phrasal verb+B1	[221029][1][x]	./p/
+	;chăm sóc -- (1) [-care for somebody] to look after somebody who is sick, very old, very young, etc.
+		;SYNONYM take care of
+		;She moved back home to care for her elderly parents.
+		;NOTE AT care
+		;SEE ALSO uncared for
+		;TOPICS HealthcareB1
 
 
 
 
 
 
-caregiver		<-->	noun+C1[-0]	./ˈkeəɡɪvə(r)/-NAmE /ˈkerɡɪvər/
+
+
+
+
+
+
+caregiver		<-->	noun+C1	[221029][1]	./ˈkeəɡɪvə(r)/-NAmE /ˈkerɡɪvər/
 	;(British English carer)
 	;người săn sóc người già, người bệnh -- a person who takes care of a sick or old person at home
 
@@ -526,14 +582,14 @@ caregiver		<-->	noun+C1[-0]	./ˈkeəɡɪvə(r)/-NAmE /ˈkerɡɪvər/
 
 
 
-carer		<-->	noun+B2[-0]	./ˈkeərə(r)/-NAmE /ˈkerər/
+carer		<-->	noun+B2	[221029][1]	./ˈkeərə(r)/-NAmE /ˈkerər/
 
 
 
 
 
 
-cast		<-->	noun+B2[-0]	./kɑːst/-NAmE /kæst/
+cast		<-->	noun+B2	[221029][1]	./kɑːst/-NAmE /kæst/
 	;sự bó bột -- [countable] a case made of plaster of Paris that covers a broken bone and protects it
 		; in a cast: Her leg's in a cast.
 
@@ -542,7 +598,7 @@ cast		<-->	noun+B2[-0]	./kɑːst/-NAmE /kæst/
 
 
 
-casualty		<-->	noun+C1[-0]	./ˈkæʒuəlti/-NAmE /ˈkæʒuəlti/
+casualty		<-->	noun+C1	[221029][1]	./ˈkæʒuəlti/-NAmE /ˈkæʒuəlti/
 	;phòng cấp cứu -- [uncountable] the part of a hospital where people who need immediate treatment are taken
 		;The victims were rushed to casualty.
 
@@ -551,7 +607,7 @@ casualty		<-->	noun+C1[-0]	./ˈkæʒuəlti/-NAmE /ˈkæʒuəlti/
 
 
 
-catheter		<-->	noun+C2[-0]	./ˈkæθətə(r)/-NAmE /ˈkæθətər/
+catheter		<-->	noun+C2	[221029][1]	./ˈkæθətə(r)/-NAmE /ˈkæθətər/ [voa]
 	;ống tiểu -- a thin tube that is put into the body in order to remove liquid such as urine
 
 
@@ -559,7 +615,7 @@ catheter		<-->	noun+C2[-0]	./ˈkæθətə(r)/-NAmE /ˈkæθətər/
 
 
 
-CAT scan		<-->	noun+C2[-0]	./ˈkæt skæn/-NAmE /ˈkæt skæn/
+CAT scan		<-->	noun+C2	[221029][1]	./ˈkæt skæn/-NAmE /ˈkæt skæn/
 	;việc chụp X-ray -- a medical examination that uses a computer to produce an image of the inside of somebody’s body from X-ray or ultrasound pictures
 
 
@@ -568,7 +624,7 @@ CAT scan		<-->	noun+C2[-0]	./ˈkæt skæn/-NAmE /ˈkæt skæn/
 
 
 		
-CCU		<-->	noun+C2[-0]	./ˌsiː siː ˈjuː/-NAmE /ˌsiː siː ˈjuː/
+CCU		<-->	noun+C2	[221029][1]	./ˌsiː siː ˈjuː/-NAmE /ˌsiː siː ˈjuː/
 	;chăm sóc đặc biệt -- part of a hospital that provides intensive care (the abbreviation for ‘critical care unit’)
 
 
@@ -576,7 +632,7 @@ CCU		<-->	noun+C2[-0]	./ˌsiː siː ˈjuː/-NAmE /ˌsiː siː ˈjuː/
 
 
 
-cesarean		<-->	noun+C2[-0]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
+cesarean		<-->	noun+C2	[221029][1]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
 	;phương pháp sinh mổ -- [countable, uncountable] a cesarean section (= a medical operation in which an opening is cut in a woman’s body in order to take out a baby)
 		;She had to have an emergency cesarean.
 
@@ -585,7 +641,7 @@ cesarean		<-->	noun+C2[-0]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
 
 
 
-cesarian		<-->	noun+C2[-0]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
+cesarian		<-->	noun+C2	[221029][1]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
 	;(also cesarian (both US English), British English usually caesarean)
 	;phương pháp sinh mổ  -- ​a cesarean section (= a medical operation in which an opening is cut in a woman’s body in order to take out a baby)
 		;She had to have an emergency cesarean.
@@ -595,7 +651,7 @@ cesarian		<-->	noun+C2[-0]	./sɪˈzeəriən/-NAmE /sɪˈzeriən/
 
 
 
-check-up		<-->	noun+B2[-0]	./ˈtʃek ʌp/-NAmE /ˈtʃek ʌp/
+check-up		<-->	noun+B2	[221029][1]	./ˈtʃek ʌp/-NAmE /ˈtʃek ʌp/
 	;cuộc kiểm tra y tế -- an examination of somebody/something, especially a medical one to make sure that you are healthy
 		;to go for/to have a check-up
 
@@ -604,7 +660,7 @@ check-up		<-->	noun+B2[-0]	./ˈtʃek ʌp/-NAmE /ˈtʃek ʌp/
 
 
 
-chemist		<-->	noun+A2[-0]	./ˈkemɪst/-NAmE /ˈkemɪst/
+chemist		<-->	noun+A2	[221029][1]	./ˈkemɪst/-NAmE /ˈkemɪst/
 	;(North American English druggist)
 	; nhân viên quầy thuốc -- a person whose job is to prepare and sell medicines, and who works in a shop
 
@@ -613,7 +669,7 @@ chemist		<-->	noun+A2[-0]	./ˈkemɪst/-NAmE /ˈkemɪst/
 
 
 
-chemo		<-->	noun+C2[-0]	./ˈkiːməʊ/-NAmE /ˈkiːməʊ/	
+chemo		<-->	noun+C2	[221029][1]	./ˈkiːməʊ/-NAmE /ˈkiːməʊ/	
 	;hoá trị -- ​chemotherapy (= the treatment of disease, especially cancer, with the use of chemical substances)
 
 
@@ -621,7 +677,7 @@ chemo		<-->	noun+C2[-0]	./ˈkiːməʊ/-NAmE /ˈkiːməʊ/
 
 
 
-chemotherapy		<-->	noun+C2[-0]	./ˌkiːməʊˈθerəpi/-NAmE /ˌkiːməʊˈθerəpi/
+chemotherapy		<-->	noun+C2	[221029][1]	./ˌkiːməʊˈθerəpi/-NAmE /ˌkiːməʊˈθerəpi/
 	;hoá trị -- [uncountable] the treatment of disease, especially cancer, with the use of chemical substances
 
 
@@ -629,7 +685,7 @@ chemotherapy		<-->	noun+C2[-0]	./ˌkiːməʊˈθerəpi/-NAmE /ˌkiːməʊˈθer�
 
 
 
-chiropodist		<-->	noun+C2[-0]	./kɪˈrɒpədɪst/-NAmE /kɪˈrɑːpədɪst/
+chiropodist		<-->	noun+C2	[221029][1]	./kɪˈrɒpədɪst/-NAmE /kɪˈrɑːpədɪst/
 	;(especially British English), (North American English usually podiatrist)
 	;bác sĩ xương khớp -- a person whose job is the care and treatment of people’s feet
 
@@ -638,7 +694,7 @@ chiropodist		<-->	noun+C2[-0]	./kɪˈrɒpədɪst/-NAmE /kɪˈrɑːpədɪst/
 
 
 
-chiropractic		<-->	noun+C2[-0]	./ˌkaɪərəʊˈpræktɪk/-NAmE /ˌkaɪərəʊˈpræktɪk/
+chiropractic		<-->	noun+C2	[221029][1]	./ˌkaɪərəʊˈpræktɪk/-NAmE /ˌkaɪərəʊˈpræktɪk/
 	;nghề trị chấn thương vật lý -- [uncountable]	the medical profession that involves treating some diseases and physical problems by pressing and moving the bones in a person’s spine or joints; the work of a chiropractor
 
 
@@ -646,7 +702,7 @@ chiropractic		<-->	noun+C2[-0]	./ˌkaɪərəʊˈpræktɪk/-NAmE /ˌkaɪərəʊˈ
 
 
 
-chiropractor		<-->	noun+C2[-0]	./ˈkaɪərəʊpræktə(r)/-NAmE /ˈkaɪərəʊpræktər/
+chiropractor		<-->	noun+C2	[221029][1]	./ˈkaɪərəʊpræktə(r)/-NAmE /ˈkaɪərəʊpræktər/
 	;người điều trị chấn thương vật lý -- a person whose job involves treating some diseases and physical problems by pressing and moving the bones in a person’s spine or joints
 
 
@@ -662,7 +718,7 @@ circumcise		<-->	verb+C2	[220808][1]	./ˈsɜːkəmsaɪz/-NAmE /ˈsɜːrkəmsaɪz
 
 
 
-circumcision		<-->	noun+C2[-0]	./ˌsɜːkəmˈsɪʒn/-NAmE /ˌsɜːrkəmˈsɪʒn/
+circumcision		<-->	noun+C2	[221029][1]	./ˌsɜːkəmˈsɪʒn/-NAmE /ˌsɜːrkəmˈsɪʒn/
 	;việc cắt bao quy đầu -- [uncountable, countable] the act of circumcising somebody; the religious ceremony when somebody, especially a baby, is circumcised
 
 
@@ -670,7 +726,7 @@ circumcision		<-->	noun+C2[-0]	./ˌsɜːkəmˈsɪʒn/-NAmE /ˌsɜːrkəmˈsɪʒn
 
 
 
-cleanse		<-->	verb+C1[-0]	./klenz/-NAmE /klenz/
+cleanse		<-->	verb+C1	[221029][1]	./klenz/-NAmE /klenz/
 	;sát trùng vết thường -- [transitive, intransitive] cleanse (something) to clean your skin or a wound
 		;The wound was then cleansed and dressed.
 
@@ -679,7 +735,7 @@ cleanse		<-->	verb+C1[-0]	./klenz/-NAmE /klenz/
 
 
 
-clinic		<-->	noun+B2[-0]	./ˈklɪnɪk/-NAmE /ˈklɪnɪk/
+clinic		<-->	noun+B2	[221029][1]	./ˈklɪnɪk/-NAmE /ˈklɪnɪk/
 	;phòng khám -- a building or part of a hospital where people can go for special medical treatment or advice
 		;Your local family planning clinic can give you advice about birth control.
 
@@ -688,7 +744,7 @@ clinic		<-->	noun+B2[-0]	./ˈklɪnɪk/-NAmE /ˈklɪnɪk/
 
 
 
-clinical trial		<-->	noun+C1[-0]	./ˌklɪnɪkl ˈtraɪəl/-NAmE /ˌklɪnɪkl ˈtraɪəl/
+clinical trial		<-->	noun+C1	[221029][1]	./ˌklɪnɪkl ˈtraɪəl/-NAmE /ˌklɪnɪkl ˈtraɪəl/
 	;nghiên cứu lâm sàng -- a research study in which a medical treatment is carefully tested on people in order to assess how safe and effective it is
 		;The new drug is undergoing clinical trials.
 
@@ -697,7 +753,7 @@ clinical trial		<-->	noun+C1[-0]	./ˌklɪnɪkl ˈtraɪəl/-NAmE /ˌklɪnɪkl ˈt
 
 
 
-clinician		<-->	noun+C2[-0]	./klɪˈnɪʃn/-NAmE /klɪˈnɪʃn/
+clinician		<-->	noun+C2	[221029][1]	./klɪˈnɪʃn/-NAmE /klɪˈnɪʃn/
 	;bác sĩ -- a doctor, psychologist, etc. who has direct contact with patients
 
 
@@ -705,7 +761,7 @@ clinician		<-->	noun+C2[-0]	./klɪˈnɪʃn/-NAmE /klɪˈnɪʃn/
 
 
 
-codeine		<-->	noun+C2[-0]	./ˈkəʊdiːn/-NAmE /ˈkəʊdiːn/
+codeine		<-->	noun+C2	[221029][1]	./ˈkəʊdiːn/-NAmE /ˈkəʊdiːn/
 	;thuốc giảm đau -- a drug used to reduce pain
 
 
@@ -713,8 +769,8 @@ codeine		<-->	noun+C2[-0]	./ˈkəʊdiːn/-NAmE /ˈkəʊdiːn/
 
 
 
-come around		<-->	phrasal verb+C1[-0]	.
-	;có ý thức trở lên -- (also come to) to become conscious again
+come around		<-->	phrasal verb+C1	[221029][1]	./p/
+	;có ý thức trở lên -- (1) (also come to) to become conscious again
 		;Your mother hasn't yet come around from the anaesthetic(thuốc mê).
 
 
@@ -722,7 +778,7 @@ come around		<-->	phrasal verb+C1[-0]	.
 
 
 
-come round		<-->	phrasal verb+C1[-0]	.
+come round		<-->	phrasal verb+C1	[221029][1]	.
 	;​có ý thức trở lên -- (also come to) to become conscious again
 		;Your mother hasn't yet come around from the anaesthetic.
 
@@ -731,7 +787,7 @@ come round		<-->	phrasal verb+C1[-0]	.
 
 
 
-community hospital		<-->	noun+C1[-0]	./kəˌmjuːnəti ˈhɒspɪtl/-NAmE /kəˌmjuːnəti ˈhɑːspɪtl/
+community hospital		<-->	noun+C1	[221029][1]	./kəˌmjuːnəti ˈhɒspɪtl/-NAmE /kəˌmjuːnəti ˈhɑːspɪtl/
 	;bệnh viện địa phương -- a small hospital for the local community
 		;I admitted an elderly woman with severe leg pain to the community hospital.
 
@@ -740,16 +796,15 @@ community hospital		<-->	noun+C1[-0]	./kəˌmjuːnəti ˈhɒspɪtl/-NAmE /kəˌm
 
 
 
-complementary medicine		<-->	noun+C2[-0]	./ˌkɒmplɪmentri ˈmedsn/,  /ˌkɒmplɪmentri ˈmedɪsn/-NAmE /ˌkɑːmplɪmentri ˈmedɪsn/
+complementary medicine		<-->	noun+C2	[221029][1]	./ˌkɒmplɪmentri ˈmedsn/,  /ˌkɒmplɪmentri ˈmedɪsn/-NAmE /ˌkɑːmplɪmentri ˈmedɪsn/
 	;đông y -- medical treatment that is not part of the usual scientific treatment used in Western countries, for example acupuncture (châm cứu)
-		;
 
 
 
 
 
 
-consult		<-->	verb+B2[-0]	./kənˈsʌlt/-NAmE /kənˈsʌlt/
+consult		<-->	verb+B2	[221029][1]	./kənˈsʌlt/-NAmE /kənˈsʌlt/
 	;tư vấn -- [transitive, intransitive] to go to somebody for information or advice
 		;consult somebody If the pain continues, consult your doctor.
 		;a consulting engineer (= one who has expert knowledge and gives advice)
@@ -759,8 +814,16 @@ consult		<-->	verb+B2[-0]	./kənˈsʌlt/-NAmE /kənˈsʌlt/
 
 
 
-consultant		<-->	noun+B2[-0]	.
-contact tracer		<-->	noun+C2[-0]	./ˈkɒntækt treɪsə(r)/-NAmE /ˈkɑːntækt treɪsər/+\
+consultant		<-->	noun+B2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
+contact tracer		<-->	noun+C2	[221029][1]	./ˈkɒntækt treɪsə(r)/-NAmE /ˈkɑːntækt treɪsər/+\
 	;nhân viên bệnh truyền nhiễm, truy vết -- a person whose job is to identify anyone who has recently been near somebody with a disease and may have caught the infection
 		;Thousands of coronavirus contact tracers are being recruited by the government.
 
@@ -769,7 +832,7 @@ contact tracer		<-->	noun+C2[-0]	./ˈkɒntækt treɪsə(r)/-NAmE /ˈkɑːntækt 
 
 
 
-contact tracing		<-->	noun+C2[-0]	./ˈkɒntækt treɪsɪŋ/-NAmE /ˈkɑːntækt treɪsɪŋ/+\ 
+contact tracing		<-->	noun+C2	[221029][1]	./ˈkɒntækt treɪsɪŋ/-NAmE /ˈkɑːntækt treɪsɪŋ/+\ 
 	;quá trình truy vết -- the process of trying to identify anyone who has recently been near somebody with a disease and may have caught the infection
 		;Health officials are conducting contact tracing to determine whether anyone else was exposed to the virus.
 
@@ -778,7 +841,7 @@ contact tracing		<-->	noun+C2[-0]	./ˈkɒntækt treɪsɪŋ/-NAmE /ˈkɑːntækt 
 
 
 
-contraceptive		<-->	noun+C2[-0]	./ˌkɒntrəˈseptɪv/-NAmE /ˌkɑːntrəˈseptɪv/-\
+contraceptive		<-->	noun+C2	[221029][1]	./ˌkɒntrəˈseptɪv/-NAmE /ˌkɑːntrəˈseptɪv/-\
 	;thuốc ngừa thai -- a drug, device or practice used to avoid becoming pregnant when having sex
 		;oral contraceptives
 
@@ -787,7 +850,7 @@ contraceptive		<-->	noun+C2[-0]	./ˌkɒntrəˈseptɪv/-NAmE /ˌkɑːntrəˈsept�
 
 
 
-conventional		<-->	adjective+B2[-0]	./kənˈvenʃənl/-NAmE /kənˈvenʃənl/
+conventional		<-->	adjective+B2	[221029][1]	./kənˈvenʃənl/-NAmE /kənˈvenʃənl/
 	;có liệu trình tây y -- [usually before noun] (of medical treatment) using the usual scientific methods of Western medicine such as artificial drugs and operations
 		;conventional medicine
 		;Conventional treatments for this condition have been only partially successful.
@@ -797,7 +860,7 @@ conventional		<-->	adjective+B2[-0]	./kənˈvenʃənl/-NAmE /kənˈvenʃənl/
 
 
 
-cottage hospital		<-->	noun+C2[-0]	./ˌkɒtɪdʒ ˈhɒspɪtl/-NAmE /ˌkɑːtɪdʒ ˈhɑːspɪtl/
+cottage hospital		<-->	noun+C2	[221029][1]	./ˌkɒtɪdʒ ˈhɒspɪtl/-NAmE /ˌkɑːtɪdʒ ˈhɑːspɪtl/
 	;bệnh viện nhỏ địa phương -- (British English, becoming old-fashioned) a small hospital in a country area
 
 
@@ -805,7 +868,7 @@ cottage hospital		<-->	noun+C2[-0]	./ˌkɒtɪdʒ ˈhɒspɪtl/-NAmE /ˌkɑːtɪd�
 
 
 
-cough mixture		<-->	noun+C2[-0]	./ˈkɒf mɪkstʃə(r)/-NAmE /ˈkɔːf mɪkstʃər/+\
+cough mixture		<-->	noun+C2	[221029][1]	./ˈkɒf mɪkstʃə(r)/-NAmE /ˈkɔːf mɪkstʃər/+\
 	;thuốc ho -- [uncountable] liquid medicine that you take for a cough
 
 
@@ -813,7 +876,7 @@ cough mixture		<-->	noun+C2[-0]	./ˈkɒf mɪkstʃə(r)/-NAmE /ˈkɔːf mɪkstʃ�
 
 
 
-course		<-->	noun+B2[-0]	./kɔːs/-NAmE /kɔːrs/\
+course		<-->	noun+B2	[221029][1]	./kɔːs/-NAmE /kɔːrs/\
 	;các bước của một pháp đồ điều trị -- [countable] course (of something) a series of medical treatments, tablets, etc.
 		;When taking antibiotics it is important to finish the course.
 
@@ -822,7 +885,7 @@ course		<-->	noun+B2[-0]	./kɔːs/-NAmE /kɔːrs/\
 
 
 
-critical care		<-->	noun+C1[-0]	./ˌkrɪtɪkl ˈkeə(r)/-NAmE /ˌkrɪtɪkl ˈker/
+critical care		<-->	noun+C1	[221029][1]	./ˌkrɪtɪkl ˈkeə(r)/-NAmE /ˌkrɪtɪkl ˈker/
 	;điều trị đặc biệt -- [uncountable] continuous care and attention, often using special equipment, for people in hospital who are very seriously ill or injured
 		;Technology has made life-saving critical care possible.
 
@@ -831,7 +894,7 @@ critical care		<-->	noun+C1[-0]	./ˌkrɪtɪkl ˈkeə(r)/-NAmE /ˌkrɪtɪkl ˈker
 
 
 
-crutch		<-->	noun+C1[-0]	./krʌtʃ/-NAmE /krʌtʃ/
+crutch		<-->	noun+C1	[221029][1]	./krʌtʃ/-NAmE /krʌtʃ/
 	;nạng -- one of two long sticks that you put under your arms to help you walk after you have injured your leg or foot
 		;After the accident I spent six months on crutches.
 
@@ -840,7 +903,7 @@ crutch		<-->	noun+C1[-0]	./krʌtʃ/-NAmE /krʌtʃ/
 
 
 
-curative		<-->	adjective+C2[-0]	./ˈkjʊərətɪv/-NAmE /ˈkjʊrətɪv/
+curative		<-->	adjective+C2	[221029][1]	./ˈkjʊərətɪv/-NAmE /ˈkjʊrətɪv/
 	;chữa được -- able to cure illness ~ SYNONYM healing
 		;the curative properties of herbs
 
@@ -849,7 +912,7 @@ curative		<-->	adjective+C2[-0]	./ˈkjʊərətɪv/-NAmE /ˈkjʊrətɪv/
 
 
 
-cure		<-->	verb+B2[-0]	./kjʊə(r)/-NAmE /kjʊr/\
+cure		<-->	verb+B2	[221029][1]	./kjʊə(r)/-NAmE /kjʊr/\
 	;chữa bệnh -- to make a person or an animal healthy again after an illness
 		; cure somebody: Will you be able to cure him, Doctor?
 		; cure somebody of something: The doctor managed to cure her of her illness.
@@ -859,7 +922,7 @@ cure		<-->	verb+B2[-0]	./kjʊə(r)/-NAmE /kjʊr/\
 
 
 
-cure		<-->	noun+B2[-0]	./kjʊə(r)/-NAmE /kjʊr/
+cure		<-->	noun+B2	[221029][1]	./kjʊə(r)/-NAmE /kjʊr/
 	;sự điều trị -- a medicine or medical treatment that cures an illness
 		;Researchers are working to find a cure for the disease.
 
@@ -868,7 +931,7 @@ cure		<-->	noun+B2[-0]	./kjʊə(r)/-NAmE /kjʊr/
 
 
 
-curettage		<-->	noun+C2[-0]	./kjʊəˈretɪdʒ/,  /ˌkjʊərɪˈtɑːʒ/-NAmE /ˌkjʊrɪˈtɑːʒ/
+curettage		<-->	noun+C2	[221029][1]	./kjʊəˈretɪdʒ/,  /ˌkjʊərɪˈtɑːʒ/-NAmE /ˌkjʊrɪˈtɑːʒ/
 	;mổ tử cung -- [uncountable] (medical) an operation that involves removing material from the inside of the uterus or other body part using a small sharp tool
 		;Surgical removal with curettage is the standard treatment.
 
@@ -886,7 +949,7 @@ deep-clean		<-->	verb+C2	[220808][1]	./ˌdiːp ˈkliːn/-NAmE /ˌdiːp ˈkliːn/
 
 
 
-deep-cleaning		<-->	noun+C2[-0]	./ˌdiːp ˈkliːnɪŋ/-NAmE /ˌdiːp ˈkliːnɪŋ/
+deep-cleaning		<-->	noun+C2	[221029][1]	./ˌdiːp ˈkliːnɪŋ/-NAmE /ˌdiːp ˈkliːnɪŋ/
 	;sự rửa, khử trùng -- ​the process of cleaning something extremely carefully and completely in order to prevent the spread of germs and infection
 		;The factory is undergoing deep-cleaning after two workers tested positive for the virus.
 
@@ -895,7 +958,7 @@ deep-cleaning		<-->	noun+C2[-0]	./ˌdiːp ˈkliːnɪŋ/-NAmE /ˌdiːp ˈkliːnɪ
 
 
 
-defibrillator		<-->	noun+C2[-0]	./diːˈfɪbrɪleɪtə(r)/-NAmE /diːˈfɪbrɪleɪtər/
+defibrillator		<-->	noun+C2	[221029][1]	./diːˈfɪbrɪleɪtə(r)/-NAmE /diːˈfɪbrɪleɪtər/
 	;máy trợ tim -- (medical) a piece of equipment used to control the movements of the heart muscles by giving the heart an electric shock in a carefully managed way
 
 
@@ -903,7 +966,7 @@ defibrillator		<-->	noun+C2[-0]	./diːˈfɪbrɪleɪtə(r)/-NAmE /diːˈfɪbrɪle
 
 
 
-dental surgeon		<-->	noun+C1[-0]	./ˈdentl sɜːdʒən/-NAmE /ˈdentl sɜːrdʒən/\
+dental surgeon		<-->	noun+C1	[221029][1]	./ˈdentl sɜːdʒən/-NAmE /ˈdentl sɜːrdʒən/\
 	;nha sĩ (phẩu thuật miệng) -- a dentist, especially one who performs surgery inside the mouth
 
 
@@ -911,8 +974,16 @@ dental surgeon		<-->	noun+C1[-0]	./ˈdentl sɜːdʒən/-NAmE /ˈdentl sɜːrdʒ�
 
 
 
-dentist		<-->	noun+A2[-0]	.
-dentistry		<-->	noun+C1[-0]	./ˈdentɪstri/-NAmE /ˈdentɪstri/
+dentist		<-->	noun+A2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
+dentistry		<-->	noun+C1	[221029][1]	./ˈdentɪstri/-NAmE /ˈdentɪstri/
 	;công việc, phòng khám của nha sĩ -- the work of a dentist
 		;preventive dentistry
 
@@ -921,7 +992,7 @@ dentistry		<-->	noun+C1[-0]	./ˈdentɪstri/-NAmE /ˈdentɪstri/
 
 
 
-dermatologist		<-->	noun+C2[-0]	./ˌdɜːməˈtɒlədʒɪst/-NAmE /ˌdɜːrməˈtɑːlədʒɪst/
+dermatologist		<-->	noun+C2	[221029][1]	./ˌdɜːməˈtɒlədʒɪst/-NAmE /ˌdɜːrməˈtɑːlədʒɪst/
 	;bác sĩ da liễu -- a doctor who studies and treats skin diseases
 
 
@@ -929,7 +1000,7 @@ dermatologist		<-->	noun+C2[-0]	./ˌdɜːməˈtɒlədʒɪst/-NAmE /ˌdɜːrməˈ
 
 
 
-diagnose		<-->	verb+C1[-0]	./ˈdaɪəɡnəʊz/,  /ˌdaɪəɡˈnəʊz/-NAmE /ˌdaɪəɡˈnəʊs/
+diagnose		<-->	verb+C1	[221029][1]	./ˈdaɪəɡnəʊz/,  /ˌdaɪəɡˈnəʊz/-NAmE /ˌdaɪəɡˈnəʊs/
 	;chuẩn đoán -- to say exactly what an illness or the cause of a problem is
 		;diagnose something: The test is used to diagnose a variety of diseases.
 
@@ -938,7 +1009,7 @@ diagnose		<-->	verb+C1[-0]	./ˈdaɪəɡnəʊz/,  /ˌdaɪəɡˈnəʊz/-NAmE /ˌda
 
 
 
-diagnosis		<-->	noun+C1[-0]	./ˌdaɪəɡˈnəʊsɪs/-NAmE /ˌdaɪəɡˈnəʊsɪs/
+diagnosis		<-->	noun+C1	[221029][1]	./ˌdaɪəɡˈnəʊsɪs/-NAmE /ˌdaɪəɡˈnəʊsɪs/
 	;sự chuẩn đoán -- diagnosis (of something): the act of discovering or identifying the exact cause of an illness or a problem
 		;They are waiting for the doctor's diagnosis.
 
@@ -947,7 +1018,7 @@ diagnosis		<-->	noun+C1[-0]	./ˌdaɪəɡˈnəʊsɪs/-NAmE /ˌdaɪəɡˈnəʊsɪs
 
 
 
-diagnostic		<-->	adjective+C2[-0]	./ˌdaɪəɡˈnɒstɪk/-NAmE /ˌdaɪəɡˈnɑːstɪk/
+diagnostic		<-->	adjective+C2	[221029][1]	./ˌdaɪəɡˈnɒstɪk/-NAmE /ˌdaɪəɡˈnɑːstɪk/
 	;thuộc về chuẩn đoán -- ​[usually before noun] (specialist) connected with identifying an illness or other problem
 		;to carry out diagnostic assessments/tests
 
@@ -956,7 +1027,7 @@ diagnostic		<-->	adjective+C2[-0]	./ˌdaɪəɡˈnɒstɪk/-NAmE /ˌdaɪəɡˈnɑ�
 
 
 
-dietician		<-->	noun+C2[-0]	./ˌdaɪəˈtɪʃn/-NAmE /ˌdaɪəˈtɪʃn/
+dietician		<-->	noun+C2	[221029][1]	./ˌdaɪəˈtɪʃn/-NAmE /ˌdaɪəˈtɪʃn/
 	;nhà tư vấn chế dộ ăn -- a person whose job is to advise people on what kind of food they should eat to keep healthy
 
 
@@ -972,7 +1043,7 @@ dilatation and curettage		<-->	noun+C2    ˌdaɪləˌteɪʃn ən kjʊəˈretɪd�
 
 
 
-discharge		<-->	verb+C1[-0]	./dɪsˈtʃɑːdʒ/-NAmE /dɪsˈtʃɑːrdʒ/
+discharge		<-->	verb+C1	[221029][1]	./dɪsˈtʃɑːdʒ/-NAmE /dɪsˈtʃɑːrdʒ/
 	;xuất viện -- [transitive, often passive] to allow somebody to leave hospital because they are well enough to leave
 		;be discharged (from something): Patients were being discharged from the hospital too early.
 
@@ -981,7 +1052,7 @@ discharge		<-->	verb+C1[-0]	./dɪsˈtʃɑːdʒ/-NAmE /dɪsˈtʃɑːrdʒ/
 
 
 
-dispensary		<-->	noun+C2[-0]	./dɪˈspensəri/-NAmE /dɪˈspensəri/
+dispensary		<-->	noun+C2	[221029][1]	./dɪˈspensəri/-NAmE /dɪˈspensəri/
 	;nhà thuốc bệnh viện -- a place in a hospital, shop, etc. where medicines are prepared for patients
 
 
@@ -998,7 +1069,7 @@ dispense		<-->	verb+C2	[220808][1]	./dɪˈspens/-NAmE /dɪˈspens/
 
 
 
-dispensing chemist		<-->	noun+C2[-0]	./dɪˈspensɪŋ kemɪst/-NAmE /dɪˈspensɪŋ kemɪst/
+dispensing chemist		<-->	noun+C2	[221029][1]	./dɪˈspensɪŋ kemɪst/-NAmE /dɪˈspensɪŋ kemɪst/
 	;nhân viên bán thuốc -- a person whose job is to prepare and sell medicines, and who works in a shop
 
 
@@ -1006,7 +1077,7 @@ dispensing chemist		<-->	noun+C2[-0]	./dɪˈspensɪŋ kemɪst/-NAmE /dɪˈspens�
 
 
 
-district nurse		<-->	noun+C2[-0]	./ˌdɪstrɪkt ˈnɜːs/-NAmE /ˌdɪstrɪkt ˈnɜːrs/
+district nurse		<-->	noun+C2	[221029][1]	./ˌdɪstrɪkt ˈnɜːs/-NAmE /ˌdɪstrɪkt ˈnɜːrs/
 	;ý tá gia đình -- ​(in the UK) a nurse who visits patients in their homes
 
 
@@ -1014,7 +1085,7 @@ district nurse		<-->	noun+C2[-0]	./ˌdɪstrɪkt ˈnɜːs/-NAmE /ˌdɪstrɪkt ˈn
 
 
 
-doctor		<-->	noun+A1[-0]	./ˈdɒktə(r)/-NAmE /ˈdɑːktər/
+doctor		<-->	noun+A1	[221029][1]	./ˈdɒktə(r)/-NAmE /ˈdɑːktər/
 	;bác sĩ -- a person who has been trained in medical science, whose job is to treat people who are ill or injured
 		;You'd better see a doctor about that cough.
 
@@ -1023,7 +1094,7 @@ doctor		<-->	noun+A1[-0]	./ˈdɒktə(r)/-NAmE /ˈdɑːktər/
 
 
 
-dosage		<-->	noun+C2[-0]	./ˈdəʊsɪdʒ/-NAmE /ˈdəʊsɪdʒ/
+dosage		<-->	noun+C2	[221029][1]	./ˈdəʊsɪdʒ/-NAmE /ˈdəʊsɪdʒ/
 	; liều thuốc -- [countable, uncountable] [usually singular] the amount of a medicine or drug that is taken regularly, and how often it is taken
 		;a high/low dosage
 
@@ -1032,7 +1103,7 @@ dosage		<-->	noun+C2[-0]	./ˈdəʊsɪdʒ/-NAmE /ˈdəʊsɪdʒ/
 
 
 
-dose		<-->	noun+C1[-0]	./dəʊs/-NAmE /dəʊs/
+dose		<-->	noun+C1	[221029][1]	./dəʊs/-NAmE /dəʊs/
 	;liều thuốc -- an amount of a medicine or a drug that is taken once, or regularly over a period of time
 		;a high/low/lethal dose
 
@@ -1041,7 +1112,7 @@ dose		<-->	noun+C1[-0]	./dəʊs/-NAmE /dəʊs/
 
 
 
-downer		<-->	noun+C2[-0]	./ˈdaʊnə(r)/-NAmE /ˈdaʊnər/
+downer		<-->	noun+C2	[221029][1]	./ˈdaʊnə(r)/-NAmE /ˈdaʊnər/
 	;thuốc ngủ, an thần -- (informal) [usually plural] a drug, especially a barbiturate, that relaxes you or makes you want to sleep	
 
 
@@ -1049,14 +1120,22 @@ downer		<-->	noun+C2[-0]	./ˈdaʊnə(r)/-NAmE /ˈdaʊnər/
 
 
 
-Dr		<-->		abbreviation+B1[-0]	.
+Dr		<-->		abbreviation+B1	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
 
 
 
-draught		<-->	noun+C2[-0]	./drɑːft/-NAmE /dræft/
+
+
+
+
+
+draught		<-->	noun+C2	[221029][1]	./drɑːft/-NAmE /dræft/
 	;thuốc dạng lỏng -- [countable] (old use or literary) medicine in a liquid form
 		;a sleeping draught (= one that makes you sleep)
 
@@ -1065,7 +1144,7 @@ draught		<-->	noun+C2[-0]	./drɑːft/-NAmE /dræft/
 
 
 
-dress		<-->	verb+C1[-0]	./dres/-NAmE /dres/
+dress		<-->	verb+C1	[221029][1]	./dres/-NAmE /dres/
 	;băng bó, rửa, ... vết thương -- [transitive] dress something to clean, treat and cover a wound
 		;The nurse will dress that cut for you.
 
@@ -1074,7 +1153,7 @@ dress		<-->	verb+C1[-0]	./dres/-NAmE /dres/
 
 
 
-dressing		<-->	noun+C1[-0]	./ˈdresɪŋ/-NAmE /ˈdresɪŋ/
+dressing		<-->	noun+C1	[221029][1]	./ˈdresɪŋ/-NAmE /ˈdresɪŋ/
 	;miếng dán y tế -- [countable] a piece of soft material placed over a wound in order to protect it
 		;Place the dressing directly onto the wound and hold it in place.
 
@@ -1083,7 +1162,7 @@ dressing		<-->	noun+C1[-0]	./ˈdresɪŋ/-NAmE /ˈdresɪŋ/
 
 
 
-drip		<-->	noun+C2[-0]	./drɪp/-NAmE /drɪp/\
+drip		<-->	noun+C2	[221029][1]	./drɪp/-NAmE /drɪp/\
 	;dụng cụ bơm thức ăn, nước biển vào tỉnh mạch -- (also IV especially in North American English) [countable] (medical) a piece of equipment that passes liquid food, medicine or blood very slowly through a tube into a patient’s vein
 
 
@@ -1091,7 +1170,7 @@ drip		<-->	noun+C2[-0]	./drɪp/-NAmE /drɪp/\
 
 
 
-drug		<-->	noun+A2[-0]	./drʌɡ/-NAmE /drʌɡ/\
+drug		<-->	noun+A2	[221029][1]	./drʌɡ/-NAmE /drʌɡ/\
 	;thuốc -- a substance used as a medicine or used in a medicine
 		;a new cancer drug
 		;a major drug company
@@ -1101,7 +1180,7 @@ drug		<-->	noun+A2[-0]	./drʌɡ/-NAmE /drʌɡ/\
 
 
 
-druggist		<-->	noun+C2[-0]	./ˈdrʌɡɪst/-NAmE /ˈdrʌɡɪst/
+druggist		<-->	noun+C2	[221029][1]	./ˈdrʌɡɪst/-NAmE /ˈdrʌɡɪst/
 	;nhân viên chuẩn bị thuốc -- ​(North American English, old-fashioned) a pharmacist (= a person whose job is to prepare medicines and sell or give them to the public in a store or in a hospital)
 
 
@@ -1109,7 +1188,7 @@ druggist		<-->	noun+C2[-0]	./ˈdrʌɡɪst/-NAmE /ˈdrʌɡɪst/
 
 
 
-echocardiogram		<-->	noun+C2[-0]	./ˌekəʊˈkɑːdiəʊɡræm/-NAmE /ˌekəʊˈkɑːrdiəʊɡræm/
+echocardiogram		<-->	noun+C2	[221029][1]	./ˌekəʊˈkɑːdiəʊɡræm/-NAmE /ˌekəʊˈkɑːrdiəʊɡræm/
 	;khám siêu âm tim-- a test that uses ultrasound to show the action and assess the health of the heart
 		;An echocardiogram showed normal coronary arteries and normal function.
 
@@ -1118,7 +1197,7 @@ echocardiogram		<-->	noun+C2[-0]	./ˌekəʊˈkɑːdiəʊɡræm/-NAmE /ˌekəʊˈ
 
 
 
-echocardiography		<-->	noun+C2[-0]	./ˌekəʊˌkɑːdiˈɒɡrəfi/-NAmE /ˌekəʊˌkɑːrdiˈɑːɡrəfi/
+echocardiography		<-->	noun+C2	[221029][1]	./ˌekəʊˌkɑːdiˈɒɡrəfi/-NAmE /ˌekəʊˌkɑːrdiˈɑːɡrəfi/
 	;phương pháp siêu âm tim -- the use of ultrasound to investigate the action of the heart
 
 
@@ -1126,14 +1205,22 @@ echocardiography		<-->	noun+C2[-0]	./ˌekəʊˌkɑːdiˈɒɡrəfi/-NAmE /ˌekə�
 
 
 
-emergency room		<-->	noun+B2[-0]	.
+emergency room		<-->	noun+B2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
 
 
 
-endoscope		<-->	noun+C2[-0]	./ˈendəskəʊp/-NAmE /ˈendəskəʊp/
+
+
+
+
+
+endoscope		<-->	noun+C2	[221029][1]	./ˈendəskəʊp/-NAmE /ˈendəskəʊp/
 	;​ống nội soi -- an instrument used in medical operations that consists of a very small camera on a long thin tube that can be put into a person’s body so that the parts inside can be seen
 
 
@@ -1141,7 +1228,7 @@ endoscope		<-->	noun+C2[-0]	./ˈendəskəʊp/-NAmE /ˈendəskəʊp/
 
 
 
-ENT		<-->		abbreviation+C2[-0]	./ˌiː en ˈtiː/-NAmE /ˌiː en ˈtiː/
+ENT		<-->		abbreviation+C2	[221029][1]	./ˌiː en ˈtiː/-NAmE /ˌiː en ˈtiː/
 	;khoa tai mũi hõng -- ​ear, nose and throat (as a department in a hospital or a branch of medicine)
 		;the ENT department
 
@@ -1150,7 +1237,7 @@ ENT		<-->		abbreviation+C2[-0]	./ˌiː en ˈtiː/-NAmE /ˌiː en ˈtiː/
 
 
 
-EpiPen™		<-->	noun+C2[-0]	./ˈepipen/-NAmE /ˈepipen/ 
+EpiPen™		<-->	noun+C2	[221029][1]	./ˈepipen/-NAmE /ˈepipen/ 
 	;dụng cụ chống di ứng -- a small device used to give an injection of epinephrine in order to treat a severe allergic reaction
 		;He keeps an extra inhaler and EpiPen in his emergency kit.
 
@@ -1159,7 +1246,7 @@ EpiPen™		<-->	noun+C2[-0]	./ˈepipen/-NAmE /ˈepipen/
 
 
 
-examination		<-->	noun+B2[-0]	./ɪɡˌzæmɪˈneɪʃn/-NAmE /ɪɡˌzæmɪˈneɪʃn/
+examination		<-->	noun+B2	[221029][1]	./ɪɡˌzæmɪˈneɪʃn/-NAmE /ɪɡˌzæmɪˈneɪʃn/
 	;sự khám bệnh --  [countable, uncountable] a close look at something/somebody, especially to see if there is anything wrong or to find the cause of a problem
 		;a medical/physical examination
 
@@ -1168,7 +1255,7 @@ examination		<-->	noun+B2[-0]	./ɪɡˌzæmɪˈneɪʃn/-NAmE /ɪɡˌzæmɪˈneɪ�
 
 
 
-examine		<-->	verb+B1[-0]	./ɪɡˈzæmɪn/-NAmE /ɪɡˈzæmɪn/
+examine		<-->	verb+B1	[221029][1][x]	./ɪɡˈzæmɪn/-NAmE /ɪɡˈzæmɪn/
 	;khám bệnh -- to look at somebody/something closely, to see if there is anything wrong or to find the cause of a problem
 		; examine somebody/something: The doctor examined her carefully but could find nothing wrong.
 
@@ -1177,7 +1264,7 @@ examine		<-->	verb+B1[-0]	./ɪɡˈzæmɪn/-NAmE /ɪɡˈzæmɪn/
 
 
 
-face covering		<-->	noun+C1[-0]	./ˈfeɪs kʌvərɪŋ/-NAmE /ˈfeɪs kʌvərɪŋ/
+face covering		<-->	noun+C1	[221029][1]	./ˈfeɪs kʌvərɪŋ/-NAmE /ˈfeɪs kʌvərɪŋ/
 	;khăn che mặt -- a piece of material that you wear over all or part of your face, especially in order to reduce the spread of disease
 		;The document includes advice for people to wear face coverings on public transport and in some shops.
 
@@ -1186,7 +1273,7 @@ face covering		<-->	noun+C1[-0]	./ˈfeɪs kʌvərɪŋ/-NAmE /ˈfeɪs kʌvərɪŋ
 
 
 
-facelift		<-->	noun+C2[-0]	./ˈfeɪslɪft/-NAmE /ˈfeɪslɪft/
+facelift		<-->	noun+C2	[221029][1]	./ˈfeɪslɪft/-NAmE /ˈfeɪslɪft/
 	;làm  sáng da mặt -- a medical operation in which the skin on a person’s face is made tighter in order to make them look younger
 		;to have a facelift
 
@@ -1195,7 +1282,7 @@ facelift		<-->	noun+C2[-0]	./ˈfeɪslɪft/-NAmE /ˈfeɪslɪft/
 
 
 
-face mask		<-->	noun+C1[-0]	./ˈfeɪs mɑːsk/-NAmE /ˈfeɪs mæsk/	
+face mask		<-->	noun+C1	[221029][1]	./ˈfeɪs mɑːsk/-NAmE /ˈfeɪs mæsk/	
 	;mặt nạ -- something that you wear over part or all of your face, in order to protect it or to prevent the spread of disease
 		;In American football, helmets and face masks are always worn.
 
@@ -1204,7 +1291,7 @@ face mask		<-->	noun+C1[-0]	./ˈfeɪs mɑːsk/-NAmE /ˈfeɪs mæsk/
 
 
 
-faith healing		<-->	noun+C2[-0]	./ˈfeɪθ hiːlɪŋ/-NAmE /ˈfeɪθ hiːlɪŋ/
+faith healing		<-->	noun+C2	[221029][1]	./ˈfeɪθ hiːlɪŋ/-NAmE /ˈfeɪθ hiːlɪŋ/
 	;cầu nguyện chữa bệnh -- a method of treating a sick person through the power of belief and prayer
 
 
@@ -1212,15 +1299,31 @@ faith healing		<-->	noun+C2[-0]	./ˈfeɪθ hiːlɪŋ/-NAmE /ˈfeɪθ hiːlɪŋ/
 
 
 
-family doctor		<-->	noun+B1[-0]	.
+family doctor		<-->	noun+B1	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
 
 
 
-family medicine		<-->	noun+B2[-0]	.
-family practice		<-->	noun+C2[-0]	./ˌfæməli ˈpræktɪs/-NAmE /ˌfæməli ˈpræktɪs/
+
+
+
+
+
+family medicine		<-->	noun+B2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
+family practice		<-->	noun+C2	[221029][1]	./ˌfæməli ˈpræktɪs/-NAmE /ˌfæməli ˈpræktɪs/
 	;chữa trị tại nhà -- ​the work of a doctor who treats people in the community rather than at a hospital and who is not a specialist in one particular area of medicine; a place where a doctor like this works
 		;Dr. Simon is part of a family practice in our neighborhood.
 
@@ -1229,14 +1332,22 @@ family practice		<-->	noun+C2[-0]	./ˌfæməli ˈpræktɪs/-NAmE /ˌfæməli ˈp
 
 
 
-family practitioner		<-->	noun+C1[-0]	.
+family practitioner		<-->	noun+C1	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
 
 
 
-first aid		<-->	noun+B2[-0]	./ˌfɜːst ˈeɪd/-NAmE /ˌfɜːrst ˈeɪd/
+
+
+
+
+
+first aid		<-->	noun+B2	[221029][1]	./ˌfɜːst ˈeɪd/-NAmE /ˌfɜːrst ˈeɪd/
 	;sơ cứu -- simple medical treatment that is given to somebody before a doctor comes or before the person can be taken to a hospital
 		;At least one member of staff should be trained in first aid.
 
@@ -1245,7 +1356,7 @@ first aid		<-->	noun+B2[-0]	./ˌfɜːst ˈeɪd/-NAmE /ˌfɜːrst ˈeɪd/
 
 
 
-forceps		<-->	noun+C2[-0]	./ˈfɔːseps/-NAmE /ˈfɔːrseps/
+forceps		<-->	noun+C2	[221029][1]	./ˈfɔːseps/-NAmE /ˈfɔːrseps/
 	;kẹp -- [plural] an instrument used by doctors or scientists, with two long thin parts for picking up and holding things
 		;a pair of forceps
 
@@ -1254,7 +1365,7 @@ forceps		<-->	noun+C2[-0]	./ˈfɔːseps/-NAmE /ˈfɔːrseps/
 
 
 
-fringe medicine		<-->	noun+C2[-0]	./ˌfrɪndʒ ˈmedsn/,  /ˌfrɪndʒ ˈmedɪsn/-NAmE /ˌfrɪndʒ ˈmedɪsn/+\
+fringe medicine		<-->	noun+C2	[221029][1]	./ˌfrɪndʒ ˈmedsn/,  /ˌfrɪndʒ ˈmedɪsn/-NAmE /ˌfrɪndʒ ˈmedɪsn/+\
 	;một cách trị bệnh dùng cây cỏ -- any type of treatment that is not accepted by many people as being part of Western medicine, for example one using plants instead of artificial drugs
 
 
@@ -1262,7 +1373,7 @@ fringe medicine		<-->	noun+C2[-0]	./ˌfrɪndʒ ˈmedsn/,  /ˌfrɪndʒ ˈmedɪsn/
 
 
 
-gastric bypass		<-->	noun+C2[-0]	./ˌɡæstrɪk ˈbaɪpɑːs/-NAmE /ˌɡæstrɪk ˈbaɪpæs/+\
+gastric bypass		<-->	noun+C2	[221029][1]	./ˌɡæstrɪk ˈbaɪpɑːs/-NAmE /ˌɡæstrɪk ˈbaɪpæs/+\
 	;trung tâm bệnh viện hút mỡ -- [usually singular] surgery that reduces the size of somebody's stomach so that they will eat less food
 		;gastric bypass surgery
 
@@ -1271,7 +1382,7 @@ gastric bypass		<-->	noun+C2[-0]	./ˌɡæstrɪk ˈbaɪpɑːs/-NAmE /ˌɡæstrɪk
 
 
 
-gastroenterology		<-->	noun+C2[-0]	./ˌɡæstrəʊˌentəˈrɒlədʒi/-NAmE /ˌɡæstrəʊˌentəˈrɑːlədʒi/
+gastroenterology		<-->	noun+C2	[221029][1]	./ˌɡæstrəʊˌentəˈrɒlədʒi/-NAmE /ˌɡæstrəʊˌentəˈrɑːlədʒi/
 	;khoa nội, tiêu hoá -- the study and treatment of diseases of the stomach and intestines
 
 
@@ -1279,7 +1390,7 @@ gastroenterology		<-->	noun+C2[-0]	./ˌɡæstrəʊˌentəˈrɒlədʒi/-NAmE /ˌ�
 
 
 
-general practice		<-->	noun+C2[-0]	./ˌdʒenrəl ˈpræktɪs/-NAmE /ˌdʒenrəl ˈpræktɪs/
+general practice		<-->	noun+C2	[221029][1]	./ˌdʒenrəl ˈpræktɪs/-NAmE /ˌdʒenrəl ˈpræktɪs/
 	;việc chăm sóc y tế gia đình -- [uncountable, countable] the work of a doctor who treats people in the community rather than at a hospital and who is not a specialist in one particular area of medicine; a place where a doctor like this works
 		;to be in general practice
 
@@ -1288,7 +1399,7 @@ general practice		<-->	noun+C2[-0]	./ˌdʒenrəl ˈpræktɪs/-NAmE /ˌdʒenrəl 
 
 
 
-general practitioner		<-->	noun+C2[-0]	./ˌdʒenrəl prækˈtɪʃənə(r)/-NAmE /ˌdʒenrəl prækˈtɪʃənər/
+general practitioner		<-->	noun+C2	[221029][1]	./ˌdʒenrəl prækˈtɪʃənə(r)/-NAmE /ˌdʒenrəl prækˈtɪʃənər/
 	;bác sĩ cộng đồng -- a doctor who is trained in general medicine and who treats patients in a local community rather than at a hospital
 
 
@@ -1296,7 +1407,7 @@ general practitioner		<-->	noun+C2[-0]	./ˌdʒenrəl prækˈtɪʃənə(r)/-NAmE 
 
 
 
-geriatric		<-->	noun+C2[-0]	./ˌdʒeriˈætrɪk/-NAmE /ˌdʒeriˈætrɪk/
+geriatric		<-->	noun+C2	[221029][1]	./ˌdʒeriˈætrɪk/-NAmE /ˌdʒeriˈætrɪk/
 	;y tế cho người già -- ​geriatrics [uncountable] the branch of medicine that deals with the diseases and care of old people
 
 
@@ -1304,7 +1415,7 @@ geriatric		<-->	noun+C2[-0]	./ˌdʒeriˈætrɪk/-NAmE /ˌdʒeriˈætrɪk/
 
 
 
-government health warning		<-->	noun+C2[-0]	./ˌɡʌvənmənt ˈhelθ wɔːnɪŋ/-NAmE /ˌɡʌvərnmənt ˈhelθ wɔːrnɪŋ/
+government health warning		<-->	noun+C2	[221029][1]	./ˌɡʌvənmənt ˈhelθ wɔːnɪŋ/-NAmE /ˌɡʌvərnmənt ˈhelθ wɔːrnɪŋ/
 	;cảnh báo y tế theo luật -- (in the UK) a notice that must by law appear on a product, especially a pack of cigarettes, that warns people that it is dangerous to their health
 		;All tobacco products are required to carry a government health warning.
 
@@ -1313,7 +1424,15 @@ government health warning		<-->	noun+C2[-0]	./ˌɡʌvənmənt ˈhelθ wɔːnɪŋ
 
 
 
-gown		<-->	noun+C2[-0]	.
+gown		<-->	noun+C2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 	;đồ bảo hộ -- a piece of clothing worn in a hospital, either by medical staff during surgery or by a patient, especially as protection against infection
 		;a surgeon’s gown
 
@@ -1322,14 +1441,22 @@ gown		<-->	noun+C2[-0]	.
 
 
 
-GP		<-->	noun+C2[-0]	.
+GP		<-->	noun+C2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
 
 
 
-graft		<-->	noun+C2[-0]	./ɡrɑːft/-NAmE /ɡræft/
+
+
+
+
+
+graft		<-->	noun+C2	[221029][1]	./ɡrɑːft/-NAmE /ɡræft/
 	;sự cấy ghép -- [countable] a piece of skin, bone, etc. removed from a living body and placed in another part of the body that has been damaged; the process or result of doing this
 		;Linda had to undergo four skin grafts.
 
@@ -1347,7 +1474,7 @@ graft		<-->	verb+C2	[220808][1]	./ɡrɑːft/-NAmE /ɡræft/\
 
 
 
-gynaecologist		<-->	noun+C2[-0]	./ˌɡaɪnəˈkɒlədʒɪst/-NAmE /ˌɡaɪnəˈkɑːlədʒɪst/
+gynaecologist		<-->	noun+C2	[221029][1]	./ˌɡaɪnəˈkɒlədʒɪst/-NAmE /ˌɡaɪnəˈkɑːlədʒɪst/
 	;bác sĩ phụ khoa -- ​a doctor who studies and treats the medical conditions and diseases of women, especially those connected with sexual reproduction
 		;I think you should see a gynaecologist.
 
@@ -1356,7 +1483,7 @@ gynaecologist		<-->	noun+C2[-0]	./ˌɡaɪnəˈkɒlədʒɪst/-NAmE /ˌɡaɪnəˈk
 
 
 
-gynaecology		<-->	noun+C2[-0]	./ˌɡaɪnəˈkɒlədʒi/-NAmE /ˌɡaɪnəˈkɑːlədʒi/
+gynaecology		<-->	noun+C2	[221029][1]	./ˌɡaɪnəˈkɒlədʒi/-NAmE /ˌɡaɪnəˈkɑːlədʒi/
 	;khoa phu khoa -- [uncountable] the scientific study and treatment of the medical conditions and diseases of women, especially those connected with sexual reproduction
 
 
@@ -1364,7 +1491,7 @@ gynaecology		<-->	noun+C2[-0]	./ˌɡaɪnəˈkɒlədʒi/-NAmE /ˌɡaɪnəˈkɑːl
 
 
 
-hand gel		<-->	noun+C2[-0]	./ˈhænd dʒel/-NAmE /ˈhænd dʒel/+\
+hand gel		<-->	noun+C2	[221029][1]	./ˈhænd dʒel/-NAmE /ˈhænd dʒel/+\
 	;chất khử khuẩn tay -- (also hand sanitizer) [uncountable, countable] a liquid or substance used to remove bacteria from the hands
 		;antibacterial hand gel
 
@@ -1373,7 +1500,7 @@ hand gel		<-->	noun+C2[-0]	./ˈhænd dʒel/-NAmE /ˈhænd dʒel/+\
 
 
 
-hand sanitizer		<-->	noun+C2[-0]	./ˈhænd sænɪtaɪzə(r)/-NAmE /ˈhænd sænɪtaɪzər/
+hand sanitizer		<-->	noun+C2	[221029][1]	./ˈhænd sænɪtaɪzə(r)/-NAmE /ˈhænd sænɪtaɪzər/
 	; ~ hand gel
 
 
@@ -1381,7 +1508,7 @@ hand sanitizer		<-->	noun+C2[-0]	./ˈhænd sænɪtaɪzə(r)/-NAmE /ˈhænd sæn�
 
 
 
-heal		<-->	verb+B2[-0]	./hiːl/-NAmE /hiːl/
+heal		<-->	verb+B2	[221029][1]	./hiːl/-NAmE /hiːl/
 	;chữa bệnh -- [transitive] heal somebody (of something) (old use or formal):  to cure somebody who is ill; to make somebody feel happy again
 		;the story of Jesus healing ten lepers of their disease
 
@@ -1390,7 +1517,7 @@ heal		<-->	verb+B2[-0]	./hiːl/-NAmE /hiːl/
 
 
 
-healer		<-->	noun+C1[-0]	./ˈhiːlə(r)/-NAmE /ˈhiːlər/
+healer		<-->	noun+C1	[221029][1]	./ˈhiːlə(r)/-NAmE /ˈhiːlər/
 	;người chữa bệnh bằng phép lạ -- a person who treats sick people using natural powers rather than medicine
 		;She made a living as a herbalist and spiritual healer.
 
@@ -1399,7 +1526,7 @@ healer		<-->	noun+C1[-0]	./ˈhiːlə(r)/-NAmE /ˈhiːlər/
 
 
 
-healing		<-->	noun+C1[-0]	./ˈhiːlɪŋ/-NAmE /ˈhiːlɪŋ/
+healing		<-->	noun+C1	[221029][1]	./ˈhiːlɪŋ/-NAmE /ˈhiːlɪŋ/
 	;quá trình chữa bệnh -- the process of becoming or making somebody/something healthy again; the process of getting better after an emotional shock
 		;the healing process
 
@@ -1408,7 +1535,7 @@ healing		<-->	noun+C1[-0]	./ˈhiːlɪŋ/-NAmE /ˈhiːlɪŋ/
 
 
 
-healthcare		<-->	noun+B2[-0]	./ˈhelθ keə(r)/-NAmE /ˈhelθ ker/
+healthcare		<-->	noun+B2	[221029][1]	./ˈhelθ keə(r)/-NAmE /ˈhelθ ker/
 	;dịch vụ sức khoẻ  -- [uncountable] the service of providing medical care
 		;the costs of healthcare for the elderly
 		;healthcare workers/professionals
@@ -1418,7 +1545,7 @@ healthcare		<-->	noun+B2[-0]	./ˈhelθ keə(r)/-NAmE /ˈhelθ ker/
 
 
 
-health check		<-->	noun+B1[-0]	./ˈhelθ tʃek/-NAmE /ˈhelθ tʃek/
+health check		<-->	noun+B1	[221029][1]	./ˈhelθ tʃek/-NAmE /ˈhelθ tʃek/
 	;cuộc kiểm tra sức khoẻ -- a medical examination to assess the condition of a person’s body or mind
 		;A routine health check revealed that his blood pressure was high.
 
@@ -1427,7 +1554,7 @@ health check		<-->	noun+B1[-0]	./ˈhelθ tʃek/-NAmE /ˈhelθ tʃek/
 
 
 
-health professional		<-->	noun+B2[-0]	./ˈhelθ prəfeʃənl/-NAmE /ˈhelθ prəfeʃənl/
+health professional		<-->	noun+B2	[221029][1]	./ˈhelθ prəfeʃənl/-NAmE /ˈhelθ prəfeʃənl/
 	;chuyên gia sức khoẻ -- ​a person who works in healthcare, for example a doctor or nurse
 		;There is a shortage of qualified health professionals.
 
@@ -1436,7 +1563,7 @@ health professional		<-->	noun+B2[-0]	./ˈhelθ prəfeʃənl/-NAmE /ˈhelθ prə
 
 
 
-herbalism		<-->	noun+C2[-0]	./ˈhɜːbəlɪzəm/-NAmE /ˈɜːrbəlɪzəm/,  /ˈhɜːrbəlɪzəm/
+herbalism		<-->	noun+C2	[221029][1]	./ˈhɜːbəlɪzəm/-NAmE /ˈɜːrbəlɪzəm/,  /ˈhɜːrbəlɪzəm/
 	;việc chữa bệnh bằng thảo mộc -- [uncountable] the medical use of plants, especially as a form of alternative medicine
 
 
@@ -1444,7 +1571,7 @@ herbalism		<-->	noun+C2[-0]	./ˈhɜːbəlɪzəm/-NAmE /ˈɜːrbəlɪzəm/,  /ˈh
 
 
 
-herd immunity		<-->	noun+C2[-0]	./ˌhɜːd ɪˈmjuːnəti/-NAmE /ˌhɜːrd ɪˈmjuːnəti/
+herd immunity		<-->	noun+C2	[221029][1]	./ˌhɜːd ɪˈmjuːnəti/-NAmE /ˌhɜːrd ɪˈmjuːnəti/
 	;miễn dịch cộng đồng -- protection from a disease that happens if a large percentage of the population is immune to it (= unable to catch it, for example because they have been vaccinated)
 		;Herd immunity can be achieved if 95% of children are vaccinated.
 
@@ -1453,7 +1580,7 @@ herd immunity		<-->	noun+C2[-0]	./ˌhɜːd ɪˈmjuːnəti/-NAmE /ˌhɜːrd ɪˈm
 
 
 
-holism		<-->	noun+C2[-0]	./ˈhəʊlɪzəm/,  /ˈhɒlɪzəm/-NAmE /ˈhəʊlɪzəm/,  /ˈhɑːlɪzəm/
+holism		<-->	noun+C2	[221029][1]	./ˈhəʊlɪzəm/,  /ˈhɒlɪzəm/-NAmE /ˈhəʊlɪzəm/,  /ˈhɑːlɪzəm/
 	;sự chăm sóc toàn diện -- [uncountable] (medical) the idea that the whole of a sick person, including their body, mind and way of life, should be considered when treating them, and not just the symptoms (= effects) of the disease
 
 
@@ -1461,7 +1588,7 @@ holism		<-->	noun+C2[-0]	./ˈhəʊlɪzəm/,  /ˈhɒlɪzəm/-NAmE /ˈhəʊlɪzəm
 
 
 
-homeopath		<-->	noun+C2[-0]	./ˈhəʊmiəpæθ/,  /ˈhɒmiəpæθ/-NAmE /ˈhəʊmiəpæθ/
+homeopath		<-->	noun+C2	[221029][1]	./ˈhəʊmiəpæθ/,  /ˈhɒmiəpæθ/-NAmE /ˈhəʊmiəpæθ/
 	;một người chữa bệnh theo phương kích thích cơ thể sinh kháng khuẩn, như tiêm vaccine-- a person who treats illness using homeopathic methods
 
 
@@ -1469,7 +1596,7 @@ homeopath		<-->	noun+C2[-0]	./ˈhəʊmiəpæθ/,  /ˈhɒmiəpæθ/-NAmE /ˈhəʊ
 
 
 
-homeopathy		<-->	noun+C2[-0]	./ˌhəʊmiˈɒpəθi/,  /ˌhɒmiˈɒpəθi/-NAmE /ˌhəʊmiˈɑːpəθi/
+homeopathy		<-->	noun+C2	[221029][1]	./ˌhəʊmiˈɒpəθi/,  /ˌhɒmiˈɒpəθi/-NAmE /ˌhəʊmiˈɑːpəθi/
 	;​một cách thức hệ thống chữa bệnh theo cách tiêm vi lượng -- a system of treating diseases or conditions using very small amounts of the substance that causes the disease or condition
 
 
@@ -1477,7 +1604,7 @@ homeopathy		<-->	noun+C2[-0]	./ˌhəʊmiˈɒpəθi/,  /ˌhɒmiˈɒpəθi/-NAmE /
 
 
 
-hospice		<-->	noun+C2[-0]	./ˈhɒspɪs/-NAmE /ˈhɑːspɪs/
+hospice		<-->	noun+C2	[221029][1]	./ˈhɒspɪs/-NAmE /ˈhɑːspɪs/
 	;nhà xác -- a hospital for people who are dying
 		;She founded an AIDS hospice with the help of a local doctor.
 
@@ -1486,7 +1613,7 @@ hospice		<-->	noun+C2[-0]	./ˈhɒspɪs/-NAmE /ˈhɑːspɪs/
 
 
 
-hospital		<-->	noun+A1[-0]	./ˈhɒspɪtl/-NAmE /ˈhɑːspɪtl/
+hospital		<-->	noun+A1	[221029][1]	./ˈhɒspɪtl/-NAmE /ˈhɑːspɪtl/
 	;bệnh viện -- a large building where people who are ill or injured are given medical treatment and care
 		;North American English): He had to go to/into the hospital for treatment.
 
@@ -1495,7 +1622,7 @@ hospital		<-->	noun+A1[-0]	./ˈhɒspɪtl/-NAmE /ˈhɑːspɪtl/
 
 
 
-hospitalist		<-->	noun+C2[-0]	./ˈhɒspɪtəlɪst/-NAmE /ˈhɑːspɪtəlɪst/
+hospitalist		<-->	noun+C2	[221029][1]	./ˈhɒspɪtəlɪst/-NAmE /ˈhɑːspɪtəlɪst/
 	;bác sĩ -- a doctor who cares for patients in a hospital
 		;He was taken to the emergency room and examined by the hospitalist on duty.
 
@@ -1504,7 +1631,7 @@ hospitalist		<-->	noun+C2[-0]	./ˈhɒspɪtəlɪst/-NAmE /ˈhɑːspɪtəlɪst/
 
 
 
-hospitalization		<-->	noun+C1[-0]	./ˌhɒspɪtəlaɪˈzeɪʃn/-NAmE /ˌhɑːspɪtələˈzeɪʃn/
+hospitalization		<-->	noun+C1	[221029][1]	./ˌhɒspɪtəlaɪˈzeɪʃn/-NAmE /ˌhɑːspɪtələˈzeɪʃn/
 	;việc nhập viện -- [uncountable] the fact of having to stay in a hospital for treatment
 		;a long period of hospitalization
 
@@ -1513,7 +1640,7 @@ hospitalization		<-->	noun+C1[-0]	./ˌhɒspɪtəlaɪˈzeɪʃn/-NAmE /ˌhɑːspɪ
 
 
 
-hospitalize		<-->	verb+C1[-0]	./ˈhɒspɪtəlaɪz/-NAmE /ˈhɑːspɪtəlaɪz/
+hospitalize		<-->	verb+C1	[221029][1]	./ˈhɒspɪtəlaɪz/-NAmE /ˈhɑːspɪtəlaɪz/
 	;nhập viện -- [usually passive] to send somebody to a hospital for treatment
 		;be hospitalized: Eight people were hospitalized after receiving bullet wounds.
 
@@ -1522,7 +1649,7 @@ hospitalize		<-->	verb+C1[-0]	./ˈhɒspɪtəlaɪz/-NAmE /ˈhɑːspɪtəlaɪz/
 
 
 
-house call		<-->	noun+C1[-0]	./ˈhaʊs kɔːl/-NAmE /ˈhaʊs kɔːl/+\
+house call		<-->	noun+C1	[221029][1]	./ˈhaʊs kɔːl/-NAmE /ˈhaʊs kɔːl/+\
 	;việc thăm bệnh -- a visit made to a patient or client in their own home by a doctor or other professional
 		;Many personal trainers have started to make house calls.
 
@@ -1531,7 +1658,7 @@ house call		<-->	noun+C1[-0]	./ˈhaʊs kɔːl/-NAmE /ˈhaʊs kɔːl/+\
 
 
 
-hypnotherapist		<-->	noun+C2[-0]	./ˌhɪpnəʊˈθerəpɪst/-NAmE /ˌhɪpnəʊˈθerəpɪst/
+hypnotherapist		<-->	noun+C2	[221029][1]	./ˌhɪpnəʊˈθerəpɪst/-NAmE /ˌhɪpnəʊˈθerəpɪst/
 	;người thôi miên -- a person who uses hypnosis(thôi miên) to treat people who have physical or emotional problems
 		;I work as a clinical hypnotherapist in a hospital.
 
@@ -1540,11 +1667,11 @@ hypnotherapist		<-->	noun+C2[-0]	./ˌhɪpnəʊˈθerəpɪst/-NAmE /ˌhɪpnəʊˈ
 
 
 
-hypnotherapy		<-->	noun+C2[-0]	./ˌhɪpnəʊˈθerəpi/-NAmE /ˌhɪpnəʊˈθerəpi/
+hypnotherapy		<-->	noun+C2	[221029][1]	./ˌhɪpnəʊˈθerəpi/-NAmE /ˌhɪpnəʊˈθerəpi/
 	;liệu pháp thôi miên -- a kind of treatment that uses hypnosis to help with physical or emotional problems
 		;Hypnotherapy can be beneficial for those who wish to give up smoking or to lose weight.
 			
-hypodermic		<-->	adjective+C2[-0]	./ˌhaɪpəˈdɜːmɪk/-NAmE /ˌhaɪpəˈdɜːrmɪk/
+hypodermic		<-->	adjective+C2	[221029][1]	./ˌhaɪpəˈdɜːmɪk/-NAmE /ˌhaɪpəˈdɜːrmɪk/
 	;dưới da -- under the skin; for giving somebody an injection under the skin
 		;a hypodermic needle/syringe
 		;a hypodermic injection
@@ -1554,7 +1681,7 @@ hypodermic		<-->	adjective+C2[-0]	./ˌhaɪpəˈdɜːmɪk/-NAmE /ˌhaɪpəˈdɜː
 
 
 
-hypodermic		<-->	noun+C2[-0]	./ˌhaɪpəˈdɜːmɪk/-NAmE /ˌhaɪpəˈdɜːrmɪk/-\
+hypodermic		<-->	noun+C2	[221029][1]	./ˌhaɪpəˈdɜːmɪk/-NAmE /ˌhaɪpəˈdɜːrmɪk/-\
 	;tiêm dưới da -- ​a medical instrument with a long thin needle that is used to give somebody an injection under their skin
 
 
@@ -1562,7 +1689,7 @@ hypodermic		<-->	noun+C2[-0]	./ˌhaɪpəˈdɜːmɪk/-NAmE /ˌhaɪpəˈdɜːrmɪk
 
 
 
-ice pack		<-->	noun+C1[-0]	./ˈaɪs pæk/-NAmE /ˈaɪs pæk/
+ice pack		<-->	noun+C1	[221029][1]	./ˈaɪs pæk/-NAmE /ˈaɪs pæk/
 	;bọc đá chườm -- a plastic container filled with ice that is used to cool parts of the body that are injured, etc.
 
 
@@ -1570,7 +1697,7 @@ ice pack		<-->	noun+C1[-0]	./ˈaɪs pæk/-NAmE /ˈaɪs pæk/
 
 
 
-ICU		<-->	noun+C2[-0]	./ˌaɪ siː ˈjuː/-NAmE /ˌaɪ siː ˈjuː/
+ICU		<-->	noun+C2	[221029][1]	./ˌaɪ siː ˈjuː/-NAmE /ˌaɪ siː ˈjuː/
 	;intensive care unit (in a hospital)
 
 
@@ -1578,7 +1705,7 @@ ICU		<-->	noun+C2[-0]	./ˌaɪ siː ˈjuː/-NAmE /ˌaɪ siː ˈjuː/
 
 
 
-immunize		<-->	verb+C1[-0]	./ˈɪmjunaɪz/-NAmE /ˈɪmjunaɪz/
+immunize		<-->	verb+C1	[221029][1]	./ˈɪmjunaɪz/-NAmE /ˈɪmjunaɪz/
 	;tiêm ngừa -- immunize somebody/something (against something) : to protect a person or an animal from a disease, especially by giving them an injection of a vaccine
 		;a campaign to immunize children against the common killer diseases
 
@@ -1587,7 +1714,7 @@ immunize		<-->	verb+C1[-0]	./ˈɪmjunaɪz/-NAmE /ˈɪmjunaɪz/
 
 
 
-implant		<-->	verb+B2[-0]	./ɪmˈplɑːnt/-NAmE /ɪmˈplænt/\
+implant		<-->	verb+B2	[221029][1]	./ɪmˈplɑːnt/-NAmE /ɪmˈplænt/\
 	;cấy thiết bị vào cơ thể -- [transitive] implant something (in/into something): to put something (usually something artificial) into a part of the body, usually in a medical operation
 		;an electrode(điện cực) implanted into the brain
 		;an operation to implant an artificial heart
@@ -1597,7 +1724,15 @@ implant		<-->	verb+B2[-0]	./ɪmˈplɑːnt/-NAmE /ɪmˈplænt/\
 
 
 
-implant		<-->	noun+B2[-0]	.
+implant		<-->	noun+B2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 	;việc cấy ghép cho cơ thể người -- something that is put into a part of the body, usually in a medical operation
 		;silicone breast implants
 		;Dental implants can replace missing teeth.
@@ -1607,7 +1742,7 @@ implant		<-->	noun+B2[-0]	.
 
 
 
-incision		<-->	noun+C2[-0]	./ɪnˈsɪʒn/-NAmE /ɪnˈsɪʒn/
+incision		<-->	noun+C2	[221029][1]	./ɪnˈsɪʒn/-NAmE /ɪnˈsɪʒn/
 	;vết mổ -- [countable, uncountable] - a sharp cut made in something, particularly during a medical operation; the act of making a cut in something
 		;Make a small incision below the ribs(sườn).
 
@@ -1616,7 +1751,7 @@ incision		<-->	noun+C2[-0]	./ɪnˈsɪʒn/-NAmE /ɪnˈsɪʒn/
 
 
 
-incubator		<-->	noun+C2[-0]	./ˈɪŋkjubeɪtə(r)/-NAmE /ˈɪŋkjubeɪtər/
+incubator		<-->	noun+C2	[221029][1]	./ˈɪŋkjubeɪtə(r)/-NAmE /ˈɪŋkjubeɪtər/
 	;lồng ấp bé sơ sinh -- a piece of equipment in a hospital that new babies are placed in when they are weak or born too early, in order to help them survive
 		;Their baby was so small she spent three weeks in an incubator before going home.
 
@@ -1625,7 +1760,7 @@ incubator		<-->	noun+C2[-0]	./ˈɪŋkjubeɪtə(r)/-NAmE /ˈɪŋkjubeɪtər/
 
 
 
-infirmary		<-->	noun+C2[-0]	./ɪnˈfɜːməri/-NAmE /ɪnˈfɜːrməri/
+infirmary		<-->	noun+C2	[221029][1]	./ɪnˈfɜːməri/-NAmE /ɪnˈfɜːrməri/
 	;bệnh viện -- (plural infirmaries)(often used in names) a hospital
 		;He had his leg bandaged(băng bó) in the infirmary.
 
@@ -1634,7 +1769,7 @@ infirmary		<-->	noun+C2[-0]	./ɪnˈfɜːməri/-NAmE /ɪnˈfɜːrməri/
 
 
 
-informed consent		<-->	noun+C1[-0]	./ɪnˌfɔːmd kənˈsent/-NAmE /ɪnˌfɔːrmd kənˈsent/
+informed consent		<-->	noun+C1	[221029][1]	./ɪnˌfɔːmd kənˈsent/-NAmE /ɪnˌfɔːrmd kənˈsent/
 	;sự đồng ý của bệnh nhân -- permission from a patient for a medical professional to carry out treatment, with complete understanding of the possible risks and consequences . TOPICS HealthcareC1
 		;Dentists must obtain informed consent before carrying out treatment.
 
@@ -1652,7 +1787,7 @@ infuse		<-->	verb+C2	[220808][1]	./ɪnˈfjuːz/-NAmE /ɪnˈfjuːz/
 
 
 			
-infusion		<-->	noun+C2[-0]	./ɪnˈfjuːʒn/-NAmE /ɪnˈfjuːʒn/
+infusion		<-->	noun+C2	[221029][1]	./ɪnˈfjuːʒn/-NAmE /ɪnˈfjuːʒn/
 	;sự tiêm thuốc -- [countable, uncountable] (medical) an act of slowly putting a drug or other substance into a person’s vein; the drug that is used in this way
 
 
@@ -1660,7 +1795,7 @@ infusion		<-->	noun+C2[-0]	./ɪnˈfjuːʒn/-NAmE /ɪnˈfjuːʒn/
 
 
 
-inhaler		<-->	noun+C2[-0]	./ɪnˈheɪlə(r)/-NAmE /ɪnˈheɪlər/
+inhaler		<-->	noun+C2	[221029][1]	./ɪnˈheɪlə(r)/-NAmE /ɪnˈheɪlər/
 	;ống hít thở -- a small device containing medicine that you breathe in through your mouth, used by people who have problems with breathing
 
 
@@ -1668,7 +1803,7 @@ inhaler		<-->	noun+C2[-0]	./ɪnˈheɪlə(r)/-NAmE /ɪnˈheɪlər/
 
 
 
-inject		<-->	verb+C1[-0]	./ɪnˈdʒekt/-NAmE /ɪnˈdʒekt/
+inject		<-->	verb+C1	[221029][1]	./ɪnˈdʒekt/-NAmE /ɪnˈdʒekt/
 	;tiêm thuốc -- [transitive, intransitive] to put a drug or other substance into a person’s or an animal’s body using a syringe
 		; inject something (into yourself/somebody/something) : Adrenaline was injected into the muscle.
 
@@ -1677,7 +1812,7 @@ inject		<-->	verb+C1[-0]	./ɪnˈdʒekt/-NAmE /ɪnˈdʒekt/
 
 
 
-injection		<-->	noun+C1[-0]	./ɪnˈdʒekʃn/-NAmE /ɪnˈdʒekʃn/
+injection		<-->	noun+C1	[221029][1]	./ɪnˈdʒekʃn/-NAmE /ɪnˈdʒekʃn/
 	;việc tiêm thuốc -- [countable, uncountable] an act of injecting somebody with a drug or other substance
 		;He was treated with penicillin injections.
 
@@ -1694,7 +1829,7 @@ inoculate		<-->	verb+C2	[220808][1]	./ɪˈnɒkjuleɪt/-NAmE /ɪˈnɑːkjuleɪt/
 
 
 
-inoculation		<-->	noun+C2[-0]	./ɪˌnɒkjuˈleɪʃn/-NAmE /ɪˌnɑːkjuˈleɪʃn/
+inoculation		<-->	noun+C2	[221029][1]	./ɪˌnɒkjuˈleɪʃn/-NAmE /ɪˌnɑːkjuˈleɪʃn/
 	; việc vaccine hoá, tiêm phòng -- ​an act of protecting a person or an animal from catching a particular disease by injecting them with a mild form of the disease
 		;Has the puppy had all its inoculations yet?
 
@@ -1706,7 +1841,7 @@ inoculation		<-->	noun+C2[-0]	./ɪˌnɒkjuˈleɪʃn/-NAmE /ɪˌnɑːkjuˈleɪʃn
 inpatient		<-->	noun+C2	/ˈɪnpeɪʃnt/-NAmE /ˈɪnpeɪʃnt/
 		;bệnh nhân nội trú -- ​a person who stays in a hospital while receiving treatment
 			
-insulin		<-->	noun+C2[-0]	./ˈɪnsjəlɪn/-NAmE /ˈɪnsəlɪn/
+insulin		<-->	noun+C2	[221029][1]	./ˈɪnsjəlɪn/-NAmE /ˈɪnsəlɪn/
 	;chất  -- a chemical substance produced in the body that controls the amount of sugar in the blood (by influencing the rate at which it is removed); a similar artificial substance given to people whose bodies do not produce enough naturally
 		;insulin-dependent diabetes
 
@@ -1715,7 +1850,7 @@ insulin		<-->	noun+C2[-0]	./ˈɪnsjəlɪn/-NAmE /ˈɪnsəlɪn/
 
 
 
-intensive care		<-->	noun+C1[-0]	./ɪnˌtensɪv ˈkeə(r)/-NAmE /ɪnˌtensɪv ˈker/
+intensive care		<-->	noun+C1	[221029][1]	./ɪnˌtensɪv ˈkeə(r)/-NAmE /ɪnˌtensɪv ˈker/
 	;chăm sóc đặc biệt -- continuous care and attention, often using special equipment, for people in hospital who are very seriously ill or injured
 		;She needed intensive care for several days.
 
@@ -1724,7 +1859,7 @@ intensive care		<-->	noun+C1[-0]	./ɪnˌtensɪv ˈkeə(r)/-NAmE /ɪnˌtensɪv ˈ
 
 
 
-intern		<-->	noun+C2[-0]	./ˈɪntɜːn/-NAmE /ˈɪntɜːrn/-\
+intern		<-->	noun+C2	[221029][1]	./ˈɪntɜːn/-NAmE /ˈɪntɜːrn/-\
 	;sinh viên sắp ra trường -- ​(North American English) an advanced student of medicine whose training is nearly finished and who is working in a hospital to get further practical experience
 		;Interns and residents at the hospital are working 12-hour shifts.
 	;người thực tập -- a student or new graduate who is getting practical experience in a job, sometimes without pay, for example during the summer holiday; TOPICS Working lifeC1
@@ -1734,7 +1869,7 @@ intern		<-->	noun+C2[-0]	./ˈɪntɜːn/-NAmE /ˈɪntɜːrn/-\
 
 
 
-internship		<-->	noun+C2[-0]	./ˈɪntɜːnʃɪp/-NAmE /ˈɪntɜːrnʃɪp/
+internship		<-->	noun+C2	[221029][1]	./ˈɪntɜːnʃɪp/-NAmE /ˈɪntɜːrnʃɪp/
 	;công việc thực tập -- (North American English) a job that an advanced student of medicine, whose training is nearly finished, does in a hospital to get further practical experience
 	;gia đoạn thực tập -- a period of time during which a student or new graduate gets practical experience in a job, for example during the summer holiday 
 	;TOPICS Working lifeC1, JobsC1
@@ -1745,7 +1880,7 @@ internship		<-->	noun+C2[-0]	./ˈɪntɜːnʃɪp/-NAmE /ˈɪntɜːrnʃɪp/
 
 
 
-intravenous		<-->	adjective+C2[-0]	./ˌɪntrəˈviːnəs/-NAmE /ˌɪntrəˈviːnəs/
+intravenous		<-->	adjective+C2	[221029][1]	./ˌɪntrəˈviːnəs/-NAmE /ˌɪntrəˈviːnəs/
 	;vào tĩnh mạch -- (of drugs or food) going into a vein(tĩnh mạch)
 		;intravenous fluids
 		;an intravenous injection
@@ -1764,7 +1899,7 @@ intravenously		<-->	adverb+C2	[220808][1]	./ˌɪntrəˈviːnəsli/-NAmE /ˌɪntr
 
 
 
-invasive		<-->	adjective+C2[-0]	./ɪnˈveɪsɪv/-NAmE /ɪnˈveɪsɪv/
+invasive		<-->	adjective+C2	[221029][1]	./ɪnˈveɪsɪv/-NAmE /ɪnˈveɪsɪv/
 	;lan nhanh -- (formal) (especially of diseases within the body) spreading very quickly and difficult to stop
 		;invasive cancer
 
@@ -1773,7 +1908,7 @@ invasive		<-->	adjective+C2[-0]	./ɪnˈveɪsɪv/-NAmE /ɪnˈveɪsɪv/
 
 
 
-iridology		<-->	noun+C2[-0]	./ˌaɪrɪˈdɒlədʒi/,  /ˌɪrɪˈdɒlədʒi/-NAmE /ˌaɪrɪˈdɑːlədʒi/
+iridology		<-->	noun+C2	[221029][1]	./ˌaɪrɪˈdɒlədʒi/,  /ˌɪrɪˈdɒlədʒi/-NAmE /ˌaɪrɪˈdɑːlədʒi/
 	;một loại thuốc kết hợp với mống mắt để xác định bệnh -- [uncountable] a form of alternative medicine in which the iris (= the coloured part of the eye) is examined in order to find out what is wrong with somebody
 
 
@@ -1781,9 +1916,9 @@ iridology		<-->	noun+C2[-0]	./ˌaɪrɪˈdɒlədʒi/,  /ˌɪrɪˈdɒlədʒi/-NAmE
 
 
 
-isolate		<-->	verb+B2[-0]	./ˈaɪsəleɪt/-NAmE /ˈaɪsəleɪt/
+isolate		<-->	verb+B2	[221029][1]	./ˈaɪsəleɪt/-NAmE /ˈaɪsəleɪt/
 	;cô lập -- to separate somebody/something physically or socially from other people or things
-		; isolate somebody/yourself/something from somebody/something: He was immediately isolated from the other prisoners.
+		;isolate somebody/yourself/something from somebody/something: He was immediately isolated from the other prisoners.
 		;isolate somebody/yourself/something: Patients with the disease should be isolated.
 
 
@@ -1791,7 +1926,7 @@ isolate		<-->	verb+B2[-0]	./ˈaɪsəleɪt/-NAmE /ˈaɪsəleɪt/
 
 
 
-isolation		<-->	noun+C1[-0]	./ˌaɪsəˈleɪʃn/-NAmE /ˌaɪsəˈleɪʃn/
+isolation		<-->	noun+C1	[221029][1]	./ˌaɪsəˈleɪʃn/-NAmE /ˌaɪsəˈleɪʃn/
 	;việc cô lập -- the act of separating somebody/something; the state of being separate
 		;geographical isolation
 
@@ -1800,7 +1935,7 @@ isolation		<-->	noun+C1[-0]	./ˌaɪsəˈleɪʃn/-NAmE /ˌaɪsəˈleɪʃn/
 
 
 
-jab		<-->	noun+C2[-0]	./dʒæb/-NAmE /dʒæb/
+jab		<-->	noun+C2	[221029][1]	./dʒæb/-NAmE /dʒæb/
 	;sự tiêm phòng -- ​(British English, informal) an injection to help prevent you from catching a disease
 		;a flu jab
 
@@ -1809,7 +1944,7 @@ jab		<-->	noun+C2[-0]	./dʒæb/-NAmE /dʒæb/
 
 
 
-junior doctor		<-->	noun+B2[-0]	./ˌdʒuːniə ˈdɒktə(r)/-NAmE /ˌdʒuːniər ˈdɑːktər/
+junior doctor		<-->	noun+B2	[221029][1]	./ˌdʒuːniə ˈdɒktə(r)/-NAmE /ˌdʒuːniər ˈdɑːktər/
 	;bác sĩ mới ra trường -- (in the UK) a doctor who has finished medical school and who is working at a hospital to get further practical experience
 
 
@@ -1817,7 +1952,7 @@ junior doctor		<-->	noun+B2[-0]	./ˌdʒuːniə ˈdɒktə(r)/-NAmE /ˌdʒuːniər
 
 
 
-keyhole surgery		<-->	noun+C2[-0]	./ˌkiːhəʊl ˈsɜːdʒəri/-NAmE /ˌkiːhəʊl ˈsɜːrdʒəri/+\
+keyhole surgery		<-->	noun+C2	[221029][1]	./ˌkiːhəʊl ˈsɜːdʒəri/-NAmE /ˌkiːhəʊl ˈsɜːrdʒəri/+\
 	;điều trị bằng cách cắt một bộ phận nhỏ -- [uncountable] ​medical operations that involve only a very small cut being made in the patient’s body
 
 
@@ -1825,7 +1960,7 @@ keyhole surgery		<-->	noun+C2[-0]	./ˌkiːhəʊl ˈsɜːdʒəri/-NAmE /ˌkiːhə
 
 
 
-laxative		<-->	noun+C2[-0]	./ˈlæksətɪv/-NAmE /ˈlæksətɪv/-\
+laxative		<-->	noun+C2	[221029][1]	./ˈlæksətɪv/-NAmE /ˈlæksətɪv/-\
 	;một loại thuốc, ... giúp tiêu hoá -- a medicine, food or drink that makes somebody empty their bowels(ruột) easily
 
 
@@ -1833,7 +1968,7 @@ laxative		<-->	noun+C2[-0]	./ˈlæksətɪv/-NAmE /ˈlæksətɪv/-\
 
 
 
-life support machine		<-->	noun+C1[-0]	./ˌlaɪf səˈpɔːt məʃiːn/-NAmE /ˌlaɪf səˈpɔːrt məʃiːn/+\
+life support machine		<-->	noun+C1	[221029][1]	./ˌlaɪf səˈpɔːt məʃiːn/-NAmE /ˌlaɪf səˈpɔːrt məʃiːn/+\
 	;máy trợ sinh -- a piece of equipment that keeps somebody alive when they are extremely ill and cannot breathe without help
 		;He was put on a life support machine in intensive care.
 
@@ -1842,7 +1977,7 @@ life support machine		<-->	noun+C1[-0]	./ˌlaɪf səˈpɔːt məʃiːn/-NAmE /ˌ
 
 
 
-liver salts		<-->	noun+C2[-0]	./ˈlɪvə sɔːlts/,  /ˈlɪvə sɒlts/-NAmE /ˈlɪvər sɔːlts/
+liver salts		<-->	noun+C2	[221029][1]	./ˈlɪvə sɔːlts/,  /ˈlɪvə sɒlts/-NAmE /ˈlɪvər sɔːlts/
 	;thuốc tiêu đen -- a substance that you drink to help with indigestion (= pain caused by difficulty in digesting food)
 
 
@@ -1850,7 +1985,7 @@ liver salts		<-->	noun+C2[-0]	./ˈlɪvə sɔːlts/,  /ˈlɪvə sɒlts/-NAmE /ˈl
 
 
 
-lobotomy		<-->	noun+C2[-0]	./ləˈbɒtəmi/-NAmE /ləˈbɑːtəmi/
+lobotomy		<-->	noun+C2	[221029][1]	./ləˈbɒtəmi/-NAmE /ləˈbɑːtəmi/
 	;một loại điều trị khó, như cắt bỏ một phần não  -- a rare medical operation that cuts into part of a person’s brain in order to treat some serious mental illnesses
 
 
@@ -1858,7 +1993,7 @@ lobotomy		<-->	noun+C2[-0]	./ləˈbɒtəmi/-NAmE /ləˈbɑːtəmi/
 
 
 
-locum		<-->	noun+C2[-0]	./ˈləʊkəm/-NAmE /ˈləʊkəm/
+locum		<-->	noun+C2	[221029][1]	./ˈləʊkəm/-NAmE /ˈləʊkəm/
 	;bác sĩ người thay thế tạm thời -- a doctor or priest(linh mục) who does the work of another doctor or priest while they are sick, on holiday, etc.; the position of such a doctor or priest
 		;My usual doctor was away, so I saw a locum.
 
@@ -1867,7 +2002,7 @@ locum		<-->	noun+C2[-0]	./ˈləʊkəm/-NAmE /ˈləʊkəm/
 
 
 
-lozenge		<-->	noun+C2[-0]	./ˈlɒzɪndʒ/-NAmE /ˈlɑːzɪndʒ/
+lozenge		<-->	noun+C2	[221029][1]	./ˈlɒzɪndʒ/-NAmE /ˈlɑːzɪndʒ/
 	;kẹo ho -- a small sweet, often in a lozenge shape, especially one that contains medicine and that you dissolve (= turn to liquid) in your mouth	
 		;throat/cough lozenges
 
@@ -1876,7 +2011,7 @@ lozenge		<-->	noun+C2[-0]	./ˈlɒzɪndʒ/-NAmE /ˈlɑːzɪndʒ/
 
 
 
-managed care		<-->	noun+C2[-0]	./ˌmænɪdʒd ˈkeə(r)/-NAmE /ˌmænɪdʒd ˈker/
+managed care		<-->	noun+C2	[221029][1]	./ˌmænɪdʒd ˈkeə(r)/-NAmE /ˌmænɪdʒd ˈker/
 	;y tế gói giới hạn -- a healthcare system that controls medical costs by offering a limited choice of doctors and hospitals or charging extra for those not on the list
 
 
@@ -1884,7 +2019,7 @@ managed care		<-->	noun+C2[-0]	./ˌmænɪdʒd ˈkeə(r)/-NAmE /ˌmænɪdʒd ˈke
 
 
 
-mask		<-->	noun+C1[-0]	./mɑːsk/-NAmE /mæsk/
+mask		<-->	noun+C1	[221029][1]	./mɑːsk/-NAmE /mæsk/
 	;something that you wear over your face to hide it, or to frighten or entertain other people
 		;The kids were all wearing animal masks.
 
@@ -1893,7 +2028,7 @@ mask		<-->	noun+C1[-0]	./mɑːsk/-NAmE /mæsk/
 
 
 
-massage		<-->	noun+B2[-0]	./ˈmæsɑːʒ/-NAmE /məˈsɑːʒ/
+massage		<-->	noun+B2	[221029][1]	./ˈmæsɑːʒ/-NAmE /məˈsɑːʒ/
 	;massage -- the action of rubbing and pressing a person’s body with the hands, especially to reduce pain in the muscles and joints
 		;a back massage 
 
@@ -1902,7 +2037,7 @@ massage		<-->	noun+B2[-0]	./ˈmæsɑːʒ/-NAmE /məˈsɑːʒ/
 
 
 
-massage		<-->	verb+B2[-0]	./ˈmæsɑːʒ/-NAmE /məˈsɑːʒ/
+massage		<-->	verb+B2	[221029][1]	./ˈmæsɑːʒ/-NAmE /məˈsɑːʒ/
 	;massage something: to rub and press a person’s body with the hands, especially to reduce pain in the muscles and joints
 		;He massaged the aching muscles in her feet.
 
@@ -1911,7 +2046,7 @@ massage		<-->	verb+B2[-0]	./ˈmæsɑːʒ/-NAmE /məˈsɑːʒ/
 
 
 
-maternity		<-->	noun+B2[-0]	./məˈtɜːnəti/-NAmE /məˈtɜːrnəti/
+maternity		<-->	noun+B2	[221029][1]	./məˈtɜːnəti/-NAmE /məˈtɜːrnəti/
 	;quá trình mang thai -- the state of being or becoming a mother
 		;maternity clothes (= clothes for women who are pregnant)
 
@@ -1920,7 +2055,7 @@ maternity		<-->	noun+B2[-0]	./məˈtɜːnəti/-NAmE /məˈtɜːrnəti/
 
 
 
-matron		<-->	noun+C2[-0]	./ˈmeɪtrən/-NAmE /ˈmeɪtrən/
+matron		<-->	noun+C2	[221029][1]	./ˈmeɪtrən/-NAmE /ˈmeɪtrən/
 	;y tá tại trường -- (British English) a woman who works as a nurse in a school	
 	;y tá nhiều năm -- (British English) a senior nurse in charge of the other nurses in a hospital
 
@@ -1929,7 +2064,7 @@ matron		<-->	noun+C2[-0]	./ˈmeɪtrən/-NAmE /ˈmeɪtrən/
 
 
 
-medic		<-->	noun+C2[-0]	./ˈmedɪk/-NAmE /ˈmedɪk/
+medic		<-->	noun+C2	[221029][1]	./ˈmedɪk/-NAmE /ˈmedɪk/
 	;sinh viên y khoa -- (especially British English, informal) a medical student or doctor
 		;Somebody call a medic!
 	;nhân viên, lính cứu thương -- (North American English) a person who is trained to give medical treatment, especially somebody in the armed forces
@@ -1939,7 +2074,7 @@ medic		<-->	noun+C2[-0]	./ˈmedɪk/-NAmE /ˈmedɪk/
 
 
 
-medical		<-->	adjective+A2[-0]	./ˈmedɪkl/-NAmE /ˈmedɪkl/-\
+medical		<-->	adjective+A2	[221029][1]	./ˈmedɪkl/-NAmE /ˈmedɪkl/-\
 	;(thuộc về) y tế -- connected with illness and injury and their treatment
 		;medical care/treatment
 		;the medical profession
@@ -1949,7 +2084,7 @@ medical		<-->	adjective+A2[-0]	./ˈmedɪkl/-NAmE /ˈmedɪkl/-\
 
 
 
-medical		<-->	noun+B2[-0]	./ˈmedɪkl/-NAmE /ˈmedɪkl/
+medical		<-->	noun+B2	[221029][1]	./ˈmedɪkl/-NAmE /ˈmedɪkl/
 	;cuộc kiểm tra y tết -- a careful and complete examination of your body that a doctor does, for example before you start a particular job
 		;Pilots undergo regular medicals.
 
@@ -1967,7 +2102,7 @@ medicate		<-->	verb+C2	[220808][1]	./ˈmedɪkeɪt/-NAmE /ˈmedɪkeɪt/
 
 
 
-medication		<-->	noun+B2[-0]	./ˌmedɪˈkeɪʃn/-NAmE /ˌmedɪˈkeɪʃn/
+medication		<-->	noun+B2	[221029][1]	./ˌmedɪˈkeɪʃn/-NAmE /ˌmedɪˈkeɪʃn/
 	;thuốc -- a drug or another form of medicine that you take to prevent or to treat an illness; treatment involving drugs
 		;Are you currently taking any medication?
 
@@ -1976,7 +2111,7 @@ medication		<-->	noun+B2[-0]	./ˌmedɪˈkeɪʃn/-NAmE /ˌmedɪˈkeɪʃn/
 
 
 
-medicine		<-->	noun +A2[-0]	./ˈmedsn/,  /ˈmedɪsn/-NAmE /ˈmedɪsn/-\
+medicine		<-->	noun +A2	[221029][1]	./ˈmedsn/,  /ˈmedɪsn/-NAmE /ˈmedɪsn/-\
 	;y học -- [uncountable] the study and treatment of diseases and injuries
 		;a professor of medicine
 		;Acupuncture has long been a part of traditional Chinese medicine.
@@ -1995,7 +2130,7 @@ medicine		<-->	noun +A2[-0]	./ˈmedsn/,  /ˈmedɪsn/-NAmE /ˈmedɪsn/-\
 
 
 
-medicine man		<-->	noun+C1[-0]	./ˈmedsn mæn/,  /ˈmedɪsn mæn/-NAmE /ˈmedɪsn mæn/
+medicine man		<-->	noun+C1	[221029][1]	./ˈmedsn mæn/,  /ˈmedɪsn mæn/-NAmE /ˈmedɪsn mæn/
 	;"thầy" chữa bách bệnh -- (especially among some native North American peoples) a person who is believed to have special magic powers that can be used to make sick people well again
 
 
@@ -2003,7 +2138,7 @@ medicine man		<-->	noun+C1[-0]	./ˈmedsn mæn/,  /ˈmedɪsn mæn/-NAmE /ˈmedɪs
 
 
 
-midwife		<-->	noun+C2[-0]	./ˈmɪdwaɪf/-NAmE /ˈmɪdwaɪf/
+midwife		<-->	noun+C2	[221029][1]	./ˈmɪdwaɪf/-NAmE /ˈmɪdwaɪf/
 	;Bà mụ, người đõ đẻ -- a person, especially a woman, who is trained to help women give birth to babies
 
 
@@ -2011,7 +2146,7 @@ midwife		<-->	noun+C2[-0]	./ˈmɪdwaɪf/-NAmE /ˈmɪdwaɪf/
 
 
 
-midwifery		<-->	noun+C2[-0]	./ˌmɪdˈwɪfəri/-NAmE /ˌmɪdˈwɪfəri/,  /ˌmɪdˈwaɪfəri/
+midwifery		<-->	noun+C2	[221029][1]	./ˌmɪdˈwɪfəri/-NAmE /ˌmɪdˈwɪfəri/,  /ˌmɪdˈwaɪfəri/
 	;nghề đỡ đẻ -- ​the profession and work of a midwife
 
 
@@ -2019,7 +2154,7 @@ midwifery		<-->	noun+C2[-0]	./ˌmɪdˈwɪfəri/-NAmE /ˌmɪdˈwɪfəri/,  /ˌmɪ
 
 
 
-monitor		<-->	noun+B2[-0]	./ˈmɒnɪtə(r)/-NAmE /ˈmɑːnɪtər/
+monitor		<-->	noun+B2	[221029][1]	./ˈmɒnɪtə(r)/-NAmE /ˈmɑːnɪtər/
 	;thiết bị giám sát y tế -- a piece of equipment used to check or record something
 		;He was lying there hooked up to a heart monitor.
 
@@ -2028,7 +2163,7 @@ monitor		<-->	noun+B2[-0]	./ˈmɒnɪtə(r)/-NAmE /ˈmɑːnɪtər/
 
 
 
-morphine		<-->	noun+C2[-0]	./ˈmɔːfiːn/-NAmE /ˈmɔːrfiːn/
+morphine		<-->	noun+C2	[221029][1]	./ˈmɔːfiːn/-NAmE /ˈmɔːrfiːn/
 	;thuốc giảm đau mạnh --  powerful drug that is made from opium and used to reduce pain
 		;Cancer patients are often prescribed increasing doses of morphine.
 
@@ -2037,7 +2172,7 @@ morphine		<-->	noun+C2[-0]	./ˈmɔːfiːn/-NAmE /ˈmɔːrfiːn/
 
 
 
-mortuary		<-->	noun+C2[-0]	./ˈmɔːtʃəri/-NAmE /ˈmɔːrtʃueri/
+mortuary		<-->	noun+C2	[221029][1]	./ˈmɔːtʃəri/-NAmE /ˈmɔːrtʃueri/
 	;nhà xác -- a room or building, for example part of a hospital, in which dead bodies are kept before they are buried or cremated (= burned)
 		;They put the body in the hospital mortuary.
 
@@ -2046,7 +2181,7 @@ mortuary		<-->	noun+C2[-0]	./ˈmɔːtʃəri/-NAmE /ˈmɔːrtʃueri/
 
 
 
-MRI		<-->	noun+C2[-0]	./ˌem ɑːr ˈaɪ/-NAmE /ˌem ɑːr ˈaɪ/+\
+MRI		<-->	noun+C2	[221029][1]	./ˌem ɑːr ˈaɪ/-NAmE /ˌem ɑːr ˈaɪ/+\
 	;một liệu pháp điều trị bằng từ trường -- a method of using a strong magnetic field to produce an image of the inside of a person’s body (the 		<-->		abbreviation+ for ‘magnetic resonance imaging’)
 		;The researchers used MRI to record the brain activity.
 
@@ -2055,7 +2190,7 @@ MRI		<-->	noun+C2[-0]	./ˌem ɑːr ˈaɪ/-NAmE /ˌem ɑːr ˈaɪ/+\
 
 
 
-MRSA		<-->	noun+C2[-0]	./ˌem ɑːr es ˈeɪ/-NAmE /ˌem ɑːr es ˈeɪ/+\
+MRSA		<-->	noun+C2	[221029][1]	./ˌem ɑːr es ˈeɪ/-NAmE /ˌem ɑːr es ˈeɪ/+\
 	;vi khuẩn kháng thuốc -- a type of bacteria that cannot be killed by standard antibiotics (the 		<-->		abbreviation+ for ‘methicillin-resistant Staphylococcus aureus’)
 		;rising rates of MRSA infections in hospitals
 
@@ -2064,7 +2199,7 @@ MRSA		<-->	noun+C2[-0]	./ˌem ɑːr es ˈeɪ/-NAmE /ˌem ɑːr es ˈeɪ/+\
 
 
 
-narcotic		<-->	noun+C2[-0]	./nɑːˈkɒtɪk/-NAmE /nɑːrˈkɑːtɪk/
+narcotic		<-->	noun+C2	[221029][1]	./nɑːˈkɒtɪk/-NAmE /nɑːrˈkɑːtɪk/
 	;thuốc ngủ, mê -- (medical) a substance that relaxes you, reduces pain or makes you sleep
 		;a mild narcotic
 
@@ -2073,7 +2208,7 @@ narcotic		<-->	noun+C2[-0]	./nɑːˈkɒtɪk/-NAmE /nɑːrˈkɑːtɪk/
 
 
 
-narcotic		<-->	adjective+C2[-0]	./nɑːˈkɒtɪk/-NAmE /nɑːrˈkɑːtɪk/
+narcotic		<-->	adjective+C2	[221029][1]	./nɑːˈkɒtɪk/-NAmE /nɑːrˈkɑːtɪk/
 	;(thuộc) chất gây mê, ngủ -- (of a substance) making you sleep
 		;a mild narcotic effect
 
@@ -2082,7 +2217,7 @@ narcotic		<-->	adjective+C2[-0]	./nɑːˈkɒtɪk/-NAmE /nɑːrˈkɑːtɪk/
 
 
 
-naturopath		<-->	noun+C2[-0]	./ˈneɪtʃərəpæθ/-NAmE /ˈneɪtʃərəpæθ/
+naturopath		<-->	noun+C2	[221029][1]	./ˈneɪtʃərəpæθ/-NAmE /ˈneɪtʃərəpæθ/
 	;một người điều trị bằng bệnh bằng thảo mộc -- a person who treats illnesses using natural foods and herbs and various other techniques, rather than artificial drugs
 		;A medical herbalist or naturopath will be able to advise on individual treatment plans.
 
@@ -2091,7 +2226,7 @@ naturopath		<-->	noun+C2[-0]	./ˈneɪtʃərəpæθ/-NAmE /ˈneɪtʃərəpæθ/
 
 
 
-naturopathic		<-->	adjective+C2[-0]	./ˈneɪtʃərəpæθ/-NAmE /ˈneɪtʃərəpæθ/
+naturopathic		<-->	adjective+C2	[221029][1]	./ˈneɪtʃərəpæθ/-NAmE /ˈneɪtʃərəpæθ/
 	;(thuộc về) điều trị thảo mộc -- treating diseases or conditions using natural foods and herbs and various other techniques, rather than artificial drugs
 		;naturopathic medicine
 
@@ -2100,7 +2235,7 @@ naturopathic		<-->	adjective+C2[-0]	./ˈneɪtʃərəpæθ/-NAmE /ˈneɪtʃərəp
 
 
 
-naturopathy		<-->	noun+C2[-0]	./ˌneɪtʃəˈrɒpəθi/-NAmE /ˌneɪtʃəˈrɑːpəθi/
+naturopathy		<-->	noun+C2	[221029][1]	./ˌneɪtʃəˈrɒpəθi/-NAmE /ˌneɪtʃəˈrɑːpəθi/
 	;hệ thống điều trị theo thảo mộc -- a system for treating diseases or conditions using natural foods and herbs and various other techniques, rather than artificial drugs
 
 
@@ -2108,7 +2243,7 @@ naturopathy		<-->	noun+C2[-0]	./ˌneɪtʃəˈrɒpəθi/-NAmE /ˌneɪtʃəˈrɑː
 
 
 
-needle		<-->	noun+B1[-0]	./ˈniːdl/-NAmE /ˈniːdl/
+needle		<-->	noun+B1	[221029][1]	./ˈniːdl/-NAmE /ˈniːdl/
 	;kim tiêm -- a very thin, pointed piece of steel used on the end of a syringe for putting a drug into somebody’s body, or for taking blood out of it
 		;a hypodermic needle
 		;a needle inserted into the abdomen
@@ -2118,7 +2253,7 @@ needle		<-->	noun+B1[-0]	./ˈniːdl/-NAmE /ˈniːdl/
 
 
 
-neurologist		<-->	noun+C2[-0]	./njʊəˈrɒlədʒɪst/-NAmE /nʊˈrɑːlədʒɪst/
+neurologist		<-->	noun+C2	[221029][1]	./njʊəˈrɒlədʒɪst/-NAmE /nʊˈrɑːlədʒɪst/
 	;bác sĩ thần kinh -- a doctor who studies and treats diseases of the nerves
 
 
@@ -2126,7 +2261,7 @@ neurologist		<-->	noun+C2[-0]	./njʊəˈrɒlədʒɪst/-NAmE /nʊˈrɑːlədʒɪs
 
 
 
-neurosurgeon		<-->	noun+C2[-0]	./ˈnjʊərəʊsɜːdʒən/-NAmE /ˈnʊrəʊsɜːrdʒən/
+neurosurgeon		<-->	noun+C2	[221029][1]	./ˈnjʊərəʊsɜːdʒən/-NAmE /ˈnʊrəʊsɜːrdʒən/
 	;bác sĩ (phẫu thuật)thần kinh -- a doctor who performs operations on the nervous system, especially the brain
 		;It is a surgical process that is performed by a neurosurgeon with specialized training.
 
@@ -2135,7 +2270,7 @@ neurosurgeon		<-->	noun+C2[-0]	./ˈnjʊərəʊsɜːdʒən/-NAmE /ˈnʊrəʊsɜː
 
 
 
-neurosurgery		<-->	noun+C2[-0]	./ˈnjʊərəʊsɜːdʒəri/-NAmE /ˈnʊrəʊsɜːrdʒəri/
+neurosurgery		<-->	noun+C2	[221029][1]	./ˈnjʊərəʊsɜːdʒəri/-NAmE /ˈnʊrəʊsɜːrdʒəri/
 	;phẫu thuật thần kinh -- medical operations performed on the nervous system, especially the brain
 
 
@@ -2143,7 +2278,7 @@ neurosurgery		<-->	noun+C2[-0]	./ˈnjʊərəʊsɜːdʒəri/-NAmE /ˈnʊrəʊsɜ�
 
 
 
-nip and tuck		<-->	noun+C2[-0]	./ˌnɪp ən ˈtʌk/-NAmE /ˌnɪp ən ˈtʌk/+\
+nip and tuck		<-->	noun+C2	[221029][1]	./ˌnɪp ən ˈtʌk/-NAmE /ˌnɪp ən ˈtʌk/+\
 	;giải phẫu thẩm mỹ da -- a medical operation in which skin is removed or made tighter to make somebody look younger or more attractive, especially a facelift
 
 
@@ -2152,7 +2287,7 @@ nip and tuck		<-->	noun+C2[-0]	./ˌnɪp ən ˈtʌk/-NAmE /ˌnɪp ən ˈtʌk/+\
 
 
 		
-nose job		<-->	noun+C1[-0]	./ˈnəʊz dʒɒb/-NAmE /ˈnəʊz dʒɑːb/+\
+nose job		<-->	noun+C1	[221029][1]	./ˈnəʊz dʒɒb/-NAmE /ˈnəʊz dʒɑːb/+\
 	;giải phẫu thẩm mỹ mũi -- a medical operation on the nose to improve its shape
 		;She wasn't happy with her appearance so she had a nose job.
 
@@ -2161,7 +2296,7 @@ nose job		<-->	noun+C1[-0]	./ˈnəʊz dʒɒb/-NAmE /ˈnəʊz dʒɑːb/+\
 
 
 
-nurse		<-->	noun+A1[-0]	./nɜːs/-NAmE /nɜːrs/
+nurse		<-->	noun+A1	[221029][1]	./nɜːs/-NAmE /nɜːrs/
 	;y tá -- a person whose job is to take care of sick or injured people, usually in a hospital
 		;a registered nurse
 		;a team of doctors and nurses
@@ -2171,7 +2306,7 @@ nurse		<-->	noun+A1[-0]	./nɜːs/-NAmE /nɜːrs/
 
 
 
-nutritionist		<-->	noun+B2[-0]	./njuˈtrɪʃənɪst/-NAmE /nuˈtrɪʃənɪst/
+nutritionist		<-->	noun+B2	[221029][1]	./njuˈtrɪʃənɪst/-NAmE /nuˈtrɪʃənɪst/
 	;chuyên gia dinh dưỡng -- a person who is an expert on the relationship between food and health
 
 
@@ -2179,7 +2314,7 @@ nutritionist		<-->	noun+B2[-0]	./njuˈtrɪʃənɪst/-NAmE /nuˈtrɪʃənɪst/
 
 
 
-obstetrics		<-->	noun+C2[-0]	./əbˈstetrɪks/-NAmE /əbˈstetrɪks/
+obstetrics		<-->	noun+C2	[221029][1]	./əbˈstetrɪks/-NAmE /əbˈstetrɪks/
 	;khoa nhi -- the branch of medicine that deals with the birth of children
 
 
@@ -2187,7 +2322,7 @@ obstetrics		<-->	noun+C2[-0]	./əbˈstetrɪks/-NAmE /əbˈstetrɪks/
 
 
 
-occupational therapist		<-->	noun+C2[-0]	./ˌɒkjuˌpeɪʃənl ˈθerəpɪst/-NAmE /ˌɑːkjuˌpeɪʃənl ˈθerəpɪst/+\
+occupational therapist		<-->	noun+C2	[221029][1]	./ˌɒkjuˌpeɪʃənl ˈθerəpɪst/-NAmE /ˌɑːkjuˌpeɪʃənl ˈθerəpɪst/+\
 	;nhân viên điều dưỡng -- a person whose job is to help people get better after illness or injury by giving them special activities to do
 
 
@@ -2195,7 +2330,7 @@ occupational therapist		<-->	noun+C2[-0]	./ˌɒkjuˌpeɪʃənl ˈθerəpɪst/-NA
 
 
 
-occupational therapy		<-->	noun+C2[-0]	./ˌɒkjuˌpeɪʃənl ˈθerəpi/-NAmE /ˌɑːkjuˌpeɪʃənl ˈθerəpi/
+occupational therapy		<-->	noun+C2	[221029][1]	./ˌɒkjuˌpeɪʃənl ˈθerəpi/-NAmE /ˌɑːkjuˌpeɪʃənl ˈθerəpi/
 	;sự điều dưỡng -- the work of an occupational therapist
 
 
@@ -2203,7 +2338,7 @@ occupational therapy		<-->	noun+C2[-0]	./ˌɒkjuˌpeɪʃənl ˈθerəpi/-NAmE /�
 
 
 
-ointment		<-->	noun+C2[-0]	./ˈɔɪntmənt/-NAmE /ˈɔɪntmənt/
+ointment		<-->	noun+C2	[221029][1]	./ˈɔɪntmənt/-NAmE /ˈɔɪntmənt/
 	;kem/thuốc bảo vệ  da -- ~SYNONYM cream; a smooth substance that you rub on your skin to make a wound or painful place get better or stop hurting
 		;antiseptic ointment
 
@@ -2212,7 +2347,7 @@ ointment		<-->	noun+C2[-0]	./ˈɔɪntmənt/-NAmE /ˈɔɪntmənt/
 
 
 
-op		<-->	noun+B1[-0]	./ɒp/-NAmE /ɑːp/
+op		<-->	noun+B1	[221029][1]	./ɒp/-NAmE /ɑːp/
 	;(British English, informal) a medical operation
 		;I'm going in for my op on Monday.
 
@@ -2221,7 +2356,7 @@ op		<-->	noun+B1[-0]	./ɒp/-NAmE /ɑːp/
 
 
 
-open-heart surgery		<-->	noun+C2[-0]	./ˌəʊpən hɑːt ˈsɜːdʒəri/-NAmE /ˌəʊpən hɑːrt ˈsɜːrdʒəri/
+open-heart surgery		<-->	noun+C2	[221029][1]	./ˌəʊpən hɑːt ˈsɜːdʒəri/-NAmE /ˌəʊpən hɑːrt ˈsɜːrdʒəri/
 	;một liệu pháp trị bệnh tim -- a medical operation on the heart, during which the patient’s blood is kept flowing by a machine
 
 
@@ -2229,7 +2364,7 @@ open-heart surgery		<-->	noun+C2[-0]	./ˌəʊpən hɑːt ˈsɜːdʒəri/-NAmE /�
 
 
 
-operable		<-->	adjective+C2[-0]	./ˈɒpərəbl/-NAmE /ˈɑːpərəbl/
+operable		<-->	adjective+C2	[221029][1]	./ˈɒpərəbl/-NAmE /ˈɑːpərəbl/
 	;có thể điều trị -- (of a medical condition) that can be treated by an operation
 
 
@@ -2237,7 +2372,7 @@ operable		<-->	adjective+C2[-0]	./ˈɒpərəbl/-NAmE /ˈɑːpərəbl/
 
 
 
-operate		<-->	verb+B2[-0]	./ˈɒpəreɪt/-NAmE /ˈɑːpəreɪt/
+operate		<-->	verb+B2	[221029][1][x]	./ˈɒpəreɪt/-NAmE /ˈɑːpəreɪt/
 	;giải phẫu -- [intransitive] to cut open somebody’s body in order to remove a part that has a disease or to repair a part that is damaged
 		;Surgeons operated last night.
 
@@ -2246,7 +2381,7 @@ operate		<-->	verb+B2[-0]	./ˈɒpəreɪt/-NAmE /ˈɑːpəreɪt/
 
 
 
-operating table		<-->	noun+B2[-0]	./ˈɒpəreɪtɪŋ teɪbl/-NAmE /ˈɑːpəreɪtɪŋ teɪbl/+\
+operating table		<-->	noun+B2	[221029][1]	./ˈɒpəreɪtɪŋ teɪbl/-NAmE /ˈɑːpəreɪtɪŋ teɪbl/+\
 	;giường điều trị -- a special table that you lie on to have a medical operation in a hospital
 		; on the operating table: The patient died on the operating table (= during an operation).
 
@@ -2255,7 +2390,7 @@ operating table		<-->	noun+B2[-0]	./ˈɒpəreɪtɪŋ teɪbl/-NAmE /ˈɑːpəreɪ
 
 
 
-operating theatre		<-->	noun+B2[-0]	./ˈɒpəreɪtɪŋ θɪətə(r)/-NAmE /ˈɑːpəreɪtɪŋ θiːətər/+\
+operating theatre		<-->	noun+B2	[221029][1]	./ˈɒpəreɪtɪŋ θɪətə(r)/-NAmE /ˈɑːpəreɪtɪŋ θiːətər/+\
 	;phòng điều trị -- a room in a hospital used for medical operations
 
 
@@ -2263,7 +2398,7 @@ operating theatre		<-->	noun+B2[-0]	./ˈɒpəreɪtɪŋ θɪətə(r)/-NAmE /ˈɑ�
 
 
 
-operation		<-->	noun+B1[-0]	./ˌɒpəˈreɪʃn/-NAmE /ˌɑːpəˈreɪʃn/
+operation		<-->	noun+B1	[221029][1]	./ˌɒpəˈreɪʃn/-NAmE /ˌɑːpəˈreɪʃn/
 	;giải phẫu -- [countable] the process of cutting open a part of a person’s body in order to remove or repair a damaged part
 		;Will I need to have an operation?
 		;operation for something: Doctors performed an emergency operation for appendicitis last night.
@@ -2273,7 +2408,7 @@ operation		<-->	noun+B1[-0]	./ˌɒpəˈreɪʃn/-NAmE /ˌɑːpəˈreɪʃn/
 
 
 
-operative		<-->	adjective+C2[-0]	./ˈɒpərətɪv/-NAmE /ˈɑːpərətɪv/
+operative		<-->	adjective+C2	[221029][1]	./ˈɒpərətɪv/-NAmE /ˈɑːpərətɪv/
 	;(thuộc về) phẫu thuật -- [only before noun] (medical) connected with a medical operation
 
 
@@ -2281,7 +2416,7 @@ operative		<-->	adjective+C2[-0]	./ˈɒpərətɪv/-NAmE /ˈɑːpərətɪv/
 
 
 
-ophthalmic optician		<-->	noun+C2[-0]	./ɒfˌθælmɪk ɒpˈtɪʃn/,  /ɒpˌθælmɪk ɒpˈtɪʃn/-NAmE /ɑːfˌθælmɪk ɑːpˈtɪʃn/,  /ɑːpˌθælmɪk ɑːpˈtɪʃn/
+ophthalmic optician		<-->	noun+C2	[221029][1]	./ɒfˌθælmɪk ɒpˈtɪʃn/,  /ɒpˌθælmɪk ɒpˈtɪʃn/-NAmE /ɑːfˌθælmɪk ɑːpˈtɪʃn/,  /ɑːpˌθælmɪk ɑːpˈtɪʃn/
 	;nhân viên kiểm tra mắt -- a person whose job is to examine people’s eyes and to recommend and sell glasses
 
 
@@ -2289,7 +2424,7 @@ ophthalmic optician		<-->	noun+C2[-0]	./ɒfˌθælmɪk ɒpˈtɪʃn/,  /ɒpˌθæ
 
 
 
-ophthalmologist		<-->	noun+C2[-0]	./ˌɒfθælˈmɒlədʒɪst/,  /ˌɒpθælˈmɒlədʒɪst/-NAmE /ˌɑːfθəˈmɑːlədʒɪst/,  /ˌɑːpθəˈmɑːlədʒɪst/
+ophthalmologist		<-->	noun+C2	[221029][1]	./ˌɒfθælˈmɒlədʒɪst/,  /ˌɒpθælˈmɒlədʒɪst/-NAmE /ˌɑːfθəˈmɑːlədʒɪst/,  /ˌɑːpθəˈmɑːlədʒɪst/
 	;bác sĩ nhãn khoa -- a doctor who studies and treats the diseases of the eye
 
 
@@ -2297,7 +2432,7 @@ ophthalmologist		<-->	noun+C2[-0]	./ˌɒfθælˈmɒlədʒɪst/,  /ˌɒpθælˈm�
 
 
 
-opiate		<-->	noun+C2[-0]	./ˈəʊpiət/-NAmE /ˈəʊpiət/
+opiate		<-->	noun+C2	[221029][1]	./ˈəʊpiət/-NAmE /ˈəʊpiət/
 	;(một loại) thuốc giảm đau -- a drug made from opium. Opiates are used in medicine to reduce severe pain.
 
 
@@ -2305,7 +2440,7 @@ opiate		<-->	noun+C2[-0]	./ˈəʊpiət/-NAmE /ˈəʊpiət/
 
 
 
-opioid		<-->	noun+C2[-0]	./ˈəʊpiɔɪd/-NAmE /ˈəʊpiɔɪd/
+opioid		<-->	noun+C2	[221029][1]	./ˈəʊpiɔɪd/-NAmE /ˈəʊpiɔɪd/
 	;thuốc gây nghiện -- any of a class of drugs that are similar to opium(thuốc phiện) in their effects on the human system. Opioids are used in medicines to treat severe pain but some people take them illegally for pleasure and become addicted.
 
 
@@ -2313,7 +2448,7 @@ opioid		<-->	noun+C2[-0]	./ˈəʊpiɔɪd/-NAmE /ˈəʊpiɔɪd/
 
 
 
-opioid		<-->	adjective+C2[-0]	./ˈəʊpiɔɪd/-NAmE /ˈəʊpiɔɪd/
+opioid		<-->	adjective+C2	[221029][1]	./ˈəʊpiɔɪd/-NAmE /ˈəʊpiɔɪd/
 	;thuộc về chất gây ngiện -- relating to opioids
 		;Opioid addiction has become a serious problem.
 
@@ -2322,7 +2457,7 @@ opioid		<-->	adjective+C2[-0]	./ˈəʊpiɔɪd/-NAmE /ˈəʊpiɔɪd/
 
 
 
-optician		<-->	noun+C1[-0]	./ɒpˈtɪʃn/-NAmE /ɑːpˈtɪʃn/
+optician		<-->	noun+C1	[221029][1]	./ɒpˈtɪʃn/-NAmE /ɑːpˈtɪʃn/
 	;nhân viên kiểm tra thị giác -- a person whose job is to examine people’s eyes and to recommend and sell glasses
 
 
@@ -2333,7 +2468,7 @@ optician		<-->	noun+C1[-0]	./ɒpˈtɪʃn/-NAmE /ɑːpˈtɪʃn/
 orderly		<-->	noun+C2 /ˈɔːdəli/-NAmE /ˈɔːrdərli/
 	;nhân viên bình thường, không đào tạo -- a person who works in a hospital, usually doing jobs that do not need any special training
    
-orthopaedics		<-->	noun+C2[-0]	./ˌɔːθəˈpiːdɪks/-NAmE /ˌɔːrθəˈpiːdɪks/
+orthopaedics		<-->	noun+C2	[221029][1]	./ˌɔːθəˈpiːdɪks/-NAmE /ˌɔːrθəˈpiːdɪks/
 	;khoa chỉnh hình -- the branch of medicine that deals with injuries and diseases of the bones or muscles
 
 
@@ -2341,7 +2476,7 @@ orthopaedics		<-->	noun+C2[-0]	./ˌɔːθəˈpiːdɪks/-NAmE /ˌɔːrθəˈpiːd
 
 
 
-osteopath		<-->	noun+C2[-0]	./ˈɒstiəpæθ/-NAmE /ˈɑːstiəpæθ/
+osteopath		<-->	noun+C2	[221029][1]	./ˈɒstiəpæθ/-NAmE /ˈɑːstiəpæθ/
 	;bác sĩ chấn thương chỉnh hình -- a person whose job involves treating some diseases and physical problems by pressing and moving the bones and muscles
 
 
@@ -2349,7 +2484,7 @@ osteopath		<-->	noun+C2[-0]	./ˈɒstiəpæθ/-NAmE /ˈɑːstiəpæθ/
 
 
 
-osteopathy		<-->	noun+C2[-0]	./ˌɒstiˈɒpəθi/-NAmE /ˌɑːstiˈɑːpəθi/
+osteopathy		<-->	noun+C2	[221029][1]	./ˌɒstiˈɒpəθi/-NAmE /ˌɑːstiˈɑːpəθi/
 	;sự điều trị chấn thương chỉnh hình -- the treatment of some diseases and physical problems by pressing and moving the bones and muscles
 
 
@@ -2357,7 +2492,7 @@ osteopathy		<-->	noun+C2[-0]	./ˌɒstiˈɒpəθi/-NAmE /ˌɑːstiˈɑːpəθi/
 
 
 
-outpatient		<-->	noun+C2[-0]	./ˈaʊtpeɪʃnt/-NAmE /ˈaʊtpeɪʃnt/
+outpatient		<-->	noun+C2	[221029][1]	./ˈaʊtpeɪʃnt/-NAmE /ˈaʊtpeɪʃnt/
 	; bệnh nhân ngoại trú -- a person who goes to a hospital for treatment but does not stay there
 		;an outpatient clinic
 
@@ -2375,7 +2510,7 @@ over the counter		<-->		idiom+C2
 
 
 
-over-the-counter		<-->	adjective+C2[-0]	./ˌəʊvə ðə ˈkaʊntə(r)/-NAmE /ˌəʊvər ðə ˈkaʊntər/
+over-the-counter		<-->	adjective+C2	[221029][1]	./ˌəʊvə ðə ˈkaʊntə(r)/-NAmE /ˌəʊvər ðə ˈkaʊntər/
 	;thuốc tự mua -- (of drugs and medicines) that can be obtained without a prescription (= a written order from a doctor)
 
 
@@ -2383,7 +2518,7 @@ over-the-counter		<-->	adjective+C2[-0]	./ˌəʊvə ðə ˈkaʊntə(r)/-NAmE /ˌ
 
 
 
-oxygen mask		<-->	noun+C1[-0]	./ˈɒksɪdʒən mɑːsk/-NAmE /ˈɑːksɪdʒən mæsk/
+oxygen mask		<-->	noun+C1	[221029][1]	./ˈɒksɪdʒən mɑːsk/-NAmE /ˈɑːksɪdʒən mæsk/
 	;mặt nạ oxy -- a device placed over the nose and mouth through which a person can breathe oxygen, for example in an aircraft or a hospital
 
 
@@ -2391,7 +2526,7 @@ oxygen mask		<-->	noun+C1[-0]	./ˈɒksɪdʒən mɑːsk/-NAmE /ˈɑːksɪdʒən m
 
 
 
-pacemaker		<-->	noun+C2[-0]	./ˈpeɪsmeɪkə(r)/-NAmE /ˈpeɪsmeɪkər/
+pacemaker		<-->	noun+C2	[221029][1]	./ˈpeɪsmeɪkə(r)/-NAmE /ˈpeɪsmeɪkər/
 	;máy trợ (nhịp) tim -- an electronic device that is put inside a person’s body to help their heart beat regularly
 		;After his last heart attack, he was fitted with a pacemaker.
 
@@ -2400,7 +2535,7 @@ pacemaker		<-->	noun+C2[-0]	./ˈpeɪsmeɪkə(r)/-NAmE /ˈpeɪsmeɪkər/
 
 
 
-pack		<-->	noun+C1[-0]	./pæk/-\-NAmE /pæk/
+pack		<-->	noun+C1	[221029][1]	./pæk/-\-NAmE /pæk/
 	;miếng chườm -- [countable] a hot or cold piece of soft material that holds liquid, used for treating a wound
 
 
@@ -2408,7 +2543,7 @@ pack		<-->	noun+C1[-0]	./pæk/-\-NAmE /pæk/
 
 
 
-paediatrician		<-->	noun+C2[-0]	./ˌpiːdiəˈtrɪʃn/-NAmE /ˌpiːdiəˈtrɪʃn/
+paediatrician		<-->	noun+C2	[221029][1]	./ˌpiːdiəˈtrɪʃn/-NAmE /ˌpiːdiəˈtrɪʃn/
 	;bác sĩ nhi -- a doctor who studies and treats the diseases of children
 
 
@@ -2416,7 +2551,7 @@ paediatrician		<-->	noun+C2[-0]	./ˌpiːdiəˈtrɪʃn/-NAmE /ˌpiːdiəˈtrɪʃn
 
 
 
-painkiller		<-->	noun+B2[-0]	./ˈpeɪnkɪlə(r)/-NAmE /ˈpeɪnkɪlər/
+painkiller		<-->	noun+B2	[221029][1]	./ˈpeɪnkɪlə(r)/-NAmE /ˈpeɪnkɪlər/
 	; thuốc giảm đau -- a drug that reduces pain
 		;She's on (= taking) painkillers.
 
@@ -2425,7 +2560,7 @@ painkiller		<-->	noun+B2[-0]	./ˈpeɪnkɪlə(r)/-NAmE /ˈpeɪnkɪlər/
 
 
 
-painkilling		<-->	adjective+C1[-0]	./ˈpeɪnkɪlɪŋ/-NAmE /ˈpeɪnkɪlɪŋ/
+painkilling		<-->	adjective+C1	[221029][1]	./ˈpeɪnkɪlɪŋ/-NAmE /ˈpeɪnkɪlɪŋ/
 	;giảm đau -- for reducing pain
 		;painkilling drugs/injections
 
@@ -2434,7 +2569,7 @@ painkilling		<-->	adjective+C1[-0]	./ˈpeɪnkɪlɪŋ/-NAmE /ˈpeɪnkɪlɪŋ/
 
 
 
-painless		<-->	adjective+B2[-0]	./ˈpeɪnləs/-NAmE /ˈpeɪnləs/
+painless		<-->	adjective+B2	[221029][1]	./ˈpeɪnləs/-NAmE /ˈpeɪnləs/
 	;không đau -- causing you no pain
 		;a painless death
 		;The treatment is painless.
@@ -2444,7 +2579,7 @@ painless		<-->	adjective+B2[-0]	./ˈpeɪnləs/-NAmE /ˈpeɪnləs/
 
 
 
-paracetamol		<-->	noun+C1[-0]	./ˌpærəˈsiːtəmɒl/,  /ˌpærəˈsetəmɒl/-NAmE /ˌpærəˈsiːtəmɑːl/,  /ˌpærəˈsetəmɑːl/
+paracetamol		<-->	noun+C1	[221029][1]	./ˌpærəˈsiːtəmɒl/,  /ˌpærəˈsetəmɒl/-NAmE /ˌpærəˈsiːtəmɑːl/,  /ˌpærəˈsetəmɑːl/
 	;một loại giảm đau, hạ sốt paracetamol -- [uncountable, countable] a drug used to reduce pain and a high temperature
 		;Do you have any paracetamol?
 
@@ -2453,7 +2588,7 @@ paracetamol		<-->	noun+C1[-0]	./ˌpærəˈsiːtəmɒl/,  /ˌpærəˈsetəmɒl/-N
 
 
 
-paramedic		<-->	noun+C1[-0]	./ˌpærəˈmedɪk/-NAmE /ˌpærəˈmedɪk/
+paramedic		<-->	noun+C1	[221029][1]	./ˌpærəˈmedɪk/-NAmE /ˌpærəˈmedɪk/
 	;nhân viên y tế -- a person whose job is to help people who are sick or injured, but who is not a doctor or a nurse
 		;Paramedics treated the injured at the roadside.
 
@@ -2462,7 +2597,7 @@ paramedic		<-->	noun+C1[-0]	./ˌpærəˈmedɪk/-NAmE /ˌpærəˈmedɪk/
 
 
 
-paramedical		<-->	adjective+C2[-0]	./ˌpærəˈmedɪkl/-NAmE /ˌpærəˈmedɪkl/
+paramedical		<-->	adjective+C2	[221029][1]	./ˌpærəˈmedɪkl/-NAmE /ˌpærəˈmedɪkl/
 	;(thuộc) nhân viên y tế  -- connected with a person whose job is to help people who are sick or injured, but who is not a doctor or a nurse
 		;paramedical staff
 
@@ -2471,8 +2606,16 @@ paramedical		<-->	adjective+C2[-0]	./ˌpærəˈmedɪkl/-NAmE /ˌpærəˈmedɪkl/
 
 
 
-patient		<-->	noun+A2[-0]	.
-PCP		<-->	noun+C2[-0]	./ˌpiː siː ˈpiː/-NAmE /ˌpiː siː ˈpiː/
+patient		<-->	noun+A2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
+PCP		<-->	noun+C2	[221029][1]	./ˌpiː siː ˈpiː/-NAmE /ˌpiː siː ˈpiː/
 	;bác sĩ cộng đồng -- primary care physician (= a doctor who is trained in general medicine and who treats patients in a local community rather than at a hospital)
 
 
@@ -2480,7 +2623,7 @@ PCP		<-->	noun+C2[-0]	./ˌpiː siː ˈpiː/-NAmE /ˌpiː siː ˈpiː/
 
 
 
-pediatrics		<-->	noun+C2[-0]	./ˌpiːdiˈætrɪks/-NAmE /ˌpiːdiˈætrɪks/
+pediatrics		<-->	noun+C2	[221029][1]	./ˌpiːdiˈætrɪks/-NAmE /ˌpiːdiˈætrɪks/
 	;nhi khoa -- the branch of medicine that deals with children and their diseases
 
 
@@ -2488,7 +2631,7 @@ pediatrics		<-->	noun+C2[-0]	./ˌpiːdiˈætrɪks/-NAmE /ˌpiːdiˈætrɪks/
 
 
 
-penicillin		<-->	noun+C1[-0]	./ˌpenɪˈsɪlɪn/-NAmE /ˌpenɪˈsɪlɪn/	
+penicillin		<-->	noun+C1	[221029][1]	./ˌpenɪˈsɪlɪn/-NAmE /ˌpenɪˈsɪlɪn/	
 	;thuốc kháng sinh penicillin -- a substance obtained from mould, used as a drug to treat or prevent infections caused by bacteria; a type of antibiotic
 		;The doctor put me on a course of penicillin.
 		;a strain of bacteria resistant to penicillin
@@ -2498,7 +2641,7 @@ penicillin		<-->	noun+C1[-0]	./ˌpenɪˈsɪlɪn/-NAmE /ˌpenɪˈsɪlɪn/
 
 
 
-personal protective equipment		<-->	noun+C1[-0]	./ˌpɜːsənl prəˌtektɪv ɪˈkwɪpmənt/-NAmE /ˌpɜːrsənl prəˌtektɪv ɪˈkwɪpmənt/+\
+personal protective equipment		<-->	noun+C1	[221029][1]	./ˌpɜːsənl prəˌtektɪv ɪˈkwɪpmənt/-NAmE /ˌpɜːrsənl prəˌtektɪv ɪˈkwɪpmənt/+\
 	;thiết bị, quần áo bảo hộ y tế -- ~ PPE
 
 
@@ -2506,7 +2649,7 @@ personal protective equipment		<-->	noun+C1[-0]	./ˌpɜːsənl prəˌtektɪv ɪ�
 
 
 
-pharma		<-->	noun+C2[-0]	./ˈfɑːmə/-NAmE /ˈfɑːrmə/
+pharma		<-->	noun+C2	[221029][1]	./ˈfɑːmə/-NAmE /ˈfɑːrmə/
 	;ngành dược --  [uncountable] (informal) pharmaceutical (= medical drugs) companies as an industry
 		;Delaying cheaper versions of drugs is good news for Big Pharma, but not for the inhabitants of developing nations.
 
@@ -2515,7 +2658,7 @@ pharma		<-->	noun+C2[-0]	./ˈfɑːmə/-NAmE /ˈfɑːrmə/
 
 
 
-pharmaceutical		<-->	adjective+C1[-0]	./ˌfɑːməˈsuːtɪkl/,  /ˌfɑːməˈsjuːtɪkl/-NAmE /ˌfɑːrməˈsuːtɪkl/-\
+pharmaceutical		<-->	adjective+C1	[221029][1]	./ˌfɑːməˈsuːtɪkl/,  /ˌfɑːməˈsjuːtɪkl/-NAmE /ˌfɑːrməˈsuːtɪkl/-\
 	;thuộc nhà thuốc -- connected with making and selling medical drugs
 		;pharmaceutical products
 
@@ -2524,7 +2667,7 @@ pharmaceutical		<-->	adjective+C1[-0]	./ˌfɑːməˈsuːtɪkl/,  /ˌfɑːməˈsj
 
 
 
-pharmaceutical		<-->	noun+C1[-0]	./ˌfɑːməˈsuːtɪkl/,  /ˌfɑːməˈsjuːtɪkl/-NAmE /ˌfɑːrməˈsuːtɪkl/
+pharmaceutical		<-->	noun+C1	[221029][1]	./ˌfɑːməˈsuːtɪkl/,  /ˌfɑːməˈsjuːtɪkl/-NAmE /ˌfɑːrməˈsuːtɪkl/
 	;thuốc -- [usually plural] (specialist) a medical drug
 		;the development of new pharmaceuticals
 
@@ -2533,7 +2676,7 @@ pharmaceutical		<-->	noun+C1[-0]	./ˌfɑːməˈsuːtɪkl/,  /ˌfɑːməˈsjuːt�
 
 
 
-pharmacist		<-->	noun+B2[-0]	./ˈfɑːməsɪst/-NAmE /ˈfɑːrməsɪst/
+pharmacist		<-->	noun+B2	[221029][1]	./ˈfɑːməsɪst/-NAmE /ˈfɑːrməsɪst/
 	;người bán thuốc, dược sĩ -- (also North American English, old-fashioned druggist) a person whose job is to prepare medicines and sell or give them to the public in a shop or in a hospital
 		;We had to wait for the pharmacist to make up her prescription.
 
@@ -2542,7 +2685,7 @@ pharmacist		<-->	noun+B2[-0]	./ˈfɑːməsɪst/-NAmE /ˈfɑːrməsɪst/
 
 
 
-pharmacy		<-->	noun+B2[-0]	./ˈfɑːməsi/-NAmE /ˈfɑːrməsi/
+pharmacy		<-->	noun+B2	[221029][1]	./ˈfɑːməsi/-NAmE /ˈfɑːrməsi/
 	;nhà thuốc tây -- [countable] a shop, or part of one, that sells medicines and drugs
 		;The cream is available at/from/in pharmacies without a prescription.
 
@@ -2551,7 +2694,7 @@ pharmacy		<-->	noun+B2[-0]	./ˈfɑːməsi/-NAmE /ˈfɑːrməsi/
 
 
 
-phial		<-->	noun+C2[-0]	./ˈfaɪəl/-NAmE /ˈfaɪəl/
+phial		<-->	noun+C2	[221029][1]	./ˈfaɪəl/-NAmE /ˈfaɪəl/
 	;một lọ (thuốc, nước hoa) -- a small glass container, for medicine or perfume
 
 
@@ -2560,7 +2703,7 @@ phial		<-->	noun+C2[-0]	./ˈfaɪəl/-NAmE /ˈfaɪəl/
 
 
 		
-physician		<-->	noun+C1[-0]	./fɪˈzɪʃn/-NAmE /fɪˈzɪʃn/
+physician		<-->	noun+C1	[221029][1]	./fɪˈzɪʃn/-NAmE /fɪˈzɪʃn/
 	;bác sĩ tổng quát -- (especially North American English) a doctor, especially one who is a specialist in general medicine and not surgery
 		;Dr Dennett is a practicing family physician in Atlanta.
 		;Please consult your physician before beginning any new exercise program.
@@ -2570,7 +2713,7 @@ physician		<-->	noun+C1[-0]	./fɪˈzɪʃn/-NAmE /fɪˈzɪʃn/
 
 
 
-physician's assistant		<-->	noun+C1 /+\
+physician's assistant		<-->	noun+C1[0]	./+\
 	;trợ lý bác sĩ -- (North American English) a person who is qualified to assist a doctor and to do basic medical procedures
 		;The clinics are staffed by nurse practitioners and physician assistants, but are supervised by physicians.
 
@@ -2579,7 +2722,7 @@ physician's assistant		<-->	noun+C1 /+\
 
 
 
-physio		<-->	noun+C2[-0]	./ˈfɪziəʊ/-NAmE /ˈfɪziəʊ/
+physio		<-->	noun+C2	[221029][1]	./ˈfɪziəʊ/-NAmE /ˈfɪziəʊ/
 	;vật lý trị liệu -- ​[uncountable] the treatment of disease, injury or weakness in the joints or muscles by exercises, massage and the use of light and heat
 
 
@@ -2587,7 +2730,7 @@ physio		<-->	noun+C2[-0]	./ˈfɪziəʊ/-NAmE /ˈfɪziəʊ/
 
 
 
-physiotherapist		<-->	noun+C1[-0]	./ˌfɪziəʊˈθerəpɪst/-NAmE /ˌfɪziəʊˈθerəpɪst/
+physiotherapist		<-->	noun+C1	[221029][1]	./ˌfɪziəʊˈθerəpɪst/-NAmE /ˌfɪziəʊˈθerəpɪst/
 	;nhà vật lý trị liệu -- a person whose job is to treat disease, injury or weakness in the joints or muscles by exercises, massage and the use of light and heat
 
 
@@ -2595,7 +2738,7 @@ physiotherapist		<-->	noun+C1[-0]	./ˌfɪziəʊˈθerəpɪst/-NAmE /ˌfɪziəʊ�
 
 
 
-physiotherapy		<-->	noun+C1[-0]	./ˌfɪziəʊˈθerəpi/-NAmE /ˌfɪziəʊˈθerəpi/
+physiotherapy		<-->	noun+C1	[221029][1]	./ˌfɪziəʊˈθerəpi/-NAmE /ˌfɪziəʊˈθerəpi/
 	;vật lý trị liệu -- the treatment of disease, injury or weakness in the joints or muscles by exercises, massage and the use of light and heat
 		;I’m undergoing regular physiotherapy for a back problem.
 
@@ -2604,7 +2747,7 @@ physiotherapy		<-->	noun+C1[-0]	./ˌfɪziəʊˈθerəpi/-NAmE /ˌfɪziəʊˈθer
 
 
 
-pill		<-->	noun+B2[-0]	./pɪl/-NAmE /pɪl/
+pill		<-->	noun+B2	[221029][1]	./pɪl/-NAmE /pɪl/
 	;vỏ viên thuốc tròn, viên thuốc -- [countable] a small flat round piece of medicine that you swallow(nuốt) whole, without biting it
 		;a vitamin pill
 		;Take three pills daily after meals.
@@ -2614,7 +2757,7 @@ pill		<-->	noun+B2[-0]	./pɪl/-NAmE /pɪl/
 
 
 
-placebo		<-->	noun+C1[-0]	./pləˈsiːbəʊ/-NAmE /pləˈsiːbəʊ/
+placebo		<-->	noun+C1	[221029][1]	./pləˈsiːbəʊ/-NAmE /pləˈsiːbəʊ/
 	;giả dược -- a substance that has no physical effects, given to patients who do not need medicine but think that they do, or used when testing new drugs
 		;the placebo effect (= the effect of taking a placebo and feeling better)
 		;Half of the people taking part in the experiment were given a placebo.
@@ -2624,7 +2767,7 @@ placebo		<-->	noun+C1[-0]	./pləˈsiːbəʊ/-NAmE /pləˈsiːbəʊ/
 
 
 
-plaster		<-->	noun+B2[-0]	./ˈplɑːstə(r)/-NAmE /ˈplæstər/
+plaster		<-->	noun+B2	[221029][1]	./ˈplɑːstə(r)/-NAmE /ˈplæstər/
 	;miếng dán y tế -- [countable, uncountable] a piece of material that can be stuck to the skin to protect a small wound or cut; this material
 		;Have you got any plasters? I've cut my finger.
 
@@ -2633,7 +2776,7 @@ plaster		<-->	noun+B2[-0]	./ˈplɑːstə(r)/-NAmE /ˈplæstər/
 
 
 
-plaster cast		<-->	noun+C2[-0]	./ˈplɑːstə kɑːst/-NAmE /ˈplæstər kæst/+\
+plaster cast		<-->	noun+C2	[221029][1]	./ˈplɑːstə kɑːst/-NAmE /ˈplæstər kæst/+\
 	;​bó bột thạch cao -- (also cast) a case made of plaster of Paris that covers a broken bone and protects it
 		;Her broken leg was put in a plaster cast.
 
@@ -2642,7 +2785,7 @@ plaster cast		<-->	noun+C2[-0]	./ˈplɑːstə kɑːst/-NAmE /ˈplæstər kæst/+
 
 
 
-plastic surgeon		<-->	noun+C1[-0]	./ˌplæstɪk ˈsɜːdʒən/-NAmE /ˌplæstɪk ˈsɜːrdʒən/
+plastic surgeon		<-->	noun+C1	[221029][1]	./ˌplæstɪk ˈsɜːdʒən/-NAmE /ˌplæstɪk ˈsɜːrdʒən/
 	;bác sĩ bó bột -- a doctor who is qualified to perform plastic surgery
 
 
@@ -2651,7 +2794,7 @@ plastic surgeon		<-->	noun+C1[-0]	./ˌplæstɪk ˈsɜːdʒən/-NAmE /ˌplæstɪk
 
 
 		
-plastic surgery		<-->	noun+C1[-0]	./ˌplæstɪk ˈsɜːdʒəri/-NAmE /ˌplæstɪk ˈsɜːrdʒəri/
+plastic surgery		<-->	noun+C1	[221029][1]	./ˌplæstɪk ˈsɜːdʒəri/-NAmE /ˌplæstɪk ˈsɜːrdʒəri/
 	;sự chỉnh hình (bệnh nhân bị deform )-- [uncountable] medical operations to repair injury to a person’s skin, or to improve a person’s appearance
 		;She needs extensive plastic surgery to her face.
 
@@ -2660,7 +2803,7 @@ plastic surgery		<-->	noun+C1[-0]	./ˌplæstɪk ˈsɜːdʒəri/-NAmE /ˌplæstɪ
 
 
 
-podiatrist		<-->	noun+C2[-0]	./pəˈdaɪətrɪst/-NAmE /pəˈdaɪətrɪst/
+podiatrist		<-->	noun+C2	[221029][1]	./pəˈdaɪətrɪst/-NAmE /pəˈdaɪətrɪst/
 	;bác sĩ xương khớp -- a person whose job is the care and treatment of people’s feet
 
 
@@ -2668,7 +2811,7 @@ podiatrist		<-->	noun+C2[-0]	./pəˈdaɪətrɪst/-NAmE /pəˈdaɪətrɪst/
 
 
 
-polyclinic		<-->	noun+C2[-0]	./ˈpɒliklɪnɪk/-NAmE /ˈpɑːliklɪnɪk/
+polyclinic		<-->	noun+C2	[221029][1]	./ˈpɒliklɪnɪk/-NAmE /ˈpɑːliklɪnɪk/
 	;trung tâm y tế đa khoa -- a medical centre that is not part of a hospital, where both general doctors and specialists work
 
 
@@ -2676,7 +2819,7 @@ polyclinic		<-->	noun+C2[-0]	./ˈpɒliklɪnɪk/-NAmE /ˈpɑːliklɪnɪk/
 
 
 
-post-operative		<-->	adjective+C2[-0]	./ˌpəʊst ˈɒpərətɪv/-NAmE /ˌpəʊst ˈɑːpərətɪv/
+post-operative		<-->	adjective+C2	[221029][1]	./ˌpəʊst ˈɒpərətɪv/-NAmE /ˌpəʊst ˈɑːpərətɪv/
 	;thuộc về điều dưỡng, sau khi mổ -- connected with the period after a medical operation
 		;post-operative complications/pain/care
 
@@ -2685,7 +2828,7 @@ post-operative		<-->	adjective+C2[-0]	./ˌpəʊst ˈɒpərətɪv/-NAmE /ˌpəʊs
 
 
 
-PPE		<-->	noun+C2[-0]	./ˌpiː piː ˈiː/-NAmE /ˌpiː piː ˈiː/
+PPE		<-->	noun+C2	[221029][1]	./ˌpiː piː ˈiː/-NAmE /ˌpiː piː ˈiː/
 	;thiết bị, quần áo, ... bảo hộ -- clothing and equipment that is worn or used to protect people against infection or injury (the 		<-->		abbreviation+ for personal protective equipment)
 		;It is critical that medical staff wear the appropriate PPE.
 
@@ -2694,7 +2837,7 @@ PPE		<-->	noun+C2[-0]	./ˌpiː piː ˈiː/-NAmE /ˌpiː piː ˈiː/
 
 
 
-practice		<-->	noun+B2[-0]	./ˈpræktɪs/-NAmE /ˈpræktɪs/\
+practice		<-->	noun+B2	[221029][1]	./ˈpræktɪs/-NAmE /ˈpræktɪs/\
 	;Sự hành nghề -- [uncountable, countable] the work or the business of some professional people such as doctors, dentists and lawyers; the place where they work
 		;the practice of medicine
 
@@ -2703,7 +2846,7 @@ practice		<-->	noun+B2[-0]	./ˈpræktɪs/-NAmE /ˈpræktɪs/\
 
 
 
-practitioner		<-->	noun+C1[-0]	./prækˈtɪʃənə(r)/-NAmE /prækˈtɪʃənər/
+practitioner		<-->	noun+C1	[221029][1]	./prækˈtɪʃənə(r)/-NAmE /prækˈtɪʃənər/
 	;người hành nghề -- a person who works in a profession, especially medicine or law
 		;dental practitioners
 		;a qualified practitioner
@@ -2721,7 +2864,7 @@ prep		<-->	verb+C2	[220808][1]	./prep/-NAmE /prep/
 
 
 
-prescribe		<-->	verb+C1[-0]	./prɪˈskraɪb/-NAmE /prɪˈskraɪb/
+prescribe		<-->	verb+C1	[221029][1]	./prɪˈskraɪb/-NAmE /prɪˈskraɪb/
 	;kê toa -- (of a doctor) to tell somebody: to take a particular medicine or have a particular treatment; to write a prescription for a particular medicine, etc.
 		;prescribe something: Valium is usually prescribed to treat anxiety(chứng lo âu, cáu gắt).
 
@@ -2730,7 +2873,7 @@ prescribe		<-->	verb+C1[-0]	./prɪˈskraɪb/-NAmE /prɪˈskraɪb/
 
 
 
-prescription		<-->	noun+C1[-0]	./prɪˈskrɪpʃn/-NAmE /prɪˈskrɪpʃn/
+prescription		<-->	noun+C1	[221029][1]	./prɪˈskrɪpʃn/-NAmE /prɪˈskrɪpʃn/
 	;toa thuốc --  [countable] an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a chemist's
 		;prescription for something The doctor gave me a prescription for antibiotics (nhiều thuốc kháng sinh).
 	;thuốc bác sĩ đề nghị -- [countable] medicine that your doctor has ordered for you
@@ -2741,7 +2884,7 @@ prescription		<-->	noun+C1[-0]	./prɪˈskrɪpʃn/-NAmE /prɪˈskrɪpʃn/
 
 
 
-primary care physician		<-->	noun+C2[-0]	./ˌpraɪməri ˈkeə fɪzɪʃn/-NAmE /ˌpraɪmeri ˈker fɪzɪʃn/+\
+primary care physician		<-->	noun+C2	[221029][1]	./ˌpraɪməri ˈkeə fɪzɪʃn/-NAmE /ˌpraɪmeri ˈker fɪzɪʃn/+\
 	;bác sĩ cộng đồng -- a doctor who is trained in general medicine and who treats patients in a local community rather than at a hospital
 		;a shortage of primary care physicians
 
@@ -2750,7 +2893,7 @@ primary care physician		<-->	noun+C2[-0]	./ˌpraɪməri ˈkeə fɪzɪʃn/-NAmE /
 
 
 
-primary health care		<-->	noun+C2[-0]	./ˌpraɪməri ˈhelθ keə(r)/-NAmE /ˌpraɪmeri ˈhelθ ker/+\
+primary health care		<-->	noun+C2	[221029][1]	./ˌpraɪməri ˈhelθ keə(r)/-NAmE /ˌpraɪmeri ˈhelθ ker/+\
 	;y tế tại nhà, sơ cứu -- ​the medical treatment that you receive first when you are ill, for example from your family doctor
 		;How is primary health care best delivered?
 
@@ -2759,7 +2902,7 @@ primary health care		<-->	noun+C2[-0]	./ˌpraɪməri ˈhelθ keə(r)/-NAmE /ˌpr
 
 
 
-private		<-->	adjective+B1[-0]	./ˈpraɪvət/-NAmE /ˈpraɪvət/
+private		<-->	adjective+B1	[221029][1]	./ˈpraɪvət/-NAmE /ˈpraɪvət/
 	;tư nhân -- [only before noun] working or acting for yourself rather than for the state or for a group or company
 		;We got the money from a private investor.
 
@@ -2768,7 +2911,7 @@ private		<-->	adjective+B1[-0]	./ˈpraɪvət/-NAmE /ˈpraɪvət/
 
 
 
-probe		<-->	noun+C2[-0]	./prəʊb/-NAmE /prəʊb/  
+probe		<-->	noun+C2	[221029][1]	./prəʊb/-NAmE /prəʊb/  
 	;dụng cụ khám của bác sĩ -- (specialist) a long, thin metal tool used by doctors for examining inside the body
 
 
@@ -2785,7 +2928,7 @@ probe		<-->	verb+C2	[220808][1]	./prəʊb/-NAmE /prəʊb/
 
 
 
-procedure		<-->	noun+B2[-0]	./prəˈsiːdʒə(r)/-NAmE /prəˈsiːdʒər/
+procedure		<-->	noun+B2	[221029][1]	./prəˈsiːdʒə(r)/-NAmE /prəˈsiːdʒər/
 	;cách thức điều trị --  [countable] (medical) a medical operation
 		;a routine surgical procedure
 		;to perform/undergo a procedure
@@ -2795,7 +2938,7 @@ procedure		<-->	noun+B2[-0]	./prəˈsiːdʒə(r)/-NAmE /prəˈsiːdʒər/
 
 
 
-prognosis		<-->	noun+C2[-0]	./prɒɡˈnəʊsɪs/-NAmE /prɑːɡˈnəʊsɪs/
+prognosis		<-->	noun+C2	[221029][1]	./prɒɡˈnəʊsɪs/-NAmE /prɑːɡˈnəʊsɪs/
 	;chuẩn đoán -- (medical) an opinion, based on medical experience, of the likely development of a disease or an illness
 		;to make a prognosis
 		;The prognosis is not good.
@@ -2807,7 +2950,7 @@ prognosis		<-->	noun+C2[-0]	./prɒɡˈnəʊsɪs/-NAmE /prɑːɡˈnəʊsɪs/
 
 
 
-Prozac™		<-->	noun+C2[-0]	./ˈprəʊzæk/-NAmE /ˈprəʊzæk/
+Prozac™		<-->	noun+C2	[221029][1]	./ˈprəʊzæk/-NAmE /ˈprəʊzæk/
 	;thuốc chống trầm cảm -- a drug used mainly to treat depression
 
 
@@ -2815,7 +2958,7 @@ Prozac™		<-->	noun+C2[-0]	./ˈprəʊzæk/-NAmE /ˈprəʊzæk/
 
 
 
-quarantine		<-->	noun+C2[-0]	./ˈkwɒrəntiːn/-NAmE /ˈkwɔːrəntiːn/\
+quarantine		<-->	noun+C2	[221029][1]	./ˈkwɒrəntiːn/-NAmE /ˈkwɔːrəntiːn/\
 	;sự cách ly -- a period of time when an animal or a person that has or may have a disease is kept away from others in order to prevent the disease from spreading
 		;in quarantine: The dog was kept in quarantine for six months.
 
@@ -2833,7 +2976,7 @@ quarantine		<-->	verb+C2	[220808][1]	./ˈkwɒrəntiːn/-NAmE /ˈkwɔːrəntiːn/
 
 
 
-R		<-->	noun+C2[-0]	./ɑː(r)/-NAmE /ɑːr/
+R		<-->	noun+C2	[221029][1]	./ɑː(r)/-NAmE /ɑːr/
 	;tốc độ sinh sản virus , reproduction number -- a way of measuring how quickly a virus spreads through a population by calculating the average number of people who get an infection from just one person with the virus (the 		<-->		abbreviation+ for ‘reproduction number’ or ‘reproductive number’)
 		;We are still seeing new infections every day and the R is close to 1.
 
@@ -2842,7 +2985,7 @@ R		<-->	noun+C2[-0]	./ɑː(r)/-NAmE /ɑːr/
 
 
 
-radiography		<-->	noun+C2[-0]	./ˌreɪdiˈɒɡrəfi/-NAmE /ˌreɪdiˈɑːɡrəfi/
+radiography		<-->	noun+C2	[221029][1]	./ˌreɪdiˈɒɡrəfi/-NAmE /ˌreɪdiˈɑːɡrəfi/
 	;chụp X quang -- the process or job of taking X-ray photographs
 
 
@@ -2850,7 +2993,7 @@ radiography		<-->	noun+C2[-0]	./ˌreɪdiˈɒɡrəfi/-NAmE /ˌreɪdiˈɑːɡrəfi
 
 
 
-radiologist		<-->	noun+C2[-0]	./ˌreɪdiˈɒlədʒɪst/-NAmE /ˌreɪdiˈɑːlədʒɪst/
+radiologist		<-->	noun+C2	[221029][1]	./ˌreɪdiˈɒlədʒɪst/-NAmE /ˌreɪdiˈɑːlədʒɪst/
 	;bác sĩ chụp X quang -- a doctor who is trained in radiology
 
 
@@ -2858,7 +3001,7 @@ radiologist		<-->	noun+C2[-0]	./ˌreɪdiˈɒlədʒɪst/-NAmE /ˌreɪdiˈɑːləd
 
 
 
-radiotherapy		<-->	noun+C2[-0]	./ˌreɪdiəʊˈθerəpi/-NAmE /ˌreɪdiəʊˈθerəpi/
+radiotherapy		<-->	noun+C2	[221029][1]	./ˌreɪdiəʊˈθerəpi/-NAmE /ˌreɪdiəʊˈθerəpi/
 	;điều trị bằng tia X, xạ trị -- the treatment of disease by radiation
 		;a course of radiotherapy
 
@@ -2876,7 +3019,7 @@ readmit		<-->	verb+C2	[220808][1]	./ˌriːədˈmɪt/-NAmE /ˌriːədˈmɪt/
 
 
 
-recovery		<-->	noun+C2[-0]	./rɪˈkʌvəri/-NAmE /rɪˈkʌvəri/
+recovery		<-->	noun+C2	[221029][1]	./rɪˈkʌvəri/-NAmE /rɪˈkʌvəri/
 	;phòng hồi sức -- [uncountable] (also recovery room [countable])the room in a hospital where patients are kept immediately after an operation
 		;Your mother is now in recovery.
 
@@ -2885,7 +3028,7 @@ recovery		<-->	noun+C2[-0]	./rɪˈkʌvəri/-NAmE /rɪˈkʌvəri/
 
 
 
-reflexology		<-->	noun+C2[-0]	./ˌriːfleksˈɒlədʒi/-NAmE /ˌriːfleksˈɑːlədʒi/
+reflexology		<-->	noun+C2	[221029][1]	./ˌriːfleksˈɒlədʒi/-NAmE /ˌriːfleksˈɑːlədʒi/
 	;bấm huyệt -- a type of alternative treatment in which somebody’s feet are rubbed in a particular way in order to cure a health problem in other parts of their body or to make them feel mentally relaxed
 
 
@@ -2893,7 +3036,7 @@ reflexology		<-->	noun+C2[-0]	./ˌriːfleksˈɒlədʒi/-NAmE /ˌriːfleksˈɑːl
 
 
 
-registrar		<-->	noun+C2[-0]	./ˌredʒɪˈstrɑː(r)/-NAmE /ˈredʒɪstrɑːr/
+registrar		<-->	noun+C2	[221029][1]	./ˌredʒɪˈstrɑː(r)/-NAmE /ˈredʒɪstrɑːr/
 	;bác sĩ thực tập -- a doctor working in a British hospital who is training to become a specialist in a particular area of medicine
 		;a paediatric registrar
 
@@ -2902,7 +3045,7 @@ registrar		<-->	noun+C2[-0]	./ˌredʒɪˈstrɑː(r)/-NAmE /ˈredʒɪstrɑːr/
 
 
 
-rehab		<-->	noun+C2[-0]	./ˈriːhæb/-NAmE /ˈriːhæb/
+rehab		<-->	noun+C2	[221029][1]	./ˈriːhæb/-NAmE /ˈriːhæb/
 	; sự cai nghiện -- ​the process of treating somebody who has a problem with drugs or alcohol
 		;to go into rehab
 		;a rehab clinic
@@ -2922,7 +3065,7 @@ rehabilitate		<-->	verb+C2	[220808][1]	./ˌriːəˈbɪlɪteɪt/-NAmE /ˌriːəˈ
 
 
 
-reiki		<-->	noun+C2[-0]	./ˈreɪki/-NAmE /ˈreɪki/
+reiki		<-->	noun+C2	[221029][1]	./ˈreɪki/-NAmE /ˈreɪki/
 	;vào nước biển -- a method of making sick people well again based on the idea that energy can be directed into a person’s body by touch
 
 
@@ -2930,7 +3073,7 @@ reiki		<-->	noun+C2[-0]	./ˈreɪki/-NAmE /ˈreɪki/
 
 
 
-reject		<-->	verb+B1[-0]	./rɪˈdʒekt/-NAmE /rɪˈdʒekt/
+reject		<-->	verb+B1	[221029][1][x]	./rɪˈdʒekt/-NAmE /rɪˈdʒekt/
 	;không tương thích -- reject something (of the body): to not accept a new organ after a transplant operation, by producing substances that attack the organ
 		;Her body has already rejected two kidneys(thận).
 
@@ -2939,7 +3082,7 @@ reject		<-->	verb+B1[-0]	./rɪˈdʒekt/-NAmE /rɪˈdʒekt/
 
 
 
-remedy		<-->	noun+C1 /ˈremədi/-NAmE /ˈremədi/
+remedy		<-->	noun+C1[0]	./ˈremədi/-NAmE /ˈremədi/
 	;phương thuốc -- a treatment or medicine to cure a disease or reduce pain that is not very serious
 		;remedy for something: an excellent home remedy for sore throats
 
@@ -2948,7 +3091,7 @@ remedy		<-->	noun+C1 /ˈremədi/-NAmE /ˈremədi/
 
 
 
-resident		<-->	noun+C2[-0]	./ˈrezɪdənt/-NAmE /ˈrezɪdənt/
+resident		<-->	noun+C2	[221029][1]	./ˈrezɪdənt/-NAmE /ˈrezɪdənt/
 	;bác sĩ thực tập -- a doctor working in a hospital in the US who is receiving special advanced training ~ COMPARE registrar
 
 
@@ -2956,7 +3099,7 @@ resident		<-->	noun+C2[-0]	./ˈrezɪdənt/-NAmE /ˈrezɪdənt/
 
 
 
-rest		<-->	noun+A2[-0]	./rest/-NAmE /rest/
+rest		<-->	noun+A2	[221029][1]	./rest/-NAmE /rest/
 	;sự thư giản -- [countable, uncountable] a period of relaxing, sleeping or doing nothing after a period of activity
 		;I had a good night's rest.
 
@@ -2965,15 +3108,15 @@ rest		<-->	noun+A2[-0]	./rest/-NAmE /rest/
 
 
 
-rest		<-->	verb+A2[-0]	./rest/-NAmE /rest/
-	;thư giản -- [intransitive, transitive] to relax, sleep or do nothing after a period of activity or illness; to not use a part of your body for some time
+rest		<-->	verb+A2	[221029][1]	./rest/-NAmE /rest/
+	;thư giản, nghỉ ngơi -- [intransitive, transitive] to relax, sleep or do nothing after a period of activity or illness; to not use a part of your body for some time
 
 
 
 
 
 
-rest cure		<-->	noun+C2[-0]	./ˈrest kjʊə(r)/-NAmE /ˈrest kjʊr/+\
+rest cure		<-->	noun+C2	[221029][1]	./ˈrest kjʊə(r)/-NAmE /ˈrest kjʊr/+\
 	;giai đoạn thư giản -- a period spent resting or relaxing in order to improve your physical or mental health
 		;His new job was almost a rest cure after the stresses of the army.
 
@@ -2982,7 +3125,7 @@ rest cure		<-->	noun+C2[-0]	./ˈrest kjʊə(r)/-NAmE /ˈrest kjʊr/+\
 
 
 
-restorative		<-->	adjective+C2[-0]	./rɪˈstɒrətɪv/-NAmE /rɪˈstɔːrətɪv/
+restorative		<-->	adjective+C2	[221029][1]	./rɪˈstɒrətɪv/-NAmE /rɪˈstɔːrətɪv/
 	;thuộc chỉnh hình -- ​(medical) connected with treatment that repairs the body or a part of it
 		;restorative dentistry/surgery
 
@@ -2991,7 +3134,7 @@ restorative		<-->	adjective+C2[-0]	./rɪˈstɒrətɪv/-NAmE /rɪˈstɔːrətɪv/
 
 
 
-revive		<-->	verb+C1[-0]	./rɪˈvaɪv/-NAmE /rɪˈvaɪv/
+revive		<-->	verb+C1	[221029][1]	./rɪˈvaɪv/-NAmE /rɪˈvaɪv/
 	;hồi phục -- [intransitive, transitive] to become, or to make somebody/something become, conscious or healthy and strong again
 		;The flowers soon revived in water.
 
@@ -3000,7 +3143,7 @@ revive		<-->	verb+C1[-0]	./rɪˈvaɪv/-NAmE /rɪˈvaɪv/
 
 
 
-R number		<-->	noun+C2[-0]	./ˈɑː nʌmbə(r)/-NAmE /ˈɑːr nʌmbər/
+R number		<-->	noun+C2	[221029][1]	./ˈɑː nʌmbə(r)/-NAmE /ˈɑːr nʌmbər/
 	;chỉ số sinh sản của vi khuẩn -- a way of measuring how quickly a virus spreads through a population by calculating the average number of people who get an infection from just one person with the virus (the 		<-->		abbreviation+ for ‘reproduction number’ or ‘reproductive number’)
 		;Scientists will be watching the R number very closely to ensure it doesn't rise above 1.0.
 
@@ -3009,7 +3152,7 @@ R number		<-->	noun+C2[-0]	./ˈɑː nʌmbə(r)/-NAmE /ˈɑːr nʌmbər/
 
 
 
-round		<-->	noun+B2[-0]	./raʊnd/-NAmE /raʊnd/-\
+round		<-->	noun+B2	[221029][1]	./raʊnd/-NAmE /raʊnd/-\
 	;lượt khám -- a regular route that somebody takes when delivering or collecting something; a regular series of visits that somebody makes
 		;on your round: Dr Green was on her daily ward rounds.
 
@@ -3018,7 +3161,7 @@ round		<-->	noun+B2[-0]	./raʊnd/-NAmE /raʊnd/-\
 
 
 
-salve		<-->	noun+C2[-0]	./sælv/,  /sɑːv/-NAmE /sæv/\
+salve		<-->	noun+C2	[221029][1]	./sælv/,  /sɑːv/-NAmE /sæv/\
 	;chất sát trùng -- a substance that you put on a wound or painful skin to help it to get better or to protect it
 
 
@@ -3026,7 +3169,7 @@ salve		<-->	noun+C2[-0]	./sælv/,  /sɑːv/-NAmE /sæv/\
 
 
 
-sample		<-->	noun+B2[-0]	./ˈsɑːmpl/-NAmE /ˈsæmpl/
+sample		<-->	noun+B2	[221029][1]	./ˈsɑːmpl/-NAmE /ˈsæmpl/
 	;mẫu thử -- a small amount of a substance taken from a larger amount and tested in order to obtain information about the substance
 		;A small sample of blood must be tested by a doctor.
 		;a blood/urine/tissue/DNA sample
@@ -3036,7 +3179,7 @@ sample		<-->	noun+B2[-0]	./ˈsɑːmpl/-NAmE /ˈsæmpl/
 
 
 
-sanatorium		<-->	noun+C2[-0]	./ˌsænəˈtɔːriəm/-NAmE /ˌsænəˈtɔːriəm/
+sanatorium		<-->	noun+C2	[221029][1]	./ˌsænəˈtɔːriəm/-NAmE /ˌsænəˈtɔːriəm/
 	;viện điều dưỡng -- a place like a hospital where patients who have a long-term illness or who are getting better after an illness are treated
 
 
@@ -3044,7 +3187,7 @@ sanatorium		<-->	noun+C2[-0]	./ˌsænəˈtɔːriəm/-NAmE /ˌsænəˈtɔːriəm/
 
 
 
-sanitarium		<-->	noun+C2[-0]	./ˌsænəˈteəriəm/-NAmE /ˌsænəˈteriəm/
+sanitarium		<-->	noun+C2	[221029][1]	./ˌsænəˈteəriəm/-NAmE /ˌsænəˈteriəm/
 	;viện điều dưỡng -- (North American English) a place like a hospital where patients who have a long-term illness or who are getting better after an illness are treated
 
 
@@ -3052,7 +3195,7 @@ sanitarium		<-->	noun+C2[-0]	./ˌsænəˈteəriəm/-NAmE /ˌsænəˈteriəm/
 
 
 
-scalpel		<-->	noun+C2[-0]	./ˈskælpəl/-NAmE /ˈskælpəl/
+scalpel		<-->	noun+C2	[221029][1]	./ˈskælpəl/-NAmE /ˈskælpəl/
 	;dao mổ -- a small sharp knife used by doctors in medical operations
 		;The surgeon made the first incision with a wide-bladed scalpel.
 
@@ -3061,7 +3204,7 @@ scalpel		<-->	noun+C2[-0]	./ˈskælpəl/-NAmE /ˈskælpəl/
 
 
 
-scan		<-->	verb+B2[-0]	./skæn/-NAmE /skæn/-\
+scan		<-->	verb+B2	[221029][1]	./skæn/-NAmE /skæn/-\
 	;scan ảnh như siêu âm, x-ray --  [transitive] scan something to get an image of an object, a part of somebody’s body, etc. on a computer by passing X-rays, ultrasound waves or electromagnetic waves over it in a special machine
 		;Their brains are scanned so that researchers can monitor the progress of the disease.
 
@@ -3080,7 +3223,7 @@ scan		<-->	noun+B2
 
 
 
-scanner		<-->	noun+C1[-0]	./ˈskænə(r)/-NAmE /ˈskænər/
+scanner		<-->	noun+C1	[221029][1]	./ˈskænə(r)/-NAmE /ˈskænər/
 	;máy scan -- a machine used by doctors to produce a picture of the inside of a person’s body on a computer screen
 
 
@@ -3088,7 +3231,7 @@ scanner		<-->	noun+C1[-0]	./ˈskænə(r)/-NAmE /ˈskænər/
 
 
 
-screen		<-->	noun+C2[-0]	./skriːn/-NAmE /skriːn/
+screen		<-->	noun+C2	[221029][1]	./skriːn/-NAmE /skriːn/
 	;hệ thống kiểm tra sức khoẻ -- [countable] a system of checking a person or thing to find out whether or not something, typically a disease, is present
 		;You should get a health screen every couple of years.
 
@@ -3097,7 +3240,7 @@ screen		<-->	noun+C2[-0]	./skriːn/-NAmE /skriːn/
 
 
 
-screen		<-->	verb+C1[-0]	./skriːn/-NAmE /skriːn/-\
+screen		<-->	verb+C1	[221029][1]	./skriːn/-NAmE /skriːn/-\
 	;kiểm tra -- [often passive] screen somebody (for something) to examine people in order to find out if they have a particular disease or illness
 		;Men over 55 should be regularly screened for prostate cancer.
 
@@ -3106,7 +3249,7 @@ screen		<-->	verb+C1[-0]	./skriːn/-NAmE /skriːn/-\
 
 
 
-scrub		<-->	noun+C2[-0]	./skrʌb/-NAmE /skrʌb/\
+scrub		<-->	noun+C2	[221029][1]	./skrʌb/-NAmE /skrʌb/\
 	;đồ y tế khi mở -- scrubs [plural] (specialist): the special clothes worn by surgeons when they are doing medical operations
 
 
@@ -3114,15 +3257,15 @@ scrub		<-->	noun+C2[-0]	./skrʌb/-NAmE /skrʌb/\
 
 
 
-scrub up		<-->	phrasal verb+C2[-0]	.
-	; rửa tay trước khi mổ -- ​(of a doctor, nurse, etc.) to wash your hands and arms before performing a medical operation
+scrub up		<-->	phrasal verb+C2	[221029][1]	./p/
+	;rửa tay trước khi mổ -- ​(of a doctor, nurse, etc.) to wash your hands and arms before performing a medical operation
 
 
 
 
 
 
-sedative		<-->	noun+C2[-0]	./ˈsedətɪv/-NAmE /ˈsedətɪv/
+sedative		<-->	noun+C2	[221029][1]	./ˈsedətɪv/-NAmE /ˈsedətɪv/
 	;thuốc an thần -- a drug that makes somebody go to sleep or makes them feel calm and relaxed ~ SYNONYM tranquillizer
 
 
@@ -3130,7 +3273,7 @@ sedative		<-->	noun+C2[-0]	./ˈsedətɪv/-NAmE /ˈsedətɪv/
 
 
 
-self-isolate		<-->	verb+C1[-0]	./ˌself ˈaɪsəleɪt/-NAmE /ˌself ˈaɪsəleɪt/+\
+self-isolate		<-->	verb+C1	[221029][1]	./ˌself ˈaɪsəleɪt/-NAmE /ˌself ˈaɪsəleɪt/+\
 	;tự cách ly -- to avoid contact with other people in order to prevent the spread of infection ~ SYNONYM self-quarantine
 		;Anyone who has been in contact with an infected person is required to self-isolate for 14 days.
 
@@ -3139,7 +3282,15 @@ self-isolate		<-->	verb+C1[-0]	./ˌself ˈaɪsəleɪt/-NAmE /ˌself ˈaɪsəleɪ
 
 
 
-self-isolation		<-->	noun+C1[-0]	.
+self-isolation		<-->	noun+C1	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 
 
 
@@ -3155,7 +3306,7 @@ self-medicate		<-->	verb+C2	[220808][1]	./ˌself ˈmedɪkeɪt/-NAmE /ˌself ˈme
 
 
 
-self-quarantine		<-->	noun+C2[-0]	./`ˌself ˈkwɒrəntiːn/-NAmE /ˌself ˈkwɔːrəntiːn/+\
+self-quarantine		<-->	noun+C2	[221029][1]	./`ˌself ˈkwɒrəntiːn/-NAmE /ˌself ˈkwɔːrəntiːn/+\
 	;thời gian tự cách ly -- a period of time when you keep yourself away from other people if you think you may have a disease in order to prevent the disease from spreading
 		; in/into self-quarantine: The whole family is in self-quarantine for the next two weeks.
 
@@ -3172,7 +3323,7 @@ self-quarantine		<-->	verb+C2	[220808][1]	./ˌself ˈkwɒrəntiːn/-NAmE /ˌself
 
 
 
-senior nursing officer		<-->	noun+C2[-0]	./ˌsiːniə ˈnɜːsɪŋ ɒfɪsə(r)/-NAmE /ˌsiːniər ˈnɜːrsɪŋ ɑːfɪsər/+\    
+senior nursing officer		<-->	noun+C2	[221029][1]	./ˌsiːniə ˈnɜːsɪŋ ɒfɪsə(r)/-NAmE /ˌsiːniər ˈnɜːrsɪŋ ɑːfɪsər/+\    
 	;y tá trưởng -- a person in charge of a group of nurses in a hospital
 
 
@@ -3180,7 +3331,15 @@ senior nursing officer		<-->	noun+C2[-0]	./ˌsiːniə ˈnɜːsɪŋ ɒfɪsə(r)/-
 
 
 
-set		<-->	verb+C2[-0]	.
+set		<-->	verb+C2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 	;xếp xương vào đúng vị trí -- [transitive, intransitive] set (something) to put a broken bone into a fixed position and hold it there, so that it will join together again and get better; to get better in this way
 		;The surgeon set her broken arm.
 
@@ -3189,7 +3348,15 @@ set		<-->	verb+C2[-0]	.
 
 
 
-shelter in place		<-->		idiom+C2[-0]	.
+shelter in place		<-->		idiom+C2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 	;to stay indoors during an emergency in order to protect yourself and others
 		;Residents of the city have been ordered to shelter in place for at least the next three weeks.
 
@@ -3198,7 +3365,7 @@ shelter in place		<-->		idiom+C2[-0]	.
 
 
 
-shiatsu		<-->	noun+C2[-0]	./ʃiˈætsuː/-NAmE /ʃiˈætsuː/
+shiatsu		<-->	noun+C2	[221029][1]	./ʃiˈætsuː/-NAmE /ʃiˈætsuː/
 	;phương pháp bấm huyệt -- a form of medical treatment, originally from East Asia, in which pressure is applied to particular parts of the body using the fingers
 
 
@@ -3206,7 +3373,7 @@ shiatsu		<-->	noun+C2[-0]	./ʃiˈætsuː/-NAmE /ʃiˈætsuː/
 
 
 
-shot		<-->	noun+C1[-0]	./ʃɒt/-NAmE /ʃɑːt/-\
+shot		<-->	noun+C1	[221029][1]	./ʃɒt/-NAmE /ʃɑːt/-\
 	;liều tiêm -- [countable] (informal, especially North American English) a small amount of a drug that is put into your body using a syringe ~ SYNONYM injection
 		;a flu shot (= to protect you against flu)
 
@@ -3215,7 +3382,7 @@ shot		<-->	noun+C1[-0]	./ʃɒt/-NAmE /ʃɑːt/-\
 
 
 
-side effect		<-->	noun+B2[-0]	./ˈsaɪd ɪfekt/-NAmE /ˈsaɪd ɪfekt/+\
+side effect		<-->	noun+B2	[221029][1]	./ˈsaɪd ɪfekt/-NAmE /ˈsaɪd ɪfekt/+\
 	;phản ứng phụ -- ​an extra and usually bad effect that a drug has on you, as well as curing illness or pain
 		;The drug has few side effects.
 
@@ -3224,7 +3391,7 @@ side effect		<-->	noun+B2[-0]	./ˈsaɪd ɪfekt/-NAmE /ˈsaɪd ɪfekt/+\
 
 
 
-sister		<-->	noun+C1[-0]	./ˈsɪstə(r)/-NAmE /ˈsɪstər/
+sister		<-->	noun+C1	[221029][1]	./ˈsɪstə(r)/-NAmE /ˈsɪstər/
 	; nữ y tá trưởng -- Sister (British English) a senior female nurse who is in charge of a hospital ward
 
 
@@ -3232,7 +3399,7 @@ sister		<-->	noun+C1[-0]	./ˈsɪstə(r)/-NAmE /ˈsɪstər/
 
 
 
-skin graft		<-->	noun+C2[-0]	./ˈskɪn ɡrɑːft/-NAmE /ˈskɪn ɡræft/+\
+skin graft		<-->	noun+C2	[221029][1]	./ˈskɪn ɡrɑːft/-NAmE /ˈskɪn ɡræft/+\
 	;việc ghép da -- a medical operation in which healthy skin is taken from one part of somebody’s body and placed over another part to replace skin that has been burned or damaged; a piece of skin that is moved in this way
 
 
@@ -3240,7 +3407,7 @@ skin graft		<-->	noun+C2[-0]	./ˈskɪn ɡrɑːft/-NAmE /ˈskɪn ɡræft/+\
 
 
 
-sleeping pill		<-->	noun+B2[-0]	./ˈsliːpɪŋ pɪl/-NAmE /ˈsliːpɪŋ pɪl/+\
+sleeping pill		<-->	noun+B2	[221029][1]	./ˈsliːpɪŋ pɪl/-NAmE /ˈsliːpɪŋ pɪl/+\
 	;liều thuốc ngủ -- ​a pill (= tablet) containing a drug that helps you to sleep
 
 
@@ -3248,7 +3415,7 @@ sleeping pill		<-->	noun+B2[-0]	./ˈsliːpɪŋ pɪl/-NAmE /ˈsliːpɪŋ pɪl/+\
 
 
 
-sling		<-->	noun+C1[-0]	./slɪŋ/-NAmE /slɪŋ/
+sling		<-->	noun+C1	[221029][1]	./slɪŋ/-NAmE /slɪŋ/
 	;dây bó bột -- a band of cloth that is tied around a person’s neck and used to support a broken or injured arm
 		; in a sling: He had his arm in a sling.
 
@@ -3257,7 +3424,7 @@ sling		<-->	noun+C1[-0]	./slɪŋ/-NAmE /slɪŋ/
 
 
 
-socialized medicine		<-->	noun+C2[-0]	./ˌsəʊʃəlaɪzd ˈmedsn/,  /ˌsəʊʃəlaɪzd ˈmedɪsn/-NAmE /ˌsəʊʃəlaɪzd ˈmedɪsn/+\
+socialized medicine		<-->	noun+C2	[221029][1]	./ˌsəʊʃəlaɪzd ˈmedsn/,  /ˌsəʊʃəlaɪzd ˈmedɪsn/-NAmE /ˌsəʊʃəlaɪzd ˈmedɪsn/+\
 	;y tế công -- ​medical and hospital care provided by the government for everyone by paying for it with public money
 
 
@@ -3265,7 +3432,7 @@ socialized medicine		<-->	noun+C2[-0]	./ˌsəʊʃəlaɪzd ˈmedsn/,  /ˌsəʊʃ�
 
 
 
-soothe		<-->	verb+C1[-0]	./suːð/-NAmE /suːð/
+soothe		<-->	verb+C1	[221029][1]	./suːð/-NAmE /suːð/
 	;làm giảm đau -- soothe something: to make a tense or painful part of your body feel more comfortable ~ SYNONYM relieve
 		;This should soothe the pain.
 		;Take a warm bath to soothe tense, tired muscles.
@@ -3275,7 +3442,7 @@ soothe		<-->	verb+C1[-0]	./suːð/-NAmE /suːð/
 
 
 
-specialist		<-->	noun+B2[-0]	./ˈspeʃəlɪst/-NAmE /ˈspeʃəlɪst/
+specialist		<-->	noun+B2	[221029][1]	./ˈspeʃəlɪst/-NAmE /ˈspeʃəlɪst/
 	;bác sĩ chuyên khoa -- a doctor who has specialized in a particular area of medicine
 		;You need to see a specialist.
 
@@ -3284,7 +3451,7 @@ specialist		<-->	noun+B2[-0]	./ˈspeʃəlɪst/-NAmE /ˈspeʃəlɪst/
 
 
 
-specimen		<-->	noun+C1[-0]	./ˈspesɪmən/-NAmE /ˈspesɪmən/
+specimen		<-->	noun+C1	[221029][1]	./ˈspesɪmən/-NAmE /ˈspesɪmən/
 	;mẫu thử -- a small quantity of blood, urine, etc. that is taken from somebody and tested by a doctor
 		;to provide/take a specimen
 
@@ -3293,7 +3460,7 @@ specimen		<-->	noun+C1[-0]	./ˈspesɪmən/-NAmE /ˈspesɪmən/
 
 
 
-speculum		<-->	noun+C2[-0]	./ˈspekjələm/-NAmE /ˈspekjələm/
+speculum		<-->	noun+C2	[221029][1]	./ˈspekjələm/-NAmE /ˈspekjələm/
 	;cái kẹp -- (medical)a metal instrument that is used to make a hole or tube in the body wider so it can be examined
 
 
@@ -3301,7 +3468,7 @@ speculum		<-->	noun+C2[-0]	./ˈspekjələm/-NAmE /ˈspekjələm/
 
 
 
-splint		<-->	noun+C2[-0]	./splɪnt/-NAmE /splɪnt/
+splint		<-->	noun+C2	[221029][1]	./splɪnt/-NAmE /splɪnt/
 	;thanh nẹp xương -- a long piece of wood or metal that is tied to a broken arm or leg to keep it still and in the right position
 
 
@@ -3309,7 +3476,7 @@ splint		<-->	noun+C2[-0]	./splɪnt/-NAmE /splɪnt/
 
 
 
-stethoscope		<-->	noun+C2[-0]	./ˈsteθəskəʊp/-NAmE /ˈsteθəskəʊp/
+stethoscope		<-->	noun+C2	[221029][1]	./ˈsteθəskəʊp/-NAmE /ˈsteθəskəʊp/
 	;ống nghe của bác sĩ -- an instrument that a doctor uses to listen to somebody’s heart and breathing
 
 
@@ -3317,7 +3484,7 @@ stethoscope		<-->	noun+C2[-0]	./ˈsteθəskəʊp/-NAmE /ˈsteθəskəʊp/
 
 
 
-sticking plaster		<-->	noun+C1[-0]	./ˈstɪkɪŋ plɑːstə(r)/-NAmE /ˈstɪkɪŋ plæstər/
+sticking plaster		<-->	noun+C1	[221029][1]	./ˈstɪkɪŋ plɑːstə(r)/-NAmE /ˈstɪkɪŋ plæstər/
 	;miếng dán y tế -- [countable, uncountable] a piece of material that can be stuck to the skin to protect a small wound or cut; this material
 
 
@@ -3325,7 +3492,7 @@ sticking plaster		<-->	noun+C1[-0]	./ˈstɪkɪŋ plɑːstə(r)/-NAmE /ˈstɪkɪ�
 
 
 
-stitch		<-->	noun+C1[-0]	./stɪtʃ/-NAmE /stɪtʃ/\
+stitch		<-->	noun+C1	[221029][1]	./stɪtʃ/-NAmE /stɪtʃ/\
 	;Sự ​khâu, may vết  -- [countable] a short piece of thread, etc. that doctors use to sew the edges of a wound together
 		;The cut needed eight stitches.
 
@@ -3334,7 +3501,7 @@ stitch		<-->	noun+C1[-0]	./stɪtʃ/-NAmE /stɪtʃ/\
 
 
 
-stitch		<-->	verb+C1[-0]	./stɪtʃ/-NAmE /stɪtʃ/
+stitch		<-->	verb+C1	[221029][1]	./stɪtʃ/-NAmE /stɪtʃ/
 	;khâu, may -- ​[​[often passive] to use a needle and thread to repair, join, or decorate pieces of cloth ~ SYNONYM sew
 		; be stitched (+ adv./prep.): Her wedding dress was stitched by hand.
 
@@ -3343,7 +3510,7 @@ stitch		<-->	verb+C1[-0]	./stɪtʃ/-NAmE /stɪtʃ/
 
 
 
-stool		<-->	noun+C2[-0]	./stuːl/-NAmE /stuːl/
+stool		<-->	noun+C2	[221029][1]	./stuːl/-NAmE /stuːl/
 	;shit -- (medical) a piece of solid waste from your body
 
 
@@ -3360,7 +3527,7 @@ strap		<-->	verb+C2	[220808][1]	./stræp/-NAmE /stræp/-\
 
 
 
-stretcher		<-->	noun+C2[-0]	./ˈstretʃə(r)/-NAmE /ˈstretʃər/
+stretcher		<-->	noun+C2	[221029][1]	./ˈstretʃə(r)/-NAmE /ˈstretʃər/
 	;cái băng ca -- a long piece of strong cloth with a pole on each side, used for carrying somebody who is sick or injured and who cannot walk
 		;He was carried off on a stretcher.
 
@@ -3369,14 +3536,14 @@ stretcher		<-->	noun+C2[-0]	./ˈstretʃə(r)/-NAmE /ˈstretʃər/
 
 
 
-support		<-->	noun+B2[-0]	./səˈpɔːt/-NAmE /səˈpɔːrt/
+support		<-->	noun+B2	[221029][1]	./səˈpɔːt/-NAmE /səˈpɔːrt/
 
 
 
 
 
 
-surgeon		<-->	noun+B2[-0]	./ˈsɜːdʒən/-NAmE /ˈsɜːrdʒən/-\
+surgeon		<-->	noun+B2	[221029][1]	./ˈsɜːdʒən/-NAmE /ˈsɜːrdʒən/-\
 	;bác sĩ phẫu thuật -- a doctor who is trained to perform surgery (= medical operations that involve cutting open a person’s body)
 		;Surgeons performed two operations on him yesterday.
 
@@ -3385,7 +3552,7 @@ surgeon		<-->	noun+B2[-0]	./ˈsɜːdʒən/-NAmE /ˈsɜːrdʒən/-\
 
 
 
-surgery		<-->	noun+B2[-0]	./ˈsɜːdʒəri/-NAmE /ˈsɜːrdʒəri/
+surgery		<-->	noun+B2	[221029][1]	./ˈsɜːdʒəri/-NAmE /ˈsɜːrdʒəri/
 	;việc chữa trị liên quan tới phẫu thuật, cắt, ghép chi, nội tạng --  [uncountable] medical treatment of injuries or diseases that involves cutting open a person’s body and often removing or replacing some parts; the branch of medicine connected with this treatment
 		;He will require surgery on his left knee.
 
@@ -3394,7 +3561,7 @@ surgery		<-->	noun+B2[-0]	./ˈsɜːdʒəri/-NAmE /ˈsɜːrdʒəri/
 
 
 
-surgical		<-->	adjective+C1[-0]	./ˈsɜːdʒɪkl/-NAmE /ˈsɜːrdʒɪkl/
+surgical		<-->	adjective+C1	[221029][1]	./ˈsɜːdʒɪkl/-NAmE /ˈsɜːrdʒɪkl/
 	;liên quan đến phẫu thuật -- used in or connected with surgery
 		;surgical procedures
 
@@ -3403,7 +3570,7 @@ surgical		<-->	adjective+C1[-0]	./ˈsɜːdʒɪkl/-NAmE /ˈsɜːrdʒɪkl/
 
 
 
-swab		<-->	noun+C2[-0]	./swɒb/-NAmE /swɑːb/ /v\
+swab		<-->	noun+C2	[221029][1]	./swɒb/-NAmE /swɑːb/ /v\
 	;tăm bông -- a piece of soft material used by a doctor, nurse, etc. for cleaning wounds or taking a sample from somebody’s body for testing
 
 
@@ -3419,7 +3586,7 @@ swab		<-->	verb+C2	[220808][1]	./swɒb/-NAmE /swɑːb/ /v\
 
 
 
-syringe		<-->	noun+C2[-0]	./sɪˈrɪndʒ/-NAmE /sɪˈrɪndʒ/
+syringe		<-->	noun+C2	[221029][1]	./sɪˈrɪndʒ/-NAmE /sɪˈrɪndʒ/
 	;ống chích, tiêm --  plastic or glass tube with a long hollow needle that is used for putting drugs, etc. into a person’s body or for taking a small amount of blood from a person
 		;a beach scattered with used syringes	
 
@@ -3428,7 +3595,7 @@ syringe		<-->	noun+C2[-0]	./sɪˈrɪndʒ/-NAmE /sɪˈrɪndʒ/
 
 
 
-tablet		<-->	noun+B1[-0]	./ˈtæblət/-NAmE /ˈtæblət/
+tablet		<-->	noun+B1	[221029][1]	./ˈtæblət/-NAmE /ˈtæblət/
 	;viên thuốc -- (especially British English) a small round solid piece of medicine that you swallow ~ SYNONYM pill
 		;Take two tablets with water before meals.
 
@@ -3437,7 +3604,7 @@ tablet		<-->	noun+B1[-0]	./ˈtæblət/-NAmE /ˈtæblət/
 
 
 
-tape		<-->	verb+B1[-0]	./teɪp/-NAmE /teɪp/ /-\ [IMAGE]-Stationery
+tape		<-->	verb+B1	[221029][1][x]	./teɪp/-NAmE /teɪp/ /-\ [IMAGE]-Stationery
 	;buộc cột ruy băng -- tape something (up) (North American English) to tie a bandage (= a piece of cloth) around an injury or a wound
 		;That's a nasty cut—come on, we'll get it all taped up.
 
@@ -3446,7 +3613,7 @@ tape		<-->	verb+B1[-0]	./teɪp/-NAmE /teɪp/ /-\ [IMAGE]-Stationery
 
 
 
-termination		<-->	noun+C2[-0]	./ˌtɜːmɪˈneɪʃn/-NAmE /ˌtɜːrmɪˈneɪʃn/
+termination		<-->	noun+C2	[221029][1]	./ˌtɜːmɪˈneɪʃn/-NAmE /ˌtɜːrmɪˈneɪʃn/
 	;phá thai -- [countable] (medical) a medical operation to end a pregnancy at an early stage
 		;She chose to have an early termination.
 
@@ -3455,21 +3622,37 @@ termination		<-->	noun+C2[-0]	./ˌtɜːmɪˈneɪʃn/-NAmE /ˌtɜːrmɪˈneɪʃn/
 
 
 
-test		<-->	noun+A2[-0]	.
+test		<-->	noun+A2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
 
 
 
-test		<-->	verb+A2[-0]	.
+
+
+
+
+
+test		<-->	verb+A2	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
 
 
 
 
 
 
-therapist		<-->	noun+B2[-0]	./ˈθerəpɪst/-NAmE /ˈθerəpɪst/
+
+
+
+
+
+therapist		<-->	noun+B2	[221029][1]	./ˈθerəpɪst/-NAmE /ˈθerəpɪst/
 	;nhà trị liệu -- (especially in compounds)a specialist who treats a particular type of illness or problem, or who uses a particular type of treatment
 		;a speech therapist
 
@@ -3478,7 +3661,7 @@ therapist		<-->	noun+B2[-0]	./ˈθerəpɪst/-NAmE /ˈθerəpɪst/
 
 
 
-therapy		<-->	noun+B2[-0]	./ˈθerəpi/-NAmE /ˈθerəpi/
+therapy		<-->	noun+B2	[221029][1]	./ˈθerəpi/-NAmE /ˈθerəpi/
 	;giải pháp, trị liệu, ... -- [uncountable, countable] the treatment of a physical problem or an illness
 		;He is receiving therapy for cancer.
 		;Collocations: be infected with a virus/​a parasite/​HIV
@@ -3488,7 +3671,7 @@ therapy		<-->	noun+B2[-0]	./ˈθerəpi/-NAmE /ˈθerəpi/
 
 
 
-thermometer		<-->	noun+C1[-0]	./θəˈmɒmɪtə(r)/-NAmE /θərˈmɑːmɪtər/
+thermometer		<-->	noun+C1	[221029][1]	./θəˈmɒmɪtə(r)/-NAmE /θərˈmɑːmɪtər/
 	;nhiệt kế  -- an instrument used for measuring the temperature of the air, a person’s body, etc.
 		;a thermometer reading
 
@@ -3497,7 +3680,7 @@ thermometer		<-->	noun+C1[-0]	./θəˈmɒmɪtə(r)/-NAmE /θərˈmɑːmɪtər/
 
 
 
-tonic		<-->	noun+C2[-0]	./ˈtɒnɪk/-NAmE /ˈtɑːnɪk/
+tonic		<-->	noun+C2	[221029][1]	./ˈtɒnɪk/-NAmE /ˈtɑːnɪk/
 	;​thuốc tăng lực, thuốc bổ -- [countable] a medicine that makes you feel stronger and healthier, taken especially when you feel tired
 		;herbal tonics
 
@@ -3506,7 +3689,7 @@ tonic		<-->	noun+C2[-0]	./ˈtɒnɪk/-NAmE /ˈtɑːnɪk/
 
 
 
-tourniquet		<-->	noun+C2[-0]	./ˈtʊənɪkeɪ/-NAmE /ˈtɜːrnəkət/
+tourniquet		<-->	noun+C2	[221029][1]	./ˈtʊənɪkeɪ/-NAmE /ˈtɜːrnəkət/
 	;dây ga-rô -- a piece of cloth, etc. that is tied tightly around an arm or a leg to stop the loss of blood from a wound
 		;Apply a tight tourniquet above the wound.
 
@@ -3515,7 +3698,7 @@ tourniquet		<-->	noun+C2[-0]	./ˈtʊənɪkeɪ/-NAmE /ˈtɜːrnəkət/
 
 
 
-traction		<-->	noun+C2[-0]	./ˈtrækʃn/-NAmE /ˈtrækʃn/
+traction		<-->	noun+C2	[221029][1]	./ˈtrækʃn/-NAmE /ˈtrækʃn/
 	;nẹp xương -- a way of treating a broken bone in your body that involves using special equipment to pull the bone gradually back into its correct place
 		;in traction: He spent six weeks in traction after he broke his leg.
 
@@ -3524,7 +3707,7 @@ traction		<-->	noun+C2[-0]	./ˈtrækʃn/-NAmE /ˈtrækʃn/
 
 
 
-traditional medicine		<-->	noun+B2[-0]	./trəˌdɪʃənl ˈmedsn/,  /trəˌdɪʃənl ˈmedɪsn/-NAmE /trəˌdɪʃənl ˈmedɪsn/+\
+traditional medicine		<-->	noun+B2	[221029][1]	./trəˌdɪʃənl ˈmedsn/,  /trəˌdɪʃənl ˈmedɪsn/-NAmE /trəˌdɪʃənl ˈmedɪsn/+\
 	;y học cổ truyền -- medical treatment that is based on the ancient beliefs and practices from a particular culture
 		;Turmeric(củ nghệ) has been used as a traditional medicine in much of Asia for thousands of years.
 
@@ -3542,7 +3725,7 @@ tranquillize		<-->	verb+C2	[220808][1]	./ˈtræŋkwəlaɪz/-NAmE /ˈtræŋkwəla
 
 
 
-transplant		<-->	verb+B2[-0]	./trænsˈplɑːnt/-NAmE /trænsˈplænt/\
+transplant		<-->	verb+B2	[221029][1][x]	./trænsˈplɑːnt/-NAmE /trænsˈplænt/\
 	;ghép tạng -- transplant something (from somebody/something) (into somebody/something) to take an organ, skin, etc. from one person, animal, part of the body, etc. and put it into or onto another
 		;Surgeons(bác sĩ phẫu thuật) have successfully transplanted a liver into a four-year-old boy.
 
@@ -3551,7 +3734,7 @@ transplant		<-->	verb+B2[-0]	./trænsˈplɑːnt/-NAmE /trænsˈplænt/\
 
 
 
-transplant		<-->	noun+B2[-0]	./trænsˈplɑːnt/-NAmE /trænsˈplænt/\
+transplant		<-->	noun+B2	[221029][1]	./trænsˈplɑːnt/-NAmE /trænsˈplænt/\
 	;việc ghép tạng -- [countable, uncountable] a medical operation in which a damaged organ, etc. is replaced with one from another person
 		;to have a heart transplant
 
@@ -3560,7 +3743,7 @@ transplant		<-->	noun+B2[-0]	./trænsˈplɑːnt/-NAmE /trænsˈplænt/\
 
 
 
-treat		<-->	verb+B1[-0]	./triːt/-NAmE /triːt/
+treat		<-->	verb+B1	[221029][1]	./triːt/-NAmE /triːt/
 	;điều trị -- to give medical care or attention to a person, an illness, an injury, etc.
 		;She was treated in hospital.
 
@@ -3569,7 +3752,7 @@ treat		<-->	verb+B1[-0]	./triːt/-NAmE /triːt/
 
 
 
-treatment		<-->	noun+B1[-0]	./ˈtriːtmənt/-NAmE /ˈtriːtmənt/
+treatment		<-->	noun+B1	[221029][1]	./ˈtriːtmənt/-NAmE /ˈtriːtmənt/
 	;sự điều trị -- [uncountable, countable] something that is done to cure an illness or injury, or to make somebody look and feel good
 		;The drug is used in the treatment of depression.
 
@@ -3578,7 +3761,7 @@ treatment		<-->	noun+B1[-0]	./ˈtriːtmənt/-NAmE /ˈtriːtmənt/
 
 
 
-triage		<-->	noun+C2[-0]	./ˈtriːɑːʒ/-NAmE /ˈtriːɑːʒ/
+triage		<-->	noun+C2	[221029][1]	./ˈtriːɑːʒ/-NAmE /ˈtriːɑːʒ/
 	;sự chuẩn đoán -- (in a hospital) the process of deciding how seriously ill or injured a person is, so that the most serious cases can be treated first
 
 
@@ -3586,7 +3769,7 @@ triage		<-->	noun+C2[-0]	./ˈtriːɑːʒ/-NAmE /ˈtriːɑːʒ/
 
 
 
-tuck		<-->	noun+C2[-0]	./tʌk/-NAmE /tʌk/
+tuck		<-->	noun+C2	[221029][1]	./tʌk/-NAmE /tʌk/
 	;thẩm mỹ da, hút mỡ -- [countable] (informal) a medical operation in which skin and/or fat is removed to make somebody look younger or thinner
 
 
@@ -3594,7 +3777,7 @@ tuck		<-->	noun+C2[-0]	./tʌk/-NAmE /tʌk/
 
 
 
-ultrasound		<-->	noun+C2[-0]	./ˈʌltrəsaʊnd/-NAmE /ˈʌltrəsaʊnd/
+ultrasound		<-->	noun+C2	[221029][1]	./ˈʌltrəsaʊnd/-NAmE /ˈʌltrəsaʊnd/
 	;​siêu âm -- [uncountable, countable] a medical process that produces an image of what is inside your body	
 		;Ultrasound showed she was expecting twins.
 
@@ -3603,7 +3786,15 @@ ultrasound		<-->	noun+C2[-0]	./ˈʌltrəsaʊnd/-NAmE /ˈʌltrəsaʊnd/
 
 
 
-under the knife		<-->		idiom+C1[-0]	.
+under the knife		<-->		idiom+C1	[221029][1]	.
+	; -- (1) 
+	; -- (2)  
+	; -- (3) 
+
+
+
+
+
 	;đang điều trị y tế -- ​(informal) having a medical operation
 		;He is to go under the surgeon's knife again on Thursday.
 
@@ -3612,7 +3803,7 @@ under the knife		<-->		idiom+C1[-0]	.
 
 
 
-unit		<-->	noun +B2[-0]	./ˈjuːnɪt/-NAmE /ˈjuːnɪt/
+unit		<-->	noun +B2	[221029][1]	./ˈjuːnɪt/-NAmE /ˈjuːnɪt/
 	;khoa -- a department, especially in a hospital, that provides a particular type of care or treatment
 		;khoa sản -- a maternity unit
 
@@ -3621,7 +3812,7 @@ unit		<-->	noun +B2[-0]	./ˈjuːnɪt/-NAmE /ˈjuːnɪt/
 
 
 
-vaccinate		<-->	verb+C1[-0]	./ˈvæksɪneɪt/-NAmE /ˈvæksɪneɪt/
+vaccinate		<-->	verb+C1	[221029][1]	./ˈvæksɪneɪt/-NAmE /ˈvæksɪneɪt/
 	;vaccinate somebody (against something): to give a person or an animal a vaccine, especially by injecting it, in order to protect them against a disease
 		;I was vaccinated against tetanus.
 
@@ -3630,7 +3821,7 @@ vaccinate		<-->	verb+C1[-0]	./ˈvæksɪneɪt/-NAmE /ˈvæksɪneɪt/
 
 
 
-vaccination		<-->	noun+C1[-0]	./ˌvæksɪˈneɪʃn/-NAmE /ˌvæksɪˈneɪʃn/
+vaccination		<-->	noun+C1	[221029][1]	./ˌvæksɪˈneɪʃn/-NAmE /ˌvæksɪˈneɪʃn/
 	;việc tiêm vaccine -- the act of giving a person or an animal a vaccine in order to protect them against a disease; the fact of having received a vaccine	
 		;Make sure your vaccinations are up to date.
 
@@ -3639,7 +3830,7 @@ vaccination		<-->	noun+C1[-0]	./ˌvæksɪˈneɪʃn/-NAmE /ˌvæksɪˈneɪʃn/
 
 
 
-vaccine		<-->	noun+C1[-0]	./ˈvæksiːn/-NAmE /vækˈsiːn/
+vaccine		<-->	noun+C1	[221029][1]	./ˈvæksiːn/-NAmE /vækˈsiːn/
 	;vaccine -- a substance that is put into the blood and that protects the body from a disease
 		;a measles vaccine
 
@@ -3648,7 +3839,7 @@ vaccine		<-->	noun+C1[-0]	./ˈvæksiːn/-NAmE /vækˈsiːn/
 
 
 
-vasectomy		<-->	noun+C2[-0]	./vəˈsektəmi/-NAmE /vəˈsektəmi/
+vasectomy		<-->	noun+C2	[221029][1]	./vəˈsektəmi/-NAmE /vəˈsektəmi/
 	;thắt ống dẫn tinh -- a medical operation to remove part of each of the tubes in a man’s body that carry sperm, after which he is not able to make a woman pregnant
 
 
@@ -3656,7 +3847,7 @@ vasectomy		<-->	noun+C2[-0]	./vəˈsektəmi/-NAmE /vəˈsektəmi/
 
 
 
-ventilator		<-->	noun+C2[-0]	./ˈventɪleɪtə(r)/-NAmE /ˈventɪleɪtər/
+ventilator		<-->	noun+C2	[221029][1]	./ˈventɪleɪtə(r)/-NAmE /ˈventɪleɪtər/ [voa]
 	;máy thở --va piece of medical equipment with a pump that helps somebody to breathe by sending air in and out of their lungs
 		;He was put on a ventilator.
 
@@ -3665,7 +3856,7 @@ ventilator		<-->	noun+C2[-0]	./ˈventɪleɪtə(r)/-NAmE /ˈventɪleɪtər/
 
 
 
-ward		<-->	noun+C1[-0]	./wɔːd/-NAmE /wɔːrd/
+ward		<-->	noun+C1	[221029][1]	./wɔːd/-NAmE /wɔːrd/
 	;phòng bệnh nhân cùng loại bệnh -- (1) a separate room or area in a hospital for people with the same type of medical condition
 		;a maternity/surgical/psychiatric/children’s ward
 		;on the ward He worked as a nurse on the children's ward.
@@ -3680,7 +3871,7 @@ ward		<-->	noun+C1[-0]	./wɔːd/-NAmE /wɔːrd/
 
 
 
-wheelchair		<-->	noun+B1[-0]	./ˈwiːltʃeə(r)/-NAmE /ˈwiːltʃer/
+wheelchair		<-->	noun+B1	[221029][1]	./ˈwiːltʃeə(r)/-NAmE /ˈwiːltʃer/
 	;xe lăn -- a special chair with wheels, used by people who cannot walk because of illness, an accident, etc.
 		;in a wheelchair: It can be hard to get around if you're in a wheelchair.
 
@@ -3689,7 +3880,7 @@ wheelchair		<-->	noun+B1[-0]	./ˈwiːltʃeə(r)/-NAmE /ˈwiːltʃer/
 
 
 
-X-ray		<-->	verb+B2[-0]	./ˈeks reɪ/-NAmE /ˈeks reɪ/
+X-ray		<-->	verb+B2	[221029][1]	./ˈeks reɪ/-NAmE /ˈeks reɪ/
 	;chụp X quang -- X-ray something to photograph and examine bones and organs inside the body, using X-rays
 		;He had to have his chest X-rayed.
 
@@ -3698,6 +3889,6 @@ X-ray		<-->	verb+B2[-0]	./ˈeks reɪ/-NAmE /ˈeks reɪ/
 
 
 
-X-ray		<-->	noun+B2[-0]	./ˈeks reɪ/-NAmE /ˈeks reɪ/\
+X-ray		<-->	noun+B2	[221029][1]	./ˈeks reɪ/-NAmE /ˈeks reɪ/\
 	;tia X -- [usually plural] a type of radiation that can pass through solid objects and make it possible to see inside or through them
 		;an X-ray machine (= one that produces X-rays)

@@ -1,6 +1,5 @@
-
-	2022-06-19
-abdomen		<-->	noun+C2[-0]	./ˈæbdəmən/-NAmE /ˈæbdəmən/
+2022-06-19
+abdomen		<-->	noun+C2	[221029][1]	./ˈæbdəmən/-NAmE /ˈæbdəmən/
 	;bụng dưới --  [IMAGE]	the end part of an insect’s body that is attached to its thorax
 		;TOPICS Insects, worms, etc.C2
 
@@ -16,7 +15,7 @@ ant		<-->	noun+B1[-0]	./ænt/-NAmE /ænt/
 				;colony, mound
 
 
-antenna		<-->	noun+C1[-0]	./ænˈtenə/-NAmE /ænˈtenə/
+antenna		<-->	noun+C1	[221028][1]	./ænˈtenə/-NAmE /ænˈtenə/
 	;râu côn trùng --  [IMAGE]	(plural antennae  /ænˈteniː/  /ænˈteniː/) either of the two long thin parts on the heads of some insects and some animals that live in shells, used to feel and touch things with
 		;SYNONYM feeler
 		;(figurative) The minister was praised for his acute political antennae (= ability to understand complicated political situations).
@@ -27,12 +26,12 @@ antenna		<-->	noun+C1[-0]	./ænˈtenə/-NAmE /ænˈtenə/
 
 
 ant lion		<-->	noun+C2	[220821][1]	./ˈænt laɪən/-NAmE /ˈænt laɪən/
-	;con trùng ăn kiến -- a small insect that eats other insects, especially ants, which it catches in a hole made in the sand
+	;côn trùng ăn kiến -- a small insect that eats other insects, especially ants, which it catches in a hole made in the sand
 		;TOPICS Insects, worms, etc.C2
 
 
 aphid		<-->	noun+C2	[220821][1]	./ˈeɪfɪd/-NAmE /ˈeɪfɪd/
-	;rệp --a very small insect that is harmful to plants. There are several types of aphid, including, for example, greenfly.
+	;rệp -- a very small insect that is harmful to plants. There are several types of aphid, including, for example, greenfly.
 		;TOPICS Insects, worms, etc.C2
 
 
@@ -42,7 +41,7 @@ arachnid		<-->	noun+C2	[220821][1]	./əˈræknɪd/-NAmE /əˈræknɪd/
 		;TOPICS Insects, worms, etc.C2
 
 
-arthropod		<-->	noun+C2[-0]	./ˈɑːθrəpɒd/-NAmE /ˈɑːrθrəpɑːd/
+arthropod		<-->	noun+C2	[221029][1]	./ˈɑːθrəpɒd/-NAmE /ˈɑːrθrəpɑːd/
 	;động vật chân đốt -- (biology) ​an invertebrate animal such as an insect, spider or crab, that has its skeleton on the outside of its body and has joints on its legs
 		;TOPICS Insects, worms, etc.C2
 
@@ -98,7 +97,7 @@ boll weevil		<-->	noun+C2	[220821][1]	./ˈbəʊl wiːvl/-NAmE /ˈbəʊl wiːvl/
 		;TOPICS Insects, worms, etc.C2
 
 
-brown recluse		<-->	noun+C2[-0]	./ˌbraʊn rɪˈkluːs/-NAmE /ˌbraʊn ˈrekluːs/
+brown recluse		<-->	noun+C2	[221029][1]	./ˌbraʊn rɪˈkluːs/-NAmE /ˌbraʊn ˈrekluːs/
 	;(also brown recluse spider  /ˌbraʊn rɪˌkluːs ˈspaɪdə(r)/  /ˌbraʊn ˌrekluːs ˈspaɪdər/)
 	;một loại nhện nâu có độc -- ​a poisonous brown N. American spider that has a dark brown mark on its head
 		;Brown recluse bites are rare but can be serious.
@@ -146,12 +145,12 @@ centipede		<-->	noun+C2	[220821][1]	./ˈsentɪpiːd/-NAmE /ˈsentɪpiːd/
 ​	;con rít, con rết -- a small creature like an insect, with a long thin body and many legs
 
 
-chigger		<-->	noun+C2[-0]	./ˈtʃɪɡə(r)/,  /ˈdʒɪɡə(r)/-NAmE /ˈtʃɪɡər/
+chigger		<-->	noun+C2	[221029][1]	./ˈtʃɪɡə(r)/,  /ˈdʒɪɡə(r)/-NAmE /ˈtʃɪɡər/
 	;(also jigger)
 	;bộ hung -- a small flea that lives in tropical regions and lays eggs under a person’s or an animal’s skin, causing painful areas on the skin
 
 
-chrysalis		<-->	noun+C2[-0]	./ˈkrɪsəlɪs/-NAmE /ˈkrɪsəlɪs/
+chrysalis		<-->	noun+C2	[221029][1]	./ˈkrɪsəlɪs/-NAmE /ˈkrɪsəlɪs/
 	;(also chrysalid  /ˈkrɪsəlɪd/  /ˈkrɪsəlɪd/)
 	;con nhộng -- [IMAGE]	the form of an insect, especially a butterfly or moth, while it is changing into an adult inside a hard case, also called a chrysalis
 		;COMPARE pupa
@@ -169,7 +168,7 @@ cobweb		<-->	noun+C2	[220821][1]	./ˈkɒbweb/-NAmE /ˈkɑːbweb/
 		;SEE ALSO spider’s web, web
 
 
-cockchafer		<-->	noun+C2[-0]	./ˈkɒktʃeɪfə(r)/-NAmE /ˈkɑːktʃeɪfər/
+cockchafer		<-->	noun+C2	[221029][1]	./ˈkɒktʃeɪfə(r)/-NAmE /ˈkɑːktʃeɪfər/
 	;ve sầu -- (also May bug) ​a large brown insect that flies and makes a loud noise in early evening in summer
 
 
@@ -178,7 +177,7 @@ cockroach		<-->	noun+C1	[220821][1]	./ˈkɒkrəʊtʃ/-NAmE /ˈkɑːkrəʊtʃ/
 		;The kitchens were discovered to be infested with cockroaches.
 
 
-cocoon		<-->	noun+C2[-0]	./kəˈkuːn/-NAmE /kəˈkuːn/
+cocoon		<-->	noun+C2	[221029][1]	./kəˈkuːn/-NAmE /kəˈkuːn/
 	;kén, cái kén -- a cover or case of silk threads that some insects make to protect themselves before they become adults
 
 
@@ -186,7 +185,7 @@ Colorado beetle		<-->	noun+C2	[220821][1]	./ˌkɒlərɑːdəʊ ˈbiːtl/-NAmE /�
 	;bọ cánh cứng Colorado -- a yellow and black insect that damages potato plants
 
 
-crane fly		<-->	noun+C2[-0]	./ˈkreɪn flaɪ/-NAmE /ˈkreɪn flaɪ/
+crane fly		<-->	noun+C2	[221029][1]	./ˈkreɪn flaɪ/-NAmE /ˈkreɪn flaɪ/
 	;bọ nước -- (also informal daddy-long-legs) ​a flying insect with very long legs
 
 
@@ -217,7 +216,7 @@ cricket		<-->	noun+C2	[220821][1]	./ˈkrɪkɪt/-NAmE /ˈkrɪkɪt/
 				;chirpsing(ríu rít)
 
 
-daddy-long-legs		<-->	noun+C2[-0]	./ˌdædi ˈlɒŋ leɡz/-NAmE /ˌdædi ˈlɔːŋ leɡz/
+daddy-long-legs		<-->	noun+C2	[221029][1]	./ˌdædi ˈlɒŋ leɡz/-NAmE /ˌdædi ˈlɔːŋ leɡz/
 	;(plural daddy-long-legs)(informal)
 	;​bọ nước -- a crane fly (= a flying insect with very long legs)
 	;​bọ nước -- (North American English)
@@ -225,28 +224,28 @@ daddy-long-legs		<-->	noun+C2[-0]	./ˌdædi ˈlɒŋ leɡz/-NAmE /ˌdædi ˈlɔː
 		;a small creature like a spider with very long legs
 
 
-damselfly		<-->	noun+C2[-0]	./ˈdæmzlflaɪ/-NAmE /ˈdæmzlflaɪ/
+damselfly		<-->	noun+C2	[221029][1]	./ˈdæmzlflaɪ/-NAmE /ˈdæmzlflaɪ/
 	;một loại chuồng chuồng nhỏ -- (plural damselflies) ​an insect with a long thin body and two pairs of wings, similar to a dragonfly but smaller
 
 
-deathwatch beetle		<-->	noun+C2[-0]	./ˌdeθwɒtʃ ˈbiːtl/-NAmE /ˌdeθwɑːtʃ ˈbiːtl/
+deathwatch beetle		<-->	noun+C2	[221029][1]	./ˌdeθwɒtʃ ˈbiːtl/-NAmE /ˌdeθwɑːtʃ ˈbiːtl/
 ​	;bọ hung -- a small insect that eats into old wood, making sounds like a watch ticking
 
 
-dragonfly		<-->	noun+C2[-0]	./ˈdræɡənflaɪ/-NAmE /ˈdræɡənflaɪ/
+dragonfly		<-->	noun+C2	[221029][1]	./ˈdræɡənflaɪ/-NAmE /ˈdræɡənflaɪ/
 	;chuồng chuồng -- (plural dragonflies) [IMAGE]	an insect with a long, thin body, often brightly coloured, and two pairs of large transparent wings. Dragonflies are often seen over water.
 		;Bright blue dragonflies hovered and darted in the reeds.
 
 
-earthworm		<-->	noun+C1[-0]	./ˈɜːθwɜːm/-NAmE /ˈɜːrθwɜːrm/
+earthworm		<-->	noun+C1	[221028][1]	./ˈɜːθwɜːm/-NAmE /ˈɜːrθwɜːrm/
 ​	;giun đất -- a common long thin worm that lives in soil
 
 
-earwig		<-->	noun+C2[-0]	./ˈɪəwɪɡ/-NAmE /ˈɪrwɪɡ/
+earwig		<-->	noun+C2	[221029][1]	./ˈɪəwɪɡ/-NAmE /ˈɪrwɪɡ/
 	;con kiến cánh da - a small brown insect with a long body and two curved pointed parts called pincers that stick out at the back end of its body
 
 
-egg		<-->	noun+A1[-0]	./eɡ/-NAmE /eɡ/
+egg		<-->	noun+A1	[221028][1]	./eɡ/-NAmE /eɡ/
 	;trứng -- (Idiooms) [IMAGE]	[countable] a small oval object with a thin hard shell produced by a female bird and containing a young bird; a similar object (without a hard shell) produced by a female fish, insect, etc.
 		The female sits on the eggs until they hatch.
 		The fish lay thousands of eggs at one time.
@@ -312,22 +311,22 @@ egg		<-->	noun+A1[-0]	./eɡ/-NAmE /eɡ/
 					;the white of an egg, the yolk of an egg, bacon and eggs…
 
 
-exoskeleton		<-->	noun+C2[-0]	./ˈeksəʊskelɪtn/-NAmE /ˈeksəʊskelɪtn/
+exoskeleton		<-->	noun+C2	[221029][1]	./ˈeksəʊskelɪtn/-NAmE /ˈeksəʊskelɪtn/
 ​	;lớp vỏ cứng -- (biology) a hard outer layer that protects the bodies of certain animals, such as insects
 		;COMPARE endoskeleton
 
 
-feeler		<-->	noun+C2[-0]	./ˈfiːlə(r)/-NAmE /ˈfiːlər/
+feeler		<-->	noun+C2	[221029][1]	./ˈfiːlə(r)/-NAmE /ˈfiːlər/
 	;râu xúc giác của con  trùng -- [usually plural] (Idiooms) ​either of the two long thin parts on the heads of some insects and of some animals that live in shells that they use to feel and touch things with
 		;SYNONYM antenna
 
 
-fire ant		<-->	noun+C2[-0]	./ˈfaɪər ænt/-NAmE /ˈfaɪər ænt/
+fire ant		<-->	noun+C2	[221029][1]	./ˈfaɪər ænt/-NAmE /ˈfaɪər ænt/
 	;kiến lửa -- ​a type of ant (= a small insect) that has a painful sting that is sometimes dangerous
 		;They had an infestation of fire ants.
 
 
-firefly		<-->	noun+C2[-0]	./ˈfaɪəflaɪ/-NAmE /ˈfaɪərflaɪ/
+firefly		<-->	noun+C2	[221029][1]	./ˈfaɪəflaɪ/-NAmE /ˈfaɪərflaɪ/
 	;đom đóm -- (plural fireflies) (North American English also lightning bug) ​a flying insect with a tail that shines in the dark
 
 
@@ -361,7 +360,7 @@ fly		<-->	verb+A1	[220821][1]	./flaɪ/-NAmE /flaɪ/
 				;above, over
 
 
-fly		<-->	noun+A2[-0]	./flaɪ/-NAmE /flaɪ/-\
+fly		<-->	noun+A2	[221028][1]	./flaɪ/-NAmE /flaɪ/-\
 	;ruồi --  (plural flies)(Idiooms) insect​  [countable] a small flying insect with two wings. There are many different types of fly and many of them spread disease.
 		;A fly was buzzing against the window.
 		;Flies rose in thick black swarms.
@@ -378,7 +377,7 @@ fly		<-->	noun+A2[-0]	./flaɪ/-NAmE /flaɪ/-\
 				;larva, spray
 
 
-flying		<-->	adjective+A2[-0]	./ˈflaɪɪŋ/-NAmE /ˈflaɪɪŋ/
+flying		<-->	adjective+A2	[221028][1]	./ˈflaɪɪŋ/-NAmE /ˈflaɪɪŋ/
 	;có thể bay -- [only before noun] (Idiooms)​  able to fly, flying insects
 		;Oxford Collocations Dictionary
 			;Flying is used with these nouns:
@@ -416,29 +415,29 @@ gnat		<-->	noun+C2	[220821][1]	./næt/-NAmE /næt/
 			---
 
 
-gogga		<-->	noun+C2[-0]	./ˈxɒxə/-NAmE /ˈxɑːxə/
+gogga		<-->	noun+C2	[221029][1]	./ˈxɒxə/-NAmE /ˈxɑːxə/
 	;một loại côn trùng -- South African English [ˈxɔxə] (South African English, informal) ​an insect
 
 
-grasshopper		<-->	noun+C2[-0]	./ˈɡrɑːshɒpə(r)/-NAmE /ˈɡræshɑːpər/
+grasshopper		<-->	noun+C2	[221029][1]	./ˈɡrɑːshɒpə(r)/-NAmE /ˈɡræshɑːpər/
 	;châu chấu -- (Idiooms) [IMAGE]	an insect with long back legs, that can jump very high and that makes a sound with its legs
 
 
-greenfly		<-->	noun+C2[-0]	./ˈɡriːnflaɪ/-NAmE /ˈɡriːnflaɪ/
+greenfly		<-->	noun+C2	[221029][1]	./ˈɡriːnflaɪ/-NAmE /ˈɡriːnflaɪ/
 	;bọ nước mà xanh -- [uncountable, countable] (plural greenflies, greenfly) ​a small flying insect that is harmful to plants
 		;The roses have got greenfly.
 
 
-grub		<-->	noun+C2[-0]	./ɡrʌb/-NAmE /ɡrʌb/\
+grub		<-->	noun+C2	[221029][1]	./ɡrʌb/-NAmE /ɡrʌb/\
 	;ấu trùng -- ​[countable] the young form of an insect, that looks like a small fat worm
 
 
-gypsy moth		<-->	noun+C2[-0]	./ˈdʒɪpsi mɒθ/-NAmE /ˈdʒɪpsi mɔːθ/
+gypsy moth		<-->	noun+C2	[221029][1]	./ˈdʒɪpsi mɒθ/-NAmE /ˈdʒɪpsi mɔːθ/
 	;bướm đêm, loại gây hại cho cây trồng -- a type of moth, the caterpillar of which eats leaves and causes serious damage to trees and plants
 		;The gypsy moth is a notorious pest that feeds on birches.
 
 
-harvestman		<-->	noun+C2[-0]	./ˈhɑːvəstmən/-NAmE /ˈhɑːrvəstmən/
+harvestman		<-->	noun+C2	[221029][1]	./ˈhɑːvəstmən/-NAmE /ˈhɑːrvəstmən/
 	;nhện nước -- (plural harvestmen  /ˈhɑːvəstmən/  /ˈhɑːrvəstmən/) (also (North American English also)daddy-long-legs) ​a small creature like a spider with very long legs
 		;Although they have eight legs, harvestmen are not spiders.
 		;Most harvestmen scavenge dead plants and animals, catching easy prey such as small caterpillars.
@@ -451,7 +450,7 @@ hatch		<-->	verb+C1	[220821][1]	./hætʃ/-NAmE /hætʃ/
 		;TOPICS BirdsC1, Fish and shellfishC1, Insects, worms, etc.C1
 
 
-hive		<-->	noun+C1[-0]	./haɪv/-NAmE /haɪv/\
+hive		<-->	noun+C1	[221028][1]	./haɪv/-NAmE /haɪv/\
 	;tổ ong -- (also beehive) [countable] a structure made for bees to live in
 		;studying the life of bees in the hive
 		;đàn ong -- [countable] the bees living in a hive
@@ -465,7 +464,7 @@ hornet		<-->	noun+C2	[220821][1]	./ˈhɔːnɪt/-NAmE /ˈhɔːrnɪt/
 	;ong vò vẻ -- (Idiooms) ​a large wasp (= a black and yellow flying insect) that has a very powerful sting
 
 
-insect		<-->	noun+A2[-0]	./ˈɪnsekt/-NAmE /ˈɪnsekt/
+insect		<-->	noun+A2	[221028][1]	./ˈɪnsekt/-NAmE /ˈɪnsekt/
 	;côn trùng --  [IMAGE]	 any small creature with six legs and a body divided into three parts. Insects usually also have wings. Ants, bees and flies are all insects.
 		;Most birds spend most of the day eating insects.
 		;There are about 30 million species of insects in the world.
@@ -506,7 +505,7 @@ jigger		<-->	noun+C2	[220821][1]	./ˈdʒɪɡə(r)/-NAmE /ˈdʒɪɡər/
 	;cái ghẻ -- (also chigger) ​a small flea that lives in tropical regions and lays eggs under a person’s or an animal’s skin, causing painful areas on the skin
 
 
-lacewing		<-->	noun+C2[-0]	./ˈleɪswɪŋ/-NAmE /ˈleɪswɪŋ/
+lacewing		<-->	noun+C2	[221029][1]	./ˈleɪswɪŋ/-NAmE /ˈleɪswɪŋ/
 ​	;bọ nước cánh trong -- an insect that has large transparent wings with lines on
 
 
@@ -562,17 +561,17 @@ louse		<-->	noun+C2	[220821][1]	./laʊs/-NAmE /laʊs/
 		;SEE ALSO nit, woodlouse
 
 
-maggot		<-->	noun+C2[-0]	./ˈmæɡət/-NAmE /ˈmæɡət/
+maggot		<-->	noun+C2	[221029][1]	./ˈmæɡət/-NAmE /ˈmæɡət/
 	;sâu non, nhộng -- ​a creature like a small, short worm that is the young form of a fly and is found in meat and other food that is going bad. Maggots are often used as bait to catch fish.
 
 
 
 
-mandible		<-->	noun+C2[-0]	./ˈmændɪbl/-NAmE /ˈmændɪbl/
+mandible		<-->	noun+C2	[221029][1]	./ˈmændɪbl/-NAmE /ˈmændɪbl/
 	;hàm của côn trùng -- (anatomy)  [IMAGE]	either of the two parts that are at the front and on either side of an insect’s mouth, used especially for biting and crushing food
 
 
-mantis		<-->	noun+C2[-0]	./ˈmæntɪs/-NAmE /ˈmæntɪs/
+mantis		<-->	noun+C2	[221029][1]	./ˈmæntɪs/-NAmE /ˈmæntɪs/
 	;bọ ngựa -- (also praying mantis) (plural mantids or mantises) ​a large green insect that eats other insects. The female mantis often eats the male.
 
 
@@ -580,11 +579,11 @@ May bug		<-->	noun+C2	[220821][1]	./ˈmeɪ bʌɡ/-NAmE /ˈmeɪ bʌɡ/
 	;ve sầu -- (also cockchafer) ​a large brown insect that flies and makes a loud noise in early evening in summer
 
 
-mayfly		<-->	noun+C2[-0]	./ˈmeɪflaɪ/-NAmE /ˈmeɪflaɪ/
+mayfly		<-->	noun+C2	[221029][1]	./ˈmeɪflaɪ/-NAmE /ˈmeɪflaɪ/
 	;con phù du -- (plural mayflies) ​a small insect that lives near water and only lives for a very short time
 
 
-midge		<-->	noun+C2[-0]	./mɪdʒ/-NAmE /mɪdʒ/	
+midge		<-->	noun+C2	[221029][1]	./mɪdʒ/-NAmE /mɪdʒ/	
 	;một loại bọ nước -- a small flying insect that lives especially in wet places and that bites humans and animals
 
 
@@ -592,23 +591,23 @@ millipede		<-->	noun+C2	[220821][1]	./ˈmɪlɪpiːd/-NAmE /ˈmɪlɪpiːd/
 	;con cuốn chiếu -- ​a small creature like an insect, with a long thin body divided into many sections, each with two pairs of legs
 
 
-minibeast		<-->	noun+C2[-0]	./ˈmɪnibiːst/-NAmE /ˈmɪnibiːst/
+minibeast		<-->	noun+C2	[221029][1]	./ˈmɪnibiːst/-NAmE /ˈmɪnibiːst/
 	;động vật không xương sống -- (British English) (used especially when talking to children) any small animal that does not have a backbone
 		;minibeasts such as worms, snails, centipedes and spiders
 
 
-mite		<-->	noun+C2[-0]	./maɪt/-NAmE /maɪt/
+mite		<-->	noun+C2	[221029][1]	./maɪt/-NAmE /maɪt/
 	;con ve (chó ) -- [countable] a very small creature like a spider that lives in soil, on plants or animals, or inside houses in carpets, etc.
 		;house dust mites
 		;SEE ALSO dust mite
 
 
-mollusc		<-->	noun+C2[-0]	./ˈmɒləsk/-NAmE /ˈmɑːləsk/
+mollusc		<-->	noun+C2	[221029][1]	./ˈmɒləsk/-NAmE /ˈmɑːləsk/
 	;động vật thân mềm, ví dụ ốc sên -- (British English)(US English mollusk)(specialist) ​any creature with a soft body that is not divided into different sections, and usually a hard outer shell. Snails and slugs are molluscs.
 		;COMPARE bivalve(hai mảnh vỏ), shellfish
 
 
-money spider		<-->	noun+C2[-0]	./ˈmʌni spaɪdə(r)/-NAmE /ˈmʌni spaɪdər/
+money spider		<-->	noun+C2	[221029][1]	./ˈmʌni spaɪdə(r)/-NAmE /ˈmʌni spaɪdər/
 	;nhện đồng tiền -- ​a very small black or brown spider that is supposed to bring you good luck with money if it goes on you
 
 
@@ -630,7 +629,7 @@ mosquito		<-->	noun+B1[-0]	./məˈskiːtəʊ/,  /mɒˈskiːtəʊ/-NAmE /məˈski
 				;bite, larva, species…
 
 
-moth		<-->	noun+C1[-0]	./mɒθ/-NAmE /mɔːθ/
+moth		<-->	noun+C1	[221028][1]	./mɒθ/-NAmE /mɔːθ/
 	;bướm đêm -- [IMAGE]	a flying insect with a long thin body and four large wings, like a butterfly, but less brightly coloured. Moths fly mainly at night and are attracted to bright lights.
 		;SEE ALSO gypsy moth, silk moth
 		;Oxford Collocations Dictionary
@@ -638,11 +637,11 @@ moth		<-->	noun+C1[-0]	./mɒθ/-NAmE /mɔːθ/
 				;silk
 
 
-nematode		<-->	noun+C2[-0]	./ˈnemətəʊd/-NAmE /ˈnemətəʊd/
+nematode		<-->	noun+C2	[221029][1]	./ˈnemətəʊd/-NAmE /ˈnemətəʊd/
 	;giun tròn -- (also nematode worm) ​a worm with a thin body that is shaped like a tube and not divided into sections
 
 
-nest		<-->	noun+C1[-0]	./nest/-NAmE /nest/
+nest		<-->	noun+C1	[221028][1]	./nest/-NAmE /nest/
 	;tổ -- [countable] a place where insects or other small creatures live and produce their young
 		;a wasps’ nest
 		;a nest of mice
@@ -668,7 +667,7 @@ nymph		<-->	noun+C2	[220821][1]	./nɪmf/-NAmE /nɪmf/
 		;COMPARE larva
 
 
-pest		<-->	noun+C1	[220821][1]	./pest/-NAmE /pest/
+pest		<-->	noun+C1	[220821][2]	./pest/-NAmE /pest/ [voa]
 	;côn trùng gây hại -- ​an insect or animal that destroys plants, food, etc.
 		;insect/plant/garden pests
 		;a pest control officer
@@ -743,19 +742,19 @@ queen		<-->	noun+C2	[220821][1]	./kwiːn/-NAmE /kwiːn/
 				;queen consort
 
 
-red admiral		<-->	noun+C2[-0]	./ˌred ˈædmərəl/-NAmE /ˌred ˈædmərəl/
+red admiral		<-->	noun+C2	[221029][1]	./ˌred ˈædmərəl/-NAmE /ˌred ˈædmərəl/
 	;bướm bà -- a butterfly (= a flying insect with large brightly coloured wings) that has black wings with bright red marks on them
 
 
-roundworm		<-->	noun+C2[-0]	./ˈraʊndwɜːm/-NAmE /ˈraʊndwɜːrm/
+roundworm		<-->	noun+C2	[221029][1]	./ˈraʊndwɜːm/-NAmE /ˈraʊndwɜːrm/
 	;con lãi -- ​a small worm that lives in the intestines of pigs, humans and some other animals
 
 
-scarab		<-->	noun+C2[-0]	./ˈskærəb/-NAmE /ˈskærəb/
+scarab		<-->	noun+C2	[221029][1]	./ˈskærəb/-NAmE /ˈskærəb/
 	;con bọ cánh cứng -- (also scarab beetle) ​a large black beetle (= an insect with a hard shell); a design showing a scarab beetle
 
 
-scorpion		<-->	noun+C1[-0]	./ˈskɔːpiən/-NAmE /ˈskɔːrpiən/
+scorpion		<-->	noun+C1	[221028][1]	./ˈskɔːpiən/-NAmE /ˈskɔːrpiən/
 	;con bọ cạp -- [IMAGE]	a small creature like an insect with eight legs, two front claws (= curved and pointed arms) and a long tail that curves over its back and can give a poisonous sting. Scorpions live in hot countries.
 		;Being stung by a scorpion is extremely dangerous.
 		;Oxford Collocations Dictionary
@@ -763,15 +762,15 @@ scorpion		<-->	noun+C1[-0]	./ˈskɔːpiən/-NAmE /ˈskɔːrpiən/
 				;sting, venom(nọc độc)
 
 
-silkworm		<-->	noun+C1[-0]	./ˈsɪlkwɜːm/-NAmE /ˈsɪlkwɜːrm/
+silkworm		<-->	noun+C1	[221028][1]	./ˈsɪlkwɜːm/-NAmE /ˈsɪlkwɜːrm/
 ​	;con tằm -- a caterpillar (= a small creature like a worm with legs) that produces silk thread
 
 
-silverfish		<-->	noun+C2[-0]	./ˈsɪlvəfɪʃ/-NAmE /ˈsɪlvərfɪʃ/
+silverfish		<-->	noun+C2	[221029][1]	./ˈsɪlvəfɪʃ/-NAmE /ˈsɪlvərfɪʃ/
 	;con gián nước -- (plural silverfish) ​a small silver insect without wings that lives in houses and that can cause damage to materials such as cloth and paper
 
 
-slug		<-->	noun+C2[-0]	./slʌɡ/-NAmE /slʌɡ/\
+slug		<-->	noun+C2	[221029][1]	./slʌɡ/-NAmE /slʌɡ/\ [voa]
 	;con sên -- [IMAGE]	a small, soft creature, like a snail without a shell, that moves very slowly and often eats garden plants, 
 	;GardensC2
 
@@ -789,7 +788,7 @@ snail		<-->	noun+B2[-0]	./sneɪl/-NAmE /sneɪl/
 				;slugs and snails(at) a snail’s pace
 
 
-Spanish fly		<-->	noun+C2[-0]	./ˌspænɪʃ ˈflaɪ/-NAmE /ˌspænɪʃ ˈflaɪ/
+Spanish fly		<-->	noun+C2	[221029][1]	./ˌspænɪʃ ˈflaɪ/-NAmE /ˌspænɪʃ ˈflaɪ/
 	;ruồi xanh Tây Ban Nha -- (plural Spanish flies) ​[countable] a bright green insect that has a strong smell and produces a harmful substance
 
 
@@ -839,21 +838,21 @@ sting		<-->	noun+B2	[220821][1]	./stɪŋ/-NAmE /stɪŋ/
 				;have, get, give somebody…
 
 
-swarm		<-->	noun+C1[-0]	./swɔːm/-NAmE /swɔːrm/
+swarm		<-->	noun+C1	[221028][1]	./swɔːm/-NAmE /swɔːrm/
 	;đàn lớn -- swarm (of something) a large group of insects, especially bees, moving together in the same direction
 		;a swarm of bees/locusts/flies
 		;Gnats came in swarms to torment them.
 
 
-tapeworm		<-->	noun+C2[-0]	./ˈteɪpwɜːm/-NAmE /ˈteɪpwɜːrm/
+tapeworm		<-->	noun+C2	[221029][1]	./ˈteɪpwɜːm/-NAmE /ˈteɪpwɜːrm/
 	;con sán xơ mít -- a long, flat worm that can live in the intestines of animals and humans and can cause illness
 
 
-tarantula		<-->	noun+C1[-0]	./təˈræntʃələ/-NAmE /təˈræntʃələ/
+tarantula		<-->	noun+C1	[221028][1]	./təˈræntʃələ/-NAmE /təˈræntʃələ/
 	;một giống nhện độc có lông -- a large poisonous spider covered with hair that lives in Central and South America
 
 
-termite		<-->	noun+C1[-0]	./ˈtɜːmaɪt/-NAmE /ˈtɜːrmaɪt/
+termite		<-->	noun+C1	[221028][1]	./ˈtɜːmaɪt/-NAmE /ˈtɜːrmaɪt/
 	;con mối -- an insect that lives in organized groups, mainly in hot countries. Termites do a lot of damage by eating the wood of trees and buildings.
 		;a termite colony
 		;Oxford Collocations Dictionary
@@ -861,16 +860,16 @@ termite		<-->	noun+C1[-0]	./ˈtɜːmaɪt/-NAmE /ˈtɜːrmaɪt/
 				;mound(gò đất)
 
 
-thorax		<-->	noun+C2[-0]	./ˈθɔːræks/-NAmE /ˈθɔːræks/ 
+thorax		<-->	noun+C2	[221029][1]	./ˈθɔːræks/-NAmE /ˈθɔːræks/ 
 	;(plural thoraxes, thoraces  /ˈθɔːrəsiːz/  /ˈθɔːrəsiːz/)
 	;phần giữa thân côn trùng -- the middle section of an insect’s body, to which the legs and wings are attached
 
 
-threadworm		<-->	noun+C2[-0]	./ˈθredwɜːm/-NAmE /ˈθredwɜːrm/
+threadworm		<-->	noun+C2	[221029][1]	./ˈθredwɜːm/-NAmE /ˈθredwɜːrm/
 ​	;giun kim -- a small, thin worm that lives in the intestines of humans and animals
 
 
-tick		<-->	noun+C1[-0]	./tɪk/-NAmE /tɪk/
+tick		<-->	noun+C1	[221028][1]	./tɪk/-NAmE /tɪk/
 	;rệp nhỏ --  [IMAGE]	[countable] a very small creature that bites humans and animals and drinks their blood. There are several types of tick, some of which can carry diseases.
 		;a tick bite
 
@@ -905,11 +904,11 @@ wasp		<-->	noun+B2[-0]	./wɒsp/-NAmE /wɑːsp/
 				;a wasp’s nest
 
 
-water strider		<-->	noun+C2[-0]	./ˈwɔːtə straɪdə(r)/-NAmE /ˈwɔːtər straɪdər/
+water strider		<-->	noun+C2	[221029][1]	./ˈwɔːtə straɪdə(r)/-NAmE /ˈwɔːtər straɪdər/
 	;con nhện nước -- (North American English) (British English pond skater) ​an insect which moves quickly across the surface of water
 
 
-web		<-->	noun+A2[-0]	./web/-NAmE /web/
+web		<-->	noun+A2	[221028][1]	./web/-NAmE /web/
 	;lưới nhện, mạnh nhện -- [IMAGE]	(also spider’s web especially in British English) (also , spiderweb especially in North American English) [countable] a fine net of thread made by a spider to catch insects
 		;A spider had spun a perfect web outside the window.
 		;Oxford Collocations Dictionary

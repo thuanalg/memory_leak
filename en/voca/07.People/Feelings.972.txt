@@ -1,22 +1,42 @@
 abashed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 abhor		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 abominable		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 abominate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -41,7 +61,9 @@ abuse		<-->	noun+C1[-0]	.
 
 
 acrimonious		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -77,7 +99,9 @@ adore		<-->	verb+B2[-0]	.
 
 
 adoring		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -89,7 +113,9 @@ adrenaline		<-->	noun+C1[-0]	.
 
 
 adrift		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -107,7 +133,9 @@ affectionate		<-->	adjective+C1[-0]	.
 
 
 aflutter		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -131,7 +159,9 @@ aggressive		<-->	adjective+B2[-0]	.
 
 
 aghast		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -155,7 +185,9 @@ agitation		<-->	noun+C2[-0]	.
 
 
 agog		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -203,7 +235,9 @@ amazement		<-->	noun+B2[-0]	.
 
 
 amorous		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -275,6 +309,14 @@ antagonism		<-->	noun+C2[-0]	.
 
 
 antagonize		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -299,7 +341,9 @@ apathy		<-->	noun+C2[-0]	.
 
 
 apoplectic		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -413,7 +457,9 @@ bad		<-->	adjective+B1[-0]	.
 
 
 bashful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -425,6 +471,14 @@ be a bag/bundle of nerves		<-->	idiom+C2[-0]	.
 
 
 beam		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -479,13 +533,17 @@ be on edge		<-->	idiom+C2[-0]	.
 
 
 bereft		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 berserk		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -497,7 +555,9 @@ be scared/bored witless		<-->	idiom+C2[-0]	.
 
 
 besotted		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -527,60 +587,110 @@ bitter		<-->	adjective+B2[-0]	.
 
 
 blanch		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 blaze up		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 blazing		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 bleary		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 bleary-eyed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 blench		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 blindside		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 blissful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 blithe		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 bloom		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -605,13 +715,23 @@ blow-up		<-->	noun+C2[-0]	.
 
 
 blow up		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 blue		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -629,24 +749,56 @@ body blow		<-->	noun+C2[-0]	.
 
 
 boggle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 boil		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 boil over		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 boil up		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -677,18 +829,36 @@ boredom		<-->	noun+B2[-0]	.
 
 
 bowl over		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 brain-dead		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 break		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -701,6 +871,14 @@ breathtaking		<-->	adjective+B2[-0]	.
 
 
 bristle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -725,18 +903,36 @@ broken-hearted		<-->	adjective+C1[-0]	.
 
 
 brood		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 broody		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 bum		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -755,6 +951,14 @@ buzz		<-->	noun+C1[-0]	.
 
 
 caper		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -773,7 +977,9 @@ care		<-->	verb+A2[-0]	.
 
 
 careworn		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -791,6 +997,14 @@ carry a torch for somebody		<-->	idiom+C2[-0]	.
 
 
 chafe		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -809,6 +1023,14 @@ channel		<-->	noun+C1[-0]	.
 
 
 chatter		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -821,7 +1043,9 @@ cheerful		<-->	adjective+B1[-0]	.
 
 
 cheery		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -833,36 +1057,66 @@ chill		<-->	noun+C2[-0]	.
 
 
 choked		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 choleric		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 chuffed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 chug		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 churn		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 cloud		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -887,6 +1141,14 @@ complain		<-->	verb+A2[-0]	.
 
 
 condole		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -905,19 +1167,31 @@ confession		<-->	noun+C1[-0]	.
 
 
 confound		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 confrontational		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 conscience-stricken		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -959,19 +1233,31 @@ cool		<-->	adjective+B2[-0]	.
 
 
 cowed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 cower		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 cranky		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -983,42 +1269,68 @@ crazy		<-->	adjective+A2[-0]	.
 
 
 creepy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 crestfallen		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 cringe		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 cringeworthy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 cross		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 crotchety		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 crumple		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -1031,6 +1343,14 @@ cry		<-->	verb+A2[-0]	.
 
 
 curdle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -1043,13 +1363,17 @@ curious		<-->	adjective+B2[-0]	.
 
 
 dead beat		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 dejected		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1067,12 +1391,22 @@ delighted		<-->	adjective+B2[-0]	.
 
 
 delirious		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 demolish		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -1145,7 +1479,9 @@ despondency		<-->	noun+C2[-0]	.
 
 
 despondent		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1187,7 +1523,9 @@ diffidence		<-->	noun+C2[-0]	.
 
 
 diffident		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1223,6 +1561,14 @@ disapproval		<-->	noun+C1[-0]	.
 
 
 discomfit		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -1241,25 +1587,39 @@ discomfort		<-->	verb+C1[-0]	.
 
 
 disconcert		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 disconcerted		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 disconcerting		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 disconsolate		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1308,7 +1668,9 @@ disgraceful		<-->	adjective+C2	[220913][1]	./dɪsˈɡreɪsfl/-NAmE /dɪsˈɡreɪ
 
 
 disgruntled		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1441,7 +1803,9 @@ disillusioned		<-->	adjective+C1[-0]	.
 
 
 disinterested		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1453,6 +1817,14 @@ dismay		<-->	noun+C2[-0]	.
 
 
 dismay		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -1489,7 +1861,9 @@ disturbed		<-->	adjective+C1[-0]	.
 
 
 dog-tired		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1501,30 +1875,58 @@ doldrums		<-->	noun+C2[-0]	.
 
 
 doleful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 dote on		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 dote upon		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 doting		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 down		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -1537,7 +1939,9 @@ down		<-->	adjective+B2[-0]	.
 
 
 downcast		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1549,7 +1953,9 @@ downer		<-->	noun+C2[-0]	.
 
 
 downhearted		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1567,7 +1973,9 @@ down in the mouth		<-->	idiom+C2[-0]	.
 
 
 drab		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1579,7 +1987,9 @@ drag		<-->	noun+C2[-0]	.
 
 
 drained		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1597,7 +2007,9 @@ dread		<-->	noun+C1[-0]	.
 
 
 dreaded		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1609,25 +2021,39 @@ dreadful		<-->	adjective+B2[-0]	.
 
 
 dreary		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 droop		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 drowsy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 dry		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1639,13 +2065,23 @@ dull		<-->	adjective+B2[-0]	.
 
 
 dumbfound		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 dumbfounded		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1675,13 +2111,17 @@ ecstatic		<-->	adjective+C1[-0]	.
 
 
 edgy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 effervescent		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1693,18 +2133,30 @@ ejaculation		<-->	noun+C2[-0]	.
 
 
 elated		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 electric		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 electrify		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -1729,13 +2181,23 @@ embarrassment		<-->	noun+C1[-0]	.
 
 
 embitter		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 embittered		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1753,12 +2215,22 @@ emotional		<-->	adjective+B2[-0]	.
 
 
 empathetic		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 empathetically		<-->	adverb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -1777,19 +2249,31 @@ empty		<-->	adjective+B2[-0]	.
 
 
 enamoured		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 enchant		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 engrossed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1807,12 +2291,28 @@ enjoyment		<-->	noun+B2[-0]	.
 
 
 enrage		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 enthuse		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -1843,13 +2343,17 @@ envy		<-->	verb+C1[-0]	.
 
 
 exasperated		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 excitable		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1873,7 +2377,9 @@ excitement		<-->	noun+B1[-0]	.
 
 
 exclamatory		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1897,13 +2403,23 @@ exhaustion		<-->	noun+C1[-0]	.
 
 
 exhilarate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 exhilarated		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1915,25 +2431,45 @@ exhilaration		<-->	noun+C2[-0]	.
 
 
 explode		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 explosive		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 exult		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 exultant		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1957,7 +2493,9 @@ fall for		<-->	phrasal verb+C1[-0]	.
 
 
 famished		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1993,7 +2531,9 @@ fatigue		<-->	noun+C1[-0]	.
 
 
 fatigued		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2017,13 +2557,17 @@ fearful		<-->	adjective+B2[-0]	.
 
 
 fearsome		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 febrile		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2059,13 +2603,23 @@ feeling		<-->	noun+A1[-0]	.
 
 
 fidget		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 fidgety		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2077,30 +2631,58 @@ fierce		<-->	adjective+C1[-0]	.
 
 
 fiery		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 fire		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 flabbergasted		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 flap		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 flare		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2113,36 +2695,78 @@ flare-up		<-->	noun+C2[-0]	.
 
 
 flare up		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 flattering		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 flinch		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 flinch from		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 flinch from doing		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 flip		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2161,12 +2785,28 @@ float/walk on air		<-->	idiom+C2[-0]	.
 
 
 floor		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 flop		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2179,6 +2819,14 @@ flourish		<-->	verb+C1[-0]	.
 
 
 flush		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2197,6 +2845,14 @@ fluster		<-->	noun+C2[-0]	.
 
 
 flutter		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2251,7 +2907,9 @@ for fear of something/of doing something		<-->	idiom+C1[-0]	.
 
 
 forlorn		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2263,12 +2921,22 @@ frantic		<-->	adjective+C1[-0]	.
 
 
 frazzled		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 freak		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2281,13 +2949,23 @@ freeze your blood		<-->	idiom+C2[-0]	.
 
 
 fret		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 fretful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2365,6 +3043,14 @@ fulfilled		<-->	adjective+C1[-0]	.
 
 
 fume		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2382,30 +3068,42 @@ furious		<-->	adjective+B2[-0]	.
 
 
 
-fury		<-->	noun+C1	[220913][1]	./ˈfjʊəri/-NAmE /ˈfjʊri/
-​[singular] a state of being extremely angry about something
-SYNONYM rage
-He flew into a fury when I refused.
-Extra Examples
-TOPICS FeelingsC1[-0]	.
-Oxford Collocations Dictionary
+fury		<-->	noun+C1[-0]	.
 
 
 
 
 gall		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 galling		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 galvanize		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2430,13 +3128,23 @@ get/have the hots for somebody		<-->	idiom+C2[-0]	.
 
 
 gibber		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 giddy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2460,6 +3168,14 @@ glad		<-->	adjective+B1[-0]	.
 
 
 gladden		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2478,6 +3194,14 @@ glare		<-->	noun+C1[-0]	.
 
 
 glaze		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2490,7 +3214,9 @@ glee		<-->	noun+C2[-0]	.
 
 
 gleeful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2508,6 +3234,14 @@ gloomy		<-->	adjective+C1[-0]	.
 
 
 glow		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2520,6 +3254,14 @@ glow		<-->	noun+C2[-0]	.
 
 
 glower		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2538,7 +3280,9 @@ glued/riveted/rooted to the spot		<-->	idiom+C2[-0]	.
 
 
 glum		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2550,6 +3294,14 @@ gnash your teeth		<-->	idiom+C2[-0]	.
 
 
 gnaw at		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2568,25 +3320,45 @@ go bananas		<-->	idiom+C2[-0]	.
 
 
 gobble		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 gobsmacked		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 goggle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 goggle-eyed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2616,6 +3388,14 @@ goose pimples		<-->	noun+C2[-0]	.
 
 
 gorge		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2634,6 +3414,14 @@ go through the roof		<-->	idiom+C2[-0]	.
 
 
 grab		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2652,7 +3440,9 @@ gratitude		<-->	noun+C1[-0]	.
 
 
 grave		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2670,19 +3460,31 @@ greedy		<-->	adjective+B2[-0]	.
 
 
 grief-stricken		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 grieve		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 groggy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2694,7 +3496,9 @@ gross-out		<-->	noun+C2[-0]	.
 
 
 gross-out		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2718,19 +3522,31 @@ guilty		<-->	adjective+B1[-0]	.
 
 
 gutted		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 guzzle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 hacked off		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2760,6 +3576,14 @@ happy place		<-->	noun+C2[-0]	.
 
 
 harp on		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -2814,7 +3638,9 @@ head over heels in love		<-->	idiom+C2[-0]	.
 
 
 heady		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2838,7 +3664,9 @@ heartbreak		<-->	noun+C2[-0]	.
 
 
 heartbreaking		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2850,13 +3678,17 @@ heartbroken		<-->	adjective+C1[-0]	.
 
 
 heart-rending		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 heartsick		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2868,13 +3700,17 @@ heaven		<-->	noun+B2[-0]	.
 
 
 het up		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 highly strung		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2964,7 +3800,9 @@ horror		<-->	noun+B1[-0]	.
 
 
 horror-struck		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2988,13 +3826,17 @@ hot		<-->	adjective+C1[-0]	.
 
 
 hot-blooded		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 hot-tempered		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3006,6 +3848,14 @@ hot under the collar		<-->	idiom+C2[-0]	.
 
 
 huff		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -3018,7 +3868,9 @@ huff and puff		<-->	idiom+C2[-0]	.
 
 
 humdrum		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3069,7 +3921,9 @@ hungry		<-->	adjective+A1[-0]	.
 
 
 hunted		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3081,18 +3935,30 @@ hurt		<-->	verb+B2[-0]	.
 
 
 hyped up		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 hyper		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 hyperventilate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -3117,7 +3983,9 @@ idol		<-->	noun+C1[-0]	.
 
 
 idolatrous		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3129,6 +3997,14 @@ idolatry		<-->	noun+C2[-0]	.
 
 
 idolize		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -3141,7 +4017,9 @@ idyll		<-->	noun+C2[-0]	.
 
 
 ignominious		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3153,18 +4031,36 @@ ignominy		<-->	noun+C2[-0]	.
 
 
 ill-tempered		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 illuminate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 illumine		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -3183,25 +4079,39 @@ in a huff		<-->	idiom+C2[-0]	.
 
 
 incense		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 incensed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 inconsolable		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 indignant		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3219,7 +4129,9 @@ indignity		<-->	noun+C2[-0]	.
 
 
 infatuated		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3237,7 +4149,9 @@ in fear of your life		<-->	idiom+C2[-0]	.
 
 
 inflamed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3261,7 +4175,9 @@ in good heart		<-->	idiom+C2[-0]	.
 
 
 inhibited		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3303,19 +4219,25 @@ interest		<-->	noun+A1[-0]	.
 
 
 intimidated		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 intoxicated		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 intoxicating		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3345,19 +4267,25 @@ irascibility		<-->	noun+C2[-0]	.
 
 
 irascible		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 irate		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 irrepressible		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3381,7 +4309,9 @@ isolation		<-->	noun+C1[-0]	.
 
 
 jaunty		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3405,7 +4335,9 @@ jitters		<-->	noun+C2[-0]	.
 
 
 jittery		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3435,7 +4367,9 @@ joyful		<-->	adjective+C1[-0]	.
 
 
 joyous		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3447,7 +4381,9 @@ jump		<-->	verb+B1[-0]	.
 
 
 jumpy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3459,18 +4395,36 @@ keen		<-->	adjective+B1[-0]	.
 
 
 keyed up		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 kick off		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 knock		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -3483,18 +4437,42 @@ knock somebody sideways		<-->	idiom+C2[-0]	.
 
 
 knot		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 lament		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 lash		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -3513,7 +4491,9 @@ laugh		<-->	noun+A1[-0]	.
 
 
 livid		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3525,7 +4505,9 @@ loathe		<-->	verb+C1[-0]	.
 
 
 loathsome		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3549,7 +4531,9 @@ loner		<-->	noun+C2[-0]	.
 
 
 lonesome		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3597,7 +4581,9 @@ love		<-->	verb+A1[-0]	.
 
 
 loved-up		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3609,19 +4595,25 @@ loveless		<-->	adjective+C1[-0]	.
 
 
 lovelorn		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 lovesick		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 lovey-dovey		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3633,18 +4625,30 @@ loving		<-->	adjective+C1[-0]	.
 
 
 lugubrious		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 lukewarm		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 lurch		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -3669,13 +4673,23 @@ mad		<-->	adjective+B1[-0]	.
 
 
 madden		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 maddening		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3723,7 +4737,9 @@ make your skin crawl		<-->	idiom+C2[-0]	.
 
 
 manic		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3741,19 +4757,25 @@ melancholy		<-->	noun+C2[-0]	.
 
 
 melancholy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 mellow		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 melting		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3777,19 +4799,25 @@ merry		<-->	adjective+C1[-0]	.
 
 
 messed-up		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 miffed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 mind-numbing		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3831,25 +4859,45 @@ moody		<-->	adjective+B2[-0]	.
 
 
 moon about		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 moon around		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 moonstruck		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 morose		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3861,25 +4909,45 @@ mortification		<-->	noun+C2[-0]	.
 
 
 mortify		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 mortifying		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 mourn		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 mournful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3891,7 +4959,9 @@ munchies		<-->	noun+C2[-0]	.
 
 
 nail-biting		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3909,12 +4979,22 @@ nervous		<-->	adjective+A2[-0]	.
 
 
 nervy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 nettle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -3927,7 +5007,9 @@ neurosis		<-->	noun+C2[-0]	.
 
 
 nuts		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3957,7 +5039,9 @@ on your conscience		<-->	idiom+C2[-0]	.
 
 
 open-mouthed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3975,13 +5059,23 @@ outrage		<-->	verb+C1[-0]	.
 
 
 overawe		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 overawed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3993,7 +5087,9 @@ overexcited		<-->	adjective+C1[-0]	.
 
 
 overheated		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4005,7 +5101,9 @@ overjoyed		<-->	adjective+C1[-0]	.
 
 
 overprotective		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4017,13 +5115,17 @@ over the moon		<-->	idiom+C1[-0]	.
 
 
 overtired		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 overwrought		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4041,6 +5143,14 @@ painful		<-->	adjective+B1[-0]	.
 
 
 palpitate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4059,7 +5169,9 @@ paranoia		<-->	noun+C2[-0]	.
 
 
 parched		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4077,7 +5189,9 @@ passionate		<-->	adjective+B2[-0]	.
 
 
 peckish		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4095,12 +5209,22 @@ pessimist		<-->	noun+B2[-0]	.
 
 
 petrified		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 petrify		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4119,6 +5243,14 @@ pig		<-->	verb+C1[-0]	.
 
 
 pine		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4143,7 +5275,9 @@ pity		<-->	verb+B2[-0]	.
 
 
 plaintive		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4167,31 +5301,53 @@ poignancy		<-->	noun+C2[-0]	.
 
 
 poignant		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 poleaxe		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 ponderous		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 pop		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 pop-eyed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4203,6 +5359,14 @@ predictable		<-->	adjective+C1[-0]	.
 
 
 prickle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4239,7 +5403,9 @@ provoke		<-->	verb+C1[-0]	.
 
 
 psyched		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4251,6 +5417,14 @@ pull, tug, etc. at somebody's heartstrings		<-->	idiom+C2[-0]	.
 
 
 pump up		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4275,12 +5449,28 @@ put somebody on the spot		<-->	idiom+C2[-0]	.
 
 
 quail		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 quake		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4293,30 +5483,52 @@ quarrel		<-->	noun+C2[-0]	.
 
 
 queasy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 quench		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 querulous		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 quick-tempered		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 race		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4329,7 +5541,9 @@ radiance		<-->	noun+C2[-0]	.
 
 
 radiant		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4341,24 +5555,56 @@ rage		<-->	noun+C1[-0]	.
 
 
 rage		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 rail		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 rankle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 rant		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4377,31 +5623,53 @@ rantings		<-->	noun+C2[-0]	.
 
 
 rapt		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 rattle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 ratty		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 rave		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 ravenous		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4413,12 +5681,22 @@ recluse		<-->	noun+C2[-0]	.
 
 
 reclusive		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 recoil		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4443,7 +5721,9 @@ regret		<-->	noun+B2[-0]	.
 
 
 regretful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4467,6 +5747,14 @@ relieved		<-->	adjective+B2[-0]	.
 
 
 repel		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4479,6 +5767,14 @@ repetitive		<-->	adjective+B2[-0]	.
 
 
 reproach		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4491,18 +5787,36 @@ repugnance		<-->	noun+C2[-0]	.
 
 
 repugnant		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 repulse		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 requite		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4527,12 +5841,22 @@ resentment		<-->	noun+C1[-0]	.
 
 
 retiring		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 revolt		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4545,36 +5869,78 @@ revulsion		<-->	noun+C2[-0]	.
 
 
 rile		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 rip into		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 rivet		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 roast		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 round-eyed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 rouse		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4599,7 +5965,9 @@ row		<-->	noun+C2[-0]	.
 
 
 rueful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4617,6 +5985,14 @@ sad		<-->	adjective+A1[-0]	.
 
 
 sadden		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4665,6 +6041,14 @@ scene		<-->	noun+C2[-0]	.
 
 
 scoff		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4695,6 +6079,14 @@ see red		<-->	idiom+C2[-0]	.
 
 
 seethe		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4713,7 +6105,9 @@ self-effacement		<-->	noun+C2[-0]	.
 
 
 self-effacing		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4743,7 +6137,9 @@ self-satisfaction		<-->	noun+C2[-0]	.
 
 
 self-satisfied		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4773,13 +6169,17 @@ sentimental		<-->	adjective+C1[-0]	.
 
 
 sepulchral		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 seraphic		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4809,19 +6209,25 @@ shame		<-->	noun+B2[-0]	.
 
 
 shamefaced		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 shameful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 shaming		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4833,13 +6239,17 @@ shattered		<-->	adjective+C1[-0]	.
 
 
 sheepish		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 shirty		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4857,18 +6267,30 @@ shock		<-->	verb+B2[-0]	.
 
 
 short-fused		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 short-tempered		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 shriek		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4881,12 +6303,28 @@ shriek		<-->	noun+C2[-0]	.
 
 
 shrink		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 shudder		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4917,6 +6355,14 @@ sigh		<-->	verb+C1[-0]	.
 
 
 slake		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4941,6 +6387,14 @@ smile/grin/beam from ear to ear		<-->	idiom+C2[-0]	.
 
 
 smirk		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4953,12 +6407,22 @@ smirk		<-->	noun+C2[-0]	.
 
 
 smitten		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 smize		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -4971,24 +6435,56 @@ smize		<-->	noun+C2[-0]	.
 
 
 smother		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 snap		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 snarf		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 snarl		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -5007,7 +6503,9 @@ solitude		<-->	noun+C2[-0]	.
 
 
 sombre		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5043,7 +6541,9 @@ something boggles the mind		<-->	idiom+C2[-0]	.
 
 
 sore		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5055,7 +6555,9 @@ sorrow		<-->	noun+C1[-0]	.
 
 
 sorrowful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5067,7 +6569,9 @@ sorry		<-->	adjective+A1[-0]	.
 
 
 soulful		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5079,79 +6583,135 @@ speechless		<-->	adjective+C1[-0]	.
 
 
 spent		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 spiky		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 spineless		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 spit		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 splenetic		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 spook		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 square		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 stagger		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 staggered		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 staid		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 start		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 startle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 startled		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5181,7 +6741,9 @@ steal somebody’s heart		<-->	idiom+C2[-0]	.
 
 
 steaming		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5193,12 +6755,28 @@ stimulate		<-->	verb+C1[-0]	.
 
 
 sting		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 stir		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -5211,12 +6789,22 @@ stir the blood		<-->	idiom+C2[-0]	.
 
 
 stoked		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 stoke up		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -5229,13 +6817,23 @@ stop/halt somebody in their tracks		<-->	idiom+C2[-0]	.
 
 
 storm		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 stormy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5265,31 +6863,52 @@ strife		<-->	noun+C2[-0]	.
 
 
 string along		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
 
 
 strung up		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 stuff		<-->	verb+C2[-0]	.
+	;B2 -- (1) 
+
+
+ 
+
+ 
+
 
 
 
 
 
 stuffed		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 stuffy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5306,25 +6925,50 @@ stupefaction		<-->	noun+C2[-0]	.
 
 
 
-stupefy		<-->	verb+C2[-0]	.
+stupefy		<-->	verb+C2	[221011][1]	./ˈstjuːpɪfaɪ/-NAmE /ˈstuːpɪfaɪ/ [often passive]
+	;gây sốc -- (1) stupefy somebody: to surprise or shock somebody; to make somebody unable to think clearly
+		;He was stupefied by the amount they had spent.
+		;She was stupefied with cold.
+		;TOPICS FeelingsC2
+
+
+ 
+
+ 
+
 
 
 
 
 
 subdued		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 suburban		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
+sulk		<-->	verb+C2	[221011][1]	./sʌlk/-NAmE /sʌlk/\ [intransitive] (disapproving)
+	;hờn dỗi -- (1) to look angry and refuse to speak or smile because you want people to know that you are upset about something
+		;He went off to sulk in his room.
+		;He was still sulking about the break-up of his band.
+		;She sulked all the way to the theatre.
+		;TOPICS FeelingsC2
 
-sulk		<-->	verb+C2[-0]	.
+
+ 
+
+ 
+
 
 
 
@@ -5337,7 +6981,9 @@ sulk		<-->	noun+C2[-0]	.
 
 
 sulky		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5379,18 +7025,37 @@ sweep somebody off their feet		<-->	idiom+C2[-0]	.
 
 
 switched on		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
+swoon		<-->	verb+C2	[221011][1]	./swuːn/-NAmE /swuːn/\
+	;háo hức, ngây ngất -- (1) [intransitive] swoon (over somebody) to feel very excited, emotional, etc. about somebody that you think is sexually attractive
+		;He's used to having women swooning over him.
+		;TOPICS FeelingsC2
 
-swoon		<-->	verb+C2[-0]	.
+
+ 
+
+ 
+
 
 
 
 
 
 take aback		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -5409,12 +7074,22 @@ tease		<-->	verb+B2[-0]	.
 
 
 teed off		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 tee off		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
+
 
 
 
@@ -5427,7 +7102,9 @@ temper		<-->	noun+B2[-0]	.
 
 
 temperamental		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5463,7 +7140,9 @@ terror		<-->	noun+B2[-0]	.
 
 
 tetchy		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5511,31 +7190,46 @@ thrilled		<-->	adjective+C1[-0]	.
 
 
 throw		<-->	verb+C2[-0]	.
+	;A2 -- (1) 
+
+
+ 
+
+ 
+
 
 
 
 
 
 thunderous		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 thunderstruck		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 tight		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 tight-lipped		<-->	adjective+C2[-0]	.
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5546,7 +7240,27 @@ tirade		<-->	noun+C2[-0]	.
 
 
 
-tire		<-->	verb+C2[-0]	.
+tire		<-->	verb+C2	[221011][1]	./ˈtaɪə(r)/-NAmE /ˈtaɪər/\ [intransitive, transitive]
+	;mỏi, mệt -- (1) tire (somebody) to become tired and feel as if you want to sleep or rest; to make somebody feel this way
+		;Her legs were beginning to tire.
+		;He has made a good recovery but still tires easily.
+		;Walking even a short distance tires him.
+		;Extra Examples:
+		;She found herself tiring more quickly these days.
+		;Long conversations tired her.
+		;TOPICS FeelingsC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;easilyquicklyeventually…
+				;verb + tire
+				;begin to
+		;See full entry
+
+
+ 
+
+ 
+
 
 
 
@@ -5571,12 +7285,19 @@ togetherness		<-->	noun+C2[-0]	.
 
 
 tongue-tied		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
+torrid		<-->	adjective+C2	[221022][1]	./ˈtɒrɪd/-NAmE /ˈtɔːrɪd/ [usually before noun]
+	;say đắm -- (1) full of strong emotions, especially connected with sex and love
+		;SYNONYM passionate
+		;a torrid love affair
+		;TOPICS FeelingsC2
 
-torrid		<-->	adjective+C2[-0]	.
 
 
 
@@ -5594,7 +7315,15 @@ torture		<-->	verb+C1[-0]	.
 
 
 
-tortured		<-->	adjective+C2[-0]	.
+tortured		<-->	adjective+C2	[221022][1]	./ˈtɔːtʃəd/-NAmE /ˈtɔːrtʃərd/ [only before noun]
+	;bị tra tấn -- (1) suffering severely; involving a lot of pain and difficulty
+		;a tortured mind
+		;She fell into a tortured sleep.
+		;TOPICS Difficulty and failureC2, FeelingsC2
+				;Oxford Collocations Dictionary
+				;Tortured is used with these nouns:
+				;mindsoul
+		;See full entry
 
 
 
@@ -5618,7 +7347,13 @@ tremor		<-->	noun+C2[-0]	.
 
 
 
-tremulous		<-->	adjective+C2[-0]	.
+tremulous		<-->	adjective+C2	[221022][1]	./ˈtremjələs/-NAmE /ˈtremjələs/ (literary)
+	;run rẩy vì căng thẳng -- (1) shaking slightly because you are nervous; causing you to shake slightly
+		;SYNONYM trembling
+		;a tremulous voice
+		;He was in a state of tremulous excitement.
+		;TOPICS FeelingsC2
+
 
 
 
@@ -5631,12 +7366,23 @@ trepidation		<-->	noun+C2[-0]	.
 
 
 trigger		<-->	verb+C2[-0]	.
+	;B2 -- (1) 
+
+
+ 
+
+ 
 
 
 
 
 
-trippy		<-->	adjective+C2[-0]	.
+
+trippy		<-->	adjective+C2	[221022][1]	./ˈtrɪpi/-NAmE /ˈtrɪpi/ (comparative trippier, superlative trippiest) (informal)
+	;phê thuốc, bị ảo giác -- (1) creating a strange feeling, similar to the feeling of having taken a powerful drug that makes you imagine things
+		;I'd forgotten how dark and trippy that movie is.
+		;TOPICS FeelingsC2
+
 
 
 
@@ -5654,7 +7400,10 @@ truculence		<-->	noun+C2[-0]	.
 
 
 
-truculent		<-->	adjective+C2[-0]	.
+truculent		<-->	adjective+C2	[221022][1]	./ˈtrʌkjələnt/-NAmE /ˈtrʌkjələnt/ (formal, disapproving)
+	;kênh kiệu, đắc ý -- (1) ​tending to argue or become angry; slightly aggressive
+		;‘What do you want?’ he asked, sounding slightly truculent.
+		;TOPICS FeelingsC2
 
 
 
@@ -5666,7 +7415,12 @@ twinkle		<-->	noun+C2[-0]	.
 
 
 
-twitchy		<-->	adjective+C2[-0]	.
+twitchy		<-->	adjective+C2	[221022][1]	./ˈtwɪtʃi/-NAmE /ˈtwɪtʃi/ (informal)
+	;khó chịu, bồn chồn -- (1) nervous or anxious about something
+		;SYNONYM jittery
+		;As the time for her driving test approached, she started to get twitchy.
+		;He felt twitchy about the prospect of losing his job.
+		;TOPICS FeelingsC2
 
 
 
@@ -5684,13 +7438,20 @@ unconcerned		<-->	adjective+C1[-0]	.
 
 
 
-unconsolable		<-->	adjective+C2[-0]	.
+unconsolable		<-->	adjective+C2	[221022][1]	./ˌʌnkənˈsəʊləbl/-NAmE /ˌʌnkənˈsəʊləbl/ (also more frequent inconsolable)
+	;vô vọng, rất buồn -- (1) very sad and unable to accept help or comfort
+		;TOPICS FeelingsC2
 
 
 
 
 
-underfed		<-->	adjective+C2[-0]	.
+
+underfed		<-->	adjective+C2	[221022][1]	./ˌʌndəˈfed/-NAmE /ˌʌndərˈfed/
+	;thiếu ăn -- (1) having had too little food to eat
+		;SYNONYM malnourished
+		;OPPOSITE overfed
+		;TOPICS Health problemsC2, FeelingsC2
 
 
 
@@ -5726,31 +7487,61 @@ uninterested		<-->	adjective+B2[-0]	.
 
 
 
-unnerve		<-->	verb+C2[-0]	.
+unnerve		<-->	verb+C2	[221011][1]	./ˌʌnˈnɜːv/-NAmE /ˌʌnˈnɜːrv/
+	;làm căng sb lo lắng -- (1) unnerve somebody: to make somebody feel nervous or frightened or lose confidence
+		;His silence unnerved us.
+		;She appeared strained and a little unnerved.
+		;I was completely unnerved by the way she kept staring at me.
+		;TOPICS FeelingsC2
+
+
+ 
+
+ 
 
 
 
 
 
-unnerving		<-->	adjective+C2[-0]	.
+
+unnerving		<-->	adjective+C2	[221022][1]	./ˌʌnˈnɜːvɪŋ/-NAmE /ˌʌnˈnɜːrvɪŋ/
+	;kinh hãi, kinh ngạc -- (1) making somebody feel nervous or frightened
+		;an unnerving experience
+		;TOPICS FeelingsC2
 
 
 
 
 
-unrequited		<-->	adjective+C2[-0]	.
+unrequited		<-->	adjective+C2	[221022][1]	./ˌʌnrɪˈkwaɪtɪd/-NAmE /ˌʌnrɪˈkwaɪtɪd/ (formal)
+	;không được đáp lại -- (1) (of love) not returned by the person that you love
+		;COMPARE requite
+		;TOPICS FeelingsC2, Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;Unrequited is used with these nouns:
+				;love
+		;See full entry
 
 
 
 
 
-up		<-->	adjective+C2[-0]	.
+up		<-->	adjective+C2	[221022][1]	./ʌp/-NAmE /ʌp/*\
+	;lên, hướng lên trên -- (1) [only before noun] directed or moving upwards
+		;an up stroke
+		;the up escalator
+	;vui lên -- (2) [not before noun] (informal) cheerful; happy or excited
+		;The mood here is resolutely up.
+		;TOPICS FeelingsC2
 
 
 
 
 
-uplifted		<-->	adjective+C2[-0]	.
+uplifted		<-->	adjective+C2	[221022][1]	./ˌʌpˈlɪftɪd/-NAmE /ˌʌpˈlɪftɪd/
+	;thăng hoa -- (1) [not before noun] feeling happy and full of hope
+		;Everyone left the meeting feeling uplifted.
+		;TOPICS FeelingsC2
 
 
 
@@ -5774,19 +7565,62 @@ upsetting		<-->	adjective+B2[-0]	.
 
 
 
-uptight		<-->	adjective+C2[-0]	.
+uptight		<-->	adjective+C2	[221021][1]	./ˌʌpˈtaɪt/-NAmE /ˌʌpˈtaɪt/ (informal)
+	;mất bình tỉnh, căng thẳng -- (1) uptight (about something) anxious and/or angry about something
+		;Relax! You're getting too uptight about it.
+		;Extra Examples:
+		;He's feeling a bit uptight about his exam tomorrow.
+		;Try to laugh at it instead of getting uptight.
+		;She felt too uptight to do any work.
+		;TOPICS FeelingsC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;about
+		;See full entry
 
 
 
 
 
-vexed		<-->	adjective+C2[-0]	.
+vexed		<-->	adjective+C2	[221021][1]	./vekst/-NAmE /vekst/
+	;khó nhằn -- (1) vexed question/issue a problem that is difficult to deal with
+		;SYNONYM thorny
+		;The conference spent days discussing the vexed question of border controls.
+	;nổi nóng -- (2) vexed (at/with somebody/something) (old-fashioned) upset or annoyed
+		;Are you vexed with me?
+		;TOPICS FeelingsC2
 
 
 
 
 
-wail		<-->	verb+C2[-0]	.
+wail		<-->	verb+C2	[221011][1]	./weɪl/-NAmE /weɪl/
+	;gào khóc -- (1) [intransitive] to make a long, loud, high noise because you are sad or in pain
+		;The little girl was wailing miserably.
+		;Homophones wail | whale
+		;Extra Examples:
+		;A crowd of women followed the coffin, weeping and wailing.
+		;He wailed with despair.
+		;She wailed for her dead husband.
+		;TOPICS FeelingsC2
+				;Oxford Collocations Dictionary
+				;verb + wail
+				;begin tostart tohear somebody/​something…
+				;preposition
+				;forwith
+				;phrases
+				;weeping and wailing
+		;See full entry
+
+
+ 
+
+ 
+
 
 
 
@@ -5798,26 +7632,74 @@ walk tall		<-->	idiom+C2[-0]	.
 
 
 
-wearing		<-->	adjective+C2[-0]	.
+wearing		<-->	adjective+C2	[221021][1]	./ˈweərɪŋ/-NAmE /ˈwerɪŋ/
+	;mệt mỏi, kiệt sức -- (1) that makes you feel very tired mentally or physically
+		;SYNONYM exhausting
+		;Constant noise can be very wearing on the nerves.
+		;It’s been a very wearing day.
+		;TOPICS FeelingsC2
 
 
 
 
 
-wearisome		<-->	adjective+C2[-0]	.
+wearisome		<-->	adjective+C2	[221021][1]	./ˈwɪərisəm/-NAmE /ˈwɪrisəm/ (formal)
+	;rất chán, rất mệt -- (1) that makes you feel very bored and tired
+		;SYNONYM tedious
+		;a repetitive and wearisome task
+		;I was beginning to find her endless chatter very wearisome.
+		;TOPICS FeelingsC2
 
 
 
 
 
 wear out		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
 
 
 
 
 
-weary		<-->	adjective+C2[-0]	.
 
+weary		<-->	adjective+C2	[221021][1]	./ˈwɪəri/-NAmE /ˈwɪri/ (comparative wearier, superlative weariest)
+	;rất mệt -- (1) very tired, especially after you have been working hard or doing something for a long time
+		;Any chance of a drink? This weary traveller is about to collapse from thirst.
+		;She suddenly felt old and weary.
+		;He gave a long, weary sigh.
+		;Extra Examples:
+		;She looks a little weary.
+		;This war has made us all weary.
+		;TOPICS FeelingsC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;of
+		;See full entry
+	; -- (2) 
+	;chán,  -- (3) weary of something/of doing something (formal) no longer interested in or enthusiastic about something
+		;Students soon grow weary of listening to a parade of historical facts.
+		;Extra Examples:
+		;The people are weary of war.
+		;I've grown rather weary of all your excuses.
+		;TOPICS FeelingsC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;of
+		;See full entry
 
 
 
@@ -5828,43 +7710,131 @@ weep		<-->	verb+C1[-0]	.
 
 
 
-weepy		<-->	adjective+C2[-0]	.
+weepy		<-->	adjective+C2	[221021][1]	./ˈwiːpi/-NAmE /ˈwiːpi/ (informal)
+	;muốn khóc, mít ướt -- (1) sad and tending to cry easily
+		;She was feeling tired and weepy.
+		;Weddings always made her feel weepy.
+		;TOPICS FeelingsC2
 
 
 
 
 
-whacked		<-->	adjective+C2[-0]	.
+whacked		<-->	adjective+C2	[221021][1]	./wækt/-NAmE /wækt/ (also whacked out) [not usually before noun] (British English, informal)
+	;rất mệt -- (1) very tired
+		;I'm whacked!
+		;TOPICS FeelingsC2
 
 
 
 
 
 whip up		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+ 
+
+ 
 
 
 
 
 
-whirl		<-->	verb+C2[-0]	.
+
+whirl		<-->	verb+C2	[221011][1]	./wɜːl/-NAmE /wɜːrl/\
+	;xoáy -- (1) [intransitive, transitive] to move, or make somebody/something move, around quickly in a circle or in a particular direction
+		;SYNONYM spin
+		;<< spin, whirl, >>
+		;(+ adv./prep.) Leaves whirled in the wind.
+		;She whirled around to face him.
+		;They ducked to avoid the whirling blades of the helicopter.
+		;whirl somebody/something (+ adv./prep.) Tom whirled her across the dance floor.
+		;Extra Examples:
+		;He grasped her wrist and whirled her back to face him.
+		;He whirled her around the dance floor.
+		;She whirled on him, furious.
+		;She whirled round and round, flinging out her arms.
+		;The gulls were whirling and shrieking in the sky above.
+	;quay cuồng -- (2) [intransitive] if your mind, thoughts, etc. whirl, you feel confused and excited and cannot think clearly
+		;SYNONYM reel
+		;<< reel, whirl, >>
+		;I couldn't sleep—my mind was whirling from all that had happened.
+		;So many thoughts whirled around in her mind.
+		;TOPICS FeelingsC2
+
+
+ 
+
+ 
 
 
 
 
 
-whoop		<-->	verb+C2[-0]	.
+
+whoop		<-->	verb+C2	[221011][1]	./wuːp/,  /wʊp/-NAmE /wuːp/,  /wʊp/\ [intransitive]
+	;hét lên vì hạnh phúc -- (1) to shout loudly because you are happy or excited
+		;He whooped for joy as the ball hit the back of the net.
+		;The kids were opening their presents and whooping with delight.
+		;TOPICS FeelingsC2
+
+
+ 
+
+ 
 
 
 
 
 
-wide-eyed		<-->	adjective+C2[-0]	.
+
+wide-eyed		<-->	adjective+C2	[221021][1]	./ˌwaɪd ˈaɪd/-NAmE /ˌwaɪd ˈaɪd/
+	;tròn mắt -- (1) with your eyes fully open because of fear, surprise, etc.
+		;She stared at him in wide-eyed amazement.
+		;TOPICS FeelingsC2
 
 
 
 
 
-wilt		<-->	verb+C2[-0]	.
+wilt		<-->	verb+C2	[221011][1]	./wɪlt/-NAmE /wɪlt/
+	;héo rũ -- (1) [intransitive] (of a plant or flower) to bend towards the ground because of the heat or a lack of water
+		;Some of the leaves were beginning to wilt.
+		;The plants will wilt in direct sunlight.
+		;SYNONYM droop
+		;<< droop, wilt, flag, >>	
+				;Oxford Collocations Dictionary
+				;adverb
+				;visibly
+				;verb + wilt
+				;begin to
+				;preposition
+				;inunderwith…
+		;See full entry
+	;hao mòn, héo mòn -- (2) [intransitive] (informal) to become weak or tired or less confident
+		;SYNONYM flag
+		;The spectators were wilting visibly in the hot sun.
+		;He was wilting under the pressure of work.
+		;Extra Examples:
+		;By half-time, the team was wilting under the pressure.
+		;The passengers were visibly wilting with the heat and movement of the bus.
+		;TOPICS FeelingsC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;visibly
+				;verb + wilt
+				;begin to
+				;preposition
+				;inunderwith…
+		;See full entry
+
+
+ 
+
+ 
+
 
 
 
@@ -5876,14 +7846,23 @@ win somebody’s heart		<-->	idiom+C2[-0]	.
 
 
 
-wiped out		<-->	adjective+C2[-0]	.
+wiped out		<-->	adjective+C2	[221021][1]	./ˌwaɪpt ˈaʊt/-NAmE /ˌwaɪpt ˈaʊt/ [not before noun] (informal)
+	;mệt đứt hơi -- (1) extremely tired
+		;You look wiped out.
+		;TOPICS FeelingsC2
 
 
 
 
 
-wired		<-->	adjective+C2[-0]	.
-
+wired		<-->	adjective+C2	[221021][1]	./ˈwaɪəd/-NAmE /ˈwaɪərd/
+	;có dây -- (1) connected to a device or computer network by wires
+		;wired headphones/headsets
+		;Wired internet connections are still useful.
+	;căng thẳng -- (3) (informal) excited or nervous; not relaxed
+		;TOPICS FeelingsC2
+	;say xỉn, phê ma tuý -- (4) (informal, especially North American English) under the influence of alcohol or an illegal drug
+		;TOPICS Social issuesC2
 
 
 
@@ -5894,19 +7873,39 @@ with bated breath		<-->	idiom+C2[-0]	.
 
 
 
-woebegone		<-->	adjective+C2[-0]	.
+woebegone		<-->	adjective+C2	[221019][1]	./ˈwəʊbɪɡɒn/-NAmE /ˈwəʊbɪɡɔːn/ (formal)
+	;cùng cực, đau khổ -- (1) looking very sad
+		;SYNONYM miserable
+		;a woebegone expression
+		;TOPICS FeelingsC2
 
 
 
 
 
-woeful		<-->	adjective+C2[-0]	.
+woeful		<-->	adjective+C2	[221019][1]	./ˈwəʊfl/-NAmE /ˈwəʊfl/
+	;rất tệ, rất ngu -- (1) [usually before noun] very bad or serious; that you disapprove of
+		;SYNONYM deplorable
+		;She displayed a woeful ignorance of the rules.
+	;rất buồn -- (2) (literary or formal) very sad
+		;a woeful face
+		;woeful tales of broken romances
+		;TOPICS FeelingsC2
 
 
 
 
 
-wolf		<-->	verb+C2[-0]	.
+wolf		<-->	verb+C2	[221011][1]	./wʊlf/-NAmE /wʊlf/\ (informal)
+	;ngốn (thức ăn) -- (1) wolf something (down) to eat food very quickly, especially by putting a lot of it in your mouth at once
+		;SYNONYM gobble
+		;TOPICS FeelingsC2
+
+
+ 
+
+ 
+
 
 
 
@@ -5930,25 +7929,61 @@ wonderment		<-->	noun+C2[-0]	.
 
 
 
-woo		<-->	verb+C2[-0]	.
+woo		<-->	verb+C2	[221011][1]	./wuː/-NAmE /wuː/
+	;dụ dỗ, thu hút -- (1) woo somebody to try to get the support of somebody
+		;Voters are being wooed with promises of lower taxes.
+		;Selected items are being sold at half price to woo customers into the store.
+	;cầu hôn -- (2) woo somebody (old-fashioned) (of a man) to try to persuade a woman to love him and marry him
+		;SYNONYM court
+		;TOPICS FeelingsC2
+
+
+ 
+
+ 
 
 
 
 
 
-worked up		<-->	adjective+C2[-0]	.
+
+worked up		<-->	adjective+C2	[221019][1]	./ˌwɜːkt ˈʌp/-NAmE /ˌwɜːrkt ˈʌp/ [not before noun] (informal)
+	;rất sôi nổi, hào hứng -- (1) worked up (about something) very excited or upset about something
+		;There's no point in getting worked up about it.
+		;What are you so worked up about?
+		;TOPICS FeelingsC2
 
 
 
 
 
-work off		<-->	phrasal verb+C2[-0]	.
+work off		<-->	phrasal verb+C2	[221019][1]	./wɜːk/-NAmE /wɜːrk/
+	;tống khứ, vứt bỏ -- (1) to get rid of something, especially a strong feeling, by using physical effort
+		;She worked off her anger by going for a walk.
+		;TOPICS FeelingsC2
+
+
+ 
+
+ 
 
 
 
 
 
-worn		<-->	adjective+C2[-0]	.
+
+worn		<-->	adjective+C2	[221019][1]	./wɔːn/-NAmE /wɔːrn/
+	;đã sờn -- (1) [usually before noun] (of a thing) damaged or thinner than normal because it is old and has been used a lot
+		;an old pair of worn jeans
+		;The stone steps were worn and broken.
+		;The tapestry is still valuable in spite of its worn condition.
+		;Homophones warn | worn
+		;SEE ALSO well worn
+	;rất mệt mỏi -- (2) (of a person) looking very tired
+		;SYNONYM weary
+		;She came out of the ordeal looking thin and worn.
+		;TOPICS FeelingsC2
+
 
 
 
@@ -5990,10 +8025,20 @@ worship		<-->	verb+C1[-0]	.
 
 
 
-wretched		<-->	adjective+C2[-0]	.
+wretched		<-->	adjective+C2	[221019][1]	./ˈretʃɪd/-NAmE /ˈretʃɪd/
+	;thật tồi tệ, kinh khủng -- (1) ​[not usually before noun] (of a person) feeling ill or unhappy
+		;You look wretched—what's wrong?
+		;I felt wretched about the way things had turned out.
+		;She looked thoroughly wretched.
+		;TOPICS FeelingsC2
 
 
 
 
 
-wry		<-->	adjective+C2[-0]	.
+
+wry		<-->	adjective+C2	[221019][1]	./raɪ/-NAmE /raɪ/ [usually before noun]
+	;gượng gạo -- (1) showing that you think something is funny but also disappointing or annoying
+		;‘At least we got one vote,’ she said with a wry smile.
+		;He pulled a wry face when I asked him how it had gone.
+		;TOPICS FeelingsC2

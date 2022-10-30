@@ -13,7 +13,7 @@ absenteeism		<-->	noun+C2	[220818][1]	./ˌæbsənˈtiːɪzəm/-NAmE /ˌæbsənˈ
 
 
 academic		<-->	adjective+B1	[220818][1]	./ˌækəˈdemɪk/-NAmE /ˌækəˈdemɪk/
-​  	;có tính học thuật -- [usually before noun] connected with education, especially studying in schools and universities
+	;có tính học thuật -- [usually before noun] connected with education, especially studying in schools and universities
 		;high/low academic standards
 		;She had a brilliant academic career.
 		;one of this country's most prestigious academic institutions
@@ -32,7 +32,7 @@ academic		<-->	noun+B2	[220818][1]	./ˌækəˈdemɪk/-NAmE /ˌækəˈdemɪk/
 
 
 academic year		<-->	noun+C1	[220818][1]	./ˌækədemɪk ˈjɪə(r)/,  /ˌækədemɪk ˈjɜː(r)/-NAmE /ˌækədemɪk ˈjɪr/
-​	;thời điểm sinh viên đến trường học -- the period of the year during which students go to school or university
+	;thời điểm sinh viên đến trường học -- the period of the year during which students go to school or university
 		;The students return in October for the start of the new academic year.
 
 
@@ -128,7 +128,7 @@ alumnus		<-->	noun+C2	[220818][1]	./əˈlʌmnəs/-NAmE /əˈlʌmnəs/
 
 
 answer		<-->	noun+A1	[220818][1]	./ˈɑːnsə(r)/-NAmE /ˈænsər/
-​  	;việc trả lời, thứ mà bạn trả lời -- something that you say, write or do to react to a question or situation
+	;việc trả lời, thứ mà bạn trả lời -- something that you say, write or do to react to a question or situation
 		;I rang the bell, but there was no answer.
 		;Can't you give me a definitive answer?
 		;The short answer is no.
@@ -187,7 +187,7 @@ AS (level)		<-->	noun+C2	[220818][1]	./ˌeɪ ˈes levl/-NAmE /ˌeɪ ˈes levl/
 
 
 assembly		<-->	noun+C1	[220818][1]	./əˈsembli/-NAmE /əˈsembli/
-	;đại hợi -- [countable, uncountable] a meeting of the teachers and students in a school, usually at the start of the day, to give information, discuss school events or say prayers together
+	;đại hội -- [countable, uncountable] a meeting of the teachers and students in a school, usually at the start of the day, to give information, discuss school events or say prayers together
 		;The deputy head was taking (= leading) school assembly that day.
 
 
@@ -239,7 +239,7 @@ attend		<-->	verb+A2	[220818][1]	./əˈtend/-NAmE /əˈtend/
 
 
 attendance		<-->	noun+C1	[220818][1]	./əˈtendəns/-NAmE /əˈtendəns/
-​ 	;việc có mặt ở nơi nào đó -- [uncountable, countable] the act of being present at a place, for example at school
+	;việc có mặt ở nơi nào đó -- [uncountable, countable] the act of being present at a place, for example at school
 		;Attendance at these lectures is not compulsory.
 		;Teachers must keep a record of students' attendances.
 
@@ -428,7 +428,7 @@ candidate		<-->	noun+B1	[220818][1]	./ˈkændɪdət/,  /ˈkændɪdeɪt/-NAmE /ˈ
 
 
 canteen		<-->	noun+B1	[220818][1]	./kænˈtiːn/-NAmE /kænˈtiːn/
-​	;căn tin -- (especially British English) a place where food and drink are served in a factory, a school, etc.
+	;căn tin -- (especially British English) a place where food and drink are served in a factory, a school, etc.
 
 
 
@@ -438,7 +438,7 @@ caretaker		<-->	noun+C1	[220818][1]	./ˈkeəteɪkə(r)/-NAmE /ˈkerteɪkər/
 
 
 catchment area		<-->	noun+C2	[220818][1]	./ˈkætʃmənt eəriə/-NAmE /ˈkætʃmənt eriə/,  /ˈketʃmənt eriə/
-​	;nơi, phòng tuyển sinh -- the area from which a school takes its students, a hospital its patients, etc.
+	;nơi, phòng tuyển sinh -- the area from which a school takes its students, a hospital its patients, etc.
 
 
 
@@ -724,7 +724,7 @@ dean		<-->	noun+C2	[220818][1]	./diːn/-NAmE /diːn/
 
 
 degree		<-->	noun+A2	[220818][1]	./dɪˈɡriː/-NAmE /dɪˈɡriː/
- ​	;bằng cấp -- [countable] (British English) a university or college course, normally lasting three years or more
+	;bằng cấp -- [countable] (British English) a university or college course, normally lasting three years or more
 		;I'm hoping to do a chemistry degree.
 		;He took a degree in law then joined a law firm.
 
@@ -902,7 +902,7 @@ drop out		<-->	phrasal verb+B2[-0]	.
 
 
 dropout		<-->	noun+C1	[220818][1]	./ˈdrɒpaʊt/-NAmE /ˈdrɑːpaʊt/
-​	;người bỏ việc, bỏ học -- a person who leaves school or college before they have finished their studies
+	;người bỏ việc, bỏ học -- a person who leaves school or college before they have finished their studies
 		;college dropouts
 		;a university with a high dropout rate
 
@@ -914,7 +914,7 @@ DT		<-->	noun+C2	[220818][1]	./ˌdiː ˈtiː/-NAmE /ˌdiː ˈtiː/
 
 
 economics		<-->	noun+B2	[220810][1]	./ˌiːkəˈnɒmɪks/,  /ˌekəˈnɒmɪks/-NAmE /ˌiːkəˈnɑːmɪks/,  /ˌekəˈnɑːmɪks/
-​ 	;ngành/khoa kinh tế -- [uncountable] the study of how a society organizes its money, trade and industry
+	;ngành/khoa kinh tế -- [uncountable] the study of how a society organizes its money, trade and industry
 		;He studied politics and economics at Yale.
 		;Keynesian/Marxist economics
 		;trends in modern economics
@@ -923,14 +923,13 @@ economics		<-->	noun+B2	[220810][1]	./ˌiːkəˈnɒmɪks/,  /ˌekəˈnɒmɪks/-N
 
 
 EdTech		<-->	noun+C2	[220818][1]	./ˈedtek/-NAmE /ˈedtek/
-	;giáo dục kỹ thuật -- [uncountable]
-​		;educational technology (creating and using technology for education and study)
+	;giáo dục kỹ thuật -- [uncountable] educational technology (creating and using technology for education and study)
 		;It's one of the fastest-growing EdTech companies.
 
 
 
 educate		<-->	verb+B1	[220818][1]	./ˈedʒukeɪt/-NAmE /ˈedʒukeɪt/
-​  	;giáo dục -- [transitive, often passive] to teach somebody over a period of time at a school, university, etc.
+	;giáo dục -- [transitive, often passive] to teach somebody over a period of time at a school, university, etc.
 		;be educated She was educated in the US.
 		;All their children have been educated privately.
 		;He was educated at his local comprehensive school and then at Oxford.
@@ -1134,8 +1133,7 @@ exclusion		<-->	noun+C1	[220818][1]	./ɪkˈskluːʒn/-NAmE /ɪkˈskluːʒn/
 
 
 exeat		<-->	noun+C2	[220818][1]	./ˈeksɪæt/-NAmE /ˈeksɪæt/
-	;giấy phép từ học viện để vắng mặt -- (British English)
-​		;permission from an institution such as a boarding school to be away from it for a period of time
+	;giấy phép từ học viện để vắng mặt -- (British English) permission from an institution such as a boarding school to be away from it for a period of time
 
 
 
@@ -1154,7 +1152,7 @@ exercise book		<-->	noun+B2	[220818][1]	./ˈeksəsaɪz bʊk/-NAmE /ˈeksərsaɪz
 
 
 expel		<-->	verb+C1	[220818][1]	./ɪkˈspel/-NAmE /ɪkˈspel/
-​	;trục xuất -- expel somebody (from something) : to officially make somebody leave a school or an organization
+	;trục xuất -- expel somebody (from something) : to officially make somebody leave a school or an organization
 		;She was expelled from school at 15.
 		;Olympic athletes expelled for drug-taking
 
@@ -1196,7 +1194,7 @@ F		<-->	noun+C1	[220818][1]	./ef/-NAmE /ef/
 
 
 
- faculty		<-->	noun+C1	[220818][1]	./ˈfæklti/-NAmE /ˈfæklti/
+faculty		<-->	noun+C1	[220818][1]	./ˈfæklti/-NAmE /ˈfæklti/
 	;khoa -- (plural faculties)[countable] a department or group of related departments in a college or university
 		;the Faculty of Law
 		;students who are doing degrees in the Arts Faculty
@@ -1232,13 +1230,13 @@ fellow		<-->	noun+C2	[220818][1]	./ˈfeləʊ/-NAmE /ˈfeləʊ/-\
 
 
 
- field day		<-->	noun+C1	[220818][1]	./ˈfiːld deɪ/-NAmE /ˈfiːld deɪ/
+field day		<-->	noun+C1	[220818][1]	./ˈfiːld deɪ/-NAmE /ˈfiːld deɪ/
 	;ngày hội thể thao -- (North American English)(British English sports day)a special day at school when there are no classes and children compete in sports events
 
 
 
 field trip		<-->	noun+C1	[220818][1]	./ˈfiːld trɪp/-NAmE /ˈfiːld trɪp/
-​	;chuyến  dã ngoại -- a journey made by a group of people, often students, to study something in its natural environment
+	;chuyến  dã ngoại -- a journey made by a group of people, often students, to study something in its natural environment
 		;We went on a geology field trip.
 		;Delegates at the conference were taken on field trips to see the devastation.
 
@@ -1309,8 +1307,8 @@ fraternity		<-->	noun+C2	[220818][1]	./frəˈtɜːnəti/-NAmE /frəˈtɜːrnəti
 
 
 free period		<-->	noun+B2	[220818][1]	./ˌfriː ˈpɪəriəd/-NAmE /ˌfriː ˈpɪriəd/
-​	;thời gian hè hay thời gian nghỉ -- a period of time in a school day when a student or teacher does not have a class
-		;
+	;thời gian hè hay thời gian nghỉ -- a period of time in a school day when a student or teacher does not have a class
+
 
 
 
@@ -3714,7 +3712,7 @@ VLE		<-->	noun+C2	[220818][1]	./ˌviː el ˈiː/-NAmE /ˌviː el ˈiː/
 
 
 vocational		<-->	adjective+C1	[220818][1]	./vəʊˈkeɪʃənl/-NAmE /vəʊˈkeɪʃənl/
-​	;có nghề -- connected with the skills, knowledge, etc. that you need to have in order to do a particular job
+	;có nghề -- connected with the skills, knowledge, etc. that you need to have in order to do a particular job
 		;vocational education/qualifications/training
 
 

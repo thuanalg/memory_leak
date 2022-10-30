@@ -1,0 +1,1266 @@
+border		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+boundary		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+cane		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+climbing frame		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+clothes line		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+compost		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+compost		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+compostable		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+compost bin		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+compost heap		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+container		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+courtyard		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+cut back		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+cut down		<-->	phrasal verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+deck		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+deckchair		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+decking		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+dig		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+fence		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+fertilizer		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+flagstone		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+flower bed		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+flowerpot		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+fork		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+fountain		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+garbage can		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+garden		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+garden		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+gardener		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+gate		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+gnome		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+graft		<-->	verb+C2[-0]	./ɡrɑːft/
+ /ɡræft/\
+	;ghép cây -- (2) [transitive] graft something (onto something) to cut a piece from a living plant and attach it to another plant
+		;TOPICS GardensC2
+
+
+
+
+
+
+
+grass		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+gravel		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+greenhouse		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+grow		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+growbag		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+hanging basket		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+hedge		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+hedge trimmer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+hoe		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+hoe		<-->	verb+C2[-0]	./həʊ/-NAmE /həʊ/\ [transitive, intransitive]
+	;cuốc đất -- (1) hoe (something) to break up soil, remove plants, etc. with a hoe
+		;to hoe the flower beds
+		;TOPICS GardensC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+horticulture		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+hose		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+hot tub		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+lawn		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+lawnmower		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+lounger		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+manure		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+manure		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+moat		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+moated		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+mow		<-->	verb+C1[-0]	./məʊ/-NAmE /məʊ/ [transitive, intransitive]
+	;cắt cỏ -- (1) mow (something) to cut grass, etc. using a machine or tool with a special blade (= sharp cutting edge) or blades
+		;I mow the lawn every week in summer.
+		;the smell of new-mown hay
+		;the smell of freshly mown grass
+		;The lawn needs mowing every week in summer.
+		;TOPICS GardensC1
+				;Oxford Collocations Dictionary
+				;Mow is used with these nouns as the object:
+				;grasslawnyard…
+		;See full entry
+
+
+
+
+
+
+
+mower		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+mulch		<-->	noun+C2[-0]	./mʌltʃ/-NAmE /mʌltʃ/ [countable, uncountable]
+	;lớp phủ -- (1) material, for example, decaying leaves, that you put around a plant to protect its base and its roots, to improve the quality of the soil or to stop weeds growing
+		;TOPICS GardensC2
+				;Oxford Collocations Dictionary
+				;Mulch is used after these nouns:
+				;bark
+		;See full entry
+
+
+
+
+
+
+
+mulch		<-->	verb+C2[-0]	./mʌltʃ/-NAmE /mʌltʃ/
+	;phủ đất -- (1) mulch something to cover the soil or the roots of a plant with a mulch
+		;TOPICS GardensC2
+
+
+
+
+
+
+ornamental		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+overgrown		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+patch		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+path		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+patio		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+paving stone		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+peat		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+peaty		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+picket		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+plant		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+planter		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+plant pot		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+pond		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+post		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+pot		<-->	noun+B1[-0]	./pɒt/-NAmE /pɑːt/
+	;cái bình, chậu -- (3) [countable] (especially in compounds) a container of various kinds, made for a particular purpose
+		;a coffee pot
+		;a pencil pot
+		;Is there any more tea in the pot?
+		;SEE ALSO chamber pot, chimney pot, flowerpot, lobster pot, melting pot, pepper pot, pint pot, plant pot, potted
+		;Extra Examples:
+		;Plants in pots require more water than you might think.
+		;She filled the pot with boiling water.
+		;a clay pot full of oil		
+		;TOPICS GardensB1
+				;Oxford Collocations Dictionary
+				;adjective
+				;ceramicclayearthenware…
+				;verb + pot
+				;grow something inplant something infill…
+				;pot + verb
+				;be filled with somethingbe full of somethingcontain something…
+				;pot + noun
+				;plant
+				;preposition
+				;in a/​the potinto a/​the potpot of…
+		;See full entry
+
+
+
+
+
+
+
+pot		<-->	verb+C1[-0]	./pɒt/-NAmE /pɑːt/\
+	; vô chậu (hoa)-- (1) [-plant] pot something to put a plant into a flowerpot filled with soil
+		;TOPICS GardensC1
+
+
+
+
+
+
+
+potting shed		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+prune		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+rain barrel		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+raised bed		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+rake		<-->	noun+C2[-0]	./reɪk/-NAmE /reɪk/\
+	;cái cào làm vườn, chổi quét vườn -- (1) enlarge image[countable] a garden tool with a long handle and a row of metal points at the end, used for gathering fallen leaves and making soil smooth
+		;TOPICS GardensC2
+
+
+
+
+
+
+
+rake		<-->	verb+C2[-0]	./reɪk/-NAmE /reɪk/
+	;cào, quét vườn -- (1) [transitive, intransitive] to pull a rake over a surface in order to make it level or to remove something
+		;rake (something) (+ adv./prep.) The leaves had been raked into a pile.
+		;(figurative) She raked a comb through her hair.
+		;rake something + adj. First rake the soil smooth.
+		;TOPICS GardensC2
+
+
+
+
+
+
+
+roof garden		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+scythe		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+secateurs		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+seed		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+seedbed		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+shears		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+shed		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+shovel		<-->	noun+C1[-0]	./ˈʃʌvl/-NAmE /ˈʃʌvl/
+	;cái xuổng -- (1) enlarge imagea tool like a spade with a long handle and a broad metal part with curved edges, used for moving earth, snow, sand, etc.
+		;workmen with picks and shovels
+		;(North American English) The children took their pails and shovels to the beach.
+		;COMPARE spade
+		;TOPICS GardensC1
+
+
+
+
+
+
+
+shovel		<-->	verb+C1[-0]	./ˈʃʌvl/-NAmE /ˈʃʌvl/\
+	;đào -- (1) shovel something (+ adv./prep.) to lift and move earth, stones, coal, etc. with a shovel
+		;A gang of workmen were shovelling rubble onto a truck.
+		;They went out in freezing conditions to shovel snow.
+		;(North American English) to shovel the sidewalk/driveway (= to remove snow)
+		;(figurative) He sat at the table, shovelling food into his mouth.
+		;TOPICS GardensC1
+				;Oxford Collocations Dictionary
+				;Shovel is used with these nouns as the object:
+				;coaldirtdriveway…
+		;See full entry
+
+
+
+
+
+
+shrub		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+shrubbery		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+slug		<-->	noun+C2[-0]	./slʌɡ/
+ /slʌɡ/\
+	;con sên -- (1) a small, soft creature, like a snail without a shell, that moves very slowly and often eats garden plants
+		;TOPICS Insects, worms, etc.C2, GardensC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+snail		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+soil		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+sow		<-->	verb+C2[-0]	./səʊ/-NAmE /səʊ/\
+	;gieo hạt -- (1) [transitive, intransitive] to plant or spread seeds in or on the ground
+		;sow (something) Sow the seeds in rows.
+		;Sow the seeds quite thinly.
+		;Water well after sowing.
+		;Sow rows of lettuces between other vegetables.
+		;sow something with something The fields around had been sown with wheat.
+		;We’ve sown that field with wheat.
+		;Homophones sew | so | sow
+		;Collocations Farming
+		;TOPICS FarmingC2, GardensC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;earlythinly
+				;preposition
+				;with
+		;See full entry
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+spade		<-->	noun+C1[-0]	.
+
+
+ 
+
+
+
+
+
+
+sprinkler		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+Strimmer™		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+summer house		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+sundial		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+sunlounger		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+sunshade		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+swimming pool		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+swing		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+terrace		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+transplant		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+tree house		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+trellis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+trim		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+trowel		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+tub		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+washing line		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+water		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+water butt		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+water feature		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+watering can		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+weed		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+weed		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+wheelbarrow		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+windbreak		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+window box		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+yard		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 

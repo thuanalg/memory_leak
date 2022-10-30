@@ -134,7 +134,7 @@ acne		<-->	noun+C2	[220808][1]	./ˈækni/-NAmE /ˈækni/
 
 
 
-acute		<-->	adjective+C1    /əˈkjuːt/-NAmE /əˈkjuːt/
+acute		<-->	adjective+C1[-0]	./əˈkjuːt/-NAmE /əˈkjuːt/
 	;rất nguy hiểm -- an acute illness is one that has quickly become severe and dangerous
 		;acute appendicitis
 		;OPPOSITE chronic
@@ -147,7 +147,7 @@ acute		<-->	adjective+C1    /əˈkjuːt/-NAmE /əˈkjuːt/
 
 
 
-addict		<-->	noun+C1    /ˈædɪkt/-NAmE /ˈædɪkt/
+addict		<-->	noun+C1[-0]	./ˈædɪkt/-NAmE /ˈædɪkt/
 	;người nghiện -- a person who is unable to stop using or doing something as a habit, especially something harmful
 		;a heroin/drug addict
 		;a gambling/social media addict
@@ -240,6 +240,9 @@ after-effect		<-->	noun+C2[-0]	.
 
 
 aggravate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -284,6 +287,9 @@ AIDS		<-->	noun+B2[-0]	.
 
 
 ail		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -997,6 +1003,9 @@ cold		<-->	noun+A1[-0]	.
 
 
 cold turkey		<-->	adverb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1059,6 +1068,9 @@ comatose		<-->	adjective+C2[-0]	.
 
 
 come down with		<-->	phrasal adverb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1110,6 +1122,9 @@ complication		<-->	noun+C1[-0]	.
 
 
 concuss		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1181,6 +1196,9 @@ contagious		<-->	adjective+C1[-0]	.
 
 
 contract		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1199,6 +1217,9 @@ contusion		<-->	noun+C2[-0]	.
 
 
 convalesce		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1305,6 +1326,9 @@ Creutzfeldt-Jakob disease		<-->	noun+C2[-0]	.
 
 
 cripple		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1402,6 +1426,9 @@ deep vein thrombosis		<-->	noun+C2[-0]	.
 
 
 dehydrate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1568,6 +1595,9 @@ diseased		<-->	adjective+C2[-0]	.
 
 
 dislocate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1736,6 +1766,9 @@ episode		<-->	noun+C2[-0]	.
 
 
 exacerbate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1762,6 +1795,9 @@ exposure		<-->	noun+C1[-0]	.
 
 
 fade away		<-->	phrasal adverb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1923,6 +1959,9 @@ flu		<-->	noun+A2[-0]	.
 
 
 flutter		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2106,6 +2145,9 @@ glue-sniffing		<-->	noun+C2[-0]	.
 
 
 graze		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2324,6 +2366,9 @@ HIV		<-->	noun+C1[-0]	.
 
 
 hobble		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2431,6 +2476,9 @@ incapacity		<-->	noun+C2[-0]	.
 
 
 incubate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2588,6 +2636,9 @@ irritable bowel syndrome		<-->	noun+C2[-0]	.
 
 
 irritate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2615,6 +2666,9 @@ jaundice		<-->	noun+C2[-0]	.
 
 
 keel over		<-->	phrasal adverb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2657,6 +2711,9 @@ laryngitis		<-->	noun+C2[-0]	.
 
 
 lay up		<-->	phrasal adverb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2692,6 +2749,9 @@ life-limiting		<-->	adjective+B2[-0]	.
 
 
 limp		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2975,6 +3035,9 @@ obesity		<-->	noun+B2[-0]	.
 
 
 OD		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3033,6 +3096,9 @@ overdose		<-->	verb+C1[-0]	.
 
 
 overeat		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3129,6 +3195,9 @@ pandemic		<-->	adjective+B2[-0]	.
 
 
 paralyse		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3155,6 +3224,9 @@ parasite		<-->	noun+C1[-0]	.
 
 
 pass out		<-->	phrasal adverb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3296,6 +3368,9 @@ post-operative		<-->	adjective+C2[-0]	.
 
 
 present		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3330,6 +3405,9 @@ pull		<-->	noun+C1[-0]	.
 
 
 pull through		<-->	phrasal adverb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3356,6 +3434,9 @@ rabies		<-->	noun+C2[-0]	.
 
 
 rally		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3407,6 +3488,9 @@ recovery		<-->	noun+B2[-0]	.
 
 
 recuperate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3459,7 +3543,14 @@ relapse		<-->	noun+C2[-0]	.
 
 
 
-relapse		<-->	verb+C2[-0]	.
+relapse		<-->	verb+C2[-0]	./rɪˈlæps/
+ /rɪˈlæps/,  /ˈriːlæps/\ [intransitive]
+	;tái phát, tái nghiện, tái bệnh -- (1) relapse (into something) to go back into a previous condition or into a worse state after making an improvement
+		;They relapsed into silence.
+		;He relapsed into his old bad habits.
+		;Two days after leaving the hospital she relapsed into a coma.
+		;TOPICS Health problemsC2
+
 
 
 
@@ -3558,7 +3649,14 @@ rupture		<-->	noun+C2[-0]	.
 
 
 
-rupture		<-->	verb+C2[-0]	.
+rupture		<-->	verb+C2[-0]	./ˈrʌptʃə(r)/
+ /ˈrʌptʃər/\
+	;vỡ, đứt -- (1) [transitive, intransitive] rupture (something/yourself) (medical) to burst or break apart something inside the body; to be broken or burst apart
+		;a ruptured appendix
+		;He ruptured himself (= got a hernia) trying to lift the piano.
+		;Barnes played his first game since rupturing an Achilles tendon five months ago.
+		;TOPICS Health problemsC2
+
 
 
 
@@ -3603,7 +3701,16 @@ scab		<-->	noun+C2[-0]	.
 
 
 
-scald		<-->	verb+C2[-0]	.
+scald		<-->	verb+C2[-0]	./skɔːld/
+ /skɔːld/
+	;làm bỏng -- (1) scald something/yourself to burn yourself or part of your body with very hot liquid or steam
+		;Be careful not to scald yourself with the steam.
+		;(figurative) Tears scalded her eyes.
+		;Synonyms burn: char, scald, scorch, singe, 
+		;<< burn, char, scald, scorch, singe, >>
+		;Collocations Injuries
+		;TOPICS Health problemsC2
+
 
 
 
@@ -3637,7 +3744,39 @@ scar		<-->	verb+C1[-0]	.
 
 
 
-scrape		<-->	verb+C2[-0]	.
+scrape		<-->	verb+C2[-0]	./skreɪp/
+ /skreɪp/
+	;cạo ra,  -- (1) [-remove] [transitive] to remove something from a surface by moving something sharp and hard like a knife across it
+		;scrape something (+ adv./prep.) She scraped the mud off her boots.
+		;We scraped away the top layer of wallpaper.
+		;scrape something + adj. The kids had scraped their plates clean.
+		;Extra Examples:
+		;I scraped the carrots with a knife.
+		;The wood had been scraped clean.
+				;Oxford Collocations Dictionary
+				;adverb
+				;carefullygentlyaway…
+				;preposition
+				;againstalongon…
+				;phrases
+				;scrape something clean
+		;See full entry
+	;làm trầy xướt -- (2) [-damage] [transitive] to rub something by accident so that it gets damaged or hurt
+		;scrape something She fell and scraped her knee.
+		;scrape something + adv./prep. I scraped the side of my car on the wall.
+		;Sorry, I've scraped some paint off the car.
+		;The wire had scraped the skin from her fingers.
+		;I scraped my elbow on the wall as I cycled past.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;carefullygentlyaway…
+				;preposition
+				;againstalongon…
+				;phrases
+				;scrape something clean
+		;See full entry
+
 
 
 
@@ -3761,7 +3900,31 @@ shaky		<-->	adjective+C2[-0]	.
 
 
 
-shield		<-->	verb+C2[-0]	.
+shield		<-->	verb+C2[-0]	./ʃiːld/
+ /ʃiːld/\
+	;che chắn, bảo vệ -- (1) [transitive] to protect somebody/something from danger, harm or something unpleasant
+		;shield something against something I shielded my eyes against the glare.
+		;shield somebody/something from somebody/something The ozone layer shields the earth from the sun's ultraviolet rays.
+		;You can't shield her from the truth forever.
+		;shield somebody/something Police believe that somebody is shielding the killer.
+		;Extra Examples:
+		;He shielded her with his body.
+		;He carefully shielded the flame with his cupped hand.
+		;She tried to shield the children from the full horrors of the war.
+		;new laws to shield companies from foreign competition
+				;Oxford Collocations Dictionary
+				;adverb
+				;partiallypartlycarefully…
+				;verb + shield
+				;try to
+				;preposition
+				;againstfromwith…
+		;See full entry
+	; -- (2) 
+	;thu mình, tự cách ly -- (3) [intransitive] (British English) to keep yourself away from other people for a period of time because you are particularly at risk from a disease, in order to reduce the risk of catching it
+		;Susan is part of the team who packs and organizes grocery deliveries for people who are shielding or self-isolating.
+		;COMPARE self-isolate
+		;TOPICS Health problemsC2
 
 
 
@@ -3840,7 +4003,17 @@ sick		<-->	adjective+A1[-0]	.
 
 
 
-sicken		<-->	verb+C2[-0]	.
+sicken		<-->	verb+C2[-0]	./ˈsɪkən/
+ /ˈsɪkən/ (British English)
+	;gây khó chịu, bực mình -- (1) [transitive] sicken somebody to make somebody feel very shocked and angry
+		;SYNONYM disgust, nauseate (2)
+		;Reading the report of the attack sickened him.
+		;The public is becoming sickened by these pictures of violence and death.
+	;chuyển bệnh -- (2) [intransitive] to become ill
+		;(old-fashioned) The baby sickened and died before his first birthday.
+		;(British English) Faye hasn't eaten all day—she must be sickening for something.
+		;TOPICS Health problemsC2
+
 
 
 
@@ -4097,7 +4270,26 @@ substance use disorder		<-->	noun+C2[-0]	.
 
 
 
-succumb		<-->	verb+C2[-0]	.
+succumb		<-->	verb+C2[-0]	./səˈkʌm/
+ /səˈkʌm/ (formal)
+	;mất khả năng tự vệ, phản kích -- (1) [intransitive] to not be able to fight an attack, a temptation, etc.
+		;The town succumbed after a short siege.
+		;They were all offered bribes and some of them succumbed.
+		;succumb to something He finally succumbed to Lucy's charms and agreed to her request.
+		;She succumbed to the temptation of another drink.
+		;people who succumb easily to exploitation
+				;Oxford Collocations Dictionary
+				;adverb
+				;almostquicklyrapidly…
+				;verb + succumb
+				;be likely to
+				;preposition
+				;to
+		;See full entry
+	;chết bởi -- (2) [intransitive] succumb (to something): to die from the effect of a disease or an injury
+		;His career was cut short when he succumbed to cancer.
+		;TOPICS Health problemsC2
+
 
 
 
@@ -4166,7 +4358,13 @@ superspreader		<-->	noun+C2[-0]	.
 
 
 
-sustain		<-->	verb+C2[-0]	.
+sustain		<-->	verb+C2[-0]	./səˈsteɪn/
+ /səˈsteɪn/
+	;chịu đựng, gánh chịu -- (3) sustain something (formal) to experience something bad
+		;SYNONYM suffer
+		;to sustain damage/an injury/a defeat
+		;The company sustained losses of millions of dollars.
+		;TOPICS Health problemsC2
 
 
 
@@ -4640,6 +4838,9 @@ wart		<-->	noun+C2[-0]	.
 
 
 waste away		<-->	phrasal adverb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4675,7 +4876,14 @@ weaken		<-->	verb+C1[-0]	.
 
 
 
-wheeze		<-->	verb+C2[-0]	.
+wheeze		<-->	verb+C2[-0]	./wiːz/
+ /wiːz/\ [intransitive, transitive]
+	;thở khò khè -- (1) to breathe noisily and with difficulty
+		;He was coughing and wheezing all night.
+		;She was wheezing with delight at her own joke.
+		;+ speech ‘I have a chest infection,’ she wheezed.
+		;TOPICS Health problemsC2
+
 
 
 

@@ -316,6 +316,9 @@ annual		<-->	adjective+B2	[220901][1]	./ˈænjuəl/-NAmE /ˈænjuəl/
 
 
 a/per head		<-->	idiom+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 		;trên đầu người -- for each person
 		;The meal worked out at $20 a head.
 
@@ -460,6 +463,9 @@ asset-stripping		<-->	noun+C2	[220901][1]	./ˈæset strɪpɪŋ/-NAmE /ˈæset st
 
 
 ATM		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -792,6 +798,9 @@ bank account		<-->	noun+B1	[220901][1]	./ˈbæŋk əkaʊnt/-NAmE /ˈbæŋk əka�
 
 
 banker		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -853,6 +862,9 @@ bank machine		<-->	noun+C2	[220901][1]	./ˈbæŋk məʃiːn/-NAmE /ˈbæŋk mə�
 
 
 banknote		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1117,6 +1129,9 @@ beggar		<-->	noun+B2	[220901][1]	./ˈbeɡə(r)/-NAmE /ˈbeɡər/
 
 
 be in arrears		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 	;trễ hẹn -- to be late in paying money that you owe
 		;We're two months in arrears with the rent.
 		;Our tenants have fallen into arrears with their rent.
@@ -1132,6 +1147,9 @@ be in arrears		<-->	idiom+C2[-0]	.
 
 
 below the line		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 	;dưới giá gốc -- (finance) connected with unusual costs or income that a company pays or receives, that are not part of its daily business and are taken away or added after calculating profits
 		;There was a £4 million extraordinary charge below the line.
 
@@ -1512,6 +1530,9 @@ boom		<-->	verb+C1	[220901][1]	./buːm/-NAmE /buːm/
 
 
 boom and bust		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 	;thịnh và suy -- a situation in which a period of rapid economic growth is followed by one of sudden decline
 		;High house prices encourage boom and bust and leave the economy vulnerable.
 		;Amid the inevitable boom and bust cycle, families are facing pay cuts and job losses.
@@ -1615,6 +1636,9 @@ bottom line		<-->	noun+C2	[220901][1]	./ˌbɒtəm ˈlaɪn/-NAmE /ˌbɑːtəm ˈl
 
 
 bottom out		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 	;tới đáy -- (of prices, a bad situation, etc.) to stop getting worse
 		;The recession is finally beginning to show signs of bottoming out.
 		;TOPICS MoneyC2
@@ -1629,6 +1653,9 @@ bottom out		<-->	phrasal verb+C2[-0]	.
 
 
 bounce back		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 	;hồi phục -- to become healthy, successful or confident again after being ill or having difficulties
 		;SYNONYM recover
 		;He's had a lot of problems, but he always seems to bounce back pretty quickly.
@@ -2361,6 +2388,9 @@ cash dispenser		<-->	noun+C2	[220901][1]	./ˈkæʃ dɪspensə(r)/-NAmE /ˈkæʃ 
 
 
 cash in hand		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 	;trả tiền mặt để tránh thuế -- (British English, informal) if you pay for goods and services cash in hand, you pay in cash, especially so that the person being paid can avoid paying tax on the amount
 		;a cash-in-hand payment of £20
 		;TOPICS MoneyC2, JobsC2
@@ -3235,6 +3265,9 @@ convertible		<-->	adjective+C2	[220901][1]	./kənˈvɜːtəbl/-NAmE /kənˈvɜː
 
 
 cool down		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 	;suy giảm -- (business) to slow down or decrease
 		;Growth in the market has started to cool down.
 		;TOPICS MoneyC2
@@ -3264,6 +3297,9 @@ cooling-off period		<-->	noun+C2	[220901][1]	./ˌkuːlɪŋ ˈɒf pɪəriəd/-NAm
 
 
 cool off		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 	;suy giảm -- (business) to slow down or decrease
 		;Growth in the market has started to cool down.
 		;TOPICS MoneyC2
@@ -4440,7 +4476,7 @@ depression		<-->	noun+C1	[220901][1]	./dɪˈpreʃn/-NAmE /dɪˈpreʃn/
 
 
 deregulate		<-->	verb+C2	[220901][1]	./ˌdiːˈreɡjuleɪt/-NAmE /ˌdiːˈreɡjuleɪt/
-	;bãi bỏ quy định, tư do thương mại -- [often passive] [Verb Forms] deregulate something: to free a trade, a business activity, etc. from rules and controls
+	;bãi bỏ quy định, tự do thương mại -- [often passive] [Verb Forms] deregulate something: to free a trade, a business activity, etc. from rules and controls
 		;SYNONYM decontrol
 		;<<,deregulate, decontrol, >>
 		;deregulated financial markets
@@ -4843,6 +4879,9 @@ dividend		<-->	noun+C2	[220901][1]	./ˈdɪvɪdend/-NAmE /ˈdɪvɪdend/
 
 
 dollar		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4861,6 +4900,9 @@ dollar		<-->	noun+A1[-0]	.
 
 
 donate		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4878,6 +4920,9 @@ donate		<-->	verb+B1[-0]	.
 
 
 donation		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -5690,6 +5735,9 @@ equity		<-->	noun+C2	[220901][1]	./ˈekwəti/-NAmE /ˈekwəti/
 
 
 euro		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7134,6 +7182,9 @@ generous		<-->	adjective+B1	[220730][1]    /ˈdʒenərəs/-NAmE /ˈdʒenərəs/ 
 
 
 gig economy		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7151,6 +7202,9 @@ gig economy		<-->	noun+C2[-0]	.
 
 
 gilt		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7168,6 +7222,9 @@ gilt		<-->	noun+C2[-0]	.
 
 
 giro		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7185,6 +7242,9 @@ giro		<-->	noun+C2[-0]	.
 
 
 give		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7203,6 +7263,9 @@ give		<-->	verb+A1[-0]	.
 
 
 global		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7220,6 +7283,9 @@ global		<-->	adjective+B1[-0]	.
 
 
 globalization		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7237,6 +7303,9 @@ globalization		<-->	noun+B2[-0]	.
 
 
 go down		<-->	phrasal verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7255,6 +7324,9 @@ go down		<-->	phrasal verb+A2[-0]	.
 
 
 go up		<-->	phrasal verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7273,6 +7345,9 @@ go up		<-->	phrasal verb+A2[-0]	.
 
 
 grant		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7290,6 +7365,9 @@ grant		<-->	noun+B2[-0]	.
 
 
 greed		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7307,6 +7385,9 @@ greed		<-->	noun+C1[-0]	.
 
 
 greedy		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7324,6 +7405,9 @@ greedy		<-->	adjective+B2[-0]	.
 
 
 grow		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7342,6 +7426,9 @@ grow		<-->	verb+A1[-0]	.
 
 
 growth		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7359,6 +7446,9 @@ growth		<-->	noun+B1[-0]	.
 
 
 haggle		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7376,6 +7466,9 @@ haggle		<-->	verb+C2[-0]	.
 
 
 hard currency		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7393,6 +7486,9 @@ hard currency		<-->	noun+C2[-0]	.
 
 
 hedge against		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7411,6 +7507,9 @@ hedge against		<-->	phrasal verb+C2[-0]	.
 
 
 heir		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7428,6 +7527,9 @@ heir		<-->	noun+C1[-0]	.
 
 
 heiress		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7445,6 +7547,9 @@ heiress		<-->	noun+C1[-0]	.
 
 
 hoard		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7462,6 +7567,9 @@ hoard		<-->	noun+C1[-0]	.
 
 
 hoard		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7479,6 +7587,9 @@ hoard		<-->	verb+C1[-0]	.
 
 
 hole in the wall		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7496,6 +7607,9 @@ hole in the wall		<-->	noun+C2[-0]	.
 
 
 home loan		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7513,6 +7627,9 @@ home loan		<-->	noun+B2[-0]	.
 
 
 hyperinflation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7530,6 +7647,9 @@ hyperinflation		<-->	noun+C2[-0]	.
 
 
 IMF		<-->	abbreviation+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7547,6 +7667,9 @@ IMF		<-->	abbreviation+C2[-0]	.
 
 
 import		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7564,6 +7687,9 @@ import		<-->	noun+B1[-0]	.
 
 
 import		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7581,6 +7707,9 @@ import		<-->	verb+B1[-0]	.
 
 
 in arrears		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7599,6 +7728,9 @@ in arrears		<-->	idiom+C2[-0]	.
 
 
 incentive		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7616,6 +7748,9 @@ incentive		<-->	noun+C1[-0]	.
 
 
 income		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7633,6 +7768,9 @@ income		<-->	noun+B2[-0]	.
 
 
 income tax		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7650,6 +7788,9 @@ income tax		<-->	noun+C1[-0]	.
 
 
 increase		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7667,6 +7808,9 @@ increase		<-->	verb+A2[-0]	.
 
 
 increase		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7684,6 +7828,9 @@ increase		<-->	noun+A2[-0]	.
 
 
 index		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7701,6 +7848,9 @@ index		<-->	noun+C1[-0]	.
 
 
 industrialism		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7718,6 +7868,9 @@ industrialism		<-->	noun+C2[-0]	.
 
 
 inflation		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7735,6 +7888,9 @@ inflation		<-->	noun+B2[-0]	.
 
 
 inherit		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7752,6 +7908,9 @@ inherit		<-->	verb+B2[-0]	.
 
 
 initial public offering		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7769,6 +7928,9 @@ initial public offering		<-->	noun+C2[-0]	.
 
 
 insider trading		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7786,6 +7948,9 @@ insider trading		<-->	noun+C2[-0]	.
 
 
 instability		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7803,6 +7968,9 @@ instability		<-->	noun+C1[-0]	.
 
 
 instalment		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7820,6 +7988,9 @@ instalment		<-->	noun+C2[-0]	.
 
 
 insure		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7837,6 +8008,9 @@ insure		<-->	verb+C2[-0]	.
 
 
 interest		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7854,6 +8028,9 @@ interest		<-->	noun+B1[-0]	.
 
 
 interventionism		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7871,6 +8048,9 @@ interventionism		<-->	noun+C2[-0]	.
 
 
 interventionist		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7888,6 +8068,9 @@ interventionist		<-->	adjective+C2[-0]	.
 
 
 invest		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7905,6 +8088,9 @@ invest		<-->	verb+B1[-0]	.
 
 
 investment		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7922,6 +8108,9 @@ investment		<-->	noun+B2[-0]	.
 
 
 investment bank		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7939,6 +8128,9 @@ investment bank		<-->	noun+C1[-0]	.
 
 
 invoice		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7956,6 +8148,9 @@ invoice		<-->	noun+C1[-0]	.
 
 
 IOU		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7973,6 +8168,9 @@ IOU		<-->	noun+C2[-0]	.
 
 
 IPO		<-->	abbreviation+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -7990,6 +8188,9 @@ IPO		<-->	abbreviation+C2[-0]	.
 
 
 ISA		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8007,6 +8208,9 @@ ISA		<-->	noun+C2[-0]	.
 
 
 laissez-faire		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8024,6 +8228,9 @@ laissez-faire		<-->	noun+C2[-0]	.
 
 
 laissez-faire		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8041,6 +8248,9 @@ laissez-faire		<-->	adjective+C2[-0]	.
 
 
 launder		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8058,6 +8268,9 @@ launder		<-->	verb+C2[-0]	.
 
 
 lend		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8075,6 +8288,9 @@ lend		<-->	verb+A2[-0]	.
 
 
 lender		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8092,6 +8308,9 @@ lender		<-->	noun+B1[-0]	.
 
 
 lending		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8109,6 +8328,9 @@ lending		<-->	noun+B2[-0]	.
 
 
 level off		<-->	phrasal verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8127,6 +8349,9 @@ level off		<-->	phrasal verb+C1[-0]	.
 
 
 level out		<-->	phrasal verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8145,6 +8370,9 @@ level out		<-->	phrasal verb+C1[-0]	.
 
 
 leverage		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8162,6 +8390,9 @@ leverage		<-->	noun+C2[-0]	.
 
 
 leveraged buyout		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8179,6 +8410,9 @@ leveraged buyout		<-->	noun+C2[-0]	.
 
 
 line item		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8196,6 +8430,9 @@ line item		<-->	noun+C2[-0]	.
 
 
 line of credit		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8213,6 +8450,9 @@ line of credit		<-->	noun+C2[-0]	.
 
 
 liquid		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8230,6 +8470,9 @@ liquid		<-->	adjective+C2[-0]	.
 
 
 liquidity		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8247,6 +8490,9 @@ liquidity		<-->	noun+C2[-0]	.
 
 
 live on		<-->	phrasal verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8265,6 +8511,9 @@ live on		<-->	phrasal verb+C1[-0]	.
 
 
 loan		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8282,6 +8531,9 @@ loan		<-->	noun+B2[-0]	.
 
 
 lose		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8300,6 +8552,9 @@ lose		<-->	verb+A1[-0]	.
 
 
 loss		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8317,6 +8572,9 @@ loss		<-->	noun+B2[-0]	.
 
 
 lottery		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8334,6 +8592,9 @@ lottery		<-->	noun+B2[-0]	.
 
 
 lump sum		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8351,6 +8612,9 @@ lump sum		<-->	noun+C2[-0]	.
 
 
 macroeconomic		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8368,6 +8632,9 @@ macroeconomic		<-->	adjective+C2[-0]	.
 
 
 macroeconomics		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8385,6 +8652,9 @@ macroeconomics		<-->	noun+C2[-0]	.
 
 
 maintenance		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8402,6 +8672,9 @@ maintenance		<-->	noun+C2[-0]	.
 
 
 make		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8419,6 +8692,9 @@ make		<-->	verb+A2[-0]	.
 
 
 mark		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8436,6 +8712,9 @@ mark		<-->	noun+C2[-0]	.
 
 
 market		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8453,6 +8732,9 @@ market		<-->	noun+B1[-0]	.
 
 
 market capitalization		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8470,6 +8752,9 @@ market capitalization		<-->	noun+C2[-0]	.
 
 
 market economy		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8487,6 +8772,9 @@ market economy		<-->	noun+C1[-0]	.
 
 
 market forces		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8504,6 +8792,9 @@ market forces		<-->	noun+C2[-0]	.
 
 
 market segmentation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8521,6 +8812,9 @@ market segmentation		<-->	noun+C2[-0]	.
 
 
 mean		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8538,6 +8832,9 @@ mean		<-->	adjective+C2[-0]	.
 
 
 means		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8555,6 +8852,9 @@ means		<-->	noun+C2[-0]	.
 
 
 mercantilism		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8572,6 +8872,9 @@ mercantilism		<-->	noun+C2[-0]	.
 
 
 merger		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8589,6 +8892,9 @@ merger		<-->	noun+C1[-0]	.
 
 
 micropayment		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8606,6 +8912,9 @@ micropayment		<-->	noun+C2[-0]	.
 
 
 millionaire		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8623,6 +8932,9 @@ millionaire		<-->	noun+B1[-0]	.
 
 
 monetarism		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8640,6 +8952,9 @@ monetarism		<-->	noun+C2[-0]	.
 
 
 money		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8658,6 +8973,9 @@ money		<-->	noun+A1[-0]	.
 
 
 money transfer		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8675,6 +8993,9 @@ money transfer		<-->	noun+C1[-0]	.
 
 
 monopoly		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8692,6 +9013,9 @@ monopoly		<-->	noun+C1[-0]	.
 
 
 mortgage		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8709,6 +9033,9 @@ mortgage		<-->	noun+B2[-0]	.
 
 
 mortgage		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8726,6 +9053,9 @@ mortgage		<-->	verb+B2[-0]	.
 
 
 mortgage bond		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8743,6 +9073,9 @@ mortgage bond		<-->	noun+C2[-0]	.
 
 
 mutual fund		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8760,6 +9093,9 @@ mutual fund		<-->	noun+C2[-0]	.
 
 
 national debt		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8777,6 +9113,9 @@ national debt		<-->	noun+B2[-0]	.
 
 
 negative equity		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8794,6 +9133,9 @@ negative equity		<-->	noun+C2[-0]	.
 
 
 nickel		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8811,6 +9153,9 @@ nickel		<-->	noun+C1[-0]	.
 
 
 note		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -8847,6 +9192,9 @@ note		<-->	noun+B1[-0]	.
 
 
 NYSE		<-->	abbreviation+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 	; -- == New York Stock Exchange
 
 
@@ -8859,6 +9207,9 @@ NYSE		<-->	abbreviation+C2[-0]	.
 
 
 OECD		<-->	abbreviation+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 	; -- == ​Organization for Economic Cooperation and Development
 
 
@@ -9286,6 +9637,9 @@ overheated		<-->	adjective+C2	[220901][1]	./ˌəʊvəˈhiːtɪd/-NAmE /ˌəʊvə
 
 
 owe		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9304,6 +9658,9 @@ owe		<-->	verb+B2[-0]	.
 
 
 p		<-->	abbreviation+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9321,6 +9678,9 @@ p		<-->	abbreviation+B2[-0]	.
 
 
 pay		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9339,6 +9699,9 @@ pay		<-->	verb+A1[-0]	.
 
 
 pay		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9453,6 +9816,9 @@ payday loan		<-->	noun+C2	[220901][1]	./ˌpeɪdeɪ ˈləʊn/-NAmE /ˌpeɪdeɪ ˈ
 
 
 payer		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9470,6 +9836,9 @@ payer		<-->	noun+B2[-0]	.
 
 
 payment		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9547,6 +9916,9 @@ pay up		<-->	phrasal verb+C2	[220901][1]
 
 
 peak		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9564,6 +9936,9 @@ peak		<-->	noun+C1[-0]	.
 
 
 peak		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9581,6 +9956,9 @@ peak		<-->	verb+C1[-0]	.
 
 
 peak		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9598,6 +9976,9 @@ peak		<-->	adjective+C1[-0]	.
 
 
 penalty		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9615,6 +9996,9 @@ penalty		<-->	noun+B2[-0]	.
 
 
 penny		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9632,6 +10016,9 @@ penny		<-->	noun+A2[-0]	.
 
 
 pension		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9649,6 +10036,9 @@ pension		<-->	noun+B2[-0]	.
 
 
 pension pot		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9666,6 +10056,9 @@ pension pot		<-->	noun+C2[-0]	.
 
 
 per cent		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9683,6 +10076,9 @@ per cent		<-->	noun+A2[-0]	.
 
 
 per cent		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9700,6 +10096,9 @@ per cent		<-->	adjective+A2[-0]	.
 
 
 PIN		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9717,6 +10116,9 @@ PIN		<-->	noun+C2[-0]	.
 
 
 plateau		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9734,6 +10136,9 @@ plateau		<-->	noun+C2[-0]	.
 
 
 plateau		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9751,6 +10156,9 @@ plateau		<-->	verb+C2[-0]	.
 
 
 plummet		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9768,6 +10176,9 @@ plummet		<-->	verb+C2[-0]	.
 
 
 pocket money		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9785,6 +10196,9 @@ pocket money		<-->	noun+B1[-0]	.
 
 
 poor		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9803,6 +10217,9 @@ poor		<-->	adjective+A1[-0]	.
 
 
 portfolio		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9820,6 +10237,9 @@ portfolio		<-->	noun+C1[-0]	.
 
 
 pound		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9838,6 +10258,9 @@ pound		<-->	noun+A1[-0]	.
 
 
 poverty		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9855,6 +10278,9 @@ poverty		<-->	noun+B1[-0]	.
 
 
 predatory pricing		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9872,6 +10298,9 @@ predatory pricing		<-->	noun+C2[-0]	.
 
 
 prepaid		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9889,6 +10318,9 @@ prepaid		<-->	adjective+C1[-0]	.
 
 
 price		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9907,6 +10339,9 @@ price		<-->	noun+A1[-0]	.
 
 
 price		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9924,6 +10359,9 @@ price		<-->	verb+B2[-0]	.
 
 
 price-fixing		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9941,6 +10379,9 @@ price-fixing		<-->	noun+C1[-0]	.
 
 
 private enterprise		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9958,6 +10399,9 @@ private enterprise		<-->	noun+C2[-0]	.
 
 
 privatization		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9975,6 +10419,9 @@ privatization		<-->	noun+C1[-0]	.
 
 
 privatize		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -9992,6 +10439,9 @@ privatize		<-->	verb+C1[-0]	.
 
 
 progressive		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10009,6 +10459,9 @@ progressive		<-->	adjective+C2[-0]	.
 
 
 public spending		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10026,6 +10479,9 @@ public spending		<-->	noun+B1[-0]	.
 
 
 purse		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10043,6 +10499,9 @@ purse		<-->	noun+A2[-0]	.
 
 
 quarter		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10060,6 +10519,9 @@ quarter		<-->	noun+C1[-0]	.
 
 
 quotation		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10077,6 +10539,9 @@ quotation		<-->	noun+C1[-0]	.
 
 
 quote		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10128,6 +10593,9 @@ raffle		<-->	noun+C2	[220903][1]	./ˈræfl/-NAmE /ˈræfl/
 
 
 raise		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10145,6 +10613,9 @@ raise		<-->	verb+B1[-0]	.
 
 
 raise		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10162,6 +10633,9 @@ raise		<-->	noun+B1[-0]	.
 
 
 ransom		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10179,6 +10653,9 @@ ransom		<-->	noun+C1[-0]	.
 
 
 rate		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10196,6 +10673,9 @@ rate		<-->	noun+B1[-0]	.
 
 
 receipt		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10213,6 +10693,9 @@ receipt		<-->	noun+B1[-0]	.
 
 
 recession		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10230,6 +10713,9 @@ recession		<-->	noun+B2[-0]	.
 
 
 recovery		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10247,6 +10733,9 @@ recovery		<-->	noun+C1[-0]	.
 
 
 reduce		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10264,6 +10753,9 @@ reduce		<-->	verb+A2[-0]	.
 
 
 reduction		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10281,6 +10773,9 @@ reduction		<-->	noun+B2[-0]	.
 
 
 reflate		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10298,6 +10793,9 @@ reflate		<-->	verb+C2[-0]	.
 
 
 reflation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10315,6 +10813,9 @@ reflation		<-->	noun+C2[-0]	.
 
 
 reflationary		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10332,6 +10833,9 @@ reflationary		<-->	adjective+C2[-0]	.
 
 
 refund		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10349,6 +10853,9 @@ refund		<-->	noun+B2[-0]	.
 
 
 refund		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10366,6 +10873,9 @@ refund		<-->	verb+B2[-0]	.
 
 
 regulation		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10383,6 +10893,9 @@ regulation		<-->	noun+C1[-0]	.
 
 
 regulator		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10400,6 +10913,9 @@ regulator		<-->	noun+C1[-0]	.
 
 
 relief		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10417,6 +10933,9 @@ relief		<-->	noun+B2[-0]	.
 
 
 rent		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10434,6 +10953,9 @@ rent		<-->	noun+B1[-0]	.
 
 
 rent		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10451,6 +10973,9 @@ rent		<-->	verb+B1[-0]	.
 
 
 repay		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10468,6 +10993,9 @@ repay		<-->	verb+C1[-0]	.
 
 
 repayment		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10485,6 +11013,9 @@ repayment		<-->	noun+C1[-0]	.
 
 
 reserve		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10502,6 +11033,9 @@ reserve		<-->	noun+B2[-0]	.
 
 
 revenue		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10519,6 +11053,9 @@ revenue		<-->	noun+B2[-0]	.
 
 
 revenue stream		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10536,6 +11073,9 @@ revenue stream		<-->	noun+C2[-0]	.
 
 
 rich		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10554,6 +11094,9 @@ rich		<-->	adjective+A1[-0]	.
 
 
 rise		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10571,6 +11114,9 @@ rise		<-->	verb+A2[-0]	.
 
 
 rise		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10588,6 +11134,9 @@ rise		<-->	noun+B1[-0]	.
 
 
 risk		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10605,6 +11154,9 @@ risk		<-->	noun+C2[-0]	.
 
 
 safe		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10622,6 +11174,9 @@ safe		<-->	noun+C1[-0]	.
 
 
 salary		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10639,6 +11194,9 @@ salary		<-->	noun+A2[-0]	.
 
 
 sales slip		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10656,6 +11214,9 @@ sales slip		<-->	noun+B1[-0]	.
 
 
 save		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10673,6 +11234,9 @@ save		<-->	verb+A2[-0]	.
 
 
 saver		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10690,6 +11254,9 @@ saver		<-->	noun+B1[-0]	.
 
 
 saving		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10707,6 +11274,9 @@ saving		<-->	noun+B2[-0]	.
 
 
 savings account		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10724,6 +11294,9 @@ savings account		<-->	noun+C1[-0]	.
 
 
 savings bank		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10741,6 +11314,9 @@ savings bank		<-->	noun+C1[-0]	.
 
 
 savings rate		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10758,6 +11334,9 @@ savings rate		<-->	noun+C1[-0]	.
 
 
 scholarship		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10775,6 +11354,9 @@ scholarship		<-->	noun+B2[-0]	.
 
 
 security		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10792,6 +11374,9 @@ security		<-->	noun+C2[-0]	.
 
 
 sell		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10810,6 +11395,9 @@ sell		<-->	verb+A1[-0]	.
 
 
 settle		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10827,6 +11415,9 @@ settle		<-->	verb+C1[-0]	.
 
 
 share		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10844,6 +11435,9 @@ share		<-->	noun+B2[-0]	.
 
 
 sharing economy		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10861,6 +11455,9 @@ sharing economy		<-->	noun+C1[-0]	.
 
 
 shilling		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10878,6 +11475,9 @@ shilling		<-->	noun+C2[-0]	.
 
 
 short		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10895,6 +11495,9 @@ short		<-->	adjective+B2[-0]	.
 
 
 silent auction		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10912,6 +11515,9 @@ silent auction		<-->	noun+C2[-0]	.
 
 
 slump		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10929,6 +11535,9 @@ slump		<-->	verb+C2[-0]	.
 
 
 slump		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10946,6 +11555,9 @@ slump		<-->	noun+C2[-0]	.
 
 
 soar		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10963,6 +11575,9 @@ soar		<-->	verb+C1[-0]	.
 
 
 social security		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10980,6 +11595,9 @@ social security		<-->	noun+C2[-0]	.
 
 
 sovereign debt		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -10997,6 +11615,9 @@ sovereign debt		<-->	noun+C2[-0]	.
 
 
 spend		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11015,6 +11636,9 @@ spend		<-->	verb+A1[-0]	.
 
 
 spending		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11032,6 +11656,9 @@ spending		<-->	noun+B1[-0]	.
 
 
 spiral		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11049,6 +11676,9 @@ spiral		<-->	verb+C1[-0]	.
 
 
 spread betting		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11065,7 +11695,7 @@ spread betting		<-->	noun+C2[-0]	.
 
 
 
-stable		<-->	adjective+B2[-0]	./1/
+stable		<-->	adjective+B2	[221023][1]	./1/
 
 
 
@@ -11082,7 +11712,11 @@ stable		<-->	adjective+B2[-0]	./1/
 
 
 
-stagflation		<-->	noun+C2[-0]	.
+stagflation		<-->	noun+C2[-0]	./stæɡˈfleɪʃn/
+ /stæɡˈfleɪʃn/ [uncountable]
+	;lạm phát và đình trệ -- (1) an economic situation where there is high inflation (= prices rising continuously) but no increase in the jobs that are available or in business activity
+		;TOPICS MoneyC2
+
 
 
 
@@ -11100,6 +11734,9 @@ stagflation		<-->	noun+C2[-0]	.
 
 
 stake		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11117,6 +11754,9 @@ stake		<-->	noun+C2[-0]	.
 
 
 stake		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11134,6 +11774,9 @@ stake		<-->	verb+C1[-0]	.
 
 
 standard of living		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11151,6 +11794,9 @@ standard of living		<-->	noun+B2[-0]	.
 
 
 statement		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11168,6 +11814,9 @@ statement		<-->	noun+B2[-0]	.
 
 
 the Dow Jones Index		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11185,6 +11834,9 @@ the Dow Jones Index		<-->	noun+C2[-0]	.
 
 
 the Federal Reserve System		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11202,6 +11854,9 @@ the Federal Reserve System		<-->	noun+C2[-0]	.
 
 
 the FTSE index™		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11219,6 +11874,9 @@ the FTSE index™		<-->	noun+C2[-0]	.
 
 
 the NASDAQ		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11236,6 +11894,9 @@ the NASDAQ		<-->	noun+C2[-0]	.
 
 
 the public sector		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11253,6 +11914,9 @@ the public sector		<-->	noun+C1[-0]	.
 
 
 the private sector		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11270,6 +11934,9 @@ the private sector		<-->	noun+C1[-0]	.
 
 
 the World Bank		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11287,6 +11954,9 @@ the World Bank		<-->	noun+C1[-0]	.
 
 
 the Financial Times index		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11303,7 +11973,7 @@ the Financial Times index		<-->	noun+C2[-0]	.
 
 
 
-steady		<-->	adjective+B2[-0]	./1/
+steady		<-->	adjective+B2	[221023][1]	./1/
 
 
 
@@ -11321,6 +11991,9 @@ steady		<-->	adjective+B2[-0]	./1/
 
 
 steady		<-->	adverb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11337,7 +12010,17 @@ steady		<-->	adverb+B2[-0]	.
 
 
 
-sterling		<-->	noun+C2[-0]	.
+sterling		<-->	noun+C2[-0]	./ˈstɜːlɪŋ/
+ /ˈstɜːrlɪŋ/ [uncountable]
+	;??? đồng sterling -- (1) the money system of the UK, based on the pound
+		;the value of sterling
+		;You can be paid in pounds sterling or American dollars.
+		;50 pounds sterling
+		;TOPICS MoneyC2
+				;Oxford Collocations Dictionary
+				;phrases
+				;pounds sterling
+		;See full entry
 
 
 
@@ -11354,7 +12037,9 @@ sterling		<-->	noun+C2[-0]	.
 
 
 
-stock		<-->	noun+C2[-0]	.
+
+stock		<-->	noun+C2[-0]	./CEFR/
+
 
 
 
@@ -11372,6 +12057,9 @@ stock		<-->	noun+C2[-0]	.
 
 
 stock exchange		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11389,6 +12077,9 @@ stock exchange		<-->	noun+C1[-0]	.
 
 
 stock market		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11405,7 +12096,15 @@ stock market		<-->	noun+B2[-0]	.
 
 
 
-sub-prime		<-->	adjective+C2[-0]	.
+sub-prime		<-->	adjective+C2[-0]	./ˌsʌb ˈpraɪm/
+ /ˌsʌb ˈpraɪm/
+	;(British English) (North American English subprime) (finance)
+	;dưới chuẩn -- (1) connected with the practice of lending money to somebody who is likely to have difficulty paying it back
+		;a sub-prime loan/mortgage
+		;subprime lenders/borrowers
+		;The collapse of the US subprime mortgage market has been blamed for the credit crunch.
+		;Bad credit home loans have higher interest rates. This is to be expected as sub-prime lenders carry a higher degree of risk.
+		;TOPICS MoneyC2
 
 
 
@@ -11422,7 +12121,8 @@ sub-prime		<-->	adjective+C2[-0]	.
 
 
 
-subsidy		<-->	noun+C1[-0]	./1/
+
+subsidy		<-->	noun+C1	[221023][1]	./1/
 
 
 
@@ -11439,7 +12139,7 @@ subsidy		<-->	noun+C1[-0]	./1/
 
 
 
-sum		<-->	noun+B2[-0]	./1/
+sum		<-->	noun+B2	[221023][1]	./1/
 
 
 
@@ -11457,6 +12157,9 @@ sum		<-->	noun+B2[-0]	./1/
 
 
 supply and demand		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11473,7 +12176,14 @@ supply and demand		<-->	noun+C1[-0]	.
 
 
 
-supply-side		<-->	adjective+C2[-0]	.
+supply-side		<-->	adjective+C2[-0]	./səˈplaɪ saɪd/
+ /səˈplaɪ saɪd/ [only before noun] (economics)
+	;c. giảm thuế -- (1) connected with the policy of reducing taxes in order to encourage economic growth
+		;TOPICS MoneyC2
+				;Oxford Collocations Dictionary
+				;Supply-side is used with these nouns:
+				;economics
+		;See full entry
 
 
 
@@ -11490,8 +12200,8 @@ supply-side		<-->	adjective+C2[-0]	.
 
 
 
-support		<-->	verb+B1[-0]	./1/
 
+support		<-->	verb+B1	[221023][1]	./1/
 
 
 
@@ -11507,8 +12217,11 @@ support		<-->	verb+B1[-0]	./1/
 
 
 
-sweepstake		<-->	noun+C2[-0]	.
 
+sweepstake		<-->	noun+C2	[221023][1]	./ˈswiːpsteɪk/
+ /ˈswiːpsteɪk/ (also informal sweep) (North American English also sweepstakes, informal sweeps)
+	;rút thăm trúng thưởng -- (1) a type of betting in which the winner gets all the money bet by everyone else
+		;TOPICS MoneyC2
 
 
 
@@ -11524,7 +12237,14 @@ sweepstake		<-->	noun+C2[-0]	.
 
 
 
-take a dive		<-->	idiom+C2[-0]	.
+
+
+take a dive		<-->	idiom+C2	[221023][1]	./I/
+	;trở nên xấu đi, chìm sâu -- (1) (informal) to suddenly get worse
+		;Profits really took a dive last year.
+		;The market is volatile and profits could take a dive.
+		;TOPICS MoneyC2
+
 
 
 
@@ -11543,6 +12263,9 @@ take a dive		<-->	idiom+C2[-0]	.
 
 
 take out		<-->	phrasal verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11560,7 +12283,39 @@ take out		<-->	phrasal verb+B1[-0]	.
 
 
 
-takeover		<-->	noun+C2[-0]	.
+takeover		<-->	noun+C2	[221023][1]	./ˈteɪkəʊvə(r)/
+ /ˈteɪkəʊvər/ [countable, uncountable]
+	;việc chiếm quyền kiểm soát -- (1) an act of taking control of a company by buying most of its shares
+		;a takeover bid for the company
+		;Wordfinder: acquisitionbidbrokercontractdealmergernegotiationofferproposaltakeover
+		;Collocations Business
+		;Extra Examples:
+		;The consortium won a fierce takeover battle for the engineering group.
+		;the attempted takeover of an oil company
+		;TOPICS MoneyC2, BusinessC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;attemptedproposedhostile…
+				;verb + takeover
+				;attemptengineerlaunch…
+				;takeover + noun
+				;attemptbidoffer…
+				;preposition
+				;takeover of
+		;See full entry
+	;việc chiếm quyền kiểm soát -- (2) an act of taking control of a country, an area or a political organization by force
+		;attempts to prevent the takeover of the Republic by the military
+		;TOPICS War and conflictC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;attemptedproposedhostile…
+				;verb + takeover
+				;attemptengineerlaunch…
+				;takeover + noun
+				;attemptbidoffer…
+				;preposition
+				;takeover of
+		;See full entry
 
 
 
@@ -11577,7 +12332,24 @@ takeover		<-->	noun+C2[-0]	.
 
 
 
-takings		<-->	noun+C2[-0]	.
+
+takings		<-->	noun+C2	[221023][1]	./ˈteɪkɪŋz/
+ /ˈteɪkɪŋz/ [plural] (British English)
+	;doanh thu -- (1) the amount of money that a shop, theatre, etc. receives from selling goods or tickets over a particular period of time
+		;The box office takings are up on last week.
+		;Extra Examples:
+		;TOPICS ShoppingC2, Film and theatreC2, MoneyC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;the day’sthe week’sweekly…
+				;verb + takings
+				;add upcheckcount…
+				;takings + verb
+				;be uprisebe down…
+				;preposition
+				;in takingstakings  from
+		;See full entry
+
 
 
 
@@ -11595,6 +12367,9 @@ takings		<-->	noun+C2[-0]	.
 
 
 tariff		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -11611,7 +12386,7 @@ tariff		<-->	noun+C1[-0]	.
 
 
 
-tax		<-->	noun+B1[-0]	./1/
+tax		<-->	noun+B1	[221023][1]	./1/
 
 
 
@@ -11628,7 +12403,7 @@ tax		<-->	noun+B1[-0]	./1/
 
 
 
-tax		<-->	verb+B1[-0]	./1/
+tax		<-->	verb+B1	[221023][1]	./1/
 
 
 
@@ -11645,7 +12420,7 @@ tax		<-->	verb+B1[-0]	./1/
 
 
 
-taxable		<-->	adjective+C2[-0]	./ˈtæksəbl/
+taxable		<-->	adjective+C2	[221023][1]	./ˈtæksəbl/
  /ˈtæksəbl/
 	;chịu thuế -- == (1) (of money) that you have to pay tax on
 		;taxable income
@@ -11784,7 +12559,11 @@ tax-free		<-->	adjective+C1	[220903][1]	./ˌtæks ˈfriː/-NAmE /ˌtæks ˈfriː
 
 
 
-tax haven		<-->	noun+C2[-0]	.
+tax haven		<-->	noun+C2	[221023][1]	./ˈtæks heɪvn/
+ /ˈtæks heɪvn/
+	;nôi thuế thấp -- (1) a place where taxes are low and where people choose to live or officially register their companies because taxes are higher in their own countries
+		;TOPICS MoneyC2
+
 
 
 
@@ -12778,7 +13557,7 @@ worthless		<-->	adjective+C1	[220901][1]	./ˈwɜːθləs/-NAmE /ˈwɜːrθləs/
 
 
 WTO		<-->	abbreviation+C2	[220901][1]	./ˌdʌbljuː tiː ˈəʊ/-NAmE /ˌdʌbljuː tiː ˈəʊ/
-	;tổ chức thương mại toàn cầu -- == (1) WORLD TRADE ORGANIZATION (an international organization that encourages international trade and economic development, especially by reducing limits on trade)
+	;tổ chức thương mại toàn cầu -- (1) WORLD TRADE ORGANIZATION (an international organization that encourages international trade and economic development, especially by reducing limits on trade)
 		;TOPICS MoneyC2
 
 
