@@ -1,13 +1,4 @@
-	2022-05-01
-	2022-05-05
-
-
-
-
-
-
-
-aboard		<-->	adverb+C1[-0]	./əˈbɔːd/-NAmE /əˈbɔːrd/-\
+aboard		<-->	adverb+C1	[221116][001]	./əˈbɔːd/-NAmE /əˈbɔːrd/-\
 	;lên tàu -- on or onto a ship, plane, bus or train
 
 
@@ -16,7 +7,7 @@ aboard		<-->	adverb+C1[-0]	./əˈbɔːd/-NAmE /əˈbɔːrd/-\
 
 
 
-aisle		<-->	noun+B2[-0]	./aɪl/-NAmE /aɪl/
+aisle		<-->	noun+B2	[221116][001]	./aɪl/-NAmE /aɪl/
 	;lối đi giữa các hàng nghế -- a passage between rows of seats in a church, theatre, train, etc., or between rows of shelves in a supermarket
 
 
@@ -25,7 +16,7 @@ aisle		<-->	noun+B2[-0]	./aɪl/-NAmE /aɪl/
 
 
 
-alight		<-->	verb+C2[-0]	./əˈlaɪt/-NAmE /əˈlaɪt/
+alight		<-->	verb+C2	[221116][001]	./əˈlaɪt/-NAmE /əˈlaɪt/
 	;rời khỏi -- ~ get off - [intransitive] alight (from something) to get out of a bus, a train or other vehicle
 		;Do not alight from a moving bus.
 
@@ -35,8 +26,8 @@ alight		<-->	verb+C2[-0]	./əˈlaɪt/-NAmE /əˈlaɪt/
 
 
 
-baggage car		<-->	noun+C1[-0]	./ˈbæɡɪdʒ kɑː(r)/-NAmE /ˈbæɡɪdʒ kɑːr/
-	;toa khách và hành lý -- ​(especially in the past) a coach on a train for carrying passengers’ bags, cases, etc.
+baggage car		<-->	noun+C1	[221116][001]	./ˈbæɡɪdʒ kɑː(r)/-NAmE /ˈbæɡɪdʒ kɑːr/
+	;toa hành lý -- ​(especially in the past) a coach on a train for carrying passengers’ bags, cases, etc.
 
 
 
@@ -44,7 +35,7 @@ baggage car		<-->	noun+C1[-0]	./ˈbæɡɪdʒ kɑː(r)/-NAmE /ˈbæɡɪdʒ kɑːr
 
 
 
-bendy bus		<-->	noun+C2[-0]	./ˈbendi bʌs/-NAmE /ˈbendi bʌs/;\
+bendy bus		<-->	noun+C2	[221116][001]	./ˈbendi bʌs/-NAmE /ˈbendi bʌs/;\
 	;xe bus có thể uống cong ở giữa -- a long bus that bends in the middle so that it can turn corners more easily
 		;The bendy bus is an attempt to improve the city’s public transport.
 		;Bendy buses are now standard on city streets.
@@ -55,7 +46,7 @@ bendy bus		<-->	noun+C2[-0]	./ˈbendi bʌs/-NAmE /ˈbendi bʌs/;\
 
 
 
-berth		<-->	noun+C2[-0]	./bɜːθ/-NAmE /bɜːrθ/;\
+berth		<-->	noun+C2	[221116][001]	./bɜːθ/-NAmE /bɜːrθ/;\
 	;nơi ngủ trên tàu xe -- a place to sleep on a ship or train, or in a caravan ~ SYNONYM bunk
 		;a cabin with three berths
 
@@ -65,7 +56,7 @@ berth		<-->	noun+C2[-0]	./bɜːθ/-NAmE /bɜːrθ/;\
 
 
 
-board		<--> verb+B1[-0]	./bɔːd/-NAmE /bɔːrd/	
+board		<--> verb+B1	[221116][001]	./bɔːd/-NAmE /bɔːrd/	
 	;lên tàu, xe -- [intransitive, transitive] (formal) to get on a ship, train, plane, bus, etc.
 		;Passengers are waiting to board.
 
@@ -75,7 +66,7 @@ board		<--> verb+B1[-0]	./bɔːd/-NAmE /bɔːrd/
 
 
 
-boat train		<-->	noun+B2[-0]	./ˈbəʊt treɪn/-NAmE /ˈbəʊt treɪn/+\
+boat train		<-->	noun+B2	[221116][001]	./ˈbəʊt treɪn/-NAmE /ˈbəʊt treɪn/+\
 	;a train that takes passengers to or from a place where a boat arrives or leaves
 
 
@@ -84,7 +75,7 @@ boat train		<-->	noun+B2[-0]	./ˈbəʊt treɪn/-NAmE /ˈbəʊt treɪn/+\
 
 
 
-book		<--> verb+A2[-0]	./bʊk/-NAmE /bʊk/-\
+book		<--> verb+A2	[221116][001]	./bʊk/-NAmE /bʊk/-\
 	;đặt trước -- [transitive] to arrange for somebody to have a seat on a plane, etc.
 
 
@@ -103,7 +94,7 @@ booking		<-->	noun+B2[-0]	.
 
 
 
-booking office		<-->	noun+B2[-0]	./ˈbʊkɪŋ ɒfɪs/-NAmE /ˈbʊkɪŋ ɑːfɪs/
+booking office		<-->	noun+B2	[221116][001]	./ˈbʊkɪŋ ɒfɪs/-NAmE /ˈbʊkɪŋ ɑːfɪs/
 	;phòng đặt vé  -- a place where you can buy tickets, at a train or bus station or at a theatre
 
 
@@ -112,7 +103,7 @@ booking office		<-->	noun+B2[-0]	./ˈbʊkɪŋ ɒfɪs/-NAmE /ˈbʊkɪŋ ɑːfɪs/
 
 
 
-boxcar		<-->	noun+C2[-0]	./ˈbɒkskɑː(r)/-NAmE /ˈbɑːkskɑːr/
+boxcar		<-->	noun+C2	[221116][002]	./ˈbɒkskɑː(r)/-NAmE /ˈbɑːkskɑːr/
 	;toa đóng kín dung cho chở hàng -- a closed coach on a train, with a sliding door, used for carrying goods
 
 
@@ -131,7 +122,7 @@ branch		<-->	noun+C1 /brɑːntʃ/-NAmE /bræntʃ/-\ /;\
 
 
 
-buffer		<-->	noun+C2[-0]	./ˈbʌfə(r)/-NAmE /ˈbʌfər/
+buffer		<-->	noun+C2	[221116][001]	./ˈbʌfə(r)/-NAmE /ˈbʌfər/
 	;thiết bị giảm sốc -- (British English) one of two round metal devices on the front or end of a train, or at the end of a railway track, that reduce the shock if the train hits something
 
 
@@ -140,7 +131,7 @@ buffer		<-->	noun+C2[-0]	./ˈbʌfə(r)/-NAmE /ˈbʌfər/
 
 
 
-buffet car		<-->	noun+C1[-0]	./ˈbʌfeɪ kɑː(r)/,  /ˈbʊfeɪ kɑː(r)/-NAmE /bəˈfeɪ kɑːr/
+buffet car		<-->	noun+C1	[221116][002]	./ˈbʌfeɪ kɑː(r)/,  /ˈbʊfeɪ kɑː(r)/-NAmE /bəˈfeɪ kɑːr/
 	;toa bán thức ăn -- ​the part of a train where you can buy something to eat and drink
 
 
@@ -149,7 +140,7 @@ buffet car		<-->	noun+C1[-0]	./ˈbʌfeɪ kɑː(r)/,  /ˈbʊfeɪ kɑː(r)/-NAmE /
 
 
 
-bullet train		<-->	noun+C2[-0]	./ˈbʊlɪt treɪn/-NAmE /ˈbʊlɪt treɪn/
+bullet train		<-->	noun+C2	[221116][001]	./ˈbʊlɪt treɪn/-NAmE /ˈbʊlɪt treɪn/
 	;tàu cao tốc -- a Japanese train that carries passengers at high speeds
 
 
@@ -158,7 +149,7 @@ bullet train		<-->	noun+C2[-0]	./ˈbʊlɪt treɪn/-NAmE /ˈbʊlɪt treɪn/
 
 
 
-bunk		<-->	noun+C2[-0]	./bʌŋk/-NAmE /bʌŋk/
+bunk		<-->	noun+C2	[221116][001]	./bʌŋk/-NAmE /bʌŋk/
 	;giường ngủ trên xe -- [countable] a narrow bed that is fixed to a wall, especially on a ship or train
 
 
@@ -183,7 +174,7 @@ bus lane		<-->	noun+B2[-0]	.
 
 
 
-bus pass		<-->	noun+B1[-0]	./ˈbʌs pɑːs/-NAmE /ˈbʌs pæs/+\
+bus pass		<-->	noun+B1	[221116][001]	./ˈbʌs pɑːs/-NAmE /ˈbʌs pæs/+\
 	;vé xe bus -- a ticket that allows you to travel on any bus within a particular area for a fixed period of time
 
 
@@ -192,7 +183,7 @@ bus pass		<-->	noun+B1[-0]	./ˈbʌs pɑːs/-NAmE /ˈbʌs pæs/+\
 
 
 
-bus stand		<-->	noun+C2[-0]	./ˈbʌs stænd/-NAmE /ˈbʌs stænd/+\
+bus stand		<-->	noun+C2	[221116][001]	./ˈbʌs stænd/-NAmE /ˈbʌs stænd/+\
 	;bến xe -- the place in a town or city where buses leave and arrive, especially to and from other towns
 
 
@@ -217,7 +208,7 @@ bus stop		<-->	noun+A1[-0]	.
 
 
 
-cab		<-->	noun+C1[-0]	./kæb/-NAmE /kæb/
+cab		<-->	noun+C1	[221116][001]	./kæb/-NAmE /kæb/
 	;ghế tài xế -- the place where the driver sits in a bus, train or lorry
 
 
@@ -226,8 +217,16 @@ cab		<-->	noun+C1[-0]	./kæb/-NAmE /kæb/
 
 
 
-car		<-->	noun+C1[-0]	./kɑː(r)/-NAmE /kɑːr/
+car		<-->	noun+C1	[221116][002]	./kɑː(r)/-NAmE /kɑːr/
 	;toa -- (also railcar both North American English) a separate section of a train
+		;Several cars went off the rails.
+		;TOPICS Transport by bus and trainC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;railrailroadrailway…
+				;verb + car
+				;pull
+		;See full entry
 
 
 
@@ -235,8 +234,28 @@ car		<-->	noun+C1[-0]	./kɑː(r)/-NAmE /kɑːr/
 
 
 
-carriage		<-->	noun+C1[-0]	./ˈkærɪdʒ/-NAmE /ˈkærɪdʒ/
-	;toa khách -- countable] a separate section of a train for carrying passenger
+carriage		<-->	noun+C1	[221116][002]	./ˈkærɪdʒ/-NAmE /ˈkærɪdʒ/
+	;toa khách -- [countable] (also coach) (both British English) (North American English car) [countable] a separate section of a train for carrying passengers
+		;a railway carriage
+		;Wordfinder: aislebuffetcarriageconnectionlocomotiveluggage rackplatformstationtracktrain
+		;TOPICS Transport by bus and trainC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;railwayfullempty…
+				;verb + carriage
+				;get inget intoget out of…
+				;carriage + noun
+				;doorwindow
+				;preposition
+				;in a/​the carriage
+		;See full entry
+
+
+
+
+
+
+catch		<--> verb+A2[-0]	./cef/
 
 
 
@@ -244,7 +263,7 @@ carriage		<-->	noun+C1[-0]	./ˈkærɪdʒ/-NAmE /ˈkærɪdʒ/
 
 
 
-catch		<--> verb+A2[-0]	.
+change		<--> verb+A2[-0]	./cef/
 
 
 
@@ -252,7 +271,7 @@ catch		<--> verb+A2[-0]	.
 
 
 
-change		<--> verb+A2[-0]	.
+class		<-->	noun+B1[-0]	./cef/
 
 
 
@@ -260,15 +279,7 @@ change		<--> verb+A2[-0]	.
 
 
 
-class		<-->	noun+B1[-0]	.
-
-
-
-
-
-
-
-club car		<-->	noun+C2[-0]	./ˈklʌb kɑː(r)/-NAmE /ˈklʌb kɑːr/
+club car		<-->	noun+C2	[221116][002]	./ˈklʌb kɑː(r)/-NAmE /ˈklʌb kɑːr/
 	;toa tiện nghi -- a coach on a train with comfortable chairs and tables, where you can buy something to eat or drink
 
 
@@ -277,7 +288,7 @@ club car		<-->	noun+C2[-0]	./ˈklʌb kɑː(r)/-NAmE /ˈklʌb kɑːr/
 
 
 
-coach		<-->	noun+A2   /kəʊtʃ/-NAmE /kəʊtʃ/-\
+coach		<-->	noun+A2	[221116][002]	./kəʊtʃ/-NAmE /kəʊtʃ/-\
 	;toa -- [countable] (also carriage (both British English), North American English car) a separate section of a train for carrying passengers
 
 
@@ -286,7 +297,7 @@ coach		<-->	noun+A2   /kəʊtʃ/-NAmE /kəʊtʃ/-\
 
 
 
-coachwork		<-->	noun+C2[-0]	./ˈkəʊtʃwɜːk/-NAmE /ˈkəʊtʃwɜːrk/
+coachwork		<-->	noun+C2	[221116][001]	./ˈkəʊtʃwɜːk/-NAmE /ˈkəʊtʃwɜːrk/
 	;??? -- [uncountable] (British English) the metal outer part of a road or railway vehicle
 
 
@@ -295,7 +306,7 @@ coachwork		<-->	noun+C2[-0]	./ˈkəʊtʃwɜːk/-NAmE /ˈkəʊtʃwɜːrk/
 
 
 
-commute		<--> verb+B1[-0]	./kəˈmjuːt/-NAmE /kəˈmjuːt/-\
+commute		<--> verb+B1	[221116][001]	./kəˈmjuːt/-NAmE /kəˈmjuːt/-\
 	;giao thông, đi lại -- [intransitive, transitive] to travel regularly by bus, train, car, etc. between your place of work and your home
 
 
@@ -304,7 +315,7 @@ commute		<--> verb+B1[-0]	./kəˈmjuːt/-NAmE /kəˈmjuːt/-\
 
 
 
-commute		<-->	noun+B1[-0]	./kəˈmjuːt/-NAmE /kəˈmjuːt/
+commute		<-->	noun+B1	[221116][001]	./kəˈmjuːt/-NAmE /kəˈmjuːt/
 	;hành trình -- ​the journey that a person makes when they commute to work
 		;a two-hour commute into downtown Washington
 
@@ -314,7 +325,7 @@ commute		<-->	noun+B1[-0]	./kəˈmjuːt/-NAmE /kəˈmjuːt/
 
 
 
-compartment		<-->	noun+C1[-0]	./kəmˈpɑːtmənt/-NAmE /kəmˈpɑːrtmənt/
+compartment		<-->	noun+C1	[221116][002]	./kəmˈpɑːtmənt/-NAmE /kəmˈpɑːrtmənt/
 	;vách ngăn trong toa -- one of the separate sections that a coach on a train is divided into
 		;He found an empty first-class compartment.
 
@@ -324,9 +335,7 @@ compartment		<-->	noun+C1[-0]	./kəmˈpɑːtmənt/-NAmE /kəmˈpɑːrtmənt/
 
 
 
-concession		<-->	noun+C2[-0]	.
-	;chiết khấu, giảm giá -- [countable, usually plural] (British English) a reduction in an amount of money that has to be paid; a ticket that is sold at a reduced price to a particular group of people
-		;Tickets are £3; there is a £1 concession for students.
+concession		<-->	noun+C2[-0]	./cef/
 
 
 
@@ -334,7 +343,7 @@ concession		<-->	noun+C2[-0]	.
 
 
 
-concourse		<-->	noun+C2[-0]	./ˈkɒŋkɔːs/-NAmE /ˈkɑːnkɔːrs/
+concourse		<-->	noun+C2	[221116][002]	./ˈkɒŋkɔːs/-NAmE /ˈkɑːnkɔːrs/
 	;khu vực công cộng ở ga -- a large, open part of a public building, especially an airport or a train station
 
 
@@ -343,7 +352,7 @@ concourse		<-->	noun+C2[-0]	./ˈkɒŋkɔːs/-NAmE /ˈkɑːnkɔːrs/
 
 
 
-conductor		<-->	noun+C2[-0]	./kənˈdʌktə(r)/-NAmE /kənˈdʌktər/
+conductor		<-->	noun+C2	[221116][002]	./kənˈdʌktə(r)/-NAmE /kənˈdʌktər/
 	;nhân viên tàu hoả -- (British English also guard) a person who is in charge of a train and travels with it, but does not drive it
 
 
@@ -352,9 +361,7 @@ conductor		<-->	noun+C2[-0]	./kənˈdʌktə(r)/-NAmE /kənˈdʌktər/
 
 
 
-connection		<-->	noun+B2[-0]	.
-	;chuyến -- [countable] a train, bus or plane at a station or an airport that a passenger can take soon after getting off another in order to continue their journey
-		;We'll be lucky if we make our connection.
+connection		<-->	noun+B2[-0]	./cef/
 
 
 
@@ -362,7 +369,7 @@ connection		<-->	noun+B2[-0]	.
 
 
 
-container		<-->	noun+C1[-0]	./kənˈteɪnə(r)/-NAmE /kənˈteɪnər/ [IMAGE]-boats and ships
+container		<-->	noun+C1	[221116][002]	./kənˈteɪnə(r)/-NAmE /kənˈteɪnər/ [IMAGE]-boats and ships
 	;thùng chứa cỡ rất lớn -- a large metal or wooden box of a standard size in which goods are packed so that they can easily be lifted onto a ship, train, etc. to be transported
 		;a shipping container
 
@@ -372,7 +379,7 @@ container		<-->	noun+C1[-0]	./kənˈteɪnə(r)/-NAmE /kənˈteɪnər/ [IMAGE]-bo
 
 
 
-corridor		<-->	noun+B2[-0]	./ˈkɒrɪdɔː(r)/-NAmE /ˈkɔːrɪdɔːr/
+corridor		<-->	noun+B2	[221116][002]	./ˈkɒrɪdɔː(r)/-NAmE /ˈkɔːrɪdɔːr/
 	;hành lang -- (British English) a passage along the side of some railway trains, from which doors lead into separate compartments
 		;the electronics industry in the M4 corridor
 		;a now-submerged land corridor between northern Africa and southern Europe
@@ -383,7 +390,7 @@ corridor		<-->	noun+B2[-0]	./ˈkɒrɪdɔː(r)/-NAmE /ˈkɔːrɪdɔːr/
 
 
 
-couchette		<-->	noun+C2[-0]	./kuːˈʃet/-NAmE /kuːˈʃet/
+couchette		<-->	noun+C2	[221116][001]	./kuːˈʃet/-NAmE /kuːˈʃet/
 	;giường gắp trên xe lửa -- ​a narrow bed on a train that folds down from the wall
 
 
@@ -392,7 +399,7 @@ couchette		<-->	noun+C2[-0]	./kuːˈʃet/-NAmE /kuːˈʃet/
 
 
 
-coupling		<-->	noun+C2[-0]	./ˈkʌplɪŋ/-NAmE /ˈkʌplɪŋ/
+coupling		<-->	noun+C2	[221116][002]	./ˈkʌplɪŋ/-NAmE /ˈkʌplɪŋ/
 	;mấu nối, kết nối --- (specialist) a thing that joins together two parts of something, two vehicles or two pieces of equipment
 		;The coupling was designed to fit the grooves(rãnh) in the pipe.
 
@@ -402,8 +409,7 @@ coupling		<-->	noun+C2[-0]	./ˈkʌplɪŋ/-NAmE /ˈkʌplɪŋ/
 
 
 
-cutting		<-->	noun+C2[-0]	./ˈkʌtɪŋ/-NAmE /ˈkʌtɪŋ/
-	;đường hầm -- ​(British English) a narrow open passage that is dug through high ground for a road, railway or canal
+cutting		<-->	noun+C2	[221116][002]	./cef/
 
 
 
@@ -411,7 +417,7 @@ cutting		<-->	noun+C2[-0]	./ˈkʌtɪŋ/-NAmE /ˈkʌtɪŋ/
 
 
 
-day return		<-->	noun+B2[-0]	./ˌdeɪ rɪˈtɜːn/-NAmE /ˌdeɪ rɪˈtɜːrn/
+day return		<-->	noun+B2	[221116][002]	./ˌdeɪ rɪˈtɜːn/-NAmE /ˌdeɪ rɪˈtɜːrn/
 	;vé khứ hồi trong ngày -- a ticket at a reduced price for a journey to a place and back again on the same day
 
 
@@ -420,7 +426,7 @@ day return		<-->	noun+B2[-0]	./ˌdeɪ rɪˈtɜːn/-NAmE /ˌdeɪ rɪˈtɜːrn/
 
 
 
-deck		<-->	noun+B2[-0]	./dek/-NAmE /dek/
+deck		<-->	noun+B2	[221116][002]	./dek/-NAmE /dek/
 	;tầng trên -- one of the floors of a ship or a bus
 		;We sat on the top deck of the bus.
 
@@ -430,7 +436,7 @@ deck		<-->	noun+B2[-0]	./dek/-NAmE /dek/
 
 
 
-departure		<-->	noun+B1[-0]	./dɪˈpɑːtʃə(r)/-NAmE /dɪˈpɑːrtʃər/
+departure		<-->	noun+B1	[221116][002]	./dɪˈpɑːtʃə(r)/-NAmE /dɪˈpɑːrtʃər/
 	;sự khởi hành --  [countable] a plane, train, etc. leaving a place at a particular time
 
 
@@ -439,7 +445,7 @@ departure		<-->	noun+B1[-0]	./dɪˈpɑːtʃə(r)/-NAmE /dɪˈpɑːrtʃər/
 
 
 
-depot		<-->	noun+C2[-0]	./ˈdepəʊ/-NAmE /ˈdiːpəʊ/
+depot		<-->	noun+C2	[221116][002]	./ˈdepəʊ/-NAmE /ˈdiːpəʊ/
 	;kho hàng -- a place where large amounts of food, goods or equipment are stored
 		;an explosion at an arms depot
 
@@ -449,7 +455,7 @@ depot		<-->	noun+C2[-0]	./ˈdepəʊ/-NAmE /ˈdiːpəʊ/
 
 
 
-derail		<-->	verb+C2[-0]	./diːˈreɪl/-NAmE /diːˈreɪl/
+derail		<-->	verb+C2	[221116][002]	./diːˈreɪl/-NAmE /diːˈreɪl/
 	;trật đường ray -- [intransitive, transitive] (of a train) to leave the track; to make a train do this
 		;The train derailed and plunged(lao) into the river.
 
@@ -459,7 +465,7 @@ derail		<-->	verb+C2[-0]	./diːˈreɪl/-NAmE /diːˈreɪl/
 
 
 
-derailment		<-->	noun+C2[-0]	./diːˈreɪlmənt/-NAmE /diːˈreɪlmənt/
+derailment		<-->	noun+C2	[221116][001]	./diːˈreɪlmənt/-NAmE /diːˈreɪlmənt/
 	;trật đường ray ​ -- [countable, uncountable] an occasion when a train leaves the track; the act of causing this to happen
 		;the derailment of a passenger train
 
@@ -469,7 +475,7 @@ derailment		<-->	noun+C2[-0]	./diːˈreɪlmənt/-NAmE /diːˈreɪlmənt/
 
 
 
-detrain		<-->	verb+C2[-0]	./ˌdiːˈtreɪn/-NAmE /ˌdiːˈtreɪn/
+detrain		<-->	verb+C2	[221116][002]	./ˌdiːˈtreɪn/-NAmE /ˌdiːˈtreɪn/
 	;xuống tàu --	detrain (somebody): to leave a train or make somebody leave a train
 
 
@@ -478,7 +484,7 @@ detrain		<-->	verb+C2[-0]	./ˌdiːˈtreɪn/-NAmE /ˌdiːˈtreɪn/
 
 
 
-dining car		<-->	noun+C1[-0]	./ˈdaɪnɪŋ kɑː(r)/-NAmE /ˈdaɪnɪŋ kɑːr/
+dining car		<-->	noun+C1	[221116][002]	./ˈdaɪnɪŋ kɑː(r)/-NAmE /ˈdaɪnɪŋ kɑːr/
 	;toa ăn uống -- a coach on a train in which meals are served
 
 
@@ -487,7 +493,7 @@ dining car		<-->	noun+C1[-0]	./ˈdaɪnɪŋ kɑː(r)/-NAmE /ˈdaɪnɪŋ kɑːr/
 
 
 
-double-decker		<-->	noun+C1[-0]	./ˌdʌbl ˈdekə(r)/-NAmE /ˌdʌbl ˈdekər/
+double-decker		<-->	noun+C1	[221116][002]	./ˌdʌbl ˈdekə(r)/-NAmE /ˌdʌbl ˈdekər/
 	;xe bus hai tầng -- enlarge imagea bus with two floors, one on top of the other
 
 
@@ -496,7 +502,7 @@ double-decker		<-->	noun+C1[-0]	./ˌdʌbl ˈdekə(r)/-NAmE /ˌdʌbl ˈdekər/
 
 
 
-embankment		<-->	noun+C2[-0]	./ɪmˈbæŋkmənt/-NAmE /ɪmˈbæŋkmənt/
+embankment		<-->	noun+C2	[221116][002]	./ɪmˈbæŋkmənt/-NAmE /ɪmˈbæŋkmənt/
 	;vách ngăn đường ray -- a wall or bank of stone or earth made to keep water back or to carry a road or railway over low ground
 
 
@@ -505,7 +511,7 @@ embankment		<-->	noun+C2[-0]	./ɪmˈbæŋkmənt/-NAmE /ɪmˈbæŋkmənt/
 
 
 
-emergency brake		<-->	noun+C1[-0]	./ɪˈmɜːdʒənsi breɪk/-NAmE /ɪˈmɜːrdʒənsi breɪk/
+emergency brake		<-->	noun+C1	[221116][002]	./ɪˈmɜːdʒənsi breɪk/-NAmE /ɪˈmɜːrdʒənsi breɪk/
 	;thắng khẩn cấp -- a brake on a train that can be pulled in an emergency
 
 
@@ -514,8 +520,7 @@ emergency brake		<-->	noun+C1[-0]	./ɪˈmɜːdʒənsi breɪk/-NAmE /ɪˈmɜːrd�
 
 
 
-engine		<-->	noun+A2[-0]	./ˈendʒɪn/
- /ˈendʒɪn/
+engine		<-->	noun+A2	[221116][001]	./ˈendʒɪn/-NAmE /ˈendʒɪn/
 	;động cơ --  the part of a vehicle that produces power to make the vehicle move
 		;a diesel/petrol engine
 		;I got in the car and started the engine.
@@ -527,18 +532,18 @@ engine		<-->	noun+A2[-0]	./ˈendʒɪn/
 		;SEE ALSO internal combustion engine, jet engine, traction engine
 		;Extra Examples
 		;TOPICS Transport by bus and trainA2, Transport by car or lorryA2
-		;Oxford Collocations Dictionary
-		;adjective
-		;bigpowerfulsmall…
-		;verb + engine
-		;crank, crank up ,fire…
-		;engine + verb
-		;run, idle, tick over…
-		;engine + noun
-		;capacity, power, speed…
-		;preposition
-		;in an/​the engine
-		;phrases
+				;Oxford Collocations Dictionary
+				;adjective
+				;bigpowerfulsmall…
+				;verb + engine
+				;crank, crank up ,fire…
+				;engine + verb
+				;run, idle, tick over…
+				;engine + noun
+				;capacity, power, speed…
+				;preposition
+				;in an/​the engine
+				;phrases
 		;be powered by a… engine, the noise, roar, sound, etc. of the engine
 
 
@@ -547,8 +552,7 @@ engine		<-->	noun+A2[-0]	./ˈendʒɪn/
 
 
 
-engine driver		<-->	noun+B2[-0]	./ˈendʒɪn draɪvə(r)/
- /ˈendʒɪn draɪvər/
+engine driver		<-->	noun+B2	[221116][002]	./ˈendʒɪn draɪvə(r)/-NAmE /ˈendʒɪn draɪvər/
 	;người lái xe lửa -- (British English, becoming old-fashioned) (North American English engineer)
 ​		;a person whose job is driving a railway engine
 		;TOPICS Transport by bus and trainB2, JobsB2
@@ -567,7 +571,7 @@ e-ticket		<-->	noun+B2[-0]	.
 
 
 
-express		<-->	noun+B1[-0]	./ɪkˈspres/-NAmE /ɪkˈspres/-\  
+express		<-->	noun+B1	[221116][002]	./ɪkˈspres/-NAmE /ɪkˈspres/-\  
 	;đường tốc hành -- (also express train) [countable] a fast train that does not stop at many places
 		;the 8.27 express to Edinburgh
 
@@ -577,8 +581,7 @@ express		<-->	noun+B1[-0]	./ɪkˈspres/-NAmE /ɪkˈspres/-\
 
 
 
-fare		<-->	noun+B2[-0]	./feə(r)/
- /fer/
+fare		<-->	noun+B2	[221116][002]	./feə(r)/-NAmE /fer/
 	;phí --  [countable, uncountable] the money that you pay to travel by bus, plane, taxi, etc.
 		;bus/taxi fares
 		;train/rail fares
@@ -616,7 +619,7 @@ first class		<-->	noun+B1[-0]	.
 
 
 
-first class		<-->	adverb+B1[-0]	./ˌfɜːst ˈklɑːs/-NAmE /ˌfɜːrst ˈklæs/
+first class		<-->	adverb+B1	[221116][001]	./ˌfɜːst ˈklɑːs/-NAmE /ˌfɜːrst ˈklæs/
 	;hạng sang -- using the best and most expensive seats or accommodation in a train, plane or ship
 		;to travel first class
 
@@ -626,7 +629,7 @@ first class		<-->	adverb+B1[-0]	./ˌfɜːst ˈklɑːs/-NAmE /ˌfɜːrst ˈklæs/
 
 
 
-flatcar		<-->	noun+C2[-0]	./ˈflætkɑː(r)/-NAmE /ˈflætkɑːr/
+flatcar		<-->	noun+C2	[221116][002]	./ˈflætkɑː(r)/-NAmE /ˈflætkɑːr/
 	;toa mui trần chở hàng -- a wagon on a train without a roof or sides, used for carrying goods
 
 
@@ -635,7 +638,7 @@ flatcar		<-->	noun+C2[-0]	./ˈflætkɑː(r)/-NAmE /ˈflætkɑːr/
 
 
 
-freight		<-->	noun+C1[-0]	./freɪt/-NAmE /freɪt/
+freight		<-->	noun+C1	[221116][002]	./freɪt/-NAmE /freɪt/
 	;hàng hoá -- goods that are transported by ships, planes, trains or lorries; the system of transporting goods in this way
 		;to send goods by air freight
 
@@ -645,7 +648,7 @@ freight		<-->	noun+C1[-0]	./freɪt/-NAmE /freɪt/
 
 
 
-freight car		<-->	noun+C1[-0]	./ˈfreɪt kɑː(r)/-NAmE /ˈfreɪt kɑːr/+\
+freight car		<-->	noun+C1	[221116][002]	./ˈfreɪt kɑː(r)/-NAmE /ˈfreɪt kɑːr/+\
 	;toa hàng -- a railway truck for carrying goods
 		;The freight car was blown up by explosives experts.
 
@@ -655,7 +658,7 @@ freight car		<-->	noun+C1[-0]	./ˈfreɪt kɑː(r)/-NAmE /ˈfreɪt kɑːr/+\
 
 
 
-freight train		<-->	noun+C1   /ˈfreɪt treɪn/-NAmE /ˈfreɪt treɪn/
+freight train		<-->	noun+C1	[221116][002]	./ˈfreɪt treɪn/-NAmE /ˈfreɪt treɪn/
 	;tàu hàng -- a train that carries only goods
 
 
@@ -664,7 +667,7 @@ freight train		<-->	noun+C1   /ˈfreɪt treɪn/-NAmE /ˈfreɪt treɪn/
 
 
 
-funicular		<-->	noun+C2[-0]	./fjuːˈnɪkjələ(r)/-NAmE /fjuːˈnɪkjələr/
+funicular		<-->	noun+C2	[221116][001]	./fjuːˈnɪkjələ(r)/-NAmE /fjuːˈnɪkjələr/
 	;đường sắt có dốc -- a railway on a steep slope, used to transport passengers up and down in special cars by means of a moving cable
 
 
@@ -673,7 +676,7 @@ funicular		<-->	noun+C2[-0]	./fjuːˈnɪkjələ(r)/-NAmE /fjuːˈnɪkjələr/
 
 
 
-gage		<-->	noun+C2[-0]	./ɡeɪdʒ/-NAmE /ɡeɪdʒ/
+gage		<-->	noun+C2	[221116][002]	./ɡeɪdʒ/-NAmE /ɡeɪdʒ/
 	;thiết bị đo lường -- (often in compounds) an instrument for measuring the amount or level of something
 		;a fuel/pressure/temperature gage
 
@@ -683,7 +686,7 @@ gage		<-->	noun+C2[-0]	./ɡeɪdʒ/-NAmE /ɡeɪdʒ/
 
 
 
-gauge		<-->	noun+C2[-0]	./ɡeɪdʒ/-NAmE /ɡeɪdʒ/
+gauge		<-->	noun+C2	[221116][002]	./ɡeɪdʒ/-NAmE /ɡeɪdʒ/
 	;khoảng cách hai thanh ray -- the distance between the rails of a railway track or the wheels of a train	
 		;standard gauge (= 56½ inches in Britain)
 
@@ -702,7 +705,7 @@ get		<--> verb+A1[-0]	.
 
 
 
-goods train		<-->	noun+C1[-0]	./ˈɡʊdz treɪn/-NAmE /ˈɡʊdz treɪn/+\
+goods train		<-->	noun+C1	[221116][001]	./ˈɡʊdz treɪn/-NAmE /ˈɡʊdz treɪn/+\
 	;tàu hàng -- ​a train that carries only goods
 
 
@@ -711,7 +714,7 @@ goods train		<-->	noun+C1[-0]	./ˈɡʊdz treɪn/-NAmE /ˈɡʊdz treɪn/+\
 
 
 
-grade crossing		<-->	noun+C2[-0]	./ˈɡreɪd krɒsɪŋ/-NAmE /ˈɡreɪd krɔːsɪŋ/+\
+grade crossing		<-->	noun+C2	[221116][002]	./ˈɡreɪd krɒsɪŋ/-NAmE /ˈɡreɪd krɔːsɪŋ/+\
 	;chỗ giao đường sắt -- a place where a road crosses a railroad at the same level (not on a bridge)
 
 
@@ -720,7 +723,7 @@ grade crossing		<-->	noun+C2[-0]	./ˈɡreɪd krɒsɪŋ/-NAmE /ˈɡreɪd krɔːs�
 
 
 
-gradient		<-->	noun+C1[-0]	./ˈɡreɪdiənt/-NAmE /ˈɡreɪdiənt/
+gradient		<-->	noun+C1	[221116][002]	./ˈɡreɪdiənt/-NAmE /ˈɡreɪdiənt/
 	;con dốc đường ray -- (also grade especially in North American English) a slope on a road or railway; the degree to which the ground slopes
 		;The route includes some steep gradients.
 
@@ -738,7 +741,7 @@ guard		<-->	noun+B2[-0]	.
 
 
 
-guard’s van		<-->	noun+C1[-0]	./ˈɡɑːdz væn/-NAmE /ˈɡɑːrdz væn/
+guard’s van		<-->	noun+C1	[221116][002]	./ˈɡɑːdz væn/-NAmE /ˈɡɑːrdz væn/
 	;buồng lái xe lửa -- (in the past) the part of a train where the person who is in charge of the train used to ride
 
 
@@ -747,7 +750,7 @@ guard’s van		<-->	noun+C1[-0]	./ˈɡɑːdz væn/-NAmE /ˈɡɑːrdz væn/
 
 
 
-hail		<-->	verb+C2[-0]	./heɪl/-NAmE /heɪl/
+hail		<-->	verb+C2	[221116][002]	./heɪl/-NAmE /heɪl/
 	;cung cấp tính hiệu cho xe lửa -- [transitive] hail something to signal to a taxi or a bus, in order to get the driver to stop xto hail a taxi/cab
 
 
@@ -756,7 +759,7 @@ hail		<-->	verb+C2[-0]	./heɪl/-NAmE /heɪl/
 
 
 
-halt		<-->	noun+C2[-0]	./hɔːlt/,  /hɒlt/-NAmE /hɔːlt/\
+halt		<-->	noun+C2	[221116][002]	./hɔːlt/,  /hɒlt/-NAmE /hɔːlt/\
 	;một trạm xe lửa nhỏ không có nhà -- 	[countable] (British English) a small train station in the country that has a platform but no buildings
 
 
@@ -765,7 +768,7 @@ halt		<-->	noun+C2[-0]	./hɔːlt/,  /hɒlt/-NAmE /hɔːlt/\
 
 
 
-hop		<-->	verb+C2[-0]	./hɒp/-NAmE /hɑːp/
+hop		<-->	verb+C2	[221116][002]	./hɒp/-NAmE /hɑːp/
 	;bước vào -- [transitive] hop a plane, bus, train, etc. (North American English) to get on a plane, bus, etc.
 		;I hopped a plane for New York.
 
@@ -775,7 +778,7 @@ hop		<-->	verb+C2[-0]	./hɒp/-NAmE /hɑːp/
 
 
 
-inspector		<-->	noun+B2[-0]	./ɪnˈspektə(r)/-NAmE /ɪnˈspektər/
+inspector		<-->	noun+B2	[221116][002]	./ɪnˈspektə(r)/-NAmE /ɪnˈspektər/
 	;người xét vé -- (in the UK) a person whose job is to check tickets on a bus or train
 
 
@@ -784,7 +787,7 @@ inspector		<-->	noun+B2[-0]	./ɪnˈspektə(r)/-NAmE /ɪnˈspektər/
 
 
 
-junction		<-->	noun+C1[-0]	./ˈdʒʌŋkʃn/-NAmE /ˈdʒʌŋkʃn/
+junction		<-->	noun+C1	[221116][002]	./ˈdʒʌŋkʃn/-NAmE /ˈdʒʌŋkʃn/
 	;chỗ giao đường sắt -- the place where two or more roads or railway lines meet
 		;It was near the junction of City Road and Old Street.
 
@@ -794,7 +797,7 @@ junction		<-->	noun+C1[-0]	./ˈdʒʌŋkʃn/-NAmE /ˈdʒʌŋkʃn/
 
 
 
-left luggage office		<-->	noun+B2   /ˌleft ˈlʌɡɪdʒ ɒfɪs/-NAmE /ˌleft ˈlʌɡɪdʒ ɑːfɪs/
+left luggage office		<-->	noun+B2	[221116][002]	./ˌleft ˈlʌɡɪdʒ ɒfɪs/-NAmE /ˌleft ˈlʌɡɪdʒ ɑːfɪs/
 	;nơi lấy hành lý -- a place where you can pay to leave bags, cases, etc. for a short time, for example at a station
 
 
@@ -803,7 +806,7 @@ left luggage office		<-->	noun+B2   /ˌleft ˈlʌɡɪdʒ ɒfɪs/-NAmE /ˌleft ˈ
 
 
 
-level crossing		<-->	noun+C2[-0]	./ˌlevl ˈkrɒsɪŋ/-NAmE /ˌlevl ˈkrɔːsɪŋ/
+level crossing		<-->	noun+C2	[221116][002]	./ˌlevl ˈkrɒsɪŋ/-NAmE /ˌlevl ˈkrɔːsɪŋ/
 	;chỗ đường sắt giao nhau -- a place where a road crosses a railway line at the same level (not on a bridge)
 
 
@@ -812,7 +815,7 @@ level crossing		<-->	noun+C2[-0]	./ˌlevl ˈkrɒsɪŋ/-NAmE /ˌlevl ˈkrɔːsɪ�
 
 
 
-light railway		<-->	noun+C1[-0]	./ˌlaɪt ˈreɪlweɪ/-NAmE /ˌlaɪt ˈreɪlweɪ/
+light railway		<-->	noun+C1	[221116][002]	./ˌlaɪt ˈreɪlweɪ/-NAmE /ˌlaɪt ˈreɪlweɪ/
 	;đường sắt nhẹ -- a track made for less heavy trains to run on
 
 
@@ -822,7 +825,13 @@ light railway		<-->	noun+C1[-0]	./ˌlaɪt ˈreɪlweɪ/-NAmE /ˌlaɪt ˈreɪlweɪ
 
 
 line		<-->	noun+A2[-0]	.
-local		<-->	noun+B2[-0]	./ˈləʊkl/-NAmE /ˈləʊkl/
+
+
+
+
+
+
+local		<-->	noun+B2	[221116][002]	./ˈləʊkl/-NAmE /ˈləʊkl/
 	;trạm dừng -- North American English) a bus or train that stops at all places on the route
 
 
@@ -831,7 +840,7 @@ local		<-->	noun+B2[-0]	./ˈləʊkl/-NAmE /ˈləʊkl/
 
 
 
-locomotive		<-->	noun+C2[-0]	./ˌləʊkəˈməʊtɪv/-NAmE /ˌləʊkəˈməʊtɪv/
+locomotive		<-->	noun+C2	[221116][001]	./ˌləʊkəˈməʊtɪv/-NAmE /ˌləʊkəˈməʊtɪv/
 	;đầu kéo tàu -- a railway engine that pulls a train
 		;steam/diesel/electric locomotives
 
@@ -841,7 +850,7 @@ locomotive		<-->	noun+C2[-0]	./ˌləʊkəˈməʊtɪv/-NAmE /ˌləʊkəˈməʊtɪ
 
 
 
-loop		<-->	noun+C2[-0]	./luːp/-NAmE /luːp/
+loop		<-->	noun+C2	[221116][002]	./luːp/-NAmE /luːp/
 	;vòng tròn đường sắt -- (British English) a railway line or road that leaves the main track or road and then joins it again
 
 
@@ -859,7 +868,7 @@ luggage rack		<-->	noun+C1   /ˈlʌɡɪdʒ ræk/-NAmE /ˈlʌɡɪdʒ ræk/
 
 
 
-luggage van		<-->	noun+C1[-0]	./ˈlʌɡɪdʒ væn/-NAmE /ˈlʌɡɪdʒ væn/
+luggage van		<-->	noun+C1	[221116][002]	./ˈlʌɡɪdʒ væn/-NAmE /ˈlʌɡɪdʒ væn/
 	;toa hành lý -- (especially in the past) a coach on a train for carrying passengers’ bags, cases, etc.
 
 
@@ -869,8 +878,22 @@ luggage van		<-->	noun+C1[-0]	./ˈlʌɡɪdʒ væn/-NAmE /ˈlʌɡɪdʒ væn/
 
 
 main line		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+
 main-line		<-->	adjective+B2[-0]	.
-marshalling yard		<-->	noun+C2   /ˈmɑːʃlɪŋ jɑːd/-NAmE /ˈmɑːrʃlɪŋ jɑːrd/
+
+
+
+
+
+
+
+marshalling yard		<-->	noun+C2	[221116][002]	./ˈmɑːʃlɪŋ jɑːd/-NAmE /ˈmɑːrʃlɪŋ jɑːrd/
 	;​sân ga -- a place where railway wagons(toa) are connected, prepared, etc. to form trains
 
 
@@ -879,7 +902,7 @@ marshalling yard		<-->	noun+C2   /ˈmɑːʃlɪŋ jɑːd/-NAmE /ˈmɑːrʃlɪŋ j
 
 
 
-mass transit		<-->	noun+C1[-0]	./ˌmæs ˈtrænzɪt/-NAmE /ˌmæs ˈtrænzɪt/
+mass transit		<-->	noun+C1	[221116][001]	./ˌmæs ˈtrænzɪt/-NAmE /ˌmæs ˈtrænzɪt/
 	;hệ thống giao thông công -- the system of public transport in cities, including the subway, buses, etc.
 		;One goal is to make mass transit the first choice for everyone traveling to downtown.
 
@@ -889,7 +912,7 @@ mass transit		<-->	noun+C1[-0]	./ˌmæs ˈtrænzɪt/-NAmE /ˌmæs ˈtrænzɪt/
 
 
 
-metro		<-->	noun+A2[-0]	./ˈmetrəʊ/-NAmE /ˈmetrəʊ/
+metro		<-->	noun+A2	[221116][001]	./ˈmetrəʊ/-NAmE /ˈmetrəʊ/
 	;hệ thống giao thông ngầm -- ​(also the Metro) [singular] an underground train system, especially the one in Paris
 		;by metro I get to work by metro.
 
@@ -908,7 +931,7 @@ monorail		<-->	noun+C2    	/ˈmɒnəʊreɪl/-NAmE /ˈmɑːnəʊreɪl/
 
 
 
-narrow gauge		<-->	noun+C2[-0]	./ˈnærəʊ ɡeɪdʒ/-NAmE /ˈnærəʊ ɡeɪdʒ/
+narrow gauge		<-->	noun+C2	[221116][001]	./ˈnærəʊ ɡeɪdʒ/-NAmE /ˈnærəʊ ɡeɪdʒ/
 	;độ rộng đường ray --[uncountable] a size of railway track that is not as wide as the standard track that is used in the UK and the US
 		;a narrow-gauge railway
 
@@ -919,7 +942,15 @@ narrow gauge		<-->	noun+C2[-0]	./ˈnærəʊ ɡeɪdʒ/-NAmE /ˈnærəʊ ɡeɪdʒ/
 
 
 non-stop		<-->	adjective+B1[-0]	.
-observation car		<-->	noun+C1[-0]	./ˌɒbzəˈveɪʃn kɑː(r)/-NAmE /ˌɑːbzərˈveɪʃn kɑːr/
+
+
+
+
+
+
+
+
+observation car		<-->	noun+C1	[221116][002]	./ˌɒbzəˈveɪʃn kɑː(r)/-NAmE /ˌɑːbzərˈveɪʃn kɑːr/
 	;toa ngắm cảnh -- ​a coach on a train with large windows, designed to give passengers a good view of the passing landscape
 
 
@@ -928,7 +959,7 @@ observation car		<-->	noun+C1[-0]	./ˌɒbzəˈveɪʃn kɑː(r)/-NAmE /ˌɑːbzə
 
 
 
-office		<-->	noun+A1[-0]	./ˈɒfɪs/-NAmE /ˈɑːfɪs/
+office		<-->	noun+A1	[221116][001]	./ˈɒfɪs/-NAmE /ˈɑːfɪs/
 	;văn phòng thông tin -- a room or building used for a particular purpose, especially to provide information or a service
 
 
@@ -948,7 +979,7 @@ overbridge		<-->	noun+C2   /ˈəʊvəbrɪdʒ/-NAmE /ˈəʊvərbrɪdʒ/
 
 
 
-park and ride		<-->	noun+C2[-0]	./ˌpɑːk ən ˈraɪd/-NAmE /ˌpɑːrk ən ˈraɪd/
+park and ride		<-->	noun+C2	[221116][001]	./ˌpɑːk ən ˈraɪd/-NAmE /ˌpɑːrk ən ˈraɪd/
 	;hệ thống đậu xe -- a system designed to reduce traffic in towns in which people park their cars on the edge of a town and then take a special bus or train to the town centre; the area where people park their cars before taking the bus
 
 
@@ -957,7 +988,7 @@ park and ride		<-->	noun+C2[-0]	./ˌpɑːk ən ˈraɪd/-NAmE /ˌpɑːrk ən ˈra
 
 
 
-pass		<-->	noun+B1[-0]	./pɑːs/-NAmE /pæs/
+pass		<-->	noun+B1	[221116][001]	./pɑːs/-NAmE /pæs/
 	;giấy thông hành -- an official document or ticket that shows that you have the right to enter or leave a place, to travel on a bus or train, etc.
 		;There is no admittance without a security pass.
 
@@ -969,7 +1000,7 @@ pass		<-->	noun+B1[-0]	./pɑːs/-NAmE /pæs/
 
 passenger		<-->	noun+A2[-0]	.
 platform		<-->	noun+A2[-0]	.
-ply		<-->	verb+C2[-0]	./plaɪ/-NAmE /plaɪ/\
+ply		<-->	verb+C2	[221116][001]	./plaɪ/-NAmE /plaɪ/\
 	;đi lại thường xuyên -- [intransitive, transitive] (literary or Indian English) (of ships, buses, etc.) to travel regularly along a particular route or between two particular places
 		;The train plies twice a day between Paris and Madrid.
 
@@ -979,7 +1010,7 @@ ply		<-->	verb+C2[-0]	./plaɪ/-NAmE /plaɪ/\
 
 
 
-point		<-->	noun+C2[-0]	./pɔɪnt/-NAmE /pɔɪnt/\
+point		<-->	noun+C2	[221116][001]	./pɔɪnt/-NAmE /pɔɪnt/\
 	;điểm chia đường ray -- [plural] (British English)(North American English switch [countable])a piece of track at a place where a railway line divides that can be moved to allow a train to change tracks
 
 
@@ -988,7 +1019,7 @@ point		<-->	noun+C2[-0]	./pɔɪnt/-NAmE /pɔɪnt/\
 
 
 
-porter		<-->	noun+C1[-0]	./ˈpɔːtə(r)/-NAmE /ˈpɔːrtər/
+porter		<-->	noun+C1	[221116][001]	./ˈpɔːtə(r)/-NAmE /ˈpɔːrtər/
 	;người mang hành lý -- a person whose job is carrying people’s bags and other loads, especially at a train station, an airport or in a hotel
 		;Some Sherpas act as guides and porters for mountaineering expeditions.
 
@@ -1018,7 +1049,7 @@ pull in		<-->	phrasal verb+C1[-0]	.
 
 
 
-Pullman		<-->	noun+C2[-0]	./ˈpʊlmən/-NAmE /ˈpʊlmən/
+Pullman		<-->	noun+C2	[221116][001]	./ˈpʊlmən/-NAmE /ˈpʊlmən/
 	;xe lửa cao cấp -- a type of very comfortable coach on a train
 
 
@@ -1037,7 +1068,7 @@ pull out		<-->	phrasal verb+C1[-0]	.
 
 
 
-rail		<-->	noun+B2[-0]	./reɪl/-NAmE /reɪl/
+rail		<-->	noun+B2	[221116][001]	./reɪl/-NAmE /reɪl/
 	;thanh ray dọc đường sắt -- [countable, usually plural] each of the two metal bars that form the track that trains run on
 		;The train thundered along the rails.
 
@@ -1047,7 +1078,7 @@ rail		<-->	noun+B2[-0]	./reɪl/-NAmE /reɪl/
 
 
 
-railcar		<-->	noun+C1[-0]	./ˈreɪlkɑː(r)/-NAmE /ˈreɪlkɑːr/
+railcar		<-->	noun+C1	[221116][002]	./ˈreɪlkɑː(r)/-NAmE /ˈreɪlkɑːr/
 	;toa tàu -- ​a separate section of a train
 
 
@@ -1056,7 +1087,7 @@ railcar		<-->	noun+C1[-0]	./ˈreɪlkɑː(r)/-NAmE /ˈreɪlkɑːr/
 
 
 
-railcard		<-->	noun+C2[-0]	./ˈreɪlkɑːd/-NAmE /ˈreɪlkɑːrd/
+railcard		<-->	noun+C2	[221116][001]	./ˈreɪlkɑːd/-NAmE /ˈreɪlkɑːrd/
 	; thẻ đi xe lửa -- ​a card that allows somebody to travel by train at a reduced price
 		;a Young Person’s Railcard
 
@@ -1066,7 +1097,7 @@ railcard		<-->	noun+C2[-0]	./ˈreɪlkɑːd/-NAmE /ˈreɪlkɑːrd/
 
 
 
-railhead		<-->	noun+C2[-0]	./ˈreɪlhed/-NAmE /ˈreɪlhed/
+railhead		<-->	noun+C2	[221116][001]	./ˈreɪlhed/-NAmE /ˈreɪlhed/
 	;Ga xe -- the point at which a railway ends
 
 
@@ -1076,7 +1107,7 @@ railhead		<-->	noun+C2[-0]	./ˈreɪlhed/-NAmE /ˈreɪlhed/
 
 
 railroad		<-->	noun+B1[-0]	.
-railroad crossing		<-->	noun+B2[-0]	./ˈreɪlrəʊd krɒsɪŋ/-NAmE /ˈreɪlrəʊd krɔːsɪŋ/
+railroad crossing		<-->	noun+B2	[221116][001]	./ˈreɪlrəʊd krɒsɪŋ/-NAmE /ˈreɪlrəʊd krɔːsɪŋ/
 	;đường cắt xe lửa -- a place where a road crosses a railroad at the same level (not on a bridge)
 
 
@@ -1093,7 +1124,7 @@ railway		<-->	noun+A2[-0]	.
 
 
 
-rapid transit		<-->	noun+C1[-0]	./ˌræpɪd ˈtrænzɪt/-NAmE /ˌræpɪd ˈtrænzɪt/
+rapid transit		<-->	noun+C1	[221116][001]	./ˌræpɪd ˈtrænzɪt/-NAmE /ˌræpɪd ˈtrænzɪt/
 	;​hệ thống đường tốc hành -- [uncountable] (especially North American English) the system of fast public transport in cities, especially the subway
 
 
@@ -1102,7 +1133,7 @@ rapid transit		<-->	noun+C1[-0]	./ˌræpɪd ˈtrænzɪt/-NAmE /ˌræpɪd ˈtræn
 
 
 
-redcap		<-->	noun+C2[-0]	./ˈredkæp/-NAmE /ˈredkæp/
+redcap		<-->	noun+C2	[221116][001]	./ˈredkæp/-NAmE /ˈredkæp/
 	;người gác đường sắt  -- (North American English) a railway porter
 
 
@@ -1111,7 +1142,7 @@ redcap		<-->	noun+C2[-0]	./ˈredkæp/-NAmE /ˈredkæp/
 
 
 
-request stop		<-->	noun+C1[-0]	./rɪˈkwest stɒp/-NAmE /rɪˈkwest stɑːp/
+request stop		<-->	noun+C1	[221116][001]	./rɪˈkwest stɒp/-NAmE /rɪˈkwest stɑːp/
 	;trạm dừng -- a bus stop where buses stop only if somebody signals to the driver that they want the bus to stop
 
 
@@ -1120,7 +1151,7 @@ request stop		<-->	noun+C1[-0]	./rɪˈkwest stɒp/-NAmE /rɪˈkwest stɑːp/
 
 
 
-reservation		<-->	noun+B1[-0]	./ˌrezəˈveɪʃn/-NAmE /ˌrezərˈveɪʃn/
+reservation		<-->	noun+B1	[221116][001]	./ˌrezəˈveɪʃn/-NAmE /ˌrezərˈveɪʃn/
 	;sự đặt trước, giữ chỗ -- [countable] an arrangement for a seat on a plane or train, a room in a hotel, etc. to be kept for you
 
 
@@ -1129,7 +1160,7 @@ reservation		<-->	noun+B1[-0]	./ˌrezəˈveɪʃn/-NAmE /ˌrezərˈveɪʃn/
 
 
 
-restaurant car		<-->	noun+C1[-0]	./ˈrestrɒnt kɑː(r)/-NAmE /ˈrestrɑːnt kɑːr/,  /ˈrestərɑːnt kɑːr/
+restaurant car		<-->	noun+C1	[221116][001]	./ˈrestrɒnt kɑː(r)/-NAmE /ˈrestrɑːnt kɑːr/,  /ˈrestərɑːnt kɑːr/
 	;toa ăn uống -- a coach on a train in which meals are served ~ (also dining car British and North American English)
 
 
@@ -1138,7 +1169,7 @@ restaurant car		<-->	noun+C1[-0]	./ˈrestrɒnt kɑː(r)/-NAmE /ˈrestrɑːnt kɑ
 
 
 
-return		<-->	noun+B1[-0]	./rɪˈtɜːn/-NAmE /rɪˈtɜːrn/-\
+return		<-->	noun+B1	[221116][001]	./rɪˈtɜːn/-NAmE /rɪˈtɜːrn/-\
 	;vé khứ hồi -- [countable] a ticket for a journey to a place and back again
 
 
@@ -1147,7 +1178,7 @@ return		<-->	noun+B1[-0]	./rɪˈtɜːn/-NAmE /rɪˈtɜːrn/-\
 
 
 
-return ticket		<-->	noun+A2[-0]	./rɪˌtɜːn ˈtɪkɪt/-NAmE /rɪˌtɜːrn ˈtɪkɪt/
+return ticket		<-->	noun+A2	[221116][001]	./rɪˌtɜːn ˈtɪkɪt/-NAmE /rɪˌtɜːrn ˈtɪkɪt/
 
 
 
@@ -1155,7 +1186,7 @@ return ticket		<-->	noun+A2[-0]	./rɪˌtɜːn ˈtɪkɪt/-NAmE /rɪˌtɜːrn ˈt�
 
 
 
-rolling stock		<-->	noun+C2[-0]	./ˈrəʊlɪŋ stɒk/-NAmE /ˈrəʊlɪŋ stɑːk/
+rolling stock		<-->	noun+C2	[221116][002]	./ˈrəʊlɪŋ stɒk/-NAmE /ˈrəʊlɪŋ stɑːk/
 	;động cơ, toa kéo -- the engines, trains, etc. that are used on a railway
 		;The rail company is investing in new rolling stock.
 
@@ -1165,7 +1196,7 @@ rolling stock		<-->	noun+C2[-0]	./ˈrəʊlɪŋ stɒk/-NAmE /ˈrəʊlɪŋ stɑːk
 
 
 
-round trip		<-->	noun+B1[-0]	./ˌraʊnd ˈtrɪp/-NAmE /ˌraʊnd ˈtrɪp/
+round trip		<-->	noun+B1	[221116][001]	./ˌraʊnd ˈtrɪp/-NAmE /ˌraʊnd ˈtrɪp/
 	;du lịch khứ hồi -- a journey to a place and back again
 
 
@@ -1184,7 +1215,7 @@ round-trip		<-->	adjective+B1   /ˌraʊnd ˈtrɪp/-NAmE /ˌraʊnd ˈtrɪp/
 
 
 
-route		<-->	noun+A2[-0]	./ruːt/-NAmE /ruːt/,  /raʊt/\
+route		<-->	noun+A2	[221116][001]	./ruːt/-NAmE /ruːt/,  /raʊt/\
 	;hành trình -- a fixed way along which a bus, train, etc. regularly travels or goods are regularly sent
 		;Eventually, the main rail routes will be unable to carry any more trains.
 
@@ -1194,7 +1225,7 @@ route		<-->	noun+A2[-0]	./ruːt/-NAmE /ruːt/,  /raʊt/\
 
 
 
-run		<--> verb+B1[-0]	./rʌn/-NAmE /rʌn/
+run		<--> verb+B1	[221116][001]	./rʌn/-NAmE /rʌn/
 	;du lịch, du hành, chạy với hành trình cụ thể -- [intransitive] to travel on a particular route
 		;Buses to Oxford run every half hour.
 
@@ -1204,7 +1235,7 @@ run		<--> verb+B1[-0]	./rʌn/-NAmE /rʌn/
 
 
 
-schedule		<-->	noun+A2[-0]	./ˈʃedjuːl/-NAmE /ˈskedʒuːl/\
+schedule		<-->	noun+A2	[221116][001]	./ˈʃedjuːl/-NAmE /ˈskedʒuːl/\
 	;lịch trình -- [countable] a chart showing the times at which trains, buses and planes leave and arrive
 		;Connor checked the bus schedules for the day.
 
@@ -1214,7 +1245,7 @@ schedule		<-->	noun+A2[-0]	./ˈʃedjuːl/-NAmE /ˈskedʒuːl/\
 
 
 
-season ticket		<-->	noun+C1[-0]	./ˈsiːzn tɪkɪt/-NAmE /ˈsiːzn tɪkɪt/+\
+season ticket		<-->	noun+C1	[221116][001]	./ˈsiːzn tɪkɪt/-NAmE /ˈsiːzn tɪkɪt/+\
 	;vé mùa -- a ticket that you can use many times within a particular period, for example on a regular train or bus journey, or for a series of sports games at a particular stadium, and that costs less than paying separately each time
 		;a season ticket holder
 
@@ -1224,7 +1255,7 @@ season ticket		<-->	noun+C1[-0]	./ˈsiːzn tɪkɪt/-NAmE /ˈsiːzn tɪkɪt/+\
 
 
 
-seat		<-->	noun+A2[-0]	./siːt/-NAmE /siːt/\
+seat		<-->	noun+A2	[221116][001]	./siːt/-NAmE /siːt/\
 	;in plane/train/theatre
 	;chỗ ngồi -- a place where you pay to sit in a plane, train, theatre, etc.
 		;Call the theatre box office to book your seats.
@@ -1235,7 +1266,7 @@ seat		<-->	noun+A2[-0]	./siːt/-NAmE /siːt/\
 
 
 
-second class		<-->	noun+B1[-0]	./ˌsekənd ˈklɑːs/-NAmE /ˌsekənd ˈklæs/
+second class		<-->	noun+B1	[221116][001]	./ˌsekənd ˈklɑːs/-NAmE /ˌsekənd ˈklæs/
 	;hạng hai -- [uncountable] a way of travelling on a train or ship that costs less and is less comfortable than first class. In the UK this is now usually called standard class.
 
 
@@ -1256,7 +1287,7 @@ service		<-->	noun+B2   /ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
 
 
 
-shunt		<-->	verb+C2[-0]	./ʃʌnt/-NAmE /ʃʌnt/
+shunt		<-->	verb+C2	[221116][001]	./ʃʌnt/-NAmE /ʃʌnt/
 	;chuyển đường -- shunt something: to move a train or a coach of a train from one track to another
 
 
@@ -1276,7 +1307,7 @@ shuttle		<-->	noun+C1[-0]	.
 
 
 
-siding		<-->	noun+C2[-0]	./ˈsaɪdɪŋ/-NAmE /ˈsaɪdɪŋ/
+siding		<-->	noun+C2	[221116][001]	./ˈsaɪdɪŋ/-NAmE /ˈsaɪdɪŋ/
 	;một đoạn đường rail để tránh va chạm -- [countable] a short track next to a main railway line, where trains can stand when they are not being used
 
 
@@ -1294,7 +1325,7 @@ signal box		<-->	noun+C2[-0]	.
 
 
 
-signaller		<-->	noun+C2[-0]	./ˈsɪɡnələ(r)/-NAmE /ˈsɪɡnələr/
+signaller		<-->	noun+C2	[221116][001]	./ˈsɪɡnələ(r)/-NAmE /ˈsɪɡnələr/
 	;người phục vụ đường sắt -- a person whose job is operating signals on a railway
 
 
@@ -1303,7 +1334,7 @@ signaller		<-->	noun+C2[-0]	./ˈsɪɡnələ(r)/-NAmE /ˈsɪɡnələr/
 
 
 
-signalman		<-->	noun+C2[-0]	./ˈsɪɡnəlmən/-NAmE /ˈsɪɡnəlmən/
+signalman		<-->	noun+C2	[221116][001]	./ˈsɪɡnəlmən/-NAmE /ˈsɪɡnəlmən/
 	; -- ~ signaller
 
 
@@ -1320,7 +1351,7 @@ single		<-->	adjective+A2[-0]	.
 
 
 
-single		<-->	noun+A2[-0]	./ˈsɪŋɡl/-NAmE /ˈsɪŋɡl/-\
+single		<-->	noun+A2	[221116][001]	./ˈsɪŋɡl/-NAmE /ˈsɪŋɡl/-\
 	;vé một chiều --  [countable] (British English) a ticket that allows you to travel to a place but not back again
 		;How much is a single to York?
 
@@ -1330,7 +1361,7 @@ single		<-->	noun+A2[-0]	./ˈsɪŋɡl/-NAmE /ˈsɪŋɡl/-\
 
 
 
-single-decker		<-->	noun+C1[-0]	./ˌsɪŋɡl ˈdekə(r)/-NAmE /ˌsɪŋɡl ˈdekər/ [IMAGE]-Buses
+single-decker		<-->	noun+C1	[221116][001]	./ˌsɪŋɡl ˈdekə(r)/-NAmE /ˌsɪŋɡl ˈdekər/ [IMAGE]-Buses
 	;xe bus một tầng -- a bus with only one level
 
 
@@ -1349,7 +1380,7 @@ sleeper		<-->	noun+C2   /ˈsliːpə(r)/-NAmE /ˈsliːpər/
 
 
 
-sleeping car		<-->	noun+C1[-0]	./ˈsliːpɪŋ kɑː(r)/-NAmE /ˈsliːpɪŋ kɑːr/
+sleeping car		<-->	noun+C1	[221116][001]	./ˈsliːpɪŋ kɑː(r)/-NAmE /ˈsliːpɪŋ kɑːr/
 	;xe giường nằm -- a coach on a train with beds for people to sleep in
 
 
@@ -1367,7 +1398,7 @@ spur		<-->	noun+C2   /spɜː(r)/\-NAmE /spɜːr/
 
 
 
-station		<-->	noun+A1[-0]	./ˈsteɪʃn/ -NAmE /ˈsteɪʃn/\
+station		<-->	noun+A1	[221116][001]	./ˈsteɪʃn/ -NAmE /ˈsteɪʃn/\
 	;trạm -- a place where trains stop so that passengers can get on and off; the buildings connected with this
 		;the main station
 
@@ -1377,7 +1408,7 @@ station		<-->	noun+A1[-0]	./ˈsteɪʃn/ -NAmE /ˈsteɪʃn/\
 
 
 
-station agent		<-->	noun+C2[-0]	./ˈsteɪʃn eɪdʒənt/ -NAmE /ˈsteɪʃn eɪdʒənt/+\
+station agent		<-->	noun+C2	[221116][001]	./ˈsteɪʃn eɪdʒənt/ -NAmE /ˈsteɪʃn eɪdʒənt/+\
 	;nhân viên ở trạm -- a person in charge of a train station
 
 
@@ -1386,7 +1417,7 @@ station agent		<-->	noun+C2[-0]	./ˈsteɪʃn eɪdʒənt/ -NAmE /ˈsteɪʃn eɪd�
 
 
 
-stationmaster		<-->	noun+C2[-0]	./ˈsteɪʃnmɑːstə(r)/ -NAmE /ˈsteɪʃnmæstər/+\
+stationmaster		<-->	noun+C2	[221116][001]	./ˈsteɪʃnmɑːstə(r)/ -NAmE /ˈsteɪʃnmæstər/+\
 	;nhân viên ở trạm -- (US English also station agent) , a person in charge of a train station
 
 
@@ -1395,7 +1426,7 @@ stationmaster		<-->	noun+C2[-0]	./ˈsteɪʃnmɑːstə(r)/ -NAmE /ˈsteɪʃnmæst
 
 
 
-stop		<-->	noun+A1[-0]	./stɒp/ -NAmE /stɑːp/
+stop		<-->	noun+A1	[221116][001]	./stɒp/ -NAmE /stɑːp/
 	;trạm -- a place where a bus or train stops regularly for passengers to get on or off
 		;I get off at the next stop.
 
@@ -1414,7 +1445,7 @@ stopping train		<-->	noun+B1   /ˈstɒpɪŋ treɪn/ -NAmE /ˈstɑːpɪŋ treɪn/
 
 
 
-subway		<-->	noun+A2[-0]	./ˈsʌbweɪ/ -NAmE /ˈsʌbweɪ/+\ [IMAGE]Trains
+subway		<-->	noun+A2	[221116][001]	./ˈsʌbweɪ/ -NAmE /ˈsʌbweɪ/+\ [IMAGE]Trains
 	;đường sắt ngầm -- (North American English) an underground railway system in a city
 
 
@@ -1432,7 +1463,7 @@ switch		<-->	noun+C2   /swɪtʃ/ -NAmE /swɪtʃ/
 
 
 
-switchback		<-->	noun+C2[-0]	./ˈswɪtʃbæk/ -NAmE /ˈswɪtʃbæk/
+switchback		<-->	noun+C2	[221116][001]	./ˈswɪtʃbæk/ -NAmE /ˈswɪtʃbæk/
 	;? -- a road or railway track that has many sharp bends as it goes up a steep hill, or one that rises and falls steeply many times
 
 
@@ -1441,7 +1472,7 @@ switchback		<-->	noun+C2[-0]	./ˈswɪtʃbæk/ -NAmE /ˈswɪtʃbæk/
 
 
 
-take		<--> verb+A1[-0]	./teɪk/ -NAmE /teɪk/
+take		<--> verb+A1	[221116][001]	./teɪk/ -NAmE /teɪk/
 	;sử dụng -- [transitive] take something: to use a form of transport, a road, a path, etc. to go to a place
 		;to take a cab/plane
 
@@ -1471,7 +1502,7 @@ terminal		<-->	noun+B2[-0]	.
 
 
 
-terminate		<-->	verb+C2[-0]	./ˈtɜːmɪneɪt/ -NAmE /ˈtɜːrmɪneɪt/
+terminate		<-->	verb+C2	[221116][001]	./ˈtɜːmɪneɪt/ -NAmE /ˈtɜːrmɪneɪt/
 	;dừng lại, kết thúc -- [intransitive] (of a bus or train) to end a journey
 		;This train terminates at London Victoria.
 
@@ -1481,7 +1512,7 @@ terminate		<-->	verb+C2[-0]	./ˈtɜːmɪneɪt/ -NAmE /ˈtɜːrmɪneɪt/
 
 
 
-terminus		<-->	noun+C2[-0]	./ˈtɜːmɪnəs/ -NAmE /ˈtɜːrmɪnəs/
+terminus		<-->	noun+C2	[221116][001]	./ˈtɜːmɪnəs/ -NAmE /ˈtɜːrmɪnəs/
 	;trạm cuối -- ​the last station at the end of a railway line or the last stop on a bus route
 		;It's the terminus for trains from the north.
 
@@ -1501,7 +1532,7 @@ third class		<-->	adverb+B1   /ˌθɜːd ˈklɑːs/ -NAmE /ˌθɜːrd ˈklæs/+\
 
 
 
-through		<-->	adverb+A2[-0]	./θruː/ -NAmE /θruː/-\
+through		<-->	adverb+A2	[221116][001]	./θruː/ -NAmE /θruː/-\
 	; không dừng -- travelling through a place without stopping or without people having to get off one train and onto another
 
 
@@ -1510,7 +1541,7 @@ through		<-->	adverb+A2[-0]	./θruː/ -NAmE /θruː/-\
 
 
 
-through		<-->	adjective+B2[-0]	./θruː/ -NAmE /θruː/-\
+through		<-->	adjective+B2	[221116][001]	./θruː/ -NAmE /θruː/-\
 	;không dừng -- ​[only before noun] through traffic travels from one side of a place to the other without stopping
 
 
@@ -1519,7 +1550,7 @@ through		<-->	adjective+B2[-0]	./θruː/ -NAmE /θruː/-\
 
 
 
-ticket		<-->	noun+A1[-0]	./ˈtɪkɪt/ -NAmE /ˈtɪkɪt/\
+ticket		<-->	noun+A1	[221116][001]	./ˈtɪkɪt/ -NAmE /ˈtɪkɪt/\
 	;vé -- a printed piece of paper, or a message or image received on your phone or computer, that gives you the right to travel on a particular bus, train, etc. or to go into a theatre, etc.
 		;a plane/bus/train ticket
 
@@ -1529,7 +1560,7 @@ ticket		<-->	noun+A1[-0]	./ˈtɪkɪt/ -NAmE /ˈtɪkɪt/\
 
 
 
-tie		<-->	noun+C2[-0]	./taɪ/ -NAmE /taɪ/\
+tie		<-->	noun+C2	[221116][001]	./taɪ/ -NAmE /taɪ/\
 	;mấu sắt  -- on railway, (North American English) , one of the heavy pieces of wood or concrete on which the rails (= metal bars) on a railway track are laid
 
 
@@ -1538,7 +1569,7 @@ tie		<-->	noun+C2[-0]	./taɪ/ -NAmE /taɪ/\
 
 
 
-timetable		<-->	noun+A2[-0]	./ˈtaɪmteɪbl/ -NAmE /ˈtaɪmteɪbl/
+timetable		<-->	noun+A2	[221116][001]	./ˈtaɪmteɪbl/ -NAmE /ˈtaɪmteɪbl/
 	;lịch trình -- a chart showing the times at which trains, buses and planes leave and arrive
 		;a bus/train timetable
 
@@ -1558,7 +1589,7 @@ track		<-->	noun+A2   /træk/ -NAmE /træk/\
 
 
 
-train		<-->	noun+A1[-0]	./treɪn/ -NAmE /treɪn/\
+train		<-->	noun+A1	[221116][001]	./treɪn/ -NAmE /treɪn/\
 	;xe lửa -- a number of connected coaches or trucks, pulled by an engine or powered by a motor in each one, taking people and goods from one place to another
 		;to get on/off a train
 		; by train: I like travelling by train.
@@ -1569,7 +1600,7 @@ train		<-->	noun+A1[-0]	./treɪn/ -NAmE /treɪn/\
 
 
 
-trainman		<-->	noun+C2[-0]	./ˈtreɪnmən/+\ -NAmE /ˈtreɪnmən/=
+trainman		<-->	noun+C2	[221116][001]	./ˈtreɪnmən/+\ -NAmE /ˈtreɪnmən/=
 	;nhân viêb xe lửa -- a member of the team of people operating a train
 
 
@@ -1578,7 +1609,7 @@ trainman		<-->	noun+C2[-0]	./ˈtreɪnmən/+\ -NAmE /ˈtreɪnmən/=
 
 
 
-trainspotter		<-->	noun+C2[-0]	./ˈtreɪnspɒtə(r)/+\ -NAmE /ˈtreɪnspɑːtər/=
+trainspotter		<-->	noun+C2	[221116][001]	./ˈtreɪnspɒtə(r)/+\ -NAmE /ˈtreɪnspɑːtər/=
 	;người suy tầm động cơ xe lửa -- a person who collects the numbers of railway engines as a hobby
 
 
@@ -1587,7 +1618,7 @@ trainspotter		<-->	noun+C2[-0]	./ˈtreɪnspɒtə(r)/+\ -NAmE /ˈtreɪnspɑːtər
 
 
 
-transfer		<-->	noun+C1[-0]	./trænsˈfɜː(r)/ -NAmE /trænsˈfɜːr/\
+transfer		<-->	noun+C1	[221116][001]	./trænsˈfɜː(r)/ -NAmE /trænsˈfɜːr/\
 	;vé -- [countable] (North American English) a ticket that allows a passenger to continue their journey on another bus or train
 
 
@@ -1596,7 +1627,7 @@ transfer		<-->	noun+C1[-0]	./trænsˈfɜː(r)/ -NAmE /trænsˈfɜːr/\
 
 
 
-transit		<-->	noun+C1[-0]	./ˈtrænzɪt/ -NAmE /ˈtrænzɪt/\
+transit		<-->	noun+C1	[221116][001]	./ˈtrænzɪt/ -NAmE /ˈtrænzɪt/\
 	;hệ thống giao thông đường bộ như bus, train, ... -- [uncountable] (North American English) the system of buses, trains, etc. that people use to travel from one place to another
 		;the city’s mass/public transit system
 
@@ -1606,7 +1637,7 @@ transit		<-->	noun+C1[-0]	./ˈtrænzɪt/ -NAmE /ˈtrænzɪt/\
 
 
 
-truck		<-->	noun+B1[-0]	./trʌk/ -NAmE /trʌk/\
+truck		<-->	noun+B1	[221116][001]	./trʌk/ -NAmE /trʌk/\
 	;phương tiện dường sắt để chở hàng hoá hay súc vật  -- an open railway vehicle for carrying goods or animals
 		;a cattle truck
 
@@ -1616,7 +1647,7 @@ truck		<-->	noun+B1[-0]	./trʌk/ -NAmE /trʌk/\
 
 
 
-tube		<-->	noun+C2[-0]	./tjuːb/ -NAmE /tuːb/
+tube		<-->	noun+C2	[221116][001]	./tjuːb/ -NAmE /tuːb/
 	;hệ thống đường sắt ngầm London -- (also The Tube™) [singular] (British English) the underground railway system in London
 		; on the tube: I often travel on the tube
 
@@ -1626,7 +1657,7 @@ tube		<-->	noun+C2[-0]	./tjuːb/ -NAmE /tuːb/
 
 
 
-tunnel		<-->	noun+B2[-0]	./ˈtʌnl/ -NAmE /ˈtʌnl/\
+tunnel		<-->	noun+B2	[221116][001]	./ˈtʌnl/ -NAmE /ˈtʌnl/\
 	;đường hầm --  a passage built underground, for example to allow a road or railway to go through a hill, under a river, etc.
 		;a railway/railroad tunnel
 
@@ -1636,7 +1667,7 @@ tunnel		<-->	noun+B2[-0]	./ˈtʌnl/ -NAmE /ˈtʌnl/\
 
 
 
-uncouple		<-->	verb+C2[-0]	./ˌʌnˈkʌpl/ -NAmE /ˌʌnˈkʌpl/
+uncouple		<-->	verb+C2	[221116][001]	./ˌʌnˈkʌpl/ -NAmE /ˌʌnˈkʌpl/
 	;tháo rời -- uncouple something (from something) to remove the connection between two vehicles, two parts of a train, etc.
 		;To uncouple the trailer from the car, press the ‘release’ button and lift.
 
@@ -1646,7 +1677,7 @@ uncouple		<-->	verb+C2[-0]	./ˌʌnˈkʌpl/ -NAmE /ˌʌnˈkʌpl/
 
 
 
-underground		<-->	noun+A2[-0]	./ˌʌndəˈɡraʊnd/ -NAmE /ˌʌndərˈɡraʊnd/-\
+underground		<-->	noun+A2	[221116][001]	./ˌʌndəˈɡraʊnd/ -NAmE /ˌʌndərˈɡraʊnd/-\
 	;đường sắt ngầm -- [singular] an underground railway system in a city
 		;the London Underground
 
@@ -1656,7 +1687,7 @@ underground		<-->	noun+A2[-0]	./ˌʌndəˈɡraʊnd/ -NAmE /ˌʌndərˈɡraʊnd/-
 
 
 
-underpass		<-->	noun+C2[-0]	./ˈʌndəpɑːs/ -NAmE /ˈʌndərpæs/
+underpass		<-->	noun+C2	[221116][001]	./ˈʌndəpɑːs/ -NAmE /ˈʌndərpæs/
 	;sự chui qua một con đường  khác -- a road or path that goes under another road or railway track
 
 
@@ -1665,7 +1696,7 @@ underpass		<-->	noun+C2[-0]	./ˈʌndəpɑːs/ -NAmE /ˈʌndərpæs/
 
 
 
-van		<-->	noun+C1[-0]	./væn/ -NAmE /væn/
+van		<-->	noun+C1	[221116][001]	./væn/ -NAmE /væn/
 	;toa hành lý xe lửa -- (British English) a closed coach on a train for carrying bags, cases, etc. or mail
 		;a luggage van
 
@@ -1675,8 +1706,8 @@ van		<-->	noun+C1[-0]	./væn/ -NAmE /væn/
 
 
 
-vestibule		<-->	noun+C2[-0]	./ˈvestɪbjuːl/ -NAmE /ˈvestɪbjuːl/
-	; cuối một toa tàu -- (specialist) a space at the end of a coach on a train that connects it with the next coach
+vestibule		<-->	noun+C2	[221116][002]	./ˈvestɪbjuːl/ -NAmE /ˈvestɪbjuːl/
+	;cuối một toa tàu -- (specialist) a space at the end of a coach on a train that connects it with the next coach
 
 
 
@@ -1684,7 +1715,7 @@ vestibule		<-->	noun+C2[-0]	./ˈvestɪbjuːl/ -NAmE /ˈvestɪbjuːl/
 
 
 
-viaduct		<-->	noun+C2[-0]	./ˈvaɪədʌkt/ -NAmE /ˈvaɪədʌkt/ [IMAGE]-Bridges
+viaduct		<-->	noun+C2	[221116][002]	./ˈvaɪədʌkt/ -NAmE /ˈvaɪədʌkt/ [IMAGE]-Bridges
 	;cầu - a long, high bridge, usually with arches, that carries a road or railway across a river or valley
 		;A train was crossing the viaduct.
 
@@ -1694,9 +1725,20 @@ viaduct		<-->	noun+C2[-0]	./ˈvaɪədʌkt/ -NAmE /ˈvaɪədʌkt/ [IMAGE]-Bridges
 
 
 
-wagon		<-->	noun+C1[-0]	./ˈwæɡən/ -NAmE /ˈwæɡən/
-	;tàu/toa chở hàng -- a railway truck for carrying goods
+wagon		<-->	noun+C1	[221116][002]	./ˈwæɡən/ -NAmE /ˈwæɡən/
+	;tàu/toa chở hàng -- (1) ​enlarge image(British English) (North American English freight car) a railway truck for carrying goods
 		;He tried to hide in a container wagon.
+		;The statue was transported on a railway wagon.
+		;Extra Examples:
+		;a long train of supply wagons
+		;Dust rose from a wagon train.
+		;TOPICS Transport by bus and trainC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;railrailwaycoal…
+				;verb + wagon
+				;pull
+		;See full entry
 
 
 
@@ -1704,7 +1746,7 @@ wagon		<-->	noun+C1[-0]	./ˈwæɡən/ -NAmE /ˈwæɡən/
 
 
 
-waiting room		<-->	noun+A2[-0]	./ˈweɪtɪŋ ruːm/,  /ˈweɪtɪŋ rʊm/ -NAmE /ˈweɪtɪŋ ruːm/,  /ˈweɪtɪŋ rʊm/
+waiting room		<-->	noun+A2	[221116][001]	./ˈweɪtɪŋ ruːm/,  /ˈweɪtɪŋ rʊm/ -NAmE /ˈweɪtɪŋ ruːm/,  /ˈweɪtɪŋ rʊm/
 
 
 
@@ -1712,7 +1754,7 @@ waiting room		<-->	noun+A2[-0]	./ˈweɪtɪŋ ruːm/,  /ˈweɪtɪŋ rʊm/ -NAmE /
 
 
 
-whistle		<-->	noun+B2[-0]	./ˈwɪsl/ -NAmE /ˈwɪsl/\
+whistle		<-->	noun+B2	[221116][001]	./ˈwɪsl/ -NAmE /ˈwɪsl/\
 	;kèn -- a piece of equipment that makes a loud, high sound when air or steam is forced through it	
 		;The train whistle blew as we left the station.
 
@@ -1722,5 +1764,5 @@ whistle		<-->	noun+B2[-0]	./ˈwɪsl/ -NAmE /ˈwɪsl/\
 
 
 
-window seat		<-->	noun+B1[-0]	./ˈwɪndəʊ siːt/ -NAmE /ˈwɪndəʊ siːt/
+window seat		<-->	noun+B1	[221116][001]	./ˈwɪndəʊ siːt/ -NAmE /ˈwɪndəʊ siːt/
 	;ghế cạnh cửa sổ -- a seat next to a window in a plane, train or other vehicle

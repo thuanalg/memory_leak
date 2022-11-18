@@ -649,6 +649,24 @@ lever		<-->	noun+C1	[221028][1]	./ˈliːvə(r)/-NAmE /ˈlevər/
 ​	;đòn bẫy -- a handle used to operate a vehicle or a machine
 		;Pull the lever towards you to adjust the speed.
 		;SEE ALSO gear lever
+		;Extra Examples:
+		;He threw a lever and the engines roared to life.
+		;Set all three levers to the 0 position.
+		;The machine is operated by means of a lever.
+		;The machine will stop immediately once the lever is released.
+		;To release the brake, pull the lever towards you.
+		;When the lever is operated, the machine sews backwards.
+		;TOPICS EngineeringC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;brakecontrolgear…
+				;verb + lever
+				;movepresspull…
+				;preposition
+				;by a leverby means of a lever
+				;phrases
+				;the position of the lever
+		;See full entry
 
 
 live		<-->	adjective+C1	[221028][1]	./laɪv/-NAmE /laɪv/
@@ -670,7 +688,7 @@ machine		<-->	noun+A1	[221028][1]	./məˈʃiːn/-NAmE /məˈʃiːn/
 		;SEE ALSO answering machine, cash machine, coffee machine, drum machine, flying machine, fruit machine, gaming machine, kidney machine, rowing machine, sewing machine, slot machine, time machine, vending machine, voting machine, war machine (2), wave machine, wind machine
 
 
-machine		<-->	verb+C2	[220821][1]	./məˈʃiːn/-NAmE /məˈʃiːn/
+machine		<-->	verb+C2	[220821][2]	./məˈʃiːn/-NAmE /məˈʃiːn/\ [transitive, intransitive] (specialist) 
 	;chế tạo bằng máy -- [transitive, intransitive] (specialist) machine (something) to make or shape something with a machine
 		;This material can be cut and machined easily.
 
@@ -681,23 +699,29 @@ machine-made		<-->	adjective+B2	[221028][1]	./məˌʃiːn ˈmeɪd/-NAmE /məˌʃ
 		;TOPICS EngineeringB2
 
 
-machinery		<-->	noun+C1	[221028][1]	./məˈʃiːnəri/-NAmE /məˈʃiːnəri/
-​	;máy móc -- [uncountable] machines as a group, especially large ones
-		;agricultural/industrial machinery
-		;a piece of machinery
-		;Extra Examples
-		;TOPICS BusinessC1, EngineeringC1
+machinery		<-->	noun+C1	[221028][2]	./cef/
+​
 
 
 machine tool		<-->	noun+C1	[221028][1]	./məˈʃiːn tuːl/-NAmE /məˈʃiːn tuːl/
 ​	;máy công cụ -- a tool for cutting or shaping metal, wood, etc., driven by a machine
 
 
-magnify		<-->	verb+C1	[220821][1]	./ˈmæɡnɪfaɪ/-NAmE /ˈmæɡnɪfaɪ/
-	;phóng đại -- ​magnify something (to/by something) to make something look bigger than it really is, for example by using a lens or microscope ~ SYNONYM enlarge
+magnify		<-->	verb+C1	[220821][2]	./ˈmæɡnɪfaɪ/-NAmE /ˈmæɡnɪfaɪ/
+	;phóng đại -- ​magnify something (to/by something) to make something look bigger than it really is, for example by using a lens or microscope
+		;SYNONYM enlarge
 		;bacteria magnified to 1 000 times their actual size
 		;an image magnified by a factor of 4
 		;The picture shows the insect’s head magnified ten times.
+		;TOPICS EngineeringC1
+				;Oxford Collocations Dictionary
+				;adverb
+				;greatlyhighly
+				;phrases
+				;magnify something 50, 100, etc. times
+		;See full entry
+
+
 
 
 mechanical		<-->	adjective+B2	[221028][1]	./məˈkænɪkl/-NAmE /məˈkænɪkl/
@@ -826,26 +850,27 @@ prototype		<-->	noun+C1	[221028][1]	./ˈprəʊtətaɪp/-NAmE /ˈprəʊtətaɪp/
 	;giao thức -- prototype (for/of something) the first design of something from which other forms are copied or developed
 		;the prototype of the modern bicycle
 		;Scientists have developed a working prototype for the machine.
-		;Extra Examples
+		;Extra Examples:
+		;The car is presently at the prototype stage.
+		;They created an early prototype using this software.
+		;We have a working prototype that is ready to demonstrate.
+		;TOPICS EngineeringC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;earlyworkingpre-production…
+				;verb + prototype
+				;buildcreatedevelop…
+				;prototype + noun
+				;stage
+				;preposition
+				;prototype forprototype of
+		;See full entry
 
 
-pump		<-->	verb+C1	[220821][1]	./pʌmp/-NAmE /pʌmp/
-	;bơm -- [transitive] to make water, air, gas, etc. flow in a particular direction by using a pump or something that works like a pump
-		;pump something (+ adv./prep.) The engine is used for pumping water out of the mine.
-		;The heart pumps blood around the body.
-		;It took ages to pump out the cellar (= pump the water out of it) after the flood.
-		;pump something + adj. The lake had been pumped dry.
-		;Extra Examples
+pump		<-->	verb+C1	[220821][2]	./cef/
 
 
-pump		<-->	noun+C1	[221028][1]	./pʌmp/-NAmE /pʌmp/\ [IMAGE]-Cycles
-	;cái bơm -- a machine that is used to force liquid, gas or air into or out of something
-		;(British English) a petrol pump
-		;(North American English) a gas pump
-		;a foot/hand pump (= that you work by using your foot or hand)
-		;a bicycle pump
-		;She washed her face at the pump in front of the inn.
-		;SEE ALSO air pump, breast pump, heat pump, stomach pump
+pump		<-->	noun+C1	[221028][2]	./cef/
 
 
 relay		<-->	noun+C2	[221028][1]	./ˈriːleɪ/-NAmE /ˈriːleɪ/
@@ -859,7 +884,7 @@ rewire		<-->	verb+C2	[220821][1]	./ˌriːˈwaɪə(r)/-NAmE /ˌriːˈwaɪər/
 		;TOPICS BuildingsC2
 
 
-rivet		<-->	noun+C2	[221028][1]	./ˈrɪvɪt/-NAmE /ˈrɪvɪt/
+rivet		<-->	noun+C2	[221028][2]	./ˈrɪvɪt/-NAmE /ˈrɪvɪt/
 ​	;đinh tán -- a metal pin that is used to fasten two pieces of leather, metal, etc. together
 
 
@@ -871,7 +896,7 @@ robot		<-->	noun+B1	[221028][1]	./ˈrəʊbɒt/-NAmE /ˈrəʊbɑːt/
 
 
 robotics		<-->	noun+C1	[221028][1]	./rəʊˈbɒtɪks/-NAmE /rəʊˈbɑːtɪks/
-	;ngành robot hoc -- [uncountable] ​the science of designing and operating robots
+	;ngành robot học -- [uncountable] ​the science of designing and operating robots
 
 
 roller		<-->	noun+C2	[221028][1]	./ˈrəʊlə(r)/-NAmE /ˈrəʊlər/ [IMAGE]-Roller
@@ -903,7 +928,7 @@ running repairs		<-->	noun+C2	[221028][1]	./ˌrʌnɪŋ rɪˈpeəz/-NAmE /ˌrʌn�
 
 
 safety valve		<-->	noun+C2	[221028][1]	./ˈseɪfti vælv/-NAmE /ˈseɪfti vælv/
-​	;van an toàn -- a device that lets out steam or pressure in a machine when it becomes too great
+	;van an toàn -- a device that lets out steam or pressure in a machine when it becomes too great
 
 
 screw		<-->	verb+C1	[220821][1]	./skruː/-NAmE /skruː/

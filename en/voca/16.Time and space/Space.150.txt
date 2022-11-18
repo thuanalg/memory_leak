@@ -1,10 +1,10 @@
-	2022-05-08; Thu, 2022-06-30
+2022-05-08; Thu, 2022-06-30
 
 aerospace		<-->	noun+C1	[220829][1]	./ˈeərəʊspeɪs/-NAmE /ˈerəʊspeɪs/
 	;ngành hàng không vũ trụ -- [uncountable] the industry of building aircraft, vehicles and equipment to be sent into space
 		;jobs in aerospace and defence
 		;the aerospace industry
-		;TOPICS SpaceC1, Transport by airC1[-0]	.
+		;TOPICS SpaceC1, Transport by airC1
 				;Oxford Collocations Dictionary
 				;Aerospace is used before these nouns:
 				;engineerengineeringindustry…
@@ -13,10 +13,10 @@ aerospace		<-->	noun+C1	[220829][1]	./ˈeərəʊspeɪs/-NAmE /ˈerəʊspeɪs/
 
 
 alien		<-->	noun+B2	[220829][1]	./ˈeɪliən/-NAmE /ˈeɪliən/
-	;sinh vật ngoài hành tinh -- a creature from another world
+	;sinh vật ngoài hành tinh -- (1) a creature from another world
 		;aliens from outer space
 		;Extra Examples
-		;TOPICS SpaceB2[-0]	.
+		;TOPICS SpaceB2
 				;Oxford Collocations Dictionary
 				;adjective
 				;space, giant, intelligent…
@@ -28,7 +28,7 @@ alien		<-->	noun+B2	[220829][1]	./ˈeɪliən/-NAmE /ˈeɪliən/
 alien		<-->	adjective+C1	[220829][1]	./ˈeɪliən/-NAmE /ˈeɪliən/
 	;(tt) sinh vật ngoài hành tinh -- connected with creatures from another world
 		;alien beings from outer space
-		;TOPICS SpaceC1[-0]	.
+		;TOPICS SpaceC1
 
 
 
@@ -36,10 +36,10 @@ alien		<-->	adjective+C1	[220829][1]	./ˈeɪliən/-NAmE /ˈeɪliən/
 
 
 asteroid		<-->	noun+B2	[220829][1]	./ˈæstərɔɪd/-NAmE /ˈæstərɔɪd/
-	;các tiểu hành tinh -- == (1) ​any one of the many small planets that go around the sun
+	;các tiểu hành tinh -- (1) ​any one of the many small planets that go around the sun
 		;Wordfinder: asteroidastronomycometconstellationcosmicgalaxymeteoriteorbitspacethe universe
 		;Wordfinder: asteroid, astronomy, comet, constellation, cosmic. galaxy, meteorite, orbit, space, the universe
-		;TOPICS SpaceB2[-0]	.
+		;TOPICS SpaceB2
 				;Oxford Collocations Dictionary
 				;Asteroid is used before these nouns:
 				;impact
@@ -48,8 +48,8 @@ asteroid		<-->	noun+B2	[220829][1]	./ˈæstərɔɪd/-NAmE /ˈæstərɔɪd/
 
 
 astrobiologist		<-->	noun+C1	[220829][1]	./ˌæstrəʊbaɪˈɒlədʒɪst/-NAmE /ˌæstrəʊbaɪˈɑːlədʒɪst/
-​	;nhà nghiên cứu các hành tinh -- == (1) a scientist who studies life on other planets
-		;TOPICS SpaceC1[-0]	.
+​	;nhà nghiên cứu các hành tinh --  (1) a scientist who studies life on other planets
+		;TOPICS SpaceC1
 
 
 
@@ -58,8 +58,8 @@ astrobiologist		<-->	noun+C1	[220829][1]	./ˌæstrəʊbaɪˈɒlədʒɪst/-NAmE /
 
 
 astrobiology		<-->	noun+C1	[220829][1]	./ˌæstrəʊbaɪˈɒlədʒi/-NAmE /ˌæstrəʊbaɪˈɑːlədʒi/ [uncountable]
-​	;khoa/ngành hành tinh học -- == (1) the scientific study of life on other planets
-		;TOPICS SpaceC1[-0]	.
+​	;khoa/ngành hành tinh học -- (1) the scientific study of life on other planets
+		;TOPICS SpaceC1
 
 
 
@@ -72,7 +72,7 @@ astronaut		<-->	noun+B1	[220829][1]	./ˈæstrənɔːt/-NAmE /ˈæstrənɔːt/
 		;sending astronauts into space
 		;Wordfinder: astronautcountdowndocklaunchmissionorbitrocketsatellitespaceweightless
 		;Wordfinder: astronaut, countdown, dock, launch, mission, orbit, rocket, satellite, space, weightless
-		;TOPICS SpaceB1, JobsB1[-0]	.
+		;TOPICS SpaceB1, JobsB1
 
 
 
@@ -84,7 +84,7 @@ astronomer		<-->	noun+B2	[220829][1]	./əˈstrɒnəmə(r)/-NAmE /əˈstrɑːnəm
 ​	;nhà khoa học vũ trụ -- a scientist who studies astronomy
 		;Astronomers all over the world will be observing the eclipse.
 		;Astronomers continue to discover new stars.
-		;TOPICS SpaceB2[-0]	.
+		;TOPICS SpaceB2
 
 
 
@@ -95,7 +95,7 @@ astronomer		<-->	noun+B2	[220829][1]	./əˈstrɒnəmə(r)/-NAmE /əˈstrɑːnəm
 astronomy		<-->	noun+B2	[220829][1]	./əˈstrɒnəmi/-NAmE /əˈstrɑːnəmi/
 	;khoa học vũ trụ -- [uncountable] ​the scientific study of the sun, moon, stars, planets, etc.
 		;Wordfinder: asteroidastronomycometconstellationcosmicgalaxymeteoriteorbitspacethe universe
-		;TOPICS SpaceB2[-0]	.
+		;TOPICS SpaceB2
 				;Oxford Collocations Dictionary
 				;Astronomy is used after these nouns:
 				;radio
@@ -108,7 +108,7 @@ astronomy		<-->	noun+B2	[220829][1]	./əˈstrɒnəmi/-NAmE /əˈstrɑːnəmi/
 
 astrophysics		<-->	noun+C2	[220829][1]	./ˌæstrəʊˈfɪzɪks/-NAmE /ˌæstrəʊˈfɪzɪks/
 	;vật lý thiên văn -- [uncountable] ​the scientific study of the physical and chemical structure of the stars, planets, etc.
-		;TOPICS SpaceC2[-0]	.
+		;TOPICS SpaceC2
 
 
 
@@ -124,7 +124,7 @@ atmosphere		<-->	noun+B1	[220829][1]	./ˈætməsfɪə(r)/-NAmE /ˈætməsfɪr/
 		;the upper atmosphere
 		;pollution of the atmosphere
 		;Extra Examples
-		;TOPICS WeatherB1, SpaceB1[-0]	.
+		;TOPICS WeatherB1, SpaceB1
 				;Oxford Collocations Dictionary
 				;adjective
 				;lower, upper, thick…
@@ -137,9 +137,9 @@ atmosphere		<-->	noun+B1	[220829][1]	./ˈætməsfɪə(r)/-NAmE /ˈætməsfɪr/
 
 
 atmospheric		<-->	adjective+C1	[220829][1]	./ˌætməsˈferɪk/-NAmE /ˌætməsˈfɪrɪk/,  /ˌætməsˈferɪk/
-	;l.q đến khí quyển -- == (1) ​[only before noun] related to the earth’s atmosphere
+	;l.q đến khí quyển -- (1) ​[only before noun] related to the earth’s atmosphere
 		;atmospheric pollution/conditions/pressure
-		;TOPICS SpaceC1[-0]	.
+		;TOPICS SpaceC1
 
 
 
@@ -149,7 +149,7 @@ atmospheric		<-->	adjective+C1	[220829][1]	./ˌætməsˈferɪk/-NAmE /ˌætməs�
 
 aurora australis		<-->	noun+C2	[220829][1]	./əˌrɔːrə ɒˈstreɪlɪs/-NAmE /əˌrɔːrə ɔːˈstreɪlɪs/ [singular]
 	;??? -- (also the Southern Lights [plural]) bands of coloured light that are sometimes seen in the sky at night in the most southern countries of the world
-		;TOPICS SpaceC2[-0]	.
+		;TOPICS SpaceC2
 
 
 
@@ -159,7 +159,7 @@ aurora australis		<-->	noun+C2	[220829][1]	./əˌrɔːrə ɒˈstreɪlɪs/-NAmE /
 
 aurora borealis		<-->	noun+C2	[220829][1]	./əˌrɔːrə ˌbɔːriˈeɪlɪs/-NAmE /əˌrɔːrə ˌbɔːriˈælɪs/
 	;vầng sáng các cực -- [singular] (also the Northern Lights [plural]) ​bands of coloured light, mainly green and red, that are sometimes seen in the sky at night in the most northern countries of the world
-		;TOPICS SpaceC2[-0]	.
+		;TOPICS SpaceC2
 
 
 
@@ -169,10 +169,10 @@ aurora borealis		<-->	noun+C2	[220829][1]	./əˌrɔːrə ˌbɔːriˈeɪlɪs/-NAm
 
 axis		<-->	noun+C1	[220829][1]	./ˈæksɪs/-NAmE /ˈæksɪs/
 	;(plural axes  /ˈæksiːz/  /ˈæksiːz/)
-​	;trục -- [image] an imaginary line through the centre of an object, around which the object turns
+	;trục -- [image] an imaginary line through the centre of an object, around which the object turns
 		;Mars takes longer to revolve on its axis than the Earth.
 		;the earth’s axis of rotation
-		;TOPICS SpaceC1, Maths and measurementC1[-0]	.
+		;TOPICS SpaceC1, Maths and measurementC1
 				;Oxford Collocations Dictionary
 				;adjective
 				;horizontal, vertical, x…
@@ -185,6 +185,9 @@ axis		<-->	noun+C1	[220829][1]	./ˈæksɪs/-NAmE /ˈæksɪs/
 
 
 Big Bang		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -193,6 +196,9 @@ Big Bang		<-->	noun+C1[-0]	.
 
 
 biosphere		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -201,6 +207,9 @@ biosphere		<-->	noun+C2[-0]	.
 
 
 black hole		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -209,6 +218,9 @@ black hole		<-->	noun+C1[-0]	.
 
 
 blast-off		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -217,6 +229,9 @@ blast-off		<-->	noun+C2[-0]	.
 
 
 blast off		<-->	phrasal verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -225,6 +240,9 @@ blast off		<-->	phrasal verb+C2[-0]	.
 
 
 booster		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -233,6 +251,9 @@ booster		<-->	noun+C2[-0]	.
 
 
 come out		<-->	phrasal verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -241,6 +262,9 @@ come out		<-->	phrasal verb+B2[-0]	.
 
 
 comet		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -249,6 +273,9 @@ comet		<-->	noun+C1[-0]	.
 
 
 come up		<-->	phrasal verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -257,6 +284,9 @@ come up		<-->	phrasal verb+B2[-0]	.
 
 
 constellation		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -265,6 +295,9 @@ constellation		<-->	noun+C1[-0]	.
 
 
 corona		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -273,6 +306,9 @@ corona		<-->	noun+C2[-0]	.
 
 
 cosmic		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -281,6 +317,9 @@ cosmic		<-->	adjective+C1[-0]	.
 
 
 cosmic dust		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -289,6 +328,9 @@ cosmic dust		<-->	noun+C2[-0]	.
 
 
 cosmic rays		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -297,6 +339,9 @@ cosmic rays		<-->	noun+C2[-0]	.
 
 
 cosmonaut		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -305,6 +350,9 @@ cosmonaut		<-->	noun+C1[-0]	.
 
 
 cosmos		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -312,9 +360,8 @@ cosmos		<-->	noun+C1[-0]	.
 
 
 
-countdown		<-->	noun+C2[-0]	./ˈkaʊntdaʊn/
- /ˈkaʊntdaʊn/ [ap]
-	;việc đếm ngược -- == (1) [singular, uncountable] countdown (to something) the action of counting numbers backwards to zero, for example before a spacecraft is launched
+countdown		<-->	noun+C2	[221031][1]	./ˈkaʊntdaʊn/-NAmE /ˈkaʊntdaʊn/ [ap]
+	;việc đếm ngược -- (1) [singular, uncountable] countdown (to something) the action of counting numbers backwards to zero, for example before a spacecraft is launched
 		;Wordfinder: astronautcountdowndocklaunchmissionorbitrocketsatellitespaceweightless
 		;TOPICS SpaceC2
 
@@ -324,6 +371,9 @@ countdown		<-->	noun+C2[-0]	./ˈkaʊntdaʊn/
 
 
 crescent		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -332,6 +382,9 @@ crescent		<-->	noun+C2[-0]	.
 
 
 dark matter		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -340,6 +393,9 @@ dark matter		<-->	noun+C2[-0]	.
 
 
 dock		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -348,6 +404,9 @@ dock		<-->	verb+C2[-0]	.
 
 
 earth		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -356,6 +415,9 @@ earth		<-->	noun+A2[-0]	.
 
 
 eclipse		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -364,6 +426,9 @@ eclipse		<-->	noun+C1[-0]	.
 
 
 exoplanet		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -372,6 +437,9 @@ exoplanet		<-->	noun+C1[-0]	.
 
 
 extraterrestrial		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -380,6 +448,9 @@ extraterrestrial		<-->	noun+C2[-0]	.
 
 
 extraterrestrial		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -388,6 +459,9 @@ extraterrestrial		<-->	adjective+C2[-0]	.
 
 
 falling star		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -396,6 +470,9 @@ falling star		<-->	noun+C2[-0]	.
 
 
 flying saucer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -404,6 +481,9 @@ flying saucer		<-->	noun+C2[-0]	.
 
 
 full moon		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -412,6 +492,9 @@ full moon		<-->	noun+C1[-0]	.
 
 
 galaxy		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -420,6 +503,9 @@ galaxy		<-->	noun+B2[-0]	.
 
 
 go around		<-->	phrasal verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -428,6 +514,9 @@ go around		<-->	phrasal verb+B2[-0]	.
 
 
 go down		<-->	phrasal verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -436,6 +525,9 @@ go down		<-->	phrasal verb+C1[-0]	.
 
 
 go round		<-->	phrasal verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -444,6 +536,9 @@ go round		<-->	phrasal verb+B2[-0]	.
 
 
 gravity		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -452,6 +547,9 @@ gravity		<-->	noun+C1[-0]	.
 
 
 half-moon		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -460,6 +558,9 @@ half-moon		<-->	noun+C1[-0]	.
 
 
 hyperspace		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -468,6 +569,9 @@ hyperspace		<-->	noun+C2[-0]	.
 
 
 intergalactic		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -476,6 +580,9 @@ intergalactic		<-->	adjective+C2[-0]	.
 
 
 interplanetary		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -484,6 +591,9 @@ interplanetary		<-->	adjective+C2[-0]	.
 
 
 interstellar		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -492,6 +602,9 @@ interstellar		<-->	adjective+C2[-0]	.
 
 
 Jupiter		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -500,6 +613,9 @@ Jupiter		<-->	noun+B2[-0]	.
 
 
 land		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -508,6 +624,9 @@ land		<-->	verb+A2[-0]	.
 
 
 landing		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -516,6 +635,9 @@ landing		<-->	noun+B2[-0]	.
 
 
 launch		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -524,6 +646,9 @@ launch		<-->	verb+B2[-0]	.
 
 
 launch		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -532,6 +657,9 @@ launch		<-->	noun+B2[-0]	.
 
 
 lift-off		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -540,6 +668,9 @@ lift-off		<-->	noun+C2[-0]	.
 
 
 lift off		<-->	phrasal verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -548,6 +679,9 @@ lift off		<-->	phrasal verb+C1[-0]	.
 
 
 light year		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -556,6 +690,9 @@ light year		<-->	noun+C2[-0]	.
 
 
 lunar		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -564,6 +701,9 @@ lunar		<-->	adjective+C1[-0]	.
 
 
 magnetic storm		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -572,6 +712,9 @@ magnetic storm		<-->	noun+C2[-0]	.
 
 
 Mars		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -580,6 +723,9 @@ Mars		<-->	noun+B1[-0]	.
 
 
 Martian		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -588,6 +734,9 @@ Martian		<-->	adjective+C2[-0]	.
 
 
 Martian		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -596,6 +745,9 @@ Martian		<-->	noun+C2[-0]	.
 
 
 Mercury		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -604,6 +756,9 @@ Mercury		<-->	noun+C1[-0]	.
 
 
 meteor		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -612,6 +767,9 @@ meteor		<-->	noun+C1[-0]	.
 
 
 meteorite		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -620,6 +778,9 @@ meteorite		<-->	noun+C1[-0]	.
 
 
 meteoroid		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -628,6 +789,9 @@ meteoroid		<-->	noun+C2[-0]	.
 
 
 Milky Way		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -636,6 +800,9 @@ Milky Way		<-->	noun+C1[-0]	.
 
 
 mission		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -644,6 +811,9 @@ mission		<-->	noun+C1[-0]	.
 
 
 moon		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -652,6 +822,9 @@ moon		<-->	noun+A2[-0]	.
 
 
 moonlight		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -659,7 +832,10 @@ moonlight		<-->	noun+B1[-0]	.
 
 
 
-NASA		<-->	abbreviation+CC1[-0]	.
+NASA		<-->	abbreviation+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -668,6 +844,9 @@ NASA		<-->	abbreviation+CC1[-0]	.
 
 
 nebula		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -676,6 +855,9 @@ nebula		<-->	noun+C2[-0]	.
 
 
 Neptune		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -684,6 +866,9 @@ Neptune		<-->	noun+C1[-0]	.
 
 
 new moon		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -692,6 +877,9 @@ new moon		<-->	noun+C1[-0]	.
 
 
 orbit		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -700,6 +888,9 @@ orbit		<-->	noun+B2[-0]	.
 
 
 orbit		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -708,6 +899,9 @@ orbit		<-->	verb+B2[-0]	.
 
 
 orbital		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -716,6 +910,9 @@ orbital		<-->	adjective+C2[-0]	.
 
 
 outer space		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -724,6 +921,9 @@ outer space		<-->	noun+A1[-0]	.
 
 
 ozone hole		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -732,6 +932,9 @@ ozone hole		<-->	noun+C2[-0]	.
 
 
 ozone layer		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -740,6 +943,9 @@ ozone layer		<-->	noun+C1[-0]	.
 
 
 penumbra		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -748,6 +954,9 @@ penumbra		<-->	noun+C2[-0]	.
 
 
 planet		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -756,6 +965,9 @@ planet		<-->	noun+A2[-0]	.
 
 
 plate		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -764,6 +976,9 @@ plate		<-->	noun+C2[-0]	.
 
 
 Pluto		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -772,6 +987,9 @@ Pluto		<-->	noun+C1[-0]	.
 
 
 pod		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -780,6 +998,9 @@ pod		<-->	noun+C2[-0]	.
 
 
 probe		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -788,6 +1009,9 @@ probe		<-->	noun+C2[-0]	.
 
 
 radiation belt		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -796,6 +1020,9 @@ radiation belt		<-->	noun+C2[-0]	.
 
 
 ray		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -804,6 +1031,9 @@ ray		<-->	noun+C1[-0]	.
 
 
 red dwarf		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -812,6 +1042,9 @@ red dwarf		<-->	noun+C2[-0]	.
 
 
 rise		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -820,6 +1053,9 @@ rise		<-->	verb+A2[-0]	.
 
 
 rocket		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -828,6 +1064,9 @@ rocket		<-->	noun+B2[-0]	.
 
 
 rotation		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -836,6 +1075,9 @@ rotation		<-->	noun+C1[-0]	.
 
 
 satellite		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -844,6 +1086,9 @@ satellite		<-->	noun+B2[-0]	.
 
 
 Saturn		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -852,6 +1097,9 @@ Saturn		<-->	noun+C1[-0]	.
 
 
 shine		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -860,6 +1108,9 @@ shine		<-->	verb+B1[-0]	.
 
 
 shooting star		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -868,6 +1119,9 @@ shooting star		<-->	noun+C2[-0]	.
 
 
 solar		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -876,6 +1130,9 @@ solar		<-->	adjective+B2[-0]	.
 
 
 solar system		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -884,6 +1141,9 @@ solar system		<-->	noun+B2[-0]	.
 
 
 solar year		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -892,6 +1152,9 @@ solar year		<-->	noun+C2[-0]	.
 
 
 space		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -900,6 +1163,9 @@ space		<-->	noun+A1[-0]	.
 
 
 spacecraft		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -908,6 +1174,9 @@ spacecraft		<-->	noun+B2[-0]	.
 
 
 spaceman		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -916,6 +1185,9 @@ spaceman		<-->	noun+B2[-0]	.
 
 
 space probe		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -924,6 +1196,9 @@ space probe		<-->	noun+C2[-0]	.
 
 
 spaceship		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -932,6 +1207,9 @@ spaceship		<-->	noun+B1[-0]	.
 
 
 space shuttle		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -940,6 +1218,9 @@ space shuttle		<-->	noun+C1[-0]	.
 
 
 space station		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -948,6 +1229,9 @@ space station		<-->	noun+B1[-0]	.
 
 
 spacesuit		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -956,6 +1240,9 @@ spacesuit		<-->	noun+B2[-0]	.
 
 
 space-time		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -964,6 +1251,9 @@ space-time		<-->	noun+C2[-0]	.
 
 
 spacewalk		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -972,6 +1262,9 @@ spacewalk		<-->	noun+B2[-0]	.
 
 
 spacewoman		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -980,6 +1273,9 @@ spacewoman		<-->	noun+B2[-0]	.
 
 
 sputnik		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -988,6 +1284,9 @@ sputnik		<-->	noun+C2[-0]	.
 
 
 star		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -996,6 +1295,9 @@ star		<-->	noun+A1[-0]	.
 
 
 the Northern Lights		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1004,6 +1306,9 @@ the Northern Lights		<-->	noun+C2[-0]	.
 
 
 the Southern Cross		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1012,6 +1317,9 @@ the Southern Cross		<-->	noun+C2[-0]	.
 
 
 the Southern Lights		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1020,6 +1328,9 @@ the Southern Lights		<-->	noun+C2[-0]	.
 
 
 the thermosphere		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1028,6 +1339,9 @@ the thermosphere		<-->	noun+C2[-0]	.
 
 
 the troposphere		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1036,6 +1350,9 @@ the troposphere		<-->	noun+C2[-0]	.
 
 
 the ionosphere		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1044,6 +1361,9 @@ the ionosphere		<-->	noun+C2[-0]	.
 
 
 the mesosphere		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1052,6 +1372,9 @@ the mesosphere		<-->	noun+C2[-0]	.
 
 
 the stratosphere		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1060,6 +1383,9 @@ the stratosphere		<-->	noun+C2[-0]	.
 
 
 stratospheric		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1068,6 +1394,9 @@ stratospheric		<-->	adjective+C2[-0]	.
 
 
 sun		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1076,6 +1405,9 @@ sun		<-->	noun+A1[-0]	.
 
 
 sunbeam		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1084,6 +1416,9 @@ sunbeam		<-->	noun+B2[-0]	.
 
 
 sunlight		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1092,6 +1427,9 @@ sunlight		<-->	noun+B1[-0]	.
 
 
 sunray		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1100,6 +1438,9 @@ sunray		<-->	noun+C2[-0]	.
 
 
 sunrise		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1108,6 +1449,9 @@ sunrise		<-->	noun+B2[-0]	.
 
 
 sunset		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1116,6 +1460,9 @@ sunset		<-->	noun+B2[-0]	.
 
 
 sunup		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1124,6 +1471,9 @@ sunup		<-->	noun+C2[-0]	.
 
 
 take-off		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1132,6 +1482,9 @@ take-off		<-->	noun+B2[-0]	.
 
 
 take off		<-->	phrasal verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1140,6 +1493,9 @@ take off		<-->	phrasal verb+A2[-0]	.
 
 
 telescope		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1147,7 +1503,30 @@ telescope		<-->	noun+B2[-0]	.
 
 
 
-twilight		<-->	noun+C2[-0]	.
+twilight		<-->	noun+C2	[221031][1]	./ˈtwaɪlaɪt/-NAmE /ˈtwaɪlaɪt/ [uncountable]
+	;chạng vạng  -- (1) the small amount of light or the period of time at the end of the day after the sun has gone down
+		;in the twilight It was hard to see him clearly in the twilight.
+		;at twilight We went for a walk along the beach at twilight.
+		;COMPARE dusk
+		;Wordfinder: daylighteclipseequinoxrayrisesolarsolsticethe suntwilightthe universe
+		;Extra Examples:
+		;She stared into the gathering twilight.
+		;They gazed up at the twilight sky.
+		;in the twilight hour before dawn
+		;These animals are most active during the hours of twilight around dawn and dusk.
+		;TOPICS SpaceC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;gathering
+				;twilight + noun
+				;skyhourworld…
+				;preposition
+				;at twilightin the twilightinto the twilight…
+				;phrases
+				;in the twilight of your career, life, etc.
+		;See full entry
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1155,7 +1534,16 @@ twilight		<-->	noun+C2[-0]	.
 
 
 
-UFO		<-->	noun+C1[-0]	.
+UFO		<-->	noun+C1	[221031][1]	./ˌjuː ef ˈəʊ/,  /ˈjuːfəʊ/-NAmE /ˌjuː ef ˈəʊ/,  /ˈjuːfəʊ/ (also ufo) (plural UFOs, ufos)
+	;vật thể bay lạ -- (1) a strange object that some people claim to have seen in the sky and believe is a spacecraft from another planet (the abbreviation for ‘unidentified flying object’)
+		;COMPARE flying saucer
+		;TOPICS SpaceC1
+				;Oxford Collocations Dictionary
+				;UFO is used before these nouns:
+				;sighting
+		;See full entry
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1163,7 +1551,10 @@ UFO		<-->	noun+C1[-0]	.
 
 
 
-universe		<-->	noun+B2[-0]	.
+universe		<-->	noun+B2	[221031][1]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1171,7 +1562,11 @@ universe		<-->	noun+B2[-0]	.
 
 
 
-Uranus		<-->	noun+C1[-0]	.
+Uranus		<-->	noun+C1	[221031][1]	./ˈjʊərənəs/-NAmE /ˈjʊrənəs/
+	;sao Thiên Vương -- (1) the planet in the solar system that is 7th in order of distance from the sun
+		;TOPICS SpaceC1
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1179,7 +1574,11 @@ Uranus		<-->	noun+C1[-0]	.
 
 
 
-Venus		<-->	noun+B2[-0]	.
+Venus		<-->	noun+B2	[221031][1]	./ˈviːnəs/-NAmE /ˈviːnəs/
+	;sao Kim -- (1) the planet in the solar system that is second in order of distance from the sun, between Mercury and the Earth
+		;TOPICS SpaceB2
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1187,7 +1586,36 @@ Venus		<-->	noun+B2[-0]	.
 
 
 
-voyage		<-->	noun+B2[-0]	.
+voyage		<-->	noun+B2	[221031][2]	./ˈvɔɪɪdʒ/-NAmE /ˈvɔɪɪdʒ/ [ie-b1]
+	;hành trình không gian -- (1) a long journey, especially by sea or in space
+		;an around-the-world voyage
+		;a voyage in space
+		;The Titanic sank on its maiden voyage (= first journey).
+		;(figurative) Going to college can be a voyage of self-discovery.
+		;Darwin’s epic voyage of exploration
+		;Wordfinder: colonizediscoverexplorepioneerreconnaissancescoutsettleterrainterritoryvoyage
+		;Extra Examples:
+		;Lady Franklin kept a journal during the voyage.
+		;The ship completed her maiden voyage in May.
+		;There were mainly scientists on the voyage.
+		;Bering's voyage of discovery was one of many scientific expeditions in the 18th century.
+		;The ship began its return voyage to Europe.
+		;The ship was badly damaged during the voyage from Plymouth.
+		;They set off on their voyage around the world.
+		;Writing a biography can be an absorbing voyage of discovery.
+		;TOPICS Transport by waterB2, SpaceB2, HolidaysB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;epicgreatlong…
+				;verb + voyage
+				;embark ongo onmake…
+				;preposition
+				;during a/​the voyageon a/​the voyagevoyage from…
+				;phrases
+				;a voyage of discovery
+		;See full entry
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1195,7 +1623,22 @@ voyage		<-->	noun+B2[-0]	.
 
 
 
-wane		<-->	verb+C2[-0]	.
+wane		<-->	verb+C2	[221031][2]	./weɪn/-NAmE /weɪn/\
+	;suy yếu -- (1) [intransitive] to become gradually weaker or less important
+		;SYNONYM decrease, fade
+		;Her enthusiasm for the whole idea was waning rapidly.
+		;Their popularity waned during that period.
+		;Demand for the product shows no signs of waning.
+				;Oxford Collocations Dictionary
+				;adverb
+				;a littlesomewhatconsiderably…
+				;verb + wane
+				;begin to
+				;phrases
+				;wax and wane
+		;See full entry
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1203,7 +1646,19 @@ wane		<-->	verb+C2[-0]	.
 
 
 
-wax		<-->	verb+C2[-0]	.
+wax		<-->	verb+C2	[221031][1]	./wæks/-NAmE /wæks/\ [uncountable]
+	;sáp -- (1) a solid substance that is made from beeswax or from various fats and oils and used for making candles, polish, models, etc. It becomes soft when it is heated.
+		;styling wax for the hair
+		;floor wax
+		;wax crayons
+		;wax polish
+		;SEE ALSO paraffin wax, sealing wax
+		;Extra Examples:
+		;The parcel was tied with string and sealed with wax.
+		;The sun through the window had melted the wax.
+		;Wax melts when subjected to heat.
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1211,7 +1666,13 @@ wax		<-->	verb+C2[-0]	.
 
 
 
-weightless		<-->	adjective+C1[-0]	.
+weightless		<-->	adjective+C1	[221031][1]	./ˈweɪtləs/-NAmE /ˈweɪtləs/
+	;không trọng lực -- (1) having no weight or appearing to have no weight, for example because there is no gravity
+		;Astronauts work in weightless conditions.
+		;Wordfinder: astronautcountdowndocklaunchmissionorbitrocketsatellitespaceweightless
+		;TOPICS SpaceC1
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1219,7 +1680,12 @@ weightless		<-->	adjective+C1[-0]	.
 
 
 
-weightlessness		<-->	noun+C1[-0]	.
+weightlessness		<-->	noun+C1	[221031][1]	./ˈweɪtləsnəs/-NAmE /ˈweɪtləsnəs/ [uncountable]
+	;tình trạng không trọng lực -- (1) the fact of having or appearing to have no weight, for example because there is no gravity
+		;an experience of weightlessness
+		;TOPICS SpaceC1
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1227,7 +1693,11 @@ weightlessness		<-->	noun+C1[-0]	.
 
 
 
-white dwarf		<-->	noun+C2[-0]	.
+white dwarf		<-->	noun+C2	[221031][1]	./ˌwaɪt ˈdwɔːf/-NAmE /ˌwaɪt ˈdwɔːrf/ (astronomy)
+	;sao lùn trắng -- (1) a small star that is near the end of its life and is very dense (= solid and heavy)
+		;TOPICS SpaceC2
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -1235,7 +1705,11 @@ white dwarf		<-->	noun+C2[-0]	.
 
 
 
-wormhole		<-->	noun+C2[-0]	.
+wormhole		<-->	noun+C2	[221031][1]	./ˈwɜːmhəʊl/-NAmE /ˈwɜːrmhəʊl/
+	;lỗ sâu đục -- (1) a hole made by a worm or young insect
+	;đường hầm không-thời gian -- (2) ​(physics) a possible connection between regions of space-time that are far apart
+		;TOPICS SpaceC2
+	; -- (3) 
 
 
 
@@ -1243,7 +1717,16 @@ wormhole		<-->	noun+C2[-0]	.
 
 
 
-zenith		<-->	noun+C2[-0]	.
+zenith		<-->	noun+C2	[221031][1]	./ˈzenɪθ/-NAmE /ˈziːnɪθ/
+	;đỉnh cao -- (1) the highest point that the sun or moon reaches in the sky, directly above you
+		;The sun rose towards its zenith.
+		;TOPICS SpaceC2, WeatherC2
+	;đỉnh cao -- (2) (formal) the time when something is strongest and most successful
+		;SYNONYM peak
+		;The rock band was at the zenith of its creative powers.
+		;OPPOSITE nadir
+		;TOPICS SuccessC2
+	; -- (3) 
 
 
 
@@ -1251,4 +1734,9 @@ zenith		<-->	noun+C2[-0]	.
 
 
 
-zodiac		<-->	noun+C1[-0]	.
+zodiac		<-->	noun+C1	[221031][1]	./ˈzəʊdiæk/-NAmE /ˈzəʊdiæk/
+	;cung hoàng đạo -- (1) the zodiac [singular] the imaginary area in the sky in which the sun, moon and planets appear to lie, and which has been divided into twelve equal parts, each with a special name and symbol
+		;the signs of the zodiac
+		;TOPICS SpaceC1
+	; -- (2) 
+	; -- (3) 

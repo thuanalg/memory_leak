@@ -1,12 +1,12 @@
 2022-05-01
-2022-05-02[-0]	.
+2022-05-02
 	(many meanings)<-->=(counted times)
 	/= can be a part of another word, or contain another word
 	/\ : noun+verb
 	/-\ : noun+verb, very special
 	/+\ : compound word
 
-abroad		<-->	adverb+A2[-0]	./əˈbrɔːd/-NAmE /əˈbrɔːd/
+abroad		<-->	adverb+A2	[221109][001]	./əˈbrɔːd/-NAmE /əˈbrɔːd/
 	;nước ngoài --  in or to a foreign country
 		;She worked abroad for a year.
 
@@ -16,7 +16,7 @@ abroad		<-->	adverb+A2[-0]	./əˈbrɔːd/-NAmE /əˈbrɔːd/
 
 
 
-accommodation		<-->	noun+B1[-0]	./əˌkɒməˈdeɪʃn/-NAmE /əˌkɑːməˈdeɪʃn/
+accommodation		<-->	noun+B1	[221109][001]	./əˌkɒməˈdeɪʃn/-NAmE /əˌkɑːməˈdeɪʃn/
 	;một nơi sống tiện nghi --  [plural] (North American English) somewhere to live or stay, often also providing food or other services
 		;More and more travelers are looking for bed and breakfast accommodations in private homes.
 
@@ -26,7 +26,7 @@ accommodation		<-->	noun+B1[-0]	./əˌkɒməˈdeɪʃn/-NAmE /əˌkɑːməˈdeɪ�
 
 
 
-adventure		<-->	noun+A2[-0]	./ədˈventʃə(r)/-NAmE /ədˈventʃər/
+adventure		<-->	noun+A2	[221109][001]	./ədˈventʃə(r)/-NAmE /ədˈventʃər/
 	;[countable] an unusual, exciting or dangerous experience, journey or series of events
 		;Popper described science as the greatest adventure in the world.
 		;When you're a child, life is one big adventure.
@@ -37,7 +37,7 @@ adventure		<-->	noun+A2[-0]	./ədˈventʃə(r)/-NAmE /ədˈventʃər/
 
 
 
-agritourism		<-->	noun+C2	[220818][1]	./ˈæɡrɪtʊərɪzəm/,  /ˈæɡrɪtɔːrɪzəm/-NAmE /ˈæɡrɪtʊrɪzəm/
+agritourism		<-->	noun+C2	[220818][001]	./ˈæɡrɪtʊərɪzəm/,  /ˈæɡrɪtɔːrɪzəm/-NAmE /ˈæɡrɪtʊrɪzəm/
 	;du lịch nông thôn -- holidays in which tourists visiting a country stay with local people who live in the countryside
 
 
@@ -46,7 +46,7 @@ agritourism		<-->	noun+C2	[220818][1]	./ˈæɡrɪtʊərɪzəm/,  /ˈæɡrɪtɔː
 
 
 
-all-inclusive		<-->	adjective+C1[-0]	./ˌɔːl ɪnˈkluːsɪv/-NAmE /ˌɔːl ɪnˈkluːsɪv/
+all-inclusive		<-->	adjective+C1	[221109][001]	./ˌɔːl ɪnˈkluːsɪv/-NAmE /ˌɔːl ɪnˈkluːsɪv/
 	;trọn gói -- including everything or everyone
 		;Our trips are all-inclusive—there are no hidden costs.
 
@@ -56,7 +56,7 @@ all-inclusive		<-->	adjective+C1[-0]	./ˌɔːl ɪnˈkluːsɪv/-NAmE /ˌɔːl ɪn
 
 
 
-American plan		<-->	noun+C2[-0]	./əˌmerɪkən ˈplæn/-NAmE /əˌmerɪkən ˈplæn/
+American plan		<-->	noun+C2	[221109][001]	./əˌmerɪkən ˈplæn/-NAmE /əˌmerɪkən ˈplæn/
 	;một lối sống Mỹ trong khách sạn -- [uncountable] - a type of accommodation in a hotel, etc. that includes all meals
 
 
@@ -65,7 +65,7 @@ American plan		<-->	noun+C2[-0]	./əˌmerɪkən ˈplæn/-NAmE /əˌmerɪkən ˈp
 
 
 
-amusement park		<-->	noun+B2[-0]	./əˈmjuːzmənt pɑːk/-NAmE /əˈmjuːzmənt pɑːrk/+\
+amusement park		<-->	noun+B2	[221109][001]	./əˈmjuːzmənt pɑːk/-NAmE /əˈmjuːzmənt pɑːrk/+\
 	;một công viên lớn, nhiều trò chơi -- a large park that has a lot of things that you can ride and play on and many different activities to enjoy
 
 
@@ -74,7 +74,7 @@ amusement park		<-->	noun+B2[-0]	./əˈmjuːzmənt pɑːk/-NAmE /əˈmjuːzmənt
 
 
 
-aparthotel		<-->	noun+C2[-0]	./əˈpɑːthəʊtel/-NAmE /əˈpɑːrthəʊtel/
+aparthotel		<-->	noun+C2	[221109][001]	./əˈpɑːthəʊtel/-NAmE /əˈpɑːrthəʊtel/
 	;khách sạn cho nấu ăn -- a type of hotel that has apartments where you can cook your own meals as well as ordinary hotel rooms
 
 
@@ -83,7 +83,7 @@ aparthotel		<-->	noun+C2[-0]	./əˈpɑːthəʊtel/-NAmE /əˈpɑːrthəʊtel/
 
 
 
-apartment		<-->	noun+A1[-0]	./əˈpɑːtmənt/-NAmE /əˈpɑːrtmənt/
+apartment		<-->	noun+A1	[221109][001]	./əˈpɑːtmənt/-NAmE /əˈpɑːrtmənt/
 	;căn hộ cho thuê trong ngày nghỉ --  a set of rooms used for a holiday
 
 
@@ -92,7 +92,7 @@ apartment		<-->	noun+A1[-0]	./əˈpɑːtmənt/-NAmE /əˈpɑːrtmənt/
 
 
 
-apartment hotel		<-->	noun+C2	[220818][1]	./əˈpɑːtmənt həʊtel/-NAmE /əˈpɑːrtmənt həʊtel/+\
+apartment hotel		<-->	noun+C2	[220818][001]	./əˈpɑːtmənt həʊtel/-NAmE /əˈpɑːrtmənt həʊtel/+\
 	;khách sạn có căn hộ -- ​a hotel that has apartments which you can rent for long or short periods of time
 
 
@@ -101,7 +101,7 @@ apartment hotel		<-->	noun+C2	[220818][1]	./əˈpɑːtmənt həʊtel/-NAmE /əˈ
 
 
 
-backpack		<-->	noun+B1	[220818][1]	./ˈbækpæk/-NAmE /ˈbækpæk/\ [IMAGE]-Bags
+backpack		<-->	noun+B1	[220818][001]	./ˈbækpæk/-NAmE /ˈbækpæk/\ [IMAGE]-Bags
 	;Ba lô -- [Image] (British English also rucksack) a bag that you carry on your back, made of strong material and often used by people who go climbing or walking
 		;She swung her backpack over her shoulder.
 
@@ -111,7 +111,7 @@ backpack		<-->	noun+B1	[220818][1]	./ˈbækpæk/-NAmE /ˈbækpæk/\ [IMAGE]-Bags
 
 
 
-backpack		<-->	verb+B2[-0]	./ˈbækpæk/-NAmE /ˈbækpæk/
+backpack		<-->	verb+B2	[221109][001]	./ˈbækpæk/-NAmE /ˈbækpæk/
 	;du lịch ba lô -- to travel on holiday carrying your equipment and clothes in a backpack	
 		;They went backpacking in Spain last year.
 
@@ -121,7 +121,7 @@ backpack		<-->	verb+B2[-0]	./ˈbækpæk/-NAmE /ˈbækpæk/
 
 
 
-B and B		 <--> abbreviation+C2[-0]	./ˌbiː ən ˈbiː/
+B and B		 <--> abbreviation+C2	[221109][001]	./ˌbiː ən ˈbiː/
  /ˌbiː ən ˈbiː/ (informal, especially British English)
 	;ngủ và ăn sáng , (B&B) -- bed and breakfast 
 
@@ -131,7 +131,7 @@ B and B		 <--> abbreviation+C2[-0]	./ˌbiː ən ˈbiː/
 
 
 
-bank holiday		<-->	noun+C1	[220818][1]	./ˌbæŋk ˈhɒlədeɪ/-NAmE /ˌbæŋk ˈhɑːlədeɪ/+\ (British English)
+bank holiday		<-->	noun+C1	[220818][001]	./ˌbæŋk ˈhɒlədeɪ/-NAmE /ˌbæŋk ˈhɑːlədeɪ/+\ (British English)
 	;ngày nghỉ lễ -- a public holiday, for example Christmas Day, New Year’s Day, etc.
 		;The annual Durrow Carnival takes place over the August bank holiday weekend.
 
@@ -141,7 +141,7 @@ bank holiday		<-->	noun+C1	[220818][1]	./ˌbæŋk ˈhɒlədeɪ/-NAmE /ˌbæŋk �
 
 
 
-beach		<-->	noun+A1[-0]	./biːtʃ/-NAmE /biːtʃ/
+beach		<-->	noun+A1	[221109][001]	./biːtʃ/-NAmE /biːtʃ/
 	;bờ biển -- [Image] an area of sand or small stones (called shingle), next to the sea or a lake
 
 
@@ -150,7 +150,7 @@ beach		<-->	noun+A1[-0]	./biːtʃ/-NAmE /biːtʃ/
 
 
 
-bed and breakfast		<-->	noun+B2[-0]	./ˌbed ən ˈbrekfəst/-NAmE /ˌbed ən ˈbrekfəst/+\	
+bed and breakfast		<-->	noun+B2	[221109][001]	./ˌbed ən ˈbrekfəst/-NAmE /ˌbed ən ˈbrekfəst/+\	
 	;dịch vụ ăn sáng, ngủ -- [uncountable] (British English) a service that provides a room to sleep in and a meal the next morning in private houses and small hotels
 		;Do you do bed and breakfast?
 
@@ -160,7 +160,7 @@ bed and breakfast		<-->	noun+B2[-0]	./ˌbed ən ˈbrekfəst/-NAmE /ˌbed ən ˈb
 
 
 
-bellboy		<-->	noun+C2	[220818][1]	./ˈbelbɔɪ/-NAmE /ˈbelbɔɪ/
+bellboy		<-->	noun+C2	[220818][001]	./ˈbelbɔɪ/-NAmE /ˈbelbɔɪ/
 	;người mang hành lý -- a person whose job is to carry people’s cases to their rooms in a hotel
 
 
@@ -169,7 +169,7 @@ bellboy		<-->	noun+C2	[220818][1]	./ˈbelbɔɪ/-NAmE /ˈbelbɔɪ/
 
 
 
-bellhop		<-->	noun+C2	[220818][1]	./ˈbelhɒp/-NAmE /ˈbelhɑːp/
+bellhop		<-->	noun+C2	[220818][001]	./ˈbelhɒp/-NAmE /ˈbelhɑːp/
 	;người mang hành lý -- a person whose job is to carry people’s cases to their rooms in a hotel
 
 
@@ -178,7 +178,7 @@ bellhop		<-->	noun+C2	[220818][1]	./ˈbelhɒp/-NAmE /ˈbelhɑːp/
 
 
 
-board		<-->	noun+C2	[220818][1]	./bɔːd/-NAmE /bɔːrd/\
+board		<-->	noun+C2	[220818][001]	./bɔːd/-NAmE /bɔːrd/\
 	;những bữa ăn ở khách sạn -- [uncountable] the meals that are provided when you stay in a hotel, guest house, etc.;what you pay for the meals
 		;He pays £90 a week board and lodging(sự cho ở).
 
@@ -188,7 +188,7 @@ board		<-->	noun+C2	[220818][1]	./bɔːd/-NAmE /bɔːrd/\
 
 
 
-book		<-->	verb+A2[-0]	./bʊk/-NAmE /bʊk/\
+book		<-->	verb+A2	[221109][001]	./bʊk/-NAmE /bʊk/\
 	;đặt trước -- [intransitive, transitive] to arrange to have or use something on a particular date in the future;to buy a ticket in advance
 		;Book early to avoid disappointment.
 		;Most customers now book their holidays online.
@@ -199,7 +199,7 @@ book		<-->	verb+A2[-0]	./bʊk/-NAmE /bʊk/\
 
 
 
-booking		<-->	noun+B2[-0]	./ˈbʊkɪŋ/-NAmE /ˈbʊkɪŋ/
+booking		<-->	noun+B2	[221109][001]	./ˈbʊkɪŋ/-NAmE /ˈbʊkɪŋ/
 	;việc đặt trước -- [countable, uncountable] (especially British English) an arrangement that you make in advance to buy a ticket to travel somewhere, go to the theatre, etc.
 		;Early booking is recommended.
 
@@ -209,7 +209,7 @@ booking		<-->	noun+B2[-0]	./ˈbʊkɪŋ/-NAmE /ˈbʊkɪŋ/
 
 
 
-booze cruise		<-->	noun+C2[-0]	./ˈbuːz kruːz/-NAmE /ˈbuːz kruːz/+\
+booze cruise		<-->	noun+C2	[221109][001]	./ˈbuːz kruːz/-NAmE /ˈbuːz kruːz/+\
 	;chuyến phà mua hàng rẻ -- (British English) a short trip by ferry from the UK to France or Belgium in order to buy alcohol or cigarettes cheaply
 		;to go on a booze cruise
 
@@ -219,7 +219,7 @@ booze cruise		<-->	noun+C2[-0]	./ˈbuːz kruːz/-NAmE /ˈbuːz kruːz/+\
 
 
 
-break		<-->	noun+B1[-0]	./breɪk/-NAmE /breɪk/+\	
+break		<-->	noun+B1	[221109][001]	./breɪk/-NAmE /breɪk/+\	
 	;một chuyến đi nghỉ ngắn --holiday/vacation, [countable] a short holiday
 		;We had a weekend break in New York.
 
@@ -229,7 +229,7 @@ break		<-->	noun+B1[-0]	./breɪk/-NAmE /breɪk/+\
 
 
 
-brochure	<-->	noun+B1[-0]	./ˈbrəʊʃə(r)/-NAmE /brəʊˈʃʊr/
+brochure	<-->	noun+B1	[221109][001]	./ˈbrəʊʃə(r)/-NAmE /brəʊˈʃʊr/
 	;mẫu quảng cáo -- a small magazine or book containing pictures and information about something or advertising something
 		;a travel brochure
 
@@ -239,7 +239,7 @@ brochure	<-->	noun+B1[-0]	./ˈbrəʊʃə(r)/-NAmE /brəʊˈʃʊr/
 
 
 
-bucket shop		<-->	noun+C2[-0]	./ˈbʌkɪt ʃɒp/-NAmE /ˈbʌkɪt ʃɑːp/+\
+bucket shop		<-->	noun+C2	[221109][001]	./ˈbʌkɪt ʃɒp/-NAmE /ˈbʌkɪt ʃɑːp/+\
 	;nơi bán vé máy bay giá rẻ -- a place or website that sells cheap plane tickets
 
 
@@ -248,7 +248,7 @@ bucket shop		<-->	noun+C2[-0]	./ˈbʌkɪt ʃɒp/-NAmE /ˈbʌkɪt ʃɑːp/+\
 
 
 
-budget		<-->	adjective+B2[-0]	./ˈbʌdʒɪt/-NAmE /ˈbʌdʒɪt/-\
+budget		<-->	adjective+B2	[221109][001]	./ˈbʌdʒɪt/-NAmE /ˈbʌdʒɪt/-\
 	;giá rẻ -- low in price
 		;a budget flight/hotel
 
@@ -258,7 +258,7 @@ budget		<-->	adjective+B2[-0]	./ˈbʌdʒɪt/-NAmE /ˈbʌdʒɪt/-\
 
 
 
-bureau		<-->	noun+C2[-0]	./ˈbjʊərəʊ/-NAmE /ˈbjʊrəʊ/
+bureau		<-->	noun+C2	[221109][001]	./ˈbjʊərəʊ/-NAmE /ˈbjʊrəʊ/
 	;cơ quan cung cấp thông tin đặc biệt -- an office or organization that provides information on a particular subject
 		;She works for an employment bureau.
 
@@ -268,7 +268,7 @@ bureau		<-->	noun+C2[-0]	./ˈbjʊərəʊ/-NAmE /ˈbjʊrəʊ/
 
 
 
-bushwhack		<-->	verb+C2[-0]	./ˈbʊʃwæk/-NAmE /ˈbʊʃwæk/
+bushwhack		<-->	verb+C2	[221109][001]	./ˈbʊʃwæk/-NAmE /ˈbʊʃwæk/
 	;đi du lịch khu hoang dã -- (North American English, Australian English, New Zealand English) [intransitive] to live or travel in wild country
 
 
@@ -277,7 +277,7 @@ bushwhack		<-->	verb+C2[-0]	./ˈbʊʃwæk/-NAmE /ˈbʊʃwæk/
 
 
 
-camp		<-->	verb+A2[-0]	./kæmp/-NAmE /kæmp/-\
+camp		<-->	verb+A2	[221109][001]	./kæmp/-NAmE /kæmp/-\
 	;cái trại -- [uncountable] a place where people live temporarily in tents or temporary buildings
 		;Let's return to camp.
 
@@ -287,7 +287,7 @@ camp		<-->	verb+A2[-0]	./kæmp/-NAmE /kæmp/-\
 
 
 
-camper		<-->	noun+C2[-0]	./ˈkæmpə(r)/-NAmE /ˈkæmpər/
+camper		<-->	noun+C2	[221109][001]	./ˈkæmpə(r)/-NAmE /ˈkæmpər/
 	;người cắm trại -- a person who spends a holiday living in a tent or at a holiday camp
 
 
@@ -296,7 +296,7 @@ camper		<-->	noun+C2[-0]	./ˈkæmpə(r)/-NAmE /ˈkæmpər/
 
 
 
-campfire		<-->	noun+B1[-0]	./ˈkæmpfaɪə(r)/-NAmE /ˈkæmpfaɪər/  
+campfire		<-->	noun+B1	[221109][001]	./ˈkæmpfaɪə(r)/-NAmE /ˈkæmpfaɪər/  
 	;an outdoor fire made by people who are sleeping outside or living in a tent
 		;We sat around the campfire telling stories and singing.
 		;The night was warm and there were dozens of campfires on the beach.
@@ -307,7 +307,7 @@ campfire		<-->	noun+B1[-0]	./ˈkæmpfaɪə(r)/-NAmE /ˈkæmpfaɪər/
 
 
 
-camping		<-->	noun+A2[-0]	./ˈkæmpɪŋ/-NAmE /ˈkæmpɪŋ/
+camping		<-->	noun+A2	[221109][001]	./ˈkæmpɪŋ/-NAmE /ˈkæmpɪŋ/
 	;sống trong lều trại -- living in a tent, etc. on holiday
 		;Do you go camping?
 
@@ -317,7 +317,7 @@ camping		<-->	noun+A2[-0]	./ˈkæmpɪŋ/-NAmE /ˈkæmpɪŋ/
 
 
 
-campsite		<-->	noun+B1[-0]	./ˈkæmpsaɪt/-NAmE /ˈkæmpsaɪt/=	
+campsite		<-->	noun+B1	[221109][001]	./ˈkæmpsaɪt/-NAmE /ˈkæmpsaɪt/=	
 	;(also camping site) (both British English), (North American English campground)
 	;nơi dựng trại -- a place where people on holiday can put up their tents, park their caravan, etc., often with toilets, water, etc.
 
@@ -327,7 +327,7 @@ campsite		<-->	noun+B1[-0]	./ˈkæmpsaɪt/-NAmE /ˈkæmpsaɪt/=
 
 
 
-canal		<-->	noun+B2[-0]	./kəˈnæl/-NAmE /kəˈnæl/
+canal		<-->	noun+B2	[221109][001]	./kəˈnæl/-NAmE /kəˈnæl/
 	;kênh/kinh đào -- a long straight passage dug in the ground and filled with water for boats and ships to travel along;a smaller passage used for carrying water to fields, crops, etc.
 		;the Panama/Suez Canal
 		;an irrigation(thuỷ lợi) canal
@@ -338,7 +338,7 @@ canal		<-->	noun+B2[-0]	./kəˈnæl/-NAmE /kəˈnæl/
 
 
 
-cancellation		<-->	noun+C1[-0]	./ˌkænsəˈleɪʃn/-NAmE /ˌkænsəˈleɪʃn/
+cancellation		<-->	noun+C1	[221109][001]	./ˌkænsəˈleɪʃn/-NAmE /ˌkænsəˈleɪʃn/
 	;Sự huỷ đơn hàng, chuyến -- [uncountable, countable] a decision to stop something that has already been arranged from happening;a statement that something will not happen	
 		;We need at least 24 hours' notice of cancellation.
 		;a cancellation fee
@@ -349,7 +349,7 @@ cancellation		<-->	noun+C1[-0]	./ˌkænsəˈleɪʃn/-NAmE /ˌkænsəˈleɪʃn/
 
 
 
-caravan		<-->	noun+B2[-0]	./ˈkærəvæn/-NAmE /ˈkærəvæn/
+caravan		<-->	noun+B2	[221109][001]	./ˈkærəvæn/-NAmE /ˈkærəvæn/
 	;thùng xe cỡ lớn -- a road vehicle without an engine that is pulled by a car, designed for people to live and sleep in, especially when they are on holiday
 		;he local farmer lets holiday caravans park on his land.
 
@@ -359,7 +359,7 @@ caravan		<-->	noun+B2[-0]	./ˈkærəvæn/-NAmE /ˈkærəvæn/
 
 
 
-caravanning		<-->	noun+C2[-0]	./ˈkærəvænɪŋ/-NAmE /ˈkærəvænɪŋ/
+caravanning		<-->	noun+C2	[221109][001]	./ˈkærəvænɪŋ/-NAmE /ˈkærəvænɪŋ/
 	;du lịch caravan -- ​the activity of spending a holiday in a caravan
 		;Camping and caravanning attract people of all ages.
 
@@ -369,7 +369,7 @@ caravanning		<-->	noun+C2[-0]	./ˈkærəvænɪŋ/-NAmE /ˈkærəvænɪŋ/
 
 
 
-card key		<-->	noun+A2[-0]	./ˈkɑːd kiː/-NAmE /ˈkɑːrd kiː/
+card key		<-->	noun+A2	[221109][001]	./ˈkɑːd kiː/-NAmE /ˈkɑːrd kiː/
 	;chìa khoá bằng thẻ -- a special plastic card with information recorded on it that can be read by an electronic device, which can be used instead of a door key
 
 
@@ -378,7 +378,7 @@ card key		<-->	noun+A2[-0]	./ˈkɑːd kiː/-NAmE /ˈkɑːrd kiː/
 
 
 
-chalet		<-->	noun+C1[-0]	./ˈʃæleɪ/-NAmE /ʃæˈleɪ/
+chalet		<-->	noun+C1	[221109][001]	./ˈʃæleɪ/-NAmE /ʃæˈleɪ/
 	;nhà gỗ miền núi -- a wooden house with a roof that slopes steeply down over the sides, usually built in mountain areas, especially in Switzerland	
 
 
@@ -387,7 +387,7 @@ chalet		<-->	noun+C1[-0]	./ˈʃæleɪ/-NAmE /ʃæˈleɪ/
 
 
 
-check-in		<-->	noun+B1[-0]	./ˈtʃek ɪn/-NAmE /ˈtʃek ɪn/
+check-in		<-->	noun+B1	[221109][001]	./ˈtʃek ɪn/-NAmE /ˈtʃek ɪn/
 	;nơi kiểm vào như ở sân bay, khách sạn , .. -- [countable, uncountable] the place where you go to at an airport to leave your bags, cases, etc. and show your ticket
 		;The airline apologizes for long delays at check-ins today.
 
@@ -406,7 +406,7 @@ check in		<-->	phrasal verb+A2[-0]	.
 
 
 
-checkout		<-->	noun+B2[-0]	./ˈtʃekaʊt/-NAmE /ˈtʃekaʊt/	
+checkout		<-->	noun+B2	[221109][001]	./ˈtʃekaʊt/-NAmE /ˈtʃekaʊt/	
 	;nơi trả tiền, như siêu thị, khácgh sạn khi  ra đi -- [countable] the place where you pay for the things that you are buying in a supermarket	
 		;long queues at the checkouts
 
@@ -425,7 +425,7 @@ clerk		<-->	noun+B2[-0]	.
 
 
 
-commissionaire		<-->	noun+C2	[220818][1]	./kəˌmɪʃəˈneə(r)/-NAmE /kəˌmɪʃəˈner/
+commissionaire		<-->	noun+C2	[220818][001]	./kəˌmɪʃəˈneə(r)/-NAmE /kəˌmɪʃəˈner/
 	;người/nhân viên đón taxi cho khách, ở khách sạn -- a person in uniform whose job is to stand at the entrance to a hotel, etc. and open the door for visitors, find them taxis, etc.
 
 
@@ -434,7 +434,7 @@ commissionaire		<-->	noun+C2	[220818][1]	./kəˌmɪʃəˈneə(r)/-NAmE /kəˌmɪ
 
 
 
-concierge		<-->	noun+C2[-0]	./ˈkɒnsieəʒ/
+concierge		<-->	noun+C2	[221109][001]	./ˈkɒnsieəʒ/
  /kəʊnˈsjerʒ/ (from French)
 	;nhân viên đón khách ở khách sạn -- a person in a hotel whose job is to help guests by giving them information, arranging theatre tickets, etc.
 
@@ -444,7 +444,7 @@ concierge		<-->	noun+C2[-0]	./ˈkɒnsieəʒ/
 
 
 
-cot		<-->	noun+C2	[220818][1]	./kɒt/-NAmE /kɑːt/	
+cot		<-->	noun+C2	[220818][001]	./kɒt/-NAmE /kɑːt/	
 	;cái lều -- a light narrow bed that you can fold up and carry easily
 	;cái nôi đứng cho trẻ -- a small bed with high sides for a baby or young child
 
@@ -454,7 +454,7 @@ cot		<-->	noun+C2	[220818][1]	./kɒt/-NAmE /kɑːt/
 
 
 
-cottage		<-->	noun+B1[-0]	./ˈkɒtɪdʒ/-NAmE /ˈkɑːtɪdʒ/
+cottage		<-->	noun+B1	[221109][001]	./ˈkɒtɪdʒ/-NAmE /ˈkɑːtɪdʒ/
 	;cái lều -- a small house, especially in the country
 		;a thatched(lợp tranh) cottage
 
@@ -464,7 +464,7 @@ cottage		<-->	noun+B1[-0]	./ˈkɒtɪdʒ/-NAmE /ˈkɑːtɪdʒ/
 
 
 
-courier		<-->	noun+C2[-0]	./ˈkʊriə(r)/
+courier		<-->	noun+C2	[221109][001]	./ˈkʊriə(r)/
  /ˈkʊriər/
 	;nhân viên hướng dẫn công ty du lịch -- (British English) a person who is employed by a travel company to give advice and help to a group of tourists on holiday	
 	;người mang vác hành lý -- a person or company whose job is to take packages or important papers somewhere
@@ -475,7 +475,7 @@ courier		<-->	noun+C2[-0]	./ˈkʊriə(r)/
 
 
 
-cruise		<-->	noun+B2	[220818][1]	./kruːz/-NAmE /kruːz/
+cruise		<-->	noun+B2	[220818][001]	./kruːz/-NAmE /kruːz/
 	;chuyến du lịch biển -- a journey by sea, visiting different places, especially as a holiday
 		;a luxury cruise ship
 
@@ -485,7 +485,7 @@ cruise		<-->	noun+B2	[220818][1]	./kruːz/-NAmE /kruːz/
 
 
 
-currency		<-->	noun+B1[-0]	./ˈkʌrənsi/-NAmE /ˈkɜːrənsi/
+currency		<-->	noun+B1	[221109][001]	./ˈkʌrənsi/-NAmE /ˈkɜːrənsi/
 	;tiền tệ -- [countable, uncountable] the system of money that a country uses
 		;the single European currency
 
@@ -495,7 +495,7 @@ currency		<-->	noun+B1[-0]	./ˈkʌrənsi/-NAmE /ˈkɜːrənsi/
 
 
 
-customs		<-->	noun+C2	[220818][1]	./ˈkʌstəmz/-NAmE /ˈkʌstəmz/
+customs		<-->	noun+C2	[220818][001]	./ˈkʌstəmz/-NAmE /ˈkʌstəmz/
 	;hải quan -- (usually Customs) (British English also Revenue and Customs) the government department that collects taxes on goods bought and sold and on goods brought into the country, and that checks what is brought in
 		;French Customs have arrested two men.
 
@@ -505,7 +505,7 @@ customs		<-->	noun+C2	[220818][1]	./ˈkʌstəmz/-NAmE /ˈkʌstəmz/
 
 
 
-day out		<-->	noun+B1	[220818][1]	./ˌdeɪ ˈaʊt/-NAmE /ˌdeɪ ˈaʊt/+\
+day out		<-->	noun+B1	[220818][001]	./ˌdeɪ ˈaʊt/-NAmE /ˌdeɪ ˈaʊt/+\
 	;du lịch trong ngày -- a trip or visit somewhere for a day
 		;We had a day out in the country.
 
@@ -515,7 +515,7 @@ day out		<-->	noun+B1	[220818][1]	./ˌdeɪ ˈaʊt/-NAmE /ˌdeɪ ˈaʊt/+\
 
 
 
-daypack		<-->	noun+C1[-0]	./ˈdeɪpæk/-NAmE /ˈdeɪpæk/
+daypack		<-->	noun+C1	[221109][001]	./ˈdeɪpæk/-NAmE /ˈdeɪpæk/
 	;một ba lô nhỏ chứa đồ trong ngày -- a small backpack in which you carry what you need for one day
 		;The blanket is light and easy to carry in a daypack.
 
@@ -525,7 +525,7 @@ daypack		<-->	noun+C1[-0]	./ˈdeɪpæk/-NAmE /ˈdeɪpæk/
 
 
 
-day trip		<-->	noun+B1[-0]	./ˈdeɪ trɪp/-NAmE /ˈdeɪ trɪp/+\
+day trip		<-->	noun+B1	[221109][001]	./ˈdeɪ trɪp/-NAmE /ˈdeɪ trɪp/+\
 	;du lịch trọn ngày -- a trip or visit completed in one day
 
 
@@ -534,7 +534,7 @@ day trip		<-->	noun+B1[-0]	./ˈdeɪ trɪp/-NAmE /ˈdeɪ trɪp/+\
 
 
 
-day tripper		<-->	noun+C2	[220818][1]	./ˈdeɪ trɪpə(r)/-NAmE /ˈdeɪ trɪpər/+\
+day tripper		<-->	noun+C2	[220818][001]	./ˈdeɪ trɪpə(r)/-NAmE /ˈdeɪ trɪpər/+\
 	;một người đi du lịch trọn ngày -- a person making a trip or visit for pleasure that is completed in one day
 
 
@@ -543,7 +543,7 @@ day tripper		<-->	noun+C2	[220818][1]	./ˈdeɪ trɪpə(r)/-NAmE /ˈdeɪ trɪpər
 
 
 
-deckchair		<-->	noun+C2[-0]	./ˈdektʃeə(r)/-NAmE /ˈdektʃer/
+deckchair		<-->	noun+C2	[221109][001]	./ˈdektʃeə(r)/-NAmE /ˈdektʃer/
 	;ghế xếp -- [Image] a folding chair with a seat made from a long piece of material on a wooden or metal frame, used for example on a beach
 
 
@@ -560,7 +560,7 @@ desk		<-->	noun+A1[-0]	.
 
 
 
-desk clerk		<-->	noun+B2[-0]	./ˈdesk klɑːk/-NAmE /ˈdesk klɜːrk/+\
+desk clerk		<-->	noun+B2	[221109][001]	./ˈdesk klɑːk/-NAmE /ˈdesk klɜːrk/+\
 	;người quản lý việc đi đến của khách -- a person whose job is dealing with people arriving at or leaving a hotel
 
 
@@ -569,7 +569,7 @@ desk clerk		<-->	noun+B2[-0]	./ˈdesk klɑːk/-NAmE /ˈdesk klɜːrk/+\
 
 
 
-destination		<-->	noun+B1[-0]	./ˌdestɪˈneɪʃn/-NAmE /ˌdestɪˈneɪʃn/
+destination		<-->	noun+B1	[221109][001]	./ˌdestɪˈneɪʃn/-NAmE /ˌdestɪˈneɪʃn/
 	;điểm đến -- a place to which somebody/something is going or being sent
 		;popular tourist/holiday destinations like the Bahamas
 
@@ -579,7 +579,7 @@ destination		<-->	noun+B1[-0]	./ˌdestɪˈneɪʃn/-NAmE /ˌdestɪˈneɪʃn/
 
 
 
-destination wedding		<-->	noun+C2[-0]	./ˌdestɪˈneɪʃn wedɪŋ/-NAmE /ˌdestɪˈneɪʃn wedɪŋ/+\
+destination wedding		<-->	noun+C2	[221109][001]	./ˌdestɪˈneɪʃn wedɪŋ/-NAmE /ˌdestɪˈneɪʃn wedɪŋ/+\
 	;đám cưới tổ chức nơi resort -- a wedding held in an exciting or unusual place in a foreign country where all the people who travel to the wedding can also have a holiday
 		;They had a destination wedding on a beach in Brazil.
 
@@ -589,7 +589,7 @@ destination wedding		<-->	noun+C2[-0]	./ˌdestɪˈneɪʃn wedɪŋ/-NAmE /ˌdest�
 
 
 
-doorman		<-->	noun+C1[-0]	./ˈdɔːmən/-NAmE /ˈdɔːrmən/
+doorman		<-->	noun+C1	[221109][001]	./ˈdɔːmən/-NAmE /ˈdɔːrmən/
 	;người gác nam cửa có đồng phục -- ​a man, often in uniform, whose job is to stand at the entrance to a large building such as a hotel or a theatre, and open the door for visitors, find them taxis, etc.
 
 
@@ -598,7 +598,7 @@ doorman		<-->	noun+C1[-0]	./ˈdɔːmən/-NAmE /ˈdɔːrmən/
 
 
 
-doorwoman		<-->	noun+C1[-0]	./ˈdɔːwʊmən/-NAmE /ˈdɔːrwʊmən/
+doorwoman		<-->	noun+C1	[221109][001]	./ˈdɔːwʊmən/-NAmE /ˈdɔːrwʊmən/
 	;người gác nữ cửa có đồng phục -- a woman, often in uniform, whose job is to stand at the entrance to a large building such as a hotel or a theatre, and open the door for visitors, find them taxis, etc.
 
 
@@ -607,7 +607,7 @@ doorwoman		<-->	noun+C1[-0]	./ˈdɔːwʊmən/-NAmE /ˈdɔːrwʊmən/
 
 
 
-double		<-->	noun+B1[-0]	./ˈdʌbl/-NAmE /ˈdʌbl/-\
+double		<-->	noun+B1	[221109][001]	./ˈdʌbl/-NAmE /ˈdʌbl/-\
 	;[countable] phòng đôi -- a bedroom for two people
 
 
@@ -616,7 +616,7 @@ double		<-->	noun+B1[-0]	./ˈdʌbl/-NAmE /ˈdʌbl/-\
 
 
 
-double room		<-->	noun+A2[-0]	./ˌdʌbl ˈruːm/,  /ˌdʌbl ˈrʊm/-NAmE /ˌdʌbl ˈruːm/,  /ˌdʌbl ˈrʊm/+\
+double room		<-->	noun+A2	[221109][001]	./ˌdʌbl ˈruːm/,  /ˌdʌbl ˈrʊm/-NAmE /ˌdʌbl ˈruːm/,  /ˌdʌbl ˈrʊm/+\
 
 
 
@@ -624,7 +624,7 @@ double room		<-->	noun+A2[-0]	./ˌdʌbl ˈruːm/,  /ˌdʌbl ˈrʊm/-NAmE /ˌdʌb
 
 
 
-duty-free		<-->	adjective+C1[-0]	./ˌdjuːti ˈfriː/-NAmE /ˌduːti ˈfriː/+\
+duty-free		<-->	adjective+C1	[221109][001]	./ˌdjuːti ˈfriː/-NAmE /ˌduːti ˈfriː/+\
 	;hàng miễn thuế -- (of goods) that you can bring into a country without paying tax on them
 
 
@@ -641,7 +641,7 @@ duty-free		<-->	adverb+C1[-0]	.
 
 
 
-ecotourism		<-->	noun+C2[-0]	./ˈiːkəʊtʊərɪzəm/,  /ˈiːkəʊtɔːrɪzəm/-NAmE /ˈiːkəʊtʊrɪzəm/+\
+ecotourism		<-->	noun+C2	[221109][001]	./ˈiːkəʊtʊərɪzəm/,  /ˈiːkəʊtɔːrɪzəm/-NAmE /ˈiːkəʊtʊrɪzəm/+\
 	;du lịch sinh thái -- organized holidays that are designed so that the tourists damage the environment as little as possible, especially when some of the money they pay is used to protect the local environment and animals
 		;Ecotourism is financing rainforest preservation.
 
@@ -651,7 +651,7 @@ ecotourism		<-->	noun+C2[-0]	./ˈiːkəʊtʊərɪzəm/,  /ˈiːkəʊtɔːrɪzəm
 
 
 
-en suite		<-->	adjective+C1[-0]	./ˌɒ̃ ˈswiːt/-NAmE /ˌɑ̃ː ˈswiːt/ {IMAGE]-Bedroom
+en suite		<-->	adjective+C1	[221109][001]	./ˌɒ̃ ˈswiːt/-NAmE /ˌɑ̃ː ˈswiːt/ {IMAGE]-Bedroom
 	;(phòng tắm )kề chỗ ngủ -- (of a bathroom) joined onto a bedroom and for use only by people in that bedroom
 		;Each bedroom in the hotel has a bathroom en suite/an en-suite bathroom.
 
@@ -661,7 +661,7 @@ en suite		<-->	adjective+C1[-0]	./ˌɒ̃ ˈswiːt/-NAmE /ˌɑ̃ː ˈswiːt/ {IMA
 
 
 
-en-suite		<-->	noun+C1[-0]	./ˌɒ̃ ˈswiːt/-NAmE /ˌɑ̃ː ˈswiːt/
+en-suite		<-->	noun+C1	[221109][001]	./ˌɒ̃ ˈswiːt/-NAmE /ˌɑ̃ː ˈswiːt/
 	;phòng tắm -- a bathroom that is joined onto a bedroom and for use only by people in that bedroom
 		;Both bedrooms have tiled(lát gạch) en-suites.
 
@@ -671,7 +671,7 @@ en-suite		<-->	noun+C1[-0]	./ˌɒ̃ ˈswiːt/-NAmE /ˌɑ̃ː ˈswiːt/
 
 
 
-exchange		<-->	noun+B1[-0]	./ɪksˈtʃeɪndʒ/-NAmE /ɪksˈtʃeɪndʒ/\
+exchange		<-->	noun+B1	[221109][001]	./ɪksˈtʃeɪndʒ/-NAmE /ɪksˈtʃeɪndʒ/\
 	;sự giao lưu -- [countable] an arrangement when two people or groups from different countries visit each other’s homes or do each other’s jobs for a short time
 		;exchange (with somebody/something) Our school does an exchange with a school in France.
 
@@ -681,7 +681,7 @@ exchange		<-->	noun+B1[-0]	./ɪksˈtʃeɪndʒ/-NAmE /ɪksˈtʃeɪndʒ/\
 
 
 
-excursion		<-->=	noun+B2[-0]	./ɪkˈskɜːʃn/-NAmE /ɪkˈskɜːrʒn/
+excursion		<-->=	noun+B2	[221109][001]	./ɪkˈskɜːʃn/-NAmE /ɪkˈskɜːrʒn/
 	;việc đi chơ ngắn ngày theo nhóm -- a short journey made for pleasure, especially one that has been organized for a group of people
 		;There are regular weekend excursions throughout the summer.	
 
@@ -691,7 +691,7 @@ excursion		<-->=	noun+B2[-0]	./ɪkˈskɜːʃn/-NAmE /ɪkˈskɜːrʒn/
 
 
 
-explore		<-->	verb+B1[-0]	./ɪkˈsplɔː(r)/-NAmE /ɪkˈsplɔːr/
+explore		<-->	verb+B1	[221109][001]	./ɪkˈsplɔː(r)/-NAmE /ɪkˈsplɔːr/
 	;du lịch, khám phá -- [intransitive, transitive] to travel to or around an area or a country in order to learn about it
 		;As soon as we arrived on the island we were eager to explore.
 
@@ -701,7 +701,7 @@ explore		<-->	verb+B1[-0]	./ɪkˈsplɔː(r)/-NAmE /ɪkˈsplɔːr/
 
 
 
-family room		<-->	noun+B1[-0]	./ˈfæməli ruːm/,  /ˈfæməli rʊm/-NAmE /ˈfæməli ruːm/,  /ˈfæməli rʊm/
+family room		<-->	noun+B1	[221109][001]	./ˈfæməli ruːm/,  /ˈfæməli rʊm/-NAmE /ˈfæməli ruːm/,  /ˈfæməli rʊm/
 	;phòng rộng cho trẻ em -- a room in a hotel for three or four people to sleep in, especially parents and children
 
 
@@ -710,7 +710,7 @@ family room		<-->	noun+B1[-0]	./ˈfæməli ruːm/,  /ˈfæməli rʊm/-NAmE /ˈf�
 
 
 
-fleabag		<-->	noun+C2	[220818][1]	./ˈfliːbæɡ/-NAmE /ˈfliːbæɡ/
+fleabag		<-->	noun+C2	[220818][001]	./ˈfliːbæɡ/-NAmE /ˈfliːbæɡ/
 	;người lượm thượm -- a person who looks poor and does not take care of their appearance
 
 
@@ -719,7 +719,7 @@ fleabag		<-->	noun+C2	[220818][1]	./ˈfliːbæɡ/-NAmE /ˈfliːbæɡ/
 
 
 
-floor		<-->	noun+A2[-0]	./flɔː(r)/-NAmE /flɔːr/
+floor		<-->	noun+A2	[221109][001]	./flɔː(r)/-NAmE /flɔːr/
 	;tầng -- [countable] all the rooms that are on the same level of a building
 		;a cafe on the mezzanine floor
 
@@ -729,7 +729,7 @@ floor		<-->	noun+A2[-0]	./flɔː(r)/-NAmE /flɔːr/
 
 
 
-fly-drive		<-->	noun+C2[-0]	./ˈflaɪ draɪv/-NAmE /ˈflaɪ draɪv/+\
+fly-drive		<-->	noun+C2	[221109][001]	./ˈflaɪ draɪv/-NAmE /ˈflaɪ draɪv/+\
 	;kỳ nghỉ lái xe bụi -- a fly-drive holiday
 		;a 14-night fly-drive to Florida
 
@@ -739,7 +739,7 @@ fly-drive		<-->	noun+C2[-0]	./ˈflaɪ draɪv/-NAmE /ˈflaɪ draɪv/+\
 
 
 
-forecourt		<-->	noun+C2	[220818][1]	./ˈfɔːkɔːt/-NAmE /ˈfɔːrkɔːrt/
+forecourt		<-->	noun+C2	[220818][001]	./ˈfɔːkɔːt/-NAmE /ˈfɔːrkɔːrt/
 	;khu vực sân trước dành cho đỗ xe, đổ xăng -- a large open space in front of a building, for example a petrol station or hotel, often used for parking cars on
 
 
@@ -748,7 +748,7 @@ forecourt		<-->	noun+C2	[220818][1]	./ˈfɔːkɔːt/-NAmE /ˈfɔːrkɔːrt/
 
 
 
-foreign		<-->	adjective+A2[-0]	./ˈfɒrən/-NAmE /ˈfɔːrən/-\
+foreign		<-->	adjective+A2	[221109][001]	./ˈfɒrən/-NAmE /ˈfɔːrən/-\
 	;nước ngoài -- in or from a country that is not your own
 
 
@@ -757,7 +757,7 @@ foreign		<-->	adjective+A2[-0]	./ˈfɒrən/-NAmE /ˈfɔːrən/-\
 
 
 
-foyer		<-->	noun+C2	[220818][1]	./ˈfɔɪeɪ/-NAmE /ˈfɔɪər/
+foyer		<-->	noun+C2	[220818][001]	./ˈfɔɪeɪ/-NAmE /ˈfɔɪər/
 	;khu tiền sảnh -- ~ lobby , a large open space inside the entrance of a theatre or hotel where people can meet or wait
 
 
@@ -766,7 +766,7 @@ foyer		<-->	noun+C2	[220818][1]	./ˈfɔɪeɪ/-NAmE /ˈfɔɪər/
 
 
 
-front desk		<-->	noun+B1[-0]	./ˌfrʌnt ˈdesk/-NAmE /ˌfrʌnt ˈdesk/+\
+front desk		<-->	noun+B1	[221109][001]	./ˌfrʌnt ˈdesk/-NAmE /ˌfrʌnt ˈdesk/+\
 	;bàn đón khách -- the desk inside the entrance of a hotel, an office building, etc. where guests or visitors go when they first arrive
 		;I worked the front desk as one of my first jobs.
 
@@ -776,7 +776,7 @@ front desk		<-->	noun+B1[-0]	./ˌfrʌnt ˈdesk/-NAmE /ˌfrʌnt ˈdesk/+\
 
 
 
-full board		<-->	noun+C2[-0]	./ˌfʊl ˈbɔːd/-NAmE /ˌfʊl ˈbɔːrd/
+full board		<-->	noun+C2	[221109][001]	./ˌfʊl ˈbɔːd/-NAmE /ˌfʊl ˈbɔːrd/
 	;phòng trọn gói -- a type of accommodation in a hotel, etc. that includes all meals
 		;Do you require full or half board?
 
@@ -796,7 +796,7 @@ get away		<-->	phrasal verb+B2[-0]	.
 
 
 
-getaway		<-->	noun+C2[-0]	./ˈɡetəweɪ/-NAmE /ˈɡetəweɪ/+\
+getaway		<-->	noun+C2	[221109][001]	./ˈɡetəweɪ/-NAmE /ˈɡetəweɪ/+\
 	;kỳ nghỉ ngắn -- (informal) a short holiday;a place that is suitable for a holiday
 		;a romantic weekend getaway in New York
 
@@ -806,7 +806,7 @@ getaway		<-->	noun+C2[-0]	./ˈɡetəweɪ/-NAmE /ˈɡetəweɪ/+\
 
 
 
-glamping		<-->	noun+C2[-0]	./ˈɡlæmpɪŋ/-NAmE /ˈɡlæmpɪŋ/
+glamping		<-->	noun+C2	[221109][001]	./ˈɡlæmpɪŋ/-NAmE /ˈɡlæmpɪŋ/
 	;một hình thức cắm trại -- a type of camping, using tents and other kinds of accommodation, facilities, etc. that are more comfortable and expensive than those usually used for camping
 
 
@@ -815,7 +815,7 @@ glamping		<-->	noun+C2[-0]	./ˈɡlæmpɪŋ/-NAmE /ˈɡlæmpɪŋ/
 
 
 
-guest		<-->	noun+A2[-0]	./ɡest/-NAmE /ɡest/
+guest		<-->	noun+A2	[221109][001]	./ɡest/-NAmE /ɡest/
 	;khách -- a person that you have invited to your house or to a particular event that you are paying for
 		;They only use the dining room when they have guests.
 
@@ -825,7 +825,7 @@ guest		<-->	noun+A2[-0]	./ɡest/-NAmE /ɡest/
 
 
 
-guest house		<-->	noun+C1[-0]	./ˈɡest haʊs/-NAmE /ˈɡest haʊs/
+guest house		<-->	noun+C1	[221109][001]	./ˈɡest haʊs/-NAmE /ˈɡest haʊs/
 	;khách sạn nhỏ, nhà nghỉ -- (British English) a small hotel
 		;It is a comfortable family-run guest house near the beach.
 
@@ -835,7 +835,7 @@ guest house		<-->	noun+C1[-0]	./ˈɡest haʊs/-NAmE /ˈɡest haʊs/
 
 
 
-guide		<-->	noun+A2[-0]	./ɡaɪd/-NAmE /ɡaɪd/\
+guide		<-->	noun+A2	[221109][001]	./ɡaɪd/-NAmE /ɡaɪd/\
 	;người hướng dẫn (viên) --  a person who shows other people the way to a place, especially somebody employed to show tourists around interesting places
 		;We hired a local guide to get us across the mountains.
 
@@ -845,7 +845,7 @@ guide		<-->	noun+A2[-0]	./ɡaɪd/-NAmE /ɡaɪd/\
 
 
 
-guy		<-->	noun+C2[-0]	./ɡaɪ/-NAmE /ɡaɪ/
+guy		<-->	noun+C2	[221109][001]	./ɡaɪ/-NAmE /ɡaɪ/
 	;dây buộc lều -- (also guy rope) [countable] a rope used to keep a pole or tent in a secure position
 
 
@@ -854,7 +854,7 @@ guy		<-->	noun+C2[-0]	./ɡaɪ/-NAmE /ɡaɪ/
 
 
 
-half board		<-->	noun+C2	[220818][1]	./ˌhɑːf ˈbɔːd/-NAmE /ˌhæf ˈbɔːrd/+\
+half board		<-->	noun+C2	[220818][001]	./ˌhɑːf ˈbɔːd/-NAmE /ˌhæf ˈbɔːrd/+\
 	;hình thức nghỉ dưỡng có phục vụ ăn -- [uncountable] (British English), a type of accommodation at a hotel, etc. that includes breakfast and an evening meal
 
 
@@ -863,7 +863,7 @@ half board		<-->	noun+C2	[220818][1]	./ˌhɑːf ˈbɔːd/-NAmE /ˌhæf ˈbɔːrd
 
 
 
-high season		<-->	noun+C1[-0]	./ˌhaɪ ˈsiːzn/-NAmE /ˌhaɪ ˈsiːzn/+\
+high season		<-->	noun+C1	[221109][001]	./ˌhaɪ ˈsiːzn/-NAmE /ˌhaɪ ˈsiːzn/+\
 	;mùa du lịch đông khách -- the time of year when a hotel or tourist area receives most visitors
 		;Hotels usually raise their prices in (the) high season.
 
@@ -873,7 +873,7 @@ high season		<-->	noun+C1[-0]	./ˌhaɪ ˈsiːzn/-NAmE /ˌhaɪ ˈsiːzn/+\
 
 
 
-hiking		<-->	noun+A2[-0]	./ˈhaɪkɪŋ/-NAmE /ˈhaɪkɪŋ/
+hiking		<-->	noun+A2	[221109][001]	./ˈhaɪkɪŋ/-NAmE /ˈhaɪkɪŋ/
 	;môn leo núi -- the activity of going for long walks in the country for pleasure
 		;I like hiking.
 
@@ -883,7 +883,7 @@ hiking		<-->	noun+A2[-0]	./ˈhaɪkɪŋ/-NAmE /ˈhaɪkɪŋ/
 
 
 
-hillwalking		<-->	noun+B2[-0]	./ˈhɪlwɔːkɪŋ/-NAmE /ˈhɪlwɔːkɪŋ/
+hillwalking		<-->	noun+B2	[221109][001]	./ˈhɪlwɔːkɪŋ/-NAmE /ˈhɪlwɔːkɪŋ/
 	;hoạt động/môn leo núi -- the activity of walking on or up hills in the countryside for pleasure
 		;;I like hillwalking.
 
@@ -893,7 +893,7 @@ hillwalking		<-->	noun+B2[-0]	./ˈhɪlwɔːkɪŋ/-NAmE /ˈhɪlwɔːkɪŋ/
 
 
 
-holiday		<-->	noun+A1[-0]	./ˈhɒlədeɪ/,  /ˈhɒlədi/-NAmE /ˈhɑːlədeɪ/
+holiday		<-->	noun+A1	[221109][001]	./ˈhɒlədeɪ/,  /ˈhɒlədi/-NAmE /ˈhɑːlədeɪ/
 	;ngày nghỉ -- a period of time when you are not at work or school
 		;The package includes 20 days' paid holiday a year.
 
@@ -903,7 +903,7 @@ holiday		<-->	noun+A1[-0]	./ˈhɒlədeɪ/,  /ˈhɒlədi/-NAmE /ˈhɑːlədeɪ/
 
 
 
-holiday camp		<-->	noun+B1[-0]	./ˈhɒlədeɪ kæmp/,  /ˈhɒlədi kæmp/-NAmE /ˈhɑːlədeɪ kæmp/
+holiday camp		<-->	noun+B1	[221109][001]	./ˈhɒlədeɪ kæmp/,  /ˈhɒlədi kæmp/-NAmE /ˈhɑːlədeɪ kæmp/
 	;trại nghỉ -- a place that provides accommodation and entertainment for large numbers of people who are on holiday
 
 
@@ -912,7 +912,7 @@ holiday camp		<-->	noun+B1[-0]	./ˈhɒlədeɪ kæmp/,  /ˈhɒlədi kæmp/-NAmE /
 
 
 
-holidaymaker		<-->	noun+B2[-0]	./ˈhɒlədeɪmeɪkə(r)/,  /ˈhɒlədimeɪkə(r)/-NAmE /ˈhɑːlədeɪmeɪkər/
+holidaymaker		<-->	noun+B2	[221109][001]	./ˈhɒlədeɪmeɪkə(r)/,  /ˈhɒlədimeɪkə(r)/-NAmE /ˈhɑːlədeɪmeɪkər/
 	;người đến thăm nơi khác trong kỳ nghỉ -- a person who is visiting a place on holiday
 		;The plane was packed with Dutch holidaymakers.
 
@@ -922,7 +922,7 @@ holidaymaker		<-->	noun+B2[-0]	./ˈhɒlədeɪmeɪkə(r)/,  /ˈhɒlədimeɪkə(r)
 
 
 
-homestay		<-->	noun+C1[-0]	./ˈhəʊmsteɪ/-NAmE /ˈhəʊmsteɪ/
+homestay		<-->	noun+C1	[221109][001]	./ˈhəʊmsteɪ/-NAmE /ˈhəʊmsteɪ/
 	;nhà nghỉ -- [countable, uncountable] an arrangement that provides accommodation for students or tourists in the home of a family in exchange for payment
 		;The trip includes a homestay in a traditional village.
 
@@ -932,7 +932,7 @@ homestay		<-->	noun+C1[-0]	./ˈhəʊmsteɪ/-NAmE /ˈhəʊmsteɪ/
 
 
 
-honeymoon		<-->	noun+B2[-0]	./ˈhʌnimuːn/-NAmE /ˈhʌnimuːn/
+honeymoon		<-->	noun+B2	[221109][001]	./ˈhʌnimuːn/-NAmE /ˈhʌnimuːn/
 	;kỳ trăng mật -- a holiday taken by a couple who have just got married
 		;We went to Venice for our honeymoon.
 
@@ -942,7 +942,7 @@ honeymoon		<-->	noun+B2[-0]	./ˈhʌnimuːn/-NAmE /ˈhʌnimuːn/
 
 
 
-hostel		<-->	noun+B1[-0]	./ˈhɒstl/-NAmE /ˈhɑːstl/
+hostel		<-->	noun+B1	[221109][001]	./ˈhɒstl/-NAmE /ˈhɑːstl/
 	;nhà trọ giá rẻ -- a building that provides cheap accommodation and sometimes meals to students, workers or travellers
 		;We stayed at a student hostel during the conference.
 
@@ -952,7 +952,7 @@ hostel		<-->	noun+B1[-0]	./ˈhɒstl/-NAmE /ˈhɑːstl/
 
 
 
-hostelry		<-->	noun+C2[-0]	./ˈhɒstəlri/-NAmE /ˈhɑːstəlri/
+hostelry		<-->	noun+C2	[221109][001]	./ˈhɒstəlri/-NAmE /ˈhɑːstəlri/
 	;nhà trọ hay quán rượu -- a pub or hotel
 
 
@@ -961,7 +961,7 @@ hostelry		<-->	noun+C2[-0]	./ˈhɒstəlri/-NAmE /ˈhɑːstəlri/
 
 
 
-hotel		<-->	noun+A1[-0]	./həʊˈtel/-NAmE /həʊˈtel/
+hotel		<-->	noun+A1	[221109][001]	./həʊˈtel/-NAmE /həʊˈtel/
 	;khách sạn -- a building where people stay, usually for a short time, paying for their rooms and meals
 		;a luxury/boutique hotel
 
@@ -971,7 +971,7 @@ hotel		<-->	noun+A1[-0]	./həʊˈtel/-NAmE /həʊˈtel/
 
 
 
-hotelier		<-->	noun+C2[-0]	./həʊˈteliə(r)/,  /həʊˈtelieɪ/-NAmE /ˌəʊtelˈjeɪ/,  /həʊˈteljər/
+hotelier		<-->	noun+C2	[221109][001]	./həʊˈteliə(r)/,  /həʊˈtelieɪ/-NAmE /ˌəʊtelˈjeɪ/,  /həʊˈteljər/
 	;chủ khách sạn -- a person who owns or manages a hotel
 
 
@@ -980,7 +980,7 @@ hotelier		<-->	noun+C2[-0]	./həʊˈteliə(r)/,  /həʊˈtelieɪ/-NAmE /ˌəʊte
 
 
 
-hotspot		<-->	noun+C2[-0]	./ˈhɒtspɒt/-NAmE /ˈhɑːtspɑːt/
+hotspot		<-->	noun+C2	[221109][001]	./ˈhɒtspɒt/-NAmE /ˈhɑːtspɑːt/
 	;một nơi giải trí -- a place where there is a lot of activity or entertainment
 
 
@@ -989,7 +989,7 @@ hotspot		<-->	noun+C2[-0]	./ˈhɒtspɒt/-NAmE /ˈhɑːtspɑːt/
 
 
 
-housekeeper		<-->	noun+C2[-0]	./ˈhaʊskiːpə(r)/-NAmE /ˈhaʊskiːpər/
+housekeeper		<-->	noun+C2	[221109][001]	./ˈhaʊskiːpə(r)/-NAmE /ˈhaʊskiːpər/
 	;người quản lý nhà -- a person, usually a woman, whose job is to manage the shopping, cooking, cleaning, etc. in a house or an institution
 
 
@@ -998,7 +998,7 @@ housekeeper		<-->	noun+C2[-0]	./ˈhaʊskiːpə(r)/-NAmE /ˈhaʊskiːpər/
 
 
 
-housekeeping		<-->	noun+C2[-0]	./ˈhaʊskiːpɪŋ/-NAmE /ˈhaʊskiːpɪŋ/
+housekeeping		<-->	noun+C2	[221109][001]	./ˈhaʊskiːpɪŋ/-NAmE /ˈhaʊskiːpɪŋ/
 	;việc dọn phòng, nhà -- the work involved in taking care of a house, especially shopping and managing money
 		;My financial problems were made worse by my bad housekeeping.
 
@@ -1008,7 +1008,7 @@ housekeeping		<-->	noun+C2[-0]	./ˈhaʊskiːpɪŋ/-NAmE /ˈhaʊskiːpɪŋ/
 
 
 
-inn		<-->	noun+C1[-0]	./ɪn/-NAmE /ɪn/
+inn		<-->	noun+C1	[221109][001]	./ɪn/-NAmE /ɪn/
 	;khách sạn nhỏ -- (North American English) a small hotel, usually in the country
 		;We stayed at a country inn.
 
@@ -1018,7 +1018,7 @@ inn		<-->	noun+C1[-0]	./ɪn/-NAmE /ɪn/
 
 
 
-island-hopping		<-->	noun+C2[-0]	./ˈaɪlənd hɒpɪŋ/-NAmE /ˈaɪlənd hɑːpɪŋ/
+island-hopping		<-->	noun+C2	[221109][001]	./ˈaɪlənd hɒpɪŋ/-NAmE /ˈaɪlənd hɑːpɪŋ/
 	;du lịch đảo -- ​the activity of travelling from one island to another in an area that has lots of islands, especially as a tourist
 
 
@@ -1027,7 +1027,7 @@ island-hopping		<-->	noun+C2[-0]	./ˈaɪlənd hɒpɪŋ/-NAmE /ˈaɪlənd hɑːp�
 
 
 
-itinerary		<-->	noun+C1[-0]	./aɪˈtɪnərəri/-NAmE /aɪˈtɪnəreri/
+itinerary		<-->	noun+C1	[221109][001]	./aɪˈtɪnərəri/-NAmE /aɪˈtɪnəreri/
 	;kế hoạch du lịch -- a plan of a journey, including the route and the places that you visit
 		;a detailed itinerary
 
@@ -1037,7 +1037,7 @@ itinerary		<-->	noun+C1[-0]	./aɪˈtɪnərəri/-NAmE /aɪˈtɪnəreri/
 
 
 
-jaunt		<-->	noun+C2[-0]	./dʒɔːnt/-NAmE /dʒɔːnt/
+jaunt		<-->	noun+C2	[221109][001]	./dʒɔːnt/-NAmE /dʒɔːnt/
 	;chuyến đi chơi ngắn hạn -- a short journey that you make for pleasure
 
 
@@ -1046,7 +1046,7 @@ jaunt		<-->	noun+C2[-0]	./dʒɔːnt/-NAmE /dʒɔːnt/
 
 
 
-journey		<-->	noun+A1[-0]	./ˈdʒɜːni/-NAmE /ˈdʒɜːrni/\	
+journey		<-->	noun+A1	[221109][001]	./ˈdʒɜːni/-NAmE /ˈdʒɜːrni/\	
 	;chuyến đi, hành trình -- an act of travelling from one place to another, especially when they are far apart
 		;They went on a long train journey across India.
 
@@ -1056,7 +1056,7 @@ journey		<-->	noun+A1[-0]	./ˈdʒɜːni/-NAmE /ˈdʒɜːrni/\
 
 
 
-key card		<-->	noun+A2[-0]	./ˈkiː kɑːd/-NAmE /ˈkiː kɑːrd/
+key card		<-->	noun+A2	[221109][001]	./ˈkiː kɑːd/-NAmE /ˈkiː kɑːrd/
 	;một loại thẻ mở cửa -- a special plastic card with information recorded on it that can be read by an electronic device, which can be used instead of a door key
 
 
@@ -1065,7 +1065,7 @@ key card		<-->	noun+A2[-0]	./ˈkiː kɑːd/-NAmE /ˈkiː kɑːrd/
 
 
 
-lobby		<-->	noun+C1[-0]	./ˈlɒbi/-NAmE /ˈlɑːbi/
+lobby		<-->	noun+C1	[221109][001]	./ˈlɒbi/-NAmE /ˈlɑːbi/
 	;tiền sảnh ~ foyer -- [countable] a large area inside the entrance of a public building where people can meet and wait
 		;a hotel lobby
 
@@ -1075,7 +1075,7 @@ lobby		<-->	noun+C1[-0]	./ˈlɒbi/-NAmE /ˈlɑːbi/
 
 
 
-lounge		<-->	noun+B2[-0]	./laʊndʒ/-NAmE /laʊndʒ/\
+lounge		<-->	noun+B2	[221109][001]	./laʊndʒ/-NAmE /laʊndʒ/\
 	;phòng chờ -- a room for waiting in at an airport, etc.
 		;the departure lounge
 
@@ -1085,7 +1085,7 @@ lounge		<-->	noun+B2[-0]	./laʊndʒ/-NAmE /laʊndʒ/\
 
 
 
-lounge bar		<-->	noun+C2[-0]	./ˈlaʊndʒ bɑː(r)/-NAmE /ˈlaʊndʒ bɑːr/
+lounge bar		<-->	noun+C2	[221109][001]	./ˈlaʊndʒ bɑː(r)/-NAmE /ˈlaʊndʒ bɑːr/
 	;một bar ở quán rượu -- a bar in a pub, hotel, etc. that is more comfortable than the other bars and where the drinks are usually more expensive
 
 
@@ -1094,7 +1094,7 @@ lounge bar		<-->	noun+C2[-0]	./ˈlaʊndʒ bɑː(r)/-NAmE /ˈlaʊndʒ bɑːr/
 
 
 
-lounger		<-->	noun+C2	[220818][1]	./ˈlaʊndʒə(r)/-NAmE /ˈlaʊndʒər/+\
+lounger		<-->	noun+C2	[220818][001]	./ˈlaʊndʒə(r)/-NAmE /ˈlaʊndʒər/+\
 	;ghế dài  -- a long comfortable chair that supports your legs, used for sitting or lying on, especially outdoors
 
 
@@ -1113,7 +1113,7 @@ low season		<-->	noun+C1[-0]	.
 
 
 
-luggage		<-->	noun+A2[-0]	./ˈlʌɡɪdʒ/-NAmE /ˈlʌɡɪdʒ/
+luggage		<-->	noun+A2	[221109][001]	./ˈlʌɡɪdʒ/-NAmE /ˈlʌɡɪdʒ/
 	;hành lí ~  baggage (1) -- (especially British English) bags, cases, etc. that contain somebody's clothes and things when they are travelling
 		;There's room for one more piece of luggage.
 
@@ -1123,7 +1123,7 @@ luggage		<-->	noun+A2[-0]	./ˈlʌɡɪdʒ/-NAmE /ˈlʌɡɪdʒ/
 
 
 
-luxurious		<-->	adjective+C1[-0]	./lʌɡˈʒʊəriəs/-NAmE /lʌɡˈʒʊriəs/
+luxurious		<-->	adjective+C1	[221109][001]	./lʌɡˈʒʊəriəs/-NAmE /lʌɡˈʒʊriəs/
 	;rất sang trọng -- ​very comfortable;containing expensive things that give pleasure
 		;a luxurious hotel
 
@@ -1133,7 +1133,7 @@ luxurious		<-->	adjective+C1[-0]	./lʌɡˈʒʊəriəs/-NAmE /lʌɡˈʒʊriəs/
 
 
 
-maid		<-->	noun+C1[-0]	./meɪd/-NAmE /meɪd/
+maid		<-->	noun+C1	[221109][001]	./meɪd/-NAmE /meɪd/
 	;người nữ hầu phòng -- a female servant in a house or hotel
 
 
@@ -1142,7 +1142,7 @@ maid		<-->	noun+C1[-0]	./meɪd/-NAmE /meɪd/
 
 
 
-manageress		<-->	noun+C1[-0]	./ˌmænɪdʒəˈres/-NAmE /ˌmænɪdʒəˈres/
+manageress		<-->	noun+C1	[221109][001]	./ˌmænɪdʒəˈres/-NAmE /ˌmænɪdʒəˈres/
 	;nữ quản lí -- a woman who is in charge of a small business, for example, a shop, restaurant or hotel
 
 
@@ -1151,7 +1151,7 @@ manageress		<-->	noun+C1[-0]	./ˌmænɪdʒəˈres/-NAmE /ˌmænɪdʒəˈres/
 
 
 
-minibar		<-->	noun+B2[-0]	./ˈmɪnibɑː(r)/-NAmE /ˈmɪnibɑːr/
+minibar		<-->	noun+B2	[221109][001]	./ˈmɪnibɑː(r)/-NAmE /ˈmɪnibɑːr/
 	;một tủ lạnh nhỏ -- a small fridge in a hotel room, with drinks in it, which are added to the guests' hotel bill if they drink them
 
 
@@ -1160,7 +1160,7 @@ minibar		<-->	noun+B2[-0]	./ˈmɪnibɑː(r)/-NAmE /ˈmɪnibɑːr/
 
 
 
-mosquito net		<-->	noun+C1[-0]	./məˈskiːtəʊ net/,  /mɒˈskiːtəʊ net/-NAmE /məˈskiːtəʊ net/+\
+mosquito net		<-->	noun+C1	[221109][001]	./məˈskiːtəʊ net/,  /mɒˈskiːtəʊ net/-NAmE /məˈskiːtəʊ net/+\
 	;lưới muỗi -- ​a net that you hang over a bed, etc. to keep mosquitoes away from you
 
 
@@ -1169,7 +1169,7 @@ mosquito net		<-->	noun+C1[-0]	./məˈskiːtəʊ net/,  /mɒˈskiːtəʊ net/-NA
 
 
 
-motel		<-->	noun+C1[-0]	./məʊˈtel/-NAmE /məʊˈtel/
+motel		<-->	noun+C1	[221109][001]	./məʊˈtel/-NAmE /məʊˈtel/
 	;khách sạn -- (North American English also motor inn), a hotel for people who are travelling by car, with space for parking cars near the rooms
 		;Harry was lying on his bed in his motel room.
 
@@ -1179,7 +1179,7 @@ motel		<-->	noun+C1[-0]	./məʊˈtel/-NAmE /məʊˈtel/
 
 
 
-motorhome		<-->	noun+C2	[220818][1]	./ˈməʊtəhəʊm/-NAmE /ˈməʊtərhəʊm/
+motorhome		<-->	noun+C2	[220818][001]	./ˈməʊtəhəʊm/-NAmE /ˈməʊtərhəʊm/
 	;xe lớn làm nhà -- (North American English also motor home, RV, recreational vehicle), a large vehicle designed for people to live and sleep in when they are travelling
 		;Motorhome is an useful invention.
 
@@ -1189,7 +1189,7 @@ motorhome		<-->	noun+C2	[220818][1]	./ˈməʊtəhəʊm/-NAmE /ˈməʊtərhəʊm/
 
 
 
-motor lodge		<-->	noun+C2[-0]	./ˈməʊtə lɒdʒ/-NAmE /ˈməʊtər lɑːdʒ/+\
+motor lodge		<-->	noun+C2	[221109][001]	./ˈməʊtə lɒdʒ/-NAmE /ˈməʊtər lɑːdʒ/+\
 	;khách sạn dành cho các người đi du lịch cá nhân bằng xe -- a hotel for people who are travelling by car, with space for parking cars near the rooms
 
 
@@ -1198,7 +1198,7 @@ motor lodge		<-->	noun+C2[-0]	./ˈməʊtə lɒdʒ/-NAmE /ˈməʊtər lɑːdʒ/+\
 
 
 
-non-resident		<-->	noun+C1	[220818][1]	./ˌnɒn ˈresɪdənt/-NAmE /ˌnɑːn ˈresɪdənt/
+non-resident		<-->	noun+C1	[220818][001]	./ˌnɒn ˈresɪdənt/-NAmE /ˌnɑːn ˈresɪdənt/
 	;người từ nơi khác đến -- a person who does not live permanently in a particular country
 		;Student fees are higher for non-residents.
 
@@ -1208,7 +1208,7 @@ non-resident		<-->	noun+C1	[220818][1]	./ˌnɒn ˈresɪdənt/-NAmE /ˌnɑːn ˈr
 
 
 
-non-resident		<-->	adjective+C1[-0]	./ˌnɒn ˈresɪdənt/-NAmE /ˌnɑːn ˈresɪdənt/
+non-resident		<-->	adjective+C1	[221109][001]	./ˌnɒn ˈresɪdənt/-NAmE /ˌnɑːn ˈresɪdənt/
 	;(người ) xứ lạ -- (of a person or company) not living or located permanently in a particular place or country
 		;non-resident employees
 
@@ -1218,7 +1218,7 @@ non-resident		<-->	adjective+C1[-0]	./ˌnɒn ˈresɪdənt/-NAmE /ˌnɑːn ˈres�
 
 
 
-Nordic walking		<-->	noun+C2[-0]	./ˌnɔːdɪk ˈwɔːkɪŋ/-NAmE /ˌnɔːrdɪk ˈwɔːkɪŋ/
+Nordic walking		<-->	noun+C2	[221109][001]	./ˌnɔːdɪk ˈwɔːkɪŋ/-NAmE /ˌnɔːrdɪk ˈwɔːkɪŋ/
 	;môn đi chân cao -- [uncountable], the sport of walking with special long poles attached to your wrists
 		;Nordic walking is a great way to get fit.
 
@@ -1228,7 +1228,7 @@ Nordic walking		<-->	noun+C2[-0]	./ˌnɔːdɪk ˈwɔːkɪŋ/-NAmE /ˌnɔːrdɪk 
 
 
 
-operator		<-->	noun+B2[-0]	./ˈɒpəreɪtə(r)/-NAmE /ˈɑːpəreɪtər/
+operator		<-->	noun+B2	[221109][001]	./ˈɒpəreɪtə(r)/-NAmE /ˈɑːpəreɪtər/
 	;một cá nhân/công ty có một business -- a person or company that runs a particular business
 		;a tour operator
 
@@ -1248,7 +1248,7 @@ outing		<-->	noun+C1[-0]	.
 
 
 
-pack		<-->	verb+A2[-0]	./pæk/-NAmE /pæk/
+pack		<-->	verb+A2	[221109][001]	./pæk/-NAmE /pæk/
 	;đóng gói, gói đồ -- [intransitive, transitive] to put clothes, etc. into a bag in preparation for a trip away from home
 		;I haven't packed yet.
 
@@ -1258,7 +1258,7 @@ pack		<-->	verb+A2[-0]	./pæk/-NAmE /pæk/
 
 
 
-package tour		<-->	noun+B2[-0]	./ˈpækɪdʒ tʊə(r)/,  /ˈpækɪdʒ tɔː(r)/-NAmE /ˈpækɪdʒ tʊr/
+package tour		<-->	noun+B2	[221109][001]	./ˈpækɪdʒ tʊə(r)/,  /ˈpækɪdʒ tɔː(r)/-NAmE /ˈpækɪdʒ tʊr/
 	;du lịch theo gói -- a holiday that is organized by a company at a fixed price and that includes the cost of travel, hotels, etc.
 
 
@@ -1267,7 +1267,7 @@ package tour		<-->	noun+B2[-0]	./ˈpækɪdʒ tʊə(r)/,  /ˈpækɪdʒ tɔː(r)/-
 
 
 
-parasol		<-->	noun+C2[-0]	./ˈpærəsɒl/
+parasol		<-->	noun+C2	[221109][001]	./ˈpærəsɒl/
  /ˈpærəsɔːl/
 	;cây dù ở bãi biển -- a large umbrella that is used for example on beaches or outside restaurants to protect people from hot sun
 
@@ -1277,7 +1277,7 @@ parasol		<-->	noun+C2[-0]	./ˈpærəsɒl/
 
 
 
-passport		<-->	noun+A1[-0]	./ˈpɑːspɔːt/-NAmE /ˈpæspɔːrt/
+passport		<-->	noun+A1	[221109][001]	./ˈpɑːspɔːt/-NAmE /ˈpæspɔːrt/
 	;passport, giấy xuất cảnh -- an official document that identifies you as a citizen of a particular country, and that you may have to show when you enter or leave a country
 		;EU passport holders
 
@@ -1287,7 +1287,7 @@ passport		<-->	noun+A1[-0]	./ˈpɑːspɔːt/-NAmE /ˈpæspɔːrt/
 
 
 
-peg		<-->	noun+C1[-0]	./peɡ/-NAmE /peɡ/
+peg		<-->	noun+C1	[221109][001]	./peɡ/-NAmE /peɡ/
 	;cái kẹp (quần áo) -- a short piece of wood, metal or plastic used for holding things together, hanging things on, marking a position, etc.
 
 
@@ -1296,7 +1296,7 @@ peg		<-->	noun+C1[-0]	./peɡ/-NAmE /peɡ/
 
 
 
-pension		<-->	noun+C2[-0]	./ˈpɒ̃sjɒ̃/-NAmE /ˌpɑːnsiˈəʊn/-\
+pension		<-->	noun+C2	[221109][001]	./ˈpɒ̃sjɒ̃/-NAmE /ˌpɑːnsiˈəʊn/-\
 	;khách sạn giá rẻ -- a small, usually cheap, hotel in some European countries, especially France
 
 
@@ -1305,7 +1305,7 @@ pension		<-->	noun+C2[-0]	./ˈpɒ̃sjɒ̃/-NAmE /ˌpɑːnsiˈəʊn/-\
 
 
 
-pitch		<-->	verb+C2	[220818][1]	./pɪtʃ/-NAmE /pɪtʃ/
+pitch		<-->	verb+C2	[220818][001]	./pɪtʃ/-NAmE /pɪtʃ/
 	;dựng trại -- ​[transitive] pitch something to set up a tent or a camp for a short time
 		;We could pitch our tent in that field.
 
@@ -1315,7 +1315,7 @@ pitch		<-->	verb+C2	[220818][1]	./pɪtʃ/-NAmE /pɪtʃ/
 
 
 
-pool		<-->	noun+A1[-0]	./puːl/-NAmE /puːl/
+pool		<-->	noun+A1	[221109][001]	./puːl/-NAmE /puːl/
 	;hồ -- [countable] an area of water that has been created for people to swim in
 		;Does the hotel have a pool?
 
@@ -1325,7 +1325,7 @@ pool		<-->	noun+A1[-0]	./puːl/-NAmE /puːl/
 
 
 
-porter	<-->	noun+C1[-0]	./ˈpɔːtə(r)/-NAmE /ˈpɔːrtər/
+porter	<-->	noun+C1	[221109][001]	./ˈpɔːtə(r)/-NAmE /ˈpɔːrtər/
 	;người giúp mang vác tại khách sạn -- a person whose job is carrying people’s bags and other loads, especially at a train station, an airport or in a hotel
 		;Some Sherpas act as guides and porters for mountaineering expeditions.
 
@@ -1335,7 +1335,7 @@ porter	<-->	noun+C1[-0]	./ˈpɔːtə(r)/-NAmE /ˈpɔːrtər/
 
 
 
-postcard		<-->	noun+A2[-0]	./ˈpəʊstkɑːd/-NAmE /ˈpəʊstkɑːrd/
+postcard		<-->	noun+A2	[221109][001]	./ˈpəʊstkɑːd/-NAmE /ˈpəʊstkɑːrd/
 	;card nhắn tin -- a card used for sending messages by post without an envelope, especially one that has a picture on one side
 		;Send us a postcard from Venice!
 
@@ -1345,7 +1345,7 @@ postcard		<-->	noun+A2[-0]	./ˈpəʊstkɑːd/-NAmE /ˈpəʊstkɑːrd/
 
 
 
-Primus™		<-->	noun+C2	[220818][1]	./ˈpraɪməs/-NAmE /ˈpraɪməs/
+Primus™		<-->	noun+C2	[220818][001]	./ˈpraɪməs/-NAmE /ˈpraɪməs/
 	;bếp dầu -- a small cooker that you can move around that burns oil. It is used especially by people who are camping.
 
 
@@ -1354,7 +1354,7 @@ Primus™		<-->	noun+C2	[220818][1]	./ˈpraɪməs/-NAmE /ˈpraɪməs/
 
 
 
-rack rate		<-->	noun+C2	[220818][1]	./ˈræk reɪt/-NAmE /ˈræk reɪt/
+rack rate		<-->	noun+C2	[220818][001]	./ˈræk reɪt/-NAmE /ˈræk reɪt/
 	;giá tiêu chuẩn -- the standard price of a hotel room
 
 
@@ -1363,7 +1363,7 @@ rack rate		<-->	noun+C2	[220818][1]	./ˈræk reɪt/-NAmE /ˈræk reɪt/
 
 
 
-reception		<-->	noun+A2	[220818][1]	./rɪˈsepʃn/-NAmE /rɪˈsepʃn/
+reception		<-->	noun+A2	[220818][001]	./rɪˈsepʃn/-NAmE /rɪˈsepʃn/
 	;khu vực tiếp tân -- [uncountable] (especially British English) the area inside the entrance of a hotel, an office building, etc. where guests or visitors go first when they arrive
 		;the reception area
 
@@ -1373,7 +1373,7 @@ reception		<-->	noun+A2	[220818][1]	./rɪˈsepʃn/-NAmE /rɪˈsepʃn/
 
 
 
-receptionist		<-->	noun+A2	[220818][1]	./rɪˈsepʃənɪst/-NAmE /rɪˈsepʃənɪst/ 
+receptionist		<-->	noun+A2	[220818][001]	./rɪˈsepʃənɪst/-NAmE /rɪˈsepʃənɪst/ 
 	;nhân viên tiếp tân -- a person whose job is to deal with people arriving at or phoning a hotel, an office building, a doctor’s surgery, etc.
 
 
@@ -1398,7 +1398,7 @@ resident		<-->	noun+B2[-0]	.
 
 
 
-resort		<-->	noun+B2	[220818][1]	./rɪˈzɔːt/-NAmE /rɪˈzɔːrt/
+resort		<-->	noun+B2	[220818][001]	./rɪˈzɔːt/-NAmE /rɪˈzɔːrt/
 	;khu nghỉ dưỡng -- [countable] a place where a lot of people go on holiday
 		;a popular tourist resort
 
@@ -1408,7 +1408,7 @@ resort		<-->	noun+B2	[220818][1]	./rɪˈzɔːt/-NAmE /rɪˈzɔːrt/
 
 
 
-rest house		<-->	noun+C2	[220818][1]	./ˈrest haʊs/-NAmE /ˈrest haʊs/
+rest house		<-->	noun+C2	[220818][001]	./ˈrest haʊs/-NAmE /ˈrest haʊs/
 	;nhà nghỉ sinh thái -- (in parts of Asia and Africa) a house or hut that you can pay to stay in like a hotel room, especially in wild country
 
 
@@ -1417,7 +1417,7 @@ rest house		<-->	noun+C2	[220818][1]	./ˈrest haʊs/-NAmE /ˈrest haʊs/
 
 
 
-road trip		<-->	noun+B1	[220818][1]	./ˈrəʊd trɪp/-NAmE /ˈrəʊd trɪp/
+road trip		<-->	noun+B1	[220818][001]	./ˈrəʊd trɪp/-NAmE /ˈrəʊd trɪp/
 	;đi du lịch bằng xe hơi -- a trip made in a car over a long distance
 
 
@@ -1435,7 +1435,7 @@ room		<-->	noun+A1[-0]	.
 
 
 
-room service		<-->	noun+B2[-0]	./ˈruːm sɜːvɪs/,  /ˈrʊm sɜːvɪs/-NAmE /ˈruːm sɜːrvɪs/,  /ˈrʊm sɜːrvɪs/
+room service		<-->	noun+B2	[221109][001]	./ˈruːm sɜːvɪs/,  /ˈrʊm sɜːvɪs/-NAmE /ˈruːm sɜːrvɪs/,  /ˈrʊm sɜːrvɪs/
 	;sự phục vụ ăn uống trong khách sạn -- a service provided in a hotel, by which guests can order food and drink to be brought to their rooms
 
 
@@ -1444,7 +1444,7 @@ room service		<-->	noun+B2[-0]	./ˈruːm sɜːvɪs/,  /ˈrʊm sɜːvɪs/-NAmE /�
 
 
 
-rough it	<-->	idiom+C2[-0]	./rʌf/
+rough it	<-->	idiom+C2	[221109][001]	./rʌf/
  /rʌf/
 	;sống bụi -- (informal) to live in a way that is not very comfortable for a short time
 		;We can sleep on the beach. I don't mind roughing it for a night or two.
@@ -1455,7 +1455,7 @@ rough it	<-->	idiom+C2[-0]	./rʌf/
 
 
 
-rucksack		<-->	noun+B2	[220818][1]	./ˈrʌksæk/-NAmE /ˈrʌksæk/= [IMAGE]-Bags
+rucksack		<-->	noun+B2	[220818][001]	./ˈrʌksæk/-NAmE /ˈrʌksæk/= [IMAGE]-Bags
 	;cái ba lô -- [Image] a bag that you carry on your back, made of strong material and often used by people who go climbing or walking
 		;She slung her rucksack over her shoulder.
 
@@ -1465,7 +1465,7 @@ rucksack		<-->	noun+B2	[220818][1]	./ˈrʌksæk/-NAmE /ˈrʌksæk/= [IMAGE]-Bags
 
 
 
-safari		<-->	noun+B1	[220818][1]	./səˈfɑːri/-NAmE /səˈfɑːri/
+safari		<-->	noun+B1	[220818][001]	./səˈfɑːri/-NAmE /səˈfɑːri/
 	;chuyến du lịch săn bắn -- a trip to see or hunt wild animals, especially in east or southern Africa
 		;on safari to be/go on safari
 
@@ -1475,7 +1475,7 @@ safari		<-->	noun+B1	[220818][1]	./səˈfɑːri/-NAmE /səˈfɑːri/
 
 
 
-sand		<-->	noun+B1[-0]	./sænd/-NAmE /sænd/
+sand		<-->	noun+B1	[221109][001]	./sænd/-NAmE /sænd/
 	;cát -- [uncountable] a substance that consists of very small fine grains of rock. Sand is found on beaches, in deserts, etc.
 		;a grain of sand
 		;he resort has its own white sand beach.
@@ -1486,7 +1486,7 @@ sand		<-->	noun+B1[-0]	./sænd/-NAmE /sænd/
 
 
 
-sandcastle		<-->	noun+C1[-0]	./ˈsændkɑːsl/-NAmE /ˈsændkæsl/
+sandcastle		<-->	noun+C1	[221109][001]	./ˈsændkɑːsl/-NAmE /ˈsændkæsl/
 	;lâu đài cát -- a pile of sand made to look like a castle, usually by a child on a beach
 
 
@@ -1496,7 +1496,7 @@ sandcastle		<-->	noun+C1[-0]	./ˈsændkɑːsl/-NAmE /ˈsændkæsl/
 
 
 
-sandy		<-->	adjective+B2[-0]	./ˈsændi/-NAmE /ˈsændi/
+sandy		<-->	adjective+B2	[221109][001]	./ˈsændi/-NAmE /ˈsændi/
 	;đầy cát, phủ đầy cát -- covered with or containing sand
 		;a sandy beach
 
@@ -1506,7 +1506,7 @@ sandy		<-->	adjective+B2[-0]	./ˈsændi/-NAmE /ˈsændi/
 
 
 
-sea		<-->	noun+A1[-0]	./siː/-NAmEsiː/
+sea		<-->	noun+A1	[221109][001]	./siː/-NAmEsiː/
 
 
 
@@ -1514,7 +1514,7 @@ sea		<-->	noun+A1[-0]	./siː/-NAmEsiː/
 
 
 
-seafront		<-->	noun+C2	[220818][1]	./ˈsiːfrʌnt/-NAmEˈsiːfrʌnt/
+seafront		<-->	noun+C2	[220818][001]	./ˈsiːfrʌnt/-NAmEˈsiːfrʌnt/
 	;mặt hướng biển -- the part of a town facing the sea
 		;a seafront hotel
 
@@ -1532,7 +1532,7 @@ seaside		<-->	noun+B1[-0]	.
 
 
 
-seaside		<-->	adjective+B1[-0]	./ˈsiːsaɪd/-NAmEˈsiːsaɪd/
+seaside		<-->	adjective+B1	[221109][001]	./ˈsiːsaɪd/-NAmEˈsiːsaɪd/
 	;bên bờ biển, thuộc bờ biển -- connected with an area that is by the sea, especially one where people go for a day or a holiday
 		;a seaside resort
 
@@ -1542,7 +1542,7 @@ seaside		<-->	adjective+B1[-0]	./ˈsiːsaɪd/-NAmEˈsiːsaɪd/
 
 
 
-self-catering		<-->	adjective+C1	[220818][1]	./ˌself ˈkeɪtərɪŋ/-NAmEˌself ˈkeɪtərɪŋ/
+self-catering		<-->	adjective+C1	[220818][001]	./ˌself ˈkeɪtərɪŋ/-NAmEˌself ˈkeɪtərɪŋ/
 	;tự phục vụ  -- a self-catering holiday is one which provides you with accommodation and the equipment that is necessary to cook your own meals
 		;self-catering accommodation
 
@@ -1552,7 +1552,7 @@ self-catering		<-->	adjective+C1	[220818][1]	./ˌself ˈkeɪtərɪŋ/-NAmEˌself
 
 
 
-self-catering		<-->	noun+C1	[220818][1]	./ˌself ˈkeɪtərɪŋ/-NAmEˌself ˈkeɪtərɪŋ/
+self-catering		<-->	noun+C1	[220818][001]	./ˌself ˈkeɪtərɪŋ/-NAmEˌself ˈkeɪtərɪŋ/
 	;tự phục vụ với thiết bị có sẵn -- a self-catering holiday is one which provides you with accommodation and the equipment that is necessary to cook your own meals
 
 
@@ -1561,7 +1561,7 @@ self-catering		<-->	noun+C1	[220818][1]	./ˌself ˈkeɪtərɪŋ/-NAmEˌself ˈke
 
 
 
-self-drive		<-->	adjective+C1[-0]	./ˌself ˈdraɪv/-NAmEˌself ˈdraɪv/
+self-drive		<-->	adjective+C1	[221109][001]	./ˌself ˈdraɪv/-NAmEˌself ˈdraɪv/
 	;tự lái -- a self-drive holiday is one on which you use your own car or a car you hire to travel to the holiday area
 
 
@@ -1570,7 +1570,7 @@ self-drive		<-->	adjective+C1[-0]	./ˌself ˈdraɪv/-NAmEˌself ˈdraɪv/
 
 
 
-sight		<-->	noun+B1[-0]	./saɪt/-NAmEsaɪt/\
+sight		<-->	noun+B1	[221109][001]	./saɪt/-NAmEsaɪt/\
 	;cảnh đẹp -- sights [plural] the interesting places, especially in a town or city, that are often visited by tourists
 		;We're going to Paris for the weekend to see the sights.
 
@@ -1580,7 +1580,7 @@ sight		<-->	noun+B1[-0]	./saɪt/-NAmEsaɪt/\
 
 
 
-sightsee		<-->	verb+C1	[220818][1]	./ˈsaɪtsiː/-NAmEˈsaɪtsiː/
+sightsee		<-->	verb+C1	[220818][001]	./ˈsaɪtsiː/-NAmEˈsaɪtsiː/
 	;tham quan -- [intransitive] only used in the progressive tenses, to visit interesting buildings and places as a tourist
 		;That day I was sightseeing in Rome.
 
@@ -1590,7 +1590,7 @@ sightsee		<-->	verb+C1	[220818][1]	./ˈsaɪtsiː/-NAmEˈsaɪtsiː/
 
 
 
-sightseeing		<-->	noun+A2	[220818][1]	./ˈsaɪtsiːɪŋ/-NAmEˈsaɪtsiːɪŋ/
+sightseeing		<-->	noun+A2	[220818][001]	./ˈsaɪtsiːɪŋ/-NAmEˈsaɪtsiːɪŋ/
 	;hoạt động tham quan -- the activity of visiting interesting buildings and places as a tourist
 
 
@@ -1599,7 +1599,7 @@ sightseeing		<-->	noun+A2	[220818][1]	./ˈsaɪtsiːɪŋ/-NAmEˈsaɪtsiːɪŋ/
 
 
 
-sightseer		<-->	noun+C1[-0]	./ˈsaɪtsɪə(r)/-NAmEˈsaɪtsɪr/
+sightseer		<-->	noun+C1	[221109][001]	./ˈsaɪtsɪə(r)/-NAmEˈsaɪtsɪr/
 	;khách tham quan -- a person who is visiting interesting buildings and places as a tourist
 
 
@@ -1608,7 +1608,7 @@ sightseer		<-->	noun+C1[-0]	./ˈsaɪtsɪə(r)/-NAmEˈsaɪtsɪr/
 
 
 
-single		<-->	noun+A2[-0]	./ˈsɪŋɡl/-NAmEˈsɪŋɡl/-\
+single		<-->	noun+A2	[221109][001]	./ˈsɪŋɡl/-NAmEˈsɪŋɡl/-\
 	;phòng đơn -- [countable] a room in a hotel, etc. for one person
 
 
@@ -1617,7 +1617,7 @@ single		<-->	noun+A2[-0]	./ˈsɪŋɡl/-NAmEˈsɪŋɡl/-\
 
 
 
-sitting		<-->	noun+C2	[220818][1]	./ˈsɪtɪŋ/-NAmE /ˈsɪtɪŋ/
+sitting		<-->	noun+C2	[220818][001]	./ˈsɪtɪŋ/-NAmE /ˈsɪtɪŋ/
 	;thời gian ăn tại nhà hàng -- a time when a meal is served in a hotel, etc. to a number of people at the same time
 		;A hundred people can be served at one sitting (= at the same time).
 
@@ -1635,7 +1635,7 @@ sleeping bag		<-->	noun+B1[-0]	.
 
 
 
-snap		<-->	noun+C2	[220818][1]	./snæp/-NAmE /snæp/
+snap		<-->	noun+C2	[220818][001]	./snæp/-NAmE /snæp/
 	;một bức ảnh -- (also snapshot) [countable] a photograph, especially one taken quickly
 
 
@@ -1644,7 +1644,7 @@ snap		<-->	noun+C2	[220818][1]	./snæp/-NAmE /snæp/
 
 
 
-souvenir		<-->	noun+A2	[220818][1]	./ˌsuːvəˈnɪə(r)/-NAmE /ˌsuːvəˈnɪr/,  /ˈsuːvənɪr/
+souvenir		<-->	noun+A2	[220818][001]	./ˌsuːvəˈnɪə(r)/-NAmE /ˌsuːvəˈnɪr/,  /ˈsuːvənɪr/
 	;quà lưu niệm -- a thing that you buy and/or keep to remind yourself of a place, an occasion or a holiday;something that you bring back for other people when you have been on holiday
 
 
@@ -1669,7 +1669,7 @@ stay		<-->	verb+A1[-0]	.
 
 
 
-stay		<-->	noun+A2[-0]	./steɪ/-NAmE /steɪ/
+stay		<-->	noun+A2	[221109][001]	./cef/
 
 
 
@@ -1677,16 +1677,7 @@ stay		<-->	noun+A2[-0]	./steɪ/-NAmE /steɪ/
 
 
 
-	;thời gian thăm viếng -- a period of staying;a visit
-		;I enjoyed my stay in Prague.
-
-
-
-
-
-
-
-staycation		<-->	noun+C1[-0]	./ˌsteɪˈkeɪʃn/-NAmE /ˌsteɪˈkeɪʃn/
+staycation		<-->	noun+C1	[221109][002]	./ˌsteɪˈkeɪʃn/-NAmE /ˌsteɪˈkeɪʃn/
 	;một kỳ nghỉ gần nhà -- a holiday that you spend at or near your home
 
 
@@ -1695,15 +1686,35 @@ staycation		<-->	noun+C1[-0]	./ˌsteɪˈkeɪʃn/-NAmE /ˌsteɪˈkeɪʃn/
 
 
 
-suitcase		<-->	noun+A2[-0]	./ˈsuːtkeɪs/-NAmE /ˈsuːtkeɪs/=  -[IMAGE] Bags
+suitcase		<-->	noun+A2	[221109][001]	./ˈsuːtkeɪs/-NAmE /ˈsuːtkeɪs/=  -[IMAGE] Bags
+	;cái vali -- (1) a case with flat sides and a handle, used for carrying clothes, etc. when you are travelling
+		;to pack/unpack a suitcase
+		;Extra Examples:
+		;He stuffed a few clothes in a suitcase and left.
+		;His only possession was a battered old suitcase of clothes.
+		;She snapped her suitcase shut and stuck on a label.
+		;The money was smuggled out in a false-bottomed suitcase.
+		;She checked in her suitcase and went for a coffee.
+		;The customs officer told him to open his suitcase.
+		;He got fed up of living out of a suitcase and left his job as a sales rep.
+		;TOPICS HolidaysA2
+				;Oxford Collocations Dictionary
+				;adjective
+				;heavylightopen…
+				;verb + suitcase
+				;cram something in/​intopackstuff something in/​into…
+				;suitcase + verb
+				;be crammed with somethingbe full of somethingbe stuffed with something…
+				;preposition
+				;in a/​the suitcaseinside a/​the suitcase
+		;See full entry
 
 
 
 
 
 
-
-suite		<-->	noun+C1[-0]	./swiːt/-NAmE /swiːt/
+suite		<-->	noun+C1	[221109][001]	./swiːt/-NAmE /swiːt/
 	;một nhóm các phòng -- a set of rooms, especially in a hotel
 
 
@@ -1712,15 +1723,18 @@ suite		<-->	noun+C1[-0]	./swiːt/-NAmE /swiːt/
 
 
 
-sunbathe		<-->	verb+B1[-0]	./ˈsʌnbeɪð/-NAmE /ˈsʌnbeɪð/ 
+sunbathe		<-->	verb+B1	[221109][001]	./ˈsʌnbeɪð/-NAmE /ˈsʌnbeɪð/ 
+	;tắm nắng -- (1) to sit or lie in the sun, especially in order to go brown (get a suntan)
+		;We spent the day sunbathing and swimming.
+		;Which Word? bath / bathe / swim / sunbathe
+		;TOPICS HolidaysB1
 
 
 
 
 
 
-
-sunblock		<-->	noun+C1[-0]	./ˈsʌnblɒk/-NAmE /ˈsʌnblɑːk/
+sunblock		<-->	noun+C1	[221109][001]	./ˈsʌnblɒk/-NAmE /ˈsʌnblɑːk/
 	;kem chống nắng -- a cream that you put on your skin to protect it from the harmful effects of the sun
 
 
@@ -1729,7 +1743,7 @@ sunblock		<-->	noun+C1[-0]	./ˈsʌnblɒk/-NAmE /ˈsʌnblɑːk/
 
 
 
-sunburn		<-->	noun+C1[-0]	./ˈsʌnbɜːn/-NAmE /ˈsʌnbɜːrn/
+sunburn		<-->	noun+C1	[221109][001]	./ˈsʌnbɜːn/-NAmE /ˈsʌnbɜːrn/
 	;tình trạng bị cháy nắng -- the condition of having painful red skin because you have spent too much time in the sun
 
 
@@ -1738,7 +1752,7 @@ sunburn		<-->	noun+C1[-0]	./ˈsʌnbɜːn/-NAmE /ˈsʌnbɜːrn/
 
 
 
-sun cream		<-->	noun+C1[0]	./ˈsʌn kriːm/-NAmE /ˈsʌn kriːm/
+sun cream		<-->	noun+C1	[221109][001]	./ˈsʌn kriːm/-NAmE /ˈsʌn kriːm/
 	;kem chống nắng -- cream that you put on your skin to protect it from the harmful effects of the sun
 
 
@@ -1747,7 +1761,7 @@ sun cream		<-->	noun+C1[0]	./ˈsʌn kriːm/-NAmE /ˈsʌn kriːm/
 
 
 
-sunlounger		<-->	noun+C2	[220818][1]	./ˈsʌnlaʊndʒə(r)/-NAmE /ˈsʌnlaʊndʒər/ [IMAGE] -- 
+sunlounger		<-->	noun+C2	[220818][001]	./ˈsʌnlaʊndʒə(r)/-NAmE /ˈsʌnlaʊndʒər/ [IMAGE] -- 
 	;ghế tắm nắng -- [Image] a chair with a long seat that supports your legs, used for sitting or lying on in the sun
 
 
@@ -1756,7 +1770,7 @@ sunlounger		<-->	noun+C2	[220818][1]	./ˈsʌnlaʊndʒə(r)/-NAmE /ˈsʌnlaʊndʒ
 
 
 
-sunscreen		<-->	noun+B2[0]	./ˈsʌnskriːn/-NAmE /ˈsʌnskriːn/
+sunscreen		<-->	noun+B2	[221109][001]	./ˈsʌnskriːn/-NAmE /ˈsʌnskriːn/
 	;kem chống nắng --  cream or liquid that you put on your skin to protect it from the harmful effects of the sun
 
 
@@ -1765,7 +1779,7 @@ sunscreen		<-->	noun+B2[0]	./ˈsʌnskriːn/-NAmE /ˈsʌnskriːn/
 
 
 
-suntan		<-->	noun+C1[-0]	./ˈsʌntæn/-NAmE /ˈsʌntæn/
+suntan		<-->	noun+C1	[221109][001]	./ˈsʌntæn/-NAmE /ˈsʌntæn/
 	;màu rám nắng --  the brown colour that somebody with pale skin goes when they have been in the sun
 
 
@@ -1774,7 +1788,7 @@ suntan		<-->	noun+C1[-0]	./ˈsʌntæn/-NAmE /ˈsʌntæn/
 
 
 
-tan		<-->	verb+C1[-0]	./tæn/-NAmE /tæn/
+tan		<-->	verb+C1	[221109][001]	./tæn/-NAmE /tæn/
 	;trở nên rám nắng, ăn nắng -- [intransitive, transitive] tan (somebody/something) if a person or their skin tans or is tanned, they become brown as a result of spending time in the sun
 		;My skin tans really easily.
 
@@ -1784,7 +1798,8 @@ tan		<-->	verb+C1[-0]	./tæn/-NAmE /tæn/
 
 
 
-tan		<-->	noun+C1[-0]	.
+tan		<-->	noun+C1[-0]	./tæn/
+ /tæn/*\
 	;màu rám  nắng -- [uncountable] a yellow-brown colour
 		;I want to top up my tan on the sunbed at the gym.
 
@@ -1794,7 +1809,7 @@ tan		<-->	noun+C1[-0]	.
 
 
 
-tariff		<-->	noun+C1[-0]	./ˈtærɪf/-NAmE /ˈtærɪf/
+tariff		<-->	noun+C1	[221109][001]	./ˈtærɪf/-NAmE /ˈtærɪf/
 	;thuế phí -- ​a list of fixed prices that are charged by a hotel or restaurant for rooms, meals, etc., or by a company for a particular service
 
 
@@ -1803,7 +1818,7 @@ tariff		<-->	noun+C1[-0]	./ˈtærɪf/-NAmE /ˈtærɪf/
 
 
 
-tent		<-->	noun+B1[-0]	./tent/-NAmE /tent/
+tent		<-->	noun+B1	[221109][001]	./tent/-NAmE /tent/
 	;cái lều -- a shelter made of a large sheet of canvas, nylon, etc. that is supported by poles and ropes fixed to the ground, and is used especially for camping
 		;Everyone was sleeping outside in tents.
 
@@ -1813,7 +1828,7 @@ tent		<-->	noun+B1[-0]	./tent/-NAmE /tent/
 
 
 
-tent peg		<-->	noun+C1[-0]	./ˈtent peɡ/-NAmE /ˈtent peɡ/ [IMAGE] -- Pegs
+tent peg		<-->	noun+C1	[221109][001]	./ˈtent peɡ/-NAmE /ˈtent peɡ/ [IMAGE] -- Pegs
 	;các móc dựng lều -- a small pointed piece of wood or metal that you attach to the ropes of a tent and push into the ground in order to hold the tent in place
 
 
@@ -1822,7 +1837,7 @@ tent peg		<-->	noun+C1[-0]	./ˈtent peɡ/-NAmE /ˈtent peɡ/ [IMAGE] -- Pegs
 
 
 
-theme park		<-->	noun+B1[-0]	./ˈθiːm pɑːk/-NAmE /ˈθiːm pɑːrk/
+theme park		<-->	noun+B1	[221109][001]	./ˈθiːm pɑːk/-NAmE /ˈθiːm pɑːrk/
 	;công viên giải trí -- a large park where people go to enjoy themselves, for example by riding on large machines such as roller coasters, and where much of the entertainment is connected with one subject or idea
 
 
@@ -1831,7 +1846,7 @@ theme park		<-->	noun+B1[-0]	./ˈθiːm pɑːk/-NAmE /ˈθiːm pɑːrk/
 
 
 
-timeshare		<-->	noun+C2[-0]	./ˈtaɪmʃeə(r)/-NAmE /ˈtaɪmʃer/
+timeshare		<-->	noun+C2	[221109][001]	./ˈtaɪmʃeə(r)/-NAmE /ˈtaɪmʃer/
 	;lượt được ưu tiên -- (also time-sharing) [uncountable] an arrangement in which several people own a holiday home together and each uses it at a different time of the year
 
 
@@ -1840,7 +1855,7 @@ timeshare		<-->	noun+C2[-0]	./ˈtaɪmʃeə(r)/-NAmE /ˈtaɪmʃer/
 
 
 
-tour		<-->	noun+A2[-0]	./tʊə(r)/,  /tɔː(r)/-NAmE /tʊr/\
+tour		<-->	noun+A2	[221109][001]	./tʊə(r)/,  /tɔː(r)/-NAmE /tʊr/\
 
 
 
@@ -1848,8 +1863,7 @@ tour		<-->	noun+A2[-0]	./tʊə(r)/,  /tɔː(r)/-NAmE /tʊr/\
 
 
 
-tour		<-->	verb+B1[-0]	./tʊə(r)/,  /tɔː(r)/-NAmE /tʊr/\
-	;to travel around a place, 
+tour		<-->	verb+B1	[221109][001]	./cef/
 
 
 
@@ -1857,7 +1871,7 @@ tour		<-->	verb+B1[-0]	./tʊə(r)/,  /tɔː(r)/-NAmE /tʊr/\
 
 
 
-tourism		<-->	noun+A2[-0]	./ˈtʊərɪzəm/,  /ˈtɔːrɪzəm/-NAmE /ˈtʊrɪzəm/
+tourism		<-->	noun+A2	[221109][001]	./cef/
 
 
 
@@ -1865,7 +1879,7 @@ tourism		<-->	noun+A2[-0]	./ˈtʊərɪzəm/,  /ˈtɔːrɪzəm/-NAmE /ˈtʊrɪzə
 
 
 
-tourist		<-->	noun+A1[-0]	./ˈtʊərɪst/,  /ˈtɔːrɪst/-NAmE /ˈtʊrɪst/
+tourist		<-->	noun+A1	[221109][001]	./cef/
 
 
 
@@ -1873,7 +1887,7 @@ tourist		<-->	noun+A1[-0]	./ˈtʊərɪst/,  /ˈtɔːrɪst/-NAmE /ˈtʊrɪst/
 
 
 
-tourist class		<-->	noun+C1[-0]	./ˈtʊərɪst klɑːs/,  /ˈtɔːrɪst klɑːs/-NAmE /ˈtʊrɪst klæs/
+tourist class		<-->	noun+C1	[221109][001]	./ˈtʊərɪst klɑːs/,  /ˈtɔːrɪst klɑːs/-NAmE /ˈtʊrɪst klæs/
 	;vé hạng bét (rẻ nhất) trên máy bay, tàu, khách sạn ... -- the cheapest type of ticket or accommodation that is available on a plane or ship or in a hotel
 
 
@@ -1882,7 +1896,7 @@ tourist class		<-->	noun+C1[-0]	./ˈtʊərɪst klɑːs/,  /ˈtɔːrɪst klɑːs/
 
 
 
-tourist trap		<-->	noun+C2	[220818][1]	./ˈtʊərɪst træp/,  /ˈtɔːrɪst træp/-NAmE /ˈtʊrɪst træp/
+tourist trap		<-->	noun+C2	[220818][001]	./ˈtʊərɪst træp/,  /ˈtɔːrɪst træp/-NAmE /ˈtʊrɪst træp/
 	;một nơi đắt đỏ cho khách du lịch -- a place that attracts a lot of tourists and where food, drink, entertainment, etc. is more expensive than normal
 
 
@@ -1891,7 +1905,7 @@ tourist trap		<-->	noun+C2	[220818][1]	./ˈtʊərɪst træp/,  /ˈtɔːrɪst tr�
 
 
 
-touristy		<-->	adjective+C1[-0]	./ˈtʊərɪsti/,  /ˈtɔːrɪsti/-NAmE /ˈtʊrɪsti/
+touristy		<-->	adjective+C1	[221109][001]	./ˈtʊərɪsti/,  /ˈtɔːrɪsti/-NAmE /ˈtʊrɪsti/
 	;có tính du lịch -- attracting or designed to attract a lot of tourists
 		;Jersey is the most touristy of the islands.
 
@@ -1901,8 +1915,10 @@ touristy		<-->	adjective+C1[-0]	./ˈtʊərɪsti/,  /ˈtɔːrɪsti/-NAmE /ˈtʊr�
 
 
 
-travel agency		<-->	noun+B2[-0]	./ˈtrævl eɪdʒənsi/-NAmE /ˈtrævl eɪdʒənsi/
-	;a company ... 
+travel agency		<-->	noun+B2	[221109][001]	./ˈtrævl eɪdʒənsi/-NAmE /ˈtrævl eɪdʒənsi/
+	;công ty du lịch -- (1) a company that arranges travel and/or accommodation for people going on a holiday or journey
+		;You can book at your local travel agency.
+		;TOPICS ShoppingB2, HolidaysB2
 
 
 
@@ -1910,8 +1926,51 @@ travel agency		<-->	noun+B2[-0]	./ˈtrævl eɪdʒənsi/-NAmE /ˈtrævl eɪdʒən
 
 
 
-travel agent		<-->	noun+B2[-0]	./ˈtrævl eɪdʒənt/-NAmE /ˈtrævl eɪdʒənt/
-	;a person ... 
+travel agent		<-->	noun+B2	[221109][001]	./ˈtrævl eɪdʒənt/-NAmE /ˈtrævl eɪdʒənt/
+	; -- (1) a person or business whose job is to make arrangements for people wanting to travel, for example buying tickets or arranging hotel rooms
+		;Collocations Travel and tourism
+		---
+			;Holidays/​vacations
+				;have/​take (British English) a holiday/(North American English) a vacation/​a break/​a day off/(British English) a gap year
+				;go on/​be on holiday/​vacation/​leave/​honeymoon/​safari/​a trip/​a tour/​a cruise/​a pilgrimage
+				;go backpacking/​camping/​hitchhiking/​sightseeing
+				;plan a trip/​a holiday/​a vacation/​your itinerary
+				;book accommodation/​a hotel room/​a flight/​tickets
+				;have/​make/​cancel a reservation/(especially British English) booking
+				;rent a villa/(both British English) a holiday home/​a holiday cottage
+				;(especially British English) hire/ (especially North American English) rent a car/​bicycle/​moped
+				;stay in a hotel/​a bed and breakfast/​a youth hostel/​a villa/(both British English) a holiday home/​a caravan
+				;cost/​charge $100 a/​per night for a single/​double/​twin/​standard/(British English) en suite room
+				;check into/​out of a hotel/​a motel/​your room
+				;pack/​unpack your suitcase/​bags
+				;call/​order room service
+				;cancel/​cut short a trip/​holiday/​vacation
+			;Foreign travel
+				;apply for/​get/​renew a/​your passport
+				;take out/​buy/​get travel insurance
+				;catch/​miss your plane/​train/​ferry/​connecting flight
+				;fly (in)/travel in business/​economy class
+				;make/​have a brief/​two-day/​twelve-hour stopover/(North American English also) layover in Hong Kong
+				;experience/​cause/​lead to delays
+				;check (in)/collect/​get/​lose (your) (especially British English) luggage/(especially North American English) baggage
+				;be charged for/​pay excess baggage
+				;board/​get on/​leave/​get off the aircraft/​plane/​ship/​ferry
+				;taxi down/​leave/​approach/​hit/​overshoot the runway
+				;experience/​hit/​encounter severe turbulence
+				;suffer from/​recover from/​get over your jet lag/​travel sickness
+			;The tourist industry
+				;attract/​draw/​bring tourists/​visitors
+				;encourage/​promote/​hurt tourism
+				;promote/​develop ecotourism
+				;build/​develop/​visit a tourist/​holiday/(especially British English) seaside/​beach/​ski resort
+				;work for/​be operated by a major hotel chain
+				;be served by/​compete with low-cost/(especially North American English) low-fare/​budget airlines
+				;book something through/​make a booking through/​use a travel agent
+				;contact/​check with your travel agent/​tour operator
+				;book/​be on/​go on a package deal/​holiday/​tour
+				;buy/​bring back (tacky/​overpriced) souvenirs		
+		---
+		;TOPICS HolidaysB2, JobsB2
 
 
 
@@ -1919,7 +1978,7 @@ travel agent		<-->	noun+B2[-0]	./ˈtrævl eɪdʒənt/-NAmE /ˈtrævl eɪdʒənt/
 
 
 
-traveller		<-->	noun+A2[-0]	.
+traveller		<-->	noun+A2[-0]	./cef/
 
 
 
@@ -1927,7 +1986,7 @@ traveller		<-->	noun+A2[-0]	.
 
 
 
-traveller’s cheque		<-->	noun+C1[-0]	./ˈtrævələz tʃek/-NAmE /ˈtrævələrz tʃek/
+traveller’s cheque		<-->	noun+C1	[221109][001]	./ˈtrævələz tʃek/-NAmE /ˈtrævələrz tʃek/
 	;một tín phiếu du lịch có thể quy đổi -- a cheque for a fixed amount, sold by a bank or travel agent, that can be exchanged for cash in foreign countries (more common in the past than now)
 
 
@@ -1936,7 +1995,7 @@ traveller’s cheque		<-->	noun+C1[-0]	./ˈtrævələz tʃek/-NAmE /ˈtrævələ
 
 
 
-trek		<-->	verb+B2[-0]	./trek/-NAmE /trek/
+trek		<-->	verb+B2	[221109][001]	./trek/-NAmE /trek/
 	;hành trình gian khổ -- a long, hard walk lasting several days or weeks, especially in the mountains
 		;They reached the refugee camp after an arduous two-day trek across the mountains.
 
@@ -1946,7 +2005,7 @@ trek		<-->	verb+B2[-0]	./trek/-NAmE /trek/
 
 
 
-trip		<-->	noun+A1[-0]	.
+trip		<-->	noun+A1[-0]	./cef/
 
 
 
@@ -1954,7 +2013,7 @@ trip		<-->	noun+A1[-0]	.
 
 
 
-twin		<-->	noun+A2[-0]	.
+twin		<-->	noun+A2[-0]	./cef/
 
 
 
@@ -1962,7 +2021,7 @@ twin		<-->	noun+A2[-0]	.
 
 
 
-twin bedroom		<-->	noun+C1[-0]	./ˌtwɪn ˈbedruːm/,  /ˌtwɪn ˈbedrʊm/-NAmE /ˌtwɪn ˈbedruːm/,  /ˌtwɪn ˈbedrʊm/
+twin bedroom		<-->	noun+C1	[221109][001]	./ˌtwɪn ˈbedruːm/,  /ˌtwɪn ˈbedrʊm/-NAmE /ˌtwɪn ˈbedruːm/,  /ˌtwɪn ˈbedrʊm/
 	;phòng có 2 giường ngủ -- a room in a hotel, etc. that has two single beds
 
 
@@ -1971,7 +2030,7 @@ twin bedroom		<-->	noun+C1[-0]	./ˌtwɪn ˈbedruːm/,  /ˌtwɪn ˈbedrʊm/-NAmE 
 
 
 
-unpack		<-->	verb+B1	[220818][1]	./ˌʌnˈpæk/-NAmE /ˌʌnˈpæk/
+unpack		<-->	verb+B1	[220818][001]	./ˌʌnˈpæk/-NAmE /ˌʌnˈpæk/
 	;mở hành lí -- ​[transitive, intransitive] unpack (something) to take things out of a bag, case, etc.
 
 
@@ -1980,7 +2039,7 @@ unpack		<-->	verb+B1	[220818][1]	./ˌʌnˈpæk/-NAmE /ˌʌnˈpæk/
 
 
 
-upgrade		<-->	verb+C1	[220818][1]	./ˌʌpˈɡreɪd/-NAmE /ˌʌpˈɡreɪd/,  /ˈʌpɡreɪd/
+upgrade		<-->	verb+C1	[220818][001]	./ˌʌpˈɡreɪd/-NAmE /ˌʌpˈɡreɪd/,  /ˈʌpɡreɪd/
 	;nâng cấp -- [transitive, often passive] to give somebody a better seat on a plane, room in a hotel, etc. than the one that they have paid for
 
 
@@ -1989,7 +2048,7 @@ upgrade		<-->	verb+C1	[220818][1]	./ˌʌpˈɡreɪd/-NAmE /ˌʌpˈɡreɪd/,  /ˈ�
 
 
 
-upmarket		<-->	adverb+C1	[220818][1]	./ˌʌpˈmɑːkɪt/-NAmE /ˌʌpˈmɑːrkɪt/
+upmarket		<-->	adverb+C1	[220818][001]	./ˌʌpˈmɑːkɪt/-NAmE /ˌʌpˈmɑːrkɪt/
 	;thị thường đi lên, lớp trên -- in a way that involves buying or selling goods and services that are expensive and of high quality
 		;The company has been forced to move more upmarket.
 
@@ -1999,7 +2058,7 @@ upmarket		<-->	adverb+C1	[220818][1]	./ˌʌpˈmɑːkɪt/-NAmE /ˌʌpˈmɑːrkɪt
 
 
 
-upmarket		<-->	adjective+C1	[220818][1]	./ˌʌpˈmɑːkɪt/-NAmE /ˌʌpˈmɑːrkɪt/
+upmarket		<-->	adjective+C1	[220818][001]	./ˌʌpˈmɑːkɪt/-NAmE /ˌʌpˈmɑːrkɪt/
 	;phân khúc cao cấp -- designed for or used by people who belong to a high social class or have a lot of money
 		;an upmarket restaurant
 
@@ -2009,7 +2068,7 @@ upmarket		<-->	adjective+C1	[220818][1]	./ˌʌpˈmɑːkɪt/-NAmE /ˌʌpˈmɑːrk
 
 
 
-vacancy		<-->	noun+C1[-0]	./ˈveɪkənsi/-NAmE /ˈveɪkənsi/
+vacancy		<-->	noun+C1	[221109][001]	./ˈveɪkənsi/-NAmE /ˈveɪkənsi/
 	;[countable] a room that is available in a hotel, etc.
 		;I'm sorry, we have no vacancies.
 
@@ -2019,7 +2078,7 @@ vacancy		<-->	noun+C1[-0]	./ˈveɪkənsi/-NAmE /ˈveɪkənsi/
 
 
 
-vacation		<-->	noun+A1 
+vacation		<-->	noun+A1[-0]	./cef/
 
 
 
@@ -2027,7 +2086,7 @@ vacation		<-->	noun+A1
 
 
 
-vacationer		<-->	noun+C2	[220818][1]	./veɪˈkeɪʃənə(r)/,  /vəˈkeɪʃənə(r)/-NAmE /veɪˈkeɪʃənər/,  /vəˈkeɪʃənər/
+vacationer		<-->	noun+C2	[220818][001]	./veɪˈkeɪʃənə(r)/,  /vəˈkeɪʃənə(r)/-NAmE /veɪˈkeɪʃənər/,  /vəˈkeɪʃənər/
 	;du khách -- a person who is visiting a place on holiday
 
 
@@ -2036,7 +2095,7 @@ vacationer		<-->	noun+C2	[220818][1]	./veɪˈkeɪʃənə(r)/,  /vəˈkeɪʃənə
 
 
 
-valet		<-->	noun+C2	[220818][1]	./ˈvæleɪ/,  /ˈvælɪt/-NAmE /ˈvæleɪ/,  /ˈvælɪt/,  /væˈleɪ/
+valet		<-->	noun+C2	[220818][001]	./ˈvæleɪ/,  /ˈvælɪt/-NAmE /ˈvæleɪ/,  /ˈvælɪt/,  /væˈleɪ/
 	;nhân viên khách sạn lo làm sạch quần áo cho khách -- a man’s personal servant who takes care of his clothes, serves his meals, etc.
 		;His valet brought him his letters.
 
@@ -2046,7 +2105,7 @@ valet		<-->	noun+C2	[220818][1]	./ˈvæleɪ/,  /ˈvælɪt/-NAmE /ˈvæleɪ/,  /�
 
 
 
-villa		<-->	noun+B2[-0]	.
+villa		<-->	noun+B2[-0]	./cef/
 
 
 
@@ -2054,7 +2113,7 @@ villa		<-->	noun+B2[-0]	.
 
 
 
-visa		<-->	noun+B2[-0]	.
+visa		<-->	noun+B2[-0]	./cef/
 
 
 
@@ -2062,7 +2121,7 @@ visa		<-->	noun+B2[-0]	.
 
 
 
-visitor		<-->	noun+A1[-0]	.
+visitor		<-->	noun+A1[-0]	./cef/
 
 
 
@@ -2070,7 +2129,7 @@ visitor		<-->	noun+A1[-0]	.
 
 
 
-visitors’ book		<-->	noun+B2[-0]	./ˈvɪzɪtəz bʊk/-NAmE /ˈvɪzɪtərz bʊk/
+visitors’ book		<-->	noun+B2	[221109][001]	./ˈvɪzɪtəz bʊk/-NAmE /ˈvɪzɪtərz bʊk/
 	;một quyển lưu ký ở khách sạn -- a book in which visitors write their names, addresses and sometimes comments, for example, at a hotel or place of public interest -- TOPICS HolidaysB2[-0]	.
 
 
@@ -2079,7 +2138,7 @@ visitors’ book		<-->	noun+B2[-0]	./ˈvɪzɪtəz bʊk/-NAmE /ˈvɪzɪtərz bʊk
 
 
 
-voyage		<-->	noun+B2[-0]	./ˈvɔɪɪdʒ/-NAmE /ˈvɔɪɪdʒ/\
+voyage		<-->	noun+B2	[221109][001]	./ˈvɔɪɪdʒ/-NAmE /ˈvɔɪɪdʒ/\
 	;một hành trình thăm thẳm -- a long journey, especially by sea or in space
 		;an around-the-world voyage
 		;a voyage in space
@@ -2090,15 +2149,17 @@ voyage		<-->	noun+B2[-0]	./ˈvɔɪɪdʒ/-NAmE /ˈvɔɪɪdʒ/\
 
 
 
-wake-up call		<-->	noun+B2[-0]	./ˈweɪk ʌp kɔːl/-NAmE /ˈweɪk ʌp kɔːl/
+wake-up call		<-->	noun+B2	[221109][001]	./ˈweɪk ʌp kɔːl/-NAmE /ˈweɪk ʌp kɔːl/
+	;cuộc gọi đánh thức -- (1) ​a phone call that you arrange to be made to you at a particular time, for example in a hotel, in order to wake you up
+		;I asked for a wake-up call at 6.30 a.m.
+		;TOPICS HolidaysB2
 
 
 
 
 
 
-
-walking		<-->	noun+A2[-0]	./ˈwɔːkɪŋ/-NAmE /ˈwɔːkɪŋ/
+walking		<-->	noun+A2	[221109][001]	./ˈwɔːkɪŋ/-NAmE /ˈwɔːkɪŋ/
 	;đi dạo -- (especially British English) the activity of going for walks in the countryside for exercise or pleasure
 		;to go warking 
 		;a walking holiday in Scotland
@@ -2109,6 +2170,6 @@ walking		<-->	noun+A2[-0]	./ˈwɔːkɪŋ/-NAmE /ˈwɔːkɪŋ/
 
 
 
-youth hostel		<-->	noun+B1[-0]	./ˈjuːθ hɒstl/-NAmE /ˈjuːθ hɑːstl/
+youth hostel		<-->	noun+B1	[221109][001]	./ˈjuːθ hɒstl/-NAmE /ˈjuːθ hɑːstl/
 	;nhà trọ giá rẻ có ăn uống -- a building that provides cheap and simple accommodation and meals, especially to young people who are travelling
 		;They were on a walking tour, staying in youth hostels.

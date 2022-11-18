@@ -6,7 +6,7 @@
 
 
 
-accommodation		<-->	noun+B1	[220829][1]	./əˌkɒməˈdeɪʃn/-NAmE /əˌkɑːməˈdeɪʃn/
+accommodation		<-->	noun+B1	[220829][001]	./əˌkɒməˈdeɪʃn/-NAmE /əˌkɑːməˈdeɪʃn/
 	;chỗ ở: nhà, ... -- [uncountable] (British English) a place to live, work or stay in
 		;rented/temporary accommodation
 		;Hotel accommodation is included in the price of your holiday.
@@ -31,7 +31,7 @@ accommodation		<-->	noun+B1	[220829][1]	./əˌkɒməˈdeɪʃn/-NAmE /əˌkɑːm�
 
 
 
-aerial		<-->	noun+C1	[220829][1]	./ˈeəriəl/-NAmE /ˈeriəl/
+aerial		<-->	noun+C1	[220829][001]	./ˈeəriəl/-NAmE /ˈeriəl/
 	;antenna -- (especially British English) (also antenna especially in North American English) ​enlarge imagea piece of equipment made of wire or long straight pieces of metal for receiving or sending radio and television signals
 		;a forest of television aerials on the roofs
 		;TOPICS Houses and homesC1
@@ -45,7 +45,7 @@ aerial		<-->	noun+C1	[220829][1]	./ˈeəriəl/-NAmE /ˈeriəl/
 
 
 
-affordable housing		<-->	noun+C1	[220829][1]	./əˌfɔːdəbl ˈhaʊzɪŋ/-NAmE /əˌfɔːrdəbl ˈhaʊzɪŋ/
+affordable housing		<-->	noun+C1	[220829][001]	./əˌfɔːdəbl ˈhaʊzɪŋ/-NAmE /əˌfɔːrdəbl ˈhaʊzɪŋ/
 	;nhà xã hội -- [uncountable] houses or flats that are available for people on low incomes to buy or rent at a low price, especially because the government has required house-building companies to offer a certain number of new properties at lower prices
 		;The city needs more affordable housing for families on low incomes.
 		;The shortage of affordable housing has caused an increase in the number of homeless people.
@@ -56,7 +56,7 @@ affordable housing		<-->	noun+C1	[220829][1]	./əˌfɔːdəbl ˈhaʊzɪŋ/-NAmE 
 
 
 
-A-frame		<-->	noun+C2	[220829][1]	./ˈeɪ freɪm/-NAmE /ˈeɪ freɪm/ (also A-frame house)
+A-frame		<-->	noun+C2	[220829][001]	./ˈeɪ freɪm/-NAmE /ˈeɪ freɪm/ (also A-frame house)
 	;nhà mái dốc -- ​enlarge imagea house with very steep((of a slope, hill, etc.) rising or falling quickly) sides that meet at the top in the shape of the letter A
 		;TOPICS Houses and homesC2
 				;Oxford Collocations Dictionary
@@ -67,7 +67,7 @@ A-frame		<-->	noun+C2	[220829][1]	./ˈeɪ freɪm/-NAmE /ˈeɪ freɪm/ (also A-fr
 
 
 
-air-conditioned		<-->	adjective+B2	[220829][1]	./ˈeə kəndɪʃnd/-NAmE /ˈer kəndɪʃnd/
+air-conditioned		<-->	adjective+B2	[220829][001]	./ˈeə kəndɪʃnd/-NAmE /ˈer kəndɪʃnd/
 	;có điều hoà -- ​(of a building or car) having a system that cools and dries the air inside it
 		;air-conditioned offices
 		;The restaurant is fully air-conditioned.
@@ -77,7 +77,7 @@ air-conditioned		<-->	adjective+B2	[220829][1]	./ˈeə kəndɪʃnd/-NAmE /ˈer k
 
 
 
-air conditioning		<-->	noun+B2	[220829][1]	./ˈeə kəndɪʃənɪŋ/-NAmE /ˈer kəndɪʃənɪŋ/
+air conditioning		<-->	noun+B2	[220829][001]	./ˈeə kəndɪʃənɪŋ/-NAmE /ˈer kəndɪʃənɪŋ/
 	;hệ thống điều hoà -- a system that cools and dries the air in a building or car
 		;Is the air conditioning on?
 		;SEE ALSO climate control
@@ -90,7 +90,7 @@ air conditioning		<-->	noun+B2	[220829][1]	./ˈeə kəndɪʃənɪŋ/-NAmE /ˈer 
 
 
 
-alarm		<-->	noun+B1	[220829][1]	./əˈlɑːm/-NAmE /əˈlɑːrm/
+alarm		<-->	noun+B1	[220829][001]	./əˈlɑːm/-NAmE /əˈlɑːrm/
 	;tiếng cảnh báo --   [countable, usually singular] a loud noise or a signal that warns people of danger or of a problem
 		;She decided to sound the alarm (= warn people that the situation was dangerous).
 		;I hammered on all the doors to raise the alarm.
@@ -110,7 +110,7 @@ alarm		<-->	noun+B1	[220829][1]	./əˈlɑːm/-NAmE /əˈlɑːrm/
 
 
 
-alcove		<-->	noun+C2	[220829][1]	./ˈælkəʊv/-NAmE /ˈælkəʊv/
+alcove		<-->	noun+C2	[220829][001]	./ˈælkəʊv/-NAmE /ˈælkəʊv/
 	;hóc tường -- an area in a room that is formed by part of a wall being built further back than the rest of the wall
 		;The bookcase fits neatly into the alcove.
 		;TOPICS Houses and homesC2
@@ -119,14 +119,14 @@ alcove		<-->	noun+C2	[220829][1]	./ˈælkəʊv/-NAmE /ˈælkəʊv/
 
 
 
-almshouse		<-->	noun+C2	[220829][1]	./ˈɑːmzhaʊs/-NAmE /ˈɑːmzhaʊs/
+almshouse		<-->	noun+C2	[220829][001]	./ˈɑːmzhaʊs/-NAmE /ˈɑːmzhaʊs/
 	;nhà tế bần -- (in the past in the UK) a house owned by a charity where poor people (usually the old) lived without paying rent
 
 
 
 
 
-annexe		<-->	noun+C2	[220829][1]	./ˈæneks/-NAmE /ˈæneks/
+annexe		<-->	noun+C2	[220829][001]	./ˈæneks/-NAmE /ˈæneks/
 	;nhà phụ -- (British English) (also annex North American English, British English) a building that is added to, or is near, a larger one and that provides extra living or work space
 		;Our rooms were in the annexe.
 		;TOPICS Houses and homesC2, BuildingsC2
@@ -135,7 +135,7 @@ annexe		<-->	noun+C2	[220829][1]	./ˈæneks/-NAmE /ˈæneks/
 
 
 
-antenna		<-->	noun+C1	[220829][1]	./ænˈtenə/-NAmE /ænˈtenə/
+antenna		<-->	noun+C1	[220829][001]	./ænˈtenə/-NAmE /ænˈtenə/
 	;antenna -- (plural antennas, antennae) (especially North American English) (also aerial especially in British English) a piece of equipment made of wire or long straight pieces of metal for receiving or sending radio and television signals
 		;radio antennas
 		;They installed a dish antenna on the roof.
@@ -150,7 +150,7 @@ antenna		<-->	noun+C1	[220829][1]	./ænˈtenə/-NAmE /ænˈtenə/
 
 
 
-apartment		<-->	noun+A1	[220829][1]	./əˈpɑːtmənt/-NAmE /əˈpɑːrtmənt/
+apartment		<-->	noun+A1	[220829][001]	./əˈpɑːtmənt/-NAmE /əˈpɑːrtmənt/
 	;căn hộ -- (especially North American English) (British English usually flat) a set of rooms for living in, usually on one floor of a building
 		;an apartment building
 		;I was renting a two-bedroom apartment in an old building.
@@ -208,7 +208,7 @@ apartment		<-->	noun+A1	[220829][1]	./əˈpɑːtmənt/-NAmE /əˈpɑːrtmənt/
 
 
 
-appraiser		<-->	noun+C2	[220829][1]	./əˈpreɪzə(r)/-NAmE /əˈpreɪzər/
+appraiser		<-->	noun+C2	[220829][001]	./əˈpreɪzə(r)/-NAmE /əˈpreɪzər/
 	;người thẩm định nhà -- (North American English) (British English valuer) a person whose job is to examine a building, an object, etc. and say how much it is worth
 		;TOPICS Houses and homesC2
 
@@ -216,7 +216,7 @@ appraiser		<-->	noun+C2	[220829][1]	./əˈpreɪzə(r)/-NAmE /əˈpreɪzər/
 
 
 
-armchair		<-->	noun+B1	[220829][1]	./ˈɑːmtʃeə(r)/-NAmE /ˈɑːrmtʃer/
+armchair		<-->	noun+B1	[220829][001]	./ˈɑːmtʃeə(r)/-NAmE /ˈɑːrmtʃer/
 	;ghế có tay -- a comfortable chair with sides on which you can rest your arms
 		;to sit in an armchair
 		;He eased himself into the big armchair.
@@ -231,7 +231,7 @@ armchair		<-->	noun+B1	[220829][1]	./ˈɑːmtʃeə(r)/-NAmE /ˈɑːrmtʃer/
 
 
 
-arrears		<-->	noun+C2	[220829][1]	./əˈrɪəz/-NAmE /əˈrɪrz/
+arrears		<-->	noun+C2	[220829][001]	./əˈrɪəz/-NAmE /əˈrɪrz/
 	;tiền nợ quá hạn -- [plural] money that somebody owes that they have not paid at the right time
 		;rent/mortgage/tax arrears
 		;Extra Examples
@@ -251,7 +251,7 @@ arrears		<-->	noun+C2	[220829][1]	./əˈrɪəz/-NAmE /əˈrɪrz/
 
 
 
-attic		<-->	noun+B2	[220829][1]	./ˈætɪk/-NAmE /ˈætɪk/
+attic		<-->	noun+B2	[220829][001]	./ˈætɪk/-NAmE /ˈætɪk/
 	;gác xép -- a room or space just below the roof of a house, often used for storing things
 		;furniture stored in the attic
 		;an attic bedroom
@@ -268,7 +268,7 @@ attic		<-->	noun+B2	[220829][1]	./ˈætɪk/-NAmE /ˈætɪk/
 
 
 
-bachelor pad		<-->	noun+C2	[220829][1]	./ˈbætʃələ pæd/-NAmE /ˈbætʃələr pæd/
+bachelor pad		<-->	noun+C2	[220829][001]	./ˈbætʃələ pæd/-NAmE /ˈbætʃələr pæd/
 	;nhà của người thích độc -- (informal) a house or flat in which a man who is not married enjoys a lifestyle without family responsibilities
 		;TOPICS Houses and homesC2
 
@@ -276,7 +276,7 @@ bachelor pad		<-->	noun+C2	[220829][1]	./ˈbætʃələ pæd/-NAmE /ˈbætʃələ
 
 
 
-back door		<-->	noun+B1	[220829][1]	./ˌbæk ˈdɔː(r)/-NAmE /ˌbæk ˈdɔːr/
+back door		<-->	noun+B1	[220829][001]	./ˌbæk ˈdɔː(r)/-NAmE /ˌbæk ˈdɔːr/
 	;cửa sau -- the door at the back or side of a building
 		TOPICS Houses and homesB1
 
@@ -284,7 +284,7 @@ back door		<-->	noun+B1	[220829][1]	./ˌbæk ˈdɔː(r)/-NAmE /ˌbæk ˈdɔːr/
 
 
 
-back-to-back		<-->	noun+C2	[220829][1]	./ˌbæk tə ˈbæk/-NAmE /ˌbæk tə ˈbæk/
+back-to-back		<-->	noun+C2	[220829][001]	./ˌbæk tə ˈbæk/-NAmE /ˌbæk tə ˈbæk/
 	;nhà giáp tường -- ​(British English) a house in a row of houses that share walls with the houses on each side and behind
 		;back-to-backs built for the poor in the nineteenth century
 		;TOPICS Houses and homesC2
@@ -293,7 +293,7 @@ back-to-back		<-->	noun+C2	[220829][1]	./ˌbæk tə ˈbæk/-NAmE /ˌbæk tə ˈb
 
 
 
-balcony		<-->	noun+B1	[220829][1]	./ˈbælkəni/-NAmE /ˈbælkəni/
+balcony		<-->	noun+B1	[220829][001]	./ˈbælkəni/-NAmE /ˈbælkəni/
 	;ban công -- (plural balconies)	a platform that is built on the upstairs outside wall of a building, with a wall or rail around it. You can get out onto a balcony from an upstairs room.
 		;We had drinks on the hotel balcony.
 		;TOPICS Houses and homesB1, BuildingsB1
@@ -303,7 +303,7 @@ balcony		<-->	noun+B1	[220829][1]	./ˈbælkəni/-NAmE /ˈbælkəni/
 
 
 
-ballroom		<-->	noun+C1	[220829][1]	./ˈbɔːlruːm/,  /ˈbɔːlrʊm/-NAmE /ˈbɔːlruːm/,  /ˈbɔːlrʊm/
+ballroom		<-->	noun+C1	[220829][001]	./ˈbɔːlruːm/,  /ˈbɔːlrʊm/-NAmE /ˈbɔːlruːm/,  /ˈbɔːlrʊm/
 	;phòng khiêu vũ -- a very large room used for dancing on formal occasions
 		;He entered the palatial ballroom and took in his surroundings.
 		;COMPARE dance hall
@@ -320,7 +320,7 @@ ballroom		<-->	noun+C1	[220829][1]	./ˈbɔːlruːm/,  /ˈbɔːlrʊm/-NAmE /ˈbɔ
 
 
 
-baseboard		<-->	noun+C2	[220829][1]	./ˈbeɪsbɔːd/-NAmE /ˈbeɪsbɔːrd/
+baseboard		<-->	noun+C2	[220829][001]	./ˈbeɪsbɔːd/-NAmE /ˈbeɪsbɔːrd/
 	;thanh gỗ chạy dọc chân tường trong nhà -- (North American English) (British English skirting board, skirting) [countable, uncountable] a narrow piece of wood that is fixed along the bottom of the walls in a house
 		;TOPICS Houses and homesC2
 
@@ -329,7 +329,7 @@ baseboard		<-->	noun+C2	[220829][1]	./ˈbeɪsbɔːd/-NAmE /ˈbeɪsbɔːrd/
 
 
 
-basement		<-->	noun+B2	[220829][1]	./ˈbeɪsmənt/-NAmE /ˈbeɪsmənt/
+basement		<-->	noun+B2	[220829][001]	./ˈbeɪsmənt/-NAmE /ˈbeɪsmənt/
 	;tầng hầm -- enlarge imagea room or rooms in a building, partly or completely below the level of the ground
 		;Kitchen goods are sold in the basement.
 		;a basement flat/apartment
@@ -349,7 +349,7 @@ basement		<-->	noun+B2	[220829][1]	./ˈbeɪsmənt/-NAmE /ˈbeɪsmənt/
 
 
 
-bath		<-->	noun+A1	[220829][1]	./bɑːθ/-NAmE /bæθ/\
+bath		<-->	noun+A1	[220829][001]	./bɑːθ/-NAmE /bæθ/\
 	;nhà tắm -- [countable] (British English) (also bathtub, informal tub North American English, British English) a large, long container that you put water in and then get into to wash your whole body
 		I'm in the bath!
 		bath taps
@@ -362,7 +362,7 @@ bath		<-->	noun+A1	[220829][1]	./bɑːθ/-NAmE /bæθ/\
 
 
 
-bathroom		<-->	noun+A1	[220829][1]	./ˈbɑːθruːm/,  /ˈbɑːθrʊm/-NAmE /ˈbæθruːm/,  /ˈbæθrʊm/
+bathroom		<-->	noun+A1	[220829][001]	./ˈbɑːθruːm/,  /ˈbɑːθrʊm/-NAmE /ˈbæθruːm/,  /ˈbæθrʊm/
 	;phòng tắm -- a room in which there is a bath, a washbasin and often a toilet
 		;Go and wash your hands in the bathroom.
 		;The master bedroom also has an en suite bathroom.
@@ -382,7 +382,7 @@ bathroom		<-->	noun+A1	[220829][1]	./ˈbɑːθruːm/,  /ˈbɑːθrʊm/-NAmE /ˈb
 
 
 
-bay window		<-->	noun+C2	[220829][1]	./ˌbeɪ ˈwɪndəʊ/-NAmE /ˌbeɪ ˈwɪndəʊ/
+bay window		<-->	noun+C2	[220829][001]	./ˌbeɪ ˈwɪndəʊ/-NAmE /ˌbeɪ ˈwɪndəʊ/
 	;cửa kính lớn -- enlarge imagea large window, usually with glass on three sides, that sticks out from the outside wall of a house
 		;TOPICS Houses and homesC2
 
@@ -390,7 +390,7 @@ bay window		<-->	noun+C2	[220829][1]	./ˌbeɪ ˈwɪndəʊ/-NAmE /ˌbeɪ ˈwɪnd�
 
 
 
-bed		<-->	noun+A1	[220829][1]	./bed/-NAmE /bed/
+bed		<-->	noun+A1	[220829][001]	./bed/-NAmE /bed/
 	;giường ngủ -- [-furniture] [countable, uncountable] a piece of furniture for sleeping on
 		;a single/double bed
 		;on the bed She lay on the bed (= on top of the covers).
@@ -426,7 +426,7 @@ bed		<-->	noun+A1	[220829][1]	./bed/-NAmE /bed/
 
 
 
-bedroom		<-->	noun+A1	[220829][1]	./ˈbedruːm/,  /ˈbedrʊm/-NAmE /ˈbedruːm/,  /ˈbedrʊm/
+bedroom		<-->	noun+A1	[220829][001]	./ˈbedruːm/,  /ˈbedrʊm/-NAmE /ˈbedruːm/,  /ˈbedrʊm/
 	;phòng ngủ -- a room for sleeping in
 		;the spare/guest bedroom
 		;a hotel with 20 bedrooms
@@ -450,7 +450,7 @@ bedroom		<-->	noun+A1	[220829][1]	./ˈbedruːm/,  /ˈbedrʊm/-NAmE /ˈbedruːm/,
 
 
 
-bedsit		<-->	noun+C2	[220829][1]	./ˈbedsɪt/-NAmE /ˈbedsɪt/
+bedsit		<-->	noun+C2	[220829][001]	./ˈbedsɪt/-NAmE /ˈbedsɪt/
 	;phòng nhỏ cho thuê -- ​a room that a person rents and uses for both living and sleeping in
 		;Collocations Moving house:
 			---
@@ -1205,7 +1205,7 @@ decor		<-->	noun+C1[-0]	.
 
 
 
-decorate		<-->	verb+B1	[221029][1]	./cef/
+decorate		<-->	verb+B1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1255,7 +1255,7 @@ deposit		<-->	noun+B2[-0]	.
 
 
 
-deposit		<-->	verb+C1	[221029][1]	./cef/
+deposit		<-->	verb+C1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1315,7 +1315,7 @@ dishwasher		<-->	noun+A2[-0]	.
 
 
 
-dispossess		<-->	verb+C2	[221029][1]	./ˌdɪspəˈzes/-NAmE /ˌdɪspəˈzes/ [usually passive] (formal)
+dispossess		<-->	verb+C2	[221029][001]	./ˌdɪspəˈzes/-NAmE /ˌdɪspəˈzes/ [usually passive] (formal)
 	;tịch thu -- (1) dispossess somebody (of something) to take somebody’s property, land or house away from them
 		;TOPICS Houses and homesC2
 
@@ -1485,8 +1485,7 @@ drape		<-->	noun+C2[-0]	.
 
 
 
-drawer		<-->	noun+B2[-0]	./drɔː(r)/
- /drɔːr/
+drawer		<-->	noun+B2	[221110][001]	./drɔː(r)/-NAmE /drɔːr/
 	;ngăn kéo -- (1) a part of a piece of furniture such as a desk, used for keeping things in. It is like a box in shape and has a handle on the front for pulling it out.
 		;in the top/middle/bottom drawer of the desk
 		;the kitchen drawer (= the one in the kitchen)
@@ -1554,7 +1553,7 @@ dressing table		<-->	noun+C2[-0]	.
 
 
 
-dry up		<-->	phrasal verb+C1	[221029][1]	./
+dry up		<-->	phrasal verb+C1	[221029][001]	./
 	;khô dần -- (1) (of rivers, lakes, etc.) to become completely dry
 		;During the drought the river dried up.
 				;Oxford Collocations Dictionary
@@ -1577,7 +1576,7 @@ dry up		<-->	phrasal verb+C1	[221029][1]	./
 
 
 
-duplex		<-->	adjective+C2	[221029][1]	./ˈdjuːpleks/-NAmE /ˈduːpleks/ [only before noun]
+duplex		<-->	adjective+C2	[221029][001]	./ˈdjuːpleks/-NAmE /ˈduːpleks/ [only before noun]
 	;nhiều tầng hai lầu -- (1) ​(of a flat) with rooms on two floors
 		;a duplex apartment
 		;The duplex penthouses cover the top two floors of the building.
@@ -1589,7 +1588,7 @@ duplex		<-->	adjective+C2	[221029][1]	./ˈdjuːpleks/-NAmE /ˈduːpleks/ [only b
 
 
 
-duplex		<-->	noun+C2	[221029][1]	./ˈdjuːpleks/-NAmE /ˈduːpleks/
+duplex		<-->	noun+C2	[221029][001]	./ˈdjuːpleks/-NAmE /ˈduːpleks/
 	;nhà đôi -- (1) North American English) a building divided into two homes or apartments with separate entrances
 		;TOPICS Houses and homesC2
 	;nhà hai tầng nhiều phòng -- (2) ​(British English) a flat with rooms on two floors
@@ -1602,7 +1601,7 @@ duplex		<-->	noun+C2	[221029][1]	./ˈdjuːpleks/-NAmE /ˈduːpleks/
 
 
 
-dust		<-->	verb+C1	[221029][1]	./dʌst/-NAmE /dʌst/
+dust		<-->	verb+C1	[221029][001]	./dʌst/-NAmE /dʌst/
 	;quét bụi -- (1) [intransitive, transitive] to clean furniture, a room, etc. by removing dust from surfaces with a cloth
 		;I broke the vase while I was dusting.
 		;dust something Could you dust the sitting room?
@@ -1773,8 +1772,8 @@ evict		<-->	verb+C1	[220829][2]	./ɪˈvɪkt/-NAmE /ɪˈvɪkt/
 
 
 
-eviction		<-->	noun+C2	[220829][1]	./ɪˈvɪkʃn/-NAmE /ɪˈvɪkʃn/ [uncountable, countable]
-	;sự trục xuất khỏi nhà -- == (1) eviction (from something) the act of forcing somebody to leave a house or land, especially when you have the legal right to do so
+eviction		<-->	noun+C2	[220829][001]	./ɪˈvɪkʃn/-NAmE /ɪˈvɪkʃn/ [uncountable, countable]
+	;sự trục xuất khỏi nhà -- (1) eviction (from something) the act of forcing somebody to leave a house or land, especially when you have the legal right to do so
 		;to face eviction from your home
 		;TOPICS Houses and homesC2
 
@@ -1812,8 +1811,10 @@ exterior		<-->	noun+C1[-0]	.
 
 
 
-facade		<-->	noun+C2[-0]	.
-	; -- (1) 
+facade		<-->	noun+C2	[221110][001]	./fəˈsɑːd/-NAmE /fəˈsɑːd/ (also façade)
+	;tiền sảnh -- (1) the front of a building
+		;a classical facade
+		;TOPICS Houses and homesC2, BuildingsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -1952,7 +1953,7 @@ floor		<-->	noun+A1[-0]	.
 
 
 
-foreclose		<-->	verb+C2	[221029][1]	./fɔːˈkləʊz/-NAmE /fɔːrˈkləʊz/
+foreclose		<-->	verb+C2	[221029][001]	./fɔːˈkləʊz/-NAmE /fɔːrˈkləʊz/
 	;xiết nợ -- (1) [intransitive, transitive] foreclose (on somebody/something) | foreclose something (finance) (especially of a bank) to take control of somebody’s property because they have not paid back money that they borrowed to buy it
 		;Collocations Moving house
 		;TOPICS Houses and homesC2
@@ -1993,7 +1994,7 @@ foyer		<-->	noun+C2[-0]	.
 
 
 
-freehold		<-->	noun+C2	[221029][1]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ [countable, uncountable] (law, especially British English)
+freehold		<-->	noun+C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ [countable, uncountable] (law, especially British English)
 	;việc sở hữu vĩnh viễn -- (1) the fact of owning a building or piece of land for a period of time that is not limited
 		;Private tenants in flats now have the right to buy the freehold from their landlord.
 		;TOPICS Houses and homesC2
@@ -2004,7 +2005,7 @@ freehold		<-->	noun+C2	[221029][1]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ [coun
 
 
 
-freehold		<-->	adverb+C2	[221029][1]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ (law, especially British English)
+freehold		<-->	adverb+C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ (law, especially British English)
 	;sở hữu vĩnh viễn -- (1) with the right to own a building or piece of land for a period of time that is not limited
 		;to buy a house freehold
 		;TOPICS Houses and homesC2
@@ -2015,7 +2016,7 @@ freehold		<-->	adverb+C2	[221029][1]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ (la
 
 
 
-freehold		<-->	adjective+C2	[221029][1]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/*\ (law, especially British English)
+freehold		<-->	adjective+C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/*\ (law, especially British English)
 	;sở hữu vĩnh viễn -- (1) (of a building or piece of land) owned for a period of time that is not limited
 		;a freehold property
 		;COMPARE leasehold
@@ -2127,7 +2128,7 @@ front room		<-->	noun+B2[-0]	.
 
 
 
-furnish		<-->	verb+C1	[221029][1]	./ˈfɜːnɪʃ/-NAmE /ˈfɜːrnɪʃ/
+furnish		<-->	verb+C1	[221029][001]	./ˈfɜːnɪʃ/-NAmE /ˈfɜːrnɪʃ/
 	;trang trí nội thất,  -- (1) furnish something to put furniture in a house, room, etc.
 		;The room was furnished with antiques.
 		;Collocations Decorating and home improvement
@@ -2239,7 +2240,7 @@ gasometer		<-->	noun+C2[-0]	.
 
 
 
-gazump		<-->	verb+C2	[221029][1]	./ɡəˈzʌmp/-NAmE /ɡəˈzʌmp/ [usually passive] (British English)
+gazump		<-->	verb+C2	[221029][001]	./ɡəˈzʌmp/-NAmE /ɡəˈzʌmp/ [usually passive] (British English)
 	;trả cao hơn -- (1) gazump somebody when somebody who has made an offer to pay a particular price for a house and who has had this offer accepted is gazumped, their offer is no longer accepted by the person selling the house, because somebody else has made a higher offer
 		;TOPICS Houses and homesC2
 
@@ -2259,7 +2260,7 @@ gazumping		<-->	noun+C2[-0]	.
 
 
 
-gazunder		<-->	verb+C2	[221029][1]	./ɡəˈzʌndə(r)/-NAmE /ɡəˈzʌndər/ [often passive] (British English)
+gazunder		<-->	verb+C2	[221029][001]	./ɡəˈzʌndə(r)/-NAmE /ɡəˈzʌndər/ [often passive] (British English)
 	;đề xuất giảm giá -- (1) to offer a lower price for a house that you have already agreed to buy at a higher price, before the contract is signed
 		;be gazundered The vendors were gazundered at the last minute.
 		;TOPICS Houses and homesC2
@@ -2480,7 +2481,7 @@ homeowner		<-->	noun+C1[-0]	.
 
 
 
-hoover		<-->	verb+C1	[221029][1]	./ˈhuːvə(r)/-NAmE /ˈhuːvər/ [transitive, intransitive] (British English)
+hoover		<-->	verb+C1	[221029][001]	./ˈhuːvə(r)/-NAmE /ˈhuːvər/ [transitive, intransitive] (British English)
 	;hút bụi -- (1) ​hoover (something) to clean a carpet, floor, etc. with a vacuum cleaner
 		;SYNONYM vacuum
 		;to hoover the carpet
@@ -2542,7 +2543,7 @@ housemate		<-->	noun+C1[-0]	.
 
 
 
-house-sit		<-->	verb+C2	[221029][1]	./ˈhaʊs sɪt/-NAmE /ˈhaʊs sɪt/ [intransitive]
+house-sit		<-->	verb+C2	[221029][001]	./ˈhaʊs sɪt/-NAmE /ˈhaʊs sɪt/ [intransitive]
 	;trông nhà -- (1) to live in somebody’s house while they are away in order to take care of it for them
 		;A friend of mine needs someone to house-sit and feed her cats.
 		;TOPICS Houses and homesC2
@@ -2663,8 +2664,8 @@ indoor		<-->	adjective+B1[-0]	.
 
 
 
-indoors		<-->	adverb+B1	[220829][1]	./ˌɪnˈdɔːz/-NAmE /ˌɪnˈdɔːrz/
-	;trong nhà -- == (1) inside or into a building
+indoors		<-->	adverb+B1	[220829][001]	./ˌɪnˈdɔːz/-NAmE /ˌɪnˈdɔːrz/
+	;trong nhà -- (1) inside or into a building
 		;I prefer to stay indoors in this really hot weather.
 		;Let's go indoors.
 		;I was indoors watching TV when I heard shouting in the street.
@@ -2709,7 +2710,7 @@ iron		<-->	noun+B1[-0]	.
 
 
 
-iron		<-->	verb+B1	[221029][1]	./cef/
+iron		<-->	verb+B1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2869,7 +2870,7 @@ lease		<-->	noun+C1[-0]	.
 
 
 
-lease		<-->	verb+C1	[221029][1]	./liːs/-NAmE /liːs/\
+lease		<-->	verb+C1	[221029][001]	./liːs/-NAmE /liːs/\
 	;cho thuê -- (1) ​to use or let somebody use something, especially property or equipment, in exchange for rent or a regular payment
 		;SYNONYM rent
 		;lease something We lease all our computer equipment.
@@ -2935,7 +2936,7 @@ lessor		<-->	noun+C2[-0]	.
 
 
 
-let		<-->	verb+C1	[221029][1]	./cef/
+let		<-->	verb+C1	[221029][001]	./cef/
 	;cho thuê -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2945,7 +2946,7 @@ let		<-->	verb+C1	[221029][1]	./cef/
 
 
 
-let		<-->	noun+C1	[221029][1]	./let/-NAmE /let/\
+let		<-->	noun+C1	[221029][001]	./let/-NAmE /let/\
 	;??? -- (1) [-in tennis] a serve that lands in the correct part of the court but must be taken again because it has touched the top of the net
 	;việc thuê nhà -- (2) [-house/room] (British English) an act of renting a house, flat, room, etc.; a house, flat, room etc. that is available to rent
 		;a long-term/short-term let
@@ -3048,7 +3049,7 @@ loan		<-->	noun+B2[-0]	.
 
 
 
-loan		<-->	verb+B2	[221029][1]	./ləʊn/-NAmE /ləʊn/
+loan		<-->	verb+B2	[221029][001]	./ləʊn/-NAmE /ləʊn/
 	;vay -- (1) (especially North American English) to lend something to somebody, especially money
 		;loan something (to somebody) The bank is happy to loan money to small businesses.
 		;loan somebody something A friend loaned me $1 000.
@@ -3294,7 +3295,7 @@ mop		<-->	noun+C1[-0]	.
 
 
 
-mop		<-->	verb+C1	[221029][1]	./mɒp/-NAmE /mɑːp/
+mop		<-->	verb+C1	[221029][001]	./mɒp/-NAmE /mɑːp/
 	;lau chùi bằng cây lau nhà -- (1) ​mop something to clean something with a mop
 		;She wiped all the surfaces and mopped the floor.
 		;TOPICS Houses and homesC1
@@ -3305,7 +3306,7 @@ mop		<-->	verb+C1	[221029][1]	./mɒp/-NAmE /mɑːp/
 
 
 
-mortgage		<-->	noun+B2	[221029][1]	./cef/
+mortgage		<-->	noun+B2	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3315,7 +3316,7 @@ mortgage		<-->	noun+B2	[221029][1]	./cef/
 
 
 
-mortgage		<-->	verb+B2	[221029][1]	./ˈmɔːɡɪdʒ/-NAmE /ˈmɔːrɡɪdʒ/\
+mortgage		<-->	verb+B2	[221029][001]	./ˈmɔːɡɪdʒ/-NAmE /ˈmɔːrɡɪdʒ/\
 	;thế chấp -- (1) mortgage something to give a bank, etc. the legal right to own your house, land, etc. if you do not pay the money back that you have borrowed from the bank to buy the house or land
 		;He had to mortgage his house to pay his legal costs.
 		;TOPICS MoneyB2, Houses and homesB2
@@ -3456,7 +3457,7 @@ occupier		<-->	noun+C2[-0]	.
 
 
 
-occupy		<-->	verb+C1	[221029][1]	./cef/
+occupy		<-->	verb+C1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3496,7 +3497,7 @@ open-plan		<-->	adjective+B2[-0]	.
 
 
 
-ornament		<-->	noun+C2	[221029][1]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/\ [usually passive] (formal)
+ornament		<-->	noun+C2	[221029][001]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/\ [usually passive] (formal)
 	;trang trí -- (1) ornament something to add decoration to something
 		;SYNONYM decorate
 		;<< decorate, ornament, >>
@@ -3510,7 +3511,7 @@ ornament		<-->	noun+C2	[221029][1]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/\ [usua
 
 
 
-ornament		<-->	verb+C2	[221029][1]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/ [usually passive] (formal)
+ornament		<-->	verb+C2	[221029][001]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/ [usually passive] (formal)
 	;trang trí -- (1) ornament something to add decoration to something
 		;SYNONYM decorate
 		;a room richly ornamented with carving
@@ -3532,7 +3533,7 @@ outdoor		<-->	adjective+B1[-0]	.
 
 
 
-outdoors		<-->	adverb+B1	[221029][1]	./cef/
+outdoors		<-->	adverb+B1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3762,7 +3763,7 @@ polish		<-->	noun+C1[-0]	.
 
 
 
-polish		<-->	verb+C1	[221029][1]	./ˈpɒlɪʃ/-NAmE /ˈpɑːlɪʃ/
+polish		<-->	verb+C1	[221029][001]	./ˈpɒlɪʃ/-NAmE /ˈpɑːlɪʃ/
 	;đánh bóng -- (1) [transitive, intransitive] to make something smooth and shiny by rubbing it
 		;polish (something) Polish shoes regularly to protect the leather.
 		;The gemstones are cut and polished by master craftsmen.
@@ -3930,7 +3931,7 @@ rec room		<-->	noun+C2[-0]	.
 
 
 
-redecorate		<-->	verb+C1	[221029][1]	./ˌriːˈdekəreɪt/-NAmE /ˌriːˈdekəreɪt/ [intransitive, transitive]
+redecorate		<-->	verb+C1	[221029][001]	./ˌriːˈdekəreɪt/-NAmE /ˌriːˈdekəreɪt/ [intransitive, transitive]
 	;sơ lại -- (1) to put new paint and/or paper on the walls of a room or house
 		;We've just redecorated.
 		;redecorate something The house has been fully redecorated.
@@ -3976,7 +3977,7 @@ refuge		<-->	noun+C1[-0]	.
 
 
 
-remortgage		<-->	verb+C2	[221029][1]	./ˌriːˈmɔːɡɪdʒ/-NAmE /ˌriːˈmɔːrɡɪdʒ/ [intransitive, transitive]
+remortgage		<-->	verb+C2	[221029][001]	./ˌriːˈmɔːɡɪdʒ/-NAmE /ˌriːˈmɔːrɡɪdʒ/ [intransitive, transitive]
 	;tái vay -- (1) remortgage (something) to arrange a second mortgage on your house or apartment, or to increase or change your first one
 		;TOPICS Houses and homesC2
 
@@ -4036,7 +4037,7 @@ rent		<-->	noun+B1[-0]	.
 
 
 
-rent		<-->	verb+B1	[221029][1]	./cef/
+rent		<-->	verb+B1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4056,7 +4057,7 @@ rental		<-->	noun+C1[-0]	.
 
 
 
-rent-free		<-->	adverb+C1	[221029][1]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfriː/a\
+rent-free		<-->	adverb+C1	[221029][001]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfriː/a\
 	;miễn phí -- (1) without having to pay rent
 		;She lives rent-free with her brother.
 		;TOPICS Houses and homesC1
@@ -4067,7 +4068,7 @@ rent-free		<-->	adverb+C1	[221029][1]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfriː/a\
 
 
 
-rent-free		<-->	adjective+C1	[221029][1]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfriː/
+rent-free		<-->	adjective+C1	[221029][001]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfriː/
 	;miễn phí -- (1) for which no rent is paid
 		;rent-free housing
 		;TOPICS Houses and homesC1
@@ -4088,7 +4089,7 @@ repayment		<-->	noun+C1[-0]	.
 
 
 
-repossess		<-->	verb+C2	[221029][1]	./ˌriːpəˈzes/-NAmE /ˌriːpəˈzes/ [usually passive]
+repossess		<-->	verb+C2	[221029][001]	./ˌriːpəˈzes/-NAmE /ˌriːpəˈzes/ [usually passive]
 	;thu hồi, lấy lại -- (1) to take back property or goods from somebody who has arranged to buy them but who still owes money for them and cannot pay
 		;be repossessed First I lost my job, then my house was repossessed.
 		;COMPARE foreclose
@@ -4525,7 +4526,7 @@ split-level		<-->	adjective+C2[-0]	.
 
 
 
-spring-clean		<-->	verb+C2	[221029][1]	./ˌsprɪŋ ˈkliːn/-NAmE /ˌsprɪŋ ˈkliːn/ [transitive, intransitive]
+spring-clean		<-->	verb+C2	[221029][001]	./ˌsprɪŋ ˈkliːn/-NAmE /ˌsprɪŋ ˈkliːn/ [transitive, intransitive]
 	;sửa soạn nhà, dọn dẹp nhà cửa -- (1) spring-clean (something) to clean a house, room, etc. carefully and completely, including the parts you do not usually clean
 		;Fran decided to spring-clean the apartment.
 		;TOPICS Houses and homesC2
@@ -4686,7 +4687,7 @@ stove		<-->	noun+B2[-0]	.
 
 
 
-strip		<-->	verb+C1	[221029][1]	./cef/
+strip		<-->	verb+C1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4716,7 +4717,7 @@ study		<-->	noun+B1[-0]	.
 
 
 
-sublease		<-->	verb+C2	[221029][1]	./ˌsʌbˈliːs/-NAmE /ˌsʌbˈliːs/ (especially North American English) (also sublet British and North American English)
+sublease		<-->	verb+C2	[221029][001]	./ˌsʌbˈliːs/-NAmE /ˌsʌbˈliːs/ (especially North American English) (also sublet British and North American English)
 	;thuê chung -- (1) sublease (something) (to somebody) to rent to somebody else all or part of a property that you rent from the owner
 		;TOPICS Houses and homesC2
 				;Oxford Collocations Dictionary
@@ -4729,7 +4730,7 @@ sublease		<-->	verb+C2	[221029][1]	./ˌsʌbˈliːs/-NAmE /ˌsʌbˈliːs/ (especi
 
 
 
-sublet		<-->	verb+C2	[221029][1]	./ˌsʌbˈlet/-NAmE /ˌsʌbˈlet/ (also sublease  /ˈsʌbliːs/  /ˈsʌbliːs/ especially in North American English) [transitive, intransitive]
+sublet		<-->	verb+C2	[221029][001]	./ˌsʌbˈlet/-NAmE /ˌsʌbˈlet/ (also sublease  /ˈsʌbliːs/  /ˈsʌbliːs/ especially in North American English) [transitive, intransitive]
 	;thuê chung -- (1) sublet (something) (to somebody) to rent to somebody else all or part of a property that you rent from the owner
 		;Collocations Moving house
 		;TOPICS Houses and homesC2
@@ -4770,7 +4771,7 @@ survey		<-->	noun+C1[-0]	.
 
 
 
-survey		<-->	verb+C1	[221029][1]	./cef/
+survey		<-->	verb+C1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4780,7 +4781,7 @@ survey		<-->	verb+C1	[221029][1]	./cef/
 
 
 
-sweep		<-->	verb+B2	[221029][1]	./cef/
+sweep		<-->	verb+B2	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4870,10 +4871,15 @@ terraced house		<-->	noun+C2[-0]	.
 
 
 
-thatch		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+thatch		<-->	noun+C2	[221110][001]	./θætʃ/-NAmE /θætʃ/
+	;cỏ, rơm, lau sậy, ...  khô -- (1) enlarge image[uncountable, countable] dried straw, reeds, etc. used for making a roof; a roof made of this material
+		;a roof made of thatch
+		;The thatch was badly damaged in the storm.
+		;TOPICS Houses and homesC2, BuildingsC2
+	;mái tóc dày -- (2) [singular] thatch (of hair) (informal) thick hair on somebody’s head
+		;He had a thatch of thick brown hair.
+		;Fortunately, I've got a reasonably thick thatch left.
+		;TOPICS AppearanceC2
 
 
 
@@ -5060,7 +5066,7 @@ vacant possession		<-->	noun+C2[-0]	.
 
 
 
-vacuum		<-->	verb+B2	[221029][1]	./ˈvækjuːm/-NAmE /ˈvækjuːm/ [transitive, intransitive]
+vacuum		<-->	verb+B2	[221029][001]	./ˈvækjuːm/-NAmE /ˈvækjuːm/ [transitive, intransitive]
 	;hút bụi -- (1) vacuum (something) to clean something using a vacuum cleaner
 		;SYNONYM hoover
 		;Have you vacuumed the stairs?
@@ -5122,8 +5128,7 @@ ventilator		<-->	noun+C2[-0]	.
 
 
 
-veranda		<-->	noun+C2[-0]	./vəˈrændə/
- /vəˈrændə/ (also verandah)
+veranda		<-->	noun+C2	[221110][001]	./vəˈrændə/-NAmE /vəˈrændə/ (also verandah)
 	;hiên nhà -- (1) (especially British English) (North American English usually porch)
 		;a platform with an open front and a roof, built onto the side of a house on the ground floor
 		;After dinner, we sat talking on the veranda.
@@ -5155,8 +5160,7 @@ wall		<-->	noun+A1[-0]	.
 
 
 
-wallpaper		<-->	noun+C2[-0]	./ˈwɔːlpeɪpə(r)/
- /ˈwɔːlpeɪpər/ [uncountable]
+wallpaper		<-->	noun+C2	[221110][001]	./ˈwɔːlpeɪpə(r)/-NAmE /ˈwɔːlpeɪpər/ [uncountable]
 	;giấy dán tường -- (1) thick paper, often with a pattern on it, used for covering the walls and ceiling of a room
 		;wallpaper paste
 		;a roll of wallpaper
@@ -5185,7 +5189,7 @@ wallpaper		<-->	noun+C2[-0]	./ˈwɔːlpeɪpə(r)/
 
 
 
-wallpaper		<-->	verb+C2	[221029][1]	./ˈwɔːlpeɪpə(r)/-NAmE /ˈwɔːlpeɪpər/ (also paper) [transitive, intransitive]
+wallpaper		<-->	verb+C2	[221029][001]	./ˈwɔːlpeɪpə(r)/-NAmE /ˈwɔːlpeɪpər/ (also paper) [transitive, intransitive]
 	;dán giấy tường -- (1) wallpaper (something) to put wallpaper onto the walls of a room
 		;TOPICS Houses and homesC2
 
@@ -5247,8 +5251,7 @@ wash		<-->	verb+A1[-0]	.
 
 
 
-washbasin		<-->	noun+B2[-0]	./ˈwɒʃbeɪsn/
- /ˈwɑːʃbeɪsn/
+washbasin		<-->	noun+B2	[221110][001]	./ˈwɒʃbeɪsn/-NAmE /ˈwɑːʃbeɪsn/
 	;(also basin) (both especially British English) (also sink North American English, British English) (also especially North American English washbowl  /ˈwɒʃbəʊl/  /ˈwɑːʃbəʊl/)
 	;bồn rửa -- (1) a large bowl that has taps and is fixed to the wall in a bathroom, used for washing your hands and face in
 		;He washed his shirt in the washbasin.
@@ -5282,8 +5285,7 @@ washing machine		<-->	noun+A2[-0]	.
 
 
 
-washing-up		<-->	noun+B1[-0]	./ˌwɒʃɪŋ ˈʌp/
- /ˌwɑːʃɪŋ ˈʌp/ [uncountable] (British English)
+washing-up		<-->	noun+B1	[221110][001]	./ˌwɒʃɪŋ ˈʌp/-NAmE /ˌwɑːʃɪŋ ˈʌp/ [uncountable] (British English)
 	;việc chùi rửa nồi, chén -- (1) the act of washing plates, glasses, pans, etc. after a meal
 		;If you cook, I'll do the washing-up.
 		;a washing-up bowl
@@ -5301,7 +5303,7 @@ washing-up		<-->	noun+B1[-0]	./ˌwɒʃɪŋ ˈʌp/
 
 
 
-wash up		<-->	phrasal verb+B1	[221029][1]	./p/
+wash up		<-->	phrasal verb+B1	[221029][001]	./p/
 	;rủa bát đĩa -- (1) (British English) (also do the dishes North American English, British English) to wash plates, glasses, etc. after a meal
 		;RELATED NOUN washing-up
 		;TOPICS Houses and homesB1
@@ -5312,8 +5314,7 @@ wash up		<-->	phrasal verb+B1	[221029][1]	./p/
 
 
 
-weathervane		<-->	noun+C2[-0]	./ˈweðəveɪn/
- /ˈweðərveɪn/
+weathervane		<-->	noun+C2	[221110][001]	./ˈweðəveɪn/-NAmE /ˈweðərveɪn/
 	;cửa trên mái nhà -- (1) a metal object on the roof of a building that turns easily in the wind and shows which direction the wind is blowing from
 		;SEE ALSO weathercock
 		;TOPICS WeatherC2, Houses and homesC2, BuildingsC2
@@ -5324,8 +5325,7 @@ weathervane		<-->	noun+C2[-0]	./ˈweðəveɪn/
 
 
 
-Welsh dresser		<-->	noun+C2[-0]	./ˌwelʃ ˈdresə(r)/
- /ˌwelʃ ˈdresər/ (also dresser) (British English)
+Welsh dresser		<-->	noun+C2	[221110][001]	./ˌwelʃ ˈdresə(r)/-NAmE /ˌwelʃ ˈdresər/ (also dresser) (British English)
 	;??? -- (1) a large piece of wooden furniture with shelves in the top part and cupboards below, used for displaying and storing cups, plates, etc.
 		;TOPICS Houses and homesC2
 
@@ -5335,8 +5335,7 @@ Welsh dresser		<-->	noun+C2[-0]	./ˌwelʃ ˈdresə(r)/
 
 
 
-white goods		<-->	noun+C2[-0]	./ˈwaɪt ɡʊdz/
- /ˈwaɪt ɡʊdz/ [plural]
+white goods		<-->	noun+C2	[221110][001]	./ˈwaɪt ɡʊdz/-NAmE /ˈwaɪt ɡʊdz/ [plural]
 	;hành điện tử dân dụng -- (1) large pieces of electrical equipment in the house, such as washing machines, etc.
 		;COMPARE brown goods
 		;TOPICS Houses and homesC2, ShoppingC2
@@ -5347,7 +5346,7 @@ white goods		<-->	noun+C2[-0]	./ˈwaɪt ɡʊdz/
 
 
 
-window		<-->	noun+A1[-0]	.
+window		<-->	noun+A1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5357,8 +5356,7 @@ window		<-->	noun+A1[-0]	.
 
 
 
-window ledge		<-->	noun+C2[-0]	./ˈwɪndəʊ ledʒ/
- /ˈwɪndəʊ ledʒ/ (also sill, windowsill)
+window ledge		<-->	noun+C2	[221110][001]	./ˈwɪndəʊ ledʒ/-NAmE /ˈwɪndəʊ ledʒ/ (also sill, windowsill)
 	;gồ dưới cửa sổ  -- (1) a narrow shelf below a window, either inside or outside
 		;TOPICS Houses and homesC2, BuildingsC2
 
@@ -5368,8 +5366,7 @@ window ledge		<-->	noun+C2[-0]	./ˈwɪndəʊ ledʒ/
 
 
 
-windowsill		<-->	noun+C1[-0]	.ˈwɪndəʊsɪl/
- /ˈwɪndəʊsɪl/ (also sill, window ledge)
+windowsill		<-->	noun+C1[-0]	.ˈwɪndəʊsɪl/-NAmE /ˈwɪndəʊsɪl/ (also sill, window ledge)
 	;bệ cửa sổ -- (1) a narrow shelf below a window, either inside or outside
 		;Place the plants on a sunny windowsill.
 		;TOPICS Houses and homesC1, BuildingsC1
@@ -5380,8 +5377,7 @@ windowsill		<-->	noun+C1[-0]	.ˈwɪndəʊsɪl/
 
 
 
-worktop		<-->	noun+C2[-0]	./ˈwɜːktɒp/
- /ˈwɜːrktɑːp/
+worktop		<-->	noun+C2	[221110][001]	./ˈwɜːktɒp/-NAmE /ˈwɜːrktɑːp/
 	;(also work surface both British English) (North American English counter, countertop)
 	;cái quầy bếp -- (1) a flat surface in a kitchen for preparing food on
 		;The kitchen has granite worktops.
@@ -5397,8 +5393,7 @@ worktop		<-->	noun+C2[-0]	./ˈwɜːktɒp/
 
 
 
-yurt		<-->	noun+C2[-0]	./jɜːt/
- /jɜːrt/
+yurt		<-->	noun+C2	[221110][001]	./jɜːt/-NAmE /jɜːrt/
 	;lều Mông Cổ -- (1) enlarge imagea type of traditional round tent used in Mongolia and Siberia
 		;TOPICS Houses and homesC2
 
@@ -5408,8 +5403,7 @@ yurt		<-->	noun+C2[-0]	./jɜːt/
 
 
 
-zapper		<-->	noun+C2[-0]  ./ˈzæpə(r)/
- /ˈzæpər/ (informal)
+zapper		<-->	noun+C2[-0]  ./ˈzæpə(r)/-NAmE /ˈzæpər/ (informal)
 	;cái điều khiển từ xa -- (1) a device that allows you to operate a television, etc. from a distance
 		;SYNONYM remote control (2)
 		;TOPICS Houses and homesC2

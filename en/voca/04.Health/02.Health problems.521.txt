@@ -1,12 +1,12 @@
 
 	2022-07-16, Sat
 	
-abnormality		<-->	noun+C2	[220808][1]	./ˌæbnɔːˈmæləti/-NAmE /ˌæbnɔːrˈmæləti/
+abnormality		<-->	noun+C2	[220808][001]	./ˌæbnɔːˈmæləti/-NAmE /ˌæbnɔːrˈmæləti/
 	;sự bất thường -- [countable, uncountable] (plural abnormalities) a feature or characteristic in a person’s body or behaviour that is not usual and may be harmful or cause illness or worry; the fact of having such a feature or characteristic
 		;abnormalities of the heart
 		;congenital/fetal abnormality
 		;Extra Examples
-		;TOPICS Health problemsC2[-0]	.
+		;TOPICS Health problemsC2
 
 
 
@@ -14,7 +14,7 @@ abnormality		<-->	noun+C2	[220808][1]	./ˌæbnɔːˈmæləti/-NAmE /ˌæbnɔːr�
 
 
 
-accident		<-->	noun+A2	[220808][1]	./ˈæksɪdənt/-NAmE /ˈæksɪdənt/
+accident		<-->	noun+A2	[220808][001]	./ˈæksɪdənt/-NAmE /ˈæksɪdənt/
 	;tai nạn -- [countable] an unpleasant event, especially in a vehicle, that happens unexpectedly and causes injury or damage
 		;a car/road/traffic accident
 		;in an accident He was killed in an accident.
@@ -35,7 +35,7 @@ accident		<-->	noun+A2	[220808][1]	./ˈæksɪdənt/-NAmE /ˈæksɪdənt/
 		;Wordfinder: accidentambulancecasualtyfirst aidhospitalinjureparamedicstretchervictimwitness
 		;Wordfinder: accident, ambulance, casualty, first aid, hospital, injure, paramedic, stretcher, victim, witness
 		;Extra Examples
-		;TOPICS Transport by car or lorryA2, Health problemsA2[-0]	.
+		;TOPICS Transport by car or lorryA2, Health problemsA2
 				;Oxford Collocations Dictionary
 				;adjective
 				;bad, dreadful, horrible…
@@ -56,14 +56,14 @@ accident		<-->	noun+A2	[220808][1]	./ˈæksɪdənt/-NAmE /ˈæksɪdənt/
 
 
 
-ache		<-->	verb+A2	[220808][1]	./eɪk/-NAmE /eɪk/
+ache		<-->	verb+A2	[220808][001]	./eɪk/-NAmE /eɪk/
 	;đau -- [intransitive] to feel a continuous pain that is not severe
 		;SYNONYM hurt
 		;I'm aching all over.
 		;ache from something Her eyes ached from lack of sleep.
 		;(figurative) It makes my heart ache (= it makes me sad) to see her suffer.
 		;Synonyms hurt: ache, burn, sting, tingle, itch, throb
-		;TOPICS Health problemsA2[-0]	.
+		;TOPICS Health problemsA2
 				;Oxford Collocations Dictionary
 				;adverb
 				;badly, really, terribly…
@@ -77,14 +77,14 @@ ache		<-->	verb+A2	[220808][1]	./eɪk/-NAmE /eɪk/
 
 
 
-ache		<-->	noun+A2	[220808][1]	./eɪk/-NAmE /eɪk/
+ache		<-->	noun+A2	[220808][001]	./eɪk/-NAmE /eɪk/
 	;cảm giác  đau -- (often in compounds) a continuous feeling of pain in a part of the body
 		;Mummy, I've got a tummy ache.
 		;Muscular aches and pains can be soothed by a relaxing massage.
 		;(figurative) an ache in my heart (= a continuous sad feeling)
 		;SEE ALSO achy, backache, bellyache, headache, heartache, stomach ache, toothache
 		;Extra Examples
-		;TOPICS Health problemsA2[-0]	.
+		;TOPICS Health problemsA2
 				;Oxford Collocations Dictionary
 				;adjective
 				;constant, deep, dull…
@@ -102,11 +102,11 @@ ache		<-->	noun+A2	[220808][1]	./eɪk/-NAmE /eɪk/
 
 
 
-achy		<-->	adjective+C2	[220808][1]	./ˈeɪki/-NAmE /ˈeɪki/
+achy		<-->	adjective+C2	[220808][001]	./ˈeɪki/-NAmE /ˈeɪki/
 	;đau nhức nhẹ -- (informal) ​suffering from a continuous slight pain
 		;I feel all achy.
 		;an achy back
-		;TOPICS Health problemsC2[-0]	.
+		;TOPICS Health problemsC2
 				;Oxford Collocations Dictionary
 				;Achy is used with these nouns:
 				;joint
@@ -116,11 +116,11 @@ achy		<-->	adjective+C2	[220808][1]	./ˈeɪki/-NAmE /ˈeɪki/
 
 
 
-acne		<-->	noun+C2	[220808][1]	./ˈækni/-NAmE /ˈækni/
+acne		<-->	noun+C2	[220808][001]	./ˈækni/-NAmE /ˈækni/
 	;mụn, ghẻ -- [uncountable] a skin condition, common among young people, that produces many pimples (= spots), especially on the face and neck
 		;to suffer from/have acne
 		;Extra Examples
-		;TOPICS Health problemsC2, AppearanceC2[-0]	.
+		;TOPICS Health problemsC2, AppearanceC2
 				;Oxford Collocations Dictionary
 				;adjective
 				;bad, severe, terrible…
@@ -134,12 +134,12 @@ acne		<-->	noun+C2	[220808][1]	./ˈækni/-NAmE /ˈækni/
 
 
 
-acute		<-->	adjective+C1[-0]	./əˈkjuːt/-NAmE /əˈkjuːt/
+acute		<-->	adjective+C1	[221109][001]	./əˈkjuːt/-NAmE /əˈkjuːt/
 	;rất nguy hiểm -- an acute illness is one that has quickly become severe and dangerous
 		;acute appendicitis
 		;OPPOSITE chronic
 		;Wordfinder: acute, condition, health, medicine, outbreak, pain, recover, relapse, terminal, treatment
-		;TOPICS Health problemsC1[-0]	.
+		;TOPICS Health problemsC1
 
 
 
@@ -147,7 +147,7 @@ acute		<-->	adjective+C1[-0]	./əˈkjuːt/-NAmE /əˈkjuːt/
 
 
 
-addict		<-->	noun+C1[-0]	./ˈædɪkt/-NAmE /ˈædɪkt/
+addict		<-->	noun+C1	[221109][001]	./ˈædɪkt/-NAmE /ˈædɪkt/
 	;người nghiện -- a person who is unable to stop using or doing something as a habit, especially something harmful
 		;a heroin/drug addict
 		;a gambling/social media addict
@@ -156,7 +156,7 @@ addict		<-->	noun+C1[-0]	./ˈædɪkt/-NAmE /ˈædɪkt/
 		;I used to be a video game addict—I literally spent all my free time playing games.
 		;Wordfinder: abuseaddictdealdependencedetoxificationdrughallucinateoverdoserehabwithdrawal
 		;Wordfinder: abuse, addict, deal, dependence, detoxification, drug, hallucinate, overdose, rehab, withdrawal
-		;TOPICS Health problemsC1, Social issuesC1, FeelingsC1[-0]	.
+		;TOPICS Health problemsC1, Social issuesC1, FeelingsC1
 				;Oxford Collocations Dictionary
 				;adjective
 				;cocaine, drug, heroin…
@@ -166,12 +166,12 @@ addict		<-->	noun+C1[-0]	./ˈædɪkt/-NAmE /ˈædɪkt/
 
 
 
-addicted		<-->	adjective+B2	[220808][1]	./əˈdɪktɪd/-NAmE /əˈdɪktɪd/
+addicted		<-->	adjective+B2	[220808][001]	./əˈdɪktɪd/-NAmE /əˈdɪktɪd/
 	;nghiện -- [not before noun] addicted (to something) unable to stop using or doing something as a habit, especially something harmful
 		;to become addicted to drugs/gambling/social media
 		;It did not take James very long to get addicted.
 		;She had become addicted to tranquillizers.
-		;TOPICS Social issuesB2, Health problemsB2, FeelingsB2[-0]	.
+		;TOPICS Social issuesB2, Health problemsB2, FeelingsB2
 				;Oxford Collocations Dictionary
 				;verbs
 				;be, become, get…
@@ -191,14 +191,14 @@ addicted		<-->	adjective+B2	[220808][1]	./əˈdɪktɪd/-NAmE /əˈdɪktɪd/
 
 
 
-addiction		<-->	noun+B2	[220808][1]	./əˈdɪkʃn/-NAmE /əˈdɪkʃn/
+addiction		<-->	noun+B2	[220808][001]	./əˈdɪkʃn/-NAmE /əˈdɪkʃn/
 	;sự nghiện ngập -- [uncountable, countable] ​the condition of being unable to stop using or doing something as a habit, especially something harmful
 		;cocaine addiction
 		;addiction to something He is now fighting his addiction to alcohol.
 		;an addiction to TV game shows/social media/gambling
 		;Collocations Illnesses
 		;Extra Examples
-		;TOPICS Social issuesB2, Health problemsB2[-0]	.
+		;TOPICS Social issuesB2, Health problemsB2
 				;Oxford Collocations Dictionary
 				;adjective
 				;alcohol, cocaine, drug…
@@ -214,6 +214,11 @@ addiction		<-->	noun+B2	[220808][1]	./əˈdɪkʃn/-NAmE /əˈdɪkʃn/
 
 
 addictive		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -222,6 +227,11 @@ addictive		<-->	adjective+C1[-0]	.
 
 
 affliction		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -231,6 +241,11 @@ affliction		<-->	noun+C2[-0]	.
 
 
 after-effect		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -245,6 +260,11 @@ aggravate		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -252,6 +272,11 @@ aggravate		<-->	verb+C2[-0]	.
 
 
 aggressive		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -261,6 +286,11 @@ aggressive		<-->	adjective+C2[-0]	.
 
 
 agony		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -269,6 +299,11 @@ agony		<-->	noun+C1[-0]	.
 
 
 -aholic		<-->	suffix+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -278,6 +313,11 @@ agony		<-->	noun+C1[-0]	.
 
 
 AIDS		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -292,6 +332,11 @@ ail		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -299,6 +344,11 @@ ail		<-->	verb+C2[-0]	.
 
 
 ailing		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -308,6 +358,11 @@ ailing		<-->	adjective+C2[-0]	.
 
 
 ailment		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -316,6 +371,11 @@ ailment		<-->	noun+C1[-0]	.
 
 
 alcoholic		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -324,6 +384,11 @@ alcoholic		<-->	adjective+B1[-0]	.
 
 
 alcoholic		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -332,6 +397,11 @@ alcoholic		<-->	noun+C1[-0]	.
 
 
 Alcoholics Anonymous™		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -341,6 +411,11 @@ Alcoholics Anonymous™		<-->	noun+C2[-0]	.
 
 
 alcoholism		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -350,6 +425,11 @@ alcoholism		<-->	noun+C2[-0]	.
 
 
 all-clear		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -359,6 +439,11 @@ all-clear		<-->	noun+C2[-0]	.
 
 
 allergic		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -368,6 +453,11 @@ allergic		<-->	adjective+B2[-0]	.
 
 
 allergy		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -377,6 +467,11 @@ allergy		<-->	noun+B2[-0]	.
 
 
 ALS		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -386,6 +481,11 @@ ALS		<-->	noun+C2[-0]	.
 
 
 Alzheimer’s		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -395,6 +495,11 @@ Alzheimer’s		<-->	noun+C2[-0]	.
 
 
 amyotrophic lateral sclerosis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -404,6 +509,11 @@ amyotrophic lateral sclerosis		<-->	noun+C2[-0]	.
 
 
 anaemia		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -413,6 +523,11 @@ anaemia		<-->	noun+C2[-0]	.
 
 
 anaemic		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -422,6 +537,11 @@ anaemic		<-->	adjective+C2[-0]	.
 
 
 anemia		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -431,6 +551,11 @@ anemia		<-->	noun+C2[-0]	.
 
 
 anthrax		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -440,6 +565,11 @@ anthrax		<-->	noun+C2[-0]	.
 
 
 appendicitis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -449,6 +579,11 @@ appendicitis		<-->	noun+C2[-0]	.
 
 
 arthritis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -458,6 +593,11 @@ arthritis		<-->	noun+C2[-0]	.
 
 
 asthma		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -466,6 +606,11 @@ asthma		<-->	noun+C1[-0]	.
 
 
 asthmatic		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -475,6 +620,11 @@ asthmatic		<-->	noun+C2[-0]	.
 
 
 at death’s door		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -483,6 +633,11 @@ at death’s door		<-->	idiom+C2[-0]	.
 
 
 attack		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -491,6 +646,11 @@ attack		<-->	noun+B1[-0]	.
 
 
 avian flu		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -500,6 +660,11 @@ avian flu		<-->	noun+C2[-0]	.
 
 
 bad		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -509,6 +674,11 @@ bad		<-->	adjective+A2[-0]	.
 
 
 bang		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -518,6 +688,11 @@ bang		<-->	verb+B2[-0]	.
 
 
 banged up		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -527,6 +702,11 @@ banged up		<-->	adjective+C2[-0]	.
 
 
 battered		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -536,6 +716,11 @@ battered		<-->	adjective+C2[-0]	.
 
 
 bedridden		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -545,6 +730,11 @@ bedridden		<-->	adjective+C2[-0]	.
 
 
 bedsore		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -554,6 +744,11 @@ bedsore		<-->	noun+C2[-0]	.
 
 
 be/go down with something		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -562,6 +757,11 @@ be/go down with something		<-->	idiom+C2[-0]	.
 
 
 bend		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -571,6 +771,11 @@ bend		<-->	noun+C2[-0]	.
 
 
 benign		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -580,6 +785,11 @@ benign		<-->	adjective+C2[-0]	.
 
 
 be sick		<-->	idiom+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -588,6 +798,11 @@ be sick		<-->	idiom+A2[-0]	.
 
 
 better		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -597,6 +812,11 @@ better		<-->	adjective+A2[-0]	.
 
 
 bird flu		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -605,6 +825,11 @@ bird flu		<-->	noun+C1[-0]	.
 
 
 bite		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -613,6 +838,11 @@ bite		<-->	noun+B1[-0]	.
 
 
 black eye		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -622,6 +852,11 @@ black eye		<-->	noun+B2[-0]	.
 
 
 bleed		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -630,6 +865,11 @@ bleed		<-->	verb+C1[-0]	.
 
 
 blister		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -638,6 +878,11 @@ blister		<-->	noun+C1[-0]	.
 
 
 bounce back		<-->	phrasal adverb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -646,6 +891,11 @@ bounce back		<-->	phrasal adverb+C1[-0]	.
 
 
 bout		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -655,6 +905,11 @@ bout		<-->	noun+C2[-0]	.
 
 
 break		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -663,6 +918,11 @@ break		<-->	verb+B1[-0]	.
 
 
 break		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -671,6 +931,11 @@ break		<-->	noun+B1[-0]	.
 
 
 breathless		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -679,6 +944,11 @@ breathless		<-->	adjective+C1[-0]	.
 
 
 breathlessness		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -687,6 +957,11 @@ breathlessness		<-->	noun+C1[-0]	.
 
 
 broken		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -696,6 +971,11 @@ broken		<-->	adjective+A2[-0]	.
 
 
 bronchitis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -705,6 +985,11 @@ bronchitis		<-->	noun+C2[-0]	.
 
 
 bruise		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -714,6 +999,11 @@ bruise		<-->	noun+B2[-0]	.
 
 
 bruise		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -723,6 +1013,11 @@ bruise		<-->	verb+B2[-0]	.
 
 
 BSE		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -732,6 +1027,11 @@ BSE		<-->	noun+C2[-0]	.
 
 
 bug		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -741,6 +1041,11 @@ bug		<-->	noun+B2[-0]	.
 
 
 bump		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -750,6 +1055,11 @@ bump		<-->	verb+B2[-0]	.
 
 
 bump		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -759,6 +1069,11 @@ bump		<-->	noun+B2[-0]	.
 
 
 burn		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -768,6 +1083,11 @@ burn		<-->	noun+B2[-0]	.
 
 
 burnout		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -777,6 +1097,11 @@ burnout		<-->	noun+C2[-0]	.
 
 
 burnt		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -785,6 +1110,11 @@ burnt		<-->	adjective+B1[-0]	.
 
 
 C-19		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -793,6 +1123,11 @@ C-19		<-->	noun+C1[-0]	.
 
 
 cancer		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -802,6 +1137,11 @@ cancer		<-->	noun+B2[-0]	.
 
 
 cancerous		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -811,6 +1151,11 @@ cancerous		<-->	adjective+C2[-0]	.
 
 
 cardiac		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -820,6 +1165,11 @@ cardiac		<-->	adjective+C2[-0]	.
 
 
 carpal tunnel syndrome		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -829,6 +1179,11 @@ carpal tunnel syndrome		<-->	noun+C2[-0]	.
 
 
 carrier		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -837,6 +1192,11 @@ carrier		<-->	noun+C1[-0]	.
 
 
 cataract		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -846,6 +1206,11 @@ cataract		<-->	noun+C2[-0]	.
 
 
 catarrh		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -855,6 +1220,11 @@ catarrh		<-->	noun+C2[-0]	.
 
 
 catch		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -863,6 +1233,11 @@ catch		<-->	verb+B1[-0]	.
 
 
 catching		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -871,6 +1246,11 @@ catching		<-->	adjective+C1[-0]	.
 
 
 celiac		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -880,6 +1260,11 @@ celiac		<-->	adjective+C2[-0]	.
 
 
 celiac		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -889,6 +1274,11 @@ celiac		<-->	noun+C2[-0]	.
 
 
 celiac disease		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -898,6 +1288,11 @@ celiac disease		<-->	noun+C2[-0]	.
 
 
 chicken flu		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -906,6 +1301,11 @@ chicken flu		<-->	noun+C1[-0]	.
 
 
 chickenpox		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -915,6 +1315,11 @@ chickenpox		<-->	noun+C2[-0]	.
 
 
 chill		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -924,6 +1329,11 @@ chill		<-->	noun+C2[-0]	.
 
 
 cholera		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -933,6 +1343,11 @@ cholera		<-->	noun+C2[-0]	.
 
 
 chronic		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -941,6 +1356,11 @@ chronic		<-->	adjective+C1[-0]	.
 
 
 chronic fatigue syndrome		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -950,6 +1370,11 @@ chronic fatigue syndrome		<-->	noun+C2[-0]	.
 
 
 cirrhosis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -959,6 +1384,11 @@ cirrhosis		<-->	noun+C2[-0]	.
 
 
 CJDabbreviationC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -968,6 +1398,11 @@ CJDabbreviationC2[-0]	.
 
 
 coeliac		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -977,6 +1412,11 @@ coeliac		<-->	adjective+C2[-0]	.
 
 
 coeliac		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -986,6 +1426,11 @@ coeliac		<-->	noun+C2[-0]	.
 
 
 coeliac disease		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -995,6 +1440,11 @@ coeliac disease		<-->	noun+C2[-0]	.
 
 
 cold		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1008,6 +1458,11 @@ cold turkey		<-->	adverb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1015,6 +1470,11 @@ cold turkey		<-->	adverb+C2[-0]	.
 
 
 cold turkey		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1024,6 +1484,11 @@ cold turkey		<-->	noun+C2[-0]	.
 
 
 colic		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1033,6 +1498,11 @@ colic		<-->	noun+C2[-0]	.
 
 
 collapse		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1042,6 +1512,11 @@ collapse		<-->	verb+B2[-0]	.
 
 
 collapse		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1050,6 +1525,11 @@ collapse		<-->	noun+C1[-0]	.
 
 
 coma		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1059,6 +1539,11 @@ coma		<-->	noun+C2[-0]	.
 
 
 comatose		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1073,12 +1558,22 @@ come down with		<-->	phrasal adverb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
 
 
 community spread		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1088,6 +1583,11 @@ community spread		<-->	noun+C2[-0]	.
 
 
 community transmission		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1097,6 +1597,11 @@ community transmission		<-->	noun+C2[-0]	.
 
 
 complain of		<-->	phrasal adverb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1105,6 +1610,11 @@ complain of		<-->	phrasal adverb+C1[-0]	.
 
 
 complaint		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1114,6 +1624,11 @@ complaint		<-->	noun+C2[-0]	.
 
 
 complication		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1127,6 +1642,11 @@ concuss		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1134,6 +1654,11 @@ concuss		<-->	verb+C2[-0]	.
 
 
 concussed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1143,6 +1668,11 @@ concussed		<-->	adjective+C2[-0]	.
 
 
 concussion		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1152,6 +1682,11 @@ concussion		<-->	noun+C2[-0]	.
 
 
 condition		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1161,6 +1696,11 @@ condition		<-->	noun+A2[-0]	.
 
 
 congenital		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1170,6 +1710,11 @@ congenital		<-->	adjective+C2[-0]	.
 
 
 constipation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1179,6 +1724,11 @@ constipation		<-->	noun+C2[-0]	.
 
 
 contagion		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1188,6 +1738,11 @@ contagion		<-->	noun+C2[-0]	.
 
 
 contagious		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1201,6 +1756,11 @@ contract		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1208,6 +1768,11 @@ contract		<-->	verb+C2[-0]	.
 
 
 contusion		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1222,6 +1787,11 @@ convalesce		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1229,6 +1799,11 @@ convalesce		<-->	verb+C2[-0]	.
 
 
 convalescence		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1238,6 +1813,11 @@ convalescence		<-->	noun+C2[-0]	.
 
 
 corona		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1247,6 +1827,11 @@ corona		<-->	noun+C2[-0]	.
 
 
 coronary		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1256,6 +1841,11 @@ coronary		<-->	adjective+C2[-0]	.
 
 
 coronary thrombosis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1265,6 +1855,11 @@ coronary thrombosis		<-->	noun+C2[-0]	.
 
 
 coronavirus		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1274,6 +1869,11 @@ coronavirus		<-->	noun+B2[-0]	.
 
 
 cough		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1282,6 +1882,11 @@ cough		<-->	verb+B1[-0]	.
 
 
 cough		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1290,6 +1895,11 @@ cough		<-->	noun+B1[-0]	.
 
 
 Covid		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1299,6 +1909,11 @@ Covid		<-->	noun+B2[-0]	.
 
 
 Covid-19		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1308,6 +1923,11 @@ Covid-19		<-->	noun+B2[-0]	.
 
 
 cramp		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1317,6 +1937,11 @@ cramp		<-->	noun+C2[-0]	.
 
 
 Creutzfeldt-Jakob disease		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1331,6 +1956,11 @@ cripple		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1338,6 +1968,11 @@ cripple		<-->	verb+C2[-0]	.
 
 
 crippling		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1347,6 +1982,11 @@ crippling		<-->	adjective+C2[-0]	.
 
 
 crisis		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1356,6 +1996,11 @@ crisis		<-->	noun+B2[-0]	.
 
 
 croup		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1365,6 +2010,11 @@ croup		<-->	noun+C2[-0]	.
 
 
 curable		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1374,6 +2024,11 @@ curable		<-->	adjective+C2[-0]	.
 
 
 cut		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1382,6 +2037,11 @@ cut		<-->	verb+A1[-0]	.
 
 
 cut		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1390,6 +2050,11 @@ cut		<-->	noun+B1[-0]	.
 
 
 cyst		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1399,6 +2064,11 @@ cyst		<-->	noun+C2[-0]	.
 
 
 dead leg		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1408,6 +2078,11 @@ dead leg		<-->	noun+C2[-0]	.
 
 
 debility		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1417,6 +2092,11 @@ debility		<-->	noun+C2[-0]	.
 
 
 deep vein thrombosis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1431,6 +2111,11 @@ dehydrate		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1438,6 +2123,11 @@ dehydrate		<-->	verb+C2[-0]	.
 
 
 dehydrated		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1447,6 +2137,11 @@ dehydrated		<-->	adjective+C2[-0]	.
 
 
 dehydration		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1456,6 +2151,11 @@ dehydration		<-->	noun+C2[-0]	.
 
 
 delicate		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1464,6 +2164,11 @@ delicate		<-->	adjective+C1[-0]	.
 
 
 delirium		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1473,6 +2178,11 @@ delirium		<-->	noun+C2[-0]	.
 
 
 delta		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1482,6 +2192,11 @@ delta		<-->	noun+C2[-0]	.
 
 
 demented		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1491,6 +2206,11 @@ demented		<-->	adjective+C2[-0]	.
 
 
 dementia		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1500,6 +2220,11 @@ dementia		<-->	noun+C2[-0]	.
 
 
 dependence		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1508,6 +2233,11 @@ dependence		<-->	noun+C1[-0]	.
 
 
 dependent		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1517,6 +2247,11 @@ dependent		<-->	adjective+B2[-0]	.
 
 
 develop		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1525,6 +2260,11 @@ develop		<-->	verb+B1[-0]	.
 
 
 diabetes		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1534,6 +2274,11 @@ diabetes		<-->	noun+B2[-0]	.
 
 
 diabetic		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1543,6 +2288,11 @@ diabetic		<-->	adjective+C2[-0]	.
 
 
 diabetic		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1552,6 +2302,11 @@ diabetic		<-->	noun+C2[-0]	.
 
 
 diarrhoea		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1560,6 +2315,11 @@ diarrhoea		<-->	noun+C1[-0]	.
 
 
 diphtheria		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1569,6 +2329,11 @@ diphtheria		<-->	noun+C2[-0]	.
 
 
 discomfort		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1577,6 +2342,11 @@ discomfort		<-->	noun+C1[-0]	.
 
 
 disease		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1586,6 +2356,11 @@ disease		<-->	noun+A2[-0]	.
 
 
 diseased		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1600,6 +2375,11 @@ dislocate		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1607,6 +2387,11 @@ dislocate		<-->	verb+C2[-0]	.
 
 
 disorder		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1616,6 +2401,11 @@ disorder		<-->	noun+B2[-0]	.
 
 
 distressed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1625,6 +2415,11 @@ distressed		<-->	adjective+C2[-0]	.
 
 
 dizzy		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1633,6 +2428,11 @@ dizzy		<-->	adjective+C1[-0]	.
 
 
 doddering		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1642,6 +2442,11 @@ doddering		<-->	adjective+C2[-0]	.
 
 
 drawn		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1651,6 +2456,11 @@ drawn		<-->	adjective+C2[-0]	.
 
 
 dysentery		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1660,6 +2470,11 @@ dysentery		<-->	noun+C2[-0]	.
 
 
 dyspepsia		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1669,6 +2484,11 @@ dyspepsia		<-->	noun+C2[-0]	.
 
 
 earache		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1678,6 +2498,11 @@ earache		<-->	noun+A2[-0]	.
 
 
 Ebola		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1687,6 +2512,11 @@ Ebola		<-->	noun+C2[-0]	.
 
 
 eclampsia		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1696,6 +2526,11 @@ eclampsia		<-->	noun+C2[-0]	.
 
 
 eczema		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1705,6 +2540,11 @@ eczema		<-->	noun+C2[-0]	.
 
 
 electric shock		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1713,6 +2553,11 @@ electric shock		<-->	noun+C1[-0]	.
 
 
 emaciated		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1722,6 +2567,11 @@ emaciated		<-->	adjective+C2[-0]	.
 
 
 emaciation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1731,6 +2581,11 @@ emaciation		<-->	noun+C2[-0]	.
 
 
 epidemic		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1739,6 +2594,11 @@ epidemic		<-->	noun+C1[-0]	.
 
 
 epilepsy		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1748,6 +2608,11 @@ epilepsy		<-->	noun+C2[-0]	.
 
 
 epileptic		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1757,6 +2622,11 @@ epileptic		<-->	noun+C2[-0]	.
 
 
 episode		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1771,6 +2641,11 @@ exacerbate		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1778,6 +2653,11 @@ exacerbate		<-->	verb+C2[-0]	.
 
 
 exacerbation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1787,6 +2667,11 @@ exacerbation		<-->	noun+C2[-0]	.
 
 
 exposure		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1800,12 +2685,22 @@ fade away		<-->	phrasal adverb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
 
 
 faint		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1814,6 +2709,11 @@ faint		<-->	adjective+C1[-0]	.
 
 
 faint		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1822,6 +2722,11 @@ faint		<-->	verb+C1[-0]	.
 
 
 faint		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1830,6 +2735,11 @@ faint		<-->	noun+C1[-0]	.
 
 
 fatal		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1838,6 +2748,11 @@ fatal		<-->	adjective+C1[-0]	.
 
 
 fatally		<-->	adverb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1846,6 +2761,11 @@ fatally		<-->	adverb+C1[-0]	.
 
 
 fatigue		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1854,6 +2774,11 @@ fatigue		<-->	noun+C1[-0]	.
 
 
 fetal alcohol syndrome		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1863,6 +2788,11 @@ fetal alcohol syndrome		<-->	noun+C2[-0]	.
 
 
 fever		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1872,6 +2802,11 @@ fever		<-->	noun+B2[-0]	.
 
 
 feverish		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1880,6 +2815,11 @@ feverish		<-->	adjective+C1[-0]	.
 
 
 fibroid		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1889,6 +2829,11 @@ fibroid		<-->	noun+C2[-0]	.
 
 
 fight for (your) life		<-->	idiom+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1897,6 +2842,11 @@ fight for (your) life		<-->	idiom+C1[-0]	.
 
 
 first-degree		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1906,6 +2856,11 @@ first-degree		<-->	adjective+C2[-0]	.
 
 
 fit		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1914,6 +2869,11 @@ fit		<-->	noun+C1[-0]	.
 
 
 flare		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1923,6 +2883,11 @@ flare		<-->	noun+C2[-0]	.
 
 
 flare-up		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1932,6 +2897,11 @@ flare-up		<-->	noun+C2[-0]	.
 
 
 flatulence		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1941,6 +2911,11 @@ flatulence		<-->	noun+C2[-0]	.
 
 
 flatulent		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1950,6 +2925,11 @@ flatulent		<-->	adjective+C2[-0]	.
 
 
 flu		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1964,6 +2944,11 @@ flutter		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1971,6 +2956,11 @@ flutter		<-->	verb+C2[-0]	.
 
 
 flutter		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1980,6 +2970,11 @@ flutter		<-->	noun+C2[-0]	.
 
 
 food poisoning		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1989,6 +2984,11 @@ food poisoning		<-->	noun+B2[-0]	.
 
 
 fracture		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -1997,6 +2997,11 @@ fracture		<-->	noun+C1[-0]	.
 
 
 fracture		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2005,6 +3010,11 @@ fracture		<-->	verb+C1[-0]	.
 
 
 fragile		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2013,6 +3023,11 @@ fragile		<-->	adjective+C1[-0]	.
 
 
 frail		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2022,6 +3037,11 @@ frail		<-->	adjective+C2[-0]	.
 
 
 frostbite		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2031,6 +3051,11 @@ frostbite		<-->	noun+C2[-0]	.
 
 
 funny		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2040,6 +3065,11 @@ funny		<-->	adjective+C2[-0]	.
 
 
 ganglion		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2049,6 +3079,11 @@ ganglion		<-->	noun+C2[-0]	.
 
 
 gangrene		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2058,6 +3093,11 @@ gangrene		<-->	noun+C2[-0]	.
 
 
 gastric		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2067,6 +3107,11 @@ gastric		<-->	adjective+C2[-0]	.
 
 
 gastric flu		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2076,6 +3121,11 @@ gastric flu		<-->	noun+C2[-0]	.
 
 
 genetic		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2085,6 +3135,11 @@ genetic		<-->	adjective+B2[-0]	.
 
 
 germ		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2094,6 +3149,11 @@ germ		<-->	noun+B2[-0]	.
 
 
 German measles		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2103,6 +3163,11 @@ German measles		<-->	noun+C2[-0]	.
 
 
 get		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2111,6 +3176,11 @@ get		<-->	verb+A1[-0]	.
 
 
 get over		<-->	phrasal adverb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2119,6 +3189,11 @@ get over		<-->	phrasal adverb+B2[-0]	.
 
 
 ghastly		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2128,6 +3203,11 @@ ghastly		<-->	adjective+C2[-0]	.
 
 
 give		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2136,6 +3216,11 @@ give		<-->	verb+A1[-0]	.
 
 
 glue-sniffing		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2150,6 +3235,11 @@ graze		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2157,6 +3247,11 @@ graze		<-->	verb+C2[-0]	.
 
 
 grim		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2166,6 +3261,11 @@ grim		<-->	adjective+C2[-0]	.
 
 
 groggy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2175,6 +3275,11 @@ groggy		<-->	adjective+C2[-0]	.
 
 
 haemophilia		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2184,6 +3289,11 @@ haemophilia		<-->	noun+C2[-0]	.
 
 
 haemophiliac		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2193,6 +3303,11 @@ haemophiliac		<-->	noun+C2[-0]	.
 
 
 haemorrhage		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2202,6 +3317,11 @@ haemorrhage		<-->	noun+C2[-0]	.
 
 
 haemorrhoids		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2211,6 +3331,11 @@ haemorrhoids		<-->	noun+C2[-0]	.
 
 
 hangover		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2220,6 +3345,11 @@ hangover		<-->	noun+C2[-0]	.
 
 
 harm		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2229,6 +3359,11 @@ harm		<-->	verb+B2[-0]	.
 
 
 have		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2237,6 +3372,11 @@ have		<-->	verb+A1[-0]	.
 
 
 have one foot in the grave		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2245,6 +3385,11 @@ have one foot in the grave		<-->	idiom+C2[-0]	.
 
 
 hay fever		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2253,6 +3398,11 @@ hay fever		<-->	noun+C1[-0]	.
 
 
 headache		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2262,6 +3412,11 @@ headache		<-->	noun+A2[-0]	.
 
 
 heal		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2271,6 +3426,11 @@ heal		<-->	verb+B2[-0]	.
 
 
 heart attack		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2280,6 +3440,11 @@ heart attack		<-->	noun+B2[-0]	.
 
 
 heatstroke		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2289,6 +3454,9 @@ heatstroke		<-->	noun+C2[-0]	.
 
 
 hemophilia		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2297,7 +3465,9 @@ hemophilia		<-->	noun+C2[-0]	.
 
 
 
-hepatitis		+<-->noun+C2	[220808][1]	./ˌhepəˈtaɪtɪs/- NAmE /ˌhepəˈtaɪtɪs/
+
+
+hepatitis		+<-->noun+C2	[220808][001]	./ˌhepəˈtaɪtɪs/- NAmE /ˌhepəˈtaɪtɪs/
 
 
 
@@ -2322,6 +3492,11 @@ hepatitis		+<-->noun+C2	[220808][1]	./ˌhepəˈtaɪtɪs/- NAmE /ˌhepəˈtaɪtɪ
 
 
 hereditary		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2331,6 +3506,11 @@ hereditary		<-->	adjective+C2[-0]	.
 
 
 hernia		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2340,6 +3520,11 @@ hernia		<-->	noun+C2[-0]	.
 
 
 herniated disc		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2349,6 +3534,11 @@ herniated disc		<-->	noun+C2[-0]	.
 
 
 hit		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2358,6 +3548,11 @@ hit		<-->	verb+A2[-0]	.
 
 
 HIV		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2371,6 +3566,11 @@ hobble		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2378,6 +3578,11 @@ hobble		<-->	verb+C2[-0]	.
 
 
 hooked		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2386,6 +3591,11 @@ hooked		<-->	adjective+C1[-0]	.
 
 
 hot zone		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2395,6 +3605,11 @@ hot zone		<-->	noun+C2[-0]	.
 
 
 housebound		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2404,6 +3619,11 @@ housebound		<-->	adjective+C2[-0]	.
 
 
 hungover		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2413,6 +3633,11 @@ hungover		<-->	adjective+C2[-0]	.
 
 
 hurt		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2422,6 +3647,11 @@ hurt		<-->	verb+A2[-0]	.
 
 
 hurt		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2431,6 +3661,11 @@ hurt		<-->	adjective+A2[-0]	.
 
 
 hypertension		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2440,6 +3675,11 @@ hypertension		<-->	noun+C2[-0]	.
 
 
 hypertensive		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2449,6 +3689,11 @@ hypertensive		<-->	adjective+C2[-0]	.
 
 
 ill		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2458,6 +3703,11 @@ ill		<-->	adjective+A2[-0]	.
 
 
 illness		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2467,6 +3717,11 @@ illness		<-->	noun+A2[-0]	.
 
 
 incapacity		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2481,6 +3736,11 @@ incubate		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2488,6 +3748,11 @@ incubate		<-->	verb+C2[-0]	.
 
 
 incubation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2497,6 +3762,11 @@ incubation		<-->	noun+C2[-0]	.
 
 
 incurable		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2506,6 +3776,11 @@ incurable		<-->	adjective+C2[-0]	.
 
 
 indigestion		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2515,6 +3790,11 @@ indigestion		<-->	noun+C2[-0]	.
 
 
 infect		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2523,6 +3803,11 @@ infect		<-->	verb+C1[-0]	.
 
 
 infected		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2531,6 +3816,11 @@ infected		<-->	adjective+C1[-0]	.
 
 
 infection		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2540,6 +3830,11 @@ infection		<-->	noun+B2[-0]	.
 
 
 infectious		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2548,6 +3843,11 @@ infectious		<-->	adjective+C1[-0]	.
 
 
 infirm		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2557,6 +3857,11 @@ infirm		<-->	adjective+C2[-0]	.
 
 
 infirmity		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2566,6 +3871,11 @@ infirmity		<-->	noun+C2[-0]	.
 
 
 inflamed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2575,6 +3885,11 @@ inflamed		<-->	adjective+C2[-0]	.
 
 
 inflammation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2584,6 +3899,11 @@ inflammation		<-->	noun+C2[-0]	.
 
 
 injure		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2592,6 +3912,11 @@ injure		<-->	verb+B1[-0]	.
 
 
 injured		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2600,6 +3925,11 @@ injured		<-->	adjective+B1[-0]	.
 
 
 injury		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2609,6 +3939,11 @@ injury		<-->	noun+A2[-0]	.
 
 
 invalid		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2618,6 +3953,11 @@ invalid		<-->	noun+C2[-0]	.
 
 
 invasive		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2627,6 +3967,11 @@ invasive		<-->	adjective+C2[-0]	.
 
 
 irritable bowel syndrome		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2641,6 +3986,11 @@ irritate		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2648,6 +3998,11 @@ irritate		<-->	verb+C2[-0]	.
 
 
 irritation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2657,6 +4012,11 @@ irritation		<-->	noun+C2[-0]	.
 
 
 jaundice		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2671,12 +4031,22 @@ keel over		<-->	phrasal adverb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
 
 
 knock		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2685,6 +4055,11 @@ knock		<-->	verb+B1[-0]	.
 
 
 knock out		<-->	phrasal adverb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2693,6 +4068,11 @@ knock out		<-->	phrasal adverb+C1[-0]	.
 
 
 kwashiorkor		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2702,6 +4082,11 @@ kwashiorkor		<-->	noun+C2[-0]	.
 
 
 laryngitis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2716,12 +4101,22 @@ lay up		<-->	phrasal adverb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
 
 
 leprosy		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2731,6 +4126,11 @@ leprosy		<-->	noun+C2[-0]	.
 
 
 leukaemia		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2740,6 +4140,11 @@ leukaemia		<-->	noun+C2[-0]	.
 
 
 life-limiting		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2754,6 +4159,11 @@ limp		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2761,6 +4171,11 @@ limp		<-->	verb+C2[-0]	.
 
 
 limp		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2770,6 +4185,11 @@ limp		<-->	noun+C2[-0]	.
 
 
 long Covid		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2779,6 +4199,11 @@ long Covid		<-->	noun+C2[-0]	.
 
 
 Lou Gehrig's disease		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2788,6 +4213,11 @@ Lou Gehrig's disease		<-->	noun+C2[-0]	.
 
 
 lump		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2796,6 +4226,11 @@ lump		<-->	noun+C1[-0]	.
 
 
 mad cow disease		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2805,6 +4240,11 @@ mad cow disease		<-->	noun+C2[-0]	.
 
 
 make it		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2813,6 +4253,11 @@ make it		<-->	idiom+C2[-0]	.
 
 
 malady		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2822,6 +4267,11 @@ malady		<-->	noun+C2[-0]	.
 
 
 malaise		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2831,6 +4281,11 @@ malaise		<-->	noun+C2[-0]	.
 
 
 malaria		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2840,6 +4295,11 @@ malaria		<-->	noun+B2[-0]	.
 
 
 malarial		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2849,6 +4309,11 @@ malarial		<-->	adjective+C2[-0]	.
 
 
 malignant		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2858,6 +4323,11 @@ malignant		<-->	adjective+C2[-0]	.
 
 
 malnourished		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2867,6 +4337,11 @@ malnourished		<-->	adjective+C2[-0]	.
 
 
 malnutrition		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2876,6 +4351,11 @@ malnutrition		<-->	noun+C2[-0]	.
 
 
 measles		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2884,6 +4364,11 @@ measles		<-->	noun+C1[-0]	.
 
 
 meningitis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2893,6 +4378,11 @@ meningitis		<-->	noun+C2[-0]	.
 
 
 migraine		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2902,6 +4392,11 @@ migraine		<-->	noun+C2[-0]	.
 
 
 miscarriage		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2911,6 +4406,11 @@ miscarriage		<-->	noun+C2[-0]	.
 
 
 MNDabbreviationC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2920,6 +4420,11 @@ MNDabbreviationC2[-0]	.
 
 
 motor neurone disease		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2929,6 +4434,11 @@ motor neurone disease		<-->	noun+C2[-0]	.
 
 
 multiple sclerosis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2938,6 +4448,9 @@ multiple sclerosis		<-->	noun+C2[-0]	.
 
 
 mumps		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -2946,13 +4459,15 @@ mumps		<-->	noun+C2[-0]	.
 
 
 
-nausea		<-->	noun+C2	[220808][1]	./ˈnɔːziə/-NAmE /ˈnɔːziə/
+
+
+nausea		<-->	noun+C2	[220808][001]	./ˈnɔːziə/-NAmE /ˈnɔːziə/
 	;cảm giác muốn ói, chóng mặt -- [uncountable] the feeling that you have when you want to vomit, for example because you are sick or are shocked or frightened by something
 		;A wave of nausea swept over her.
 		;Nausea and vomiting are common symptoms.
 		;SEE ALSO ad nauseam
 		;Extra Examples
-		;TOPICS Health problemsC2[-0]	.
+		;TOPICS Health problemsC2
 				;Oxford Collocations Dictionary
 				;adjective
 				;severe, mild, slight…
@@ -2972,6 +4487,11 @@ nausea		<-->	noun+C2	[220808][1]	./ˈnɔːziə/-NAmE /ˈnɔːziə/
 
 
 nauseous		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2981,6 +4501,11 @@ nauseous		<-->	adjective+C2[-0]	.
 
 
 nCoV		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2990,6 +4515,11 @@ nCoV		<-->	noun+C2[-0]	.
 
 
 niggle		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -2999,6 +4529,11 @@ niggle		<-->	noun+C2[-0]	.
 
 
 non-malignant		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3008,6 +4543,11 @@ non-malignant		<-->	adjective+C2[-0]	.
 
 
 notifiable		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3017,6 +4557,11 @@ notifiable		<-->	adjective+C2[-0]	.
 
 
 obese		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3026,6 +4571,11 @@ obese		<-->	adjective+B2[-0]	.
 
 
 obesity		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3040,6 +4590,11 @@ OD		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3047,6 +4602,11 @@ OD		<-->	verb+C2[-0]	.
 
 
 omicron		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3056,6 +4616,11 @@ omicron		<-->	noun+C2[-0]	.
 
 
 on the mend		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3064,6 +4629,11 @@ on the mend		<-->	idiom+C2[-0]	.
 
 
 on your feet		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3072,6 +4642,11 @@ on your feet		<-->	idiom+C2[-0]	.
 
 
 outbreak		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3080,6 +4655,11 @@ outbreak		<-->	noun+C1[-0]	.
 
 
 out of breath		<-->	idiom+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3088,6 +4668,11 @@ out of breath		<-->	idiom+C1[-0]	.
 
 
 overdose		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3101,6 +4686,11 @@ overeat		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3108,6 +4698,11 @@ overeat		<-->	verb+C2[-0]	.
 
 
 overeating		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3117,6 +4712,11 @@ overeating		<-->	noun+C2[-0]	.
 
 
 overweight		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3126,6 +4726,11 @@ overweight		<-->	adjective+B2[-0]	.
 
 
 pain		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3135,6 +4740,11 @@ pain		<-->	noun+A2[-0]	.
 
 
 painful		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3143,6 +4753,11 @@ painful		<-->	adjective+B1[-0]	.
 
 
 painfully		<-->	adverb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3151,6 +4766,11 @@ painfully		<-->	adverb+B1[-0]	.
 
 
 pale		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3159,6 +4779,11 @@ pale		<-->	adjective+B1[-0]	.
 
 
 pallid		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3168,6 +4793,11 @@ pallid		<-->	adjective+C2[-0]	.
 
 
 pallor		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3177,6 +4807,11 @@ pallor		<-->	noun+C2[-0]	.
 
 
 pandemic		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3186,6 +4821,11 @@ pandemic		<-->	noun+B2[-0]	.
 
 
 pandemic		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3200,6 +4840,11 @@ paralyse		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3207,6 +4852,11 @@ paralyse		<-->	verb+C2[-0]	.
 
 
 paralysis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3216,6 +4866,11 @@ paralysis		<-->	noun+C2[-0]	.
 
 
 parasite		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3229,12 +4884,22 @@ pass out		<-->	phrasal adverb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
 
 
 pathogen		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3244,6 +4909,11 @@ pathogen		<-->	noun+C2[-0]	.
 
 
 pathological		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3253,6 +4923,11 @@ pathological		<-->	adjective+C2[-0]	.
 
 
 patient zero		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3262,6 +4937,11 @@ patient zero		<-->	noun+C2[-0]	.
 
 
 peaked		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3271,6 +4951,11 @@ peaked		<-->	adjective+C2[-0]	.
 
 
 peaky		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3280,6 +4965,11 @@ peaky		<-->	adjective+C2[-0]	.
 
 
 peculiar		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3289,6 +4979,11 @@ peculiar		<-->	adjective+C2[-0]	.
 
 
 pellagra		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3298,6 +4993,11 @@ pellagra		<-->	noun+C2[-0]	.
 
 
 pertussis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3307,6 +5007,11 @@ pertussis		<-->	noun+C2[-0]	.
 
 
 phlegm		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3316,6 +5021,11 @@ phlegm		<-->	noun+C2[-0]	.
 
 
 plague		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3324,6 +5034,11 @@ plague		<-->	noun+C1[-0]	.
 
 
 pneumonia		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3333,6 +5048,11 @@ pneumonia		<-->	noun+C2[-0]	.
 
 
 polio		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3342,6 +5062,11 @@ polio		<-->	noun+C2[-0]	.
 
 
 poor		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3350,6 +5075,11 @@ poor		<-->	adjective+B1[-0]	.
 
 
 poorly		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3359,6 +5089,11 @@ poorly		<-->	adjective+C2[-0]	.
 
 
 post-operative		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3373,6 +5108,11 @@ present		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3380,6 +5120,11 @@ present		<-->	verb+C2[-0]	.
 
 
 prolapse		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3389,6 +5134,11 @@ prolapse		<-->	noun+C2[-0]	.
 
 
 pull		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3397,6 +5147,11 @@ pull		<-->	verb+B1[-0]	.
 
 
 pull		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3410,12 +5165,22 @@ pull through		<-->	phrasal adverb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
 
 
 queasy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3425,6 +5190,11 @@ queasy		<-->	adjective+C2[-0]	.
 
 
 rabies		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3439,6 +5209,11 @@ rally		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3446,6 +5221,11 @@ rally		<-->	verb+C2[-0]	.
 
 
 rash		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3454,6 +5234,11 @@ rash		<-->	noun+C1[-0]	.
 
 
 react		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3462,6 +5247,11 @@ react		<-->	verb+B1[-0]	.
 
 
 reaction		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3470,6 +5260,11 @@ reaction		<-->	noun+B1[-0]	.
 
 
 recover		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3479,6 +5274,11 @@ recover		<-->	verb+B2[-0]	.
 
 
 recovery		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3493,6 +5293,11 @@ recuperate		<-->	verb+C2[-0]	.
 	; -- (3) 
 
 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3500,6 +5305,11 @@ recuperate		<-->	verb+C2[-0]	.
 
 
 recuperative		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3509,6 +5319,11 @@ recuperative		<-->	adjective+C2[-0]	.
 
 
 red zone		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3518,6 +5333,11 @@ red zone		<-->	noun+C2[-0]	.
 
 
 reject		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3526,6 +5346,11 @@ reject		<-->	verb+B1[-0]	.
 
 
 rejection		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3535,6 +5360,9 @@ rejection		<-->	noun+C2[-0]	.
 
 
 relapse		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3543,7 +5371,9 @@ relapse		<-->	noun+C2[-0]	.
 
 
 
-relapse		<-->	verb+C2[-0]	./rɪˈlæps/
+
+
+relapse		<-->	verb+C2	[221109][001]	./rɪˈlæps/
  /rɪˈlæps/,  /ˈriːlæps/\ [intransitive]
 	;tái phát, tái nghiện, tái bệnh -- (1) relapse (into something) to go back into a previous condition or into a worse state after making an improvement
 		;They relapsed into silence.
@@ -3560,6 +5390,11 @@ relapse		<-->	verb+C2[-0]	./rɪˈlæps/
 
 
 remission		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3569,6 +5404,11 @@ remission		<-->	noun+C2[-0]	.
 
 
 rheumatism		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3578,6 +5418,11 @@ rheumatism		<-->	noun+C2[-0]	.
 
 
 rickets		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3587,6 +5432,11 @@ rickets		<-->	noun+C2[-0]	.
 
 
 ropy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3596,6 +5446,11 @@ ropy		<-->	adjective+C2[-0]	.
 
 
 rosacea		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3605,6 +5460,11 @@ rosacea		<-->	noun+C2[-0]	.
 
 
 rotten		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3614,6 +5474,11 @@ rotten		<-->	adjective+C2[-0]	.
 
 
 RSI		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3623,6 +5488,11 @@ RSI		<-->	noun+C2[-0]	.
 
 
 rubella		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3632,6 +5502,11 @@ rubella		<-->	noun+C2[-0]	.
 
 
 run-down		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3641,6 +5516,9 @@ run-down		<-->	adjective+C2[-0]	.
 
 
 rupture		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3649,7 +5527,9 @@ rupture		<-->	noun+C2[-0]	.
 
 
 
-rupture		<-->	verb+C2[-0]	./ˈrʌptʃə(r)/
+
+
+rupture		<-->	verb+C2	[221109][001]	./ˈrʌptʃə(r)/
  /ˈrʌptʃər/\
 	;vỡ, đứt -- (1) [transitive, intransitive] rupture (something/yourself) (medical) to burst or break apart something inside the body; to be broken or burst apart
 		;a ruptured appendix
@@ -3666,6 +5546,11 @@ rupture		<-->	verb+C2[-0]	./ˈrʌptʃə(r)/
 
 
 salmonella		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3675,6 +5560,11 @@ salmonella		<-->	noun+C2[-0]	.
 
 
 SARS		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3684,6 +5574,11 @@ SARS		<-->	noun+C2[-0]	.
 
 
 SARS-CoV-2		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3693,6 +5588,9 @@ SARS-CoV-2		<-->	noun+C2[-0]	.
 
 
 scab		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3701,7 +5599,9 @@ scab		<-->	noun+C2[-0]	.
 
 
 
-scald		<-->	verb+C2[-0]	./skɔːld/
+
+
+scald		<-->	verb+C2	[221109][001]	./skɔːld/
  /skɔːld/
 	;làm bỏng -- (1) scald something/yourself to burn yourself or part of your body with very hot liquid or steam
 		;Be careful not to scald yourself with the steam.
@@ -3720,6 +5620,11 @@ scald		<-->	verb+C2[-0]	./skɔːld/
 
 
 scald		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3729,6 +5634,11 @@ scald		<-->	noun+C2[-0]	.
 
 
 scar		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3737,6 +5647,9 @@ scar		<-->	noun+C1[-0]	.
 
 
 scar		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3744,7 +5657,9 @@ scar		<-->	verb+C1[-0]	.
 
 
 
-scrape		<-->	verb+C2[-0]	./skreɪp/
+
+
+scrape		<-->	verb+C2	[221109][001]	./skreɪp/
  /skreɪp/
 	;cạo ra,  -- (1) [-remove] [transitive] to remove something from a surface by moving something sharp and hard like a knife across it
 		;scrape something (+ adv./prep.) She scraped the mud off her boots.
@@ -3786,6 +5701,11 @@ scrape		<-->	verb+C2[-0]	./skreɪp/
 
 
 scrapie		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3795,6 +5715,11 @@ scrapie		<-->	noun+C2[-0]	.
 
 
 scratch		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3804,6 +5729,11 @@ scratch		<-->	verb+B2[-0]	.
 
 
 scratch		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3813,6 +5743,11 @@ scratch		<-->	noun+B2[-0]	.
 
 
 seasick		<-->	adjective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3821,6 +5756,11 @@ seasick		<-->	adjective+B1[-0]	.
 
 
 seasickness		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3830,6 +5770,11 @@ seasickness		<-->	noun+B2[-0]	.
 
 
 second-degree		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3839,6 +5784,11 @@ second-degree		<-->	adjective+C2[-0]	.
 
 
 seizure		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3848,6 +5798,11 @@ seizure		<-->	noun+C2[-0]	.
 
 
 septic		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3857,6 +5812,11 @@ septic		<-->	adjective+C2[-0]	.
 
 
 serious		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3866,6 +5826,11 @@ serious		<-->	adjective+A2[-0]	.
 
 
 severe		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3875,6 +5840,11 @@ severe		<-->	adjective+B2[-0]	.
 
 
 severely		<-->	adverb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3884,6 +5854,11 @@ severely		<-->	adverb+B2[-0]	.
 
 
 shake		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3892,6 +5867,9 @@ shake		<-->	noun+C1[-0]	.
 
 
 shaky		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -3900,7 +5878,9 @@ shaky		<-->	adjective+C2[-0]	.
 
 
 
-shield		<-->	verb+C2[-0]	./ʃiːld/
+
+
+shield		<-->	verb+C2	[221109][001]	./ʃiːld/
  /ʃiːld/\
 	;che chắn, bảo vệ -- (1) [transitive] to protect somebody/something from danger, harm or something unpleasant
 		;shield something against something I shielded my eyes against the glare.
@@ -3934,6 +5914,11 @@ shield		<-->	verb+C2[-0]	./ʃiːld/
 
 
 shiver		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3942,6 +5927,11 @@ shiver		<-->	verb+C1[-0]	.
 
 
 shiver		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3951,6 +5941,11 @@ shiver		<-->	noun+C2[-0]	.
 
 
 shivery		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3960,6 +5955,11 @@ shivery		<-->	adjective+C2[-0]	.
 
 
 shock		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3969,6 +5969,11 @@ shock		<-->	noun+B2[-0]	.
 
 
 shortness		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3978,6 +5983,11 @@ shortness		<-->	noun+C2[-0]	.
 
 
 short-winded		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3987,6 +5997,11 @@ short-winded		<-->	adjective+C2[-0]	.
 
 
 shut-in		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -3996,6 +6011,9 @@ shut-in		<-->	noun+C2[-0]	.
 
 
 sick		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4003,7 +6021,9 @@ sick		<-->	adjective+A1[-0]	.
 
 
 
-sicken		<-->	verb+C2[-0]	./ˈsɪkən/
+
+
+sicken		<-->	verb+C2	[221109][001]	./ˈsɪkən/
  /ˈsɪkən/ (British English)
 	;gây khó chịu, bực mình -- (1) [transitive] sicken somebody to make somebody feel very shocked and angry
 		;SYNONYM disgust, nauseate (2)
@@ -4023,6 +6043,11 @@ sicken		<-->	verb+C2[-0]	./ˈsɪkən/
 
 
 sickly		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4032,6 +6057,11 @@ sickly		<-->	adjective+C2[-0]	.
 
 
 sickness		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4041,6 +6071,11 @@ sickness		<-->	noun+B2[-0]	.
 
 
 slipped disc		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4050,6 +6085,11 @@ slipped disc		<-->	noun+C2[-0]	.
 
 
 smallpox		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4059,6 +6099,11 @@ smallpox		<-->	noun+C2[-0]	.
 
 
 sneeze		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4068,6 +6113,11 @@ sneeze		<-->	verb+B2[-0]	.
 
 
 sneeze		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4077,6 +6127,11 @@ sneeze		<-->	noun+B2[-0]	.
 
 
 snow-blind		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4086,6 +6141,11 @@ snow-blind		<-->	adjective+C2[-0]	.
 
 
 snow-blindness		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4095,6 +6155,11 @@ snow-blindness		<-->	noun+C2[-0]	.
 
 
 sober		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4104,6 +6169,11 @@ sober		<-->	adjective+C2[-0]	.
 
 
 sobriety		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4113,6 +6183,11 @@ sobriety		<-->	noun+C2[-0]	.
 
 
 sore		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4122,6 +6197,11 @@ sore		<-->	adjective+C2[-0]	.
 
 
 sore		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4131,6 +6211,11 @@ sore		<-->	noun+C2[-0]	.
 
 
 spasm		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4140,6 +6225,11 @@ spasm		<-->	noun+C2[-0]	.
 
 
 splitting		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4149,6 +6239,11 @@ splitting		<-->	adjective+C2[-0]	.
 
 
 spot		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4157,6 +6252,11 @@ spot		<-->	noun+B1[-0]	.
 
 
 sprain		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4166,6 +6266,11 @@ sprain		<-->	verb+B2[-0]	.
 
 
 sprain		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4175,6 +6280,11 @@ sprain		<-->	noun+B2[-0]	.
 
 
 spre		<-->	adverb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4183,6 +6293,11 @@ spre		<-->	adverb+B1[-0]	.
 
 
 the walking wounded		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4192,6 +6307,11 @@ the walking wounded		<-->	noun+C2[-0]	.
 
 
 the common cold		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4201,6 +6321,11 @@ the common cold		<-->	noun+B2[-0]	.
 
 
 stiffness		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4210,6 +6335,11 @@ stiffness		<-->	noun+C2[-0]	.
 
 
 sting		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4219,6 +6349,11 @@ sting		<-->	verb+B2[-0]	.
 
 
 sting		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4228,6 +6363,11 @@ sting		<-->	noun+B2[-0]	.
 
 
 stomach ache		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4237,6 +6377,11 @@ stomach ache		<-->	noun+A2[-0]	.
 
 
 strain		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4245,6 +6390,11 @@ strain		<-->	noun+C1[-0]	.
 
 
 stricken		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4254,6 +6404,11 @@ stricken		<-->	adjective+C2[-0]	.
 
 
 stroke		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4262,6 +6417,9 @@ stroke		<-->	noun+C1[-0]	.
 
 
 substance use disorder		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4270,7 +6428,9 @@ substance use disorder		<-->	noun+C2[-0]	.
 
 
 
-succumb		<-->	verb+C2[-0]	./səˈkʌm/
+
+
+succumb		<-->	verb+C2	[221109][001]	./səˈkʌm/
  /səˈkʌm/ (formal)
 	;mất khả năng tự vệ, phản kích -- (1) [intransitive] to not be able to fight an attack, a temptation, etc.
 		;The town succumbed after a short siege.
@@ -4299,6 +6459,11 @@ succumb		<-->	verb+C2[-0]	./səˈkʌm/
 
 
 suffer		<-->	verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4307,6 +6472,11 @@ suffer		<-->	verb+B1[-0]	.
 
 
 sufferer		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4315,6 +6485,11 @@ sufferer		<-->	noun+B1[-0]	.
 
 
 suffering		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4324,6 +6499,11 @@ suffering		<-->	noun+B2[-0]	.
 
 
 sunburn		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4332,6 +6512,11 @@ sunburn		<-->	noun+C1[-0]	.
 
 
 sunburned		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4341,6 +6526,11 @@ sunburned		<-->	adjective+B2[-0]	.
 
 
 sunstroke		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4350,6 +6540,9 @@ sunstroke		<-->	noun+C2[-0]	.
 
 
 superspreader		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4358,7 +6551,9 @@ superspreader		<-->	noun+C2[-0]	.
 
 
 
-sustain		<-->	verb+C2[-0]	./səˈsteɪn/
+
+
+sustain		<-->	verb+C2	[221109][001]	./səˈsteɪn/
  /səˈsteɪn/
 	;chịu đựng, gánh chịu -- (3) sustain something (formal) to experience something bad
 		;SYNONYM suffer
@@ -4374,6 +6569,11 @@ sustain		<-->	verb+C2[-0]	./səˈsteɪn/
 
 
 swell		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4382,6 +6582,11 @@ swell		<-->	verb+C1[-0]	.
 
 
 swelling		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4390,6 +6595,11 @@ swelling		<-->	noun+C1[-0]	.
 
 
 swine flu		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4399,6 +6609,11 @@ swine flu		<-->	noun+C2[-0]	.
 
 
 swollen		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4407,6 +6622,11 @@ swollen		<-->	adjective+C1[-0]	.
 
 
 symptom		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4415,6 +6635,11 @@ symptom		<-->	noun+B1[-0]	.
 
 
 symptomatic		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4424,6 +6649,11 @@ symptomatic		<-->	adjective+C2[-0]	.
 
 
 syndrome		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4432,6 +6662,11 @@ syndrome		<-->	noun+C1[-0]	.
 
 
 TB		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4441,6 +6676,11 @@ TB		<-->	noun+C2[-0]	.
 
 
 tear		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4449,6 +6689,11 @@ tear		<-->	verb+C1[-0]	.
 
 
 temperature		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4458,6 +6703,11 @@ temperature		<-->	noun+A2[-0]	.
 
 
 tender		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4466,6 +6716,11 @@ tender		<-->	adjective+C1[-0]	.
 
 
 terminal		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4474,6 +6729,11 @@ terminal		<-->	adjective+C1[-0]	.
 
 
 terrible		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4482,6 +6742,11 @@ terrible		<-->	adjective+A1[-0]	.
 
 
 tetanus		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4491,6 +6756,11 @@ tetanus		<-->	noun+C2[-0]	.
 
 
 third-degree		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4500,6 +6770,11 @@ third-degree		<-->	adjective+C2[-0]	.
 
 
 thrombosis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4509,6 +6784,11 @@ thrombosis		<-->	noun+C2[-0]	.
 
 
 tonsillitis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4518,6 +6798,11 @@ tonsillitis		<-->	noun+C2[-0]	.
 
 
 toothache		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4527,6 +6812,11 @@ toothache		<-->	noun+A2[-0]	.
 
 
 toxoplasmosis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4536,6 +6826,11 @@ toxoplasmosis		<-->	noun+C2[-0]	.
 
 
 transfer		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4545,6 +6840,11 @@ transfer		<-->	verb+B2[-0]	.
 
 
 trauma		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4554,6 +6854,11 @@ trauma		<-->	noun+C2[-0]	.
 
 
 trouble		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4562,6 +6867,11 @@ trouble		<-->	noun+B1[-0]	.
 
 
 tubercular		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4571,6 +6881,11 @@ tubercular		<-->	adjective+C2[-0]	.
 
 
 tuberculosis		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4580,6 +6895,11 @@ tuberculosis		<-->	noun+C2[-0]	.
 
 
 tumour		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4588,6 +6908,11 @@ tumour		<-->	noun+C1[-0]	.
 
 
 turn		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4597,6 +6922,11 @@ turn		<-->	noun+C2[-0]	.
 
 
 twist		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4605,6 +6935,11 @@ twist		<-->	verb+C1[-0]	.
 
 
 typhoid		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4614,6 +6949,11 @@ typhoid		<-->	noun+C2[-0]	.
 
 
 typhus		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4623,6 +6963,11 @@ typhus		<-->	noun+C2[-0]	.
 
 
 ulcer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4632,6 +6977,11 @@ ulcer		<-->	noun+C2[-0]	.
 
 
 unconscious		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4641,6 +6991,11 @@ unconscious		<-->	adjective+B2[-0]	.
 
 
 unconsciousness		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4649,6 +7004,11 @@ unconsciousness		<-->	noun+C1[-0]	.
 
 
 underfed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4658,6 +7018,11 @@ underfed		<-->	adjective+C2[-0]	.
 
 
 undernourished		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4667,6 +7032,11 @@ undernourished		<-->	adjective+C2[-0]	.
 
 
 undernourishment		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4676,6 +7046,11 @@ undernourishment		<-->	noun+C2[-0]	.
 
 
 under the weather		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
 
 
 
@@ -4684,6 +7059,9 @@ under the weather		<-->	idiom+C2[-0]	.
 
 
 underweight		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4692,33 +7070,106 @@ underweight		<-->	adjective+B2[-0]	.
 
 
 
-unfit		<-->	adjective+B2[-0]	.
 
 
+unfit		<-->	adjective+B2[-0]	./ʌnˈfɪt/
+ /ʌnˈfɪt/
+	;không phù hợp -- (1) not of an acceptable standard; not suitable
+		;unfit (for something) The housing was unfit for human habitation.
+		;The food on offer was unfit for human consumption.
+		;The prison service was declared ‘unfit for purpose’.
+		;unfit to eat, drink, live in, etc. This water is unfit to drink.
+		;Most of the buildings are unfit to live in.
+		;unfit to do something They described him as unfit to govern.
+		;(specialist) Many of the houses were condemned as unfit.
+		;(specialist) The court claims she is an unfit mother.
+				;Oxford Collocations Dictionary
+				;verbs
+				;belookbecome…
+				;adverb
+				;completelyquitetotally…
+				;preposition
+				;for
+		;See full entry
+	;không phù hợp -- (2) not capable of doing something, for example because of illness
+		;unfit for something He's still unfit for work.
+		;unfit to do something The company's doctor found that she was unfit to carry out her normal work.
+		;TOPICS Health problemsB2
+				;Oxford Collocations Dictionary
+				;verbs
+				;belookbecome…
+				;adverb
+				;completelyquitetotally…
+				;preposition
+				;for
+		;See full entry
+	;không khoẻ -- (3) (especially British English) (of a person) not in good physical condition; not fit, because you have not taken exercise
+		;The captain is still unfit and will miss tonight's game.
+		;I'm so unfit—I'm out of breath just from walking up the steps!
+		;TOPICS Health problemsB2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;verycompletelyquite…
+		;See full entry
 
 
 
 
 
 
-unhealthy		<-->	adjective+A2[-0]	.
 
 
 
 
+unhealthy		<-->	adjective+A2[-0]	./ʌnˈhelθi/
+ /ʌnˈhelθi/
+	;không khoẻ -- (1) ​not having good health; showing a lack of good health
+		;They looked poor and unhealthy.
+		;unhealthy skin
+		;His eyeballs were an unhealthy yellow.
+		;TOPICS Health problemsA2
+	;có hại -- (2) harmful to your health; likely to make you ill
+		;unhealthy living conditions
+		;an unhealthy diet/lifestyle
+		;Extra Examples:
+		;The miners worked in very unhealthy conditions.
+		;Doctors say too many teenagers adopt an unhealthy lifestyle.
+		;Just taking vitamin tablets will not turn an unhealthy diet into a good one.
+		;The unhealthy climate made it an unattractive place in which to settle.
+		;TOPICS Cooking and eatingA2
+	; -- (3) 
 
 
 
 
-unwell		<-->	adjective+B1[-0]	.
 
 
 
 
 
 
+unwell		<-->	adjective+B1[-0]	./ʌnˈwel/
+ /ʌnˈwel/ [not before noun] (rather formal)
+	;bệnh -- (1) ill	
+		;<< ill, unwell, sick, >>
+		;She said she was feeling unwell and went home.
+		;You should delay vaccination if you are unwell with a fever.
+		;patients who just feel a little unwell
+		;OPPOSITE well
+		;TOPICS Health problemsB1
+				;Oxford Collocations Dictionary
+				;verbs
+				;appearbefeel…
+				;adverb
+				;extremelyreallyseriously…
+				;preposition
+				;with
+		;See full entry
+	; -- (2) 
+	; -- (3) 
 
-upset		<-->	adjective+B1[-0]	.
 
 
 
@@ -4726,41 +7177,54 @@ upset		<-->	adjective+B1[-0]	.
 
 
 
-upset		<-->	verb+B1[-0]	.
 
+upset		<-->	adjective+B1[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 
 
-upset		<-->	noun+B1[-0]	.
 
 
 
+upset		<-->	verb+B1[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
-varicose vein		<-->	noun+C2[-0]	.
 
 
 
 
 
+upset		<-->	noun+B1[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
-vector		<-->	noun+C2[-0]	.
 
 
 
 
 
 
+varicose vein		<-->	noun+C2[-0]	./ˌværɪkəʊs ˈveɪn/
+ /ˌværɪkəʊs ˈveɪn/
+	;giãn tĩnh mạch -- (1) ​a vein, especially one in the leg, that has become swollen (= larger than normal) and painful
+		;TOPICS Health problemsC2
+	; -- (2) 
+	; -- (3) 
 
 
-victim		<-->	noun+B1[-0]	.
 
 
 
@@ -4768,42 +7232,106 @@ victim		<-->	noun+B1[-0]	.
 
 
 
-viral		<-->	adjective+C1[-0]	.
 
+vector		<-->	noun+C2[-0]	./ˈvektə(r)/
+ /ˈvektər/
+	;vector -- (1) ​(mathematics) a quantity that has both size and direction
+		;Acceleration and velocity are both vectors.
+		;COMPARE scalar
+		;TOPICS Maths and measurementC2, Physics and chemistryC2
+	;vật trung gian truyền bệnh -- (2) ​(biology) an insect, etc. that carries a particular disease from one living thing to another
+		;Mosquitoes are the vectors in malaria.
+		;TOPICS BiologyC2, Health problemsC2
+	; -- (3) 
 
 
 
 
 
 
-virulence		<-->	noun+C2[-0]	.
 
 
 
 
+victim		<-->	noun+B1[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
-virulent		<-->	adjective+C2[-0]	.
 
 
 
 
 
+viral		<-->	adjective+C1[-0]	./ˈvaɪrəl/
+ /ˈvaɪrəl/
+	;có/bởi virus -- (1) like or caused by a virus
+		;a viral infection
+		;TOPICS Health problemsC1
+	; -- (2) 
+	; -- (3) 
 
 
 
-virus		<-->	noun+A2[-0]	.
 
 
 
 
 
 
+virulence		<-->	noun+C2[-0]	./ˈvɪrələns/
+ /ˈvɪrələns/ [uncountable]
+	;mức độc hại, nguy hiểm -- (1) ​the degree to which a disease or poison is dangerous or harmful and quick to have an effect
+		;the virulence of the virus strain
+		;TOPICS Health problemsC2
+	; -- (2) 
+	; -- (3) 
 
 
-vomit		<-->	verb+C2	[220808][1]	./ˈvɒmɪt/-NAmE /ˈvɑːmɪt/\ (also informal throw up) [intransitive, transitive]
+
+
+
+
+
+
+
+
+virulent		<-->	adjective+C2[-0]	./ˈvɪrələnt/
+ /ˈvɪrələnt/
+	;rất nguy hiểm -- (1) (of a disease or poison) extremely dangerous or harmful and quick to have an effect
+		;a virulent form of influenza
+		;a particularly virulent flu germ
+		;TOPICS Health problemsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+virus		<-->	noun+A2[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+vomit		<-->	verb+C2	[220808][001]	./ˈvɒmɪt/-NAmE /ˈvɑːmɪt/\ (also informal throw up) [intransitive, transitive]
 	;ói, mửa -- (1) to bring food from the stomach back out through the mouth
 		;SYNONYM be sick
 		;The smell made her want to vomit.
@@ -4828,17 +7356,10 @@ vomit		<-->	verb+C2	[220808][1]	./ˈvɒmɪt/-NAmE /ˈvɑːmɪt/\ (also informal 
 
 
 
-wart		<-->	noun+C2[-0]	.
-
-
-
-
-
-
-
-
-waste away		<-->	phrasal adverb+C2[-0]	.
-	; -- (1) 
+wart		<-->	noun+C2[-0]	./wɔːt/
+ /wɔːrt/
+	;mụn ghẻ -- (1) a small hard spot that grows on your skin and that is caused by a virus
+		TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4848,7 +7369,21 @@ waste away		<-->	phrasal adverb+C2[-0]	.
 
 
 
-wasted		<-->	adjective+C2	[220808][1]	./ˈweɪstɪd/-NAmE /ˈweɪstɪd/
+
+
+
+waste away		<-->	phrasal adverb+C2[-0]	./p/
+	;mất cân nặng, ốm đi -- (1) (of a person) to become thin and weak, especially because of illness
+			;SEE ALSO emaciated
+			;TOPICS Health problemsC2
+
+
+
+
+
+
+
+wasted		<-->	adjective+C2	[220808][001]	./ˈweɪstɪd/-NAmE /ˈweɪstɪd/
 	;gầy gò, trơ xương -- (2) too thin, especially because of illness
 		;thin wasted legs
 		;TOPICS Health problemsC2
@@ -4859,7 +7394,7 @@ wasted		<-->	adjective+C2	[220808][1]	./ˈweɪstɪd/-NAmE /ˈweɪstɪd/
 
 
 
-weak		<-->	adjective+A2[-0]	.
+weak		<-->	adjective+A2[-0]	./cef/
 
 
 
@@ -4868,7 +7403,9 @@ weak		<-->	adjective+A2[-0]	.
 
 
 
-weaken		<-->	verb+C1[-0]	.
+
+
+weaken		<-->	verb+C1[-0]	./cef/
 
 
 
@@ -4876,7 +7413,9 @@ weaken		<-->	verb+C1[-0]	.
 
 
 
-wheeze		<-->	verb+C2[-0]	./wiːz/
+
+
+wheeze		<-->	verb+C2	[221109][001]	./wiːz/
  /wiːz/\ [intransitive, transitive]
 	;thở khò khè -- (1) to breathe noisily and with difficulty
 		;He was coughing and wheezing all night.
@@ -4892,7 +7431,11 @@ wheeze		<-->	verb+C2[-0]	./wiːz/
 
 
 
-whiplash injury		<-->	noun+C2[-0]	.
+whiplash injury		<-->	noun+C2[-0]	./ˈwɪplæʃ ɪndʒəri/
+ /ˈwɪplæʃ ɪndʒəri/ [countable, uncountable] (also whiplash [uncountable])
+	;đau cổ -- (1) a neck injury caused when your head moves forward and back suddenly, especially in a car accident
+			;He suffered whiplash injuries in the crash.
+			;TOPICS Transport by car or lorryC2, Health problemsC2
 
 
 
@@ -4901,7 +7444,12 @@ whiplash injury		<-->	noun+C2[-0]	.
 
 
 
-whooping cough		<-->	noun+C2[-0]	.
+
+
+whooping cough		<-->	noun+C2[-0]	./ˈhuːpɪŋ kɒf/
+ /ˈhuːpɪŋ kɔːf/ (medical pertussis) [uncountable]
+	;ho gà -- (1) a disease, especially of children, that makes them cough (= force air noisily through the throat) and have difficulty breathing
+			;TOPICS Health problemsC2
 
 
 
@@ -4910,24 +7458,12 @@ whooping cough		<-->	noun+C2[-0]	.
 
 
 
-withdrawal		<-->	noun+C1[-0]	.
 
 
-
-
-
-
-
-wound		<-->	noun+B2[-0]	.
-
-
-
-
-
-
-
-
-wound		<-->	verb+B2[-0]	.
+withdrawal		<-->	noun+C1[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -4936,7 +7472,36 @@ wound		<-->	verb+B2[-0]	.
 
 
 
-wrench		<-->	verb+C2	[220808][1]	./rentʃ/-NAmE /rentʃ/
+
+wound		<-->	noun+B2[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+wound		<-->	verb+B2[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+wrench		<-->	verb+C2	[220808][001]	./rentʃ/-NAmE /rentʃ/
 	;trật khớp -- (2) [transitive] wrench something to twist and injure a part of your body, especially your ankle or shoulder
 		;SYNONYM twist
 		;She wrenched her knee when she fell.
@@ -4949,4 +7514,11 @@ wrench		<-->	verb+C2	[220808][1]	./rentʃ/-NAmE /rentʃ/
 
 
 
-yellow fever		<-->	noun+C2[-0]	.
+yellow fever		<-->	noun+C2[-0]	./ˌjeləʊ ˈfiːvə(r)/
+ /ˌjeləʊ ˈfiːvər/ [uncountable]
+	;sốt vàng da -- (1) a tropical disease that makes the skin turn yellow and often causes death
+			;TOPICS Health problemsC2
+
+
+
+
