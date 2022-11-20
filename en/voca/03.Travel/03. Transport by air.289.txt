@@ -1,4 +1,4 @@
-aboard		<-->	adverb+C1	[221116][001]	./əˈbɔːd/-NAmE /əˈbɔːrd/
+aboard		<-->	adveerb+C1	[221116][001]	./əˈbɔːd/-NAmE /əˈbɔːrd/
 	;trên tàu, xe, máy bay -- (1) on or onto a ship, plane, bus or train
 		;SYNONYM on board
 		;We went aboard.
@@ -147,7 +147,7 @@ aerospace		<-->	noun+C1	[221116][001]	./ˈeərəʊspeɪs/-NAmE /ˈerəʊspeɪs/ 
 
 
 
-aft		<-->	adverb+C2	[221116][001]	./ɑːft/-NAmE /æft/ (specialist)
+aft		<-->	adveerb+C2	[221116][001]	./ɑːft/-NAmE /æft/ (specialist)
 	;phía sau -- (1) in, near or towards the back of a ship or an aircraft
 		;fore and aft of the cockpit
 		;The ship was moored to the dock fore and aft.
@@ -750,7 +750,7 @@ baggage reclaim		<-->	noun+B2[-0]	.
 
 
 
-bail out		<-->	phrasal verb+C2[-0]	.
+bail out		<-->	phrasal veerb+C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -841,7 +841,7 @@ blade		<-->	noun+C1[-0]	.
 
 
 
-boardverbB1[-0]	.
+board		<-->	verb+B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -880,7 +880,7 @@ bomber		<-->	noun+B2[-0]	.
 
 
 
-bookverbA2[-0]	.
+book		<-->	verb+A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -932,7 +932,7 @@ business class		<-->	noun+B1[-0]	.
 
 
 
-business class		<-->	adverb+B1[-0]	.
+business class		<-->	adveerb+B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1036,7 +1036,7 @@ carry-on		<-->	noun+B2[-0]	.
 
 
 
-catchverbA2[-0]	.
+catch		<-->	verb+A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1049,7 +1049,7 @@ catchverbA2[-0]	.
 
 
 
-changeverbA2[-0]	.
+change		<-->	verb+A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1114,7 +1114,7 @@ check-in		<-->	noun+B1[-0]	.
 
 
 
-check in		<-->	phrasal verb+A2[-0]	.
+check in		<-->	phrasal veerb+A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1478,7 +1478,7 @@ ditch		<-->	verb+C2[-0]	.
 
 
 
-diveverbB2[-0]	.
+dive		<-->	verb+B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1725,7 +1725,7 @@ first class		<-->	noun+B1[-0]	.
 
 
 
-first class		<-->	adverb+B1[-0]	.
+first class		<-->	adveerb+B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1842,7 +1842,7 @@ flight recorder		<-->	noun+C2[-0]	.
 
 
 
-flyverbA1[-0]	.
+fly		<-->	verb+A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2362,7 +2362,7 @@ jump jet		<-->	noun+C2[-0]	.
 
 
 
-landverbA2[-0]	.
+land		<-->	verb+A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2609,7 +2609,7 @@ monoplane		<-->	noun+C2[-0]	.
 
 
 
-navigateverbB2[-0]	.
+navigate		<-->	verb+B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2791,7 +2791,7 @@ parachute		<-->	noun+B2[-0]	.
 
 
 
-parachuteverbB2[-0]	.
+parachute		<-->	verb+B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3402,7 +3402,160 @@ stowage		<-->	noun+C2[-0]	.
 
 
 
-tail		<-->	noun+B1[-0]	.
+tail		<-->	noun+B1	[221119][001]	./cef/
+
+
+
+
+
+
+
+
+
+tailplane		<-->	noun+C2	[221119][001]	./ˈteɪlpleɪn/
+ /ˈteɪlpleɪn/
+	;đuôi máy bay -- (1) a small wing at the back of an aircraft
+		;TOPICS Transport by airC2
+
+
+
+
+
+
+
+
+tailspin		<-->	noun+C2	[221119][001]	./ˈteɪlspɪn/
+ /ˈteɪlspɪn/ [singular]
+	;tình huống (phi công) mất kiểm soát -- (1) a situation in which a pilot loses control of an aircraft and it turns round and round as it falls quickly towards the ground, with the back making larger circles than the front
+		;to go into a tailspin
+		;TOPICS Transport by airC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+take-off		<-->	noun+B2	[221119][001]	./ˈteɪk ɒf/
+ /ˈteɪk ɔːf/
+	;thời khắc cất cánh -- (1) [uncountable, countable] the moment at which an aircraft leaves the ground and starts to fly
+		;The plane is ready for take-off.
+		;take-off speed
+		;Owing to the fog, there were no take-offs from the airport yesterday.
+		;(figurative) The local economy is poised for take-off.
+		;OPPOSITE landing
+		;Wordfinder: cabin crewcharterflight pathin-flightlandlong-haulplanerefueltake-offtravel
+		;TOPICS SpaceB2, Transport by airB2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+take off		<-->	phrasal veerb+A2	[221119][001]	./p/
+	;cất cánh -- (1) (of an aircraft, etc.) to leave the ground and begin to fly
+		;The plane took off an hour late.
+		;RELATED NOUN take-off
+		;OPPOSITE land
+		;TOPICS SpaceA2, Transport by airA2
+	;đi lên -- (3) (of an idea, a product, etc.) to become successful or popular very quickly or suddenly
+		;The new magazine has really taken off.
+		;Her singing career took off after her TV appearance.
+		;TOPICS SuccessC1
+	;cởi ra -- (4) [-take something  off] to remove something, especially a piece of clothing from your/somebody’s body
+		;to take off your coat
+		;He took off my wet boots and made me sit by the fire.
+		;OPPOSITE put something on
+
+
+
+
+
+
+
+
+
+Tarmac™		<-->	noun+C2	[221119][001]	./ˈtɑːmæk/-NAmE /ˈtɑːrmæk/ [uncountable]
+	;nhựa đường -- (1) (also less frequent tarmacadam  /ˌtɑːməˈkædəm/-NAmE /ˌtɑːrməˈkædəm/ ) (North American English also blacktop) a black material used for making road surfaces, that consists of small stones mixed with tar
+		;TOPICS Transport by car or lorryC2
+	;đường phủ nhựa -- (2) the tarmac an area with a Tarmac surface, especially at an airport
+		;Three planes were standing on the tarmac, waiting to take off.
+		;TOPICS Transport by airC2
+
+
+
+
+
+
+
+
+taxi		<-->	verb+C2	[221119][001]	./ˈtæksi/-NAmE /ˈtæksi/\ [intransitive]
+	;chạy đà -- (1) (of a plane) to move slowly along the ground before taking off or after landing
+		;TOPICS Transport by airC2
+
+
+
+
+
+
+
+
+
+taxiway		<-->	noun+C2	[221119][001]	./ˈtæksiweɪ/-NAmE /ˈtæksiweɪ/
+	;đường băng -- (1) the hard path that a plane uses as it moves to and from the runway (= the hard surface where planes take off and land)
+		;TOPICS Transport by airC2
+
+
+
+
+
+
+
+
+terminal		<-->	noun+B2	[221119][001]	./cef/
+
+
+
+
+
+
+
+
+
+
+test flight		<-->	noun+B2	[221119][001]	./ˈtest flaɪt/-NAmE /ˈtest flaɪt/
+	;chuyến bay thử -- (1) ​a flight during which an aircraft or part of its equipment is tested
+		;TOPICS Transport by airB2
+
+
+
+
+
+
+
+
+
+test pilot		<-->	noun+B2	[221119][001]	./ˈtest paɪlət/-NAmE /ˈtest paɪlət/
+	;phi công lái thử -- (1) a pilot whose job is to fly new aircraft in order to test their performance
+		;TOPICS Transport by airB2
+
+
+
+
+
+
+
+
+ticket		<-->	noun+A1	[221119][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3415,10 +3568,15 @@ tail		<-->	noun+B1[-0]	.
 
 
 
-tailplane		<-->	noun+C2[-0]	.
-	; -- (1) 
+touch down		<-->	phrasal veerb+C1	[221119][001]	./p/
+	;tiếp đất -- (1) (of a plane, spacecraft, etc.) to make contact with the ground as it lands
+		;The helicopter touched down on the helipad.
+		;RELATED NOUN touchdown
+		;TOPICS Transport by airC1
 	; -- (2) 
-	; -- (3) 
+	;ghi điểm -- (3) (in rugby) to score a try by putting the ball on the ground behind the other team’s goal line
+		;RELATED NOUN touchdown
+		;TOPICS Sports: ball and racket sportsC2
 
 
 
@@ -3428,10 +3586,25 @@ tailplane		<-->	noun+C2[-0]	.
 
 
 
-tailspin		<-->	noun+C2[-0]	.
-	; -- (1) 
+touchdown		<-->	noun+C2	[221119][001]	./ˈtʌtʃdaʊn/-NAmE /ˈtʌtʃdaʊn/
+	;thời điểm tiếp đất -- (1) [countable, uncountable] the moment when a plane or spacecraft lands
+		;SYNONYM landing
+		;a smooth touchdown
+		;The plane swerved on touchdown.
+		;TOPICS Transport by airC2
 	; -- (2) 
-	; -- (3) 
+	;??? -- (3) [countable] (in American football) an act of scoring points by crossing the other team’s goal line while carrying the ball, or receiving the ball when you are over the other team’s goal line
+		;Manning and Brett threw nine touchdown passes between them.
+		;a 25-yard touchdown run
+		;TOPICS Sports: ball and racket sportsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;defensiveoffensiverushing…
+				;verb + touchdown
+				;score
+				;touchdown + noun
+				;runpass
+		;See full entry
 
 
 
@@ -3441,10 +3614,15 @@ tailspin		<-->	noun+C2[-0]	.
 
 
 
-take-off		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+tourist class		<-->	noun+C1	[221119][001]	./ˈtʊərɪst klɑːs/,  /ˈtɔːrɪst klɑːs/-NAmE /ˈtʊrɪst klæs/ [uncountable]
+	;vé giá rẻ -- (1) the cheapest type of ticket or accommodation that is available on a plane or ship or in a hotel
+		;TOPICS HolidaysC1, Transport by airC1
+				;Oxford Collocations Dictionary
+				;Tourist class is used before these nouns:
+				;return
+				;Tourist class is used with these verbs:
+				;travel
+		;See full entry
 
 
 
@@ -3454,150 +3632,8 @@ take-off		<-->	noun+B2[-0]	.
 
 
 
-take off		<-->	phrasal verb+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
-
-
-
-
-
-
-
-
-Tarmac™		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-taxi		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-taxiway		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-terminal		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-test flight		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-test pilot		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-ticket		<-->	noun+A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-touch down		<-->	phrasal verb+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-touchdown		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-tourist class		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-transit		<-->	noun+C1[-0]	.
+transit		<-->	noun+C1	[221119][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3623,10 +3659,9 @@ travelator		<-->	noun+C2[-0]	.
 
 
 
-travel-sick		<-->	adjective+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+travel-sick		<-->	adjective+B1	[221119][001]	./ˈtrævl sɪk/-NAmE /ˈtrævl sɪk/ (British English)
+	;say tàu xe -- (1) feeling sick because you are travelling in a vehicle
+		;TOPICS Transport by airB1, Transport by car or lorryB1
 
 
 
@@ -3635,11 +3670,10 @@ travel-sick		<-->	adjective+B1[-0]	.
 
 
 
+travel sickness		<-->	noun+B1	[221119][001]	./ˈtrævl sɪknəs/-NAmE /ˈtrævl sɪknəs/ (British English) (also motion sickness North American English, British English) [uncountable]
+	;chứng say tàu xe -- (1) the unpleasant feeling that you are going to vomit caused by travelling in a vehicle
+		;TOPICS Transport by airB1, Transport by car or lorryB1
 
-travel sickness		<-->	noun+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -3647,12 +3681,11 @@ travel sickness		<-->	noun+B1[-0]	.
 
 
 
+travolator		<-->	noun+C2	[221119][001]	./ˈtrævəleɪtə(r)/-NAmE /ˈtrævəleɪtər/ (also travelator)
+	;đường băng??? -- (1) ​a moving path, especially at an airport
+		;TOPICS Transport by airC2
 
 
-travolator		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -3662,10 +3695,11 @@ travolator		<-->	noun+C2[-0]	.
 
 
 
-turbojet		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+turbojet		<-->	noun+C2	[221119][001]	./ˈtɜːbəʊdʒet/-NAmE /ˈtɜːrbəʊdʒet/
+	;động cơ phản lực -- (1) a turbine engine that produces forward movement by forcing out a stream of hot air and gas behind it
+		;TOPICS Transport by airC2
+	;máy bay phản lực -- (2) a plane that gets its power from this type of engine
+		;TOPICS Transport by airC2
 
 
 
@@ -3674,11 +3708,12 @@ turbojet		<-->	noun+C2[-0]	.
 
 
 
+turboprop		<-->	noun+C2	[221119][001]	./ˈtɜːbəʊprɒp/-NAmE /ˈtɜːrbəʊprɑːp/
+	;động cơ turbine khí -- (1) a turbine engine that produces forward movement by turning a propeller (= a set of blades that turn round and round)
+		;TOPICS Transport by airC2
+	;máy bay phản lực -- (2) ​a plane that gets its power from this type of engine
+		;TOPICS Transport by airC2
 
-turboprop		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -3686,12 +3721,18 @@ turboprop		<-->	noun+C2[-0]	.
 
 
 
+turbulence		<-->	noun+C1	[221119][001]	./ˈtɜːbjələns/-NAmE /ˈtɜːrbjələns/ [uncountable]
+	;tình huống hỗn loạn -- (1) a situation in which there is a lot of sudden change, trouble, argument and sometimes violence
+		;SYNONYM upheaval
+		;a period of turbulence in the country’s history
+		;The country is facing a summer of political turbulence.
+		;TOPICS Opinion and argumentC2
+	;chuỗi hỗn loạn -- (2) a series of sudden and violent changes in the direction that air or water is moving in
+		;We experienced severe turbulence during the flight.
+		;Collocations Travel and tourism
+		;TOPICS Transport by airC1
 
 
-turbulence		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -3700,11 +3741,14 @@ turbulence		<-->	noun+C1[-0]	.
 
 
 
+ultralight		<-->	noun+C2	[221119][001]	./ˈʌltrəlaɪt/-NAmE /ˈʌltrəlaɪt/ (North American English) (British English microlight)
+	;máy bay siêu nhẹ, hai chỗ ngồi -- (1) enlarge imagea very small light aircraft for one or two people
+		;TOPICS Transport by airC2
+				;Oxford Collocations Dictionary
+				;Ultralight is used before these nouns:
+				;aircraft
+		;See full entry
 
-ultralight		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -3712,38 +3756,35 @@ ultralight		<-->	noun+C2[-0]	.
 
 
 
+undercarriage		<-->	noun+C2	[221119][001]	./ˈʌndəkærɪdʒ/-NAmE /ˈʌndərkærɪdʒ/ (also landing gear)
+	;bộ phận hạ cánh -- (1) enlarge imagethe part of an aircraft, including the wheels, that supports it when it is on the ground
+		;TOPICS Transport by airC2
 
 
-undercarriage		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
 
+upgrade		<-->	verb+C1	[221119][001]	./cef/
 
 
 
-upgrade		<-->	verb+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
 
+warplane		<-->	noun+B2	[221119][001]	./ˈwɔːpleɪn/-NAmE /ˈwɔːrpleɪn/
+	;máy bay chiến đấu -- (1) a military plane that is designed for fighting in the air or dropping bombs
+		;Wordfinder: aircraftbomberdronefighterhelicopterjetjump jetparachutepilotwarplane
+		;Wordfinder: aircraft, bomber, drone, fighter, helicopter, jet, jump jet, parachute, pilot, warplane
+		;TOPICS Transport by airB2
 
 
 
-warplane		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -3751,25 +3792,18 @@ warplane		<-->	noun+B2[-0]	.
 
 
 
+window seat		<-->	noun+B1	[221119][001]	./ˈwɪndəʊ siːt/-NAmE /ˈwɪndəʊ siːt/
+	;chỗ ngồi gần cửa sổ -- (1) a seat next to a window in a plane, train or other vehicle
+		;TOPICS Transport by airB1, Transport by bus and trainB1
 
 
-window seat		<-->	noun+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
 
-
-
-
-wing		<-->	noun+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+wing		<-->	noun+B1	[221119][001]	./cef/
 
 
 

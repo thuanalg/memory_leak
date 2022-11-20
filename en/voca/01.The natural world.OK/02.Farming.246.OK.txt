@@ -1,3 +1,6 @@
+
+------->>>>> [[[FARMING]]]
+
 	Farming - topicc
 	2022-06-16
 	
@@ -8,7 +11,7 @@
 
 
 
-abattoir		<-->	noun+C2	[220829][1]	./ˈæbətwɑː(r)/-NAmE /ˈæbətwɑːr/
+abattoir		<-->	noun++C2	[220829][001]	./ˈæbətwɑː(r)/-NAmE /ˈæbətwɑːr/
 	;lò mổ -- (British English) (also slaughterhouse British and North American English) ​a building where animals are killed for food	
 		;{abattoir, slaughter, }
 		;TOPICS BuildingsC2, FarmingC2
@@ -17,7 +20,7 @@ abattoir		<-->	noun+C2	[220829][1]	./ˈæbətwɑː(r)/-NAmE /ˈæbətwɑːr/
 
 
 
-acre		<-->	noun+C1[-0]	./ˈeɪkə(r)/-NAmE /ˈeɪkər/
+acre		<-->	noun++C1	[221119][001]	./ˈeɪkə(r)/-NAmE /ˈeɪkər/
 	;4050 square metres -- (in Britain and North America) a unit for measuring an area of land; 4 840 square yards or about 4 050 square metres
 		;3 000 acres of parkland
 		;a three-acre wood
@@ -28,7 +31,7 @@ acre		<-->	noun+C1[-0]	./ˈeɪkə(r)/-NAmE /ˈeɪkər/
 
 
 
-agricultural		<-->	adjective+C1[-0]	./ˌæɡrɪˈkʌltʃərəl/-NAmE /ˌæɡrɪˈkʌltʃərəl/
+agricultural		<-->	adjective++C1	[221119][001]	./ˌæɡrɪˈkʌltʃərəl/-NAmE /ˌæɡrɪˈkʌltʃərəl/
 ​	;(liên quan đến) nông nghiệp -- connected with the science or practice of farming
 		;agricultural policy/land/production/development
 		;TOPICS FarmingC1
@@ -37,7 +40,7 @@ agricultural		<-->	adjective+C1[-0]	./ˌæɡrɪˈkʌltʃərəl/-NAmE /ˌæɡrɪ�
 
 
 
-agriculture		<-->	noun+B2[-0]	./ˈæɡrɪkʌltʃə(r)/-NAmE /ˈæɡrɪkʌltʃər/
+agriculture		<-->	noun++B2	[221119][001]	./ˈæɡrɪkʌltʃə(r)/-NAmE /ˈæɡrɪkʌltʃər/
 	;nông nghiệp -- [uncountable] ​the science or practice of farming
 		;The number of people employed in agriculture has fallen in the last decade.
 		;50% of the country’s population depends on agriculture.
@@ -88,7 +91,7 @@ agriculture		<-->	noun+B2[-0]	./ˈæɡrɪkʌltʃə(r)/-NAmE /ˈæɡrɪkʌltʃər
 
 
 
-arable		<-->	adjective+C2[-0]	./ˈærəbl/-NAmE /ˈærəbl/
+arable		<-->	adjective++C2	[221119][001]	./ˈærəbl/-NAmE /ˈærəbl/
 ​	;có thể trồng trọt, canh tác -- connected with growing crops such as wheat
 		;arable farming/farms/crops
 		;arable land/fields (= used or suitable for growing crops)
@@ -103,7 +106,7 @@ arable		<-->	adjective+C2[-0]	./ˈærəbl/-NAmE /ˈærəbl/
 
 
 
-bailiff		<-->	noun+C2	[220829][1]	./ˈbeɪlɪf/-NAmE /ˈbeɪlɪf/
+bailiff		<-->	noun++C2	[220829][001]	./ˈbeɪlɪf/-NAmE /ˈbeɪlɪf/
 	;thừa phát lại -- (British English) a law officer whose job is to take the possessions and property of people who cannot pay their debts
 		;The bailiffs seized the car and house.
 		;Their landlord has threatened to send in the bailiffs if they don’t pay their rent.
@@ -121,7 +124,7 @@ bailiff		<-->	noun+C2	[220829][1]	./ˈbeɪlɪf/-NAmE /ˈbeɪlɪf/
 
 
 
-bale		<-->	noun+C2	[220829][1]	./beɪl/-NAmE /beɪl/
+bale		<-->	noun++C2	[220829][001]	./beɪl/-NAmE /beɪl/
 ​	;bó -- a large amount of a light material pressed tightly together and tied up
 		;bales of hay/straw/cotton/wool
 		;TOPICS FarmingC2
@@ -133,7 +136,7 @@ bale		<-->	noun+C2	[220829][1]	./beɪl/-NAmE /beɪl/
 
 
 
-barbed wire		<-->	noun+C1[-0]	./ˌbɑːbd ˈwaɪə(r)/-NAmE /ˌbɑːrbd ˈwaɪər/ [IMAGE]
+barbed wire		<-->	noun++C1	[221119][001]	./ˌbɑːbd ˈwaɪə(r)/-NAmE /ˌbɑːrbd ˈwaɪər/ [IMAGE]
 	;dây (kẽm) gai -- [uncountable]  [IMAGE]	strong wire with short sharp points on it, used especially for fences
 		;coils of barbed wire
 		;a barbed wire fence
@@ -146,7 +149,7 @@ barbed wire		<-->	noun+C1[-0]	./ˌbɑːbd ˈwaɪə(r)/-NAmE /ˌbɑːrbd ˈwaɪə
 
 
 
-barley		<-->	noun+C1[-0]	./ˈbɑːli/-NAmE /ˈbɑːrli/
+barley		<-->	noun++C1	[221119][001]	./ˈbɑːli/-NAmE /ˈbɑːrli/
 	;cây lương thực -- [uncountable] [IMAGE]a plant grown for its grain that is used for making food, beer and whisky; the grains of this plant
 		;Feed barley prices are set to rise.
 		;Malt whisky is made from malted barley.
@@ -167,7 +170,7 @@ barley		<-->	noun+C1[-0]	./ˈbɑːli/-NAmE /ˈbɑːrli/
 
 
 
-barn		<-->	noun+C1[-0]	./bɑːn/-NAmE /bɑːrn/
+barn		<-->	noun++C1	[221119][001]	./bɑːn/-NAmE /bɑːrn/
 	;kho ngũ cốc, chuồng -- (Idiooms) [IMAGE]a large farm building for storing grain or keeping animals in
 		;a hay barn
 		;They live in a converted barn (= a barn that has been turned into a house).
@@ -179,7 +182,7 @@ barn		<-->	noun+C1[-0]	./bɑːn/-NAmE /bɑːrn/
 
 
 
-battery		<-->	noun+C2	[220829][1]	./ˈbætri/,  /ˈbætəri/-NAmE /ˈbætəri/
+battery		<-->	noun++C2	[220829][001]	./ˈbætri/,  /ˈbætəri/-NAmE /ˈbætəri/
 	;trại gà -- (plural batteries)​[countable] (British English) (often used as an adjective) a large number of small cages that are joined together and are used for keeping chickens, etc. in on a farm
 		;a battery hen
 		;battery eggs
@@ -191,7 +194,7 @@ battery		<-->	noun+C2	[220829][1]	./ˈbætri/,  /ˈbætəri/-NAmE /ˈbætəri/
 
 
 
-battery farm		<-->	noun+C2	[220829][1]	./ˈbætri fɑːm/,  /ˈbætəri fɑːm/-NAmE /ˈbætəri fɑːrm/
+battery farm		<-->	noun++C2	[220829][001]	./ˈbætri fɑːm/,  /ˈbætəri fɑːm/-NAmE /ˈbætəri fɑːrm/
 	;trại gà -- (British English) ​a farm where large numbers of chickens or other animals are kept in very small cages or crowded conditions
 		;COMPARE factory farm, free-range
 		;TOPICS FarmingC2
@@ -200,7 +203,7 @@ battery farm		<-->	noun+C2	[220829][1]	./ˈbætri fɑːm/,  /ˈbætəri fɑːm/-
 
 
 
-bean		<-->	noun+B1	[220803][1]	./biːn/-NAmE /biːn/
+bean		<-->	noun++B1	[220803][001]	./biːn/-NAmE /biːn/
 	;hạt -- (usually in compounds) a seed from a coffee plant, or some other plants
 		;cocoa/coffee beans
 		;TOPICS FarmingB1
@@ -215,7 +218,7 @@ bean		<-->	noun+B1	[220803][1]	./biːn/-NAmE /biːn/
 
 
 
-beet		<-->	noun+C2	[220829][2]	./biːt/-NAmE /biːt/
+beet		<-->	noun++C2	[220829][2]	./biːt/-NAmE /biːt/
 	;củ cải (đường) -- [countable, uncountable] ​a plant with a root that is used as a vegetable, especially for feeding animals or making sugar
 		;SEE ALSO sugar beet
 		;TOPICS FarmingC2
@@ -224,7 +227,7 @@ beet		<-->	noun+C2	[220829][2]	./biːt/-NAmE /biːt/
 
 
 
-blight		<-->	noun+C2	[220829][1]	./blaɪt/-NAmE /blaɪt/
+blight		<-->	noun++C2	[220829][001]	./blaɪt/-NAmE /blaɪt/
 	;bệnh thực vật -- ​[uncountable, countable] any disease that kills plants, especially crops
 		;potato blight
 		;Many areas have been devastated by blights which destroyed cereal crops and vines.
@@ -236,7 +239,7 @@ blight		<-->	noun+C2	[220829][1]	./blaɪt/-NAmE /blaɪt/
 
 
 
-Boer		<-->	noun+C2	[220829][1]	./bɔː(r)/-NAmE /bɔːr/
+Boer		<-->	noun++C2	[220829][001]	./bɔː(r)/-NAmE /bɔːr/
 	;nông dân -- ​boer (South African English) a farmer
 		;TOPICS FarmingC2
 
@@ -244,7 +247,7 @@ Boer		<-->	noun+C2	[220829][1]	./bɔː(r)/-NAmE /bɔːr/
 
 
 
-brand		<-->	noun+C2	[220829][1]	./brænd/-NAmE /brænd/\
+brand		<-->	noun++C2	[220829][001]	./brænd/-NAmE /brænd/\
 	;bảng hiệu trang trại -- ​a mark made with a piece of hot metal, especially on farm animals to show who owns them
 		;TOPICS FarmingC2
 
@@ -252,7 +255,7 @@ brand		<-->	noun+C2	[220829][1]	./brænd/-NAmE /brænd/\
 
 
 
-breed		<-->	verb+C1	[220803][1]	./briːd/-NAmE /briːd/
+breed		<-->	verb++C1	[220803][001]	./briːd/-NAmE /briːd/
 		;gieo giống -- [transitive, intransitive] to keep animals or plants in order to produce young ones for a particular purpose
 		;breed something (for/as something) The rabbits are bred for their long coats.
 		;Greyhounds were originally bred as hunting dogs.
@@ -303,7 +306,7 @@ breed		<-->	verb+C1	[220803][1]	./briːd/-NAmE /briːd/
 
 
 
-buckwheat		<-->	noun+C2	[220829][1]	./ˈbʌkwiːt/-NAmE /ˈbʌkwiːt/
+buckwheat		<-->	noun++C2	[220829][001]	./ˈbʌkwiːt/-NAmE /ˈbʌkwiːt/
 	;kiều mạch -- [uncountable] ​small dark seed that is grown as food for animals and for making flour
 		;TOPICS FarmingC2, FoodC2
 
@@ -311,7 +314,7 @@ buckwheat		<-->	noun+C2	[220829][1]	./ˈbʌkwiːt/-NAmE /ˈbʌkwiːt/
 
 
 
-butcher		<-->	verb+C2	[220803][1]	./ˈbʊtʃə(r)/-NAmE /ˈbʊtʃər/\
+butcher		<-->	verb++C2	[220803][001]	./ˈbʊtʃə(r)/-NAmE /ˈbʊtʃər/\
 	;giết mổ -- 
 	;​butcher something to kill animals and cut them up for use as meat
 		;TOPICS FarmingC2
@@ -320,7 +323,7 @@ butcher		<-->	verb+C2	[220803][1]	./ˈbʊtʃə(r)/-NAmE /ˈbʊtʃər/\
 
 
 
-canola		<-->	noun+C2	[220829][1]	./kəˈnəʊlə/-NAmE /kəˈnəʊlə/
+canola		<-->	noun++C2	[220829][001]	./kəˈnəʊlə/-NAmE /kəˈnəʊlə/
 	;cải dầu -- (Canadian English Canola™) [uncountable] ​a variety of rapeseed that was developed in Canada and is grown widely in North America and is used to make cooking oil, also called canola
 		;Canola oil is low in saturated fats.
 		;TOPICS FarmingC2
@@ -329,7 +332,7 @@ canola		<-->	noun+C2	[220829][1]	./kəˈnəʊlə/-NAmE /kəˈnəʊlə/
 
 
 
-carcass		<-->	noun+C2	[220829][1]	./ˈkɑːkəs/-NAmE /ˈkɑːrkəs/
+carcass		<-->	noun++C2	[220829][001]	./ˈkɑːkəs/-NAmE /ˈkɑːrkəs/
 	;xác thịt -- (also British English, less frequent carcase) ​the dead body of an animal, especially of a large one or of one that is ready for cutting up as meat
 		;vultures(kền kền) scavenging(ăn xác) for carcasses on the road
 		;She boiled up the chicken carcass (= the bones of a cooked chicken) to make soup.
@@ -339,7 +342,7 @@ carcass		<-->	noun+C2	[220829][1]	./ˈkɑːkəs/-NAmE /ˈkɑːrkəs/
 
 
 
-cash crop		<-->	noun+C1[-0]	./ˈkæʃ krɒp/-NAmE /ˈkæʃ krɑːp/
+cash crop		<-->	noun++C1	[221119][001]	./ˈkæʃ krɒp/-NAmE /ˈkæʃ krɑːp/
 ​	;canh tác thương mại, -- a crop grown for selling, rather than for use by the person who grows it
 		;Most farmers now produce cash crops such as coffee and tobacco for the export market.
 		;the replacement of traditional crops with cash crops for export
@@ -350,7 +353,7 @@ cash crop		<-->	noun+C1[-0]	./ˈkæʃ krɒp/-NAmE /ˈkæʃ krɑːp/
 
 
 
-castrate		<-->	verb+C2	[220803][1]	./kæˈstreɪt/-NAmE /ˈkæstreɪt/
+castrate		<-->	verb++C2	[220803][001]	./kæˈstreɪt/-NAmE /ˈkæstreɪt/
 	;thiến -- (Veerb Forms)
 ​	;castrate something/somebody to remove the testicles of a male animal or person
 		;TOPICS FarmingC2
@@ -359,7 +362,7 @@ castrate		<-->	verb+C2	[220803][1]	./kæˈstreɪt/-NAmE /ˈkæstreɪt/
 
 
 
-castration		<-->	noun+C2	[220829][1]	./kæˈstreɪʃn/-NAmE /kæˈstreɪʃn/
+castration		<-->	noun++C2	[220829][001]	./kæˈstreɪʃn/-NAmE /kæˈstreɪʃn/
 	;việc thiến -- [uncountable, countable] ​the act of removing the testicles(tinh hoàn) of a male animal or person
 		;TOPICS FarmingC2
 
@@ -367,7 +370,7 @@ castration		<-->	noun+C2	[220829][1]	./kæˈstreɪʃn/-NAmE /kæˈstreɪʃn/
 
 
 
-cattle grid		<-->	noun+C2	[220829][1]	./ˈkætl ɡrɪd/-NAmE /ˈkætl ɡrɪd/
+cattle grid		<-->	noun++C2	[220829][001]	./ˈkætl ɡrɪd/-NAmE /ˈkætl ɡrɪd/
 	;tấm lưới ngăn con vật đi qua, nhưng xe có thể qua -- (British English) (North American English cattle guard) ​metal bars that are placed over a hole that has been made in the road. Cars can pass over the metal bars but animals such as sheep and cows cannot.
 		;There was a cattle grid across the road to stop the cows from escaping.
 		;TOPICS Transport by car or lorryC2, FarmingC2
@@ -376,7 +379,7 @@ cattle grid		<-->	noun+C2	[220829][1]	./ˈkætl ɡrɪd/-NAmE /ˈkætl ɡrɪd/
 
 
 
-cattleman		<-->	noun+C2	[220829][1]	./ˈkætlmən/-NAmE /ˈkætlmən/
+cattleman		<-->	noun++C2	[220829][001]	./ˈkætlmən/-NAmE /ˈkætlmən/
 	;mục đồng, người chăn thả gia súc -- (plural cattlemen  /ˈkætlmən/  /ˈkætlmən/) (North American English) ​a person who owns or takes care of cattle
 		;The change of land use affects horse owners, cattlemen and dairy farmers.
 		;TOPICS FarmingC2
@@ -385,7 +388,7 @@ cattleman		<-->	noun+C2	[220829][1]	./ˈkætlmən/-NAmE /ˈkætlmən/
 
 
 
-cereal		<-->	noun+B2[-0]	./ˈsɪəriəl/-NAmE /ˈsɪriəl/
+cereal		<-->	noun++B2	[221119][001]	./ˈsɪəriəl/-NAmE /ˈsɪriəl/
 	;ngũ cốc -- [IMAGE][countable] one of various types of grass that produce grains that can be eaten or are used to make flour or bread. wheat, barley and rye are all cereals.
 		;cereal crops
 		;Wordfinder: blight, cereal, crop, genetically modified, grain, harvest, monoculture, organic, staple, yield
@@ -398,7 +401,7 @@ cereal		<-->	noun+B2[-0]	./ˈsɪəriəl/-NAmE /ˈsɪriəl/
 
 
 
-chaff		<-->	noun+C2	[220829][2]	./tʃæf/,  /tʃɑːf/-NAmE /tʃæf/\
+chaff		<-->	noun++C2	[220829][2]	./tʃæf/,  /tʃɑːf/-NAmE /tʃæf/\
 	;sự bóc vỏ, xay xát -- [uncountable] (Idiooms) ​the outer layer of the seeds of grain such as wheat, which is separated from the grain before it is eaten
 		;TOPICS FarmingC2
 	;rơm, cỏ khô -- straw (= dried stems of wheat) and hay (= dried grass) cut up as food for cows
@@ -408,7 +411,7 @@ chaff		<-->	noun+C2	[220829][2]	./tʃæf/,  /tʃɑːf/-NAmE /tʃæf/\
 
 
 
-combine		<-->	noun+C2	[220829][1]	./ˈkɒmbaɪn/-NAmE /ˈkɑːmbaɪn/
+combine		<-->	noun++C2	[220829][001]	./ˈkɒmbaɪn/-NAmE /ˈkɑːmbaɪn/
 	;máy liên hợp nông nghiệp -- ​(British English also combine harvester) a large farm machine that both cuts a crop and also separates the grains from the rest of the plant
 		;TOPICS FarmingC2
 
@@ -416,7 +419,7 @@ combine		<-->	noun+C2	[220829][1]	./ˈkɒmbaɪn/-NAmE /ˈkɑːmbaɪn/
 
 
 
-commercial farming		<-->	noun+B2[-0]	./kəˌmɜːʃl ˈfɑːmɪŋ/-NAmE /kəˌmɜːrʃl ˈfɑːrmɪŋ/
+commercial farming		<-->	noun++B2	[221119][001]	./kəˌmɜːʃl ˈfɑːmɪŋ/-NAmE /kəˌmɜːrʃl ˈfɑːrmɪŋ/
 	;phương thức canh tác cho thương mại -- [uncountable]
 ​		;a method of farming that produces crops or animals for sale, usually on a large scale and using modern methods and equipment
 		;TOPICS FarmingB2
@@ -425,7 +428,7 @@ commercial farming		<-->	noun+B2[-0]	./kəˌmɜːʃl ˈfɑːmɪŋ/-NAmE /kəˌm�
 
 
 
-corn		<-->	noun+B1	[220803][1]	./kɔːn/-NAmE /kɔːrn/
+corn		<-->	noun++B1	[220803][001]	./kɔːn/-NAmE /kɔːrn/
 ​	;ngữ cốc, ngô -- (British English) [uncountable] any plant that is grown for its grain, such as wheat; the grain of these plants
 		;a field of corn
 		;ears/sheaves of corn
@@ -451,7 +454,7 @@ corn		<-->	noun+B1	[220803][1]	./kɔːn/-NAmE /kɔːrn/
 
 
 
-cornfield		<-->	noun+B2[-0]	./ˈkɔːnfiːld/-NAmE /ˈkɔːrnfiːld/
+cornfield		<-->	noun++B2	[221119][001]	./ˈkɔːnfiːld/-NAmE /ˈkɔːrnfiːld/
 	;đồng bắp -- [IMAGE]a field in which corn is grown
 		;TOPICS FarmingB2
 
@@ -459,7 +462,7 @@ cornfield		<-->	noun+B2[-0]	./ˈkɔːnfiːld/-NAmE /ˈkɔːrnfiːld/
 
 
 
-corral		<-->	noun+C2	[220829][1]	./kəˈrɑːl/-NAmE /kəˈræl/
+corral		<-->	noun++C2	[220829][001]	./kəˈrɑːl/-NAmE /kəˈræl/
 ​	;khu thả ngựa, bò có rào -- (in North America) an area with a fence around it, for horses, cows, etc. on a farm or ranch
 		;They drove the ponies into a corral.
 		;TOPICS FarmingC2
@@ -468,7 +471,7 @@ corral		<-->	noun+C2	[220829][1]	./kəˈrɑːl/-NAmE /kəˈræl/
 
 
 
-cotton		<-->	noun+B1	[220803][1]	./ˈkɒtn/-NAmE /ˈkɑːtn/
+cotton		<-->	noun++B1	[220803][001]	./ˈkɒtn/-NAmE /ˈkɑːtn/
 	;bông vải -- [uncountable]​  a plant grown in warm countries for the soft white hairs around its seeds that are used to make cloth and thread
 		;From the age of six she worked in the fields, picking cotton.
 		;bales of cotton
@@ -489,7 +492,7 @@ cotton		<-->	noun+B1	[220803][1]	./ˈkɒtn/-NAmE /ˈkɑːtn/
 
 
 
-cowboy		<-->	noun+B2[-0]	./ˈkaʊbɔɪ/-NAmE /ˈkaʊbɔɪ/
+cowboy		<-->	noun++B2	[221119][001]	./ˈkaʊbɔɪ/-NAmE /ˈkaʊbɔɪ/
 	;gã chăn bò -- (North American English also cowpoke old-fashioned or humorous) a man who rides a horse and whose job is to take care of cattle in the western parts of the US
 		;Culture
 		;TOPICS JobsB2, FarmingB2
@@ -498,7 +501,7 @@ cowboy		<-->	noun+B2[-0]	./ˈkaʊbɔɪ/-NAmE /ˈkaʊbɔɪ/
 
 
 
-cowpoke		<-->	noun+C2	[220829][1]	./ˈkaʊpəʊk/-NAmE /ˈkaʊpəʊk/
+cowpoke		<-->	noun++C2	[220829][001]	./ˈkaʊpəʊk/-NAmE /ˈkaʊpəʊk/
 	;gã chăn bò -- (North American English, old-fashioned or humorous) ​a cowboy (= a man who rides a horse and whose job is to take care of cattle in the western parts of the US)
 		'TOPICS JobsC2, FarmingC2
 
@@ -506,7 +509,7 @@ cowpoke		<-->	noun+C2	[220829][1]	./ˈkaʊpəʊk/-NAmE /ˈkaʊpəʊk/
 
 
 
-cowshed		<-->	noun+C1[-0]	./ˈkaʊʃed/-NAmE /ˈkaʊʃed/
+cowshed		<-->	noun++C1	[221119][001]	./ˈkaʊʃed/-NAmE /ˈkaʊʃed/
 ​	;chuồng bò -- a farm building in which cows are kept
 		;TOPICS FarmingC1
 
@@ -514,7 +517,7 @@ cowshed		<-->	noun+C1[-0]	./ˈkaʊʃed/-NAmE /ˈkaʊʃed/
 
 
 
-croft		<-->	noun+C2	[220829][1]	./krɒft/-NAmE /krɔːft/
+croft		<-->	noun++C2	[220829][001]	./krɒft/-NAmE /krɔːft/
 	;một trang trại nhỏ được thuê-- (British English) ​a small rented farm or the house on it, especially in Scotland
 		;The glen was home to three small crofts.
 		;TOPICS FarmingC2
@@ -523,7 +526,7 @@ croft		<-->	noun+C2	[220829][1]	./krɒft/-NAmE /krɔːft/
 
 
 
-crofter		<-->	noun+C2	[220829][1]	./ˈkrɒftə(r)/-NAmE /ˈkrɔːftər/
+crofter		<-->	noun++C2	[220829][001]	./ˈkrɒftə(r)/-NAmE /ˈkrɔːftər/
 	;người làm thuê/sở hữu ở trang trại nhỏ ở Scotland-- (British English) ​a person who rents or owns a small family farm, especially in Scotland
 		;TOPICS FarmingC2
 
@@ -531,7 +534,7 @@ crofter		<-->	noun+C2	[220829][1]	./ˈkrɒftə(r)/-NAmE /ˈkrɔːftər/
 
 
 
-crofting		<-->	noun+C2	[220829][1]	./ˈkrɒftɪŋ/-NAmE /ˈkrɔːftɪŋ/
+crofting		<-->	noun++C2	[220829][001]	./ˈkrɒftɪŋ/-NAmE /ˈkrɔːftɪŋ/
 	;hệ thống canh tác nhỏ ở Scotland -- [uncountable] ​a system of farming on a small scale in Scotland
 		;In the Scottish Highlands people struggled to make a living from crofting.
 		;The traditional crofting way of life is under threat in Scotland's Western Isles.
@@ -541,7 +544,7 @@ crofting		<-->	noun+C2	[220829][1]	./ˈkrɒftɪŋ/-NAmE /ˈkrɔːftɪŋ/
 
 
 
-crop		<-->	noun+B2[-0]	./krɒp/-NAmE /krɑːp/
+crop		<-->	noun++B2	[221119][001]	./krɒp/-NAmE /krɑːp/
 	;cây lương thực -- (plants for food)  [countable] a plant that is grown in large quantities, especially as food
 		;Sugar is an important crop on the island.
 		;What are the benefits of growing GM crops?
@@ -571,7 +574,7 @@ crop		<-->	noun+B2[-0]	./krɒp/-NAmE /krɑːp/
 
 
 
-crop		<-->	verb+C2	[220803][1]	./krɒp/-NAmE /krɑːp/
+crop		<-->	verb++C2	[220803][001]	./krɒp/-NAmE /krɑːp/
 	;gieo trồng -- (plants) ​[intransitive] (of plants) to produce a crop
 		;The potatoes cropped well this year.
 		;TOPICS FarmingC2
@@ -584,7 +587,7 @@ crop		<-->	verb+C2	[220803][1]	./krɒp/-NAmE /krɑːp/
 
 
 
-crop dusting		<-->	noun+C2	[220829][1]	./ˈkrɒp dʌstɪŋ/-NAmE /ˈkrɑːp dʌstɪŋ/
+crop dusting		<-->	noun++C2	[220829][001]	./ˈkrɒp dʌstɪŋ/-NAmE /ˈkrɑːp dʌstɪŋ/
 	;việc xịt phun thuốc hoá học -- [uncountable] ​the practice of spraying crops with chemicals such as pesticides from a plane
 		;TOPICS FarmingC2
 
@@ -592,7 +595,7 @@ crop dusting		<-->	noun+C2	[220829][1]	./ˈkrɒp dʌstɪŋ/-NAmE /ˈkrɑːp dʌs
 
 
 
-cultivate		<-->	verb+C1	[220803][1]	./ˈkʌltɪveɪt/-NAmE /ˈkʌltɪveɪt/
+cultivate		<-->	verb++C1	[220803][001]	./ˈkʌltɪveɪt/-NAmE /ˈkʌltɪveɪt/
 	;làm đất, canh tác -- (Veerb Forms)​ cultivate something to prepare and use land for growing plants or crops
 		;The land around here has never been cultivated.
 		;The land here has been intensively cultivated for generations.
@@ -615,7 +618,7 @@ cultivate		<-->	verb+C1	[220803][1]	./ˈkʌltɪveɪt/-NAmE /ˈkʌltɪveɪt/
 
 
 
-cultivation		<-->	noun+C1[-0]	./ˌkʌltɪˈveɪʃn/-NAmE /ˌkʌltɪˈveɪʃn/
+cultivation		<-->	noun++C1	[221119][001]	./ˌkʌltɪˈveɪʃn/-NAmE /ˌkʌltɪˈveɪʃn/
 	;quá trình làm đất trước vụ -- [uncountable] ​the preparation and use of land for growing plants or crops
 		;under cultivation fertile land that is under cultivation (= being cultivated)
 		;rice/wheat cultivation
@@ -626,7 +629,7 @@ cultivation		<-->	noun+C1[-0]	./ˌkʌltɪˈveɪʃn/-NAmE /ˌkʌltɪˈveɪʃn/
 
 
 
-cultivator		<-->	noun+C2	[220829][1]	./ˈkʌltɪveɪtə(r)/-NAmE /ˈkʌltɪveɪtər/
+cultivator		<-->	noun++C2	[220829][001]	./ˈkʌltɪveɪtə(r)/-NAmE /ˈkʌltɪveɪtər/
 ​	;người canh tác -- a person who cultivates (= grows crops on) the land
 		;TOPICS FarmingC2
 
@@ -634,7 +637,7 @@ cultivator		<-->	noun+C2	[220829][1]	./ˈkʌltɪveɪtə(r)/-NAmE /ˈkʌltɪveɪt
 
 
 
-dairy		<-->	noun+C1[-0]	./ˈdeəri/-NAmE /ˈderi/
+dairy		<-->	noun++C1	[221119][001]	./ˈdeəri/-NAmE /ˈderi/
 	;nơi bảo quản, chế biến từ sữa -- (plural dairies) ​[countable] a place on a farm where milk is kept and where butter and cheese are made
 		;Wordfinder: arable, barn, crop, cultivate, dairy, fallow, farm, graze, live, stock, tractor
 		;TOPICS FarmingC1
@@ -643,7 +646,7 @@ dairy		<-->	noun+C1[-0]	./ˈdeəri/-NAmE /ˈderi/
 
 
 
-dairyman		<-->	noun+C2	[220829][1]	./ˈdeərimən/-NAmE /ˈderimən/
+dairyman		<-->	noun++C2	[220829][001]	./ˈdeərimən/-NAmE /ˈderimən/
 	;người vắt sữa -- (plural dairymen  /ˈdeərimən/  /ˈderimən/)
 ​		;a man who works in a dairy
 		;TOPICS FarmingC2
@@ -654,7 +657,7 @@ dairyman		<-->	noun+C2	[220829][1]	./ˈdeərimən/-NAmE /ˈderimən/
 
 
 
-dirt farmer		<-->	noun+C2	[220829][1]	./ˈdɜːt fɑːmə(r)/-NAmE /ˈdɜːrt fɑːrmər/
+dirt farmer		<-->	noun++C2	[220829][001]	./ˈdɜːt fɑːmə(r)/-NAmE /ˈdɜːrt fɑːrmər/
 	;nông dân nghèo -- (North American English) ​a farmer who has poor land and does not make much money, and who does not pay anyone else to work on the farm
 		;TOPICS Social issuesC2, FarmingC2
 
@@ -662,7 +665,7 @@ dirt farmer		<-->	noun+C2	[220829][1]	./ˈdɜːt fɑːmə(r)/-NAmE /ˈdɜːrt f�
 
 
 
-dryland farming		<-->	noun+C2	[220829][1]	./ˈdraɪlənd fɑːmɪŋ/-NAmE /ˈdraɪlənd fɑːrmɪŋ/
+dryland farming		<-->	noun++C2	[220829][001]	./ˈdraɪlənd fɑːmɪŋ/-NAmE /ˈdraɪlənd fɑːrmɪŋ/
 	;phương pháp canh tác dành cho trang trại ít nước -- (also dry farming) [uncountable] (specialist) ​a method of farming in areas where there is very little rain, which involves growing crops that do not need much water
 		;TOPICS FarmingC2
 
@@ -670,7 +673,7 @@ dryland farming		<-->	noun+C2	[220829][1]	./ˈdraɪlənd fɑːmɪŋ/-NAmE /ˈdra
 
 
 
-dude ranch		<-->	noun+C2	[220829][1]	./ˈduːd rɑːntʃ/-NAmE /ˈduːd ræntʃ/
+dude ranch		<-->	noun++C2	[220829][001]	./ˈduːd rɑːntʃ/-NAmE /ˈduːd ræntʃ/
 	;trang trại lớn, có hỗ trợ du lịch -- ​an American ranch (= a large farm) where people can go on holiday and do the sort of activities that cowboys do
 		;TOPICS FarmingC2
 
@@ -678,7 +681,7 @@ dude ranch		<-->	noun+C2	[220829][1]	./ˈduːd rɑːntʃ/-NAmE /ˈduːd ræntʃ/
 
 
 
-ear		<-->	noun+C2	[220829][1]	./ɪə(r)/-NAmE /ɪr/ 
+ear		<-->	noun++C2	[220829][001]	./ɪə(r)/-NAmE /ɪr/ 
 	;bông -- [IMAGE][countable] the top part of a grain plant, such as wheat, that contains the seeds
 		;ears of corn
 		;TOPICS FarmingC2
@@ -687,7 +690,7 @@ ear		<-->	noun+C2	[220829][1]	./ɪə(r)/-NAmE /ɪr/
 
 
 
-earth		<-->	noun+B1	[220803][1]	./ɜːθ/-NAmE /ɜːrθ/
+earth		<-->	noun++B1	[220803][001]	./ɜːθ/-NAmE /ɜːrθ/
 	;đất -- [uncountable] the substance that plants grow in
 		;a clod/mound of earth
 		;I cleaned off the earth clinging to my boots.
@@ -711,7 +714,7 @@ earth		<-->	noun+B1	[220803][1]	./ɜːθ/-NAmE /ɜːrθ/
 
 
 
-elevator		<-->	noun+C2	[220829][1]	./ˈelɪveɪtə(r)/-NAmE /ˈelɪveɪtər/
+elevator		<-->	noun++C2	[220829][001]	./ˈelɪveɪtə(r)/-NAmE /ˈelɪveɪtər/
 	;nhà kho ngũ cốc nhiều tầng -- (also grain elevator) (North American English) a tall building used to store grain and that contains equipment to move it
 		;In the harbour a giant elevator stores prairie grain.
 		;TOPICS FarmingC2
@@ -720,7 +723,7 @@ elevator		<-->	noun+C2	[220829][1]	./ˈelɪveɪtə(r)/-NAmE /ˈelɪveɪtər/
 
 
 
-factory farm		<-->	noun+C1[-0]	./ˈfæktri fɑːm/,  /ˈfæktəri fɑːm/-NAmE /ˈfæktri fɑːrm/,  /ˈfæktəri fɑːrm/
+factory farm		<-->	noun++C1	[221119][001]	./ˈfæktri fɑːm/,  /ˈfæktəri fɑːm/-NAmE /ˈfæktri fɑːrm/,  /ˈfæktəri fɑːrm/
 	;cách làm nông nghiệp theo kiểu công nghiệp -- a type of farm in which animals are kept inside in small spaces and are fed special food so that a large amount of meat, milk, etc. is produced as quickly and cheaply as possible
 		;The pigs are raised on factory farms.
 		;COMPARE battery farm
@@ -730,7 +733,7 @@ factory farm		<-->	noun+C1[-0]	./ˈfæktri fɑːm/,  /ˈfæktəri fɑːm/-NAmE /
 
 
 
-factory farming		<-->	noun+C1[-0]	./ˈfæktri fɑːmɪŋ/,  /ˈfæktəri fɑːmɪŋ/-NAmE /ˈfæktri fɑːrmɪŋ/,  /ˈfæktəri fɑːrmɪŋ/
+factory farming		<-->	noun++C1	[221119][001]	./ˈfæktri fɑːmɪŋ/,  /ˈfæktəri fɑːmɪŋ/-NAmE /ˈfæktri fɑːrmɪŋ/,  /ˈfæktəri fɑːrmɪŋ/
 	;cách nuôi (gà) tập trung, ... -- [uncountable] (British English) ​a method of farming in which animals are kept inside in small spaces and are fed special food so that a large amount of meat, milk, etc. is produced as quickly and cheaply as possible
 		;the factory farming of beef, pork and chicken
 		;COMPARE battery farming
@@ -740,7 +743,7 @@ factory farming		<-->	noun+C1[-0]	./ˈfæktri fɑːmɪŋ/,  /ˈfæktəri fɑːm�
 
 
 
-fallow		<-->	adjective+C2[-0]	./ˈfæləʊ/-NAmE /ˈfæləʊ/
+fallow		<-->	adjective++C2	[221119][001]	./ˈfæləʊ/-NAmE /ˈfæləʊ/
 ​	;hoang hoá, bị bỏ hoang -- (of farm land) not used for growing crops, especially so that the quality of the land will improve
 		;Farmers are now paid to let their land lie fallow.
 		;Wordfinder: arable, barn, crop, cultivate, dairy, fallow, farm, graze, live, stock, tractor
@@ -750,7 +753,7 @@ fallow		<-->	adjective+C2[-0]	./ˈfæləʊ/-NAmE /ˈfæləʊ/
 
 
 
-farm		<-->	noun+A1[-0]	./fɑːm/-NAmE /fɑːrm/
+farm		<-->	noun++A1	[221119][001]	./fɑːm/-NAmE /fɑːrm/
 ;nông trại -- an area of land, and the buildings on it, used for growing crops and/or keeping animals
 		;a 200-hectare farm
 		;a dairy farm
@@ -785,7 +788,7 @@ farm		<-->	noun+A1[-0]	./fɑːm/-NAmE /fɑːrm/
 
 
 
-farmer		<-->	noun+A1[-0]	./ˈfɑːmə(r)/-NAmE /ˈfɑːrmər/\
+farmer		<-->	noun++A1	[221119][001]	./ˈfɑːmə(r)/-NAmE /ˈfɑːrmər/\
 	;nông dân -- ​a person who owns or manages a farm
 		;My parents are dairy farmers.
 		;The land is owned by a local farmer.
@@ -802,7 +805,7 @@ farmer		<-->	noun+A1[-0]	./ˈfɑːmə(r)/-NAmE /ˈfɑːrmər/\
 
 
 
-farmhand		<-->	noun+C2	[220829][1]	./ˈfɑːmhænd/-NAmE /ˈfɑːrmhænd/
+farmhand		<-->	noun++C2	[220829][001]	./ˈfɑːmhænd/-NAmE /ˈfɑːrmhænd/
 	;người làm công ở nông trại -- (North American English also field hand) ​a person who works for a farmer
 		;TOPICS FarmingC2
 
@@ -810,7 +813,7 @@ farmhand		<-->	noun+C2	[220829][1]	./ˈfɑːmhænd/-NAmE /ˈfɑːrmhænd/
 
 
 
-farming		<-->	noun+A2[-0]	./ˈfɑːmɪŋ/-NAmE /ˈfɑːrmɪŋ/
+farming		<-->	noun++A2	[221119][001]	./ˈfɑːmɪŋ/-NAmE /ˈfɑːrmɪŋ/
 	;nghề nông -- [uncountable] ​the business of managing or working on a farm
 		;to take up farming
 		;organic farming
@@ -834,7 +837,7 @@ farming		<-->	noun+A2[-0]	./ˈfɑːmɪŋ/-NAmE /ˈfɑːrmɪŋ/
 
 
 
-farmyard		<-->	noun+C2	[220829][1]	./ˈfɑːmjɑːd/-NAmE /ˈfɑːrmjɑːrd/
+farmyard		<-->	noun++C2	[220829][001]	./ˈfɑːmjɑːd/-NAmE /ˈfɑːrmjɑːrd/
 	;sân vườn -- [IMAGE]	an area that is surrounded by farm buildings
 		;TOPICS FarmingC2
 		;Oxford Collocations Dictionary
@@ -845,7 +848,7 @@ farmyard		<-->	noun+C2	[220829][1]	./ˈfɑːmjɑːd/-NAmE /ˈfɑːrmjɑːrd/
 
 
 
-fatten		<-->	verb+C2	[220803][1]	./ˈfætn/-NAmE /ˈfætn/
+fatten		<-->	verb++C2	[220803][001]	./ˈfætn/-NAmE /ˈfætn/
 [transitive, intransitive]
 	;Word Family
 	---
@@ -867,7 +870,7 @@ fatten		<-->	verb+C2	[220803][1]	./ˈfætn/-NAmE /ˈfætn/
 
 
 
-feed		<-->	verb+A2[-0]	./fiːd/-NAmE /fiːd/\
+feed		<-->	verb++A2	[221119][001]	./fiːd/-NAmE /fiːd/\
 	;nuôi, cho ăn -- (give/eat food)​  [transitive] to give food to a person or an animal
 		;feed somebody/something/yourself Have you fed the cat yet?
 		;The baby can't feed itself yet (= can't put food into its own mouth).
@@ -895,7 +898,7 @@ feed		<-->	verb+A2[-0]	./fiːd/-NAmE /fiːd/\
 
 
 
-fence		<-->	noun+B1	[220803][1]	./fens/-NAmE /fens/\
+fence		<-->	noun++B1	[220803][001]	./fens/-NAmE /fens/\
 	;hàng rào -- (Idiooms) [IMAGE]	  a structure made of wood or wire supported with posts that is put between two areas of land as a boundary, or around a garden, field, etc. to keep animals in, or to keep people and animals out
 		;The two women chatted over the garden fence.
 		;Security guards with dogs patrolled the perimeter fence.
@@ -918,7 +921,7 @@ fence		<-->	noun+B1	[220803][1]	./fens/-NAmE /fens/\
 
 
 
-fertile		<-->	adjective+C1[-0]	./ˈfɜːtaɪl/-NAmE /ˈfɜːrtl/
+fertile		<-->	adjective++C1	[221119][001]	./ˈfɜːtaɪl/-NAmE /ˈfɜːrtl/
 	;màu mỡ, nhiều mùn -- ​(of land or soil) that plants grow well in
 a fertile region/valley
 
@@ -965,7 +968,7 @@ extremelyfairlyvery…
 
 
 
-fertilization		<-->	noun+C1[-0]	./ˌfɜːtəlaɪˈzeɪʃn/-NAmE /ˌfɜːrtələˈzeɪʃn/
+fertilization		<-->	noun++C1	[221119][001]	./ˌfɜːtəlaɪˈzeɪʃn/-NAmE /ˌfɜːrtələˈzeɪʃn/
 	;việc bón phân, làm tốt đất -- (British English also fertilisation) [uncountable]
 	;fertilization (of something) (with something) the act of adding a substance to soil to make plants grow more successfully
 		;the fertilization of soil with artificial chemicals
@@ -976,7 +979,7 @@ fertilization		<-->	noun+C1[-0]	./ˌfɜːtəlaɪˈzeɪʃn/-NAmE /ˌfɜːrtələ�
 
 
 
-fertilize		<-->	verb+C1	[220803][1]	./ˈfɜːtəlaɪz/-NAmE /ˈfɜːrtəlaɪz/
+fertilize		<-->	verb++C1	[220803][001]	./ˈfɜːtəlaɪz/-NAmE /ˈfɜːrtəlaɪz/
 	;bón phân, làm đất -- (British English also fertilise) 
 	;fertilize something: to add a substance to soil to make plants grow more successfully
 		;TOPICS FarmingC1
@@ -985,7 +988,7 @@ fertilize		<-->	verb+C1	[220803][1]	./ˈfɜːtəlaɪz/-NAmE /ˈfɜːrtəlaɪz/
 
 
 
-fertilizer		<-->	noun+C1[-0]	./ˈfɜːtəlaɪzə(r)/-NAmE /ˈfɜːrtəlaɪzər/
+fertilizer		<-->	noun++C1	[221119][001]	./ˈfɜːtəlaɪzə(r)/-NAmE /ˈfɜːrtəlaɪzər/
 	;phân bón -- (British English also fertiliser) [countable, uncountable]  a substance added to soil to make plants grow more successfully
 		;artificial/chemical fertilizers
 		;liquid fertilizer
@@ -1003,7 +1006,7 @@ fertilizer		<-->	noun+C1[-0]	./ˈfɜːtəlaɪzə(r)/-NAmE /ˈfɜːrtəlaɪzər/
 
 
 
-field		<-->	noun+A2[-0]	./fiːld/-NAmE /fiːld/
+field		<-->	noun++A2	[221119][001]	./fiːld/-NAmE /fiːld/
 	;cánh đồng -- (Idiooms) (area of land) [IMAGE]	  [countable] an area of land in the country used for growing crops or keeping animals in, usually surrounded by a fence, etc.
 		;We had to walk across a ploughed field.
 		;in a field We camped in a field near the village.
@@ -1028,7 +1031,7 @@ field		<-->	noun+A2[-0]	./fiːld/-NAmE /fiːld/
 
 
 
-field corn		<-->	noun+C2	[220829][1]	./ˈfiːld kɔːn/-NAmE /ˈfiːld kɔːrn/
+field corn		<-->	noun++C2	[220829][001]	./ˈfiːld kɔːn/-NAmE /ˈfiːld kɔːrn/
 	;đồng bắp -- [uncountable] (North American English) ​corn (maize) that is grown to feed animals
 		;They grew field corn and soybeans, and raised a few cows.
 		;TOPICS FarmingC2
@@ -1037,7 +1040,7 @@ field corn		<-->	noun+C2	[220829][1]	./ˈfiːld kɔːn/-NAmE /ˈfiːld kɔːrn/
 
 
 
-field hand		<-->	noun+C2	[220829][1]	./ˈfiːld hænd/-NAmE /ˈfiːld hænd/
+field hand		<-->	noun++C2	[220829][001]	./ˈfiːld hænd/-NAmE /ˈfiːld hænd/
 	;người làm công ở các trang trại -- (North American English) (also farmhand British and North American English) ​a person who works for a farmer
 		;TOPICS FarmingC2
 
@@ -1045,7 +1048,7 @@ field hand		<-->	noun+C2	[220829][1]	./ˈfiːld hænd/-NAmE /ˈfiːld hænd/
 
 
 
-fish farm		<-->	noun+B1	[220803][1]	./ˈfɪʃ fɑːm/-NAmE /ˈfɪʃ fɑːrm/
+fish farm		<-->	noun++B1	[220803][001]	./ˈfɪʃ fɑːm/-NAmE /ˈfɪʃ fɑːrm/
 	;trại cá -- (also fishery) ​a place where fish are bred (= kept in order to produce young) as a business
 		;Critics say that fish farms generate high levels of disease and parasites.
 		;TOPICS FarmingB1
@@ -1054,7 +1057,7 @@ fish farm		<-->	noun+B1	[220803][1]	./ˈfɪʃ fɑːm/-NAmE /ˈfɪʃ fɑːrm/
 
 
 
-fodder		<-->	noun+C2	[220829][1]	./ˈfɒdə(r)/-NAmE /ˈfɑːdər/
+fodder		<-->	noun++C2	[220829][001]	./ˈfɒdə(r)/-NAmE /ˈfɑːdər/
 	;thức ăn gia súc -- [uncountable] ​food for horses and farm animals
 		;TOPICS FarmingC2
 
@@ -1062,7 +1065,7 @@ fodder		<-->	noun+C2	[220829][1]	./ˈfɒdə(r)/-NAmE /ˈfɑːdər/
 
 
 
-fold		<-->	noun+C2	[220829][1]	./fəʊld/-NAmE /fəʊld/
+fold		<-->	noun++C2	[220829][001]	./fəʊld/-NAmE /fəʊld/
 	;chuồng, trại -- [countable] an area in a field surrounded by a fence or wall where animals, especially sheep, are kept for safety
 		;TOPICS FarmingC2
 
@@ -1070,7 +1073,7 @@ fold		<-->	noun+C2	[220829][1]	./fəʊld/-NAmE /fəʊld/
 
 
 
-food chain		<-->	noun+B2[-0]	./ˈfuːd tʃeɪn/-NAmE /ˈfuːd tʃeɪn/
+food chain		<-->	noun++B2	[221119][001]	./ˈfuːd tʃeɪn/-NAmE /ˈfuːd tʃeɪn/
 	;chuỗi thức ăn -- (usually the food chain) ​a series of living creatures in which each type of creature feeds on the one below it in the series
 		;Insects are fairly low down (on) the food chain.
 		;Pesticides work their way up the food chain from plants, through insects and birds to humans.
@@ -1081,7 +1084,7 @@ food chain		<-->	noun+B2[-0]	./ˈfuːd tʃeɪn/-NAmE /ˈfuːd tʃeɪn/
 
 
 
-foot-and-mouth disease		<-->	noun+C2	[220829][1]	./ˌfʊt ən ˈmaʊθ dɪziːz/-NAmE /ˌfʊt ən ˈmaʊθ dɪziːz/
+foot-and-mouth disease		<-->	noun++C2	[220829][001]	./ˌfʊt ən ˈmaʊθ dɪziːz/-NAmE /ˌfʊt ən ˈmaʊθ dɪziːz/
 	;bệnh lở mồm long móng -- (also foot-and-mouth) (North American English also hoof-and-mouth disease) [uncountable]
 ​		;a disease of cows, sheep, etc., that causes painful places on the mouth and feet
 		;TOPICS FarmingC2
@@ -1090,7 +1093,7 @@ foot-and-mouth disease		<-->	noun+C2	[220829][1]	./ˌfʊt ən ˈmaʊθ dɪziːz/
 
 
 
-free-range		<-->	adjective+C2[-0]	./ˌfriː ˈreɪndʒ/-NAmE /ˌfriː ˈreɪndʒ/
+free-range		<-->	adjective++C2	[221119][001]	./ˌfriː ˈreɪndʒ/-NAmE /ˌfriː ˈreɪndʒ/
 	;(thuộc) vùng chăn thả[usually before noun] connected with a system of farming in which animals are kept in natural conditions and can move around freely
 		;free-range chickens
 		;free-range eggs
@@ -1104,7 +1107,7 @@ free-range		<-->	adjective+C2[-0]	./ˌfriː ˈreɪndʒ/-NAmE /ˌfriː ˈreɪndʒ
 
 
 
-fruit		<-->	noun+A1[-0]	./fruːt/-NAmE /fruːt/
+fruit		<-->	noun++A1	[221119][001]	./fruːt/-NAmE /fruːt/
 	;trái -- (Idiooms) [IMAGE]	  [countable, uncountable] the part of a plant that consists of one or more seeds and a soft inner part, can be eaten as food and usually tastes sweet
 		;tropical fruits, such as bananas and pineapples
 		;citrus fruits, such as oranges and lemons
@@ -1135,7 +1138,7 @@ fruit		<-->	noun+A1[-0]	./fruːt/-NAmE /fruːt/
 
 
 
-furrow		<-->	noun+C2	[220829][1]	./ˈfʌrəʊ/-NAmE /ˈfɜːrəʊ/
+furrow		<-->	noun++C2	[220829][001]	./ˈfʌrəʊ/-NAmE /ˈfɜːrəʊ/
 	;luống cày -- (Idiooms) ​a long narrow cut in the ground, especially one made by a plough for planting seeds in
 		;dark ploughed earth, with white chalk in the furrows
 		;Truck wheels had dug furrows in the track.
@@ -1146,7 +1149,7 @@ furrow		<-->	noun+C2	[220829][1]	./ˈfʌrəʊ/-NAmE /ˈfɜːrəʊ/
 
 
 
-genetically modified		<-->	adjective+B2[-0]	./dʒəˌnetɪkli ˈmɒdɪfaɪd/-NAmE /dʒəˌnetɪkli ˈmɑːdɪfaɪd/
+genetically modified		<-->	adjective++B2	[221119][001]	./dʒəˌnetɪkli ˈmɒdɪfaɪd/-NAmE /dʒəˌnetɪkli ˈmɑːdɪfaɪd/
 	;được chỉnh sửa gen -- (abbreviation GM) ​(of a plant, etc.) having had its genetic structure changed artificially, so that it will, for example, produce more fruit or not be affected by disease
 		;genetically modified foods (= made from plants that have been changed in this way)
 		;genetically modified organisms
@@ -1162,7 +1165,7 @@ genetically modified		<-->	adjective+B2[-0]	./dʒəˌnetɪkli ˈmɒdɪfaɪd/-NAm
 
 
 
-glasshouse		<-->	noun+C2	[220829][1]	./ˈɡlɑːshaʊs/-NAmE /ˈɡlæshaʊs/
+glasshouse		<-->	noun++C2	[220829][001]	./ˈɡlɑːshaʊs/-NAmE /ˈɡlæshaʊs/
 	;nhà kính trồng cây  -- (British English) [IMAGE]	a building with glass sides and a glass roof, for growing plants in; a type of large greenhouse
 		;TOPICS BuildingsC2, FarmingC2		
 		
@@ -1171,13 +1174,13 @@ glasshouse		<-->	noun+C2	[220829][1]	./ˈɡlɑːshaʊs/-NAmE /ˈɡlæshaʊs/
 
 
 
-GM  <--> abbreviation+B2:  gram(s)  
+GM  <--> abbreviation++B2:  gram(s)  
 
 
 
 
 
-grain		<-->	noun+B1	[220803][1]	./ɡreɪn/-NAmE /ɡreɪn/
+grain		<-->	noun++B1	[220803][001]	./ɡreɪn/-NAmE /ɡreɪn/
 	;ngũ cốc -- (Idiooms) [IMAGE]	  [uncountable, countable] the small hard seeds of food plants such as wheat, rice, etc.; a single seed of such a plant
 		;Russia sold 12 million tons of grain abroad last year.
 		;America’s grain exports
@@ -1199,7 +1202,7 @@ grain		<-->	noun+B1	[220803][1]	./ɡreɪn/-NAmE /ɡreɪn/
 
 
 
-grain elevator		<-->	noun+C2	[220829][1]	./ˈɡreɪn elɪveɪtə(r)/-NAmE /ˈɡreɪn elɪveɪtər/
+grain elevator		<-->	noun++C2	[220829][001]	./ˈɡreɪn elɪveɪtə(r)/-NAmE /ˈɡreɪn elɪveɪtər/
 	;nhà kho chứa ngũ cốc -- (also elevator) (North American English) ​a tall building used to store grain and that contains equipment to move it
 		;Industries along the river include a sugar refinery, grain elevators and an oil refinery.
 		;TOPICS FarmingC2
@@ -1208,7 +1211,7 @@ grain elevator		<-->	noun+C2	[220829][1]	./ˈɡreɪn elɪveɪtə(r)/-NAmE /ˈɡr
 
 
 
-graze		<-->	verb+C2	[220803][1]	./ɡreɪz/-NAmE /ɡreɪz/
+graze		<-->	verb++C2	[220803][001]	./ɡreɪz/-NAmE /ɡreɪz/
 	;ăn cỏ -- (Veerb Forms) ​[intransitive, transitive] (of cows, sheep, etc.) to eat grass that is growing in a field
 		;There were cows grazing beside the river.
 		;graze on something The horses were grazing on the lush grass.
@@ -1228,7 +1231,7 @@ graze		<-->	verb+C2	[220803][1]	./ɡreɪz/-NAmE /ɡreɪz/
 
 
 
-grazier		<-->	noun+C2	[220829][1]	./ˈɡreɪziə(r)/-NAmE /ˈɡreɪʒər/
+grazier		<-->	noun++C2	[220829][001]	./ˈɡreɪziə(r)/-NAmE /ˈɡreɪʒər/
 	;mục đồng -- ​a farmer who keeps animals that eat grass
 		;TOPICS FarmingC2 
 
@@ -1236,7 +1239,7 @@ grazier		<-->	noun+C2	[220829][1]	./ˈɡreɪziə(r)/-NAmE /ˈɡreɪʒər/
 
 
 
-greenhouse		<-->	noun+B2[-0]	./ˈɡriːnhaʊs/-NAmE /ˈɡriːnhaʊs/
+greenhouse		<-->	noun++B2	[221119][001]	./ˈɡriːnhaʊs/-NAmE /ˈɡriːnhaʊs/
 	;nhà kính dùng cho trồng trọt -- [IMAGE]	a building with glass sides and a glass roof for growing plants in
 		;TOPICS BuildingsB2, GardensB2, FarmingB2
 		;Oxford Collocations Dictionary
@@ -1247,7 +1250,7 @@ greenhouse		<-->	noun+B2[-0]	./ˈɡriːnhaʊs/-NAmE /ˈɡriːnhaʊs/
 
 
 
-grow		<-->	verb+A1[-0]	./ɡrəʊ/-NAmE /ɡrəʊ/
+grow		<-->	verb++A1	[221119][001]	./ɡrəʊ/-NAmE /ɡrəʊ/
 	;phát triển -- (of plant)​  [intransitive, transitive] to exist and develop in a particular place; to make plants grow
 		;The region is too dry for plants to grow.
 		;Tomatoes grow best in direct sunlight.
@@ -1273,7 +1276,7 @@ grow		<-->	verb+A1[-0]	./ɡrəʊ/-NAmE /ɡrəʊ/
 
 
 
-growing season		<-->	noun+B2[-0]	./ˈɡrəʊɪŋ siːzn/-NAmE /ˈɡrəʊɪŋ siːzn/
+growing season		<-->	noun++B2	[221119][001]	./ˈɡrəʊɪŋ siːzn/-NAmE /ˈɡrəʊɪŋ siːzn/
 	;thời điểm vào vụ, gieo trồng -- [usually singular] ​the period of the year during which the weather conditions are right for plants to grow
 		;a part of the world with a long growing season
 		;TOPICS FarmingB2
@@ -1282,7 +1285,7 @@ growing season		<-->	noun+B2[-0]	./ˈɡrəʊɪŋ siːzn/-NAmE /ˈɡrəʊɪŋ si�
 
 
 
-hand		<-->	noun+C2	[220829][1]	./hænd/-NAmE /hænd/
+hand		<-->	noun++C2	[220829][001]	./hænd/-NAmE /hænd/
 	;người làm công ở nông trại -- (worker) ​[countable] a person who does physical work on a farm or in a factory
 		;The farmer would bring in hired hands to help him harvest the crop.
 		;SEE ALSO chargehand, farmhand, hired hand, stagehand
@@ -1292,7 +1295,7 @@ hand		<-->	noun+C2	[220829][1]	./hænd/-NAmE /hænd/
 
 
 
-harvest		<-->	noun+C1[-0]	./ˈhɑːvɪst/-NAmE /ˈhɑːrvɪst/\
+harvest		<-->	noun++C1	[221119][001]	./ˈhɑːvɪst/-NAmE /ˈhɑːrvɪst/\
 	;thời vụ -- (Idiooms)​ [countable, uncountable] the time of year when the crops are gathered in on a farm, etc.; the act of cutting and gathering crops
 		;harvest time
 		;Farmers are extremely busy during the harvest.
@@ -1314,7 +1317,7 @@ harvest		<-->	noun+C1[-0]	./ˈhɑːvɪst/-NAmE /ˈhɑːrvɪst/\
 
 
 
-harvest		<-->	verb+C1	[220803][1]	./ˈhɑːvɪst/-NAmE /ˈhɑːrvɪst/
+harvest		<-->	verb++C1	[220803][001]	./ˈhɑːvɪst/-NAmE /ˈhɑːrvɪst/
 	;thu hoạch -- (Veerb Forms) [intransitive, transitive] 
 	;harvest (something): to cut and gather a crop; to catch a number of animals or fish to eat
 		;The nuts are ready to harvest in September.
@@ -1326,7 +1329,7 @@ harvest		<-->	verb+C1	[220803][1]	./ˈhɑːvɪst/-NAmE /ˈhɑːrvɪst/
 
 
 
-hay		<-->	noun+C1[-0]	./heɪ/-NAmE /heɪ/
+hay		<-->	noun++C1	[221119][001]	./heɪ/-NAmE /heɪ/
 	;cỏ, rơm khô - [uncountable] (Idiooms) [IMAGE]	grass that has been cut and dried and is used as food for animals
 		;a bale of hay
 		;COMPARE straw
@@ -1346,7 +1349,7 @@ hay		<-->	noun+C1[-0]	./heɪ/-NAmE /heɪ/
 
 
 
-hayloft		<-->	noun+C2	[220829][1]	./ˈheɪlɒft/-NAmE /ˈheɪlɔːft/
+hayloft		<-->	noun++C2	[220829][001]	./ˈheɪlɒft/-NAmE /ˈheɪlɔːft/
 ​	;nơi chứa cỏ khô -- a place at the top of a farm building used for storing hay
 		;TOPICS FarmingC2
 
@@ -1354,7 +1357,7 @@ hayloft		<-->	noun+C2	[220829][1]	./ˈheɪlɒft/-NAmE /ˈheɪlɔːft/
 
 
 
-haystack		<-->	noun+C2	[220829][1]	./ˈheɪstæk/-NAmE /ˈheɪstæk/
+haystack		<-->	noun++C2	[220829][001]	./ˈheɪstæk/-NAmE /ˈheɪstæk/
 	;cây rơm, cây cỏ khô -- (also less frequent hayrick  /ˈheɪrɪk/  /ˈheɪrɪk/) (Idiooms) [IMAGE] a large pile of hay, used as a way of storing it until it is needed
 		;TOPICS FarmingC2
 
@@ -1362,7 +1365,7 @@ haystack		<-->	noun+C2	[220829][1]	./ˈheɪstæk/-NAmE /ˈheɪstæk/
 
 
 
-hedgerow		<-->	noun+C2	[220829][1]	./ˈhedʒrəʊ/-NAmE /ˈhedʒrəʊ/
+hedgerow		<-->	noun++C2	[220829][001]	./ˈhedʒrəʊ/-NAmE /ˈhedʒrəʊ/
 	;hàng rào cỏ -- [IMAGE]	(especially in the UK) a line of bushes and small trees planted along the edge of a field or road
 		;TOPICS FarmingC2  
 
@@ -1370,7 +1373,7 @@ hedgerow		<-->	noun+C2	[220829][1]	./ˈhedʒrəʊ/-NAmE /ˈhedʒrəʊ/
 
 
 
-herder		<-->	noun+C2	[220829][1]	./ˈhɜːdə(r)/-NAmE /ˈhɜːrdər/
+herder		<-->	noun++C2	[220829][001]	./ˈhɜːdə(r)/-NAmE /ˈhɜːrdər/
 	;người chăn gia súc, mục đồng -- ​a person whose job is to take care of a group of animals such as sheep or cows in the countryside
 		;TOPICS FarmingC2
 		;Oxford Collocations Dictionary
@@ -1381,7 +1384,7 @@ herder		<-->	noun+C2	[220829][1]	./ˈhɜːdə(r)/-NAmE /ˈhɜːrdər/
 
 
 
-hired hand		<-->	noun+C2	[220829][1]	./ˌhaɪəd ˈhænd/-NAmE /ˌhaɪərd ˈhænd/
+hired hand		<-->	noun++C2	[220829][001]	./ˌhaɪəd ˈhænd/-NAmE /ˌhaɪərd ˈhænd/
 	;người làm thuê tay chân -- (North American English) ​a person who is paid to work for a short time on a farm or doing other manual (1) work (= work using their hands or physical strength)
 		;TOPICS FarmingC2
 
@@ -1389,7 +1392,7 @@ hired hand		<-->	noun+C2	[220829][1]	./ˌhaɪəd ˈhænd/-NAmE /ˌhaɪərd ˈhæ
 
 
 
-homestead		<-->	noun+C2	[220829][1]	./ˈhəʊmsted/-NAmE /ˈhəʊmsted/
+homestead		<-->	noun++C2	[220829][001]	./ˈhəʊmsted/-NAmE /ˈhəʊmsted/
 ​	;ấp trại -- a house with the land and buildings around it, especially a farm
 		;What began as a small family homestead is now a 5 000-acre ranch.
 		;TOPICS FarmingC2
@@ -1398,7 +1401,7 @@ homestead		<-->	noun+C2	[220829][1]	./ˈhəʊmsted/-NAmE /ˈhəʊmsted/
 
 
 
-hoof-and-mouth disease		<-->	noun+C2	[220829][1]	./ˌhuːf ən ˈmaʊθ dɪziːz/-NAmE /ˌhuːf ən ˈmaʊθ dɪziːz/
+hoof-and-mouth disease		<-->	noun++C2	[220829][001]	./ˌhuːf ən ˈmaʊθ dɪziːz/-NAmE /ˌhuːf ən ˈmaʊθ dɪziːz/
 	;bệnh lở mồm long móng -- (North American English) (also foot-and-mouth disease, foot-and-mouth both British and North American English) [uncountable] ​a disease of cows, sheep, etc., that causes painful places on the mouth and feet
 		;TOPICS FarmingC2
 
@@ -1406,7 +1409,7 @@ hoof-and-mouth disease		<-->	noun+C2	[220829][1]	./ˌhuːf ən ˈmaʊθ dɪziːz
 
 
 
-husbandry		<-->	noun+C2	[220829][1]	./ˈhʌzbəndri/-NAmE /ˈhʌzbəndri/
+husbandry		<-->	noun++C2	[220829][001]	./ˈhʌzbəndri/-NAmE /ˈhʌzbəndri/
 ​	;việc nông -- farming, especially when done carefully and well
 		;animal/crop husbandry
 		;TOPICS FarmingC2
@@ -1416,7 +1419,7 @@ husbandry		<-->	noun+C2	[220829][1]	./ˈhʌzbəndri/-NAmE /ˈhʌzbəndri/
 
 
 
-insecticide		<-->	noun+C1[-0]	./ɪnˈsektɪsaɪd/-NAmE /ɪnˈsektɪsaɪd/
+insecticide		<-->	noun++C1	[221119][001]	./ɪnˈsektɪsaɪd/-NAmE /ɪnˈsektɪsaɪd/
 	;thuốc bảo vệ thực vật -- [countable, uncountable] ​a chemical used for killing insects
 		;crops sprayed with insecticides
 		;SEE ALSO herbicide, pesticide
@@ -1426,7 +1429,7 @@ insecticide		<-->	noun+C1[-0]	./ɪnˈsektɪsaɪd/-NAmE /ɪnˈsektɪsaɪd/
 
 
 
-intensive		<-->	adjective+C1[-0]	./ɪnˈtensɪv/-NAmE /ɪnˈtensɪv/
+intensive		<-->	adjective++C1	[221119][001]	./ɪnˈtensɪv/-NAmE /ɪnˈtensɪv/
 ​	;quá nhiều việc -- involving a lot of work or activity done in a short time
 		;an intensive language course
 		;two weeks of intensive training
@@ -1444,7 +1447,7 @@ intensive		<-->	adjective+C1[-0]	./ɪnˈtensɪv/-NAmE /ɪnˈtensɪv/
 
 
 
-irrigate		<-->	verb+C2	[220803][1]	./ˈɪrɪɡeɪt/-NAmE /ˈɪrɪɡeɪt/
+irrigate		<-->	verb++C2	[220803][001]	./ˈɪrɪɡeɪt/-NAmE /ˈɪrɪɡeɪt/
 	;tưới -- (Veerb Forms)
 	;<<irrigate, water, spray, ... >>
 	;​irrigate something: to supply water to an area of land, typically through pipes or channels, so that crops will grow
@@ -1456,7 +1459,7 @@ irrigate		<-->	verb+C2	[220803][1]	./ˈɪrɪɡeɪt/-NAmE /ˈɪrɪɡeɪt/
 
 
 
-jackaroo		<-->	noun+C2	[220829][1]	./ˌdʒækəˈruː/-NAmE /ˌdʒækəˈruː/
+jackaroo		<-->	noun++C2	[220829][001]	./ˌdʒækəˈruː/-NAmE /ˌdʒækəˈruː/
 	;một người nam trẻ làm ở nông trại tại Úc -- (plural jackaroos) (Australian English, New Zealand English, informal) ​a young man who is working on a farm in Australia/New Zealand to get experience
 		;COMPARE jillaroo
 		;TOPICS FarmingC2
@@ -1465,7 +1468,7 @@ jackaroo		<-->	noun+C2	[220829][1]	./ˌdʒækəˈruː/-NAmE /ˌdʒækəˈruː/
 
 
 
-jillaroo		<-->	noun+C2	[220829][1]	./ˌdʒɪləˈruː/
+jillaroo		<-->	noun++C2	[220829][001]	./ˌdʒɪləˈruː/
  /ˌdʒɪləˈruː/
 	;một người phụ nữ trẻ làm ở nông trại tại Úc -- (plural jillaroos) (Australian English, informal) ​a young woman who is working on a farm in Australia/New Zealand to get experience
 		;COMPARE jackaroo
@@ -1475,7 +1478,7 @@ jillaroo		<-->	noun+C2	[220829][1]	./ˌdʒɪləˈruː/
 
 
 
-keep		<-->	verb+B2	[220803][1]	./kiːp/-NAmE /kiːp/
+keep		<-->	verb++B2	[220803][001]	./kiːp/-NAmE /kiːp/
 	;giữ, chăn -- (animals) ​[transitive] keep something to own and care for animals
 		;to keep bees/goats/hens
 		;My grandmother kept chickens in her back yard.
@@ -1486,7 +1489,7 @@ keep		<-->	verb+B2	[220803][1]	./kiːp/-NAmE /kiːp/
 
 
 
-laborer		<-->	noun+C1[-0]	./ˈleɪbərə(r)/-NAmE /ˈleɪbərər/
+laborer		<-->	noun++C1	[221119][001]	./ˈleɪbərə(r)/-NAmE /ˈleɪbərər/
 	;người làm thuê nặng nhọc -- (US English) (British English labourer)	​a person whose job involves hard physical work that does not need special skills, especially work that is done outdoors
 		;an agricultural laborer
 		;TOPICS JobsC1, FarmingC1
@@ -1495,7 +1498,7 @@ laborer		<-->	noun+C1[-0]	./ˈleɪbərə(r)/-NAmE /ˈleɪbərər/
 
 
 
-labourer		<-->	noun+C1[-0]	./ˈleɪbərə(r)/-NAmE /ˈleɪbərər/
+labourer		<-->	noun++C1	[221119][001]	./ˈleɪbərə(r)/-NAmE /ˈleɪbərər/
 	;người làm thuê nặng nhọc -- (US English laborer) ​a person whose job involves hard physical work that does not need special skills, especially work that is done outdoors
 		;an agricultural labourer
 		;SEE ALSO bonded labourer, day labourer
@@ -1514,7 +1517,7 @@ labourer		<-->	noun+C1[-0]	./ˈleɪbərə(r)/-NAmE /ˈleɪbərər/
 
 
 
-lamb		<-->	verb+C2	[220803][1]	./læm/-NAmE /læm/
+lamb		<-->	verb++C2	[220803][001]	./læm/-NAmE /læm/
 	;đỡ đẻ cho cừu -- [intransitive] (Veerb Forms) ​(of a sheep) to give birth to a lamb
 		;She’s due to lamb in two weeks’ time.
 		;TOPICS FarmingC2
@@ -1523,7 +1526,7 @@ lamb		<-->	verb+C2	[220803][1]	./læm/-NAmE /læm/
 
 
 
-landowner		<-->	noun+C1[-0]	./ˈlændəʊnə(r)/-NAmE /ˈlændəʊnər/
+landowner		<-->	noun++C1	[221119][001]	./ˈlændəʊnə(r)/-NAmE /ˈlændəʊnər/
 	;chủ đất -- ​a person who owns land, especially a large amount of land
 		;TOPICS FarmingC1
 
@@ -1531,7 +1534,7 @@ landowner		<-->	noun+C1[-0]	./ˈlændəʊnə(r)/-NAmE /ˈlændəʊnər/
 
 
 
-legume		<-->	noun+C2	[220829][1]	./ˈleɡjuːm/,  /lɪˈɡjuːm/-NAmE /ˈleɡjuːm/,  /lɪˈɡjuːm/
+legume		<-->	noun++C2	[220829][001]	./ˈleɡjuːm/,  /lɪˈɡjuːm/-NAmE /ˈleɡjuːm/,  /lɪˈɡjuːm/
 	;cây họ đậu -- (specialist) ​any plant that has seeds in long pods(vỏ (trái, quả)). Peas and beans are legumes.
 		;TOPICS FarmingC2
 
@@ -1539,7 +1542,7 @@ legume		<-->	noun+C2	[220829][1]	./ˈleɡjuːm/,  /lɪˈɡjuːm/-NAmE /ˈleɡju�
 
 
 
-lime		<-->	noun+C2	[220829][1]	./laɪm/-NAmE /laɪm/
+lime		<-->	noun++C2	[220829][001]	./laɪm/-NAmE /laɪm/
 	;Vôi -- ​(also quicklime) [uncountable] a white substance obtained by heating limestone, used in building materials and to help plants grow
 		;SEE ALSO slaked lime(vôi sống, vôi hút nước), soda lime
 		;TOPICS FarmingC2
@@ -1548,7 +1551,7 @@ lime		<-->	noun+C2	[220829][1]	./laɪm/-NAmE /laɪm/
 
 
 
-livestock		<-->	noun+C1[-0]	./ˈlaɪvstɒk/-NAmE /ˈlaɪvstɑːk/
+livestock		<-->	noun++C1	[221119][001]	./ˈlaɪvstɒk/-NAmE /ˈlaɪvstɑːk/
 	;gia súc được nuôi ở trang trại -- [uncountable, plural] [IMAGE]	the animals kept on a farm, for example cows or sheep
 		;Wordfinder: arable, barn, crop, cultivate, dairy, fallow, farm, graze, live, stock, tractor
 		;TOPICS FarmingC1
@@ -1560,7 +1563,7 @@ livestock		<-->	noun+C1[-0]	./ˈlaɪvstɒk/-NAmE /ˈlaɪvstɑːk/
 
 
 
-loam		<-->	noun+C2	[220829][1]	./ləʊm/-NAmE /ləʊm/
+loam		<-->	noun++C2	[220829][001]	./ləʊm/-NAmE /ləʊm/
 	;đất mùn, đất tốt, màu mỡ -- [uncountable] (specialist) ​good quality soil containing sand, clay and decayed vegetable matter
 		;A moist loam is ideal for growing currant bushes.
 		;Mix equal parts of clay and loam.
@@ -1573,7 +1576,7 @@ loam		<-->	noun+C2	[220829][1]	./ləʊm/-NAmE /ləʊm/
 
 
 
-maize		<-->	noun+C1[-0]	./meɪz/-NAmE /meɪz/
+maize		<-->	noun++C1	[221119][001]	./meɪz/-NAmE /meɪz/
 	;bắp -- [uncountable]	[IMAGE]	(British English) (North American English corn)
 		;a tall plant grown for its large yellow grains that are used for making flour or eaten as a vegetable; the grains of this plant
 		;SEE ALSO corn on the cob, sweetcorn
@@ -1583,7 +1586,7 @@ maize		<-->	noun+C1[-0]	./meɪz/-NAmE /meɪz/
 
 
 
-manure		<-->	noun+C2	[220829][1]	./məˈnjʊə(r)/-NAmE /məˈnʊr/
+manure		<-->	noun++C2	[220829][001]	./məˈnjʊə(r)/-NAmE /məˈnʊr/
 	;phân(shit) -- [uncountable] the waste matter from animals that is spread over or mixed with the soil to help plants and crops grow
 		; ~ SYNONYM dung
 		;Dig plenty of well-rotted manure into the soil.
@@ -1601,7 +1604,7 @@ manure		<-->	noun+C2	[220829][1]	./məˈnjʊə(r)/-NAmE /məˈnʊr/
 
 
 
-manure		<-->	verb+C2	[220803][1]	./məˈnjʊə(r)/-NAmE /məˈnʊr/
+manure		<-->	verb++C2	[220803][001]	./məˈnjʊə(r)/-NAmE /məˈnʊr/
 	;bón phân -- (Veerb Forms)
 	;​manure something to put manure on or in soil to help plants grow
 		;TOPICS FarmingC2, GardensC2
@@ -1610,7 +1613,7 @@ manure		<-->	verb+C2	[220803][1]	./məˈnjʊə(r)/-NAmE /məˈnʊr/
 
 
 
-marginal		<-->	adjective+C2[-0]	./ˈmɑːdʒɪnl/-NAmE /ˈmɑːrdʒɪnl/
+marginal		<-->	adjective++C2	[221119][001]	./ˈmɑːdʒɪnl/-NAmE /ˈmɑːrdʒɪnl/
 ​	;không có lời -- (of land) that cannot produce enough good crops to make a profit
 		;TOPICS FarmingC2
 
@@ -1618,7 +1621,7 @@ marginal		<-->	adjective+C2[-0]	./ˈmɑːdʒɪnl/-NAmE /ˈmɑːrdʒɪnl/
 
 
 
-meadow		<-->	noun+C1[-0]	./ˈmedəʊ/-NAmE /ˈmedəʊ/
+meadow		<-->	noun++C1	[221119][001]	./ˈmedəʊ/-NAmE /ˈmedəʊ/
 	;đồng cỏ (khô) -- [IMAGE]	a field covered in grass, used especially for hay
 		;water meadows (= near a river)
 		;Traditional hay meadows are important wildlife areas.
@@ -1633,7 +1636,7 @@ meadow		<-->	noun+C1[-0]	./ˈmedəʊ/-NAmE /ˈmedəʊ/
 
 
 
-meal		<-->	noun+C2	[220829][1]	./miːl/-NAmE /miːl/
+meal		<-->	noun++C2	[220829][001]	./miːl/-NAmE /miːl/
 	;bột ngũ cốc -- [uncountable] (often in compounds) grain that has been made into a powder, used as food for animals and for making flour
 		;TOPICS FarmingC2, FoodC2
 		;SEE ALSO barium meal, bonemeal, mealie meal, oatmeal, wholemeal
@@ -1642,7 +1645,7 @@ meal		<-->	noun+C2	[220829][1]	./miːl/-NAmE /miːl/
 
 
 
-milk		<-->	verb+B2	[220803][1]	./mɪlk/-NAmE /mɪlk/
+milk		<-->	verb++B2	[220803][001]	./mɪlk/-NAmE /mɪlk/
 	;vắt sữa -- (Veerb Forms) (Idiooms) ​milk something to take milk from a cow, goat, etc.
 		;TOPICS FarmingB2
 
@@ -1650,7 +1653,7 @@ milk		<-->	verb+B2	[220803][1]	./mɪlk/-NAmE /mɪlk/
 
 
 
-milking		<-->	noun+C1[-0]	./ˈmɪlkɪŋ/-NAmE /ˈmɪlkɪŋ/
+milking		<-->	noun++C1	[221119][001]	./ˈmɪlkɪŋ/-NAmE /ˈmɪlkɪŋ/
 	;quá trình vắt sữa -- [uncountable] ​the process of taking milk from a cow, etc.
 		;to do the milking
 		;milking machines/sheds
@@ -1663,7 +1666,7 @@ milking		<-->	noun+C1[-0]	./ˈmɪlkɪŋ/-NAmE /ˈmɪlkɪŋ/
 
 
 
-mill		<-->	noun+C1[-0]	./mɪl/-NAmE /mɪl/
+mill		<-->	noun++C1	[221119][001]	./mɪl/-NAmE /mɪl/
 	;nhà máy xay xát/bột, nhà máy -- (Idiooms)​ a building fitted with equipment for grinding grain into flour; a machine for grinding grain
 		;The old mill has been converted into apartments.
 		;The mill can be seen grinding wheat.
@@ -1684,7 +1687,7 @@ mill		<-->	noun+C1[-0]	./mɪl/-NAmE /mɪl/
 
 
 
-monoculture		<-->	noun+C2	[220829][1]	./ˈmɒnəkʌltʃə(r)/-NAmE /ˈmɑːnəkʌltʃər/
+monoculture		<-->	noun++C2	[220829][001]	./ˈmɒnəkʌltʃə(r)/-NAmE /ˈmɑːnəkʌltʃər/
 	;độc canh -- ​[uncountable] the practice of growing only one type of crop on a certain area of land
 		;Wordfinder: blight, cereal, crop, genetically modified, grain, harvest, monoculture, organic, staple, yield
 		;TOPICS FarmingC2
@@ -1693,7 +1696,7 @@ monoculture		<-->	noun+C2	[220829][1]	./ˈmɒnəkʌltʃə(r)/-NAmE /ˈmɑːnək�
 
 
 
-muck		<-->	noun+C2	[220829][1]	./mʌk/-NAmE /mʌk/
+muck		<-->	noun++C2	[220829][001]	./mʌk/-NAmE /mʌk/
 	;phân -- (Idiooms) ​waste matter from farm animals
 		; ~ SYNONYM manure
 		;to spread muck on the fields
@@ -1704,7 +1707,7 @@ muck		<-->	noun+C2	[220829][1]	./mʌk/-NAmE /mʌk/
 
 
 
-nitrate		<-->	noun+C2	[220829][1]	./ˈnaɪtreɪt/-NAmE /ˈnaɪtreɪt/
+nitrate		<-->	noun++C2	[220829][001]	./ˈnaɪtreɪt/-NAmE /ˈnaɪtreɪt/
 	;phân lạnh -- [uncountable, countable] (chemistry) ​a compound containing nitrogen and oxygen. There are several different nitrates and they are used especially to make soil better for growing crops.
 		;We need to cut nitrate levels in water.
 		;TOPICS FarmingC2
@@ -1713,7 +1716,7 @@ nitrate		<-->	noun+C2	[220829][1]	./ˈnaɪtreɪt/-NAmE /ˈnaɪtreɪt/
 
 
 
-oats		<-->	noun+C2	[220829][1]	./əʊts/-NAmE /əʊts/
+oats		<-->	noun++C2	[220829][001]	./əʊts/-NAmE /əʊts/
 	;yến mạch -- [plural] (Idiooms)	[IMAGE]	grain grown in cool countries as food for animals and for making flour, porridge, etc.
 		;SEE ALSO oat
 		;TOPICS FarmingC2, FoodC2
@@ -1730,7 +1733,7 @@ oats		<-->	noun+C2	[220829][1]	./əʊts/-NAmE /əʊts/
 
 
 
-oilseed rape		<-->	noun+C2	[220829][1]	./ˌɔɪlsiːd ˈreɪp/-NAmE /ˌɔɪlsiːd ˈreɪp/
+oilseed rape		<-->	noun++C2	[220829][001]	./ˌɔɪlsiːd ˈreɪp/-NAmE /ˌɔɪlsiːd ˈreɪp/
 	;cải dầu có bông vàng -- (also rape) [uncountable] ​a plant with bright yellow flowers, grown as food for farm animals and for its seeds that are used to make oil
 		;TOPICS FarmingC2
 
@@ -1738,7 +1741,7 @@ oilseed rape		<-->	noun+C2	[220829][1]	./ˌɔɪlsiːd ˈreɪp/-NAmE /ˌɔɪlsiː
 
 
 
-on the hoof		<-->	idiom+C2 
+on the hoof		<-->	idiom++C2 
 	;thịt được bán -- ​meat that is sold, transported, etc. on the hoof is sold, etc. while the cow, sheep, etc. is still alive
 		;TOPICS FarmingC2
 
@@ -1746,7 +1749,7 @@ on the hoof		<-->	idiom+C2
 
 
 
-orchard		<-->	noun+C2	[220829][1]	./ˈɔːtʃəd/-NAmE /ˈɔːrtʃərd/
+orchard		<-->	noun++C2	[220829][001]	./ˈɔːtʃəd/-NAmE /ˈɔːrtʃərd/
 	;vườn cây	[IMAGE]	a piece of land, normally separated from the surrounding area, in which fruit trees are grown
 		;apple orchards
 		;TOPICS FarmingC2
@@ -1758,7 +1761,7 @@ orchard		<-->	noun+C2	[220829][1]	./ˈɔːtʃəd/-NAmE /ˈɔːrtʃərd/
 
 
 
-organic		<-->	adjective+B2[-0]	./ɔːˈɡænɪk/-NAmE /ɔːrˈɡænɪk/
+organic		<-->	adjective++B2	[221119][001]	./ɔːˈɡænɪk/-NAmE /ɔːrˈɡænɪk/
 	;hữu cơ -- [usually before noun]	[IMAGE]	 (of food, farming methods, etc.) produced or practised without using artificial chemicals
 		;organic cheese/vegetables/wine, etc.
 		;an organic farmer/gardener
@@ -1778,7 +1781,7 @@ organic		<-->	adjective+B2[-0]	./ɔːˈɡænɪk/-NAmE /ɔːrˈɡænɪk/
 
 
 
-paddock		<-->	noun+C2	[220829][1]	./ˈpædək/-NAmE /ˈpædək/
+paddock		<-->	noun++C2	[220829][001]	./ˈpædək/-NAmE /ˈpædək/
 	;bãi cỏ thả ngựa -- 	[IMAGE]	a small field in which horses are kept
 		;There was an orchard and a paddock for the horses behind the house.
 		;Wordfinder: bridlegallopharnesshorsepaddockreinstablestirruptackthoroughbred
@@ -1789,7 +1792,7 @@ paddock		<-->	noun+C2	[220829][1]	./ˈpædək/-NAmE /ˈpædək/
 
 
 
-paddy		<-->	noun+C2	[220829][1]	./ˈpædi/-NAmE /ˈpædi/
+paddy		<-->	noun++C2	[220829][001]	./ˈpædi/-NAmE /ˈpædi/
 	;đồng lúa -- (plural paddies) ​(also paddy field) a field in which rice is grown
 		;a rice paddy
 		;TOPICS FarmingC2
@@ -1798,7 +1801,7 @@ paddy		<-->	noun+C2	[220829][1]	./ˈpædi/-NAmE /ˈpædi/
 
 
 
-pasteurization		<-->	noun+C2	[220829][1]	./ˌpɑːstʃəraɪˈzeɪʃn/-NAmE /ˌpæstʃərəˈzeɪʃn/
+pasteurization		<-->	noun++C2	[220829][001]	./ˌpɑːstʃəraɪˈzeɪʃn/-NAmE /ˌpæstʃərəˈzeɪʃn/
 	;quá trình đun nóng để khử khuẩn -- (British English also pasteurisation) [uncountable] ​the process of heating a liquid, especially milk, to a particular temperature and then cooling it, in order to kill harmful bacteria
 		;TOPICS FarmingC2
 
@@ -1806,7 +1809,7 @@ pasteurization		<-->	noun+C2	[220829][1]	./ˌpɑːstʃəraɪˈzeɪʃn/-NAmE /ˌp
 
 
 
-pasteurize		<-->	verb+C2	[220803][1]	./ˈpɑːstʃəraɪz/-NAmE /ˈpæstʃəraɪz/
+pasteurize		<-->	verb++C2	[220803][001]	./ˈpɑːstʃəraɪz/-NAmE /ˈpæstʃəraɪz/
 	;đun nóng khử khuẩn -- (British English also pasteurise) (Veerb Forms) ​pasteurize something to heat a liquid, especially milk, to a particular temperature and then cool it, in order to kill harmful bacteria
 		;pasteurized milk
 		;TOPICS FarmingC2
@@ -1815,7 +1818,7 @@ pasteurize		<-->	verb+C2	[220803][1]	./ˈpɑːstʃəraɪz/-NAmE /ˈpæstʃəraɪ
 
 
 
-pasture		<-->	noun+C2	[220829][1]	./ˈpɑːstʃə(r)/-NAmE /ˈpæstʃər/
+pasture		<-->	noun++C2	[220829][001]	./ˈpɑːstʃə(r)/-NAmE /ˈpæstʃər/
 	;bãi cỏ -- 	[IMAGE]	[uncountable, countable] land covered with grass that is suitable for feeding animals on
 		;an area of permanent/rough/rich pasture
 		;high mountain pastures
@@ -1828,7 +1831,7 @@ pasture		<-->	noun+C2	[220829][1]	./ˈpɑːstʃə(r)/-NAmE /ˈpæstʃər/
 
 
 
-pasture		<-->	verb+C2	[220803][1]	./ˈpɑːstʃə(r)/-NAmE /ˈpæstʃər/
+pasture		<-->	verb++C2	[220803][001]	./ˈpɑːstʃə(r)/-NAmE /ˈpæstʃər/
 	;thả cho ăn cỏ -- (Veerb Forms) ​to put animals in a field to feed on grass
 		;pasture something The villagers relied on the commons for pasturing their sheep.
 		;be pastured on something The cattle were pastured on rich meadow grass.
@@ -1838,7 +1841,7 @@ pasture		<-->	verb+C2	[220803][1]	./ˈpɑːstʃə(r)/-NAmE /ˈpæstʃər/
 
 
 
-peasant		<-->	noun+C1[-0]	./ˈpeznt/-NAmE /ˈpeznt/
+peasant		<-->	noun++C1	[221119][001]	./ˈpeznt/-NAmE /ˈpeznt/
 ​	;tiểu nông -- (especially in the past, or in poorer countries) a farmer who owns or rents a small piece of land
 		;peasant farmers
 		;a peasant family
@@ -1849,7 +1852,7 @@ peasant		<-->	noun+C1[-0]	./ˈpeznt/-NAmE /ˈpeznt/
 
 
 
-pen		<-->	noun+C2	[220829][1]	./pen/-NAmE /pen/
+pen		<-->	noun++C2	[220829][001]	./pen/-NAmE /pen/
 	;khu đất có rào xung quanh -- a small piece of land surrounded by a fence in which farm animals are kept
 		;a sheep pen
 		;TOPICS FarmingC2
@@ -1858,7 +1861,7 @@ pen		<-->	noun+C2	[220829][1]	./pen/-NAmE /pen/
 
 
 
-permaculture		<-->	noun+C2	[220829][1]	./ˈpɜːməkʌltʃə(r)/-NAmE /ˈpɜːrməkʌltʃər/
+permaculture		<-->	noun++C2	[220829][001]	./ˈpɜːməkʌltʃə(r)/-NAmE /ˈpɜːrməkʌltʃər/
 	;cách nuôi trồng -- [uncountable] an approach to life and growing food that copies the way things happen in nature in order to create ways for people to live without damaging the environment
 		;The garden utilizes organic and permaculture gardening principles.
 		;I'm interested in permaculture and implementing sustainable design.
@@ -1868,7 +1871,7 @@ permaculture		<-->	noun+C2	[220829][1]	./ˈpɜːməkʌltʃə(r)/-NAmE /ˈpɜːrm
 
 
 
-pest		<-->	noun+C1[-0]	./pest/-NAmE /pest/
+pest		<-->	noun++C1	[221119][001]	./pest/-NAmE /pest/
 ​	;côn trùng gây hại cho cây trồng -- an insect or animal that destroys plants, food, etc.
 		;insect/plant/garden pests
 		;a pest control officer
@@ -1886,7 +1889,7 @@ pest		<-->	noun+C1[-0]	./pest/-NAmE /pest/
 
 
 
-pesticide		<-->	noun+B2[-0]	./ˈpestɪsaɪd/-NAmE /ˈpestɪsaɪd/
+pesticide		<-->	noun++B2	[221119][001]	./ˈpestɪsaɪd/-NAmE /ˈpestɪsaɪd/
 	;thuốc diệt côn trùng -- [countable, uncountable] ​a chemical used for killing pests, especially insects
 		;vegetables grown without the use of pesticides
 		;crops sprayed with pesticide
@@ -1907,7 +1910,7 @@ pesticide		<-->	noun+B2[-0]	./ˈpestɪsaɪd/-NAmE /ˈpestɪsaɪd/
 
 
 
-pick		<-->	verb+B1	[220803][1]	./pɪk/-NAmE /pɪk/
+pick		<-->	verb++B1	[220803][001]	./pɪk/-NAmE /pɪk/
 	;thu, hái, lượm --   [transitive] pick something to take flowers, fruit, etc. from the plant or the tree where they are growing
 		;to pick grapes/strawberries/cotton
 		;flowers freshly picked from the garden
@@ -1922,7 +1925,7 @@ pick		<-->	verb+B1	[220803][1]	./pɪk/-NAmE /pɪk/
 
 
 
-picker		<-->	noun+C2	[220829][1]	./ˈpɪkə(r)/-NAmE /ˈpɪkər/
+picker		<-->	noun++C2	[220829][001]	./ˈpɪkə(r)/-NAmE /ˈpɪkər/
 ​	;thu, hái, lượm --   a person or machine that picks flowers, vegetables, etc.
 		;cotton pickers
 		;TOPICS FarmingC2
@@ -1934,7 +1937,7 @@ picker		<-->	noun+C2	[220829][1]	./ˈpɪkə(r)/-NAmE /ˈpɪkər/
 
 
 
-pigsty		<-->	noun+C2	[220829][1]	./ˈpɪɡstaɪ/-NAmE /ˈpɪɡstaɪ/
+pigsty		<-->	noun++C2	[220829][001]	./ˈpɪɡstaɪ/-NAmE /ˈpɪɡstaɪ/
 	;chuồng heo -- (also sty) (plural pigsties) (North American English also pigpen  /ˈpɪɡpen/  /ˈpɪɡpen/) ​[countable] a small building or area where pigs are kept
 		;TOPICS BuildingsC2, FarmingC2
 
@@ -1942,7 +1945,7 @@ pigsty		<-->	noun+C2	[220829][1]	./ˈpɪɡstaɪ/-NAmE /ˈpɪɡstaɪ/
 
 
 
-plant		<-->	verb+A2[-0]	./plɑːnt/-NAmE /plænt/
+plant		<-->	verb++A2	[221119][001]	./plɑːnt/-NAmE /plænt/
 	;trồng trọt, gieo hạt -- (Veerb Forms) (Phrasal Veerbs) (seeds/plants)​  plant something to put plants, seeds, etc. in the ground to grow
 		;to plant a tree/seed/crop
 		;to plant and harvest rice
@@ -1975,7 +1978,7 @@ plant		<-->	verb+A2[-0]	./plɑːnt/-NAmE /plænt/
 
 
 
-plantation		<-->	noun+C1[-0]	./plɑːnˈteɪʃn/-NAmE /plænˈteɪʃn/
+plantation		<-->	noun++C1	[221119][001]	./plɑːnˈteɪʃn/-NAmE /plænˈteɪʃn/
 	;vùng đất trồng cây cà phê, cao su, ... ; đồn điền -- ​a large area of land, especially in a hot country, where crops such as coffee, sugar, rubber, etc. are grown
 		;a banana/coffee plantation
 		;plantation workers/owners
@@ -1993,7 +1996,7 @@ plantation		<-->	noun+C1[-0]	./plɑːnˈteɪʃn/-NAmE /plænˈteɪʃn/
 
 
 
-planter		<-->	noun+C1[-0]	./ˈplɑːntə(r)/-NAmE /ˈplæntər/
+planter		<-->	noun++C1	[221119][001]	./ˈplɑːntə(r)/-NAmE /ˈplæntər/
 	;thùng, chậu trồng hoa -- [IMAGE]	an attractive container to grow a plant in
 		;TOPICS GardensC1
 	;người quản lý đồn điền -- a person who owns or manages a plantation in a tropical country
@@ -2006,7 +2009,7 @@ planter		<-->	noun+C1[-0]	./ˈplɑːntə(r)/-NAmE /ˈplæntər/
 
 
 
-plough		<-->	noun+C2	[220829][1]	./plaʊ/-NAmE /plaʊ/
+plough		<-->	noun++C2	[220829][001]	./plaʊ/-NAmE /plaʊ/
 	;cái cày -- (British English) (North American English plow) (Idiooms) ​[countable] a large piece of farming equipment with one or several curved blades (= metal cutting parts), pulled by a tractor or by animals. It is used for digging and turning over soil, especially before seeds are planted.
 		;Oxen were used to pull ploughs.
 		;SEE ALSO snowplough
@@ -2023,7 +2026,7 @@ plough		<-->	noun+C2	[220829][1]	./plaʊ/-NAmE /plaʊ/
 
 
 
-plough		<-->	verb+C2	[220803][1]	./plaʊ/-NAmE /plaʊ/
+plough		<-->	verb++C2	[220803][001]	./plaʊ/-NAmE /plaʊ/
 	;cày -- (British English) (North American English plow) [transitive, intransitive] (Veerb Forms)(Idiooms) (Phrasal Veerbs) 
 	;​plough (something) to dig and turn over a field or other area of land with a plough
 		;ploughed fields
@@ -2034,7 +2037,7 @@ plough		<-->	verb+C2	[220803][1]	./plaʊ/-NAmE /plaʊ/
 
 
 
-plough back		<-->	phrasal verb+C2
+plough back		<-->	phrasal verb++C2
 	;cày lên -- 
 	;plough something  back (in/into something) | plough something  back in
 ​	;to turn over growing crops, grass, etc. with a plough and mix them into the soil to improve its quality
@@ -2044,7 +2047,7 @@ plough back		<-->	phrasal verb+C2
 
 
 
-plough back in		<-->	phrasal verb+C2
+plough back in		<-->	phrasal verb++C2
 	;cày lên -- 
 	;plough something  back (in/into something) | plough something  back in
 ​	;to turn over growing crops, grass, etc. with a plough and mix them into the soil to improve its quality
@@ -2054,7 +2057,7 @@ plough back in		<-->	phrasal verb+C2
 
 
 
-ploughman		<-->	noun+C2	[220829][1]	./ˈplaʊmən/-NAmE /ˈplaʊmən/
+ploughman		<-->	noun++C2	[220829][001]	./ˈplaʊmən/-NAmE /ˈplaʊmən/
 	;thợ lái máy cày -- (British English) (North American English plowman) (plural ploughmen  /ˈplaʊmən/  /ˈplaʊmən/)
 ​	;a man whose job is guiding a plough, especially one pulled by animals
 		;TOPICS FarmingC2
@@ -2063,7 +2066,7 @@ ploughman		<-->	noun+C2	[220829][1]	./ˈplaʊmən/-NAmE /ˈplaʊmən/
 
 
 
-plough up		<-->	phrasal verb+C2
+plough up		<-->	phrasal verb++C2
 	;cày lên -- 
 	;plough something  up
 ​	;to turn over a field or other area of land with a plough to change it from grass, for example, to land for growing crops
@@ -2073,7 +2076,7 @@ plough up		<-->	phrasal verb+C2
 
 
 
-plow		<-->	noun+C2	[220829][1]	./plaʊ/-NAmE /plaʊ/
+plow		<-->	noun++C2	[220829][001]	./plaʊ/-NAmE /plaʊ/
 	;lưỡi cày -- (North American English) (British English plough) ​a large piece of farming equipment with one or several curved blades, (= metal cutting parts) pulled by a tractor or by animals. It is used for digging and turning over soil, especially before seeds are planted.
 		;TOPICS FarmingC2
 
@@ -2081,7 +2084,7 @@ plow		<-->	noun+C2	[220829][1]	./plaʊ/-NAmE /plaʊ/
 
 
 
-plow		<-->	verb+C2	[220803][1]	./plaʊ/-NAmE /plaʊ/
+plow		<-->	verb++C2	[220803][001]	./plaʊ/-NAmE /plaʊ/
 	;cày -- (North American English) (British English plough) [transitive, intransitive] (Veerb Forms) (Idiooms) (Phrasal Veerbs)
 ​	;plow something: to dig and turn over a field or other area of land with a plow
 		;plowed fields
@@ -2091,7 +2094,7 @@ plow		<-->	verb+C2	[220803][1]	./plaʊ/-NAmE /plaʊ/
 
 
 
-polytunnel		<-->	noun+C2	[220829][1]	./ˈpɒlitʌnl/-NAmE /ˈpɑːlitʌnl/
+polytunnel		<-->	noun++C2	[220829][001]	./ˈpɒlitʌnl/-NAmE /ˈpɑːlitʌnl/
 	;máy vòm cong dành cho trồng cây trong nhà -- [IMAGE]	a long low structure covered with plastic, used for growing seeds or young plants outdoors
 		;TOPICS FarmingC2
 
@@ -2099,7 +2102,7 @@ polytunnel		<-->	noun+C2	[220829][1]	./ˈpɒlitʌnl/-NAmE /ˈpɑːlitʌnl/
 
 
 
-produce		<-->	verb+A2[-0]	./prəˈdjuːs/-NAmE /prəˈduːs/
+produce		<-->	verb++A2	[221119][001]	./prəˈdjuːs/-NAmE /prəˈduːs/
 	;sản xuất -- (make naturally)​  produce something to grow or make something as part of a natural process; to have a baby or young animal
 		;The region produces over 50 per cent of the country's wheat.
 		;I would like to find out more about how our food is produced.
@@ -2123,7 +2126,7 @@ produce		<-->	verb+A2[-0]	./prəˈdjuːs/-NAmE /prəˈduːs/
 
 
 
-produce		<-->	noun+B2[-0]	./ˈprɒdjuːs/-NAmE /ˈprəʊduːs/,  /ˈprɑːduːs/
+produce		<-->	noun++B2	[221119][001]	./ˈprɒdjuːs/-NAmE /ˈprəʊduːs/,  /ˈprɑːduːs/
 	;Word Family
 	---
 		;produce verb
@@ -2151,7 +2154,7 @@ produce		<-->	noun+B2[-0]	./ˈprɒdjuːs/-NAmE /ˈprəʊduːs/,  /ˈprɑːduːs/
 
 
 
-producer		<-->	noun+B1	[220803][1]	./prəˈdjuːsə(r)/-NAmE /prəˈduːsər/
+producer		<-->	noun++B1	[220803][001]	./prəˈdjuːsə(r)/-NAmE /prəˈduːsər/
 	;nhà sản xuất -- (Word Family)​  a person, a company or a country that grows or makes food, goods or materials
 		;French wine producers
 		;Libya is a major oil producer.
@@ -2168,7 +2171,7 @@ producer		<-->	noun+B1	[220803][1]	./prəˈdjuːsə(r)/-NAmE /prəˈduːsər/
 
 
 
-productive		<-->	adjective+C1[-0]	./prəˈdʌktɪv/-NAmE /prəˈdʌktɪv/
+productive		<-->	adjective++C1	[221119][001]	./prəˈdʌktɪv/-NAmE /prəˈdʌktɪv/
 	;phong phú -- (Word Family)​ making goods or growing crops, especially in large quantities
 		;highly productive farming land
 		;productive workers
@@ -2186,7 +2189,7 @@ productive		<-->	adjective+C1[-0]	./prəˈdʌktɪv/-NAmE /prəˈdʌktɪv/
 
 
 
-pulse		<-->	noun+C2	[220829][1]	./pʌls/-NAmE /pʌls/
+pulse		<-->	noun++C2	[220829][001]	./pʌls/-NAmE /pʌls/
 	;hạt ăn được như đậu -- pulses [plural] the seeds of some plants that are eaten as food, such as peas and lentils
 		;Pulses are a good source of protein.
 		;TOPICS FoodC2, FarmingC2
@@ -2201,7 +2204,7 @@ pulse		<-->	noun+C2	[220829][1]	./pʌls/-NAmE /pʌls/
 
 
 
-raise		<-->	verb+C1	[220803][1]	./reɪz/-NAmE /reɪz/
+raise		<-->	verb++C1	[220803][001]	./reɪz/-NAmE /reɪz/
 	;nhân giống, tăng số lượng -- (farm animals/crops)
 ​	;raise something: to breed (= keep and produce young from) particular farm animals; to grow particular crops
 		;Farmers cleared the land in order to raise cattle.
@@ -2213,7 +2216,7 @@ raise		<-->	verb+C1	[220803][1]	./reɪz/-NAmE /reɪz/
 
 
 
-ranch		<-->	noun+B1	[220803][1]	./rɑːntʃ/-NAmE /ræntʃ/
+ranch		<-->	noun++B1	[220803][001]	./rɑːntʃ/-NAmE /ræntʃ/
 	;trại giống gia súc lớn -- (Idiooms) ​a large farm, especially in North America or Australia, where cows, horses, sheep, etc. are bred (= kept in order to produce young)
 		;a cattle/sheep ranch
 		;ranch hands (= the people who work on a ranch)
@@ -2227,7 +2230,7 @@ ranch		<-->	noun+B1	[220803][1]	./rɑːntʃ/-NAmE /ræntʃ/
 
 
 
-rancher		<-->	noun+C2	[220829][1]	./ˈrɑːntʃə(r)/-NAmE /ˈræntʃər/
+rancher		<-->	noun++C2	[220829][001]	./ˈrɑːntʃə(r)/-NAmE /ˈræntʃər/
 ​	;người quản lý trại giống -- a person who owns, manages or works on a ranch
 		;a cattle rancher
 		;TOPICS FarmingC2
@@ -2239,7 +2242,7 @@ rancher		<-->	noun+C2	[220829][1]	./ˈrɑːntʃə(r)/-NAmE /ˈræntʃər/
 
 
 
-rape		<-->	noun+C2	[220829][1]	./reɪp/-NAmE /reɪp/
+rape		<-->	noun++C2	[220829][001]	./reɪp/-NAmE /reɪp/
 	;cải dầu -- (also oilseed rape) [uncountable] a plant with bright yellow flowers, grown as food for farm animals and for its seeds that are used to make oil
 		;a field of rape
 		;refined rape oil
@@ -2249,7 +2252,7 @@ rape		<-->	noun+C2	[220829][1]	./reɪp/-NAmE /reɪp/
 
 
 
-rapeseed		<-->	noun+C2	[220829][1]	./ˈreɪpsiːd/-NAmE /ˈreɪpsiːd/
+rapeseed		<-->	noun++C2	[220829][001]	./ˈreɪpsiːd/-NAmE /ˈreɪpsiːd/
 	;hạt cải dầu -- [uncountable] ​seeds of the rape plant, used mainly for cooking oil
 		;SEE ALSO canola
 		;TOPICS FarmingC2
@@ -2258,7 +2261,7 @@ rapeseed		<-->	noun+C2	[220829][1]	./ˈreɪpsiːd/-NAmE /ˈreɪpsiːd/
 
 
 
-reap		<-->	verb+C1	[220803][1]	./riːp/-NAmE /riːp/
+reap		<-->	verb++C1	[220803][001]	./riːp/-NAmE /riːp/
 	;thu hoạch -- 
 	;[intransitive, transitive] reap (something) to cut and collect a crop, especially wheat, from a field
 		;SYNONYM harvest
@@ -2268,7 +2271,7 @@ reap		<-->	verb+C1	[220803][1]	./riːp/-NAmE /riːp/
 
 
 
-reaper		<-->	noun+C2	[220829][1]	./ˈriːpə(r)/-NAmE /ˈriːpər/
+reaper		<-->	noun++C2	[220829][001]	./ˈriːpə(r)/-NAmE /ˈriːpər/
 	;người hoặc máy thu hoạch -- ​a person or a machine that cuts and collects crops on a farm
 		;SEE ALSO Grim Reaper
 		;TOPICS FarmingC2 
@@ -2277,7 +2280,7 @@ reaper		<-->	noun+C2	[220829][1]	./ˈriːpə(r)/-NAmE /ˈriːpər/
 
 
 
-rear		<-->	verb+C2	[220803][1]	./rɪə(r)/-NAmE /rɪr/
+rear		<-->	verb++C2	[220803][001]	./rɪə(r)/-NAmE /rɪr/
 	;nuôi và nhân giống -- ​[transitive] rear something to: keep and breed (= produce young from) animals or birds, for example on a farm
 		;to rear cattle
 		;Extra Examples
@@ -2290,7 +2293,7 @@ rear		<-->	verb+C2	[220803][1]	./rɪə(r)/-NAmE /rɪr/
 
 
 
-rice		<-->	noun+A1[-0]	./raɪs/-NAmE /raɪs/
+rice		<-->	noun++A1	[221119][001]	./raɪs/-NAmE /raɪs/
 	;lúa -- [uncountable]	[IMAGE]	short, narrow white or brown grain grown on wet land in hot countries as food; the plant that produces this grain
 		;a grain of rice
 		;boiled/steamed/fried rice
@@ -2318,7 +2321,7 @@ rice		<-->	noun+A1[-0]	./raɪs/-NAmE /raɪs/
 
 
 
-ripe		<-->	adjective+C1[-0]	./raɪp/-NAmE /raɪp/
+ripe		<-->	adjective++C1	[221119][001]	./raɪp/-NAmE /raɪp/
 	;chín, có thể thu hoạch -- (comparative riper, superlative ripest) (Idiooms)
 ​		;(of fruit or crops) fully grown and ready to be eaten
 		;Pick the tomatoes before they get too ripe.
@@ -2337,7 +2340,7 @@ ripe		<-->	adjective+C1[-0]	./raɪp/-NAmE /raɪp/
 
 
 
-rotation		<-->	noun+C1[-0]	./rəʊˈteɪʃn/-NAmE /rəʊˈteɪʃn/
+rotation		<-->	noun++C1	[221119][001]	./rəʊˈteɪʃn/-NAmE /rəʊˈteɪʃn/
 	;xoay vòng -- [uncountable, countable] the act of regularly changing the thing that is being used in a particular situation, or of changing the person who does a particular job
 		;crop rotation/the rotation of crops (= changing the crop that is grown on an area of land in order to protect the soil)
 		;job rotation (= the practice of regularly changing the job that a particular person does so that they become experienced in different areas)
@@ -2349,7 +2352,7 @@ rotation		<-->	noun+C1[-0]	./rəʊˈteɪʃn/-NAmE /rəʊˈteɪʃn/
 
 
 
-run		<-->	noun+C2	[220829][1]	./rʌn/-NAmE /rʌn/\
+run		<-->	noun++C2	[220829][001]	./rʌn/-NAmE /rʌn/\
 	;khu đất có rào, chắn -- (for animals/birds) ​[countable] (often in compounds) an area with a fence, walls, etc. in which animals or birds are kept as pets or on a farm
 		;a chicken run
 		;TOPICS FarmingC2
@@ -2358,7 +2361,7 @@ run		<-->	noun+C2	[220829][1]	./rʌn/-NAmE /rʌn/\
 
 
 
-runt		<-->	noun+C2	[220829][1]	./rʌnt/-NAmE /rʌnt/
+runt		<-->	noun++C2	[220829][001]	./rʌnt/-NAmE /rʌnt/
 ​	;con non, lứa -- the smallest, weakest animal of the young that are born from the same mother at the same time
 		;the runt of the litter(lứa)
 		;TOPICS FarmingC2
@@ -2367,7 +2370,7 @@ runt		<-->	noun+C2	[220829][1]	./rʌnt/-NAmE /rʌnt/
 
 
 
-rustler		<-->	noun+C2	[220829][1]	./ˈrʌslə(r)/-NAmE /ˈrʌslər/
+rustler		<-->	noun++C2	[220829][001]	./ˈrʌslə(r)/-NAmE /ˈrʌslər/
 	;kẻ trộm gia súc -- ​a person who steals farm animals
 		;He was shot dead trying to stop cattle rustlers raiding a farm.
 		;TOPICS FarmingC2, Crime and punishmentC2
@@ -2379,7 +2382,7 @@ rustler		<-->	noun+C2	[220829][1]	./ˈrʌslə(r)/-NAmE /ˈrʌslər/
 
 
 
-rye		<-->	noun+C2	[220829][1]	./raɪ/-NAmE /raɪ/
+rye		<-->	noun++C2	[220829][001]	./raɪ/-NAmE /raɪ/
 	;lúa mạch đen -- [uncountable] [IMAGE]	a plant that looks like barley but that produces larger grain, grown as food for animals and for making flour and whisky; the grain of this plant
 		;rye bread
 		;rye whisky
@@ -2392,7 +2395,7 @@ rye		<-->	noun+C2	[220829][1]	./raɪ/-NAmE /raɪ/
 
 
 
-scarecrow		<-->	noun+C2	[220829][1]	./ˈskeəkrəʊ/-NAmE /ˈskerkrəʊ/
+scarecrow		<-->	noun++C2	[220829][001]	./ˈskeəkrəʊ/-NAmE /ˈskerkrəʊ/
 	;người nộm -- ​a figure made to look like a person, that is dressed in old clothes and put in a field to frighten birds away	
 		;TOPICS FarmingC2
 
@@ -2400,7 +2403,7 @@ scarecrow		<-->	noun+C2	[220829][1]	./ˈskeəkrəʊ/-NAmE /ˈskerkrəʊ/
 
 
 
-seed		<-->	noun+B1	[220803][1]	./siːd/-NAmE /siːd/\
+seed		<-->	noun++B1	[220803][001]	./siːd/-NAmE /siːd/\
 	;hạt -- (Idiooms) (of plants/fruit) [IMAGE]	  [countable, uncountable] the small hard part produced by a plant, from which a new plant can grow
 		;a packet of wild flower seeds
 		;sesame seeds
@@ -2472,7 +2475,7 @@ seed		<-->	noun+B1	[220803][1]	./siːd/-NAmE /siːd/\
 
 
 
-serf		<-->	noun+C2	[220829][1]	./sɜːf/-NAmE /sɜːrf/
+serf		<-->	noun++C2	[220829][001]	./sɜːf/-NAmE /sɜːrf/
 ​	;nông nô -- (in the past) a person who was forced to live and work on land that belonged to a landowner whom they had to obey
 		;Culture feudalism
 		;TOPICS FarmingC2
@@ -2481,7 +2484,7 @@ serf		<-->	noun+C2	[220829][1]	./sɜːf/-NAmE /sɜːrf/
 
 
 
-sharecropper		<-->	noun+C2	[220829][1]	./ˈʃeəkrɒpə(r)/-NAmE /ˈʃerkrɑːpər/
+sharecropper		<-->	noun++C2	[220829][001]	./ˈʃeəkrɒpə(r)/-NAmE /ˈʃerkrɑːpər/
 	;tá điền -- (especially North American English) ​a farmer who gives part of their crop as rent to the owner of the land
 		;Culture
 		;TOPICS FarmingC2
@@ -2490,7 +2493,7 @@ sharecropper		<-->	noun+C2	[220829][1]	./ˈʃeəkrɒpə(r)/-NAmE /ˈʃerkrɑːp�
 
 
 
-shear		<-->	verb+C2	[220803][1]	./ʃɪə(r)/-NAmE /ʃɪr/
+shear		<-->	verb++C2	[220803][001]	./ʃɪə(r)/-NAmE /ʃɪr/
 	;hớt/xén lông cừu -- (Veerb Forms) (Phrasal Veerbs) [transitive] 
 	;shear something to cut the wool off a sheep
 		;It was time for the sheep to be shorn.
@@ -2501,7 +2504,7 @@ shear		<-->	verb+C2	[220803][1]	./ʃɪə(r)/-NAmE /ʃɪr/
 
 
 
-shed		<-->	noun+C1[-0]	./ʃed/-NAmE /ʃed/
+shed		<-->	noun++C1	[221119][001]	./ʃed/-NAmE /ʃed/
 	;​nhà xén lông cừu -- (Australian English, New Zealand English) a building with open sides where the wool is cut off sheep (= they are sheared) or where cows are milked
 		;TOPICS FarmingC1
 		;Oxford Collocations Dictionary
@@ -2512,7 +2515,7 @@ shed		<-->	noun+C1[-0]	./ʃed/-NAmE /ʃed/
 
 
 
-sheep dip		<-->	noun+C2	[220829][1]	./ˈʃiːp dɪp/-NAmE /ˈʃiːp dɪp/
+sheep dip		<-->	noun++C2	[220829][001]	./ˈʃiːp dɪp/-NAmE /ˈʃiːp dɪp/
 	;chất diệt công trùng cho áo lông -- [uncountable, countable] ​a liquid which is used to kill insects, etc. in a sheep’s coat; the container in which sheep are put to treat them with this
 		;TOPICS FarmingC2 
 
@@ -2520,7 +2523,7 @@ sheep dip		<-->	noun+C2	[220829][1]	./ˈʃiːp dɪp/-NAmE /ˈʃiːp dɪp/
 
 
 
-sheepfold		<-->	noun+C2	[220829][1]	./ˈʃiːpfəʊld/-NAmE /ˈʃiːpfəʊld/
+sheepfold		<-->	noun++C2	[220829][001]	./ˈʃiːpfəʊld/-NAmE /ˈʃiːpfəʊld/
 ​	;trại cừu -- an area in a field surrounded by a fence or wall where sheep are kept for safety
 		;TOPICS FarmingC2
 
@@ -2528,7 +2531,7 @@ sheepfold		<-->	noun+C2	[220829][1]	./ˈʃiːpfəʊld/-NAmE /ˈʃiːpfəʊld/
 
 
 
-sheepherder		<-->	noun+C2	[220829][1]	./ˈʃiːphɜːdə(r)/-NAmE /ˈʃiːphɜːrdər/
+sheepherder		<-->	noun++C2	[220829][001]	./ˈʃiːphɜːdə(r)/-NAmE /ˈʃiːphɜːrdər/
 	;người chăn cừu -- (North American English) (also shepherd British and North American English)
 ​		;a person whose job is to take care of sheep
 		;TOPICS JobsC2, FarmingC2
@@ -2537,7 +2540,7 @@ sheepherder		<-->	noun+C2	[220829][1]	./ˈʃiːphɜːdə(r)/-NAmE /ˈʃiːphɜː
 
 
 
-shepherd		<-->	noun+C1[-0]	./ˈʃepəd/-NAmE /ˈʃepərd/
+shepherd		<-->	noun++C1	[221119][001]	./ˈʃepəd/-NAmE /ˈʃepərd/
 	;người chăn cừu -- (North American English also sheepherder)
 ​		;a person whose job is to take care of sheep
 		;TOPICS JobsC1, FarmingC1
@@ -2546,7 +2549,7 @@ shepherd		<-->	noun+C1[-0]	./ˈʃepəd/-NAmE /ˈʃepərd/
 
 
 
-silage		<-->	noun+C2	[220829][1]	./ˈsaɪlɪdʒ/-NAmE /ˈsaɪlɪdʒ/
+silage		<-->	noun++C2	[220829][001]	./ˈsaɪlɪdʒ/-NAmE /ˈsaɪlɪdʒ/
 	;cỏ ủ -- [uncountable] ​grass or other green crops that are stored without being dried and are used to feed farm animals in winter
 		;TOPICS FarmingC2
 
@@ -2554,7 +2557,7 @@ silage		<-->	noun+C2	[220829][1]	./ˈsaɪlɪdʒ/-NAmE /ˈsaɪlɪdʒ/
 
 
 
-silo		<-->	noun+C2	[220829][1]	./ˈsaɪləʊ/-NAmE /ˈsaɪləʊ/ [ap]
+silo		<-->	noun++C2	[220829][001]	./ˈsaɪləʊ/-NAmE /ˈsaɪləʊ/ [ap]
 	;tháp chứa ngũ cốc -- (plural silos) [IMAGE]	a tall tower on a farm used for storing grain, etc.
 		;In modern mills, grain is stored in silos which are often separate from the mill.
 		;The grass is cut for hay, then some of it is stored in silos.
@@ -2564,7 +2567,7 @@ silo		<-->	noun+C2	[220829][1]	./ˈsaɪləʊ/-NAmE /ˈsaɪləʊ/ [ap]
 
 
 
-slaughter		<-->	noun+C2	[220829][1]	./ˈslɔːtə(r)/-NAmE /ˈslɔːtər/
+slaughter		<-->	noun++C2	[220829][001]	./ˈslɔːtə(r)/-NAmE /ˈslɔːtər/
 	;việc giết mổ lấy thịt -- [uncountable] (Idiooms) ​the killing of animals for their meat
 		;cows taken for slaughter
 		;Extra Examples:
@@ -2587,7 +2590,7 @@ slaughter		<-->	noun+C2	[220829][1]	./ˈslɔːtə(r)/-NAmE /ˈslɔːtər/
 
 
 
-slaughter		<-->	verb+C2	[220803][1]	./ˈslɔːtə(r)/-NAmE /ˈslɔːtər/\
+slaughter		<-->	verb++C2	[220803][001]	./ˈslɔːtə(r)/-NAmE /ˈslɔːtər/\
 	;giết mổ -- [often passive] (Veerb Forms)
 	;​slaughter something: to kill an animal, usually for its meat
 		; ~ SYNONYM butcher
@@ -2607,7 +2610,7 @@ slaughter		<-->	verb+C2	[220803][1]	./ˈslɔːtə(r)/-NAmE /ˈslɔːtər/\
 
 
 
-slaughterhouse		<-->	noun+C2	[220829][1]	./ˈslɔːtəhaʊs/-NAmE /ˈslɔːtərhaʊs/
+slaughterhouse		<-->	noun++C2	[220829][001]	./ˈslɔːtəhaʊs/-NAmE /ˈslɔːtərhaʊs/
 	;lò mổ -- (British English also abattoir) ​a building where animals are killed for food
 		;TOPICS BuildingsC2, FarmingC2
 		;Oxford Collocations Dictionary
@@ -2618,7 +2621,7 @@ slaughterhouse		<-->	noun+C2	[220829][1]	./ˈslɔːtəhaʊs/-NAmE /ˈslɔːtərh
 
 
 
-soil		<-->	noun+B1	[220803][1]	./sɔɪl/-NAmE /sɔɪl/
+soil		<-->	noun++B1	[220803][001]	./sɔɪl/-NAmE /sɔɪl/
 	;Đất mặt -- [uncountable, countable]​  the top layer of the earth in which plants, trees, etc. grow
 		;instruments for measuring soil moisture
 		;soil erosion
@@ -2647,7 +2650,7 @@ soil		<-->	noun+B1	[220803][1]	./sɔɪl/-NAmE /sɔɪl/
 
 
 
-sorghum		<-->	noun+C2	[220829][1]	./ˈsɔːɡəm/-NAmE /ˈsɔːrɡəm/
+sorghum		<-->	noun++C2	[220829][001]	./ˈsɔːɡəm/-NAmE /ˈsɔːrɡəm/
 	;cây bo bo [uncountable] ​very small grain grown as food in tropical countries; the plant that produces this grain
 		;TOPICS FarmingC2
 
@@ -2655,7 +2658,7 @@ sorghum		<-->	noun+C2	[220829][1]	./ˈsɔːɡəm/-NAmE /ˈsɔːrɡəm/
 
 
 
-sow		<-->	verb+C2	[220803][1]	./səʊ/-NAmE /səʊ/
+sow		<-->	verb++C2	[220803][001]	./səʊ/-NAmE /səʊ/
 	;gieo trồng -- (Veerb Forms) (Idiooms) ​[transitive, intransitive] to plant or spread seeds in or on the ground
 		;sow (something) Sow the seeds in rows.
 		;Sow the seeds quite thinly.
@@ -2676,7 +2679,7 @@ sow		<-->	verb+C2	[220803][1]	./səʊ/-NAmE /səʊ/
 
 
 
-sower		<-->	noun+C2	[220829][1]	./ˈsəʊə(r)/-NAmE /ˈsəʊər/
+sower		<-->	noun++C2	[220829][001]	./ˈsəʊə(r)/-NAmE /ˈsəʊər/
 ​	;người hoặc máy gieo -- a person or machine that puts seeds in the ground
 		;TOPICS FarmingC2		
 
@@ -2684,7 +2687,7 @@ sower		<-->	noun+C2	[220829][1]	./ˈsəʊə(r)/-NAmE /ˈsəʊər/
 
 
 
-soya		<-->	noun+C1[-0]	./ˈsɔɪə/-NAmE /ˈsɔɪə/
+soya		<-->	noun++C1	[221119][001]	./ˈsɔɪə/-NAmE /ˈsɔɪə/
 	;cây đậu nành -- (British English) (North American English soy  /sɔɪ/  /sɔɪ/) [uncountable] ​the plant on which soya beans grow; the food obtained from soya beans
 		;a soya crop
 		;soya flour
@@ -2697,7 +2700,7 @@ soya		<-->	noun+C1[-0]	./ˈsɔɪə/-NAmE /ˈsɔɪə/
 
 
 
-spray		<-->	verb+C1	[220803][1]	./spreɪ/-NAmE /spreɪ/
+spray		<-->	verb++C1	[220803][001]	./spreɪ/-NAmE /spreɪ/
 	;phun xịt -- (Veerb Forms) ​[transitive, intransitive] to cover somebody/something with very small drops of a liquid that are forced out of a container or sent through the air
 		;spray (something) (on/onto/over somebody/something) Spray the conditioner onto your wet hair.
 		;Champagne sprayed everywhere.
@@ -2709,7 +2712,7 @@ spray		<-->	verb+C1	[220803][1]	./spreɪ/-NAmE /spreɪ/
 
 
 
-sprayer		<-->	noun+C2	[220829][1]	./ˈspreɪə(r)/-NAmE /ˈspreɪər/
+sprayer		<-->	noun++C2	[220829][001]	./ˈspreɪə(r)/-NAmE /ˈspreɪər/
 	;máy xịt, bình xịt -- a piece of equipment used for spraying liquid, especially paint or a substance used to kill insects that damage crops
 		;a paint/crop sprayer
 		;TOPICS FarmingC2
@@ -2718,7 +2721,7 @@ sprayer		<-->	noun+C2	[220829][1]	./ˈspreɪə(r)/-NAmE /ˈspreɪər/
 
 
 
-sprinkler		<-->	noun+C2	[220829][1]	./ˈsprɪŋklə(r)/-NAmE /ˈsprɪŋklər/
+sprinkler		<-->	noun++C2	[220829][001]	./ˈsprɪŋklə(r)/-NAmE /ˈsprɪŋklər/
 	;bình xịt -- [IMAGE]	a device with holes in that is used to spray water in drops onto plants, soil or grass
 		;TOPICS GardensC2, FarmingC2
 
@@ -2726,7 +2729,7 @@ sprinkler		<-->	noun+C2	[220829][1]	./ˈsprɪŋklə(r)/-NAmE /ˈsprɪŋklər/
 
 
 
-stable		<-->	noun+C1[-0]	./ˈsteɪbl/-NAmE /ˈsteɪbl/-\
+stable		<-->	noun++C1	[221119][001]	./ˈsteɪbl/-NAmE /ˈsteɪbl/-\
 	;(Word Family)
 	---
 		;stable adjective (≠ unstable)
@@ -2743,7 +2746,7 @@ stable		<-->	noun+C1[-0]	./ˈsteɪbl/-NAmE /ˈsteɪbl/-\
 
 
 
-stall		<-->	noun+C2	[220829][1]	./stɔːl/-NAmE /stɔːl/\
+stall		<-->	noun++C2	[220829][001]	./stɔːl/-NAmE /stɔːl/\
 	;một ô trong chuồng dành cho từng con một -- ​[countable] a section inside a farm building that is large enough for one animal to be kept in
 		;We had to muck out stalls and groom the horses.
 		;TOPICS FarmingC2
@@ -2759,7 +2762,7 @@ stall		<-->	noun+C2	[220829][1]	./stɔːl/-NAmE /stɔːl/\
 
 
 
-staple		<-->	noun+C2	[220829][1]	./ˈsteɪpl/-NAmE /ˈsteɪpl/
+staple		<-->	noun++C2	[220829][001]	./ˈsteɪpl/-NAmE /ˈsteɪpl/
 	;lương thực chính -- ​a basic type of food that is used a lot
 		;Aid workers helped distribute corn, milk and other staples.
 		;Wordfinder: blight, cereal, crop, genetically modified, grain, harvest, monoculture, organic, staple, yield
@@ -2769,7 +2772,7 @@ staple		<-->	noun+C2	[220829][1]	./ˈsteɪpl/-NAmE /ˈsteɪpl/
 
 
 
-station		<-->	noun+C2	[220829][1]	./ˈsteɪʃn/-NAmE /ˈsteɪʃn/
+station		<-->	noun++C2	[220829][001]	./ˈsteɪʃn/-NAmE /ˈsteɪʃn/
 	;trại cừu bò lớn -- (large farm) ​(usually in compounds) a large sheep or cattle farm in Australia or New Zealand
 		;TOPICS FarmingC2
 
@@ -2777,7 +2780,7 @@ station		<-->	noun+C2	[220829][1]	./ˈsteɪʃn/-NAmE /ˈsteɪʃn/
 
 
 
-stile		<-->	noun+C2	[220829][1]	./staɪl/-NAmE /staɪl/
+stile		<-->	noun++C2	[220829][001]	./staɪl/-NAmE /staɪl/
 	;thang leo rào -- [IMAGE]	a set of steps that help people climb over a fence or gate in a field, etc.
 		;TOPICS FarmingC2
 
@@ -2785,7 +2788,7 @@ stile		<-->	noun+C2	[220829][1]	./staɪl/-NAmE /staɪl/
 
 
 
-stockman		<-->	noun+C2	[220829][1]	./ˈstɒkmən/-NAmE /ˈstɑːkmən/
+stockman		<-->	noun++C2	[220829][001]	./ˈstɒkmən/-NAmE /ˈstɑːkmən/
 	;người coi sóc trang trại -- (plural stockmen  /ˈstɒkmən/  /ˈstɑːkmən/) ​a man whose job is to take care of farm animals
 		TOPICS FarmingC2
 	;chủ trang trại -- (North American English) a man who owns farm animals
@@ -2795,7 +2798,7 @@ stockman		<-->	noun+C2	[220829][1]	./ˈstɒkmən/-NAmE /ˈstɑːkmən/
 
 
 
-straw		<-->	noun+B2[-0]	./strɔː/-NAmE /strɔː/
+straw		<-->	noun++B2	[221119][001]	./strɔː/-NAmE /strɔː/
 	;cọng rơm, cỏ khô -- (Idiooms) ​[uncountable] stems of wheat or other grain plants that have been cut and dried. Straw is used for making mats, hats, etc., for packing things to protect them, and as food for animals or for them to sleep on.
 		;a mattress filled with straw
 		;a straw hat
@@ -2814,7 +2817,7 @@ straw		<-->	noun+B2[-0]	./strɔː/-NAmE /strɔː/
 
 
 
-stubble		<-->	noun+C2	[220829][1]	./ˈstʌbl/-NAmE /ˈstʌbl/
+stubble		<-->	noun++C2	[220829][001]	./ˈstʌbl/-NAmE /ˈstʌbl/
 	;gốc rạ -- [uncountable] ​the lower short, stiff part of the stems of crops such as wheat that are left in the ground after the top part has been cut and collected
 		;There was a mouse hiding in the stubble.
 		;TOPICS FarmingC2
@@ -2823,7 +2826,7 @@ stubble		<-->	noun+C2	[220829][1]	./ˈstʌbl/-NAmE /ˈstʌbl/
 
 
 
-stud		<-->	noun+C2	[220829][1]	./stʌd/-NAmE /stʌd/\
+stud		<-->	noun++C2	[220829][001]	./stʌd/-NAmE /stʌd/\
 	;con giống -- [countable, uncountable] an animal, especially a horse, that is kept for breeding (= producing young); a place where animals, especially horses, are kept for breeding
 		;a stud farm
 		;The horse was retired from racing and put out to stud (= kept for breeding).
@@ -2834,7 +2837,7 @@ stud		<-->	noun+C2	[220829][1]	./stʌd/-NAmE /stʌd/\
 
 
 
-sty		<-->	noun+C2	[220829][1]	./staɪ/-NAmE /staɪ/
+sty		<-->	noun++C2	[220829][001]	./staɪ/-NAmE /staɪ/
 	;chuồng heo -- (plural sties) (also pigsty, North American English also pigpen) a small building or area where pigs are kept
 		TOPICS FarmingC2
 
@@ -2842,7 +2845,7 @@ sty		<-->	noun+C2	[220829][1]	./staɪ/-NAmE /staɪ/
 
 
 
-subsoil		<-->	noun+C2	[220829][1]	./ˈsʌbsɔɪl/-NAmE /ˈsʌbsɔɪl/
+subsoil		<-->	noun++C2	[220829][001]	./ˈsʌbsɔɪl/-NAmE /ˈsʌbsɔɪl/
 	;đất mặt -- [uncountable] ​the layer of soil between the surface of the ground and the hard rock below it
 		;COMPARE topsoil
 		;TOPICS FarmingC2
@@ -2851,7 +2854,7 @@ subsoil		<-->	noun+C2	[220829][1]	./ˈsʌbsɔɪl/-NAmE /ˈsʌbsɔɪl/
 
 
 
-sugar beet		<-->	noun+C2	[220829][1]	./ˈʃʊɡə biːt/-NAmE /ˈʃʊɡər biːt/
+sugar beet		<-->	noun++C2	[220829][001]	./ˈʃʊɡə biːt/-NAmE /ˈʃʊɡər biːt/
 	;củ cải đường -- [uncountable] ​a plant with a large round root, from which sugar is made
 		;TOPICS FarmingC2
 
@@ -2859,7 +2862,7 @@ sugar beet		<-->	noun+C2	[220829][1]	./ˈʃʊɡə biːt/-NAmE /ˈʃʊɡər biːt
 
 
 
-sugar cane		<-->	noun+C1[-0]	./ˈʃʊɡə keɪn/-NAmE /ˈʃʊɡər keɪn/
+sugar cane		<-->	noun++C1	[221119][001]	./ˈʃʊɡə keɪn/-NAmE /ˈʃʊɡər keɪn/
 	;mía đường -- [uncountable] ​a tall tropical plant with thick stems from which sugar is made
 		;TOPICS FarmingC1
 
@@ -2867,7 +2870,7 @@ sugar cane		<-->	noun+C1[-0]	./ˈʃʊɡə keɪn/-NAmE /ˈʃʊɡər keɪn/
 
 
 
-sunflower		<-->	noun+B2[-0]	./ˈsʌnflaʊə(r)/-NAmE /ˈsʌnflaʊər/
+sunflower		<-->	noun++B2	[221119][001]	./ˈsʌnflaʊə(r)/-NAmE /ˈsʌnflaʊər/
 	;hoa hướng dương -- [IMAGE]	a very tall plant with large yellow flowers, grown in gardens or for its seeds and their oil that are used in cooking
 		;sunflower oil
 		;TOPICS Plants and treesB2, FarmingB2
@@ -2877,7 +2880,7 @@ sunflower		<-->	noun+B2[-0]	./ˈsʌnflaʊə(r)/-NAmE /ˈsʌnflaʊər/
 
 
 
-team		<-->	noun+C2	[220829][1]	./tiːm/-NAmE /tiːm/
+team		<-->	noun++C2	[220829][001]	./tiːm/-NAmE /tiːm/
 	;​đôi bò, ngựa kéo cày -- two or more animals that are used together to pull a cart, etc.
 		;TOPICS FarmingC2
 
@@ -2885,7 +2888,7 @@ team		<-->	noun+C2	[220829][1]	./tiːm/-NAmE /tiːm/
 
 
 
-terrace		<-->	noun+C2    	 /ˈterəs/-NAmE /ˈterəs/
+terrace		<-->	noun++C2    	 /ˈterəs/-NAmE /ˈterəs/
 	;​ruộng bậc thang -- [countable] one of a series of flat areas of ground that are cut into the side of a hill like steps so that crops can be grown there
 		;The villagers had dug terraces in the hillside.
 		;TOPICS FarmingC2
@@ -2894,7 +2897,7 @@ terrace		<-->	noun+C2    	 /ˈterəs/-NAmE /ˈterəs/
 
 
 
-thresh		<-->	verb+C2	[220803][1]	./θreʃ/-NAmE /θreʃ/
+thresh		<-->	verb++C2	[220803][001]	./θreʃ/-NAmE /θreʃ/
 	;đập lúa -- (Veerb Forms) [transitive] thresh something to separate grains of rice, wheat, etc. from the rest of the plant using a machine or, especially in the past, by hitting it with a special tool
 		;Collocations Farming
 		;TOPICS FarmingC2
@@ -2903,7 +2906,7 @@ thresh		<-->	verb+C2	[220803][1]	./θreʃ/-NAmE /θreʃ/
 
 
 
-topsoil		<-->	noun+C1[-0]	./ˈtɒpsɔɪl/-NAmE /ˈtɑːpsɔɪl/
+topsoil		<-->	noun++C1	[221119][001]	./ˈtɒpsɔɪl/-NAmE /ˈtɑːpsɔɪl/
 	;đất mặt -- [uncountable] ​the layer of soil nearest the surface of the ground
 		;COMPARE subsoil
 		;TOPICS FarmingC1
@@ -2912,7 +2915,7 @@ topsoil		<-->	noun+C1[-0]	./ˈtɒpsɔɪl/-NAmE /ˈtɑːpsɔɪl/
 
 
 
-tractor		<-->	noun+C1[-0]	./ˈtræktə(r)/-NAmE /ˈtræktər/
+tractor		<-->	noun++C1	[221119][001]	./ˈtræktə(r)/-NAmE /ˈtræktər/
 	;máy kéo -- [IMAGE]	a powerful vehicle with two large and two smaller wheels, used especially for pulling farm machines
 		;a farmer on his tractor
 		;the sound of a tractor ploughing in the field nearby
@@ -2936,7 +2939,7 @@ tractor		<-->	noun+C1[-0]	./ˈtræktə(r)/-NAmE /ˈtræktər/
 
 
 
-trough		<-->	noun+C2	[220829][1]	./trɒf/-NAmE /trɔːf/
+trough		<-->	noun++C2	[220829][001]	./trɒf/-NAmE /trɔːf/
 	;cái máng -- (Idiooms) ​a long, narrow open container for animals to eat or drink from
 		;TOPICS FarmingC2
 		;Oxford Collocations Dictionary
@@ -2947,7 +2950,7 @@ trough		<-->	noun+C2	[220829][1]	./trɒf/-NAmE /trɔːf/
 
 
 
-uncultivated		<-->	adjective+C2[-0]	./ʌnˈkʌltɪveɪtɪd/-NAmE /ʌnˈkʌltɪveɪtɪd/
+uncultivated		<-->	adjective++C2	[221119][001]	./ʌnˈkʌltɪveɪtɪd/-NAmE /ʌnˈkʌltɪveɪtɪd/
 ​	;không thích hợp cho trồng trọt -- (of land) not used for growing crops
 		;OPPOSITE cultivated
 		;TOPICS FarmingC2
@@ -2959,7 +2962,7 @@ uncultivated		<-->	adjective+C2[-0]	./ʌnˈkʌltɪveɪtɪd/-NAmE /ʌnˈkʌltɪve
 
 
 
-under the plough		<-->	idiom+C2
+under the plough		<-->	idiom++C2[0]	./i/
 	;có thể trồng trọt -- (British English, formal) (of land) used for growing crops, not for keeping animals on
 		;SYNONYM arable
 
@@ -2967,7 +2970,7 @@ under the plough		<-->	idiom+C2
 
 
 
-vegetable		<-->	noun+A1[-0]	./ˈvedʒtəbl/-NAmE /ˈvedʒtəbl/
+vegetable		<-->	noun++A1	[221119][001]	./ˈvedʒtəbl/-NAmE /ˈvedʒtəbl/
 	;rau cũ quả -- [IMAGE] (also especially North American English, informal veggie) a plant or part of a plant that is eaten as food. Potatoes, beans and onions are all vegetables.
 		;The children don't eat enough fresh vegetables.
 		;root vegetables (= for example carrots)
@@ -2986,7 +2989,7 @@ vegetable		<-->	noun+A1[-0]	./ˈvedʒtəbl/-NAmE /ˈvedʒtəbl/
 
 
 
-vet		<-->	noun+B2[-0]	./vet/-NAmE /vet/\
+vet		<-->	noun++B2	[221119][001]	./vet/-NAmE /vet/\
 	;bác sỹ thú y -- (especially British English) (North American English usually veterinarian) (also British English, formal veterinary surgeon) a person who has been trained in the science of animal medicine, whose job is to treat animals who are sick or injured
 		;We had to take the dog to the local vet.
 		;TOPICS JobsB2, FarmingB2
@@ -3002,7 +3005,7 @@ vet		<-->	noun+B2[-0]	./vet/-NAmE /vet/\
 
 
 
-veterinarian		<-->	noun+C2	[220829][1]	./ˌvetərɪˈneəriən/-NAmE /ˌvetərɪˈneriən/
+veterinarian		<-->	noun++C2	[220829][001]	./ˌvetərɪˈneəriən/-NAmE /ˌvetərɪˈneriən/
 	;bác sỹ thú y -- (North American English) (also vet especially in British English) (British English, formal veterinary surgeon) ​a person who has been trained in the science of animal medicine, whose job is to treat animals who are sick or injured
 		;Consult your veterinarian if your cat is still not eating.
 		;Extra Examples
@@ -3019,7 +3022,7 @@ veterinarian		<-->	noun+C2	[220829][1]	./ˌvetərɪˈneəriən/-NAmE /ˌvetərɪ
 
 
 
-veterinary surgeon		<-->	noun+C2	[220829][1]	./ˈvetnri sɜːdʒən/,  /ˈvetrənəri sɜːdʒən/-NAmE /ˈvetərəneri sɜːrdʒən/
+veterinary surgeon		<-->	noun++C2	[220829][001]	./ˈvetnri sɜːdʒən/,  /ˈvetrənəri sɜːdʒən/-NAmE /ˈvetərəneri sɜːrdʒən/
 	;bác sỹ thú y -- (British English, formal) a vet (= a person who has been trained in the science of animal medicine, whose job is to treat animals who are sick or injured)
 		;TOPICS JobsC2, FarmingC2
 
@@ -3027,7 +3030,7 @@ veterinary surgeon		<-->	noun+C2	[220829][1]	./ˈvetnri sɜːdʒən/,  /ˈvetrə
 
 
 
-vineyard		<-->	noun+C1[-0]	./ˈvɪnjəd/-NAmE /ˈvɪnjərd/
+vineyard		<-->	noun++C1	[221119][001]	./ˈvɪnjəd/-NAmE /ˈvɪnjərd/
 	;vườn nho -- [IMAGE]	a piece of land where grapes are grown in order to produce wine; a business that produces wine from the grapes it grows in a vineyard
 		;Dutch settlers planted the first vineyard when they arrived in 1652.
 		;COMPARE winery
@@ -3040,7 +3043,7 @@ vineyard		<-->	noun+C1[-0]	./ˈvɪnjəd/-NAmE /ˈvɪnjərd/
 
 
 
-vintage		<-->	noun+C2	[220829][1]	./ˈvɪntɪdʒ/-NAmE /ˈvɪntɪdʒ/-\
+vintage		<-->	noun++C2	[220829][001]	./ˈvɪntɪdʒ/-NAmE /ˈvɪntɪdʒ/-\
 	;mùa hái nho -- ​[usually singular] the period or season of gathering grapes for making wine
 		;The vintage was later than usual.
 		;TOPICS FarmingC2
@@ -3049,7 +3052,7 @@ vintage		<-->	noun+C2	[220829][1]	./ˈvɪntɪdʒ/-NAmE /ˈvɪntɪdʒ/-\
 
 
 
-water		<-->	verb+B1	[220803][1]	./ˈwɔːtə(r)/-NAmE /ˈwɔːtər/
+water		<-->	verb++B1	[220803][001]	./ˈwɔːtə(r)/-NAmE /ˈwɔːtər/
 	;tưới nước -- (Veerb Forms) (Phrasal Veerbs)​  [transitive] 
 	;water something: to pour water on plants, etc.
 		;to water the plants/garden
@@ -3060,7 +3063,7 @@ water		<-->	verb+B1	[220803][1]	./ˈwɔːtə(r)/-NAmE /ˈwɔːtər/
 
 
 
-water tower		<-->	noun+C1[-0]	./ˈwɔːtə taʊə(r)/-NAmE /ˈwɔːtər taʊər/
+water tower		<-->	noun++C1	[221119][001]	./ˈwɔːtə taʊə(r)/-NAmE /ˈwɔːtər taʊər/
 	;tháp nước -- a tall structure with a tank of water at the top from which water is supplied to buildings in the area around it
 		;TOPICS FarmingC1
 
@@ -3068,7 +3071,7 @@ water tower		<-->	noun+C1[-0]	./ˈwɔːtə taʊə(r)/-NAmE /ˈwɔːtər taʊər/
 
 
 
-wheat		<-->	noun+B2[-0]	./wiːt/-NAmE /wiːt/
+wheat		<-->	noun++B2	[221119][001]	./wiːt/-NAmE /wiːt/
 	;lúa mì -- [uncountable] (Idiooms)	[IMAGE]	a plant grown for its grain that is used to produce the flour for bread, cakes, pasta, etc.; the grain of this plant
 		;wheat flour
 		;Collocations Farming
@@ -3089,7 +3092,7 @@ wheat		<-->	noun+B2[-0]	./wiːt/-NAmE /wiːt/
 
 
 
-windmill		<-->	noun+C1[-0]	./ˈwɪndmɪl/-NAmE /ˈwɪndmɪl/
+windmill		<-->	noun++C1	[221119][001]	./ˈwɪndmɪl/-NAmE /ˈwɪndmɪl/
 	;nhà máy xay gió -- (Idiooms)
 	[IMAGE]	a building with equipment for grinding grain into flour that is driven by the power of the wind turning long arms (called sails)
 		;TOPICS BuildingsC1, FarmingC1
@@ -3098,7 +3101,7 @@ windmill		<-->	noun+C1[-0]	./ˈwɪndmɪl/-NAmE /ˈwɪndmɪl/
 
 
 
-winegrower		<-->	noun+C1[-0]	./ˈwaɪnɡrəʊə(r)/-NAmE /ˈwaɪnɡrəʊər/
+winegrower		<-->	noun++C1	[221119][001]	./ˈwaɪnɡrəʊə(r)/-NAmE /ˈwaɪnɡrəʊər/
 	;người ủ rượu nho -- ​a person who grows grapes for wine
 		;TOPICS FarmingC1
 
@@ -3106,7 +3109,7 @@ winegrower		<-->	noun+C1[-0]	./ˈwaɪnɡrəʊə(r)/-NAmE /ˈwaɪnɡrəʊər/
 
 
 
-winemaker		<-->	noun+C1[-0]	./ˈwaɪnmeɪkə(r)/-NAmE /ˈwaɪnmeɪkər/
+winemaker		<-->	noun++C1	[221119][001]	./ˈwaɪnmeɪkə(r)/-NAmE /ˈwaɪnmeɪkər/
 ​	;người sản sản xuất rượu nho -- a person who produces wine
 		;TOPICS FarmingC1
 
@@ -3114,7 +3117,7 @@ winemaker		<-->	noun+C1[-0]	./ˈwaɪnmeɪkə(r)/-NAmE /ˈwaɪnmeɪkər/
 
 
 
-yeoman		<-->	noun+C2	[220829][1]	./ˈjəʊmən/-NAmE /ˈjəʊmən/
+yeoman		<-->	noun++C2	[220829][001]	./ˈjəʊmən/-NAmE /ˈjəʊmən/
 	;tiểu nông -- (plural yeomen  /ˈjəʊmən/  /ˈjəʊmən/) ​(in Britain in the past) a farmer who owned and worked on his land
 		;TOPICS FarmingC2
 
@@ -3122,7 +3125,7 @@ yeoman		<-->	noun+C2	[220829][1]	./ˈjəʊmən/-NAmE /ˈjəʊmən/
 
 
 
-yield		<-->	noun+C1[-0]	./jiːld/-NAmE /jiːld/
+yield		<-->	noun++C1	[221119][001]	./jiːld/-NAmE /jiːld/
 	;tổng sản lượng -- [countable, uncountable] ​the total amount of crops, profits, etc. that are produced
 		;a high crop yield
 		;a reduction in milk yield
@@ -3142,7 +3145,7 @@ yield		<-->	noun+C1[-0]	./jiːld/-NAmE /jiːld/
 
 
 
-yield		<-->	verb+C1	[220803][1]	./jiːld/-NAmE /jiːld/
+yield		<-->	verb++C1	[220803][001]	./jiːld/-NAmE /jiːld/
 	;sản xuất -- (Veerb Forms) (Phrasal Veerbs)​ [transitive] 
 	;yield something: to produce or provide something, for example a profit, result or crop
 		;Higher-rate deposit accounts yield good returns.
@@ -3154,3 +3157,4 @@ yield		<-->	verb+C1	[220803][1]	./jiːld/-NAmE /jiːld/
 
 
 
+[[[FARMING]]]<<<<<-------

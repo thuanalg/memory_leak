@@ -1,308 +1,2443 @@
-abide by		<-->	phrasal veerb+C2[-0]	
-abrogate		<-->	veerb+C2[-0]	
-abrogation		<-->	noun+C2[-0]	
-accede		<-->	veerb+C2[-0]	
-accept		<-->	veerb+B1[-0]	
-acceptable		<-->	adjeective+B2[-0]	
-acceptably		<-->	adveerb+B2[-0]	
-acceptance		<-->	noun+C1[-0]	
-accommodate		<-->	veerb+C1[-0]	
-accommodation		<-->	noun+C2[-0]	
-accord		<-->	noun+C2[-0]	
-acquiesce		<-->	veerb+C2[-0]	
-acquiescence		<-->	noun+C2[-0]	
-acquiescent		<-->	adjeective+C2[-0]	
-a done deal		<-->	idiom+C2[-0]	
-agree		<-->	veerb+A2[-0]	
-agreed		<-->	adjeective+B2[-0]	
-agreement		<-->	noun+B1[-0]	
-agree to differ/disagree		<-->	idiom+C2[-0]	
-alliance		<-->	noun+C1[-0]	
-allow		<-->	veerb+C2[-0]	
-all right		<-->	exclamation+A2[-0]	
-ally		<-->	veerb+C2[-0]	
-alright		<-->	exclamation+A2[-0]	
-appeal		<-->	noun+C1[-0]	
-appeal		<-->	veerb+C1[-0]	
-arbitrate		<-->	veerb+C2[-0]	
-arbitration		<-->	noun+C2[-0]	
-arbitrator		<-->	noun+C2[-0]	
-argue		<-->	veerb+B1[-0]	
-argue into doing		<-->	phrasal veerb+C1[-0]	
-argue out of doing		<-->	phrasal veerb+C1[-0]	
-arm-twisting		<-->	noun+C2[-0]	
-arrangement		<-->	noun+B2[-0]	
-as one		<-->	idiom+C2[-0]	
-as one man		<-->	idiom+C2[-0]	
-bargain		<-->	noun+B2[-0]	
-bargain		<-->	veerb+C1[-0]	
-bargaining		<-->	noun+C1[-0]	
-bargaining chip		<-->	noun+C2[-0]	
-bargaining power		<-->	noun+C1[-0]	
-be (a) party to something		<-->	idiom+C2[-0]	
-beat down		<-->	phrasal veerb+C2[-0]	
-(be) at one (with somebody/something)		<-->	idiom+C2[-0]	
-bend to		<-->	phrasal veerb+C2[-0]	
-be with somebody (on something)		<-->	idiom+C2[-0]	
-blag		<-->	veerb+C2[-0]	
-blandishments		<-->	noun+C2[-0]	
-bow to		<-->	phrasal veerb+C2[-0]	
-breach		<-->	noun+C1[-0]	
-breach		<-->	veerb+C1[-0]	
-bribe		<-->	noun+C1[-0]	
-bribe		<-->	veerb+C1[-0]	
-bring A and B together		<-->	phrasal veerb+C1[-0]	
-bring round		<-->	phrasal veerb+C2[-0]	
-buy-in		<-->	noun+C2[-0]	
-call it quits		<-->	idiom+C2[-0]	
-cancel		<-->	veerb+B2[-0]	
-capitulate		<-->	veerb+C2[-0]	
-capitulation		<-->	noun+C2[-0]	
-carrot		<-->	noun+C2[-0]	
-cement		<-->	veerb+C2[-0]	
-coax		<-->	veerb+C2[-0]	
-coaxing		<-->	adjeective+C2[-0]	
-coaxing		<-->	noun+C2[-0]	
-collaborate		<-->	veerb+C1[-0]	
-collaboration		<-->	noun+C1[-0]	
-collaborative		<-->	adjeective+C1[-0]	
-collective		<-->	adjeective+C1[-0]	
-collude		<-->	veerb+C2[-0]	
-collusion		<-->	noun+C2[-0]	
-collusive		<-->	adjeective+C2[-0]	
-come to heel		<-->	idiom+C2[-0]	
-come to terms (with somebody)		<-->	idiom+C2[-0]	
-commit		<-->	veerb+B1[-0]	
-commitment		<-->	noun+B2[-0]	
-common ground		<-->	noun+C2[-0]	
-compact		<-->	noun+C2[-0]	
-complaisance		<-->	noun+C2[-0]	
-complaisant		<-->	adjeective+C2[-0]	
-compliance		<-->	noun+C1[-0]	
-compliant		<-->	adjeective+C2[-0]	
-compromise		<-->	noun+C1[-0]	
-compromise		<-->	veerb+C1[-0]	
-concede		<-->	veerb+C1[-0]	
-concession		<-->	noun+C1[-0]	
-conclude		<-->	veerb+C2[-0]	
-concord		<-->	noun+C2[-0]	
-concordant		<-->	adjeective+C2[-0]	
-concordat		<-->	noun+C2[-0]	
-condition		<-->	noun+B1[-0]	
-confirm		<-->	veerb+B2[-0]	
-consensual		<-->	adjeective+C2[-0]	
-consensus		<-->	noun+C1[-0]	
-consent		<-->	noun+C1[-0]	
-consent		<-->	veerb+C1[-0]	
-contract		<-->	noun+B2[-0]	
-contract		<-->	veerb+C2[-0]	
-contract in		<-->	phrasal veerb+C2[-0]	
-contract out		<-->	phrasal veerb+C2[-0]	
-contractual		<-->	adjeective+C2[-0]	
-contractually		<-->	adveerb+C2[-0]	
-convention		<-->	noun+C1[-0]	
-convince		<-->	veerb+B1[-0]	
-cooling-off period		<-->	noun+C2[-0]	
-cooperate		<-->	veerb+C1[-0]	
-cooperation		<-->	noun+C1[-0]	
-cooperative		<-->	adjeective+C1[-0]	
-coordinate		<-->	veerb+C1[-0]	
-coordination		<-->	noun+C1[-0]	
-countenance		<-->	veerb+C2[-0]	
-covenant		<-->	noun+C2[-0]	
-covenant		<-->	veerb+C2[-0]	
-dangle		<-->	veerb+C2[-0]	
-deal		<-->	noun+B1[-0]	
-defer to		<-->	phrasal veerb+C2[-0]	
-dialogue		<-->	noun+B2[-0]	
-discuss		<-->	veerb+A1[-0]	
-discussion		<-->	noun+A2[-0]	
-dishonour		<-->	veerb+C2[-0]	
-dissolution		<-->	noun+C2[-0]	
-dissolve		<-->	veerb+C2[-0]	
-dissuade		<-->	veerb+C2[-0]	
-drive/strike a hard bargain		<-->	idiom+C2[-0]	
-encourage		<-->	veerb+B1[-0]	
-entice		<-->	veerb+C2[-0]	
-exhort		<-->	veerb+C2[-0]	
-exhortation		<-->	noun+C2[-0]	
-expire		<-->	veerb+C1[-0]	
-expiry		<-->	noun+C2[-0]	
-fence-mending		<-->	noun+C2[-0]	
-gentleman’s agreement		<-->	noun+C2[-0]	
-get		<-->	veerb+B2[-0]	
-get around		<-->	phrasal veerb+C2[-0]	
-get out of		<-->	phrasal veerb+C2[-0]	
-get round		<-->	phrasal veerb+C2[-0]	
-give		<-->	veerb+C2[-0]	
-give in		<-->	phrasal veerb+B2[-0]	
-give way (to somebody/something)		<-->	idiom+C2[-0]	
-go along with		<-->	phrasal veerb+C1[-0]	
-go with		<-->	phrasal veerb+C2[-0]	
-hammer out		<-->	phrasal veerb+C2[-0]	
-handshake		<-->	noun+B2[-0]	
-harangue		<-->	veerb+C2[-0]	
-harangue		<-->	noun+C2[-0]	
-hash out		<-->	phrasal veerb+C2[-0]	
-hold out for		<-->	phrasal veerb+C2[-0]	
-hold with		<-->	phrasal veerb+C2[-0]	
-honest broker		<-->	noun+C2[-0]	
-honor		<-->	veerb+C2[-0]	
-honor system		<-->	noun+C2[-0]	
-honour		<-->	veerb+C2[-0]	
-horse-trading		<-->	noun+C2[-0]	
-humour		<-->	veerb+C2[-0]	
-induce		<-->	veerb+C1[-0]	
-inducement		<-->	noun+C1[-0]	
-in sync		<-->	idiom+C2[-0]	
-intercede		<-->	veerb+C2[-0]	
-intercession		<-->	noun+C2[-0]	
-interest in		<-->	phrasal veerb+C1[-0]	
-intermediary		<-->	noun+C2[-0]	
-intermediary		<-->	adjeective+C2[-0]	
-intervene		<-->	veerb+C1[-0]	
-intervention		<-->	noun+C1[-0]	
-joint		<-->	adjeective+B2[-0]	
-jointly		<-->	adveerb+B2[-0]	
-jolly into		<-->	phrasal veerb+C2[-0]	
-jolly into doing		<-->	phrasal veerb+C2[-0]	
-lobby		<-->	veerb+C1[-0]	
-lobbyist		<-->	noun+C1[-0]	
-lure		<-->	veerb+C1[-0]	
-make common cause with somebody		<-->	idiom+C2[-0]	
-make up		<-->	phrasal veerb+C1[-0]	
-make (your) peace with somebody		<-->	idiom+C2[-0]	
-mediate		<-->	veerb+C2[-0]	
-mediation		<-->	noun+C2[-0]	
-mediator		<-->	noun+C2[-0]	
-meet somebody halfway		<-->	idiom+C2[-0]	
-mend		<-->	veerb+C2[-0]	
-mend (your) fences (with somebody)		<-->	idiom+C2[-0]	
-middle ground		<-->	noun+C2[-0]	
-moderator		<-->	noun+C2[-0]	
-modus vivendi		<-->	noun+C2[-0]	
-nail down		<-->	phrasal veerb+C2[-0]	
-negotiable		<-->	adjeective+C2[-0]	
-negotiate		<-->	veerb+B2[-0]	
-negotiation		<-->	noun+B2[-0]	
-nobble		<-->	veerb+C2[-0]	
-nullify		<-->	veerb+C2[-0]	
-OK		<-->	exclamation+A1[-0]	
-oneness		<-->	noun+C2[-0]	
-on the same page		<-->	idiom+C2[-0]	
-on the understanding that…		<-->	idiom+C2[-0]	
-pact		<-->	noun+C2[-0]	
-parley		<-->	noun+C2[-0]	
-parley		<-->	veerb+C2[-0]	
-party		<-->	noun+C1[-0]	
-patch up		<-->	phrasal veerb+C2[-0]	
-peacekeeper		<-->	noun+C1[-0]	
-peacemaker		<-->	noun+C2[-0]	
-peace offering		<-->	noun+C2[-0]	
-persuade		<-->	veerb+B1[-0]	
-persuasion		<-->	noun+C1[-0]	
-persuasive		<-->	adjeective+B2[-0]	
-pour oil on troubled water(s)		<-->	idiom+C2[-0]	
-prenuptial agreement		<-->	noun+C2[-0]	
-press		<-->	veerb+C1[-0]	
-pressure		<-->	noun+B1[-0]	
-pressure		<-->	veerb+C1[-0]	
-pressurize		<-->	veerb+C1[-0]	
-prevail on to do		<-->	phrasal veerb+C2[-0]	
-prevail upon to do		<-->	phrasal veerb+C2[-0]	
-protocol		<-->	noun+C1[-0]	
-proviso		<-->	noun+C2[-0]	
-push		<-->	veerb+B2[-0]	
-put aside		<-->	phrasal veerb+C2[-0]	
-ratification		<-->	noun+C2[-0]	
-ratify		<-->	veerb+C2[-0]	
-realign		<-->	veerb+C2[-0]	
-realignment		<-->	noun+C2[-0]	
-reason with		<-->	phrasal veerb+C2[-0]	
-reconcilable		<-->	adjeective+C2[-0]	
-reconcile		<-->	veerb+C2[-0]	
-reconciliation		<-->	noun+C2[-0]	
-red line		<-->	noun+C2[-0]	
-referee		<-->	noun+C2[-0]	
-relent		<-->	veerb+C2[-0]	
-renege		<-->	veerb+C2[-0]	
-rescind		<-->	veerb+C2[-0]	
-rescission		<-->	noun+C2[-0]	
-resolution		<-->	noun+C1[-0]	
-resolve		<-->	veerb+B2[-0]	
-retract		<-->	veerb+C2[-0]	
-right		<-->	exclamation+B2[-0]	
-run out		<-->	phrasal veerb+B2[-0]	
-rupture		<-->	noun+C2[-0]	
-rupture		<-->	veerb+C2[-0]	
-seal		<-->	veerb+C1[-0]	
-seduce		<-->	veerb+C2[-0]	
-settle		<-->	veerb+B2[-0]	
-settlement		<-->	noun+C1[-0]	
-sign		<-->	veerb+A2[-0]	
-signatory		<-->	noun+C2[-0]	
-sign on		<-->	phrasal veerb+C2[-0]	
-sign on the dotted line		<-->	idiom+C2[-0]	
-sign up		<-->	phrasal veerb+C2[-0]	
-sign up to		<-->	phrasal veerb+C2[-0]	
-silver tongue		<-->	noun+C2[-0]	
-silver-tongued		<-->	adjeective+C2[-0]	
-sink your differences		<-->	idiom+C2[-0]	
-smooth-talking		<-->	adjeective+C2[-0]	
-soften up		<-->	phrasal veerb+C2[-0]	
-the fine print		<-->	noun+C2[-0]	
-the negotiating table		<-->	noun+C2[-0]	
-the small print		<-->	noun+C1[-0]	
-strike a bargain/deal (with somebody/something)		<-->	idiom+C2[-0]	
-submission		<-->	noun+C1[-0]	
-submissive		<-->	adjeective+C2[-0]	
-submissively		<-->	adveerb+C2[-0]	
-submit		<-->	veerb+C1[-0]	
-subscribe to		<-->	phrasal veerb+C2[-0]	
-surely		<-->	adveerb+B1[-0]	
-sway		<-->	veerb+C2[-0]	
-sweeten		<-->	veerb+C2[-0]	
-talk into		<-->	phrasal veerb+C1[-0]	
-talk out of		<-->	phrasal veerb+C1[-0]	
-talk over		<-->	phrasal veerb+C1[-0]	
-talk round		<-->	phrasal veerb+C2[-0]	
-tempt		<-->	veerb+C1[-0]	
-term		<-->	noun+C1[-0]	
-terms		<-->	noun+B2[-0]	
-the gift of the gab		<-->	idiom+C2[-0]	
-tie-up		<-->	noun+C2[-0]	
-together		<-->	adveerb+B2[-0]	
-tolerance		<-->	noun+C1[-0]	
-tolerant		<-->	adjeective+C1[-0]	
-tolerantly		<-->	adveerb+C1[-0]	
-toleration		<-->	noun+C1[-0]	
-treaty		<-->	noun+C1[-0]	
-truce		<-->	noun+C1[-0]	
-twist somebody’s arm		<-->	idiom+C1[-0]	
-uncontentious		<-->	adjeective+C2[-0]	
-uncontroversial		<-->	adjeective+C2[-0]	
-understand		<-->	veerb+C2[-0]	
-understanding		<-->	noun+B2[-0]	
-undertake		<-->	veerb+C1[-0]	
-undertaking		<-->	noun+C1[-0]	
-united		<-->	adjeective+B1[-0]	
-unity		<-->	noun+B2[-0]	
-urge		<-->	veerb+B2[-0]	
-violate		<-->	veerb+C1[-0]	
-violation		<-->	noun+C1[-0]	
-violator		<-->	noun+C2[-0]	
-warranty		<-->	noun+C2[-0]	
-wheedle		<-->	veerb+C2[-0]	
-win around		<-->	phrasal veerb+C2[-0]	
-win over		<-->	phrasal veerb+C2[-0]	
-win round		<-->	phrasal veerb+C2[-0]	
-wipe the slate clean		<-->	idiom+C2[-0]	
-work on		<-->	phrasal veerb+C2[-0]	
-wrap up		<-->	phrasal veerb+C1[-0]	
-write into		<-->	phrasal veerb+C2[-0]	
-yes-man		<-->	noun+C2[-0]	
-yield		<-->	veerb+C1[-0]	
-you win		<-->	idiom+C2[-0]
+abide by		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+abrogate		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+abrogation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+accede		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+accept		<-->	veerb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+acceptable		<-->	adjeective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+acceptably		<-->	adveerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+acceptance		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+accommodate		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+accommodation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+accord		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+acquiesce		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+acquiescence		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+acquiescent		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+a done deal		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+agree		<-->	veerb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+agreed		<-->	adjeective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+agreement		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+agree to differ/disagree		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+alliance		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+allow		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+all right		<-->	exclamation+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+ally		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+alright		<-->	exclamation+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+appeal		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+appeal		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+arbitrate		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+arbitration		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+arbitrator		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+argue		<-->	veerb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+argue into doing		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+argue out of doing		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+arm-twisting		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+arrangement		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+as one		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+as one man		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bargain		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bargain		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bargaining		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bargaining chip		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bargaining power		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+be (a) party to something		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+beat down		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+(be) at one (with somebody/something)		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bend to		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+be with somebody (on something)		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+blag		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+blandishments		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bow to		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+breach		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+breach		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bribe		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bribe		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bring A and B together		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+bring round		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+buy-in		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+call it quits		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+cancel		<-->	veerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+capitulate		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+capitulation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+carrot		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+cement		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+coax		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+coaxing		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+coaxing		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+collaborate		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+collaboration		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+collaborative		<-->	adjeective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+collective		<-->	adjeective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+collude		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+collusion		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+collusive		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+come to heel		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+come to terms (with somebody)		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+commit		<-->	veerb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+commitment		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+common ground		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+compact		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+complaisance		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+complaisant		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+compliance		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+compliant		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+compromise		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+compromise		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+concede		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+concession		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+conclude		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+concord		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+concordant		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+concordat		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+condition		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+confirm		<-->	veerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+consensual		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+consensus		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+consent		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+consent		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+contract		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+contract		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+contract in		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+contract out		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+contractual		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+contractually		<-->	adveerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+convention		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+convince		<-->	veerb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+cooling-off period		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+cooperate		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+cooperation		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+cooperative		<-->	adjeective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+coordinate		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+coordination		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+countenance		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+covenant		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+covenant		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+dangle		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+deal		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+defer to		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+dialogue		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+discuss		<-->	veerb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+discussion		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+dishonour		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+dissolution		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+dissolve		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+dissuade		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+drive/strike a hard bargain		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+encourage		<-->	veerb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+entice		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+exhort		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+exhortation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+expire		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+expiry		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+fence-mending		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+gentleman’s agreement		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+get		<-->	veerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+get around		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+get out of		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+get round		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+give		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+give in		<-->	phrasal veerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+give way (to somebody/something)		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+go along with		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+go with		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+hammer out		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+handshake		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+harangue		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+harangue		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+hash out		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+hold out for		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+hold with		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+honest broker		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+honor		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+honor system		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+honour		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+horse-trading		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+humour		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+induce		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+inducement		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+in sync		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+intercede		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+intercession		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+interest in		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+intermediary		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+intermediary		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+intervene		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+intervention		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+joint		<-->	adjeective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+jointly		<-->	adveerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+jolly into		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+jolly into doing		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+lobby		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+lobbyist		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+lure		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+make common cause with somebody		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+make up		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+make (your) peace with somebody		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+mediate		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+mediation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+mediator		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+meet somebody halfway		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+mend		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+mend (your) fences (with somebody)		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+middle ground		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+moderator		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+modus vivendi		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+nail down		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+negotiable		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+negotiate		<-->	veerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+negotiation		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+nobble		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+nullify		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+OK		<-->	exclamation+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+oneness		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+on the same page		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+on the understanding that…		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+pact		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+parley		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+parley		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+party		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+patch up		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+peacekeeper		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+peacemaker		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+peace offering		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+persuade		<-->	veerb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+persuasion		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+persuasive		<-->	adjeective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+pour oil on troubled water(s)		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+prenuptial agreement		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+press		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+pressure		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+pressure		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+pressurize		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+prevail on to do		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+prevail upon to do		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+protocol		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+proviso		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+push		<-->	veerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+put aside		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+ratification		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+ratify		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+realign		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+realignment		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+reason with		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+reconcilable		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+reconcile		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+reconciliation		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+red line		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+referee		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+relent		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+renege		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+rescind		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+rescission		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+resolution		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+resolve		<-->	veerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+retract		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+right		<-->	exclamation+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+run out		<-->	phrasal veerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+rupture		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+rupture		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+seal		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+seduce		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+settle		<-->	veerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+settlement		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+sign		<-->	veerb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+signatory		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+sign on		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+sign on the dotted line		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+sign up		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+sign up to		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+silver tongue		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+silver-tongued		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+sink your differences		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+smooth-talking		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+soften up		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+the fine print		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+the negotiating table		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+the small print		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+strike a bargain/deal (with somebody/something)		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+submission		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+submissive		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+submissively		<-->	adveerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+submit		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+subscribe to		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+surely		<-->	adveerb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+sway		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+sweeten		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+talk into		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+talk out of		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+talk over		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+talk round		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+tempt		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+term		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+terms		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+the gift of the gab		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+tie-up		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+together		<-->	adveerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+tolerance		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+tolerant		<-->	adjeective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+tolerantly		<-->	adveerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+toleration		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+treaty		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+truce		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+twist somebody’s arm		<-->	idiom+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+uncontentious		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+uncontroversial		<-->	adjeective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+understand		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+understanding		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+undertake		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+undertaking		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+united		<-->	adjeective+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+unity		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+urge		<-->	veerb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+violate		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+violation		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+violator		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+warranty		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+wheedle		<-->	veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+win around		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+win over		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+win round		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+wipe the slate clean		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+work on		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+wrap up		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+write into		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+yes-man		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+yield		<-->	veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+you win		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
 
 
 

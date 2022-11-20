@@ -11908,11 +11908,25 @@ withdrawn		<-->	adjective+C1[-0]	.
 
 
 
-witty		<-->	adjective+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+witty		<-->	adjective+C1[-0]	./ˈwɪti/
+ /ˈwɪti/ (comparative wittier, superlative wittiest)
+	;Word Family
+		wit 		noun
+		witty 		adjective
+		witticism 	noun
+		outwit 		verb
+	;hóm hỉnh -- (1) clever and humorous
+		;He was much in demand as a witty public speaker.
+		;Somebody made a witty remark about needing a forklift truck.
+		;Synonyms funny: amusingentertainingwittyhumorouscomichilarious
+		;Extra Examples:
+		;a brilliantly witty remark
+		;It's a wonderfully entertaining play with an endlessly witty script.
+		;TOPICS Personal qualitiesC1
+				;Oxford Collocations Dictionary
+				;Witty is used with these nouns:
+				;bantercommentlyrics…
+		;See full entry
 
 
 
@@ -11938,11 +11952,11 @@ wrong		<-->	adjective+B1[-0]	.
 
 
 
-wuss		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+wuss		<-->	noun+C2[-0]	./wʊs/
+ /wʊs/ (informal)
+	;kẻ hèn nhát -- (1) ​a person who is not strong or brave
+		;Don't be such a wuss!
+		;TOPICS Personal qualitiesC2
 
 
 

@@ -1,28 +1,30 @@
+------->>>>> [[[ENVIRONMENT]]]
+
 	The environment -- topicc
 	2022-06-18
 
 
-acid rain		<-->	noun+C1	[221117][001]	./ˌæsɪd ˈreɪn/-NAmE /ˌæsɪd ˈreɪn/ [uncountable]
+acid rain		<-->	noun++C1	[221117][001]	./ˌæsɪd ˈreɪn/-NAmE /ˌæsɪd ˈreɪn/ [uncountable]
 	;mưa axit -- rain that contains harmful chemicals from factory gases and that damages trees, crops and buildings
 		;Sulphur, falling as acid rain, is killing fish in the Great Lakes.
 		;TOPICS The environmentC1, WeatherC1
 
 
-act of God		 <-->	idiom+C2	[221117][001]	./
+act of God		 <-->	idiom++C2	[221117][001]	./i/
 	;ý Chúa -- (law) an event caused by natural forces beyond human control, such as a storm, a flood or an earthquake
 
 
-aerosol		<-->	noun+C2	[221117][001]	./ˈeərəsɒl/-NAmE /ˈerəsɑːl/
+aerosol		<-->	noun++C2	[221117][001]	./ˈeərəsɒl/-NAmE /ˈerəsɑːl/
 	;bình xịt -- a liquid such as paint or hairspray that is kept under pressure in a metal container and released as a spray
 	
 
 
-aftershock		<-->	noun+C2	[221117][001]	./ˈɑːftəʃɒk/-NAmE /ˈæftərʃɑːk/
+aftershock		<-->	noun++C2	[221117][001]	./ˈɑːftəʃɒk/-NAmE /ˈæftərʃɑːk/
 	;dư chấn -- a small earthquake that happens after a bigger one	
 		;The area suffered a series of aftershocks measuring up to 6.3 on the Richter scale.
 
 
-aid		<-->	noun+B2	[221117][001]	./eɪd/-NAmE /eɪd/ 
+aid		<-->	noun++B2	[221117][001]	./eɪd/-NAmE /eɪd/ 
 	;hàng, tiền cứu trợ -- [uncountable] money, food, etc. that is sent to help countries in difficult situations
 		;humanitarian/food/medical aid
 		;An extra £10 million in foreign aid has been provided for victims of the earthquake.
@@ -88,7 +90,7 @@ aid		<-->	noun+B2	[221117][001]	./eɪd/-NAmE /eɪd/
 				;agency, worker, budget…
 
 
-air		<-->	noun+A1	[221117][001]	./eə(r)/-NAmE /er/ 
+air		<-->	noun++A1	[221117][001]	./eə(r)/-NAmE /er/ 
 	;không khí -- [-gas] [uncountable] the mixture of gases that surrounds the earth and that we breathe
 		;Let's go out for some fresh air.
 		;a blast of hot air
@@ -130,42 +132,42 @@ air		<-->	noun+A1	[221117][001]	./eə(r)/-NAmE /er/
 
 
 
-airlift		<-->	noun+C2	[221117][001]	./ˈeəlɪft/-NAmE /ˈerlɪft/
+airlift		<-->	noun++C2	[221117][001]	./ˈeəlɪft/-NAmE /ˈerlɪft/
 	;không vận -- an operation to take people, soldiers, food, etc. 
 		to or from an area by aircraft, especially in an emergency or when roads are closed or dangerous
 		;an airlift of food and medical supplies to the besieged city
 		
 
 
-airlift		<-->	verb+C2	[221117][001]	./ˈeəlɪft/-NAmE /ˈerlɪft/\
+airlift		<-->	verb++C2	[221117][001]	./ˈeəlɪft/-NAmE /ˈerlɪft/\
 	;không vận -- airlift somebody/something to take somebody/something to or from an area by aircraft, especially in an emergency or when roads are closed or dangerous
 		;Two casualties were airlifted to safety.
 		
 
 
-air quality		<-->	noun+A2	[221117][001]	./ˈeə kwɒləti/-NAmE /ˈer kwɑːləti/ 
+air quality		<-->	noun++A2	[221117][001]	./ˈeə kwɒləti/-NAmE /ˈer kwɑːləti/ 
 	;chất lượng không khí -- [uncountable] ​the degree to which the air is clean and free from pollution
 		;Planting more trees will improve air quality.
 		;TOPICS The environmentA2
 
 
-alternative fuel		<-->	noun+B2	[221117][001]	./ɔːlˌtɜːnətɪv ˈfjuːəl/-NAmE /ɔːlˌtɜːrnətɪv ˈfjuːəl/ 
+alternative fuel		<-->	noun++B2	[221117][001]	./ɔːlˌtɜːnətɪv ˈfjuːəl/-NAmE /ɔːlˌtɜːrnətɪv ˈfjuːəl/ 
 	;nhiên liệu thay thế -- [countable, uncountable] fuel that can be used instead of fossil fuels such as coal and oil, and instead of nuclear fuel
 		;Biodiesel is a clean-burning alternative fuel.
 		;TOPICS The environmentB2
 
 
-asbestos		<-->	noun+C2	[221117][001]	./æsˈbestɒs/ =-NAmE  /æzˈbestəs/
+asbestos		<-->	noun++C2	[221117][001]	./æsˈbestɒs/ =-NAmE  /æzˈbestəs/
 	;amiăng, chất không cháy -- a soft grey mineral that does not burn and can be woven into material, used especially in the past in building as a protection against fire or to prevent heat loss. Asbestos is dangerous if you breathe it in.
 		
 
 
-atomic energy		<-->	noun+C1	[221117][001]	./əˌtɒmɪk ˈenədʒi/-NAmE /əˌtɑːmɪk ˈenərdʒi/  
+atomic energy		<-->	noun++C1	[221117][001]	./əˌtɒmɪk ˈenədʒi/-NAmE /əˌtɑːmɪk ˈenərdʒi/  
 	;năng lượng hạt nhân -- (also atomic power  /əˌtɒmɪk ˈpaʊə(r)/  /əˌtɑːmɪk ˈpaʊər/, nuclear energy, nuclear power) [uncountable] ​a powerful form of energy produced by changing matter into energy by splitting the nuclei (= central parts) of atoms. It is used to produce electricity.
 		;TOPICS The environmentC1, Physics and chemistryC1
 
 
-avalanche		<-->	noun+B2	[221117][001]	./ˈævəlɑːnʃ/-NAmE /ˈævəlæntʃ/
+avalanche		<-->	noun++B2	[221117][001]	./ˈævəlɑːnʃ/-NAmE /ˈævəlæntʃ/
 	;(North American English also snowslide)
 	;vụ lỡ tuyết -- a mass of snow, ice and rock that falls down the side of a mountain
 		;alpine villages destroyed in an avalanche
@@ -186,60 +188,60 @@ avalanche		<-->	noun+B2	[221117][001]	./ˈævəlɑːnʃ/-NAmE /ˈævəlæntʃ/
 
 
 
-biodegradable		<-->	adjective+C1	[221117][001]	./ˌbaɪəʊdɪˈɡreɪdəbl/-NAmE /ˌbaɪəʊdɪˈɡreɪdəbl/ 
+biodegradable		<-->	adjective++C1	[221117][001]	./ˌbaɪəʊdɪˈɡreɪdəbl/-NAmE /ˌbaɪəʊdɪˈɡreɪdəbl/ 
 	;phân huỷ sinh học -- a substance or chemical that is biodegradable can be changed by the action of bacteria to a natural state that will not harm the environment
 		;Most plastics are not readily biodegradable.
 
 
-biodiversity		<-->	noun+C1	[221117][001]	./ˌbaɪəʊdaɪˈvɜːsəti/-NAmE /ˌbaɪəʊdaɪˈvɜːrsəti/ 
+biodiversity		<-->	noun++C1	[221117][001]	./ˌbaɪəʊdaɪˈvɜːsəti/-NAmE /ˌbaɪəʊdaɪˈvɜːrsəti/ 
 	;đa dạng sinh học -- the existence of a large number of different kinds of animals and plants which make a balanced environment
 		;The mining project threatens one of the world’s richest areas of biodiversity.
 		
 
 
-biofuel		<-->	noun+B2	[221117][001]	./ˈbaɪəʊfjuːəl/-NAmE /ˈbaɪəʊfjuːəl/
+biofuel		<-->	noun++B2	[221117][001]	./ˈbaɪəʊfjuːəl/-NAmE /ˈbaɪəʊfjuːəl/
 	;nhiên liệu sinh học  -- fuel made from plant or animal sources and used in engines
 		;energy from biofuel sources
 		
 
 
-biogas		<-->	noun+C2	[221117][001]	./ˈbaɪəʊɡæs/-NAmE /ˈbaɪəʊɡæs/
+biogas		<-->	noun++C2	[221117][001]	./ˈbaɪəʊɡæs/-NAmE /ˈbaɪəʊɡæs/
 	;khí ga chuồng -- gas, especially methane, that is produced by dead plants and that can be burned to produce heat
 	
 
 
-biohazard		<-->	noun+C2	[221117][001]	./ˈbaɪəʊhæzəd/-NAmE /ˈbaɪəʊhæzərd/
+biohazard		<-->	noun++C2	[221117][001]	./ˈbaɪəʊhæzəd/-NAmE /ˈbaɪəʊhæzərd/
 	;sự nguy hiểm từ môi trường độc hại, nguy cơ sinh học -- a risk to human health or to the environment from a biological source
 
 
-biological diversity		<-->	noun+C1	[221117][001]	./ˌbaɪəˌlɒdʒɪkl daɪˈvɜːsəti/-NAmE /ˌbaɪəˌlɑːdʒɪkl daɪˈvɜːrsəti/ 
+biological diversity		<-->	noun++C1	[221117][001]	./ˌbaɪəˌlɒdʒɪkl daɪˈvɜːsəti/-NAmE /ˌbaɪəˌlɑːdʒɪkl daɪˈvɜːrsəti/ 
 	;sự đa dạng sinh học -- the existence of a large number of different kinds of animals and plants which make a balanced environment
 		
 
 
-biome		<-->	noun+B2	[221117][001]	./ˈbaɪəʊm/-NAmE /ˈbaɪəʊm/
+biome		<-->	noun++B2	[221117][001]	./ˈbaɪəʊm/-NAmE /ˈbaɪəʊm/
 	;quần xã sinh vật -- ​the characteristic plants and animals that exist in a particular type of environment
 		, for example in a forest or desert
 	
 
 
-blackout		<-->	noun+C2	[221117][001]	./ˈblækaʊt/-NAmE /ˈblækaʊt/
+blackout		<-->	noun++C2	[221117][001]	./ˈblækaʊt/-NAmE /ˈblækaʊt/
 	;lúc tối và cúp điện -- a period when there is no light as a result of an electrical power failure
 		;The storm caused blackouts in many areas.
 		
 
 
-blizzard		<-->	noun+B2	[221117][001]	./ˈblɪzəd/-NAmE /ˈblɪzərd/
+blizzard		<-->	noun++B2	[221117][001]	./ˈblɪzəd/-NAmE /ˈblɪzərd/
 	;bão tuyết -- a snowstorm with very strong winds
 	
 
 
-bottle bank		<-->	noun+B2	[221117][001]	./ˈbɒtl bæŋk/-NAmE /ˈbɑːtl bæŋk/ 
+bottle bank		<-->	noun++B2	[221117][001]	./ˈbɒtl bæŋk/-NAmE /ˈbɑːtl bæŋk/ 
 	;nơi để rác tái chế -- a large container in a public place where people can leave their empty bottles so that the glass can be used again (= recycled);a public place with several of these containers
 	
 
 
-cable		<-->	noun+B2	[221117][001]	./ˈkeɪbl/-NAmE /ˈkeɪbl/
+cable		<-->	noun++B2	[221117][001]	./ˈkeɪbl/-NAmE /ˈkeɪbl/
 	;dây cáp --   [countable, uncountable] a set of wires, covered in plastic or rubber, that carries electricity, phone signals, etc.
 		;fibre-optic cable
 		;a power cable
@@ -261,12 +263,12 @@ cable		<-->	noun+B2	[221117][001]	./ˈkeɪbl/-NAmE /ˈkeɪbl/
 				;go, run, connect something…
 
 
-cap and trade		<-->	noun+C2	[221117][001]	./ˌkæp ən ˈtreɪd/-NAmE /ˌkæp ən ˈtreɪd/
+cap and trade		<-->	noun++C2	[221117][001]	./ˌkæp ən ˈtreɪd/-NAmE /ˌkæp ən ˈtreɪd/
 	;hệ thống kiểm soát khí thải carbon -- a system for controlling carbon emissions and other forms of pollution by setting a limit on the amount any business or organization may produce while allowing them to buy extra capacity from other organizations which have not used their full limit
 		;Some environmentalists oppose the whole idea of cap and trade.
 
 
-carbon		<-->	noun+B2	[221117][001]	./ˈkɑːbən/-NAmE /ˈkɑːrbən/
+carbon		<-->	noun++B2	[221117][001]	./ˈkɑːbən/-NAmE /ˈkɑːrbən/
 	;Khí thải chứa carbon --  [uncountable] used when referring to the gas carbon dioxide in terms of the effect it has on the earth’s climate in causing global warming
 		;carbon emissions/levels/taxes
 		;(British English) How do we move to a low-carbon economy?
@@ -281,24 +283,24 @@ carbon		<-->	noun+B2	[221117][001]	./ˈkɑːbən/-NAmE /ˈkɑːrbən/
 				;a form of carbon
 
 
-carbon capture and storage		<-->	noun+C1	[221117][001]	./ˌkɑːbən ˌkæptʃər ən ˈstɔːrɪdʒ/-NAmE /ˌkɑːrbən ˌkæptʃər ən ˈstɔːrɪdʒ/
+carbon capture and storage		<-->	noun++C1	[221117][001]	./ˌkɑːbən ˌkæptʃər ən ˈstɔːrɪdʒ/-NAmE /ˌkɑːrbən ˌkæptʃər ən ˈstɔːrɪdʒ/
 	;quy trình xử lý khí thải carbon -- the process of collecting carbon dioxide produced by burning coal, oil, etc. and other industrial processes, and storing it so that it does not affect the atmosphere
 	
 
 
-carbon credit		<-->	noun+C2	[221117][001]	./ˈkɑːbən kredɪt/-NAmE /ˈkɑːrbən kredɪt/
+carbon credit		<-->	noun++C2	[221117][001]	./ˈkɑːbən kredɪt/-NAmE /ˈkɑːrbən kredɪt/
 	;hạn ngạch carbon -- a key element in the system of national and international carbon trading. A country or organization has the right to produce a particular amount of carbon dioxide and other gases that cause global warming, which is expressed in terms of carbon credits, which may be traded between countries or organizations.
 		;The sale of carbon credits can finance renewable energy projects.
 		
 
 
-carbon debt		<-->	noun+C2	[221117][001]	./ˌkɑːbən ˈdet/-NAmE /ˌkɑːrbən ˈdet/
+carbon debt		<-->	noun++C2	[221117][001]	./ˌkɑːbən ˈdet/-NAmE /ˌkɑːrbən ˈdet/
 	;nợ khí thải -- the difference between the effects of the carbon footprint of a country, group, person, etc. and anything that has been agreed or done to reduce these effects
 		;A massive carbon debt will be created when the forests are harvested.
 		
 
 
-carbon dioxide		<-->	noun+B2	[221117][001]	./ˌkɑːbən daɪˈɒksaɪd/-NAmE /ˌkɑːrbən daɪˈɑːksaɪd/
+carbon dioxide		<-->	noun++B2	[221117][001]	./ˌkɑːbən daɪˈɒksaɪd/-NAmE /ˌkɑːrbən daɪˈɑːksaɪd/
 	;khí CO2 -- [uncountable] (symbol CO2)​ a gas breathed out by people and animals from the lungs or produced by burning carbon
 		;Coke burns with oxygen to give carbon dioxide.
 		;Trees absorb carbon dioxide and produce oxygen.
@@ -312,53 +314,53 @@ carbon dioxide		<-->	noun+B2	[221117][001]	./ˌkɑːbən daɪˈɒksaɪd/-NAmE /�
 				;a build-up of carbon dioxide, emissions of carbon dioxide
 
 
-carbon footprint		<-->	noun+B2	[221117][001]	./ˌkɑːbən ˈfʊtprɪnt/-NAmE /ˌkɑːrbən ˈfʊtprɪnt/
+carbon footprint		<-->	noun++B2	[221117][001]	./ˌkɑːbən ˈfʊtprɪnt/-NAmE /ˌkɑːrbən ˈfʊtprɪnt/
 	;chỉ số carbon -- ​a measure of the amount of carbon dioxide that is produced by the activities of a person or company
 	
 
 
-carbon monoxide		<-->	noun+C1	[221117][001]	./ˌkɑːbən məˈnɒksaɪd/-NAmE /ˌkɑːrbən məˈnɑːksaɪd/
+carbon monoxide		<-->	noun++C1	[221117][001]	./ˌkɑːbən məˈnɒksaɪd/-NAmE /ˌkɑːrbən məˈnɑːksaɪd/
 	;khí CO
 
 
-carbon-neutral		<-->	adjective+C1	[221117][001]	./ˌkɑːbən ˈnjuːtrəl/-NAmE /ˌkɑːrbən ˈnuːtrəl/ 
+carbon-neutral		<-->	adjective++C1	[221117][001]	./ˌkɑːbən ˈnjuːtrəl/-NAmE /ˌkɑːrbən ˈnuːtrəl/ 
 	;trung hoà carbon -- SYNONYM zero-carbon -- in which the amount of carbon dioxide produced has been reduced to nothing or is balanced by actions that protect the environment
 
 
-carbon offset		<-->	noun+C2	[221117][001]	./ˌkɑːbən ˈɒfset/-NAmE /ˌkɑːrbən ˈɔːfset/
+carbon offset		<-->	noun++C2	[221117][001]	./ˌkɑːbən ˈɒfset/-NAmE /ˌkɑːrbən ˈɔːfset/
 	;cách thức giảm khí thải CO2 -- a way for a company or person to reduce the level of carbon dioxide for which they are responsible by paying money to a company that works to reduce the total amount produced in the world, for example by planting trees
 		;carbon offset projects
 		
 
 
-carbon sequestration		<-->	noun+C2	[221117][001]	./ˌkɑːbən ˌsiːkwəˈstreɪʃn/-NAmE /ˌkɑːrbən ˌsiːkwəˈstreɪʃn/
+carbon sequestration		<-->	noun++C2	[221117][001]	./ˌkɑːbən ˌsiːkwəˈstreɪʃn/-NAmE /ˌkɑːrbən ˌsiːkwəˈstreɪʃn/
 	;quá trình chứa CO2 -- the process of storing carbon dioxide that has been collected and removed from the atmosphere, in solid or liquid form
 
 
-carbon trading		<-->	noun+C1	[221117][001]	./ˈkɑːbən treɪdɪŋ/-NAmE /ˈkɑːrbən treɪdɪŋ/
+carbon trading		<-->	noun++C1	[221117][001]	./ˈkɑːbən treɪdɪŋ/-NAmE /ˈkɑːrbən treɪdɪŋ/
 	;hạn ngạch carbon ( có thể mua bán) --  a system that gives countries and organizations the right to produce a particular 
 		amount of carbon dioxide and other gases that cause global warming, and allows them to sell this right
 		;a global carbon trading system
 
 
-cataclysm		<-->	noun+C2	[221117][001]	./ˈkætəklɪzəm/-NAmE /ˈkætəklɪzəm/
+cataclysm		<-->	noun++C2	[221117][001]	./ˈkætəklɪzəm/-NAmE /ˈkætəklɪzəm/
 	;thảm hoạ -- a sudden disaster or a violent event that causes change, for example a flood or a war
 		;to survive the cataclysm of the Black Death
 		
 
 
-catalytic converter		<-->	noun+C2	[221117][001]	./ˌkætəˌlɪtɪk kənˈvɜːtə(r)/-NAmE /ˌkætəˌlɪtɪk kənˈvɜːrtər/
+catalytic converter		<-->	noun++C2	[221117][001]	./ˌkætəˌlɪtɪk kənˈvɜːtə(r)/-NAmE /ˌkætəˌlɪtɪk kənˈvɜːrtər/
 	;thiết bị xả thải -- ​a device used in the exhaust system of vehicles to reduce the damage caused to the environment
 		;a car fitted with a catalytic converter
  
 
 
-CFC		<-->	noun+C2	[221117][001]	./ˌsiː ef ˈsiː/-NAmE /ˌsiː ef ˈsiː/
+CFC		<-->	noun++C2	[221117][001]	./ˌsiː ef ˈsiː/-NAmE /ˌsiː ef ˈsiː/
 	;chất làm thủng tần ozone -- a type of gas previously used especially in aerosols (= types of container that release liquid in very small drops). CFCs are harmful to the earth’s ozone layer and are generally no longer used in these products. (the abbreviation for ‘chlorofluorocarbon’)
  
 
 
-clean		<-->	adjective+A1	[221117][001]	./kliːn/-NAmE /kliːn/   
+clean		<-->	adjective++A1	[221117][001]	./kliːn/-NAmE /kliːn/   
 	;an toàn, sạch -- (not harmful)​  free from harmful or unpleasant substances
 		;clean water/air
 		;Thousands were left without food or clean drinking water.
@@ -377,12 +379,12 @@ clean		<-->	adjective+A1	[221117][001]	./kliːn/-NAmE /kliːn/
 				;clean and tidy, neat and clean, lovely and clean…
 
 
-clean-up		<-->	noun+B2	[221117][001]	./ˈkliːn ʌp/-NAmE /ˈkliːn ʌp/
+clean-up		<-->	noun++B2	[221117][001]	./ˈkliːn ʌp/-NAmE /ˈkliːn ʌp/
 	;quá trình làm sạch -- the process of removing dirt, pollution, or things that are considered bad or offensive from a place
 		;the clean-up of the river
 
 
-clean up		<-->	phrasal verb+B1[-0]	.
+clean up		<-->	phrasal verb++B1	[221119][001]	./p/
 	;làm sạch, dọn dẹp -- to remove dirt, etc. from somewhere
 		;He always expected other people to clean up after him (= when he had made the place dirty or untidy).
 		;Who's going to clean up this mess?
@@ -393,7 +395,7 @@ clean up		<-->	phrasal verb+B1[-0]	.
 		;TOPICS The environmentB1
 
 
-climate		<-->	noun+A2	[221117][001]	./ˈklaɪmət/-NAmE /ˈklaɪmət/ 
+climate		<-->	noun++A2	[221117][001]	./ˈklaɪmət/-NAmE /ˈklaɪmət/ 
 	;khí hậu --   [countable, uncountable] the regular pattern of weather conditions of a particular place
 		;a tropical/warm/mild/temperate/cold climate
 		;the harsh climate of the Arctic regions
@@ -416,14 +418,14 @@ climate		<-->	noun+A2	[221117][001]	./ˈklaɪmət/-NAmE /ˈklaɪmət/
 				;in a/​the climate
 
 
-climate action		<-->	noun+B2	[221117][001]	./ˈklaɪmət ækʃn/-NAmE /ˈklaɪmət ækʃn/
+climate action		<-->	noun++B2	[221117][001]	./ˈklaɪmət ækʃn/-NAmE /ˈklaɪmət ækʃn/
 	;hành động chống biến đổi khí hậu -- [uncountable, countable] ​the act of doing something to reduce or stop climate change and prevent serious permanent damage to the environment
 		;There have been renewed calls for global climate action and reduction of emissions.
 		;A growing number of people believe that further climate actions must be taken.
 		;TOPICS The environmentB2
 
 
-climate change		<-->	noun+A2	[221117][001]	./ˈklaɪmət tʃeɪndʒ/-NAmE /ˈklaɪmət tʃeɪndʒ/
+climate change		<-->	noun++A2	[221117][001]	./ˈklaɪmət tʃeɪndʒ/-NAmE /ˈklaɪmət tʃeɪndʒ/
 	;biến đổi khí hậu -- [uncountable] ​changes in the earth’s weather, including changes in temperature, wind patterns and rainfall, especially the increase in the temperature of the earth’s atmosphere that is caused by the increase of particular gases, especially carbon dioxide
 		;the threat of global climate change
 		;These policies are designed to combat the effects of climate change.
@@ -432,37 +434,37 @@ climate change		<-->	noun+A2	[221117][001]	./ˈklaɪmət tʃeɪndʒ/-NAmE /ˈkla
 		;TOPICS The environmentA2
 
 
-climate change denial		<-->	noun+C1	[221117][001]	./ˈklaɪmət tʃeɪndʒ dɪnaɪəl/-NAmE /ˈklaɪmət tʃeɪndʒ dɪnaɪəl/
+climate change denial		<-->	noun++C1	[221117][001]	./ˈklaɪmət tʃeɪndʒ dɪnaɪəl/-NAmE /ˈklaɪmət tʃeɪndʒ dɪnaɪəl/
 	;chống biến đổi khí hậu -- (also climate denial) [uncountable] ​the fact of refusing to accept that climate change is happening and is caused by human behaviour
 		;Climate change denial and the promotion of fossil fuels have eroded the world's ability to hold back global warming.
 		;TOPICS The environmentC1
 
 
-climate crisis		<-->	noun+B2	[221117][001]	./ˈklaɪmət kraɪsɪs/-NAmE /ˈklaɪmət kraɪsɪs/
+climate crisis		<-->	noun++B2	[221117][001]	./ˈklaɪmət kraɪsɪs/-NAmE /ˈklaɪmət kraɪsɪs/
 	;tình trạng khủng hoảng khí hậu -- a situation in which immediate action is needed to reduce or stop climate change and prevent serious and permanent damage to the environment
 		;Momentum is growing around the world for governments to take urgent action to tackle the climate crisis.
 		
 
 
-climate denial		<-->	noun+C1	[221117][001]	./ˈklaɪmət dɪnaɪəl/-NAmE /ˈklaɪmət dɪnaɪəl/
+climate denial		<-->	noun++C1	[221117][001]	./ˈklaɪmət dɪnaɪəl/-NAmE /ˈklaɪmət dɪnaɪəl/
 	;sự kiện phản đối biến đổi  môi trường -- the fact of refusing to accept that climate change is happening and is caused by human behaviour
 		;The event shed light on climate denial tactics by big polluters.
 
 
-climate emergency		<-->	noun+B1   
+climate emergency		<-->	noun++B1	[221119][001]	./ˈklaɪmət ɪmɜːdʒənsi/-NAmE /ˈklaɪmət ɪmɜːrdʒənsi/ (also climate crisis)
 	;tình huống khẩn cấp về môi trường -- a situation in which immediate action is needed to reduce or stop climate change and prevent serious and permanent damage to the environment
 		;Halifax became the second Canadian city to declare a climate emergency.
 		;Wildfire is a climate emergency.
 		
 
 
-climate strike		<-->	noun+B2	[221117][001]	./ˈklaɪmət straɪk/-NAmE /ˈklaɪmət straɪk/
+climate strike		<-->	noun++B2	[221117][001]	./ˈklaɪmət straɪk/-NAmE /ˈklaɪmət straɪk/
 	;biểu tình cho môi trường -- the act of not going to school or work in order to join a public protest to demand action against climate change
 		;Millions of people around the world joined the climate strike on Friday.
 		
 
 
-coal		<-->	noun+B1	[221117][001]	./kəʊl/-NAmE /kəʊl/ 
+coal		<-->	noun++B1	[221117][001]	./kəʊl/-NAmE /kəʊl/ 
 	;than đá -- (Idioms) [uncountable] a hard black mineral that is found below the ground and burnt to produce heat
 		;I put more coal on the fire.
 		;a lump of coal
@@ -486,18 +488,18 @@ coal		<-->	noun+B1	[221117][001]	./kəʊl/-NAmE /kəʊl/
 				;fire, mine, pit…
 
 
-compost		<-->	verb+C2	[221117][001]	./ˈkɒmpɒst/-NAmE /ˈkɑːmpəʊst/  
+compost		<-->	verb++C2	[221117][001]	./ˈkɒmpɒst/-NAmE /ˈkɑːmpəʊst/  
 	;phân huỷ (tự nhiên) -- a mixture of decayed (= destroyed by natural processes) plants, food, etc. that can be added to soil to help plants grow
 		
 
 
-conservancy		<-->	noun+C2	[221117][001]	./kənˈsɜːvənsi/-NAmE /kənˈsɜːrvənsi/
+conservancy		<-->	noun++C2	[221117][001]	./kənˈsɜːvənsi/-NAmE /kənˈsɜːrvənsi/
 	;cơ quan bảo vệ tài nguyên -- Conservancy [singular + singular or plural verb] a group of officials who control the use of a port, a river, an area of land, etc.
 		;the Thames Conservancy
 		
 
 
-conservation		<-->	noun+B2	[221117][001]	./ˌkɒnsəˈveɪʃn/-NAmE /ˌkɑːnsərˈveɪʃn/
+conservation		<-->	noun++B2	[221117][001]	./ˌkɒnsəˈveɪʃn/-NAmE /ˌkɑːnsərˈveɪʃn/
 	;sự bảo tồn -- [uncountable] the protection of the natural environment
 		;SYNONYM conservancy
 		;to be interested in wildlife conservation
@@ -512,12 +514,12 @@ conservation		<-->	noun+B2	[221117][001]	./ˌkɒnsəˈveɪʃn/-NAmE /ˌkɑːnsə
 				;body, group, movement…
 
 
-conservation area		<-->	noun+B2	[221117][001]	./ˌkɒnsəˈveɪʃn eəriə/-NAmE /ˌkɑːnsərˈveɪʃn eriə/
+conservation area		<-->	noun++B2	[221117][001]	./ˌkɒnsəˈveɪʃn eəriə/-NAmE /ˌkɑːnsərˈveɪʃn eriə/
 	;khu bảo tồn -- (in the UK) an area where the natural environment or the buildings are protected by law from being damaged or changed
 		
 
 
-conservationist		<-->	noun+C1	[221117][001]	./ˌkɒnsəˈveɪʃənɪst/-NAmE /ˌkɑːnsərˈveɪʃənɪst/
+conservationist		<-->	noun++C1	[221117][001]	./ˌkɒnsəˈveɪʃənɪst/-NAmE /ˌkɑːnsərˈveɪʃənɪst/
 ​	;người theo chủ nghĩa bảo tồn -- a person who takes an active part in the protection of the environment
 		;a meeting of local conservationists
 		;TOPICS The environmentC1
@@ -526,7 +528,7 @@ conservationist		<-->	noun+C1	[221117][001]	./ˌkɒnsəˈveɪʃənɪst/-NAmE /ˌ
 				;wildlife
 
 
-conserve		<-->	verb+C1	[221117][001]	./kənˈsɜːv/-NAmE /kənˈsɜːrv/
+conserve		<-->	verb++C1	[221117][001]	./kənˈsɜːv/-NAmE /kənˈsɜːrv/
 	;bảo tồn -- 
 	;conserve something to protect something and prevent it from being changed or destroyed
 		;new laws to conserve wildlife in the area
@@ -534,7 +536,7 @@ conserve		<-->	verb+C1	[221117][001]	./kənˈsɜːv/-NAmE /kənˈsɜːrv/
 		;TOPICS The environmentC1
 
 
-consume		<-->	verb+B1	[221117][001]	./kənˈsjuːm/-NAmE /kənˈsuːm/
+consume		<-->	verb++B1	[221117][001]	./kənˈsjuːm/-NAmE /kənˈsuːm/
 	;tiêu thụ -- 
 ​	;consume something: to use something, especially fuel, energy or time
 		;The electricity industry consumes large amounts of fossil fuels.
@@ -543,38 +545,43 @@ consume		<-->	verb+B1	[221117][001]	./kənˈsjuːm/-NAmE /kənˈsuːm/
 		;TOPICS The environmentB1
 
 
-consumption		<-->	noun+B2	[221117][001]	./kənˈsʌmpʃn/-NAmE /kənˈsʌmpʃn/
+consumption		<-->	noun++B2	[221117][001]	./kənˈsʌmpʃn/-NAmE /kənˈsʌmpʃn/
 	;sự tiêu thụ -- the act of using energy, food or materials;the amount used
 		;Gas and oil consumption always increases in cold weather.
 		;He was advised to reduce his cigarette consumption.
 
 
-contaminate		<-->	verb+C1	[221117][001]	./kənˈtæmɪneɪt/-NAmE /kənˈtæmɪneɪt/
+contaminate		<-->	verb++C1	[221117][001]	./kənˈtæmɪneɪt/-NAmE /kənˈtæmɪneɪt/
 	;làm ô nhiễm -- contaminate something (with something) :to make a substance or place dirty or no longer pure by adding a substance that is dangerous or carries diseas
 		;The drinking water has become contaminated with lead.
 	
 
 
-contamination		<-->	noun+C1	[221117][001]	./kənˌtæmɪˈneɪʃn/-NAmE /kənˌtæmɪˈneɪʃn/	
+contamination		<-->	noun++C1	[221117][001]	./kənˌtæmɪˈneɪʃn/-NAmE /kənˌtæmɪˈneɪʃn/	
 	;quá trình xả thải gây ô nhiễm -- the process or fact of making a substance or place dirty or no longer pure by adding a substance that is dangerous or carries disease
 		;radioactive contamination
 		
 
 
-cooling tower		<-->	noun+C2	[221117][001]	./ˈkuːlɪŋ taʊə(r)/-NAmE /ˈkuːlɪŋ taʊər/
+cooling tower		<-->	noun++C2	[221117][001]	./ˈkuːlɪŋ taʊə(r)/-NAmE /ˈkuːlɪŋ taʊər/
 	;tháp làm lạnh -- a large high round building used in industry for cooling water before it is used again
 	
 
 
-crude		<-->	noun+C2	[221117][001]	./kruːd/-NAmE /kruːd/
+crude		<-->	noun++C2	[221117][001]	./kruːd/-NAmE /kruːd/-\ (also crude oil) [uncountable]
 	;dầu thô -- oil in its natural state, before it has been processed or refined
+		;50 000 barrels of crude
+		;TOPICS The environmentC2
 
 
-crude		<-->	adjective+C2[-0]	.
+
+
+
+crude		<-->	adjective++C2	[221119][001]	./cef/
 	;thô -- [usually before noun] (of oil and other natural substances) in its natural state, before it has been processed or refined
 
 
-cyclone		<-->	noun+C1	[221117][001]	./ˈsaɪkləʊn/-NAmE /ˈsaɪkləʊn/  
+cyclone		<-->	noun++C1	[221117][001]	./ˈsaɪkləʊn/-NAmE /ˈsaɪkləʊn/  
 	;lốc xoáy -- (1) a violent tropical storm in which strong winds move in a circle
 		;The cyclone struck the village late last night.
 		;Cyclone Tracy hit Darwin on Christmas Eve, 1974.
@@ -610,7 +617,7 @@ cyclone		<-->	noun+C1	[221117][001]	./ˈsaɪkləʊn/-NAmE /ˈsaɪkləʊn/
 
 
 
-dam		<-->	noun+C1	[221117][001]	./dæm/-NAmE /dæm/\ 
+dam		<-->	noun++C1	[221117][001]	./dæm/-NAmE /dæm/\ 
 	;con đập -- a barrier that is built across a river in order to stop the water from flowing, used especially to make a reservoir (= a lake for storing water) or to produce electricity
 		;the Narmada dam in India
 		;The dam burst.
@@ -638,13 +645,13 @@ dam		<-->	verb++	[221117][001]	./dæm/-NAmE /dæm/
 		;They formed artificial lakes by damming up a natural stream.
 
 
-death toll		<-->	noun+C2	[221117][001]	./ˈdeθ təʊl/-NAmE /ˈdeθ təʊl/
+death toll		<-->	noun++C2	[221117][001]	./ˈdeθ təʊl/-NAmE /ˈdeθ təʊl/
 ​	;số lượng người chết -- the number of people killed in an accident, a war, a disaster, etc.
 		;The death toll has now risen to 200.
 		;TOPICS The environmentC2
 
 
-deforestation		<-->	noun+B2	[221117][001]	./ˌdiːˌfɒrɪˈsteɪʃn/-NAmE /ˌdiːˌfɔːrɪˈsteɪʃn/
+deforestation		<-->	noun++B2	[221117][001]	./ˌdiːˌfɒrɪˈsteɪʃn/-NAmE /ˌdiːˌfɔːrɪˈsteɪʃn/
 	;sự đốt, phá rừng -- [uncountable]  [IMAGE]	the act of cutting down or burning the trees in an area
 		;land erosion caused by widespread deforestation
 		;Collocations The environment:
@@ -692,61 +699,61 @@ deforestation		<-->	noun+B2	[221117][001]	./ˌdiːˌfɒrɪˈsteɪʃn/-NAmE /ˌdi
 		;TOPICS The environmentB2
 
 
-derrick		<-->	noun+C2	[221117][001]	./ˈderɪk/-NAmE /ˈderɪk/
+derrick		<-->	noun++C2	[221117][001]	./ˈderɪk/-NAmE /ˈderɪk/
 	;cần cẩu giàn khoan dầu -- a tall structure over an oil well for holding the drill (= the machine that makes the hole in the ground for getting the oil out)
 
 
-disaster area		<-->	noun+B1	[221117][001]	./dɪˈzɑːstər eəriə/-NAmE /dɪˈzæstər eriə/
+disaster area		<-->	noun++B1	[221117][001]	./dɪˈzɑːstər eəriə/-NAmE /dɪˈzæstər eriə/
 ​	;vùng có thảm hoạ vừa xảy ra -- a place where a disaster has happened and that needs special help
 		;TOPICS The environmentB1
 
 
-disposal		<-->	noun+C1[-0]	.
+disposal		<-->	noun++C1	[221119][001]	./cef/
 	;hành động vứt bỏ -- [uncountable] the act of getting rid of something
 		;sewage disposal systems
 		;the problems of the ultimate disposal of nuclear waste
 		
 
 
-diversity		<-->	noun+B2	[221117][001]	./daɪˈvɜːsəti/-NAmE /daɪˈvɜːrsəti/
+diversity		<-->	noun++B2	[221117][001]	./daɪˈvɜːsəti/-NAmE /daɪˈvɜːrsəti/
 	;tính đa dạng -- SYNONYM variety -- [uncountable, countable, usually singular] a range of many people or things that are very different from each other
 		;the biological diversity of the rainforests
 		
 
 
-drill		<-->	verb+C1	[221117][001]	./drɪl/-NAmE /drɪl/  
+drill		<-->	verb++C1	[221117][001]	./drɪl/-NAmE /drɪl/  
 	;<<khoan, diễn tập>> -- [intransitive] drill (for something) to try to get oil or water by drilling in the ground or sea bed
 		;They're drilling for oil off the Irish coast.
 
 
-drought		<-->	noun+B2	[221117][001]	./draʊt/-NAmE /draʊt/
+drought		<-->	noun++B2	[221117][001]	./draʊt/-NAmE /draʊt/
 	;thời gian khô hạn, mùa khô -- a long period of time when there is little or no rain
 		;Farmers are facing ruin after two years of severe drought.
 		
 
 
-dump		<-->	verb+B2	[221117][001]	./dʌmp/-NAmE /dʌmp/
+dump		<-->	verb++B2	[221117][001]	./dʌmp/-NAmE /dʌmp/
 	;thải ra -- dump something : to <get rid> of something you do not want, especially in a place that is not suitable
 		;Too much toxic waste is being dumped at sea.
 
 
-dumper		<-->	noun+C1	[221117][001]	./ˈdʌmpə(r)/-NAmE /ˈdʌmpər/
+dumper		<-->	noun++C1	[221117][001]	./ˈdʌmpə(r)/-NAmE /ˈdʌmpər/
 	;người xả thải nguy hiểm -- a person who throws away dangerous or harmful things, especially in the wrong place
 		
 
 
-dumping		<-->	noun+C1	[221117][001]	./ˈdʌmpɪŋ/-NAmE /ˈdʌmpɪŋ/ 
+dumping		<-->	noun++C1	[221117][001]	./ˈdʌmpɪŋ/-NAmE /ˈdʌmpɪŋ/ 
 	;việc xả thải -- ​the act or practice of dumping something (= leaving something that you do not want in a place that is not suitable), especially dangerous substances
 		;a ban on the dumping of radioactive waste at sea
  
  
 
 
-dust storm		<-->	noun+B2	[221117][001]	./ˈdʌst stɔːm/-NAmE /ˈdʌst stɔːrm/  
+dust storm		<-->	noun++B2	[221117][001]	./ˈdʌst stɔːm/-NAmE /ˈdʌst stɔːrm/  
 	;000 -- TOPICS WeatherB2, The environmentB2
 
 
-earthquake		<-->	noun+B1	[221117][001]	./ˈɜːθkweɪk/-NAmE /ˈɜːrθkweɪk/
+earthquake		<-->	noun++B1	[221117][001]	./ˈɜːθkweɪk/-NAmE /ˈɜːrθkweɪk/
 	;động đất -- (also informal quake) a sudden, violent shaking of the earth’s surface
 		;a devastating/massive/powerful earthquake
 		;The earthquake measured 68 on the Richter scale.
@@ -770,31 +777,31 @@ earthquake		<-->	noun+B1	[221117][001]	./ˈɜːθkweɪk/-NAmE /ˈɜːrθkweɪk/
 				;in an/​the earthquake
 
 
-eco-anxiety		<-->	noun+C1	[221117][001]	./ˌiːkəʊ æŋˈzaɪəti/-NAmE /ˌiːkəʊ æŋˈzaɪəti/
+eco-anxiety		<-->	noun++C1	[221117][001]	./ˌiːkəʊ æŋˈzaɪəti/-NAmE /ˌiːkəʊ æŋˈzaɪəti/
 	;Sự lo lắng về môi trường -- a feeling of worry about threats to the environment, such as pollution and climate change
 		;Growing awareness of climate change is causing some people to suffer from eco-anxiety.
 		
 
 
-eco-friendly		<-->	adjective+B2	[221117][001]	./ˌiːkəʊ ˈfrendli/-NAmE /ˌiːkəʊ ˈfrendli/
+eco-friendly		<-->	adjective++B2	[221117][001]	./ˌiːkəʊ ˈfrendli/-NAmE /ˌiːkəʊ ˈfrendli/
 ​	;thân thiện môi trường -- not harmful to the environment
 		;eco-friendly products
 		;TOPICS The environmentB2
 
 
-ecological		<-->	adjective+C1	[221117][001]	./ˌiːkəˈlɒdʒɪkl/-NAmE /ˌiːkəˈlɑːdʒɪkl/
+ecological		<-->	adjective++C1	[221117][001]	./ˌiːkəˈlɒdʒɪkl/-NAmE /ˌiːkəˈlɑːdʒɪkl/
 ​	;có liên hệ với môi trường -- connected with the relation of plants and living creatures to each other and to their environment
 		;We risk upsetting the ecological balance of the area.
 		;an ecological disaster (= one that alters the whole balance of ecology in an area)
 		;TOPICS The environmentC1
 
 
-ecologist		<-->	noun+C1	[221117][001]	./iˈkɒlədʒɪst/-NAmE /iˈkɑːlədʒɪst/ 
+ecologist		<-->	noun++C1	[221117][001]	./iˈkɒlədʒɪst/-NAmE /iˈkɑːlədʒɪst/ 
 	;nhà sinh thái học -- a scientist who studies ecology
 		;TOPICS The environmentC1
 
 
-ecology		<-->	noun+B2	[221117][001]	./iˈkɒlədʒi/-NAmE /iˈkɑːlədʒi/
+ecology		<-->	noun++B2	[221117][001]	./iˈkɒlədʒi/-NAmE /iˈkɑːlədʒi/
 	;sinh thái học -- [uncountable, countable] (plural ecologies) ​the relation of plants and living creatures to each other and to their environment;the study of this
 		;plant/animal/human ecology
 		;the ecology movement
@@ -810,37 +817,37 @@ ecology		<-->	noun+B2	[221117][001]	./iˈkɒlədʒi/-NAmE /iˈkɑːlədʒi/
 				;movement, research
 
 
-ecosystem		<-->	noun+B2	[221117][001]	./ˈiːkəʊsɪstəm/-NAmE /ˈiːkəʊsɪstəm/
+ecosystem		<-->	noun++B2	[221117][001]	./ˈiːkəʊsɪstəm/-NAmE /ˈiːkəʊsɪstəm/
 	;hệ sinh thái -- all the plants and living creatures in a particular area considered in relation to their physical environment
 		;Islands often support delicate ecosystems that evolved without any need for defence.
 		
 
 
-ecoterrorism		<-->	noun+C2	[221117][001]	./ˈiːkəʊterərɪzəm/-NAmE /ˈiːkəʊterərɪzəm/
+ecoterrorism		<-->	noun++C2	[221117][001]	./ˈiːkəʊterərɪzəm/-NAmE /ˈiːkəʊterərɪzəm/
 	;hành động phá huỷ môi trường -- violent activities that are carried out in order to draw attention to issues relating to the environment
  
 
 
-ecotourism		<-->	noun+C2	[221117][001]	./ˈiːkəʊtʊərɪzəm/,  /ˈiːkəʊtɔːrɪzəm/-NAmE /ˈiːkəʊtʊrɪzəm/
+ecotourism		<-->	noun++C2	[221117][001]	./ˈiːkəʊtʊərɪzəm/,  /ˈiːkəʊtɔːrɪzəm/-NAmE /ˈiːkəʊtʊrɪzəm/
 	;du lịch sin thái -- organized holidays that are designed so that the tourists damage the environment as little as possible, especially when some of the money they pay is used to protect the local
 		;Ecotourism is financing rainforest preservation.
 		
 
 
-eco-warrior		<-->	noun+C2	[221117][001]	./ˈiːkəʊ wɒriə(r)/-NAmE /ˈiːkəʊ wɔːriər/
+eco-warrior		<-->	noun++C2	[221117][001]	./ˈiːkəʊ wɒriə(r)/-NAmE /ˈiːkəʊ wɔːriər/
 	;nhà bảo vệ môi trường -- a person who actively tries to prevent damage to the environment
 
 
-effluent		<-->	noun+C2	[221117][001]	./ˈefluənt/-NAmE /ˈefluənt/
+effluent		<-->	noun++C2	[221117][001]	./ˈefluənt/-NAmE /ˈefluənt/
 	;chất thải lỏng từ nhà máy -- liquid waste, especially chemicals produced by factories, or sewage
 
 
-electrical storm		<-->	noun+C1	[221117][001]	./ɪˌlektrɪkl ˈstɔːm/-NAmE /ɪˌlektrɪkl ˈstɔːrm/
+electrical storm		<-->	noun++C1	[221117][001]	./ɪˌlektrɪkl ˈstɔːm/-NAmE /ɪˌlektrɪkl ˈstɔːrm/
 	;điện từ bão -- a violent storm in which electricity is produced in the atmosphere
 		
 
 
-electricity		<-->	noun+A2	[221117][001]	./ɪˌlekˈtrɪsəti/-NAmE /ɪˌlekˈtrɪsəti/ 
+electricity		<-->	noun++A2	[221117][001]	./ɪˌlekˈtrɪsəti/-NAmE /ɪˌlekˈtrɪsəti/ 
 	;điện -- [uncountable] a form of energy from charged elementary particles, usually supplied as electric current through cables, wires, etc. for lighting, heating, driving machines, etc.
 		;materials that conduct electricity
 		;to produce/supply electricity
@@ -868,23 +875,23 @@ electricity		<-->	noun+A2	[221117][001]	./ɪˌlekˈtrɪsəti/-NAmE /ɪˌlekˈtr�
 				;bill, charges, costs…
 
 
-emergency services		<-->	noun+B2	[221117][001]	./ɪˈmɜːdʒənsi sɜːvɪsɪz/-NAmE /ɪˈmɜːrdʒənsi sɜːrvɪsɪz/ 
+emergency services		<-->	noun++B2	[221117][001]	./ɪˈmɜːdʒənsi sɜːvɪsɪz/-NAmE /ɪˈmɜːrdʒənsi sɜːrvɪsɪz/ 
 	;dịch vụ cấp cứu -- [plural] (British English) the public organizations that deal with emergencies: the police, fire, ambulance and coastguard services
 		;The emergency services are struggling to cope with the number of call-outs.
 		;COMPARE first responder
 		;TOPICS Law and justiceB2, The environmentB2
 
 
-emission		<-->	noun+B2	[221117][001]	./ɪˈmɪʃn/-NAmE /ɪˈmɪʃn/
+emission		<-->	noun++B2	[221117][001]	./ɪˈmɪʃn/-NAmE /ɪˈmɪʃn/
 	;sự thải ra -- [uncountable] (formal) the production or sending out of light, heat, gas, etc.
 		;the emission of carbon dioxide into the atmosphere
 
 
-emissions trading		<-->	noun+C2	[221117][001]	./ɪˈmɪʃnz treɪdɪŋ/-NAmE /ɪˈmɪʃnz treɪdɪŋ/
+emissions trading		<-->	noun++C2	[221117][001]	./ɪˈmɪʃnz treɪdɪŋ/-NAmE /ɪˈmɪʃnz treɪdɪŋ/
 	;quota khí thải -- ​a system that gives countries and organizations the right to produce a particular amount of carbon dioxide and other gases that cause global warming, and allows them to sell this right
 
 
-energy		<-->	noun+A2	[221117][001]	./ˈenədʒi/-NAmE /ˈenərdʒi/
+energy		<-->	noun++A2	[221117][001]	./ˈenədʒi/-NAmE /ˈenərdʒi/
 	;năng lượng -- [uncountable] a source of power, such as fuel, used for driving machines, providing heat, etc.
 		;solar/wind/renewable energy
 		;to save/conserve energy
@@ -912,7 +919,7 @@ energy		<-->	noun+A2	[221117][001]	./ˈenədʒi/-NAmE /ˈenərdʒi/
 				;a demand for energy, a form of energy, a source of energy…
 
 
-environment		<-->	noun+A2	[221117][001]	./ɪnˈvaɪrənmənt/-NAmE /ɪnˈvaɪrənmənt/
+environment		<-->	noun++A2	[221117][001]	./ɪnˈvaɪrənmənt/-NAmE /ɪnˈvaɪrənmənt/
 ​	;môi trường -- enlarge image  the environment [singular] the natural world in which people, animals and plants live
 		;The government should do more to protect the environment.
 		;to preserve/pollute/harm the environment
@@ -936,7 +943,7 @@ environment		<-->	noun+A2	[221117][001]	./ɪnˈvaɪrənmənt/-NAmE /ɪnˈvaɪrə
 				;conservation of the environment, protection of the environment, damage to the environment…
 
 
-environmental		<-->	adjective+B1	[221117][001]	./ɪnˌvaɪrənˈmentl/-NAmE /ɪnˌvaɪrənˈmentl/
+environmental		<-->	adjective++B1	[221117][001]	./ɪnˌvaɪrənˈmentl/-NAmE /ɪnˌvaɪrənˈmentl/
 	;(thuộc) môi trường -- [usually before noun]​  connected with the natural conditions in which people, animals and plants live;connected with the environment
 		;the environmental impact of pollution
 		;Their main objective is to promote environmental protection.
@@ -947,29 +954,29 @@ environmental		<-->	adjective+B1	[221117][001]	./ɪnˌvaɪrənˈmentl/-NAmE /ɪn
 		;TOPICS The environmentB1
 
 
-environmentalism		<-->	noun+C1	[221117][001]	./ɪnˌvaɪrənˈmentəlɪzəm/-NAmE /ɪnˌvaɪrənˈmentəlɪzəm/  
+environmentalism		<-->	noun++C1	[221117][001]	./ɪnˌvaɪrənˈmentəlɪzəm/-NAmE /ɪnˌvaɪrənˈmentəlɪzəm/  
 	;Những lo ngại môi trường, chủ nghĩa môi trường -- [uncountable] ​concern about the natural environment and how to improve and protect it
 		;This paper examines the rise of environmentalism in France and its impact on French society.
 		;TOPICS The environmentC1
 
 
-environmentalist		<-->	noun+B2	[221117][001]	./ɪnˌvaɪrənˈmentəlɪst/-NAmE /ɪnˌvaɪrənˈmentəlɪst/
+environmentalist		<-->	noun++B2	[221117][001]	./ɪnˌvaɪrənˈmentəlɪst/-NAmE /ɪnˌvaɪrənˈmentəlɪst/
 	;người ủng hộ bảo vệ môi trường -- a person who is interested in the natural environment and wants to improve and protect it
 		;TOPICS The environmentB2	
 
 
-environmentally friendly		<-->	adjective+B2	[221117][001]	./ɪnˌvaɪrənmentəli ˈfrendli/-NAmE /ɪnˌvaɪrənmentəli ˈfrendli/
+environmentally friendly		<-->	adjective++B2	[221117][001]	./ɪnˌvaɪrənmentəli ˈfrendli/-NAmE /ɪnˌvaɪrənmentəli ˈfrendli/
 	;thân thiện môi trường -- (also environment-friendly) ​(of products) not harming the environment
 		;environmentally friendly packaging
 		;TOPICS The environmentB2
 
 
-epicentre		<-->	noun+C2	[221117][001]	./ˈepɪsentə(r)/-NAmE /ˈepɪsentər/
+epicentre		<-->	noun++C2	[221117][001]	./ˈepɪsentə(r)/-NAmE /ˈepɪsentər/
 	;tâm chấn -- the point on the earth’s surface where the effects of an earthquake are felt most strongly
 	
 
 
-erupt		<-->	verb+B2	[221117][001]	./ɪˈrʌpt/-NAmE /ɪˈrʌpt/
+erupt		<-->	verb++B2	[221117][001]	./ɪˈrʌpt/-NAmE /ɪˈrʌpt/
 	;bùng nổ, phun trào --  [intransitive, transitive] when a volcano erupts or burning rocks, smoke, etc. erupt or are erupted, the burning rocks, etc. are thrown out from the volcano
 		;The volcano could erupt at any time.
 		;erupt from something Ash began to erupt from the crater.
@@ -987,71 +994,71 @@ erupt		<-->	verb+B2	[221117][001]	./ɪˈrʌpt/-NAmE /ɪˈrʌpt/
 				;in, into, with…
 
 
-eruption		<-->	noun+B2	[221117][001]	./ɪˈrʌpʃn/-NAmE /ɪˈrʌpʃn/
+eruption		<-->	noun++B2	[221117][001]	./ɪˈrʌpʃn/-NAmE /ɪˈrʌpʃn/
 	;sự bùng nổ, phun trào -- ​[countable, uncountable] an occasion when a volcano suddenly throws out burning rocks, smoke, etc.
 		;a major volcanic eruption
 		;Wordfinder: avalanchecyclonedisasterearthquakeeruptionfloodhurricanelandslidetornadotsunami
 		;TOPICS The environmentB2
 
 
-eruptive		<-->	adjective+C2	[221117][001]	./ɪˈrʌptɪv/-NAmE /ɪˈrʌptɪv/
+eruptive		<-->	adjective++C2	[221117][001]	./ɪˈrʌptɪv/-NAmE /ɪˈrʌptɪv/
 	;phun trào -- relating to or produced by the eruption of a volcano
 		;eruptive vocalno
 		
 
 
-exhaust		<-->	noun+C1	[221117][001]	./ɪɡˈzɔːst/-NAmE /ɪɡˈzɔːst/ 
+exhaust		<-->	noun++C1	[221117][001]	./ɪɡˈzɔːst/-NAmE /ɪɡˈzɔːst/ 
 	;sự rò rỉ -- [uncountable] waste gases that come out of a vehicle, an engine or a machine
 		;car exhaust fumes/emissions
 		
 
 
-eye		<-->	noun+C2	[221117][001]	./aɪ/-NAmE /aɪ/
+eye		<-->	noun++C2	[221117][001]	./aɪ/-NAmE /aɪ/
 	;mắt bão - [singular] the eye of a/the storm, tornado, hurricane, etc. a calm area at the centre of a storm, etc.
 		
 
 
-fallout		<-->	noun+C2	[221117][001]	./ˈfɔːlaʊt/-NAmE /ˈfɔːlaʊt/
+fallout		<-->	noun++C2	[221117][001]	./ˈfɔːlaʊt/-NAmE /ˈfɔːlaʊt/
 	;bụi phóng xạ -- dangerous radioactive dust that is in the air after a nuclear explosion [TOPICS] -- The environment C2
 
 
-fast breeder		<-->	noun+C2	[221117][001]	./ˌfɑːst ˈbriːdə(r)/-NAmE /ˌfæst ˈbriːdər/
+fast breeder		<-->	noun++C2	[221117][001]	./ˌfɑːst ˈbriːdə(r)/-NAmE /ˌfæst ˈbriːdər/
 	;bộ cung cấp nhiên liệu trong lò phản ứng hạt nhân -- ​a reactor in a nuclear power station in which the reaction that produces energy is not made slower
  
 
 
-fell		<-->	verb+C2	[221117][001]	./fel/-NAmE /fel/
+fell		<-->	verb++C2	[221117][001]	./fel/-NAmE /fel/
 	;đốn hạ -- fell something to cut down a tree
 		;illegally felled timber
 
 
-fell		<-->	noun+C2	[221117][001]	./fel/-NAmE /fel/
+fell		<-->	noun++C2	[221117][001]	./fel/-NAmE /fel/
 	;ngọn đồi, vùng lân cận ngọn đồi -- a hill or an area of hills in northern England	
 		;I love being up on the fells.
 
 
-first responder		<-->	noun+C2	[221117][001]	./ˌfɜːst rɪˈspɒndə(r)/-NAmE /ˌfɜːrst rɪˈspɑːndər/
+first responder		<-->	noun++C2	[221117][001]	./ˌfɜːst rɪˈspɒndə(r)/-NAmE /ˌfɜːrst rɪˈspɑːndər/
 	;người cấp cứu -- a person such as a member of the police or fire department in a position to arrive first at an emergency, who has been trained to give basic medical treatment
 		;first responder training
 		;citizen/community first responders (= members of the public who have had special training for emergencies)
 
 
-flash flood		<-->	noun+C2	[221117][001]	./ˌflæʃ ˈflʌd/-NAmE /ˌflæʃ ˈflʌd/
+flash flood		<-->	noun++C2	[221117][001]	./ˌflæʃ ˈflʌd/-NAmE /ˌflæʃ ˈflʌd/
 	;lũ quét -- a sudden flood of water caused by heavy rain
 		;More than 80 people were feared dead last night after flash floods, the worst in 34 years.
 	
 
 
-flight shame		<-->	noun+C2	[221117][001]	./ˈflaɪt ʃeɪm/-NAmE /ˈflaɪt ʃeɪm/
+flight shame		<-->	noun++C2	[221117][001]	./ˈflaɪt ʃeɪm/-NAmE /ˈflaɪt ʃeɪm/
 	;chuyến bay hổ thẹn -- the idea that people should stop travelling by plane in order to limit damage to the environment
 		;The concept of flight shame has reduced Swedish flight passengers by 9 per cent.
 
 
-flood		<-->	noun+B1	[221117][001]	./flʌd/-NAmE /flʌd/
+flood		<-->	noun++B1	[221117][001]	./flʌd/-NAmE /flʌd/
 		;The heavy rain has caused floods in many parts of the country.
 
 
-flooding		<-->	noun+B2	[221117][001]	./ˈflʌdɪŋ/-NAmE /ˈflʌdɪŋ/
+flooding		<-->	noun++B2	[221117][001]	./ˈflʌdɪŋ/-NAmE /ˈflʌdɪŋ/
 	;Cơn lũ -- [uncountable] large amounts of water covering an area that is usually dry;the fact of this happening
 		;There will be heavy rain with flooding in some areas.
 		;to cause/prevent flooding
@@ -1059,24 +1066,24 @@ flooding		<-->	noun+B2	[221117][001]	./ˈflʌdɪŋ/-NAmE /ˈflʌdɪŋ/
 		;TOPICS The environmentB2
 
 
-floodwater		<-->	noun+B2	[221117][001]	./ˈflʌdwɔːtə(r)/-NAmE /ˈflʌdwɔːtər/
+floodwater		<-->	noun++B2	[221117][001]	./ˈflʌdwɔːtə(r)/-NAmE /ˈflʌdwɔːtər/
 	;Cơn lũ -- [uncountable](also floodwaters [plural]) ​water that covers land after there has been a flood
 		;The floodwaters have now receded.
 		;The flood water had caused tremendous damage.
 		;TOPICS The environmentB2
 
 
-focus		<-->	noun+C2	[221117][001]	./ˈfəʊkəs/-NAmE /ˈfəʊkəs/
+focus		<-->	noun++C2	[221117][001]	./ˈfəʊkəs/-NAmE /ˈfəʊkəs/
 	;tâm chấn -- [countable] (geology) the point at which an earthquake starts to happen
 	
 
 
-food mile		<-->	noun+C1	[221117][001]	./ˈfuːd maɪl/-NAmE /ˈfuːd maɪl/
+food mile		<-->	noun++C1	[221117][001]	./ˈfuːd maɪl/-NAmE /ˈfuːd maɪl/
 	;-- a measurement of the distance food has to be transported  from the producer to the consumer and the fuel that this uses
 		;he campaign to reduce food miles
 
 
-fossil fuel		<-->	noun+B2	[221117][001]	./ˈfɒsl fjuːəl/-NAmE /ˈfɑːsl fjuːəl/ 
+fossil fuel		<-->	noun++B2	[221117][001]	./ˈfɒsl fjuːəl/-NAmE /ˈfɑːsl fjuːəl/ 
 	;nhiên liệu hoá thạch -- [countable, uncountable] fuel such as coal or oil that was formed over millions of years from parts of dead animals or plants
 		;Carbon dioxide is produced in huge amounts when fossil fuels are burned.
 		;Fossil fuel reserves are rapidly being depleted.
@@ -1086,19 +1093,19 @@ fossil fuel		<-->	noun+B2	[221117][001]	./ˈfɒsl fjuːəl/-NAmE /ˈfɑːsl fju�
 		;TOPICS The environmentB2
 
 
-frack		<-->	verb+C2	[221117][001]	./fræk/-NAmE /fræk/
+frack		<-->	verb++C2	[221117][001]	./fræk/-NAmE /fræk/
 	;bẻ gẫy kết nối (hoá học, trong dầu đá phiến) -- to force liquid at high pressure into rocks, deep holes in the ground, etc. in order to force open existing cracks (= narrow openings) and take out oil or gas
 		;frack (for something) They have been fracking for oil in South Dakota since the fifties.
 		
 
 
-fracking		<-->	noun+C2ˈfrækɪŋ/-NAmE /ˈfrækɪŋ/
+fracking		<-->	noun++C2ˈfrækɪŋ/-NAmE /ˈfrækɪŋ/
 	;quá trình bẻ gãy kết nối trong dầu đá phiến -- the process of forcing liquid at high pressure into rocks, deep holes in the ground, etc. in order to force open existing cracks (= narrow openings) and take out oil or gas
 		;Fracking has created a shale gas boom in the United States.
 		
 
 
-fuel		<-->	noun+B1	[221117][001]	./ˈfjuːəl/-NAmE /ˈfjuːəl
+fuel		<-->	noun++B1	[221117][001]	./ˈfjuːəl/-NAmE /ˈfjuːəl
 	;nhiên liệu -- [uncountable, countable] any material that produces heat or power, usually when it is burnt
 		;diesel/jet/rocket fuel
 		;Most of the houses are heated with solid fuel (= wood, coal, etc.).
@@ -1123,18 +1130,18 @@ fuel		<-->	noun+B1	[221117][001]	./ˈfjuːəl/-NAmE /ˈfjuːəl
 				;bill, costs, prices…
 
 
-fuel cell		<-->	noun+C2	[221117][001]	./ˈfjuːəl sel/-NAmE /ˈfjuːəl sel/
+fuel cell		<-->	noun++C2	[221117][001]	./ˈfjuːəl sel/-NAmE /ˈfjuːəl sel/
 	;pin nhiên liệu -- a device that produces electricity directly from a fuel, such as hydrogen, by its reaction with another chemical, such as oxygen, without any burning, in order to supply power to a vehicle or machine
 		;A hydrogen fuel cell produces no pollution, just a few drips of water.
  
 
 
-fuel rod		<-->	noun+C2	[221117][001]	./ˈfjuːəl rɒd/-NAmE /ˈfjuːəl rɑːd/
+fuel rod		<-->	noun++C2	[221117][001]	./ˈfjuːəl rɒd/-NAmE /ˈfjuːəl rɑːd/
 	;thanh nhiên liệu -- a long thin part containing fuel used in a nuclear power station
  
 
 
-fumes		<-->	noun+C1	[221117][001]	./fjuːmz/-NAmE /fjuːmz/
+fumes		<-->	noun++C1	[221117][001]	./fjuːmz/-NAmE /fjuːmz/
 	;khí độc -- smoke, gas, or something similar that smells strongly or is dangerous to breathe in
 		;She was overcome by smoke and fumes.
 		;Clouds of toxic fumes escaped in a huge chemical factory blaze.
@@ -1142,19 +1149,19 @@ fumes		<-->	noun+C1	[221117][001]	./fjuːmz/-NAmE /fjuːmz/
 		
 
 
-gaia		<-->	noun+C2 /ˈɡaɪə/-NAmE /ˈɡaɪə/
+gaia		<-->	noun++C2	[221119][001]	./ˈɡaɪə/-NAmE /ˈɡaɪə/
 	;trái đất -- the Earth, considered as a single natural system that organizes and controls itself
 
 
-game reserve		<-->	noun+C2	[221117][001]	./ˈɡeɪm rɪzɜːv/-NAmE /ˈɡeɪm rɪzɜːrv/
+game reserve		<-->	noun++C2	[221117][001]	./ˈɡeɪm rɪzɜːv/-NAmE /ˈɡeɪm rɪzɜːrv/
 	;khu bảo tồn -- a large area of land where wild animals can live in safety
 
 
-garbage		<-->	noun+A2	[221117][001]	./ˈɡɑːbɪdʒ/-NAmE /ˈɡɑːrbɪdʒ/
+garbage		<-->	noun++A2	[221117][001]	./ˈɡɑːbɪdʒ/-NAmE /ˈɡɑːrbɪdʒ/
 	;sự lãng phí -- (especially North American English) waste food, paper, etc. that you throw away
 
 
-gas		<-->	noun+A2	[221117][001]	./ɡæs/-NAmE /ɡæs/
+gas		<-->	noun++A2	[221117][001]	./ɡæs/-NAmE /ɡæs/
 	;khí, sự pha trộn khí hoá thạch -- (plural gases, less frequent gasses)  [uncountable] a particular type of gas or mixture of gases used as fuel for heating and cooking
 		;fossil fuels like oil and gas
 		;Can you smell gas?
@@ -1180,7 +1187,7 @@ gas		<-->	noun+A2	[221117][001]	./ɡæs/-NAmE /ɡæs/
 				;gas mark 2, 3, etc.
 
 
-generate		<-->	verb+B2	[221117][001]	./ˈdʒenəreɪt/-NAmE /ˈdʒenəreɪt/
+generate		<-->	verb++B2	[221117][001]	./ˈdʒenəreɪt/-NAmE /ˈdʒenəreɪt/
 	;sản xuất, tạo ra -- (Veerb Forms)​  generate something: to produce energy, especially electricity
 		;The wind turbines are used to generate electricity.
 		;to generate heat/power
@@ -1189,7 +1196,7 @@ generate		<-->	verb+B2	[221117][001]	./ˈdʒenəreɪt/-NAmE /ˈdʒenəreɪt/
 		;TOPICS The environmentB2
 
 
-generation		<-->	noun+C1	[221117][001]	./ˌdʒenəˈreɪʃn/-NAmE /ˌdʒenəˈreɪʃn/
+generation		<-->	noun++C1	[221117][001]	./ˌdʒenəˈreɪʃn/-NAmE /ˌdʒenəˈreɪʃn/
 	;sự sản xuất -- ​[uncountable] the production of something, especially electricity, heat, etc.
 		;the generation of electricity
 		;methods of income generation
@@ -1198,19 +1205,19 @@ generation		<-->	noun+C1	[221117][001]	./ˌdʒenəˈreɪʃn/-NAmE /ˌdʒenəˈre
 		;Oxford Collocations Dictionary
 
 
-geothermal		<-->	adjective+C2	[221117][001]	./ˌdʒiːəʊˈθɜːml/-NAmE /ˌdʒiːəʊˈθɜːrml/
+geothermal		<-->	adjective++C2	[221117][001]	./ˌdʒiːəʊˈθɜːml/-NAmE /ˌdʒiːəʊˈθɜːrml/
 	;địa nhiệt - connected with the natural heat of rock deep in the ground
 		;geothermal energy
 
 
-global heating		<-->	noun+B1	[221117][001]	./ˌɡləʊbl ˈhiːtɪŋ/-NAmE /ˌɡləʊbl ˈhiːtɪŋ/
+global heating		<-->	noun++B1	[221117][001]	./ˌɡləʊbl ˈhiːtɪŋ/-NAmE /ˌɡləʊbl ˈhiːtɪŋ/
 	;sự ấm lên toàn cầu -- [uncountable] ​the increase in temperature of the earth's atmosphere that is caused by the increase of particular gases, especially carbon dioxide. Some people now use this term instead of ‘global warming’ to emphasize how rapid and serious this increase in temperature now is.
 		;The goal is to limit global heating to 1.5℃.
 		;The next 18 months will be critical in dealing with the global heating crisis.
 		;TOPICS The environmentB1
 
 
-global warming		<-->	noun+B1	[221117][001]	./ˌɡləʊbl ˈwɔːmɪŋ/-NAmE /ˌɡləʊbl ˈwɔːrmɪŋ/
+global warming		<-->	noun++B1	[221117][001]	./ˌɡləʊbl ˈwɔːmɪŋ/-NAmE /ˌɡləʊbl ˈwɔːrmɪŋ/
 	;sự ấm lên toàn cầu -- [uncountable] the increase in temperature of the earth’s atmosphere that is caused by the increase of particular gases, especially carbon dioxide
 		;a conference on global warming
 		;Collocations The environment
@@ -1219,7 +1226,7 @@ global warming		<-->	noun+B1	[221117][001]	./ˌɡləʊbl ˈwɔːmɪŋ/-NAmE /ˌ�
 		;TOPICS The environmentB1
 
 
-green		<-->	adjective+B1	[221117][001]	./ɡriːn/-NAmE /ɡriːn/
+green		<-->	adjective++B1	[221117][001]	./ɡriːn/-NAmE /ɡriːn/
 	;thân thiện môi trường -- (t:politics)​  connected with the protection of the environment;supporting the protection of the environment as a political principle
 		;green energy
 		;green politics
@@ -1230,20 +1237,20 @@ green		<-->	adjective+B1	[221117][001]	./ɡriːn/-NAmE /ɡriːn/
 		;TOPICS PoliticsB1, The environmentB1
 
 
-green		<-->	verb+C2	[221117][001]	./ɡriːn/-NAmE /ɡriːn/
+green		<-->	verb++C2	[221117][001]	./ɡriːn/-NAmE /ɡriːn/
 	;làm xanh môi trường : như làm công viên, trồng cây, ... -- green something : to create parks and other areas with trees and plants in a city
 		;projects for greening the cities
 
 
-green audit		<-->	noun+C2	[221117][001]	./ˌɡriːn ˈɔːdɪt/-NAmE /ˌɡriːn ˈɔːdɪt/
+green audit		<-->	noun++C2	[221117][001]	./ˌɡriːn ˈɔːdɪt/-NAmE /ˌɡriːn ˈɔːdɪt/
 	;kiểm định môi trường -- an official examination of the effect of a company’s business on the environment
 
 
-green belt		<-->	noun+B2	[221117][001]	./ˈɡriːn belt/-NAmE /ˈɡriːn belt/
+green belt		<-->	noun++B2	[221117][001]	./ˈɡriːn belt/-NAmE /ˈɡriːn belt/
 	;vành đai xanh --  an area of open land around a city where there are strict controls about building
 
 
-greenhouse gas		<-->	noun+B2	[221117][001]	./ˌɡriːnhaʊs ˈɡæs/-NAmE /ˌɡriːnhaʊs ˈɡæs/  
+greenhouse gas		<-->	noun++B2	[221117][001]	./ˌɡriːnhaʊs ˈɡæs/-NAmE /ˌɡriːnhaʊs ˈɡæs/  
 	;khí gây hiệu ứng nhà kính -- ​any of the gases that are thought to cause the greenhouse effect, especially carbon dioxide
 		;a government commitment to reduce greenhouse gas emissions
 		;Collocations The environment
@@ -1253,56 +1260,89 @@ greenhouse gas		<-->	noun+B2	[221117][001]	./ˌɡriːnhaʊs ˈɡæs/-NAmE /ˌɡr
 			;emission
 
 
-green manure		<-->	noun+C2	[221117][001]	./ˌɡriːn məˈnjʊə(r)/-NAmE /ˌɡriːn məˈnʊr/
+green manure		<-->	noun++C2	[221117][001]	./ˌɡriːn məˈnjʊə(r)/-NAmE /ˌɡriːn məˈnʊr/
 	;phân xanh -- plants that are dug into the soil in order to improve its quality
 
 
-greenwash		<-->	noun+C2	[221117][001]	./ˈɡriːnwɒʃ/-NAmE /ˈɡriːnwɔːʃ/
+greenwash		<-->	noun++C2	[221117][001]	./ˈɡriːnwɒʃ/-NAmE /ˈɡriːnwɔːʃ/
 	;hành động lừa dối về bảo vệ môi trường -- activities by a company or an organization that are intended to make people think that it is concerned about the environment, even if its real business actually harms the environment
 		;A common form of greenwash is to publicly claim a commitment to the environment while quietly lobbying to avoid regulation.
 
 
-habitat		<-->	noun+B2	[221117][001]	./ˈhæbɪtæt/-NAmE /ˈhæbɪtæt/
+habitat		<-->	noun++B2	[221117][001]	./ˈhæbɪtæt/-NAmE /ˈhæbɪtæt/
 	;chỗ ở, môi trường sống -- the place where a particular type of animal or plant is normally found
 
 
-hazmat suit		<-->	noun+C2	[221117][001]	./ˈhæzmæt suːt/-NAmE /ˈhæzmæt suːt/
+hazmat suit		<-->	noun++C2	[221117][001]	./ˈhæzmæt suːt/-NAmE /ˈhæzmæt suːt/
 	;đồ/quần áo bảo hộ -- a special suit that protects a person's body when they are dealing with dangerous substances
 
 
-hurricane		<-->	noun+B1[-0]	.
+hurricane		<-->	noun++B1	[221119][001]	./cef/
 
 
-hydroelectric		<-->	adjective+B2	[221117][001]	./ˌhaɪdrəʊɪˈlektrɪk/-NAmE /ˌhaɪdrəʊɪˈlektrɪk/	
+
+
+
+hydroelectric		<-->	adjective++B2	[221117][001]	./ˌhaɪdrəʊɪˈlektrɪk/-NAmE /ˌhaɪdrəʊɪˈlektrɪk/	
 	;using the power of water to produce electricity;produced by the power of water
 		;a hydroelectric plant
 
 
-hydroelectricity		<-->	noun+C1	[221117][001]	./ˌhaɪdrəʊɪˌlekˈtrɪsəti/-NAmE /ˌhaɪdrəʊɪˌlekˈtrɪsəti/
+hydroelectricity		<-->	noun++C1	[221117][001]	./ˌhaɪdrəʊɪˌlekˈtrɪsəti/-NAmE /ˌhaɪdrəʊɪˌlekˈtrɪsəti/
 	;đập thuỷ điện -- ~hydropower  -- electricity produced using the power of water
 
 
-hydropower		<-->	noun+C2	[221117][001]	./ˈhaɪdrəʊpaʊə(r)/-NAmE /ˈhaɪdrəʊpaʊər/
+hydropower		<-->	noun++C2	[221117][001]	./ˈhaɪdrəʊpaʊə(r)/-NAmE /ˈhaɪdrəʊpaʊər/
 	;đập thuỷ điện --  a dam to produce electricity
 
 
-landfill		<-->	noun+B2	[221117][001]	./ˈlændfɪl/-NAmE /ˈlændfɪl/ 
+landfill		<-->	noun++B2	[221117][001]	./ˈlændfɪl/-NAmE /ˈlændfɪl/ 
 	;bãi rác -- [uncountable] waste material that will be buried
 
 
-landslide		<-->	noun+B2[-0]	.
+landslide		<-->	noun++B2	[221119][001]	./ˈlændslaɪd/-NAmE /ˈlændslaɪd/
+	;vụ lỡ đất -- (1) (also landfall) a mass of earth, rock, etc. that falls down the slope of a mountain or a cliff
+		;The house was buried beneath a landslide.
+		;SEE ALSO landslip
+		;Wordfinder: avalanchecyclonedisasterearthquakeeruptionfloodhurricanelandslidetornadotsunami
+		;Extra Examples
+		;The floods caused a landslide.
+		;The town was destroyed by a landslide.
+		;TOPICS The environmentB2
+				;Oxford Collocations Dictionary
+				;verb + landslide
+				;causetrigger
+				;landslide + verb
+				;destroy something
+		;See full entry
+	;chiến thắng vang dội -- (2) an election in which one person or party gets very many more votes than the other people or parties
+		;by a landslide She was expected to win by a landslide.
+		;No one expected a repeat of Labour's 1997 landslide victory.
+		;The National Party won by a landslide.
+		;Collocations Voting in elections
+		;TOPICS PoliticsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;electoralmassiveConservative…
+				;verb + landslide
+				;win by
+				;landslide + noun
+				;victory
+		;See full entry
 
 
-lava		<-->	noun+B2	[221117][001]	./ˈlɑːvə/-NAmE /ˈlɑːvə/
+
+
+lava		<-->	noun++B2	[221117][001]	./ˈlɑːvə/-NAmE /ˈlɑːvə/
 	;dung nham -- hot liquid rock that comes out of a volcano [IMAGE] -- volcano
 
 
-leach		<-->	verb+C2	[221117][001]	./liːtʃ/-NAmE /liːtʃ/
+leach		<-->	verb++C2	[221117][001]	./liːtʃ/-NAmE /liːtʃ/
 	;rửa trôi, gạn lọc bằng nước -- [intransitive] leach (from something) (into something) | leach out/away (of chemicals, minerals, etc.) to be removed from soil, etc. by water passing through it
 		;Nitrates leach from the soil into rivers.	
 
 
-leaded		<-->	adjective+C2	[221117][001]	./ˈledɪd/-NAmE /ˈledɪd/
+leaded		<-->	adjective++C2	[221117][001]	./ˈledɪd/-NAmE /ˈledɪd/
 	;có chì -- ​(of petrol, metal, etc.) with lead(chì) added to it
 
 
@@ -1313,42 +1353,42 @@ log		<-->	noun++	[221117][001]	./lɒɡ/-NAmE /lɔːɡ/
 		;The captain keeps a log.
 
 
-log		<-->	verb+C2	[221117][001]	./lɒɡ/-NAmE /lɔːɡ/
+log		<-->	verb++C2	[221117][001]	./lɒɡ/-NAmE /lɔːɡ/
 	;đốn hạ -- log something to cut down trees in a forest for their wood [The environment C2]
 		;SYNONYM record
 		;The police log all phone calls.
 
 
-logging		<-->	noun+C1	[221117][001]	./ˈlɒɡɪŋ/-NAmE /ˈlɔːɡɪŋ/
+logging		<-->	noun++C1	[221117][001]	./ˈlɒɡɪŋ/-NAmE /ˈlɔːɡɪŋ/
 	;việc đốn rừng, kinh doanh gỗ rừng -- the work or business of cutting down trees for their wood [The environment C1]
 
 
-low-carbon		<-->	adjective+C1	[221117][001]	./ˌləʊ ˈkɑːbən/-NAmE /ˌləʊ ˈkɑːrbən/  
+low-carbon		<-->	adjective++C1	[221117][001]	./ˌləʊ ˈkɑːbən/-NAmE /ˌləʊ ˈkɑːrbən/  
 	;ít thải carbon -- [usually before noun] ​causing only a relatively small amount of carbon dioxide to be released into the atmosphere
 		;the transition to a low-carbon economy
 		;These technologies will play an essential part in the new low-carbon energy system.
 		;TOPICS The environmentC1
 
 
-low-impact		<-->	adjective+C1	[221117][001]	./ˌləʊ ˈɪmpækt/-NAmE /ˌləʊ ˈɪmpækt/    
+low-impact		<-->	adjective++C1	[221117][001]	./ˌləʊ ˈɪmpækt/-NAmE /ˌləʊ ˈɪmpækt/    
 	;ít tác động môi trường -- not causing very many problems or changes, especially in the environment
 		;low-impact tourism
 		;TOPICS The environmentC1
 
 
-magnitude		<-->	noun+C2	[221117][001]	./ˈmæɡnɪtjuːd/-NAmE /ˈmæɡnɪtuːd/
+magnitude		<-->	noun++C2	[221117][001]	./ˈmæɡnɪtjuːd/-NAmE /ˈmæɡnɪtuːd/
 	;độ động đất -- ​[countable, uncountable] (geology) the size of an earthquake
 		;The quake reached a magnitude of 7.1 on the Richter scale.
 		;TOPICS The environmentC2
 
 
-managed		<-->	adjective+C1	[221117][001]	./ˈmænɪdʒd/-NAmE /ˈmænɪdʒd/
+managed		<-->	adjective++C1	[221117][001]	./ˈmænɪdʒd/-NAmE /ˈmænɪdʒd/
 	;done or arranged with care and control
 		;Only wood from managed forests is used in our furniture.
 		;The money will be invested in managed funds.
 
 
-microplastic		<-->	noun+C1	[221117][001]	./ˈmaɪkrəʊplæstɪk/-NAmE /ˈmaɪkrəʊplæstɪk/  
+microplastic		<-->	noun++C1	[221117][001]	./ˈmaɪkrəʊplæstɪk/-NAmE /ˈmaɪkrəʊplæstɪk/  
 	;vi hạt nhựa gây ô nhiễm -- [uncountable] (also microplastics [plural]) ​extremely small pieces of plastic in the environment that come from consumer products and industrial waste
 		;Scientists found microplastics in the waters near inshore coral reefs in the World Heritage-listed site.
 		;microplastic particles/pollution
@@ -1356,12 +1396,12 @@ microplastic		<-->	noun+C1	[221117][001]	./ˈmaɪkrəʊplæstɪk/-NAmE /ˈmaɪkr
 		;TOPICS The environmentC1
 
 
-nanoplastic		<-->	noun+C2	[221117][001]	./ˈnænəʊplæstɪk/-NAmE /ˈnænəʊplæstɪk/
+nanoplastic		<-->	noun++C2	[221117][001]	./ˈnænəʊplæstɪk/-NAmE /ˈnænəʊplæstɪk/
 	;nhựa nano -- tiny pieces of plastic in the environment that are less than 100 nanometres long
 		;Very small particles such as nanoplastics could penetrate gut tissues.
 
 
-national park		<-->	noun+B1	[221117][001]	./ˌnæʃnəl ˈpɑːk/-NAmE /ˌnæʃnəl ˈpɑːrk/
+national park		<-->	noun++B1	[221117][001]	./ˌnæʃnəl ˈpɑːk/-NAmE /ˌnæʃnəl ˈpɑːrk/
 	;công viên quốc gia -- an area of land that is protected by the government for people to visit because of its natural beauty and historical or scientific interest
 		;Yellowstone National Park
 		;The area was designated a national park.
@@ -1369,7 +1409,7 @@ national park		<-->	noun+B1	[221117][001]	./ˌnæʃnəl ˈpɑːk/-NAmE /ˌnæʃn
 		;TOPICS HobbiesB1, The environmentB1
 
 
-natural		<-->	adjective+A1	[221117][001]	./ˈnætʃrəl/-NAmE /ˈnætʃrəl/
+natural		<-->	adjective++A1	[221117][001]	./ˈnætʃrəl/-NAmE /ˈnætʃrəl/
 	;Word Family
 	---
 		nature noun
@@ -1396,7 +1436,7 @@ natural		<-->	adjective+A1	[221117][001]	./ˈnætʃrəl/-NAmE /ˈnætʃrəl/
 				;completely, totally, really…
 
 
-natural disaster		<-->	noun+A2	[221117][001]	./ˌnætʃrəl dɪˈzɑːstə(r)/-NAmE /ˌnætʃrəl dɪˈzæstər/
+natural disaster		<-->	noun++A2	[221117][001]	./ˌnætʃrəl dɪˈzɑːstə(r)/-NAmE /ˌnætʃrəl dɪˈzæstər/
 	;thảm hoạ tự nhiên -- a sudden and violent event in nature (such as an earthquake, hurricane or flood) that kills or injures a lot of people or causes a lot of damage
 		;Emergency treatment of drinking water may be necessary following natural disasters.
 		;This is an unprecedented natural disaster.
@@ -1406,7 +1446,7 @@ natural disaster		<-->	noun+A2	[221117][001]	./ˌnætʃrəl dɪˈzɑːstə(r)/-N
 		;TOPICS The environmentA2
 
 
-nature		<-->	noun+A2	[221117][001]	./ˈneɪtʃə(r)/-NAmE /ˈneɪtʃər/
+nature		<-->	noun++A2	[221117][001]	./ˈneɪtʃə(r)/-NAmE /ˈneɪtʃər/
 	;thiên nhiên -- (often Nature) [uncountable] all the plants, animals and things that exist in the universe that are not made by people
 		;Take time to appreciate the beauties of nature.
 		;man-made substances not found in nature
@@ -1429,36 +1469,36 @@ nature		<-->	noun+A2	[221117][001]	./ˈneɪtʃə(r)/-NAmE /ˈneɪtʃər/
 				;the forces of naturethe laws of nature, a love of nature…
 
 
-nature reserve		<-->	noun+C1	[221117][001]	./ˈneɪtʃə rɪzɜːv/-NAmE /ˈneɪtʃər rɪzɜːrv/
+nature reserve		<-->	noun++C1	[221117][001]	./ˈneɪtʃə rɪzɜːv/-NAmE /ˈneɪtʃər rɪzɜːrv/
 	;khu bảo tồn -- an area of land where the animals and plants are protected
 		;The area has been designated a nature reserve.
 		;Culture nature reserves
 		;TOPICS The environmentC1, HobbiesC1
 
 
-net-zero		<-->	adjective+C2	[221117][001]	./ˌnet ˈzɪərəʊ/-NAmE /ˌnet ˈzɪrəʊ/
+net-zero		<-->	adjective++C2	[221117][001]	./ˌnet ˈzɪərəʊ/-NAmE /ˌnet ˈzɪrəʊ/
 	;sự cân bằng khí thải -- in which the harmful gases produced by a particular company, region or country have no impact on the climate because they have been balanced by actions that protect the environment
 		;he government announced a plan to achieve net-zero emissions by 2050.
 
 
-nitrogen cycle		<-->	noun+C2	[221117][001]	./ˈnaɪtrədʒən saɪkl/-NAmE /ˈnaɪtrədʒən saɪkl/
+nitrogen cycle		<-->	noun++C2	[221117][001]	./ˈnaɪtrədʒən saɪkl/-NAmE /ˈnaɪtrədʒən saɪkl/
 	;chu trình ni-tơ -- the processes by which nitrogen is passed from one part of the environment to another, for example when plants decay (= become destroyed by natural processes)
 
 
-nitrogen fixation		<-->	noun+C2	[221117][001]	./ˈnaɪtrədʒən fɪkseɪʃn/-NAmE /ˈnaɪtrədʒən fɪkseɪʃn
+nitrogen fixation		<-->	noun++C2	[221117][001]	./ˈnaɪtrədʒən fɪkseɪʃn/-NAmE /ˈnaɪtrədʒən fɪkseɪʃn
 	;quá trính biến đổi hoá học do ni-tơ, áp xuất và vi khuẩn --  the chemical process by which nitrogen from the atmosphere is changed by bacteria into compounds in the soil that plants and other living things can use, especially as part of the nitrogen cycle
 
 
-nitrogen-fixing		<-->	adjective+C2	[221117][001]	./ˈnaɪtrədʒən fɪksɪŋ/-NAmE /ˈnaɪtrədʒən fɪksɪŋ/
+nitrogen-fixing		<-->	adjective++C2	[221117][001]	./ˈnaɪtrədʒən fɪksɪŋ/-NAmE /ˈnaɪtrədʒən fɪksɪŋ/
 	;ổn định nitơ -- causing or relating to nitrogen fixation
 		;nitrogen-fixing
 
 
-non-biodegradable		<-->	adjective+C2	[221117][001]	./ˌnɒn ˌbaɪəʊdɪˈɡreɪdəbl/-NAmE /ˌnɑːn ˌbaɪəʊdɪˈɡreɪdəbl/
+non-biodegradable		<-->	adjective++C2	[221117][001]	./ˌnɒn ˌbaɪəʊdɪˈɡreɪdəbl/-NAmE /ˌnɑːn ˌbaɪəʊdɪˈɡreɪdəbl/
 	;không phân huỷ -- a substance or chemical that is non-biodegradable cannot be changed by the action of bacteria to a natural state that does not harm the environment
 
 
-non-renewable		<-->	adjective+B2	[221117][001]	./ˌnɒn rɪˈnjuːəbl/-NAmE /ˌnɑːn rɪˈnuːəbl/ 
+non-renewable		<-->	adjective++B2	[221117][001]	./ˌnɒn rɪˈnjuːəbl/-NAmE /ˌnɑːn rɪˈnuːəbl/ 
 	;không thể tái chế, phục hồi -- ​(of natural resources such as gas or oil) that cannot be replaced after use
 		;the need to protect non-renewable resources
 		;non-renewable energy sources
@@ -1466,7 +1506,7 @@ non-renewable		<-->	adjective+B2	[221117][001]	./ˌnɒn rɪˈnjuːəbl/-NAmE /ˌ
 		;TOPICS The environmentB2
 
 
-nuclear		<-->	adjective+B1	[221117][001]	./ˈnjuːkliə(r)/-NAmE /ˈnuːkliər/
+nuclear		<-->	adjective++B1	[221117][001]	./ˈnjuːkliə(r)/-NAmE /ˈnuːkliər/
 	;(tt) hạt nhân -- [usually before noun]​  using, producing or resulting from nuclear energy
 		;a nuclear power plant/station
 		;China and India only produce a very small percentage of their electricity from nuclear facilities.
@@ -1478,22 +1518,22 @@ nuclear		<-->	adjective+B1	[221117][001]	./ˈnjuːkliə(r)/-NAmE /ˈnuːkliər/
 		;TOPICS The environmentB1, Physics and chemistryB1
 
 
-nuclear energy		<-->	noun+B1	[221117][001]	./ˌnjuːkliər ˈenədʒi/-NAmE /ˌnuːkliər ˈenərdʒi/
+nuclear energy		<-->	noun++B1	[221117][001]	./ˌnjuːkliər ˈenədʒi/-NAmE /ˌnuːkliər ˈenərdʒi/
 	;năng lương hạt nhân -- (also nuclear power, atomic energy, atomic power) [uncountable] ​a powerful form of energy produced by changing matter into energy by splitting the nuclei (= central parts) of atoms. It is used to produce electricity.
 		;TOPICS The environmentB1, Physics and chemistryB1
 
 
-nuclear power		<-->	noun+B1	[221117][001]	./ˌnjuːkliə ˈpaʊə(r)/-NAmE /ˌnuːkliər ˈpaʊər/
+nuclear power		<-->	noun++B1	[221117][001]	./ˌnjuːkliə ˈpaʊə(r)/-NAmE /ˌnuːkliər ˈpaʊər/
 	;năng lương hạt nhân -- (also nuclear energy) [uncountable] ​a powerful form of energy produced by changing matter into energy by splitting the nuclei (= central parts) of atoms. It is used to produce electricity.
 		;TOPICS The environmentB1, Physics and chemistryB1
 
 
-nuclear reactor		<-->	noun+C1	[221117][001]	./ˌnjuːkliə riˈæktə(r)/-NAmE /ˌnuːkliər riˈæktər/
+nuclear reactor		<-->	noun++C1	[221117][001]	./ˌnjuːkliə riˈæktə(r)/-NAmE /ˌnuːkliər riˈæktər/
 	;lò phản ứng hạt nhận -- (also reactor) ​a large structure used to produce nuclear energy
 		;TOPICS The environmentC1, Physics and chemistryC1
 
 
-oil		<-->	noun+A2	[221117][001]	./ɔɪl/-NAmE /ɔɪl/
+oil		<-->	noun++A2	[221117][001]	./ɔɪl/-NAmE /ɔɪl/
 	;dầu hoả -- [uncountable] a thick liquid that is found in rock underground
 		;SYNONYM petroleum
 		;Several companies are drilling for oil in the region.
@@ -1521,30 +1561,30 @@ oil		<-->	noun+A2	[221117][001]	./ɔɪl/-NAmE /ɔɪl/
 				;company, producer, man…
 
 
-oil rig		<-->	noun+B2	[221117][001]	./ˈɔɪl rɪɡ/-NAmE /ˈɔɪl rɪɡ/
+oil rig		<-->	noun++B2	[221117][001]	./ˈɔɪl rɪɡ/-NAmE /ˈɔɪl rɪɡ/
 	;giàn khoan dầu -- (also oil platform)  [IMAGE]	a large structure with equipment for getting oil from under the ground or under the sea
 		;TOPICS The environmentB2
 
 
-oil slick		<-->	noun+C2	[221117][001]	./ˈɔɪl slɪk/-NAmE /ˈɔɪl slɪk/
+oil slick		<-->	noun++C2	[221117][001]	./ˈɔɪl slɪk/-NAmE /ˈɔɪl slɪk/
 	;vùng tràn dầu -- an area of oil that is floating on the surface of the sea
 		;a seven-mile-long oil slick off the Alaskan coast
 
 
-oil well		<-->	noun+C1	[221117][001]	./ˈɔɪl wel/-NAmE /ˈɔɪl wel/
+oil well		<-->	noun++C1	[221117][001]	./ˈɔɪl wel/-NAmE /ˈɔɪl wel/
 	;a hole made in the ground to obtain oil -- giếng dầu
 		;Acid rain from the burning oil wells could cause severe environmental damage.
 
 
-ozone-friendly		<-->	adjective+C2	[221117][001]	./ˌəʊzəʊn ˈfrendli/-NAmE /ˌəʊzəʊn ˈfrendli/
+ozone-friendly		<-->	adjective++C2	[221117][001]	./ˌəʊzəʊn ˈfrendli/-NAmE /ˌəʊzəʊn ˈfrendli/
 	;thân thiện với môi trường -- not containing substances that will damage the ozone layer
 
 
-ozone hole		<-->	noun+C2	[221117][001]	./ˈəʊzəʊn həʊl/-NAmE /ˈəʊzəʊn həʊl/
+ozone hole		<-->	noun++C2	[221117][001]	./ˈəʊzəʊn həʊl/-NAmE /ˈəʊzəʊn həʊl/
 	;lỗ thủng ozone -- an area in the ozone layer where the amount of ozone has been very much reduced so that harmful radiation from the sun can pass through it
 
 
-ozone layer		<-->	noun+C1	[221117][001]	./ˈəʊzəʊn leɪə(r)/,  /ˈəʊzəʊn leə(r)/-NAmE /ˈəʊzəʊn ler/   
+ozone layer		<-->	noun++C1	[221117][001]	./ˈəʊzəʊn leɪə(r)/,  /ˈəʊzəʊn leə(r)/-NAmE /ˈəʊzəʊn ler/   
 	;tầng ozone -- [singular] ​a layer of ozone high above the earth’s surface that helps to protect the earth from harmful radiation from the sun
 		;A hole in the ozone layer was discovered over Antarctica.
 		;The ozone layer protects life on earth by absorbing harmful ultraviolet radiation.
@@ -1552,21 +1592,21 @@ ozone layer		<-->	noun+C1	[221117][001]	./ˈəʊzəʊn leɪə(r)/,  /ˈəʊzəʊ
 		;TOPICS The environmentC1, SpaceC1
 
 
-particulate		<-->	adjective+C2	[221117][001]	./pɑːˈtɪkjələt/,  /pɑːˈtɪkjəleɪt/-NAmE /pɑːrˈtɪkjələt/,  /pɑːrˈtɪkjəleɪt/  
+particulate		<-->	adjective++C2	[221117][001]	./pɑːˈtɪkjələt/,  /pɑːˈtɪkjəleɪt/-NAmE /pɑːrˈtɪkjələt/,  /pɑːrˈtɪkjəleɪt/  
 	;có bụi mịn -- ​relating to, or in the form of, particles
 
 
-particulate		<-->	noun+C2	[221117][001]	./pɑːˈtɪkjələt/,  /pɑːˈtɪkjəleɪt/-NAmE /pɑːrˈtɪkjələt/,  /pɑːrˈtɪkjəleɪt/
+particulate		<-->	noun++C2	[221117][001]	./pɑːˈtɪkjələt/,  /pɑːˈtɪkjəleɪt/-NAmE /pɑːrˈtɪkjələt/,  /pɑːrˈtɪkjəleɪt/
 	;bụi mịn -- matter in the form of particles
 		;the effects of diesel particulates on human health
 
 
-PET		<-->	noun+C2	[221117][001]	./ˌpiː iː ˈtiː/-NAmE /ˌpiː iː ˈtiː/
+PET		<-->	noun++C2	[221117][001]	./ˌpiː iː ˈtiː/-NAmE /ˌpiː iː ˈtiː/
 	;bao nhựa, vỏ chai nhựa -- an artificial substance used to make materials for packaging food, including plastic drinks bottles (the abbreviation for ‘polyethylene terephthalate’)
 		;TOPICS The environmentC2
 
 
-petrol		<-->	noun+A2	[221117][001]	./ˈpetrəl/-NAmE /ˈpetrəl/ 
+petrol		<-->	noun++A2	[221117][001]	./ˈpetrəl/-NAmE /ˈpetrəl/ 
 	;dầu hoả -- (British English)(North American English gas, gasoline) [uncountable]
 ​		;a liquid obtained from petroleum, used as fuel in car engines, etc.
 		;to fill a car up with petrol
@@ -1591,7 +1631,7 @@ petrol		<-->	noun+A2	[221117][001]	./ˈpetrəl/-NAmE /ˈpetrəl/
 				;engine, tank, car…
 
 
-plastic		<-->	noun+A2	[221117][001]	./ˈplæstɪk/-NAmE /ˈplæstɪk/
+plastic		<-->	noun++A2	[221117][001]	./ˈplæstɪk/-NAmE /ˈplæstɪk/
 	;nhựa -- [uncountable, countable, usually plural] a light strong material that is produced by chemical processes and can be formed into shapes when heated. There are many different types of plastic, used to make different objects and fabrics.
 		;The pipes should be made of plastic.
 		;a sheet of clear plastic
@@ -1607,12 +1647,12 @@ plastic		<-->	noun+A2	[221117][001]	./ˈplæstɪk/-NAmE /ˈplæstɪk/
 				;make, produce, recycle…
 
 
-plume		<-->	noun+C2	[221117][001]	./pluːm/-NAmE /pluːm/
+plume		<-->	noun++C2	[221117][001]	./pluːm/-NAmE /pluːm/
 	;mây -- a cloud of something that rises and curves upwards in the air
 		;A great plume of dust and ash rose from the volcano.
 
 
-poisonous		<-->	adjective+B1	[221117][001]	./ˈpɔɪzənəs/-NAmE /ˈpɔɪzənəs/
+poisonous		<-->	adjective++B1	[221117][001]	./ˈpɔɪzənəs/-NAmE /ˈpɔɪzənəs/
 	;có chất độc, độc --  causing death or illness if swallowed or taken into the body
 		;SYNONYM toxic
 		;poisonous chemicals/fumes/plants
@@ -1629,15 +1669,15 @@ poisonous		<-->	adjective+B1	[221117][001]	./ˈpɔɪzənəs/-NAmE /ˈpɔɪzənə
 				;to
 
 
-pollute		<-->	verb+B1	[221117][001]	./pəˈluːt/-NAmE /pəˈluːt/
+pollute		<-->	verb++B1	[221117][001]	./pəˈluːt/-NAmE /pəˈluːt/
 	;làm ô nhiễm -- to add dirty or harmful substances to land, air, water, etc. so that it is no longer pleasant or safe to use
 
 
-polluter		<-->	noun+B2	[221117][001]	./pəˈluːtə(r)/-NAmE /pəˈluːtər/
+polluter		<-->	noun++B2	[221117][001]	./pəˈluːtə(r)/-NAmE /pəˈluːtər/
 	;người, công ty gây ô nhiễm -- a person, company, country, etc. that causes pollution
 
 
-pollution		<-->	noun+A2	[221117][001]	./pəˈluːʃn/-NAmE /pəˈluːʃn/
+pollution		<-->	noun++A2	[221117][001]	./pəˈluːʃn/-NAmE /pəˈluːʃn/
 	;quá trình làm ô nhiễm -- [uncountable]​  the process of making air, water, soil, etc. dirty;the state of being dirty
 		;air/water pollution
 		;to reduce pollution levels
@@ -1656,7 +1696,7 @@ pollution		<-->	noun+A2	[221117][001]	./pəˈluːʃn/-NAmE /pəˈluːʃn/
 			;the cost of pollutionthe effects of pollutiona risk of pollution…
 
 
-power		<-->	noun+A2	[221117][001]	./ˈpaʊə(r)/-NAmE /ˈpaʊər/
+power		<-->	noun++A2	[221117][001]	./ˈpaʊə(r)/-NAmE /ˈpaʊər/
 	;năng lượng, sức mạch, quyền lực -- (Idiooms) (control)​  [uncountable] the ability to control people or things
 		;power to do something He has the power to make things very unpleasant for us.
 		;Religion is losing its power to shape our behaviour.
@@ -1680,13 +1720,13 @@ power		<-->	noun+A2	[221117][001]	./ˈpaʊə(r)/-NAmE /ˈpaʊər/
 				;abuse of powerthe balance of powera bid for power…
 
 
-power plant		<-->	noun+B1	[221117][001]	./ˈpaʊə plɑːnt/-NAmE /ˈpaʊər plænt/
+power plant		<-->	noun++B1	[221117][001]	./ˈpaʊə plɑːnt/-NAmE /ˈpaʊər plænt/
 	;nhà máy điện -- (British English also power station)
 ​		;enlarge imagea building or group of buildings where electricity is produced
 		;TOPICS The environmentB1
 
 
-power station		<-->	noun+B1	[221117][001]	./ˈpaʊə steɪʃn/-NAmE /ˈpaʊər steɪʃn/
+power station		<-->	noun++B1	[221117][001]	./ˈpaʊə steɪʃn/-NAmE /ˈpaʊər steɪʃn/
 	;trạm điện, nhà máy điện -- (British English) (also power plant North American English, British English)
 ​		;a building or group of buildings where electricity is produced
 		;a coal-fired power station
@@ -1695,7 +1735,7 @@ power station		<-->	noun+B1	[221117][001]	./ˈpaʊə steɪʃn/-NAmE /ˈpaʊər s
 		;TOPICS BuildingsB1, The environmentB1
 
 
-protect		<-->	verb+A2	[221117][001]	./prəˈtekt/-NAmE /prəˈtekt/
+protect		<-->	verb++A2	[221117][001]	./prəˈtekt/-NAmE /prəˈtekt/
 	;bảo vệ --  [transitive, intransitive] to make sure that somebody/something is not harmed, injured, damaged, etc.
 		;protect somebody/something/yourself to protect children/citizens/civilians/consumers/workers
 		;Our aim is to protect the jobs of our members.
@@ -1719,7 +1759,7 @@ protect		<-->	verb+A2	[221117][001]	./prəˈtekt/-NAmE /prəˈtekt/
 				;be aimed at protecting something, constitutionally protected, federally protected…
 
 
-protection		<-->	noun+B2	[221117][001]	./prəˈtekʃn/-NAmE /prəˈtekʃn/
+protection		<-->	noun++B2	[221117][001]	./prəˈtekʃn/-NAmE /prəˈtekʃn/
 ​	;sự bảo vệ -- [uncountable] the act of protecting somebody/something;the state of being protected
 		;protection against something Wear clothes that provide adequate protection against the wind and rain.
 		;protection from something His straw hat offered some protection from the sun.
@@ -1735,13 +1775,13 @@ protection		<-->	noun+B2	[221117][001]	./prəˈtekʃn/-NAmE /prəˈtekʃn/
 		;TOPICS The environmentB2
 
 
-pylon		<-->	noun+C1	[221117][001]	./ˈpaɪlən/-NAmE /ˈpaɪlən/,  /ˈpaɪlɑːn/
+pylon		<-->	noun++C1	[221117][001]	./ˈpaɪlən/-NAmE /ˈpaɪlən/,  /ˈpaɪlɑːn/
 	;cột điện, cột điện cao thế -- a tall metal structure that is used for carrying electricity wires high above the ground
 		;TOPICS The environmentC1
 		;Oxford Collocations Dictionary
 
 
-radioactive		<-->	adjective+C1	[221117][001]	./ˌreɪdiəʊˈæktɪv/-NAmE /ˌreɪdiəʊˈæktɪv/  
+radioactive		<-->	adjective++C1	[221117][001]	./ˌreɪdiəʊˈæktɪv/-NAmE /ˌreɪdiəʊˈæktɪv/  
 	;có phóng xạ -- ​sending out powerful and very dangerous rays when the nuclei (= central parts) of atoms are broken up
 		;TOPICS The environmentC1, Physics and chemistryC1
 		;Oxford Collocations Dictionary
@@ -1751,11 +1791,11 @@ radioactive		<-->	adjective+C1	[221117][001]	./ˌreɪdiəʊˈæktɪv/-NAmE /ˌre
 				;dangerously, highly, slightly…
 
 
-reactor		<-->	noun+C1	[221117][001]	./riˈæktə(r)/-NAmE /riˈæktər/  
+reactor		<-->	noun++C1	[221117][001]	./riˈæktə(r)/-NAmE /riˈæktər/  
 	;lò phản ứng (h.nhân) -- a large structure used to produce nuclear energy
 
 
-recycle		<-->	verb+A2	[221117][001]	./ˌriːˈsaɪkl/-NAmE /ˌriːˈsaɪkl/
+recycle		<-->	verb++A2	[221117][001]	./ˌriːˈsaɪkl/-NAmE /ˌriːˈsaɪkl/
 	;tái sử dụng, tái chế --  recycle something to treat things that have already been used so that they can be used again
 			;to recycle waste/rubbish
 			;Denmark recycles nearly 85% of its paper.
@@ -1776,35 +1816,35 @@ recycle		<-->	verb+A2	[221117][001]	./ˌriːˈsaɪkl/-NAmE /ˌriːˈsaɪkl/
 					;can be recycled, recycled waste, paper, materials, etc.
 
 
-recycling		<-->	noun+A2	[221117][001]	./ˌriːˈsaɪklɪŋ/-NAmE /ˌriːˈsaɪklɪŋ/  
+recycling		<-->	noun++A2	[221117][001]	./ˌriːˈsaɪklɪŋ/-NAmE /ˌriːˈsaɪklɪŋ/  
 	;quá trình, việc tái chế -- [uncountable] the process of treating things that have already been used so that they can be used again
 		;the recycling of glass
 		;a recycling plant
 		;TOPICS The environmentA2
 
 
-refine		<-->	verb+C1	[221117][001]	./rɪˈfaɪn/-NAmE /rɪˈfaɪn/
+refine		<-->	verb++C1	[221117][001]	./rɪˈfaɪn/-NAmE /rɪˈfaɪn/
 	;tinh lọc -refine (something): to make a substance pure by taking other substances out of it
 		;We have much crude oil which needs refining.
 
 
-refinery		<-->	noun+C2	[221117][001]	./rɪˈfaɪnəri/-NAmE /rɪˈfaɪnəri/
+refinery		<-->	noun++C2	[221117][001]	./rɪˈfaɪnəri/-NAmE /rɪˈfaɪnəri/
 	;nhà máy lọc dầu -- a factory where a substance such as oil is refined (= made pure)
 
 
-reintroduce		<-->	verb+C1	[221117][001]	./ˌriːɪntrəˈdjuːs/-NAmE /ˌriːɪntrəˈduːs/
+reintroduce		<-->	verb++C1	[221117][001]	./ˌriːɪntrəˈdjuːs/-NAmE /ˌriːɪntrəˈduːs/
 	;thả về tự nhiên -- ​reintroduce something (to something) to put a type of animal, bird or plant back into a region where it once lived
 		;The centre has a fifty per cent success rate of reintroducing animals to the wild.
 		;TOPICS The environmentC1
 
 
-relieve		<-->	verb+B2	[221117][001]	./rɪˈliːv/-NAmE /rɪˈliːv/
+relieve		<-->	verb++B2	[221117][001]	./rɪˈliːv/-NAmE /rɪˈliːv/
 	;giải cứu, an ủi, xoa dịu, làm bớt đau -- 
 	;relieve something: to remove or reduce an unpleasant feeling or pain
 		;Being able to tell the truth at last seemed to relieve her.
 
 
-relief		<-->	noun+B2	[221117][001]	./rɪˈliːf/-NAmE /rɪˈliːf/
+relief		<-->	noun++B2	[221117][001]	./rɪˈliːf/-NAmE /rɪˈliːf/
 	;sự cứu trợ, hàng-tiền cứu trợ -- (help) [uncountable] food, money, medicine, etc. that is given to help people in places where there has been a war or natural disaster
 		;SYNONYM aid
 		;disaster relief
@@ -1824,14 +1864,14 @@ relief		<-->	noun+B2	[221117][001]	./rɪˈliːf/-NAmE /rɪˈliːf/
 				;work, effort, operation…
 
 
-renewable		<-->	adjective+B1	[221117][001]	./rɪˈnjuːəbl/-NAmE /rɪˈnuːəbl/  
+renewable		<-->	adjective++B1	[221117][001]	./rɪˈnjuːəbl/-NAmE /rɪˈnuːəbl/  
 	;tái tạo -- ​[usually before noun] (of energy and natural resources) that is replaced naturally or controlled carefully and can therefore be used without the risk of using it all up
 		;renewable sources of energy such as wind and solar power
 		;Collocations The environment
 		;TOPICS The environmentB1
 
 
-reserve		<-->	noun+B2	[221117][001]	./rɪˈzɜːv/-NAmE /rɪˈzɜːrv/\
+reserve		<-->	noun++B2	[221117][001]	./rɪˈzɜːv/-NAmE /rɪˈzɜːrv/\
 	;khu bảo tồn -- (protected land)​ (North American English also preserve)[countable] a piece of land that is a protected area for animals, plants, etc.
 		;a wildlife/forest reserve
 		;SEE ALSO game reserve, nature reserve
@@ -1839,11 +1879,11 @@ reserve		<-->	noun+B2	[221117][001]	./rɪˈzɜːv/-NAmE /rɪˈzɜːrv/\
 				;Oxford Collocations Dictionary
 
 
-reservist		<-->	noun+C2	[221117][001]	./rɪˈzɜːvɪst/-NAmE /rɪˈzɜːrvɪst/
+reservist		<-->	noun++C2	[221117][001]	./rɪˈzɜːvɪst/-NAmE /rɪˈzɜːrvɪst/
 	;người phục vụ -- a soldier, etc. who is a member of the reserves (= a military force that can be used in an emergency)
 
 
-resource		<-->	noun+B1	[221117][001]	./rɪˈsɔːs/,  /rɪˈzɔːs/-NAmE /ˈriːsɔːrs/,  /rɪˈsɔːrs/\  
+resource		<-->	noun++B1	[221117][001]	./rɪˈsɔːs/,  /rɪˈzɔːs/-NAmE /ˈriːsɔːrs/,  /rɪˈsɔːrs/\  
 	;tài nguyên, nguồn lực --  [countable, usually plural] a supply of something that a country, an organization or a person has and can use, especially to increase their wealth
 		;the exploitation of minerals and other natural resources
 		;They promote the use of renewable resources like soybean oil.
@@ -1868,21 +1908,21 @@ resource		<-->	noun+B1	[221117][001]	./rɪˈsɔːs/,  /rɪˈzɔːs/-NAmE /ˈriː
 				;access to resources, the allocation of resources, the distribution of resources
 
 
-reuse		<-->	verb+C1	[221117][001]	./ˌriːˈjuːz/-NAmE /ˌriːˈjuːz/\
+reuse		<-->	verb++C1	[221117][001]	./ˌriːˈjuːz/-NAmE /ˌriːˈjuːz/\
 	;tái sử dụng -- 
 ​		;reuse something: to use something again
 		;Please reuse your envelopes.
 		;TOPICS The environmentC1
 
 
-reuse		<-->	noun+C1	[221117][001]	./ˌriːˈjuːs/-NAmE /ˌriːˈjuːs/
+reuse		<-->	noun++C1	[221117][001]	./ˌriːˈjuːs/-NAmE /ˌriːˈjuːs/
 	;việc tái sử dụng -- [uncountable] ​the act of using something again
 		;The water is conserved and reheated for reuse.
 		;a plan for the reduction, reuse and recycling of all waste
 		;TOPICS The environmentC1
 
 
-rewilding		<-->	noun+C2	[221117][001]	./ˌriːˈwaɪldɪŋ/-NAmE /ˌriːˈwaɪldɪŋ/
+rewilding		<-->	noun++C2	[221117][001]	./ˌriːˈwaɪldɪŋ/-NAmE /ˌriːˈwaɪldɪŋ/
 	;phục hồi môi trường -- ​the practice of helping large areas of land to return to their natural state
 
 
@@ -1891,7 +1931,7 @@ rig		<-->	verb    /rɪɡ/ -NAmE /rɪɡ/
 		;He said the election had been rigged.
 
 
-rig		<-->	noun+B2	[221117][001]	./rɪɡ/ -NAmE /rɪɡ/
+rig		<-->	noun++B2	[221117][001]	./rɪɡ/ -NAmE /rɪɡ/
 	;giàn khoan (dầu) -- (especially in compounds) a large piece of equipment that is used for taking oil or gas from the ground or the bottom of the sea
 		;an oil rig
 		;Her husband works on a rig in the North Sea for weeks at a time.
@@ -1906,7 +1946,7 @@ rubbish		<-->	verbverb++	[221117][001]	./ˈrʌbɪʃ/ -NAmE /ˈrʌbɪʃ/
 		;He rubbished all my ideas, saying they were impractical.
 
 
-rubbish		<-->	noun+A2	[221117][001]	./ˈrʌbɪʃ/ -NAmE /ˈrʌbɪʃ/\
+rubbish		<-->	noun++A2	[221117][001]	./ˈrʌbɪʃ/ -NAmE /ˈrʌbɪʃ/\
 	;rác -- [uncountable]  (especially British English) things that you throw away because you no longer want or need them
 		;a rubbish bag/bin
 		;a rubbish dump/heap/tip
@@ -1941,31 +1981,31 @@ salvage		<-->	verb++	[221117][001]	./ˈsælvɪdʒ/-NAmE /ˈsælvɪdʒ/
 		;The house was built using salvaged materials.
 
 
-salvage		<-->	noun+C2	[221117][001]	./ˈsælvɪdʒ/ -NAmE /ˈsælvɪdʒ/
+salvage		<-->	noun++C2	[221117][001]	./ˈsælvɪdʒ/ -NAmE /ˈsælvɪdʒ/
 	;cứu hộ -- the act of saving things that have been, or are likely to be, damaged or lost, 
 		, especially in a disaster or an accident
 		;a salvage company/operation/team
 
 
-sanctuary		<-->	noun+C1	[221117][001]	./ˈsæŋktʃuəri/ -NAmE /ˈsæŋktʃueri/
+sanctuary		<-->	noun++C1	[221117][001]	./ˈsæŋktʃuəri/ -NAmE /ˈsæŋktʃueri/
 	;khu bảo tồn -- ​[countable] an area where wild birds or animals are protected and encouraged to produce young
 
 
-sandstorm		<-->	noun+B1	[221117][001]	./ˈsændstɔːm/ -NAmE /ˈsændstɔːrm/
+sandstorm		<-->	noun++B1	[221117][001]	./ˈsændstɔːm/ -NAmE /ˈsændstɔːrm/
 	;bão cát sa mạc -- a storm in a desert in which sand is blown into the air by strong winds
 		;TOPICS The environmentB1
 
 
-seaquake		<-->	noun+C2	[221117][001]	./ˈsiːkweɪk/ -NAmE /ˈsiːkweɪk/ 
+seaquake		<-->	noun++C2	[221117][001]	./ˈsiːkweɪk/ -NAmE /ˈsiːkweɪk/ 
 	;sóng thần -- a sudden powerful movement of the sea, caused by an earthquake or by volcanic activity under the sea
 
 
-shelter in place		 <-->	idiom+C2	[221117][001]	./
+shelter in place		 <-->	idiom++C2	[221117][001]	./i/
 	;ở nơi an toàn -- to stay indoors during an emergency in order to protect yourself and others
 		;Residents of the city have been ordered to shelter in place for at least the next three weeks.
 
 
-shock		<-->	noun+B2	[221117][001]	./ʃɒk/ -NAmE /ʃɑːk/ 
+shock		<-->	noun++B2	[221117][001]	./ʃɒk/ -NAmE /ʃɑːk/ 
 	;chấn động -- (violent shaking)​  [countable, uncountable] a violent shaking movement that is caused by an explosion, earthquake, etc.
 		;The shock of the explosion could be felt six miles away.
 		;The bumper absorbs shock on impact.
@@ -1973,22 +2013,22 @@ shock		<-->	noun+B2	[221117][001]	./ʃɒk/ -NAmE /ʃɑːk/
 		;TOPICS The environmentB2
 
 
-shock wave		<-->	noun+C1 	/ˈʃɒk weɪv/-NAmE /ˈʃɑːk weɪv/
+shock wave		<-->	noun++C1	[221119][001]	./ˈʃɒk weɪv/-NAmE /ˈʃɑːk weɪv/
 ​	;sóng xung kích -- a movement of very high air pressure that is caused by an explosion, earthquake, etc.
 		;TOPICS The environmentC1
 
 
-slick		<-->	noun+C2	[221117][001]	./slɪk/-NAmE /slɪk/
+slick		<-->	noun++C2	[221117][001]	./slɪk/-NAmE /slɪk/
 	;vùng tràn dầu -- (also oil slick) an area of oil that is floating on the surface of the sea
 		;a 50 km slick from the damaged tanker
 
 
-smog		<-->	noun+C1	[221117][001]	./smɒɡ/ -NAmE /smɑːɡ/
+smog		<-->	noun++C1	[221117][001]	./smɒɡ/ -NAmE /smɑːɡ/
 	;khói bụi -- a form of air pollution that is or looks like a mixture of smoke and fog, especially in cities
 		;attempts to reduce smog caused by traffic fumes
 
 
-smoke		<-->	noun+A2	[221117][001]	./sməʊk/ -NAmE /sməʊk/
+smoke		<-->	noun++A2	[221117][001]	./sməʊk/ -NAmE /sməʊk/
 	;khói --   [uncountable] the grey, white or black gas that is produced by something burning
 		;cigarette/tobacco smoke
 		;Plumes of black smoke could be seen rising from the area.
@@ -2018,14 +2058,14 @@ smoke		<-->	noun+A2	[221117][001]	./sməʊk/ -NAmE /sməʊk/
 				;go up in smoke, full of smoke, thick with smoke…
 
 
-snowslide		<-->	noun+C1	[221117][001]	./ˈsnəʊslaɪd/-NAmE /ˈsnəʊslaɪd/
+snowslide		<-->	noun++C1	[221117][001]	./ˈsnəʊslaɪd/-NAmE /ˈsnəʊslaɪd/
 	;vụ lỡ tuyết -- (North American English) (also avalanche British and North American English)
 ​		;a mass of snow, ice and rock that falls down the side of a mountain
 		;TOPICS WeatherC1, The environmentC1, GeographyC1
 		;<<, snowslide, avalanche,,,,,>>
 
 
-solar		<-->	adjective+B2	[221117][001]	./ˈsəʊlə(r)/ -NAmE /ˈsəʊlər/ 
+solar		<-->	adjective++B2	[221117][001]	./ˈsəʊlə(r)/ -NAmE /ˈsəʊlər/ 
 	;có năng lượng mặt trời -- [only before noun] using the sun’s energy
 		;solar heating
 		;a satellite telephone with solar-powered batteries
@@ -2034,21 +2074,21 @@ solar		<-->	adjective+B2	[221117][001]	./ˈsəʊlə(r)/ -NAmE /ˈsəʊlər/
 		;TOPICS The environmentB2, Physics and chemistryB2
 
 
-solar cell		<-->	noun+C1	[221117][001]	./ˌsəʊlə ˈsel/-NAmE /ˌsəʊlər ˈsel/
+solar cell		<-->	noun++C1	[221117][001]	./ˌsəʊlə ˈsel/-NAmE /ˌsəʊlər ˈsel/
 	;pin mặt trời -- a device that receives light and heat energy from the sun and changes it into electricity
 
 
-solar panel		<-->	noun+B1	[221117][001]	./ˌsəʊlə ˈpænl/-NAmE /ˌsəʊlər ˈpænl/
+solar panel		<-->	noun++B1	[221117][001]	./ˌsəʊlə ˈpænl/-NAmE /ˌsəʊlər ˈpænl/
 	;tấm pin mặt trời --  [IMAGE]	 a piece of equipment, often on the roof of a building, that uses light and heat energy from the sun to produce hot water and electricity
 		;TOPICS The environmentB1, Houses and homesB1
 
 
-soot		<-->	noun+C2	[221117][001]	./sʊt/-NAmE /sʊt/
+soot		<-->	noun++C2	[221117][001]	./sʊt/-NAmE /sʊt/
 	;bồ hóng (từ ống khói) -- black powder that is produced when wood, coal, etc. is burnt
 		;The fireplace was blackened with soot.
 
 
-the greenhouse effect		<-->	noun+C1	[221117][001]	./ðə ˈɡriːnhaʊs ɪfekt/-NAmE /ðə ˈɡriːnhaʊs ɪfekt/
+the greenhouse effect		<-->	noun++C1	[221117][001]	./ðə ˈɡriːnhaʊs ɪfekt/-NAmE /ðə ˈɡriːnhaʊs ɪfekt/
 	;hiệu ứng nhà kính -- [singular] ​the problem of the slow steady rise in temperature of the earth’s atmosphere, caused by an increase of gases such as carbon dioxide in the air surrounding the earth, which trap the heat of the sun
 		;The destruction of forests is contributing to the greenhouse effect.
 		;We are all beginning to experience global warming due to the enhanced greenhouse effect.
@@ -2057,17 +2097,17 @@ the greenhouse effect		<-->	noun+C1	[221117][001]	./ðə ˈɡriːnhaʊs ɪfekt/-
 		;TOPICS The environmentC1
 
 
-storm		<-->	noun+A2[-0]	.
+storm		<-->	noun++A2	[221119][001]	./cef/
 
 
 
 
-substation		<-->	noun+C2	[221117][001]	./ˈsʌbsteɪʃn/ -NAmE /ˈsʌbsteɪʃn/
+substation		<-->	noun++C2	[221117][001]	./ˈsʌbsteɪʃn/ -NAmE /ˈsʌbsteɪʃn/
 	;trạm hạ thế -- ​a place where the strength of electric power from a power 
 		;station is reduced before it is passed on to homes and businesses
 
 
-sustainable		<-->	adjective+B2	[221117][001]	./səˈsteɪnəbl/ -NAmE /səˈsteɪnəbl/  
+sustainable		<-->	adjective++B2	[221117][001]	./səˈsteɪnəbl/ -NAmE /səˈsteɪnəbl/  
 	;có thể tái tạo và không hại môi trường --  involving the use of natural products and energy in a way that does not harm the environment
 		;sustainable forest management
 		;an environmentally sustainable society
@@ -2076,31 +2116,31 @@ sustainable		<-->	adjective+B2	[221117][001]	./səˈsteɪnəbl/ -NAmE /səˈste�
 		;TOPICS The environmentB2
 
 
-tank		<-->	noun+B2	[221117][001]	./tæŋk/ -NAmE /tæŋk/
+tank		<-->	noun++B2	[221117][001]	./tæŋk/ -NAmE /tæŋk/
 	;thùng chứa dầu lớn -- a large container for holding liquid or gas
 
 
-tanker		<-->	noun+C1	[221117][001]	./ˈtæŋkə(r)/ -NAmE /ˈtæŋkər/
+tanker		<-->	noun++C1	[221117][001]	./ˈtæŋkə(r)/ -NAmE /ˈtæŋkər/
 	;siêu tàu dầu, hay xe tải lớn chở dầu -- a ship or lorry that carries oil, gas or petrol in large quantities
 
 
-temblor		<-->	noun+C2	[221117][001]	./ˈtemblə(r)/ -NAmE /ˈtemblər/
+temblor		<-->	noun++C2	[221117][001]	./ˈtemblə(r)/ -NAmE /ˈtemblər/
 	;sự động đất -- an earthquake (= a sudden, violent shaking of the earth’s surface)
 		;<<, temblor, earthquake,,,,,>>
 
 
-thunderstorm		<-->	noun+B2	[221117][001]	./ˈθʌndəstɔːm/ -NAmE /ˈθʌndərstɔːrm/
+thunderstorm		<-->	noun++B2	[221117][001]	./ˈθʌndəstɔːm/ -NAmE /ˈθʌndərstɔːrm/
 	;bão có sấm sét -- a storm with thunder and lightning and usually very heavy rain
 		;He slept well, unaware of the thunderstorms which filled the night.
 		;The church was struck by lightning during a violent thunderstorm.
 
 
-tidal wave		<-->	noun+C1	[221117][001]	./ˈtaɪdl weɪv/ -NAmE /ˈtaɪdl weɪv/
+tidal wave		<-->	noun++C1	[221117][001]	./ˈtaɪdl weɪv/ -NAmE /ˈtaɪdl weɪv/
 	;sóng thuỷ triều -- a very large ocean wave that is caused by a storm or an earthquake, and that destroys things when it reaches the land
 		;Several villages were destroyed by a huge tidal wave.
 
 
-toll		<-->	noun+C1	[221117][001]	./təʊl/ -NAmE /təʊl/\
+toll		<-->	noun++C1	[221117][001]	./təʊl/ -NAmE /təʊl/\
 	;số lượng thiệt hại -- 
 	;death toll ,  [countable, usually singular] the amount of damage or the number of deaths and injuries that are caused in a particular war, disaster, etc.
 		;the war’s growing casualty toll
@@ -2120,32 +2160,32 @@ toll		<-->	noun+C1	[221117][001]	./təʊl/ -NAmE /təʊl/\
 				;bring the toll to, put the toll at
 
 
-tornado		<-->	noun+B1	[221117][001]	./tɔːˈneɪdəʊ/ -NAmE /tɔːrˈneɪdəʊ/
+tornado		<-->	noun++B1	[221117][001]	./tɔːˈneɪdəʊ/ -NAmE /tɔːrˈneɪdəʊ/
 	;cuồng phong -- a violent storm with very strong winds that move in a circle. There is often also a long cloud that is narrower at the bottom than the top.
 		;Tornadoes ripped (xé toạc)into the southern United States yesterday.
 
 
-toxic		<-->	adjective+C1	[221117][001]	./ˈtɒksɪk/ -NAmE /ˈtɑːksɪk/
+toxic		<-->	adjective++C1	[221117][001]	./ˈtɒksɪk/ -NAmE /ˈtɑːksɪk/
 	;độc, có chứa độc -- containing poison;poisonous
 		;toxic chemicals/fumes/gases/substances
 
 
-toxicity		<-->	noun+C2	[221117][001]	./tɒkˈsɪsəti/-NAmE /tɑːkˈsɪsəti/
+toxicity		<-->	noun++C2	[221117][001]	./tɒkˈsɪsəti/-NAmE /tɑːkˈsɪsəti/
 	;độc tính -- [uncountable] the fact of being poisonous;the extent to which something is poisonous
 		;substances with high levels of toxicity
 
 
-trash		<-->	noun+A2	[221117][001]	./træʃ/ -NAmE /træʃ/
+trash		<-->	noun++A2	[221117][001]	./træʃ/ -NAmE /træʃ/
 	;rác -- (North American English) things that you throw away because you no longer want or need them
 		;Don't forget to take out the trash.
 
 
-tremor		<-->	noun+C2	[221117][001]	./ˈtremə(r)/ -NAmE /ˈtremər/
+tremor		<-->	noun++C2	[221117][001]	./ˈtremə(r)/ -NAmE /ˈtremər/
 	;dư chấn --  a small earthquake in which the ground shakes slightly
 		;an earth tremor
 
 
-tsunami		<-->	noun+B2	[221117][001]	./tsuːˈnɑːmi/ -NAmE /tsuːˈnɑːmi/   
+tsunami		<-->	noun++B2	[221117][001]	./tsuːˈnɑːmi/ -NAmE /tsuːˈnɑːmi/   
 	;sóng thần -- (from Japanese) an extremely large wave in the sea caused, for example, by an earthquake
 		;A tsunami early warning system was set up in Hawaii.
 		;The tsunami caused immeasurable damage.
@@ -2157,7 +2197,7 @@ tsunami		<-->	noun+B2	[221117][001]	./tsuːˈnɑːmi/ -NAmE /tsuːˈnɑːmi/
 				;disaster, relief, survivor…
 
 
-turbine		<-->	noun+B1	[221117][001]	./ˈtɜːbaɪn/ -NAmE /ˈtɜːrbaɪn/  
+turbine		<-->	noun++B1	[221117][001]	./ˈtɜːbaɪn/ -NAmE /ˈtɜːrbaɪn/  
 	;động cơ khí -- a machine or part of a machine that produces continuous turning power from a fast-moving flow of a liquid or gas, using a set of vanes attached to a wheel or rotor
 		;The flow of water drives the turbine, which is connected to an electrical generator to produce electricity.
 		;Gas turbines can be used to generate electricity.
@@ -2170,26 +2210,42 @@ turbine		<-->	noun+B1	[221117][001]	./ˈtɜːbaɪn/ -NAmE /ˈtɜːrbaɪn/
 				;steam, wind…
 
 
-twister		<-->	noun+C2	[221117][001]	./ˈtwɪstə(r)/ -NAmE /ˈtwɪstər/
+twister		<-->	noun++C2	[221117][001]	./ˈtwɪstə(r)/ -NAmE /ˈtwɪstər/
 	;lốc xoáy -- a violent storm with very strong winds that move in circles
 
 
-typhoon		<-->	noun+B2[-0]	.
+typhoon		<-->	noun++B2	[221119][001]	./taɪˈfuːn/-NAmE /taɪˈfuːn/
+	;bão nhiệt đới -- (1) a violent tropical storm with very strong winds
+		;His home was destroyed in a typhoon.
+		;COMPARE cyclone, hurricane
+		;Extra Examples:
+		;The plantation was devastated by a typhoon.
+		;Earthquakes, typhoons and other natural disasters are frequent in that part of the Pacific.
+		;The hottest time of year coincides with the typhoon season.
+		;TOPICS WeatherB2, The environmentB2
+				;Oxford Collocations Dictionary
+				;typhoon + verb
+				;hit somethingstrike somethingdamage something…
+				;preposition
+				;in a/​the typhoon
+		;See full entry
 
 
-unleaded		<-->	noun+C2	[221117][001]	./ˌʌnˈledɪd/ -NAmE /ˌʌnˈledɪd/
+
+
+unleaded		<-->	noun++C2	[221117][001]	./ˌʌnˈledɪd/ -NAmE /ˌʌnˈledɪd/
 	;petrol that does not contain lead and is therefore less harmful to the environment
 	;xăng không chì
 		;Unleaded is cheaper than diesel.
 
 
-unleaded		<-->	adjective+C2	[221117][001]	./ˌʌnˈledɪd/-NAmE /ˌʌnˈledɪd/
+unleaded		<-->	adjective++C2	[221117][001]	./ˌʌnˈledɪd/-NAmE /ˌʌnˈledɪd/
 	;không chì -- [uncountable] ​petrol that does not contain lead and is therefore less harmful to the environment
 		;Unleaded is cheaper than diesel.
 		;TOPICS The environmentC2
 
 
-volcanic		<-->	adjective+B2	[221117][001]	./vɒlˈkænɪk/ -NAmE /vɑːlˈkænɪk/  
+volcanic		<-->	adjective++B2	[221117][001]	./vɒlˈkænɪk/ -NAmE /vɑːlˈkænɪk/  
 	;(tt, có liên hệ) núi lửa -- ​caused or produced by a volcano
 		;volcanic rocks
 		;volcanic eruptions
@@ -2202,7 +2258,7 @@ volcanic		<-->	adjective+B2	[221117][001]	./vɒlˈkænɪk/ -NAmE /vɑːlˈkænɪ
 				;activity, ash, crater(miệng núi lửa)…
 
 
-volcano		<-->	noun+B1	[221117][001]	./vɒlˈkeɪnəʊ/-NAmE /vɑːlˈkeɪnəʊ/
+volcano		<-->	noun++B1	[221117][001]	./vɒlˈkeɪnəʊ/-NAmE /vɑːlˈkeɪnəʊ/
 	;núi lửa -- (plural volcanoes, volcanos)  [IMAGE]	 a mountain with a large opening at the top through which gases and lava (= hot liquid rock) are forced out into the air, or have been in the past
 		;An active volcano may erupt at any time.
 		;a dormant volcano (= one that is not active at present)
@@ -2219,7 +2275,7 @@ volcano		<-->	noun+B1	[221117][001]	./vɒlˈkeɪnəʊ/-NAmE /vɑːlˈkeɪnəʊ/
 				;erupt, spew(phun ra, erupt) something, spew something out…
 
 
-waste		<-->	noun+B1	[221117][001]	./weɪst/ -NAmE /weɪst/\
+waste		<-->	noun++B1	[221117][001]	./weɪst/ -NAmE /weɪst/\
 	;rác, đồ bỏ đi -- (materials)​  [uncountable] (also wastes [plural])
 		;materials that are no longer needed and are thrown away
 		;household/garden/industrial waste
@@ -2244,18 +2300,18 @@ waste		<-->	noun+B1	[221117][001]	./weɪst/ -NAmE /weɪst/\
 				;collection, disposal, incineration…
 
 
-waterspout		<-->	noun+C2	[221117][001]	./ˈwɔːtəspaʊt/-NAmE /ˈwɔːtərspaʊt/
+waterspout		<-->	noun++C2	[221117][001]	./ˈwɔːtəspaʊt/-NAmE /ˈwɔːtərspaʊt/
 	;vòi rồng -- a column of water that is pulled up from the sea during a storm by a column of air that turns round and round rapidly
 		;Get away out of waterspout as far as you can or find a safe shelter.
 		
 
 
-wildfire		<-->	noun+C1	[221117][001]	./ˈwaɪldfaɪə(r)/-NAmE /ˈwaɪldfaɪər/
+wildfire		<-->	noun++C1	[221117][001]	./ˈwaɪldfaɪə(r)/-NAmE /ˈwaɪldfaɪər/
 	;nạn/sự cháy rừng -- a very big fire that spreads quickly and burns natural areas like woods, forests and grassland
 		;Firefighters are battling devastating wildfires in northern California.
 
 
-wind farm		<-->	noun+B2	[221117][001]	./ˈwɪnd fɑːm/-NAmE /ˈwɪnd fɑːrm/
+wind farm		<-->	noun++B2	[221117][001]	./ˈwɪnd fɑːm/-NAmE /ˈwɪnd fɑːrm/
 	;trang trại gió -- ​an area of land on which there are a lot of windmills or wind turbines for producing electricity
 		;controversial plans to build a wind farm on the island
 		;the cost of generating electricity at offshore wind farms
@@ -2264,26 +2320,28 @@ wind farm		<-->	noun+B2	[221117][001]	./ˈwɪnd fɑːm/-NAmE /ˈwɪnd fɑːrm/
 		;TOPICS The environmentB2
 
 
-windstorm		<-->	noun+B1	[221117][001]	./ˈwɪndstɔːm/-NAmE /ˈwɪndstɔːrm/
+windstorm		<-->	noun++B1	[221117][001]	./ˈwɪndstɔːm/-NAmE /ˈwɪndstɔːrm/
 	;bão nhưng ít mưa -- (North American English) ​a storm where there is very strong wind but little rain or snow
 		;TOPICS The environmentB1
 
 
-wind turbine		<-->	noun+B1	[221117][001]	./ˈwɪnd tɜːbaɪn/-NAmE /ˈwɪnd tɜːrbaɪn/
+wind turbine		<-->	noun++B1	[221117][001]	./ˈwɪnd tɜːbaɪn/-NAmE /ˈwɪnd tɜːrbaɪn/
 	;turbine gió -- a type of modern windmill used for producing electricity
 
 
-zero-carbon		<-->	adjective+C1	[221117][001]	./ˌzɪərəʊ ˈkɑːbən/-NAmE /ˌzɪrəʊ ˈkɑːrbən/
+zero-carbon		<-->	adjective++C1	[221117][001]	./ˌzɪərəʊ ˈkɑːbən/-NAmE /ˌzɪrəʊ ˈkɑːrbən/
 	;trung hoà carbon -- in which the amount of carbon dioxide produced has been reduced to nothing or is balanced by actions that protect the environment
 		;SYNONYM carbon-neutral
 		;a zero-carbon house that uses no energy from external sources
 		;TOPICS The environmentC1
 
 
-zero-emission		<-->	adjective+C1	[221117][001]	./ˌzɪərəʊ ɪˈmɪʃn/-NAmE /ˌzɪrəʊ ɪˈmɪʃn/
+zero-emission		<-->	adjective++C1	[221117][001]	./ˌzɪərəʊ ɪˈmɪʃn/-NAmE /ˌzɪrəʊ ɪˈmɪʃn/
 	;không thải carbon -- [only before noun] ​used to describe a vehicle that does not produce gases that cause pollution
 		;Zero-emission cars—including all electric cars—are exempt from car tax.
 		;TOPICS Transport by car or lorryC1, The environmentC1
 
+
+[[[ENVIRONMENT]]]<<<<<-------
 
     

@@ -1,20 +1,21 @@
-3D printer		<-->	noun+B2	[221028][1]	./ˌθriː diː ˈprɪntə(r)/-NAmE /ˌθriː diː ˈprɪntər/
+<<<<<<<-------[[[ENGINEER]]]
+3D printer		<-->	noun++B2	[221028][001]	./ˌθriː diː ˈprɪntə(r)/-NAmE /ˌθriː diː ˈprɪntər/
 	;máy in 3D -- See 360ÃÂÃÂÃÂÃÂ° image.a machine that makes solid objects from a digital file by adding more and more layers of a material until the object is complete
 		;The car's entire body, seats and windshield are printed by a 3D printer and are made out of carbon fibre and plastic.
 		;TOPICS EngineeringB2
 
 
-AC		<-->	abbreviation+C2	[220821][1]	./ˌeɪ ˈsiː/-NAmE /ˌeɪ ˈsiː/
+AC		<-->	abbreviation++C2	[220821][001]	./ˌeɪ ˈsiː/-NAmE /ˌeɪ ˈsiː/
 	;dòng xoay chiều -- alternating current
 		;COMPARE direct current
 
 
-action		<-->	noun+C2	[221028][1]	./ˈækʃn/-NAmE /ˈækʃn/
+action		<-->	noun++C2	[221028][001]	./ˈækʃn/-NAmE /ˈækʃn/
 	;một bộ phận cơ khí của đàn, súng, ... [singular] the mechanical parts of a piano, gun, clock, etc. or the way the parts move
 		;SEE ALSO bolt-action, double-action, pump-action
 
 
-activate		<-->	verb+B2	[220821][1]	./ˈæktɪveɪt/-NAmE /ˈæktɪveɪt/
+activate		<-->	verb++B2	[220821][001]	./ˈæktɪveɪt/-NAmE /ˈæktɪveɪt/
 	;kích hoạt -- ​activate something to make something such as a device or chemical process start working
 		;The burglar alarm is activated by movement.
 		;The gene is activated by a specific protein.
@@ -22,62 +23,62 @@ activate		<-->	verb+B2	[220821][1]	./ˈæktɪveɪt/-NAmE /ˈæktɪveɪt/
 		;TOPICS EngineeringB2, Physics and chemistryB2
 
 
-activation		<-->	noun+C1	[221028][1]	./ˌæktɪˈveɪʃn/-NAmE /ˌæktɪˈveɪʃn/
+activation		<-->	noun++C1	[221028][001]	./ˌæktɪˈveɪʃn/-NAmE /ˌæktɪˈveɪʃn/
 	;sự kích hoạt -- [uncountable]​the act of making something such as a device or chemical process start working
 		;The activation of several target genes results in two major effects.
 		;to trigger/inhibit/block the activation of something
 		;Physics and chemistryC1
 
 
-actuate		<-->	verb+C2	[220821][1]	./ˈæktʃueɪt/-NAmE /ˈæktʃueɪt/
+actuate		<-->	verb++C2	[220821][001]	./ˈæktʃueɪt/-NAmE /ˈæktʃueɪt/
 	;khởi động -- (formal) ​actuate something: to make a machine or device start to work
 		;SYNONYM activate
 		;The timer must have been actuated by radio control.
 
 
-adapter		<-->	noun+C1	[221028][1]	./əˈdæptə(r)/-NAmE /əˈdæptər/
+adapter		<-->	noun++C1	[221028][001]	./əˈdæptə(r)/-NAmE /əˈdæptər/
 	;bộ tương thích -- (also adaptor)​a device for connecting pieces of electrical equipment that were not designed to fit together
 	;(British English) a device for connecting more than one piece of equipment to the same socket (= a place in the wall where equipment is connected to the electricity supply)
 
 
-alternator		<-->	noun+C2	[221028][1]	./ˈɔːltəneɪtə(r)/-NAmE /ˈɔːltərneɪtər/
+alternator		<-->	noun++C2	[221028][001]	./ˈɔːltəneɪtə(r)/-NAmE /ˈɔːltərneɪtər/
 	;máy phát điện (xoay chiều) -- ​a device, used especially in a car, that produces an alternating current
 
 
-ammeter		<-->	noun+C2	[221028][1]	./ˈæmiːtə(r)/-NAmE /ˈæmiːtər/
+ammeter		<-->	noun++C2	[221028][001]	./ˈæmiːtə(r)/-NAmE /ˈæmiːtər/
 ​	;máy đo cường độ dòng điện -- an instrument for measuring the strength of an electric current
 
 
-amp		<-->	noun+C2	[220821][1]	./æmp/-NAmE /æmp/ (also ampere-NAmE /ˈæmpeə(r)/-NAmE /ˈæmpɪr/,  /ˈæmper/) 
+amp		<-->	noun++C2	[220821][001]	./æmp/-NAmE /æmp/ (also ampere-NAmE /ˈæmpeə(r)/-NAmE /ˈæmpɪr/,  /ˈæmper/) 
 	;đơn vị cường độ dòng điện -- (abbreviation A) the unit for measuring electric current
 		;a 13-amp fuse/plug
 		;TOPICS Maths and measurementC2, EngineeringC2
 
 
-amperage		<-->	noun+C2	[221028][1]	./ˈæmpərɪdʒ/-NAmE /ˈæmpərɪdʒ/
+amperage		<-->	noun++C2	[221028][001]	./ˈæmpərɪdʒ/-NAmE /ˈæmpərɪdʒ/
 	;cường độ dòng điện -- [uncountable] (specialist) the strength of an electric current, measured in amps
 
 
-amplifier		<-->	noun+C1	[221028][1]	./ˈæmplɪfaɪə(r)/-NAmE /ˈæmplɪfaɪər/
+amplifier		<-->	noun++C1	[221028][001]	./ˈæmplɪfaɪə(r)/-NAmE /ˈæmplɪfaɪər/
 	;bộ khuếch đại (loa)-- (also informal amp) an electrical device or piece of equipment that makes sounds or radio signals louder
 		;a 25 watt amplifier
 		;MusicC1
 
 
-analogue		<-->	adjective+C1	[221028][1]	./ˈænəlɒɡ/-NAmE /ˈænəlɔːɡ/
+analogue		<-->	adjective++C1	[221028][001]	./ˈænəlɒɡ/-NAmE /ˈænəlɔːɡ/
 	;(thuộc) tính hiệu sóng -- (especially British English)(North American English usually analog)(specialist)​(of an electronic process) using a continuously changing range of physical quantities to measure or store data
 		;an analogue circuit/computer/signal
 		;TOPICS ComputersC1, EngineeringC1
 
 
-antenna		<-->	noun+C1	[221028][1]	./ænˈtenə/-NAmE /ænˈtenə/ - [IMAGE]-Houses 
+antenna		<-->	noun++C1	[221028][001]	./ænˈtenə/-NAmE /ænˈtenə/ - [IMAGE]-Houses 
 	;ăng-ten -- (plural antennas, antennae)(especially North American English)(also aerial especially in British English)a piece of equipment made of wire or long straight pieces of metal for receiving or sending radio and television signals
 		;radio antennas
 		;They installed a dish antenna on the roof.
 		;TV, radio and newsC1, Houses and homesC1
 
 
-appliance		<-->	noun+B2	[221028][1]	./əˈplaɪəns/-NAmE /əˈplaɪəns/
+appliance		<-->	noun++B2	[221028][001]	./əˈplaɪəns/-NAmE /əˈplaɪəns/
 	;thiết bị gia dụng -- a machine that is designed to do a particular thing in the home, such as preparing food, heating or cleaning
 		;electrical/household appliances
 		;They sell a wide range of domestic appliances—washing machines, dishwashers and so on.
@@ -85,17 +86,17 @@ appliance		<-->	noun+B2	[221028][1]	./əˈplaɪəns/-NAmE /əˈplaɪəns/
 		;Always switch off appliances that are not in use.
 
 
-arm		<-->	noun+C1	[221028][1]	./ɑːm/-NAmE /ɑːrm/
+arm		<-->	noun++C1	[221028][001]	./ɑːm/-NAmE /ɑːrm/
 	;cánh tay -- (of a machine)
 ​		;a long narrow part of an object or a machine, especially one that moves
 		;a robotic arm
 
 
-ball bearing		<-->	noun+C2	[221028][1]	./ˌbɔːl ˈbeərɪŋ/-NAmE /ˌbɔːl ˈberɪŋ/ [IMAGE]
+ball bearing		<-->	noun++C2	[221028][001]	./ˌbɔːl ˈbeərɪŋ/-NAmE /ˌbɔːl ˈberɪŋ/ [IMAGE]
 	;viên bi thép trong các trục -- a ring of small metal balls used in a machine to enable the parts to turn smoothly;one of these small metal balls
 
 
-bandwidth		<-->	noun+C2	[221028][1]	./ˈbændwɪdθ/,  /ˈbændwɪtθ/-NAmE /ˈbændwɪdθ/,  /ˈbændwɪtθ/
+bandwidth		<-->	noun++C2	[221028][001]	./ˈbændwɪdθ/,  /ˈbændwɪtθ/-NAmE /ˈbændwɪdθ/,  /ˈbændwɪtθ/
 	;băng tầng -- [countable, uncountable]​a band of frequencies used for sending electronic signals
 		;bandwidths in the range of 50–70 Hz
 	
@@ -103,7 +104,7 @@ bandwidth		<-->	noun+C2	[221028][1]	./ˈbændwɪdθ/,  /ˈbændwɪtθ/-NAmE /ˈb
 		;Upgrade to a higher bandwidth to increase your download limits.
 		;TOPICS Phones, email and the internetC2
 
-battery		<-->	noun+B1	[221028][1]	./ˈbætri/,  /ˈbætəri/-NAmE /ˈbætəri/
+battery		<-->	noun++B1	[221028][001]	./ˈbætri/,  /ˈbætəri/-NAmE /ˈbætəri/
 	;pin -- (plural batteries)  [countable] a device that is placed inside a car engine, clock, radio, etc. and that produces the electricity that makes it work
 		;to replace the batteries
 		;a rechargeable battery
@@ -120,41 +121,41 @@ battery		<-->	noun+B1	[221028][1]	./ˈbætri/,  /ˈbætəri/-NAmE /ˈbætəri/
 		;TOPICS Transport by car or lorryB1, EngineeringB1
 
 
-bearing		<-->	noun+C2	[221028][1]	./ˈbeərɪŋ/-NAmE /ˈberɪŋ/
+bearing		<-->	noun++C2	[221028][001]	./ˈbeərɪŋ/-NAmE /ˈberɪŋ/
 	;ổ trục -- [countable] (specialist) a part of a machine that supports a moving part, especially one that is turning
 		;SEE ALSO ball bearing
 
 
-belt		<-->	noun+C1	[221028][1]	./belt/-NAmE /belt/
+belt		<-->	noun++C1	[221028][001]	./belt/-NAmE /belt/
 	;dây nịch -- a continuous band of material that moves round and is used to carry things along or to drive a machine
 		;SEE ALSO conveyor belt, fan belt
 
 
-belt drive		<-->	noun+C2	[221028][1]	./ˈbelt draɪv/-NAmE /ˈbelt draɪv/
+belt drive		<-->	noun++C2	[221028][001]	./ˈbelt draɪv/-NAmE /ˈbelt draɪv/
 	;dây nịch -- ​a system that uses a moving continuous belt to send power to part of a machine
 
 
-bench test		<-->	noun+C2	[221028][1]	./ˈbentʃ test/-NAmE /ˈbentʃ test/
+bench test		<-->	noun++C2	[221028][001]	./ˈbentʃ test/-NAmE /ˈbentʃ test/
 ​	;sự kiểm tra khả năng chịu tải -- a test performed on a machine or part before it is sold
 
 
-bench-test		<-->	verb+C2	[220821][1]	./ˈbentʃ test/-NAmE /ˈbentʃ test/
+bench-test		<-->	verb++C2	[220821][001]	./ˈbentʃ test/-NAmE /ˈbentʃ test/
 	;kiểm tra khả năng chịu tải -- bench-test something to test a machine or part before it is sold
 		;TOPICS EngineeringC2
 
 
-blade		<-->	noun+C1	[221028][1]	./bleɪd/-NAmE /bleɪd/ [IMAGE]-Aircrafts
+blade		<-->	noun++C1	[221028][001]	./bleɪd/-NAmE /bleɪd/ [IMAGE]-Aircrafts
 	;cánh quạt trực thăng -- one of the flat parts that turn around in an engine or on a helicopter
 		;the blades of a propeller
 		;rotor blades on a helicopter
 		;TOPICS Transport by airC1, EngineeringC1
 
 
-blow		<-->	verb+C2	[220821][1]	./bləʊ/-NAmE /bləʊ/
+blow		<-->	verb++C2	[220821][001]	./bləʊ/-NAmE /bləʊ/
 	;nổ -- (electricity)​[intransitive, transitive] blow (something) if a fuse blows or you blow a fuse, the electricity stops flowing suddenly because the fuse (= a thin wire) has melted because the current was too strong
 
 
-blueprint		<-->	noun+C2	[221028][1]	./ˈbluːprɪnt/-NAmE /ˈbluːprɪnt/
+blueprint		<-->	noun++C2	[221028][001]	./ˈbluːprɪnt/-NAmE /ˈbluːprɪnt/
 	;bản thiết kế -- a photographic print of a plan for a building or a machine, with white lines on a blue background
 		;blueprints of a new aircraft
 		;Extra Examples
@@ -163,12 +164,12 @@ blueprint		<-->	noun+C2	[221028][1]	./ˈbluːprɪnt/-NAmE /ˈbluːprɪnt/
 		;BuildingsC2
 
 
-bolt		<-->	noun+C2	[221028][1]	./bəʊlt/-NAmE /bəʊlt/\
+bolt		<-->	noun++C2	[221028][001]	./bəʊlt/-NAmE /bəʊlt/\
 	;con tán -- a piece of metal like a thick nail without a point which is used with a circle of metal (= a nut) to fasten things together
 		;nuts and bolts
 
 
-bolt		<-->	verb+C2	[220821][1]	./bəʊlt/-NAmE /bəʊlt/
+bolt		<-->	verb++C2	[220821][001]	./bəʊlt/-NAmE /bəʊlt/
 ​	;gán tán -- [transitive] to fasten things together with a bolt
 		;bolt A to B The vice is bolted to the workbench.
 		;bolt A and B together The various parts of the car are then bolted together.
@@ -177,17 +178,17 @@ bolt		<-->	verb+C2	[220821][1]	./bəʊlt/-NAmE /bəʊlt/
 		;The yacht's keel is bolted to the hull.
 
 
-bolt-on		<-->	adjective+C2	[221028][1]	./ˈbəʊlt ɒn/-NAmE /ˈbəʊlt ɑːn/
+bolt-on		<-->	adjective++C2	[221028][001]	./ˈbəʊlt ɒn/-NAmE /ˈbəʊlt ɑːn/
 	;dễ lắp ráp -- [only before noun]​able to be easily added to a machine, etc. to make it able to do something new
 
 
-break		<-->	verb+A1	[220821][1]	./breɪk/-NAmE /breɪk/
+break		<-->	verb++A1	[220821][001]	./breɪk/-NAmE /breɪk/
 	;hư hỏng, vỡ -- [intransitive, transitive] to stop working as a result of being damaged;to damage something and stop it from working
 		;My watch has broken.
 		;break something I think I've broken the washing machine.
 
 
-break down		<-->	phrasal verb+B1	[220821][1]	./breɪk/-NAmE /breɪk/
+break down		<-->	phrasal verb++B1	[220821][001]	./breɪk/-NAmE /breɪk/
 	;hư hỏng, ngừng hoạt động -- (of a machine or vehicle) to stop working because of a fault
 		;The telephone system has broken down.
 		;We (= the car) broke down on the freeway.
@@ -195,7 +196,7 @@ break down		<-->	phrasal verb+B1	[220821][1]	./breɪk/-NAmE /breɪk/
 		;TOPICS Transport by car or lorryB1, EngineeringB1
 
 
-breakdown		<-->	noun+C1	[221028][1]	./ˈbreɪkdaʊn/-NAmE /ˈbreɪkdaʊn/
+breakdown		<-->	noun++C1	[221028][001]	./ˈbreɪkdaʊn/-NAmE /ˈbreɪkdaʊn/
 ​	;sự hỏng hóc -- [countable] an occasion when a vehicle or machine stops working
 		;a breakdown on the motorway
 		;a breakdown recovery service
@@ -204,7 +205,7 @@ breakdown		<-->	noun+C1	[221028][1]	./ˈbreɪkdaʊn/-NAmE /ˈbreɪkdaʊn/
 		;TOPICS Transport by car or lorryC1, EngineeringC1
 
 
-button		<-->	noun+A2	[221028][1]	./ˈbʌtn/-NAmE /ˈbʌtn/
+button		<-->	noun++A2	[221028][001]	./ˈbʌtn/-NAmE /ˈbʌtn/
 	;nút khởi động -- a small part of a machine that you press to make it work
 		;the start/stop/pause button
 		;Adam pressed a button and waited for the lift.
@@ -218,7 +219,7 @@ button		<-->	noun+A2	[221028][1]	./ˈbʌtn/-NAmE /ˈbʌtn/
 		;TOPICS EngineeringA2
 
 
-cable		<-->	noun+B2	[221028][1]	./ˈkeɪbl/-NAmE /ˈkeɪbl/
+cable		<-->	noun++B2	[221028][001]	./ˈkeɪbl/-NAmE /ˈkeɪbl/
 	;cáp -- [countable, uncountable] a set of wires, covered in plastic or rubber, that carries electricity, phone signals, etc.
 		;fibre-optic cable
 		;a power cable
@@ -238,30 +239,30 @@ cable		<-->	noun+B2	[221028][1]	./ˈkeɪbl/-NAmE /ˈkeɪbl/
 		;TOPICS The environmentB2, EngineeringB2
 
 
-cannibalize		<-->	verb+C2	[220821][1]	./ˈkænɪbəlaɪz/-NAmE /ˈkænɪbəlaɪz/
+cannibalize		<-->	verb++C2	[220821][001]	./ˈkænɪbəlaɪz/-NAmE /ˈkænɪbəlaɪz/
 	;tháo vá lắp phụ tùng -- cannibalize something: to take the parts of a machine, vehicle, etc. and use them to repair or build another
 		;The turbine building was partly stripped and cannibalized for other parts of the building.
 
 
-capacitor		<-->	noun+C2	[221028][1]	./kəˈpæsɪtə(r)/-NAmE /kəˈpæsɪtər/
+capacitor		<-->	noun++C2	[221028][001]	./kəˈpæsɪtə(r)/-NAmE /kəˈpæsɪtər/
 	;tụ điện, bình chứa điện -- (physics) a device used to store an electrical charge
 
 
-capacity		<-->	noun+C1	[221028][1]	./kəˈpæsəti/-NAmE /kəˈpæsəti/
+capacity		<-->	noun++C1	[221028][001]	./kəˈpæsəti/-NAmE /kəˈpæsəti/
 	;dung tích đông cơ -- dung lương điện của bình điện -- (of engine)​[countable, uncountable] the size or power of a piece of equipment, especially the engine of a vehicle
 		;an engine with a capacity of 1 600 cc
 
 
-chemical engineering		<-->	noun+B2	[221028][1]	./ˌkemɪkl endʒɪˈnɪərɪŋ/-NAmE /ˌkemɪkl endʒɪˈnɪrɪŋ/
+chemical engineering		<-->	noun++B2	[221028][001]	./ˌkemɪkl endʒɪˈnɪərɪŋ/-NAmE /ˌkemɪkl endʒɪˈnɪrɪŋ/
 	;khoa hoá ứng dụng, hoá kỹ thuật -- [uncountable]​the study of the design and use of machines in industrial chemical processes
 		;TOPICS EngineeringB2	
 
 
-chronograph		<-->	noun+C2	[221028][1]	./ˈkrɒnəɡrɑːf/-NAmE /ˈkrɑːnəɡræf/
+chronograph		<-->	noun++C2	[221028][001]	./ˈkrɒnəɡrɑːf/-NAmE /ˈkrɑːnəɡræf/
 ​	;đồng hồ tính giờ chính xác cao -- a device for recording time extremely accurately
 
 
-circuit		<-->	noun+B2	[221028][1]	./ˈsɜːkɪt/-NAmE /ˈsɜːrkɪt/
+circuit		<-->	noun++B2	[221028][001]	./ˈsɜːkɪt/-NAmE /ˈsɜːrkɪt/
 	;mạch -- the complete path of wires and equipment along which an electric current flows
 		;an electrical circuit
 		;a circuit diagram (= one showing all the connections in the different parts of the circuit)
@@ -269,22 +270,22 @@ circuit		<-->	noun+B2	[221028][1]	./ˈsɜːkɪt/-NAmE /ˈsɜːrkɪt/
 		;TOPICS EngineeringB2
 
 
-circuit board		<-->	noun+C2	[221028][1]	./ˈsɜːkɪt bɔːd/-NAmE /ˈsɜːrkɪt bɔːrd/
+circuit board		<-->	noun++C2	[221028][001]	./ˈsɜːkɪt bɔːd/-NAmE /ˈsɜːrkɪt bɔːrd/
 	;boa mạch -- ​a board that holds electrical circuits inside a piece of electrical equipment
 
 
-circuit breaker		<-->	noun+C2	[221028][1]	./ˈsɜːkɪt breɪkə(r)/-NAmE /ˈsɜːrkɪt breɪkər/
+circuit breaker		<-->	noun++C2	[221028][001]	./ˈsɜːkɪt breɪkə(r)/-NAmE /ˈsɜːrkɪt breɪkər/
 ​	;thiết bị bảo vệ mạch -- a device that will stop an electric current if it becomes dangerous
 
 
-civil engineering		<-->	noun+C1  /ˌsɪvl endʒɪˈnɪərɪŋ/-NAmE /ˌsɪvl endʒɪˈnɪrɪŋ/
+civil engineering		<-->	noun++C1	[221119][001]	./ˌsɪvl endʒɪˈnɪərɪŋ/-NAmE /ˌsɪvl endʒɪˈnɪrɪŋ/
 	;ứng dụng, kỹ thuật dân dụng -- [uncountable]
 		;​the design, building and repair of roads, bridges, canals, etc.;the study of this as a subject
 		;TOPICS BuildingsC1, EngineeringC1
 
 
  
-clock		<-->	noun+A1	[221028][1]	./klɒk/-NAmE /klɑːk/
+clock		<-->	noun++A1	[221028][001]	./klɒk/-NAmE /klɑːk/
 	;đồng hồ -- [countable] an instrument for measuring and showing time, in a room, on the wall of a building or on a computer screen (not worn or carried like a watch)
 		;The clock struck twelve/midnight.
 		;The clock is fast/slow (= showing a time later/earlier than the true time).
@@ -301,80 +302,80 @@ clock		<-->	noun+A1	[221028][1]	./klɒk/-NAmE /klɑːk/
 		;TOPICS EngineeringA1
 
 
-coax		<-->	adjective+C2	[221028][1]	./ˈkəʊæks/-NAmE /ˈkəʊæks/-\
+coax		<-->	adjective++C2	[221028][001]	./ˈkəʊæks/-NAmE /ˈkəʊæks/-\
 	;cáp xoắn đồng trục -- (informal)(also coaxial)[only before noun](of a cable) sending signals using two wires inside one cable, one of which is wrapped around the other. Coax cable is used by TV, phone and internet companies.
 
 
-coaxial		<-->	adjective+C2	[221028][1]	./kəʊˈæksiəl/-NAmE /kəʊˈæksiəl/
+coaxial		<-->	adjective++C2	[221028][001]	./kəʊˈæksiəl/-NAmE /kəʊˈæksiəl/
 	;đồng trục -- (geometry) sharing a common axis (= an imaginary line through the middle of an object)
 		;TOPICS Maths and measurementC2
 	;cáp xoắn đồng trục -- (also informal coax) [only before noun] (of a cable) sending signals using two wires inside one cable, one of which is wrapped around the other. Coaxial cable is used by TV, phone and internet companies.
 
 
-cog		<-->	noun+C2	[221028][1]	./kɒɡ/-NAmE /kɑːɡ/
+cog		<-->	noun++C2	[221028][001]	./kɒɡ/-NAmE /kɑːɡ/
 	;răng cưa, khớp nhau -- one of a series of teeth on the edge of a wheel that fit between the teeth on the next wheel and cause it to move
 
 
-condenser		<-->	noun+C2	[221028][1]	./kənˈdensə(r)/-NAmE /kənˈdensər/
+condenser		<-->	noun++C2	[221028][001]	./kənˈdensə(r)/-NAmE /kənˈdensər/
 ​	;tụ điện -- a device that receives or stores electricity, especially in a car engine
 
 
-conduct		<-->	verb+C1	[220821][1]	./kənˈdʌkt/-NAmE /kənˈdʌkt/
+conduct		<-->	verb++C1	[220821][001]	./kənˈdʌkt/-NAmE /kənˈdʌkt/
 	;dẫn điện, nhiệt -- [transitive] conduct something (specialist) (of a substance) to allow heat or electricity to pass along or through it
 		;Copper conducts electricity well.
 
 
-connect		<-->	verb+A2	[221028][1]	./kəˈnekt/-NAmE /kəˈnekt/
+connect		<-->	verb++A2	[221028][001]	./kəˈnekt/-NAmE /kəˈnekt/
 	;kết nối -- (electricity/gas/water) [transitive] to join something to the main supply of electricity, gas, water, etc. or to another piece of equipment
 		;connect something We're waiting for the broadband to be connected.
 		;connect something to something First connect the printer to the computer.
 		;OPPOSITE disconnect
 
 
-console		<-->	noun+C2	[221028][1]	./ˈkɒnsəʊl/-NAmE /ˈkɑːnsəʊl/
+console		<-->	noun++C2	[221028][001]	./ˈkɒnsəʊl/-NAmE /ˈkɑːnsəʊl/
 	;bàn điều khiển -- a flat surface that contains all the controls and switches for a machine, a piece of electronic equipment, etc.
 		;ComputersC2
 
 
-contrivance		<-->	noun+C2	[221028][1]	./kənˈtraɪvəns/-NAmE /kənˈtraɪvəns/
+contrivance		<-->	noun++C2	[221028][001]	./kənˈtraɪvəns/-NAmE /kənˈtraɪvəns/
 	;thiết bị phức tạp -- (formal)[countable] a clever or complicated device or tool made for a particular purpose
 		;His workshop was full of mechanical contrivances.
 
 
-controller		<-->	noun+B2	[221028][1]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/
+controller		<-->	noun++B2	[221028][001]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/
 ​	;thiết bị điều khiển -- (specialist) a device that controls or regulates a machine or part of a machine
 		;a temperature controller
 		;TOPICS EngineeringB2
 
 
-crane		<-->	noun+C1	[221028][1]	./kreɪn/-NAmE /kreɪn/
+crane		<-->	noun++C1	[221028][001]	./kreɪn/-NAmE /kreɪn/
 ​	;cần cẩu -- a tall machine with a long arm, used to lift and move building materials and other heavy objects
 		;BuildingsC1
 
 
-crank		<-->	noun+C2	[221028][1]	./kræŋk/-NAmE /kræŋk/
+crank		<-->	noun++C2	[221028][001]	./kræŋk/-NAmE /kræŋk/
 	;trục có tay quay -- a bar and handle in the shape of an L that you pull or turn to produce movement in a machine, etc.
 
 
-crank		<-->	verb+C2	[220821][1]	./kræŋk/-NAmE /kræŋk/
+crank		<-->	verb++C2	[220821][001]	./kræŋk/-NAmE /kræŋk/
 	;quay bởi trục có tay quay -- ​crank something (up) to make something turn or move by using a crank
 		;to crank an engine
 		;(figurative) He has a limited time to crank the reforms into action.
 
 
-crank up		<-->	phrasal verb+C2	[220821][1]	./kræŋk/-NAmE /kræŋk/
+crank up		<-->	phrasal verb++C2	[220821][001]	./kræŋk/-NAmE /kræŋk/
 	;??? -- crank something  up (informal)
 ​		;to make a machine, etc. work or work at a higher level
 
 
-current		<-->	noun+B2	[221028][1]	./ˈkʌrənt/-NAmE /ˈkɜːrənt/
+current		<-->	noun++B2	[221028][001]	./ˈkʌrənt/-NAmE /ˈkɜːrənt/
 	;dòng điện -- the flow of electricity through a wire, etc.
 		;wires carrying electric currents
 		;Check all your wiring before switching on the current.
 		;SEE ALSO AC, alternating current, DC, direct current
 
 
-cycle		<-->	noun+B2	[221028][1]	./ˈsaɪkl/-NAmE /ˈsaɪkl/
+cycle		<-->	noun++B2	[221028][001]	./ˈsaɪkl/-NAmE /ˈsaɪkl/
 ​	;chu kỳ -- a complete set or series, for example of movements in a machine
 		;eight cycles per second
 		;the rinse cycle (= in a washing machine)
@@ -382,23 +383,23 @@ cycle		<-->	noun+B2	[221028][1]	./ˈsaɪkl/-NAmE /ˈsaɪkl/
 		;TOPICS EngineeringB2
 
 
-DC		<-->	abbreviation+C2	[220821][1]	./ˌdiː ˈsiː/-NAmE /ˌdiː ˈsiː/
+DC		<-->	abbreviation++C2	[220821][001]	./ˌdiː ˈsiː/-NAmE /ˌdiː ˈsiː/
 ​	;dòng một chiều -- direct current
 		;COMPARE alternating current
 
 
-deactivate		<-->	verb+C2	[220821][1]	./diːˈæktɪveɪt/-NAmE /diːˈæktɪveɪt/
+deactivate		<-->	verb++C2	[220821][001]	./diːˈæktɪveɪt/-NAmE /diːˈæktɪveɪt/
 	;ngắt hoạt động -- ​deactivate something to make something such as a device or chemical process stop working
 		;Do you know how to deactivate the alarm?
 		;Physics and chemistryC2
 
 
-depress		<-->	verb+C2	[220821][1]	./dɪˈpres/-NAmE /dɪˈpres/
+depress		<-->	verb++C2	[220821][001]	./dɪˈpres/-NAmE /dɪˈpres/
 	;ấn xuống, nén xuống -- depress something (formal) to press or push something down, especially part of a machine
 		;to depress the clutch pedal (= when driving)
 
 
-device		<-->	noun+A2	[221028][1]	./dɪˈvaɪs/-NAmE /dɪˈvaɪs/
+device		<-->	noun++A2	[221028][001]	./dɪˈvaɪs/-NAmE /dɪˈvaɪs/
 	;thiết bị -- ​  an object or a piece of equipment that has been designed to do a particular job
 		;a tracking/recording/listening device
 		;The new devices will be installed at US airports.
@@ -407,7 +408,7 @@ device		<-->	noun+A2	[221028][1]	./dɪˈvaɪs/-NAmE /dɪˈvaɪs/
 		;SEE ALSO intrauterine device, pointing device
 
 
-dial		<-->	noun+C1	[221028][1]	./ˈdaɪəl/-NAmE /ˈdaɪəl/
+dial		<-->	noun++C1	[221028][001]	./ˈdaɪəl/-NAmE /ˈdaɪəl/
 ​	;mặt số của điện thoại -- the face of a clock or watch, or a similar control on a machine, piece of equipment or vehicle that shows a measurement of time, amount, speed, temperature, etc.
 		;an alarm clock with a luminous dial
 		;Check the tyre pressure on the dial.
@@ -417,32 +418,33 @@ dial		<-->	noun+C1	[221028][1]	./ˈdaɪəl/-NAmE /ˈdaɪəl/
 		;TOPICS Transport by car or lorryC1, EngineeringC1
 
 
-diode		<-->	noun+C2	[221028][1]	./ˈdaɪəʊd/-NAmE /ˈdaɪəʊd/
+diode		<-->	noun++C2	[221028][001]	./ˈdaɪəʊd/-NAmE /ˈdaɪəʊd/
 	;bán dẫn -- (specialist)an electronic device in which the electric current passes in one direction only, for example a silicon chip
 
 
-disconnect		<-->	verb+C1	[220821][1]	./ˌdɪskəˈnekt/-NAmE /ˌdɪskəˈnekt/
+disconnect		<-->	verb++C1	[220821][001]	./ˌdɪskəˈnekt/-NAmE /ˌdɪskəˈnekt/
 	;ngắt kết nối, tháo rời -- ​[transitive] disconnect something (from something): to remove a piece of equipment from a supply of gas, water or electricity
 		;First, disconnect the boiler from the water mains.
 
 
-driveshaft		<-->	noun+C2	[221028][1]	./ˈdraɪvʃɑːft/-NAmE /ˈdraɪvʃæft/
+driveshaft		<-->	noun++C2	[221028][001]	./ˈdraɪvʃɑːft/-NAmE /ˈdraɪvʃæft/
 	;trục truyền lực -- a long thin part of a machine that turns round and round and sends power from the engine to another part of the machine
 
 
-dynamo		<-->	noun+C2	[221028][1]	./ˈdaɪnəməʊ/-NAmE /ˈdaɪnəməʊ/
+dynamo		<-->	noun++C2	[221028][001]	./ˈdaɪnəməʊ/-NAmE /ˈdaɪnəməʊ/
 	;máy phát điện -- (plural dynamos) ​a device for turning mechanical energy (= energy from movement) into electricity;a generator
 
 
-earth		<-->	noun+C2    (British English)
-	;dây nối đất -- (North American English ground) [countable, usually singular] a wire that connects an electric circuit with the ground and makes it safe
+earth		<-->	noun++C2	[221119][001]	./ɜːθ/-NAmE /ɜːrθ/*\	(British English)
+	;dây nối đất -- [countable, usually singular] a wire that connects an electric circuit with the ground and makes it safe
+		;TOPICS EngineeringC2
 
 
-earth		<-->	verb+C2	[220821][1]	./ɜːθ/-NAmE /ɜːrθ/
+earth		<-->	verb++C2	[220821][001]	./ɜːθ/-NAmE /ɜːrθ/
 	;nối đất -- (British English) (North American English ground) [usually passive] earth something: to make electrical equipment safe by connecting it to the ground with a wire
 
 
-electric		<-->	adjective+A2 	/ɪˈlektrɪk/-NAmE /ɪˈlektrɪk/
+electric		<-->	adjective++A2	[221119][001]	./ɪˈlektrɪk/-NAmE /ɪˈlektrɪk/
 	;liên quan tới điện --  [usually before noun] connected with electricity;using, produced by or producing electricity
 		;an electric car/vehicle
 		;an electric guitar
@@ -458,7 +460,7 @@ electric		<-->	adjective+A2 	/ɪˈlektrɪk/-NAmE /ɪˈlektrɪk/
 
 
   
-electrical		<-->	adjective+A2	[221028][1]	./ɪˈlektrɪkl/-NAmE /ɪˈlektrɪkl/
+electrical		<-->	adjective++A2	[221028][001]	./ɪˈlektrɪkl/-NAmE /ɪˈlektrɪkl/
 ​	;liên quan tới điện -- connected with electricity;using or producing electricity
 		;an electrical fault in the engine
 		;electrical equipment/appliances
@@ -466,12 +468,12 @@ electrical		<-->	adjective+A2	[221028][1]	./ɪˈlektrɪkl/-NAmE /ɪˈlektrɪkl/
 		;TOPICS Physics and chemistryA2, EngineeringA2, ShoppingA2
 
 
-electrical engineering		<-->	noun+B2	[221028][1]	./ɪˌlektrɪkl endʒɪˈnɪərɪŋ/-NAmE /ɪˌlektrɪkl endʒɪˈnɪrɪŋ/
+electrical engineering		<-->	noun++B2	[221028][001]	./ɪˌlektrɪkl endʒɪˈnɪərɪŋ/-NAmE /ɪˌlektrɪkl endʒɪˈnɪrɪŋ/
 	;kỹ thuật ứng dụng điện tử [uncountable] ​the design and building of machines and systems that use or produce electricity;the study of this subject
 		;TOPICS EngineeringB2
 
 
-electricity		<-->	noun+A2	[221028][1]	./ɪˌlekˈtrɪsəti/-NAmE /ɪˌlekˈtrɪsəti/
+electricity		<-->	noun++A2	[221028][001]	./ɪˌlekˈtrɪsəti/-NAmE /ɪˌlekˈtrɪsəti/
 	;điện -- [uncountable] a form of energy from charged elementary particles, usually supplied as electric current through cables, wires, etc. for lighting, heating, driving machines, etc.
 		;materials that conduct electricity
 		;to produce/supply electricity
@@ -489,12 +491,12 @@ electricity		<-->	noun+A2	[221028][1]	./ɪˌlekˈtrɪsəti/-NAmE /ɪˌlekˈtrɪs
 		;TOPICS The environmentA2, Physics and chemistryA2, EngineeringA2
 
 
-electrode		<-->	noun+C1	[221028][1]	./ɪˈlektrəʊd/-NAmE /ɪˈlektrəʊd/
+electrode		<-->	noun++C1	[221028][001]	./ɪˈlektrəʊd/-NAmE /ɪˈlektrəʊd/
 	;điện cực -- either of two points (or terminals) by which an electric current enters or leaves a battery or other electrical device
 		;SEE ALSO anode, cathode
 
 
-electronic		<-->	adjective+A2	[221028][1]	./ɪˌlekˈtrɒnɪk/-NAmE /ɪˌlekˈtrɑːnɪk/  
+electronic		<-->	adjective++A2	[221028][001]	./ɪˌlekˈtrɒnɪk/-NAmE /ɪˌlekˈtrɑːnɪk/  
 	;liên quan điện tử -- [uncountable] the use of electronic technology, especially in developing new equipment
 		;the electronics industry
 		;About 45 000 people worked in electronics in Scotland.
@@ -503,12 +505,12 @@ electronic		<-->	adjective+A2	[221028][1]	./ɪˌlekˈtrɒnɪk/-NAmE /ɪˌlekˈtr
 		;TOPICS EngineeringB2
 
 
-electronics		<-->	noun+B2	[221028][1]	./ɪˌlekˈtrɒnɪks/-NAmE /ɪˌlekˈtrɑːnɪks/
+electronics		<-->	noun++B2	[221028][001]	./ɪˌlekˈtrɒnɪks/-NAmE /ɪˌlekˈtrɑːnɪks/
 	;ngành, khoa điện tử -- [uncountable] the branch of science and technology that studies electric currents in electronic equipment
 		;TOPICS EngineeringB2
 
 
-engineer		<-->	noun+A2	[221028][1]	./ˌendʒɪˈnɪə(r)/-NAmE /ˌendʒɪˈnɪr/\
+engineer		<-->	noun++A2	[221028][001]	./ˌendʒɪˈnɪə(r)/-NAmE /ˌendʒɪˈnɪr/\
 	;kỹ sư -- a person whose job involves designing and building engines, machines, roads, bridges, etc.
 		;We worked with a team of scientists and engineers.
 		;You need the advice of a qualified engineer.
@@ -517,7 +519,7 @@ engineer		<-->	noun+A2	[221028][1]	./ˌendʒɪˈnɪə(r)/-NAmE /ˌendʒɪˈnɪr/
 		;TOPICS JobsA2, EngineeringA2
 
 
-engineering		<-->	noun+B1	[221028][1]	./ˌendʒɪˈnɪərɪŋ/-NAmE /ˌendʒɪˈnɪrɪŋ/
+engineering		<-->	noun++B1	[221028][001]	./ˌendʒɪˈnɪərɪŋ/-NAmE /ˌendʒɪˈnɪrɪŋ/
 	;việc ứng dụng kỹ thuật -- [uncountable] the activity of applying scientific knowledge to the design, building and control of machines, roads, bridges, electrical equipment, etc.
 		;The bridge is a triumph of modern engineering.
 		;an engineering firm/company
@@ -527,50 +529,50 @@ engineering		<-->	noun+B1	[221028][1]	./ˌendʒɪˈnɪərɪŋ/-NAmE /ˌendʒɪˈ
 		;TOPICS EngineeringB1, JobsB1, Scientific researchB1
 
 
-extension lead		<-->	noun+C2	[221028][1]	./ɪkˈstenʃn liːd/-NAmE /ɪkˈstenʃn liːd/
+extension lead		<-->	noun++C2	[221028][001]	./ɪkˈstenʃn liːd/-NAmE /ɪkˈstenʃn liːd/
 	;dây nối dài -- (also extension)(both British English)(North American English extension cord)​an extra length of electric wire, used when the wire on an electrical device is not long enough
 		;We'll have to use an extension lead.
 
 
-filament		<-->	noun+C2	[221028][1]	./ˈfɪləmənt/-NAmE /ˈfɪləmənt/
+filament		<-->	noun++C2	[221028][001]	./ˈfɪləmənt/-NAmE /ˈfɪləmənt/
 	;dây tóc bóng đền -- a thin wire in a light bulb that produces light when electricity is passed through it
 
 
-first generation		<-->	noun+C1	[221028][1]	./ˌfɜːst dʒenəˈreɪʃn/-NAmE /ˌfɜːrst dʒenəˈreɪʃn/
+first generation		<-->	noun++C1	[221028][001]	./ˌfɜːst dʒenəˈreɪʃn/-NAmE /ˌfɜːrst dʒenəˈreɪʃn/
 	;thế hệ đầu tiên -- [singular]the first type of a machine or piece of software to be developed
 		;the first generation of personal computers
 
 
-functionality		<-->	noun+C2	[221028][1]	./ˌfʌŋkʃəˈnæləti/-NAmE /ˌfʌŋkʃəˈnæləti/
+functionality		<-->	noun++C2	[221028][001]	./ˌfʌŋkʃəˈnæləti/-NAmE /ˌfʌŋkʃəˈnæləti/
 	;chức năng -- (plural functionalities)​[uncountable] the purpose that something is designed for or expected to perform
 		;Manufacturing processes may be affected by the functionality of the product.
 
 
-fuse		<-->	noun+C2	[221028][1]	./fjuːz/-NAmE /fjuːz/
+fuse		<-->	noun++C2	[221028][001]	./fjuːz/-NAmE /fjuːz/
 	;cầu chì --  ​a small wire or device inside a piece of electrical equipment that breaks and stops the current if the flow of electricity is too strong
 		;to change a fuse
 		;Check whether a fuse has blown.
 
 
-gadget		<-->	noun+B1	[221028][1]	./ˈɡædʒɪt/-NAmE /ˈɡædʒɪt/
+gadget		<-->	noun++B1	[221028][001]	./ˈɡædʒɪt/-NAmE /ˈɡædʒɪt/
 ​	;tiện ích -- a small tool or device that does something useful
 		;We live in a world filled with high-tech gadgets.
 		;Extra Examples
 		;TOPICS EngineeringB1, Houses and homesB1, ShoppingB1
 
 
-gearing		<-->	noun+C2	[221028][1]	./ˈɡɪərɪŋ/-NAmE /ˈɡɪrɪŋ/
+gearing		<-->	noun++C2	[221028][001]	./ˈɡɪərɪŋ/-NAmE /ˈɡɪrɪŋ/
 ​	;bánh răng -- a particular set or arrangement of gears in a machine or vehicle
 
 
-generation		<-->	noun+C1	[221028][1]	./ˌdʒenəˈreɪʃn/-NAmE /ˌdʒenəˈreɪʃn/
+generation		<-->	noun++C1	[221028][001]	./ˌdʒenəˈreɪʃn/-NAmE /ˌdʒenəˈreɪʃn/
 	;thế hệ sản phẩm -- [countable, usually singular] a stage in the development of a product, usually a technical one
 		;fifth-generation computing
 		;a new generation of vehicle
 		;SEE ALSO 3G, 4G, third-generation, fourth-generation, next-generation
 
 
-generator		<-->	noun+C1	[221028][1]	./ˈdʒenəreɪtə(r)/-NAmE /ˈdʒenəreɪtər/
+generator		<-->	noun++C1	[221028][001]	./ˈdʒenəreɪtə(r)/-NAmE /ˈdʒenəreɪtər/
 ​	;máy phát điện -- a machine for producing electricity
 		;The factory's emergency generators were used during the power cut.
 		;a wind generator (= a machine that uses the power of the wind to produce electricity)
@@ -578,55 +580,55 @@ generator		<-->	noun+C1	[221028][1]	./ˈdʒenəreɪtə(r)/-NAmE /ˈdʒenəreɪt�
 		;TOPICS BusinessC1, EngineeringC1
 
 
-ground		<-->	noun+C2	[221028][1]	./ɡraʊnd/-NAmE /ɡraʊnd/
+ground		<-->	noun++C2	[221028][001]	./ɡraʊnd/-NAmE /ɡraʊnd/
 	;dây nối đất -- electrical wire ​(North American English) (British English earth) [countable, usually singular] a wire that connects an electric circuit with the ground and makes it safe
 		;Don't forget to connect the ground wire.
 
 
-ground		<-->	verb+C2	[220821][1]	./ɡraʊnd/-NAmE /ɡraʊnd/-\ 
+ground		<-->	verb++C2	[220821][001]	./ɡraʊnd/-NAmE /ɡraʊnd/-\ 
 	;nối đất -- electricity ​(North American English) (British English earth) [transitive, usually passive] to make electrical equipment safe by connecting it to the ground with a wire
 		;be grounded The spark plugs must be grounded to complete the electrical circuit.
 
 
-high-tech		<-->	adjective+B1	[221028][1]	./ˌhaɪ ˈtek/-NAmE /ˌhaɪ ˈtek/
+high-tech		<-->	adjective++B1	[221028][001]	./ˌhaɪ ˈtek/-NAmE /ˌhaɪ ˈtek/
 	;hiện đại -- (also hi-tech) (informal)
 
 
-high technology		<-->	noun+C1	[221028][1]	./ˌhaɪ tekˈnɒlədʒi/-NAmE /ˌhaɪ tekˈnɑːlədʒi/
+high technology		<-->	noun++C1	[221028][001]	./ˌhaɪ tekˈnɒlədʒi/-NAmE /ˌhaɪ tekˈnɑːlədʒi/
 	;hiện đại -- [uncountable] ​the most modern methods and machines, especially electronic ones;the use of these in industry, etc.
 
 
-hi-tech		<-->	adjective+B1	[221028][1]	./ˌhaɪ ˈtek/-NAmE /ˌhaɪ ˈtek/
+hi-tech		<-->	adjective++B1	[221028][001]	./ˌhaɪ ˈtek/-NAmE /ˌhaɪ ˈtek/
 	;hiện đại -- (also high-tech) (informal) (of designs, objects, etc.) very modern in appearance;using modern materials
 		;TOPICS EngineeringB1		
 
 
-indicate		<-->	verb+B2	[220821][1]	./ˈɪndɪkeɪt/-NAmE /ˈɪndɪkeɪt/
+indicate		<-->	verb++B2	[220821][001]	./ˈɪndɪkeɪt/-NAmE /ˈɪndɪkeɪt/
 	;hiển thị -- (show measurement) ​[transitive] indicate something | indicate how much, how many, etc… (of an instrument for measuring things) to show a particular measurement
 		;When the temperature gauge indicates 90°F or more, turn off the engine.
 
 
-instrument		<-->	noun+B2	[221028][1]	./ˈɪnstrəmənt/-NAmE /ˈɪnstrəmənt/
+instrument		<-->	noun++B2	[221028][001]	./ˈɪnstrəmənt/-NAmE /ˈɪnstrəmənt/
 	;dụng cụ -- a device used for measuring speed, distance, temperature, etc. in a vehicle or on a machine
 		;data gathered by instruments aboard the satellite
 		;the flight instruments
 		;There was a warning light flashing on the instrument panel.
 
 
-insulator		<-->	noun+C2	[221028][1]	./ˈɪnsjuleɪtə(r)/-NAmE /ˈɪnsəleɪtər/
+insulator		<-->	noun++C2	[221028][001]	./ˈɪnsjuleɪtə(r)/-NAmE /ˈɪnsəleɪtər/
 	;vật liệu cách điện -- a material or device used to prevent heat, electricity, or sound from escaping from something
 
 
-jack		<-->	noun+C2	[221028][1]	./dʒæk/-NAmE /dʒæk/
+jack		<-->	noun++C2	[221028][001]	./dʒæk/-NAmE /dʒæk/
 	;jack1 cắm -- [countable] an electronic connection between two pieces of electrical equipment
 
 
-jam		<-->	noun+C2	[221028][1]	./dʒæm/-NAmE /dʒæm/ (machine)
+jam		<-->	noun++C2	[221028][001]	./dʒæm/-NAmE /dʒæm/ (machine)
 	;sự hỏng hóc -- [countable] a situation in which a machine does not work because something is stuck in one position
 		;There's a paper jam in the photocopier.
 
 
-jam		<-->	verb+C2	[220821][1]	./dʒæm/-NAmE /dʒæm/
+jam		<-->	verb++C2	[220821][001]	./dʒæm/-NAmE /dʒæm/
 	;ngắt hoạt động do hỏng hóc, kẹt -- stop moving/working [intransitive, transitive] to become unable to move or work;to make something do this
 		;jam (up) The photocopier keeps jamming up.
 		;jam something (up) There's a loose part that keeps jamming the mechanism.
@@ -635,17 +637,17 @@ jam		<-->	verb+C2	[220821][1]	./dʒæm/-NAmE /dʒæm/
 		;The traffic was jammed solid in the city centre.
 
 
-knob		<-->	noun+C1	[221028][1]	./nɒb/-NAmE /nɑːb/
+knob		<-->	noun++C1	[221028][001]	./nɒb/-NAmE /nɑːb/
 	;nút vặn -- a round switch on a machine such as a radio that you use to turn it on and off, etc.
 		;the volume control knob
 		;I've tried fiddling with the knobs, but nothing seems to happen.
 
 
-lathe		<-->	noun+C2	[221028][1]	./leɪð/-NAmE /leɪð/
+lathe		<-->	noun++C2	[221028][001]	./leɪð/-NAmE /leɪð/
 	;máy tiện -- a machine that shapes pieces of wood or metal by holding and turning them against a fixed cutting tool
 
 
-lever		<-->	noun+C1	[221028][1]	./ˈliːvə(r)/-NAmE /ˈlevər/
+lever		<-->	noun++C1	[221028][001]	./ˈliːvə(r)/-NAmE /ˈlevər/
 ​	;đòn bẫy -- a handle used to operate a vehicle or a machine
 		;Pull the lever towards you to adjust the speed.
 		;SEE ALSO gear lever
@@ -669,12 +671,12 @@ lever		<-->	noun+C1	[221028][1]	./ˈliːvə(r)/-NAmE /ˈlevər/
 		;See full entry
 
 
-live		<-->	adjective+C1	[221028][1]	./laɪv/-NAmE /laɪv/
+live		<-->	adjective++C1	[221028][001]	./laɪv/-NAmE /laɪv/
 ​	;có điện -- (of a wire or device) connected to a source of electrical power
 		;That terminal is live.
 
 
-machine		<-->	noun+A1	[221028][1]	./məˈʃiːn/-NAmE /məˈʃiːn/
+machine		<-->	noun++A1	[221028][001]	./məˈʃiːn/-NAmE /məˈʃiːn/
 	;máy móc -- (often in compounds) a piece of equipment with many parts that work together to do a particular task. The power used to work a machine may be electricity, steam, gas, etc. or human power.
 		;Machines have replaced human labour in many industries.
 		;to operate/run a machine
@@ -688,26 +690,26 @@ machine		<-->	noun+A1	[221028][1]	./məˈʃiːn/-NAmE /məˈʃiːn/
 		;SEE ALSO answering machine, cash machine, coffee machine, drum machine, flying machine, fruit machine, gaming machine, kidney machine, rowing machine, sewing machine, slot machine, time machine, vending machine, voting machine, war machine (2), wave machine, wind machine
 
 
-machine		<-->	verb+C2	[220821][2]	./məˈʃiːn/-NAmE /məˈʃiːn/\ [transitive, intransitive] (specialist) 
+machine		<-->	verb++C2	[220821][002]	./məˈʃiːn/-NAmE /məˈʃiːn/\ [transitive, intransitive] (specialist) 
 	;chế tạo bằng máy -- [transitive, intransitive] (specialist) machine (something) to make or shape something with a machine
 		;This material can be cut and machined easily.
 
 
-machine-made		<-->	adjective+B2	[221028][1]	./məˌʃiːn ˈmeɪd/-NAmE /məˌʃiːn ˈmeɪd/
+machine-made		<-->	adjective++B2	[221028][001]	./məˌʃiːn ˈmeɪd/-NAmE /məˌʃiːn ˈmeɪd/
 ​	;làm bằng máy -- made by a machine
 		;COMPARE handmade
 		;TOPICS EngineeringB2
 
 
-machinery		<-->	noun+C1	[221028][2]	./cef/
+machinery		<-->	noun++C1	[221028][002]	./cef/
 ​
 
 
-machine tool		<-->	noun+C1	[221028][1]	./məˈʃiːn tuːl/-NAmE /məˈʃiːn tuːl/
+machine tool		<-->	noun++C1	[221028][001]	./məˈʃiːn tuːl/-NAmE /məˈʃiːn tuːl/
 ​	;máy công cụ -- a tool for cutting or shaping metal, wood, etc., driven by a machine
 
 
-magnify		<-->	verb+C1	[220821][2]	./ˈmæɡnɪfaɪ/-NAmE /ˈmæɡnɪfaɪ/
+magnify		<-->	verb++C1	[220821][002]	./ˈmæɡnɪfaɪ/-NAmE /ˈmæɡnɪfaɪ/
 	;phóng đại -- ​magnify something (to/by something) to make something look bigger than it really is, for example by using a lens or microscope
 		;SYNONYM enlarge
 		;bacteria magnified to 1 000 times their actual size
@@ -724,7 +726,7 @@ magnify		<-->	verb+C1	[220821][2]	./ˈmæɡnɪfaɪ/-NAmE /ˈmæɡnɪfaɪ/
 
 
 
-mechanical		<-->	adjective+B2	[221028][1]	./məˈkænɪkl/-NAmE /məˈkænɪkl/
+mechanical		<-->	adjective++B2	[221028][001]	./məˈkænɪkl/-NAmE /məˈkænɪkl/
 ​	;thuộc về cơ khí -- operated by power from an engine
 		;a mechanical device/toy/clock
 		;mechanical parts
@@ -733,12 +735,12 @@ mechanical		<-->	adjective+B2	[221028][1]	./məˈkænɪkl/-NAmE /məˈkænɪkl/
 		;mechanical problems/defects
 		;The breakdown was due to a mechanical failure.
 
-mechanical engineering		<-->	noun+B2	[221028][1]	./məˌkænɪkl endʒɪˈnɪərɪŋ/-NAmE /məˌkænɪkl endʒɪˈnɪrɪŋ/
+mechanical engineering		<-->	noun++B2	[221028][001]	./məˌkænɪkl endʒɪˈnɪərɪŋ/-NAmE /məˌkænɪkl endʒɪˈnɪrɪŋ/
 	;ngành cơ học -- [uncountable] ​the study of how machines are designed, built and repaired
 		;TOPICS EngineeringB2 
 
 
-mechanism		<-->	noun+B2	[221028][1]	./ˈmekənɪzəm/-NAmE /ˈmekənɪzəm/
+mechanism		<-->	noun++B2	[221028][001]	./ˈmekənɪzəm/-NAmE /ˈmekənɪzəm/
 ​ 	;bộ máy -- a set of moving parts in a machine that performs a task
 		;a delicate watch mechanism
 		;The mechanism for locking the door of the washing machine is childproof.
@@ -746,7 +748,7 @@ mechanism		<-->	noun+B2	[221028][1]	./ˈmekənɪzəm/-NAmE /ˈmekənɪzəm/
 		;TOPICS EngineeringB2
 
 
-meter		<-->	noun+C1	[221028][1]	./ˈmiːtə(r)/-NAmE /ˈmiːtər/
+meter		<-->	noun++C1	[221028][001]	./ˈmiːtə(r)/-NAmE /ˈmiːtər/
 	;mét -- (especially in compounds) a device that measures and records the amount of electricity, gas, water, etc. that you have used or the time and distance you have travelled, etc.
 		;A man came to read the gas meter.
 		;The cab driver left the meter running while he waited for us.
@@ -754,21 +756,21 @@ meter		<-->	noun+C1	[221028][1]	./ˈmiːtə(r)/-NAmE /ˈmiːtər/
 		;SEE ALSO light meter
 
 
-microchip		<-->	noun+C1	[221028][1]	./ˈmaɪkrəʊtʃɪp/-NAmE /ˈmaɪkrəʊtʃɪp/
+microchip		<-->	noun++C1	[221028][001]	./ˈmaɪkrəʊtʃɪp/-NAmE /ˈmaɪkrəʊtʃɪp/
 	;vi mạch - - (also chip) ​a very small piece of a material that is a semiconductor, used to carry a complicated electronic circuit
 		;TOPICS ComputersC1
 
 
-microelectronic		<-->	adjective+C2	[221028][1]	./ˌmaɪkrəʊɪˌlekˈtrɒnɪk/-NAmE /ˌmaɪkrəʊɪˌlekˈtrɑːnɪk/
+microelectronic		<-->	adjective++C2	[221028][001]	./ˌmaɪkrəʊɪˌlekˈtrɒnɪk/-NAmE /ˌmaɪkrəʊɪˌlekˈtrɑːnɪk/
 	;thuộc về vi mạch -- [only before noun] ​using or relating to very small electronic circuits
 		;microelectronic circuits/devices
 
 
-microelectronics		<-->	noun+C2	[221028][1]	./ˌmaɪkrəʊɪˌlekˈtrɒnɪks/-NAmE /ˌmaɪkrəʊɪˌlekˈtrɑːnɪks/
+microelectronics		<-->	noun++C2	[221028][001]	./ˌmaɪkrəʊɪˌlekˈtrɒnɪks/-NAmE /ˌmaɪkrəʊɪˌlekˈtrɑːnɪks/
 	;thiết kế vi điện tử, vi mạch -- [uncountable] ​the design, production and use of very small electronic circuits
 
 
-motor		<-->	noun+B2	[221028][1]	./ˈməʊtə(r)/-NAmE /ˈməʊtər/
+motor		<-->	noun++B2	[221028][001]	./ˈməʊtə(r)/-NAmE /ˈməʊtər/
 	;động cơ điện, xăng ... -- a device that uses electricity, petrol, etc. to produce movement and makes a machine, a vehicle, a boat, etc. work
 		;An electric motor is used to pump the water.
 		;Batteries power the motor.
@@ -777,12 +779,12 @@ motor		<-->	noun+B2	[221028][1]	./ˈməʊtə(r)/-NAmE /ˈməʊtər/
 		;SEE ALSO outboard motor
 
 
-next-generation		<-->	adjective+C1	[221028][1]	./ˌnekst dʒenəˈreɪʃn/-NAmE /ˌnekst dʒenəˈreɪʃn/
+next-generation		<-->	adjective++C1	[221028][001]	./ˌnekst dʒenəˈreɪʃn/-NAmE /ˌnekst dʒenəˈreɪʃn/
 	;thế hệ mới -- (also informal next-gen  /ˌnekst ˈdʒen/  /ˌnekst ˈdʒen/) [only before noun] ​used to describe a product or form of technology that has been developed recently and is likely to replace current products or technology
 		;Check out our guide on next-generation gaming consoles.
 
 
-nut		<-->	noun+C2	[221028][1]	./nʌt/-NAmE /nʌt/ [IMAGE]-Bolts
+nut		<-->	noun++C2	[221028][001]	./nʌt/-NAmE /nʌt/ [IMAGE]-Bolts
 	;con ốc -- a small piece of metal with a hole through the centre that is screwed onto a bolt to hold pieces of wood, parts of machines, etc. together
 		;to tighten a nut
 		;a wheel nut
@@ -790,51 +792,51 @@ nut		<-->	noun+C2	[221028][1]	./nʌt/-NAmE /nʌt/ [IMAGE]-Bolts
 		;SEE ALSO lug nut, wing nut
 
 
-ohm		<-->	noun+C2	[221028][1]	./əʊm/-NAmE /əʊm/
+ohm		<-->	noun++C2	[221028][001]	./əʊm/-NAmE /əʊm/
 	;đơn vị điện trở -- (physics) ​a unit for measuring electrical resistance
 
 
-ohmmeter		<-->	noun+C2	[221028][1]	./ˈəʊmmiːtə(r)/-NAmE /ˈəʊmmiːtər/
+ohmmeter		<-->	noun++C2	[221028][001]	./ˈəʊmmiːtə(r)/-NAmE /ˈəʊmmiːtər/
 	;máy đo điện trở -- (physics) ​a device for measuring electrical resistance
 
 
-oscillator		<-->	noun+C2	[221028][1]	./ˈɒsɪleɪtə(r)/-NAmE /ˈɑːsɪleɪtər/
+oscillator		<-->	noun++C2	[221028][001]	./ˈɒsɪleɪtə(r)/-NAmE /ˈɑːsɪleɪtər/
 	;máy phát dao động, gây nhiễu -- (physics) a piece of equipment for producing oscillating electric currents
 
 
-oscilloscope		<-->	noun+C2	[221028][1]	./əˈsɪləskəʊp/-NAmE /əˈsɪləskəʊp/
+oscilloscope		<-->	noun++C2	[221028][001]	./əˈsɪləskəʊp/-NAmE /əˈsɪləskəʊp/
 	;máy detect sóng -- (physics) ​a piece of equipment that shows changes in electrical current as waves in a line on a screen
 
 
-overhaul		<-->	noun+C2	[221028][1]	./ˈəʊvəhɔːl/-NAmE /ˈəʊvərhɔːl/
+overhaul		<-->	noun++C2	[221028][001]	./ˈəʊvəhɔːl/-NAmE /ˈəʊvərhɔːl/
 	;sự kiểm tra lại -- an examination of a machine or system, including doing repairs on it or making changes to it
 		;a complete/major overhaul
 		;A radical overhaul of the tax system is necessary.
 
 
-overhaul		<-->	verb+C2	[220821][1]	./ˌəʊvəˈhɔːl/-NAmE /ˌəʊvərˈhɔːl/
+overhaul		<-->	verb++C2	[220821][001]	./ˌəʊvəˈhɔːl/-NAmE /ˌəʊvərˈhɔːl/
 	;kiểm tra lại -- overhaul something: to examine every part of a machine, system, etc. and make any necessary changes or repairs
 		;The engine has been completely overhauled.
 
 
-parallel circuit		<-->	noun+C2	[221028][1]	./ˌpærəlel ˈsɜːkɪt/-NAmE /ˌpærəlel ˈsɜːrkɪt/
+parallel circuit		<-->	noun++C2	[221028][001]	./ˌpærəlel ˈsɜːkɪt/-NAmE /ˌpærəlel ˈsɜːrkɪt/
 	;mạch song song -- ​an electrical circuit in which the current divides into more than one path and then meets again
 		;COMPARE series (4)
 
 
-photocell		<-->	noun+C2	[221028][1]	./ˈfəʊtəʊsel/-NAmE /ˈfəʊtəʊsel/
+photocell		<-->	noun++C2	[221028][001]	./ˈfəʊtəʊsel/-NAmE /ˈfəʊtəʊsel/
 	;tế bào quang điện -- (also photoelectric cell) an electric device that uses a stream of light. When the stream is broken it shows that somebody/something is present, and can be used to control alarms, machines, etc.
 
 
-photoelectric		<-->	adjective+C2	[221028][1]	./ˌfəʊtəʊɪˈlektrɪk/-NAmE /ˌfəʊtəʊɪˈlektrɪk/
+photoelectric		<-->	adjective++C2	[221028][001]	./ˌfəʊtəʊɪˈlektrɪk/-NAmE /ˌfəʊtəʊɪˈlektrɪk/
 ​	;thuộc quan điện -- using an electric current that is controlled by light
 
 
-photoelectric cell		<-->	noun+C2	[221028][1]	./ˌfəʊtəʊɪˌlektrɪk ˈsel/-NAmE /ˌfəʊtəʊɪˌlektrɪk ˈsel/
+photoelectric cell		<-->	noun++C2	[221028][001]	./ˌfəʊtəʊɪˌlektrɪk ˈsel/-NAmE /ˌfəʊtəʊɪˌlektrɪk ˈsel/
 	;tế bào quang điện -- (also photocell) ​an electric device that uses a stream of light. When the stream is broken it shows that somebody/something is present, and can be used to control alarms, machines, etc.
 
 
-press		<-->	verb+B1	[220821][1]	./pres/-NAmE /pres/
+press		<-->	verb++B1	[220821][001]	./pres/-NAmE /pres/
 	;kích hoạt -- (push) [transitive, intransitive] to push part of a device, etc. in order to make it work
 		;press something to press a button/key
 		;press something + adj. He pressed the lid firmly shut.
@@ -842,11 +844,11 @@ press		<-->	verb+B1	[220821][1]	./pres/-NAmE /pres/
 		;She pressed down hard on the gas pedal.
 
 
-probe		<-->	noun+C2	[221028][1]	./prəʊb/-NAmE /prəʊb/
+probe		<-->	noun++C2	[221028][001]	./prəʊb/-NAmE /prəʊb/
 	;thiết bị dò -- (specialist) a small device put inside something and used by scientists to test something or record information
 
 
-prototype		<-->	noun+C1	[221028][1]	./ˈprəʊtətaɪp/-NAmE /ˈprəʊtətaɪp/
+prototype		<-->	noun++C1	[221028][001]	./ˈprəʊtətaɪp/-NAmE /ˈprəʊtətaɪp/
 	;giao thức -- prototype (for/of something) the first design of something from which other forms are copied or developed
 		;the prototype of the modern bicycle
 		;Scientists have developed a working prototype for the machine.
@@ -867,39 +869,39 @@ prototype		<-->	noun+C1	[221028][1]	./ˈprəʊtətaɪp/-NAmE /ˈprəʊtətaɪp/
 		;See full entry
 
 
-pump		<-->	verb+C1	[220821][2]	./cef/
+pump		<-->	verb++C1	[220821][002]	./cef/
 
 
-pump		<-->	noun+C1	[221028][2]	./cef/
+pump		<-->	noun++C1	[221028][002]	./cef/
 
 
-relay		<-->	noun+C2	[221028][1]	./ˈriːleɪ/-NAmE /ˈriːleɪ/
+relay		<-->	noun++C2	[221028][001]	./ˈriːleɪ/-NAmE /ˈriːleɪ/
 	;bộ lặp -- an electronic device that receives radio or television signals and sends them on again with greater strength
 		;a relay station
 
 
-rewire		<-->	verb+C2	[220821][1]	./ˌriːˈwaɪə(r)/-NAmE /ˌriːˈwaɪər/
+rewire		<-->	verb++C2	[220821][001]	./ˌriːˈwaɪə(r)/-NAmE /ˌriːˈwaɪər/
 	;cuộn lại -- ​rewire something: to put new electrical wires into a building or piece of equipment
 		;The house has been rewired.
 		;TOPICS BuildingsC2
 
 
-rivet		<-->	noun+C2	[221028][2]	./ˈrɪvɪt/-NAmE /ˈrɪvɪt/
+rivet		<-->	noun++C2	[221028][002]	./ˈrɪvɪt/-NAmE /ˈrɪvɪt/
 ​	;đinh tán -- a metal pin that is used to fasten two pieces of leather, metal, etc. together
 
 
-robot		<-->	noun+B1	[221028][1]	./ˈrəʊbɒt/-NAmE /ˈrəʊbɑːt/
+robot		<-->	noun++B1	[221028][001]	./ˈrəʊbɒt/-NAmE /ˈrəʊbɑːt/
 	;thiết bị tự động --​  a machine that can perform a complicated series of tasks by itself
 		;These cars are built by robots.
 		;On her first flight she was responsible for operating the shuttle's robot arm.
 		;TOPICS BusinessB1, EngineeringB1
 
 
-robotics		<-->	noun+C1	[221028][1]	./rəʊˈbɒtɪks/-NAmE /rəʊˈbɑːtɪks/
+robotics		<-->	noun++C1	[221028][001]	./rəʊˈbɒtɪks/-NAmE /rəʊˈbɑːtɪks/
 	;ngành robot học -- [uncountable] ​the science of designing and operating robots
 
 
-roller		<-->	noun+C2	[221028][1]	./ˈrəʊlə(r)/-NAmE /ˈrəʊlər/ [IMAGE]-Roller
+roller		<-->	noun++C2	[221028][001]	./ˈrəʊlə(r)/-NAmE /ˈrəʊlər/ [IMAGE]-Roller
 	;cái bê dừng để lăn tường -- a piece of wood, metal or plastic, like a tube in shape, that rolls over and over, used as a tool or as part of a machine, for example to make something flat or to move something
 		;Flatten the surface of the grass with a roller.
 		;a paint roller
@@ -908,13 +910,13 @@ roller		<-->	noun+C2	[221028][1]	./ˈrəʊlə(r)/-NAmE /ˈrəʊlər/ [IMAGE]-Rol
 		;SEE ALSO foam roller, steamroller
 
 
-rotor		<-->	noun+C2 	/ˈrəʊtə(r)/-NAmE /ˈrəʊtər/ [IMAGE]-Aircraft
+rotor		<-->	noun++C2	[221119][001]	./ˈrəʊtə(r)/-NAmE /ˈrəʊtər/ [IMAGE]-Aircraft
 	;con quay -- a part of a machine that turns around a central point
 		;rotor blades on a helicopter, cánh quạt trên máy bay trực thăng
 
 
   
-run		<-->	verb+B2	[220821][1]	./rʌn/-NAmE /rʌn/
+run		<-->	verb++B2	[220821][001]	./rʌn/-NAmE /rʌn/
 	;hoạt động -- [intransitive, transitive] to operate or function;to make something do this
 		;Stan had the chainsaw running.
 		;run on something Our van runs on (= uses) diesel.
@@ -923,15 +925,15 @@ run		<-->	verb+B2	[220821][1]	./rʌn/-NAmE /rʌn/
 		;TOPICS ComputersB2, EngineeringB2
 
 
-running repairs		<-->	noun+C2	[221028][1]	./ˌrʌnɪŋ rɪˈpeəz/-NAmE /ˌrʌnɪŋ rɪˈperz/
+running repairs		<-->	noun++C2	[221028][001]	./ˌrʌnɪŋ rɪˈpeəz/-NAmE /ˌrʌnɪŋ rɪˈperz/
 	;??? -- [plural] small things that you do to a piece of clothing, a vehicle, a machine, etc. to repair it or to keep it working
 
 
-safety valve		<-->	noun+C2	[221028][1]	./ˈseɪfti vælv/-NAmE /ˈseɪfti vælv/
+safety valve		<-->	noun++C2	[221028][001]	./ˈseɪfti vælv/-NAmE /ˈseɪfti vælv/
 	;van an toàn -- a device that lets out steam or pressure in a machine when it becomes too great
 
 
-screw		<-->	verb+C1	[220821][1]	./skruː/-NAmE /skruː/
+screw		<-->	verb++C1	[220821][001]	./skruː/-NAmE /skruː/
 	;bắt đinh ốc -- [transitive] screw something + adv./prep. to fasten one thing to another or make something tight with a screw or screws
 		;The bookcase is screwed to the wall.
 		;You need to screw all the parts together.
@@ -940,7 +942,7 @@ screw		<-->	verb+C1	[220821][1]	./skruː/-NAmE /skruː/
 		;Extra Examples
 
 
-screw		<-->	noun+C1	[221028][1]	./skruː/-NAmE /skruː/
+screw		<-->	noun++C1	[221028][001]	./skruː/-NAmE /skruː/
 	;đinh ốc -- [countable] a thin pointed piece of metal like a nail with a raised spiral line (called a thread) along it and a line or cross cut into its head. Screws are turned and pressed into wood, metal, etc. with a screwdriver in order to fasten two things together.
 		;One of the screws is loose.
 		;Now tighten all the screws.
@@ -948,17 +950,17 @@ screw		<-->	noun+C1	[221028][1]	./skruː/-NAmE /skruː/
 		;SEE ALSO Allen screw™, corkscrew
 
 
-semiconductor		<-->	noun+C2	[221028][1]	./ˌsemikənˈdʌktə(r)/-NAmE /ˈsemikəndʌktər/,  /ˈsemaɪkəndʌktər/
+semiconductor		<-->	noun++C2	[221028][001]	./ˌsemikənˈdʌktə(r)/-NAmE /ˈsemikəndʌktər/,  /ˈsemaɪkəndʌktər/
 	;chất bán dẫn -- (specialist)​a solid substance that conducts electricity in particular conditions, better than insulators but not as well as conductors
 
 
-sensor		<-->	noun+B2	[221028][1]	./ˈsensə(r)/-NAmE /ˈsensər/
+sensor		<-->	noun++B2	[221028][001]	./ˈsensə(r)/-NAmE /ˈsensər/
 	;cảm biến -- a device that can react to light, heat, pressure, etc. in order to make a machine, etc. do something or show something
 		;security lights with an infrared sensor (= that come on when a person is near them)
 		;TOPICS EngineeringB2
 
 
-service		<-->	noun+C1  /ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
+service		<-->	noun++C1	[221119][001]	./ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
 	;bảo trì -- [countable, uncountable] an examination of a vehicle or machine followed by any work that is necessary to keep it operating well
 		;a service engineer
 		;(British English) I had taken the car in for a service.
@@ -967,7 +969,7 @@ service		<-->	noun+C1  /ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
 		;TOPICS Transport by car or lorryC1, EngineeringC1
 
  
-service		<-->	verb+C1	[220821][1]	./ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
+service		<-->	verb++C1	[220821][001]	./ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
 	;bảo trì -- (vehicle/machine) ​[usually passive] to examine a vehicle or machine and repair it if necessary so that it continues to work correctly
 		;have something serviced We need to have the car serviced.
 		;be serviced Make sure your boiler is serviced regularly.
@@ -975,30 +977,30 @@ service		<-->	verb+C1	[220821][1]	./ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
 		;TOPICS Transport by car or lorryC1, EngineeringC1
 
 
-servicing		<-->	noun+C1  /ˈsɜːvɪsɪŋ/-NAmE /ˈsɜːrvɪsɪŋ/
+servicing		<-->	noun++C1	[221119][001]	./ˈsɜːvɪsɪŋ/-NAmE /ˈsɜːrvɪsɪŋ/
 	;việc bảo trì -- [uncountable] ​the act of checking and repairing a vehicle, machine, etc. to keep it in good condition
 		;Like any other type of equipment it requires regular servicing.
 
 
  
-servo		<-->	noun+C2	[221028][1]	./ˈsɜːvəʊ/-NAmE /ˈsɜːrvəʊ/
+servo		<-->	noun++C2	[221028][001]	./ˈsɜːvəʊ/-NAmE /ˈsɜːrvəʊ/
 	;Bộ phận điều khiển -- (plural servos)(specialist)​a part of a machine that controls a larger machine
 		
 
 
-shaft		<-->	noun+C2	[221028][1]	./ʃɑːft/-NAmE /ʃæft/
+shaft		<-->	noun++C2	[221028][001]	./ʃɑːft/-NAmE /ʃæft/
 	;trục động cơ -- (often in compounds) a metal bar that joins parts of a machine or an engine together, enabling power and movement to be passed from one part to another
 		;SEE ALSO camshaft, crankshaft
 
 
-shock		<-->	noun+B2	[221028][1]	./ʃɒk/-NAmE /ʃɑːk/
+shock		<-->	noun++B2	[221028][001]	./ʃɒk/-NAmE /ʃɑːk/
 	;sốc điện -- (also electric shock)[countable] a sudden flow of electricity through a part of the body, causing pain and sometimes death
 		;Don't touch that wire or you'll get a shock.
 		;He gave himself a mild shock while changing a light bulb.
 		;TOPICS EngineeringB2
 
 
-short circuit		<-->	noun+C2	[221028][1]	./ˌʃɔːt ˈsɜːkɪt/-NAmE /ˌʃɔːrt ˈsɜːrkɪt/
+short circuit		<-->	noun++C2	[221028][001]	./ˌʃɔːt ˈsɜːkɪt/-NAmE /ˌʃɔːrt ˈsɜːrkɪt/
 	;hiện tưởng đoản mạch -- (also informal short) ​a failure in an electrical circuit, when electricity travels along the wrong route because of damaged wires or a fault in the connections between the wires
 		;The fire was caused by a short circuit.
 		;The lights were not working because of a short circuit.
@@ -1006,7 +1008,7 @@ short circuit		<-->	noun+C2	[221028][1]	./ˌʃɔːt ˈsɜːkɪt/-NAmE /ˌʃɔːr
 
 
 
-shut down		<-->	phrasal verb+B2	[220821][1]	./ʃʌt/-NAmE /ʃʌt/
+shut down		<-->	phrasal verb++B2	[220821][001]	./ʃʌt/-NAmE /ʃʌt/
 	;tắt hệ thống -- shut down ​(of a factory, shop, etc. or a machine) to stop opening for business;to stop working
 		;The theatre shut down after more than half a century.
 		;RELATED NOUN shutdown
@@ -1018,7 +1020,7 @@ shut down		<-->	phrasal verb+B2	[220821][1]	./ʃʌt/-NAmE /ʃʌt/
 
 
 
-shutdown		<-->	noun+C2	[221028][1]	./ˈʃʌtdaʊn/-NAmE /ˈʃʌtdaʊn/
+shutdown		<-->	noun++C2	[221028][001]	./ˈʃʌtdaʊn/-NAmE /ˈʃʌtdaʊn/
 	;việc tắt hệ thống -- the act of closing a factory or business or stopping a large machine from working, either temporarily or permanently
 		;factory shutdowns
 		;the nuclear reactor’s emergency shutdown procedures
@@ -1026,7 +1028,7 @@ shutdown		<-->	noun+C2	[221028][1]	./ˈʃʌtdaʊn/-NAmE /ˈʃʌtdaʊn/
 
 
 
-shut off		<-->	phrasal verb+C2	[220821][1]	./ʃʌt/-NAmE /ʃʌt/
+shut off		<-->	phrasal verb++C2	[220821][001]	./ʃʌt/-NAmE /ʃʌt/
 	;ngắt nguồn, dừng hệ thống -- ​(of a machine, tool, etc.) to stop working
 		The engines shut off automatically in an emergency.		
 	;ngắt nguồn, dừng hệ thống -- ​ (shut something  off)
@@ -1036,35 +1038,35 @@ shut off		<-->	phrasal verb+C2	[220821][1]	./ʃʌt/-NAmE /ʃʌt/
 		;A valve immediately shuts off the gas when the lid is closed.
 
 
-silicon chip		<-->	noun+C1	[221028][1]	./ˌsɪlɪkən ˈtʃɪp/-NAmE /ˌsɪlɪkən ˈtʃɪp/
+silicon chip		<-->	noun++C1	[221028][001]	./ˌsɪlɪkən ˈtʃɪp/-NAmE /ˌsɪlɪkən ˈtʃɪp/
 	;con chip bán dẫn -- ​a very small piece of silicon used to carry a complicated electronic circuit
 		;ComputersC1
 
 
-sleep mode		<-->	noun+C2	[221028][1]	./ˈsliːp məʊd/-NAmE /ˈsliːp məʊd/
+sleep mode		<-->	noun++C2	[221028][001]	./ˈsliːp məʊd/-NAmE /ˈsliːp məʊd/
 	;tình trạng ngủ đông của hệ thống -- [uncountable]​a way of operating in which parts of an electronic device are switched off when they are not being used
 		;An orange light indicates that the monitor is in sleep mode.
 
 
 
 
-solar cell		<-->	noun+C1	[221028][1]	./ˌsəʊlə ˈsel/-NAmE /ˌsəʊlər ˈsel/
+solar cell		<-->	noun++C1	[221028][001]	./ˌsəʊlə ˈsel/-NAmE /ˌsəʊlər ˈsel/
 	;tế bào pin mặt trời -- ​a device that receives light and heat energy from the sun and changes it into electricity
 		;TOPICS The environmentC1, EngineeringC1
 
-solenoid		<-->	noun+C2	[221028][1]	./ˈsɒlənɔɪd/,  /ˈsəʊlənɔɪd/-NAmE /ˈsɑːlənɔɪd/,  /ˈsəʊlənɔɪd/
+solenoid		<-->	noun++C2	[221028][001]	./ˈsɒlənɔɪd/,  /ˈsəʊlənɔɪd/-NAmE /ˈsɑːlənɔɪd/,  /ˈsəʊlənɔɪd/
 	;cuộn sinh từ, cuộn cảm -- (physics) a piece of wire, wound into circles, which acts as a magnet when carrying an electric current
 
 
 
 
-spare part		<-->	noun+C1	[221028][1]	./ˌspeə ˈpɑːt/-NAmE /ˌsper ˈpɑːrt/
+spare part		<-->	noun++C1	[221028][001]	./ˌspeə ˈpɑːt/-NAmE /ˌsper ˈpɑːrt/
 	;phụ tùng -- [usually plural] a new part that you buy to replace an old or broken part of a car, machine, etc.
 		;We have to get our spare parts from abroad.
 		;TOPICS Transport by car or lorryC1, EngineeringC1
 
 
-sprocket		<-->	noun+C2	[221028][1]	./ˈsprɒkɪt/-NAmE /ˈsprɑːkɪt/
+sprocket		<-->	noun++C2	[221028][001]	./ˈsprɒkɪt/-NAmE /ˈsprɑːkɪt/
 	;bánh xích -- (also sprocket wheel) a wheel with a row of teeth around the edge that connect with the holes of a bicycle chain or with holes in a film, etc. in order to turn it
 
 
@@ -1073,7 +1075,7 @@ sprocket		<-->	noun+C2	[221028][1]	./ˈsprɒkɪt/-NAmE /ˈsprɑːkɪt/
 
 
 
-switch		<-->	noun+B2	[221028][1]	./swɪtʃ/-NAmE /swɪtʃ/
+switch		<-->	noun++B2	[221028][001]	./swɪtʃ/-NAmE /swɪtʃ/
 	;cái thiết bị đóng ngắt -- a small device that you press or move up and down in order to turn a light or piece of electrical equipment on and off
 		;a light switch
 		;an on–off switch
@@ -1086,7 +1088,7 @@ switch		<-->	noun+B2	[221028][1]	./swɪtʃ/-NAmE /swɪtʃ/
 		;SEE ALSO dimmer switch, dip switch, kill switch, rocker switch, time switch, toggle switch
 
 
-switch off		<-->	phrasal verb+B1	[220821][1]	./swɪtʃ/-NAmE /swɪtʃ/
+switch off		<-->	phrasal verb++B1	[220821][001]	./swɪtʃ/-NAmE /swɪtʃ/
 	;ngắt nguồn -- (informal) to stop thinking about something or paying attention to something
 		;When I hear the word ‘football’ I switch off (= because I am not interested in it).
 		;The only time he really switches off (= stops thinking about work, etc.) is when we're on vacation.
@@ -1099,7 +1101,7 @@ switch off		<-->	phrasal verb+B1	[220821][1]	./swɪtʃ/-NAmE /swɪtʃ/
 		;We only switched on halfway through the programme.
 		;TOPICS EngineeringB1
 
-switch on		<-->	phrasal verb+B1	[220821][1]	./swɪtʃ/-NAmE /swɪtʃ/
+switch on		<-->	phrasal verb++B1	[220821][001]	./swɪtʃ/-NAmE /swɪtʃ/
 	;mở nguồn -- switch off/on | switch something  off/on
 ​		;to turn a light, machine, etc. off/on by pressing a button or switch
 		;Please switch the lights off as you leave.
@@ -1108,7 +1110,7 @@ switch on		<-->	phrasal verb+B1	[220821][1]	./swɪtʃ/-NAmE /swɪtʃ/
 		;We only switched on halfway through the programme.
 		;TOPICS EngineeringB1
 
-technical		<-->	adjective+B1  /ˈteknɪkl/-NAmE /ˈteknɪkl/
+technical		<-->	adjective++B1	[221119][001]	./ˈteknɪkl/-NAmE /ˈteknɪkl/
 	;thuộc về kỹ thuật -- [usually before noun] connected with the practical use of machines, methods, etc. in science and industry
 		;We offer free technical support for those buying our software.
 		;The organization provides technical assistance to farmers.
@@ -1118,7 +1120,7 @@ technical		<-->	adjective+B1  /ˈteknɪkl/-NAmE /ˈteknɪkl/
 		;This is a purely technical issue.
 		;TOPICS EngineeringB1
  
-technician		<-->	noun+B2	[221028][1]	./tekˈnɪʃn/-NAmE /tekˈnɪʃn/
+technician		<-->	noun++B2	[221028][001]	./tekˈnɪʃn/-NAmE /tekˈnɪʃn/
 ​	;nhân viên kỹ thuật -- (also tech) a person whose job is keeping a particular type of equipment or machine in good condition
 		;laboratory technicians
 		;a computer support technician
@@ -1126,93 +1128,94 @@ technician		<-->	noun+B2	[221028][1]	./tekˈnɪʃn/-NAmE /tekˈnɪʃn/
 		;SEE ALSO chief technician, junior technician
 		;TOPICS JobsB2, EngineeringB2
 
-thermostat		<-->	noun+C2	[221028][1]	./ˈθɜːməstæt/-NAmE /ˈθɜːrməstæt/
+thermostat		<-->	noun++C2	[221028][001]	./ˈθɜːməstæt/-NAmE /ˈθɜːrməstæt/
 	;máy điều nhiệt, điều hoà -- (1) a device that measures and controls the temperature of a machine or room, by switching the heating or cooling system on and off as necessary
 		;TOPICS EngineeringC2, Houses and homesC2
 
 
-timer		<-->	noun+B2	[221028][1]	./ˈtaɪmə(r)/-NAmE /ˈtaɪmər/
+timer		<-->	noun++B2	[221028][001]	./ˈtaɪmə(r)/-NAmE /ˈtaɪmər/
 	;thiết bị đo thời gian -- (often in compounds) a device that is used to measure the time that something takes;a device that starts or stops a machine working at a particular time
 		;an oven timer
 		;Once started, the timer runs for one minute.
 		;SEE ALSO egg timer, self-timer
 		;TOPICS EngineeringB2
 
-time switch		<-->	noun+C1	[221028][1]	./ˈtaɪm swɪtʃ/-NAmE /ˈtaɪm swɪtʃ/
+time switch		<-->	noun++C1	[221028][001]	./ˈtaɪm swɪtʃ/-NAmE /ˈtaɪm swɪtʃ/
 	;thiết bị chuyển đổi theo thời gian -- (also timer switch  /ˈtaɪmə swɪtʃ/  /ˈtaɪmər swɪtʃ/) ​a switch that can be set to start and stop a machine, etc. working at a particular time
 		;The heating is on a time switch.
 
 
 
-transducer		<-->	noun+C2	[221028][1]	./trænzˈdjuːsə(r)/-NAmE /trænzˈduːsər/
+transducer		<-->	noun++C2	[221028][001]	./trænzˈdjuːsə(r)/-NAmE /trænzˈduːsər/
 	;đầu dò cảm biến -- (specialist) ​a device for producing an electrical signal from another form of energy such as pressure
 
 
 
-transformer		<-->	noun+C2	[221028][1]	./trænsˈfɔːmə(r)/-NAmE /trænsˈfɔːrmər/
+transformer		<-->	noun++C2	[221028][001]	./trænsˈfɔːmə(r)/-NAmE /trænsˈfɔːrmər/
 ​a device for reducing or increasing the voltage of an electric power supply, usually to allow a particular piece of electrical equipment to be used
 
 
-transistor		<-->	noun+C1	[221028][1]	./trænˈzɪstə(r)/-NAmE /trænˈzɪstər/
+transistor		<-->	noun++C1	[221028][001]	./trænˈzɪstə(r)/-NAmE /trænˈzɪstər/
 	;thiết bị bán  dẫn -- a small electronic device used in computers, radios, televisions, etc. for controlling an electric current as it passes along a circuit
 
 
 
-transmitter		<-->	noun+C1	[221028][1]	./trænzˈmɪtə(r)/-NAmE /trænzˈmɪtər/
+transmitter		<-->	noun++C1	[221028][001]	./trænzˈmɪtə(r)/-NAmE /trænzˈmɪtər/
 	;thiết bị truyền điện, sóng -- a piece of equipment used for sending electronic signals, especially radio or television signals
 		;They discovered radio transmitters hidden in the wall.
 		;COMPARE receiver
 		;TV, radio and newsC1
 
-turbine		<-->	noun+B1	[221028][1]	./ˈtɜːbaɪn/-NAmE /ˈtɜːrbaɪn/
+turbine		<-->	noun++B1	[221028][001]	./ˈtɜːbaɪn/-NAmE /ˈtɜːrbaɪn/
 	;động cơ nhờ moment xoay -- a machine or part of a machine that produces continuous turning power from a fast-moving flow of a liquid or gas, using a set of vanes attached to a wheel or rotor
 		;The flow of water drives the turbine, which is connected to an electrical generator to produce electricity.
 		;Gas turbines can be used to generate electricity.
 		;SEE ALSO wind turbine
 		;TOPICS The environmentB1, EngineeringB1
 
-turn off		<-->	phrasal verb+A2	[221028][1]	./tɜːn/-NAmE /tɜːrn/
+turn off		<-->	phrasal verb++A2	[221028][001]	./tɜːn/-NAmE /tɜːrn/
 	;ngắt mạch -- to stop the flow of electricity, gas, water, etc. by moving a switch, button, etc.
 		;to turn off the light
 		;They've turned off the water while they repair a burst pipe.
 		;Please turn the television off before you go to bed.
 
-turn on		<-->	phrasal verb+A2	[221028][1]	./tɜːn/-NAmE /tɜːrn/
+turn on		<-->	phrasal verb++A2	[221028][001]	./tɜːn/-NAmE /tɜːrn/
 	;đóng mạch -- to start the flow of electricity, gas, water, etc. by moving a switch, button, etc.
 		;to turn on the heating
 		;I'll turn the television on.
 		;(figurative) He really knows how to turn on the charm (= suddenly become pleasant and attractive).
 
-volt		<-->	noun+C2	[220821][1]	./vəʊlt/,  /vɒlt/-NAmE /vəʊlt/
+volt		<-->	noun++C2	[220821][001]	./vəʊlt/,  /vɒlt/-NAmE /vəʊlt/
 	;đơn vị điện áp -- (abbreviation V)​a unit for measuring the force of an electric current
 		;a high security fence with 5 000 volts passing through it
 		;TOPICS Maths and measurementC2, EngineeringC2
 
-voltage		<-->	noun+C2	[221028][1]	./ˈvəʊltɪdʒ/-NAmE /ˈvəʊltɪdʒ/
+voltage		<-->	noun++C2	[221028][001]	./ˈvəʊltɪdʒ/-NAmE /ˈvəʊltɪdʒ/
 	;hiệu điện thế -- [uncountable, countable] ​electrical force measured in volts
 		;high/low voltage
 
-voltmeter		<-->	noun+C2	[221028][1]	./ˈvəʊltmiːtə(r)/-NAmE /ˈvəʊltmiːtər/
+voltmeter		<-->	noun++C2	[221028][001]	./ˈvəʊltmiːtə(r)/-NAmE /ˈvəʊltmiːtər/
 ​	;máy đo hiệu điện thế -- an instrument for measuring voltage
 
-washer		<-->	noun+C2	[221028][1]	./ˈwɒʃə(r)/-NAmE /ˈwɑːʃər/
+washer		<-->	noun++C2	[221028][001]	./ˈwɒʃə(r)/-NAmE /ˈwɑːʃər/
 	;vòng đệm, ron cao su -- a small flat ring made of rubber, metal or plastic placed between two surfaces, for example under a nut  (con tán (ốc vích)) to make a connection tight
 
-watt		<-->	noun+C2	[220821][1]	./wɒt/-NAmE /wɑːt/
+watt		<-->	noun++C2	[220821][001]	./wɒt/-NAmE /wɑːt/
 	;đơn vị tính điện -- (abbreviation W) a unit for measuring electrical power
 		;a 60-watt light bulb
 
-wattage		<-->	noun+C2	[221028][1]	./ˈwɒtɪdʒ/-NAmE /ˈwɑːtɪdʒ/
+wattage		<-->	noun++C2	[221028][001]	./ˈwɒtɪdʒ/-NAmE /ˈwɑːtɪdʒ/
 	;lượng điện tiêu thụ tính bằng watt -- [uncountable, countable] (specialist) ​an amount of electrical power expressed in watts
 
-wire		<-->	noun+B2	[221028][1]	./ˈwaɪə(r)/-NAmE /ˈwaɪər/
+wire		<-->	noun++B2	[221028][001]	./ˈwaɪə(r)/-NAmE /ˈwaɪər/
 	;dây dẫn -- [countable, uncountable] a piece of wire that is used to carry an electric current or signal
 		;electrical wires
 		;a spider's web of unsightly overhead wires
 		;The telephone wires had been cut.
 		;SEE ALSO fuse wire
  
-working		<-->	adjective+C2	[221028][1]	./ˈwɜːkɪŋ/-NAmE /ˈwɜːrkɪŋ/
+working		<-->	adjective++C2	[221028][001]	./ˈwɜːkɪŋ/-NAmE /ˈwɜːrkɪŋ/
 	;(có) hoạt động -- [only before noun]​the working parts of a machine are the parts that move in order to make it function
 
 
+>>>>>>>-------[[[ENGINEER]]]
