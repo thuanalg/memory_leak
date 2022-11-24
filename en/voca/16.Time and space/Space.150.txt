@@ -1,6 +1,6 @@
 2022-05-08; Thu, 2022-06-30
 
-aerospace		<-->	noun+C1	[220829][1]	./ˈeərəʊspeɪs/-NAmE /ˈerəʊspeɪs/
+aerospace		<-->	noun+C1	[220829][001]	./ˈeərəʊspeɪs/-NAmE /ˈerəʊspeɪs/
 	;ngành hàng không vũ trụ -- [uncountable] the industry of building aircraft, vehicles and equipment to be sent into space
 		;jobs in aerospace and defence
 		;the aerospace industry
@@ -12,7 +12,7 @@ aerospace		<-->	noun+C1	[220829][1]	./ˈeərəʊspeɪs/-NAmE /ˈerəʊspeɪs/
 
 
 
-alien		<-->	noun+B2	[220829][1]	./ˈeɪliən/-NAmE /ˈeɪliən/
+alien		<-->	noun+B2	[220829][001]	./ˈeɪliən/-NAmE /ˈeɪliən/
 	;sinh vật ngoài hành tinh -- (1) a creature from another world
 		;aliens from outer space
 		;Extra Examples
@@ -25,7 +25,7 @@ alien		<-->	noun+B2	[220829][1]	./ˈeɪliən/-NAmE /ˈeɪliən/
 
 
 
-alien		<-->	adjective+C1	[220829][1]	./ˈeɪliən/-NAmE /ˈeɪliən/
+alien		<-->	adjective+C1	[220829][001]	./ˈeɪliən/-NAmE /ˈeɪliən/
 	;(tt) sinh vật ngoài hành tinh -- connected with creatures from another world
 		;alien beings from outer space
 		;TOPICS SpaceC1
@@ -35,7 +35,7 @@ alien		<-->	adjective+C1	[220829][1]	./ˈeɪliən/-NAmE /ˈeɪliən/
 
 
 
-asteroid		<-->	noun+B2	[220829][1]	./ˈæstərɔɪd/-NAmE /ˈæstərɔɪd/
+asteroid		<-->	noun+B2	[220829][001]	./ˈæstərɔɪd/-NAmE /ˈæstərɔɪd/
 	;các tiểu hành tinh -- (1) ​any one of the many small planets that go around the sun
 		;Wordfinder: asteroidastronomycometconstellationcosmicgalaxymeteoriteorbitspacethe universe
 		;Wordfinder: asteroid, astronomy, comet, constellation, cosmic. galaxy, meteorite, orbit, space, the universe
@@ -47,7 +47,7 @@ asteroid		<-->	noun+B2	[220829][1]	./ˈæstərɔɪd/-NAmE /ˈæstərɔɪd/
 
 
 
-astrobiologist		<-->	noun+C1	[220829][1]	./ˌæstrəʊbaɪˈɒlədʒɪst/-NAmE /ˌæstrəʊbaɪˈɑːlədʒɪst/
+astrobiologist		<-->	noun+C1	[220829][001]	./ˌæstrəʊbaɪˈɒlədʒɪst/-NAmE /ˌæstrəʊbaɪˈɑːlədʒɪst/
 ​	;nhà nghiên cứu các hành tinh --  (1) a scientist who studies life on other planets
 		;TOPICS SpaceC1
 
@@ -57,7 +57,7 @@ astrobiologist		<-->	noun+C1	[220829][1]	./ˌæstrəʊbaɪˈɒlədʒɪst/-NAmE /
 
 
 
-astrobiology		<-->	noun+C1	[220829][1]	./ˌæstrəʊbaɪˈɒlədʒi/-NAmE /ˌæstrəʊbaɪˈɑːlədʒi/ [uncountable]
+astrobiology		<-->	noun+C1	[220829][001]	./ˌæstrəʊbaɪˈɒlədʒi/-NAmE /ˌæstrəʊbaɪˈɑːlədʒi/ [uncountable]
 ​	;khoa/ngành hành tinh học -- (1) the scientific study of life on other planets
 		;TOPICS SpaceC1
 
@@ -67,7 +67,7 @@ astrobiology		<-->	noun+C1	[220829][1]	./ˌæstrəʊbaɪˈɒlədʒi/-NAmE /ˌæs
 
 
 
-astronaut		<-->	noun+B1	[220829][1]	./ˈæstrənɔːt/-NAmE /ˈæstrənɔːt/
+astronaut		<-->	noun+B1	[220829][001]	./ˈæstrənɔːt/-NAmE /ˈæstrənɔːt/
 ​	;phi hành gia -- a person whose job involves travelling and working in a spacecraft
 		;sending astronauts into space
 		;Wordfinder: astronautcountdowndocklaunchmissionorbitrocketsatellitespaceweightless
@@ -80,7 +80,7 @@ astronaut		<-->	noun+B1	[220829][1]	./ˈæstrənɔːt/-NAmE /ˈæstrənɔːt/
 
 
 
-astronomer		<-->	noun+B2	[220829][1]	./əˈstrɒnəmə(r)/-NAmE /əˈstrɑːnəmər/
+astronomer		<-->	noun+B2	[220829][001]	./əˈstrɒnəmə(r)/-NAmE /əˈstrɑːnəmər/
 ​	;nhà khoa học vũ trụ -- a scientist who studies astronomy
 		;Astronomers all over the world will be observing the eclipse.
 		;Astronomers continue to discover new stars.
@@ -92,7 +92,7 @@ astronomer		<-->	noun+B2	[220829][1]	./əˈstrɒnəmə(r)/-NAmE /əˈstrɑːnəm
 
 
 
-astronomy		<-->	noun+B2	[220829][1]	./əˈstrɒnəmi/-NAmE /əˈstrɑːnəmi/
+astronomy		<-->	noun+B2	[220829][001]	./əˈstrɒnəmi/-NAmE /əˈstrɑːnəmi/
 	;khoa học vũ trụ -- [uncountable] ​the scientific study of the sun, moon, stars, planets, etc.
 		;Wordfinder: asteroidastronomycometconstellationcosmicgalaxymeteoriteorbitspacethe universe
 		;TOPICS SpaceB2
@@ -106,7 +106,7 @@ astronomy		<-->	noun+B2	[220829][1]	./əˈstrɒnəmi/-NAmE /əˈstrɑːnəmi/
 
 
 
-astrophysics		<-->	noun+C2	[220829][1]	./ˌæstrəʊˈfɪzɪks/-NAmE /ˌæstrəʊˈfɪzɪks/
+astrophysics		<-->	noun+C2	[220829][001]	./ˌæstrəʊˈfɪzɪks/-NAmE /ˌæstrəʊˈfɪzɪks/
 	;vật lý thiên văn -- [uncountable] ​the scientific study of the physical and chemical structure of the stars, planets, etc.
 		;TOPICS SpaceC2
 
@@ -116,7 +116,7 @@ astrophysics		<-->	noun+C2	[220829][1]	./ˌæstrəʊˈfɪzɪks/-NAmE /ˌæstrə�
 
 
 
-atmosphere		<-->	noun+B1	[220829][1]	./ˈætməsfɪə(r)/-NAmE /ˈætməsfɪr/
+atmosphere		<-->	noun+B1	[220829][001]	./ˈætməsfɪə(r)/-NAmE /ˈætməsfɪr/
 	;khí quyển -- the atmosphere [singular] the mixture of gases that surrounds the earth
 		;Wind power doesn't release carbon dioxide into the atmosphere.
 		;greenhouse gases in the earth's atmosphere
@@ -136,7 +136,7 @@ atmosphere		<-->	noun+B1	[220829][1]	./ˈætməsfɪə(r)/-NAmE /ˈætməsfɪr/
 
 
 
-atmospheric		<-->	adjective+C1	[220829][1]	./ˌætməsˈferɪk/-NAmE /ˌætməsˈfɪrɪk/,  /ˌætməsˈferɪk/
+atmospheric		<-->	adjective+C1	[220829][001]	./ˌætməsˈferɪk/-NAmE /ˌætməsˈfɪrɪk/,  /ˌætməsˈferɪk/
 	;l.q đến khí quyển -- (1) ​[only before noun] related to the earth’s atmosphere
 		;atmospheric pollution/conditions/pressure
 		;TOPICS SpaceC1
@@ -147,7 +147,7 @@ atmospheric		<-->	adjective+C1	[220829][1]	./ˌætməsˈferɪk/-NAmE /ˌætməs�
 
 
 
-aurora australis		<-->	noun+C2	[220829][1]	./əˌrɔːrə ɒˈstreɪlɪs/-NAmE /əˌrɔːrə ɔːˈstreɪlɪs/ [singular]
+aurora australis		<-->	noun+C2	[220829][001]	./əˌrɔːrə ɒˈstreɪlɪs/-NAmE /əˌrɔːrə ɔːˈstreɪlɪs/ [singular]
 	;??? -- (also the Southern Lights [plural]) bands of coloured light that are sometimes seen in the sky at night in the most southern countries of the world
 		;TOPICS SpaceC2
 
@@ -157,7 +157,7 @@ aurora australis		<-->	noun+C2	[220829][1]	./əˌrɔːrə ɒˈstreɪlɪs/-NAmE /
 
 
 
-aurora borealis		<-->	noun+C2	[220829][1]	./əˌrɔːrə ˌbɔːriˈeɪlɪs/-NAmE /əˌrɔːrə ˌbɔːriˈælɪs/
+aurora borealis		<-->	noun+C2	[220829][001]	./əˌrɔːrə ˌbɔːriˈeɪlɪs/-NAmE /əˌrɔːrə ˌbɔːriˈælɪs/
 	;vầng sáng các cực -- [singular] (also the Northern Lights [plural]) ​bands of coloured light, mainly green and red, that are sometimes seen in the sky at night in the most northern countries of the world
 		;TOPICS SpaceC2
 
@@ -167,7 +167,7 @@ aurora borealis		<-->	noun+C2	[220829][1]	./əˌrɔːrə ˌbɔːriˈeɪlɪs/-NAm
 
 
 
-axis		<-->	noun+C1	[220829][1]	./ˈæksɪs/-NAmE /ˈæksɪs/
+axis		<-->	noun+C1	[220829][001]	./ˈæksɪs/-NAmE /ˈæksɪs/
 	;(plural axes  /ˈæksiːz/  /ˈæksiːz/)
 	;trục -- [image] an imaginary line through the centre of an object, around which the object turns
 		;Mars takes longer to revolve on its axis than the Earth.
@@ -360,7 +360,7 @@ cosmos		<-->	noun+C1[-0]	.
 
 
 
-countdown		<-->	noun+C2	[221031][1]	./ˈkaʊntdaʊn/-NAmE /ˈkaʊntdaʊn/ [ap]
+countdown		<-->	noun+C2	[221031][001]	./ˈkaʊntdaʊn/-NAmE /ˈkaʊntdaʊn/ [ap]
 	;việc đếm ngược -- (1) [singular, uncountable] countdown (to something) the action of counting numbers backwards to zero, for example before a spacecraft is launched
 		;Wordfinder: astronautcountdowndocklaunchmissionorbitrocketsatellitespaceweightless
 		;TOPICS SpaceC2
@@ -436,11 +436,10 @@ exoplanet		<-->	noun+C1[-0]	.
 
 
 
-extraterrestrial		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+extraterrestrial		<-->	noun+C2[-0]	./ˌekstrətəˈrestriəl/
+ /ˌekstrətəˈrestriəl/
+	;sinh vật ngoài trái đất -- (1) (in stories) a creature that comes from another planet; a creature that may exist on another planet
+		;TOPICS SpaceC2
 
 
 
@@ -1448,9 +1447,43 @@ sunrise		<-->	noun+B2[-0]	.
 
 
 
-sunset		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
+sunset		<-->	noun+B2[-0]	./ˈsʌnset/
+ /ˈsʌnset/
+	;hoàng hôn -- (1) [uncountable] the time when the sun goes down and night begins
+ at sunset Every evening at sunset the flag was lowered.
+		;Extra Examples:
+		;We walked along the beach at sunset.
+		;After sunset the temperature drops.
+		;TOPICS TimeB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;beautifulbrilliantglorious…
+				;verb + sunset
+				;admirewatch
+				;preposition
+				;against the sunsetat sunsetsunset over…
+				;phrases
+				;the glow of the sunsetride off into the sunsetsail off into the sunset…
+		;See full entry
+	;màu hoàng hôn -- (2) [countable] the colours in the part of the sky where the sun slowly goes down in the evening
+		;a spectacular sunset
+		;Extra Examples:
+		;The trees were black against the sunset.
+		;They sat in the last glow of the sunset.
+		;a beautiful sunset over the bay
+		;At the end he gets back on his horse and rides off into the sunset.
+		;We sat by the river and watched the sunset.
+		;TOPICS SpaceB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;beautifulbrilliantglorious…
+				;verb + sunset
+				;admirewatch
+				;preposition
+				;against the sunsetat sunsetsunset over…
+				;phrases
+				;the glow of the sunsetride off into the sunsetsail off into the sunset…
+		;See full entry
 	; -- (3) 
 
 
@@ -1459,11 +1492,10 @@ sunset		<-->	noun+B2[-0]	.
 
 
 
-sunup		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+sunup		<-->	noun+C2[-0]	./ˈsʌnʌp/
+ /ˈsʌnʌp/
+	;bình minh -- (1) [uncountable] (especially North American English) the time when the sun rises and day begins
+		;TOPICS SpaceC2
 
 
 
@@ -1503,7 +1535,7 @@ telescope		<-->	noun+B2[-0]	.
 
 
 
-twilight		<-->	noun+C2	[221031][1]	./ˈtwaɪlaɪt/-NAmE /ˈtwaɪlaɪt/ [uncountable]
+twilight		<-->	noun+C2	[221031][001]	./ˈtwaɪlaɪt/-NAmE /ˈtwaɪlaɪt/ [uncountable]
 	;chạng vạng  -- (1) the small amount of light or the period of time at the end of the day after the sun has gone down
 		;in the twilight It was hard to see him clearly in the twilight.
 		;at twilight We went for a walk along the beach at twilight.
@@ -1534,7 +1566,7 @@ twilight		<-->	noun+C2	[221031][1]	./ˈtwaɪlaɪt/-NAmE /ˈtwaɪlaɪt/ [uncounta
 
 
 
-UFO		<-->	noun+C1	[221031][1]	./ˌjuː ef ˈəʊ/,  /ˈjuːfəʊ/-NAmE /ˌjuː ef ˈəʊ/,  /ˈjuːfəʊ/ (also ufo) (plural UFOs, ufos)
+UFO		<-->	noun+C1	[221031][001]	./ˌjuː ef ˈəʊ/,  /ˈjuːfəʊ/-NAmE /ˌjuː ef ˈəʊ/,  /ˈjuːfəʊ/ (also ufo) (plural UFOs, ufos)
 	;vật thể bay lạ -- (1) a strange object that some people claim to have seen in the sky and believe is a spacecraft from another planet (the abbreviation for ‘unidentified flying object’)
 		;COMPARE flying saucer
 		;TOPICS SpaceC1
@@ -1551,7 +1583,7 @@ UFO		<-->	noun+C1	[221031][1]	./ˌjuː ef ˈəʊ/,  /ˈjuːfəʊ/-NAmE /ˌjuː e
 
 
 
-universe		<-->	noun+B2	[221031][1]	./cef/
+universe		<-->	noun+B2	[221031][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1562,7 +1594,7 @@ universe		<-->	noun+B2	[221031][1]	./cef/
 
 
 
-Uranus		<-->	noun+C1	[221031][1]	./ˈjʊərənəs/-NAmE /ˈjʊrənəs/
+Uranus		<-->	noun+C1	[221031][001]	./ˈjʊərənəs/-NAmE /ˈjʊrənəs/
 	;sao Thiên Vương -- (1) the planet in the solar system that is 7th in order of distance from the sun
 		;TOPICS SpaceC1
 	; -- (2) 
@@ -1574,7 +1606,7 @@ Uranus		<-->	noun+C1	[221031][1]	./ˈjʊərənəs/-NAmE /ˈjʊrənəs/
 
 
 
-Venus		<-->	noun+B2	[221031][1]	./ˈviːnəs/-NAmE /ˈviːnəs/
+Venus		<-->	noun+B2	[221031][001]	./ˈviːnəs/-NAmE /ˈviːnəs/
 	;sao Kim -- (1) the planet in the solar system that is second in order of distance from the sun, between Mercury and the Earth
 		;TOPICS SpaceB2
 	; -- (2) 
@@ -1586,7 +1618,7 @@ Venus		<-->	noun+B2	[221031][1]	./ˈviːnəs/-NAmE /ˈviːnəs/
 
 
 
-voyage		<-->	noun+B2	[221031][2]	./ˈvɔɪɪdʒ/-NAmE /ˈvɔɪɪdʒ/ [ie-b1]
+voyage		<-->	noun+B2	[221031][002]	./ˈvɔɪɪdʒ/-NAmE /ˈvɔɪɪdʒ/ [ie-b1]
 	;hành trình không gian -- (1) a long journey, especially by sea or in space
 		;an around-the-world voyage
 		;a voyage in space
@@ -1623,7 +1655,7 @@ voyage		<-->	noun+B2	[221031][2]	./ˈvɔɪɪdʒ/-NAmE /ˈvɔɪɪdʒ/ [ie-b1]
 
 
 
-wane		<-->	verb+C2	[221031][2]	./weɪn/-NAmE /weɪn/\
+wane		<-->	verb+C2	[221031][002]	./weɪn/-NAmE /weɪn/\
 	;suy yếu -- (1) [intransitive] to become gradually weaker or less important
 		;SYNONYM decrease, fade
 		;Her enthusiasm for the whole idea was waning rapidly.
@@ -1646,7 +1678,7 @@ wane		<-->	verb+C2	[221031][2]	./weɪn/-NAmE /weɪn/\
 
 
 
-wax		<-->	verb+C2	[221031][1]	./wæks/-NAmE /wæks/\ [uncountable]
+wax		<-->	verb+C2	[221031][001]	./wæks/-NAmE /wæks/\ [uncountable]
 	;sáp -- (1) a solid substance that is made from beeswax or from various fats and oils and used for making candles, polish, models, etc. It becomes soft when it is heated.
 		;styling wax for the hair
 		;floor wax
@@ -1666,7 +1698,7 @@ wax		<-->	verb+C2	[221031][1]	./wæks/-NAmE /wæks/\ [uncountable]
 
 
 
-weightless		<-->	adjective+C1	[221031][1]	./ˈweɪtləs/-NAmE /ˈweɪtləs/
+weightless		<-->	adjective+C1	[221031][001]	./ˈweɪtləs/-NAmE /ˈweɪtləs/
 	;không trọng lực -- (1) having no weight or appearing to have no weight, for example because there is no gravity
 		;Astronauts work in weightless conditions.
 		;Wordfinder: astronautcountdowndocklaunchmissionorbitrocketsatellitespaceweightless
@@ -1680,7 +1712,7 @@ weightless		<-->	adjective+C1	[221031][1]	./ˈweɪtləs/-NAmE /ˈweɪtləs/
 
 
 
-weightlessness		<-->	noun+C1	[221031][1]	./ˈweɪtləsnəs/-NAmE /ˈweɪtləsnəs/ [uncountable]
+weightlessness		<-->	noun+C1	[221031][001]	./ˈweɪtləsnəs/-NAmE /ˈweɪtləsnəs/ [uncountable]
 	;tình trạng không trọng lực -- (1) the fact of having or appearing to have no weight, for example because there is no gravity
 		;an experience of weightlessness
 		;TOPICS SpaceC1
@@ -1693,7 +1725,7 @@ weightlessness		<-->	noun+C1	[221031][1]	./ˈweɪtləsnəs/-NAmE /ˈweɪtləsnə
 
 
 
-white dwarf		<-->	noun+C2	[221031][1]	./ˌwaɪt ˈdwɔːf/-NAmE /ˌwaɪt ˈdwɔːrf/ (astronomy)
+white dwarf		<-->	noun+C2	[221031][001]	./ˌwaɪt ˈdwɔːf/-NAmE /ˌwaɪt ˈdwɔːrf/ (astronomy)
 	;sao lùn trắng -- (1) a small star that is near the end of its life and is very dense (= solid and heavy)
 		;TOPICS SpaceC2
 	; -- (2) 
@@ -1705,7 +1737,7 @@ white dwarf		<-->	noun+C2	[221031][1]	./ˌwaɪt ˈdwɔːf/-NAmE /ˌwaɪt ˈdwɔ�
 
 
 
-wormhole		<-->	noun+C2	[221031][1]	./ˈwɜːmhəʊl/-NAmE /ˈwɜːrmhəʊl/
+wormhole		<-->	noun+C2	[221031][001]	./ˈwɜːmhəʊl/-NAmE /ˈwɜːrmhəʊl/
 	;lỗ sâu đục -- (1) a hole made by a worm or young insect
 	;đường hầm không-thời gian -- (2) ​(physics) a possible connection between regions of space-time that are far apart
 		;TOPICS SpaceC2
@@ -1717,7 +1749,7 @@ wormhole		<-->	noun+C2	[221031][1]	./ˈwɜːmhəʊl/-NAmE /ˈwɜːrmhəʊl/
 
 
 
-zenith		<-->	noun+C2	[221031][1]	./ˈzenɪθ/-NAmE /ˈziːnɪθ/
+zenith		<-->	noun+C2	[221031][001]	./ˈzenɪθ/-NAmE /ˈziːnɪθ/
 	;đỉnh cao -- (1) the highest point that the sun or moon reaches in the sky, directly above you
 		;The sun rose towards its zenith.
 		;TOPICS SpaceC2, WeatherC2
@@ -1734,7 +1766,7 @@ zenith		<-->	noun+C2	[221031][1]	./ˈzenɪθ/-NAmE /ˈziːnɪθ/
 
 
 
-zodiac		<-->	noun+C1	[221031][1]	./ˈzəʊdiæk/-NAmE /ˈzəʊdiæk/
+zodiac		<-->	noun+C1	[221031][001]	./ˈzəʊdiæk/-NAmE /ˈzəʊdiæk/
 	;cung hoàng đạo -- (1) the zodiac [singular] the imaginary area in the sky in which the sun, moon and planets appear to lie, and which has been divided into twelve equal parts, each with a special name and symbol
 		;the signs of the zodiac
 		;TOPICS SpaceC1

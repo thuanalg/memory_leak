@@ -1,6 +1,6 @@
 	Wed, 2022-06-29
 	Thu, 2022-06-30
-abbey		<-->	noun+B2	[220911][1]	./ˈæbi/-NAmE /ˈæbi/
+abbey		<-->	noun+B2	[220911][001]	./ˈæbi/-NAmE /ˈæbi/
 	;tu viện -- a large church together with a group of buildings in which monks or nuns live or lived in the past
 		;Westminster Abbey
 		;a ruined abbey
@@ -10,7 +10,7 @@ abbey		<-->	noun+B2	[220911][1]	./ˈæbi/-NAmE /ˈæbi/
 				;precinct(rang giới)
 
 
-abdicate		<-->	verb+C2	[220911][2]	./ˈæbdɪkeɪt/-NAmE /ˈæbdɪkeɪt/
+abdicate		<-->	verb+C2	[220911][002]	./ˈæbdɪkeɪt/-NAmE /ˈæbdɪkeɪt/
 	;thoái vị -- (Veerb Forms) ​[intransitive, transitive] to give up the position of being king, queen or emperor
 		;He abdicated in favour of his son.
 		;abdicate something She was forced to abdicate the throne of Spain.
@@ -19,7 +19,7 @@ abdicate		<-->	verb+C2	[220911][2]	./ˈæbdɪkeɪt/-NAmE /ˈæbdɪkeɪt/
 		;TOPICS HistoryC2
 
 
-abolition		<-->	noun+C1	[221031][1]	./ˌæbəˈlɪʃn/-NAmE /ˌæbəˈlɪʃn/
+abolition		<-->	noun+C1	[221031][001]	./ˌæbəˈlɪʃn/-NAmE /ˌæbəˈlɪʃn/
 	;sự bãi bỏ -- [uncountable] ​the ending of a law, a system or an institution
 		;the abolition of slavery
 		;The report recommended the complete abolition of the tax.
@@ -27,7 +27,7 @@ abolition		<-->	noun+C1	[221031][1]	./ˌæbəˈlɪʃn/-NAmE /ˌæbəˈlɪʃn/
 		;TOPICS HistoryC1
 
 
-aboriginal		<-->	adjective+C2	[220911][1]	./ˌæbəˈrɪdʒənl/-NAmE /ˌæbəˈrɪdʒənl/
+aboriginal		<-->	adjective+C2	[220911][001]	./ˌæbəˈrɪdʒənl/-NAmE /ˌæbəˈrɪdʒənl/
 	;bản xứ -- ​relating to the original people, animals, etc. of a place and to a period of time before Europeans arrived
 		;the aboriginal peoples of Canada
 		;aboriginal art/culture
@@ -35,14 +35,14 @@ aboriginal		<-->	adjective+C2	[220911][1]	./ˌæbəˈrɪdʒənl/-NAmE /ˌæbəˈ
 		;TOPICS HistoryC2
 
 
-accede		<-->	verb+C2	[220911][1]	./əkˈsiːd/-NAmE /əkˈsiːd/
+accede		<-->	verb+C2	[220911][001]	./əkˈsiːd/-NAmE /əkˈsiːd/
 	;lên ngôi -- [intransitive] (formal) , (Veerb Forms), accede (to something) to achieve a high position, especially to become king or queen
 		;Queen Victoria acceded to the throne in 1837.
 		;Wordfinder: abdicate, accede(đăng quang), crown, king, government, monarch, throne, reign(trị vì, thời gian trị vì), royal, succession
 		;TOPICS SuccessC2, HistoryC2
 
 
-accession		<-->	noun+C2	[221031][1]	./əkˈseʃn/-NAmE /əkˈseʃn/
+accession		<-->	noun+C2	[221031][001]	./əkˈseʃn/-NAmE /əkˈseʃn/
 	;sự lên chức, lên ngôi -- [uncountable] accession (to something) the act of getting a position of rank or power
 		;the accession of Queen Victoria to the throne
 		;Charles I’s accession to the throne
@@ -51,7 +51,7 @@ accession		<-->	noun+C2	[221031][1]	./əkˈseʃn/-NAmE /əkˈseʃn/
 		;TOPICS SuccessC2, HistoryC2
 
 
-action		<-->	noun+B2	[221031][1]	./ˈækʃn/-NAmE /ˈækʃn/
+action		<-->	noun+B2	[221031][001]	./ˈækʃn/-NAmE /ˈækʃn/
 	;sự chiến đấu -- (in war)  [uncountable] fighting in a battle or war
 		;The possibility of taking military action has not been ruled out.
 		;I never saw action during the war.
@@ -67,7 +67,7 @@ action		<-->	noun+B2	[221031][1]	./ˈækʃn/-NAmE /ˈækʃn/
 				;killed in action, missing in action, wounded in action…
 
 
-AD		<-->	abbreviation+C1	[221031][1]	./ˌeɪ ˈdiː/-NAmE /ˌeɪ ˈdiː/
+AD		<-->	abbreviation+C1	[221031][001]	./ˌeɪ ˈdiː/-NAmE /ˌeɪ ˈdiː/
 	;công nguyên, ‘Anno Domini’ -- (also A.D. especially in US English) used in the Christian calendar to show a particular number of years since the year when Christ was believed to have been born (from Latin ‘Anno Domini’)
 		;in (the year) AD 55
 		;in 55 AD
@@ -77,7 +77,7 @@ AD		<-->	abbreviation+C1	[221031][1]	./ˌeɪ ˈdiː/-NAmE /ˌeɪ ˈdiː/
 		;TOPICS TimeC1, HistoryC1
 
 
-age		<-->	noun+B2	[221031][1]	./eɪdʒ/-NAmE /eɪdʒ/
+age		<-->	noun+B2	[221031][001]	./eɪdʒ/-NAmE /eɪdʒ/
 	;thời đại -- [countable] a particular period of history
 		;the nuclear age
 		;We live in an age of globalization.
@@ -88,36 +88,36 @@ age		<-->	noun+B2	[221031][1]	./eɪdʒ/-NAmE /eɪdʒ/
 				;Oxford Collocations Dictionary
 
 
-agrarian revolution		<-->	noun+C2	[221031][1]	./əˌɡreəriən ˌrevəˈluːʃn/-NAmE /əˌɡreriən ˌrevəˈluːʃn/
+agrarian revolution		<-->	noun+C2	[221031][001]	./əˌɡreəriən ˌrevəˈluːʃn/-NAmE /əˌɡreriən ˌrevəˈluːʃn/
 	;thời đại nông nghiệp -- [singular] (often the Agrarian Revolution) ​a period when farming in a country changes completely as a result of new methods or a change in who owns the land
 		;TOPICS HistoryC2
 
 
-ahistorical		<-->	adjective+C2	[220911][1]	./ˌeɪhɪˈstɒrɪkl/-NAmE /ˌeɪhɪˈstɔːrɪkl/
+ahistorical		<-->	adjective+C2	[220911][001]	./ˌeɪhɪˈstɒrɪkl/-NAmE /ˌeɪhɪˈstɔːrɪkl/
 	;tiền sử -- (formal) not showing any knowledge of history or of what has happened before
 		;TOPICS HistoryC2
 
 
-amphitheatre		<-->	noun+C2	[221031][1]	./ˈæmfɪθɪətə(r)/-NAmE /ˈæmfɪθiːətər/
+amphitheatre		<-->	noun+C2	[221031][001]	./ˈæmfɪθɪətə(r)/-NAmE /ˈæmfɪθiːətər/
 	;đấu trường La Mã -- (US English amphitheater) [Image] a round building without a roof and with rows of seats that rise in steps around an open space. Amphitheatres were used especially in ancient Greece and Rome for public entertainments.
 		;The Roman amphitheatre stands just outside the fortress walls.
 		;TOPICS HistoryC2, BuildingsC2
 
 
-anachronism		<-->	noun+C2	[221031][1]	./əˈnækrənɪzəm/-NAmE /əˈnækrənɪzəm/
+anachronism		<-->	noun+C2	[221031][001]	./əˈnækrənɪzəm/-NAmE /əˈnækrənɪzəm/
 	;Việc không hợp thời, sai lầm -- ​[countable, uncountable] something that is placed, for example in a book or play, in the wrong period of history;the fact of placing something in the wrong period of history
 		;The book is full of anachronisms which suggests there were parts rewritten in later centuries.
 		;the charges of anachronism levelled against the film
 		;TOPICS HistoryC2
 
 
-anachronistic		<-->	adjective+C2	[220911][1]	./əˌnækrəˈnɪstɪk/-NAmE /əˌnækrəˈnɪstɪk/
+anachronistic		<-->	adjective+C2	[220911][001]	./əˌnækrəˈnɪstɪk/-NAmE /əˌnækrəˈnɪstɪk/
 	;phản thời -- used to describe something that is placed, for example in a book or play, in the wrong period of history
 		;The costumes were anachronistic for a Victorian play.
 		;TOPICS HistoryC2
 
 
-ancestor		<-->	noun+B2	[221031][1]	./ˈænsestə(r)/-NAmE /ˈænsestər/
+ancestor		<-->	noun+B2	[221031][001]	./ˈænsestə(r)/-NAmE /ˈænsestər/
 ​	;tổ tiên -- a person in your family who lived a long time ago
 		;SYNONYM forebear
 		;His ancestors had come to America from Ireland.
@@ -132,7 +132,7 @@ ancestor		<-->	noun+B2	[221031][1]	./ˈænsestə(r)/-NAmE /ˈænsestər/
 		;be descended from, have, share…
 
 
-ancestry		<-->	noun+C1	[221031][1]	./ˈænsestri/-NAmE /ˈænsestri/
+ancestry		<-->	noun+C1	[221031][001]	./ˈænsestri/-NAmE /ˈænsestri/
 	;tổ tiên -- [countable, usually singular, uncountable], (plural ancestries) the family or the group of people that you come from
 		;to have Scottish ancestry
 		;He was able to trace his ancestry back over 1 000 years.
@@ -150,7 +150,7 @@ ancestry		<-->	noun+C1	[221031][1]	./ˈænsestri/-NAmE /ˈænsestri/
 		;be of Irish, German, etc. ancestry
 
 
-ancient		<-->	adjective+A2	[221031][1]	./ˈeɪnʃənt/-NAmE /ˈeɪnʃənt/
+ancient		<-->	adjective+A2	[221031][001]	./ˈeɪnʃənt/-NAmE /ˈeɪnʃənt/
 ​	;xa xưa, cổ xưa -- belonging to a period of history that is thousands of years in the past
 		;Archaeologists are excavating the ruined temples of this ancient civilization.
 		;ancient Greece/Egypt/Rome
@@ -159,24 +159,24 @@ ancient		<-->	adjective+A2	[221031][1]	./ˈeɪnʃənt/-NAmE /ˈeɪnʃənt/
 		;TOPICS HistoryA2
 
 
-anciently		<-->	adverb+C2	[220911][1]	./ˈeɪnʃəntli/-NAmE /ˈeɪnʃəntli/
+anciently		<-->	adverb+C2	[220911][001]	./ˈeɪnʃəntli/-NAmE /ˈeɪnʃəntli/
 ​	;xa xưa, cổ xưa -- (formal) during a period of history that is thousands of years in the past
 		;the area where the market was anciently held
 		;TOPICS HistoryC2
 
 
-Anglo-Saxon		<-->	noun+C1	[221031][1]	./ˌæŋɡləʊ ˈsæksn/-NAmE /ˌæŋɡləʊ ˈsæksn/
+Anglo-Saxon		<-->	noun+C1	[221031][001]	./ˌæŋɡləʊ ˈsæksn/-NAmE /ˌæŋɡləʊ ˈsæksn/
 	;Người Anh cổ -- [countable] an English person of the period before the Norman Conquest
 		;TOPICS HistoryC1
 
 
-Anglo-Saxon		<-->	adjective+C1	[220911][1]	./ˌæŋɡləʊ ˈsæksn/-NAmE /ˌæŋɡləʊ ˈsæksn/
+Anglo-Saxon		<-->	adjective+C1	[220911][001]	./ˌæŋɡləʊ ˈsæksn/-NAmE /ˌæŋɡləʊ ˈsæksn/
 	;(tt) Người Anh cổ -- of or connected with the period of English history before the Norman Conquest
 		Anglo-Saxon kings
 		TOPICS HistoryC1
 
 
-annex		<-->	verb+C2	[220911][1]	./ˈæneks/,  /əˈneks/-NAmE /ˈæneks/,  /əˈneks/
+annex		<-->	verb+C2	[220911][001]	./ˈæneks/,  /əˈneks/-NAmE /ˈæneks/,  /əˈneks/
 	;sáp nhập, chiếm đóng -- (formal) ​annex something to take control of a country, region, etc., especially by force
 		;SYNONYM occupy
 		;Germany annexed Austria in 1938.
@@ -189,7 +189,7 @@ annex		<-->	verb+C2	[220911][1]	./ˈæneks/,  /əˈneks/-NAmE /ˈæneks/,  /əˈ
 				;to
 
 
-antiquity		<-->	noun+C2	[221031][1]	./ænˈtɪkwəti/-NAmE /ænˈtɪkwəti/
+antiquity		<-->	noun+C2	[221031][001]	./ænˈtɪkwəti/-NAmE /ænˈtɪkwəti/
 	;thời Hy Lạp - La Mã cổ -- (plural antiquities) ​[uncountable] the ancient past, especially the times of the Greeks and Romans
 		;The statue was brought to Rome in antiquity.
 		;classical antiquity
@@ -205,13 +205,13 @@ antiquity		<-->	noun+C2	[221031][1]	./ænˈtɪkwəti/-NAmE /ænˈtɪkwəti/
 				;from antiquity, in antiquity
 
 
-archaeological		<-->	adjective+B2	[221031][1]	./ˌɑːkiəˈlɒdʒɪkl/-NAmE /ˌɑːrkiəˈlɑːdʒɪkl/
+archaeological		<-->	adjective+B2	[221031][001]	./ˌɑːkiəˈlɒdʒɪkl/-NAmE /ˌɑːrkiəˈlɑːdʒɪkl/
 	;(tt) khảo cổ học -- (North American English also archeological) connected with the study of cultures of the past and of periods of history by examining the parts of buildings and objects found in the ground
 		archaeological excavations/evidence
 		TOPICS HistoryB2
 
 
-archaeologist		<-->	noun+B2	[221031][1]	./ˌɑːkiˈɒlədʒɪst/-NAmE /ˌɑːrkiˈɑːlədʒɪst/
+archaeologist		<-->	noun+B2	[221031][001]	./ˌɑːkiˈɒlədʒɪst/-NAmE /ˌɑːrkiˈɑːlədʒɪst/
 	;nhà khảo cổ học -- (North American English also archeologist)
 ​		;a person who studies archaeology
 		;examples of life thousands of years ago, unearthed by archaeologists
@@ -223,7 +223,7 @@ archaeologist		<-->	noun+B2	[221031][1]	./ˌɑːkiˈɒlədʒɪst/-NAmE /ˌɑːrk
 				;excavate something, dig something up, discover something…
 
 
-archaeology		<-->	noun+B2	[221031][1]	./ˌɑːkiˈɒlədʒi/-NAmE /ˌɑːrkiˈɑːlədʒi/
+archaeology		<-->	noun+B2	[221031][001]	./ˌɑːkiˈɒlədʒi/-NAmE /ˌɑːrkiˈɑːlədʒi/
 	;khảo cổ học -- (North American English also archeology) [uncountable] the study of cultures of the past, and of periods of history by examining the parts of buildings and objects found in the ground
 		;SEE ALSO industrial archaeology
 		;TOPICS HistoryB2, Scientific researchB2
@@ -232,25 +232,25 @@ archaeology		<-->	noun+B2	[221031][1]	./ˌɑːkiˈɒlədʒi/-NAmE /ˌɑːrkiˈɑ
 				;Anglo-Saxon, classical, medieval…
 
 
-archaic		<-->	adjective+C2	[220911][1]	./ɑːˈkeɪɪk/-NAmE /ɑːrˈkeɪɪk/
+archaic		<-->	adjective+C2	[220911][001]	./ɑːˈkeɪɪk/-NAmE /ɑːrˈkeɪɪk/
 	;cổ xưa -- from a much earlier or ancient period of history
 		;archaic art
 		;TOPICS HistoryC2
 
 
-archeologist		<-->	noun+B2	[221031][1]	./ˌɑːkiˈɒlədʒɪst/-NAmE /ˌɑːrkiˈɑːlədʒɪst/
+archeologist		<-->	noun+B2	[221031][001]	./ˌɑːkiˈɒlədʒɪst/-NAmE /ˌɑːrkiˈɑːlədʒɪst/
 	;nhà khảo cổ -- (North American English)
 		;(also archaeologist British and North American English)
 ​		;a person who studies archeology
 		;TOPICS HistoryB2, JobsB2
 
 
-archer		<-->	noun+C2	[221031][1]	./ˈɑːtʃə(r)/-NAmE /ˈɑːrtʃər/
+archer		<-->	noun+C2	[221031][001]	./ˈɑːtʃə(r)/-NAmE /ˈɑːrtʃər/
 ​	;cung thủ -- [Image]a person who shoots with a bow and arrows
 		;TOPICS HistoryC2, Sports: other sportsC2
 
 
-archive		<-->	noun+C1	[221031][1]	./ˈɑːkaɪv/-NAmE /ˈɑːrkaɪv/ (also archives [plural])
+archive		<-->	noun+C1	[221031][001]	./ˈɑːkaɪv/-NAmE /ˈɑːrkaɪv/ (also archives [plural])
 	;tài liệu lưu trữ -- a collection of historical documents or records of a government, a family, a place or an organization;the place where these records are stored
 		;the National Sound Archive
 		;archive film
@@ -270,13 +270,13 @@ archive		<-->	noun+C1	[221031][1]	./ˈɑːkaɪv/-NAmE /ˈɑːrkaɪv/ (also archi
 				;among the archives, from an/​the archive, in an/​the archive…
 
 
-archive		<-->	verb+C2	[220911][1]	./ˈɑːkaɪv/-NAmE /ˈɑːrkaɪv/
+archive		<-->	verb+C2	[220911][001]	./ˈɑːkaɪv/-NAmE /ˈɑːrkaɪv/
 	;lưu kho, lưu trữ -- (Veerb Forms)
 ​		;archive something to put or store a document or other material in an archive
 		;TOPICS HistoryC2
 
 
-aristocracy		<-->	noun+C1	[221031][1]	./ˌærɪˈstɒkrəsi/-NAmE /ˌærɪˈstɑːkrəsi/
+aristocracy		<-->	noun+C1	[221031][001]	./ˌærɪˈstɒkrəsi/-NAmE /ˌærɪˈstɑːkrəsi/
 	;tầng lớp quý tộc -- [countable + singular or plural verb] (plural aristocracies) ​(in some countries) people born in the highest social class, who have special titles
 		;SYNONYM nobility
 		;members of the aristocracy
@@ -291,7 +291,7 @@ aristocracy		<-->	noun+C1	[221031][1]	./ˌærɪˈstɒkrəsi/-NAmE /ˌærɪˈstɑ
 				;a member of the aristocracy
 
 
-aristocrat		<-->	noun+C1	[221031][1]	./ˈærɪstəkræt/-NAmE /əˈrɪstəkræt/
+aristocrat		<-->	noun+C1	[221031][001]	./ˈærɪstəkræt/-NAmE /əˈrɪstəkræt/
 ​	;thành viên quý tộc -- a member of the aristocracy
 		;The castle has been owned by a succession of wealthy aristocrats.
 		;COMPARE commoner(thường dân)
@@ -299,7 +299,7 @@ aristocrat		<-->	noun+C1	[221031][1]	./ˈærɪstəkræt/-NAmE /əˈrɪstəkræt/
 		;TOPICS HistoryC1, People in societyC1
 
 
-armour		<-->	noun+C1	[221031][1]	./ˈɑːmə(r)/-NAmE /ˈɑːrmər/
+armour		<-->	noun+C1	[221031][001]	./ˈɑːmə(r)/-NAmE /ˈɑːrmər/
 	;áo giáp sắt -- (US English armor) [uncountable] (Idiooms) ​special metal clothing that soldiers wore in the past to protect their bodies while fighting;special clothing that soldiers or police officers wear to protect their bodies
 		;a suit of armour
 		;police officers in full body armour
@@ -338,23 +338,23 @@ arrow		<-->	noun+B2     /ˈærəʊ/-NAmE /ˈærəʊ/
 				;a bow and arrow
 
 
-art history		<-->	noun+B1	[221031][1]	./ˌɑːt ˈhɪstri/-NAmE /ˌɑːrt ˈhɪstri/
+art history		<-->	noun+B1	[221031][001]	./ˌɑːt ˈhɪstri/-NAmE /ˌɑːrt ˈhɪstri/
 	;nghành lịch sử về nghệ thuật -- [uncountable] the study of the history of painting, sculpture, etc.
 		;TOPICS HistoryB1
 
 
-barbarian		<-->	noun+C2	[221031][1]	./bɑːˈbeəriən/-NAmE /bɑːrˈberiən/
+barbarian		<-->	noun+C2	[221031][001]	./bɑːˈbeəriən/-NAmE /bɑːrˈberiən/
 	;người man di châu Âu -- (in ancient times) a member of a people who did not belong to one of the great civilizations (Greek, Roman, Christian), who were considered to be violent and without culture
 		;barbarian invasions of the fifth century
 		;TOPICS HistoryC2
 
 
-baron		<-->	noun+C1	[221031][1]	./ˈbærən/-NAmE /ˈbærən/
+baron		<-->	noun+C1	[221031][001]	./ˈbærən/-NAmE /ˈbærən/
 	;chúa đất -- a nobleman(nhà quý tộc) of the lowest rank. In the UK, barons use the title Lord;in other countries they use the title Baron.
 		;TOPICS HistoryC1, People in societyC1
 
 
-baroque		<-->	adjective+C2	[220911][1]	./bəˈrɒk/-NAmE /bəˈrəʊk/
+baroque		<-->	adjective+C2	[220911][001]	./bəˈrɒk/-NAmE /bəˈrəʊk/
 	;(tt) nghệ thuật châu Âu thế kỷ 17-18 -- (also Baroque) [usually before noun] ​used to describe European architecture, art and music of the 17th and early 18th centuries that has a grand and highly decorated style
 		;baroque churches/music
 		;the baroque period
@@ -364,14 +364,14 @@ baroque		<-->	adjective+C2	[220911][1]	./bəˈrɒk/-NAmE /bəˈrəʊk/
 				;cathedral, era, music…
 
 
-bath		<-->	noun+C1	[221031][1]	./bɑːθ/-NAmE /bæθ/ (plural baths  /bɑːðz/  /bæðz/)
+bath		<-->	noun+C1	[221031][001]	./bɑːθ/-NAmE /bæθ/ (plural baths  /bɑːðz/  /bæðz/)
 	;nhà tắm công cộng -- ​[countable, usually plural] a public place where people went in the past to wash or have a bath
 		;Roman villas and baths
 		;SEE ALSO Turkish bath
 		;TOPICS HistoryC1
 
 
-battle		<-->	noun+B1	[221031][1]	./ˈbætl/-NAmE /ˈbætl/
+battle		<-->	noun+B1	[221031][001]	./ˈbætl/-NAmE /ˈbætl/
 	;chiến trường, chiến tranh -- (Idiooms)  [countable, uncountable] a fight between armies, ships or planes, especially during a war;a violent fight between groups of people
 		;Napoleon was defeated at the Battle of Waterloo.
 		;in battle His father had been killed in battle.
@@ -393,19 +393,19 @@ battle		<-->	noun+B1	[221031][1]	./ˈbætl/-NAmE /ˈbætl/
 				;battle against, battle bet, ween, battle with…
 
 
-battlefield		<-->	noun+C1	[221031][1]	./ˈbætlfiːld/-NAmE /ˈbætlfiːld/
+battlefield		<-->	noun+C1	[221031][001]	./ˈbætlfiːld/-NAmE /ˈbætlfiːld/
 	;chiến trường -- (also battleground)​ a place where a battle is being fought or has been fought
 		;heavy casualties on the battlefield
 		;He was wounded on the battlefield.
 		;TOPICS HistoryC1
 
 
-battlements		<-->	noun+C2	[221031][1]	./ˈbætlmənts/-NAmE /ˈbætlmənts/
+battlements		<-->	noun+C2	[221031][001]	./ˈbætlmənts/-NAmE /ˈbætlmənts/
 	;tường thành -- [plural] [Images]-TheBuilding, e a low wall around the top of a castle with spaces in it that people inside could shoot through
 		;TOPICS HistoryC2
 
 
-BC		<-->	abbreviation+C1	[221031][1]	./ˌbiː ˈsiː/-NAmE /ˌbiː ˈsiː/
+BC		<-->	abbreviation+C1	[221031][001]	./ˌbiː ˈsiː/-NAmE /ˌbiː ˈsiː/
 	;trước công nguyên -- ​before Christ (also B.C. especially in US English) (used in the Christian calendar to show a particular number of years before the year when Christ is believed to have been born)
 		;in (the year) 2000 BC
 		;the third century BC
@@ -414,7 +414,7 @@ BC		<-->	abbreviation+C1	[221031][1]	./ˌbiː ˈsiː/-NAmE /ˌbiː ˈsiː/
 		;TOPICS TimeC1, HistoryC1
 
 
-BCE		<-->	abbreviation+C1	[221031][1]	./ˌbiː siː ˈiː/-NAmE /ˌbiː siː ˈiː/
+BCE		<-->	abbreviation+C1	[221031][001]	./ˌbiː siː ˈiː/-NAmE /ˌbiː siː ˈiː/
 	;trước công nguyên -- (also B.C.E. especially in US English) ​before the Common Era (before the birth of Christ, when the Christian calendar starts counting years. BCE can be used to give dates in the same way as BC)
 		;in (the year) 2 000 BCE
 		;the third century BCE
@@ -423,37 +423,37 @@ BCE		<-->	abbreviation+C1	[221031][1]	./ˌbiː siː ˈiː/-NAmE /ˌbiː siː ˈi
 		;TOPICS TimeC1, HistoryC1
 
 
-behead		<-->	verb+C2	[220911][1]	./bɪˈhed/-NAmE /bɪˈhed/ [usually passive]
+behead		<-->	verb+C2	[220911][001]	./bɪˈhed/-NAmE /bɪˈhed/ [usually passive]
 	;chặt đầu -- == (1) behead somebody to cut off somebody’s head, especially as a punishment
 		;SYNONYM decapitate
 		;He was charged with treason and beheaded.
 		;TOPICS HistoryC2
 
 
-belle époque		<-->	noun+C2	[221031][1]	./ˌbel eɪˈpɒk/-NAmE /ˌbel eɪˈpɔːk/
+belle époque		<-->	noun+C2	[221031][001]	./ˌbel eɪˈpɒk/-NAmE /ˌbel eɪˈpɔːk/
 	;thời thái bình trước thế chiến I -- [singular] (from French)
 ​		;the period of comfortable and peaceful life before World War I
 		;TOPICS HistoryC2
 
 
-bibliographer		<-->	noun+C2	[221031][1]	./ˌbɪbliˈɒɡrəfə(r)/-NAmE /ˌbɪbliˈɑːɡrəfər/
+bibliographer		<-->	noun+C2	[221031][001]	./ˌbɪbliˈɒɡrəfə(r)/-NAmE /ˌbɪbliˈɑːɡrəfər/
 ​	;người nghiên cứu sách, thư mục cũ -- a person who studies the history of books and their production
 		TOPICS HistoryC2
 
 
-bibliographical		<-->	adjective+C2	[220911][1]	./ˌbɪbliəˈɡræfɪkl/-NAmE /ˌbɪbliəˈɡræfɪkl/, (also bibliographic  /ˌbɪbliəˈɡræfɪk/  /ˌbɪbliəˈɡræfɪk/)
+bibliographical		<-->	adjective+C2	[220911][001]	./ˌbɪbliəˈɡræfɪkl/-NAmE /ˌbɪbliəˈɡræfɪkl/, (also bibliographic  /ˌbɪbliəˈɡræfɪk/  /ˌbɪbliəˈɡræfɪk/)
 	;(tt) -- connected with the study of the history of books and their production
 		;a bibliographical essay
 		;TOPICS HistoryC2
 
 
-bibliography		<-->	noun+C1	[221031][1]	./ˌbɪbliˈɒɡrəfi/-NAmE /ˌbɪbliˈɑːɡrəfi/
+bibliography		<-->	noun+C1	[221031][001]	./ˌbɪbliˈɒɡrəfi/-NAmE /ˌbɪbliˈɑːɡrəfi/
 (plural bibliographies)
 	;-- ​[uncountable] the study of the history of books and their production
 TOPICS HistoryC1
 
 
-bow		<-->	noun+C1	[221031][1]	./bəʊ/-NAmE /bəʊ/
+bow		<-->	noun+C1	[221031][001]	./bəʊ/-NAmE /bəʊ/
 	;cung -- (Idiooms), ​[Image]a weapon used for shooting arrows, consisting of a long curved piece of wood or metal with a tight string joining its ends
 		;He was armed with a bow and arrow.
 		;She drew and aimed her bow.
@@ -465,7 +465,7 @@ bow		<-->	noun+C1	[221031][1]	./bəʊ/-NAmE /bəʊ/
 				;a bow and arrow
 
 
-bygone		<-->	adjective+C2	[220911][1]	./ˈbaɪɡɒn/-NAmE /ˈbaɪɡɔːn/
+bygone		<-->	adjective+C2	[220911][001]	./ˈbaɪɡɒn/-NAmE /ˈbaɪɡɔːn/
 	;xuyên suốt -- [only before noun]
 ​		;happening or existing a long time ago
 		;a bygone age/era
@@ -477,18 +477,18 @@ bygone		<-->	adjective+C2	[220911][1]	./ˈbaɪɡɒn/-NAmE /ˈbaɪɡɔːn/
 				;age, era
 
 
-C		<-->	abbreviation+C2	[221031][1]	./siː/-NAmE /siː/
+C		<-->	abbreviation+C2	[221031][001]	./siː/-NAmE /siː/
 	;thế kỷ -- ​(also C) (in writing) century, in the 19th c (North American English) a C19th church
 		;SEE ALSO cent.
 		;TOPICS HistoryC2
 
 
-Cambrian		<-->	adjective+C2	[220911][1]	./ˈkæmbriən/-NAmE /ˈkæmbriən/
+Cambrian		<-->	adjective+C2	[220911][001]	./ˈkæmbriən/-NAmE /ˈkæmbriən/
 ​	;kỷ đá -- (geology) of the first period of the Palaeozoic;of the rocks formed during this time
 		;TOPICS HistoryC2
 
 
-cannon		<-->	noun+C1	[221031][1]	./ˈkænən/-NAmE /ˈkænən/
+cannon		<-->	noun+C1	[221031][001]	./ˈkænən/-NAmE /ˈkænən/
 	;súng thần công -- (plural cannon, cannons) ​an old type of large, heavy gun, usually on wheels, that fires solid metal or stone balls
 		;Three cannon opened fire.
 		;SEE ALSO loose cannon, snow cannon, water cannon
@@ -504,19 +504,19 @@ cannon		<-->	noun+C1	[221031][1]	./ˈkænən/-NAmE /ˈkænən/
 				;ball, shell, blast…
 
 
-carbon dating		<-->	noun+C1	[221031][1]	./ˌkɑːbən ˈdeɪtɪŋ/-NAmE /ˌkɑːrbən ˈdeɪtɪŋ/
+carbon dating		<-->	noun+C1	[221031][001]	./ˌkɑːbən ˈdeɪtɪŋ/-NAmE /ˌkɑːrbən ˈdeɪtɪŋ/
 	;(also formal radiocarbon dating)
 	;cách tính tuổi dựa theo phóng xạ carbon -- [uncountable] a method of calculating the age of very old objects by measuring the amounts of different forms of carbon in them
 		;TOPICS Scientific researchC1, HistoryC1
 
 
-carboniferous		<-->	adjective+C2	[220911][1]	./ˌkɑːbəˈnɪfərəs/-NAmE /ˌkɑːrbəˈnɪfərəs/
+carboniferous		<-->	adjective+C2	[220911][001]	./ˌkɑːbəˈnɪfərəs/-NAmE /ˌkɑːrbəˈnɪfərəs/
 	;(geology)
 	;thời kỳ than hình thành -- Carboniferous of the period in the earth’s history when layers of coal were formed underground	
 		;TOPICS HistoryC2
 
 
-carriage		<-->	noun+C1	[221031][1]	./ˈkærɪdʒ/-NAmE /ˈkærɪdʒ/
+carriage		<-->	noun+C1	[221031][001]	./ˈkærɪdʒ/-NAmE /ˈkærɪdʒ/
 	;xe cộ --  [countable] a road vehicle, usually with four wheels, that is pulled by one or more horses and was used in the past to carry people
 		;a horse-drawn carriage
 		;Extra Examples
@@ -530,7 +530,7 @@ carriage		<-->	noun+C1	[221031][1]	./ˈkærɪdʒ/-NAmE /ˈkærɪdʒ/
 				;in a/​the carriage
 
 
-castle		<-->	noun+A2	[221031][1]	./ˈkɑːsl/-NAmE /ˈkæsl/
+castle		<-->	noun+A2	[221031][001]	./ˈkɑːsl/-NAmE /ˈkæsl/
 	;lâu đài có quân sự -- a large strong building with thick, high walls and towers, built in the past by kings or queens, or other important people, to defend themselves against attack
 		;a medieval castle
 		;Windsor Castle
@@ -553,7 +553,7 @@ castle		<-->	noun+A2	[221031][1]	./ˈkɑːsl/-NAmE /ˈkæsl/
 				;in a/​the castle
 
 
-cavalry		<-->	noun+C2	[221031][1]	./ˈkævlri/-NAmE /ˈkævlri/
+cavalry		<-->	noun+C2	[221031][001]	./ˈkævlri/-NAmE /ˈkævlri/
 	;kỵ binh -- (usually the cavalry) [singular + singular or plural verb]	
 	;(in the past) the part of the army that fought on horses;the part of the modern army that uses armoured vehicles
 		;The cavalry charged up the hill to engage the rebels.
@@ -563,14 +563,14 @@ cavalry		<-->	noun+C2	[221031][1]	./ˈkævlri/-NAmE /ˈkævlri/
 				;charge, horse
 
 
-CE		<-->	abbreviation+C1	[221031][1]	./ˌsiː ˈiː/-NAmE /ˌsiː ˈiː/
+CE		<-->	abbreviation+C1	[221031][001]	./ˌsiː ˈiː/-NAmE /ˌsiː ˈiː/
 	;công nguyên -- ​(also C.E. especially in US English) Common Era,  (the period since the birth of Christ when the Christian calendar starts counting years). CE can be used to give dates in the same way as AD.
 		;COMPARE AD, BC, BCE
 		;Culture the calendar
 		;TOPICS TimeC1, HistoryC1
 
 
-cede		<-->	verb+C2	[220911][1]	./siːd/-NAmE /siːd/
+cede		<-->	verb+C2	[220911][001]	./siːd/-NAmE /siːd/
 	;nhượng lại, nhượng bộ -- (Veerb Forms) (formal) cede something (to somebody) to give somebody control of something or give them power, a right, etc., especially unwillingly
 		;Cuba was ceded by Spain to the US in 1898.
 		;SEE ALSO cession
@@ -580,7 +580,7 @@ cede		<-->	verb+C2	[220911][1]	./siːd/-NAmE /siːd/
 				;authority, control, sovereignty…
 
 
-Celtic		<-->	adjective+C2	[220911][1]	./ˈkeltɪk/-NAmE /ˈkeltɪk/
+Celtic		<-->	adjective+C2	[220911][001]	./ˈkeltɪk/-NAmE /ˈkeltɪk/
 ​	;(tt)người Celts -- connected with the Celts or their language
 		;Celtic history
 		;TOPICS HistoryC2
@@ -589,7 +589,7 @@ Celtic		<-->	adjective+C2	[220911][1]	./ˈkeltɪk/-NAmE /ˈkeltɪk/
 				;cross
 
 
-century		<-->	noun+A1	[221031][1]	./ˈsentʃəri/-NAmE /ˈsentʃəri/
+century		<-->	noun+A1	[221031][001]	./ˈsentʃəri/-NAmE /ˈsentʃəri/
 	;thế kỷ -- (plural centuries), (Idiooms) ​,   a period of 100 years
 		;A century ago, Valparaiso was the country's main port.
 		;He was born more than a century after the death of Confucius.
@@ -611,12 +611,12 @@ century		<-->	noun+A1	[221031][1]	./ˈsentʃəri/-NAmE /ˈsentʃəri/
 		;centuries old, the turn of the century
 
 
-chaperone		<-->	noun+C2	[221031][1]	./ˈʃæpərəʊn/-NAmE /ˈʃæpərəʊn/
+chaperone		<-->	noun+C2	[221031][001]	./ˈʃæpərəʊn/-NAmE /ˈʃæpərəʊn/
 	;người đi kèm, giám hộ -- (also chaperon) (in the past) an older woman who, on social occasions, took care of a young woman who was not married
 		;TOPICS HistoryC2
 
 
-chapter		<-->	noun+C1	[221031][1]	./ˈtʃæptə(r)/-NAmE /ˈtʃæptər/
+chapter		<-->	noun+C1	[221031][001]	./ˈtʃæptə(r)/-NAmE /ˈtʃæptər/
 	;một chương của cuộc đời​ -- [countable] a period of time in a person’s life or in history
 		;a difficult chapter in our country’s history
 		;Her return to Kansas ended a particularly unhappy chapter in her life.
@@ -626,19 +626,19 @@ chapter		<-->	noun+C1	[221031][1]	./ˈtʃæptə(r)/-NAmE /ˈtʃæptər/
 		;difficult, sad, unhappy…
 
 
-chariot		<-->	noun+C1	[221031][1]	./ˈtʃæriət/-NAmE /ˈtʃæriət/
+chariot		<-->	noun+C1	[221031][001]	./ˈtʃæriət/-NAmE /ˈtʃæriət/
 ​	;xe ngựa -- an open vehicle with two wheels, pulled by horses, used in ancient times in battle and for racing
 		;TOPICS HistoryC1
 
 
-chronicle		<-->	noun+C2	[221031][1]	./ˈkrɒnɪkl/-NAmE /ˈkrɑːnɪkl/
+chronicle		<-->	noun+C2	[221031][001]	./ˈkrɒnɪkl/-NAmE /ˈkrɑːnɪkl/
 ​	;sự ghi chép lại -- a written record of events in the order in which they happened
 		;the Anglo-Saxon Chronicle
 		;Her latest novel is a chronicle of life in a Devon village.
 		;TOPICS HistoryC2
 
 
-chronological		<-->	adjective+C1	[220911][1]	./ˌkrɒnəˈlɒdʒɪkl/-NAmE /ˌkrɑːnəˈlɑːdʒɪkl/
+chronological		<-->	adjective+C1	[220911][001]	./ˌkrɒnəˈlɒdʒɪkl/-NAmE /ˌkrɑːnəˈlɑːdʒɪkl/
 ​	;theo niên đại -- (of a number of events) arranged in the order in which they happened
 		;The facts should be presented in chronological order.
 		;a strictly chronological account of the events
@@ -658,13 +658,13 @@ chronology		<-->	noun+C1     /krəˈnɒlədʒi/-NAmE /krəˈnɑːlədʒi/
 		;TOPICS HistoryC1
 
 
-circa		<-->	preposition+C2	[221031][1]	./ˈsɜːkə/-NAmE /ˈsɜːrkə/
+circa		<-->	preposition+C2	[221031][001]	./ˈsɜːkə/-NAmE /ˈsɜːrkə/
 	;về -- (from Latin) (abbreviation c)(used with dates) about 
 		;born circa 150 BC
 		;TOPICS HistoryC2
 
 
-civilization		<-->	noun+B2	[221031][1]	./ˌsɪvəlaɪˈzeɪʃn/-NAmE /ˌsɪvələˈzeɪʃn/
+civilization		<-->	noun+B2	[221031][001]	./ˌsɪvəlaɪˈzeɪʃn/-NAmE /ˌsɪvələˈzeɪʃn/
 	;nền văn minh --  [uncountable, countable] a society, its culture and its way of life during a particular period of time or in a particular part of the world
 		;the civilizations of ancient Greece and Rome
 		;diseases that are common in Western civilization
@@ -681,7 +681,7 @@ civilization		<-->	noun+B2	[221031][1]	./ˌsɪvəlaɪˈzeɪʃn/-NAmE /ˌsɪvəl�
 		;the beginnings of civilization, the dawn(bình minh) of civilization, civilization as we know it
 
 
-civil war		<-->	noun+C1	[221031][1]	./ˌsɪvl ˈwɔː(r)/-NAmE /ˌsɪvl ˈwɔːr/
+civil war		<-->	noun+C1	[221031][001]	./ˌsɪvl ˈwɔː(r)/-NAmE /ˌsɪvl ˈwɔːr/
 ​	;nội chiến -- [countable, uncountable] a war between groups of people in the same country
 		;the Spanish Civil War
 		;30 years of bitter civil war
@@ -750,7 +750,7 @@ civil war		<-->	noun+C1	[221031][1]	./ˌsɪvl ˈwɔː(r)/-NAmE /ˌsɪvl ˈwɔːr
 		;TOPICS HistoryC1, War and conflictC1
 
 
-classical		<-->	adjective+B2	[221031][1]	./ˈklæsɪkl/-NAmE /ˈklæsɪkl/
+classical		<-->	adjective+B2	[221031][001]	./ˈklæsɪkl/-NAmE /ˈklæsɪkl/
 	;cổ điển, liên quan đến Hy Lạp-La Mã -- [usually before noun] connected with or influenced by the culture of ancient Greece and Rome
 		;classical studies
 		;a classical scholar (= an expert in Latin and Greek)
@@ -777,13 +777,13 @@ coach		<-->	noun+C2     /kəʊtʃ/-NAmE /kəʊtʃ/
 		;a coach and horses
 
 
-cobbles		<-->	noun+C2	[221031][1]	./ˈkɒblz/-NAmE /ˈkɑːblz/
+cobbles		<-->	noun+C2	[221031][001]	./ˈkɒblz/-NAmE /ˈkɑːblz/
 	;đá cuội lót đường -- (also cobblestones) [plural] ​small round stones used to make the surfaces of roads, especially in the past
 		;a cart clattering over the cobbles
 		;TOPICS HistoryC2, Transport by car or lorryC2
 
 
-colony		<-->	noun+B2	[221031][1]	./ˈkɒləni/-NAmE /ˈkɑːləni/
+colony		<-->	noun+B2	[221031][001]	./ˈkɒləni/-NAmE /ˈkɑːləni/
 	;thuộc địa -- (plural colonies)​ [countable] a country or an area that is governed by people from another, more powerful, country
 		;former British colonies
 		;the Declaration of Independence of the 13 colonies and the creation of the United States
@@ -798,12 +798,12 @@ colony		<-->	noun+B2	[221031][1]	./ˈkɒləni/-NAmE /ˈkɑːləni/
 		;in a/​the colony
 
 
-commonwealth		<-->	noun+C2	[221031][1]	./ˈkɒmənwelθ/-NAmE /ˈkɑːmənwelθ/
+commonwealth		<-->	noun+C2	[221031][001]	./ˈkɒmənwelθ/-NAmE /ˈkɑːmənwelθ/
 	;khối thịnh vượng chung -- [singular] ​the Commonwealth a period (1649–60) in English history when the country was governed without a king or queen. For the first four years after the death of King Charles I, the country was governed by the House of Commons. Then in 1653 the army gave power to Oliver Cromwell with the title of Lord Protector. The years 1653–9 are therefore known as the Protectorate . The Commonwealth ended with the Restoration of King Charles II.
 		;TOPICS HistoryC2
 
 
-conquer		<-->	verb+C1	[220911][1]	./ˈkɒŋkə(r)/-NAmE /ˈkɑːŋkər/
+conquer		<-->	verb+C1	[220911][001]	./ˈkɒŋkə(r)/-NAmE /ˈkɑːŋkər/
 	;chinh phạt -- conquer somebody/something to take control of a country or city and its people by force
 		;The Normans conquered England in 1066.
 		;In 330 BC Persia was conquered by Alexander the Great.
@@ -812,7 +812,7 @@ conquer		<-->	verb+C1	[220911][1]	./ˈkɒŋkə(r)/-NAmE /ˈkɑːŋkər/
 		;TOPICS HistoryC1, War and conflictC1
 
 
-conqueror		<-->	noun+C1	[221031][1]	./ˈkɒŋkərə(r)/-NAmE /ˈkɑːŋkərər/
+conqueror		<-->	noun+C1	[221031][001]	./ˈkɒŋkərə(r)/-NAmE /ˈkɑːŋkərər/
 ​	;nhà chinh phạt -- a person who conquers
 		;William the Conqueror (= King William I of England)
 		;After numerous defeats in the boxing ring the conquered finally became the conqueror.
@@ -820,7 +820,7 @@ conqueror		<-->	noun+C1	[221031][1]	./ˈkɒŋkərə(r)/-NAmE /ˈkɑːŋkərər/
 		;TOPICS HistoryC1, War and conflictC1
 
 
-conquest		<-->	noun+C2	[221031][1]	./ˈkɒŋkwest/-NAmE /ˈkɑːŋkwest/
+conquest		<-->	noun+C2	[221031][001]	./ˈkɒŋkwest/-NAmE /ˈkɑːŋkwest/
 ​	;cuộc chinh phạt -- [countable, uncountable] the act of taking control of a country, city, etc. by force
 		;the Norman Conquest (= of England in 1066)
 		;Extra Examples
@@ -834,7 +834,7 @@ conquest		<-->	noun+C2	[221031][1]	./ˈkɒŋkwest/-NAmE /ˈkɑːŋkwest/
 		;by conquest, through conquest, conquest of…
 
 
-contemporary		<-->	adjective+B2	[221031][1]	./kənˈtemprəri/-NAmE /kənˈtempəreri/
+contemporary		<-->	adjective+B2	[221031][001]	./kənˈtemprəri/-NAmE /kənˈtempəreri/
 ​	;đương thời -- belonging to the same time
 		;We have no contemporary account of the battle (= written near the time that it happened).
 		;contemporary with somebody/something He was contemporary with the dramatist Congreve.
@@ -850,13 +850,13 @@ contemporary		<-->	adjective+B2	[221031][1]	./kənˈtemprəri/-NAmE /kənˈtemp�
 		;with
 
 
-continental drift		<-->	noun+C2	[221031][1]	./ˌkɒntɪnentl ˈdrɪft/-NAmE /ˌkɑːntɪnentl ˈdrɪft/
+continental drift		<-->	noun+C2	[221031][001]	./ˌkɒntɪnentl ˈdrɪft/-NAmE /ˌkɑːntɪnentl ˈdrɪft/
 	;sự trôi dạt lục đại -- [uncountable] (geology) ​the slow movement of the continents towards and away from each other during the history of the earth
 		;SEE ALSO plate tectonics
 		;TOPICS HistoryC2
 
 
-coronation		<-->	noun+C2	[221031][1]	./ˌkɒrəˈneɪʃn/-NAmE /ˌkɔːrəˈneɪʃn/
+coronation		<-->	noun+C2	[221031][001]	./ˌkɒrəˈneɪʃn/-NAmE /ˌkɔːrəˈneɪʃn/
 	;lễ đăng quang -- a ceremony at which a crown (= an object in the shape of a circle, usually made of gold and precious stones) is formally placed on the head of a new king or queen and they officially become king or queen 
 		;Culture
 		;TOPICS HistoryC2
@@ -865,7 +865,7 @@ coronation		<-->	noun+C2	[221031][1]	./ˌkɒrəˈneɪʃn/-NAmE /ˌkɔːrəˈneɪ
 		;robe
 
 
-costume		<-->	noun+B1	[221031][1]	./ˈkɒstjuːm/-NAmE /ˈkɑːstuːm/
+costume		<-->	noun+B1	[221031][001]	./ˈkɒstjuːm/-NAmE /ˈkɑːstuːm/
 	;trang phục cổ -- [countable, uncountable] the clothes worn by people from a particular place or during a particular historical period
 		;an exhibition of Victorian costumes
 		;She wore a traditional costume of bright pink silk.
@@ -884,12 +884,12 @@ costume		<-->	noun+B1	[221031][1]	./ˈkɒstjuːm/-NAmE /ˈkɑːstuːm/
 		;in costume
 
 
-Cretaceous		<-->	adjective+C2	[220911][1]	./krɪˈteɪʃəs/-NAmE /krɪˈteɪʃəs/
+Cretaceous		<-->	adjective+C2	[220911][001]	./krɪˈteɪʃəs/-NAmE /krɪˈteɪʃəs/
 	;kỷ phấn trắng -- (geology) belonging to the period between around 146 and 65 million years ago, when dinosaurs lived (until they died out);relating to the rocks formed during this time
 		;TOPICS HistoryC2
 
 
-crown		<-->	noun+C1	[221031][1]	./kraʊn/-NAmE /kraʊn/
+crown		<-->	noun+C1	[221031][001]	./kraʊn/-NAmE /kraʊn/
 	;vương miện -- ((Idiooms)), (of king/queen) [countable] an object in the shape of a circle, usually made of gold and precious stones, that a king or queen wears on his or her head on official occasions
 		;The crown was placed upon the new monarch's head.
 		;the emperor's jewel-encrusted crown
@@ -902,14 +902,14 @@ crown		<-->	noun+C1	[221031][1]	./kraʊn/-NAmE /kraʊn/
 		;wear, place, put on…
 
 
-crown		<-->	verb+C1	[220911][1]	./kraʊn/-NAmE /kraʊn/
+crown		<-->	verb+C1	[220911][001]	./kraʊn/-NAmE /kraʊn/
 	;đội vương miệng -- (Veerb Forms) (Idiooms) (king/queen), ​[often passive] to put a crown on the head of a new king or queen as a sign of royal power in a ceremony at which they officially become king or queen
 		;be crowned Queen Elizabeth was crowned in 1953.
 		;be crowned + noun The prince was soon to be crowned King of England.
 		;TOPICS HistoryC1
 
 
-crusade		<-->	noun+C2	[221031][1]	./kruːˈseɪd/-NAmE /kruːˈseɪd/
+crusade		<-->	noun+C2	[221031][001]	./kruːˈseɪd/-NAmE /kruːˈseɪd/
 	;cuộc thập tự chinh -- (sometimes Crusade) any of the wars fought in Palestine by European Christian countries against the Muslims in the Middle Ages
 		;Culture
 		;TOPICS HistoryC2, War and conflictC2
@@ -922,19 +922,19 @@ crusade		<-->	noun+C2	[221031][1]	./kruːˈseɪd/-NAmE /kruːˈseɪd/
 		;on a crusade, crusade against, crusade for…
 
 
-czar		<-->	noun+C2	[221031][1]	./zɑː(r)/-NAmE /zɑːr/
+czar		<-->	noun+C2	[221031][001]	./zɑː(r)/-NAmE /zɑːr/
 	;sa hoàng -- (also tzar, tsar) the emperor of Russia in the past
 		;Czar Nicholas II
 		;TOPICS HistoryC2, People in societyC2
 
 
-datable		<-->	adjective+C1	[220911][1]	./ˈdeɪtəbl/-NAmE /ˈdeɪtəbl/
+datable		<-->	adjective+C1	[220911][001]	./ˈdeɪtəbl/-NAmE /ˈdeɪtəbl/
 	;xác định được -- (also dateable) that can be dated to a particular time
 		;pottery that is datable to the second century
 		;TOPICS HistoryC1
 
 
-date		<-->	noun+A1	[221031][1]	./deɪt/-NAmE /deɪt/
+date		<-->	noun+A1	[221031][001]	./deɪt/-NAmE /deɪt/
 	;ngày cụ thể -- (Idiooms) (particular day/year)​  [countable] a particular day of the month, sometimes in a particular year, given in numbers and words
 		;‘What's the date today?’ ‘The 10th.’
 		;Write today's date at the top of the page.
@@ -963,7 +963,7 @@ date		<-->	noun+A1	[221031][1]	./deɪt/-NAmE /deɪt/
 		;the big date, at a future date, at some future date…
 
 
-day		<-->	noun+B1	[221031][1]	./deɪ/-NAmE /deɪ/
+day		<-->	noun+B1	[221031][001]	./deɪ/-NAmE /deɪ/
 	;giai đoạn lịch sử --  [countable, usually plural] a particular period of time or history
 		;in somebody's day in Queen Victoria’s day
 		;in the days of something in the days of the industrial revolution
@@ -983,7 +983,7 @@ day		<-->	noun+B1	[221031][1]	./deɪ/-NAmE /deɪ/
 		;gone are the days when…, the bad old days, the good old days…
 
 
-descendant		<-->	noun+C1	[221031][1]	./dɪˈsendənt/-NAmE /dɪˈsendənt/
+descendant		<-->	noun+C1	[221031][001]	./dɪˈsendənt/-NAmE /dɪˈsendənt/
 	;con cháu, hậu duệ -- a person’s descendants are their children, their children’s children, and all the people who live after them who are related to them
 		;He was an O'Conor and a direct descendant of the last High King of Ireland.
 		;Many of them are descendants of the original settlers.
@@ -993,7 +993,7 @@ descendant		<-->	noun+C1	[221031][1]	./dɪˈsendənt/-NAmE /dɪˈsendənt/
 		;direct, lineal, immediate…
 
 
-descent		<-->	noun+C2	[221031][1]	./dɪˈsent/-NAmE /dɪˈsent/
+descent		<-->	noun+C2	[221031][001]	./dɪˈsent/-NAmE /dɪˈsent/
 	;tổ tiên -- [uncountable] a person’s family origins
 		;SYNONYM ancestry
 		;to be of Scottish descent
@@ -1012,7 +1012,7 @@ descent		<-->	noun+C2	[221031][1]	./dɪˈsent/-NAmE /dɪˈsent/
 		;a line of descent, of Mexican, Scottish, etc. descent
 
 
-dig		<-->	noun+C2	[221031][1]	./dɪɡ/-NAmE /dɪɡ/
+dig		<-->	noun+C2	[221031][001]	./dɪɡ/-NAmE /dɪɡ/
 	;khai quật -- ​an occasion when an organized group of people dig in the ground to discover old buildings or objects, in order to find out more about their history
 		;SYNONYM excavation
 		;to go on a dig
@@ -1028,29 +1028,29 @@ dig		<-->	noun+C2	[221031][1]	./dɪɡ/-NAmE /dɪɡ/
 		;reveal something
 
 
-drawbridge		<-->	noun+C2	[221031][1]	./ˈdrɔːbrɪdʒ/-NAmE /ˈdrɔːbrɪdʒ/
+drawbridge		<-->	noun+C2	[221031][001]	./ˈdrɔːbrɪdʒ/-NAmE /ˈdrɔːbrɪdʒ/
 	;cầu treo pháo đài, lâu đài -- a bridge that can be pulled up, for example to stop people from entering a castle or to allow ships to pass under it
 		;to raise/lower the drawbridge
 		;TOPICS HistoryC2, BuildingsC2
 
 
-dungeon		<-->	noun+C1	[221031][1]	./ˈdʌndʒən/-NAmE /ˈdʌndʒən/
+dungeon		<-->	noun+C1	[221031][001]	./ˈdʌndʒən/-NAmE /ˈdʌndʒən/
 ​	;hầm tối -- a dark underground room used as a prison, especially in a castle
 		;Throw him into the dungeons!
 		;TOPICS HistoryC1, BuildingsC1
 
 
-Egyptologist		<-->	noun+C2	[221031][1]	./ˌiːdʒɪpˈtɒlədʒɪst/-NAmE /ˌiːdʒɪpˈtɑːlədʒɪst/
+Egyptologist		<-->	noun+C2	[221031][001]	./ˌiːdʒɪpˈtɒlədʒɪst/-NAmE /ˌiːdʒɪpˈtɑːlədʒɪst/
 ​	;nhà Ai Cập học -- a person who studies the language, history and culture of ancient Egypt
 		;TOPICS HistoryC2	
 
 
-Egyptology		<-->	noun+C2	[221031][1]	./ˌiːdʒɪpˈtɒlədʒi/-NAmE /ˌiːdʒɪpˈtɑːlədʒi/
+Egyptology		<-->	noun+C2	[221031][001]	./ˌiːdʒɪpˈtɒlədʒi/-NAmE /ˌiːdʒɪpˈtɑːlədʒi/
 	;nghành Ai Cập học -- [uncountable] ​the study of the language, history and culture of ancient Egypt
 		;TOPICS HistoryC2
 
 
-emperor		<-->	noun+B2	[221031][1]	./ˈempərə(r)/-NAmE /ˈempərər/
+emperor		<-->	noun+B2	[221031][001]	./ˈempərə(r)/-NAmE /ˈempərər/
 	;hoàng đế -- (Idiooms) ​the ruler of an empire
 		;the Roman emperors
 		;the Emperor Napoleon
@@ -1068,7 +1068,7 @@ emperor		<-->	noun+B2	[221031][1]	./ˈempərə(r)/-NAmE /ˈempərər/
 		;the reign of an emperor
 
 
-empire		<-->	noun+B2	[221031][1]	./ˈempaɪə(r)/-NAmE /ˈempaɪər/
+empire		<-->	noun+B2	[221031][001]	./ˈempaɪə(r)/-NAmE /ˈempaɪər/
 ​	;đế quốc -- a group of countries or states that are controlled by one leader or government
 		;These invasions almost led to the collapse of the Roman Empire.
 		;Extra Examples
@@ -1086,18 +1086,18 @@ empire		<-->	noun+B2	[221031][1]	./ˈempaɪə(r)/-NAmE /ˈempaɪər/
 		;the break-up of an empire, the decline of an empire, the fall of an empire…
 
 
-empress		<-->	noun+C2	[221031][1]	./ˈemprəs/-NAmE /ˈemprəs/
+empress		<-->	noun+C2	[221031][001]	./ˈemprəs/-NAmE /ˈemprəs/
 ​	;nữ hoàng -- a woman who is the ruler of an empire
 		;the Empress of Egypt
 		;TOPICS HistoryC2, People in societyC2
 
 
-enlightenment		<-->	noun+C1	[221031][1]	./ɪnˈlaɪtnmənt/-NAmE /ɪnˈlaɪtnmənt/
+enlightenment		<-->	noun+C1	[221031][001]	./ɪnˈlaɪtnmənt/-NAmE /ɪnˈlaɪtnmənt/
 	;thời kỳ khia sáng -- the Enlightenment [singular] the period in the 18th century in Europe when many writers and scientists began to argue that science and reason were more important than religion and tradition
 		;TOPICS HistoryC1, Religion and festivalsC1
 
 
-epoch		<-->	noun+C2	[221031][1]	./ˈiːpɒk/-NAmE /ˈepək/
+epoch		<-->	noun+C2	[221031][001]	./ˈiːpɒk/-NAmE /ˈepək/
 	;Kỷ nguyên -- (formal or literary) a period of time in history, especially one during which important events or changes happen
 		;SYNONYM era
 		;The death of the emperor marked the end of an epoch in the country's history.
@@ -1114,13 +1114,13 @@ epoch		<-->	noun+C2	[221031][1]	./ˈiːpɒk/-NAmE /ˈepək/
 		;the beginning of an epoch, the end of an epoch
 
 
-epoch-making		<-->	adjective+C2	[220911][1]	./ˈiːpɒk meɪkɪŋ/-NAmE /ˈepək meɪkɪŋ/
+epoch-making		<-->	adjective+C2	[220911][001]	./ˈiːpɒk meɪkɪŋ/-NAmE /ˈepək meɪkɪŋ/
 	;(tt) kỷ nguyên -- (formal) having a very important effect on people’s lives and on history
 		;the epoch-making events that ended the Cold War
 		;TOPICS HistoryC2
 
 
-era		<-->	noun+B2	[221031][1]	./ˈɪərə/-NAmE /ˈɪrə/,  /ˈerə/
+era		<-->	noun+B2	[221031][001]	./ˈɪərə/-NAmE /ˈɪrə/,  /ˈerə/
 	;kỷ nguyên -- a period of time, usually in history, that is different from other periods because of particular characteristics or events
 		;the Victorian/modern/post-war era
 		;When she left the firm, it was the end of an era (= things were different after that).
@@ -1142,18 +1142,18 @@ era		<-->	noun+B2	[221031][1]	./ˈɪərə/-NAmE /ˈɪrə/,  /ˈerə/
 		;the beginning of an era, the dawn of an era, the dawning of an era…
 
 
-etymological		<-->	adjective+C2	[220911][1]	./ˌetɪməˈlɒdʒɪkl/-NAmE /ˌetɪməˈlɑːdʒɪkl/
+etymological		<-->	adjective+C2	[220911][001]	./ˌetɪməˈlɒdʒɪkl/-NAmE /ˌetɪməˈlɑːdʒɪkl/
 ​	;(tt)nguyên học -- connected with the origin and history of words and their meanings
 		;an etymological dictionary
 		;TOPICS HistoryC2, LanguageC2
 
 
-etymology		<-->	noun+C2	[221031][1]	./ˌetɪˈmɒlədʒi/-NAmE /ˌetɪˈmɑːlədʒi/
+etymology		<-->	noun+C2	[221031][001]	./ˌetɪˈmɒlədʒi/-NAmE /ˌetɪˈmɑːlədʒi/
 	;nguyên học -- (plural etymologies) [uncountable] the study of the origin and history of words and their meanings
 		;TOPICS HistoryC2, LanguageC2
 
 
-excavate		<-->	verb+C2	[220911][1]	./ˈekskəveɪt/-NAmE /ˈekskəveɪt/
+excavate		<-->	verb+C2	[220911][001]	./ˈekskəveɪt/-NAmE /ˈekskəveɪt/
 	;khai quật -- (Veerb Forms) to dig in the ground to look for old buildings or objects that have been buried for a long time;to find something by digging in this way
 		;excavate something The site has been excavated by archaeologists.
 		;The area has not yet been fully excavated.
@@ -1165,7 +1165,7 @@ excavate		<-->	verb+C2	[220911][1]	./ˈekskəveɪt/-NAmE /ˈekskəveɪt/
 =================108
 
 
-exhibit		<-->	noun+B2	[221031][1]	./ɪɡˈzɪbɪt/-NAmE /ɪɡˈzɪbɪt/
+exhibit		<-->	noun+B2	[221031][001]	./ɪɡˈzɪbɪt/-NAmE /ɪɡˈzɪbɪt/
 	;vật mẫu -- an object or a collection of objects put in a public place, for example a museum, so that people can see it
 		;The museum contains some interesting exhibits on Spanish rural life.
 		;Extra Examples
@@ -1173,7 +1173,7 @@ exhibit		<-->	noun+B2	[221031][1]	./ɪɡˈzɪbɪt/-NAmE /ɪɡˈzɪbɪt/
 		;Oxford Collocations Dictionary
 
 
-explorer		<-->	noun+B1	[221031][1]	./ɪkˈsplɔːrə(r)/-NAmE /ɪkˈsplɔːrər/
+explorer		<-->	noun+B1	[221031][001]	./ɪkˈsplɔːrə(r)/-NAmE /ɪkˈsplɔːrər/
 	;nhà khám phá, thám hiểm -- a person who travels to places where few people have been before or places that are unknown to them, in order to find out more about them
 		;Early explorers traded directly with Indigenous people.
 		;Extra Examples
@@ -1185,7 +1185,7 @@ explorer		<-->	noun+B1	[221031][1]	./ɪkˈsplɔːrə(r)/-NAmE /ɪkˈsplɔːrər/
 		;discover something
 
 
-feudal		<-->	adjective+C2	[220911][1]	./ˈfjuːdl/-NAmE /ˈfjuːdl/
+feudal		<-->	adjective+C2	[220911][001]	./ˈfjuːdl/-NAmE /ˈfjuːdl/
 	;(tt)phong kiến -- [usually before noun] ​connected with or similar to feudalism
 		;the feudal system
 		;TOPICS HistoryC2, PoliticsC2
@@ -1194,13 +1194,13 @@ feudal		<-->	adjective+C2	[220911][1]	./ˈfjuːdl/-NAmE /ˈfjuːdl/
 		;lord, society, tenure(nhiệm kỳ)…
 
 
-feudalism		<-->	noun+C2	[221031][1]	./ˈfjuːdəlɪzəm/-NAmE /ˈfjuːdəlɪzəm/
+feudalism		<-->	noun+C2	[221031][001]	./ˈfjuːdəlɪzəm/-NAmE /ˈfjuːdəlɪzəm/
 	;chế độ phong kiến -- [uncountable] ​the social system that existed during the Middle Ages in Europe in which people were given land and protection by a nobleman, and had to work and fight for him in return
 		;Culture feudalism
 		;TOPICS HistoryC2, PoliticsC2
 
 
-former		<-->	adjective+B2	[221031][1]	./ˈfɔːmə(r)/-NAmE /ˈfɔːrmər/
+former		<-->	adjective+B2	[221031][001]	./ˈfɔːmə(r)/-NAmE /ˈfɔːrmər/
 	;quá khứ, cựu -- [only before noun] (Idiooms)​  that existed in earlier times
 		;SYNONYM past (3)
 		;This fine ruin was, in former times, a royal castle.
@@ -1209,7 +1209,7 @@ former		<-->	adjective+B2	[221031][1]	./ˈfɔːmə(r)/-NAmE /ˈfɔːrmər/
 		;TOPICS HistoryB2
 
 
-formerly		<-->	adverb+B2	[220911][1]	./ˈfɔːməli/-NAmE /ˈfɔːrmərli/
+formerly		<-->	adverb+B2	[220911][001]	./ˈfɔːməli/-NAmE /ˈfɔːrmərli/
 ​	;quá khứ, cựu --  -- (in the past) Namibia, formerly known as South West Africa
 		;I learnt that the house had formerly been an inn.
 		;John Marsh, formerly of London Road, Leicester, now living in France
@@ -1221,7 +1221,7 @@ formerly		<-->	adverb+B2	[220911][1]	./ˈfɔːməli/-NAmE /ˈfɔːrmərli/
 				;call, know…
 
 
-fort		<-->	noun+C1	[221031][1]	./fɔːt/-NAmE /fɔːrt/
+fort		<-->	noun+C1	[221031][001]	./fɔːt/-NAmE /fɔːrt/
 	;pháo đài -- (Idiooms) [Image]a building or buildings built in order to defend an area against attack
 		;the remains of a Roman fort
 		;Extra Examples
@@ -1237,13 +1237,13 @@ fort		<-->	noun+C1	[221031][1]	./fɔːt/-NAmE /fɔːrt/
 		;at a/​the fort, in a/​the fort
 
 
-fortification		<-->	noun+C2	[221031][1]	./ˌfɔːtɪfɪˈkeɪʃn/-NAmE /ˌfɔːrtɪfɪˈkeɪʃn/
+fortification		<-->	noun+C2	[221031][001]	./ˌfɔːtɪfɪˈkeɪʃn/-NAmE /ˌfɔːrtɪfɪˈkeɪʃn/
 	;sự củng cố phòng ngự -- [countable, usually plural] a tower, wall, gun position, etc. built to defend a place against attack
 		;the ramparts and fortifications of the Old Town
 		;TOPICS HistoryC2
 
 
-fortress		<-->	noun+C1	[221031][1]	./ˈfɔːtrəs/-NAmE /ˈfɔːrtrəs/
+fortress		<-->	noun+C1	[221031][001]	./ˈfɔːtrəs/-NAmE /ˈfɔːrtrəs/
 	;pháo đài -- ​a building or place that has been made stronger and protected against attack
 		;a fortress town enclosed by four miles of ramparts
 		;Fear of terrorist attack has turned the conference centre into a fortress.
@@ -1262,7 +1262,7 @@ fortress		<-->	noun+C1	[221031][1]	./ˈfɔːtrəs/-NAmE /ˈfɔːrtrəs/
 		;in a/​the fortress
 
 
-found		<-->	verb+B2	[220911][1]	./faʊnd/-NAmE /faʊnd/
+found		<-->	verb+B2	[220911][001]	./faʊnd/-NAmE /faʊnd/
 	;thiết lập, đặt nền móng -- (Veerb Forms)  found something to start something, such as an organization or an institution, especially by providing money
 		;SYNONYM establish
 		;to found a club/company/school
@@ -1271,13 +1271,13 @@ found		<-->	verb+B2	[220911][1]	./faʊnd/-NAmE /faʊnd/
 		;He was a founding editor of the journal.
 
 
-galley		<-->	noun+C2	[221031][1]	./ˈɡæli/-NAmE /ˈɡæli/
+galley		<-->	noun+C2	[221031][001]	./ˈɡæli/-NAmE /ˈɡæli/
 	;thuyền chiến bằng chèo -- a long flat ship with sails, especially one used by the ancient Greeks or Romans in war, usually rowed by slaves or prisoners
 		;a galley slave
 		;TOPICS HistoryC2
 
 
-gallows		<-->	noun+C2   /ˈɡæləʊz/-NAmE /ˈɡæləʊz/
+gallows		<-->	noun+C2	[221122][001]	./ˈɡæləʊz/-NAmE /ˈɡæləʊz/
 	;giá treo cổ -- (plural gallows) a structure on which people, for example criminals, are killed by hanging
 		;to send a man to the gallows (= to send him to his death by hanging)
 		;The public were waiting to see the hated hangman swing from his own gallows.
@@ -1287,19 +1287,19 @@ gallows		<-->	noun+C2   /ˈɡæləʊz/-NAmE /ˈɡæləʊz/
 		;humour 
 
 
-genealogical		<-->	adjective+C2	[220911][1]	./ˌdʒiːniəˈlɒdʒɪkl/-NAmE /ˌdʒiːniəˈlɑːdʒɪkl/
+genealogical		<-->	adjective+C2	[220911][001]	./ˌdʒiːniəˈlɒdʒɪkl/-NAmE /ˌdʒiːniəˈlɑːdʒɪkl/
 	;(tt) gia phả học -- [only before noun] ​connected with the study of family history, including the study of who the ancestors of a particular person were
 		;genealogical research
 		;TOPICS HistoryC2, Family and relationshipsC2
 
 
-genealogist		<-->	noun+C2	[221031][1]	./ˌdʒiːniəˈlɒdʒɪkl/-NAmE /ˌdʒiːniəˈlɑːdʒɪkl/
+genealogist		<-->	noun+C2	[221031][001]	./ˌdʒiːniəˈlɒdʒɪkl/-NAmE /ˌdʒiːniəˈlɑːdʒɪkl/
 	;nhà nguyên cứu/viết gia phả -- [only before noun] ​connected with the study of family history, including the study of who the ancestors of a particular person were
 		;genealogical research
 		;TOPICS HistoryC2, Family and relationshipsC2
 
 
-genealogy		<-->	noun+C2	[221031][1]	./ˌdʒiːniˈælədʒi/-NAmE /ˌdʒiːniˈælədʒi/
+genealogy		<-->	noun+C2	[221031][001]	./ˌdʒiːniˈælədʒi/-NAmE /ˌdʒiːniˈælədʒi/
 	;phả hệ học -- (plural genealogies) ​[uncountable] the study of family history, including the study of who the ancestors of a particular person were
 		;TOPICS HistoryC2, Family and relationshipsC2
 	;phả hệ -- ​[countable] a particular person’s line of ancestors;a diagram that shows this
@@ -1307,7 +1307,7 @@ genealogy		<-->	noun+C2	[221031][1]	./ˌdʒiːniˈælədʒi/-NAmE /ˌdʒiːniˈ�
 		;TOPICS Family and relationshipsC2
 
 
-generation		<-->	noun+B1	[221031][1]	./ˌdʒenəˈreɪʃn/-NAmE /ˌdʒenəˈreɪʃn/
+generation		<-->	noun+B1	[221031][001]	./ˌdʒenəˈreɪʃn/-NAmE /ˌdʒenəˈreɪʃn/
 	;thế hệ -- [countable, uncountable] a single stage in the history of a family
 		;stories passed down from generation to generation
 		;Five generations of his family had been farmers.
@@ -1317,7 +1317,7 @@ generation		<-->	noun+B1	[221031][1]	./ˌdʒenəˈreɪʃn/-NAmE /ˌdʒenəˈreɪ
 		;TOPICS HistoryB1, Family and relationshipsB1
 
 
-Georgian		<-->	adjective+C2	[220911][1]	./ˈdʒɔːdʒən/-NAmE /ˈdʒɔːrdʒən/
+Georgian		<-->	adjective+C2	[220911][001]	./ˈdʒɔːdʒən/-NAmE /ˈdʒɔːrdʒən/
 	;(tt) thuộc thời kỳ vua George -- (especially of architecture and furniture) from the time of the British kings George I–IV (1714–1830)
 		;a fine Georgian house
 		;Culture
@@ -1327,12 +1327,12 @@ Georgian		<-->	adjective+C2	[220911][1]	./ˈdʒɔːdʒən/-NAmE /ˈdʒɔːrdʒə
 		;terrace
 
 
-gladiator		<-->	noun+C1	[221031][1]	./ˈɡlædieɪtə(r)/-NAmE /ˈɡlædieɪtər/
+gladiator		<-->	noun+C1	[221031][001]	./ˈɡlædieɪtə(r)/-NAmE /ˈɡlædieɪtər/
 	;đấu sĩ -- ​(in ancient Rome) a man trained to fight other men or animals in order to entertain the public
 		;TOPICS HistoryC1
 
 
-golden age		<-->	noun+C1	[221031][1]	./ˈɡəʊldən eɪdʒ/-NAmE /ˈɡəʊldən eɪdʒ/
+golden age		<-->	noun+C1	[221031][001]	./ˈɡəʊldən eɪdʒ/-NAmE /ˈɡəʊldən eɪdʒ/
 	;thời vàng son -- [usually singular] ​golden age (of something) a period during which something is very successful, especially in the past
 		;the golden age of cinema
 		;TOPICS SuccessC1, HistoryC1
@@ -1343,28 +1343,28 @@ griot		<-->	noun+C2     /ˈɡriːəʊ/-NAmE /ˈɡriːəʊ/
 		;TOPICS HistoryC2
 
 
-guy		<-->	noun+C2	[221031][1]	./ɡaɪ/-NAmE /ɡaɪ/
+guy		<-->	noun+C2	[221031][001]	./ɡaɪ/-NAmE /ɡaɪ/
 	;??? - [countable] (in the UK) a model of a man dressed in old clothes that is burned on a bonfire on 5 November during the celebrations for Bonfire Night
 		;TOPICS HistoryC2, Religion and festivalsC2
 
 
-Hellenistic		<-->	adjective+C2	[220911][1]	./ˌhelɪˈnɪstɪk/-NAmE /ˌhelɪˈnɪstɪk/
+Hellenistic		<-->	adjective+C2	[220911][001]	./ˌhelɪˈnɪstɪk/-NAmE /ˌhelɪˈnɪstɪk/
 ​	;(tt) kỷ Helen -- of or connected with the Greek history, language and culture of the 4th–1st centuries BC
 		;TOPICS HistoryC2
 
 
-heraldic		<-->	adjective+C2	[220911][1]	./heˈrældɪk/-NAmE /heˈrældɪk/
+heraldic		<-->	adjective+C2	[220911][001]	./heˈrældɪk/-NAmE /heˈrældɪk/
 ​	;huy hiệu -- connected with the study of coats of arms and the history of old families
 		;TOPICS HistoryC2
 
 
-heraldry		<-->	noun+C2	[221031][1]	./ˈherəldri/-NAmE /ˈherəldri/
+heraldry		<-->	noun+C2	[221031][001]	./ˈherəldri/-NAmE /ˈherəldri/
 	;nghiên cứu về huy chương -- [uncountable] ​the study of the coats of arms and the history of old families
 		;Culture heraldry
 		;TOPICS HistoryC2
 
 
-heritage		<-->	noun+C1	[221031][1]	./ˈherɪtɪdʒ/-NAmE /ˈherɪtɪdʒ/
+heritage		<-->	noun+C1	[221031][001]	./ˈherɪtɪdʒ/-NAmE /ˈherɪtɪdʒ/
 	;di sản -- [usually singular] the history, traditions, buildings and objects that a country or society has had for many years and that are considered an important part of its character
 		;Spain’s rich cultural heritage
 		;The building is part of our national heritage.
@@ -1379,12 +1379,12 @@ heritage		<-->	noun+C1	[221031][1]	./ˈherɪtɪdʒ/-NAmE /ˈherɪtɪdʒ/
 		;attraction, building, centre/​center…
 
 
-hieroglyphics		<-->	noun+C2	[221031][1]	./ˌhaɪərəˈɡlɪfɪks/-NAmE /ˌhaɪərəˈɡlɪfɪks/
+hieroglyphics		<-->	noun+C2	[221031][001]	./ˌhaɪərəˈɡlɪfɪks/-NAmE /ˌhaɪərəˈɡlɪfɪks/
 	;chữ trượng hình -- [plural] [Image]writing that uses hieroglyphs
 		;TOPICS HistoryC2
 
 
-historian		<-->	noun+B2	[221031][1]	./hɪˈstɔːriən/-NAmE /hɪˈstɔːriən/
+historian		<-->	noun+B2	[221031][001]	./hɪˈstɔːriən/-NAmE /hɪˈstɔːriən/
 ​	;nhà sử học -- a person who studies or writes about history;an expert in history
 		;Some speakers do not pronounce the ‘h’ at the beginning of historian and use ‘an’ instead of ‘a’ before it. This now sounds old-fashioned.
 		;No serious historian today accepts this theory.
@@ -1401,7 +1401,7 @@ historian		<-->	noun+B2	[221031][1]	./hɪˈstɔːriən/-NAmE /hɪˈstɔːriən/
 		;distinguished, eminent(lỗi lạc), great…
 
 
-historic		<-->	adjective+B1	[221031][1]	./hɪˈstɒrɪk/-NAmE /hɪˈstɔːrɪk/
+historic		<-->	adjective+B1	[221031][001]	./hɪˈstɒrɪk/-NAmE /hɪˈstɔːrɪk/
 	;(tt) lịch sử -- [usually before noun]​  important in history;likely to be thought of as important at some time in the future
 		;the restoration of historic buildings
 		;a historic monument/landmark
@@ -1416,7 +1416,7 @@ historic		<-->	adjective+B1	[221031][1]	./hɪˈstɒrɪk/-NAmE /hɪˈstɔːrɪk/
 		;TOPICS HistoryB1
 
 
-historical		<-->	adjective+B1	[221031][1]	./hɪˈstɒrɪkl/-NAmE /hɪˈstɔːrɪkl/
+historical		<-->	adjective+B1	[221031][001]	./hɪˈstɒrɪkl/-NAmE /hɪˈstɔːrɪkl/
 	;(tt) thuộc về sử -- [usually before noun]   connected with the study of history
 		;historical documents/records/research
 		;historical evidence provided by scholars
@@ -1425,28 +1425,28 @@ historical		<-->	adjective+B1	[221031][1]	./hɪˈstɒrɪkl/-NAmE /hɪˈstɔːrɪ
 		;TOPICS HistoryB1
 
 
-historical linguistics		<-->	noun+C2	[220911][1]	./hɪˌstɒrɪkl lɪŋˈɡwɪstɪks/-NAmE /hɪˌstɔːrɪkl lɪŋˈɡwɪstɪks/
+historical linguistics		<-->	noun+C2	[220911][001]	./hɪˌstɒrɪkl lɪŋˈɡwɪstɪks/-NAmE /hɪˌstɔːrɪkl lɪŋˈɡwɪstɪks/
 	;ngành lịch sử ngôn ngữ -- [uncountable] ​the study of the history and development of languages
 		;TOPICS HistoryC2
 
 
-historically		<-->	adverb+B1	[220911][1]	./hɪˈstɒrɪkli/-NAmE /hɪˈstɔːrɪkli/
+historically		<-->	adverb+B1	[220911][001]	./hɪˈstɒrɪkli/-NAmE /hɪˈstɔːrɪkli/
 	;(av) một cách lịch sử -- ​in a way that is connected with the study of history
 		;historically significant documents
 		;TOPICS HistoryB1
 
 
-historicism		<-->	noun+C2	[221031][1]	./hɪˈstɒrɪsɪzəm/-NAmE /hɪˈstɔːrɪsɪzəm/
+historicism		<-->	noun+C2	[221031][001]	./hɪˈstɒrɪsɪzəm/-NAmE /hɪˈstɔːrɪsɪzəm/
 	;sử luận -- [uncountable], ​the theory that cultural and social events and situations can be explained by history
 		;TOPICS HistoryC2
 
 
-historiographical		<-->	adjective+C2	[220911][1]	./hɪˌstɒriəˈɡræfɪkl/-NAmE /hɪˌstɔːriəˈɡræfɪkl/
+historiographical		<-->	adjective+C2	[220911][001]	./hɪˌstɒriəˈɡræfɪkl/-NAmE /hɪˌstɔːriəˈɡræfɪkl/
 ​	;(tt) sử học -- connected with the study of writing about history (= historiography)
 		;TOPICS HistoryC2
 
 
-historiography		<-->	noun+C2	[221031][1]	./hɪˌstɒriˈɒɡrəfi/-NAmE /hɪˌstɔːriˈɑːɡrəfi/
+historiography		<-->	noun+C2	[221031][001]	./hɪˌstɒriˈɒɡrəfi/-NAmE /hɪˌstɔːriˈɑːɡrəfi/
 	;sử học -- [uncountable] ​the study of writing about history
 		;TOPICS HistoryC2
 
@@ -1479,26 +1479,26 @@ history		<-->	noun+A1     /ˈhɪstri/-NAmE /ˈhɪstri/
 		;change the course of history, a period of history, the lessons of history…
 
 
-ice age		<-->	noun+C1	[221031][1]	./ˈaɪs eɪdʒ/-NAmE /ˈaɪs eɪdʒ/
+ice age		<-->	noun+C1	[221031][001]	./ˈaɪs eɪdʒ/-NAmE /ˈaɪs eɪdʒ/
 	;kỷ băng hà -- (often the Ice Age) one of the long periods of time, thousands of years ago, when much of the earth’s surface was covered in ice
 		;TOPICS HistoryC1
 
 
-imperial		<-->	adjective+C1	[220911][1]	./ɪmˈpɪəriəl/-NAmE /ɪmˈpɪriəl/
+imperial		<-->	adjective+C1	[220911][001]	./ɪmˈpɪəriəl/-NAmE /ɪmˈpɪriəl/
 	;(tt)đế quốc -- [only before noun] ​connected with an empire
 		;the imperial family/palace/army
 		;imperial power/expansion
 		;TOPICS HistoryC1
 
 
-industrialize		<-->	verb+C2	[220911][1]	./ɪnˈdʌstriəlaɪz/-NAmE /ɪnˈdʌstriəlaɪz/
+industrialize		<-->	verb+C2	[220911][001]	./ɪnˈdʌstriəlaɪz/-NAmE /ɪnˈdʌstriəlaɪz/
 	;công nghiệp hoá -- (British English also industrialise) [transitive, intransitive] (Veerb Forms)
 		;industrialize (something) if a country or an area is industrialized or if it industrializes, industries are developed there
 		;The southern part of the country was slow to industrialize.
 		;TOPICS HistoryC2
 
 
-invasion		<-->	noun+B2	[221031][1]	./ɪnˈveɪʒn/-NAmE /ɪnˈveɪʒn/
+invasion		<-->	noun+B2	[221031][001]	./ɪnˈveɪʒn/-NAmE /ɪnˈveɪʒn/
 	;sự xâm lược -- [countable, uncountable]​ the act of an army entering another country by force in order to take control of it
 		;the German invasion of Poland in 1939
 		;the threat of invasion
@@ -1590,12 +1590,12 @@ invention		<-->	noun+A2    ɪnˈvenʃn/-NAmE /ɪnˈvenʃn/
 		;come up with, design, license…
 
 
-Jurassic		<-->	adjective+C2	[220911][1]	./dʒʊˈræsɪk/-NAmE /dʒʊˈræsɪk/
+Jurassic		<-->	adjective+C2	[220911][001]	./dʒʊˈræsɪk/-NAmE /dʒʊˈræsɪk/
 	;(tt) kỷ Jura -- (geology)of the period between around 208 to 146 million years ago, when the largest known dinosaurs lived;of the rocks formed during this time
 		;TOPICS HistoryC2
 
 
-king		<-->	noun+A2	[221031][1]	./kɪŋ/-NAmE /kɪŋ/
+king		<-->	noun+A2	[221031][001]	./kɪŋ/-NAmE /kɪŋ/
 	;vua -- (Idiooms)​  the male ruler of an independent state that has a royal family
 		;the kings and queens of England
 		;the French king
@@ -1616,7 +1616,7 @@ king		<-->	noun+A2	[221031][1]	./kɪŋ/-NAmE /kɪŋ/
 		;under a/​the king, king of
 
 
-kingdom		<-->	noun+C1	[221031][1]	./ˈkɪŋdəm/-NAmE /ˈkɪŋdəm/
+kingdom		<-->	noun+C1	[221031][001]	./ˈkɪŋdəm/-NAmE /ˈkɪŋdəm/
 	;vương quốc -- (Idiooms)​ a country that has a king or queen as head of state (= official leader of the country)
 		;the United Kingdom
 		;the kingdom of God (= heaven)
@@ -1631,7 +1631,7 @@ kingdom		<-->	noun+C1	[221031][1]	./ˈkɪŋdəm/-NAmE /ˈkɪŋdəm/
 		;in a/​the kingdom, throughout a/​the kingdom, kingdom of…
 
 
-knight		<-->	noun+B2	[221031][1]	./naɪt/-NAmE /naɪt/
+knight		<-->	noun+B2	[221031][001]	./naɪt/-NAmE /naɪt/
 	;hiệp sĩ -- (Idiooms) ​(in the Middle Ages) a man of high social rank who had a duty to fight for his king. Knights are often shown in pictures riding horses and wearing armour.
 		;tales of medieval knights errant, wandering in search of chivalrous adventures
 		;SEE ALSO black knight, white knight
@@ -1644,21 +1644,21 @@ knight		<-->	noun+B2	[221031][1]	./naɪt/-NAmE /naɪt/
 		;a knight errant(giang hồ), a knight in armour/​armor, a knight in shining armour/​armor…
 
 
-majesty		<-->	noun+C1	[221031][1]	./ˈmædʒəsti/-NAmE /ˈmædʒəsti/
+majesty		<-->	noun+C1	[221031][001]	./ˈmædʒəsti/-NAmE /ˈmædʒəsti/
 	;bệ hạ -- (plural majesties) ​[countable] His/Her Majesty, Your Majesty a title of respect used when speaking about or to a king or queen
 		;Their Majesties, the King and Queen of Spain
 		;The Prime Minister is here to see you, Your Majesty.
 		;TOPICS HistoryC1
 
 
-mediaeval		<-->	adjective+B2	[221031][1]	./ˌmediˈiːvl/-NAmE /ˌmediˈiːvl/,  /ˌmiːdˈiːvl/
+mediaeval		<-->	adjective+B2	[221031][001]	./ˌmediˈiːvl/-NAmE /ˌmediˈiːvl/,  /ˌmiːdˈiːvl/
 	;(tt) trung cổ -- (also medieval) [usually before noun] ​connected with the Middle Ages (about AD 1000 to AD 1450)
 		;mediaeval architecture/castles/manuscripts
 		;the literature of the late mediaeval period
 		;TOPICS HistoryB2, BuildingsB2
 
 
-medieval		<-->	adjective+C1	[220911][1]	./ˌmediˈiːvl/-NAmE /ˌmediˈiːvl/,  /ˌmiːdˈiːvl/
+medieval		<-->	adjective+C1	[220911][001]	./ˌmediˈiːvl/-NAmE /ˌmediˈiːvl/,  /ˌmiːdˈiːvl/
 	;(tt) trung cổ -- (also mediaeval) [usually before noun] ​connected with the Middle Ages (about AD 1000 to AD 1450)
 		;medieval architecture/castles/manuscripts
 		;the literature of the late medieval period
@@ -1668,13 +1668,13 @@ medieval		<-->	adjective+C1	[220911][1]	./ˌmediˈiːvl/-NAmE /ˌmediˈiːvl/,  
 		;archaeology, architecture, art…
 
 
-moat		<-->	noun+C2	[221031][1]	./məʊt/-NAmE /məʊt/
+moat		<-->	noun+C2	[221031][001]	./məʊt/-NAmE /məʊt/
 	;chiến hào -- [Image] a deep wide channel that was dug around a castle, etc. and filled with water to make it more difficult for enemies to attack
 		;The castle was ringed by a moat spanned by a wooden drawbridge.
 		;TOPICS HistoryC2, GardensC2, BuildingsC2
 
 
-modern		<-->	adjective+A1	[221031][1]	./ˈmɒdn/-NAmE /ˈmɑːdərn/
+modern		<-->	adjective+A1	[221031][001]	./ˈmɒdn/-NAmE /ˈmɑːdərn/
 ​	;hiện đại -- [only before noun] of the present time or recent times
 		;SYNONYM contemporary
 		;<< contemporary, modern, >>
@@ -1693,7 +1693,7 @@ modern		<-->	adjective+A1	[221031][1]	./ˈmɒdn/-NAmE /ˈmɑːdərn/
 		;TOPICS HistoryA1
 
 
-monument		<-->	noun+B2	[221031][1]	./ˈmɒnjumənt/-NAmE /ˈmɑːnjumənt/
+monument		<-->	noun+B2	[221031][001]	./ˈmɒnjumənt/-NAmE /ˈmɑːnjumənt/
 	;nhà/đài tưởng niệm -- monument (to somebody/something) a building, column, statue, etc. built to remind people of a famous person or event
 		;A monument to him was erected in St Paul's Cathedral.
 		;Extra Examples:
@@ -1729,13 +1729,13 @@ monument		<-->	noun+B2	[221031][1]	./ˈmɒnjumənt/-NAmE /ˈmɑːnjumənt/
 				;as a monument, monument of, monument to…
 
 
-mummy		<-->	noun+C2	[221031][1]	./ˈmʌmi/-NAmE /ˈmʌmi/
+mummy		<-->	noun+C2	[221031][001]	./ˈmʌmi/-NAmE /ˈmʌmi/
 	;xác ướp -- a body of a human or an animal that has been mummified
 		;an Egyptian mummy
 		;TOPICS HistoryC2
 
 
-musicologist		<-->	noun+C2	[221031][1]	./ˌmjuːzɪˈkɒlədʒɪst/-NAmE /ˌmjuːzɪˈkɑːlədʒɪst/
+musicologist		<-->	noun+C2	[221031][001]	./ˌmjuːzɪˈkɒlədʒɪst/-NAmE /ˌmjuːzɪˈkɑːlədʒɪst/
 ​	;nhà nguyên cứu âm nhạc -- a person who studies the history and theory of music
 		;TOPICS HistoryC2
 
@@ -1746,7 +1746,7 @@ musicology		<-->	noun+C2     /ˌmjuːzɪˈkɒlədʒi/-NAmE /ˌmjuːzɪˈkɑːlə
 		;TOPICS HistoryC2
 
 
-myth		<-->	noun+B2	[221031][1]	./mɪθ/-NAmE /mɪθ/
+myth		<-->	noun+B2	[221031][001]	./mɪθ/-NAmE /mɪθ/
 	;huyền thoại -- [countable, uncountable] a story from ancient times, especially one that was told to explain natural events or to describe the early history of a people;this type of story
 		;SYNONYM legend
 		;ancient Greek myths
@@ -1761,7 +1761,7 @@ myth		<-->	noun+B2	[221031][1]	./mɪθ/-NAmE /mɪθ/
 		;Oxford Collocations Dictionary
 
 
-mythology		<-->	noun+C1	[221031][1]	./mɪˈθɒlədʒi/-NAmE /mɪˈθɑːlədʒi/
+mythology		<-->	noun+C1	[221031][001]	./mɪˈθɒlədʒi/-NAmE /mɪˈθɑːlədʒi/
 	;thần thoại học -- (plural mythologies) [uncountable, countable] ancient myths in general;the ancient myths of a particular culture, society, etc.
 		;Narcissus was a character from Greek mythology.
 		;She has created her own mythology in the books.
@@ -1778,7 +1778,7 @@ mythology		<-->	noun+C1	[221031][1]	./mɪˈθɒlədʒi/-NAmE /mɪˈθɑːlədʒi
 		;in (a/​the) mythology, mythology about, mythology of…
 
 
-Neanderthal		<-->	noun+C2   /niˈændətɑːl/-NAmE /niˈændərθɔːl/
+Neanderthal		<-->	noun+C2	[221122][001]	./niˈændətɑːl/-NAmE /niˈændərθɔːl/
 	;người Nê-det-lan -- (also neanderthal)
 ​	;a type of human being who used stone tools and lived in Europe during the early period of human 
 		;history
@@ -1786,21 +1786,21 @@ Neanderthal		<-->	noun+C2   /niˈændətɑːl/-NAmE /niˈændərθɔːl/
 		;TOPICS HistoryC2 
 
 
-Neanderthal		<-->	adjective+C2	[220911][1]	./niˈændətɑːl/-NAmE /niˈændərθɔːl/
+Neanderthal		<-->	adjective+C2	[220911][001]	./niˈændətɑːl/-NAmE /niˈændərθɔːl/
 	;(tt) người Nê-det-lan --  (also neanderthal) used to describe a type of human being who used stone tools and lived in Europe during the early period of human history
 		;Neanderthal man
 		;a Neanderthal axe
 		;TOPICS HistoryC2
 
 
-Neolithic		<-->	adjective+C2	[220911][1]	./ˌniːəˈlɪθɪk/-NAmE /ˌniːəˈlɪθɪk/
+Neolithic		<-->	adjective+C2	[220911][001]	./ˌniːəˈlɪθɪk/-NAmE /ˌniːəˈlɪθɪk/
 ​	;(tt) sau thời kỳ đồ đá -- of the later part of the Stone Age
 		;Neolithic stone axes
 		;Neolithic settlements
 		;TOPICS HistoryC2
 
 
-noble		<-->	noun+C1	[221031][1]	./ˈnəʊbl/-NAmE /ˈnəʊbl/
+noble		<-->	noun+C1	[221031][001]	./ˈnəʊbl/-NAmE /ˈnəʊbl/
 	;người quý tộc -- a person who comes from a family of high social rank;a member of the nobility
 		;SYNONYM aristocrat
 		;The cost of the arch was met by Milanese nobles.
@@ -1808,13 +1808,13 @@ noble		<-->	noun+C1	[221031][1]	./ˈnəʊbl/-NAmE /ˈnəʊbl/
 		;TOPICS HistoryC1, People in societyC1
 
 
-onomastics		<-->	noun+C2	[221031][1]	./ˌɒnəˈmæstɪks/-NAmE /ˌɑːnəˈmæstɪks/
+onomastics		<-->	noun+C2	[221031][001]	./ˌɒnəˈmæstɪks/-NAmE /ˌɑːnəˈmæstɪks/
 	;nghiên cứu tên -- [uncountable] (specialist)
 ​		;the study of the history and origin of names, especially names of people
 		;TOPICS HistoryC2
 
 
-origin		<-->	noun+B2	[221031][1]	./ˈɒrɪdʒɪn/-NAmE /ˈɔːrɪdʒɪn/
+origin		<-->	noun+B2	[221031][001]	./ˈɒrɪdʒɪn/-NAmE /ˈɔːrɪdʒɪn/
 	;gốc, nguồn gốc -- [countable, uncountable] (also origins [plural])​  the point from which something starts;the cause of something
 		;origin of something the origins of life on earth
 		;The origin of the word remains obscure.
@@ -1837,19 +1837,19 @@ origin		<-->	noun+B2	[221031][1]	./ˈɒrɪdʒɪn/-NAmE /ˈɔːrɪdʒɪn/
 				;country of origin, place of origin, have its origin in something…
 
 
-page		<-->	noun+C2	[221031][1]	./peɪdʒ/-NAmE /peɪdʒ/
+page		<-->	noun+C2	[221031][001]	./peɪdʒ/-NAmE /peɪdʒ/
 	;một mốc/sự kiện quan trọng của lịch sử -- (literary) an important event or period of history
 		;a glorious page of Arab history
 		;TOPICS HistoryC2
 
 
-pageant		<-->	noun+C2   /ˈpædʒənt/-NAmE /ˈpædʒənt/
+pageant		<-->	noun+C2	[221122][001]	./ˈpædʒənt/-NAmE /ˈpædʒənt/
 	;cuộc thi trang phục cổ -- a public entertainment in which people dress in historical costumes and give performances of scenes from history
 		;They were filming a colourful pageant about Scotland’s past.
 		;TOPICS HistoryC2 
 
 
-palace		<-->	noun+A2	[221031][1]	./ˈpæləs/-NAmE /ˈpæləs/
+palace		<-->	noun+A2	[221031][001]	./ˈpæləs/-NAmE /ˈpæləs/
 ​	;cung điện -- [Image]  [countable] the official home of a king, queen, president, etc.
 		;Buckingham Palace
 		;the royal/presidential palace
@@ -1870,24 +1870,24 @@ palace		<-->	noun+A2	[221031][1]	./ˈpæləs/-NAmE /ˈpæləs/
 		;at a/​the palace, in a/​the palace
 
 
-palaeontology		<-->	noun+C2	[221031][1]	./ˌpæliɒnˈtɒlədʒi/,  /ˌpeɪliɒnˈtɒlədʒi/-NAmE /ˌpeɪliɑːnˈtɑːlədʒi/
+palaeontology		<-->	noun+C2	[221031][001]	./ˌpæliɒnˈtɒlədʒi/,  /ˌpeɪliɒnˈtɒlədʒi/-NAmE /ˌpeɪliɑːnˈtɑːlədʒi/
 	;nghiên cứu hoá thạch -- (especially British English) (North American English usually paleontology) [uncountable] ​the study of fossils (= the parts of dead animals or plants in rocks) as a guide to the history of life on earth
 		;TOPICS HistoryC2
 
 
-paleontology		<-->	noun+C2	[221031][1]	./ˌpæliɒnˈtɒlədʒi/,  /ˌpeɪliɒnˈtɒlədʒi/-NAmE /ˌpeɪliɑːnˈtɑːlədʒi/
+paleontology		<-->	noun+C2	[221031][001]	./ˌpæliɒnˈtɒlədʒi/,  /ˌpeɪliɒnˈtɒlədʒi/-NAmE /ˌpeɪliɑːnˈtɑːlədʒi/
 	;nghiên cứu hoá thạch -- (especially North American English) (British English usually palaeontology) [uncountable]
 	;the study of fossils (= the parts of dead animals or plants in rocks) as a guide to the history of life on earth
 		;TOPICS HistoryC2
 
 
-papyrus		<-->	noun+C2	[221031][1]	./pəˈpaɪrəs/-NAmE /pəˈpaɪrəs/
+papyrus		<-->	noun+C2	[221031][001]	./pəˈpaɪrəs/-NAmE /pəˈpaɪrəs/
 	;(plural papyri  /pəˈpaɪriː/  /pəˈpaɪriː/)
 	;giấy papyrus -- ​[uncountable] paper made from the stems of the papyrus plant, used in ancient Egypt for writing and drawing on
 		;TOPICS HistoryC2
 
 
-past		<-->	adjective+A1	[220911][1]	./pɑːst/-NAmE /pæst/   
+past		<-->	adjective+A1	[220911][001]	./pɑːst/-NAmE /pæst/   
 	;quá khứ --  [only before noun] belonging to an earlier time
 		;From past experience I'd say he'd probably forgotten the time.
 		;past and present students of the college
@@ -1899,7 +1899,7 @@ past		<-->	adjective+A1	[220911][1]	./pɑːst/-NAmE /pæst/
 		;TOPICS HistoryA1
 
 
-past		<-->	noun+A1	[220911][1]	./pɑːst/-NAmE /pæst/
+past		<-->	noun+A1	[220911][001]	./pɑːst/-NAmE /pæst/
 	;quá khứ --   the past [singular] the time that has gone by;things that happened in an earlier time
 		;in the past I used to go there often in the past.
 		;He had hurt her so many times in the past.
@@ -1922,7 +1922,7 @@ past		<-->	noun+A1	[220911][1]	./pɑːst/-NAmE /pæst/
 		;be all in the past, a break with the past, a glimpse(nhìn thoáng qua) of the past…
 
 
-peasant		<-->	noun+C1	[221031][1]	./ˈpeznt/-NAmE /ˈpeznt/
+peasant		<-->	noun+C1	[221031][001]	./ˈpeznt/-NAmE /ˈpeznt/
 	;tá điền -- (especially in the past, or in poorer countries) a farmer who owns or rents a small piece of land
 		;peasant farmers
 		;a peasant family
@@ -1930,7 +1930,7 @@ peasant		<-->	noun+C1	[221031][1]	./ˈpeznt/-NAmE /ˈpeznt/
 		;TOPICS HistoryC1, FarmingC1
 
 
-period		<-->	noun+A1	[221031][1]	./ˈpɪəriəd/-NAmE /ˈpɪriəd/
+period		<-->	noun+A1	[221031][001]	./ˈpɪəriəd/-NAmE /ˈpɪriəd/
 	;thời kỳ, giai đoạn --   a length of time in the life of a particular person or in the history of a particular country
 		;Which period of history would you most like to have lived in?
 		;This textbook covers the post-war period.
@@ -1955,20 +1955,20 @@ period		<-->	noun+A1	[221031][1]	./ˈpɪəriəd/-NAmE /ˈpɪriəd/
 		;the beginning of a periodthe start of a periodthe end of a period…
 
 
-period		<-->	adjective+C2	[220911][1]	./ˈpɪəriəd/-NAmE /ˈpɪriəd/
+period		<-->	adjective+C2	[220911][001]	./ˈpɪəriəd/-NAmE /ˈpɪriəd/
 	;giai đoạn -- [only before noun] ​having a style typical of a particular time in history
 		;period costumes/furniture
 		;TOPICS HistoryC2
 
 
-period piece		<-->	noun+C2	[221031][1]	./ˈpɪəriəd piːs/-NAmE /ˈpɪriəd piːs/
+period piece		<-->	noun+C2	[221031][001]	./ˈpɪəriəd piːs/-NAmE /ˈpɪriəd piːs/
 	​;phim tài liệu -- a play, film, etc. that is set in a particular period of history		
 		;TOPICS HistoryC2, Film and theatreC2
 	;cổ vật -- an object, piece of furniture, etc. that was made during a particular period of history and is typical of that period
 		;TOPICS HistoryC2
 
 
-pilgrim		<-->	noun+C1	[221031][1]	./ˈpɪlɡrɪm/-NAmE /ˈpɪlɡrɪm/
+pilgrim		<-->	noun+C1	[221031][001]	./ˈpɪlɡrɪm/-NAmE /ˈpɪlɡrɪm/
 ​	;người hành hương -- a person who travels to a holy place for religious reasons
 		;Muslim pilgrims on their way to Mecca
 		;Christian pilgrims visiting Lourdes
@@ -1976,7 +1976,7 @@ pilgrim		<-->	noun+C1	[221031][1]	./ˈpɪlɡrɪm/-NAmE /ˈpɪlɡrɪm/
 		;TOPICS HistoryC1, Religion and festivalsC1
 
 
-post-war		<-->	adjective+C1   /ˌpəʊst ˈwɔː(r)/-NAmE /ˌpəʊst ˈwɔːr/
+post-war		<-->	adjective+C1	[221122][001]	./ˌpəʊst ˈwɔː(r)/-NAmE /ˌpəʊst ˈwɔːr/
 	;(tt) hậu chiến -- [usually before noun] ​existing, happening or made in the period after a war, especially the Second World War
 		;the post-war years
 		;in post-war Europe
@@ -1997,19 +1997,19 @@ prehistoric		<-->	adjective+C1     /ˌpriːhɪˈstɒrɪk/-NAmE /ˌpriːhɪˈstɔ
 		;beast, find, man…
 
 
-prehistory		<-->	noun+C2	[221031][1]	./ˌpriːˈhɪstri/-NAmE /ˌpriːˈhɪstri/
+prehistory		<-->	noun+C2	[221031][001]	./ˌpriːˈhɪstri/-NAmE /ˌpriːˈhɪstri/
 ​	;thời tiền sử -- [uncountable] the period of time in history before information was written down
 		;These climate changes continued throughout prehistory.
 		;TOPICS HistoryC2
 
 
-primaeval		<-->	adjective+C2	[220911][1]	./praɪˈmiːvl/-NAmE /praɪˈmiːvl/
+primaeval		<-->	adjective+C2	[220911][001]	./praɪˈmiːvl/-NAmE /praɪˈmiːvl/
 	;nguyên sinh -- (British English) (also primeval British and North American English) [usually before noun]
 ​		;from the earliest period of the history of the world, very ancient
 		;TOPICS HistoryC2
 
 
-primeval		<-->	adjective+C2	[220911][1]	./praɪˈmiːvl/-NAmE /praɪˈmiːvl/
+primeval		<-->	adjective+C2	[220911][001]	./praɪˈmiːvl/-NAmE /praɪˈmiːvl/
 	;nguyên sinh -- (British English also primaeval) [usually before noun] ​from the earliest period of the history of the world, very ancient
 		;primeval forests
 		;primeval soup (= the mixture of gases and substances that is thought to have existed when the earth was formed and from which life started)
@@ -2018,18 +2018,18 @@ primeval		<-->	adjective+C2	[220911][1]	./praɪˈmiːvl/-NAmE /praɪˈmiːvl/
 
 
 
-primitive		<-->	adjective+C1	[220911][1]	./ˈprɪmətɪv/-NAmE /ˈprɪmətɪv/
+primitive		<-->	adjective+C1	[220911][001]	./ˈprɪmətɪv/-NAmE /ˈprɪmətɪv/
 	;thời sơ khai -- ​[usually before noun] belonging to an early stage in the development of humans or animals
 		;primitive man
 		;TOPICS HistoryC1
 
 
-pyramid		<-->	noun+B2	[221031][1]	./ˈpɪrəmɪd/-NAmE /ˈpɪrəmɪd/
+pyramid		<-->	noun+B2	[221031][001]	./ˈpɪrəmɪd/-NAmE /ˈpɪrəmɪd/
 	;kim tử tháp -- [Image]a large building with a square or triangular base and sloping sides that meet in a point at the top. The ancient Egyptians built stone pyramids as places to bury their kings and queens.
 		;TOPICS HistoryB2, BuildingsB2
 
 
-queen		<-->	noun+A2	[221031][1]	./kwiːn/-NAmE /kwiːn/
+queen		<-->	noun+A2	[221031][001]	./kwiːn/-NAmE /kwiːn/
 	;nữ hoàng -- (Idiooms), female ruler,​  the female ruler of an independent state that has a royal family
 		;She was crowned queen at the age of fifteen.
 		;kings and queens
@@ -2050,25 +2050,25 @@ queen		<-->	noun+A2	[221031][1]	./kwiːn/-NAmE /kwiːn/
 		;queen consort
 
 
-radiocarbon dating		<-->	noun+C2	[221031][1]	./ˌreɪdiəʊkɑːbən ˈdeɪtɪŋ/-NAmE /ˌreɪdiəʊkɑːrbən ˈdeɪtɪŋ/
+radiocarbon dating		<-->	noun+C2	[221031][001]	./ˌreɪdiəʊkɑːbən ˈdeɪtɪŋ/-NAmE /ˌreɪdiəʊkɑːrbən ˈdeɪtɪŋ/
 	;cách đo tuổi bằng phóng xạ carbon -- [uncountable] (formal) carbon dating (= a method of calculating the age of very old objects by measuring the amounts of different forms of carbon in them)
 		;TOPICS Scientific researchC2, HistoryC2
 
 
-reformation		<-->	noun+C2	[221031][1]	./ˌrefəˈmeɪʃn/-NAmE /ˌrefərˈmeɪʃn/
+reformation		<-->	noun+C2	[221031][001]	./ˌrefəˈmeɪʃn/-NAmE /ˌrefərˈmeɪʃn/
 	;cải cách -- ​the Reformation [singular] new ideas in religion in 16th century Europe that led to attempts to reform (= change and improve) the Roman Catholic Church and to the forming of the Protestant Churches;the period of time when these changes were taking place
 		;Culture
 		;TOPICS HistoryC2, Religion and festivalsC2
 
 
-Regency		<-->	adjective+C2	[220911][1]	./ˈriːdʒənsi/-NAmE /ˈriːdʒənsi/
+Regency		<-->	adjective+C2	[220911][001]	./ˈriːdʒənsi/-NAmE /ˈriːdʒənsi/
 	;(tt) nhiếp chính -- [usually before noun] ​of or in the style of the period 1811–20 in the UK, when George, Prince of Wales, was regent(nhiếp chính) (= ruled the country in place of the king, his father)
 		;Regency architecture
 		;Culture
 		;TOPICS HistoryC2, BuildingsC2
 
 
-reign		<-->	noun+C1	[221031][1]	./reɪn/-NAmE /reɪn/
+reign		<-->	noun+C1	[221031][001]	./reɪn/-NAmE /reɪn/
 ​	;thời kỳ trị vì -- the period during which a king, queen, emperor, etc. rules
 		;By the end of his reign, the vast empire was in decline.
 		;in/during a reign The house was built during the reign of Henry VIII.
@@ -2076,7 +2076,7 @@ reign		<-->	noun+C1	[221031][1]	./reɪn/-NAmE /reɪn/
 		;TOPICS HistoryC1
 
 
-reign		<-->	verb+C1	[220911][1]	./reɪn/-NAmE /reɪn/
+reign		<-->	verb+C1	[220911][001]	./reɪn/-NAmE /reɪn/
 	;trị vì --  [intransitive] to rule as king, queen, emperor, etc.
 		;It was the first visit by a British reigning monarch to Russia.
 		;Queen Victoria reigned from 1837 to 1901.
@@ -2085,13 +2085,13 @@ reign		<-->	verb+C1	[220911][1]	./reɪn/-NAmE /reɪn/
 		;TOPICS HistoryC1
 
 
-reign of terror		<-->	noun+C2	[221031][1]	./ˌreɪn əv ˈterə(r)/-NAmE /ˌreɪn əv ˈterər/
+reign of terror		<-->	noun+C2	[221031][001]	./ˌreɪn əv ˈterə(r)/-NAmE /ˌreɪn əv ˈterər/
 	;sự cai trị tàn ác -- (plural reigns of terror) ​a period during which there is a lot of violence and many people are killed by the political leader or people in power
 		;His 12-year reign of terror left thousands dead.
 		;TOPICS HistoryC2
 
 
-relic		<-->	noun+C2	[220911][1]	./ˈrelɪk/-NAmE /ˈrelɪk/
+relic		<-->	noun+C2	[220911][001]	./ˈrelɪk/-NAmE /ˈrelɪk/
 	;thánh tích -- relic (of/from something) an object, a tradition, a system, etc. that has survived from the past
 		;The building stands as the last remaining relic of the town's cotton industry.
 		;Videotapes may already seem like relics of a bygone era.
@@ -2112,20 +2112,20 @@ relic		<-->	noun+C2	[220911][1]	./ˈrelɪk/-NAmE /ˈrelɪk/
 		;a relic of an age, a relic of a time, a relic of the past…
 
 
-renaissance		<-->	noun+C1	[220911][1]	./rɪˈneɪsns/-NAmE /ˈrenəsɑːns/
+renaissance		<-->	noun+C1	[220911][001]	./rɪˈneɪsns/-NAmE /ˈrenəsɑːns/
 	;thời kỳ phục hưng -- [singular] the Renaissance the period in Europe during the fourteenth, fifteenth and sixteenth centuries when people became interested in the ideas and culture of ancient Greece and Rome and used these influences in their own art, literature, etc.
 		;Renaissance art
 		;TOPICS HistoryC1, ArtC1
 
 
-restoration		<-->	noun+C2	[221031][1]	./ˌrestəˈreɪʃn/-NAmE /ˌrestəˈreɪʃn/
+restoration		<-->	noun+C2	[221031][001]	./ˌrestəˈreɪʃn/-NAmE /ˌrestəˈreɪʃn/
 	;thời bắt đầu quân chủ lập hiến ờ Anh 1660 -- the Restoration [singular] the time in Britain after 1660 when, following a period with no king or queen, Charles II became king
 		;Restoration comedy/poetry (= written during and after this time)
 		;Culture
 		;TOPICS HistoryC2
 
 
-revolution		<-->	noun+B2	[221031][1]	./ˌrevəˈluːʃn/-NAmE /ˌrevəˈluːʃn/	
+revolution		<-->	noun+B2	[221031][001]	./ˌrevəˈluːʃn/-NAmE /ˌrevəˈluːʃn/	
 	;cuộc cách mạng -- [countable, uncountable] an attempt, by a large number of people, to change the government of a country, especially by violent action
 		;a socialist revolution
 		;the outbreak of the French Revolution in 1789
@@ -2148,7 +2148,7 @@ revolution		<-->	noun+B2	[221031][1]	./ˌrevəˈluːʃn/-NAmE /ˌrevəˈluːʃn/
 				;the outbreak of the revolution, revolution from above, revolution from below
 
 
-Roman		<-->	adjective+A2	[220911][1]	./ˈrəʊmən/-NAmE /ˈrəʊmən/-\
+Roman		<-->	adjective+A2	[220911][001]	./ˈrəʊmən/-NAmE /ˈrəʊmən/-\
 	;(tt) La Mã cổ -- ​connected with ancient Rome or the Roman Empire
 		;a Roman road/temple/villa
 		;Roman Britain
@@ -2156,7 +2156,7 @@ Roman		<-->	adjective+A2	[220911][1]	./ˈrəʊmən/-NAmE /ˈrəʊmən/-\
 		;TOPICS HistoryA2
 
 
-ruin		<-->	noun+B2	[220911][1]	./ˈruːɪn/-NAmE /ˈruːɪn/
+ruin		<-->	noun+B2	[220911][001]	./ˈruːɪn/-NAmE /ˈruːɪn/
 	;phần phế tích, đổ nát --  [countable], (also ruins [plural]) , the parts of a building that remain after it has been destroyed or severely damaged
 		;The old mill is now little more than a ruin.
 		;We visited the ruins of a Norman castle.
@@ -2173,7 +2173,7 @@ ruin		<-->	noun+B2	[220911][1]	./ˈruːɪn/-NAmE /ˈruːɪn/
 		;ruins of
 
 
-scaffold		<-->	noun+C2	[220911][1]	./ˈskæfəʊld/-NAmE /ˈskæfəʊld/
+scaffold		<-->	noun+C2	[220911][001]	./ˈskæfəʊld/-NAmE /ˈskæfəʊld/
 	;đoạn đầu đài -- a platform used when executing criminals by cutting off their heads or hanging them from a rope
 		;to be sent to the scaffold
 		;on the scaffold to die on the scaffold
@@ -2181,7 +2181,7 @@ scaffold		<-->	noun+C2	[220911][1]	./ˈskæfəʊld/-NAmE /ˈskæfəʊld/
 		;TOPICS HistoryC2
 
 
-shield		<-->	noun+C1	[220911][1]	./ʃiːld/-NAmE /ʃiːld/
+shield		<-->	noun+C1	[220911][001]	./ʃiːld/-NAmE /ʃiːld/
 	;cái khiên, lá chắn -- a large piece of metal or leather carried by soldiers in the past to protect the body when fighting
 		;She did not recognize the coat of arms on his shield.
 		;TOPICS HistoryC1, War and conflictC1
@@ -2194,17 +2194,17 @@ shield		<-->	noun+C1	[220911][1]	./ʃiːld/-NAmE /ʃiːld/
 		;behind a/​the shield, on a/​the shield
 
 
-Sinologist		<-->	noun+C2	[221031][1]	./saɪˈnɒlədʒɪst/,  /sɪˈnɒlədʒɪst/-NAmE /saɪˈnɑːlədʒɪst/,  /sɪˈnɑːlədʒɪst/
+Sinologist		<-->	noun+C2	[221031][001]	./saɪˈnɒlədʒɪst/,  /sɪˈnɒlədʒɪst/-NAmE /saɪˈnɑːlədʒɪst/,  /sɪˈnɑːlədʒɪst/
 ​	;nhà nguyên cứu TQ -- a person who studies Chinese language, history, customs and politics
 		;TOPICS HistoryC2
 
 
-Sinology		<-->	noun+C2	[221031][1]	./saɪˈnɒlədʒi/,  /sɪˈnɒlədʒi/-NAmE /saɪˈnɑːlədʒi/,  /sɪˈnɑːlədʒi/
+Sinology		<-->	noun+C2	[221031][001]	./saɪˈnɒlədʒi/,  /sɪˈnɒlədʒi/-NAmE /saɪˈnɑːlədʒi/,  /sɪˈnɑːlədʒi/
 	;TQ học -- [uncountable] the study of Chinese language, history, customs and politics
 		;TOPICS HistoryC2
 
 
-spear		<-->	noun+C1	[221031][1]	./spɪə(r)/-NAmE /spɪr/
+spear		<-->	noun+C1	[221031][001]	./spɪə(r)/-NAmE /spɪr/
 	;giáo, mũi giáo -- [Image]a weapon with a long wooden handle and a sharp metal point used for fighting, hunting and fishing in the past
 		;She had a fish impaled on the point of her spear.
 		;The tribesmen were armed with spears and shields.
@@ -2221,13 +2221,13 @@ spear		<-->	noun+C1	[221031][1]	./spɪə(r)/-NAmE /spɪr/
 		;the point of a spear
 
 
-the Bronze Age		<-->	noun+C2	[221031][1]	./ðə ˈbrɒnz eɪdʒ/-NAmE /ðə ˈbrɑːnz eɪdʒ/
+the Bronze Age		<-->	noun+C2	[221031][001]	./ðə ˈbrɒnz eɪdʒ/-NAmE /ðə ˈbrɑːnz eɪdʒ/
 	;thời đồ đồng -- [singular] the period in history between the Stone Age and the Iron Age when people used tools and weapons made of bronze
 		;Culture Bronze Age Britain
 		;TOPICS HistoryC2
 
 
-the Cambrian		<-->	noun+C2	[221031][1]	./ðə ˈkæmbriən/-NAmE /ðə ˈkæmbriən/
+the Cambrian		<-->	noun+C2	[221031][001]	./ðə ˈkæmbriən/-NAmE /ðə ˈkæmbriən/
 	;thời kỳ cổ -- [singular] (geology) ​the first period of the Palaeozoic
 		;TOPICS HistoryC2
 
@@ -2237,53 +2237,53 @@ the Christian era		<-->	noun+C2     /ðə ˈkrɪstʃən ɪərə/-NAmE /ðə ˈkr
 		;TOPICS HistoryC2
 
 
-the Cretaceous		<-->	noun+C2	[221031][1]	./ðə krɪˈteɪʃəs/-NAmE /ðə krɪˈteɪʃəs/
+the Cretaceous		<-->	noun+C2	[221031][001]	./ðə krɪˈteɪʃəs/-NAmE /ðə krɪˈteɪʃəs/
 	;kỷ phấn trắng -- [singular] (geology) ​the period between around 146 to 65 million years ago, when dinosaurs lived (until they died out)
 		;TOPICS HistoryC2
 
 
-the dark ages		<-->	noun+C2	[220911][1]	./ðə ˈdɑːk eɪdʒɪz/-NAmE /ðə ˈdɑːrk eɪdʒɪz/
+the dark ages		<-->	noun+C2	[220911][001]	./ðə ˈdɑːk eɪdʒɪz/-NAmE /ðə ˈdɑːrk eɪdʒɪz/
 	;thời kỳ đen tối -- [plural] ​the Dark Ages the period of European history between the end of the Roman Empire and the end of the 10th century AD ()
 		;TOPICS HistoryC2
 
 
-the Industrial Revolution		<-->	noun+C1	[221031][1]	./ði ɪnˌdʌstriəl revəˈluːʃn/-NAmE /ði ɪnˌdʌstriəl revəˈluːʃn/
+the Industrial Revolution		<-->	noun+C1	[221031][001]	./ði ɪnˌdʌstriəl revəˈluːʃn/-NAmE /ði ɪnˌdʌstriəl revəˈluːʃn/
 	;cách mạng công nghiệp -- [singular] ​the period in the 18th and 19th centuries in Europe and the US when machines began to be used to do work, and industry grew rapidly
 		;Culture
 		;TOPICS HistoryC1
 
 
-the Iron Age		<-->	noun+C2	[221031][1]	./ði ˈaɪən eɪdʒ/-NAmE /ði ˈaɪərn eɪdʒ/
+the Iron Age		<-->	noun+C2	[221031][001]	./ði ˈaɪən eɪdʒ/-NAmE /ði ˈaɪərn eɪdʒ/
 	;thời kỳ đồ sắt -- [singular] ​the historical period about 3 000 years ago when people first used iron tools
 		;Culture Iron Age Britain
 		;TOPICS HistoryC2
 
 
-the Jurassic		<-->	noun+C2	[221031][1]	./ðə ˌdʒʊˈræsɪk/-NAmE /ðə ˌdʒʊˈræsɪk/
+the Jurassic		<-->	noun+C2	[221031][001]	./ðə ˌdʒʊˈræsɪk/-NAmE /ðə ˌdʒʊˈræsɪk/
 	;kỷ Jura -- [singular] (geology) ​the period between around 208 to 146 million years ago, when the largest known dinosaurs lived
 		;TOPICS HistoryC2
 
 
-the Middle Ages		<-->	noun+C1	[221031][1]	./ðə ˌmɪdl ˈeɪdʒɪz/-NAmE /ðə ˌmɪdl ˈeɪdʒɪz/
+the Middle Ages		<-->	noun+C1	[221031][001]	./ðə ˌmɪdl ˈeɪdʒɪz/-NAmE /ðə ˌmɪdl ˈeɪdʒɪz/
 	;thời kỳ trung cổ -- [plural] ​in European history, the period from about AD 1000 to AD 1450
 		;Culture
 		;TOPICS HistoryC1
 
 
-the Stone Age		<-->	noun+C1	[221031][1]	./ðə ˈstəʊn eɪdʒ/-NAmE /ðə ˈstəʊn eɪdʒ/
+the Stone Age		<-->	noun+C1	[221031][001]	./ðə ˈstəʊn eɪdʒ/-NAmE /ðə ˈstəʊn eɪdʒ/
 	;thời  kỳ đồ đá -- [singular] ​the very early period of human history when tools and weapons were made of stone
 		;(figurative) My dad's taste in music is from the Stone Age (= very old-fashioned).
 		;Culture Stone Age Britain
 		;TOPICS HistoryC1
 
 
-stone-age		<-->	adjective+C1	[220911][1]	./ˈstəʊn eɪdʒ/-NAmE /ˈstəʊn eɪdʒ/
+stone-age		<-->	adjective+C1	[220911][001]	./ˈstəʊn eɪdʒ/-NAmE /ˈstəʊn eɪdʒ/
 	;(tt) thời đồ đá -- [only before noun] ​belonging to the very early period of human history when tools and weapons were made of stone
 		;stone-age man/tools/culture
 		;TOPICS HistoryC1
 
 
-successor		<-->	noun+C1	[221031][1]	./səkˈsesə(r)/-NAmE /səkˈsesər/
+successor		<-->	noun+C1	[221031][001]	./səkˈsesə(r)/-NAmE /səkˈsesər/
 	;người kế nhiệm/vị -- successor (to somebody/something) a person or thing that comes after somebody/something else and takes their/its place
 		;Who's the likely successor to him as party leader?
 		;Their latest release is a worthy successor to their popular debut album.
@@ -2304,7 +2304,7 @@ successor		<-->	noun+C1	[221031][1]	./səkˈsesə(r)/-NAmE /səkˈsesər/
 				;the appointment of a successor, the choice of a successor, the election of a successor…
 
 
-sword		<-->	noun+C1	[221031][1]	./sɔːd/-NAmE /sɔːrd/
+sword		<-->	noun+C1	[221031][001]	./sɔːd/-NAmE /sɔːrd/
 	;gươm -- (Idiooms) ​[Image]a weapon with a long metal blade (= sharp cutting part) and a handle
 		;to draw/sheathe a sword (= to take it out of/put it into its cover)
 		;Extra Examples
@@ -2331,13 +2331,13 @@ sword		<-->	noun+C1	[221031][1]	./sɔːd/-NAmE /sɔːrd/
 			---
 
 
-the history books		<-->	idiom+C2[-0]	.
+the history books		<-->	idiom+C2[0]	./i/
 	;ghi vào sử sách -- the record of great achievements in history
 		;She has earned her place in the history books.
 		;TOPICS HistoryC2
 
 
-time		<-->	noun+A2	[220911][1]	./taɪm/-NAmE /taɪm/
+time		<-->	noun+A2	[220911][001]	./taɪm/-NAmE /taɪm/
 	;giai đoạn lịch sử -- [uncountable, plural] a period of history connected with particular events or experiences in people’s lives
 		;at the time of something The movie is set at the time of the Russian Revolution.
 		;in… time(s) the politician who promised ‘peace in our time’
@@ -2361,50 +2361,50 @@ time		<-->	noun+A2	[220911][1]	./taɪm/-NAmE /taɪm/
 		;from time immemorial, since time immemorial, of all time…
 
 
-tsar		<-->	noun+C2	[221031][1]	./zɑː(r)/-NAmE /zɑːr/
+tsar		<-->	noun+C2	[221031][001]	./zɑː(r)/-NAmE /zɑːr/
 	;sa hoàng -- (also tzar, czar) ​the emperor of Russia in the past
 		;Tsar Nicholas II
 		;Extra Examples
 		;TOPICS HistoryC2, People in societyC2
 
 
-tsarina		<-->	noun+C2	[221031][1]	./zɑːˈriːnə/-NAmE /zɑːˈriːnə/
+tsarina		<-->	noun+C2	[221031][001]	./zɑːˈriːnə/-NAmE /zɑːˈriːnə/
 	;nữ hoàng Nga -- (also tzarina, czarina) ​the empress of Russia in the past
 		;TOPICS HistoryC2, People in societyC2
 
 
-tzar		<-->	noun+C2	[221031][1]	./zɑː(r)/-NAmE /zɑːr/
+tzar		<-->	noun+C2	[221031][001]	./zɑː(r)/-NAmE /zɑːr/
 	;sa hoàng -- (also tsar, czar) ​the emperor of Russia in the past
 		;TOPICS HistoryC2, People in societyC2
 
 
-Victorian		<-->	adjective+C1	[220911][1]	./vɪkˈtɔːriən/-NAmE /vɪkˈtɔːriən/-\
+Victorian		<-->	adjective+C1	[220911][001]	./vɪkˈtɔːriən/-NAmE /vɪkˈtɔːriən/-\
 	;(tt) thời Victoria -- connected with the period from 1837 to 1901 when Queen Victoria was queen in the UK
 		;Victorian architecture
 		;the Victorian age
 		;TOPICS HistoryC1, BuildingsC1
 
 
-Victorian		<-->	noun+C1	[221031][1]	./vɪkˈtɔːriən/-NAmE /vɪkˈtɔːriən/
+Victorian		<-->	noun+C1	[221031][001]	./vɪkˈtɔːriən/-NAmE /vɪkˈtɔːriən/
 	;người Anh thời Victoria -- a British person who was alive during the period from 1837 to 1901, when Queen Victoria was queen
 		;TOPICS HistoryC1
 
 
-wartime		<-->	noun+B2	[220911][2]	./ˈwɔːtaɪm/-NAmE /ˈwɔːrtaɪm/-\
+wartime		<-->	noun+B2	[220911][002]	./ˈwɔːtaɪm/-NAmE /ˈwɔːrtaɪm/-\
 	;thời chiến -- [uncountable]
 ​		;the period during which a country is fighting a war
 		;Different rules applied in wartime.
 		;TOPICS HistoryB2, War and conflictB2
 
 
-wartime		<-->	adjective+B2	[220911][2]	./ˈwɔːtaɪm/-NAmE /ˈwɔːrtaɪm/
+wartime		<-->	adjective+B2	[220911][002]	./ˈwɔːtaɪm/-NAmE /ˈwɔːrtaɪm/
 	;(tt) thời chiến -- from or connected with a period during which a country is fighting a war
 		;Fruit was a luxury in wartime Britain.
 		;her wartime experiences
 		;TOPICS HistoryB2, War and conflictB2
 
 
-zeitgeist		<-->	noun+C2	[221031][1]	./ˈzaɪtɡaɪst/-NAmE /ˈzaɪtɡaɪst/
+zeitgeist		<-->	noun+C2	[221031][001]	./ˈzaɪtɡaɪst/-NAmE /ˈzaɪtɡaɪst/
 	;luồng tư tưởng -- [singular] (from German, formal) the general mood or quality of a particular period of history, as shown by the ideas, beliefs, etc. common at the time
 		;SYNONYM spirit (6)
 		;TOPICS HistoryC2

@@ -178,10 +178,10 @@ aft		<-->	adjective+C2	[221116][001]	./ɑːft/-NAmE /æft/ (specialist)
 
 
 
-aileron		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+aileron		<-->	noun+C2	[221120][001]	./ˈeɪlərɒn/-NAmE /ˈeɪlərɑːn/ (specialist)
+	;rìa sau cánh chính -- (1) a part of the wing of a plane that moves up and down to control the plane’s balance
+		;TOPICS Transport by airC2
+		;Word Origin
 
 
 
@@ -190,11 +190,9 @@ aileron		<-->	noun+C2[-0]	.
 
 
 
-
-airbase		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+airbase		<-->	noun+C2	[221120][001]	./ˈeəbeɪs/-NAmE /ˈerbeɪs/
+	;căn cứ không quân -- (1) a place where military aircraft fly from and are kept, and where some staff live
+		;TOPICS Transport by airC2
 
 
 
@@ -203,9 +201,10 @@ airbase		<-->	noun+C2[-0]	.
 
 
 
-
-airborne		<-->	adjective+C2[-0]	.
-	; -- (1) 
+airborne		<-->	adjective+C2	[221120][001]	./ˈeəbɔːn/-NAmE /ˈerbɔːrn/
+	;trên không -- (1) [not before noun] (of a plane or passengers) in the air
+		;Do not leave your seat until the plane is airborne.
+		;TOPICS Transport by airC2
 	; -- (2) 
 	; -- (3) 
 
@@ -282,11 +281,9 @@ aircrew		<-->	noun+C2[-0]	.
 
 
 
-airdrome		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+airdrome		<-->	noun+C2	[221120][001]	./ˈeədrəʊm/-NAmE /ˈerdrəʊm/ (US English) (British English aerodrome) (old-fashioned)
+	;sân bay nhỏ -- (1) a small airport
+		;TOPICS Transport by airC2
 
 
 
@@ -334,10 +331,9 @@ air hostess		<-->	noun+C1[-0]	.
 
 
 
-air lane		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+air lane		<-->	noun+C2	[221120][001]	./ˈeə leɪn/-NAmE /ˈer leɪn/
+	;đường bay -- (1) a route regularly used by aircraft
+		;TOPICS Transport by airC2
 
 
 
@@ -360,10 +356,13 @@ airline		<-->	noun+A2[-0]	.
 
 
 
-airliner		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+airliner		<-->	noun+C2	[221120][001]	./ˈeəlaɪnə(r)/-NAmE /ˈerlaɪnər/
+	;máy bay chở khách -- (1) ​enlarge imagea large plane that carries passengers
+		;TOPICS Transport by airC2
+		;Oxford Collocations Dictionary
+				;Airliner is used after these nouns:
+				;jet
+		;See full entry
 
 
 
@@ -373,11 +372,12 @@ airliner		<-->	noun+C2[-0]	.
 
 
 
-air marshal		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+air marshal		<-->	noun+C2	[221120][001]	./ˈeə mɑːʃl/-NAmE /ˈer mɑːrʃl/
+	;tư lệnh không gian -- (1) an officer of very high rank in the British air force
+		;Air Marshal Sue Gray
+		;TOPICS War and conflictC2
+	;lực lượng không gian -- (2) ​(also sky marshal) an armed guard, especially a government official, who travels on a plane with the passengers in order to protect the plane from terrorists
+		;TOPICS Transport by airC2
 
 
 
@@ -412,10 +412,13 @@ airplane		<-->	noun+A1[-0]	.
 
 
 
-air pocket		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+air pocket		<-->	noun+C2	[221120][001]	./ˈeə pɒkɪt/-NAmE /ˈer pɑːkɪt/
+	;vùng rỗng -- (1) a closed area that becomes filled with air
+		;Make sure there are no air pockets around the roots of the plant.
+	;túi áp suất thấp -- (2) an area of low air pressure that makes a plane suddenly drop while flying
+		;The plane hit an air pocket.
+		;TOPICS Transport by airC2
+
 
 
 
@@ -438,10 +441,9 @@ airport		<-->	noun+A1[-0]	.
 
 
 
-airship		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+airship		<-->	noun+C2	[221120][001]	./ˈeəʃɪp/-NAmE /ˈerʃɪp/
+	;phi thuyền -- (1) [img] a large aircraft without wings, filled with a gas that is lighter than air, and driven by engines
+		;TOPICS Transport by airC2
 
 
 
@@ -503,11 +505,9 @@ airspeed		<-->	noun+B2[-0]	.
 
 
 
-airstrip		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+airstrip		<-->	noun+C2	[221120][001]	./ˈeəstrɪp/-NAmE /ˈerstrɪp/ (also landing strip)
+	;đường băng -- (1) a narrow piece of cleared land that an aircraft can land on
+		;TOPICS Transport by airC2
 
 
 
@@ -555,10 +555,9 @@ air traffic controller		<-->	noun+C1[-0]	.
 
 
 
-airworthiness		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+airworthiness		<-->	noun+C2	[221120][001]	./ˈeəwɜːðinəs/-NAmE /ˈerwɜːrðinəs/ [uncountable]
+	;Tình trạng đủ an toàn bay -- (1) the fact of an aircraft being safe to fly
+		;TOPICS Transport by airC2
 
 
 
@@ -567,9 +566,9 @@ airworthiness		<-->	noun+C2[-0]	.
 
 
 
-
-airworthy		<-->	adjective+C2[-0]	.
-	; -- (1) 
+airworthy		<-->	adjective+C2	[221120][001]	./ˈeəwɜːði/-NAmE /ˈerwɜːrði/
+	;đủ an toàn bay -- (1) (of aircraft) safe to fly
+		;TOPICS Transport by airC2
 	; -- (2) 
 	; -- (3) 
 
@@ -594,8 +593,9 @@ aisle		<-->	noun+B2[-0]	.
 
 
 
-altimeter		<-->	noun+C2[-0]	.
-	; -- (1) 
+altimeter		<-->	noun+C2	[221120][001]	./ˈæltɪmiːtə(r)/-NAmE /ælˈtɪmətər/
+	;đồng hồ đo độ cao -- (1) an instrument for showing height above sea level, used especially in an aircraft
+		;TOPICS Transport by airC2
 	; -- (2) 
 	; -- (3) 
 
@@ -633,9 +633,12 @@ approach		<-->	noun+B2[-0]	.
 
 
 
-apron		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+apron		<-->	noun+C2	[221120][001]	./ˈeɪprən/-NAmE /ˈeɪprən/
+	;tạp đề -- (1) a piece of clothing worn over the front of the body, from the chest or the waist down, and tied around the waist. Aprons are worn over other clothes to keep them clean, for example when cooking.
+		;COMPARE pinafore
+		;TOPICS Clothes and FashionB2
+	;??? -- (2) ​(specialist) an area with a hard surface at an airport, where aircraft are turned around, loaded, etc.
+		;TOPICS Transport by airC2
 	; -- (3) 
 
 
@@ -685,10 +688,15 @@ autopilot		<-->	noun+C1[-0]	.
 
 
 
-aviation		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+aviation		<-->	noun+C1	[221120][001]	./ˌeɪviˈeɪʃn/-NAmE /ˌeɪviˈeɪʃn/ [uncountable]
+	;ngành hàng không -- (1) the designing, building and flying of aircraft
+		;civil/military aviation
+		;the aviation business/industry
+		;TOPICS Transport by airC1
+				;Oxford Collocations Dictionary
+				;Aviation is used before these nouns:
+				;cadetfuelindustry…
+		;See full entry
 
 
 
@@ -697,9 +705,15 @@ aviation		<-->	noun+C1[-0]	.
 
 
 
-
-aviator		<-->	noun+C2[-0]	.
-	; -- (1) 
+aviator		<-->	noun+C2	[221120][001]	./ˈeɪvieɪtə(r)/-NAmE /ˈeɪvieɪtər/ (old-fashioned)
+	;phi công -- (1) a person who flies an aircraft
+		;One of Australia’s pioneering women aviators learnt to fly in the 1930s.
+		;an intrepid aviator
+		;TOPICS Transport by airC2
+				;Oxford Collocations Dictionary
+				;Aviator is used before these nouns:
+				;sunglasses
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -724,10 +738,9 @@ baggage		<-->	noun+A2[-0]	.
 
 
 
-baggage carousel		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+baggage carousel		<-->	noun+C2	[221120][001]	./ˈbæɡɪdʒ kærəsel/-NAmE /ˈbæɡɪdʒ kærəsel/ (also carousel)
+	;băng chuyền hành lý -- (1) a moving belt from which you collect your bags at an airport
+		;TOPICS Transport by airC2
 
 
 
@@ -750,10 +763,16 @@ baggage reclaim		<-->	noun+B2[-0]	.
 
 
 
-bail out		<-->	phrasal veerb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+bail out		<-->	phrasal veerb+C2	[221120][001]	./P/
+	;nhảy khỏi máy bay -- (1) [-bail out (of something)] to jump out of a plane that is going to crash
+		;The pilot bailed out and parachuted into the sea.
+		;TOPICS Transport by airC2
+	;tát nước -- (2) to empty water from something by lifting it out with your hand or a container
+		;He had to stop rowing to bail water out of the boat.
+		;The boat will sink unless we bail out.
+		;TOPICS Transport by waterC2
+	;trả tiền bảo lãnh -- (3) [bail somebody  out] to pay somebody’s bail for them
+		;TOPICS Law and justiceC2
 
 
 
@@ -776,10 +795,15 @@ balloon		<-->	noun+B2[-0]	.
 
 
 
-beacon		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+beacon		<-->	noun+C2	[221120][001]	./ˈbiːkən/-NAmE /ˈbiːkən/
+	;đèn tín hiệu -- (1) a light that is placed somewhere to guide vehicles and warn them of danger
+		;a navigation beacon
+		;(figurative) He was a beacon of hope for the younger generation.
+		;SEE ALSO Belisha beacon
+		;TOPICS Transport by waterC2
+	;đèn tín hiệu -- (2) a radio station whose signal helps ships and aircraft to find their position
+		;The plane was guided in by radio beacon.
+		;TOPICS Transport by waterC2, Transport by airC2, TV, radio and newsC2
 
 
 
@@ -789,10 +813,11 @@ beacon		<-->	noun+C2[-0]	.
 
 
 
-biplane		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+
+biplane		<-->	noun+C2	[221120][001]	./ˈbaɪpleɪn/-NAmE /ˈbaɪpleɪn/
+	;phi cơ hai lớp cánh -- (1) an early type of plane with two sets of wings, one above the other
+		;COMPARE monoplane
+		;TOPICS Transport by airC2
 
 
 
@@ -801,12 +826,10 @@ biplane		<-->	noun+C2[-0]	.
 
 
 
-
-bird strike		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+bird strike		<-->	noun+C2	[221120][001]	./ˈbɜːd straɪk/-NAmE /ˈbɜːrd straɪk/
+	;sự va vào chim trong hàng không -- (1) an occasion when a bird hits an aircraft
+		;The aircraft suffered multiple bird strikes immediately after take-off.
+		;TOPICS Transport by airC2
 
 
 
@@ -815,8 +838,9 @@ bird strike		<-->	noun+C2[-0]	.
 
 
 
-black box		<-->	noun+C2[-0]	.
-	; -- (1) 
+black box		<-->	noun+C2	[221120][001]	./ˌblæk ˈbɒks/-NAmE /ˌblæk ˈbɑːks/
+	;hộp đen -- (1) (also flight recorder) a small machine in a plane that records all the details of each flight and is useful for finding out the cause of an accident
+		;TOPICS Transport by airC2
 	; -- (2) 
 	; -- (3) 
 
@@ -893,10 +917,11 @@ book		<-->	verb+A2[-0]	.
 
 
 
-bulkhead		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+bulkhead		<-->	noun+C2	[221120][001]	./ˈbʌlkhed/-NAmE /ˈbʌlkhed/ (specialist)
+	;vách ngăn -- (1) a wall that divides a ship or an aircraft into separate parts
+		;TOPICS Transport by waterC2, Transport by airC2
+		;Word Origin
+		;<< compartment, bulkhead, >>
 
 
 
@@ -906,10 +931,40 @@ bulkhead		<-->	noun+C2[-0]	.
 
 
 
-bump		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+bump		<-->	verb+C2	[221120][001]	./bʌmp/-NAmE /bʌmp/\
+	;va vào -- (1) [intransitive] to hit somebody/something by accident
+		;bump into somebody/something In the dark I bumped into a chair.
+		;bump against somebody/something The car bumped against the kerb.
+		;Synonyms hit: knock, bang, strike, bump, bash
+		;<< hit, knock, bang, strike, bump, bash, >>
+		;Extra Examples: 
+		;I bumped into the corner of a table as I left.
+		;I ran after her, bumping against people in my rush.
+				;Oxford Collocations Dictionary
+				;adverb
+				;accidentallygentlyalmost…
+				;preposition
+				;againstintoon…
+		;See full entry
+	;va vào -- (2) [transitive] bump something (against/on something) to hit something, especially a part of your body, against or on something
+		;Be careful not to bump your head on the beam when you stand up.
+		;Extra Examples:
+		;I bumped my head on the door frame.
+		;She bumped her knee as she was climbing into the pool.
+		;Their boat came up alongside, bumping the side of ours.
+		;Toddlers are always falling over and bumping their heads.
+		;TOPICS Health problemsB2
+				;Oxford Collocations Dictionary
+				;adverb
+				;accidentallygentlyalmost…
+				;preposition
+				;againstintoon…
+		;See full entry
+	;chuyển nhóm -- (4) [transitive] bump somebody + adv./prep. to move somebody from one group or position to another; to remove somebody from a group
+		;The airline apologized and bumped us up to first class.
+		;If you are bumped off an airline because of overbooking, you are entitled to compensation.
+		;The coach told him he had been bumped from the crew.
+		;TOPICS Transport by airC2
 
 
 
@@ -2401,10 +2456,9 @@ landing card		<-->	noun+B2[-0]	.
 
 
 
-landing gear		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+landing gear		<-->	noun+C2	[221120][001]	./ˈlændɪŋ ɡɪə(r)/-NAmE /ˈlændɪŋ ɡɪr/ (also undercarriage) [uncountable]
+	;càng đáp -- (1) the part of an aircraft, including the wheels, that supports it when it is landing and taking off
+		;TOPICS Transport by airC2
 
 
 
@@ -2414,10 +2468,9 @@ landing gear		<-->	noun+C2[-0]	.
 
 
 
-landing strip		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+landing strip		<-->	noun+C2	[221120][001]	./ˈlændɪŋ strɪp/-NAmE /ˈlændɪŋ strɪp/ (also airstrip)
+	;đường băng -- (1) a narrow piece of cleared land that an aircraft can land on
+		;TOPICS Transport by airC2
 
 
 
@@ -2440,10 +2493,13 @@ last call		<-->	noun+B2[-0]	.
 
 
 
-leading edge		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+leading edge		<-->	noun+C2	[221120][001]	./ˌliːdɪŋ ˈedʒ/-NAmE /ˌliːdɪŋ ˈedʒ/
+	;vị trí hàng đầu -- (1) [singular] the most important and advanced position in an area of activity, especially technology
+		;at the leading edge of scientific research
+		;The company has had the leading edge in electronics for ten years.
+	;rìa trước cánh chính -- (2) ​enlarge image[countable] (specialist) the front or forward edge of something moving, especially an aircraft wing
+		;TOPICS Transport by airC2
+
 
 
 
@@ -2531,11 +2587,10 @@ lounge		<-->	noun+B2[-0]	.
 
 
 
-Mayday		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+Mayday		<-->	noun+C2	[221120][001]	./ˈmeɪdeɪ/-NAmE /ˈmeɪdeɪ/ [uncountable]
+	;tín hiệu khẩn cấp hàng không -- (1) an international radio signal used by ships and aircraft needing help when they are in danger
+		;TOPICS Transport by waterC2, Transport by airC2
+		;Word Origin
 
 
 
@@ -2557,11 +2612,13 @@ metal detector		<-->	noun+C1[-0]	.
 
 
 
-microlight		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+microlight		<-->	noun+C2	[221120][001]	./ˈmaɪkrəʊlaɪt/-NAmE /ˈmaɪkrəʊlaɪt/ (British English) (North American English ultralight)
+	;máy bay siêu nhẹ -- (1) a very small light aircraft for one or two people
+		;TOPICS Transport by airC2
+		;Oxford Collocations Dictionary
+				;Microlight is used before these nouns:
+				;aircraft
+		;See full entry
 
 
 
@@ -2596,11 +2653,10 @@ mid-air		<-->	adjective+C1[-0]	.
 
 
 
-monoplane		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+monoplane		<-->	noun+C2	[221120][001]	./ˈmɒnəpleɪn/-NAmE /ˈmɑːnəpleɪn/
+	;máy bay thế hệ rất cũ??? -- (1) an early type of plane with one set of wings
+		;COMPARE biplane
+		;TOPICS Transport by airC2
 
 
 
@@ -2661,11 +2717,9 @@ nose		<-->	noun+B1[-0]	.
 
 
 
-nose cone		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+nose cone		<-->	noun+C2	[221120][001]	./ˈnəʊz kəʊn/-NAmE /ˈnəʊz kəʊn/
+	;mũi rocket, máy bay -- (1) the pointed front end of a rocket, an aircraft, etc.
+		;TOPICS Transport by airC2
 
 
 
@@ -2713,10 +2767,27 @@ originate		<-->	verb+C1[-0]	.
 
 
 
-outboard		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+outboard		<-->	adjective+C2	[221120][001]	./ˈaʊtbɔːd/-NAmE /ˈaʊtbɔːrd/ [usually before noun] (specialist)
+	;ngoài -- (1) on, towards or near the outside of a ship or an aircraft
+		;outboard wing panels
+		;TOPICS Transport by waterC2, Transport by airC2
+		;Oxford Collocations Dictionary
+				;Outboard is used with these nouns:
+				;enginemotor
+		;See full entry
+
+
+
+
+
+
+
+
+overbook		<-->	verb+C2	[221120][001]	./ˌəʊvəˈbʊk/-NAmE /ˌəʊvərˈbʊk/ [transitive, intransitive]
+	;bán lố -- (1) overbook (something) to sell more tickets on a plane or reserve more rooms in a hotel than there are places available
+		;The flight was heavily overbooked.
+		;COMPARE double-book
+		;TOPICS HolidaysC2, Transport by airC2
 
 
 
@@ -2726,10 +2797,11 @@ outboard		<-->	adjective+C2[-0]	.
 
 
 
-overbook		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+overfly		<-->	verb+C2	[221120][001]	./ˌəʊvəˈflaɪ/-NAmE /ˌəʊvərˈflaɪ/ [transitive, intransitive] (overflew, overflown)
+	;qua quá -- (1) overfly (something) to fly over a place
+		;We overflew the war zone, taking photographs.
+		;the noise from overflying planes
+		;TOPICS Transport by airC2
 
 
 
@@ -2738,22 +2810,11 @@ overbook		<-->	verb+C2[-0]	.
 
 
 
-
-overfly		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-overshoot		<-->	verb+C2[-0]	.
-	; -- (1) 
+overshoot		<-->	verb+C2	[221120][001]	./ˌəʊvəˈʃuːt/-NAmE /ˌəʊvərˈʃuːt/ (overshot, overshot)
+	;đi quá, vượt qua -- (1) ​[transitive, intransitive] to go further than the place you intended to stop or turn
+		;overshoot something The aircraft overshot the runway.
+		;overshoot (something) (by something) She had overshot by 20 metres.
+		;TOPICS Transport by airC2
 	; -- (2) 
 	; -- (3) 
 
@@ -2817,9 +2878,11 @@ parachutist		<-->	noun+C1[-0]	.
 
 
 
-paraglider		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+paraglider		<-->	noun+C2	[221120][001]	./ˈpærəɡlaɪdə(r)/-NAmE /ˈpærəɡlaɪdər/
+	;??? -- (1) a structure consisting of a big thin piece of cloth like a parachute, and a harness which is attached to a person when they jump from a high place in the sport of paragliding
+		;TOPICS Sports: other sportsC2
+	;??? -- (2) a person who does paragliding
+		;TOPICS Transport by airC2, Sports: other sportsC2
 	; -- (3) 
 
 
@@ -2895,10 +2958,10 @@ plane		<-->	noun+A1[-0]	.
 
 
 
-planeload		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+planeload		<-->	noun+C2	[221120][001]	./ˈpleɪnləʊd/-NAmE /ˈpleɪnləʊd/
+	;tải trọng máy bay -- (1) the number of people or the amount of goods that can be carried in a plane
+		;two planeloads of medical supplies
+		;TOPICS Transport by airC2
 
 
 
@@ -2908,8 +2971,13 @@ planeload		<-->	noun+C2[-0]	.
 
 
 
-propeller		<-->	noun+C2[-0]	.
-	; -- (1) 
+propeller		<-->	noun+C2	[221120][001]	./prəˈpelə(r)/-NAmE /prəˈpelər/
+	;cánh quạt mũi -- (1) enlarge imagea device with two or more long, flat blades that turn quickly and cause a ship or an aircraft to move forward
+		;The propeller suddenly stopped turning.
+		;Extra Examples:
+		;The boat is fitted with a two-blade propeller.
+		;The front engine drives the propellers.
+		;TOPICS Transport by waterC2, Transport by airC2
 	; -- (2) 
 	; -- (3) 
 
@@ -2934,8 +3002,10 @@ radar		<-->	noun+C1[-0]	.
 
 
 
-red-eye		<-->	noun+C2[-0]	.
-	; -- (1) 
+red-eye		<-->	noun+C2	[221120][001]	./ˈred aɪ/-NAmE /ˈred aɪ/
+	;một chuyến bay??? -- (1) (also red-eye flight) [countable] (especially North American English, informal) a flight in a plane at night, on which you cannot expect to get enough sleep
+		;We took the red-eye to Boston.
+		;TOPICS Transport by airC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3025,11 +3095,10 @@ round-trip		<-->	adjective+B1[-0]	.
 
 
 
-rudder		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+rudder		<-->	noun+C2	[221120][001]	./ˈrʌdə(r)/-NAmE /ˈrʌdər/
+	;bánh lái đuôi, phụ vây đuôi máy bay -- (1) ​enlarge imagea piece of wood or metal at the back of a boat or an aircraft that is used for controlling its direction
+		;TOPICS Transport by airC2
+		;Word Origin
 
 
 
@@ -3129,7 +3198,42 @@ security		<-->	noun+B1[-0]	.
 
 
 
-short-haul		<-->	adjective+C1[-0]	.
+short-haul		<-->	adjective+C1	[221120][001]	./ˈʃɔːt hɔːl/-NAmE /ˈʃɔːrt hɔːl/ [only before noun]
+	;đường ngắn -- (1) that involves transporting people or goods over short distances, especially by plane
+		;a short-haul airliner
+		;short-haul flights
+		;OPPOSITE long-haul
+		;TOPICS Transport by airC1
+
+
+
+
+
+
+
+
+sick		<-->	adjective+A1	[221120][001]	./cef/
+
+
+
+
+
+
+
+
+
+sick bag		<-->	noun+B2	[221120][001]	./ˈsɪk bæɡ/-NAmE /ˈsɪk bæɡ/
+	;túi mửa -- (1) a paper bag on a boat or plane into which you can vomit
+		;TOPICS Transport by airB2
+
+
+
+
+
+
+
+
+single		<-->	adjective+A2	[221120][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3142,7 +3246,41 @@ short-haul		<-->	adjective+C1[-0]	.
 
 
 
-sick		<-->	adjective+A1[-0]	.
+ski-plane		<-->	noun+C2	[221120][001]	./ˈskiː pleɪn/-NAmE /ˈskiː pleɪn/
+	;máy bay hạng nhẹ dùng cho vùng có tuyết dày -- (1) a plane with two parts like skis fixed to the bottom so that it can land on snow or ice
+		;TOPICS Transport by airC2
+
+
+
+
+
+
+
+
+skycap		<-->	noun+C2	[221120][001]	./ˈskaɪkæp/-NAmE /ˈskaɪkæp/ (North American English)
+	;khuân vác sân bay -- (1) a person whose job is to carry people’s bags at an airport
+		;TOPICS Transport by airC2
+
+
+
+
+
+
+
+
+
+sky marshal		<-->	noun+C2	[221120][001]	./ˈskaɪ mɑːʃl/-NAmE /ˈskaɪ mɑːrʃl/ (also air marshal)
+	;lực lượng không gian -- (1) an armed guard, especially a government official, who travels on a plane with the passengers in order to protect the plane from terrorists
+		;TOPICS Transport by airC2
+
+
+
+
+
+
+
+
+soar		<-->	verb+C1	[221120][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3155,7 +3293,19 @@ sick		<-->	adjective+A1[-0]	.
 
 
 
-sick bag		<-->	noun+B2[-0]	.
+sonic boom		<-->	noun+C2	[221120][001]	./ˌsɒnɪk ˈbuːm/-NAmE /ˌsɑːnɪk ˈbuːm/
+	;tiếng nổ siêu thanh -- (1) the explosive sound that is made when an aircraft travels faster than the speed of sound
+		;We heard the sonic boom of a jet overhead.
+		;TOPICS Transport by airC2
+
+
+
+
+
+
+
+
+spacecraft		<-->	noun+B2	[221120][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3168,7 +3318,7 @@ sick bag		<-->	noun+B2[-0]	.
 
 
 
-single		<-->	adjective+A2[-0]	.
+spaceship		<-->	noun+B1	[221120][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3181,8 +3331,42 @@ single		<-->	adjective+A2[-0]	.
 
 
 
-ski-plane		<-->	noun+C2[-0]	.
-	; -- (1) 
+space shuttle		<-->	noun+C1	[221120][001]	./ˈspeɪs ʃʌtl/-NAmE /ˈspeɪs ʃʌtl/ (also shuttle)
+	;tàu không gian -- (1) a spacecraft designed to make repeated journeys, for example between the earth and a space station
+		;Culture
+		;TOPICS SpaceC1, Transport by airC1
+
+
+
+
+
+
+
+
+spoiler		<-->	noun+C2	[221120][001]	./ˈspɔɪlə(r)/-NAmE /ˈspɔɪlər/
+	;??? -- (1) a part of an aircraft’s wing that can be raised in order to interrupt the flow of air over it and so slow the aircraft’s speed
+		;TOPICS Transport by airC2
+	;??? -- (2) ​a raised part on a fast car that prevents it from being lifted off the road when travelling very fast
+		;TOPICS Transport by car or lorryC2
+	; -- (3) 
+	;??? -- (4) a person or thing that intends or is intended to stop somebody/something being successful
+		;TOPICS Difficulty and failureC2
+	;??? -- (5) information that you are given about what is going to happen in a film, television series, etc. before it is shown to the public
+		;Warning: this review contains spoilers.
+		;SEE ALSO spoiler alert
+		;TOPICS Film and theatreC2
+
+
+
+
+
+
+
+
+
+stabilizer		<-->	noun+C2	[221120][001]	./ˈsteɪbəlaɪzə(r)/-NAmE /ˈsteɪbəlaɪzər/ (British English also stabiliser)
+	;thiết bị cân bằng hàng không -- (1) [countable] a device that keeps something steady, especially one that stops an aircraft or a ship from rolling to one side
+		;TOPICS Transport by waterC2, Transport by airC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3194,8 +3378,67 @@ ski-plane		<-->	noun+C2[-0]	.
 
 
 
-skycap		<-->	noun+C2[-0]	.
-	; -- (1) 
+stack		<-->	verb+C2	[221120][001]	./stæk/-NAmE /stæk/\
+	;xếp hàng, chất đống -- (1) ​[transitive, intransitive] to arrange objects neatly in a pile; to be arranged in this way
+		;stack (something) to stack boxes
+		;Do these chairs stack?
+		;stacking chairs
+		;stack something (up) (+ adv./prep.) logs stacked up against a wall
+		;Extra Examples:
+		;Boxes were stacked in piles all around the room.
+		;Stack the chairs up over there.
+		;The cases were stacked against the wall.
+		;The paintings were stacked in a corner of the room.
+		;The plates were neatly stacked on the draining board.
+		;The wood was collected up and carefully stacked away.
+				;Oxford Collocations Dictionary
+				;adverb
+				;carefullyneatlyaway…
+				;preposition
+				;againstinon…
+				;phrases
+				;be stacked in piles
+		;See full entry
+	; -- (2) 
+	;đợi tới lượt -- (3) [intransitive, transitive] stack (something) (up) if aircraft stack (up) or are stacked (up) over an airport, there are several flying around waiting for their turn to land
+		;TOPICS Transport by airC2
+
+
+
+
+
+
+
+
+
+standby		<-->	adjective+C2	[221120][001]	./ˈstændbaɪ/-NAmE /ˈstændbaɪ/-\ [only before noun]
+	;chợ đen -- (1) a standby ticket for a flight, concert, etc. cannot be bought in advance and is only available a very short time before the plane leaves or the performance starts
+		;TOPICS Transport by airC2
+				;Oxford Collocations Dictionary
+				;Standby is used with these nouns:
+				;mode
+		;See full entry
+
+
+
+
+
+
+
+steward		<-->	noun+C1[-0]	.ˈstjuːəd/-NAmE /ˈstuːərd/
+	;tiếp viên hàng không, tàu, xe -- (1) a person whose job is to take care of passengers on a ship, an aircraft or a train and who brings them meals, etc.
+		;a ship’s steward
+		;TOPICS Transport by waterC1, Transport by airC1, JobsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;chiefseniorair…
+				;verb + steward
+				;act aselect (somebody)
+				;steward + noun
+				;steward’s enquiry
+				;preposition
+				;steward to
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -3207,10 +3450,15 @@ skycap		<-->	noun+C2[-0]	.
 
 
 
-sky marshal		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+stewardess		<-->	noun+C1	[221120][001]	./ˌstjuːəˈdes/,  /ˈstjuːədes/-NAmE /ˈstuːərdəs/ (old-fashioned)
+	;tiếp viên hàng không -- (1) a female flight attendant
+		;TOPICS Transport by airC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;air
+		;See full entry
+	;tiếp viên hàng không -- (2) a female steward on a ship or train
+		;TOPICS JobsC1
 
 
 
@@ -3219,11 +3467,8 @@ sky marshal		<-->	noun+C2[-0]	.
 
 
 
+stick		<-->	noun+C1	[221120][001]	./cef/
 
-soar		<-->	verb+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -3232,11 +3477,24 @@ soar		<-->	verb+C1[-0]	.
 
 
 
+stopover		<-->	noun+C2	[221120][001]	./ˈstɒpəʊvə(r)/-NAmE /ˈstɑːpəʊvər/ (North American English also layover)
+	;điểm dừng chân -- (1) a short stay somewhere between two parts of a journey
+		;We had a two-day stopover in Fiji on the way to Australia.
+		;We had our tickets checked at each stopover.
+		;a stopover point on the way from Mexico to the Philippines
+		;Collocations Travel and tourism
+		;TOPICS Transport by airC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;briefextendedprolonged…
+				;verb + stopover
+				;havemake
+				;stopover + noun
+				;point
+				;preposition
+				;at a/​the stopoverduring a/​the stopover
+		;See full entry
 
-sonic boom		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -3244,156 +3502,9 @@ sonic boom		<-->	noun+C2[-0]	.
 
 
 
-
-
-spacecraft		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-spaceship		<-->	noun+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-space shuttle		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-spoiler		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-stabilizer		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-stack		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-standby		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-steward		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-stewardess		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-stick		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-stopover		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-stowage		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+stowage		<-->	noun+C2	[221120][001]	./ˈstəʊɪdʒ/-NAmE /ˈstəʊɪdʒ/ [uncountable]
+	;chỗ chất hàng -- (1) space provided for stowing things away, in a boat or a plane
+		;TOPICS Transport by waterC2, Transport by airC2
 
 
 
@@ -3412,8 +3523,7 @@ tail		<-->	noun+B1	[221119][001]	./cef/
 
 
 
-tailplane		<-->	noun+C2	[221119][001]	./ˈteɪlpleɪn/
- /ˈteɪlpleɪn/
+tailplane		<-->	noun+C2	[221119][001]	./ˈteɪlpleɪn/-NAmE /ˈteɪlpleɪn/
 	;đuôi máy bay -- (1) a small wing at the back of an aircraft
 		;TOPICS Transport by airC2
 
@@ -3424,8 +3534,7 @@ tailplane		<-->	noun+C2	[221119][001]	./ˈteɪlpleɪn/
 
 
 
-tailspin		<-->	noun+C2	[221119][001]	./ˈteɪlspɪn/
- /ˈteɪlspɪn/ [singular]
+tailspin		<-->	noun+C2	[221119][001]	./ˈteɪlspɪn/-NAmE /ˈteɪlspɪn/ [singular]
 	;tình huống (phi công) mất kiểm soát -- (1) a situation in which a pilot loses control of an aircraft and it turns round and round as it falls quickly towards the ground, with the back making larger circles than the front
 		;to go into a tailspin
 		;TOPICS Transport by airC2
@@ -3440,8 +3549,7 @@ tailspin		<-->	noun+C2	[221119][001]	./ˈteɪlspɪn/
 
 
 
-take-off		<-->	noun+B2	[221119][001]	./ˈteɪk ɒf/
- /ˈteɪk ɔːf/
+take-off		<-->	noun+B2	[221119][001]	./ˈteɪk ɒf/-NAmE /ˈteɪk ɔːf/
 	;thời khắc cất cánh -- (1) [uncountable, countable] the moment at which an aircraft leaves the ground and starts to fly
 		;The plane is ready for take-off.
 		;take-off speed
@@ -3646,11 +3754,9 @@ transit		<-->	noun+C1	[221119][001]	./cef/
 
 
 
-travelator		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+travelator		<-->	noun+C2	[221120][001]	./ˈtrævəleɪtə(r)/-NAmE /ˈtrævəleɪtər/ (also travolator)
+	;đường đi -- (1) a moving path, especially at an airport
+		;TOPICS Transport by airC2
 
 
 
