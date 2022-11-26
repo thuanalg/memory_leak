@@ -64,7 +64,7 @@ void *ntt_open_shm();
 int   ntt_unlink_shm();
 int   ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n);
 int   ntt_read_shm(LIST_SHARED_DATA *p, char **data, char only_read);
-void  ntt_read_thread();
+pthread_t  ntt_read_thread();
 void  ntt_write_thread();
 int set_exit_group(char val);
 int check_exiit(char increase);

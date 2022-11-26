@@ -297,7 +297,8 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n)
 				memcpy(tmp + p->used_data, data, n);
 				p->used_data += n;
 				rs = p->used_data;
-				fprintf(stdout, "used_data: %d, total: %d\n", p->used_data, p->total);
+				fprintf(stdout, "func: %s, write data: %d, total: %d\n", 
+					__FUNCTION__, p->used_data, p->total);
 			}
 			while(0);
 
@@ -386,17 +387,20 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 }
 
 
-void ntt_read_thread()
+pthread_t ntt_read_thread()
 {
 	int rc = 0;
 	pthread_t ptid = 0;
 	rc = pthread_create(&ptid, 0, read_body_thread, 0);
 	fprintf(stdout, "f: %s, rc: %d, ptid: %llui\n", __FUNCTION__, rc, ptid);
+	return ptid;
 }
+
 void ntt_write_thread()
 {
 
 }
+
 void *read_body_thread(void *data) {
 	while(1)
 	{
