@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 	{
 		int n = 0;
 		sleep(1);
-		n = check_exit(0);
+		n = check_exiit(0);
 		if(n >= COUNT_EXIT_READ) break;	
 	}
 	ntt_unlink_shm();

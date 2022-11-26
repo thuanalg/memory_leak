@@ -7,6 +7,7 @@
 #include <sys/time.h>
 #include <semaphore.h>
 #include <pthread.h>
+#include <unistd.h>
 
 #ifdef __cpluspplus
 extern "C" {
@@ -17,17 +18,30 @@ typedef struct {
 	unsigned long long total;
 	//Size of segment is used
 	unsigned long long used_data;
+
+
 	//Mutex with used case: USING_MUTEX macro
 	//To access critical region
 	pthread_mutex_t frame_mtx;
 	//To stop working a group of processes
 	pthread_mutex_t exit_mtx;
 	
+
 	//Mutex with used case: USING_SEMAPORE macro
 	//To access critical region	
 	sem_t frame_sem;
 	//To stop working a group of processes
 	sem_t exit_sem;
+
+
+
+	//Mutex with used case: USING_RWLOCK macro
+	//To access critical region	
+	pthread_rwlock_t frame_rwlock;
+	//To stop working a group of processes
+	pthread_rwlock_t exit_rwlock;
+
+
 
 	//Check group exit, you can ignore
 	char should_exit;
@@ -53,6 +67,7 @@ int   ntt_read_shm(LIST_SHARED_DATA *p, char **data, char only_read);
 void  ntt_read_thread();
 void  ntt_write_thread();
 int set_exit_group(char val);
+int check_exiit(char increase);
 
 #ifdef __cpluspplus
 }

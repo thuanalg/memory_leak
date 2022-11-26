@@ -19,6 +19,8 @@
 	//#error "Using MUTEX"
 #elif defined(USING_SEMAPHORE) 
 	// "Using SEMAPHORE"
+#elif defined(USING_RWLOCK) 
+	// "Using SEMAPHORE"
 #else
 	#error "Choose MUTEX OR SEMAPHORE"
 #endif
@@ -33,9 +35,9 @@
 
 static int _X(init_service)(char *path, void **, int);
 static int _X(init_shm_mtx)(pthread_mutex_t *);
+static int _X(init_rwlock)(pthread_rwlock_t *);
 void *read_body_thread(void *data);
 void *write_body_thread(void *data);
-int check_exit(char increase);
 
 int ntt_unlink_shm()
 {
@@ -85,90 +87,103 @@ int _X(init_service)(char *path, void **out, int sz)
   //sprintf(key, "%s%s", NTT_PATH, key);
 
   do {
-	//Try to create or read/write
-
-	if(!out)
-	{
-      err = __LINE__;
-      break;
-	}
-
-    shm = shm_open(key, O_CREAT | O_RDWR | O_EXCL, NTT_SHARED_MODE);  
-    if(shm >= 0)
-    {
-			// It is creating mode.
-      create = 1;
-    }
-    else
-    {
-		// It is reading/writing mode.
-      	shm = shm_open(key, O_RDWR | O_EXCL, NTT_SHARED_MODE);  
-    }
-
-	if(shm < 0)
-	{
-		err = __LINE__;
-		break;
-	}
-
-	ftruncate(shm, sz);
+		//Try to create or read/write
 	
-	// Mapping memory with the size: sz
-	data = mmap(0, sz, PROT_READ | PROT_WRITE | PROT_EXEC , MAP_SHARED, shm, 0);
-
-	if(data == MAP_FAILED)
-	{
-  		err = __LINE__;
-		break;
-	}	
-	//fprintf(stdout, "sz: %d\n", sz);
-    if(!data)
-    {
-      err = __LINE__;
-      break;
-    }
-	*out = data;
-    if(!create)
-    {
-	  //Already created!!!
-	  sleep(1);
-      break;
-    }
-	//Must initial data
-    memset(data, 0, sz);
-	do {
-			LIST_SHARED_DATA *p = (LIST_SHARED_DATA *)data;
-		#ifdef USING_MUTEX
-			pthread_mutex_t *mtx = &(p->frame_mtx);
-			p->total = LIST_SHARED_DATA_SZ;
-	    	err  = _X(init_shm_mtx)(mtx);
-			if(err) {
-				break;
-			}
-			mtx = &(p->exit_mtx);
-	    	err  = _X(init_shm_mtx)(mtx);
-			if(err) {
-				break;
-			}
-		#elif defined(USING_SEMAPHORE) 
-			sem_t *t = &(p->frame_sem);
-			p->total = LIST_SHARED_DATA_SZ;
-			err = sem_init(t, 1, 1);
-			if(err) {
-				break;
-			}
-			t = &(p->exit_sem);
-			err = sem_init(t, 1, 1);
-			if(err) {
-				break;
-			}
-			fprintf(stdout, "used_data: %d, total: %d\n", p->used_data, p->total);
-		#else
-			#error "Must use MUTEX or SEMAPHORE"	
-		#endif
-	} while(0);
+		if(!out)
+		{
+	      err = __LINE__;
+	      break;
+		}
+	
+	  shm = shm_open(key, O_CREAT | O_RDWR | O_EXCL, NTT_SHARED_MODE);  
+	  if(shm >= 0)
+	  {
+			// It is creating mode.
+	    create = 1;
+	  }
+	  else
+	  {
+		// It is reading/writing mode.
+	    	shm = shm_open(key, O_RDWR | O_EXCL, NTT_SHARED_MODE);  
+	  }
+	
+		if(shm < 0)
+		{
+			err = __LINE__;
+			break;
+		}
+	
+		ftruncate(shm, sz);
+		
+		// Mapping memory with the size: sz
+		data = mmap(0, sz, PROT_READ | PROT_WRITE | PROT_EXEC , MAP_SHARED, shm, 0);
+	
+		if(data == MAP_FAILED)
+		{
+	  		err = __LINE__;
+			break;
+		}	
+		//fprintf(stdout, "sz: %d\n", sz);
+	  if(!data)
+	  {
+	    err = __LINE__;
+	    break;
+	  }
+		*out = data;
+	  if(!create)
+	  {
+		//Already created!!!
+			sleep(1);
+	    break;
+	  }
+		//Must initial data
+	  memset(data, 0, sz);
+		do {
+				LIST_SHARED_DATA *p = (LIST_SHARED_DATA *)data;
+			#ifdef USING_MUTEX
+				pthread_mutex_t *mtx = &(p->frame_mtx);
+				p->total = LIST_SHARED_DATA_SZ;
+		    err  = _X(init_shm_mtx)(mtx);
+				if(err) {
+					break;
+				}
+				mtx = &(p->exit_mtx);
+		    	err  = _X(init_shm_mtx)(mtx);
+				if(err) {
+					break;
+				}
+			#elif defined(USING_RWLOCK) 
+				pthread_rwlock_t *mtx = &(p->frame_rwlock);
+				p->total = LIST_SHARED_DATA_SZ;
+		    err  = _X(init_rwlock)(mtx);
+				if(err) {
+					break;
+				}
+				mtx = &(p->exit_rwlock);
+		    err  = _X(init_rwlock)(mtx);
+				if(err) {
+					break;
+				}
+			#elif defined(USING_SEMAPHORE) 
+				sem_t *t = &(p->frame_sem);
+				p->total = LIST_SHARED_DATA_SZ;
+				err = sem_init(t, 1, 1);
+				if(err) {
+					break;
+				}
+				t = &(p->exit_sem);
+				err = sem_init(t, 1, 1);
+				if(err) {
+					break;
+				}
+				fprintf(stdout, "used_data: %d, total: %d\n", p->used_data, p->total);
+			#else
+				#error "Must use MUTEX or SEMAPHORE"	
+			#endif
+		} while(0);
   }
   while(0);
+
   if(err) {
 	fprintf(stdout, "Error: %d\n", err);
   }
@@ -205,6 +220,35 @@ int _X(init_shm_mtx)(pthread_mutex_t *shm_mtx)
   return err;
 }
 
+
+int _X(init_rwlock)(pthread_rwlock_t *shm_rwmtx)
+{
+  int err = 0;
+  do
+  {
+    if(!shm_rwmtx)
+    {
+      err = __LINE__;
+      break;
+    }
+
+    pthread_rwlockattr_t psharedm;
+    pthread_rwlockattr_init(&psharedm);
+    pthread_rwlockattr_setpshared(&psharedm, PTHREAD_PROCESS_SHARED);
+    err = pthread_rwlock_init(shm_rwmtx, &psharedm);                                                           
+    if(err)
+    {
+      err = __LINE__;
+      break;
+    }
+  }
+  while(0);
+  fprintf(stdout, "err - %s: %d\n", __FUNCTION__, err);
+  return err;
+}
+
+
+
 int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n)
 {
 	int rs = 0;
@@ -232,10 +276,12 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n)
 
 #ifdef USING_MUTEX
 		errx = pthread_mutex_lock(&(p->frame_mtx));
+#elif defined(USING_RWLOCK) 
+		errx = pthread_rwlock_wrlock(&(p->frame_rwlock));
 #elif defined(USING_SEMAPHORE) 
 		errx = sem_wait(&(p->frame_sem));
 #else
-	#error "Choose MUTEX OR SEMAPHORE"
+	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
 			do {
 				if(errx) {
@@ -258,6 +304,8 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n)
 		if(!errx){
 #ifdef USING_MUTEX
 			errx = pthread_mutex_unlock(&(p->frame_mtx));
+#elif defined(USING_RWLOCK) 
+			errx = pthread_rwlock_unlock(&(p->frame_rwlock));
 #elif defined(USING_SEMAPHORE) 
 			errx = sem_post(&(p->frame_sem));
 #else
@@ -293,8 +341,10 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 		errx = pthread_mutex_lock(&(p->frame_mtx));
 #elif defined(USING_SEMAPHORE) 
 		errx = sem_wait(&(p->frame_sem));
+#elif defined(USING_RWLOCK) 
+		errx = pthread_rwlock_wrlock(&(p->frame_rwlock));
 #else
-	#error "Choose MUTEX OR SEMAPHORE"
+	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
 		do {
 			if(errx) {
@@ -323,8 +373,10 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 			errx = pthread_mutex_unlock(&(p->frame_mtx));
 #elif defined(USING_SEMAPHORE) 
 			errx = sem_post(&(p->frame_sem));
+#elif defined(USING_RWLOCK) 
+			errx = pthread_rwlock_unlock(&(p->frame_rwlock));
 #else
-	#error "Choose MUTEX OR SEMAPHORE"
+	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
 		}
 		(*data) = tmp;
@@ -350,7 +402,7 @@ void *read_body_thread(void *data) {
 	{
 		char *dta = 0;
 		LIST_SHARED_DATA *p = (LIST_SHARED_DATA*) ntt_data_shm;
-		int n = check_exit(1);
+		int n = check_exiit(1);
 		if(n) break;
 		n = ntt_read_shm(p, &dta, 1);
 		if(!n){
@@ -369,7 +421,7 @@ void *read_body_thread(void *data) {
 void *write_body_thread(void *data) {
 //	while(1)
 //	{
-//		int n = check_exit(1);
+//		int n = check_exiit(1);
 //		if(n) break;
 //		sleep(1);
 //	}
@@ -377,19 +429,21 @@ void *write_body_thread(void *data) {
 }
 
 int count_should_exit = 0; 
-int check_exit(char increase) {
+int check_exiit(char increase) {
 	int rs = 0;
 	LIST_SHARED_DATA *p = (LIST_SHARED_DATA*) ntt_data_shm;
 #ifdef USING_MUTEX
 	pthread_mutex_t *mtx = &(p->exit_mtx);
 	pthread_mutex_lock(mtx);
+#elif defined(USING_RWLOCK) 
+	pthread_rwlock_t *mtx = &(p->exit_rwlock);
+	pthread_rwlock_wrlock(mtx);
 #elif defined(USING_SEMAPHORE) 
 	sem_t *t = &(p->exit_sem);
 	sem_wait(t);
 #else
-	#error "Choose MUTEX OR SEMAPHORE"
+	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
-
 
 	do
 	{
@@ -406,6 +460,8 @@ int check_exit(char increase) {
 	} while(0);
 #ifdef USING_MUTEX
 	pthread_mutex_unlock(mtx);
+#elif defined(USING_RWLOCK) 
+	pthread_rwlock_unlock(mtx);
 #elif defined(USING_SEMAPHORE) 
 	sem_post(t);
 #else
@@ -421,12 +477,16 @@ int set_exit_group(char val) {
 	pthread_mutex_lock(&(p->exit_mtx));
 		p->should_exit = val;
 	pthread_mutex_unlock(&(p->exit_mtx));
+#elif defined(USING_RWLOCK) 
+	pthread_rwlock_wrlock(&(p->exit_rwlock));
+		p->should_exit = val;
+	pthread_rwlock_unlock(&(p->exit_rwlock));
 #elif defined(USING_SEMAPHORE) 
 	sem_wait(&(p->exit_sem));
 		p->should_exit = val;
 	sem_post(&(p->exit_sem));
 #else
-	#error "Choose MUTEX OR SEMAPHORE"
+	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
 	return 0;
 }
