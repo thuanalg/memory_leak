@@ -40,7 +40,10 @@ typedef struct {
 	pthread_rwlock_t frame_rwlock;
 	//To stop working a group of processes
 	pthread_rwlock_t exit_rwlock;
+	
 
+	pid_t read_pid;
+	pid_t write_pid;
 
 
 	//Check group exit, you can ignore
@@ -62,7 +65,7 @@ extern void *ntt_data_shm;
 void add_item_traffic(LIST_SHARED_DATA **p, char *item, int sz);
 void *ntt_open_shm();
 int   ntt_unlink_shm();
-int   ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n);
+int   ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n, char *sendsig, pid_t *);
 int   ntt_read_shm(LIST_SHARED_DATA *p, char **data, char only_read);
 pthread_t  ntt_read_thread();
 void  ntt_write_thread();

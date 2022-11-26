@@ -185,7 +185,7 @@ int _X(init_service)(char *path, void **out, int sz)
   while(0);
 
   if(err) {
-	fprintf(stdout, "Error: %d\n", err);
+		fprintf(stdout, "Error: %d\n", err);
   }
   if(shm > -1)
   {
@@ -249,11 +249,12 @@ int _X(init_rwlock)(pthread_rwlock_t *shm_rwmtx)
 
 
 
-int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n)
+int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n, char *sendsig, pid_t *pcid)
 {
 	int rs = 0;
 	//size_t n = 0;
 	int errx = 0;
+	char send_signal = 0;
 	
 	do
 	{
@@ -287,7 +288,11 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n)
 				if(errx) {
 					break;	
 				}		
-				
+				send_signal = (p->used_data == 0);
+				if(send_signal && sendsig && pcid) {
+					*sendsig = send_signal;
+					*pcid = p->read_pid;
+				}
 				if( (n + p->used_data + sizeof(LIST_SHARED_DATA)) >= p->total)
 				{
 					p->used_data = 0;	
@@ -313,7 +318,6 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n)
 	#error "Choose MUTEX OR SEMAPHORE"
 #endif
 		}
-
 	}
 	while(0);
 	return rs;
@@ -324,6 +328,7 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 	int rs = 0;
 	char *tmp = 0;
 	int errx = 0;
+	static pid_t pidd = 0;
 	do
 	{
 		int n = 0;
@@ -347,6 +352,12 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
+		if (!pidd)
+		{
+			pidd = getpid();
+			p->read_pid = pidd;
+			//sigaction
+		}
 		do {
 			if(errx) {
 				break;	
@@ -410,7 +421,7 @@ void *read_body_thread(void *data) {
 		if(n) break;
 		n = ntt_read_shm(p, &dta, 1);
 		if(!n){
-			sleep(1);
+			sleep(100);
 			fprintf(stdout, "Sleeping %s\n", __FUNCTION__);
 		}
 		else {
