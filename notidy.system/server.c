@@ -8,11 +8,15 @@
 #include <arpa/inet.h>
 #include <netinet/in.h>
 	
-#define PORT	 9090
+#define RECV_POST	 9090
+#define SEND_POST	 9091
 #define MAXLINE 1024
+
+
+char is_stop_server = 0;
 	
 // Driver code
-int main() {
+int main(int argc, char *argv[]) {
 	int sockfd;
 	char buffer[MAXLINE];
 	char *hello = "Hello from server";
@@ -30,7 +34,7 @@ int main() {
 	// Filling server information
 	servaddr.sin_family = AF_INET; // IPv4
 	servaddr.sin_addr.s_addr = INADDR_ANY;
-	servaddr.sin_port = htons(PORT);
+	servaddr.sin_port = htons(RECV_POST);
 		
 	// Bind the socket with the server address
 	if ( bind(sockfd, (const struct sockaddr *)&servaddr,
@@ -45,14 +49,15 @@ int main() {
 	len = sizeof(cliaddr); //len is value/result
 	while(1) {
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
-					MSG_WAITALL, ( struct sockaddr *) &cliaddr,
-					&len);
+					MSG_WAITALL, ( struct sockaddr *) &cliaddr,	&len);
 		buffer[n] = '\0';
 		printf("Client : %s\n", buffer);
 		sendto(sockfd, (const char *)hello, strlen(hello),
-			MSG_CONFIRM, (const struct sockaddr *) &cliaddr,
-				len);
+			MSG_CONFIRM, (const struct sockaddr *) &cliaddr, len);
 		printf("Hello message sent.\n");
 	}	
+	while(!is_stop_server) {
+		sleep(10);
+	}
 	return 0;
 }

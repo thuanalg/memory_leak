@@ -12,7 +12,7 @@
 #define MAXLINE 1024
 	
 // Driver code
-int main() {
+int main(int argc, char *argv[]) {
 	int sockfd;
 	char buffer[MAXLINE];
 	char *hello = "Hello from client";
