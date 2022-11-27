@@ -71,6 +71,7 @@ pthread_t  ntt_read_thread();
 void  ntt_write_thread();
 int set_exit_group(char val);
 int check_exiit(char increase);
+pid_t get_read_pid();
 
 #ifdef __cpluspplus
 }

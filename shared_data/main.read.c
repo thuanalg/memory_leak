@@ -49,6 +49,8 @@ int main(int argc, char *argv[])
 		n = check_exiit(0);
 		if(n >= COUNT_EXIT_READ) break;	
 	}
+
+	sleep(1);
 	ntt_unlink_shm();
 	return 0;
 }
