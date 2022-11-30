@@ -1,26 +1,29 @@
-#include <gen.list.h>
+#include "gen_list.h"
 #include <pthread.h>
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 
 pthread_mutex_t gen_list_mtx = PTHREAD_MUTEX_INITIALIZER; 
 
-int add_item_gen_list(GEN_LIST **p, char *item, int n)
+int add_item_gen_list(GEN_LIST **p, char *item, int n, int *sig)
 {
 	int rc = 1;
 	do {
-		rc = pthread_mutex_lock(&geb_list_mtx);
+		rc = pthread_mutex_lock(&gen_list_mtx);
 		if(!rc) { 
 			fprintf(stdout, "lock error .\n");
 			break;
 		}
 
 		do {
-			int err = add_item_traffic( p, item, n); 
+			int err = add_item_traffic( p, item, n, sig); 
 			if(err) {
 				fprintf(stdout, "add item error.\n");
 			}
 		} while(0);
 
-		rc = pthread_mutex_unlock(&geb_list_mtx);
+		rc = pthread_mutex_unlock(&gen_list_mtx);
 		if(!rc) { 
 			fprintf(stdout, "lock error .\n");
 			break;
@@ -32,7 +35,7 @@ int add_item_gen_list(GEN_LIST **p, char *item, int n)
 //#define GEN_LIST_STEP (1024 * 32)
 #define GEN_LIST_STEP (1 << 15)
 
-int add_item_traffic(GEN_LIST **p, char *item, int sz)
+int add_item_traffic(GEN_LIST **p, char *item, int sz, int *sig)
 {
     GEN_LIST *t = 0;
 		int rc = -1;
@@ -60,8 +63,14 @@ int add_item_traffic(GEN_LIST **p, char *item, int sz)
             t = *p;
             memset(t, 0, GEN_LIST_STEP);
             t->total = GEN_LIST_STEP;
+						if(!sig) {
+							*sig = 1;
+						}
         }
         t = *p;
+				if(t->used_data == 0 && !sig) {
+					*sig = 1;
+				}
         n = t->used_data + sizeof(GEN_LIST) + sz;
         if( (n+1) > t->total)
         {

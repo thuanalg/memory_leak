@@ -9,6 +9,7 @@
 #include <netinet/in.h>
 #include <signal.h>
 #include <pthread.h>
+#include "gen_list.h"
 	
 #define RECV_POST	 		9090
 #define SEND_POST	 		9091
@@ -24,7 +25,7 @@ char is_stop_server = 0;
 pthread_t sending_thread(void *arg);
 void *sending_routine_thread(void *arg);
 
-
+GEN_LIST *gen_list = 0;
 
 int reg_user_sig();
 void
@@ -51,10 +52,11 @@ int reg_user_sig() {
 }
 
 typedef struct {
-	int len;
+	int len_addr;
+	int len_buff;
 	struct sockaddr_in addr;
-	char data[MAXLINE];
-} list_feedback;
+	char data[MAXLINE + 1];
+} item_feedback;
 
 void *sending_routine_thread(void *arg)
 {
@@ -105,6 +107,9 @@ pthread_t sending_thread(void *arg)
 
 	rc = pthread_create(&ptid, 0, sending_routine_thread, arg);
 	fprintf(stdout, "f: %s, rc: %d, ptid: %llu\n", __FUNCTION__, rc, ptid);
+	if(!rc) {
+		read_threadid = ptid;
+	}
 	return rc ? 0 : ptid;
 }
 
@@ -150,11 +155,27 @@ int main(int argc, char *argv[]) {
 	while(!is_stop_server) {
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 					MSG_WAITALL, ( struct sockaddr *) &cliaddr,	&len);
-		buffer[n] = '\0';
-		printf("Client : %s\n", buffer);
-		sendto(sockfd, (const char *)hello, strlen(hello),
-			MSG_CONFIRM, (const struct sockaddr *) &cliaddr, len);
-		printf("Hello message sent.\n");
+		if(n < 1) {
+			continue;
+		}
+		item_feedback item;
+		memset(&item, 0, sizeof(item));
+		item.len_addr = len;
+		item.len_buff = n;
+		memcpy(&(item.addr), &cliaddr, len);
+		
+//		buffer[n] = '\0';
+//		printf("Client : %s\n", buffer);
+//		sendto(sockfd, (const char *)hello, strlen(hello),
+//			MSG_CONFIRM, (const struct sockaddr *) &cliaddr, len);
+//		printf("Hello message sent.\n");
+//
+		int sig = 0;
+		memcpy(item.data, buffer, n);
+		add_item_gen_list(&gen_list, (char*) &item, sizeof(item), &sig);
+		if(sig) {
+			pthread_kill( read_threadid, USER_SIG);
+		}
 	}	
 	err = close(sockfd);
 	if(err)
