@@ -12,8 +12,8 @@ typedef struct {
 	char data[0];
 } GEN_LIST;
 
-int add_item_gen_list(GEN_LIST *, void *item, int n);
-
+int add_item_gen_list(GEN_LIST **p, char *item, int n);
+int add_item_traffic(GEN_LIST **p, char *item, int sz);
 
 #ifdef __cpluspplus
 }
