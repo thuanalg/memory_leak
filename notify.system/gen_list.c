@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-pthread_mutex_t gen_list_mtx = PTHREAD_MUTEX_INITIALIZER; 
+static pthread_mutex_t gen_list_mtx = PTHREAD_MUTEX_INITIALIZER; 
 
 int add_item_gen_list(GEN_LIST **p, char *item, int n, int *sig)
 {
@@ -96,4 +96,39 @@ int add_item_traffic(GEN_LIST **p, char *item, int sz, int *sig)
     }
     while(0);
 		return rc;
+}
+
+int get_data_gen_list(GEN_LIST *p, char **data)
+{
+	int rc = 0;
+	int n = 0;
+	char *t = 0;
+	do {
+		if(!p) break;
+		if(!data) break;
+		rc = pthread_mutex_lock(&gen_list_mtx);
+		if(!rc) { 
+			fprintf(stdout, "lock error .\n");
+			break;
+		}
+
+		do {
+			if(!p) break;
+			n = p->used_data;
+			if(!n) {
+				break;
+			}
+			t = (char*) malloc(n+1);
+			memset(t, 0, n+1);
+			memcpy(t, p->data, n);
+			*data = t;
+		} while(0);
+
+		rc = pthread_mutex_unlock(&gen_list_mtx);
+		if(!rc) { 
+			fprintf(stdout, "lock error .\n");
+			break;
+		}
+	} while (0); 
+	return rc;
 }

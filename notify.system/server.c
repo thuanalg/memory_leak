@@ -64,7 +64,7 @@ void *sending_routine_thread(void *arg)
 	int rc = 0;
 	struct sockaddr_in servaddr, cliaddr;
 	int sockfd = 0;
-	int len, n, err;
+	int n, err;
 
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM, 0)) < 0 ) {
 		perror("socket creation failed");
@@ -87,12 +87,25 @@ void *sending_routine_thread(void *arg)
 	}
 		
 	
-	len = sizeof(cliaddr); //len is value/result
 	while(1)
 	{
-		int rc = 1; 
+		char *data = 0;
+		int rc = get_data_gen_list(gen_list, &data); 
 		if(rc) {
 			sleep(60);
+			continue;
+		}
+		n = rc/sizeof(item_feedback);	
+		int i = 0;
+		item_feedback *item = (item_feedback*) data;
+		for(i = 0; i < n; ++i)
+		{
+			sendto(sockfd, (const char *)item[i].data, item[i].len_buff,
+				MSG_CONFIRM, (const struct sockaddr *) &(item[i].addr), item[i].len_addr);
+			printf("Hello message sent.\n");
+		}
+		if(data) {
+			free(data);
 		}
 	}
 	return 0;
@@ -182,5 +195,6 @@ int main(int argc, char *argv[]) {
 	{
 		fprintf(stdout, "close fd error: %d", err);
 	}	
+	sleep(1);
 	return 0;
 }
