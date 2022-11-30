@@ -13,7 +13,43 @@
 #define MAXLINE 1024
 
 
+#include <stdio.h>
+#include <unistd.h>
+#include <stdlib.h>
+#include <signal.h>
+
+#define COUNT_EXIT_READ 1 
+pthread_t read_threadid = 0;
+pid_t main_pid = 0;
 char is_stop_server = 0;
+
+#define USER_SIG SIGALRM
+int reg_user_sig();
+void
+handler(int signo, siginfo_t *info, void *context)
+{
+		if(main_pid != info->si_pid) {
+			pthread_kill(read_threadid, USER_SIG);
+		}
+		fprintf(stdout, "sending pid: %llu\n", (unsigned long long)info->si_pid);
+
+		is_stop_server = 1;
+}
+
+
+int reg_user_sig() {
+	struct sigaction act = { 0 };	
+	
+	act.sa_flags = SA_SIGINFO | SA_ONSTACK;
+	act.sa_sigaction = &handler;
+	if (sigaction(USER_SIG, &act, NULL) == -1) {
+	    perror("sigaction");
+	    exit(EXIT_FAILURE);
+	}		
+}
+
+
+
 	
 // Driver code
 int main(int argc, char *argv[]) {
@@ -21,7 +57,11 @@ int main(int argc, char *argv[]) {
 	char buffer[MAXLINE];
 	char *hello = "Hello from server";
 	struct sockaddr_in servaddr, cliaddr;
+
+	main_pid = getpid();
 		
+	reg_user_sig();
+
 	// Creating socket file descriptor
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM, 0)) < 0 ) {
 		perror("socket creation failed");
@@ -37,17 +77,16 @@ int main(int argc, char *argv[]) {
 	servaddr.sin_port = htons(RECV_POST);
 		
 	// Bind the socket with the server address
-	if ( bind(sockfd, (const struct sockaddr *)&servaddr,
-			sizeof(servaddr)) < 0 )
+	if ( bind(sockfd, (const struct sockaddr *)&servaddr, sizeof(servaddr)) < 0 )
 	{
 		perror("bind failed");
 		exit(EXIT_FAILURE);
 	}
 		
-	int len, n;
+	int len, n, err;
 	
 	len = sizeof(cliaddr); //len is value/result
-	while(1) {
+	while(!is_stop_server) {
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 					MSG_WAITALL, ( struct sockaddr *) &cliaddr,	&len);
 		buffer[n] = '\0';
@@ -56,8 +95,10 @@ int main(int argc, char *argv[]) {
 			MSG_CONFIRM, (const struct sockaddr *) &cliaddr, len);
 		printf("Hello message sent.\n");
 	}	
-	while(!is_stop_server) {
-		sleep(10);
-	}
+	err = close(sockfd);
+	if(err)
+	{
+		fprintf(stdout, "close fd error: %d", err);
+	}	
 	return 0;
 }

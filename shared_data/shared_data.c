@@ -422,7 +422,7 @@ void *read_body_thread(void *data) {
 		n = ntt_read_shm(p, &dta, 1);
 		if(!n){
 			sleep(100);
-			fprintf(stdout, "Sleeping %s\n", __FUNCTION__);
+			fprintf(stdout, "Sleeping bacause of no data. Func: %s\n", __FUNCTION__);
 		}
 		else {
 			fprintf(stdout, "Have data size: %d\n", n);
@@ -430,6 +430,7 @@ void *read_body_thread(void *data) {
 			dta = 0;
 		}
 	}
+	fprintf(stdout, "line: %d, Finish reading thread.\n", __LINE__);
 	return 0;
 }
 
