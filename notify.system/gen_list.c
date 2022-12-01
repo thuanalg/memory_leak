@@ -11,8 +11,8 @@ int add_item_gen_list(GEN_LIST **p, char *item, int n, int *sig)
 	int rc = 1;
 	do {
 		rc = pthread_mutex_lock(&gen_list_mtx);
-		if(!rc) { 
-			fprintf(stdout, "lock error .\n");
+		if(rc) { 
+			fprintf(stdout, "lock error, line: %d .\n", __LINE__);
 			break;
 		}
 
@@ -24,7 +24,7 @@ int add_item_gen_list(GEN_LIST **p, char *item, int n, int *sig)
 		} while(0);
 
 		rc = pthread_mutex_unlock(&gen_list_mtx);
-		if(!rc) { 
+		if(rc) { 
 			fprintf(stdout, "lock error .\n");
 			break;
 		}
@@ -93,6 +93,7 @@ int add_item_traffic(GEN_LIST **p, char *item, int sz, int *sig)
         pdata = t->data;
         memcpy(pdata + t->used_data, item, sz);
         t->used_data += sz;
+				rc = 0;
     }
     while(0);
 		return rc;
@@ -107,8 +108,8 @@ int get_data_gen_list(GEN_LIST *p, char **data)
 		if(!p) break;
 		if(!data) break;
 		rc = pthread_mutex_lock(&gen_list_mtx);
-		if(!rc) { 
-			fprintf(stdout, "lock error .\n");
+		if(rc) { 
+			fprintf(stdout, "lock error, line: %d .\n", __LINE__);
 			break;
 		}
 
@@ -122,13 +123,15 @@ int get_data_gen_list(GEN_LIST *p, char **data)
 			memset(t, 0, n+1);
 			memcpy(t, p->data, n);
 			*data = t;
+			p->used_data = 0;
 		} while(0);
 
 		rc = pthread_mutex_unlock(&gen_list_mtx);
-		if(!rc) { 
+		if(rc) { 
 			fprintf(stdout, "lock error .\n");
 			break;
 		}
 	} while (0); 
-	return rc;
+	fprintf(stdout, "size: %d .\n", n);
+	return n;
 }

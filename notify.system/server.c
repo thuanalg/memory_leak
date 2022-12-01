@@ -31,12 +31,11 @@ int reg_user_sig();
 void
 handler(int signo, siginfo_t *info, void *context)
 {
-		if(main_pid != info->si_pid) {
-			pthread_kill(read_threadid, USER_SIG);
-		}
+//		if(main_pid != info->si_pid) {
+//		}
+//		pthread_kill(read_threadid, USER_SIG);
 		fprintf(stdout, "sending pid: %llu\n", (unsigned long long)info->si_pid);
-
-		is_stop_server = 1;
+		//is_stop_server = 1;
 }
 
 
@@ -91,22 +90,28 @@ void *sending_routine_thread(void *arg)
 	{
 		char *data = 0;
 		int rc = get_data_gen_list(gen_list, &data); 
-		if(rc) {
-			sleep(60);
+		fprintf(stdout, "send to client, rc: %d.\t", rc);
+		if(!rc) {
+			sleep(1);
 			continue;
 		}
 		n = rc/sizeof(item_feedback);	
 		int i = 0;
 		item_feedback *item = (item_feedback*) data;
+		fprintf(stdout, "send to client.\t");
 		for(i = 0; i < n; ++i)
 		{
 			sendto(sockfd, (const char *)item[i].data, item[i].len_buff,
 				MSG_CONFIRM, (const struct sockaddr *) &(item[i].addr), item[i].len_addr);
-			printf("Hello message sent.\n");
 		}
 		if(data) {
 			free(data);
 		}
+	}
+	err = close(sockfd);
+	if(err)
+	{
+		fprintf(stdout, "close socket error.\n");
 	}
 	return 0;
 }
@@ -177,8 +182,8 @@ int main(int argc, char *argv[]) {
 		item.len_buff = n;
 		memcpy(&(item.addr), &cliaddr, len);
 		
-//		buffer[n] = '\0';
-//		printf("Client : %s\n", buffer);
+		buffer[n] = '\0';
+		printf("Client : %s\n", buffer);
 //		sendto(sockfd, (const char *)hello, strlen(hello),
 //			MSG_CONFIRM, (const struct sockaddr *) &cliaddr, len);
 //		printf("Hello message sent.\n");
@@ -186,8 +191,14 @@ int main(int argc, char *argv[]) {
 		int sig = 0;
 		memcpy(item.data, buffer, n);
 		add_item_gen_list(&gen_list, (char*) &item, sizeof(item), &sig);
+
+		fprintf(stdout, "Client pid: %llu\n", read_threadid);
 		if(sig) {
-			pthread_kill( read_threadid, USER_SIG);
+			int err = pthread_kill( read_threadid, USER_SIG);
+			if(err)
+			{
+
+			}
 		}
 	}	
 	err = close(sockfd);
