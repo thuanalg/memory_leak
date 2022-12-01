@@ -31,9 +31,9 @@ int reg_user_sig();
 void
 handler(int signo, siginfo_t *info, void *context)
 {
-//		if(main_pid != info->si_pid) {
-//		}
-//		pthread_kill(read_threadid, USER_SIG);
+		if(main_pid != info->si_pid) {
+			pthread_kill(read_threadid, USER_SIG);
+		}
 		fprintf(stdout, "sending pid--------------: %llu\n", (unsigned long long)info->si_pid);
 		//is_stop_server = 1;
 }
@@ -184,10 +184,6 @@ int main(int argc, char *argv[]) {
 		
 		buffer[n] = '\0';
 		printf("Client : %s\n", buffer);
-//		sendto(sockfd, (const char *)hello, strlen(hello),
-//			MSG_CONFIRM, (const struct sockaddr *) &cliaddr, len);
-//		printf("Hello message sent.\n");
-//
 		int sig = 0;
 		memcpy(item.data, buffer, n);
 		add_item_gen_list(&gen_list, (char*) &item, sizeof(item), &sig);
