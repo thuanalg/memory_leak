@@ -34,7 +34,7 @@ handler(int signo, siginfo_t *info, void *context)
 //		if(main_pid != info->si_pid) {
 //		}
 //		pthread_kill(read_threadid, USER_SIG);
-		fprintf(stdout, "sending pid: %llu\n", (unsigned long long)info->si_pid);
+		fprintf(stdout, "sending pid--------------: %llu\n", (unsigned long long)info->si_pid);
 		//is_stop_server = 1;
 }
 
@@ -92,7 +92,7 @@ void *sending_routine_thread(void *arg)
 		int rc = get_data_gen_list(gen_list, &data); 
 		fprintf(stdout, "send to client, rc: %d.\t", rc);
 		if(!rc) {
-			sleep(1);
+			sleep(5);
 			continue;
 		}
 		n = rc/sizeof(item_feedback);	
@@ -192,7 +192,7 @@ int main(int argc, char *argv[]) {
 		memcpy(item.data, buffer, n);
 		add_item_gen_list(&gen_list, (char*) &item, sizeof(item), &sig);
 
-		fprintf(stdout, "Client pid: %llu\n", read_threadid);
+		fprintf(stdout, "Client pid: %llu, sig: %d\n", read_threadid, sig);
 		if(sig) {
 			int err = pthread_kill( read_threadid, USER_SIG);
 			if(err)

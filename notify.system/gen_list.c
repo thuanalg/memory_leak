@@ -63,12 +63,12 @@ int add_item_traffic(GEN_LIST **p, char *item, int sz, int *sig)
             t = *p;
             memset(t, 0, GEN_LIST_STEP);
             t->total = GEN_LIST_STEP;
-						if(!sig) {
+						if(sig) {
 							*sig = 1;
 						}
         }
         t = *p;
-				if(t->used_data == 0 && !sig) {
+				if(t->used_data == 0 && sig) {
 					*sig = 1;
 				}
         n = t->used_data + sizeof(GEN_LIST) + sz;
