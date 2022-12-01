@@ -92,7 +92,7 @@ void *sending_routine_thread(void *arg)
 		int rc = get_data_gen_list(gen_list, &data); 
 		fprintf(stdout, "send to client, rc: %d.\t", rc);
 		if(!rc) {
-			sleep(5);
+			sleep(60);
 			continue;
 		}
 		n = rc/sizeof(item_feedback);	
