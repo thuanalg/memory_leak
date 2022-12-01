@@ -15,6 +15,8 @@
 #include <pthread.h>
 #include <unistd.h>
 #include "shared_data.h"
+#include <signal.h>
+
 #ifdef USING_MUTEX
 	//#error "Using MUTEX"
 #elif defined(USING_SEMAPHORE) 
@@ -413,6 +415,7 @@ void ntt_write_thread()
 }
 
 void *read_body_thread(void *data) {
+	int err = 0;
 	while(1)
 	{
 		char *dta = 0;
@@ -421,7 +424,7 @@ void *read_body_thread(void *data) {
 		if(n) break;
 		n = ntt_read_shm(p, &dta, 1);
 		if(!n){
-			sleep(100);
+			sleep(3);
 			fprintf(stdout, "Sleeping bacause of no data. Func: %s\n", __FUNCTION__);
 		}
 		else {
@@ -431,6 +434,12 @@ void *read_body_thread(void *data) {
 		}
 	}
 	fprintf(stdout, "line: %d, Finish reading thread.\n", __LINE__);
+	
+	//err = kill(getpid(), SIGALRM);
+	
+	union sigval sv;
+	sv.sival_int = 2;
+	err =	sigqueue(getpid(), SIGALRM, sv);
 	return 0;
 }
 

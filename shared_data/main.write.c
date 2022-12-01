@@ -24,7 +24,10 @@ int main(int argc, char *argv[])
 
 	if(sendsig && read_pid)
 	{
-		kill(read_pid, SIGALRM);	
+		union sigval sv;
+		sv.sival_int = 1;
+		sigqueue(read_pid, SIGALRM, sv);
+		//kill(read_pid, SIGALRM);	
 	}
 	ntt_unlink_shm();
 	return 0;
