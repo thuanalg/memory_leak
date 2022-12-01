@@ -60,6 +60,7 @@ int main(int argc, char *argv[])
 	}
 
 	sleep(60);
+	set_read_pid(0);
 	ntt_unlink_shm();
 	return 0;
 }

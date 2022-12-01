@@ -72,6 +72,7 @@ void  ntt_write_thread();
 int set_exit_group(char val);
 int check_exiit(char increase);
 pid_t get_read_pid();
+int set_read_pid(pid_t pid);
 
 #ifdef __cpluspplus
 }
