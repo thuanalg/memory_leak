@@ -54,7 +54,7 @@ int main(int argc, char *argv[])
 	while(1)
 	{
 		int n = 0;
-		sleep(1);
+		pause();
 		n = check_exiit(0);
 		if(n >= COUNT_EXIT_READ) break;	
 	}
