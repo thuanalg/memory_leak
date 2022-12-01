@@ -134,8 +134,8 @@ int _X(init_service)(char *path, void **out, int sz)
 		*out = data;
 	  if(!create)
 	  {
-		//Already created!!!
-			sleep(1);
+			//Already created!!!
+			//sleep(1);
 	    break;
 	  }
 		//Must initial data
