@@ -735,7 +735,7 @@ balance		<-->	noun+B1	[220901][001]	./ˈbæləns/-NAmE /ˈbæləns/
 
 
 
-bank		<-->	noun+A1    /bæŋk/-NAmE /bæŋk/\
+bank		<-->	noun+A1[0]	./bæŋk/-NAmE /bæŋk/\
 	;nhà băng -- (for money)  an organization that provides various financial services, for example keeping or lending money
 		;I don't have much money in the bank at the end of the month.
 		;I need to go to the bank (= the local office of a bank).
@@ -2079,7 +2079,7 @@ bust		<-->	noun+C2	[220901][001]	./bʌst/-NAmE /bʌst/
 
 
 
-buy		<-->	verb+A1    /baɪ/-NAmE /baɪ/
+buy		<-->	verb+A1[0]	./cef/
 	;mua -- [Verb Forms][Idioms] [Phrasal Verbs] [-with money]  [transitive, intraansitive] to obtain something by paying money for it
 		;buy (something) Where did you buy that dress?
 		;She had no money to buy a ticket.
@@ -2492,7 +2492,7 @@ casino		<-->	noun+C1	[220901][001]	./kəˈsiːnəʊ/-NAmE /kəˈsiːnəʊ/
 
 
 
-cent		<-->	noun+A1    /sent/-NAmE /sent/
+cent		<-->	noun+A1[0]	./sent/-NAmE /sent/
 	;1/100 $ -- [Idioms] ​a coin and unit of money worth 1% of the main unit of money in many countries, for example of the US dollar or of the euro
 		;A one-minute phone call to the UK cost 10 cents.
 		;The price of diesel was increased by 17 cents per litre.
@@ -2538,7 +2538,7 @@ central bank		<-->	noun+B2	[220901][001]	./ˌsentrəl ˈbæŋk/-NAmE /ˌsentrəl
 
 
 
-change		<-->	verb+A1    /tʃeɪndʒ/-NAmE /tʃeɪndʒ/
+change		<-->	verb+A1[0]	./tʃeɪndʒ/-NAmE /tʃeɪndʒ/
 	;đổi tiền -- [-money]   [transitive] to exchange money into the money of another country
 		;change something I need to change some euros.
 		;change A into B to change dollars into yen
@@ -2644,7 +2644,7 @@ charge		<-->	verb+B1	[220901][001]	./tʃɑːdʒ/-NAmE /tʃɑːrdʒ/
 
 
 
-cheap		<-->	adjective+A1    /tʃiːp/-NAmE /tʃiːp/
+cheap		<-->	adjective+A1[0]	./tʃiːp/-NAmE /tʃiːp/
 	;rẻ -- (comparative cheaper, superlative cheapest)
 	;Synonyms cheap : competitive, budget, affordable, reasonable, inexpensive
 
@@ -2931,7 +2931,7 @@ clearing house		<-->	noun+C2	[220901][001]	./ˈklɪərɪŋ haʊs/-NAmE /ˈklɪr�
 
 
 
-climb		<-->	verb+B2	[220901][001]	./klaɪm/-NAmE /klaɪm/
+climb		<-->	verb+B2	[220901][001]	./cef/
 	;gia tăng -- [-increase]  [intraansitive] (of temperature, a country’s money, etc.) to increase in value or amount
 		;The paper's circulation continues to climb.
 		;climb + adv./prep. Interest rates climbed to 8 per cent.
@@ -3334,7 +3334,7 @@ corporate welfare		<-->	noun+C2	[220901][001]	./ˌkɔːpərət ˈwelfeə(r)/-NAm
 
 
 
-cost		<-->	noun+A1    /kɒst/-NAmE /kɔːst/
+cost		<-->	noun+A1[0]	./kɒst/-NAmE /kɔːst/
 	;giá tiền -- [countable, uncoountable] the amount of money that you need in order to buy, make or do something
 		;cost of something the high/low cost of housing
 		;at a cost of something A new computer system has been installed at a cost of £80 000.
@@ -4631,7 +4631,7 @@ dime		<-->	noun+C1	[220901][001]	./daɪm/-NAmE /daɪm/
 
 
 
-dip		<-->	verb+C1	[220901][001]	./dɪp/-NAmE /dɪp/
+dip		<-->	verb+C1	[220901][001]	./cef/
 	;rơi xuống, chìm xuống, rớt xuống -- [intraansitive, transitive] to go downwards or to a lower level; to make something do this
 		;SYNONYM fall
 		;(+ adv./prep.) The sun dipped below the horizon.
@@ -5876,7 +5876,7 @@ expense		<-->	noun+B2	[220901][001]	./ɪkˈspens/-NAmE /ɪkˈspens/
 
 
 
-expensive		<-->	adjective+A1    /ɪkˈspensɪv/-NAmE /ɪkˈspensɪv/
+expensive		<-->	adjective+A1[0]	./ɪkˈspensɪv/-NAmE /ɪkˈspensɪv/
 	;mắc, đắt -- ​costing a lot of money
 		;an expensive car/restaurant/holiday
 		;I can't afford it—it's too expensive.
@@ -6507,7 +6507,7 @@ fluctuate		<-->	verb+C1	[220901][001]	./ˈflʌktʃueɪt/-NAmE /ˈflʌktʃueɪt/
 		;fluctuating prices
 		;The documentary follows the fluctuating fortunes of one marketing company.
 		;fluctuate between A and B During the crisis, oil prices fluctuated between $20 and $40 a barrel.
-		;+ adv./prep. Temperatures can fluctuate by as much as 10 degrees.
+		;+ adv./prep. Temperatures can fluctuate by as much as 10 degrees. [ap: fluctuate]
 		;My weight fluctuated wildly depending on how much I ate.
 		;My mood seems to fluctuate from day to day.
 		;The rate of inflation has been fluctuating around 4% for some time.

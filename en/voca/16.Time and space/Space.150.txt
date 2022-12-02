@@ -436,8 +436,7 @@ exoplanet		<-->	noun+C1[-0]	.
 
 
 
-extraterrestrial		<-->	noun+C2[-0]	./ˌekstrətəˈrestriəl/
- /ˌekstrətəˈrestriəl/
+extraterrestrial		<-->	noun+C2	[221127][001]	./ˌekstrətəˈrestriəl/-NAmE /ˌekstrətəˈrestriəl/
 	;sinh vật ngoài trái đất -- (1) (in stories) a creature that comes from another planet; a creature that may exist on another planet
 		;TOPICS SpaceC2
 
@@ -1447,8 +1446,7 @@ sunrise		<-->	noun+B2[-0]	.
 
 
 
-sunset		<-->	noun+B2[-0]	./ˈsʌnset/
- /ˈsʌnset/
+sunset		<-->	noun+B2	[221127][001]	./ˈsʌnset/-NAmE /ˈsʌnset/
 	;hoàng hôn -- (1) [uncountable] the time when the sun goes down and night begins
  at sunset Every evening at sunset the flag was lowered.
 		;Extra Examples:
@@ -1492,8 +1490,7 @@ sunset		<-->	noun+B2[-0]	./ˈsʌnset/
 
 
 
-sunup		<-->	noun+C2[-0]	./ˈsʌnʌp/
- /ˈsʌnʌp/
+sunup		<-->	noun+C2	[221127][001]	./ˈsʌnʌp/-NAmE /ˈsʌnʌp/
 	;bình minh -- (1) [uncountable] (especially North American English) the time when the sun rises and day begins
 		;TOPICS SpaceC2
 

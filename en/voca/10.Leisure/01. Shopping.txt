@@ -1,5 +1,5 @@
 2022-06-02
-accessory		<-->	noun+C1    /əkˈsesəri/-NAmE /əkˈsesəri/-\
+accessory		<-->	noun++C1	[221128][001]	./əkˈsesəri/-NAmE /əkˈsesəri/-\
 	;phụ kiện, phụ tùng -- (plural accessories)[usually plural] an extra piece of equipment that is useful but not essential or that can be added to something else as a decoration
 		;We stock a large range of bicycle accessories.
 		;Our catalogue now includes a range of furnishings and accessories for the home.
@@ -13,7 +13,7 @@ accessory		<-->	noun+C1    /əkˈsesəri/-NAmE /əkˈsesəri/-\
 				;essential, must-have, optional…
 
 
-account		<-->	noun+B2    /əˈkaʊnt/-NAmE /əˈkaʊnt/
+account		<-->	noun++B2	[221128][001]	./əˈkaʊnt/-NAmE /əˈkaʊnt/
 	;tài khoảng có thể dùng để chi trả định kỳ -- (with shop)​(British English also credit account) (North American English also charge account) an arrangement with a shop or business to pay bills for goods or services at a later time, for example in regular amounts every month
 		;Put it on my account please.
 		;We have accounts with most of our suppliers.
@@ -31,7 +31,7 @@ account		<-->	noun+B2    /əˈkaʊnt/-NAmE /əˈkaʊnt/
 				;on account, account at, account with…
 
 
-afford		<-->	verb+B1    /əˈfɔːd/-NAmE /əˈfɔːrd/
+afford		<-->	verb++B1	[221128][001]	./əˈfɔːd/-NAmE /əˈfɔːrd/
 	;có đủ khả năng tiền -- (Verb Forms) [no passive](usually used with can, could or be able to, especially in negative sentences or questions)
 		;to have enough money to be able to buy or do something
 		;afford something Can we afford a new car?
@@ -52,7 +52,7 @@ afford		<-->	verb+B1    /əˈfɔːd/-NAmE /əˈfɔːrd/
 				;be able to, can, be unable to…
 
 
-aisle		<-->	noun+B2    /aɪl/-NAmE /aɪl/
+aisle		<-->	noun++B2	[221128][001]	./aɪl/-NAmE /aɪl/
 	;lối đi -- (Idioms)​a passage between rows of seats in a church, theatre, train, etc., or between rows of shelves in a supermarket
 		;an aisle seat (= in a plane or train)
 		;Coffee and tea are in the next aisle.
@@ -67,7 +67,7 @@ aisle		<-->	noun+B2    /aɪl/-NAmE /aɪl/
 				;candy, grocery, supermarket…
 
 
-antique		<-->	noun+B2    /ænˈtiːk/-NAmE /ænˈtiːk/-\
+antique		<-->	noun++B2	[221128][001]	./ænˈtiːk/-NAmE /ænˈtiːk/-\
 	;đồ cổ, đồ cũ có giá trị -- ​an object such as a piece of furniture that is old and often valuable
 		;Priceless antiques were destroyed in the fire.
 		;an antique shop (= one that sells antiques)
@@ -83,7 +83,7 @@ antique		<-->	noun+B2    /ænˈtiːk/-NAmE /ænˈtiːk/-\
 				;dealer, antique shop, antiques store…
 
 
-appliance		<-->	noun+B2    /əˈplaɪəns/-NAmE /əˈplaɪəns/
+appliance		<-->	noun++B2	[221128][001]	./əˈplaɪəns/-NAmE /əˈplaɪəns/
 	;thiết bị gia dụng -- a machine that is designed to do a particular thing in the home, such as preparing food, heating or cleaning
 		;electrical/household appliances
 		;They sell a wide range of domestic appliances—washing machines, dishwashers and so on.
@@ -98,7 +98,7 @@ appliance		<-->	noun+B2    /əˈplaɪəns/-NAmE /əˈplaɪəns/
 				;switch on, turn on, switch off…
 
 
-article		<-->	noun+B2    /ˈɑːtɪkl/-NAmE /ˈɑːrtɪkl/
+article		<-->	noun++B2	[221128][001]	./ˈɑːtɪkl/-NAmE /ˈɑːrtɪkl/
 	;một món hàng -- (formal) a particular item or separate thing, especially one of a set
 		; ~ SYNONYM item
 		;articles of clothing
@@ -115,7 +115,7 @@ article		<-->	noun+B2    /ˈɑːtɪkl/-NAmE /ˈɑːrtɪkl/
 				;an article of clothing
 
 
-assistant		<-->	noun+A2    /əˈsɪstənt/-NAmE /əˈsɪstənt/
+assistant		<-->	noun++A2	[221128][001]	./əˈsɪstənt/-NAmE /əˈsɪstənt/
 	​;nhân viên cửa hàng -- a person who helps or supports somebody, usually in their job
 		;My assistant will now demonstrate the machine in action.
 		;a senior research assistant
@@ -134,20 +134,20 @@ assistant		<-->	noun+A2    /əˈsɪstənt/-NAmE /əˈsɪstənt/
 				;assistant to
 
 
-back order		<-->	noun+C2    /ˈbæk ɔːdə(r)/-NAmE /ˈbæk ɔːrdər/
+back order		<-->	noun++C2	[221128][001]	./ˈbæk ɔːdə(r)/-NAmE /ˈbæk ɔːrdər/
 	;việc đặt trước -- [countable, uncountable]​an order for a product that is not currently available
 		;You may either place a back order or choose an alternative product.
 		;on back order Those items are on back order.
 		;TOPICS ShoppingC2, BusinessC2
 
 
-back-order		<-->	verb+C2    /ˈbæk ɔːdə(r)/-NAmE /ˈbæk ɔːrdər/(Verb Forms)
+back-order		<-->	verb++C2	[221128][001]	./ˈbæk ɔːdə(r)/-NAmE /ˈbæk ɔːrdər/(Verb Forms)
 ​	;đặt trước -- back-order something: to place an order for a product that is not currently available
 		;The phone is back-ordered with a nine-day wait for shipping.
 		;TOPICS ShoppingC2, BusinessC2
 
 
-bag		<-->	noun+A1    /bæɡ/-NAmE /bæɡ/
+bag		<-->	noun++A1	[221128][001]	./bæɡ/-NAmE /bæɡ/
 	;túi, ba lộ, ... (Idioms)(container)​  [countable](often in compounds)a container made of cloth, leather, plastic or paper, used to carry things in, especially when shopping or travelling
 		;He was carrying a heavy bag of groceries.
 		;It was wrapped in a brown paper bag.
@@ -171,33 +171,33 @@ bag		<-->	noun+A1    /bæɡ/-NAmE /bæɡ/
 				;the contents of a bag, have your bags packedsling your bag over your shoulder…
 
 
-baker		<-->	noun+B1    /ˈbeɪkə(r)/-NAmE /ˈbeɪkər/
+baker		<-->	noun++B1	[221128][001]	./ˈbeɪkə(r)/-NAmE /ˈbeɪkər/
 	;thợ làm bánh -- ​baker’s(Plural bakers)(British English) a shop that sells bread and cakes
 	;I'm just going to the baker's.
 	;More Like This
 	;Shops, etc. with apostrophes:	baker’s, barber’s, butcher’s, chemist’s, dentist’s, doctor’s, fishmonger’s, florist’s, greengrocer’s, grocer’s, hairdresser’s, ironmonger’s, jeweller’s, newsagent’s, optician’s, stationer’s, tobacconist’s, travel agent’s 
 
 
-bakery		<-->	noun+B2    /ˈbeɪkəri/-NAmE /ˈbeɪkəri/(Plural bakeries)
+bakery		<-->	noun++B2	[221128][001]	./ˈbeɪkəri/-NAmE /ˈbeɪkəri/(Plural bakeries)
 	;tiệm bánh -- (North American English also bakeshop)​a place where bread and cakes are made and/or sold
 		;TOPICS ShoppingB2
 
 
-bakeshop		<-->	noun+B2    /ˈbeɪkʃɒp/-NAmE /ˈbeɪkʃɑːp/
+bakeshop		<-->	noun++B2	[221128][001]	./ˈbeɪkʃɒp/-NAmE /ˈbeɪkʃɑːp/
 (North American English)
 (also bakery British and North American English)
 ​a place where bread and cakes are made and/or sold
 TOPICS ShoppingB2
 
 
-banknote		<-->	noun+A1    /ˈbæŋknəʊt/-NAmE /ˈbæŋknəʊt/
+banknote		<-->	noun++A1	[221128][001]	./ˈbæŋknəʊt/-NAmE /ˈbæŋknəʊt/
 	;tiền giấy -- (especially British English) British English also note, North American English usually bill
 ​		;a piece of paper money
 		;forged (= illegally copied) banknotes
 		;TOPICS MoneyA1, ShoppingA1
 
 
-barber		<-->	noun+B2    /ˈbɑːbə(r)/-NAmE /ˈbɑːrbər/
+barber		<-->	noun++B2	[221128][001]	./ˈbɑːbə(r)/-NAmE /ˈbɑːrbər/
 	;tiệm mà có thể cắt tóc -- (also barber’s) (both British English)(Plural barbers)a shop where men can have their hair cut
 		;COMPARE hairdresser
 		;TOPICS ShoppingB2, AppearanceB2
@@ -205,11 +205,11 @@ barber		<-->	noun+B2    /ˈbɑːbə(r)/-NAmE /ˈbɑːrbər/
 		;Shops, etc. with apostrophes: baker’s, barber’s, butcher’s, chemist’s, dentist’s, doctor’s, fishmonger’s, florist’s, greengrocer’s, grocer’s, hairdresser’s, ironmonger’s, jeweller’s, newsagent’s, optician’s, stationer’s, tobacconist’s, travel agent’s 
 
 
-barcode		<-->	noun+C1    /ˈbɑːkəʊd/-NAmE /ˈbɑːrkəʊd/
+barcode		<-->	noun++C1	[221128][001]	./ˈbɑːkəʊd/-NAmE /ˈbɑːrkəʊd/
 ​	;mã QR -- a pattern of thick and thin lines that is printed on things you buy. It contains information that a computer can read.
 
 
-bargain		<-->	noun+B2    /ˈbɑːɡən/-NAmE /ˈbɑːrɡən/
+bargain		<-->	noun++B2	[221128][001]	./ˈbɑːɡən/-NAmE /ˈbɑːrɡən/
 	;món hời -- (Idioms) a thing bought for less than the usual price
 		;I picked up a few good bargains in the sale.
 		;The car was a bargain at that price.
@@ -265,7 +265,7 @@ bargain		<-->	noun+B2    /ˈbɑːɡən/-NAmE /ˈbɑːrɡən/
 				;buy, price, rate…
 
 
-bargain		<-->	verb+C1    /ˈbɑːɡən/-NAmE /ˈbɑːrɡən/
+bargain		<-->	verb++C1	[221128][001]	./ˈbɑːɡən/-NAmE /ˈbɑːrɡən/
 	;mặc cả, trả giá, thương lượng -- [intransitive](Verb Forms)(Phrasal Verbs)to discuss prices, conditions, etc. with somebody in order to reach an agreement that is acceptable
 		; ~ SYNONYM negotiate
 		;<<negotiate, bargain, haggle, dicker, deal, confer>>
@@ -280,22 +280,22 @@ bargain		<-->	verb+C1    /ˈbɑːɡən/-NAmE /ˈbɑːrɡən/
 				;about, for, over…
 
 
-bargain basement		<-->	noun+C2    /ˌbɑːɡən ˈbeɪsmənt/-NAmE /ˌbɑːrɡən ˈbeɪsmənt/
+bargain basement		<-->	noun++C2	[221128][001]	./ˌbɑːɡən ˈbeɪsmənt/-NAmE /ˌbɑːrɡən ˈbeɪsmənt/
 ​	;hàng giá gốc -- a part of a large shop, usually in the floor below street level, where goods are sold at reduced prices
 		;bargain-basement prices
 
 
-barter		<-->	noun+C1    /ˈbɑːtə(r)/-NAmE /ˈbɑːrtər/
+barter		<-->	noun++C1	[221128][001]	./ˈbɑːtə(r)/-NAmE /ˈbɑːrtər/
 	;hệ thống hàng đổi hàng -- [uncountable]​the system of exchanging goods, property, services, etc. for other goods, etc. without using money
 		;The islanders use a system of barter instead of money.
 
 
-barter		<-->	verb+C1    /ˈbɑːtə(r)/-NAmE /ˈbɑːrtər/
+barter		<-->	verb++C1	[221128][001]	./ˈbɑːtə(r)/-NAmE /ˈbɑːrtər/
 	;hàng đổi hàng -- [uncountable]​the system of exchanging goods, property, services, etc. for other goods, etc. without using money
 		;The islanders use a system of barter instead of money.
 
 
-basket		<-->	noun+B2    /ˈbɑːskɪt/-NAmE /ˈbæskɪt/
+basket		<-->	noun++B2	[221128][001]	./ˈbɑːskɪt/-NAmE /ˈbæskɪt/
 	;xe đẩy hàng siêu thị, rỗ/giỏ đựng hàng -- (Idioms)​ a container for holding or carrying things. Baskets are made of long thin pieces of material that bends and twists easily, for example plastic, wire or wicker.
 		;a shopping basket
 		;a picnic basket
@@ -316,29 +316,29 @@ basket		<-->	noun+B2    /ˈbɑːskɪt/-NAmE /ˈbæskɪt/
 				;in a/​the basket, into a/​the basket, basket of…
 
 
-be a steal		<-->	idiom+C2
+be a steal		<-->	idiom++C2
 	;bán rẻ bất ngờ -- (informal) to be for sale at an unexpectedly low price
 		;This suit is a steal at $80.
 
 
-bedding		<-->	noun+C2    /ˈbedɪŋ/-NAmE /ˈbedɪŋ/
+bedding		<-->	noun++C2	[221128][001]	./ˈbedɪŋ/-NAmE /ˈbedɪŋ/
 	;chăn ga gối đệm -- [uncountable]​the sheets and covers that you put on a bed, and often also the mattress and the pillows
 
 
-be sold out		<-->	phrasal	verb+B2
+be sold out		<-->	phrasal	verb++B2
 	;được bán sạch -- sell out (of something) | be sold out (of something); to have sold all the available items, tickets, etc.
 		;I'm sorry, we've sold out of bread.
 		;We are already sold out for what should be a fantastic game.
 		;TOPICS ShoppingB2
 
 
-betting shop		<-->	noun+C2    /ˈbetɪŋ ʃɒp/-NAmE /ˈbetɪŋ ʃɑːp/
+betting shop		<-->	noun++C2	[221128][001]	./ˈbetɪŋ ʃɒp/-NAmE /ˈbetɪŋ ʃɑːp/
 	;cửa hàng cá cược -- (British English)​a shop where you can bet on horse races and other competitions
 		;More Like This
 		;Compound nouns with –ing forms: airing cupboard, answering machine, asking price, baking powder, betting shop, boarding school, booking office, bowling alley, breathing space, breeding ground, changing room, clotting factor, cutting room, draining board, drinking water, eating apple, housing estate, icing sugar, living room, meeting place, nursing home, punching bag, racing car, sleeping pill, starting point, tuning fork, waiting room, working party
 
 
-bid		<-->	noun+B2    /bɪd/-NAmE /bɪd/
+bid		<-->	noun++B2	[221128][001]	./bɪd/-NAmE /bɪd/
 ​	;sự đấu giá -- an offer by a person or a company to pay a particular amount of money for something
 		;bid for something A German firm launched a takeover bid for the company.
 		;At the auction (= a public sale where things are sold to the person who offers the most), the highest bid for the picture was £200.
@@ -357,7 +357,7 @@ bid		<-->	noun+B2    /bɪd/-NAmE /bɪd/
 				;bid by, bid from, bid for…
 
 
-bid		<-->	verb+B2    /bɪd/-NAmE /bɪd/
+bid		<-->	verb++B2	[221128][001]	./bɪd/-NAmE /bɪd/
 	;đấu giá -- (Verb Forms)(Idioms)​ [intransitive, transitive] to offer to pay a particular price for something, especially at an auction
 		;bid (something) (for something) I bid £2 000 for the painting.
 		;bid (against somebody) (for something) We wanted to buy the chairs but another couple were bidding against us.
@@ -368,7 +368,7 @@ bid		<-->	verb+B2    /bɪd/-NAmE /bɪd/
 				;against, for
 
 
-bill		<-->	noun+A1    /bɪl/-NAmE /bɪl/\
+bill		<-->	noun++A1	[221128][001]	./bɪl/-NAmE /bɪl/\
 	;phiếu tính tiền, hoá đơn -- (Idioms)(for payment)​  a document that shows how much you owe somebody for goods or services
 		;the phone/electricity/gas bill
 		;He is facing a huge tax bill.
@@ -440,18 +440,18 @@ bill		<-->	noun+A1    /bɪl/-NAmE /bɪl/\
 				;bill for
 
 
-billing		<-->	noun+C2    /ˈbɪlɪŋ/-NAmE /ˈbɪlɪŋ/
+billing		<-->	noun++C2	[221128][001]	./ˈbɪlɪŋ/-NAmE /ˈbɪlɪŋ/
 ​	;việc tính tiền -- [uncountable] the act of preparing and sending bills to customers
 
 
-bOGOF		<-->	abbreviation+C2    /ˈbɒɡɒf/-NAmE /ˈbɑːɡɑːf/
+bOGOF		<-->	abbreviation++C2	[221128][001]	./ˈbɒɡɒf/-NAmE /ˈbɑːɡɑːf/
 	;mua một tặng một -- (British English, informal) ​"buy one, get one free" (a type of special offer used in shops)
 		;BOGOF offers and bargains
 		;BOGOF deals in the supermarket
 		;BOGOF promotions
 
 
-book		<-->	noun+A1    /bʊk/-NAmE /bʊk/
+book		<-->	noun++A1	[221128][001]	./bʊk/-NAmE /bʊk/
 	;việc viết in ấn sách -- [countable] a written work published in printed or electronic form
 		;to read/write/publish a book
 		;reference/children's/library books
@@ -519,28 +519,28 @@ book		<-->	noun+A1    /bʊk/-NAmE /bʊk/
 				;in a/​the book, book about, book on…
 
 
-bookie		<-->	noun+C2    /ˈbʊki/-NAmE /ˈbʊki/
+bookie		<-->	noun++C2	[221128][001]	./ˈbʊki/-NAmE /ˈbʊki/
 	;người cá cược -- (informal) a bookmaker (= a person whose job is to take bets on the result of horse races, etc. and pay out money to people who win)
 		;TOPICS ShoppingC2, JobsC2
 
 
-bookmaking		<-->	noun+C2    /ˈbʊkmeɪkɪŋ/-NAmE /ˈbʊkmeɪkɪŋ/
+bookmaking		<-->	noun++C2	[221128][001]	./ˈbʊkmeɪkɪŋ/-NAmE /ˈbʊkmeɪkɪŋ/
 	;việc cá cược, mua vé cá cược -- [uncountable]the job or activity of taking bets on the result of horse races, etc. and paying out money to people who win
 		;Want to learn more?
 
 
-bookshop		<-->	noun+A2    /ˈbʊkʃɒp/-NAmE /ˈbʊkʃɑːp/
+bookshop		<-->	noun++A2	[221128][001]	./ˈbʊkʃɒp/-NAmE /ˈbʊkʃɑːp/
 	;hiệu sách -- (especially British English)(North American English usually bookstore  /ˈbʊkstɔː(r)/  /ˈbʊkstɔːr/)​a shop that sells books
 		;I asked the bookshop to order several titles which were not in stock.
 		;The new edition is on sale now at any good bookshop.
 		;TOPICS ShoppingA2
 
 
-bookstall		<-->	noun+C1    /ˈbʊkstɔːl/-NAmE /ˈbʊkstɔːl/
+bookstall		<-->	noun++C1	[221128][001]	./ˈbʊkstɔːl/-NAmE /ˈbʊkstɔːl/
 	;quầy sách báo(especially British English)(North American English usually newsstand)​a small shop that is open at the front, where you can buy books, newspapers or magazines, for example at a station or an airport
 
 
-boutique		<-->	noun+C1    /buːˈtiːk/-NAmE /buːˈtiːk/
+boutique		<-->	noun++C1	[221128][001]	./buːˈtiːk/-NAmE /buːˈtiːk/
 	;cửa hàng bán đồ sang trọng -- ​a small shop that sells fashionable clothes or expensive gifts
 		;Oxford Collocations Dictionary
 			;adjective
@@ -550,13 +550,13 @@ boutique		<-->	noun+C1    /buːˈtiːk/-NAmE /buːˈtiːk/
 				;open, run
 
 
-browse		<-->	verb+C1    /braʊz/-NAmE /braʊz/
+browse		<-->	verb++C1	[221128][001]	./braʊz/-NAmE /braʊz/
 	;khám phá, lựa hàng -- (Verb Forms)​[intransitive, transitive] to look at a lot of things in a shop rather than looking for one particular thing
 		;You are welcome to come in and browse.
 		;browse something She browsed the shelves for something interesting to read.
 
 
-business		<-->	noun+C1    /ˈbɪznəs/-NAmE /ˈbɪznəs/
+business		<-->	noun++C1	[221128][001]	./ˈbɪznəs/-NAmE /ˈbɪznəs/
 	;kinh doanh -- (being a customer)​(especially North American English)(also British English, formal custom)[uncountable] the fact of a person or people buying goods or services at a shop or business
 		;We're grateful for your business.
 		;Oxford Collocations Dictionary
@@ -572,7 +572,7 @@ business		<-->	noun+C1    /ˈbɪznəs/-NAmE /ˈbɪznəs/
 			;business as usualbusiness or pleasuremix business with pleasure…
 
 
-butcher		<-->	noun+B2    /ˈbʊtʃə(r)/-NAmE /ˈbʊtʃər/
+butcher		<-->	noun++B2	[221128][001]	./ˈbʊtʃə(r)/-NAmE /ˈbʊtʃər/
 	;người bán thịt, đồ tể, cửa hàng thịt -- (butcher’s)(plural butchers)a shop that sells meat
 		;He owns the butcher's in the main street.
 		;More Like This
@@ -583,7 +583,7 @@ butcher		<-->	noun+B2    /ˈbʊtʃə(r)/-NAmE /ˈbʊtʃər/
 				;local, halal(thịt theo luật Hồi giáo), kosher(chuẩn bị bữa ăn theo luật Do Thái)…
 
 
-buy		<-->	verb+A1    /baɪ/-NAmE /baɪ/
+buy		<-->	verb++A1	[221128][001]	./baɪ/-NAmE /baɪ/
 	;mua -- (Verb Forms)(Idioms) (Phrasal Verbs)(with money)​  [transitive, intransitive] to obtain something by paying money for it
 		;buy (something) Where did you buy that dress?
 		;She had no money to buy a ticket.
@@ -615,7 +615,7 @@ buy		<-->	verb+A1    /baɪ/-NAmE /baɪ/
 				;buy and sell, money can buy, money can’t buy…
 
 
-buyer		<-->	noun+B1    /ˈbaɪə(r)/-NAmE /ˈbaɪər/
+buyer		<-->	noun++B1	[221128][001]	./ˈbaɪə(r)/-NAmE /ˈbaɪər/
 	;người mua -- (Idioms) ​a person who buys something, especially something expensive
 		;Have you found a buyer for your house?
 		;OPPOSITE seller, vendor
@@ -625,38 +625,38 @@ buyer		<-->	noun+B1    /ˈbaɪə(r)/-NAmE /ˈbaɪər/
 		;TOPICS ShoppingB1, Houses and homesB1
 
 
-carrier bag		<-->	noun+C2    /ˈkæriə bæɡ/-NAmE /ˈkæriər bæɡ/ [IMAGE]-Packings
+carrier bag		<-->	noun++C2	[221128][001]	./ˈkæriə bæɡ/-NAmE /ˈkæriər bæɡ/ [IMAGE]-Packings
 	;túi hàng -- (also carrier)(both British English)(North American English shopping bag)​a paper or plastic bag for carrying shopping
 		;a plastic carrier bag filled with old newspapers
 
 
-cash		<-->	noun+A2    /ˈkæriə bæɡ/-NAmE /ˈkæriər bæɡ/
+cash		<-->	noun++A2	[221128][001]	./ˈkæriə bæɡ/-NAmE /ˈkæriər bæɡ/
 	;tiền mặt -- (also carrier)(both British English)(North American English shopping bag)​a paper or plastic bag for carrying shopping
 		;a plastic carrier bag filled with old newspapers
 
 
-cash and carry		<-->	noun+C2    /ˌkæʃ ən ˈkæri/-NAmE /ˌkæʃ ən ˈkæri/
+cash and carry		<-->	noun++C2	[221128][001]	./ˌkæʃ ən ˈkæri/-NAmE /ˌkæʃ ən ˈkæri/
 	;cửa hàng bán sỹ -- [countable, uncountable] a large wholesale shop that sells goods in large quantities at low prices to customers from other businesses who pay in cash and take the goods away themselves; the system of buying and selling goods in this way
 
 
-cashback		<-->	noun+C1    /ˈkæʃbæk/-NAmE /ˈkæʃbæk/
+cashback		<-->	noun++C1	[221128][001]	./ˈkæʃbæk/-NAmE /ˈkæʃbæk/
 	;việc hoàn tiền -- (British English)(US English cash-back)​[uncountable] if you ask for cashback when you are paying for goods in a shop with a debit card (= a plastic card that takes money directly from your bank account), you get a sum of money in cash, which is added to your bill
 		;Would you like cashback?
 		;Customers are allowed up to £30 cashback on each purchase.
 		;TOPICS MoneyC1, ShoppingC1
 
 
-cash desk		<-->	noun+C2    /ˈkæʃ desk/-NAmE /ˈkæʃ desk/
+cash desk		<-->	noun++C2	[221128][001]	./ˈkæʃ desk/-NAmE /ˈkæʃ desk/
 	;bàn tính tiền -- (British English)​the place in a shop where you pay for goods that you have bought
 		;She paid for the book at the cash desk.
 
 
-cashier		<-->	noun+B2    /kæˈʃɪə(r)/-NAmE /kæˈʃɪr/
+cashier		<-->	noun++B2	[221128][001]	./kæˈʃɪə(r)/-NAmE /kæˈʃɪr/
 ​	;người tính tiền -- a person whose job is to receive and pay out money in a bank, shop, hotel, etc.
 		;TOPICS JobsB2, ShoppingB2
 
 
-cash register		<-->	noun+C1    /ˈkæʃ redʒɪstə(r)/-NAmE /ˈkæʃ redʒɪstər/
+cash register		<-->	noun++C1	[221128][001]	./ˈkæʃ redʒɪstə(r)/-NAmE /ˈkæʃ redʒɪstər/
 	;máy đếm, giữ tiền -- (British English also till)(North American English also register)​a machine used in shops, restaurants, etc. for keeping money in, and that shows and records the amount of money received for each thing that is sold
 		;He gave her $10 from the cash register.
 		;Put the money straight into the cash register.
@@ -674,22 +674,22 @@ cash register		<-->	noun+C1    /ˈkæʃ redʒɪstə(r)/-NAmE /ˈkæʃ redʒɪst�
 				;at the cash register, behind the cash register, on the cash register…
 
 
-cCTV		<-->	abbreviation+C1    /ˌsiː siː tiː ˈviː/-NAmE /ˌsiː siː tiː ˈviː/
+cCTV		<-->	abbreviation++C1	[221128][001]	./ˌsiː siː tiː ˈviː/-NAmE /ˌsiː siː tiː ˈviː/
 ​	;truyền hành cáp ??? -- closed-circuit television
 		;He was caught on CCTV leaving the store.
 		;CCTV cameras/footage
 
 
-center		<-->	noun+A1    /ˈsentə(r)/-NAmE /ˈsentər/
+center		<-->	noun++A1	[221128][001]	./ˈsentə(r)/-NAmE /ˈsentər/
 	;trung tâm thành phố -- (US English)(British English centre)[countable] (especially British English)(North American English usually downtown [usually singular])the main part of a town or city where there are a lot of shops and offices
 		;in the… center We both work in the city center.
 		;TOPICS ShoppingA1, BuildingsA1
 
 
-centre		<-->	noun+A1    
+centre		<-->	noun++A1    
 
 
-chain		<-->	noun+B1    /tʃeɪn/-NAmE /tʃeɪn/
+chain		<-->	noun++B1	[221128][001]	./tʃeɪn/-NAmE /tʃeɪn/
 ;chuỗi cửa  hàng -- (of shops/hotels)​  [countable] a group of shops or hotels owned by the same company
 		;a supermarket/hotel/retail chain
 		;chain of something a chain of stores/shops/restaurants
@@ -705,12 +705,12 @@ chain		<-->	noun+B1    /tʃeɪn/-NAmE /tʃeɪn/
 				;part of a chain
 
 
-chain store		<-->	noun+C1    /ˈtʃeɪn stɔː(r)/-NAmE /ˈtʃeɪn stɔːr/
+chain store		<-->	noun++C1	[221128][001]	./ˈtʃeɪn stɔː(r)/-NAmE /ˈtʃeɪn stɔːr/
 	;chuỗi cửa  hàng -- (also British English, old-fashioned multiple, multiple store)​a shop that is one of a series of similar shops owned by the same company
 		;These small towns are dominated by chain stores.
 
 
-change		<-->	noun+B1    /tʃeɪndʒ/-NAmE /tʃeɪndʒ/\
+change		<-->	noun++B1	[221128][001]	./tʃeɪndʒ/-NAmE /tʃeɪndʒ/\
 	;tiền thối, tiền lẻ -- (money)  [uncountable] the money that you get back when you have paid for something giving more money than the amount it costs
 		;Don't forget your change!
 		;That's 40p change.
@@ -724,7 +724,7 @@ change		<-->	noun+B1    /tʃeɪndʒ/-NAmE /tʃeɪndʒ/\
 				;change from, change out of
 
 
-charge		<-->	verb+B1    /tʃɑːdʒ/-NAmE /tʃɑːrdʒ/\
+charge		<-->	verb++B1	[221128][001]	./tʃɑːdʒ/-NAmE /tʃɑːrdʒ/\
 	;tính tiền -- (money)​  [transitive, intransitive] to ask an amount of money for goods or a service
 		;The fees charged by some companies are excessive.
 		;charge something for something What did they charge for the repairs?
@@ -750,7 +750,7 @@ charge		<-->	verb+B1    /tʃɑːdʒ/-NAmE /tʃɑːrdʒ/\
 				;charge something to somebody’s account
 
 
-cheap		<-->	adjective+A1    /tʃiːp/-NAmE /tʃiːp/
+cheap		<-->	adjective++A1	[221128][001]	./tʃiːp/-NAmE /tʃiːp/
 	;rẻ -- (comparative cheaper, superlative cheapest)(Idioms)(low price)​  costing little money or less money than you expected
 		;SYNONYM inexpensive
 		;cheap imports/flights
@@ -774,13 +774,13 @@ cheap		<-->	adjective+A1    /tʃiːp/-NAmE /tʃiːp/
 		;TOPICS MoneyA1, ShoppingA1
 
 
-check card		<-->	noun+C2    /ˈtʃek kɑːd/-NAmE /ˈtʃek kɑːrd/
+check card		<-->	noun++C2	[221128][001]	./ˈtʃek kɑːd/-NAmE /ˈtʃek kɑːrd/
 	;thẻ ngân hàng -- (US English)(also debit card British and North American English)​a plastic card that can be used to take money directly from your bank account when you pay for something
 		;COMPARE credit card
 		;TOPICS ShoppingC2, MoneyC2
 
 
-checkout		<-->	noun+B2    /ˈtʃekaʊt/-NAmE /ˈtʃekaʊt/
+checkout		<-->	noun++B2	[221128][001]	./ˈtʃekaʊt/-NAmE /ˈtʃekaʊt/
 ​	;chỗ tính tiền -- [countable] the place where you pay for the things that you are buying in a supermarket
 		;a checkout assistant/operator
 		;long queues at the checkouts
@@ -798,7 +798,7 @@ checkout		<-->	noun+B2    /ˈtʃekaʊt/-NAmE /ˈtʃekaʊt/
 				;at the checkout
 
 
-chemist		<-->	noun+A2    /ˈkemɪst/-NAmE /ˈkemɪst/	
+chemist		<-->	noun++A2	[221128][001]	./ˈkemɪst/-NAmE /ˈkemɪst/	
 	;nhà hoá học -- (also dispensing chemist) (both British English)(North American English druggist)a person whose job is to prepare and sell medicines, and who works in a shop
 		;COMPARE pharmacist
 		;TOPICS HealthcareA2, JobsA2
@@ -809,7 +809,7 @@ chemist		<-->	noun+A2    /ˈkemɪst/-NAmE /ˈkemɪst/
 				;chemist’s shop, the chemist’s
 
 
-cheque		<-->	noun+B1    /tʃek/-NAmE /tʃek/
+cheque		<-->	noun++B1	[221128][001]	./tʃek/-NAmE /tʃek/
 	;tấm check -- (British English)(US English check)​a printed form that you can write on and sign as a way of paying for something instead of using money
 		;Can I write you a cheque?
 		;Shall I make the cheque out to you?
@@ -834,13 +834,13 @@ cheque		<-->	noun+B1    /tʃek/-NAmE /tʃek/
 				;cheque for
 
 
-cleaner		<-->	noun+B2    /ˈkliːnə(r)/-NAmE /ˈkliːnər/
+cleaner		<-->	noun++B2	[221128][001]	./ˈkliːnə(r)/-NAmE /ˈkliːnər/
 	;tiệm giặt, ... -- (cleaner’s)(plural cleaners)(also dry-cleaner’s)a shop where clothes, curtains, etc. are cleaned, especially with chemicals
 		;Can you pick up my suit from the cleaner's?
 		;TOPICS ShoppingB2
 
 
-clerk		<-->	noun+B2    /klɑːk/-NAmE /klɜːrk/
+clerk		<-->	noun++B2	[221128][001]	./klɑːk/-NAmE /klɜːrk/
 	;nhân viên cửa hàng -- (also sales clerk both North American English, shop assistant, assistant (both British English))a person whose job is to serve customers in a shop
 		;The clerk at the counter gave me too little change.
 		;The sales clerk answered all our questions.
@@ -850,12 +850,12 @@ clerk		<-->	noun+B2    /klɑːk/-NAmE /klɜːrk/
 				;book, store, grocery, sales…
 
 
-click and collect		<-->	noun+C1    /ˌklɪk ən kəˈlekt/-NAmE /ˌklɪk ən kəˈlekt/
+click and collect		<-->	noun++C1	[221128][001]	./ˌklɪk ən kəˈlekt/-NAmE /ˌklɪk ən kəˈlekt/
 	việc mua hàng online -- [uncountable] (British English)​a system that enables customers to buy or order goods from a store's website and collect them from a local shop
 		;Delivery options include free click and collect or £2.99 for home delivery.
 
 
-close		<-->	verb+A1    /kləʊz/-NAmE /kləʊz/-\
+close		<-->	verb++A1	[221128][001]	./kləʊz/-NAmE /kləʊz/-\
 	;đóng cửa -- (shop/store/business, etc.)​  [transitive, often passive, intransitive] to make the work of a shop, etc. stop for a period of time; to not be open for people to use
 		;be closed The school was closed because of the heavy snow.
 		;be closed for something The museum has been closed for renovation.
@@ -873,7 +873,7 @@ close		<-->	verb+A1    /kləʊz/-NAmE /kləʊz/-\
 				;to
 
 
-clothing		<-->	noun+A2    /ˈkləʊðɪŋ/-NAmE /ˈkləʊðɪŋ/
+clothing		<-->	noun++A2	[221128][001]	./ˈkləʊðɪŋ/-NAmE /ˈkləʊðɪŋ/
 	;quần áo -- [uncountable](Idioms)​clothes, especially a particular type of clothes
 		;Workers at the factory wear protective clothing.
 		;a man wearing dark clothing
@@ -901,7 +901,7 @@ clothing		<-->	noun+A2    /ˈkləʊðɪŋ/-NAmE /ˈkləʊðɪŋ/
 				;a change of clothing
 
 
-coin		<-->	noun+B1   /kɔɪn/-NAmE /kɔɪn/
+coin		<-->	noun++B1   /kɔɪn/-NAmE /kɔɪn/
 	;tiền kim loại  -- (Idioms)​  [countable] a small flat piece of metal used as money(gold coins)
 		;a pound/euro/dollar coin
 		;They flipped a coin to see who should go first.
@@ -921,24 +921,24 @@ coin		<-->	noun+B1   /kɔɪn/-NAmE /kɔɪn/
 				;the flip of a coin, the toss of a coin 
 
 
-comparison-shop		<-->	verb+C1    /kəmˈpærɪsn ʃɒp/-NAmE /kəmˈpærɪsn ʃɑːp/
+comparison-shop		<-->	verb++C1	[221128][001]	./kəmˈpærɪsn ʃɒp/-NAmE /kəmˈpærɪsn ʃɑːp/
 	;so sánh sản phẩm về giá, chất lượng --  [intransitive, transitive] (North American English)(Verb Forms)​to go from one store or website to another and compare prices for similar items, in order to pay the least amount of money for something
 		;Consumers used their mobile devices to comparison-shop while in showrooms.
 		;comparison-shop something Prospective customers can comparison-shop health insurance plans in an online marketplace.
 		;COMPARE showrooming
 
 
-comparison shopping		<-->	noun+C1    /kəmˈpærɪsn ʃɒpɪŋ/-NAmE /kəmˈpærɪsn ʃɑːpɪŋ/
+comparison shopping		<-->	noun++C1	[221128][001]	./kəmˈpærɪsn ʃɒpɪŋ/-NAmE /kəmˈpærɪsn ʃɑːpɪŋ/
 	;sự so sánh sản phẩm về giá, chất lượng -- [uncountable] (especially North American English)​the activity of comparing prices for similar items in different shops and websites, in order to pay the least amount of money for something
 		;Be prepared to do some comparison shopping before you decide which TV to buy.
 
 
-comparison site		<-->	noun+C1    /kəmˈpærɪsn saɪt/-NAmE /kəmˈpærɪsn saɪt/
+comparison site		<-->	noun++C1	[221128][001]	./kəmˈpærɪsn saɪt/-NAmE /kəmˈpærɪsn saɪt/
 	;trang web so sánh sản phẩm về giá, chất lượng -- (also comparison website  /kəmˈpærɪsn websaɪt/  /kəmˈpærɪsn websaɪt/)​a website that consumers use to compare the prices and features of goods and services from different companies
 		;Financial comparison sites offer useful lists of savings accounts to help you narrow down your choices.
 
 
-condition		<-->	noun+A2    /kənˈdɪʃn/-NAmE /kənˈdɪʃn/
+condition		<-->	noun++A2	[221128][001]	./kənˈdɪʃn/-NAmE /kənˈdɪʃn/
 	;hoàn cảnh, điều kiện -- (Idioms) (state of something)​  [uncountable, singular] the state that something is in
 		;in… condition to be in pristine/excellent/perfect condition
 		;Many of the paintings are in poor condition.
@@ -967,31 +967,31 @@ condition		<-->	noun+A2    /kənˈdɪʃn/-NAmE /kənˈdɪʃn/
 				;in… condition
 
 
-confectioner		<-->	noun+C2    /kənˈfekʃənə(r)/-NAmE /kənˈfekʃənər/
+confectioner		<-->	noun++C2	[221128][001]	./kənˈfekʃənə(r)/-NAmE /kənˈfekʃənər/
 	;thợ làm bánh kẹo hoặc một kinh doanh bánh kẹo -- ​a person or a business that makes or sells cakes and sweets
 
 
-convenience store		<-->	noun+B2    /kənˈviːniəns stɔː(r)/-NAmE /kənˈviːniəns stɔːr/
+convenience store		<-->	noun++B2	[221128][001]	./kənˈviːniəns stɔː(r)/-NAmE /kənˈviːniəns stɔːr/
 ​	;cửa hàng tiện lợi -- a small local shop that sells food, newspapers, etc. and has long opening hours
 		;We bought some snacks at the convenience store.
 		;TOPICS ShoppingB2
 		;Join us
 
 
-cookware		<-->	noun+C2    /ˈkʊkweə(r)/-NAmE /ˈkʊkwer/
+cookware		<-->	noun++C2	[221128][001]	./ˈkʊkweə(r)/-NAmE /ˈkʊkwer/
 	;các dụng cụ nấu nướng -- [uncountable] ​pots and containers used in cooking
 		;Wordfinder: appliances, cookware, fashion, furnishings, hardware, linen, lingerie, menswear, stationery, store
 		;TOPICS Cooking and eatingC2, ShoppingC2
 
 
-corner shop		<-->	noun+B2    /ˈkɔːnə ʃɒp/-NAmE /ˈkɔːrnər ʃɑːp/
+corner shop		<-->	noun++B2	[221128][001]	./ˈkɔːnə ʃɒp/-NAmE /ˈkɔːrnər ʃɑːp/
 	;tiệm nhỏ bán báo, ... -- (British English)​a small shop that sells food, newspapers, etc., especially one near people’s houses
 		;I got some milk from the corner shop.
 		;the local corner shop/store
 		;TOPICS ShoppingB2
 
 
-cosmetic		<-->	noun+B2    /kɒzˈmetɪk/-NAmE /kɑːzˈmetɪk/-\
+cosmetic		<-->	noun++B2	[221128][001]	./kɒzˈmetɪk/-NAmE /kɑːzˈmetɪk/-\
 	;mỹ phẩm -- [usually plural]
 ​		;a substance that you put on your face or body to make it more attractive
 		;the cosmetics industry
@@ -1048,7 +1048,7 @@ cosmetic		<-->	noun+B2    /kɒzˈmetɪk/-NAmE /kɑːzˈmetɪk/-\
 				;company, industry
 
 
-cost		<-->	verb+A1    /kɒst/-NAmE /kɔːst/
+cost		<-->	verb++A1	[221128][001]	./kɒst/-NAmE /kɔːst/
 	;giá -- if something costs a particular amount of money, you need to pay that amount in order to buy, make or do it
 		;cost something How much did it cost?
 		;I didn't get it because it cost too much.
@@ -1064,7 +1064,7 @@ cost		<-->	verb+A1    /kɒst/-NAmE /kɔːst/
 		;TOPICS ShoppingA1, BusinessA1
 
 
-counter		<-->	noun+B2    /ˈkaʊntə(r)/-NAmE /ˈkaʊntər/-\ 
+counter		<-->	noun++B2	[221128][001]	./ˈkaʊntə(r)/-NAmE /ˈkaʊntər/-\ 
 	;cái bàn/quầy của cô bán hàng -- (Idioms)​ a long flat surface over which goods are sold or business is done in a shop, bank, etc.
 		;behind the counter I asked the woman behind the counter if they had any postcards.
 		;Wordfinder: assistant, buy, counter, display, fitting room, promotion, sale, shop, store,,till
@@ -1081,12 +1081,12 @@ counter		<-->	noun+B2    /ˈkaʊntə(r)/-NAmE /ˈkaʊntər/-\
 				;across a/​the counter, at a/​the counter, behind a/​the counter…
 
 
-couponing		<-->	noun+C2    /ˈkuːpɒnɪŋ/-NAmE /ˈkuːpɑːnɪŋ/,  /ˈkjuːpɑːnɪŋ/
+couponing		<-->	noun++C2	[221128][001]	./ˈkuːpɒnɪŋ/-NAmE /ˈkuːpɑːnɪŋ/,  /ˈkjuːpɑːnɪŋ/
 	;việc tích luỹ phiếu giảm giá -- [uncountable] (North American English)​the practice of collecting and using coupons that offer discounts (= amounts of money taken off) on goods or services
 		;Couponing is a good way to save on groceries, but it means you can't favour brands.
 
 
-craft		<-->	noun+B2    /krɑːft/-NAmE /kræft/\
+craft		<-->	noun++B2	[221128][001]	./krɑːft/-NAmE /kræft/\
 ​	;thủ công -- [countable, uncountable] an activity involving a special skill at making things with your hands
 		;traditional crafts like basket-weaving
 		;a craft fair/workshop
@@ -1104,7 +1104,7 @@ craft		<-->	noun+B2    /krɑːft/-NAmE /kræft/\
 				;art and craft, arts and crafts
 
 
-credit		<-->	noun+A2    /ˈkredɪt/-NAmE /ˈkredɪt/\
+credit		<-->	noun++A2	[221128][001]	./ˈkredɪt/-NAmE /ˈkredɪt/\
 	;tín dụng (Idioms)(buy now–pay later)​  [uncountable] an arrangement that you make, with a shop for example, to pay later for something you buy
 		;to get credit
 		;on credit We bought the dishwasher on credit.
@@ -1131,7 +1131,7 @@ credit		<-->	noun+A2    /ˈkredɪt/-NAmE /ˈkredɪt/\
 				;a letter of credit
 
 
-credit card		<-->	noun+A2    /ˈkredɪt kɑːd/-NAmE /ˈkredɪt kɑːrd/
+credit card		<-->	noun++A2	[221128][001]	./ˈkredɪt kɑːd/-NAmE /ˈkredɪt kɑːrd/
 ​	;thẻ tín dụng -- a small plastic card that you can use to buy goods and services and pay for them later
 		;All major credit cards are accepted at our hotels.
 		;by credit card The safest way to pay for mail order goods is by credit card.
@@ -1153,19 +1153,19 @@ credit card		<-->	noun+A2    /ˈkredɪt kɑːd/-NAmE /ˈkredɪt kɑːrd/
 				;on your credit card
 
 
-credit note		<-->	noun+C2    /ˈkredɪt nəʊt/-NAmE /ˈkredɪt nəʊt/
+credit note		<-->	noun++C2	[221128][001]	./ˈkredɪt nəʊt/-NAmE /ˈkredɪt nəʊt/
 	;tín phiếu của người bán hàng -- (British English)​a letter that a shop gives you when you have returned something and that allows you to have goods of the same value in exchange
 		;If damaged items have to be returned, the manufacturer may issue a credit note.
 
 
-crockery		<-->	noun+C2    /ˈkrɒkəri/-NAmE /ˈkrɑːkəri/
+crockery		<-->	noun++C2	[221128][001]	./ˈkrɒkəri/-NAmE /ˈkrɑːkəri/
 	;bát đĩa sành -- [uncountable]​(especially British English) plates, cups, dishes, etc.
 		;They would like crockery and cutlery as wedding presents.
 		;TOPICS ShoppingC2, Cooking and eatingC2
 	;bát đĩa dùng trong lò vi sóng -- (North American English) dishes, etc. that you use in the oven
 
 
-currency		<-->	noun+B1    /ˈkʌrənsi/-NAmE /ˈkɜːrənsi/
+currency		<-->	noun++B1	[221128][001]	./ˈkʌrənsi/-NAmE /ˈkɜːrənsi/
 	;tiền tệ -- (plural currencies)	​  [countable, uncountable] the system of money that a country uses
 		;trading in foreign currencies
 		;the single European currency
@@ -1186,7 +1186,7 @@ currency		<-->	noun+B1    /ˈkʌrənsi/-NAmE /ˈkɜːrənsi/
 				;in…currency
 
 
-customer		<-->	noun+A1    /ˈkʌstəmə(r)/-NAmE /ˈkʌstəmər/
+customer		<-->	noun++A1	[221128][001]	./ˈkʌstəmə(r)/-NAmE /ˈkʌstəmər/
 ​	;khách hàng --  a person or an organization that buys goods or services from a shop or business
 		;marketing strategies to target potential customers
 		;The company rewards loyal customers with discounts.
@@ -1210,7 +1210,7 @@ customer		<-->	noun+A1    /ˈkʌstəmə(r)/-NAmE /ˈkʌstəmər/
 				;care, relations, relationship…
 
 
-cutlery		<-->	noun+C1    /ˈkʌtləri/-NAmE /ˈkʌtləri/ [IMAGE]-cutlery
+cutlery		<-->	noun++C1	[221128][001]	./ˈkʌtləri/-NAmE /ˈkʌtləri/ [IMAGE]-cutlery
 	;bộ dao ăn -- [uncountable] (especially British English) (soup spoon, steak knife, chopstick, fork, salad servers)(North American English usually flatware, silverware)knives, forks and spoons, used for eating and serving food
 		;Put the cutlery in the drawer.
 		;a stainless steel cutlery set
@@ -1219,7 +1219,7 @@ cutlery		<-->	noun+C1    /ˈkʌtləri/-NAmE /ˈkʌtləri/ [IMAGE]-cutlery
 		;TOPICS ShoppingC1, Cooking and eatingC1
 
 
-debit card		<-->	noun+C1    /ˈdebɪt kɑːd/-NAmE /ˈdebɪt kɑːrd/
+debit card		<-->	noun++C1	[221128][001]	./ˈdebɪt kɑːd/-NAmE /ˈdebɪt kɑːrd/
 	;thẻ ghi nợ -- (US English also check card)​a plastic card that can be used to take money directly from your bank account when you pay for something
 		;COMPARE credit card
 		;TOPICS ShoppingC1, MoneyC1
@@ -1228,7 +1228,7 @@ debit card		<-->	noun+C1    /ˈdebɪt kɑːd/-NAmE /ˈdebɪt kɑːrd/
 				;transaction
 
 
-debt		<-->	noun+B2    /det/-NAmE /det/	
+debt		<-->	noun++B2	[221128][001]	./det/-NAmE /det/	
 	;nợ -- [uncountable] the situation of owing money, especially when you cannot pay
 		;in debt He died heavily in debt.
 		;The club is £4 million in debt.
@@ -1249,19 +1249,19 @@ debt		<-->	noun+B2    /det/-NAmE /det/
 				;deeply in debt, heavily in debt
 
 
-deli		<-->	noun+C1    /ˈdeli/-NAmE /ˈdeli/
+deli		<-->	noun++C1	[221128][001]	./ˈdeli/-NAmE /ˈdeli/
 	;tiệm ăn bán đồ ăn nước ngoài -- (also delicatessen)a shop or part of one that sells cooked meats and cheeses, and special or unusual foods that come from other countries
 		;There was a wide selection of Italian meats at the deli counter.
 
 
-delicatessen		<-->	noun+C1    /ˌdelɪkəˈtesn/-NAmE /ˌdelɪkəˈtesn/
+delicatessen		<-->	noun++C1	[221128][001]	./ˌdelɪkəˈtesn/-NAmE /ˌdelɪkəˈtesn/
 	;tiệm ăn bán đồ ăn nước ngoài -- (also deli)​a shop or part of one that sells cooked meats and cheeses, and special or unusual foods that come from other countries
 		;Oxford Collocations Dictionary
 		;Delicatessen is used before these nouns:
 			;counter
 
 
-deliver		<-->	verb+B1    /dɪˈlɪvə(r)/-NAmE /dɪˈlɪvər/
+deliver		<-->	verb++B1	[221128][001]	./dɪˈlɪvə(r)/-NAmE /dɪˈlɪvər/
 	;việc phân phối, giao hàng -- (Verb Forms)(Idioms) take goods/letters [transitive, intransitive] to take goods, letters, etc. to the person or people they have been sent to
 		;deliver something I get my food delivered from the supermarket to save time.
 		;deliver something to somebody/something Leaflets have been delivered to every household.
@@ -1277,7 +1277,7 @@ deliver		<-->	verb+B1    /dɪˈlɪvə(r)/-NAmE /dɪˈlɪvər/
 				;have something delivered
 
 
-delivery		<-->	noun+B2    /dɪˈlɪvəri/-NAmE /dɪˈlɪvəri/
+delivery		<-->	noun++B2	[221128][001]	./dɪˈlɪvəri/-NAmE /dɪˈlɪvəri/
 	;việc phân phối, giao hàng -- (plural deliveries)(Idioms)​  [uncountable, countable] the act of taking goods, letters, etc. to the people they have been sent to
 		;Allow 28 days for delivery.
 		;We offer free delivery on orders over $200.
@@ -1299,12 +1299,12 @@ delivery		<-->	noun+B2    /dɪˈlɪvəri/-NAmE /dɪˈlɪvəri/
 				;for delivery, on delivery, delivery to…
 
 
-denomination		<-->	noun+C2    /dɪˌnɒmɪˈneɪʃn/-NAmE /dɪˌnɑːmɪˈneɪʃn/
+denomination		<-->	noun++C2	[221128][001]	./dɪˌnɒmɪˈneɪʃn/-NAmE /dɪˌnɑːmɪˈneɪʃn/
 	;mệnh giá -- (formal) a unit of value, especially of money
 		;coins and banknotes of various denominations
 
 
-department		<-->	noun+A2    /dɪˈpɑːtmənt/-NAmE /dɪˈpɑːrtmənt/
+department		<-->	noun++A2	[221128][001]	./dɪˈpɑːtmənt/-NAmE /dɪˈpɑːrtmənt/
 	;một phòng ban lớn -- (abbreviation Dept)(Idioms) ​a section of a large organization such as a government, business, university, etc.
 		;department of something the Department of Health
 		;He is a lecturer in the department of psychology at Trinity College, Dublin.
@@ -1320,11 +1320,11 @@ department		<-->	noun+A2    /dɪˈpɑːtmənt/-NAmE /dɪˈpɑːrtmənt/
 		;TOPICS EducationA2, BusinessA2, Working lifeA2, PoliticsA2, ShoppingA2
 
 
-department store		<-->	noun+B1    /dɪˈpɑːtmənt stɔː(r)/-NAmE /dɪˈpɑːrtmənt stɔːr/
+department store		<-->	noun++B1	[221128][001]	./dɪˈpɑːtmənt stɔː(r)/-NAmE /dɪˈpɑːrtmənt stɔːr/
 ​	;cửa hàng  lớn -- a large shop that is divided into several parts, each part selling a different type of goods
 
 
-discount		<-->	noun+B1    /ˈdɪskaʊnt/-NAmE /ˈdɪskaʊnt/
+discount		<-->	noun++B1	[221128][001]	./ˈdɪskaʊnt/-NAmE /ˈdɪskaʊnt/
 	;sự giảm giá -- [countable, uncountable]
 ​		;an amount of money that is taken off the usual cost of something
 		;SYNONYM reduction
@@ -1400,7 +1400,7 @@ discount		<-->	noun+B1    /ˈdɪskaʊnt/-NAmE /ˈdɪskaʊnt/
 				;a rate of discount
 
 
-discount		<-->	verb+B2    /ˈdɪskaʊnt/-NAmE /ˈdɪskaʊnt/
+discount		<-->	verb++B2	[221128][001]	./ˈdɪskaʊnt/-NAmE /ˈdɪskaʊnt/
 	;giảm giá -- (Verb Forms) [usually passive] to take an amount of money off the usual cost of something; to sell something at a discount
 		; ~ SYNONYM reduce
 		;be discounted by something Most of our stock has been discounted by up to 40 per cent.
@@ -1411,7 +1411,7 @@ discount		<-->	verb+B2    /ˈdɪskaʊnt/-NAmE /ˈdɪskaʊnt/
 		;More Like This Pronunciation changes by part of speech: abuse, alternate, advocate, approximate, contract, converse, convict, decrease, delegate, discount, duplicate, estimate, export, extract, graduate, import, intimate, moderate, object, permit, present, protest, record, refund, refuse, subject, suspect, survey, torment, upgrade
 
 
-display		<-->	noun+B2    /dɪˈspleɪ/-NAmE /dɪˈspleɪ/
+display		<-->	noun++B2	[221128][001]	./dɪˈspleɪ/-NAmE /dɪˈspleɪ/
 	;trưng bày -- (Idioms)​  [countable] an arrangement of things in a public place to inform or entertain people or advertise something for sale
 		;a beautiful floral display
 		;The window display changes once a month.
@@ -1434,18 +1434,18 @@ display		<-->	noun+B2    /dɪˈspleɪ/-NAmE /dɪˈspleɪ/
 				;on display, display of
 
 
-display bin		<-->	noun+C2    /dɪˈspleɪ bɪn/-NAmE /dɪˈspleɪ bɪn/
+display bin		<-->	noun++C2	[221128][001]	./dɪˈspleɪ bɪn/-NAmE /dɪˈspleɪ bɪn/
 	;phòng trưng bày -- (British English also dump bin)​a box in a shop for displaying goods, especially goods whose prices have been reduced
 
 
-dot-com		<-->	noun+C2    /ˌdɒt ˈkɒm/-NAmE /ˌdɑːt ˈkɑːm/
+dot-com		<-->	noun++C2	[221128][001]	./ˌdɒt ˈkɒm/-NAmE /ˌdɑːt ˈkɑːm/
 	;công ty phần mềm -- (also dotcom)​a company that sells goods and services on the internet, especially one whose address ends ‘.com’
 		;The weaker dot-coms collapsed.
 		;a dot-com millionaire
 		;TOPICS Phones, email and the internetC2, ShoppingC2
 
 
-downtown		<-->	adverb+B2    /ˌdaʊnˈtaʊn/-NAmE /ˌdaʊnˈtaʊn/
+downtown		<-->	adverb++B2	[221128][001]	./ˌdaʊnˈtaʊn/-NAmE /ˌdaʊnˈtaʊn/
 ​	;ngay, gần, trong khu mua sắm --  in or towards the centre of a city, especially its main business area
 		;to go/work downtown
 		;Collocations Town and country:
@@ -1488,28 +1488,28 @@ downtown		<-->	adverb+B2    /ˌdaʊnˈtaʊn/-NAmE /ˌdaʊnˈtaʊn/
 		;TOPICS ShoppingB2, BusinessB2, BuildingsB2
 
 
-downtown		<-->	adjective+B2    /ˌdaʊnˈtaʊn/-NAmE /ˌdaʊnˈtaʊn/-\
+downtown		<-->	adjective++B2	[221128][001]	./ˌdaʊnˈtaʊn/-NAmE /ˌdaʊnˈtaʊn/-\
 	;ngay, gần, trong khu mua sắm -- [only before noun] (especially North American English) ​in, towards or typical of the centre of a city, especially its main business area
 		;a downtown store
 		;COMPARE uptown
 		;TOPICS BuildingsB2, ShoppingB2
 
 
-downtown		<-->	noun+B2    /ˌdaʊnˈtaʊn/-NAmE /ˌdaʊnˈtaʊn/
+downtown		<-->	noun++B2	[221128][001]	./ˌdaʊnˈtaʊn/-NAmE /ˌdaʊnˈtaʊn/
 	;khu mua sắm -- [uncountable] (especially North American English)​the centre of a city, especially its main business area
 		;a hotel in the heart of downtown
 		;TOPICS BuildingsB2, ShoppingB2
 
 
-draper		<-->	noun+C2    /ˈdreɪpə(r)/-NAmE /ˈdreɪpər/
+draper		<-->	noun++C2	[221128][001]	./ˈdreɪpə(r)/-NAmE /ˈdreɪpər/
 	;cửa hàng quần áo, chăn màn; người bán ... -- (British English, old-fashioned) ​draper’s(plural drapers) a shop that sells cloth, curtains, etc.
 
 
-dressing room		<-->	noun+C2    /ˈdresɪŋ ruːm/,  /ˈdresɪŋ rʊm/-NAmE /ˈdresɪŋ ruːm/,  /ˈdresɪŋ rʊm/
+dressing room		<-->	noun++C2	[221128][001]	./ˈdresɪŋ ruːm/,  /ˈdresɪŋ rʊm/-NAmE /ˈdresɪŋ ruːm/,  /ˈdresɪŋ rʊm/
 	;phòng thử đồ -- (North American English)(also fitting room British and North American English)a room or cubicle in a shop where you can put on clothes to see how they look
 
 
-drugstore		<-->	noun+B2    /ˈdrʌɡstɔː(r)/-NAmE /ˈdrʌɡstɔːr/
+drugstore		<-->	noun++B2	[221128][001]	./ˈdrʌɡstɔː(r)/-NAmE /ˈdrʌɡstɔːr/
 	;hiệu thuốc -- (North American English)​a shop that sells medicines and also other types of goods, for example cosmetics
 		;I bought these sunglasses at the drugstore.
 		;The toothpaste is available at supermarkets and drugstores.
@@ -1518,12 +1518,12 @@ drugstore		<-->	noun+B2    /ˈdrʌɡstɔː(r)/-NAmE /ˈdrʌɡstɔːr/
 		;TOPICS ShoppingB2
 
 
-dry-cleaner’s		<-->	noun+C2    /ˌdraɪ ˈkliːnəz/-NAmE /ˌdraɪ ˈkliːnərz/
+dry-cleaner’s		<-->	noun++C2	[221128][001]	./ˌdraɪ ˈkliːnəz/-NAmE /ˌdraɪ ˈkliːnərz/
 	;tiệm giặt ủi -- (also cleaner’s)
 		;​a shop where clothes, curtains, etc. are cleaned, especially with chemicals
 
 
-dummy		<-->	noun+C2    /ˈdʌmi/-NAmE /ˈdʌmi/
+dummy		<-->	noun++C2	[221128][001]	./ˈdʌmi/-NAmE /ˈdʌmi/
 	;người nộm -- (plural dummies)[countable] a model of a person, used especially when making clothes or for showing them in a shop window
 		;a tailor’s dummy
 		;a ventriloquist’s dummy
@@ -1531,11 +1531,11 @@ dummy		<-->	noun+C2    /ˈdʌmi/-NAmE /ˈdʌmi/
 		;TOPICS Clothes and FashionC2, ShoppingC2
 
 
-dump bin		<-->	noun+C2    /ˈdʌmp bɪn/-NAmE /ˈdʌmp bɪn/
+dump bin		<-->	noun++C2	[221128][001]	./ˈdʌmp bɪn/-NAmE /ˈdʌmp bɪn/
 	;khu giảm giá -- (British English)(also display bin North American English, British English)​a box in a shop for displaying goods, especially goods whose prices have been reduced
 
 
-duty-free		<-->	adjective+C1    /ˌdjuːti ˈfriː/-NAmE /ˌduːti ˈfriː/
+duty-free		<-->	adjective++C1	[221128][001]	./ˌdjuːti ˈfriː/-NAmE /ˌduːti ˈfriː/
 	​;không thuế -- (of goods) that you can bring into a country without paying tax on them
 		;duty-free cigarettes
 		;TOPICS ShoppingC1, HolidaysC1, MoneyC1
@@ -1544,22 +1544,22 @@ duty-free		<-->	adjective+C1    /ˌdjuːti ˈfriː/-NAmE /ˌduːti ˈfriː/
 				;shop, shopping
 
 
-duty-free		<-->	noun+C1    /ˌdjuːti ˈfriː/-NAmE /ˌduːti ˈfriː/-\
+duty-free		<-->	noun++C1	[221128][001]	./ˌdjuːti ˈfriː/-NAmE /ˌduːti ˈfriː/-\
 	;hàng không thuế -- [usually plural] (British English, informal)​goods that you can bring into a country without paying tax
 		;We bought a load of duty-frees at the airport.
 
 
-duty-free		<-->	adverb+C1    /ˌdjuːti ˈfriː/-NAmE /ˌduːti ˈfriː/
+duty-free		<-->	adverb++C1	[221128][001]	./ˌdjuːti ˈfriː/-NAmE /ˌduːti ˈfriː/
 	;không thuế -- (​without having to pay tax)
 		;You’re allowed 1½ litres of spirits duty-free.
 		;TOPICS ShoppingC1, HolidaysC1, MoneyC1
 
 
-e-cash		<-->	noun+C2    /ˈiː kæʃ/-NAmE /ˈiː kæʃ/
+e-cash		<-->	noun++C2	[221128][001]	./ˈiː kæʃ/-NAmE /ˈiː kæʃ/
 	;thanh toán qua mạng -- [uncountable] ​a system for sending and receiving payments using the internet
 
 
-electrical		<-->	adjective+A2    /ɪˈlektrɪkl/-NAmE /ɪˈlektrɪkl/
+electrical		<-->	adjective++A2	[221128][001]	./ɪˈlektrɪkl/-NAmE /ɪˈlektrɪkl/
 ​	;(thuộc) điện -- connected with electricity; using or producing electricity
 		;an electrical fault in the engine
 		;electrical equipment/appliances
@@ -1570,7 +1570,7 @@ electrical		<-->	adjective+A2    /ɪˈlektrɪkl/-NAmE /ɪˈlektrɪkl/
 				;activity, apparatus, appliance…
 
 
-escalator		<-->	noun+C1    /ˈeskəleɪtə(r)/-NAmE /ˈeskəleɪtər/
+escalator		<-->	noun++C1	[221128][001]	./ˈeskəleɪtə(r)/-NAmE /ˈeskəleɪtər/
 	;thang cuốn -- ​moving stairs that carry people between different floors of a large building
 		;Take the escalator down to the lower level.
 		;We rode the escalator up toward our restaurant.
@@ -1587,7 +1587,7 @@ escalator		<-->	noun+C1    /ˈeskəleɪtə(r)/-NAmE /ˈeskəleɪtər/
 				;carry somebody, lead to something
 
 
-estate agent		<-->	noun+B2    /ɪˈsteɪt eɪdʒənt/-NAmE /ɪˈsteɪt eɪdʒənt/
+estate agent		<-->	noun++B2	[221128][001]	./ɪˈsteɪt eɪdʒənt/-NAmE /ɪˈsteɪt eɪdʒənt/
 	;công ty bất động sản -- (British English)
 		;(North American English Realtor™, real estate agent)
 ​		;a person whose job is to sell houses and land for people
@@ -1630,14 +1630,14 @@ estate agent		<-->	noun+B2    /ɪˈsteɪt eɪdʒənt/-NAmE /ɪˈsteɪt eɪdʒən
 		;TOPICS ShoppingB2, JobsB2, Houses and homesB2
 
 
-e-tailing		<-->	noun+C2    /ˈiː teɪlɪŋ/-NAmE /ˈiː teɪlɪŋ/
+e-tailing		<-->	noun++C2	[221128][001]	./ˈiː teɪlɪŋ/-NAmE /ˈiː teɪlɪŋ/
 	;bán lẻ qua mạng -- [uncountable]​the business of selling goods to the public over the internet
 		;E-tailing in the US broke all records last year.
 		;The bookseller is one of the world’s biggest e-tailing companies.
 		;
 
 
-expensive		<-->	adjective+A1    /ɪkˈspensɪv/-NAmE /ɪkˈspensɪv/
+expensive		<-->	adjective++A1	[221128][001]	./ɪkˈspensɪv/-NAmE /ɪkˈspensɪv/
 ​	;đắt -- costing a lot of money
 		;an expensive car/restaurant/holiday
 		;I can't afford it—it's too expensive.
@@ -1659,7 +1659,7 @@ expensive		<-->	adjective+A1    /ɪkˈspensɪv/-NAmE /ɪkˈspensɪv/
 				;extremely, fairly, very…
 
 
-fabric		<-->	noun+B2    /ˈfæbrɪk/-NAmE /ˈfæbrɪk/
+fabric		<-->	noun++B2	[221128][001]	./ˈfæbrɪk/-NAmE /ˈfæbrɪk/
 	;vải -- [uncountable, countable] material made by weaving wool, cotton, silk, etc., used for making clothes, curtains, etc. and for covering furniture
 		;They sell a wide variety of printed cotton fabric.
 		;furnishing fabrics
@@ -1677,25 +1677,25 @@ fabric		<-->	noun+B2    /ˈfæbrɪk/-NAmE /ˈfæbrɪk/
 				;conditioner, softener, swatch(mẫu vải)
 
 
-factory shop		<-->	noun+C1    /ˈfæktri ʃɒp/,  /ˈfæktəri ʃɒp/-NAmE /ˈfæktri ʃɑːp/,  /ˈfæktəri ʃɑːp/
+factory shop		<-->	noun++C1	[221128][001]	./ˈfæktri ʃɒp/,  /ˈfæktəri ʃɒp/-NAmE /ˈfæktri ʃɑːp/,  /ˈfæktəri ʃɑːp/
 	;đại lý -- (British English)(also factory store, factory outlet North American English, British English)​a shop in which goods are sold directly by the company that produces them at a cheaper price than normal
 
 
-farmers’ market		<-->	noun+B2    /ˈfɑːməz mɑːkɪt/-NAmE /ˈfɑːrmərz mɑːrkɪt/
+farmers’ market		<-->	noun++B2	[221128][001]	./ˈfɑːməz mɑːkɪt/-NAmE /ˈfɑːrmərz mɑːrkɪt/
 	;vựa nông sản -- ​a place where farmers and growers sell food directly to the public
 		;COMPARE farm shop
 		;Culture
 		;TOPICS ShoppingB2
 
 
-farm shop		<-->	noun+B2    /ˈfɑːm ʃɒp/-NAmE /ˈfɑːrm ʃɑːp/
+farm shop		<-->	noun++B2	[221128][001]	./ˈfɑːm ʃɒp/-NAmE /ˈfɑːrm ʃɑːp/
 	;cửa hàng nông sản -- (British English) a shop that sells food and other items from a farm directly to the public
 		;The family sell fresh eggs, meat and cheese in their on-site farm shop.
 		;COMPARE farmers’ market
 		;TOPICS ShoppingB2
 
 
-fishmonger		<-->	noun+C2   /ˈfɪʃmʌŋɡə(r)/-NAmE /ˈfɪʃmɑːŋɡər/
+fishmonger		<-->	noun++C2   /ˈfɪʃmʌŋɡə(r)/-NAmE /ˈfɪʃmɑːŋɡər/
 	;người bán cá, hàng cá -- (especially British English)
 		​;a person whose job is to sell fish in a shop
 		;TOPICS JobsC2 
@@ -1704,13 +1704,13 @@ fishmonger		<-->	noun+C2   /ˈfɪʃmʌŋɡə(r)/-NAmE /ˈfɪʃmɑːŋɡər/
 		;a shop that sells fish
 
 
-fitting room		<-->	noun+C2    /ˈfɪtɪŋ ruːm/,  /ˈfɪtɪŋ rʊm/-NAmE /ˈfɪtɪŋ ruːm/,  /ˈfɪtɪŋ rʊm/
+fitting room		<-->	noun++C2	[221128][001]	./ˈfɪtɪŋ ruːm/,  /ˈfɪtɪŋ rʊm/-NAmE /ˈfɪtɪŋ ruːm/,  /ˈfɪtɪŋ rʊm/
 	;phòng thử đồ -- (North American English also dressing room) ​a room or cubicle in a shop where you can put on clothes to see how they look
 		;Wordfinder: assistant, buy,  counter, display, fitting room, promotion,sale, shop, store, till(ngăn đựng tiền)
 		;
 
 
-florist		<-->	noun+C1    /ˈflɒrɪst/-NAmE /ˈflɔːrɪst/
+florist		<-->	noun++C1	[221128][001]	./ˈflɒrɪst/-NAmE /ˈflɔːrɪst/
 ​	;người bán hoa -- a person who owns or works in a shop that sells flowers and plants
 		;TOPICS JobsC1
 	;(florist’s)
@@ -1723,12 +1723,12 @@ florist		<-->	noun+C1    /ˈflɒrɪst/-NAmE /ˈflɔːrɪst/
 		;More Like This Shops, etc. with apostrophes
 
 
-food hall		<-->	noun+C1    /ˈfuːd hɔːl/-NAmE /ˈfuːd hɔːl/
+food hall		<-->	noun++C1	[221128][001]	./ˈfuːd hɔːl/-NAmE /ˈfuːd hɔːl/
 	;(British English)a large area in a department store where people can buy food
 		;Selfridge's food hall in London was selling several varieties of French apples.
 
 
-fragrance		<-->	noun+C1    /ˈfreɪɡrəns/-NAmE /ˈfreɪɡrəns/
+fragrance		<-->	noun++C1	[221128][001]	./ˈfreɪɡrəns/-NAmE /ˈfreɪɡrəns/
 	;[countable, uncountable] a pleasant smell
 		;The bath oil comes in various fragrances.
 		;The flowers are chosen for their delicate fragrance.
@@ -1747,7 +1747,7 @@ fragrance		<-->	noun+C1    /ˈfreɪɡrəns/-NAmE /ˈfreɪɡrəns/
 		;They are about to launch their first fragrance for men.
 
 
-free		<-->	adjective+A2    /friː/-NAmE /friː/
+free		<-->	adjective++A2	[221128][001]	./friː/-NAmE /friː/
 	;miễn phí -- (no payment)  costing nothing
 		;Admission is free.
 		;free software/tickets
@@ -1769,7 +1769,7 @@ free		<-->	adjective+A2    /friː/-NAmE /friː/
 				;for
 
 
-furnishings		<-->	noun+C2    /ˈfɜːnɪʃɪŋz/-NAmE /ˈfɜːrnɪʃɪŋz/
+furnishings		<-->	noun++C2	[221128][001]	./ˈfɜːnɪʃɪŋz/-NAmE /ˈfɜːrnɪʃɪŋz/
 	;đồ đạc trong nhà -- [plural]​the furniture, carpets, curtains, etc. in a room or house
 		;soft furnishings
 		;The wallpaper should match the furnishings.
@@ -1781,7 +1781,7 @@ furnishings		<-->	noun+C2    /ˈfɜːnɪʃɪŋz/-NAmE /ˈfɜːrnɪʃɪŋz/
 				;home
 
 
-furniture		<-->	noun+A2    /ˈfɜːnɪtʃə(r)/-NAmE /ˈfɜːrnɪtʃər/
+furniture		<-->	noun++A2	[221128][001]	./ˈfɜːnɪtʃə(r)/-NAmE /ˈfɜːrnɪtʃər/
 	;nội thất -- [uncountable](Idioms)​objects that can be moved, such as tables, chairs and beds, that are put into a house or an office to make it suitable for living or working in
 		;garden/office furniture
 		;a dealer in antique furniture
@@ -1803,7 +1803,7 @@ furniture		<-->	noun+A2    /ˈfɜːnɪtʃə(r)/-NAmE /ˈfɜːrnɪtʃər/
 				;furniture and fittings
 
 
-gadget		<-->	noun+B1    /ˈɡædʒɪt/-NAmE /ˈɡædʒɪt/
+gadget		<-->	noun++B1	[221128][001]	./ˈɡædʒɪt/-NAmE /ˈɡædʒɪt/
 ​	;các dụng cụ gia dụng -- a small tool or device that does something useful
 		;We live in a world filled with high-tech gadgets.
 		;(Extra Examples)
@@ -1819,7 +1819,7 @@ gadget		<-->	noun+B1    /ˈɡædʒɪt/-NAmE /ˈɡædʒɪt/
 				;gadget for
 
 
-game		<-->	noun+A1    /ɡeɪm/-NAmE /ɡeɪm/
+game		<-->	noun++A1	[221128][001]	./ɡeɪm/-NAmE /ɡeɪm/
 	; trò chơi -- (Idioms) (fun) ​  [countable] an activity that you do to have fun, often one that has rules and that you can win or lose; the equipment for a game
 		;The kids were playing a game with their balloons.
 		;The children invented a new game.
@@ -1841,11 +1841,11 @@ game		<-->	noun+A1    /ɡeɪm/-NAmE /ɡeɪm/
 				;player, designer, developer…
 
 
-garden centre		<-->	noun+C1    /ˈɡɑːdn sentə(r)/-NAmE /ˈɡɑːrdn sentər/
+garden centre		<-->	noun++C1	[221128][001]	./ˈɡɑːdn sentə(r)/-NAmE /ˈɡɑːrdn sentər/
 	;nơi bán cây, hoa, ... (British English)(US English garden center)		​a place that sells plants, seeds, garden equipment, etc.
 
 
-gift		<-->	noun+A2    /ɡɪft/-NAmE /ɡɪft/
+gift		<-->	noun++A2	[221128][001]	./ɡɪft/-NAmE /ɡɪft/
 	;quà tặng -- (Idioms)​  a thing that you give to somebody, especially on a special occasion or to say thank you
 		; ~ SYNONYM present
 		;to give/receive a gift
@@ -1873,26 +1873,26 @@ gift		<-->	noun+A2    /ɡɪft/-NAmE /ɡɪft/
 				;shower gifts on somebody, shower somebody with gifts
 
 
-gift card		<-->	noun+C1    /ˈɡɪft kɑːd/-NAmE /ˈɡɪft kɑːrd/
+gift card		<-->	noun++C1	[221128][001]	./ˈɡɪft kɑːd/-NAmE /ˈɡɪft kɑːrd/
 	;thẻ mua hàng -- ​a card that is worth a particular amount of money that can be exchanged for goods or services
 		;Dining gift cards are a popular gift during the holidays.
 		;COMPARE gift voucher
 		;
 
 
-gift certificate		<-->	noun+C2    /ˈɡɪft sətɪfɪkət/-NAmE /ˈɡɪft sərtɪfɪkət/
+gift certificate		<-->	noun++C2	[221128][001]	./ˈɡɪft sətɪfɪkət/-NAmE /ˈɡɪft sərtɪfɪkət/
 	;phiếu mua hàng -- (especially North American English)(British English usually gift voucher, gift token)
 ​		;a piece of paper that is worth a particular amount of money and that can be exchanged for goods in a store
 		;COMPARE gift card
 		;
 
 
-glassware		<-->	noun+C2    /ˈɡlɑːsweə(r)/-NAmE /ˈɡlæswer/
+glassware		<-->	noun++C2	[221128][001]	./ˈɡlɑːsweə(r)/-NAmE /ˈɡlæswer/
 	;đồ thuỷ tinh -- [uncountable]​objects made of glass
 		;TOPICS ShoppingC2, Cooking and eatingC2
 
 
-goods		<-->	noun+B1    /ɡʊdz/-NAmE /ɡʊdz/
+goods		<-->	noun++B1	[221128][001]	./ɡʊdz/-NAmE /ɡʊdz/
 	;hàng hoá -- [plural](Idioms)​  things that are produced to be sold
 		;to produce/buy/sell goods
 		;manufactured/imported goods
@@ -1917,14 +1917,14 @@ goods		<-->	noun+B1    /ɡʊdz/-NAmE /ɡʊdz/
 			;goods and services
 
 
-greengrocer		<-->	noun+B2    /ˈɡriːnɡrəʊsə(r)/-NAmE /ˈɡriːnɡrəʊsər/
+greengrocer		<-->	noun++B2	[221128][001]	./ˈɡriːnɡrəʊsə(r)/-NAmE /ˈɡriːnɡrəʊsər/
 	;bách hoá xanh -- (especially British English) ​greengrocer’s(plural greengrocers)a shop that sells fruit and vegetables
 		;More Like This
 		;Shops, etc. with apostrophes: baker’s, barber’s, butcher’s, chemist’s, dentist’s, doctor’s, fishmonger’s, florist’s, greengrocer’s, grocer’s, hairdresser’s, ironmonger’s, jeweller’s, newsagent’s, optician’s, stationer’s, tobacconist’s, travel agent’s 
 		;TOPICS ShoppingB2
 
 
-grocer		<-->	noun+C1    /ˈɡrəʊsə(r)/-NAmE /ˈɡrəʊsər/
+grocer		<-->	noun++C1	[221128][001]	./ˈɡrəʊsə(r)/-NAmE /ˈɡrəʊsər/
 	;chủ tiệm bách hoá -- a person who owns, manages or works in a shop selling food and other things used in the home
 		;TOPICS JobsB2
 	;tiệm tạp hoá -- grocer’s
@@ -1933,7 +1933,7 @@ grocer		<-->	noun+C1    /ˈɡrəʊsə(r)/-NAmE /ˈɡrəʊsər/
 		;More Like This Shops, etc. with apostrophes
 
 
-grocery		<-->	noun+B2    /ˈɡrəʊsəri/-NAmE /ˈɡrəʊsəri/
+grocery		<-->	noun++B2	[221128][001]	./ˈɡrəʊsəri/-NAmE /ˈɡrəʊsəri/
 	;tiệm ăn và tạp hoá -- (plural groceries)​ (especially British English)(North American English usually grocery store)[countable] a shop that sells food and other things used in the home. In American English ‘grocery store’ is often used to mean ‘supermarket’.
 		;the corner grocery store
 		;Oxford Collocations Dictionary
@@ -1997,14 +1997,14 @@ grocery		<-->	noun+B2    /ˈɡrəʊsəri/-NAmE /ˈɡrəʊsəri/
 				;buy, get, deliver…
 
 
-haberdashery		<-->	noun+C2    /ˌhæbəˈdæʃəri/-NAmE /ˈhæbərdæʃəri/
+haberdashery		<-->	noun++C2	[221128][001]	./ˌhæbəˈdæʃəri/-NAmE /ˈhæbərdæʃəri/
 	;các vật liệu may mặc -- (plural haberdasheries)(old-fashioned)​[uncountable] (British English) small articles for sewing, for example needles, pins, cotton and buttons
 		;	;tiệm bán các vật liệu may mặc -- ​[countable] a shop or part of a shop where haberdashery is sold
 		;	;quần áo nam -- ​[uncountable] (North American English) men’s clothes
 		;TOPICS Clothes and FashionC2
 
 
-haggle		<-->	verb+C2    /ˈhæɡl/-NAmE /ˈhæɡl/
+haggle		<-->	verb++C2	[221128][001]	./ˈhæɡl/-NAmE /ˈhæɡl/
 	;trả giá -- [intransitive, transitive](Verb Forms)​to argue with somebody in order to reach an agreement, especially about the price of something
 		;haggle over/about something I left him in the market haggling over the price of a shirt.
 		;haggle with somebody over/about something We spent a long time haggling with the authorities over our visas.
@@ -2013,7 +2013,7 @@ haggle		<-->	verb+C2    /ˈhæɡl/-NAmE /ˈhæɡl/
 		;TOPICS Opinion and argumentC2, ShoppingC2, MoneyC2
 
 
-hairdresser		<-->	noun+A2    /ˈheədresə(r)/-NAmE /ˈherdresər/
+hairdresser		<-->	noun++A2	[221128][001]	./ˈheədresə(r)/-NAmE /ˈherdresər/
 ​	;thợ làm tóc -- a person whose job is to cut, wash and shape hair
 		;He's a very good hairdresser.
 		;one of the country's top hairdressers
@@ -2025,14 +2025,14 @@ hairdresser		<-->	noun+A2    /ˈheədresə(r)/-NAmE /ˈherdresər/
 		;TOPICS ShoppingA2
 
 
-hardware		<-->	noun+C1    /ˈhɑːdweə(r)/-NAmE /ˈhɑːrdwer/
+hardware		<-->	noun++C1	[221128][001]	./ˈhɑːdweə(r)/-NAmE /ˈhɑːrdwer/
 	;các công cụ sửa nhà, làm vườn -- [uncountable](also British English, old-fashioned ironmongery) tools and equipment that are used in the house and garden
 		;a hardware shop/store
 		;Wordfinder: appliances(đồ gia dụng), cookware(đồ nấu nướng), fashion, furnishings, hardware, linen, lingerie(đồ lót), menswear(quần áo nam), stationery, store
 		;
 
 
-health food		<-->	noun+B2    /ˈhelθ fuːd/-NAmE /ˈhelθ fuːd/
+health food		<-->	noun++B2	[221128][001]	./ˈhelθ fuːd/-NAmE /ˈhelθ fuːd/
 	;thực phẩm có lợi cho sức khoẻ -- [uncountable, countable, usually plural]​food that does not contain any artificial substances and is therefore thought to be good for your health
 		;a health food store/shop
 		;TOPICS ShoppingB2, Cooking and eatingB2
@@ -2041,7 +2041,7 @@ health food		<-->	noun+B2    /ˈhelθ fuːd/-NAmE /ˈhelθ fuːd/
 				;store
 
 
-helpful		<-->	adjective+A2    /ˈhelpfl/-NAmE /ˈhelpfl/
+helpful		<-->	adjective++A2	[221128][001]	./ˈhelpfl/-NAmE /ˈhelpfl/
 ​	;hữu dụng --  able to improve a particular situation
 		;SYNONYM useful
 		;helpful advice/information
@@ -2066,7 +2066,7 @@ helpful		<-->	adjective+A2    /ˈhelpfl/-NAmE /ˈhelpfl/
 				;friendly and helpful
 
 
-high street		<-->	noun+B1    /ˈhaɪ striːt/-NAmE /ˈhaɪ striːt/
+high street		<-->	noun++B1	[221128][001]	./ˈhaɪ striːt/-NAmE /ˈhaɪ striːt/
 	;con đường chính, có nhiều nhà băng, siêu thị -- (British English)(North American English main street)
 		;(especially in names)
 		;the main street of a town, where most shops, banks, etc. are
@@ -2081,26 +2081,26 @@ high street		<-->	noun+B1    /ˈhaɪ striːt/-NAmE /ˈhaɪ striːt/
 				;branch, outlet, retailer…
 
 
-hypermarket		<-->	noun+C2    /ˈhaɪpəmɑːkɪt/-NAmE /ˈhaɪpərmɑːrkɪt/
+hypermarket		<-->	noun++C2	[221128][001]	./ˈhaɪpəmɑːkɪt/-NAmE /ˈhaɪpərmɑːrkɪt/
 	;siêu thị đầu mối -- (British English)​a very large shop located outside a town, that sells a wide range of goods
 		;The company opened a £15 million hypermarket at Stockton.
 		;
 
 
-impulse buy		<-->	noun+C2    /ˈɪmpʌls baɪ/-NAmE /ˈɪmpʌls baɪ/
+impulse buy		<-->	noun++C2	[221128][001]	./ˈɪmpʌls baɪ/-NAmE /ˈɪmpʌls baɪ/
 	;mua tích trữ -- (also impulse purchase  /ˈɪmpʌls pɜːtʃəs/  /ˈɪmpʌls pɜːrtʃəs/)​something that you buy without planning to do so in advance, and without thinking about it carefully
 		;It was an impulse buy.
 		;Vending machine purchases are often impulse buys.
 		;
 
 
-impulse buying		<-->	noun+C2    /ˈɪmpʌls baɪɪŋ/-NAmE /ˈɪmpʌls baɪɪŋ/
+impulse buying		<-->	noun++C2	[221128][001]	./ˈɪmpʌls baɪɪŋ/-NAmE /ˈɪmpʌls baɪɪŋ/
 	;việc mua tích trữ -- [uncountable]
 ​		;buying goods without planning to do so in advance, and without thinking about it carefully
 		;		;Questions about gram
 
 
-internet		<-->	noun+A1    /ˈɪntənet/-NAmE /ˈɪntərnet/
+internet		<-->	noun++A1	[221128][001]	./ˈɪntənet/-NAmE /ˈɪntərnet/
 	; hệ thống mạng toàn cầu  -- (also Internet)(usually the internet)(also informal the Net)[singular]								​an international computer network connecting other networks and computers that allows people to share information around the world
 		;to surf/browse/access the internet
 		;on the internet I looked it up on the internet.
@@ -2164,13 +2164,13 @@ internet		<-->	noun+A1    /ˈɪntənet/-NAmE /ˈɪntərnet/
 				;on the Internet, over the Internet
 
 
-ironmonger		<-->	noun+C2    /ˈaɪənmʌŋɡə(r)/-NAmE /ˈaɪərnmɑːŋɡər/
+ironmonger		<-->	noun++C2	[221128][001]	./ˈaɪənmʌŋɡə(r)/-NAmE /ˈaɪərnmɑːŋɡər/
 	;cửa hàng đồ sắt (thợ sắt) -- (British English, old-fashioned)(North American English hardware dealer)(ironmonger’s)(plural ironmongers)(British English also hardware shop, British and North American English hardware store)								a shop that sells tools and equipment for the house and garden
 		;More Like This Shops, etc. with apostrophes: baker’s, barber’s, butcher’s, chemist’s, dentist’s, doctor’s, fishmonger’s, florist’s, greengrocer’s, grocer’s, hairdresser’s, ironmonger’s, jeweller’s, newsagent’s, optician’s, stationer’s, tobacconist’s, travel agent’s 
 		;
 
 
-item		<-->	noun+A2    /ˈaɪtəm/-NAmE /ˈaɪtəm/
+item		<-->	noun++A2	[221128][001]	./ˈaɪtəm/-NAmE /ˈaɪtəm/
 	;một món hàng -- a single object or thing
 		;Can I pay for each item separately?
 		;The price of many basic food items continues to rise.
@@ -2191,7 +2191,7 @@ item		<-->	noun+A2    /ˈaɪtəm/-NAmE /ˈaɪtəm/
 				;item by item, an item on the agenda, list, menu, etc.
 
 
-jeweller		<-->	noun+B2    /ˈdʒuːələ(r)/-NAmE /ˈdʒuːələr/
+jeweller		<-->	noun++B2	[221128][001]	./ˈdʒuːələ(r)/-NAmE /ˈdʒuːələr/
 	;thợ kim hoàn -- (US English jeweler) a person who makes, repairs or sells jewellery and watches
 		;TOPICS JobsC1
 		;jeweller’s
@@ -2202,7 +2202,7 @@ jeweller		<-->	noun+B2    /ˈdʒuːələ(r)/-NAmE /ˈdʒuːələr/
 		;TOPICS ShoppingB2
 
 
-jewellery		<-->	noun+A2    /ˈdʒuːəlri/-NAmE /ˈdʒuːəlri/
+jewellery		<-->	noun++A2	[221128][001]	./ˈdʒuːəlri/-NAmE /ˈdʒuːəlri/
 	;nhẫn, đồ trang sức -- (US English jewelry)[uncountable]​objects such as rings and necklaces that people wear as decoration
 		;silver/gold jewellery
 		;She has some lovely pieces of jewellery.
@@ -2225,7 +2225,7 @@ jewellery		<-->	noun+A2    /ˈdʒuːəlri/-NAmE /ˈdʒuːəlri/
 				;box, case, shop…		
 
 
-kiosk		<-->	noun+C1    /ˈkiːɒsk/-NAmE /ˈkiːɑːsk/
+kiosk		<-->	noun++C1	[221128][001]	./ˈkiːɒsk/-NAmE /ˈkiːɑːsk/
 	;cửa hàng nhỏ -- a small shop, open at the front, where newspapers, drinks, etc. are sold. In some countries kiosks also sell food and things used in the home.
 		;SYNONYM stand
 		;I bought a paper from the kiosk across the road.
@@ -2233,19 +2233,19 @@ kiosk		<-->	noun+C1    /ˈkiːɒsk/-NAmE /ˈkiːɑːsk/
 		;TOPICS ShoppingC1, BuildingsC1
 
 
-knock-off		<-->	noun+C2    /ˈnɒk ɒf/-NAmE /ˈnɑːk ɔːf/
+knock-off		<-->	noun++C2	[221128][001]	./ˈnɒk ɒf/-NAmE /ˈnɑːk ɔːf/
 	;hàng nhái -- (informal)​an object such as a fashion item or an electronic device that is a cheaper copy of the original, more expensive version
 		;It's an expensive knock-off, but a knock-off all the same.
 		;knock-off designer handbags
 		;
 
 
-launderette		<-->	noun+C2    /ˌlɔːndəˈret/-NAmE /ˌlɔːndəˈret/
+launderette		<-->	noun++C2	[221128][001]	./ˌlɔːndəˈret/-NAmE /ˌlɔːndəˈret/
 	;tiệm giặt ủi -- (also laundrette  /lɔːnˈdret/  /lɔːnˈdret/)(both British English)(North American English Laundromat™  /ˈlɔːndrəmæt/  /ˈlɔːndrəmæt/)a place where you can wash and dry your clothes in machines that you pay to use
 		;
 
 
-linen		<-->	noun+C1    /ˈlɪnɪn/-NAmE /ˈlɪnɪn/
+linen		<-->	noun++C1	[221128][001]	./ˈlɪnɪn/-NAmE /ˈlɪnɪn/
 	;vải lanh cao cấp -- [uncountable](Idioms)​a type of cloth made from flax, used to make high-quality clothes, sheets, etc.
 		;a linen tablecloth
 		;a fine linen shirt
@@ -2258,13 +2258,13 @@ linen		<-->	noun+C1    /ˈlɪnɪn/-NAmE /ˈlɪnɪn/
 				;weave (something from)
 
 
-liquor store		<-->	noun+C2    /ˈlɪkə stɔː(r)/-NAmE /ˈlɪkər stɔːr/
+liquor store		<-->	noun++C2	[221128][001]	./ˈlɪkə stɔː(r)/-NAmE /ˈlɪkər stɔːr/
 	;chỗ bán rượu mang đi -- (also package store)(both US English)(British English off-licence)​a shop that sells alcoholic drinks in bottles and cans to take away
 		;Culture licensing laws
 		;
 
 
-list		<-->	noun+A1    /lɪst/-NAmE /lɪst/\
+list		<-->	noun++A1	[221128][001]	./lɪst/-NAmE /lɪst/\
 	;danh sách -- (Idioms)​  [countable] a series of names, items, figures, etc., especially when they are written or printed
 		;The guest list includes numerous celebrities.
 		;on the list Is your name on the list?
@@ -2293,13 +2293,13 @@ list		<-->	noun+A1    /lɪst/-NAmE /lɪst/\
 				;the bottom of a list, the top of a list, high on a list…
 
 
-loyalty card		<-->	noun+C1    /ˈlɔɪəlti kɑːd/-NAmE /ˈlɔɪəlti kɑːrd/
+loyalty card		<-->	noun++C1	[221128][001]	./ˈlɔɪəlti kɑːd/-NAmE /ˈlɔɪəlti kɑːrd/
 	;thẻ VIP -- (British English)​a card given to customers by a shop to encourage them to shop there regularly. Each time they buy something they collect points that will allow them to have an amount of money taken off goods they buy in the future.
 		;Wordfinder: buy, discount, loyalty card, purchase, receipt, reduction, refund, short-change, store card, voucher
 		;
 
 
-luggage		<-->	noun+A2    /ˈlʌɡɪdʒ/-NAmE /ˈlʌɡɪdʒ/
+luggage		<-->	noun++A2	[221128][001]	./ˈlʌɡɪdʒ/-NAmE /ˈlʌɡɪdʒ/
 	;vali, hành lý -- [uncountable]​(especially North American English) empty bags, cases, etc. for putting your clothes and things in when you are travelling
 		;a new set of luggage
 		;I need to buy some new luggage for my vacation next month.
@@ -2309,12 +2309,12 @@ luggage		<-->	noun+A2    /ˈlʌɡɪdʒ/-NAmE /ˈlʌɡɪdʒ/
 		;Uncountable nouns often used wrongly: accommodation, advice, chewing gum, feedback, furniture, equipment, information, luggage, news, progress, software
 
 
-main street		<-->	noun+B1    /ˈmeɪn striːt/-NAmE /ˈmeɪn striːt/
+main street		<-->	noun++B1	[221128][001]	./ˈmeɪn striːt/-NAmE /ˈmeɪn striːt/
 	;đường chính -- (North American English)​(British English high street) [countable](especially in names)the main street of a town, where most shops, banks, etc. are
 		;TOPICS Transport by car or lorryB1, ShoppingB1
 
 
-mall		<-->	noun+B1    /mɔːl/,  /mæl/-NAmE /mɔːl/
+mall		<-->	noun++B1	[221128][001]	./mɔːl/,  /mæl/-NAmE /mɔːl/
 	;trung tâm mua sắm -- (also shopping mall)(both especially North American English)​a large building or covered area that has many shops, restaurants, etc. inside it
 		;Let's go to the mall.
 		;Teenagers would go hang at the mall after school.
@@ -2336,12 +2336,12 @@ mall		<-->	noun+B1    /mɔːl/,  /mæl/-NAmE /mɔːl/
 				;at the mall
 
 
-mall rat		<-->	noun+C2    /ˈmɔːl ræt/-NAmE /ˈmɔːl ræt/
+mall rat		<-->	noun++C2	[221128][001]	./ˈmɔːl ræt/-NAmE /ˈmɔːl ræt/
 	;người nghiện siêu thị -- (North American English, informal)​a young person who spends a lot of time in shopping malls, often in a large group of friends
 		;
 
 
-manager		<-->	noun+A2    /ˈmænɪdʒə(r)/-NAmE /ˈmænɪdʒər/
+manager		<-->	noun++A2	[221128][001]	./ˈmænɪdʒə(r)/-NAmE /ˈmænɪdʒər/
 	;người quản lý --​  a person who is in charge of running a business, a shop or a similar organization or part of one
 		;a bank/hotel manager
 		;the sales/marketing/human resources manager
@@ -2364,13 +2364,13 @@ manager		<-->	noun+A2    /ˈmænɪdʒə(r)/-NAmE /ˈmænɪdʒər/
 				;manager for
 
 
-mannequin		<-->	noun+C2    /ˈmænɪkɪn/-NAmE /ˈmænɪkɪn/
+mannequin		<-->	noun++C2	[221128][001]	./ˈmænɪkɪn/-NAmE /ˈmænɪkɪn/
 ​	;người nộm -- a model of a human body, used for displaying clothes in shops
 		;COMPARE manikin
 		;
 
 
-market		<-->	noun+A1    /ˈmɑːkɪt/-NAmE /ˈmɑːrkɪt/ [IMAGE]-City
+market		<-->	noun++A1	[221128][001]	./ˈmɑːkɪt/-NAmE /ˈmɑːrkɪt/ [IMAGE]-City
 	;thị trường, chợ, siêu thị -- (Idioms)​  [countable] an occasion when people buy and sell goods; the open area or building where they meet to do this
 		;a fruit/flower/fish market
 		;an antiques market
@@ -2393,19 +2393,19 @@ market		<-->	noun+A1    /ˈmɑːkɪt/-NAmE /ˈmɑːrkɪt/ [IMAGE]-City
 			;at a/​the marketin a/​the market
 
 
-markup		<-->	noun+C2    /ˈmɑːkʌp/-NAmE /ˈmɑːrkʌp/
+markup		<-->	noun++C2	[221128][001]	./ˈmɑːkʌp/-NAmE /ˈmɑːrkʌp/
 	;tăng giá -- [usually singular] an increase in the price of something based on the difference between the cost of producing it and the price it is sold at
 		;an average markup of 10 per cent
 		;The markup on food in a restaurant is at least 100 per cent.
 		;TOPICS BusinessC2, ShoppingC2
 
 
-megastore		<-->	noun+C2    /ˈmeɡəstɔː(r)/-NAmE /ˈmeɡəstɔːr/
+megastore		<-->	noun++C2	[221128][001]	./ˈmeɡəstɔː(r)/-NAmE /ˈmeɡəstɔːr/
 ​	;shop lớn -- a very large shop, especially one that sells one type of product, for example computers or furniture
 		;
 
 
-music		<-->	noun+A1    /ˈmjuːzɪk/-NAmE /ˈmjuːzɪk/
+music		<-->	noun++A1	[221128][001]	./ˈmjuːzɪk/-NAmE /ˈmjuːzɪk/
 	;âm nhạc -- [uncountable](Idioms)​  sounds that are arranged in a way that is pleasant or exciting to listen to. People sing music or play it on instruments.
 		;I like any kind of pop or dance music.
 		;He plays traditional Korean music.
@@ -2445,20 +2445,20 @@ music		<-->	noun+A1    /ˈmjuːzɪk/-NAmE /ˈmjuːzɪk/
 				;in time to (the) music, music and song, the sound of music…
 
 
-mystery shopper		<-->	noun+C2    /ˌmɪstri ˈʃɒpə(r)/-NAmE /ˌmɪstəri ˈʃɑːpər/
+mystery shopper		<-->	noun++C2	[221128][001]	./ˌmɪstri ˈʃɒpə(r)/-NAmE /ˌmɪstəri ˈʃɑːpər/
 	​;người đánh giá các trang web bán hàng online -- a person whose job is to visit or phone a shop or other business, or use their website, pretending to be a customer, in order to get information on the quality of the service, the facilities, etc.
 		;The best way to find out how your company is running is by using a mystery shopper.
 		;Stores and restaurants that have many or even thousands of different locations rely on mystery shoppers all over the country, to check every store.
 		;
 
 
-mystery shopping		<-->	noun+C2    /ˌmɪstri ˈʃɒpɪŋ/-NAmE /ˌmɪstəri ˈʃɑːpɪŋ/
+mystery shopping		<-->	noun++C2	[221128][001]	./ˌmɪstri ˈʃɒpɪŋ/-NAmE /ˌmɪstəri ˈʃɑːpɪŋ/
 	;mua hàng qua mạng -- [uncountable] the activity of visiting or phoning a shop or other business, or using their website, pretending to be a customer, in order to get information on the quality of the service, the facilities, etc.
 		;Today, mystery shopping is primarily used by businesses to measure their customer service.
 		;
 
 
-newsagent		<-->	noun+B2    /ˈnjuːzeɪdʒənt/-NAmE /ˈnuːzeɪdʒənt/
+newsagent		<-->	noun++B2	[221128][001]	./ˈnjuːzeɪdʒənt/-NAmE /ˈnuːzeɪdʒənt/
 	;cửa hàng báo chí -- (British English)newsagent’s(plural newsagents) (British English also paper shop)a shop that sells newspapers, magazines, sweets, etc.
 		;I'll go to the newsagent's on my way home.
 		;Culture newspapers
@@ -2466,7 +2466,7 @@ newsagent		<-->	noun+B2    /ˈnjuːzeɪdʒənt/-NAmE /ˈnuːzeɪdʒənt/
 		;TOPICS ShoppingB2: baker’s, barber’s, butcher’s, chemist’s, dentist’s, doctor’s, fishmonger’s, florist’s, greengrocer’s, grocer’s, hairdresser’s, ironmonger’s, jeweller’s, newsagent’s, optician’s, stationer’s, tobacconist’s, travel agent’s 
 
 
-note		<-->	noun+B1    /nəʊt/-NAmE /nəʊt/ [IMAGE]-Money
+note		<-->	noun++B1	[221128][001]	./nəʊt/-NAmE /nəʊt/ [IMAGE]-Money
 	;tiền giấy -- (money)​  (British English)(also banknote especially in British English)(North American English usually bill)[countable] a piece of paper money
 		;a £5 note
 		;We only exchange notes and traveller's cheques.
@@ -2479,7 +2479,7 @@ note		<-->	noun+B1    /nəʊt/-NAmE /nəʊt/ [IMAGE]-Money
 				;bundle, roll, wad…
 
 
-offer		<-->	noun+A2    /ˈɒfə(r)/-NAmE /ˈɔːfər/
+offer		<-->	noun++A2	[221128][001]	./ˈɒfə(r)/-NAmE /ˈɔːfər/
 	;sự giảm giá -- a reduction in the normal price of something, usually for a short period of time
 		;This special offer is valid until the end of the month.
 		;See next week's issue for details of more free offers.
@@ -2493,13 +2493,13 @@ offer		<-->	noun+A2    /ˈɒfə(r)/-NAmE /ˈɔːfər/
 				;on offer
 
 
-off-licence		<-->	noun+C2    /ˈɒf laɪsns/-NAmE /ˈɔːf laɪsns/
+off-licence		<-->	noun++C2	[221128][001]	./ˈɒf laɪsns/-NAmE /ˈɔːf laɪsns/
 	;cửa hàng bán rượu mang đi -- (British English)(US English liquor store, package store)​a shop that sells alcoholic drinks in bottles and cans to take away
 		;Culture licensing laws
 		;
 
 
-off the peg		<-->	idiom+C2 --> rack		<-->	noun+C1		/ræk/-NAmE /ræk/
+off the peg		<-->	idiom++C2 --> rack		<-->	noun++C1		/ræk/-NAmE /ræk/
 	;cái kệ để giắt, để đồ -- (Idioms)(often in compounds)a piece of equipment, usually made of metal or wooden bars, that is used for holding things or for hanging things on
 		;a vegetable/wine/plate/toast rack
 		;I looked through a rack of clothes at the back of the shop.
@@ -2517,7 +2517,7 @@ off the peg		<-->	idiom+C2 --> rack		<-->	noun+C1		/ræk/-NAmE /ræk/
 				;in a/​the rack, on a/​the rack, rack for…
 
 
-online		<-->	adjective+A1    /ˌɒnˈlaɪn/-NAmE /ˌɑːnˈlaɪn/
+online		<-->	adjective++A1	[221128][001]	./ˌɒnˈlaɪn/-NAmE /ˌɑːnˈlaɪn/
 	;online, có thể dùng internet tương tác -- (of an activity or service) available on or done using the internet or other computer network
 		;Online shopping is both cheap and convenient.
 		;online stores/services/retailers
@@ -2533,7 +2533,7 @@ online		<-->	adjective+A1    /ˌɒnˈlaɪn/-NAmE /ˌɑːnˈlaɪn/
 				;ad, advertisement, alias…
 
 
-on sale		<-->	idiom+C1	--> sale		<-->	noun+A1		/seɪl/-NAmE /seɪl/
+on sale		<-->	idiom++C1	--> sale		<-->	noun++A1		/seɪl/-NAmE /seɪl/
 	;đang bán -- (Idioms)​  [uncountable, countable] an act or the process of selling something
 		;regulations governing the sale of alcoholic beverages
 		;The product has been withdrawn from sale.
@@ -2560,7 +2560,7 @@ on sale		<-->	idiom+C1	--> sale		<-->	noun+A1		/seɪl/-NAmE /seɪl/
 				;conditions of sale, a contract of sale, point of sale…
 
 
-optician		<-->	noun+C1    /ɒpˈtɪʃn/-NAmE /ɑːpˈtɪʃn/
+optician		<-->	noun++C1	[221128][001]	./ɒpˈtɪʃn/-NAmE /ɑːpˈtɪʃn/
 	;cửa hàng mắt kính -- (optician’s)(plural opticians)the shop where an optician works
 		;to go to the optician’s
 		;More Like This Shops, etc. with apostrophes
@@ -2571,7 +2571,7 @@ optician		<-->	noun+C1    /ɒpˈtɪʃn/-NAmE /ɑːpˈtɪʃn/
 				;at the optician’s, to the optician’s
 
 
-order		<-->	noun+B1    /ˈɔːdə(r)/-NAmE /ˈɔːrdər/\
+order		<-->	noun++B1	[221128][001]	./ˈɔːdə(r)/-NAmE /ˈɔːrdər/\
 ;lệnh đặt hàng -- (goods)	 [countable, uncountable] a request to make or supply goods
 		;order for something I would like to place an order for ten copies of this book.
 		;Complete the online order form.
@@ -2592,7 +2592,7 @@ order		<-->	noun+B1    /ˈɔːdə(r)/-NAmE /ˈɔːrdər/\
 				;on order, to order, order for…
 
 
-order		<-->	verb+A2    /ˈɔːdə(r)/-NAmE /ˈɔːrdər/
+order		<-->	verb++A2	[221128][001]	./ˈɔːdə(r)/-NAmE /ˈɔːrdər/
 	;đặt hàng, gọi món -- (goods/service)​  [transitive, intransitive] to ask for goods to be made or supplied; to ask for a service to be provided
 		;order (something) To order a copy of the report, visit our website.
 		;You will be given a reference number when you order.
@@ -2605,7 +2605,7 @@ order		<-->	verb+A2    /ˈɔːdə(r)/-NAmE /ˈɔːrdər/
 		;TOPICS ShoppingA2
 
 
-outlet		<-->	noun+C1    /ˈaʊtlet/-NAmE /ˈaʊtlet/
+outlet		<-->	noun++C1	[221128][001]	./ˈaʊtlet/-NAmE /ˈaʊtlet/
 	​;đại lý -- a shop or an organization that sells goods made by a particular company or of a particular type
 		;The business has 34 retail outlets in this state alone.
 		;(Extra Examples)
@@ -2619,7 +2619,7 @@ outlet		<-->	noun+C1    /ˈaʊtlet/-NAmE /ˈaʊtlet/
 				;outlet for
 
 
-over the counter		<-->	idiom+C2
+over the counter		<-->	idiom++C2
 	;hàng hoá thuốc không cần đơn thuốc -- ​goods, especially medicines, for sale over the counter can be bought without a prescription (= written permission from a doctor to buy a medicine) or special licence
 		;These tablets are available over the counter.
 		;This kind of medication cannot be bought over the counter.
@@ -2627,12 +2627,12 @@ over the counter		<-->	idiom+C2
 		;TOPICS ShoppingC2, HealthcareC2
 
 
-package store		<-->	noun+C2     /ˈpækɪdʒ stɔː(r)/-NAmE /ˈpækɪdʒ stɔːr/
+package store		<-->	noun++C2     /ˈpækɪdʒ stɔː(r)/-NAmE /ˈpækɪdʒ stɔːr/
 	;cửa hàng rượu -- (also liquor store (both US English), British English off-licence)​a shop that sells alcoholic drinks in bottles and cans to take away
 		;
 
 
-packaging		<-->	noun+B1    /ˈpækɪdʒɪŋ/-NAmE /ˈpækɪdʒɪŋ/	[IMAGE]-Packaging
+packaging		<-->	noun++B1	[221128][001]	./ˈpækɪdʒɪŋ/-NAmE /ˈpækɪdʒɪŋ/	[IMAGE]-Packaging
 	;vật liệu đóng gói -- [uncountable]​materials used to wrap or protect goods that are sold in shops
 		;Attractive packaging can help to sell products.
 		;(Extra Examples)
@@ -2645,31 +2645,31 @@ packaging		<-->	noun+B1    /ˈpækɪdʒɪŋ/-NAmE /ˈpækɪdʒɪŋ/	[IMAGE]-Pack
 				;materials, technology, waste…
 
 
-p. and h.		<-->	abbreviation+C2    /ˌpiː ən ˈeɪtʃ/-NAmE /ˌpiː ən ˈeɪtʃ/
+p. and h.		<-->	abbreviation++C2	[221128][001]	./ˌpiː ən ˈeɪtʃ/-NAmE /ˌpiː ən ˈeɪtʃ/
 	;làm và gởi bưu điện -- (also p. & h.)(North American English)​postage and handling
 		;COMPARE p. and p.
 		;
 
 
-p. and p.		<-->	abbreviation+C2    /ˌpiː ən ˈpiː/-NAmE /ˌpiː ən ˈpiː/
+p. and p.		<-->	abbreviation++C2	[221128][001]	./ˌpiː ən ˈpiː/-NAmE /ˌpiː ən ˈpiː/
 	;đóng và gởi bưu điện -- (also p. & p.)(British English)​postage and packing (= the cost of packing something and sending it by post)
 		;Add £2 for p. and p.
 		;COMPARE p. and h., s and h
 		;
 
 
-panic buying		<-->	noun+C1    /ˈpænɪk baɪɪŋ/-NAmE /ˈpænɪk baɪɪŋ/
+panic buying		<-->	noun++C1	[221128][001]	./ˈpænɪk baɪɪŋ/-NAmE /ˈpænɪk baɪɪŋ/
 	;sự gom hàng -- [uncountable]​the act of buying large quantities of everyday items such as food, fuel, etc. because of concerns about them running out or prices rising
 		;Anxiety over the virus led to panic buying and empty shelves in stores.
 		;
 
 
-paper shop		<-->	noun+C2    /ˈpeɪpə ʃɒp/-NAmE /ˈpeɪpər ʃɑːp/
+paper shop		<-->	noun++C2	[221128][001]	./ˈpeɪpə ʃɒp/-NAmE /ˈpeɪpər ʃɑːp/
 	;tạp hoá bán báo, tạp chí -- (also newsagent's)(British English)​a shop that sells newspapers, magazines, sweets, etc.
 		;
 
 
-password		<-->	noun+B2    /ˈpɑːswɜːd/-NAmE /ˈpæswɜːrd/
+password		<-->	noun++B2	[221128][001]	./ˈpɑːswɜːd/-NAmE /ˈpæswɜːrd/
 ​	;mật khẩu -- a series of letters, numbers, etc. that you must type into a computer or computer system in order to be able to use it
 		;Enter a username and password to get into the system.
 		;Wordfinder: copy, data, delete, file, folder, icon, menu, open, password, print
@@ -2682,7 +2682,7 @@ password		<-->	noun+B2    /ˈpɑːswɜːd/-NAmE /ˈpæswɜːrd/
 				;know, remember, choose…
 
 
-pay		<-->	verb+A1    /peɪ/-NAmE /peɪ/\
+pay		<-->	verb++A1	[221128][001]	./peɪ/-NAmE /peɪ/\
 	;chi trả -- (Verb Forms)(Idioms) (Phrasal Verbs)​  [intransitive, transitive] to give somebody money for work, goods, services, etc.
 		;Who's paying?
 		;pay for something I'll pay for the tickets.
@@ -2713,7 +2713,7 @@ pay		<-->	verb+A1    /peɪ/-NAmE /peɪ/\
 				;ability to pay
 
 
-payment		<-->	noun+B1    /ˈpeɪmənt/-NAmE /ˈpeɪmənt/
+payment		<-->	noun++B1	[221128][001]	./ˈpeɪmənt/-NAmE /ˈpeɪmənt/
 	;sự chi trả -- (Idioms)​  [uncountable] the act of paying somebody/something or of being paid
 		;What method of payment do you prefer?
 		;payment in cash/by cheque
@@ -2762,12 +2762,12 @@ payment		<-->	noun+B1    /ˈpeɪmənt/-NAmE /ˈpeɪmənt/
 				;the balance of payments
 
 
-pedestrian precinct		<-->	noun+C2    /pəˌdestriən ˈpriːsɪŋkt/-NAmE /pəˌdestriən ˈpriːsɪŋkt/
+pedestrian precinct		<-->	noun++C2	[221128][001]	./pəˌdestriən ˈpriːsɪŋkt/-NAmE /pəˌdestriən ˈpriːsɪŋkt/
 	;lối  đi ngang đường vào khu cửa hàng -- (British English)(North American English pedestrian mall)​a part of a town, especially a shopping area, that vehicles are not allowed to enter
 		;TOPICS ShoppingC2, Transport by car or lorryC2
 
 
-perfume		<-->	noun+B2    /ˈpɜːfjuːm/-NAmE /pərˈfjuːm/\
+perfume		<-->	noun++B2	[221128][001]	./ˈpɜːfjuːm/-NAmE /pərˈfjuːm/\
 	;nước hoa -- [countable, uncountable]
 ​		;a liquid, often made from flowers, that you put on your skin to make yourself smell nice
 		; ~ SYNONYM fragrance (2), scent (3)
@@ -2791,13 +2791,13 @@ perfume		<-->	noun+B2    /ˈpɜːfjuːm/-NAmE /pərˈfjuːm/\
 				;a waft(làn gió) of perfume, a whiff(làn) of perfume
 
 
-pharmacist		<-->	noun+C1    /ˈfɑːməsɪst/-NAmE /ˈfɑːrməsɪst/
+pharmacist		<-->	noun++C1	[221128][001]	./ˈfɑːməsɪst/-NAmE /ˈfɑːrməsɪst/
 	;hiệu thuốc -- (pharmacist’s)(plural pharmacists)(British English) a shop that sells medicines
 		;They sell vitamin supplements at the pharmacist's.
 		;		;COMPARE chemist
 
 
-pharmacy		<-->	noun+B2    /ˈfɑːməsi/-NAmE /ˈfɑːrməsi/
+pharmacy		<-->	noun++B2	[221128][001]	./ˈfɑːməsi/-NAmE /ˈfɑːrməsi/
 	;hiệu thuốc -- (plural pharmacies)​[countable] a shop, or part of one, that sells medicines and drugs
 		;The cream is available at/from/in pharmacies without a prescription.
 		;Research is bringing more effective new drugs to pharmacy shelves.
@@ -2812,18 +2812,18 @@ pharmacy		<-->	noun+B2    /ˈfɑːməsi/-NAmE /ˈfɑːrməsi/
 				;available at pharmacies, available from pharmacies, available in pharmacies
 
 
-plaza		<-->	noun+C2    /ˈplɑːzə/-NAmE /ˈplæzə/
+plaza		<-->	noun++C2	[221128][001]	./ˈplɑːzə/-NAmE /ˈplæzə/
 	;trung tâm mua sắm -- a small shopping centre, sometimes also with offices
 		;a downtown shopping plaza
 		;
 
-portal		<-->	noun+C2    /ˈpɔːtl/-NAmE /ˈpɔːrtl/
+portal		<-->	noun++C2	[221128][001]	./ˈpɔːtl/-NAmE /ˈpɔːrtl/
 	​;trang web bán hàng --  (computing) a website that is used as a point of entry to the internet, where information has been collected that will be useful to a person interested in particular kinds of things
 		;a business/news/shopping portal
 		;TOPICS Phones, email and the internetC2, ShoppingC2
 
 
-postage		<-->	noun+C1    /ˈpəʊstɪdʒ/-NAmE /ˈpəʊstɪdʒ/
+postage		<-->	noun++C1	[221128][001]	./ˈpəʊstɪdʒ/-NAmE /ˈpəʊstɪdʒ/
 	;bưu phí -- [uncountable]​the cost of sending a letter, etc. by post
 		;an increase in postage rates
 		;How much was the postage on that letter?
@@ -2841,7 +2841,7 @@ postage		<-->	noun+C1    /ˈpəʊstɪdʒ/-NAmE /ˈpəʊstɪdʒ/
 				;postage and handling, postage and packing, postage paid…
 
 
-precinct		<-->	noun+C2    /ˈpriːsɪŋkt/-NAmE /ˈpriːsɪŋkt/
+precinct		<-->	noun++C2	[221128][001]	./ˈpriːsɪŋkt/-NAmE /ˈpriːsɪŋkt/
 ​	;khu thương mại -- (British English) a commercial area in a town where cars cannot go
 		;a pedestrian/shopping precinct
 		;(Extra Examples)
@@ -2850,20 +2850,20 @@ precinct		<-->	noun+C2    /ˈpriːsɪŋkt/-NAmE /ˈpriːsɪŋkt/
 				;shopping, pedestrian, town-centre…
 
 
-pre-order		<-->	noun+C1    /ˈpriː ɔːdə(r)/-NAmE /ˈpriː ɔːrdər/
+pre-order		<-->	noun++C1	[221128][001]	./ˈpriː ɔːdə(r)/-NAmE /ˈpriː ɔːrdər/
 	;hàng đặt trước -- [countable, uncountable]​an order for a product that is not yet available
 		;You can place a pre-order now at the link below.
 		;The game is now available for pre-order.
 		;TOPICS ShoppingC1, BusinessC1
 
 
-pre-order		<-->	verb+C1    /ˈpriː ɔːdə(r)/-NAmE /ˈpriː ɔːrdər/
+pre-order		<-->	verb++C1	[221128][001]	./ˈpriː ɔːdə(r)/-NAmE /ˈpriː ɔːrdər/
 	;đặt trước -- (Verb Forms)​pre-order something to place an order for a product before it is available
 		;Fans who pre-order the album will receive one track immediately as a download.
 		;TOPICS ShoppingC1, BusinessC1
 
 
-price		<-->	noun+A1    /praɪs/-NAmE /praɪs/
+price		<-->	noun++A1	[221128][001]	./praɪs/-NAmE /praɪs/
 	;giá -- (Idioms)  [countable, uncountable] the amount of money that you have to pay for something
 		;Boat for sale, price £8 000
 		;house/oil/share prices
@@ -2905,14 +2905,14 @@ price		<-->	noun+A1    /praɪs/-NAmE /praɪs/
 				;a drop in price, a fall in price, a reduction in price…
 
 
-price tag		<-->	noun+C1    /ˈpraɪs tæɡ/-NAmE /ˈpraɪs tæɡ/
+price tag		<-->	noun++C1	[221128][001]	./ˈpraɪs tæɡ/-NAmE /ˈpraɪs tæɡ/
 ​	;thẻ giá -- a label on something that shows how much you must pay
 		;I got a shock when I looked at the price tag.
 		;(figurative) There is a £50 million price tag on the team's star player.
 		;
 
 
-product		<-->	noun+A1    /ˈprɒdʌkt/-NAmE /ˈprɑːdʌkt/
+product		<-->	noun++A1	[221128][001]	./ˈprɒdʌkt/-NAmE /ˈprɑːdʌkt/
 	;sản phẩm, hàng hoá -- (Word Family)​  [countable, uncountable] a thing that is grown, produced or created, usually for sale
 		;food/agricultural/software products
 		;He has eliminated dairy products from his diet.
@@ -2995,14 +2995,14 @@ product		<-->	noun+A1    /ˈprɒdʌkt/-NAmE /ˈprɑːdʌkt/
 				;a range of products
 
 
-profit margin		<-->	noun+B2    /ˈprɒfɪt mɑːdʒɪn/-NAmE /ˈprɑːfɪt mɑːrdʒɪn/
+profit margin		<-->	noun++B2	[221128][001]	./ˈprɒfɪt mɑːdʒɪn/-NAmE /ˈprɑːfɪt mɑːrdʒɪn/
 	;biên độ lợi nhuận -- (also margin)(business)​the difference between the cost of buying or producing something and the price that it is sold for
 		;to increase/reduce the profit margin
 		;a profit margin of 20%
 		;TOPICS BusinessB2, ShoppingB2
 
 
-promotion		<-->	noun+C1    /prəˈməʊʃn/-NAmE /prəˈməʊʃn/
+promotion		<-->	noun++C1	[221128][001]	./prəˈməʊʃn/-NAmE /prəˈməʊʃn/
 	;sự đề bạt --​ [uncountable, countable] a move to a more important job or rank in a company or an organization
 		;The new job is a promotion for him.
 		;promotion to something Her promotion to Sales Manager took everyone by surprise.
@@ -3061,7 +3061,7 @@ promotion		<-->	noun+C1    /prəˈməʊʃn/-NAmE /prəˈməʊʃn/
 				;chance of promotion, chances of promotion
 
 
-purchase		<-->	verb+B2    /ˈpɜːtʃəs/-NAmE /ˈpɜːrtʃəs/
+purchase		<-->	verb++B2	[221128][001]	./ˈpɜːtʃəs/-NAmE /ˈpɜːrtʃəs/
 	;bán -- (formal)(Verb Forms)​to buy something
 		;purchase something Please ensure that you purchase your ticket in advance.
 		;to purchase an item/a product
@@ -3082,7 +3082,7 @@ purchase		<-->	verb+B2    /ˈpɜːtʃəs/-NAmE /ˈpɜːrtʃəs/
 				;for, from
 
 
-purchase		<-->	noun+B2    /ˈpɜːtʃəs/-NAmE /ˈpɜːrtʃəs/
+purchase		<-->	noun++B2	[221128][001]	./ˈpɜːtʃəs/-NAmE /ˈpɜːrtʃəs/
 	;việc bán -- (formal)​  [uncountable, countable] the act or process of buying something
 		;to make a purchase (= buy something)
 		;Keep your receipt as proof of purchase.
@@ -3116,7 +3116,7 @@ purchase		<-->	noun+B2    /ˈpɜːtʃəs/-NAmE /ˈpɜːrtʃəs/
 				;make, pay for
 
 
-queue		<-->	noun+B1    /kjuː/-NAmE /kjuː/
+queue		<-->	noun++B1	[221128][001]	./kjuː/-NAmE /kjuː/
 	;hàng đợi -- (Idioms)​  (British English)(North American English line)a line of people, cars, etc. waiting for something or to do something
 		;There were long queues at polling stations.
 		;the bus queue
@@ -3146,7 +3146,7 @@ queue		<-->	noun+B1    /kjuː/-NAmE /kjuː/
 				;the back of the queue, the end of the queue, the front of the queue…
 
 
-queue		<-->	verb+B1    /kjuː/-NAmE /kjuː/
+queue		<-->	verb++B1	[221128][001]	./kjuː/-NAmE /kjuː/
 	;xếp hàng -- (Verb Forms)(Phrasal Verbs)​  [intransitive] (British English) to wait in a line of people, vehicles, etc. in order to do something, get something or go somewhere
 		;queue (up) People queued up outside.
 		;Hundreds of voters queued patiently.
@@ -3163,7 +3163,7 @@ queue		<-->	verb+B1    /kjuː/-NAmE /kjuː/
 				;for
 
 
-rack		<-->	noun+C1    /ræk/-NAmE /ræk/ [IMAGE]-Racks
+rack		<-->	noun++C1	[221128][001]	./ræk/-NAmE /ræk/ [IMAGE]-Racks
 	;cái kể để chén, dao, ... (Idioms)(often in compounds)a piece of equipment, usually made of metal or wooden bars, that is used for holding things or for hanging things on
 		;a vegetable/wine/plate/toast rack
 		;I looked through a rack of clothes at the back of the shop.
@@ -3181,7 +3181,7 @@ rack		<-->	noun+C1    /ræk/-NAmE /ræk/ [IMAGE]-Racks
 				;in a/​the rack, on a/​the rack, rack for…
 
 
-range		<-->	noun+B2    /reɪndʒ/-NAmE /reɪndʒ/
+range		<-->	noun++B2	[221128][001]	./reɪndʒ/-NAmE /reɪndʒ/
 	;hạng -- (of products)  [countable] range (of something) a set of products of a particular type
 		;our new range of hair products
 		;We are looking to expand our product range.
@@ -3190,7 +3190,7 @@ range		<-->	noun+B2    /reɪndʒ/-NAmE /reɪndʒ/
 		;TOPICS ShoppingB2
 
 
-rate		<-->	noun+B1    /reɪt/-NAmE /reɪt/\
+rate		<-->	noun++B1	[221128][001]	./reɪt/-NAmE /reɪt/\
 ;tỷ lệ hoa hồng, lãi suất -- [countable] a fixed amount of money that is charged or paid for something
 		;advertising/insurance/postal rates
 		;A rise in interest rates tends to reduce inflation.
@@ -3220,7 +3220,7 @@ rate		<-->	noun+B1    /reɪt/-NAmE /reɪt/\
 				;a drop in rates, a rise in rates, a rate of return…
 
 
-receipt		<-->	noun+B1    /rɪˈsiːt/-NAmE /rɪˈsiːt/
+receipt		<-->	noun++B1	[221128][001]	./rɪˈsiːt/-NAmE /rɪˈsiːt/
 ​	;biên nhận --  [countable] a piece of paper or an electronic document that shows that goods or services have been paid for
 		;Can I have a receipt, please?
 		;receipt for something Do you need a receipt for that?
@@ -3245,7 +3245,7 @@ receipt		<-->	noun+B1    /rɪˈsiːt/-NAmE /rɪˈsiːt/
 				;receipt for
 
 
-reduce		<-->	verb+A2    /rɪˈdjuːs/-NAmE /rɪˈduːs/
+reduce		<-->	verb++A2	[221128][001]	./rɪˈdjuːs/-NAmE /rɪˈduːs/
 	;thu hẹp -- (Verb Forms)(Idioms) (Phrasal Verbs)​  [transitive, intransitive] to make something less or smaller in size, quantity, price, etc.; to become less or smaller in size, quantity, etc.
 		;reduce something Reduce speed now (= on a sign).
 		;Giving up smoking reduces the risk of heart disease.
@@ -3271,7 +3271,7 @@ reduce		<-->	verb+A2    /rɪˈdjuːs/-NAmE /rɪˈduːs/
 				;an attempt to reduce something, an effort to reduce something, measures to reduce something…
 
 
-reduction		<-->	noun+B2    /rɪˈdʌkʃn/-NAmE /rɪˈdʌkʃn/
+reduction		<-->	noun++B2	[221128][001]	./rɪˈdʌkʃn/-NAmE /rɪˈdʌkʃn/
 	;sự giảm giá --  [countable] an amount of money by which something is made cheaper
 		;price reductions
 		;reduction for somebody/something There are reductions for children sharing a room with two adults.
@@ -3294,7 +3294,7 @@ reduction		<-->	noun+B2    /rɪˈdʌkʃn/-NAmE /rɪˈdʌkʃn/
 				;a reduction in numbers, a reduction in the amount of something, a reduction in the number of something…
 
 
-refund		<-->	noun+B2    /ˈriːfʌnd/-NAmE /ˈriːfʌnd/
+refund		<-->	noun++B2	[221128][001]	./ˈriːfʌnd/-NAmE /ˈriːfʌnd/
 	;sự hoàn trả tiền -- ​a sum of money that is paid back to you, especially because you paid too much or because you returned goods to a shop
 		;a tax refund
 		;to claim/demand/receive a refund
@@ -3312,12 +3312,12 @@ refund		<-->	noun+B2    /ˈriːfʌnd/-NAmE /ˈriːfʌnd/
 		;refund forrefund ofrefund on…
 
 
-register		<-->	noun+C1    /ˈredʒɪstə(r)/-NAmE /ˈredʒɪstər/
+register		<-->	noun++C1	[221128][001]	./ˈredʒɪstə(r)/-NAmE /ˈredʒɪstər/
 	;máy tính tiền tự động -- (machine)​(North American English)(also cash register British and North American English)(British English also till) [countable] a machine used in shops, restaurants, etc. for keeping money in, and that shows and records the amount of money received for each thing that is sold
 		;
 
 
-retail		<-->	noun+B2    /ˈriːteɪl/-NAmE /ˈriːteɪl/
+retail		<-->	noun++B2	[221128][001]	./ˈriːteɪl/-NAmE /ˈriːteɪl/
 	;việc bán lẻ -- [uncountable]​the selling of goods to the public, usually through shops
 		;The recommended retail price is £9.99.
 		;department stores and other retail outlets
@@ -3330,27 +3330,27 @@ retail		<-->	noun+B2    /ˈriːteɪl/-NAmE /ˈriːteɪl/
 				;analyst, banking, business…
 
 
-retail		<-->	adverb+C1    /ˈriːteɪl/-NAmE /ˈriːteɪl/
+retail		<-->	adverb++C1	[221128][001]	./ˈriːteɪl/-NAmE /ˈriːteɪl/
 ​	;bán lẻ -- by or to the public, usually through shops
 		;to buy/sell retail
 		;COMPARE wholesale (1)
 		;
 
 
-retail		<-->	verb+C1    /ˈriːteɪl/-NAmE /ˈriːteɪl/
+retail		<-->	verb++C1	[221128][001]	./ˈriːteɪl/-NAmE /ˈriːteɪl/
 	;bán lẻ -- (Verb Forms)​[transitive] retail something to sell goods to the public, usually through shops
 		;The firm manufactures and retails its own range of sportswear.
 		;
 
 
-retail therapy		<-->	noun+C2    /ˌriːteɪl ˈθerəpi/-NAmE /ˌriːteɪl ˈθerəpi/
+retail therapy		<-->	noun++C2	[221128][001]	./ˌriːteɪl ˈθerəpi/-NAmE /ˌriːteɪl ˈθerəpi/
 	;liệu pháp giải trí đi mua hàng -- [uncountable] (usually humorous)​the act of going shopping and buying things in order to make yourself feel more cheerful
 		;I was ready for a little retail therapy.
 		;Collocations Shopping
 		;
 
 
-return		<-->	verb+B1    /rɪˈtɜːn/-NAmE /rɪˈtɜːrn/
+return		<-->	verb++B1	[221128][001]	./rɪˈtɜːn/-NAmE /rɪˈtɜːrn/
 	;thối tiền, trả lại -- (bring/give back)  [transitive] to bring, give, put or send something back to somebody/something	
 		;return somebody/something to somebody/something We had to return the hairdryer to the store because it was faulty.
 		;I must return some books to the library.
@@ -3362,7 +3362,7 @@ return		<-->	verb+B1    /rɪˈtɜːn/-NAmE /rɪˈtɜːrn/
 		;
 
 
-safe		<-->	noun+C1    /seɪf/-NAmE /seɪf/-\
+safe		<-->	noun++C1	[221128][001]	./seɪf/-NAmE /seɪf/-\
 	;tủ sắt cất đồ quý -- a strong metal box or cupboard with a complicated lock, used for storing valuable things in, for example, money or jewellery
 		;SEE ALSO: night safe
 		;TOPICS MoneyC1, ShoppingC1
@@ -3373,7 +3373,7 @@ safe		<-->	noun+C1    /seɪf/-NAmE /seɪf/-\
 			;open, close, lock…
 
 
-sale		<-->	noun+A2    /seɪl/-NAmE /seɪl/
+sale		<-->	noun++A2	[221128][001]	./seɪl/-NAmE /seɪl/
 	;việc bán hàng-- [uncountable, countable] an act or the process of selling something
 		;regulations governing the sale of alcoholic beverages
 		;The product has been withdrawn from sale.
@@ -3400,12 +3400,12 @@ sale		<-->	noun+A2    /seɪl/-NAmE /seɪl/
 				;conditions of sale, a contract of sale, point of sale…
 
 
-sales clerk		<-->	noun+C1    /ˈseɪlz klɑːk/-NAmE /ˈseɪlz klɜːrk/
+sales clerk		<-->	noun++C1	[221128][001]	./ˈseɪlz klɑːk/-NAmE /ˈseɪlz klɜːrk/
 	;nhân viên shop -- (also clerk)(both North American English)(British English shop assistant, assistant)​a person whose job is to serve customers in a shop
 		;TOPICS JobsC1, ShoppingC1
 
 
-salesman		<-->	noun+B2    lesman noun-NAmE /ˈseɪlzmən/-NAmE /ˈseɪlzmən/
+salesman		<-->	noun++B2    lesman noun-NAmE /ˈseɪlzmən/-NAmE /ˈseɪlzmən/
 	;nam bán hàng -- (plural salesmen  /ˈseɪlzmən/  /ˈseɪlzmən/)​a man whose job is to sell goods, for example, in a shop
 		;a car salesman
 		;More About gender
@@ -3413,16 +3413,16 @@ salesman		<-->	noun+B2    lesman noun-NAmE /ˈseɪlzmən/-NAmE /ˈseɪlzmən/
 		;TOPICS JobsB2, ShoppingB2
 
 
-sales slip		<-->	noun+B1    /ˈseɪlz slɪp/-NAmE /ˈseɪlz slɪp/
+sales slip		<-->	noun++B1	[221128][001]	./ˈseɪlz slɪp/-NAmE /ˈseɪlz slɪp/
 	;giấy tính tiền, biên nhận -- (North American English) ​a piece of paper that shows that goods or services have been paid for
 		; ~ SYNONYM receipt (1)
 		;TOPICS BusinessB1, MoneyB1, ShoppingB1
 
 
-saleswoman		<-->	noun+B2    
+saleswoman		<-->	noun++B2    
 
 
-salon		<-->	noun+B2    /ˈsælɒn/-NAmE /səˈlɑːn/
+salon		<-->	noun++B2	[221128][001]	./ˈsælɒn/-NAmE /səˈlɑːn/
 	;tiệm làm tóc -- ​a shop that gives customers hair or beauty treatment or that sells expensive clothes
 		;a beauty salon
 		;a hairdressing salon
@@ -3436,7 +3436,7 @@ salon		<-->	noun+B2    /ˈsælɒn/-NAmE /səˈlɑːn/
 				;go to, visit
 
 
-sample		<-->	noun+B2    /ˈsɑːmpl/-NAmE /ˈsæmpl/
+sample		<-->	noun++B2	[221128][001]	./ˈsɑːmpl/-NAmE /ˈsæmpl/
 	;hàng mẫu -- a small amount or example of something that can be looked at or tried to see what it is like
 		;‘I'd like to see a sample of your work,’ said the manager.
 		;a free sample of shampoo
@@ -3452,13 +3452,13 @@ sample		<-->	noun+B2    /ˈsɑːmpl/-NAmE /ˈsæmpl/
 				;sample of
 
 
-sari-sari store		<-->	noun+C2    /ˌsæri ˈsæri stɔː(r)/-NAmE /ˌseri ˈseri stɔːr/
+sari-sari store		<-->	noun++C2	[221128][001]	./ˌsæri ˈsæri stɔː(r)/-NAmE /ˌseri ˈseri stɔːr/
 	;tiệm tạp hoá -- (South-East Asian English [saɾi ˈsaɾi stɔ])(South-East Asian English)​(in the Philippines) a small neighbourhood shop that sells a variety of goods
 		;There's a sari-sari store just down the road where you can buy everything you need.
 		;
 
 
-saving		<-->	noun+B2    /ˈseɪvɪŋ/-NAmE /ˈseɪvɪŋ/
+saving		<-->	noun++B2	[221128][001]	./ˈseɪvɪŋ/-NAmE /ˈseɪvɪŋ/
 	;tiền tiết kiệm --   [countable] an amount of something such as time or money that you do not need to use or spend
 		;saving of something Buy three and make a saving of 55p.
 		;saving on something With the new boiler you can make big savings on fuel bills.
@@ -3478,14 +3478,14 @@ saving		<-->	noun+B2    /ˈseɪvɪŋ/-NAmE /ˈseɪvɪŋ/
 				;saving for, saving from, saving in…
 
 
-self-checkout		<-->	noun+C1    /ˌself ˈtʃekaʊt/-NAmE /ˌself ˈtʃekaʊt/
+self-checkout		<-->	noun++C1	[221128][001]	./ˌself ˈtʃekaʊt/-NAmE /ˌself ˈtʃekaʊt/
 	;hệ thống tính tiền tự động -- ​a system that enables customers in a shop, especially a supermarket, to scan and pay for goods without help from a shop assistant
 		;Many customers now use their mobile devices for self-checkout.
 		;a self-checkout machine
 		;
 
 
-self-service		<-->	adjective+B2    /ˌself ˈsɜːvɪs/-NAmE /ˌself ˈsɜːrvɪs/
+self-service		<-->	adjective++B2	[221128][001]	./ˌself ˈsɜːvɪs/-NAmE /ˌself ˈsɜːrvɪs/
 	;tự phục vụ -- [usually before noun] ​a self-service shop, restaurant, etc. is one in which customers serve themselves and then pay for the goods
 		;TOPICS ShoppingB2, Cooking and eatingB2
 		;Oxford Collocations Dictionary
@@ -3493,7 +3493,7 @@ self-service		<-->	adjective+B2    /ˌself ˈsɜːvɪs/-NAmE /ˌself ˈsɜːrvɪ
 				;restaurant
 
 
-sell		<-->	verb+A1    /sel/-NAmE /sel/
+sell		<-->	verb++A1	[221128][001]	./sel/-NAmE /sel/
 	;bán -- (Verb Forms) (Idioms) (Phrasal Verbs) (exchange for money)​  [transitive, intransitive] to give something to somebody in exchange for money
 		;sell (something) I recently sold my bike.
 		;His father went bankrupt and the family had to sell their home.
@@ -3522,7 +3522,7 @@ sell		<-->	verb+A1    /sel/-NAmE /sel/
 				;cheaply
 
 
-seller		<-->	noun+B1    /ˈselə(r)/-NAmE /ˈselər/
+seller		<-->	noun++B1	[221128][001]	./ˈselə(r)/-NAmE /ˈselər/
 	;người bán -- (Idioms) ​a person who sells something
 		;a flower seller
 		;The law is intended to protect both the buyer and the seller.
@@ -3531,7 +3531,7 @@ seller		<-->	noun+B1    /ˈselə(r)/-NAmE /ˈselər/
 		;
 
 
-sell out		<-->	phrasal	verb+B2
+sell out		<-->	phrasal	verb++B2
 	;bán tất -- sell out | be sold out ​(of tickets for a concert, sports game, etc.) to be all sold
 		;The tickets sold out within hours.
 		;This week's performances are completely sold out.
@@ -3542,7 +3542,7 @@ sell out		<-->	phrasal	verb+B2
 		;TOPICS ShoppingB2
 
 
-serve		<-->	verb+A2    /sɜːv/-NAmE /sɜːrv/
+serve		<-->	verb++A2	[221128][001]	./sɜːv/-NAmE /sɜːrv/
 	;phục vụ -- (customers)​  [transitive, intransitive] serve (somebody) (especially British English) to help a customer or sell them something in a shop
 		;Are you being served?
 		;The bar staff spend more time chatting to friends than serving customers.
@@ -3550,7 +3550,7 @@ serve		<-->	verb+A2    /sɜːv/-NAmE /sɜːrv/
 		;TOPICS ShoppingA2
 
 
-service		<-->	noun+B1    /ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
+service		<-->	noun++B1	[221128][001]	./ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
 	;dịch vụ -- (in hotel/shop/restaurant)​  [uncountable] the serving of customers in hotels, restaurants, and shops
 		;The food was good but the service was very slow.
 		;I complained about the poor service.
@@ -3595,7 +3595,7 @@ service		<-->	noun+B1    /ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
 				;job, worker
 
 
-shelf		<-->	noun+B1    /ʃelf/-NAmE /ʃelf/
+shelf		<-->	noun++B1	[221128][001]	./ʃelf/-NAmE /ʃelf/
 	;Cái kệ -- (plural shelves  /ʃelvz/  /ʃelvz/)(Idioms)​  a flat board, made of wood, metal, glass, etc., fixed to the wall or forming part of a cupboard, bookcase, etc., for things to be placed on
 		;I helped him put up some shelves in his bedroom.
 		;on a shelf The book I wanted was on the top shelf.
@@ -3656,7 +3656,7 @@ shelf		<-->	noun+B1    /ʃelf/-NAmE /ʃelf/
 				;be filled with shelvesbe lined with shelvesa place on your shelves…
 
 
-shipping		<-->	noun+C1    /ˈʃɪpɪŋ/-NAmE /ˈʃɪpɪŋ/
+shipping		<-->	noun++C1	[221128][001]	./ˈʃɪpɪŋ/-NAmE /ˈʃɪpɪŋ/
 	;việc ship hàng -- [uncountable] the activity of carrying people or goods from one place to another by ship or by some other means
 		;a shipping company
 		;We offer free shipping on orders over $50.
@@ -3666,7 +3666,7 @@ shipping		<-->	noun+C1    /ˈʃɪpɪŋ/-NAmE /ˈʃɪpɪŋ/
 		;TOPICS Transport by waterC1, ShoppingC1, BusinessC1
 
 
-shoe		<-->	noun+A1    /ʃuː/-NAmE /ʃuː/
+shoe		<-->	noun++A1	[221128][001]	./ʃuː/-NAmE /ʃuː/
 	;giầy -- (Idioms)​  one of a pair of objects usually made of leather or plastic that you wear on your feet
 		;a pair of shoes
 		;patent leather/suede shoes
@@ -3700,7 +3700,7 @@ shoe		<-->	noun+A1    /ʃuː/-NAmE /ʃuː/
 				;the heel of a shoe, the sole of a shoe, the toe of a shoe…
 
 
-shop		<-->	noun+A1    /ʃɒp/-NAmE /ʃɑːp/
+shop		<-->	noun++A1	[221128][001]	./ʃɒp/-NAmE /ʃɑːp/
 	;cửa hàng -- (Idioms)where you buy something​  [countable] (especially British English) a building or part of a building where you can buy goods or services
 		;to open/close/run a shop
 		;There's a good selection of local shops.
@@ -3732,7 +3732,7 @@ shop		<-->	noun+A1    /ʃɒp/-NAmE /ʃɑːp/
 				;around a/​the shop, round a/​the shop, at a/​the shop…
 
 
-shop		<-->	verb+A1    /ʃɒp/-NAmE /ʃɑːp/
+shop		<-->	verb++A1	[221128][001]	./ʃɒp/-NAmE /ʃɑːp/
 	;mua hàng ở shop -- (Verb Forms)(Phrasal Verbs)(buy)​  [intransitive] to buy things in shops
 		;I shop there from time to time.
 		;I bumped into him when I was out shopping with my mother.
@@ -3746,29 +3746,29 @@ shop		<-->	verb+A1    /ʃɒp/-NAmE /ʃɑːp/
 		;TOPICS ShoppingA1
 
 
-shopaholic		<-->	noun+C1    /ˌʃɒpəˈhɒlɪk/-NAmE /ˌʃɑːpəˈhɑːlɪk/
+shopaholic		<-->	noun++C1	[221128][001]	./ˌʃɒpəˈhɒlɪk/-NAmE /ˌʃɑːpəˈhɑːlɪk/
 	;người nghiện shopping -- (informal)​a person who enjoys shopping very much and spends too much time or money doing it
 		;
 
 
-shop assistant		<-->	noun+A2    /ˈʃɒp əsɪstənt/-NAmE /ˈʃɑːp əsɪstənt/
+shop assistant		<-->	noun++A2	[221128][001]	./ˈʃɒp əsɪstənt/-NAmE /ˈʃɑːp əsɪstənt/
 	;nhân viên của shop -- (also assistant)(both British English)(North American English sales clerk, clerk)​a person whose job is to serve customers in a shop
 		;TOPICS JobsA2, ShoppingA2
 
 
-shoplift		<-->	verb+B2    /ˈʃɒplɪft/-NAmE /ˈʃɑːplɪft/
+shoplift		<-->	verb++B2	[221128][001]	./ˈʃɒplɪft/-NAmE /ˈʃɑːplɪft/
 	;ăn cắp vặt -- [intransitive, transitive](Verb Forms) shoplift (something) to steal goods from a shop by deliberately leaving without paying for them
 		;She was caught trying to shoplift a pair of jeans.
 		;TOPICS ShoppingB2, Crime and punishmentB2
 
 
-shoplifter		<-->	noun+B2    /ˈʃɒplɪftə(r)/-NAmE /ˈʃɑːplɪftər/
+shoplifter		<-->	noun++B2	[221128][001]	./ˈʃɒplɪftə(r)/-NAmE /ˈʃɑːplɪftər/
 	;kẻ cắp vặt -- ​a person who steals goods from a shop by deliberately leaving without paying for them
 		;Shoplifters will be prosecuted.
 		;TOPICS ShoppingB2, Crime and punishmentB2
 
 
-shoplifting		<-->	noun+B2    /ˈʃɒplɪftɪŋ/-NAmE /ˈʃɑːplɪftɪŋ/
+shoplifting		<-->	noun++B2	[221128][001]	./ˈʃɒplɪftɪŋ/-NAmE /ˈʃɑːplɪftɪŋ/
 	;tội ăn cắp vặt -- [uncountable]​the crime of stealing goods from a shop by deliberately leaving without paying for them
 		;They stole thousands of pounds’ worth of goods in a two-day shoplifting spree.
 		;She was convicted of shoplifting.
@@ -3783,7 +3783,7 @@ shoplifting		<-->	noun+B2    /ˈʃɒplɪftɪŋ/-NAmE /ˈʃɑːplɪftɪŋ/
 				;be arrested for shoplifting
 
 
-shopper		<-->	noun+B1    /ˈʃɒpə(r)/-NAmE /ˈʃɑːpər/
+shopper		<-->	noun++B1	[221128][001]	./ˈʃɒpə(r)/-NAmE /ˈʃɑːpər/
 ​	;khách hàng -- a person who buys goods from shops
 		;The streets were full of Christmas shoppers.
 		;Competition between stores can result in big savings for the shopper.
@@ -3802,7 +3802,7 @@ shopper		<-->	noun+B1    /ˈʃɒpə(r)/-NAmE /ˈʃɑːpər/
 				;attractive to shoppers
 
 
-shopping		<-->	noun+A1    /ˈʃɒpɪŋ/-NAmE /ˈʃɑːpɪŋ/
+shopping		<-->	noun++A1	[221128][001]	./ˈʃɒpɪŋ/-NAmE /ˈʃɑːpɪŋ/
 	;việc mua sắm -- [uncountable]​  the activity of going to shops and buying things or ordering them online
 		;to go shopping
 		;(British English) When shall I do the shopping?
@@ -3829,11 +3829,11 @@ shopping		<-->	noun+A1    /ˈʃɒpɪŋ/-NAmE /ˈʃɑːpɪŋ/
 				;be on somebody’s shopping list
 
 
-shopping bag		<-->	noun+A2    /ˈʃɒpɪŋ bæɡ/-NAmE /ˈʃɑːpɪŋ bæɡ/ [IMAGE]-Packaging
+shopping bag		<-->	noun++A2	[221128][001]	./ˈʃɒpɪŋ bæɡ/-NAmE /ˈʃɑːpɪŋ bæɡ/ [IMAGE]-Packaging
 ​	;giõ sách -- a large, strong bag made of cloth, plastic, etc. used for carrying your shopping
 
 
-shopping centre		<-->	noun+A2    /ˈʃɒpɪŋ sentə(r)/-NAmE /ˈʃɑːpɪŋ sentər/
+shopping centre		<-->	noun++A2	[221128][001]	./ˈʃɒpɪŋ sentə(r)/-NAmE /ˈʃɑːpɪŋ sentər/
 	;trung tâm mua sắm -- (British English)(North American English shopping center)​a group of shops built together, sometimes under one roof
 		;Kendal boasts a modern shopping centre and a museum.
 		;(Extra Examples)
@@ -3847,25 +3847,25 @@ shopping centre		<-->	noun+A2    /ˈʃɒpɪŋ sentə(r)/-NAmE /ˈʃɑːpɪŋ sen
 				;car park, parking lot, developer
 
 
-shopping mall		<-->	noun+B1    /ˈʃɒpɪŋ mɔːl/,  /ˈʃɒpɪŋ mæl/-NAmE /ˈʃɑːpɪŋ mɔːl/
+shopping mall		<-->	noun++B1	[221128][001]	./ˈʃɒpɪŋ mɔːl/,  /ˈʃɒpɪŋ mæl/-NAmE /ˈʃɑːpɪŋ mɔːl/
 	;khu có nhiều shop -- (also mall)(especially North American English)​a large building or covered area that has many shops, restaurants, etc. inside it
 		;TOPICS ShoppingB1, BuildingsB1
 
 
-shop window		<-->	noun+A1    /ˌʃɒp ˈwɪndəʊ/-NAmE /ˌʃɑːp ˈwɪndəʊ/
+shop window		<-->	noun++A1	[221128][001]	./ˌʃɒp ˈwɪndəʊ/-NAmE /ˌʃɑːp ˈwɪndəʊ/
 	;tấm kính chắn để trưng bày -- (British English)(North American English store window)(also window)​the glass at the front of a shop and the area behind it where goods are shown to the public
 		;in the shop window an advertisement in the shop window
 		;TOPICS ShoppingA1
 
 
-short-change		<-->	verb+C2    /ˌʃɔːt ˈtʃeɪndʒ/-NAmE /ˌʃɔːrt ˈtʃeɪndʒ/
+short-change		<-->	verb++C2	[221128][001]	./ˌʃɔːt ˈtʃeɪndʒ/-NAmE /ˌʃɔːrt ˈtʃeɪndʒ/
 	;cân thiếu -- [often passive](Verb Forms)​short-change somebody: to give back less than the correct amount of money to somebody who has paid for something with more than the exact price
 		;I think I've been short-changed at the bar.
 		;Wordfinder: buydiscountloyalty cardpurchasereceiptreductionrefundshort-changestore cardvoucher
 		;
 
 
-showroom		<-->	noun+C2    /ˈʃəʊruːm/,  /ˈʃəʊrʊm/-NAmE /ˈʃəʊruːm/,  /ˈʃəʊrʊm/
+showroom		<-->	noun++C2	[221128][001]	./ˈʃəʊruːm/,  /ˈʃəʊrʊm/-NAmE /ˈʃəʊruːm/,  /ˈʃəʊrʊm/
 	;phòng trưng bày -- ​a large shop in which goods for sale, especially cars and electrical goods, are displayed
 		;a car showroom
 		;(Extra Examples)
@@ -3879,13 +3879,13 @@ showroom		<-->	noun+C2    /ˈʃəʊruːm/,  /ˈʃəʊrʊm/-NAmE /ˈʃəʊruːm/,
 				;floor, price, condition…
 
 
-showrooming		<-->	noun+C2    /ˈʃəʊruːmɪŋ/,  /ˈʃəʊrʊmɪŋ/-NAmE /ˈʃəʊruːmɪŋ/,  /ˈʃəʊrʊmɪŋ/
+showrooming		<-->	noun++C2	[221128][001]	./ˈʃəʊruːmɪŋ/,  /ˈʃəʊrʊmɪŋ/-NAmE /ˈʃəʊruːmɪŋ/,  /ˈʃəʊrʊmɪŋ/
 	;việc đi xem hàng trước khi mua -- [uncountable] (informal)​the activity of looking at goods in shops before buying online at a lower price
 		;The store blames the drop in sales on the increasing popularity of showrooming.
 		;
 
 
-skincare		<-->	noun+C2    /ˈskɪnkeə(r)/-NAmE /ˈskɪnker/
+skincare		<-->	noun++C2	[221128][001]	./ˈskɪnkeə(r)/-NAmE /ˈskɪnker/
 	;kem dưỡng da, việc dưỡng da -- [uncountable]
 ​		;the use of creams and special products to look after your skin
 		;		;Oxford Collocations Dictionary
@@ -3893,13 +3893,13 @@ skincare		<-->	noun+C2    /ˈskɪnkeə(r)/-NAmE /ˈskɪnker/
 		;product
 
 
-special		<-->	noun+C2    /ˈspeʃl/-NAmE /ˈspeʃl/-\
+special		<-->	noun++C2	[221128][001]	./ˈspeʃl/-NAmE /ˈspeʃl/-\
 	;hàng giảm giá -- (informal, especially North American English) a price for a particular product in a shop or restaurant that is lower than usual
 		;There's a special on coffee this week.
 		;
 
 
-special offer		<-->	noun+B2    /ˌspeʃl ˈɒfə(r)/-NAmE /ˌspeʃl ˈɔːfər/
+special offer		<-->	noun++B2	[221128][001]	./ˌspeʃl ˈɒfə(r)/-NAmE /ˌspeʃl ˈɔːfər/
 	;hàng bán giá hời -- [countable, uncountable]​a product that is sold at less than its usual price, especially in order to persuade people to buy it; the act of offering goods in this way
 		;Shop around for special offers.
 		;special offer on something a special offer on perfume
@@ -3907,7 +3907,7 @@ special offer		<-->	noun+B2    /ˌspeʃl ˈɒfə(r)/-NAmE /ˌspeʃl ˈɔːfər/
 		;TOPICS ShoppingB2
 
 
-spend		<-->	verb+A1    /spend/-NAmE /spend/
+spend		<-->	verb++A1	[221128][001]	./spend/-NAmE /spend/
 	;tiêu xài -- (Verb Forms)(Idioms)​  [transitive, intransitive] to give money to pay for goods, services, etc.
 		;spend something I've spent all my money already.
 		;spend something on something She spent £100 on a new dress.
@@ -3925,30 +3925,30 @@ spend		<-->	verb+A1    /spend/-NAmE /spend/
 				;be money well spent
 
 
-spendthrift		<-->	noun+C2    /ˈspendθrɪft/-NAmE /ˈspendθrɪft/
+spendthrift		<-->	noun++C2	[221128][001]	./ˈspendθrɪft/-NAmE /ˈspendθrɪft/
 	;người phung phí -- (disapproving)​a person who spends too much money or who wastes money
 		;
 
 
-spendthrift		<-->	adjective+C2    /ˈspendθrɪft/-NAmE /ˈspendθrɪft/
+spendthrift		<-->	adjective++C2	[221128][001]	./ˈspendθrɪft/-NAmE /ˈspendθrɪft/
 	;quá phung phí -- [usually before noun] (disapproving)​spending too much money, or wasting money
 		;spendthrift governments
 		;
 
 
-splurge		<-->	noun+C2    /splɜːdʒ/-NAmE /splɜːrdʒ/
+splurge		<-->	noun++C2	[221128][001]	./splɜːdʒ/-NAmE /splɜːrdʒ/
 	;sự phung phí -- [usually singular] (informal)​an act of spending a lot of money on something that you do not really need
 		;
 
 
-splurge		<-->	verb+C2    /splɜːdʒ/-NAmE /splɜːrdʒ/
+splurge		<-->	verb++C2	[221128][001]	./splɜːdʒ/-NAmE /splɜːrdʒ/
 	;phung phí -- [transitive, intransitive] (informal)(Verb Forms)​splurge (something) (out) (on something): to spend a lot of money on something that you do not really need
 		;He splurged his whole week’s wages on a champagne dinner.
 		;She splurged out more than she could afford on loads of new clothes.
 		;
 
 
-spree		<-->	noun+C2    /spriː/-NAmE /spriː/
+spree		<-->	noun++C2	[221128][001]	./spriː/-NAmE /spriː/
 	;quãng thời gian tiệc tùng -- a short period of time that you spend doing one particular activity that you enjoy, but often too much of it
 		;a shopping/spending spree
 		;He's out on a spree.
@@ -3962,7 +3962,7 @@ spree		<-->	noun+C2    /spriː/-NAmE /spriː/
 				;on a spree
 
 
-stall		<-->	noun+B2    /stɔːl/-NAmE /stɔːl/
+stall		<-->	noun++B2	[221128][001]	./stɔːl/-NAmE /stɔːl/
 ​	;quầy hàng -- [countable] a table or small shop with an open front that people sell things from, especially at a market
 		; ~ SYNONYM stand
 		;He works on a market stall in the Square.
@@ -3984,7 +3984,7 @@ stall		<-->	noun+B2    /stɔːl/-NAmE /stɔːl/
 				;at a/​the stall, behind the stall
 
 
-stand		<-->	noun+B2    /stænd/-NAmE /stænd/
+stand		<-->	noun++B2	[221128][001]	./stænd/-NAmE /stænd/
 	;quầy hàng -- (for showing/holding something)​  a table or structure that goods are sold from, especially in the street or at a market
 		; ~ SYNONYM stall
 		;a lemonade/hot dog/newspaper stand
@@ -4004,14 +4004,14 @@ stand		<-->	noun+B2    /stænd/-NAmE /stænd/
 				;hit the stands
 
 
-stationer		<-->	noun+C1    /ˈsteɪʃənə(r)/-NAmE /ˈsteɪʃənər/
+stationer		<-->	noun++C1	[221128][001]	./ˈsteɪʃənə(r)/-NAmE /ˈsteɪʃənər/
 	;shop bán văn phòng phẩm --  (stationer’s)(plural stationers)a shop that sells stationery
 		;Is there a stationer's near here?
 		;More Like This Shops, etc. with apostrophes
 		;
 
 
-stationery		<-->	noun+C1    /ˈsteɪʃənri/-NAmE /ˈsteɪʃəneri/ - [IMAGE]-Stationery
+stationery		<-->	noun++C1	[221128][001]	./ˈsteɪʃənri/-NAmE /ˈsteɪʃəneri/ - [IMAGE]-Stationery
 	;tiệm tạp hoá -- [uncountable]​materials for writing and for using in an office, for example paper, pens and envelopes
 		;Homophones: stationary | stationery
 		;		;Oxford Collocations Dictionary
@@ -4021,7 +4021,7 @@ stationery		<-->	noun+C1    /ˈsteɪʃənri/-NAmE /ˈsteɪʃəneri/ - [IMAGE]-St
 				;shop, store, supplier…
 
 
-stock		<-->	noun+B2    /stɒk/-NAmE /stɑːk/\
+stock		<-->	noun++B2	[221128][001]	./stɒk/-NAmE /stɑːk/\
 	;sự cung hàng -- (Idioms)(supply)​  [uncountable, countable] a supply of goods that is available for sale in a shop
 		;We have a fast turnover of stock.
 		;in stock That particular model is not currently in stock.
@@ -4044,7 +4044,7 @@ stock		<-->	noun+B2    /stɒk/-NAmE /stɑːk/\
 				;from stock, in stock, out of stock…
 
 
-stock		<-->	verb+B2    /stɒk/-NAmE /stɑːk/
+stock		<-->	verb++B2	[221128][001]	./stɒk/-NAmE /stɑːk/
 	;có hàng -- (Verb Forms)(Phrasal Verbs)​stock something (of a shop) to keep a supply of a particular type of goods to sell
 			;Do you stock green tea?
 			;We stock a wide range of camping equipment.
@@ -4057,14 +4057,14 @@ stock		<-->	verb+B2    /stɒk/-NAmE /stɑːk/
 					;with
 
 
-stockist		<-->	noun+C2    /ˈstɒkɪst/-NAmE /ˈstɑːkɪst/
+stockist		<-->	noun++C2	[221128][001]	./ˈstɒkɪst/-NAmE /ˈstɑːkɪst/
 	;shop bán lẻ -- (British English)a shop or company that sells a particular product or type of goods
 		; ~ SYNONYM retailer
 		;The paints are available from stockists throughout the UK.
 		;
 
 
-stocktaking		<-->	noun+C2    /ˈstɒkteɪkɪŋ/-NAmE /ˈstɑːkteɪkɪŋ/
+stocktaking		<-->	noun++C2	[221128][001]	./ˈstɒkteɪkɪŋ/-NAmE /ˈstɑːkteɪkɪŋ/
 	;quá trình kiểm đếm, xắp xếp hàng hoá -- [uncountable]​(especially British English) the process of making a list of all the goods in a shop or business
 		;closed for stocktaking
 		;Who does the stocktaking?
@@ -4072,12 +4072,12 @@ stocktaking		<-->	noun+C2    /ˈstɒkteɪkɪŋ/-NAmE /ˈstɑːkteɪkɪŋ/
 		;TOPICS ShoppingC2, BusinessC2
 
 
-stock up		<-->	phrasal	verb+C2
+stock up		<-->	phrasal	verb++C2
 	;mua dự trữ -- stock up (on/with something)​to buy a lot of something so that you can use it later
 		;We ought to stock up on sun cream before our trip.
 
 
-store		<-->	noun+A2     /stɔː(r)/-NAmE /stɔːr/
+store		<-->	noun++A2     /stɔː(r)/-NAmE /stɔːr/
 	;cửa hàng -- [countable] a large shop that sells many different types of goods
 		;It's available at London's three biggest stores.
 		;SEE ALSO: bottle store, chain store, department store, liquor store, variety store
@@ -4101,19 +4101,19 @@ store		<-->	noun+A2     /stɔː(r)/-NAmE /stɔːr/
 				;the back of a/​the store, the front of a/​the store
 
 
-store card		<-->	noun+C1    /ˈstɔː kɑːd/-NAmE /ˈstɔːr kɑːrd/
+store card		<-->	noun++C1	[221128][001]	./ˈstɔː kɑːd/-NAmE /ˈstɔːr kɑːrd/
 	;thẻ mua hàng chịu cho khách quen -- ​a card that a particular shop provides for regular customers so that they can use it to buy goods that they will pay for later
 		;COMPARE credit card
 		;Wordfinder: buy, discount, loyalty card, purchase, receipt, reduction, refund, short-change, store card, voucher
 		;
 
 
-store window		<-->	noun+A2    /ˈstɔː wɪndəʊ/-NAmE /ˈstɔːr wɪndəʊ/
+store window		<-->	noun++A2	[221128][001]	./ˈstɔː wɪndəʊ/-NAmE /ˈstɔːr wɪndəʊ/
 	;tấm kính chắn khi trưng bày -- (North American English)(British English shop window)(also window)​the glass at the front of a shop and the area behind it where goods are shown to the public
 		;TOPICS ShoppingA2
 
 
-supermarket		<-->	noun+A1    /ˈsuːpəmɑːkɪt/-NAmE /ˈsuːpərmɑːrkɪt/	[IMAGE]-City
+supermarket		<-->	noun++A1	[221128][001]	./ˈsuːpəmɑːkɪt/-NAmE /ˈsuːpərmɑːrkɪt/	[IMAGE]-City
 	;siêu thị -- (North American English also grocery store)​a large shop that sells food, drinks and goods used in the home. People choose what they want from the shelves and pay for it as they leave.
 		;I only shop at this supermarket.
 		;It is the fifth largest supermarket chain in the UK.
@@ -4128,13 +4128,13 @@ supermarket		<-->	noun+A1    /ˈsuːpəmɑːkɪt/-NAmE /ˈsuːpərmɑːrkɪt/	[I
 				;chain, giant, group…
 
 
-superstore		<-->	noun+C1    /ˈsuːpəstɔː(r)/-NAmE /ˈsuːpərstɔːr/
+superstore		<-->	noun++C1	[221128][001]	./ˈsuːpəstɔː(r)/-NAmE /ˈsuːpərstɔːr/
 ​	;kho hàng của siêu thị, kho hàng quy mô -- a very large supermarket or a large shop that sells a wide variety of one type of goods
 		;a computer superstore
 		;
 
 
-takings		<-->	noun+C2    /ˈteɪkɪŋz/-NAmE /ˈteɪkɪŋz/
+takings		<-->	noun++C2	[221128][001]	./ˈteɪkɪŋz/-NAmE /ˈteɪkɪŋz/
 	;doanh số trong một thời điểm -- [plural] (British English)​the amount of money that a shop, theatre, etc. receives from selling goods or tickets over a particular period of time
 		;The box office takings are up on last week.
 		;(Extra Examples)
@@ -4150,7 +4150,7 @@ takings		<-->	noun+C2    /ˈteɪkɪŋz/-NAmE /ˈteɪkɪŋz/
 				;in takings, takings  from
 
 
-tax		<-->	noun+B1    /tæks/-NAmE /tæks/
+tax		<-->	noun++B1	[221128][001]	./tæks/-NAmE /tæks/
 	;thuế -- [countable, uncountable]​money that you have to pay to the government so that it can pay for public services. People pay tax according to their income and businesses pay tax according to their profits. Tax is also often paid on goods and services.
 		;to pay your taxes
 		;to raise/cut taxes
@@ -4218,7 +4218,7 @@ tax		<-->	noun+B1    /tæks/-NAmE /tæks/
 				;for tax purposes, the rate of tax, inspector of taxes…
 
 
-technology		<-->	noun+A2    /tekˈnɒlədʒi/-NAmE /tekˈnɑːlədʒi/
+technology		<-->	noun++A2	[221128][001]	./tekˈnɒlədʒi/-NAmE /tekˈnɑːlədʒi/
 	;máy móc hay thiết bị -- (plural technologies)[uncountable] machines or equipment designed using technology
 		;The scheme provides access to advanced computer technology in the classroom.
 		;The company has invested in the latest technology.
@@ -4239,18 +4239,18 @@ technology		<-->	noun+A2    /tekˈnɒlədʒi/-NAmE /tekˈnɑːlədʒi/
 				;advances in technology, the impact of (a) technology, science and technology
 
 
-tester		<-->	noun+C2    /ˈtestə(r)/-NAmE /ˈtestər/
+tester		<-->	noun++C2	[221128][001]	./ˈtestə(r)/-NAmE /ˈtestər/
 	;hàng mẫu có thể thử -- a small container of a product, such as perfume, that you can try in a shop to see if you like it
 		;
 
 
-thrift shop		<-->	noun+C2    /ˈθrɪft ʃɒp/-NAmE /ˈθrɪft ʃɑːp/
+thrift shop		<-->	noun++C2	[221128][001]	./ˈθrɪft ʃɒp/-NAmE /ˈθrɪft ʃɑːp/
 	;shop bán hàng quyên góp -- (also thrift store)(both North American English)(British English charity shop)
 ​		;a shop that sells clothes and other goods given by people to raise money for a charity
 		;TOPICS ShoppingC2, Social issuesC2
 
 
-till		<-->	noun+C1    /tɪl/-NAmE /tɪl/
+till		<-->	noun++C1	[221128][001]	./tɪl/-NAmE /tɪl/
 	;máy thu tiền -- (Idioms)​(British English)(also cash register British and North American English)(North American English also register)a machine used in shops, restaurants, etc. for keeping money in, and that shows and records the amount of money received for each thing that is sold
 	;	;Oxford Collocations Dictionary
 		;adjective
@@ -4263,7 +4263,7 @@ till		<-->	noun+C1    /tɪl/-NAmE /tɪl/
 			;at the till, behind the till, on the till…
 
 
-tobacconist		<-->	noun+C2    /təˈbækənɪst/-NAmE /təˈbækənɪst/
+tobacconist		<-->	noun++C2	[221128][001]	./təˈbækənɪst/-NAmE /təˈbækənɪst/
 ​	;chủ tiệm thuốc là -- a person who owns, manages or works in a shop selling cigarettes, tobacco for pipes, etc.
 	;tiệm bán thuốc là -- tobacconist’s(plural tobacconists)a shop that sells cigarettes, tobacco, etc.
 		;There's a tobacconist's on the corner.
@@ -4271,12 +4271,12 @@ tobacconist		<-->	noun+C2    /təˈbækənɪst/-NAmE /təˈbækənɪst/
 		;
 
 
-toiletries		<-->	noun+C2    /ˈtɔɪlətriz/-NAmE /ˈtɔɪlətriz/
+toiletries		<-->	noun++C2	[221128][001]	./ˈtɔɪlətriz/-NAmE /ˈtɔɪlətriz/
 	;đồ tẩy rữa -- [plural]​things such as soap or toothpaste that you use for washing, cleaning your teeth, etc.
 		;
 
 
-token		<-->	noun+C2    /ˈtəʊkən/-NAmE /ˈtəʊkən/
+token		<-->	noun++C2	[221128][001]	./ˈtəʊkən/-NAmE /ˈtəʊkən/
 	;phiếu tính tiền -- ​(British English) a piece of paper that you pay for and that somebody can exchange for something in a shop
 		;a £20 book/record/gift token
 		;		;Oxford Collocations Dictionary
@@ -4286,7 +4286,7 @@ token		<-->	noun+C2    /ˈtəʊkən/-NAmE /ˈtəʊkən/
 				;as a token of, in token of
 
 
-total		<-->	noun+B1    /ˈtəʊtl/-NAmE /ˈtəʊtl/-\
+total		<-->	noun++B1	[221128][001]	./ˈtəʊtl/-NAmE /ˈtəʊtl/-\
 	;tổng -- the amount you get when you add several numbers or amounts together; the final number of people or things when they have all been counted
 		;a total of something You got 47 points on the written examination and 18 on the oral, making a total of 65.
 		;His businesses are worth a combined total of $3 billion.
@@ -4310,7 +4310,7 @@ total		<-->	noun+B1    /ˈtəʊtl/-NAmE /ˈtəʊtl/-\
 				;in total, out of a total of, total of…
 
 
-town centre		<-->	noun+A1    /ˌtaʊn ˈsentə(r)/-NAmE /ˌtaʊn ˈsentər/
+town centre		<-->	noun++A1	[221128][001]	./ˌtaʊn ˈsentə(r)/-NAmE /ˌtaʊn ˈsentər/
 	;trung tâm mua sắm -- (British English)​the main part of a town, where the shops are
 		;in the town centre
 		;a town-centre car park
@@ -4321,7 +4321,7 @@ town centre		<-->	noun+A1    /ˌtaʊn ˈsentə(r)/-NAmE /ˌtaʊn ˈsentər/
 				;precinct, pub, shopper…
 
 
-toy		<-->	noun+A2    /tɔɪ/-NAmE /tɔɪ/ [IMAGE]-Toys
+toy		<-->	noun++A2	[221128][001]	./tɔɪ/-NAmE /tɔɪ/ [IMAGE]-Toys
 ​	;đồ chơi --  an object for children to play with
 		;cuddly/stuffed toys
 		;The children were playing happily with their toys.
@@ -4339,7 +4339,7 @@ toy		<-->	noun+A2    /tɔɪ/-NAmE /tɔɪ/ [IMAGE]-Toys
 				;department, library, shop…
 
 
-trade		<-->	noun+B1    /treɪd/-NAmE /treɪd/
+trade		<-->	noun++B1	[221128][001]	./treɪd/-NAmE /treɪd/
 	;thương mại -- (Idioms)​  [uncountable] the activity of buying and selling or of exchanging goods or services between people or countries
 		;international/foreign/global/world trade
 		;trade in something the international trade in oil
@@ -4467,7 +4467,7 @@ trade		<-->	noun+B1    /treɪd/-NAmE /treɪd/
 				;in a/​the trade, trade between, trade in…
 
 
-transaction		<-->	noun+C1    /trænˈzækʃn/-NAmE /trænˈzækʃn/
+transaction		<-->	noun++C1	[221128][001]	./trænˈzækʃn/-NAmE /trænˈzækʃn/
 	;giao dịch -- [countable] transaction (between A and B) a piece of business that is done between people, especially an act of buying or selling
 		; ~ SYNONYM deal
 		;financial transactions between companies
@@ -4487,18 +4487,18 @@ transaction		<-->	noun+C1    /trænˈzækʃn/-NAmE /trænˈzækʃn/
 				;transaction between, transaction over
 
 
-travel agency		<-->	noun+B2    /ˈtrævl eɪdʒənsi/-NAmE /ˈtrævl eɪdʒənsi/
+travel agency		<-->	noun++B2	[221128][001]	./ˈtrævl eɪdʒənsi/-NAmE /ˈtrævl eɪdʒənsi/
 	;công ty du lịch -- ​a company that arranges travel and/or accommodation for people going on a holiday or journey
 		;You can book at your local travel agency.
 		;TOPICS ShoppingB2, HolidaysB2
 
 
-traveller’s cheque		<-->	noun+C1    /ˈtrævələz tʃek/-NAmE /ˈtrævələrz tʃek/
+traveller’s cheque		<-->	noun++C1	[221128][001]	./ˈtrævələz tʃek/-NAmE /ˈtrævələrz tʃek/
 	;cheque có thể đổi tiền -- (US English traveler’s check)​a cheque for a fixed amount, sold by a bank or travel agent, that can be exchanged for cash in foreign countries (more common in the past than now)
 		;TOPICS ShoppingC1, HolidaysC1, MoneyC1
 
 
-trolley		<-->	noun+B2    /ˈtrɒli/-NAmE /ˈtrɑːli/
+trolley		<-->	noun++B2	[221128][001]	./ˈtrɒli/-NAmE /ˈtrɑːli/
 	;xe đẩy hàng nhỏ -- (Idioms)​(British English)(North American English cart)a small vehicle with wheels that can be pushed or pulled along and is used for carrying things
 		;a shopping/supermarket/luggage trolley
 		;(Extra Examples)
@@ -4514,14 +4514,14 @@ trolley		<-->	noun+B2    /ˈtrɒli/-NAmE /ˈtrɑːli/
 				;on a/​the trolley
 
 
-try on		<-->	phrasal	verb+B2
+try on		<-->	phrasal	verb++B2
 	;mặc thử(quần áo) -- try something  on
 ​		;to put on a piece of clothing to see if it fits and how it looks
 		;Try the shoes on before you buy them.
 		;TOPICS ShoppingB2
 
 
-unhelpful		<-->	adjective+B1    /ʌnˈhelpfl/-NAmE /ʌnˈhelpfl/
+unhelpful		<-->	adjective++B1	[221128][001]	./ʌnˈhelpfl/-NAmE /ʌnˈhelpfl/
 	;không hữu dụng -- ​not helpful or useful; not willing to help somebody
 		;an unhelpful response
 		;The taxi driver was being very unhelpful.
@@ -4529,7 +4529,7 @@ unhelpful		<-->	adjective+B1    /ʌnˈhelpfl/-NAmE /ʌnˈhelpfl/
 		;
 
 
-value		<-->	noun+B1    /ˈvæljuː/-NAmE /ˈvæljuː/
+value		<-->	noun++B1	[221128][001]	./ˈvæljuː/-NAmE /ˈvæljuː/
 	;giá trị -- (Word Family) how much something is worth​  [uncountable, countable] how much something is worth in money or other goods for which it can be exchanged
 		;to go up/rise/increase in value
 		;to go down/fall/decline in value
@@ -4555,7 +4555,7 @@ value		<-->	noun+B1    /ˈvæljuː/-NAmE /ˈvæljuː/
 				;an increase in valuea rise in value, a drop in value…
 
 
-voucher		<-->	noun+C1    /ˈvaʊtʃə(r)/-NAmE /ˈvaʊtʃər/
+voucher		<-->	noun++C1	[221128][001]	./ˈvaʊtʃə(r)/-NAmE /ˈvaʊtʃər/
 	;phiếu mua hàng -- ​a printed piece of paper or an electronic code that can be used instead of money to pay for something, or that allows you to pay less than the usual price of something
 		;a voucher for a free meal
 		;The company issues travel vouchers to all managers.
@@ -4577,26 +4577,26 @@ voucher		<-->	noun+C1    /ˈvaʊtʃə(r)/-NAmE /ˈvaʊtʃər/
 				;voucher for
 
 
-wet market		<-->	noun+C2    /ˈwet mɑːkɪt/-NAmE /ˈwet mɑːrkɪt/
+wet market		<-->	noun++C2	[221128][001]	./ˈwet mɑːkɪt/-NAmE /ˈwet mɑːrkɪt/
 ​	;chợ thịt sống -- (in China and South-East Asia) a market selling fresh meat, fish, vegetables, etc.
 		;Traditional wet markets sell meat that is freshly slaughtered.
 		;
 
 
-white goods		<-->	noun+C2    /ˈwaɪt ɡʊdz/-NAmE /ˈwaɪt ɡʊdz/
+white goods		<-->	noun++C2	[221128][001]	./ˈwaɪt ɡʊdz/-NAmE /ˈwaɪt ɡʊdz/
 	;hàng máy móc, thiết bị gia dụng -- [plural]​large pieces of electrical equipment in the house, such as washing machines, etc.
 		;COMPARE brown goods
 		;TOPICS Houses and homesC2, ShoppingC2
 
 
-wholesale		<-->	adjective+C2    /ˈhəʊlseɪl/-NAmE /ˈhəʊlseɪl/
+wholesale		<-->	adjective++C2	[221128][001]	./ˈhəʊlseɪl/-NAmE /ˈhəʊlseɪl/
 	;bán hết, bán sỹ -- [only before noun]​connected with goods that are bought and sold in large quantities, especially so they can be sold again to make a profit
 		;wholesale prices
 		;COMPARE retail1
 		;
 
 
-window		<-->	noun+A1    /ˈwɪndəʊ/-NAmE /ˈwɪndəʊ/
+window		<-->	noun++A1	[221128][001]	./ˈwɪndəʊ/-NAmE /ˈwɪndəʊ/
 	;tấm kính trước dùng trong trưng hàng -- (also shop window)the glass at the front of a shop and the area behind it where goods are shown to the public
 		;in the window I saw the dress I wanted in the window.
 		;a window display
@@ -4604,7 +4604,7 @@ window		<-->	noun+A1    /ˈwɪndəʊ/-NAmE /ˈwɪndəʊ/
 		;TOPICS ShoppingA1
 
 
-window shopping		<-->	noun+C1    /ˈwɪndəʊ ʃɒpɪŋ/-NAmE /ˈwɪndəʊ ʃɑːpɪŋ/
+window shopping		<-->	noun++C1	[221128][001]	./ˈwɪndəʊ ʃɒpɪŋ/-NAmE /ˈwɪndəʊ ʃɑːpɪŋ/
 	;việc xem hàng -- [uncountable]​the activity of looking at the goods in shop windows, usually without intending to buy anything
 		;to go window shopping
 		;Collocations Shopping

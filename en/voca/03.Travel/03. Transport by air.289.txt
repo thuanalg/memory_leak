@@ -960,7 +960,7 @@ bump		<-->	verb+C2	[221120][001]	./bʌmp/-NAmE /bʌmp/\
 				;preposition
 				;againstintoon…
 		;See full entry
-	;chuyển nhóm -- (4) [transitive] bump somebody + adv./prep. to move somebody from one group or position to another; to remove somebody from a group
+	;chuyển nhóm -- (4) [transitive] bump somebody + adv./prep. to move somebody from one group or position to another; to remove somebody from a group [ap: bump]
 		;The airline apologized and bumped us up to first class.
 		;If you are bumped off an airline because of overbooking, you are entitled to compensation.
 		;The coach told him he had been bumped from the crew.
@@ -3378,12 +3378,12 @@ stabilizer		<-->	noun+C2	[221120][001]	./ˈsteɪbəlaɪzə(r)/-NAmE /ˈsteɪbəl
 
 
 
-stack		<-->	verb+C2	[221120][001]	./stæk/-NAmE /stæk/\
+stack		<-->	verb+C2	[221120][002]	./stæk/-NAmE /stæk/\
 	;xếp hàng, chất đống -- (1) ​[transitive, intransitive] to arrange objects neatly in a pile; to be arranged in this way
 		;stack (something) to stack boxes
 		;Do these chairs stack?
 		;stacking chairs
-		;stack something (up) (+ adv./prep.) logs stacked up against a wall
+		;stack something (up) (+ adv./prep.) logs stacked up against a wall [ap: stack]
 		;Extra Examples:
 		;Boxes were stacked in piles all around the room.
 		;Stack the chairs up over there.

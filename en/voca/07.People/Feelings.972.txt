@@ -12029,7 +12029,7 @@ thrill		<-->	verb+B2[-0]	.
 
 
 
-thrilled		<-->	adjective+C1[-0]	.
+thrilled		<-->	adjective+C1	[221128][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -12044,8 +12044,8 @@ thrilled		<-->	adjective+C1[-0]	.
 
 
 
-throw		<-->	verb+C2[-0]	.
-	;A2 -- (1) 
+throw		<-->	verb+C2	[221128][001]	./cef/
+
 
 
  
@@ -12842,7 +12842,7 @@ whacked		<-->	adjective+C2	[221021][001]	./wækt/-NAmE /wækt/ (also whacked out
 
 
 
-whip up		<-->	phrasal verb+C2[-0]	./p/
+whip up		<-->	phrasal verb+C2	[221128][001]	./p/
 	;thúc giục, cổ vũ -- (1) [-whip somebody/something  up] to deliberately try and make people excited or feel strongly about something
 		;SYNONYM rouse
 		;The advertisements were designed to whip up public opinion.
