@@ -528,18 +528,15 @@ pid_t get_read_pid()
 	int errx = -1;
 	do {
 		if(!p) break;
-		do {
 #ifdef USING_MUTEX
-			errx = pthread_mutex_lock(&(p->frame_mtx));
+		errx = pthread_mutex_lock(&(p->frame_mtx));
 #elif defined(USING_SEMAPHORE) 
-			errx = sem_wait(&(p->frame_sem));
+		errx = sem_wait(&(p->frame_sem));
 #elif defined(USING_RWLOCK) 
-			errx = pthread_rwlock_wrlock(&(p->frame_rwlock));
+		errx = pthread_rwlock_wrlock(&(p->frame_rwlock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
-		}
-		while(0);
 
 		if(!errx) {
 			readpid = p->read_pid;
