@@ -41,6 +41,9 @@ static int _X(init_rwlock)(pthread_rwlock_t *);
 void *read_body_thread(void *data);
 void *write_body_thread(void *data);
 
+static int ntt_lock();
+static int ntt_unlock();
+
 int ntt_unlink_shm()
 {
   int err = 0;
@@ -562,8 +565,26 @@ int set_read_pid(pid_t pid)
 	pid_t readpid = 0;
 	int errx = -1;
 	do {
-		if(!p) break;
-		do {
+		if(!p) 
+		{
+			break; 
+		}
+		errx = ntt_lock();
+		//check error
+		if(!errx) {
+			p->read_pid = pid;
+			errx = ntt_unlock();
+			//check error
+		}
+	} while (0);
+	return readpid;
+}
+
+
+static int ntt_lock() {
+	int errx = 0;
+	LIST_SHARED_DATA *p = 0;
+	p = (LIST_SHARED_DATA *) ntt_data_shm;
 #ifdef USING_MUTEX
 			errx = pthread_mutex_lock(&(p->frame_mtx));
 #elif defined(USING_SEMAPHORE) 
@@ -573,12 +594,14 @@ int set_read_pid(pid_t pid)
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
-		}
-		while(0);
+	return errx;
+}
 
-		if(!errx) {
-			p->read_pid = pid;
-
+static int ntt_unlock()
+{
+	int errx = 0;
+	LIST_SHARED_DATA *p = 0;
+	p = (LIST_SHARED_DATA *) ntt_data_shm;
 #ifdef USING_MUTEX
 			errx = pthread_mutex_unlock(&(p->frame_mtx));
 #elif defined(USING_SEMAPHORE) 
@@ -588,9 +611,7 @@ int set_read_pid(pid_t pid)
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
-		}
-	} while (0);
-	return readpid;
+	return errx;
 }
 
 void *ntt_data_shm = 0;
