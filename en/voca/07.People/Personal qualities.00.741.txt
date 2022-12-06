@@ -1,4 +1,4 @@
-able		<-->	adjective+C1[-0]	.
+able		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -13,7 +13,7 @@ able		<-->	adjective+C1[-0]	.
 
 
 
-above yourself		<-->	idiom+C2[-0]	.
+above yourself		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -28,7 +28,7 @@ above yourself		<-->	idiom+C2[-0]	.
 
 
 
-abrasive		<-->	adjective+C2[-0]	.
+abrasive		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -43,7 +43,7 @@ abrasive		<-->	adjective+C2[-0]	.
 
 
 
-abrupt		<-->	adjective+C2	[221128][001]	./əˈbrʌpt/-NAmE /əˈbrʌpt/
+abrupt		<-->	adjective++C2	[221128][001]	./əˈbrʌpt/-NAmE /əˈbrʌpt/
 	;đột ngột -- (1) sudden and unexpected, often in an unpleasant way
 		;an abrupt change/halt/departure
 		;The accident brought his career to an abrupt end.
@@ -66,7 +66,7 @@ abrupt		<-->	adjective+C2	[221128][001]	./əˈbrʌpt/-NAmE /əˈbrʌpt/
 
 
 
-abusive		<-->	adjective+C2	[221128][001]	./əˈbjuːsɪv/-NAmE /əˈbjuːsɪv/
+abusive		<-->	adjective++C2	[221128][001]	./əˈbjuːsɪv/-NAmE /əˈbjuːsɪv/
 	;thô lỗ, mắng nhiếc -- (1) (of speech or of a person) rude and offensive; criticizing rudely and unfairly
 		;abusive language/remarks
 		;He became abusive when he was drunk.
@@ -90,7 +90,7 @@ abusive		<-->	adjective+C2	[221128][001]	./əˈbjuːsɪv/-NAmE /əˈbjuːsɪv/
 
 
 
-academic		<-->	adjective+B1[-0]	.
+academic		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -105,7 +105,7 @@ academic		<-->	adjective+B1[-0]	.
 
 
 
-accommodating		<-->	adjective+C2	[221128][001]	./əˈkɒmədeɪtɪŋ/-NAmE /əˈkɑːmədeɪtɪŋ/ (formal)
+accommodating		<-->	adjective++C2	[221128][001]	./əˈkɒmədeɪtɪŋ/-NAmE /əˈkɑːmədeɪtɪŋ/ (formal)
 	;sốt sắng -- (1) willing to help and do things for other people
 		;SYNONYM obliging
 		;David was gentle, generous and accommodating.
@@ -122,7 +122,7 @@ accommodating		<-->	adjective+C2	[221128][001]	./əˈkɒmədeɪtɪŋ/-NAmE /əˈ
 
 
 
-accomplished		<-->	adjective+C1[-0]	.
+accomplished		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -137,7 +137,7 @@ accomplished		<-->	adjective+C1[-0]	.
 
 
 
-acid		<-->	adjective+C2	[221128][001]	.cef/
+acid		<-->	adjective++C2	[221128][001]	.cef/
 
 
 
@@ -149,7 +149,7 @@ acid		<-->	adjective+C2	[221128][001]	.cef/
 
 
 
-active		<-->	adjective+C1[-0]	.
+active		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -164,7 +164,7 @@ active		<-->	adjective+C1[-0]	.
 
 
 
-adept		<-->	adjective+C2	[221128][001]	.əˈdept/-NAmE /əˈdept/
+adept		<-->	adjective++C2	[221128][001]	.əˈdept/-NAmE /əˈdept/
 	;rất khéo, tinh tế -- (1) adept (at/in something) | adept (at/in doing something) good at doing something that is quite difficult
 		;SYNONYM skilful
 		;<< skilful, adroit, adept, >>
@@ -193,7 +193,7 @@ adept		<-->	adjective+C2	[221128][001]	.əˈdept/-NAmE /əˈdept/
 
 
 
-adroit		<-->	adjective+C2	[221128][001]	.əˈdrɔɪt/-NAmE /əˈdrɔɪt/ (formal)
+adroit		<-->	adjective++C2	[221128][001]	.əˈdrɔɪt/-NAmE /əˈdrɔɪt/ (formal)
 	;rất khéo, tinh tế -- (1) clever and showing skill
 		;SYNONYM skilful
 		;an adroit negotiator
@@ -209,7 +209,7 @@ adroit		<-->	adjective+C2	[221128][001]	.əˈdrɔɪt/-NAmE /əˈdrɔɪt/ (formal
 
 
 
-affability		<-->	noun+C2	[221128][001]	.ˌæfəˈbɪləti/-NAmE /ˌæfəˈbɪləti/ [uncountable]
+affability		<-->	noun++C2	[221128][001]	.ˌæfəˈbɪləti/-NAmE /ˌæfəˈbɪləti/ [uncountable]
 	;tính thân thiện -- (1) the quality of being pleasant, friendly and easy to talk to
 		;SYNONYM geniality
 		;TOPICS Personal qualitiesC2
@@ -223,7 +223,7 @@ affability		<-->	noun+C2	[221128][001]	.ˌæfəˈbɪləti/-NAmE /ˌæfəˈbɪlə
 
 
 
-affable		<-->	adjective+C2	[221128][001]	.ˈæfəbl/-NAmE /ˈæfəbl/
+affable		<-->	adjective++C2	[221128][001]	.ˈæfəbl/-NAmE /ˈæfəbl/
 	;dễ gần, thân thiện -- (1) pleasant, friendly and easy to talk to
 		;SYNONYM genial
 		;He greeted everyone in the same relaxed and affable manner.
@@ -239,7 +239,7 @@ affable		<-->	adjective+C2	[221128][001]	.ˈæfəbl/-NAmE /ˈæfəbl/
 
 
 
-affection		<-->	noun+C1[-0]	.
+affection		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -254,7 +254,7 @@ affection		<-->	noun+C1[-0]	.
 
 
 
-affectionate		<-->	adjective+C1[-0]	.
+affectionate		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -269,7 +269,7 @@ affectionate		<-->	adjective+C1[-0]	.
 
 
 
-agile		<-->	adjective+C2	[221128][001]	.ˈædʒaɪl/-NAmE /ˈædʒl/
+agile		<-->	adjective++C2	[221128][001]	.ˈædʒaɪl/-NAmE /ˈædʒl/
 	;linh hoạt -- (1) able to move quickly and easily
 		;SYNONYM nimble
 		;a strong and agile athlete
@@ -293,7 +293,7 @@ agile		<-->	adjective+C2	[221128][001]	.ˈædʒaɪl/-NAmE /ˈædʒl/
 
 
 
-a live wire		<-->	idiom+C2	[221128][001]	.i/
+a live wire		<-->	idiom++C2	[221128][001]	.i/
 	;người năng động -- (1) a person who is lively and full of energy
 		;TOPICS Personal qualitiesC2
 
@@ -307,7 +307,7 @@ a live wire		<-->	idiom+C2	[221128][001]	.i/
 
 
 
-aloof		<-->	adjective+C2	[221128][001]	.əˈluːf/-NAmE /əˈluːf/ [not usually before noun]
+aloof		<-->	adjective++C2	[221128][001]	.əˈluːf/-NAmE /əˈluːf/ [not usually before noun]
 	;khó gần -- (1) not friendly or interested in other people
 		;SYNONYM distant, remote
 		;He was a cold man, aloof and distant.
@@ -333,7 +333,7 @@ aloof		<-->	adjective+C2	[221128][001]	.əˈluːf/-NAmE /əˈluːf/ [not usually
 
 
 
-ambitious		<-->	adjective+B1[-0]	.
+ambitious		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -348,7 +348,7 @@ ambitious		<-->	adjective+B1[-0]	.
 
 
 
-amiable		<-->	adjective+C2	[221128][001]	./ˈeɪmiəbl/-NAmE /ˈeɪmiəbl/
+amiable		<-->	adjective++C2	[221128][001]	./ˈeɪmiəbl/-NAmE /ˈeɪmiəbl/
 	;hoà nhã, thân thiện -- (1) pleasant; friendly and easy to like
 		;SYNONYM agreeable
 		;an amiable tone of voice
@@ -375,7 +375,7 @@ amiable		<-->	adjective+C2	[221128][001]	./ˈeɪmiəbl/-NAmE /ˈeɪmiəbl/
 
 
 
-amicable		<-->	adjective+C2	[221128][001]	.ˈæmɪkəbl/-NAmE /ˈæmɪkəbl/
+amicable		<-->	adjective++C2	[221128][001]	.ˈæmɪkəbl/-NAmE /ˈæmɪkəbl/
 	;thân thiện -- (1) done or achieved in a polite or friendly way and without arguing
 		;an amicable relationship
 		;An amicable settlement was reached.
@@ -398,7 +398,7 @@ amicable		<-->	adjective+C2	[221128][001]	.ˈæmɪkəbl/-NAmE /ˈæmɪkəbl/
 
 
 
-amoral		<-->	adjective+C2	[221128][001]	.ˌeɪˈmɒrəl/-NAmE /ˌeɪˈmɔːrəl/
+amoral		<-->	adjective++C2	[221128][001]	.ˌeɪˈmɒrəl/-NAmE /ˌeɪˈmɔːrəl/
 	;vô đạo -- (1) not following any moral rules and not caring about right and wrong
 		;Guy was greedy, amoral and dishonest.
 		;COMPARE immoral, moral
@@ -413,7 +413,7 @@ amoral		<-->	adjective+C2	[221128][001]	.ˌeɪˈmɒrəl/-NAmE /ˌeɪˈmɔːrəl/
 
 
 
-angel		<-->	noun+C1[-0]	.
+angel		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -428,7 +428,7 @@ angel		<-->	noun+C1[-0]	.
 
 
 
-angelic		<-->	adjective+C2	[221128][001]	.ænˈdʒelɪk/-NAmE /ænˈdʒelɪk/
+angelic		<-->	adjective++C2	[221128][001]	.ænˈdʒelɪk/-NAmE /ænˈdʒelɪk/
 	;quá tốt -- (1) good, kind or beautiful; like an angel
 		;an angelic smile
 		;TOPICS Personal qualitiesC2, AppearanceC2
@@ -447,7 +447,7 @@ angelic		<-->	adjective+C2	[221128][001]	.ænˈdʒelɪk/-NAmE /ænˈdʒelɪk/
 
 
 
-animated		<-->	adjective+C2	[221128][001]	.ˈænɪmeɪtɪd/-NAmE /ˈænɪmeɪtɪd/
+animated		<-->	adjective++C2	[221128][001]	.ˈænɪmeɪtɪd/-NAmE /ˈænɪmeɪtɪd/
 	;năng động -- (1) full of interest and energy
 		;SYNONYM lively
 		;<< lively, animated, >>
@@ -469,7 +469,7 @@ animated		<-->	adjective+C2	[221128][001]	.ˈænɪmeɪtɪd/-NAmE /ˈænɪmeɪtɪ
 
 
 
-annoying		<-->	adjective+B1[-0]	.
+annoying		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -484,7 +484,7 @@ annoying		<-->	adjective+B1[-0]	.
 
 
 
-approachable		<-->	adjective+C2	[221128][001]	.əˈprəʊtʃəbl/-NAmE /əˈprəʊtʃəbl/
+approachable		<-->	adjective++C2	[221128][001]	.əˈprəʊtʃəbl/-NAmE /əˈprəʊtʃəbl/
 	;dễ gần -- (1) friendly and easy to talk to; easy to understand
 		;Despite being a big star, she's very approachable.
 		;an approachable piece of music
@@ -503,7 +503,7 @@ approachable		<-->	adjective+C2	[221128][001]	.əˈprəʊtʃəbl/-NAmE /əˈprə
 
 
 
-argumentative		<-->	adjective+C1[-0]	.
+argumentative		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -518,7 +518,7 @@ argumentative		<-->	adjective+C1[-0]	.
 
 
 
-arrogance		<-->	noun+C2	[221128][001]	.ˈærəɡəns/-NAmE /ˈærəɡəns/ [uncountable]
+arrogance		<-->	noun++C2	[221128][001]	.ˈærəɡəns/-NAmE /ˈærəɡəns/ [uncountable]
 	;sự kiêu căng -- (1) the behaviour of a person when they feel that they are more important than other people, so that they are rude to them or do not consider them
 		;He has a reputation for rudeness and intellectual arrogance.
 		;Extra Examples:
@@ -542,7 +542,7 @@ arrogance		<-->	noun+C2	[221128][001]	.ˈærəɡəns/-NAmE /ˈærəɡəns/ [unco
 
 
 
-arrogant		<-->	adjective+B2[-0]	.
+arrogant		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -557,8 +557,7 @@ arrogant		<-->	adjective+B2[-0]	.
 
 
 
-artful		<-->	adjective+C2	[221128][001]	./ˈɑːtfl/
- /ˈɑːrtfl/ [usually before noun]
+artful		<-->	adjective++C2	[221128][001]	./ˈɑːtfl/-NAmE /ˈɑːrtfl/ [usually before noun]
 	;nghệ thuật -- (1) (disapproving) clever at getting what you want, sometimes by not telling the truth
 		;SYNONYM crafty
 		;He was artful and cunning, and I didn’t really trust him.
@@ -576,7 +575,7 @@ artful		<-->	adjective+C2	[221128][001]	./ˈɑːtfl/
 
 
 
-articulate		<-->	adjective+C1[-0]	.
+articulate		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -591,7 +590,7 @@ articulate		<-->	adjective+C1[-0]	.
 
 
 
-artistic		<-->	adjective+B2[-0]	.
+artistic		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -606,7 +605,7 @@ artistic		<-->	adjective+B2[-0]	.
 
 
 
-artless		<-->	adjective+C2	[221128][001]	./ˈɑːtləs/-NAmE /ˈɑːrtləs/ (formal)
+artless		<-->	adjective++C2	[221128][001]	./ˈɑːtləs/-NAmE /ˈɑːrtləs/ (formal)
 	;chất phát -- (1) simple, natural and honest
 		;the artless sincerity of a young child
 		;TOPICS Personal qualitiesC2
@@ -621,7 +620,7 @@ artless		<-->	adjective+C2	[221128][001]	./ˈɑːtləs/-NAmE /ˈɑːrtləs/ (for
 
 
 
-assertive		<-->	adjective+C1[-0]	.
+assertive		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -636,7 +635,7 @@ assertive		<-->	adjective+C1[-0]	.
 
 
 
-assiduous		<-->	adjective+C2	[221128][001]	./əˈsɪdʒuəs/-NAmE /əˈsɪdʒuəs/ (formal)
+assiduous		<-->	adjective++C2	[221128][001]	./əˈsɪdʒuəs/-NAmE /əˈsɪdʒuəs/ (formal)
 	;chăm chỉ, chuyên cần -- (1) working very hard and taking great care that everything is done as well as it can be
 		;SYNONYM diligent
 		;one of the most assiduous members of the team
@@ -654,7 +653,7 @@ assiduous		<-->	adjective+C2	[221128][001]	./əˈsɪdʒuəs/-NAmE /əˈsɪdʒuə
 
 
 
-assured		<-->	adjective+C2	[221128][001]	./əˈʃʊəd/,  /əˈʃɔːd/-NAmE /əˈʃʊrd/
+assured		<-->	adjective++C2	[221128][001]	./əˈʃʊəd/,  /əˈʃɔːd/-NAmE /əˈʃʊrd/
 	;chắc chắn -- (1) ​(also self-assured) confident in yourself and your abilities
 		;He spoke in a calm, assured voice.
 		;TOPICS Personal qualitiesC2
@@ -692,7 +691,7 @@ assured		<-->	adjective+C2	[221128][001]	./əˈʃʊəd/,  /əˈʃɔːd/-NAmE /ə
 
 
 
-astute		<-->	adjective+C2	[221128][001]	./əˈstjuːt/-NAmE /əˈstuːt/
+astute		<-->	adjective++C2	[221128][001]	./əˈstjuːt/-NAmE /əˈstuːt/
 	;nhanh nhẹn, linh hoạt, sắc xảo, tinh nhuệ -- (1) very clever and quick at seeing what to do in a particular situation, especially how to get an advantage
 		;SYNONYM shrewd
 		;<< shrewd, astute, >>
@@ -720,7 +719,7 @@ astute		<-->	adjective+C2	[221128][001]	./əˈstjuːt/-NAmE /əˈstuːt/
 
 
 
-attentive		<-->	adjective+C1[-0]	.
+attentive		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -735,7 +734,7 @@ attentive		<-->	adjective+C1[-0]	.
 
 
 
-attitude		<-->	noun+C1[-0]	.
+attitude		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -750,7 +749,7 @@ attitude		<-->	noun+C1[-0]	.
 
 
 
-at (your) ease		<-->	idiom+C2	[221128][001]	./i/
+at (your) ease		<-->	idiom++C2	[221128][001]	./i/
 	;hãy thư giản -- (1) relaxed and confident and not nervous or embarrassed
 		;I never feel completely at ease with him.
 		;She was at her ease straight away in the new job.
@@ -765,7 +764,7 @@ at (your) ease		<-->	idiom+C2	[221128][001]	./i/
 
 
 
-audacious		<-->	adjective+C2	[221128][001]	./ɔːˈdeɪʃəs/-NAmE /ɔːˈdeɪʃəs/ (formal)
+audacious		<-->	adjective++C2	[221128][001]	./ɔːˈdeɪʃəs/-NAmE /ɔːˈdeɪʃəs/ (formal)
 	;táo bạo -- (1) willing to take risks or to do something that shocks people
 		;SYNONYM daring
 		;an audacious decision
@@ -785,7 +784,7 @@ audacious		<-->	adjective+C2	[221128][001]	./ɔːˈdeɪʃəs/-NAmE /ɔːˈdeɪʃ
 
 
 
-audacity		<-->	noun+C2	[221128][001]	./ɔːˈdæsəti/-NAmE /ɔːˈdæsəti/ [uncountable]
+audacity		<-->	noun++C2	[221128][001]	./ɔːˈdæsəti/-NAmE /ɔːˈdæsəti/ [uncountable]
 	;cư xử táo bạo -- (1) ​behaviour that is brave but likely to shock or offend people
 		;SYNONYM nerve
 		;He had the audacity to say I was too fat.
@@ -802,7 +801,7 @@ audacity		<-->	noun+C2	[221128][001]	./ɔːˈdæsəti/-NAmE /ɔːˈdæsəti/ [un
 
 
 
-authenticity		<-->	noun+C1[-0]	.
+authenticity		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -817,7 +816,7 @@ authenticity		<-->	noun+C1[-0]	.
 
 
 
-autocrat		<-->	noun+C2	[221128][001]	./ˈɔːtəkræt/-NAmE /ˈɔːtəkræt/
+autocrat		<-->	noun++C2	[221128][001]	./ˈɔːtəkræt/-NAmE /ˈɔːtəkræt/
 	;lãnh đạo chuyên quyền, độc đoán -- (1) a leader who has complete power
 		;SYNONYM despot
 		;<< despot, autocrat, >>
@@ -836,8 +835,7 @@ autocrat		<-->	noun+C2	[221128][001]	./ˈɔːtəkræt/-NAmE /ˈɔːtəkræt/
 
 
 
-autocratic		<-->	adjective+C2	[221128][001]	./ˌɔːtəˈkrætɪk/
- /ˌɔːtəˈkrætɪk/
+autocratic		<-->	adjective++C2	[221128][001]	./ˌɔːtəˈkrætɪk/-NAmE /ˌɔːtəˈkrætɪk/
 	;chuyên quyền, chuyên chế -- (1) having complete power; involving rule by somebody who has complete power
 		;SYNONYM despotic
 		;an autocratic leader
@@ -855,8 +853,7 @@ autocratic		<-->	adjective+C2	[221128][001]	./ˌɔːtəˈkrætɪk/
 
 
 
-autonomous		<-->	adjective+C2	[221128][001]	./ɔːˈtɒnəməs/
- /ɔːˈtɑːnəməs/
+autonomous		<-->	adjective++C2	[221128][001]	./ɔːˈtɒnəməs/-NAmE /ɔːˈtɑːnəməs/
 	;tự chủ, độc lập -- (1) ​(of a country, a region or an organization) able to govern itself or control its own affairs
 		;SYNONYM independent
 		;an autonomous republic/state/province
@@ -896,7 +893,7 @@ autonomous		<-->	adjective+C2	[221128][001]	./ɔːˈtɒnəməs/
 
 
 
-backbiting		<-->	noun+C2[-0]	.
+backbiting		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -911,7 +908,7 @@ backbiting		<-->	noun+C2[-0]	.
 
 
 
-backsliding		<-->	noun+C2[-0]	.
+backsliding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -926,7 +923,7 @@ backsliding		<-->	noun+C2[-0]	.
 
 
 
-bad		<-->	adjective+A1[-0]	.
+bad		<-->	adjective++A1	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -941,7 +938,7 @@ bad		<-->	adjective+A1[-0]	.
 
 
 
-badness		<-->	noun+B2[-0]	.
+badness		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -956,7 +953,7 @@ badness		<-->	noun+B2[-0]	.
 
 
 
-bad-tempered		<-->	adjective+C1[-0]	.
+bad-tempered		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -971,7 +968,7 @@ bad-tempered		<-->	adjective+C1[-0]	.
 
 
 
-balls		<-->	noun+C2[-0]	.
+balls		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -986,7 +983,7 @@ balls		<-->	noun+C2[-0]	.
 
 
 
-ballsy		<-->	adjective+C2[-0]	.
+ballsy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1001,7 +998,7 @@ ballsy		<-->	adjective+C2[-0]	.
 
 
 
-base		<-->	adjective+C2[-0]	.
+base		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1016,7 +1013,7 @@ base		<-->	adjective+C2[-0]	.
 
 
 
-be/get too big for your boots		<-->	idiom+C2[-0]	.
+be/get too big for your boots		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1031,7 +1028,7 @@ be/get too big for your boots		<-->	idiom+C2[-0]	.
 
 
 
-belligerent		<-->	adjective+C2[-0]	.
+belligerent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1046,7 +1043,7 @@ belligerent		<-->	adjective+C2[-0]	.
 
 
 
-benevolent		<-->	adjective+C2[-0]	.
+benevolent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1061,7 +1058,7 @@ benevolent		<-->	adjective+C2[-0]	.
 
 
 
-benign		<-->	adjective+C2[-0]	.
+benign		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1076,7 +1073,7 @@ benign		<-->	adjective+C2[-0]	.
 
 
 
-(be) on the ball		<-->	idiom+C2[-0]	.
+(be) on the ball		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1091,7 +1088,7 @@ benign		<-->	adjective+C2[-0]	.
 
 
 
-be puffed up with pride, etc.		<-->	idiom+C2[-0]	.
+be puffed up with pride, etc.		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1106,7 +1103,7 @@ be puffed up with pride, etc.		<-->	idiom+C2[-0]	.
 
 
 
-be the limit		<-->	idiom+C2[-0]	.
+be the limit		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1121,7 +1118,7 @@ be the limit		<-->	idiom+C2[-0]	.
 
 
 
-big-head		<-->	noun+C2[-0]	.
+big-head		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1136,7 +1133,7 @@ big-head		<-->	noun+C2[-0]	.
 
 
 
-big-headed		<-->	adjective+C2[-0]	.
+big-headed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1151,7 +1148,7 @@ big-headed		<-->	adjective+C2[-0]	.
 
 
 
-big-hearted		<-->	adjective+C1[-0]	.
+big-hearted		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1166,7 +1163,7 @@ big-hearted		<-->	adjective+C1[-0]	.
 
 
 
-bigot		<-->	noun+C2[-0]	.
+bigot		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1181,7 +1178,7 @@ bigot		<-->	noun+C2[-0]	.
 
 
 
-bigoted		<-->	adjective+C2[-0]	.
+bigoted		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1196,7 +1193,7 @@ bigoted		<-->	adjective+C2[-0]	.
 
 
 
-bitchy		<-->	adjective+C2[-0]	.
+bitchy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1211,7 +1208,7 @@ bitchy		<-->	adjective+C2[-0]	.
 
 
 
-blabber		<-->	verb+C2[-0]	.
+blabber		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1226,7 +1223,7 @@ blabber		<-->	verb+C2[-0]	.
 
 
 
-bleeding heart		<-->	noun+C2[-0]	.
+bleeding heart		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1241,7 +1238,7 @@ bleeding heart		<-->	noun+C2[-0]	.
 
 
 
-blimp		<-->	noun+C2[-0]	.
+blimp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1256,7 +1253,7 @@ blimp		<-->	noun+C2[-0]	.
 
 
 
-blimpish		<-->	adjective+C2[-0]	.
+blimpish		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1271,7 +1268,7 @@ blimpish		<-->	adjective+C2[-0]	.
 
 
 
-bluff		<-->	verb+C2	[221127][001]	./blʌf/-NAmE /blʌf/ [intransitive, transitive]
+bluff		<-->	verb++C2	[221127][001]	./blʌf/-NAmE /blʌf/ [intransitive, transitive]
 	;lừa -- (1) bluff (something) to try to make somebody believe that you will do something that you do not really intend to do, or that you know something that you do not really know
 		;I don't think he'll shoot—I think he's just bluffing.
 		;TOPICS Personal qualitiesC2
@@ -1290,7 +1287,7 @@ bluff		<-->	verb+C2	[221127][001]	./blʌf/-NAmE /blʌf/ [intransitive, transitiv
 
 
 
-bluster		<-->	verb+C2	[221127][001]	./ˈblʌstə(r)/-NAmE /ˈblʌstər/\
+bluster		<-->	verb++C2	[221127][001]	./ˈblʌstə(r)/-NAmE /ˈblʌstər/\
 	;đỏ mặt -- (1) [transitive, intransitive] bluster (something) | + speech to talk in an aggressive or threatening way, but with little effect
 		;‘I don't know what you're talking about,’ he blustered.
 		;a blustering bully
@@ -1307,7 +1304,7 @@ bluster		<-->	verb+C2	[221127][001]	./ˈblʌstə(r)/-NAmE /ˈblʌstər/\
 
 
 
-boast		<-->	verb+C1	[221127][001]	./cef/
+boast		<-->	verb++C1	[221127][001]	./cef/
 
 
 
@@ -1319,7 +1316,7 @@ boast		<-->	verb+C1	[221127][001]	./cef/
 
 
 
-boastful		<-->	adjective+C2[-0]	.
+boastful		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1334,7 +1331,7 @@ boastful		<-->	adjective+C2[-0]	.
 
 
 
-bogus		<-->	adjective+C2[-0]	.
+bogus		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1349,7 +1346,7 @@ bogus		<-->	adjective+C2[-0]	.
 
 
 
-boisterous		<-->	adjective+C2[-0]	.
+boisterous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1364,7 +1361,7 @@ boisterous		<-->	adjective+C2[-0]	.
 
 
 
-bold		<-->	adjective+B2[-0]	.
+bold		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1379,7 +1376,7 @@ bold		<-->	adjective+B2[-0]	.
 
 
 
-bone idle		<-->	adjective+C2[-0]	.
+bone idle		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1394,7 +1391,7 @@ bone idle		<-->	adjective+C2[-0]	.
 
 
 
-boss		<-->	verb+C1	[221127][001]	./bɒs/-NAmE /bɔːs/
+boss		<-->	verb++C1	[221127][001]	./bɒs/-NAmE /bɔːs/
 	;làm chủ -- (1) boss somebody (about/around) to tell somebody what to do in an aggressive and/or annoying way
 		;I'm sick of you bossing me around!
 		;TOPICS Personal qualitiesC1
@@ -1409,7 +1406,7 @@ boss		<-->	verb+C1	[221127][001]	./bɒs/-NAmE /bɔːs/
 
 
 
-bottle		<-->	noun+C2[-0]	.
+bottle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1424,7 +1421,7 @@ bottle		<-->	noun+C2[-0]	.
 
 
 
-bounce		<-->	verb+C2	[221127][001]	./cef/
+bounce		<-->	verb++C2	[221127][001]	./cef/
 
 
 
@@ -1435,7 +1432,7 @@ bounce		<-->	verb+C2	[221127][001]	./cef/
 
 
 
-bouncing		<-->	adjective+C2[-0]	.
+bouncing		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1450,7 +1447,7 @@ bouncing		<-->	adjective+C2[-0]	.
 
 
 
-bouncy		<-->	adjective+C2[-0]	.
+bouncy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1465,7 +1462,7 @@ bouncy		<-->	adjective+C2[-0]	.
 
 
 
-boy wonder		<-->	noun+C2[-0]	.
+boy wonder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1480,7 +1477,7 @@ boy wonder		<-->	noun+C2[-0]	.
 
 
 
-brag		<-->	verb+C1	[221127][001]	./bræɡ/-NAmE /bræɡ/\ [intransitive, transitive] (disapproving)
+brag		<-->	verb++C1	[221127][001]	./bræɡ/-NAmE /bræɡ/\ [intransitive, transitive] (disapproving)
 	; -- (1) brag (to somebody) (about/of something) | brag that… | + speech to talk too proudly about something you own or something you have done
 		;SYNONYM boast
 		;<< boast, brag, swank, >>
@@ -1498,7 +1495,7 @@ brag		<-->	verb+C1	[221127][001]	./bræɡ/-NAmE /bræɡ/\ [intransitive, transit
 
 
 
-braggart		<-->	noun+C2[-0]	.
+braggart		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1513,7 +1510,7 @@ braggart		<-->	noun+C2[-0]	.
 
 
 
-brainbox		<-->	noun+C2[-0]	.
+brainbox		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1528,7 +1525,7 @@ brainbox		<-->	noun+C2[-0]	.
 
 
 
-brainy		<-->	adjective+C1[-0]	.
+brainy		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1543,7 +1540,7 @@ brainy		<-->	adjective+C1[-0]	.
 
 
 
-brash		<-->	adjective+C2[-0]	.
+brash		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1558,7 +1555,7 @@ brash		<-->	adjective+C2[-0]	.
 
 
 
-brave		<-->	adjective+B1[-0]	.
+brave		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1573,7 +1570,7 @@ brave		<-->	adjective+B1[-0]	.
 
 
 
-breeze		<-->	verb+C2	[221127][001]	./briːz/-NAmE /briːz/\ [intransitive] (informal)
+breeze		<-->	verb++C2	[221127][001]	./briːz/-NAmE /briːz/\ [intransitive] (informal)
 	;ghé vào -- (1) + adv./prep. to move in a cheerful and confident way in a particular direction
 		;She just breezed in and asked me to help.
 		;TOPICS Personal qualitiesC2
@@ -1587,7 +1584,7 @@ breeze		<-->	verb+C2	[221127][001]	./briːz/-NAmE /briːz/\ [intransitive] (info
 
 
 
-bright		<-->	adjective+B2[-0]	.
+bright		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1602,7 +1599,17 @@ bright		<-->	adjective+B2[-0]	.
 
 
 
-brilliant		<-->	adjective+A2[-0]	.
+brilliant		<-->	adjective++A2	[221204][001]	./cef/
+
+
+
+
+
+
+
+
+
+brisk		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1617,7 +1624,7 @@ brilliant		<-->	adjective+A2[-0]	.
 
 
 
-brisk		<-->	adjective+C2[-0]	.
+broad-minded		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1632,7 +1639,7 @@ brisk		<-->	adjective+C2[-0]	.
 
 
 
-broad-minded		<-->	adjective+C1[-0]	.
+brute		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1647,7 +1654,7 @@ broad-minded		<-->	adjective+C1[-0]	.
 
 
 
-brute		<-->	noun+C2[-0]	.
+brutish		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1662,7 +1669,7 @@ brute		<-->	noun+C2[-0]	.
 
 
 
-brutish		<-->	adjective+C2[-0]	.
+bubbly		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1677,7 +1684,7 @@ brutish		<-->	adjective+C2[-0]	.
 
 
 
-bubbly		<-->	adjective+C2[-0]	.
+bullheaded		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1692,7 +1699,7 @@ bubbly		<-->	adjective+C2[-0]	.
 
 
 
-bullheaded		<-->	adjective+C2[-0]	.
+bullish		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1707,7 +1714,7 @@ bullheaded		<-->	adjective+C2[-0]	.
 
 
 
-bullish		<-->	adjective+C2[-0]	.
+bum		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1722,7 +1729,7 @@ bullish		<-->	adjective+C2[-0]	.
 
 
 
-bum		<-->	noun+C2[-0]	.
+busybody		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1737,7 +1744,7 @@ bum		<-->	noun+C2[-0]	.
 
 
 
-busybody		<-->	noun+C2[-0]	.
+calm		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1752,7 +1759,7 @@ busybody		<-->	noun+C2[-0]	.
 
 
 
-calm		<-->	adjective+B1[-0]	.
+canny		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1767,7 +1774,7 @@ calm		<-->	adjective+B1[-0]	.
 
 
 
-canny		<-->	adjective+C2[-0]	.
+careful		<-->	adjective++A2	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1782,7 +1789,7 @@ canny		<-->	adjective+C2[-0]	.
 
 
 
-careful		<-->	adjective+A2[-0]	.
+caring		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1797,7 +1804,7 @@ careful		<-->	adjective+A2[-0]	.
 
 
 
-caring		<-->	adjective+B2[-0]	.
+catty		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1812,7 +1819,7 @@ caring		<-->	adjective+B2[-0]	.
 
 
 
-catty		<-->	adjective+C2[-0]	.
+caution		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1827,7 +1834,7 @@ catty		<-->	adjective+C2[-0]	.
 
 
 
-caution		<-->	noun+C1[-0]	.
+cautious		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1842,7 +1849,7 @@ caution		<-->	noun+C1[-0]	.
 
 
 
-cautious		<-->	adjective+C1[-0]	.
+character		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1857,7 +1864,7 @@ cautious		<-->	adjective+C1[-0]	.
 
 
 
-character		<-->	noun+B1[-0]	.
+charitable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1872,7 +1879,7 @@ character		<-->	noun+B1[-0]	.
 
 
 
-charitable		<-->	adjective+C1[-0]	.
+chatty		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1887,7 +1894,7 @@ charitable		<-->	adjective+C1[-0]	.
 
 
 
-chatty		<-->	adjective+C1[-0]	.
+cheap		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1902,7 +1909,7 @@ chatty		<-->	adjective+C1[-0]	.
 
 
 
-cheap		<-->	adjective+C2[-0]	.
+cheat		<-->	verb++B1	[221127][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1917,7 +1924,7 @@ cheap		<-->	adjective+C2[-0]	.
 
 
 
-cheat		<-->	verb+B1	[221127][001]	./cef/
+cheek		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1932,7 +1939,7 @@ cheat		<-->	verb+B1	[221127][001]	./cef/
 
 
 
-cheek		<-->	noun+C1[-0]	.
+cheeky		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1947,7 +1954,7 @@ cheek		<-->	noun+C1[-0]	.
 
 
 
-cheeky		<-->	adjective+C1[-0]	.
+chicken		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1962,7 +1969,7 @@ cheeky		<-->	adjective+C1[-0]	.
 
 
 
-chicken		<-->	adjective+C2[-0]	.
+chicken out		<-->	phrasal veerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1977,7 +1984,7 @@ chicken		<-->	adjective+C2[-0]	.
 
 
 
-chicken out		<-->	phrasal veerb+C2[-0]	.
+chirpy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1992,7 +1999,7 @@ chicken out		<-->	phrasal veerb+C2[-0]	.
 
 
 
-chirpy		<-->	adjective+C2[-0]	.
+chivalrous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2007,7 +2014,7 @@ chirpy		<-->	adjective+C2[-0]	.
 
 
 
-chivalrous		<-->	adjective+C2[-0]	.
+chivalry		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2022,7 +2029,7 @@ chivalrous		<-->	adjective+C2[-0]	.
 
 
 
-chivalry		<-->	noun+C2[-0]	.
+churlish		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2037,7 +2044,7 @@ chivalry		<-->	noun+C2[-0]	.
 
 
 
-churlish		<-->	adjective+C2[-0]	.
+chutzpah		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2052,7 +2059,7 @@ churlish		<-->	adjective+C2[-0]	.
 
 
 
-chutzpah		<-->	noun+C2[-0]	.
+clean-cut		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2067,7 +2074,7 @@ chutzpah		<-->	noun+C2[-0]	.
 
 
 
-clean-cut		<-->	adjective+C2[-0]	.
+clean-living		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2082,7 +2089,7 @@ clean-cut		<-->	adjective+C2[-0]	.
 
 
 
-clean-living		<-->	adjective+C2[-0]	.
+clever		<-->	adjective++A2	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2097,7 +2104,7 @@ clean-living		<-->	adjective+C2[-0]	.
 
 
 
-clever		<-->	adjective+A2[-0]	.
+coarse		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2112,7 +2119,7 @@ clever		<-->	adjective+A2[-0]	.
 
 
 
-coarse		<-->	adjective+C2[-0]	.
+cocky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2127,7 +2134,7 @@ coarse		<-->	adjective+C2[-0]	.
 
 
 
-cocky		<-->	adjective+C2[-0]	.
+cold-hearted		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2142,7 +2149,7 @@ cocky		<-->	adjective+C2[-0]	.
 
 
 
-cold-hearted		<-->	adjective+C1[-0]	.
+Colonel Blimp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2157,7 +2164,7 @@ cold-hearted		<-->	adjective+C1[-0]	.
 
 
 
-Colonel Blimp		<-->	noun+C2[-0]	.
+coltish		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2172,7 +2179,7 @@ Colonel Blimp		<-->	noun+C2[-0]	.
 
 
 
-coltish		<-->	adjective+C2[-0]	.
+come out of yourself		<-->	phrasal veerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2187,7 +2194,7 @@ coltish		<-->	adjective+C2[-0]	.
 
 
 
-come out of yourself		<-->	phrasal veerb+C2[-0]	.
+comfort		<-->	verb++B2	[221127][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2202,7 +2209,7 @@ come out of yourself		<-->	phrasal veerb+C2[-0]	.
 
 
 
-comfort		<-->	verb+B2	[221127][001]	./cef/
+comfortable		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2217,7 +2224,7 @@ comfort		<-->	verb+B2	[221127][001]	./cef/
 
 
 
-comfortable		<-->	adjective+B1[-0]	.
+committed		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2232,7 +2239,7 @@ comfortable		<-->	adjective+B1[-0]	.
 
 
 
-committed		<-->	adjective+C1[-0]	.
+companionable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2247,7 +2254,7 @@ committed		<-->	adjective+C1[-0]	.
 
 
 
-companionable		<-->	adjective+C2[-0]	.
+compassionate		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2262,7 +2269,7 @@ companionable		<-->	adjective+C2[-0]	.
 
 
 
-compassionate		<-->	adjective+C1[-0]	.
+competent		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2277,7 +2284,7 @@ compassionate		<-->	adjective+C1[-0]	.
 
 
 
-competent		<-->	adjective+C1[-0]	.
+conceit		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2292,7 +2299,7 @@ competent		<-->	adjective+C1[-0]	.
 
 
 
-conceit		<-->	noun+C2[-0]	.
+conceited		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2307,22 +2314,7 @@ conceit		<-->	noun+C2[-0]	.
 
 
 
-conceited		<-->	adjective+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-conciliate		<-->	verb+C2	[221127][001]	./kənˈsɪlieɪt/-NAmE /kənˈsɪlieɪt/ (formal)
+conciliate		<-->	verb++C2	[221127][001]	./kənˈsɪlieɪt/-NAmE /kənˈsɪlieɪt/ (formal)
 	;xoa dịu, hoà giải -- (1) conciliate somebody to make somebody less angry or more friendly, especially by being kind and pleasant or by giving them something
 		;SYNONYM pacify
 		;TOPICS Personal qualitiesC2
@@ -2337,7 +2329,7 @@ conciliate		<-->	verb+C2	[221127][001]	./kənˈsɪlieɪt/-NAmE /kənˈsɪlieɪt/
 
 
 
-confidence		<-->	noun+B2[-0]	.
+confidence		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2352,7 +2344,7 @@ confidence		<-->	noun+B2[-0]	.
 
 
 
-confident		<-->	adjective+B1[-0]	.
+confident		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2367,7 +2359,7 @@ confident		<-->	adjective+B1[-0]	.
 
 
 
-conniving		<-->	adjective+C2[-0]	.
+conniving		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2382,7 +2374,7 @@ conniving		<-->	adjective+C2[-0]	.
 
 
 
-conscience		<-->	noun+C1[-0]	.
+conscience		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2397,7 +2389,7 @@ conscience		<-->	noun+C1[-0]	.
 
 
 
-conscientious		<-->	adjective+C1[-0]	.
+conscientious		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2412,7 +2404,7 @@ conscientious		<-->	adjective+C1[-0]	.
 
 
 
-considerate		<-->	adjective+C1[-0]	.
+considerate		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2427,7 +2419,7 @@ considerate		<-->	adjective+C1[-0]	.
 
 
 
-contrary		<-->	adjective+C2[-0]	.
+contrary		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2442,7 +2434,7 @@ contrary		<-->	adjective+C2[-0]	.
 
 
 
-cool		<-->	adjective+C1[-0]	.
+cool		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2457,7 +2449,7 @@ cool		<-->	adjective+C1[-0]	.
 
 
 
-corrupt		<-->	adjective+C1[-0]	.
+corrupt		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2472,7 +2464,7 @@ corrupt		<-->	adjective+C1[-0]	.
 
 
 
-corruption		<-->	noun+C1[-0]	.
+corruption		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2487,7 +2479,7 @@ corruption		<-->	noun+C1[-0]	.
 
 
 
-courage		<-->	noun+B2[-0]	.
+courage		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2502,7 +2494,7 @@ courage		<-->	noun+B2[-0]	.
 
 
 
-courageous		<-->	adjective+C1[-0]	.
+courageous		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2517,7 +2509,7 @@ courageous		<-->	adjective+C1[-0]	.
 
 
 
-courteous		<-->	adjective+C2[-0]	.
+courteous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2532,7 +2524,7 @@ courteous		<-->	adjective+C2[-0]	.
 
 
 
-covidiot		<-->	noun+C2[-0]	.
+covidiot		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2547,7 +2539,7 @@ covidiot		<-->	noun+C2[-0]	.
 
 
 
-coward		<-->	noun+C1[-0]	.
+coward		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2562,7 +2554,7 @@ coward		<-->	noun+C1[-0]	.
 
 
 
-cowardice		<-->	noun+C2[-0]	.
+cowardice		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2577,7 +2569,7 @@ cowardice		<-->	noun+C2[-0]	.
 
 
 
-cowardly		<-->	adjective+C1[-0]	.
+cowardly		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2592,7 +2584,7 @@ cowardly		<-->	adjective+C1[-0]	.
 
 
 
-coy		<-->	adjective+C2[-0]	.
+coy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2607,7 +2599,7 @@ coy		<-->	adjective+C2[-0]	.
 
 
 
-crafty		<-->	adjective+C2[-0]	.
+crafty		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2622,7 +2614,7 @@ crafty		<-->	adjective+C2[-0]	.
 
 
 
-craven		<-->	adjective+C2[-0]	.
+craven		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2637,10 +2629,7 @@ craven		<-->	adjective+C2[-0]	.
 
 
 
-creative		<-->	adjective+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+creative		<-->	adjective++A2	[221204][001]	./cef/
 
 
 
@@ -2652,7 +2641,7 @@ creative		<-->	adjective+A2[-0]	.
 
 
 
-criminal		<-->	adjective+B1[-0]	.
+criminal		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2667,7 +2656,7 @@ criminal		<-->	adjective+B1[-0]	.
 
 
 
-crisp		<-->	adjective+C2[-0]	.
+crisp		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2682,7 +2671,7 @@ crisp		<-->	adjective+C2[-0]	.
 
 
 
-crude		<-->	adjective+C1[-0]	.
+crude		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2697,7 +2686,7 @@ crude		<-->	adjective+C1[-0]	.
 
 
 
-cruel		<-->	adjective+B1[-0]	.
+cruel		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2712,7 +2701,7 @@ cruel		<-->	adjective+B1[-0]	.
 
 
 
-cunning		<-->	adjective+C2[-0]	.
+cunning		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2727,7 +2716,7 @@ cunning		<-->	adjective+C2[-0]	.
 
 
 
-cunning		<-->	noun+C2[-0]	.
+cunning		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2742,7 +2731,7 @@ cunning		<-->	noun+C2[-0]	.
 
 
 
-cutie		<-->	noun+C2[-0]	.
+cutie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2757,7 +2746,7 @@ cutie		<-->	noun+C2[-0]	.
 
 
 
-cutting		<-->	adjective+C2[-0]	.
+cutting		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2772,7 +2761,7 @@ cutting		<-->	adjective+C2[-0]	.
 
 
 
-dare		<-->	verb+B2	[221127][001]	./cef/
+dare		<-->	verb++B2	[221127][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2787,7 +2776,7 @@ dare		<-->	verb+B2	[221127][001]	./cef/
 
 
 
-daring		<-->	adjective+B2[-0]	.
+daring		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2802,7 +2791,7 @@ daring		<-->	adjective+B2[-0]	.
 
 
 
-daring		<-->	noun+C1[-0]	.
+daring		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2817,7 +2806,7 @@ daring		<-->	noun+C1[-0]	.
 
 
 
-darling		<-->	noun+C1[-0]	.
+darling		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2832,7 +2821,7 @@ darling		<-->	noun+C1[-0]	.
 
 
 
-dashing		<-->	adjective+C2[-0]	.
+dashing		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2847,7 +2836,7 @@ dashing		<-->	adjective+C2[-0]	.
 
 
 
-deadbeat		<-->	noun+C2[-0]	.
+deadbeat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2862,7 +2851,7 @@ deadbeat		<-->	noun+C2[-0]	.
 
 
 
-dear		<-->	noun+C1[-0]	.
+dear		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2877,7 +2866,7 @@ dear		<-->	noun+C1[-0]	.
 
 
 
-debauched		<-->	adjective+C2[-0]	.
+debauched		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2892,7 +2881,7 @@ debauched		<-->	adjective+C2[-0]	.
 
 
 
-debonair		<-->	adjective+C2[-0]	.
+debonair		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2907,7 +2896,7 @@ debonair		<-->	adjective+C2[-0]	.
 
 
 
-deceit		<-->	noun+C2[-0]	.
+deceit		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2922,7 +2911,7 @@ deceit		<-->	noun+C2[-0]	.
 
 
 
-deceitful		<-->	adjective+C2[-0]	.
+deceitful		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2937,7 +2926,7 @@ deceitful		<-->	adjective+C2[-0]	.
 
 
 
-deceive		<-->	verb+B2	[221127][001]	./cef/
+deceive		<-->	verb++B2	[221127][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2952,7 +2941,7 @@ deceive		<-->	verb+B2	[221127][001]	./cef/
 
 
 
-decency		<-->	noun+C2[-0]	.
+decency		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2967,7 +2956,7 @@ decency		<-->	noun+C2[-0]	.
 
 
 
-decent		<-->	adjective+B2[-0]	.
+decent		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2982,7 +2971,7 @@ decent		<-->	adjective+B2[-0]	.
 
 
 
-deception		<-->	noun+C1[-0]	.
+deception		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2997,7 +2986,7 @@ deception		<-->	noun+C1[-0]	.
 
 
 
-dependable		<-->	adjective+C1[-0]	.
+dependable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3012,7 +3001,7 @@ dependable		<-->	adjective+C1[-0]	.
 
 
 
-depraved		<-->	adjective+C2[-0]	.
+depraved		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3027,7 +3016,7 @@ depraved		<-->	adjective+C2[-0]	.
 
 
 
-depravity		<-->	noun+C2[-0]	.
+depravity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3042,7 +3031,7 @@ depravity		<-->	noun+C2[-0]	.
 
 
 
-derring-do		<-->	noun+C2[-0]	.
+derring-do		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3057,7 +3046,7 @@ derring-do		<-->	noun+C2[-0]	.
 
 
 
-devilish		<-->	adjective+C2[-0]	.
+devilish		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3072,7 +3061,7 @@ devilish		<-->	adjective+C2[-0]	.
 
 
 
-devious		<-->	adjective+C2[-0]	.
+devious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3087,7 +3076,7 @@ devious		<-->	adjective+C2[-0]	.
 
 
 
-diabolical		<-->	adjective+C2[-0]	.
+diabolical		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3102,7 +3091,7 @@ diabolical		<-->	adjective+C2[-0]	.
 
 
 
-difficult		<-->	adjective+A1[-0]	.
+difficult		<-->	adjective++A1	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3117,7 +3106,7 @@ difficult		<-->	adjective+A1[-0]	.
 
 
 
-dignified		<-->	adjective+C1[-0]	.
+dignified		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3132,7 +3121,7 @@ dignified		<-->	adjective+C1[-0]	.
 
 
 
-diligent		<-->	adjective+C2[-0]	.
+diligent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3147,7 +3136,7 @@ diligent		<-->	adjective+C2[-0]	.
 
 
 
-disagreeable		<-->	adjective+C1[-0]	.
+disagreeable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3162,7 +3151,7 @@ disagreeable		<-->	adjective+C1[-0]	.
 
 
 
-discreet		<-->	adjective+C2[-0]	.
+discreet		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3177,7 +3166,7 @@ discreet		<-->	adjective+C2[-0]	.
 
 
 
-discretion		<-->	noun+C1[-0]	.
+discretion		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3192,7 +3181,7 @@ discretion		<-->	noun+C1[-0]	.
 
 
 
-dishonest		<-->	adjective+B2[-0]	.
+dishonest		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3207,7 +3196,7 @@ dishonest		<-->	adjective+B2[-0]	.
 
 
 
-dishonesty		<-->	noun+B2[-0]	.
+dishonesty		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3222,7 +3211,7 @@ dishonesty		<-->	noun+B2[-0]	.
 
 
 
-dishonour		<-->	noun+C2[-0]	.
+dishonour		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3237,7 +3226,7 @@ dishonour		<-->	noun+C2[-0]	.
 
 
 
-dishonourable		<-->	adjective+C2[-0]	.
+dishonourable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3252,7 +3241,7 @@ dishonourable		<-->	adjective+C2[-0]	.
 
 
 
-disobedient		<-->	adjective+C2[-0]	.
+disobedient		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3267,7 +3256,7 @@ disobedient		<-->	adjective+C2[-0]	.
 
 
 
-dissolute		<-->	adjective+C2[-0]	.
+dissolute		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3282,7 +3271,7 @@ dissolute		<-->	adjective+C2[-0]	.
 
 
 
-domineering		<-->	adjective+C2[-0]	.
+domineering		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3297,7 +3286,7 @@ domineering		<-->	adjective+C2[-0]	.
 
 
 
-do somebody’s head in		<-->	idiom+C2[-0]	.
+do somebody’s head in		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3312,7 +3301,7 @@ do somebody’s head in		<-->	idiom+C2[-0]	.
 
 
 
-dosser		<-->	noun+C2[-0]	.
+dosser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3327,7 +3316,7 @@ dosser		<-->	noun+C2[-0]	.
 
 
 
-doughty		<-->	adjective+C2[-0]	.
+doughty		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3342,7 +3331,7 @@ doughty		<-->	adjective+C2[-0]	.
 
 
 
-dour		<-->	adjective+C2[-0]	.
+dour		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3357,7 +3346,7 @@ dour		<-->	adjective+C2[-0]	.
 
 
 
-drive		<-->	noun+C1[-0]	.
+drive		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3372,7 +3361,7 @@ drive		<-->	noun+C1[-0]	.
 
 
 
-drone		<-->	noun+C2[-0]	.
+drone		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3387,7 +3376,7 @@ drone		<-->	noun+C2[-0]	.
 
 
 
-dubious		<-->	adjective+C2[-0]	.
+dubious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3402,7 +3391,7 @@ dubious		<-->	adjective+C2[-0]	.
 
 
 
-duplicity		<-->	noun+C2[-0]	.
+duplicity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3417,7 +3406,7 @@ duplicity		<-->	noun+C2[-0]	.
 
 
 
-dutiful		<-->	adjective+C2[-0]	.
+dutiful		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3432,7 +3421,7 @@ dutiful		<-->	adjective+C2[-0]	.
 
 
 
-duty		<-->	noun+B1[-0]	.
+duty		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3447,7 +3436,7 @@ duty		<-->	noun+B1[-0]	.
 
 
 
-dynamic		<-->	adjective+B2[-0]	.
+dynamic		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3462,7 +3451,7 @@ dynamic		<-->	adjective+B2[-0]	.
 
 
 
-dynamism		<-->	noun+C2[-0]	.
+dynamism		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3477,7 +3466,7 @@ dynamism		<-->	noun+C2[-0]	.
 
 
 
-easy		<-->	adjective+C1[-0]	.
+easy		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3492,7 +3481,7 @@ easy		<-->	adjective+C1[-0]	.
 
 
 
-easy-going		<-->	adjective+B2[-0]	.
+easy-going		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3507,7 +3496,7 @@ easy-going		<-->	adjective+B2[-0]	.
 
 
 
-ebullience		<-->	noun+C2[-0]	.
+ebullience		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3522,7 +3511,7 @@ ebullience		<-->	noun+C2[-0]	.
 
 
 
-ebullient		<-->	adjective+C2[-0]	.
+ebullient		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3537,7 +3526,7 @@ ebullient		<-->	adjective+C2[-0]	.
 
 
 
-effervescent		<-->	adjective+C2[-0]	.
+effervescent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3552,7 +3541,7 @@ effervescent		<-->	adjective+C2[-0]	.
 
 
 
-efficient		<-->	adjective+B2[-0]	.
+efficient		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3567,7 +3556,7 @@ efficient		<-->	adjective+B2[-0]	.
 
 
 
-effrontery		<-->	noun+C2[-0]	.
+effrontery		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3582,7 +3571,7 @@ effrontery		<-->	noun+C2[-0]	.
 
 
 
-egocentric		<-->	adjective+C2[-0]	.
+egocentric		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3597,7 +3586,7 @@ egocentric		<-->	adjective+C2[-0]	.
 
 
 
-egoism		<-->	noun+C2[-0]	.
+egoism		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3612,7 +3601,7 @@ egoism		<-->	noun+C2[-0]	.
 
 
 
-empathy		<-->	noun+C1[-0]	.
+empathy		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3627,7 +3616,7 @@ empathy		<-->	noun+C1[-0]	.
 
 
 
-energetic		<-->	adjective+B2[-0]	.
+energetic		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3642,7 +3631,7 @@ energetic		<-->	adjective+B2[-0]	.
 
 
 
-energize		<-->	verb+C1[-0]	.
+energize		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3657,7 +3646,7 @@ energize		<-->	verb+C1[-0]	.
 
 
 
-enterprising		<-->	adjective+C2[-0]	.
+enterprising		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3672,7 +3661,7 @@ enterprising		<-->	adjective+C2[-0]	.
 
 
 
-enthusiastic		<-->	adjective+B2[-0]	.
+enthusiastic		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3687,7 +3676,7 @@ enthusiastic		<-->	adjective+B2[-0]	.
 
 
 
-ethic		<-->	noun+B2[-0]	.
+ethic		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3702,7 +3691,7 @@ ethic		<-->	noun+B2[-0]	.
 
 
 
-ethical		<-->	adjective+B2[-0]	.
+ethical		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3717,7 +3706,7 @@ ethical		<-->	adjective+B2[-0]	.
 
 
 
-ethos		<-->	noun+C1[-0]	.
+ethos		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3732,7 +3721,7 @@ ethos		<-->	noun+C1[-0]	.
 
 
 
-evil		<-->	adjective+B2[-0]	.
+evil		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3747,7 +3736,7 @@ evil		<-->	adjective+B2[-0]	.
 
 
 
-exasperating		<-->	adjective+C2[-0]	.
+exasperating		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3762,7 +3751,7 @@ exasperating		<-->	adjective+C2[-0]	.
 
 
 
-excel		<-->	verb+B2[-0]	.
+excel		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3777,7 +3766,7 @@ excel		<-->	verb+B2[-0]	.
 
 
 
-experienced		<-->	adjective+B1[-0]	.
+experienced		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3792,7 +3781,7 @@ experienced		<-->	adjective+B1[-0]	.
 
 
 
-extravert		<-->	noun+B2[-0]	.
+extravert		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3807,7 +3796,7 @@ extravert		<-->	noun+B2[-0]	.
 
 
 
-extrovert		<-->	noun+B2[-0]	.
+extrovert		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3822,7 +3811,7 @@ extrovert		<-->	noun+B2[-0]	.
 
 
 
-exuberant		<-->	adjective+C2[-0]	.
+exuberant		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3837,7 +3826,7 @@ exuberant		<-->	adjective+C2[-0]	.
 
 
 
-faint-hearted		<-->	adjective+C2[-0]	.
+faint-hearted		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3852,7 +3841,7 @@ faint-hearted		<-->	adjective+C2[-0]	.
 
 
 
-faithful		<-->	adjective+C1[-0]	.
+faithful		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3867,7 +3856,7 @@ faithful		<-->	adjective+C1[-0]	.
 
 
 
-fake		<-->	adjective+B2[-0]	.
+fake		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3882,7 +3871,7 @@ fake		<-->	adjective+B2[-0]	.
 
 
 
-fake		<-->	noun+B1[-0]	.
+fake		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3897,7 +3886,7 @@ fake		<-->	noun+B1[-0]	.
 
 
 
-false		<-->	adjective+B2[-0]	.
+false		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3912,7 +3901,7 @@ false		<-->	adjective+B2[-0]	.
 
 
 
-familiarity		<-->	noun+C2[-0]	.
+familiarity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3927,7 +3916,7 @@ familiarity		<-->	noun+C2[-0]	.
 
 
 
-fickle		<-->	adjective+C2[-0]	.
+fickle		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3942,7 +3931,7 @@ fickle		<-->	adjective+C2[-0]	.
 
 
 
-flamboyant		<-->	adjective+C2[-0]	.
+flamboyant		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3957,7 +3946,7 @@ flamboyant		<-->	adjective+C2[-0]	.
 
 
 
-flaunt		<-->	verb+C2[-0]	.
+flaunt		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3972,7 +3961,7 @@ flaunt		<-->	verb+C2[-0]	.
 
 
 
-fool		<-->	verb+B1[-0]	.
+fool		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3987,7 +3976,7 @@ fool		<-->	verb+B1[-0]	.
 
 
 
-forced		<-->	adjective+C2[-0]	.
+forced		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4002,7 +3991,7 @@ forced		<-->	adjective+C2[-0]	.
 
 
 
-forthright		<-->	adjective+C2[-0]	.
+forthright		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4017,7 +4006,7 @@ forthright		<-->	adjective+C2[-0]	.
 
 
 
-fortitude		<-->	noun+C2[-0]	.
+fortitude		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4032,7 +4021,7 @@ fortitude		<-->	noun+C2[-0]	.
 
 
 
-forward		<-->	adjective+C2[-0]	.
+forward		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4047,7 +4036,7 @@ forward		<-->	adjective+C2[-0]	.
 
 
 
-foul-mouthed		<-->	adjective+C2[-0]	.
+foul-mouthed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4062,7 +4051,7 @@ foul-mouthed		<-->	adjective+C2[-0]	.
 
 
 
-frank		<-->	adjective+C1[-0]	.
+frank		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4077,7 +4066,7 @@ frank		<-->	adjective+C1[-0]	.
 
 
 
-fresh		<-->	adjective+C2[-0]	.
+fresh		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4092,7 +4081,7 @@ fresh		<-->	adjective+C2[-0]	.
 
 
 
-friendly		<-->	adjective+A1[-0]	.
+friendly		<-->	adjective++A1	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4107,7 +4096,7 @@ friendly		<-->	adjective+A1[-0]	.
 
 
 
-frisky		<-->	adjective+C2[-0]	.
+frisky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4122,7 +4111,7 @@ frisky		<-->	adjective+C2[-0]	.
 
 
 
-frolic		<-->	verb+C2[-0]	.
+frolic		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4137,7 +4126,7 @@ frolic		<-->	verb+C2[-0]	.
 
 
 
-frolic		<-->	noun+C2[-0]	.
+frolic		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4152,7 +4141,7 @@ frolic		<-->	noun+C2[-0]	.
 
 
 
-frolicsome		<-->	adjective+C2[-0]	.
+frolicsome		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4167,7 +4156,7 @@ frolicsome		<-->	adjective+C2[-0]	.
 
 
 
-front		<-->	noun+C2[-0]	.
+front		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4182,7 +4171,7 @@ front		<-->	noun+C2[-0]	.
 
 
 
-full of yourself		<-->	idiom+C2[-0]	.
+full of yourself		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4197,7 +4186,7 @@ full of yourself		<-->	idiom+C2[-0]	.
 
 
 
-gallant		<-->	adjective+C2[-0]	.
+gallant		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4212,7 +4201,7 @@ gallant		<-->	adjective+C2[-0]	.
 
 
 
-gallantry		<-->	noun+C2[-0]	.
+gallantry		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4227,7 +4216,7 @@ gallantry		<-->	noun+C2[-0]	.
 
 
 
-gamely		<-->	adveerb+C2[-0]	.
+gamely		<-->	adveerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4242,7 +4231,7 @@ gamely		<-->	adveerb+C2[-0]	.
 
 
 
-generous		<-->	adjective+B1[-0]	.
+generous		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4257,7 +4246,7 @@ generous		<-->	adjective+B1[-0]	.
 
 
 
-genial		<-->	adjective+C2[-0]	.
+genial		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4272,7 +4261,7 @@ genial		<-->	adjective+C2[-0]	.
 
 
 
-genius		<-->	noun+B2[-0]	.
+genius		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4287,7 +4276,7 @@ genius		<-->	noun+B2[-0]	.
 
 
 
-gentle		<-->	adjective+B1[-0]	.
+gentle		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4302,7 +4291,7 @@ gentle		<-->	adjective+B1[-0]	.
 
 
 
-genuine		<-->	adjective+B2[-0]	.
+genuine		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4317,7 +4306,7 @@ genuine		<-->	adjective+B2[-0]	.
 
 
 
-get on		<-->	phrasal veerb+B1[-0]	.
+get on		<-->	phrasal veerb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4332,7 +4321,7 @@ get on		<-->	phrasal veerb+B1[-0]	.
 
 
 
-get on with		<-->	phrasal veerb+B1[-0]	.
+get on with		<-->	phrasal veerb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4347,7 +4336,7 @@ get on with		<-->	phrasal veerb+B1[-0]	.
 
 
 
-get-up-and-go		<-->	noun+C2[-0]	.
+get-up-and-go		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4362,7 +4351,7 @@ get-up-and-go		<-->	noun+C2[-0]	.
 
 
 
-gibe		<-->	noun+C2[-0]	.
+gibe		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4377,7 +4366,7 @@ gibe		<-->	noun+C2[-0]	.
 
 
 
-go		<-->	adveerb+C2[-0]	.
+go		<-->	adveerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4392,7 +4381,7 @@ go		<-->	adveerb+C2[-0]	.
 
 
 
-God-fearing		<-->	adjective+C2[-0]	.
+God-fearing		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4407,7 +4396,7 @@ God-fearing		<-->	adjective+C2[-0]	.
 
 
 
-godly		<-->	adjective+C2[-0]	.
+godly		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4422,7 +4411,7 @@ godly		<-->	adjective+C2[-0]	.
 
 
 
-good		<-->	adjective+A1[-0]	.
+good		<-->	adjective++A1	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4437,7 +4426,7 @@ good		<-->	adjective+A1[-0]	.
 
 
 
-good-for-nothing		<-->	adjective+C2[-0]	.
+good-for-nothing		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4452,7 +4441,7 @@ good-for-nothing		<-->	adjective+C2[-0]	.
 
 
 
-good-for-nothing		<-->	noun+C2[-0]	.
+good-for-nothing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4467,7 +4456,7 @@ good-for-nothing		<-->	noun+C2[-0]	.
 
 
 
-good-hearted		<-->	adjective+C1[-0]	.
+good-hearted		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4482,7 +4471,7 @@ good-hearted		<-->	adjective+C1[-0]	.
 
 
 
-good nature		<-->	noun+C1[-0]	.
+good nature		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4497,7 +4486,7 @@ good nature		<-->	noun+C1[-0]	.
 
 
 
-good-natured		<-->	adjective+C1[-0]	.
+good-natured		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4512,7 +4501,7 @@ good-natured		<-->	adjective+C1[-0]	.
 
 
 
-good sense		<-->	noun+B2[-0]	.
+good sense		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4527,7 +4516,7 @@ good sense		<-->	noun+B2[-0]	.
 
 
 
-goodwill		<-->	noun+C1[-0]	.
+goodwill		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4542,7 +4531,7 @@ goodwill		<-->	noun+C1[-0]	.
 
 
 
-graceful		<-->	adjective+C2[-0]	.
+graceful		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4557,7 +4546,7 @@ graceful		<-->	adjective+C2[-0]	.
 
 
 
-gracious		<-->	adjective+C2[-0]	.
+gracious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4572,7 +4561,7 @@ gracious		<-->	adjective+C2[-0]	.
 
 
 
-grasping		<-->	adjective+C2[-0]	.
+grasping		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4587,7 +4576,7 @@ grasping		<-->	adjective+C2[-0]	.
 
 
 
-grateful		<-->	adjective+B1[-0]	.
+grateful		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4602,7 +4591,7 @@ grateful		<-->	adjective+B1[-0]	.
 
 
 
-greedy		<-->	adjective+B2[-0]	.
+greedy		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4617,7 +4606,7 @@ greedy		<-->	adjective+B2[-0]	.
 
 
 
-greedy guts		<-->	idiom+C2[-0]	.
+greedy guts		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4632,7 +4621,7 @@ greedy guts		<-->	idiom+C2[-0]	.
 
 
 
-gregarious		<-->	adjective+C2[-0]	.
+gregarious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4647,7 +4636,7 @@ gregarious		<-->	adjective+C2[-0]	.
 
 
 
-gripe		<-->	verb+C2[-0]	.
+gripe		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4662,7 +4651,7 @@ gripe		<-->	verb+C2[-0]	.
 
 
 
-grit		<-->	noun+C2[-0]	.
+grit		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4677,7 +4666,7 @@ grit		<-->	noun+C2[-0]	.
 
 
 
-gritty		<-->	adjective+C2[-0]	.
+gritty		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4692,7 +4681,7 @@ gritty		<-->	adjective+C2[-0]	.
 
 
 
-grouse		<-->	verb+C2[-0]	.
+grouse		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4707,7 +4696,7 @@ grouse		<-->	verb+C2[-0]	.
 
 
 
-grubby		<-->	adjective+C2[-0]	.
+grubby		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4722,7 +4711,7 @@ grubby		<-->	adjective+C2[-0]	.
 
 
 
-guile		<-->	noun+C2[-0]	.
+guile		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4737,7 +4726,7 @@ guile		<-->	noun+C2[-0]	.
 
 
 
-guileless		<-->	adjective+C2[-0]	.
+guileless		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4752,7 +4741,7 @@ guileless		<-->	adjective+C2[-0]	.
 
 
 
-gumption		<-->	noun+C2[-0]	.
+gumption		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4767,7 +4756,7 @@ gumption		<-->	noun+C2[-0]	.
 
 
 
-gusto		<-->	noun+C2[-0]	.
+gusto		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4782,7 +4771,7 @@ gusto		<-->	noun+C2[-0]	.
 
 
 
-gut		<-->	noun+C1[-0]	.
+gut		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4797,7 +4786,7 @@ gut		<-->	noun+C1[-0]	.
 
 
 
-gutless		<-->	adjective+C2[-0]	.
+gutless		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4812,7 +4801,7 @@ gutless		<-->	adjective+C2[-0]	.
 
 
 
-gutsy		<-->	adjective+C2[-0]	.
+gutsy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4826,12 +4815,16 @@ gutsy		<-->	adjective+C2[-0]	.
 
 
 
-
-hard-working		<-->	adjective+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+hard-working		<-->	adjective++A2[-0]	./ˌhɑːd ˈwɜːkɪŋ/-NAmE /ˌhɑːrd ˈwɜːrkɪŋ/
+	;chăm chỉ -- (1) putting a lot of effort into a job and doing it well
+		;hard-working nurses
+		;I want to stand up for all the decent, hard-working families in this country.
+		;TOPICS Personal qualitiesA2
+				;Oxford Collocations Dictionary
+				;Hard-working is used with these nouns:
+				;employee
+		;See full entry
 
 
 
@@ -4842,7 +4835,7 @@ hard-working		<-->	adjective+A2[-0]	.
 
 
 
-harsh		<-->	adjective+C1[-0]	.
+harsh		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4857,7 +4850,7 @@ harsh		<-->	adjective+C1[-0]	.
 
 
 
-hateful		<-->	adjective+C2[-0]	.
+hateful		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4872,7 +4865,7 @@ hateful		<-->	adjective+C2[-0]	.
 
 
 
-have a big mouth		<-->	idiom+C2[-0]	.
+have a big mouth		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4887,7 +4880,7 @@ have a big mouth		<-->	idiom+C2[-0]	.
 
 
 
-have a heart of gold		<-->	idiom+C2[-0]	.
+have a heart of gold		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4902,7 +4895,7 @@ have a heart of gold		<-->	idiom+C2[-0]	.
 
 
 
-have/lack the courage of your convictions		<-->	idiom+C2[-0]	.
+have/lack the courage of your convictions		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4917,7 +4910,7 @@ have/lack the courage of your convictions		<-->	idiom+C2[-0]	.
 
 
 
-have no stomach for something		<-->	idiom+C2[-0]	.
+have no stomach for something		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4932,7 +4925,7 @@ have no stomach for something		<-->	idiom+C2[-0]	.
 
 
 
-hearty		<-->	adjective+C2[-0]	.
+hearty		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4947,7 +4940,7 @@ hearty		<-->	adjective+C2[-0]	.
 
 
 
-heinous		<-->	adjective+C2[-0]	.
+heinous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4961,12 +4954,8 @@ heinous		<-->	adjective+C2[-0]	.
 
 
 
-
-helpful		<-->	adjective+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+helpful		<-->	adjective++A2	[221204][001]	./cef/
 
 
 
@@ -4977,7 +4966,7 @@ helpful		<-->	adjective+A2[-0]	.
 
 
 
-henpecked		<-->	adjective+C2[-0]	.
+henpecked		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4992,7 +4981,7 @@ henpecked		<-->	adjective+C2[-0]	.
 
 
 
-hero		<-->	noun+A2[-0]	.
+hero		<-->	noun++A2	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5007,7 +4996,7 @@ hero		<-->	noun+A2[-0]	.
 
 
 
-heroic		<-->	adjective+C1[-0]	.
+heroic		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5022,7 +5011,7 @@ heroic		<-->	adjective+C1[-0]	.
 
 
 
-heroics		<-->	noun+C2[-0]	.
+heroics		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5037,9 +5026,28 @@ heroics		<-->	noun+C2[-0]	.
 
 
 
-heroine		<-->	noun+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
+heroine		<-->	noun++A2[-0]	./ˈherəʊɪn/-NAmE /ˈherəʊɪn/
+	;nữa anh hùng -- (1) a girl or woman who is admired by many for doing something brave or good
+		;the heroines of the revolution
+		;She remains one of the unsung heroines of the Second World War.
+		;TOPICS Personal qualitiesA2
+				;Oxford Collocations Dictionary
+				;adjective
+				;greatrealnational…
+		;See full entry
+	;nữa vai chính -- (2) the main female character in a story, novel, film, etc.
+		;The heroine is played by Demi Moore.
+		;Shakespeare’s heroines
+		;She has played several of Shakespeare's heroines—Portia and Juliet among them.
+		;Extra Examples
+		;Jane Eyre, the eponymous heroine of the novel by Charlotte Brontë
+		;Violetta is one of the great tragic heroines of Verdi's operas.
+		;The story is narrated entirely by the heroine.
+		;TOPICS Film and theatreA2, Literature and writingA2
+				;Oxford Collocations Dictionary
+				;adjective
+				;greatrealnational…
+		;See full entry
 	; -- (3) 
 
 
@@ -5052,7 +5060,7 @@ heroine		<-->	noun+A2[-0]	.
 
 
 
-heroism		<-->	noun+C1[-0]	.
+heroism		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5067,7 +5075,7 @@ heroism		<-->	noun+C1[-0]	.
 
 
 
-highbrow		<-->	adjective+C2[-0]	.
+highbrow		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5082,7 +5090,7 @@ highbrow		<-->	adjective+C2[-0]	.
 
 
 
-high-handed		<-->	adjective+C2[-0]	.
+high-handed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5097,7 +5105,7 @@ high-handed		<-->	adjective+C2[-0]	.
 
 
 
-high-minded		<-->	adjective+C2[-0]	.
+high-minded		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5112,7 +5120,7 @@ high-minded		<-->	adjective+C2[-0]	.
 
 
 
-high-spirited		<-->	adjective+C2[-0]	.
+high-spirited		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5127,7 +5135,7 @@ high-spirited		<-->	adjective+C2[-0]	.
 
 
 
-holy		<-->	adjective+B2[-0]	.
+holy		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5142,7 +5150,7 @@ holy		<-->	adjective+B2[-0]	.
 
 
 
-honest		<-->	adjective+B1[-0]	.
+honest		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5157,7 +5165,7 @@ honest		<-->	adjective+B1[-0]	.
 
 
 
-honesty		<-->	noun+B2[-0]	.
+honesty		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5172,7 +5180,7 @@ honesty		<-->	noun+B2[-0]	.
 
 
 
-honor		<-->	noun+B2[-0]	.
+honor		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5187,7 +5195,7 @@ honor		<-->	noun+B2[-0]	.
 
 
 
-honorable		<-->	adjective+C1[-0]	.
+honorable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5202,7 +5210,7 @@ honorable		<-->	adjective+C1[-0]	.
 
 
 
-honour		<-->	noun+B2[-0]	.
+honour		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5217,7 +5225,7 @@ honour		<-->	noun+B2[-0]	.
 
 
 
-honourable		<-->	adjective+C1[-0]	.
+honourable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5232,7 +5240,7 @@ honourable		<-->	adjective+C1[-0]	.
 
 
 
-horrible		<-->	adjective+B1[-0]	.
+horrible		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5247,7 +5255,7 @@ horrible		<-->	adjective+B1[-0]	.
 
 
 
-horrid		<-->	adjective+C2[-0]	.
+horrid		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5262,7 +5270,7 @@ horrid		<-->	adjective+C2[-0]	.
 
 
 
-hospitable		<-->	adjective+C1[-0]	.
+hospitable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5277,7 +5285,7 @@ hospitable		<-->	adjective+C1[-0]	.
 
 
 
-hubris		<-->	noun+C2[-0]	.
+hubris		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5292,7 +5300,7 @@ hubris		<-->	noun+C2[-0]	.
 
 
 
-humanity		<-->	noun+C1[-0]	.
+humanity		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5307,7 +5315,7 @@ humanity		<-->	noun+C1[-0]	.
 
 
 
-hyper		<-->	adjective+C2[-0]	.
+hyper		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5322,7 +5330,7 @@ hyper		<-->	adjective+C2[-0]	.
 
 
 
-icy		<-->	adjective+C1[-0]	.
+icy		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5337,7 +5345,7 @@ icy		<-->	adjective+C1[-0]	.
 
 
 
-idler		<-->	noun+C2[-0]	.
+idler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5352,7 +5360,7 @@ idler		<-->	noun+C2[-0]	.
 
 
 
-ill-treat		<-->	verb+C2[-0]	.
+ill-treat		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5367,7 +5375,7 @@ ill-treat		<-->	verb+C2[-0]	.
 
 
 
-ill-treatment		<-->	noun+C2[-0]	.
+ill-treatment		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5382,7 +5390,7 @@ ill-treatment		<-->	noun+C2[-0]	.
 
 
 
-ill will		<-->	noun+C2[-0]	.
+ill will		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5397,7 +5405,7 @@ ill will		<-->	noun+C2[-0]	.
 
 
 
-imaginative		<-->	adjective+B2[-0]	.
+imaginative		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5412,7 +5420,7 @@ imaginative		<-->	adjective+B2[-0]	.
 
 
 
-immodest		<-->	adjective+C2[-0]	.
+immodest		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5427,7 +5435,7 @@ immodest		<-->	adjective+C2[-0]	.
 
 
 
-immoral		<-->	adjective+B2[-0]	.
+immoral		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5442,7 +5450,7 @@ immoral		<-->	adjective+B2[-0]	.
 
 
 
-impertinence		<-->	noun+C2[-0]	.
+impertinence		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5457,7 +5465,7 @@ impertinence		<-->	noun+C2[-0]	.
 
 
 
-impertinent		<-->	adjective+C2[-0]	.
+impertinent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5472,7 +5480,7 @@ impertinent		<-->	adjective+C2[-0]	.
 
 
 
-importunate		<-->	adjective+C2[-0]	.
+importunate		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5487,7 +5495,7 @@ importunate		<-->	adjective+C2[-0]	.
 
 
 
-importune		<-->	verb+C2[-0]	.
+importune		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5502,7 +5510,7 @@ importune		<-->	verb+C2[-0]	.
 
 
 
-impudence		<-->	noun+C2[-0]	.
+impudence		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5517,7 +5525,7 @@ impudence		<-->	noun+C2[-0]	.
 
 
 
-impudent		<-->	adjective+C2[-0]	.
+impudent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5532,7 +5540,7 @@ impudent		<-->	adjective+C2[-0]	.
 
 
 
-impure		<-->	adjective+C2[-0]	.
+impure		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5547,7 +5555,7 @@ impure		<-->	adjective+C2[-0]	.
 
 
 
-incisive		<-->	adjective+C2[-0]	.
+incisive		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5562,7 +5570,7 @@ incisive		<-->	adjective+C2[-0]	.
 
 
 
-incivility		<-->	noun+C2[-0]	.
+incivility		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5577,7 +5585,7 @@ incivility		<-->	noun+C2[-0]	.
 
 
 
-inconstancy		<-->	noun+C2[-0]	.
+inconstancy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5592,7 +5600,7 @@ inconstancy		<-->	noun+C2[-0]	.
 
 
 
-inconstant		<-->	adjective+C2[-0]	.
+inconstant		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5607,7 +5615,7 @@ inconstant		<-->	adjective+C2[-0]	.
 
 
 
-indecency		<-->	noun+C2[-0]	.
+indecency		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5622,7 +5630,7 @@ indecency		<-->	noun+C2[-0]	.
 
 
 
-indecent		<-->	adjective+C2[-0]	.
+indecent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5637,7 +5645,7 @@ indecent		<-->	adjective+C2[-0]	.
 
 
 
-indefensible		<-->	adjective+C2[-0]	.
+indefensible		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5652,7 +5660,7 @@ indefensible		<-->	adjective+C2[-0]	.
 
 
 
-independent		<-->	adjective+B1[-0]	.
+independent		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5667,7 +5675,7 @@ independent		<-->	adjective+B1[-0]	.
 
 
 
-indomitable		<-->	adjective+C2[-0]	.
+indomitable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5682,7 +5690,7 @@ indomitable		<-->	adjective+C2[-0]	.
 
 
 
-infamous		<-->	adjective+C1[-0]	.
+infamous		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5697,7 +5705,7 @@ infamous		<-->	adjective+C1[-0]	.
 
 
 
-infamy		<-->	noun+C2[-0]	.
+infamy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5712,7 +5720,7 @@ infamy		<-->	noun+C2[-0]	.
 
 
 
-infernal		<-->	adjective+C2[-0]	.
+infernal		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5727,7 +5735,7 @@ infernal		<-->	adjective+C2[-0]	.
 
 
 
-ingenious		<-->	adjective+C1[-0]	.
+ingenious		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5742,7 +5750,7 @@ ingenious		<-->	adjective+C1[-0]	.
 
 
 
-ingenuity		<-->	noun+C2[-0]	.
+ingenuity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5757,7 +5765,7 @@ ingenuity		<-->	noun+C2[-0]	.
 
 
 
-ingenuous		<-->	adjective+C2[-0]	.
+ingenuous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5772,7 +5780,7 @@ ingenuous		<-->	adjective+C2[-0]	.
 
 
 
-insensitive		<-->	adjective+C1[-0]	.
+insensitive		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5787,7 +5795,7 @@ insensitive		<-->	adjective+C1[-0]	.
 
 
 
-insolence		<-->	noun+C2[-0]	.
+insolence		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5802,7 +5810,7 @@ insolence		<-->	noun+C2[-0]	.
 
 
 
-insolent		<-->	adjective+C2[-0]	.
+insolent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5817,7 +5825,7 @@ insolent		<-->	adjective+C2[-0]	.
 
 
 
-inspo		<-->	noun+C2[-0]	.
+inspo		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5832,7 +5840,7 @@ inspo		<-->	noun+C2[-0]	.
 
 
 
-insufferable		<-->	adjective+C2[-0]	.
+insufferable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5847,7 +5855,7 @@ insufferable		<-->	adjective+C2[-0]	.
 
 
 
-integrity		<-->	noun+C1[-0]	.
+integrity		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5862,7 +5870,7 @@ integrity		<-->	noun+C1[-0]	.
 
 
 
-intellect		<-->	noun+C1[-0]	.
+intellect		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5877,7 +5885,7 @@ intellect		<-->	noun+C1[-0]	.
 
 
 
-intelligent		<-->	adjective+A2[-0]	.
+intelligent		<-->	adjective++A2	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5892,7 +5900,7 @@ intelligent		<-->	adjective+A2[-0]	.
 
 
 
-interfering		<-->	adjective+C2[-0]	.
+interfering		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5907,7 +5915,7 @@ interfering		<-->	adjective+C2[-0]	.
 
 
 
-intolerant		<-->	adjective+C1[-0]	.
+intolerant		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5922,7 +5930,7 @@ intolerant		<-->	adjective+C1[-0]	.
 
 
 
-intrepid		<-->	adjective+C2[-0]	.
+intrepid		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5937,7 +5945,7 @@ intrepid		<-->	adjective+C2[-0]	.
 
 
 
-introvert		<-->	noun+B2[-0]	.
+introvert		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5952,7 +5960,7 @@ introvert		<-->	noun+B2[-0]	.
 
 
 
-introverted		<-->	adjective+C2[-0]	.
+introverted		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5967,7 +5975,7 @@ introverted		<-->	adjective+C2[-0]	.
 
 
 
-invent		<-->	verb+B1[-0]	.
+invent		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5982,7 +5990,7 @@ invent		<-->	verb+B1[-0]	.
 
 
 
-invest in		<-->	phrasal veerb+C2[-0]	.
+invest in		<-->	phrasal veerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5997,7 +6005,7 @@ invest in		<-->	phrasal veerb+C2[-0]	.
 
 
 
-irrepressible		<-->	adjective+C2[-0]	.
+irrepressible		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6012,7 +6020,7 @@ irrepressible		<-->	adjective+C2[-0]	.
 
 
 
-irritable		<-->	adjective+C1[-0]	.
+irritable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6027,7 +6035,7 @@ irritable		<-->	adjective+C1[-0]	.
 
 
 
-jaunty		<-->	adjective+C2[-0]	.
+jaunty		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6042,7 +6050,7 @@ jaunty		<-->	adjective+C2[-0]	.
 
 
 
-jealous		<-->	adjective+B1[-0]	.
+jealous		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6057,7 +6065,7 @@ jealous		<-->	adjective+B1[-0]	.
 
 
 
-jibe		<-->	noun+C2[-0]	.
+jibe		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6072,7 +6080,7 @@ jibe		<-->	noun+C2[-0]	.
 
 
 
-jilt		<-->	verb+C2[-0]	.
+jilt		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6087,7 +6095,7 @@ jilt		<-->	verb+C2[-0]	.
 
 
 
-jolly		<-->	adjective+C1[-0]	.
+jolly		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6102,7 +6110,7 @@ jolly		<-->	adjective+C1[-0]	.
 
 
 
-jovial		<-->	adjective+C2[-0]	.
+jovial		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6117,7 +6125,7 @@ jovial		<-->	adjective+C2[-0]	.
 
 
 
-judgemental		<-->	adjective+C1[-0]	.
+judgemental		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6132,7 +6140,7 @@ judgemental		<-->	adjective+C1[-0]	.
 
 
 
-just		<-->	adjective+C1[-0]	.
+just		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6147,7 +6155,7 @@ just		<-->	adjective+C1[-0]	.
 
 
 
-keen		<-->	adjective+B1[-0]	.
+keen		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6162,7 +6170,7 @@ keen		<-->	adjective+B1[-0]	.
 
 
 
-kid		<-->	verb+C2[-0]	.
+kid		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6177,7 +6185,7 @@ kid		<-->	verb+C2[-0]	.
 
 
 
-kind		<-->	adjective+B1[-0]	.
+kind		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6192,7 +6200,7 @@ kind		<-->	adjective+B1[-0]	.
 
 
 
-kind-hearted		<-->	adjective+C1[-0]	.
+kind-hearted		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6207,7 +6215,7 @@ kind-hearted		<-->	adjective+C1[-0]	.
 
 
 
-kindly		<-->	adjective+C1[-0]	.
+kindly		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6222,7 +6230,7 @@ kindly		<-->	adjective+C1[-0]	.
 
 
 
-kindness		<-->	noun+B1[-0]	.
+kindness		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6237,7 +6245,7 @@ kindness		<-->	noun+B1[-0]	.
 
 
 
-knowledgeable		<-->	adjective+C1[-0]	.
+knowledgeable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6252,7 +6260,7 @@ knowledgeable		<-->	adjective+C1[-0]	.
 
 
 
-laggard		<-->	noun+C2[-0]	.
+laggard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6267,7 +6275,7 @@ laggard		<-->	noun+C2[-0]	.
 
 
 
-laid-back		<-->	adjective+B2[-0]	.
+laid-back		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6282,7 +6290,7 @@ laid-back		<-->	adjective+B2[-0]	.
 
 
 
-layabout		<-->	noun+C2[-0]	.
+layabout		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6297,7 +6305,7 @@ layabout		<-->	noun+C2[-0]	.
 
 
 
-laze		<-->	verb+C1[-0]	.
+laze		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6312,7 +6320,7 @@ laze		<-->	verb+C1[-0]	.
 
 
 
-laze away		<-->	phrasal veerb+C1[-0]	.
+laze away		<-->	phrasal veerb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6327,7 +6335,7 @@ laze away		<-->	phrasal veerb+C1[-0]	.
 
 
 
-lazy		<-->	adjective+A2[-0]	.
+lazy		<-->	adjective++A2	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6342,7 +6350,7 @@ lazy		<-->	adjective+A2[-0]	.
 
 
 
-leadership		<-->	noun+B2[-0]	.
+leadership		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6357,7 +6365,7 @@ leadership		<-->	noun+B2[-0]	.
 
 
 
-lead on		<-->	phrasal veerb+C2[-0]	.
+lead on		<-->	phrasal veerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6372,7 +6380,7 @@ lead on		<-->	phrasal veerb+C2[-0]	.
 
 
 
-libertine		<-->	noun+C2[-0]	.
+libertine		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6387,7 +6395,7 @@ libertine		<-->	noun+C2[-0]	.
 
 
 
-licentious		<-->	adjective+C2[-0]	.
+licentious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6402,7 +6410,7 @@ licentious		<-->	adjective+C2[-0]	.
 
 
 
-lie		<-->	verb+B1[-0]	.
+lie		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6417,7 +6425,7 @@ lie		<-->	verb+B1[-0]	.
 
 
 
-lie around		<-->	phrasal veerb+C1[-0]	.
+lie around		<-->	phrasal veerb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6432,7 +6440,7 @@ lie around		<-->	phrasal veerb+C1[-0]	.
 
 
 
-lily-livered		<-->	adjective+C2[-0]	.
+lily-livered		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6447,7 +6455,7 @@ lily-livered		<-->	adjective+C2[-0]	.
 
 
 
-lively		<-->	adjective+B2[-0]	.
+lively		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6462,7 +6470,7 @@ lively		<-->	adjective+B2[-0]	.
 
 
 
-loafer		<-->	noun+C2[-0]	.
+loafer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6477,7 +6485,7 @@ loafer		<-->	noun+C2[-0]	.
 
 
 
-lofty		<-->	adjective+C2[-0]	.
+lofty		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6492,7 +6500,7 @@ lofty		<-->	adjective+C2[-0]	.
 
 
 
-loll		<-->	verb+C2[-0]	.
+loll		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6507,7 +6515,7 @@ loll		<-->	verb+C2[-0]	.
 
 
 
-loose		<-->	adjective+C2[-0]	.
+loose		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6522,7 +6530,7 @@ loose		<-->	adjective+C2[-0]	.
 
 
 
-loud		<-->	adjective+B1[-0]	.
+loud		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6537,7 +6545,7 @@ loud		<-->	adjective+B1[-0]	.
 
 
 
-loudmouth		<-->	noun+C1[-0]	.
+loudmouth		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6552,7 +6560,7 @@ loudmouth		<-->	noun+C1[-0]	.
 
 
 
-lounge		<-->	verb+C2	[221125][001]	./laʊndʒ/-NAmE /laʊndʒ/\ [intransitive]
+lounge		<-->	verb++C2	[221125][001]	./laʊndʒ/-NAmE /laʊndʒ/\ [intransitive]
 	;thơ thẩn -- (1) (+ adv./prep.) to stand, sit or lie in a lazy way
 		;SYNONYM laze
 		;<< laze, lounge, >>
@@ -6569,7 +6577,7 @@ lounge		<-->	verb+C2	[221125][001]	./laʊndʒ/-NAmE /laʊndʒ/\ [intransitive]
 
 
 
-lovely		<-->	adjective+A2[-0]	.
+lovely		<-->	adjective++A2	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6584,7 +6592,7 @@ lovely		<-->	adjective+A2[-0]	.
 
 
 
-loving		<-->	adjective+C1[-0]	.
+loving		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6599,7 +6607,7 @@ loving		<-->	adjective+C1[-0]	.
 
 
 
-loyal		<-->	adjective+B2[-0]	.
+loyal		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6614,7 +6622,7 @@ loyal		<-->	adjective+B2[-0]	.
 
 
 
-lump		<-->	noun+C2[-0]	.
+lump		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6629,7 +6637,7 @@ lump		<-->	noun+C2[-0]	.
 
 
 
-macho		<-->	adjective+C2[-0]	.
+macho		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6644,7 +6652,7 @@ macho		<-->	adjective+C2[-0]	.
 
 
 
-magnanimous		<-->	adjective+C2[-0]	.
+magnanimous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6659,7 +6667,7 @@ magnanimous		<-->	adjective+C2[-0]	.
 
 
 
-magnetism		<-->	noun+C2[-0]	.
+magnetism		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6674,7 +6682,7 @@ magnetism		<-->	noun+C2[-0]	.
 
 
 
-make fun of somebody/something		<-->	idiom+B2[-0]	.
+make fun of somebody/something		<-->	idiom++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6689,7 +6697,7 @@ make fun of somebody/something		<-->	idiom+B2[-0]	.
 
 
 
-malefactor		<-->	noun+C2[-0]	.
+malefactor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6704,7 +6712,7 @@ malefactor		<-->	noun+C2[-0]	.
 
 
 
-malicious		<-->	adjective+C1[-0]	.
+malicious		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6719,7 +6727,7 @@ malicious		<-->	adjective+C1[-0]	.
 
 
 
-man		<-->	noun+C1[-0]	.
+man		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6734,7 +6742,7 @@ man		<-->	noun+C1[-0]	.
 
 
 
-manful		<-->	adjective+C2[-0]	.
+manful		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6749,7 +6757,7 @@ manful		<-->	adjective+C2[-0]	.
 
 
 
-mastermind		<-->	noun+C2[-0]	.
+mastermind		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6764,7 +6772,7 @@ mastermind		<-->	noun+C2[-0]	.
 
 
 
-mature		<-->	adjective+C1[-0]	.
+mature		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6779,7 +6787,7 @@ mature		<-->	adjective+C1[-0]	.
 
 
 
-mean		<-->	adjective+C2[-0]	.
+mean		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6794,7 +6802,7 @@ mean		<-->	adjective+C2[-0]	.
 
 
 
-menace		<-->	noun+C1[-0]	.
+menace		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6809,7 +6817,7 @@ menace		<-->	noun+C1[-0]	.
 
 
 
-mercenary		<-->	adjective+C2[-0]	.
+mercenary		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6824,7 +6832,7 @@ mercenary		<-->	adjective+C2[-0]	.
 
 
 
-merciful		<-->	adjective+C2[-0]	.
+merciful		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6839,7 +6847,7 @@ merciful		<-->	adjective+C2[-0]	.
 
 
 
-mercurial		<-->	adjective+C2[-0]	.
+mercurial		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6854,7 +6862,7 @@ mercurial		<-->	adjective+C2[-0]	.
 
 
 
-mercy		<-->	noun+C1[-0]	.
+mercy		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6869,7 +6877,7 @@ mercy		<-->	noun+C1[-0]	.
 
 
 
-meticulous		<-->	adjective+C2[-0]	.
+meticulous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6884,7 +6892,7 @@ meticulous		<-->	adjective+C2[-0]	.
 
 
 
-mild		<-->	adjective+C2[-0]	.
+mild		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6899,7 +6907,7 @@ mild		<-->	adjective+C2[-0]	.
 
 
 
-milksop		<-->	noun+C2[-0]	.
+milksop		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6914,7 +6922,7 @@ milksop		<-->	noun+C2[-0]	.
 
 
 
-mischief		<-->	noun+C2[-0]	.
+mischief		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6929,7 +6937,7 @@ mischief		<-->	noun+C2[-0]	.
 
 
 
-mischievous		<-->	adjective+C2[-0]	.
+mischievous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6944,7 +6952,7 @@ mischievous		<-->	adjective+C2[-0]	.
 
 
 
-miser		<-->	noun+C2[-0]	.
+miser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6959,7 +6967,7 @@ miser		<-->	noun+C2[-0]	.
 
 
 
-miserable		<-->	adjective+C1[-0]	.
+miserable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6974,7 +6982,7 @@ miserable		<-->	adjective+C1[-0]	.
 
 
 
-misle		<-->	adveerb+B2[-0]	.
+misle		<-->	adveerb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6989,7 +6997,7 @@ misle		<-->	adveerb+B2[-0]	.
 
 
 
-misleading		<-->	adjective+C1[-0]	.
+misleading		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7004,7 +7012,7 @@ misleading		<-->	adjective+C1[-0]	.
 
 
 
-misrepresent		<-->	verb+C1	[221125][001]	./ˌmɪsˌreprɪˈzent/-NAmE /ˌmɪsˌreprɪˈzent/ [often passive] (formal)
+misrepresent		<-->	verb++C1	[221125][001]	./ˌmɪsˌreprɪˈzent/-NAmE /ˌmɪsˌreprɪˈzent/ [often passive] (formal)
 	;xuyên tạc -- (1) to give information about somebody/something that is not true or complete so that other people have the wrong impression about them/it
 		;misrepresent somebody/something He felt that the book misrepresented his opinions.
 		;Think carefully about what you say: your views could be easily misrepresented by the press.
@@ -7029,7 +7037,7 @@ misrepresent		<-->	verb+C1	[221125][001]	./ˌmɪsˌreprɪˈzent/-NAmE /ˌmɪsˌr
 
 
 
-mistreat		<-->	verb+C1	[221125][001]	./ˌmɪsˈtriːt/-NAmE /ˌmɪsˈtriːt/
+mistreat		<-->	verb++C1	[221125][001]	./ˌmɪsˈtriːt/-NAmE /ˌmɪsˈtriːt/
 	;ngược đãi -- (1) mistreat somebody/something to treat a person or an animal in a cruel, unkind or unfair way
 		;SYNONYM ill-treat, maltreat
 		;animals that have been mistreated by their owners
@@ -7044,7 +7052,7 @@ mistreat		<-->	verb+C1	[221125][001]	./ˌmɪsˈtriːt/-NAmE /ˌmɪsˈtriːt/
 
 
 
-moan		<-->	verb+C1	[221125][001]	./məʊn/-NAmE /məʊn/
+moan		<-->	verb++C1	[221125][001]	./məʊn/-NAmE /məʊn/
 	;rên rỉ -- (1) [intransitive, transitive] (of a person) to make a long deep sound, usually because you are unhappy or suffering or are experiencing sexual pleasure
 		;SYNONYM groan
 		;<< groan, moan, >>
@@ -7095,7 +7103,7 @@ moan		<-->	verb+C1	[221125][001]	./məʊn/-NAmE /məʊn/
 
 
 
-mock		<-->	verb+C1	[221125][001]	./mɒk/-NAmE /mɑːk/a\
+mock		<-->	verb++C1	[221125][001]	./mɒk/-NAmE /mɑːk/a\
 	;chế nhạo, chế giuễ -- (1) [transitive, intransitive] mock (somebody/something) | mock (somebody) + speech to laugh at somebody/something in an unkind way, especially by copying what they say or do
 		;SYNONYM make fun of
 		;He's always mocking my French accent.
@@ -7129,7 +7137,7 @@ mock		<-->	verb+C1	[221125][001]	./mɒk/-NAmE /mɑːk/a\
 
 
 
-modest		<-->	adjective+B2[-0]	.
+modest		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7144,7 +7152,7 @@ modest		<-->	adjective+B2[-0]	.
 
 
 
-monstrous		<-->	adjective+C2[-0]	.
+monstrous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7159,7 +7167,7 @@ monstrous		<-->	adjective+C2[-0]	.
 
 
 
-moral		<-->	adjective+B2[-0]	.
+moral		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7174,7 +7182,7 @@ moral		<-->	adjective+B2[-0]	.
 
 
 
-moral fibre		<-->	noun+C2[-0]	.
+moral fibre		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7189,7 +7197,7 @@ moral fibre		<-->	noun+C2[-0]	.
 
 
 
-moralist		<-->	noun+C2[-0]	.
+moralist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7204,7 +7212,7 @@ moralist		<-->	noun+C2[-0]	.
 
 
 
-morality		<-->	noun+C1[-0]	.
+morality		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7219,7 +7227,7 @@ morality		<-->	noun+C1[-0]	.
 
 
 
-moralize		<-->	verb+C2	[221125][001]	./ˈmɒrəlaɪz/-NAmE /ˈmɔːrəlaɪz/ (British English also moralise) [intransitive] (usually disapproving)
+moralize		<-->	verb++C2	[221125][001]	./ˈmɒrəlaɪz/-NAmE /ˈmɔːrəlaɪz/ (British English also moralise) [intransitive] (usually disapproving)
 	;giảng đạo -- (1) to tell other people what is right and wrong especially in order to emphasize that your opinions are correct
 		;SYNONYM preach
 		;<< preach, moralize, >>
@@ -7235,7 +7243,7 @@ moralize		<-->	verb+C2	[221125][001]	./ˈmɒrəlaɪz/-NAmE /ˈmɔːrəlaɪz/ (Br
 
 
 
-mordant		<-->	adjective+C2[-0]	.
+mordant		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7250,7 +7258,7 @@ mordant		<-->	adjective+C2[-0]	.
 
 
 
-motivate		<-->	verb+B2	[221125][001]	./cef/
+motivate		<-->	verb++B2	[221125][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7265,7 +7273,7 @@ motivate		<-->	verb+B2	[221125][001]	./cef/
 
 
 
-mouthy		<-->	adjective+C2[-0]	.
+mouthy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7280,7 +7288,7 @@ mouthy		<-->	adjective+C2[-0]	.
 
 
 
-musical		<-->	adjective+B2[-0]	.
+musical		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7295,7 +7303,7 @@ musical		<-->	adjective+B2[-0]	.
 
 
 
-muster		<-->	verb+C2	[221125][001]	./ˈmʌstə(r)/-NAmE /ˈmʌstər/\
+muster		<-->	verb++C2	[221125][001]	./ˈmʌstə(r)/-NAmE /ˈmʌstər/\
 	;tập hợp -- (1) [transitive] muster something (up) to find as much support, courage, etc. as you can
 		;SYNONYM summon
 		;<< summon, muster, gather, >>
@@ -7321,7 +7329,7 @@ muster		<-->	verb+C2	[221125][001]	./ˈmʌstə(r)/-NAmE /ˈmʌstər/\
 
 
 
-narcissism		<-->	noun+C2[-0]	.
+narcissism		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7336,7 +7344,7 @@ narcissism		<-->	noun+C2[-0]	.
 
 
 
-narrow-minded		<-->	adjective+C1[-0]	.
+narrow-minded		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7351,7 +7359,7 @@ narrow-minded		<-->	adjective+C1[-0]	.
 
 
 
-nasty		<-->	adjective+B2[-0]	.
+nasty		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7366,7 +7374,7 @@ nasty		<-->	adjective+B2[-0]	.
 
 
 
-needy		<-->	adjective+C2[-0]	.
+needy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7381,7 +7389,7 @@ needy		<-->	adjective+C2[-0]	.
 
 
 
-nefarious		<-->	adjective+C2[-0]	.
+nefarious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7396,7 +7404,7 @@ nefarious		<-->	adjective+C2[-0]	.
 
 
 
-nerve		<-->	noun+C2[-0]	.
+nerve		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7411,7 +7419,7 @@ nerve		<-->	noun+C2[-0]	.
 
 
 
-nervous		<-->	adjective+B1[-0]	.
+nervous		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7426,7 +7434,7 @@ nervous		<-->	adjective+B1[-0]	.
 
 
 
-ne’er-do-well		<-->	noun+C2[-0]	.
+ne’er-do-well		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7441,7 +7449,7 @@ ne’er-do-well		<-->	noun+C2[-0]	.
 
 
 
-nice		<-->	adjective+A1[-0]	.
+nice		<-->	adjective++A1	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7456,7 +7464,7 @@ nice		<-->	adjective+A1[-0]	.
 
 
 
-nobility		<-->	noun+C2[-0]	.
+nobility		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7471,7 +7479,7 @@ nobility		<-->	noun+C2[-0]	.
 
 
 
-noble		<-->	adjective+C1[-0]	.
+noble		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7486,7 +7494,7 @@ noble		<-->	adjective+C1[-0]	.
 
 
 
-nosey		<-->	adjective+B2[-0]	.
+nosey		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7501,7 +7509,7 @@ nosey		<-->	adjective+B2[-0]	.
 
 
 
-nosy		<-->	adjective+B2[-0]	.
+nosy		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7516,7 +7524,7 @@ nosy		<-->	adjective+B2[-0]	.
 
 
 
-nosy parker		<-->	noun+C2[-0]	.
+nosy parker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7531,7 +7539,7 @@ nosy parker		<-->	noun+C2[-0]	.
 
 
 
-nuisance		<-->	noun+C1[-0]	.
+nuisance		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7546,7 +7554,7 @@ nuisance		<-->	noun+C1[-0]	.
 
 
 
-number one		<-->	noun+C2[-0]	.
+number one		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7561,7 +7569,7 @@ number one		<-->	noun+C2[-0]	.
 
 
 
-obstinate		<-->	adjective+C2[-0]	.
+obstinate		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7576,7 +7584,7 @@ obstinate		<-->	adjective+C2[-0]	.
 
 
 
-offensive		<-->	adjective+B2[-0]	.
+offensive		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7591,7 +7599,7 @@ offensive		<-->	adjective+B2[-0]	.
 
 
 
-open		<-->	adjective+B2[-0]	.
+open		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7606,7 +7614,7 @@ open		<-->	adjective+B2[-0]	.
 
 
 
-open-hearted		<-->	adjective+C1[-0]	.
+open-hearted		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7621,7 +7629,7 @@ open-hearted		<-->	adjective+C1[-0]	.
 
 
 
-open-minded		<-->	adjective+C1[-0]	.
+open-minded		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7636,7 +7644,7 @@ open-minded		<-->	adjective+C1[-0]	.
 
 
 
-openness		<-->	noun+C1[-0]	.
+openness		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7651,7 +7659,7 @@ openness		<-->	noun+C1[-0]	.
 
 
 
-opportunism		<-->	noun+C2[-0]	.
+opportunism		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7666,7 +7674,7 @@ opportunism		<-->	noun+C2[-0]	.
 
 
 
-opportunist		<-->	adjective+C2[-0]	.
+opportunist		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7681,7 +7689,7 @@ opportunist		<-->	adjective+C2[-0]	.
 
 
 
-opportunist		<-->	noun+C2[-0]	.
+opportunist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7696,7 +7704,7 @@ opportunist		<-->	noun+C2[-0]	.
 
 
 
-optimism		<-->	noun+C1[-0]	.
+optimism		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7711,7 +7719,7 @@ optimism		<-->	noun+C1[-0]	.
 
 
 
-optimistic		<-->	adjective+B2[-0]	.
+optimistic		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7726,7 +7734,7 @@ optimistic		<-->	adjective+B2[-0]	.
 
 
 
-organized		<-->	adjective+B1[-0]	.
+organized		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7741,7 +7749,7 @@ organized		<-->	adjective+B1[-0]	.
 
 
 
-outface		<-->	verb+C2	[221125][001]	./ˌaʊtˈfeɪs/-NAmE /ˌaʊtˈfeɪs/ (formal)
+outface		<-->	verb++C2	[221125][001]	./ˌaʊtˈfeɪs/-NAmE /ˌaʊtˈfeɪs/ (formal)
 	;chinh phục -- (1) outface somebody to defeat an enemy or opponent by being brave and remaining confident
 		;TOPICS Personal qualitiesC2
 
@@ -7754,7 +7762,7 @@ outface		<-->	verb+C2	[221125][001]	./ˌaʊtˈfeɪs/-NAmE /ˌaʊtˈfeɪs/ (forma
 
 
 
-outgoing		<-->	adjective+B1[-0]	.
+outgoing		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7769,7 +7777,7 @@ outgoing		<-->	adjective+B1[-0]	.
 
 
 
-overconfident		<-->	adjective+C2[-0]	.
+overconfident		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7784,7 +7792,7 @@ overconfident		<-->	adjective+C2[-0]	.
 
 
 
-over-optimistic		<-->	adjective+C2[-0]	.
+over-optimistic		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7799,7 +7807,7 @@ over-optimistic		<-->	adjective+C2[-0]	.
 
 
 
-overweening		<-->	adjective+C2[-0]	.
+overweening		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7814,7 +7822,7 @@ overweening		<-->	adjective+C2[-0]	.
 
 
 
-pain		<-->	noun+B2[-0]	.
+pain		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7829,7 +7837,7 @@ pain		<-->	noun+B2[-0]	.
 
 
 
-panache		<-->	noun+C2[-0]	.
+panache		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7844,7 +7852,7 @@ panache		<-->	noun+C2[-0]	.
 
 
 
-passionate		<-->	adjective+B2[-0]	.
+passionate		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7859,7 +7867,7 @@ passionate		<-->	adjective+B2[-0]	.
 
 
 
-past master		<-->	noun+C2[-0]	.
+past master		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7874,7 +7882,7 @@ past master		<-->	noun+C2[-0]	.
 
 
 
-patience		<-->	noun+B2[-0]	.
+patience		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7889,7 +7897,7 @@ patience		<-->	noun+B2[-0]	.
 
 
 
-patient		<-->	adjective+B2[-0]	.
+patient		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7904,7 +7912,7 @@ patient		<-->	adjective+B2[-0]	.
 
 
 
-people skills		<-->	noun+B2[-0]	.
+people skills		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7919,7 +7927,7 @@ people skills		<-->	noun+B2[-0]	.
 
 
 
-pep		<-->	noun+C2[-0]	.
+pep		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7934,7 +7942,7 @@ pep		<-->	noun+C2[-0]	.
 
 
 
-peppy		<-->	adjective+C2[-0]	.
+peppy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7949,7 +7957,7 @@ peppy		<-->	adjective+C2[-0]	.
 
 
 
-perk up		<-->	phrasal veerb+C2[-0]	.
+perk up		<-->	phrasal veerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7964,7 +7972,7 @@ perk up		<-->	phrasal veerb+C2[-0]	.
 
 
 
-perky		<-->	adjective+C2[-0]	.
+perky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7979,7 +7987,7 @@ perky		<-->	adjective+C2[-0]	.
 
 
 
-personable		<-->	adjective+C2[-0]	.
+personable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7994,7 +8002,7 @@ personable		<-->	adjective+C2[-0]	.
 
 
 
-petty		<-->	adjective+C2[-0]	.
+petty		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8009,7 +8017,7 @@ petty		<-->	adjective+C2[-0]	.
 
 
 
-phoney		<-->	adjective+C2[-0]	.
+phoney		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8024,7 +8032,7 @@ phoney		<-->	adjective+C2[-0]	.
 
 
 
-phony		<-->	adjective+C2[-0]	.
+phony		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8039,7 +8047,7 @@ phony		<-->	adjective+C2[-0]	.
 
 
 
-pig-headed		<-->	adjective+C2[-0]	.
+pig-headed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8054,7 +8062,7 @@ pig-headed		<-->	adjective+C2[-0]	.
 
 
 
-pizzazz		<-->	noun+C2[-0]	.
+pizzazz		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8069,7 +8077,7 @@ pizzazz		<-->	noun+C2[-0]	.
 
 
 
-plain		<-->	adjective+C1[-0]	.
+plain		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8084,7 +8092,7 @@ plain		<-->	adjective+C1[-0]	.
 
 
 
-pleasant		<-->	adjective+B1[-0]	.
+pleasant		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8099,7 +8107,7 @@ pleasant		<-->	adjective+B1[-0]	.
 
 
 
-pluck		<-->	noun+C2[-0]	.
+pluck		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8114,7 +8122,7 @@ pluck		<-->	noun+C2[-0]	.
 
 
 
-plucky		<-->	adjective+C2[-0]	.
+plucky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8129,7 +8137,7 @@ plucky		<-->	adjective+C2[-0]	.
 
 
 
-poise		<-->	noun+C2[-0]	.
+poise		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8144,7 +8152,7 @@ poise		<-->	noun+C2[-0]	.
 
 
 
-poised		<-->	adjective+C2[-0]	.
+poised		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8159,7 +8167,7 @@ poised		<-->	adjective+C2[-0]	.
 
 
 
-poke fun at somebody/something		<-->	idiom+C2[-0]	.
+poke fun at somebody/something		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8174,7 +8182,7 @@ poke fun at somebody/something		<-->	idiom+C2[-0]	.
 
 
 
-polished		<-->	adjective+C2[-0]	.
+polished		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8189,7 +8197,7 @@ polished		<-->	adjective+C2[-0]	.
 
 
 
-polite		<-->	adjective+A2[-0]	.
+polite		<-->	adjective++A2	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8204,7 +8212,7 @@ polite		<-->	adjective+A2[-0]	.
 
 
 
-positive		<-->	adjective+B1[-0]	.
+positive		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8219,7 +8227,7 @@ positive		<-->	adjective+B1[-0]	.
 
 
 
-positivity		<-->	noun+C2[-0]	.
+positivity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8234,7 +8242,7 @@ positivity		<-->	noun+C2[-0]	.
 
 
 
-possessive		<-->	adjective+C2[-0]	.
+possessive		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8249,7 +8257,7 @@ possessive		<-->	adjective+C2[-0]	.
 
 
 
-potential		<-->	noun+B2[-0]	.
+potential		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8264,7 +8272,7 @@ potential		<-->	noun+B2[-0]	.
 
 
 
-powerhouse		<-->	noun+C2[-0]	.
+powerhouse		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8279,7 +8287,7 @@ powerhouse		<-->	noun+C2[-0]	.
 
 
 
-practical		<-->	adjective+B2[-0]	.
+practical		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8294,7 +8302,7 @@ practical		<-->	adjective+B2[-0]	.
 
 
 
-preach		<-->	verb+C1	[221125][001]	./cef/
+preach		<-->	verb++C1	[221125][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8309,7 +8317,7 @@ preach		<-->	verb+C1	[221125][001]	./cef/
 
 
 
-preen		<-->	verb+C2	[221125][001]	./priːn/-NAmE /priːn/
+preen		<-->	verb++C2	[221125][001]	./priːn/-NAmE /priːn/
 	;trang điểm -- (1) ​[transitive, intransitive] preen (yourself) (usually disapproving) to spend a lot of time making yourself look attractive and then admiring your appearance
 		;Will you stop preening yourself in front of the mirror?
 	;tự hài lòng -- (2) [transitive] preen yourself (on something) (usually disapproving) to feel very pleased with yourself about something and show other people how pleased you are
@@ -8326,7 +8334,7 @@ preen		<-->	verb+C2	[221125][001]	./priːn/-NAmE /priːn/
 
 
 
-prejudiced		<-->	adjective+C2[-0]	.
+prejudiced		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8341,7 +8349,7 @@ prejudiced		<-->	adjective+C2[-0]	.
 
 
 
-presumption		<-->	noun+C2[-0]	.
+presumption		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8356,7 +8364,7 @@ presumption		<-->	noun+C2[-0]	.
 
 
 
-presumptuous		<-->	adjective+C2[-0]	.
+presumptuous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8371,7 +8379,7 @@ presumptuous		<-->	adjective+C2[-0]	.
 
 
 
-pretend		<-->	verb+B1	[221125][001]	./cef/
+pretend		<-->	verb++B1	[221125][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8386,7 +8394,7 @@ pretend		<-->	verb+B1	[221125][001]	./cef/
 
 
 
-pride		<-->	noun+B2[-0]	.
+pride		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8401,7 +8409,7 @@ pride		<-->	noun+B2[-0]	.
 
 
 
-Prince Charming		<-->	noun+C2[-0]	.
+Prince Charming		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8416,7 +8424,7 @@ Prince Charming		<-->	noun+C2[-0]	.
 
 
 
-principle		<-->	noun+B2[-0]	.
+principle		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8431,7 +8439,7 @@ principle		<-->	noun+B2[-0]	.
 
 
 
-principled		<-->	adjective+C1[-0]	.
+principled		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8446,7 +8454,7 @@ principled		<-->	adjective+C1[-0]	.
 
 
 
-proactive		<-->	adjective+C2[-0]	.
+proactive		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8461,7 +8469,7 @@ proactive		<-->	adjective+C2[-0]	.
 
 
 
-prodigy		<-->	noun+B2[-0]	.
+prodigy		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8476,7 +8484,7 @@ prodigy		<-->	noun+B2[-0]	.
 
 
 
-profess		<-->	verb+C1	[221125][001]	./prəˈfes/-NAmE /prəˈfes/ (formal)
+profess		<-->	verb++C1	[221125][001]	./prəˈfes/-NAmE /prəˈfes/ (formal)
 	;tuyên bố -- (1) to claim that something is true or correct, especially when it is not
 		;profess something She still professes her innocence.
 		;profess to be/have something I don't profess to be an expert in this subject.
@@ -8494,7 +8502,7 @@ profess		<-->	verb+C1	[221125][001]	./prəˈfes/-NAmE /prəˈfes/ (formal)
 
 
 
-professional		<-->	adjective+B1[-0]	.
+professional		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8509,7 +8517,7 @@ professional		<-->	adjective+B1[-0]	.
 
 
 
-proper		<-->	adjective+C2[-0]	.
+proper		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8524,7 +8532,7 @@ proper		<-->	adjective+C2[-0]	.
 
 
 
-proud		<-->	adjective+B1[-0]	.
+proud		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8539,7 +8547,7 @@ proud		<-->	adjective+B1[-0]	.
 
 
 
-prude		<-->	noun+C2[-0]	.
+prude		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8554,7 +8562,7 @@ prude		<-->	noun+C2[-0]	.
 
 
 
-prudish		<-->	adjective+C2[-0]	.
+prudish		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8569,7 +8577,7 @@ prudish		<-->	adjective+C2[-0]	.
 
 
 
-punky		<-->	adjective+C2[-0]	.
+punky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8584,7 +8592,7 @@ punky		<-->	adjective+C2[-0]	.
 
 
 
-puritan		<-->	noun+C2[-0]	.
+puritan		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8599,7 +8607,7 @@ puritan		<-->	noun+C2[-0]	.
 
 
 
-puritanical		<-->	adjective+C2[-0]	.
+puritanical		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8614,7 +8622,7 @@ puritanical		<-->	adjective+C2[-0]	.
 
 
 
-pushy		<-->	adjective+C1[-0]	.
+pushy		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8629,7 +8637,7 @@ pushy		<-->	adjective+C1[-0]	.
 
 
 
-pussycat		<-->	noun+C2[-0]	.
+pussycat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8644,7 +8652,7 @@ pussycat		<-->	noun+C2[-0]	.
 
 
 
-quality		<-->	noun+B1[-0]	.
+quality		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8659,7 +8667,7 @@ quality		<-->	noun+B1[-0]	.
 
 
 
-quick-witted		<-->	adjective+C2[-0]	.
+quick-witted		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8674,7 +8682,7 @@ quick-witted		<-->	adjective+C2[-0]	.
 
 
 
-raffish		<-->	adjective+C2[-0]	.
+raffish		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8689,7 +8697,7 @@ raffish		<-->	adjective+C2[-0]	.
 
 
 
-rambunctious		<-->	adjective+C2[-0]	.
+rambunctious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8704,7 +8712,7 @@ rambunctious		<-->	adjective+C2[-0]	.
 
 
 
-rational		<-->	adjective+C1[-0]	.
+rational		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8719,7 +8727,7 @@ rational		<-->	adjective+C1[-0]	.
 
 
 
-razor-sharp		<-->	adjective+C2[-0]	.
+razor-sharp		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8734,7 +8742,7 @@ razor-sharp		<-->	adjective+C2[-0]	.
 
 
 
-rebel		<-->	noun+C1[-0]	.
+rebel		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8749,7 +8757,7 @@ rebel		<-->	noun+C1[-0]	.
 
 
 
-rebel		<-->	verb+C1	[221125][001]	./rɪˈbel/-NAmE /rɪˈbel/\ [intransitive]
+rebel		<-->	verb++C1	[221125][001]	./rɪˈbel/-NAmE /rɪˈbel/\ [intransitive]
 	;chống lại -- (1) rebel (against somebody/something) to fight against or refuse to obey an authority, for example a government, a system, your parents, etc.
 		;He later rebelled against his strict religious upbringing.
 		;Most teenagers find something to rebel against.
@@ -8767,7 +8775,7 @@ rebel		<-->	verb+C1	[221125][001]	./rɪˈbel/-NAmE /rɪˈbel/\ [intransitive]
 
 
 
-rebellious		<-->	adjective+C1[-0]	.
+rebellious		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8782,7 +8790,7 @@ rebellious		<-->	adjective+C1[-0]	.
 
 
 
-rebuff		<-->	verb+C2	[221125][001]	./rɪˈbʌf/-NAmE /rɪˈbʌf/ (formal)
+rebuff		<-->	verb++C2	[221125][001]	./rɪˈbʌf/-NAmE /rɪˈbʌf/ (formal)
 	; phản đối -- (1) rebuff something to refuse a friendly offer, request or suggestion in an unkind way
 		;SYNONYM reject (1)
 		;They rebuffed her request for help.
@@ -8797,7 +8805,7 @@ rebuff		<-->	verb+C2	[221125][001]	./rɪˈbʌf/-NAmE /rɪˈbʌf/ (formal)
 
 
 
-rebuff		<-->	noun+C2[-0]	.
+rebuff		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8812,7 +8820,7 @@ rebuff		<-->	noun+C2[-0]	.
 
 
 
-rectitude		<-->	noun+C2[-0]	.
+rectitude		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8827,7 +8835,7 @@ rectitude		<-->	noun+C2[-0]	.
 
 
 
-relatable		<-->	adjective+C1[-0]	.
+relatable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8842,7 +8850,7 @@ relatable		<-->	adjective+C1[-0]	.
 
 
 
-relaxed		<-->	adjective+B1[-0]	.
+relaxed		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8857,7 +8865,7 @@ relaxed		<-->	adjective+B1[-0]	.
 
 
 
-reliable		<-->	adjective+B1[-0]	.
+reliable		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8872,7 +8880,7 @@ reliable		<-->	adjective+B1[-0]	.
 
 
 
-Renaissance man		<-->	noun+C2[-0]	.
+Renaissance man		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8887,7 +8895,7 @@ Renaissance man		<-->	noun+C2[-0]	.
 
 
 
-Renaissance woman		<-->	noun+C2[-0]	.
+Renaissance woman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8902,7 +8910,7 @@ Renaissance woman		<-->	noun+C2[-0]	.
 
 
 
-reprobate		<-->	adjective+C2[-0]	.
+reprobate		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8917,7 +8925,7 @@ reprobate		<-->	adjective+C2[-0]	.
 
 
 
-reprobate		<-->	noun+C2[-0]	.
+reprobate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8932,7 +8940,7 @@ reprobate		<-->	noun+C2[-0]	.
 
 
 
-resentful		<-->	adjective+C1[-0]	.
+resentful		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8947,7 +8955,7 @@ resentful		<-->	adjective+C1[-0]	.
 
 
 
-responsible		<-->	adjective+B2[-0]	.
+responsible		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8962,7 +8970,7 @@ responsible		<-->	adjective+B2[-0]	.
 
 
 
-ridicule		<-->	noun+C1[-0]	.
+ridicule		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8977,7 +8985,7 @@ ridicule		<-->	noun+C1[-0]	.
 
 
 
-ridicule		<-->	verb+C1	[221125][001]	./ˈrɪdɪkjuːl/-NAmE /ˈrɪdɪkjuːl/
+ridicule		<-->	verb++C1	[221125][001]	./ˈrɪdɪkjuːl/-NAmE /ˈrɪdɪkjuːl/
 	;chế giuễ -- (1) ridicule somebody/something to make somebody/something look silly by laughing at them or it in an unkind way
 		;They ridicule the president as a man who has lost control of events.
 		;At first, his theory was ridiculed and dismissed.
@@ -8997,7 +9005,7 @@ ridicule		<-->	verb+C1	[221125][001]	./ˈrɪdɪkjuːl/-NAmE /ˈrɪdɪkjuːl/
 
 
 
-rogue		<-->	noun+C1[-0]	.
+rogue		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9012,7 +9020,7 @@ rogue		<-->	noun+C1[-0]	.
 
 
 
-rude		<-->	adjective+A2[-0]	.
+rude		<-->	adjective++A2	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9027,7 +9035,7 @@ rude		<-->	adjective+A2[-0]	.
 
 
 
-rumbustious		<-->	adjective+C2[-0]	.
+rumbustious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9042,7 +9050,7 @@ rumbustious		<-->	adjective+C2[-0]	.
 
 
 
-saint		<-->	noun+C1[-0]	.
+saint		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9057,7 +9065,7 @@ saint		<-->	noun+C1[-0]	.
 
 
 
-sangfroid		<-->	noun+C2[-0]	.
+sangfroid		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9072,7 +9080,7 @@ sangfroid		<-->	noun+C2[-0]	.
 
 
 
-sanguine		<-->	adjective+C2[-0]	.
+sanguine		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9087,7 +9095,7 @@ sanguine		<-->	adjective+C2[-0]	.
 
 
 
-sap		<-->	noun+C2[-0]	.
+sap		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9102,7 +9110,7 @@ sap		<-->	noun+C2[-0]	.
 
 
 
-sarcasm		<-->	noun+C2[-0]	.
+sarcasm		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9117,7 +9125,7 @@ sarcasm		<-->	noun+C2[-0]	.
 
 
 
-sassy		<-->	adjective+C2[-0]	.
+sassy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9132,7 +9140,7 @@ sassy		<-->	adjective+C2[-0]	.
 
 
 
-scorn		<-->	verb+C2[-0]	.skɔːn/-NAmE /skɔːrn/
+scorn		<-->	verb++C2[-0]	.skɔːn/-NAmE /skɔːrn/
 	;bác bỏ, chê bai -- (1) scorn somebody/something to feel or show that you think somebody/something is stupid and you do not respect them or it
 		;SYNONYM dismiss
 		;She scorned their views as old-fashioned.
@@ -9153,7 +9161,7 @@ scorn		<-->	verb+C2[-0]	.skɔːn/-NAmE /skɔːrn/
 
 
 
-scoundrel		<-->	noun+C2[-0]	.
+scoundrel		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9168,7 +9176,7 @@ scoundrel		<-->	noun+C2[-0]	.
 
 
 
-scrupulous		<-->	adjective+C2[-0]	.
+scrupulous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9183,7 +9191,7 @@ scrupulous		<-->	adjective+C2[-0]	.
 
 
 
-secretive		<-->	adjective+C1[-0]	.
+secretive		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9198,7 +9206,7 @@ secretive		<-->	adjective+C1[-0]	.
 
 
 
-secure		<-->	adjective+B2[-0]	.
+secure		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9213,7 +9221,7 @@ secure		<-->	adjective+B2[-0]	.
 
 
 
-seedy		<-->	adjective+C2[-0]	.
+seedy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9228,7 +9236,7 @@ seedy		<-->	adjective+C2[-0]	.
 
 
 
-self-absorbed		<-->	adjective+C2[-0]	.
+self-absorbed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9243,7 +9251,7 @@ self-absorbed		<-->	adjective+C2[-0]	.
 
 
 
-self-assertive		<-->	adjective+C2[-0]	.
+self-assertive		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9258,7 +9266,7 @@ self-assertive		<-->	adjective+C2[-0]	.
 
 
 
-self-assurance		<-->	noun+C2[-0]	.
+self-assurance		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9273,7 +9281,7 @@ self-assurance		<-->	noun+C2[-0]	.
 
 
 
-self-assured		<-->	adjective+C2[-0]	.
+self-assured		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9288,7 +9296,7 @@ self-assured		<-->	adjective+C2[-0]	.
 
 
 
-self-centred		<-->	adjective+C1[-0]	.
+self-centred		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9303,7 +9311,7 @@ self-centred		<-->	adjective+C1[-0]	.
 
 
 
-self-confidence		<-->	noun+B2[-0]	.
+self-confidence		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9318,7 +9326,7 @@ self-confidence		<-->	noun+B2[-0]	.
 
 
 
-self-confident		<-->	adjective+B2[-0]	.
+self-confident		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9333,7 +9341,7 @@ self-confident		<-->	adjective+B2[-0]	.
 
 
 
-self-congratulation		<-->	noun+C2[-0]	.
+self-congratulation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9348,7 +9356,7 @@ self-congratulation		<-->	noun+C2[-0]	.
 
 
 
-self-congratulatory		<-->	adjective+C2[-0]	.
+self-congratulatory		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9363,7 +9371,7 @@ self-congratulatory		<-->	adjective+C2[-0]	.
 
 
 
-self-deprecating		<-->	adjective+C2[-0]	.
+self-deprecating		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9378,7 +9386,7 @@ self-deprecating		<-->	adjective+C2[-0]	.
 
 
 
-self-indulgence		<-->	noun+C2[-0]	.
+self-indulgence		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9393,7 +9401,7 @@ self-indulgence		<-->	noun+C2[-0]	.
 
 
 
-self-indulgent		<-->	adjective+C2[-0]	.
+self-indulgent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9408,7 +9416,7 @@ self-indulgent		<-->	adjective+C2[-0]	.
 
 
 
-selfish		<-->	adjective+B1[-0]	.
+selfish		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9423,7 +9431,7 @@ selfish		<-->	adjective+B1[-0]	.
 
 
 
-self-motivated		<-->	adjective+C1[-0]	.
+self-motivated		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9438,7 +9446,7 @@ self-motivated		<-->	adjective+C1[-0]	.
 
 
 
-self-motivation		<-->	noun+C2[-0]	.
+self-motivation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9453,7 +9461,7 @@ self-motivation		<-->	noun+C2[-0]	.
 
 
 
-self-pity		<-->	noun+C1[-0]	.
+self-pity		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9468,7 +9476,7 @@ self-pity		<-->	noun+C1[-0]	.
 
 
 
-self-possessed		<-->	adjective+C2[-0]	.
+self-possessed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9483,7 +9491,7 @@ self-possessed		<-->	adjective+C2[-0]	.
 
 
 
-self-possession		<-->	noun+C2[-0]	.
+self-possession		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9498,7 +9506,7 @@ self-possession		<-->	noun+C2[-0]	.
 
 
 
-self-regard		<-->	noun+C2[-0]	.
+self-regard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9513,7 +9521,7 @@ self-regard		<-->	noun+C2[-0]	.
 
 
 
-self-regarding		<-->	adjective+C2[-0]	.
+self-regarding		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9528,7 +9536,7 @@ self-regarding		<-->	adjective+C2[-0]	.
 
 
 
-self-reliance		<-->	noun+C2[-0]	.
+self-reliance		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9543,7 +9551,7 @@ self-reliance		<-->	noun+C2[-0]	.
 
 
 
-self-reliant		<-->	adjective+C2[-0]	.
+self-reliant		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9558,7 +9566,7 @@ self-reliant		<-->	adjective+C2[-0]	.
 
 
 
-self-respect		<-->	noun+C2[-0]	.
+self-respect		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9573,7 +9581,7 @@ self-respect		<-->	noun+C2[-0]	.
 
 
 
-self-respecting		<-->	adjective+C2[-0]	.
+self-respecting		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9588,7 +9596,7 @@ self-respecting		<-->	adjective+C2[-0]	.
 
 
 
-self-satisfied		<-->	adjective+C2[-0]	.
+self-satisfied		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9603,7 +9611,7 @@ self-satisfied		<-->	adjective+C2[-0]	.
 
 
 
-self-serving		<-->	adjective+C2[-0]	.
+self-serving		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9618,7 +9626,7 @@ self-serving		<-->	adjective+C2[-0]	.
 
 
 
-self-starter		<-->	noun+C2[-0]	.
+self-starter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9633,7 +9641,7 @@ self-starter		<-->	noun+C2[-0]	.
 
 
 
-self-worth		<-->	noun+C2[-0]	.
+self-worth		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9648,7 +9656,7 @@ self-worth		<-->	noun+C2[-0]	.
 
 
 
-sensible		<-->	adjective+B1[-0]	.
+sensible		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9663,7 +9671,7 @@ sensible		<-->	adjective+B1[-0]	.
 
 
 
-sensitive		<-->	adjective+B2[-0]	.
+sensitive		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9678,7 +9686,7 @@ sensitive		<-->	adjective+B2[-0]	.
 
 
 
-sermonize		<-->	verb+C2	[221125][001]	./ˈsɜːmənaɪz/-NAmE /ˈsɜːrmənaɪz/ (British English also sermonise) [intransitive] (disapproving)
+sermonize		<-->	verb++C2	[221125][001]	./ˈsɜːmənaɪz/-NAmE /ˈsɜːrmənaɪz/ (British English also sermonise) [intransitive] (disapproving)
 	;bàn về đạo đức -- (1) to give moral advice, especially when it is boring or not wanted
 		;SYNONYM moralize
 		;<< moralize, sermonize, >>
@@ -9693,7 +9701,7 @@ sermonize		<-->	verb+C2	[221125][001]	./ˈsɜːmənaɪz/-NAmE /ˈsɜːrmənaɪz/
 
 
 
-shamble		<-->	verb+C2	[221125][001]	./ˈʃæmbl/-NAmE /ˈʃæmbl/ [intransitive]
+shamble		<-->	verb++C2	[221125][001]	./ˈʃæmbl/-NAmE /ˈʃæmbl/ [intransitive]
 	;lủi thủi -- (1) (+ adv./prep.) to walk in a slow and lazy way or with difficulty, dragging your feet along the ground
 		;The old porter shambled along behind her.
 		;He shambled off into the house.
@@ -9711,7 +9719,7 @@ shamble		<-->	verb+C2	[221125][001]	./ˈʃæmbl/-NAmE /ˈʃæmbl/ [intransitive]
 
 
 
-sharp		<-->	adjective+B2[-0]	.
+sharp		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9726,7 +9734,7 @@ sharp		<-->	adjective+B2[-0]	.
 
 
 
-shiftless		<-->	adjective+C2[-0]	.
+shiftless		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9741,7 +9749,7 @@ shiftless		<-->	adjective+C2[-0]	.
 
 
 
-shifty		<-->	adjective+C2[-0]	.
+shifty		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9756,7 +9764,7 @@ shifty		<-->	adjective+C2[-0]	.
 
 
 
-shirk		<-->	verb+C2	[221125][001]	./ʃɜːk/-NAmE /ʃɜːrk/ [intransitive, transitive] (disapproving)
+shirk		<-->	verb++C2	[221125][001]	./ʃɜːk/-NAmE /ʃɜːrk/ [intransitive, transitive] (disapproving)
 	;lẩn tránh, tránh né -- (1) to avoid doing something you should do, especially because you are too lazy
 		;Discipline in the company was strict and no one shirked.
 		;shirk from something/doing something A determined burglar will not shirk from breaking a window to gain entry.
@@ -9777,7 +9785,7 @@ shirk		<-->	verb+C2	[221125][001]	./ʃɜːk/-NAmE /ʃɜːrk/ [intransitive, tran
 
 
 
-shirker		<-->	noun+C2[-0]	.
+shirker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9792,7 +9800,7 @@ shirker		<-->	noun+C2[-0]	.
 
 
 
-shoot your mouth off (about something)		<-->	idiom+C2[-0]	.
+shoot your mouth off (about something)		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9807,7 +9815,7 @@ shoot your mouth off (about something)		<-->	idiom+C2[-0]	.
 
 
 
-show off		<-->	phrasal veerb+B2[-0]	.
+show off		<-->	phrasal veerb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9822,7 +9830,7 @@ show off		<-->	phrasal veerb+B2[-0]	.
 
 
 
-shrewd		<-->	adjective+C2[-0]	.
+shrewd		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9837,7 +9845,7 @@ shrewd		<-->	adjective+C2[-0]	.
 
 
 
-shy		<-->	adjective+B1[-0]	.
+shy		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9852,7 +9860,7 @@ shy		<-->	adjective+B1[-0]	.
 
 
 
-skill		<-->	noun+A1[-0]	.
+skill		<-->	noun++A1	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9867,7 +9875,7 @@ skill		<-->	noun+A1[-0]	.
 
 
 
-skilled		<-->	adjective+B2[-0]	.
+skilled		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9882,7 +9890,7 @@ skilled		<-->	adjective+B2[-0]	.
 
 
 
-skill set		<-->	noun+B2[-0]	.
+skill set		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9897,7 +9905,7 @@ skill set		<-->	noun+B2[-0]	.
 
 
 
-slacker		<-->	noun+C2[-0]	.
+slacker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9912,7 +9920,7 @@ slacker		<-->	noun+C2[-0]	.
 
 
 
-sleaze		<-->	noun+C2[-0]	.
+sleaze		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9927,7 +9935,7 @@ sleaze		<-->	noun+C2[-0]	.
 
 
 
-sleazy		<-->	adjective+C2[-0]	.
+sleazy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9942,7 +9950,7 @@ sleazy		<-->	adjective+C2[-0]	.
 
 
 
-slob		<-->	noun+C2[-0]	.
+slob		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9957,7 +9965,7 @@ slob		<-->	noun+C2[-0]	.
 
 
 
-slob around		<-->	phrasal veerb+C2[-0]	.
+slob around		<-->	phrasal veerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9972,7 +9980,7 @@ slob around		<-->	phrasal veerb+C2[-0]	.
 
 
 
-slob out		<-->	phrasal veerb+C2[-0]	.
+slob out		<-->	phrasal veerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9987,7 +9995,7 @@ slob out		<-->	phrasal veerb+C2[-0]	.
 
 
 
-sloth		<-->	noun+C2[-0]	.
+sloth		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10002,7 +10010,7 @@ sloth		<-->	noun+C2[-0]	.
 
 
 
-slothful		<-->	adjective+C2[-0]	.
+slothful		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10017,7 +10025,7 @@ slothful		<-->	adjective+C2[-0]	.
 
 
 
-slouch		<-->	noun+C2[-0]	.
+slouch		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10032,7 +10040,7 @@ slouch		<-->	noun+C2[-0]	.
 
 
 
-slouchy		<-->	adjective+C2[-0]	.
+slouchy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10047,7 +10055,7 @@ slouchy		<-->	adjective+C2[-0]	.
 
 
 
-sluggard		<-->	noun+C2[-0]	.
+sluggard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10062,7 +10070,7 @@ sluggard		<-->	noun+C2[-0]	.
 
 
 
-sluggish		<-->	adjective+C2[-0]	.
+sluggish		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10077,7 +10085,7 @@ sluggish		<-->	adjective+C2[-0]	.
 
 
 
-sly		<-->	adjective+C2[-0]	.
+sly		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10092,7 +10100,7 @@ sly		<-->	adjective+C2[-0]	.
 
 
 
-smart		<-->	adjective+B1[-0]	.
+smart		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10107,7 +10115,7 @@ smart		<-->	adjective+B1[-0]	.
 
 
 
-smear		<-->	verb+C2	[221125][001]	./smɪə(r)/-NAmE /smɪr/\
+smear		<-->	verb++C2	[221125][001]	./smɪə(r)/-NAmE /smɪr/\
 	;thoa -- (1) [transitive] to spread an oily or soft substance over a surface in a rough or careless way
 		;SYNONYM daub
 		;smear something on/over something The children had smeared mud on the walls.
@@ -10139,7 +10147,7 @@ smear		<-->	verb+C2	[221125][001]	./smɪə(r)/-NAmE /smɪr/\
 
 
 
-smoothly		<-->	adveerb+C2[-0]	.
+smoothly		<-->	adveerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10154,7 +10162,7 @@ smoothly		<-->	adveerb+C2[-0]	.
 
 
 
-smug		<-->	adjective+C2[-0]	.
+smug		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10169,7 +10177,7 @@ smug		<-->	adjective+C2[-0]	.
 
 
 
-snide		<-->	adjective+C2[-0]	.
+snide		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10184,7 +10192,7 @@ snide		<-->	adjective+C2[-0]	.
 
 
 
-sociable		<-->	adjective+B1[-0]	.
+sociable		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10199,7 +10207,7 @@ sociable		<-->	adjective+B1[-0]	.
 
 
 
-soft		<-->	adjective+C2[-0]	.
+soft		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10214,7 +10222,7 @@ soft		<-->	adjective+C2[-0]	.
 
 
 
-soft-hearted		<-->	adjective+C2[-0]	.
+soft-hearted		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10229,7 +10237,7 @@ soft-hearted		<-->	adjective+C2[-0]	.
 
 
 
-softie		<-->	noun+C2[-0]	.
+softie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10244,7 +10252,7 @@ softie		<-->	noun+C2[-0]	.
 
 
 
-softy		<-->	noun+C2[-0]	.
+softy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10259,7 +10267,7 @@ softy		<-->	noun+C2[-0]	.
 
 
 
-sordid		<-->	adjective+C2[-0]	.
+sordid		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10274,7 +10282,7 @@ sordid		<-->	adjective+C2[-0]	.
 
 
 
-sparkle		<-->	verb+C2	[221125][001]	./ˈspɑːkl/-NAmE /ˈspɑːrkl/\
+sparkle		<-->	verb++C2	[221125][001]	./ˈspɑːkl/-NAmE /ˈspɑːrkl/\
 	;lấp lánh -- (1) [intransitive] sparkle (with something) to shine brightly with small flashes of light
 		;sparkling eyes
 		;Her jewellery sparkled in the candlelight.
@@ -10300,7 +10308,7 @@ sparkle		<-->	verb+C2	[221125][001]	./ˈspɑːkl/-NAmE /ˈspɑːrkl/\
 
 
 
-sparkle		<-->	noun+C2[-0]	.
+sparkle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10315,7 +10323,7 @@ sparkle		<-->	noun+C2[-0]	.
 
 
 
-spin (somebody) a yarn, tale, etc.		<-->	idiom+C2[-0]	.
+spin (somebody) a yarn, tale, etc.		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10330,7 +10338,7 @@ spin (somebody) a yarn, tale, etc.		<-->	idiom+C2[-0]	.
 
 
 
-spirit		<-->	noun+B2[-0]	.
+spirit		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10345,7 +10353,7 @@ spirit		<-->	noun+B2[-0]	.
 
 
 
-spirited		<-->	adjective+C2[-0]	.
+spirited		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10360,7 +10368,7 @@ spirited		<-->	adjective+C2[-0]	.
 
 
 
-spiteful		<-->	adjective+C2[-0]	.
+spiteful		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10375,7 +10383,7 @@ spiteful		<-->	adjective+C2[-0]	.
 
 
 
-sprightly		<-->	adjective+C2[-0]	.
+sprightly		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10390,7 +10398,7 @@ sprightly		<-->	adjective+C2[-0]	.
 
 
 
-springy		<-->	adjective+C2[-0]	.
+springy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10405,7 +10413,7 @@ springy		<-->	adjective+C2[-0]	.
 
 
 
-spry		<-->	adjective+C2[-0]	.
+spry		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10420,7 +10428,7 @@ spry		<-->	adjective+C2[-0]	.
 
 
 
-spunk		<-->	noun+C2[-0]	.
+spunk		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10435,7 +10443,7 @@ spunk		<-->	noun+C2[-0]	.
 
 
 
-spurn		<-->	verb+C2	[221125][001]	./spɜːn/-NAmE /spɜːrn/ (formal or literary)
+spurn		<-->	verb++C2	[221125][001]	./spɜːn/-NAmE /spɜːrn/ (formal or literary)
 	;hắt hủi -- (1) spurn somebody/something to reject or refuse somebody/something, especially in a proud way
 		;SYNONYM shun
 		;<< shun, spurn, >>
@@ -10462,7 +10470,7 @@ spurn		<-->	verb+C2	[221125][001]	./spɜːn/-NAmE /spɜːrn/ (formal or literary
 
 
 
-square		<-->	adjective+C2[-0]	.
+square		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10477,7 +10485,7 @@ square		<-->	adjective+C2[-0]	.
 
 
 
-stand tall		<-->	idiom+C2[-0]	.
+stand tall		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10492,7 +10500,7 @@ stand tall		<-->	idiom+C2[-0]	.
 
 
 
-staunch		<-->	adjective+C2[-0]	.
+staunch		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10507,7 +10515,7 @@ staunch		<-->	adjective+C2[-0]	.
 
 
 
-stiff-necked		<-->	adjective+C2[-0]	.
+stiff-necked		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10522,7 +10530,7 @@ stiff-necked		<-->	adjective+C2[-0]	.
 
 
 
-stout		<-->	adjective+C2[-0]	.
+stout		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10537,7 +10545,7 @@ stout		<-->	adjective+C2[-0]	.
 
 
 
-stout-hearted		<-->	adjective+C2[-0]	.
+stout-hearted		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10552,7 +10560,7 @@ stout-hearted		<-->	adjective+C2[-0]	.
 
 
 
-straight		<-->	adjective+C2[-0]	.
+straight		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10567,7 +10575,7 @@ straight		<-->	adjective+C2[-0]	.
 
 
 
-straightforward		<-->	adjective+C1[-0]	.
+straightforward		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10582,7 +10590,7 @@ straightforward		<-->	adjective+C1[-0]	.
 
 
 
-straight-laced		<-->	adjective+C2[-0]	.
+straight-laced		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10597,7 +10605,7 @@ straight-laced		<-->	adjective+C2[-0]	.
 
 
 
-strait-laced		<-->	adjective+C2[-0]	.
+strait-laced		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10612,7 +10620,7 @@ strait-laced		<-->	adjective+C2[-0]	.
 
 
 
-street-smart		<-->	adjective+C2[-0]	.
+street-smart		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10627,7 +10635,7 @@ street-smart		<-->	adjective+C2[-0]	.
 
 
 
-street smarts		<-->	noun+C2[-0]	.
+street smarts		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10642,7 +10650,7 @@ street smarts		<-->	noun+C2[-0]	.
 
 
 
-streetwise		<-->	adjective+C2[-0]	.
+streetwise		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10657,7 +10665,7 @@ streetwise		<-->	adjective+C2[-0]	.
 
 
 
-strength		<-->	noun+B2[-0]	.
+strength		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10672,7 +10680,7 @@ strength		<-->	noun+B2[-0]	.
 
 
 
-strict		<-->	adjective+B2[-0]	.
+strict		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10687,7 +10695,7 @@ strict		<-->	adjective+B2[-0]	.
 
 
 
-strong		<-->	adjective+B1[-0]	.
+strong		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10702,7 +10710,7 @@ strong		<-->	adjective+B1[-0]	.
 
 
 
-strut		<-->	verb+C2	[221125][001]	./strʌt/-NAmE /strʌt/\ [intransitive]
+strut		<-->	verb++C2	[221125][001]	./strʌt/-NAmE /strʌt/\ [intransitive]
 	;đi nghêng ngang -- (1) to walk proudly with your head up and chest out to show that you think you are important
 		;The players strutted and posed for the cameras.
 		;TOPICS Personal qualitiesC2
@@ -10717,7 +10725,7 @@ strut		<-->	verb+C2	[221125][001]	./strʌt/-NAmE /strʌt/\ [intransitive]
 
 
 
-stubborn		<-->	adjective+B2[-0]	.
+stubborn		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10732,7 +10740,7 @@ stubborn		<-->	adjective+B2[-0]	.
 
 
 
-suave		<-->	adjective+C2[-0]	.
+suave		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10747,7 +10755,7 @@ suave		<-->	adjective+C2[-0]	.
 
 
 
-sulky		<-->	adjective+C2[-0]	.
+sulky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10762,7 +10770,7 @@ sulky		<-->	adjective+C2[-0]	.
 
 
 
-superficial		<-->	adjective+C1[-0]	.
+superficial		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10777,7 +10785,7 @@ superficial		<-->	adjective+C1[-0]	.
 
 
 
-superiority complex		<-->	noun+C2[-0]	.
+superiority complex		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10792,7 +10800,7 @@ superiority complex		<-->	noun+C2[-0]	.
 
 
 
-sure		<-->	adjective+A1[-0]	.
+sure		<-->	adjective++A1	[221204][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10807,7 +10815,7 @@ sure		<-->	adjective+A1[-0]	.
 
 
 
-sure-footed		<-->	adjective+C2[-0]	.
+sure-footed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10822,7 +10830,7 @@ sure-footed		<-->	adjective+C2[-0]	.
 
 
 
-sureness		<-->	noun+C1[-0]	.
+sureness		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10837,7 +10845,7 @@ sureness		<-->	noun+C1[-0]	.
 
 
 
-surly		<-->	adjective+C2[-0]	.
+surly		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10852,7 +10860,7 @@ surly		<-->	adjective+C2[-0]	.
 
 
 
-suspicion		<-->	noun+C1[-0]	.
+suspicion		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10867,7 +10875,7 @@ suspicion		<-->	noun+C1[-0]	.
 
 
 
-suspicious		<-->	adjective+C1[-0]	.
+suspicious		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10882,7 +10890,7 @@ suspicious		<-->	adjective+C1[-0]	.
 
 
 
-swagger		<-->	verb+C2	[221125][001]	./ˈswæɡə(r)/-NAmE /ˈswæɡər/\ [intransitive] (usually disapproving)
+swagger		<-->	verb++C2	[221125][001]	./ˈswæɡə(r)/-NAmE /ˈswæɡər/\ [intransitive] (usually disapproving)
 	;bước đi khệnh khạng -- (1) ​(+ adv./prep.) to walk in an extremely proud and confident way
 		;SYNONYM strut
 		;He swaggered into the room looking very pleased with himself.
@@ -10897,7 +10905,7 @@ swagger		<-->	verb+C2	[221125][001]	./ˈswæɡə(r)/-NAmE /ˈswæɡər/\ [intran
 
 
 
-swank		<-->	verb+C2	[221125][001]	./swæŋk/-NAmE /swæŋk/\ [intransitive] (old-fashioned, British English, informal, disapproving)
+swank		<-->	verb++C2	[221125][001]	./swæŋk/-NAmE /swæŋk/\ [intransitive] (old-fashioned, British English, informal, disapproving)
 	;khoác lác, huêng hoang -- (1) ​to behave in way that is too proud or confident
 		;TOPICS Personal qualitiesC2
 		;<< boast, swank, brag, >>
@@ -10911,7 +10919,7 @@ swank		<-->	verb+C2	[221125][001]	./swæŋk/-NAmE /swæŋk/\ [intransitive] (old
 
 
 
-sweet		<-->	adjective+C1[-0]	.
+sweet		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10926,7 +10934,7 @@ sweet		<-->	adjective+C1[-0]	.
 
 
 
-sweetie		<-->	noun+C2[-0]	.
+sweetie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10941,7 +10949,7 @@ sweetie		<-->	noun+C2[-0]	.
 
 
 
-sympathetic		<-->	adjective+B2[-0]	.
+sympathetic		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10956,7 +10964,7 @@ sympathetic		<-->	adjective+B2[-0]	.
 
 
 
-sympathy		<-->	noun+B2[-0]	.
+sympathy		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10971,7 +10979,7 @@ sympathy		<-->	noun+B2[-0]	.
 
 
 
-tactful		<-->	adjective+C1[-0]	.
+tactful		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10986,7 +10994,7 @@ tactful		<-->	adjective+C1[-0]	.
 
 
 
-talented		<-->	adjective+B1[-0]	.
+talented		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11001,7 +11009,7 @@ talented		<-->	adjective+B1[-0]	.
 
 
 
-talkative		<-->	adjective+B2[-0]	.
+talkative		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11016,7 +11024,7 @@ talkative		<-->	adjective+B2[-0]	.
 
 
 
-tart		<-->	adjective+C2[-0]	.
+tart		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11031,7 +11039,7 @@ tart		<-->	adjective+C2[-0]	.
 
 
 
-taunt		<-->	verb+C2	[221125][001]	./tɔːnt/-NAmE /tɔːnt/\
+taunt		<-->	verb++C2	[221125][001]	./tɔːnt/-NAmE /tɔːnt/\
 	;chế nhạo -- (1) taunt somebody to try to make somebody angry or upset by saying unkind things about them, laughing at their failures, etc.
 		;The other kids continually taunted him about his size.
 		;Extra Examples:
@@ -11055,7 +11063,7 @@ taunt		<-->	verb+C2	[221125][001]	./tɔːnt/-NAmE /tɔːnt/\
 
 
 
-taunt		<-->	noun+C2[-0]	.
+taunt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11070,7 +11078,7 @@ taunt		<-->	noun+C2[-0]	.
 
 
 
-team player		<-->	noun+C1[-0]	.
+team player		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11085,7 +11093,7 @@ team player		<-->	noun+C1[-0]	.
 
 
 
-temerity		<-->	noun+C2[-0]	.
+temerity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11100,7 +11108,7 @@ temerity		<-->	noun+C2[-0]	.
 
 
 
-temperament		<-->	noun+C2[-0]	.
+temperament		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11115,7 +11123,7 @@ temperament		<-->	noun+C2[-0]	.
 
 
 
-temperamental		<-->	adjective+C2[-0]	.
+temperamental		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11130,7 +11138,7 @@ temperamental		<-->	adjective+C2[-0]	.
 
 
 
-tender		<-->	adjective+C1[-0]	.
+tender		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11145,7 +11153,7 @@ tender		<-->	adjective+C1[-0]	.
 
 
 
-tender-hearted		<-->	adjective+C2[-0]	.
+tender-hearted		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11160,7 +11168,7 @@ tender-hearted		<-->	adjective+C2[-0]	.
 
 
 
-thoughtful		<-->	adjective+C1[-0]	.
+thoughtful		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11175,7 +11183,7 @@ thoughtful		<-->	adjective+C1[-0]	.
 
 
 
-tigerish		<-->	adjective+C2[-0]	.
+tigerish		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11190,7 +11198,7 @@ tigerish		<-->	adjective+C2[-0]	.
 
 
 
-timid		<-->	adjective+C1[-0]	.
+timid		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11205,7 +11213,7 @@ timid		<-->	adjective+C1[-0]	.
 
 
 
-timidity		<-->	noun+C2[-0]	.
+timidity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11220,7 +11228,7 @@ timidity		<-->	noun+C2[-0]	.
 
 
 
-timorous		<-->	adjective+C2[-0]	.
+timorous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11235,7 +11243,7 @@ timorous		<-->	adjective+C2[-0]	.
 
 
 
-tireless		<-->	adjective+C2[-0]	.
+tireless		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11250,7 +11258,7 @@ tireless		<-->	adjective+C2[-0]	.
 
 
 
-together		<-->	adjective+C2[-0]	.
+together		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11265,7 +11273,7 @@ together		<-->	adjective+C2[-0]	.
 
 
 
-tolerance		<-->	noun+C1[-0]	.
+tolerance		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11280,7 +11288,7 @@ tolerance		<-->	noun+C1[-0]	.
 
 
 
-tolerant		<-->	adjective+C1[-0]	.
+tolerant		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11295,7 +11303,7 @@ tolerant		<-->	adjective+C1[-0]	.
 
 
 
-tough		<-->	adjective+B2[-0]	.
+tough		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11310,7 +11318,7 @@ tough		<-->	adjective+B2[-0]	.
 
 
 
-trick		<-->	verb+B1	[221125][001]	./cef/
+trick		<-->	verb++B1	[221125][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11325,7 +11333,7 @@ trick		<-->	verb+B1	[221125][001]	./cef/
 
 
 
-trumpet		<-->	verb+C2	[221125][001]	./ˈtrʌmpɪt/-NAmE /ˈtrʌmpɪt/\
+trumpet		<-->	verb++C2	[221125][001]	./ˈtrʌmpɪt/-NAmE /ˈtrʌmpɪt/\
 	;ca ngợi, tán dương -- (1) [transitive] to talk or write about something publicly in a proud or enthusiastic way
 		;trumpet something to trumpet somebody’s achievements
 		;trumpet something as something Their marriage was trumpeted as the wedding of the year.
@@ -11344,7 +11352,7 @@ trumpet		<-->	verb+C2	[221125][001]	./ˈtrʌmpɪt/-NAmE /ˈtrʌmpɪt/\
 
 
 
-trust		<-->	noun+B2[-0]	.
+trust		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11359,7 +11367,7 @@ trust		<-->	noun+B2[-0]	.
 
 
 
-trust		<-->	verb+B2	[221125][001]	./cef/
+trust		<-->	verb++B2	[221125][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11374,7 +11382,7 @@ trust		<-->	verb+B2	[221125][001]	./cef/
 
 
 
-trustworthy		<-->	adjective+C1[-0]	.
+trustworthy		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11389,7 +11397,7 @@ trustworthy		<-->	adjective+C1[-0]	.
 
 
 
-truthful		<-->	adjective+C1[-0]	.
+truthful		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11404,7 +11412,7 @@ truthful		<-->	adjective+C1[-0]	.
 
 
 
-trying		<-->	adjective+C2[-0]	.
+trying		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11419,7 +11427,7 @@ trying		<-->	adjective+C2[-0]	.
 
 
 
-unapproachable		<-->	adjective+C2[-0]	.
+unapproachable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11434,7 +11442,7 @@ unapproachable		<-->	adjective+C2[-0]	.
 
 
 
-unbearable		<-->	adjective+C1[-0]	.
+unbearable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11449,7 +11457,7 @@ unbearable		<-->	adjective+C1[-0]	.
 
 
 
-uncharitable		<-->	adjective+C2[-0]	.
+uncharitable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11464,7 +11472,7 @@ uncharitable		<-->	adjective+C2[-0]	.
 
 
 
-unchristian		<-->	adjective+C1[-0]	.
+unchristian		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11479,7 +11487,7 @@ unchristian		<-->	adjective+C1[-0]	.
 
 
 
-unconscionable		<-->	adjective+C2[-0]	.
+unconscionable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11494,7 +11502,7 @@ unconscionable		<-->	adjective+C2[-0]	.
 
 
 
-understanding		<-->	adjective+B1[-0]	.
+understanding		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11509,7 +11517,7 @@ understanding		<-->	adjective+B1[-0]	.
 
 
 
-unflinching		<-->	adjective+C2[-0]	.
+unflinching		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11524,7 +11532,7 @@ unflinching		<-->	adjective+C2[-0]	.
 
 
 
-unfriendliness		<-->	noun+B2[-0]	.
+unfriendliness		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11539,7 +11547,7 @@ unfriendliness		<-->	noun+B2[-0]	.
 
 
 
-unfriendly		<-->	adjective+B1[-0]	.
+unfriendly		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11554,7 +11562,7 @@ unfriendly		<-->	adjective+B1[-0]	.
 
 
 
-ungracious		<-->	adjective+C2[-0]	.
+ungracious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11569,7 +11577,7 @@ ungracious		<-->	adjective+C2[-0]	.
 
 
 
-unsmiling		<-->	adjective+C1[-0]	.
+unsmiling		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11584,7 +11592,7 @@ unsmiling		<-->	adjective+C1[-0]	.
 
 
 
-untruthful		<-->	adjective+C1[-0]	.
+untruthful		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11599,7 +11607,7 @@ untruthful		<-->	adjective+C1[-0]	.
 
 
 
-upright		<-->	adjective+C2[-0]	.
+upright		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11614,7 +11622,7 @@ upright		<-->	adjective+C2[-0]	.
 
 
 
-upstanding		<-->	adjective+C2[-0]	.
+upstanding		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11629,7 +11637,7 @@ upstanding		<-->	adjective+C2[-0]	.
 
 
 
-vain		<-->	adjective+C1[-0]	.
+vain		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11644,7 +11652,7 @@ vain		<-->	adjective+C1[-0]	.
 
 
 
-vainglorious		<-->	adjective+C2[-0]	.
+vainglorious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11659,7 +11667,7 @@ vainglorious		<-->	adjective+C2[-0]	.
 
 
 
-vainglory		<-->	noun+C2[-0]	.
+vainglory		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11674,7 +11682,7 @@ vainglory		<-->	noun+C2[-0]	.
 
 
 
-valiant		<-->	adjective+C2[-0]	.
+valiant		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11689,7 +11697,7 @@ valiant		<-->	adjective+C2[-0]	.
 
 
 
-valour		<-->	noun+C2[-0]	.
+valour		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11704,7 +11712,7 @@ valour		<-->	noun+C2[-0]	.
 
 
 
-vanity		<-->	noun+C2[-0]	.
+vanity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11719,7 +11727,7 @@ vanity		<-->	noun+C2[-0]	.
 
 
 
-veracity		<-->	noun+C2[-0]	.
+veracity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11734,7 +11742,7 @@ veracity		<-->	noun+C2[-0]	.
 
 
 
-vice		<-->	noun+C1[-0]	.
+vice		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11749,7 +11757,7 @@ vice		<-->	noun+C1[-0]	.
 
 
 
-vigorous		<-->	adjective+C2[-0]	.
+vigorous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11764,7 +11772,7 @@ vigorous		<-->	adjective+C2[-0]	.
 
 
 
-vigour		<-->	noun+C2[-0]	.
+vigour		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11779,7 +11787,7 @@ vigour		<-->	noun+C2[-0]	.
 
 
 
-villain		<-->	noun+B2[-0]	.
+villain		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11794,7 +11802,7 @@ villain		<-->	noun+B2[-0]	.
 
 
 
-villainous		<-->	adjective+C1[-0]	.
+villainous		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11809,7 +11817,7 @@ villainous		<-->	adjective+C1[-0]	.
 
 
 
-villainy		<-->	noun+C1[-0]	.
+villainy		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11824,7 +11832,7 @@ villainy		<-->	noun+C1[-0]	.
 
 
 
-virtue		<-->	noun+C1[-0]	.
+virtue		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11839,7 +11847,7 @@ virtue		<-->	noun+C1[-0]	.
 
 
 
-virtuous		<-->	adjective+C2[-0]	.
+virtuous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11854,7 +11862,7 @@ virtuous		<-->	adjective+C2[-0]	.
 
 
 
-vital		<-->	adjective+C2[-0]	.
+vital		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11869,7 +11877,7 @@ vital		<-->	adjective+C2[-0]	.
 
 
 
-vivacious		<-->	adjective+C2	[221128][001]	.vɪˈveɪʃəs/-NAmE /vɪˈveɪʃəs/,  /vaɪˈveɪʃəs/ (approving)
+vivacious		<-->	adjective++C2	[221128][001]	.vɪˈveɪʃəs/-NAmE /vɪˈveɪʃəs/,  /vaɪˈveɪʃəs/ (approving)
 	;quyến rũ -- (1) (especially of a woman) having a lively, attractive personality
 		;He had three pretty, vivacious daughters.
 		;She appeared to be her old, vivacious self again.
@@ -11889,7 +11897,7 @@ vivacious		<-->	adjective+C2	[221128][001]	.vɪˈveɪʃəs/-NAmE /vɪˈveɪʃəs
 
 
 
-vivacity		<-->	noun+C2	[221128][001]	.vɪˈvæsəti/-NAmE /vɪˈvæsəti/,  /vaɪˈvæsəti/ [uncountable] (approving)
+vivacity		<-->	noun++C2	[221128][001]	.vɪˈvæsəti/-NAmE /vɪˈvæsəti/,  /vaɪˈvæsəti/ [uncountable] (approving)
 	;quyến rũ -- (1) the quality of being lively and attractive
 		;He was charmed by her beauty and vivacity.
 		;TOPICS Personal qualitiesC2
@@ -11904,7 +11912,7 @@ vivacity		<-->	noun+C2	[221128][001]	.vɪˈvæsəti/-NAmE /vɪˈvæsəti/,  /va�
 
 
 
-vociferous		<-->	adjective+C2	[221127][001]	./vəˈsɪfərəs/-NAmE /vəʊˈsɪfərəs/ (formal)
+vociferous		<-->	adjective++C2	[221127][001]	./vəˈsɪfərəs/-NAmE /vəʊˈsɪfərəs/ (formal)
 	;om sòm -- (1) expressing your opinions or feelings in a loud and confident way
 		;SYNONYM strident
 		;<< strident, vociferous, >>
@@ -11926,7 +11934,7 @@ vociferous		<-->	adjective+C2	[221127][001]	./vəˈsɪfərəs/-NAmE /vəʊˈsɪf
 
 
 
-vulgar		<-->	adjective+C2	[221125][001]	./ˈvʌlɡə(r)/-NAmE /ˈvʌlɡər/
+vulgar		<-->	adjective++C2	[221125][001]	./ˈvʌlɡə(r)/-NAmE /ˈvʌlɡər/
 	;thô tục -- (1) not having or showing good taste; not polite, pleasant or well behaved
 		;SYNONYM coarse, in bad taste
 		;a vulgar man
@@ -11948,7 +11956,7 @@ vulgar		<-->	adjective+C2	[221125][001]	./ˈvʌlɡə(r)/-NAmE /ˈvʌlɡər/
 
 
 
-vulgarity		<-->	noun+C2	[221127][001]	./vʌlˈɡærəti/-NAmE /vʌlˈɡærəti/ [uncountable, countable]
+vulgarity		<-->	noun++C2	[221127][001]	./vʌlˈɡærəti/-NAmE /vʌlˈɡærəti/ [uncountable, countable]
 	;sự nhạt nhẽo, thô tục -- (1) the fact of being rude or not having good taste; a rude object, picture, etc.
 		;She was offended by the vulgarity of their jokes.
 		;a pornographic magazine full of vulgarities
@@ -11963,7 +11971,7 @@ vulgarity		<-->	noun+C2	[221127][001]	./vʌlˈɡærəti/-NAmE /vʌlˈɡærəti/ 
 
 
 
-walk tall		<-->	idiom+C2	[221127][001]	./i/
+walk tall		<-->	idiom++C2	[221127][001]	./i/
 	;tự hào -- (1) to feel proud and confident
 		;TOPICS FeelingsC2, Personal qualitiesC2
 
@@ -11977,7 +11985,7 @@ walk tall		<-->	idiom+C2	[221127][001]	./i/
 
 
 
-wanton		<-->	adjective+C2	[221127][001]	./ˈwɒntən/-NAmE /ˈwɑːntən/ (formal)
+wanton		<-->	adjective++C2	[221127][001]	./ˈwɒntən/-NAmE /ˈwɑːntən/ (formal)
 	;bừa bãi -- (1) [usually before noun] causing harm or damage deliberately and for no acceptable reason
 		;wanton destruction
 		;a wanton disregard for human life
@@ -11995,7 +12003,7 @@ wanton		<-->	adjective+C2	[221127][001]	./ˈwɒntən/-NAmE /ˈwɑːntən/ (forma
 
 
 
-warm		<-->	adjective+B1	[221128][001]	.cef/
+warm		<-->	adjective++B1	[221128][001]	.cef/
 
 
 
@@ -12007,7 +12015,7 @@ warm		<-->	adjective+B1	[221128][001]	.cef/
 
 
 
-warm-hearted		<-->	adjective+C1	[221128][001]	.ˌwɔːm ˈhɑːtɪd/-NAmE /ˌwɔːrm ˈhɑːrtɪd/
+warm-hearted		<-->	adjective++C1	[221128][001]	.ˌwɔːm ˈhɑːtɪd/-NAmE /ˌwɔːrm ˈhɑːrtɪd/
 	;tử tế -- (1) (of a person) kind and friendly
 		;COMPARE cold-hearted
 		;TOPICS Personal qualitiesC1
@@ -12021,7 +12029,7 @@ warm-hearted		<-->	adjective+C1	[221128][001]	.ˌwɔːm ˈhɑːtɪd/-NAmE /ˌwɔ
 
 
 
-wastrel		<-->	noun+C2	[221127][001]	./ˈweɪstrəl/-NAmE /ˈweɪstrəl/ (literary)
+wastrel		<-->	noun++C2	[221127][001]	./ˈweɪstrəl/-NAmE /ˈweɪstrəl/ (literary)
 	;kẻ lười, kẻ phá của -- (1) a lazy person who spends their time and/or money in a careless and stupid way
 		;TOPICS Personal qualitiesC2
 		;Word Origin
@@ -12035,7 +12043,7 @@ wastrel		<-->	noun+C2	[221127][001]	./ˈweɪstrəl/-NAmE /ˈweɪstrəl/ (literar
 
 
 
-weak-kneed		<-->	adjective+C2	[221127][001]	./ˌwiːk ˈniːd/-NAmE /ˌwiːk ˈniːd/ (informal)
+weak-kneed		<-->	adjective++C2	[221127][001]	./ˌwiːk ˈniːd/-NAmE /ˌwiːk ˈniːd/ (informal)
 	;yếu đuối -- (1) not having courage or strength
 		;weak-kneed cowards
 		;a weak-kneed defence policy
@@ -12050,7 +12058,7 @@ weak-kneed		<-->	adjective+C2	[221127][001]	./ˌwiːk ˈniːd/-NAmE /ˌwiːk ˈn
 
 
 
-welcoming		<-->	adjective+B1	[221128][001]	.ˈwelkəmɪŋ/-NAmE /ˈwelkəmɪŋ/
+welcoming		<-->	adjective++B1	[221128][001]	.ˈwelkəmɪŋ/-NAmE /ˈwelkəmɪŋ/
 	;nồng nhiệt -- (1) friendly towards somebody who is visiting or arriving
 		;The locals were extremely welcoming.
 		;She gave me a welcoming smile.
@@ -12068,7 +12076,7 @@ welcoming		<-->	adjective+B1	[221128][001]	.ˈwelkəmɪŋ/-NAmE /ˈwelkəmɪŋ/
 
 
 
-well disposed		<-->	adjective+C2	[221127][001]	./ˌwel dɪˈspəʊzd/-NAmE /ˌwel dɪˈspəʊzd/
+well disposed		<-->	adjective++C2	[221127][001]	./ˌwel dɪˈspəʊzd/-NAmE /ˌwel dɪˈspəʊzd/
 	;có thiện cảm -- (1) well disposed (towards/to somebody/something) having friendly feelings towards somebody or a positive attitude towards something
 		;It’s a country that is well disposed to the West.
 		;OPPOSITE ill-disposed
@@ -12083,7 +12091,7 @@ well disposed		<-->	adjective+C2	[221127][001]	./ˌwel dɪˈspəʊzd/-NAmE /ˌwe
 
 
 
-well meaning		<-->	adjective+C2	[221125][001]	./ˌwel ˈmiːnɪŋ/-NAmE /ˌwel ˈmiːnɪŋ/
+well meaning		<-->	adjective++C2	[221125][001]	./ˌwel ˈmiːnɪŋ/-NAmE /ˌwel ˈmiːnɪŋ/
 	;rất ý nghĩa -- (1) intending to do what is right and helpful but often not succeeding
 		;SYNONYM well intentioned
 		;a well-meaning attempt to be helpful
@@ -12100,7 +12108,7 @@ well meaning		<-->	adjective+C2	[221125][001]	./ˌwel ˈmiːnɪŋ/-NAmE /ˌwel �
 
 
 
-while away		<-->	phrasal veerb+C2	[221127][001]	./p/
+while away		<-->	phrasal veerb++C2	[221127][001]	./p/
 	;hưởng thụ -- (1) [-while something  away] to spend time in a pleasant lazy way
 		;We whiled away the time reading and playing cards.
 		;TOPICS Personal qualitiesC2
@@ -12113,7 +12121,7 @@ while away		<-->	phrasal veerb+C2	[221127][001]	./p/
 
 
 
-whine		<-->	verb+C1	[221125][001]	./waɪn/-NAmE /waɪn/\
+whine		<-->	verb++C1	[221125][001]	./waɪn/-NAmE /waɪn/\
 	;phàn nàn, trách cứ -- (1) ​[intransitive, transitive] to complain in an annoying, crying voice
 		;Stop whining!
 		;+ speech ‘I want to go home,’ whined Toby.
@@ -12139,7 +12147,7 @@ whine		<-->	verb+C1	[221125][001]	./waɪn/-NAmE /waɪn/\
 
 
 
-whinge		<-->	verb+C2	[221125][001]	./wɪndʒ/-NAmE /wɪndʒ/\ [intransitive] (British English, informal, disapproving)
+whinge		<-->	verb++C2	[221125][001]	./wɪndʒ/-NAmE /wɪndʒ/\ [intransitive] (British English, informal, disapproving)
 	;gây rối, làm phiền -- (1) whinge (about somebody/something) to complain in an annoying way
 		;She's always whingeing about how unfair everything is.
 		;TOPICS Personal qualitiesC2
@@ -12153,7 +12161,7 @@ whinge		<-->	verb+C2	[221125][001]	./wɪndʒ/-NAmE /wɪndʒ/\ [intransitive] (Br
 
 
 
-whizz-kid		<-->	noun+C2	[221127][001]	./ˈwɪz kɪd/-NAmE /ˈwɪz kɪd/ (especially British English) (North American English usually whiz-kid) (informal)
+whizz-kid		<-->	noun++C2	[221127][001]	./ˈwɪz kɪd/-NAmE /ˈwɪz kɪd/ (especially British English) (North American English usually whiz-kid) (informal)
 	;cậu bé vàng -- (1) a person who is very good and successful at something, especially at a young age
 		;financial whizz-kids
 		;TOPICS SuccessC2, Personal qualitiesC2
@@ -12167,7 +12175,7 @@ whizz-kid		<-->	noun+C2	[221127][001]	./ˈwɪz kɪd/-NAmE /ˈwɪz kɪd/ (especia
 
 
 
-wholesome		<-->	adjective+C2	[221125][001]	./ˈhəʊlsəm/-NAmE /ˈhəʊlsəm/
+wholesome		<-->	adjective++C2	[221125][001]	./ˈhəʊlsəm/-NAmE /ˈhəʊlsəm/
 	;lành mạnh, có lợi cho sức khoẻ -- (1) good for your health
 		;fresh, wholesome food
 		;TOPICS Cooking and eatingC2
@@ -12185,7 +12193,7 @@ wholesome		<-->	adjective+C2	[221125][001]	./ˈhəʊlsəm/-NAmE /ˈhəʊlsəm/
 
 
 
-wily		<-->	adjective+C2	[221125][001]	./ˈwaɪli/-NAmE /ˈwaɪli/ (comparative wilier, superlative wiliest)
+wily		<-->	adjective++C2	[221125][001]	./ˈwaɪli/-NAmE /ˈwaɪli/ (comparative wilier, superlative wiliest)
 	;gian xảo -- (1) clever at getting what you want, and willing to trick people
 		;SYNONYM cunning
 		;<< cunning, wily, >>
@@ -12206,7 +12214,7 @@ wily		<-->	adjective+C2	[221125][001]	./ˈwaɪli/-NAmE /ˈwaɪli/ (comparative w
 
 
 
-wimp		<-->	noun+C2	[221127][001]	./wɪmp/-NAmE /wɪmp/\ (informal, disapproving)
+wimp		<-->	noun++C2	[221127][001]	./wɪmp/-NAmE /wɪmp/\ (informal, disapproving)
 	;kẻ nhút nhát -- (1) a person who is not strong, brave or confident
 		;SYNONYM weed
 		;He won’t go on his own—he’s a complete wimp!
@@ -12222,7 +12230,7 @@ wimp		<-->	noun+C2	[221127][001]	./wɪmp/-NAmE /wɪmp/\ (informal, disapproving)
 
 
 
-wisdom		<-->	noun+B2	[221128][001]	.cef/
+wisdom		<-->	noun++B2	[221128][001]	.cef/
 
 
 
@@ -12234,7 +12242,7 @@ wisdom		<-->	noun+B2	[221128][001]	.cef/
 
 
 
-wise		<-->	adjective+B2	[221128][001]	.cef/
+wise		<-->	adjective++B2	[221128][001]	.cef/
 
 
 
@@ -12247,7 +12255,7 @@ wise		<-->	adjective+B2	[221128][001]	.cef/
 
 
 
-wit		<-->	noun+C1	[221128][001]	.cef/
+wit		<-->	noun++C1	[221128][001]	.cef/
 
 
 
@@ -12259,7 +12267,7 @@ wit		<-->	noun+C1	[221128][001]	.cef/
 
 
 
-withdrawn		<-->	adjective+C1	[221128][001]	.wɪðˈdrɔːn/,  /wɪθˈdrɔːn/-NAmE /wɪðˈdrɔːn/,  /wɪθˈdrɔːn/
+withdrawn		<-->	adjective++C1	[221128][001]	.wɪðˈdrɔːn/,  /wɪθˈdrɔːn/-NAmE /wɪðˈdrɔːn/,  /wɪθˈdrɔːn/
 	;thu mình -- (1) not wanting to talk to other people; extremely quiet and shy
 		;He was not the self-absorbed, withdrawn person he was sometimes portrayed as.
 		;She seemed withdrawn and cold.
@@ -12275,7 +12283,7 @@ withdrawn		<-->	adjective+C1	[221128][001]	.wɪðˈdrɔːn/,  /wɪθˈdrɔːn/-N
 
 
 
-witty		<-->	adjective+C1	[221125][001]	./ˈwɪti/-NAmE /ˈwɪti/ (comparative wittier, superlative wittiest)
+witty		<-->	adjective++C1	[221125][001]	./ˈwɪti/-NAmE /ˈwɪti/ (comparative wittier, superlative wittiest)
 	;Word Family
 		wit 		noun
 		witty 		adjective
@@ -12303,7 +12311,7 @@ witty		<-->	adjective+C1	[221125][001]	./ˈwɪti/-NAmE /ˈwɪti/ (comparative wi
 
 
 
-wrong		<-->	adjective+B1	[221128][001]	.cef/
+wrong		<-->	adjective++B1	[221128][001]	.cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -12318,7 +12326,7 @@ wrong		<-->	adjective+B1	[221128][001]	.cef/
 
 
 
-wuss		<-->	noun+C2	[221125][001]	./wʊs/-NAmE /wʊs/ (informal)
+wuss		<-->	noun++C2	[221125][001]	./wʊs/-NAmE /wʊs/ (informal)
 	;kẻ hèn nhát -- (1) ​a person who is not strong or brave
 		;Don't be such a wuss!
 		;TOPICS Personal qualitiesC2
@@ -12332,7 +12340,7 @@ wuss		<-->	noun+C2	[221125][001]	./wʊs/-NAmE /wʊs/ (informal)
 
 
 
-yellow-bellied		<-->	adjective+C2	[221125][001]	./ˈjeləʊ belid/-NAmE /ˈjeləʊ belid/ [usually before noun] (old-fashioned, informal, disapproving)
+yellow-bellied		<-->	adjective++C2	[221125][001]	./ˈjeləʊ belid/-NAmE /ˈjeləʊ belid/ [usually before noun] (old-fashioned, informal, disapproving)
 	;hèn nhát -- (1) not brave; easily frightened
 		;SYNONYM cowardly (1)
 		;TOPICS Personal qualitiesC2
@@ -12347,7 +12355,7 @@ yellow-bellied		<-->	adjective+C2	[221125][001]	./ˈjeləʊ belid/-NAmE /ˈjelə
 
 
 
-yellow-belly		<-->	noun+C2	[221127][001]	./ˈjeləʊ beli/-NAmE /ˈjeləʊ beli/ (old-fashioned, informal, disapproving)
+yellow-belly		<-->	noun++C2	[221127][001]	./ˈjeləʊ beli/-NAmE /ˈjeləʊ beli/ (old-fashioned, informal, disapproving)
 	;kẻ hèn nhát -- (1) ​a coward (= somebody who is not brave)
 		;TOPICS Personal qualitiesC2
 
@@ -12360,7 +12368,7 @@ yellow-belly		<-->	noun+C2	[221127][001]	./ˈjeləʊ beli/-NAmE /ˈjeləʊ beli/
 
 
 
-zeal		<-->	noun+C2	[221125][001]	./ziːl/-NAmE /ziːl/ [uncountable, countable] (formal)
+zeal		<-->	noun++C2	[221125][001]	./ziːl/-NAmE /ziːl/ [uncountable, countable] (formal)
 	;lòng nhiệt thành -- (1) zeal (for/in something) great energy or enthusiasm connected with something that you feel strongly about
 		;her missionary/reforming/religious/political zeal
 		;Extra Examples:
@@ -12388,7 +12396,7 @@ zeal		<-->	noun+C2	[221125][001]	./ziːl/-NAmE /ziːl/ [uncountable, countable] 
 
 
 
-zealous		<-->	adjective+C2	[221125][001]	./ˈzeləs/-NAmE /ˈzeləs/ (formal)
+zealous		<-->	adjective++C2	[221125][001]	./ˈzeləs/-NAmE /ˈzeləs/ (formal)
 	;nhiệt thành -- (1) showing great energy and enthusiasm for something, especially because you feel strongly about it
 		;a zealous reformer
 		;TOPICS Personal qualitiesC2
