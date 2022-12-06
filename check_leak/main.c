@@ -9,7 +9,7 @@
 int main(int argc, char *argv) {
 	char *str = 0;
 	setlogmask (LOG_UPTO (LOG_NOTICE));
-	openlog ("memoryyyy_leak", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
+	openlog ("memory_leak", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
 	MY_MALLOC(str, 10)
 	MY_FREE(str);
 	closelog ();
@@ -18,3 +18,5 @@ int main(int argc, char *argv) {
 
 
 //https://www.gnu.org/software/libc/manual/html_node/Syslog-Example.html
+///etc/rsyslog.d
+//
