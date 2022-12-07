@@ -10035,10 +10035,15 @@ peak		<-->	verb++C1[-0]	.
 
 
 
-peak		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+peak		<-->	adjective++C1[-0]	./piːk/
+ /piːk/ [only before noun]
+	;cao nhất, đỉnh -- (1) used to describe the highest level of something, or a time when the greatest number of people are doing something or using something
+		;It was a time of peak demand for the product.
+		;March is one of the peak periods for our business.
+		;The athletes are all in peak condition.
+		;We need extra help during the peak season.
+		;COMPARE off-peak
+		;TOPICS MoneyC1
 
 
 
@@ -10054,8 +10059,7 @@ peak		<-->	adjective++C1[-0]	.
 
 
 
-
-penalty		<-->	noun++B2[-0]	.
+penalty		<-->	noun++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10095,7 +10099,7 @@ penny		<-->	noun++A2	[221204][001]	./cef/
 
 
 
-pension		<-->	noun++B2[-0]	.
+pension		<-->	noun++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10115,11 +10119,11 @@ pension		<-->	noun++B2[-0]	.
 
 
 
-pension pot		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+pension pot		<-->	noun++C2[-0]	./ˈpenʃn pɒt/
+ /ˈpenʃn pɑːt/ (British English, informal)
+	;lương hưu -- (1) the total amount of money that a person has invested to provide an income for when they retire
+		;Dr Williams stressed that people with small pension pots should consider working longer.
+		;TOPICS MoneyC2
 
 
 
@@ -10175,11 +10179,12 @@ per cent		<-->	adjective++A2	[221204][001]	./cef/
 
 
 
-PIN		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+PIN		<-->	noun++C2[-0]	./pɪn/
+ /pɪn/ (also PIN number)
+	;mã số cá nhân -- (1) a number given to you, for example by a bank, so that you can use a plastic card to take out money from a cash machine (the abbreviation for ‘personal identification number’)
+		;SEE ALSO chip and PIN
+		;Culture credit cards
+		;TOPICS MoneyC2
 
 
 
@@ -10215,10 +10220,12 @@ plateau		<-->	noun++C2[-0]	.
 
 
 
-plateau		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+plateau		<-->	verb++C2[-0]	./ˈplætəʊ/
+ /plæˈtəʊ/  [intransitive]
+	;đạt mức cân bằng -- (1) plateau (out) to stay at a steady level after a period of growth or progress
+		;Unemployment has at last plateaued out.
+		;Prices have pretty much plateaued for now.
+		;TOPICS MoneyC2
 
 
 
@@ -10234,29 +10241,40 @@ plateau		<-->	verb++C2[-0]	.
 
 
 
-
-plummet		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-
+plummet		<-->	verb++C2[-0]	./ˈplʌmɪt/
+ /ˈplʌmɪt/ [intransitive]
+	;rớt xuống, rớt giá -- (1) to fall suddenly and quickly from a high level or position
+		;SYNONYM plunge
+		;<< plunge, plummet, >>
+		;Share prices plummeted to an all-time low.
+		;Her spirits plummeted at the thought of meeting him again.
+		;The jet plummeted into a row of houses.
+		;Wordfinder: boomdeclinedipfluctuatelevel off/​outpeakplateauplummetslumptrend
+		;TOPICS MoneyC2
+				;Oxford Collocations Dictionary
+				;Plummet is used with these nouns as the subject:
+				;attendancelevelmorale…
+		;See full entry
+		;Word Origin
 
 
 
 
-pocket money		<-->	noun++B1[-0]	.
-	; -- (1) 
+
+
+
+
+
+
+
+
+
+
+pocket money		<-->	noun++B1[-0]	./ˈpɒkɪt mʌni/
+ /ˈpɑːkɪt mʌni/ [uncountable]
+	;tiền tiêu vặt -- (1) ​(especially British English) (also allowance especially in North American English) a small amount of money that parents give their children, usually every week or every month
+		;Did your parents give you pocket money when you were little?
+		;TOPICS MoneyB1
 	; -- (2) 
 	; -- (3) 
 
@@ -10296,7 +10314,7 @@ poor		<-->	adjective++A1	[221204][001]	./cef/
 
 
 
-portfolio		<-->	noun++C1[-0]	.
+portfolio		<-->	noun++C1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10337,7 +10355,7 @@ pound		<-->	noun++A1	[221204][001]	./cef/
 
 
 
-poverty		<-->	noun++B1[-0]	.
+poverty		<-->	noun++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10357,10 +10375,10 @@ poverty		<-->	noun++B1[-0]	.
 
 
 
-predatory pricing		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+predatory pricing		<-->	noun++C2[-0]	./ˌpredətri ˈpraɪsɪŋ/
+ /ˌpredətɔːri ˈpraɪsɪŋ/ [uncountable] (business)
+	;sứ bán phá giá -- (1) the fact of a company selling its goods at such a low price that other companies can no longer compete and have to stop selling similar goods
+		;TOPICS MoneyC2
 
 
 
@@ -10376,11 +10394,16 @@ predatory pricing		<-->	noun++C2[-0]	.
 
 
 
-
-prepaid		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+prepaid		<-->	adjective++C1[-0]	./ˌpriːˈpeɪd/
+ /ˌpriːˈpeɪd/ (British English also pre-pay)
+	;trả trước -- (1) paid for in advance
+		;a prepaid mobile phone
+		;A prepaid envelope is enclosed (= so you do not have to pay the cost of sending a letter).
+		;TOPICS MoneyC1
+				;Oxford Collocations Dictionary
+				;Prepaid is used with these nouns:
+				;cardcellphoneenvelope…
+		;See full entry
 
 
 
@@ -10418,7 +10441,7 @@ price		<-->	noun++A1	[221204][001]	./cef/
 
 
 
-price		<-->	verb++B2[-0]	.
+price		<-->	verb++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10438,10 +10461,10 @@ price		<-->	verb++B2[-0]	.
 
 
 
-price-fixing		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+price-fixing		<-->	noun++C1[-0]	./ˈpraɪs fɪksɪŋ/
+ /ˈpraɪs fɪksɪŋ/ [uncountable]
+	;giá sàn -- (1) the practice of companies agreeing not to sell goods below a particular price
+		;TOPICS MoneyC1
 
 
 
@@ -10457,13 +10480,11 @@ price-fixing		<-->	noun++C1[-0]	.
 
 
 
-
-private enterprise		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
+private enterprise		<-->	noun++C2[-0]	./ˌpraɪvət ˈentəpraɪz/
+ /ˌpraɪvət ˈentərpraɪz/ [uncountable]
+	;hệ thống kinh tế tư nhân -- (1) the economic system in which industry or business is owned by independent companies or private people and is not controlled by the government
+		;COMPARE free enterprise
+		;TOPICS MoneyC2
 
 
 
@@ -10478,7 +10499,8 @@ private enterprise		<-->	noun++C2[-0]	.
 
 
 
-privatization		<-->	noun++C1[-0]	.
+
+privatization		<-->	noun++C1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10524,7 +10546,7 @@ privatize		<-->	verb++C1	[221206][001]	./ˈpraɪvətaɪz/-NAmE /ˈpraɪvətaɪz/
 
 
 
-progressive		<-->	adjective++C2[-0]	.
+progressive		<-->	adjective++C2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
