@@ -29,9 +29,8 @@
 
 #define _X(u) AAA_##u
 
-#define NTT_PATH  										"/77b5ea39-1dc2-4875-8b4c-8700972db7ff_"
-#define NTT_SHARED_MODE      							(S_IRUSR | S_IWUSR | S_IRGRP | S_IROTH)
-#define LIST_SHARED_DATA_SZ        						(1 * 1024 * 1024)
+#define NTT_PATH  											"/77b5ea39-1dc2-4875-8b4c-8700972db7ff_"
+#define NTT_SHARED_MODE      						(S_IRUSR | S_IWUSR | S_IRGRP | S_IROTH)
 #define SHARED_DATA_STEP 								(100 *1024) 
 
 
@@ -44,7 +43,7 @@ void *write_body_thread(void *data);
 static int ntt_lock();
 static int ntt_unlock();
 
-int ntt_unlink_shm()
+int ntt_unlink_shm(int n)
 {
   int err = 0;
 	char *path = (char *)NTT_PATH;
@@ -52,7 +51,7 @@ int ntt_unlink_shm()
   {
     if(ntt_data_shm)
     {
-      err = munmap(ntt_data_shm, LIST_SHARED_DATA_SZ);
+      err = munmap(ntt_data_shm, n);
     }
 
     if(!path)
@@ -61,20 +60,21 @@ int ntt_unlink_shm()
     }
   }
   while(0);
-  fprintf(stdout, "err -  %s: %d\n", __FUNCTION__, err);
+	syslog(LOG_INFO, "Finish -  %s: %d\n", __FUNCTION__, err);
   return err;
 }
 
-void *ntt_open_shm()
+void *ntt_open_shm(int n)
 {
   int err  = 0;
   char *path = (char *)NTT_PATH;
   do
   {
-    err = _X(init_service)(path, &ntt_data_shm, LIST_SHARED_DATA_SZ);
+    err = _X(init_service)(path, &ntt_data_shm, n);
   }
   while(0);
 	if(!err){
+		syslog(LOG_NOTICE, "Creating shared memory is done in success, pid: %llu.\n", (LLU) getpid());
 		return ntt_data_shm;	
 	}
 
@@ -89,13 +89,8 @@ int _X(init_service)(char *path, void **out, int sz)
   int err = 0;
   int shm = 0;
   void *data = 0;
-  //sprintf(key, "%s%s", NTT_PATH, key);
-
   do {
-		//Try to create or read/write
-	
-		if(!out)
-		{
+		if(!out) {
 	      err = __LINE__;
 	      break;
 		}
@@ -103,13 +98,11 @@ int _X(init_service)(char *path, void **out, int sz)
 	  shm = shm_open(key, O_CREAT | O_RDWR | O_EXCL, NTT_SHARED_MODE);  
 	  if(shm >= 0)
 	  {
-			// It is creating mode.
 	    create = 1;
 	  }
 	  else
 	  {
-		// It is reading/writing mode.
-	    	shm = shm_open(key, O_RDWR | O_EXCL, NTT_SHARED_MODE);  
+	  	shm = shm_open(key, O_RDWR | O_EXCL, NTT_SHARED_MODE);  
 	  }
 	
 		if(shm < 0)
@@ -125,10 +118,10 @@ int _X(init_service)(char *path, void **out, int sz)
 	
 		if(data == MAP_FAILED)
 		{
-	  		err = __LINE__;
+	  	err = __LINE__;
 			break;
 		}	
-		//fprintf(stdout, "sz: %d\n", sz);
+
 	  if(!data)
 	  {
 	    err = __LINE__;
@@ -137,8 +130,6 @@ int _X(init_service)(char *path, void **out, int sz)
 		*out = data;
 	  if(!create)
 	  {
-			//Already created!!!
-			//sleep(1);
 	    break;
 	  }
 		//Must initial data
@@ -147,7 +138,7 @@ int _X(init_service)(char *path, void **out, int sz)
 				LIST_SHARED_DATA *p = (LIST_SHARED_DATA *)data;
 			#ifdef USING_MUTEX
 				pthread_mutex_t *mtx = &(p->frame_mtx);
-				p->total = LIST_SHARED_DATA_SZ;
+				p->total = sz;
 		    err  = _X(init_shm_mtx)(mtx);
 				if(err) {
 					break;
@@ -159,7 +150,7 @@ int _X(init_service)(char *path, void **out, int sz)
 				}
 			#elif defined(USING_RWLOCK) 
 				pthread_rwlock_t *mtx = &(p->frame_rwlock);
-				p->total = LIST_SHARED_DATA_SZ;
+				p->total = sz;
 		    err  = _X(init_rwlock)(mtx);
 				if(err) {
 					break;
@@ -171,7 +162,7 @@ int _X(init_service)(char *path, void **out, int sz)
 				}
 			#elif defined(USING_SEMAPHORE) 
 				sem_t *t = &(p->frame_sem);
-				p->total = LIST_SHARED_DATA_SZ;
+				p->total = sz;
 				err = sem_init(t, 1, 1);
 				if(err) {
 					break;
@@ -181,7 +172,7 @@ int _X(init_service)(char *path, void **out, int sz)
 				if(err) {
 					break;
 				}
-				fprintf(stdout, "used_data: %d, total: %d\n", p->used_data, p->total);
+				syslog(LOG_INFO, "used_data: %d, total: %d\n", p->used_data, p->total);
 			#else
 				#error "Must use MUTEX or SEMAPHORE"	
 			#endif
@@ -190,11 +181,16 @@ int _X(init_service)(char *path, void **out, int sz)
   while(0);
 
   if(err) {
-		fprintf(stdout, "Error: %d\n", err);
+		syslog(LOG_ERR, "Error: %d\n, line: %d", err, __LINE__);
   }
   if(shm > -1)
   {
-    err = close(shm); 
+		int err = 0;
+  	err = close(shm); 
+		if(err) {
+			syslog(LOG_ERR, "close fd shm error: %d\n, line: %d", (int)err , __LINE__);
+			//IPC.V2, page 328, 330, 335
+		}
   }
   return err;
 }
@@ -221,7 +217,7 @@ int _X(init_shm_mtx)(pthread_mutex_t *shm_mtx)
     }
   }
   while(0);
-  fprintf(stdout, "err - %s: %d\n", __FUNCTION__, err);
+	syslog(LOG_INFO, "err - %s: %d\n", __FUNCTION__, err);
   return err;
 }
 
@@ -248,7 +244,7 @@ int _X(init_rwlock)(pthread_rwlock_t *shm_rwmtx)
     }
   }
   while(0);
-  fprintf(stdout, "err - %s: %d\n", __FUNCTION__, err);
+	syslog(LOG_INFO, "err - %s: %d\n", __FUNCTION__, err);
   return err;
 }
 
@@ -307,8 +303,8 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n, char *sendsig, pid_t *
 				memcpy(tmp + p->used_data, data, n);
 				p->used_data += n;
 				rs = p->used_data;
-				fprintf(stdout, "func: %s, write data: %d, total: %d\n", 
-					__FUNCTION__, p->used_data, p->total);
+				syslog(LOG_INFO,  "func: %s, write data: %d, total: %d\n", 
+					__FUNCTION__, (int)p->used_data, (int)p->total );
 			}
 			while(0);
 
@@ -408,7 +404,7 @@ pthread_t ntt_read_thread()
 	int rc = 0;
 	pthread_t ptid = 0;
 	rc = pthread_create(&ptid, 0, read_body_thread, 0);
-	fprintf(stdout, "f: %s, rc: %d, ptid: %llui\n", __FUNCTION__, rc, ptid);
+	syslog(LOG_INFO, "f: %s, rc: %d, ptid: %llu\n", __FUNCTION__, rc, (LLU) ptid);
 	return ptid;
 }
 
@@ -418,7 +414,6 @@ void ntt_write_thread()
 }
 
 void *read_body_thread(void *data) {
-	int err = 0;
 	while(1)
 	{
 		char *dta = 0;
@@ -436,23 +431,17 @@ void *read_body_thread(void *data) {
 			dta = 0;
 		}
 	}
-	fprintf(stdout, "line: %d, Finish reading thread.\n", __LINE__);
+	syslog(LOG_INFO, "line: %d, Finish reading thread.\n", __LINE__ );
 	
-	//err = kill(getpid(), SIGALRM);
-	
+	int err = 0;
 	union sigval sv;
 	sv.sival_int = 2;
 	err =	sigqueue(getpid(), SIGALRM, sv);
+	syslog(LOG_INFO, "line: %d, Finish reading thread, signal err: %d.\n", __LINE__, err);
 	return 0;
 }
 
 void *write_body_thread(void *data) {
-//	while(1)
-//	{
-//		int n = check_exiit(1);
-//		if(n) break;
-//		sleep(1);
-//	}
 	return 0;
 }
 
@@ -567,14 +556,12 @@ int set_read_pid(pid_t pid)
 			break; 
 		}
 		errx = ntt_lock();
-		//check error
 		if(!errx) {
 			p->read_pid = pid;
 			errx = ntt_unlock();
-			//check error
 		}
 	} while (0);
-	return readpid;
+	return errx;
 }
 
 

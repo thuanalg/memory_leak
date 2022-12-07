@@ -8,6 +8,11 @@
 #include <semaphore.h>
 #include <pthread.h>
 #include <unistd.h>
+#include <syslog.h>
+
+
+#define LIST_SHARED_DATA_SZ        			(1 * 1024 * 1024)
+#define LLU 														unsigned long long
 
 #ifdef __cpluspplus
 extern "C" {
@@ -63,16 +68,17 @@ typedef struct {
 extern void *ntt_data_shm;
 
 void add_item_traffic(LIST_SHARED_DATA **p, char *item, int sz);
-void *ntt_open_shm();
-int   ntt_unlink_shm();
+void  ntt_write_thread();
+void *ntt_open_shm(int n);
+int   ntt_unlink_shm(int n);
 int   ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n, char *sendsig, pid_t *);
 int   ntt_read_shm(LIST_SHARED_DATA *p, char **data, char only_read);
-pthread_t  ntt_read_thread();
-void  ntt_write_thread();
 int set_exit_group(char val);
 int check_exiit(char increase);
-pid_t get_read_pid();
 int set_read_pid(pid_t pid);
+
+pid_t get_read_pid();
+pthread_t  ntt_read_thread();
 
 #ifdef __cpluspplus
 }

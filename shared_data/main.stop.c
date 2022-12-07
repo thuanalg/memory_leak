@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 			val = 0;
 		}
 	}
-	ntt_open_shm(0);
+	ntt_open_shm(LIST_SHARED_DATA_SZ);
 	p = (LIST_SHARED_DATA *) ntt_data_shm;
 	if(!p)
 	{
@@ -25,7 +25,7 @@ int main(int argc, char *argv[])
 		fprintf(stdout, "readid: %llu\n", (unsigned long long) read_pid);
 		kill(read_pid, SIGALRM);
 	}
-	ntt_unlink_shm();
+	ntt_unlink_shm(LIST_SHARED_DATA_SZ);
 	
 	return 0;
 }

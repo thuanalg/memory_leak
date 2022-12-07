@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include "shared_data.h"
 #include <signal.h>
+#include <syslog.h>
 
 #define COUNT_EXIT_READ 1 
 pthread_t read_threadid = 0;
@@ -44,7 +45,9 @@ int reg_user_sig() {
 
 int main(int argc, char *argv[])
 {
-	ntt_open_shm();
+	setlogmask (LOG_UPTO (LOG_INFO));
+	openlog ("main.read", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
+	ntt_open_shm(LIST_SHARED_DATA_SZ);
 	main_pid = getpid();
 	read_threadid = ntt_read_thread();
 	reg_user_sig();
@@ -61,6 +64,7 @@ int main(int argc, char *argv[])
 
 	sleep(60);
 	set_read_pid(0);
-	ntt_unlink_shm();
+	ntt_unlink_shm(LIST_SHARED_DATA_SZ);
+	closelog();
 	return 0;
 }

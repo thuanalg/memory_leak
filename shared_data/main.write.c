@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 	char sendsig = 0;
 	pid_t read_pid = 0;
 	SHARED_ITEM t;
-	ntt_open_shm();
+	ntt_open_shm(LIST_SHARED_DATA_SZ);
 	p = ntt_data_shm;
 	for(i = 0; i<10; ++i) {
 		memset(&t, 0, sizeof(t));
@@ -29,6 +29,6 @@ int main(int argc, char *argv[])
 		sigqueue(read_pid, SIGALRM, sv);
 		//kill(read_pid, SIGALRM);	
 	}
-	ntt_unlink_shm();
+	ntt_unlink_shm(LIST_SHARED_DATA_SZ);
 	return 0;
 }

@@ -5,7 +5,7 @@ SRC_04=../common/share*.c main.stop.c
 LIBS= -lpthread -lrt
 #FLAGS= -DUSING_MUTEX
 #FLAGS= -DUSING_SEMAPHORE
-FLAGS= -DUSING_RWLOCK
+FLAGS= -DUSING_RWLOCK -Wall
 INC=-I../common/
 all:
 	rm -f main.read main.write main.stop
