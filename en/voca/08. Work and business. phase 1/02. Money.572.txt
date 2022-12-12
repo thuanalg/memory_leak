@@ -377,7 +377,7 @@ appreciate		<-->	verb++C1	[220901][001]	./əˈpriːʃieɪt/-NAmE /əˈpriːʃie�
 
 
 
-arrears		<-->	noun++C2	[220901][001]	./əˈrɪəz/-NAmE /əˈrɪrz/
+arrears		<-->	noun++C2	[220901][002]	./əˈrɪəz/-NAmE /əˈrɪrz/
 	;nợ quá hạn -- [plural], (Idiooms), ​money that somebody owes that they have not paid at the right time
 		;rent/mortgage/tax arrears
 		;Extra Examples
@@ -1127,11 +1127,8 @@ beggar		<-->	noun++B2	[220901][001]	./ˈbeɡə(r)/-NAmE /ˈbeɡər/
 
 
 
-be in arrears		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	;trễ hẹn -- to be late in paying money that you owe
+be in arrears		<-->	idiom++C2[-0]	./i/
+	;trễ hẹn -- (1) to be late in paying money that you owe
 		;We're two months in arrears with the rent.
 		;Our tenants have fallen into arrears with their rent.
 		;TOPICS MoneyC2, Houses and homesC2
@@ -5427,7 +5424,7 @@ economical		<-->	adjective++B2	[220901][001]	./ˌiːkəˈnɒmɪkl/,  /ˌekəˈn�
 
 
 
-economics		<-->	noun++B2	[220901][001]	./ˌiːkəˈnɒmɪks/,  /ˌekəˈnɒmɪks/-NAmE /ˌiːkəˈnɑːmɪks/,  /ˌekəˈnɑːmɪks/
+economics		<-->	noun++B2	[220901][002]	./ˌiːkəˈnɒmɪks/,  /ˌekəˈnɒmɪks/-NAmE /ˌiːkəˈnɑːmɪks/,  /ˌekəˈnɑːmɪks/
 ​	;kinh tế học -- [uncoountable] the study of how a society organizes its money, trade and industry
 		;He studied politics and economics at Yale.
 		;Keynesian/Marxist economics
@@ -7763,11 +7760,10 @@ import		<-->	verb++B1[-0]	.
 
 
 
-in arrears		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+in arrears		<-->	idiom++C2[-0]	./i/
+	;việc trả nợ hàng tháng -- (1) if money or a person is paid in arrears for work, the money is paid after the work has been done
+		;You will be paid monthly in arrears.
+		;TOPICS MoneyC2, Houses and homesC2
 
 
 
@@ -8691,10 +8687,11 @@ lump sum		<-->	noun++C2[-0]	.
 
 
 
-macroeconomic		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+macroeconomic		<-->	adjective++C2	[221211][001]	./ˌmækrəʊˌiːkəˈnɒmɪk/,  /ˌmækrəʊˌekəˈnɒmɪk/
+ /ˌmækrəʊˌiːkəˈnɑːmɪk/,  /ˌmækrəʊˌekəˈnɑːmɪk/ [usually before noun]
+	;c. kinh tế vĩ mô -- (1) connected with large economic systems, such as those of whole countries or areas of the world
+		;macroeconomic policy
+		;TOPICS MoneyC2
 
 
 
@@ -8711,10 +8708,10 @@ macroeconomic		<-->	adjective++C2[-0]	.
 
 
 
-macroeconomics		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+macroeconomics		<-->	noun++C2	[221211][001]	./ˌmækrəʊˌiːkəˈnɒmɪks/,  /ˌmækrəʊˌekəˈnɒmɪks/
+ /ˌmækrəʊˌiːkəˈnɑːmɪks/,  /ˌmækrəʊˌekəˈnɑːmɪks/ [uncountable]
+	;kinh tế vĩ mô -- (1) the study of large economic systems, such as those of whole countries or areas of the world
+		;TOPICS MoneyC2
 
 
 
@@ -8730,8 +8727,7 @@ macroeconomics		<-->	noun++C2[-0]	.
 
 
 
-
-maintenance		<-->	noun++C2[-0]	.
+maintenance		<-->	noun++C2	[221211][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8771,8 +8767,8 @@ make		<-->	verb++A2	[221204][001]	./cef/
 
 
 
-mark		<-->	noun++C2[-0]	.
-	; -- (1) 
+mark		<-->	noun++C2	[221211][001]	./cef/
+	;đồng mark -- (1) 
 	; -- (2) 
 	; -- (3) 
 
@@ -8811,11 +8807,12 @@ market		<-->	noun++B1[-0]	.
 
 
 
-market capitalization		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+market capitalization		<-->	noun++C2	[221211][001]	./ˌmɑːkɪt ˌkæpɪtəlaɪˈzeɪʃn/
+ /ˌmɑːrkɪt ˌkæpɪtələˈzeɪʃn/ (also market cap) [uncountable, countable]
+	;vốn hoá thị trường -- (1) the value of a company that is bought and sold on the stock market, calculated by multiplying the total number of shares by the present share price
+		;The company's shares closed on Friday at 18p, giving it a market capitalization of £9.15 million.
+		;SEE ALSO capitalize (2)
+		;TOPICS MoneyC2
 
 
 
@@ -8851,8 +8848,52 @@ market economy		<-->	noun++C1[-0]	.
 
 
 
-market forces		<-->	noun++C2[-0]	.
-	; -- (1) 
+market forces		<-->	noun++C2	[221211][001]	./ˌmɑːkɪt ˈfɔːsɪz/
+ /ˌmɑːrkɪt ˈfɔːrsɪz/ [plural]
+	;các yếu tố thị trường -- (1) the economic factors that affect the price of, demand for and supply of a product or service
+		;TOPICS MoneyC2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+market segmentation		<-->	noun++C2	[221211][001]	./ˌmɑːkɪt ˌseɡmenˈteɪʃn/
+ /ˌmɑːrkɪt ˌseɡmenˈteɪʃn/ [uncountable, countable]
+	;sự phân loại khách hàng -- (1) the act of dividing existing and potential customers into groups according to their age, gender, class, income, etc.
+		;TOPICS MoneyC2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mean		<-->	adjective++C2	[221211][001]	./miːn/
+ /miːn/ (comparative meaner, superlative meanest)
+	;bần tiện, bủn xỉn -- (1) [-not generous] les
+		;He's rather mean when it comes to spending money on the children.
+		;They were too mean to buy the kids proper beds.
+		;Don't be so mean with the chocolate sauce.
+		;TOPICS MoneyC2, Personal qualitiesC2
 	; -- (2) 
 	; -- (3) 
 
@@ -8871,10 +8912,8 @@ market forces		<-->	noun++C2[-0]	.
 
 
 
-market segmentation		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+means		<-->	noun++C2	[221211][001]	./cef/
+	;tiền sẵn có -- (1) 
 
 
 
@@ -8890,52 +8929,10 @@ market segmentation		<-->	noun++C2[-0]	.
 
 
 
-
-mean		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-means		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-mercantilism		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+mercantilism		<-->	noun++C2	[221211][001]	./mɜːˈkæntɪlɪzəm/
+ /mɜːrˈkæntɪlɪzəm/ [uncountable] (specialist)
+	;chủ nghĩa trọng thương -- (1) the economic theory that trade increases wealth
+		;TOPICS MoneyC2
 
 
 
@@ -8971,11 +8968,10 @@ merger		<-->	noun++C1[-0]	.
 
 
 
-micropayment		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+micropayment		<-->	noun++C2	[221211][001]	./ˈmaɪkrəʊpeɪmənt/
+ /ˈmaɪkrəʊpeɪmənt/
+	;chi trả siêu nhỏ -- (1) a very small payment that you make online, for example each time you use a particular page or service on the internet
+		;TOPICS MoneyC2
 
 
 
@@ -9011,10 +9007,10 @@ millionaire		<-->	noun++B1[-0]	.
 
 
 
-monetarism		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+monetarism		<-->	noun++C2	[221211][001]	./ˈmʌnɪtərɪzəm/
+ /ˈmɑːnɪtərɪzəm/ [uncountable]
+	;chính sách tiền tệ -- (1) ​the policy of controlling the amount of money available in a country as a way of keeping the economy strong
+		;TOPICS MoneyC2
 
 
 
@@ -9132,10 +9128,10 @@ mortgage		<-->	verb++B2[-0]	.
 
 
 
-mortgage bond		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+mortgage bond		<-->	noun++C2	[221211][001]	./ˈmɔːɡɪdʒ bɒnd/
+ /ˈmɔːrɡɪdʒ bɑːnd/ (also bond) (South African English)
+	;khoản vay mua nhà trả chậm -- (1) a legal agreement by which a bank lends you money to buy a house, etc. which you pay back over many years; the sum of money that is lent
+		;TOPICS MoneyC2, Houses and homesC2
 
 
 
@@ -9152,10 +9148,14 @@ mortgage bond		<-->	noun++C2[-0]	.
 
 
 
-mutual fund		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+mutual fund		<-->	noun++C2	[221211][001]	./ˈmjuːtʃuəl fʌnd/
+ /ˈmjuːtʃuəl fʌnd/ (North American English) (British English unit trust)
+	;quỹ tương hỗ??? -- (1) a company that offers a service to people by investing their money in various different businesses
+		;TOPICS MoneyC2
+				;Oxford Collocations Dictionary
+				;Mutual fund is used before these nouns:
+				;investor
+		;See full entry
 
 
 
@@ -9192,11 +9192,10 @@ national debt		<-->	noun++B2[-0]	.
 
 
 
-negative equity		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+negative equity		<-->	noun++C2	[221211][001]	./ˌneɡətɪv ˈekwəti/
+ /ˌneɡətɪv ˈekwəti/ [uncountable]
+	;tình trạng âm vốn vay nhà -- (1) the situation in which the value of somebody’s house is less than the amount of money that is still owed to a mortgage company, such as a bank
+		;TOPICS MoneyC2, Houses and homesC2
 
 
 
@@ -9271,11 +9270,9 @@ note		<-->	noun++B1[-0]	.
 
 
 
-NYSE		<-->	abbreviation++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- == New York Stock Exchange
+NYSE		<-->	abbreviation++C2	[221211][001]	./ˌen waɪ es ˈiː/
+ /ˌen waɪ es ˈiː/
+	;Sàn chứng khoán NY -- (1) New York Stock Exchange
 
 
 
@@ -9286,11 +9283,10 @@ NYSE		<-->	abbreviation++C2[-0]	.
 
 
 
-OECD		<-->	abbreviation++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- == ​Organization for Economic Cooperation and Development
+OECD		<-->	abbreviation++C2	[221211][001]	./ˌəʊ iː siː ˈdiː/
+ /ˌəʊ iː siː ˈdiː/ 
+	;tổ chức hợp tác kinh tế -- (1) Organization for Economic Cooperation and Development (an organization of industrial countries that encourages trade and economic growth)
+		;TOPICS MoneyC2
 
 
 
@@ -10035,7 +10031,7 @@ peak		<-->	verb++C1[-0]	.
 
 
 
-peak		<-->	adjective++C1[-0]	./piːk/
+peak		<-->	adjective++C1	[221211][001]	./piːk/
  /piːk/ [only before noun]
 	;cao nhất, đỉnh -- (1) used to describe the highest level of something, or a time when the greatest number of people are doing something or using something
 		;It was a time of peak demand for the product.
@@ -10059,7 +10055,7 @@ peak		<-->	adjective++C1[-0]	./piːk/
 
 
 
-penalty		<-->	noun++B2[-0]	./cef/
+penalty		<-->	noun++B2	[221211][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10099,7 +10095,7 @@ penny		<-->	noun++A2	[221204][001]	./cef/
 
 
 
-pension		<-->	noun++B2[-0]	./cef/
+pension		<-->	noun++B2	[221211][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10119,7 +10115,7 @@ pension		<-->	noun++B2[-0]	./cef/
 
 
 
-pension pot		<-->	noun++C2[-0]	./ˈpenʃn pɒt/
+pension pot		<-->	noun++C2	[221211][001]	./ˈpenʃn pɒt/
  /ˈpenʃn pɑːt/ (British English, informal)
 	;lương hưu -- (1) the total amount of money that a person has invested to provide an income for when they retire
 		;Dr Williams stressed that people with small pension pots should consider working longer.
@@ -10179,7 +10175,7 @@ per cent		<-->	adjective++A2	[221204][001]	./cef/
 
 
 
-PIN		<-->	noun++C2[-0]	./pɪn/
+PIN		<-->	noun++C2	[221211][001]	./pɪn/
  /pɪn/ (also PIN number)
 	;mã số cá nhân -- (1) a number given to you, for example by a bank, so that you can use a plastic card to take out money from a cash machine (the abbreviation for ‘personal identification number’)
 		;SEE ALSO chip and PIN
@@ -10200,10 +10196,27 @@ PIN		<-->	noun++C2[-0]	./pɪn/
 
 
 
-plateau		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+plateau		<-->	noun++C2	[221211][001]	./ˈplætəʊ/
+ /plæˈtəʊ/ (plural plateaux  /ˈplætəʊz/  /plæˈtəʊz/, plateaus)
+	;cao nguyên -- (1) an area of flat land that is higher than the land around it
+		;The summit is a windswept plateau of scattered rocks.
+		;From a narrow fringe of coastal plain, the main island rises to a central plateau.
+		;TOPICS GeographyC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;highbroadvast…
+				;verb + plateau
+				;reach
+				;plateau + verb
+				;overlook something
+				;preposition
+				;across a/​the plateau
+		;See full entry
+	;khoảng thời gian cân bằng, trạng thái dừng -- (2) ​a time of little or no change after a period of growth or progress
+		;Inflation has reached a plateau.
+		;The children's standard of reading seems to have reached a plateau.
+		;Wordfinder: boomdeclinedipfluctuatelevel off/​outpeakplateauplummetslumptrend
+		;TOPICS MoneyC2
 
 
 
@@ -10219,8 +10232,7 @@ plateau		<-->	noun++C2[-0]	.
 
 
 
-
-plateau		<-->	verb++C2[-0]	./ˈplætəʊ/
+plateau		<-->	verb++C2	[221211][001]	./ˈplætəʊ/
  /plæˈtəʊ/  [intransitive]
 	;đạt mức cân bằng -- (1) plateau (out) to stay at a steady level after a period of growth or progress
 		;Unemployment has at last plateaued out.
@@ -10241,7 +10253,7 @@ plateau		<-->	verb++C2[-0]	./ˈplætəʊ/
 
 
 
-plummet		<-->	verb++C2[-0]	./ˈplʌmɪt/
+plummet		<-->	verb++C2	[221211][001]	./ˈplʌmɪt/
  /ˈplʌmɪt/ [intransitive]
 	;rớt xuống, rớt giá -- (1) to fall suddenly and quickly from a high level or position
 		;SYNONYM plunge
@@ -10270,7 +10282,7 @@ plummet		<-->	verb++C2[-0]	./ˈplʌmɪt/
 
 
 
-pocket money		<-->	noun++B1[-0]	./ˈpɒkɪt mʌni/
+pocket money		<-->	noun++B1	[221211][001]	./ˈpɒkɪt mʌni/
  /ˈpɑːkɪt mʌni/ [uncountable]
 	;tiền tiêu vặt -- (1) ​(especially British English) (also allowance especially in North American English) a small amount of money that parents give their children, usually every week or every month
 		;Did your parents give you pocket money when you were little?
@@ -10314,7 +10326,7 @@ poor		<-->	adjective++A1	[221204][001]	./cef/
 
 
 
-portfolio		<-->	noun++C1[-0]	./cef/
+portfolio		<-->	noun++C1	[221211][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10355,7 +10367,7 @@ pound		<-->	noun++A1	[221204][001]	./cef/
 
 
 
-poverty		<-->	noun++B1[-0]	./cef/
+poverty		<-->	noun++B1	[221211][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10375,7 +10387,7 @@ poverty		<-->	noun++B1[-0]	./cef/
 
 
 
-predatory pricing		<-->	noun++C2[-0]	./ˌpredətri ˈpraɪsɪŋ/
+predatory pricing		<-->	noun++C2	[221211][001]	./ˌpredətri ˈpraɪsɪŋ/
  /ˌpredətɔːri ˈpraɪsɪŋ/ [uncountable] (business)
 	;sứ bán phá giá -- (1) the fact of a company selling its goods at such a low price that other companies can no longer compete and have to stop selling similar goods
 		;TOPICS MoneyC2
@@ -10394,7 +10406,7 @@ predatory pricing		<-->	noun++C2[-0]	./ˌpredətri ˈpraɪsɪŋ/
 
 
 
-prepaid		<-->	adjective++C1[-0]	./ˌpriːˈpeɪd/
+prepaid		<-->	adjective++C1	[221211][001]	./ˌpriːˈpeɪd/
  /ˌpriːˈpeɪd/ (British English also pre-pay)
 	;trả trước -- (1) paid for in advance
 		;a prepaid mobile phone
@@ -10441,7 +10453,7 @@ price		<-->	noun++A1	[221204][001]	./cef/
 
 
 
-price		<-->	verb++B2[-0]	./cef/
+price		<-->	verb++B2	[221211][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10461,7 +10473,7 @@ price		<-->	verb++B2[-0]	./cef/
 
 
 
-price-fixing		<-->	noun++C1[-0]	./ˈpraɪs fɪksɪŋ/
+price-fixing		<-->	noun++C1	[221211][001]	./ˈpraɪs fɪksɪŋ/
  /ˈpraɪs fɪksɪŋ/ [uncountable]
 	;giá sàn -- (1) the practice of companies agreeing not to sell goods below a particular price
 		;TOPICS MoneyC1
@@ -10480,7 +10492,7 @@ price-fixing		<-->	noun++C1[-0]	./ˈpraɪs fɪksɪŋ/
 
 
 
-private enterprise		<-->	noun++C2[-0]	./ˌpraɪvət ˈentəpraɪz/
+private enterprise		<-->	noun++C2	[221211][001]	./ˌpraɪvət ˈentəpraɪz/
  /ˌpraɪvət ˈentərpraɪz/ [uncountable]
 	;hệ thống kinh tế tư nhân -- (1) the economic system in which industry or business is owned by independent companies or private people and is not controlled by the government
 		;COMPARE free enterprise
@@ -10500,7 +10512,7 @@ private enterprise		<-->	noun++C2[-0]	./ˌpraɪvət ˈentəpraɪz/
 
 
 
-privatization		<-->	noun++C1[-0]	./cef/
+privatization		<-->	noun++C1	[221211][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10546,7 +10558,7 @@ privatize		<-->	verb++C1	[221206][001]	./ˈpraɪvətaɪz/-NAmE /ˈpraɪvətaɪz/
 
 
 
-progressive		<-->	adjective++C2[-0]	./cef/
+progressive		<-->	adjective++C2	[221211][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 

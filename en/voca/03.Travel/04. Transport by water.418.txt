@@ -5217,10 +5217,45 @@ wheelhouse		<-->	noun+C2[-0]	.
 
 
 
-wreck		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+wreck		<-->	noun+C1[-0]	./rek/
+ /rek/ [orw.101]
+	;tàu đắm -- (1) a ship that has sunk or that has been very badly damaged
+		;They're going to try and raise the wreck from the seabed.
+		;SEE ALSO shipwreck
+		;Extra Examples:
+		;Heavy seas prevented salvage teams from landing on the wreck.
+		;They are worried about the oil still in the wreck.
+		;the wreck of the Titanic
+		;TOPICS Transport by waterC1
+				;Oxford Collocations Dictionary
+				;verb + wreck
+				;discoverfindlocate…
+				;preposition
+				;in a/​the wreckon a/​the wreckwreck of…
+		;See full entry
+	;xác tàu xe, máy bay sau khi va chạm -- (2) ​a car, plane, etc. that has been very badly damaged in an accident
+		;Two passengers are still trapped in the wreck.
+		;She was pulled from the burning wreck by firefighters.
+		;Synonyms crash: slam, collide, smash, wreck, 
+		;<< crash, slam, collide, smash, wreck, >>
+		;Extra Examples:
+		;(figurative) The campaign is a train wreck waiting to happen.
+		;The wreck occurred at milepost 534, just west of Greenup, Kentucky.
+		;His attempts at damage control are like watching a car wreck.
+		;Explosions ripped through the blazing wreck.
+		;TOPICS Transport by car or lorryC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;cartrain
+				;verb + wreck
+				;causesurvive
+				;phrases
+				;like watching a car wrecklike watching a train wrecka train wreck waiting to happen…
+		;See full entry
+	;đống đổ nát -- (4) ​(informal) a vehicle, building, etc. that is in very bad condition
+		;The house was a wreck when we bought it.
+		;(figurative) They still hoped to salvage something from the wreck of their marriage.
+		;TOPICS BuildingsC2
 
 
 

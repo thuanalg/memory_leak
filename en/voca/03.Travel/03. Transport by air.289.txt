@@ -2053,10 +2053,12 @@ go-around		<-->	noun++C2[-0]	.
 
 
 
-go-round		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+go-round		<-->	noun++C2[0]	./ˈɡəʊ raʊnd/
+ /ˈɡəʊ raʊnd/ (also go-around)
+	;đường cất cánh dự phòng??? -- (1) (specialist) a path taken by a plane after an unsuccessful attempt at landing, in order to get into a suitable position to try to land again
+		;TOPICS Transport by airC2
+	;một tranh luận -- (2) ​(North American English, informal) an argument
+		;TOPICS Opinion and argumentC2
 
 
 
@@ -2065,13 +2067,11 @@ go-round		<-->	noun++C2[-0]	.
 
 
 
-
-ground crew		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
+ground crew		<-->	noun++C2[0]	./ˈɡraʊnd kruː/
+ /ˈɡraʊnd kruː/ (also ground staff) [countable + singular or plural verb]
+	;nhân viên mặt đất -- (1) the people at an airport whose job is to take care of aircraft while they are on the ground
+		;the ground staff at the airport
+		;TOPICS Transport by airC2, JobsC2
 
 
 
@@ -2079,11 +2079,11 @@ ground crew		<-->	noun++C2[-0]	.
 
 
 
-gyroscope		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+gyroscope		<-->	noun++C2[0]	./ˈdʒaɪrəskəʊp/
+ /ˈdʒaɪrəskəʊp/ (also informal gyro  /ˈdʒaɪrəʊ/  /ˈdʒaɪrəʊ/)
+	;con quay hồi chuyển -- (1) a device consisting of a wheel that turns rapidly inside a frame and does not change position when the frame is moved. Gyroscopes are often used to keep ships and aircraft steady.
+		;TOPICS Transport by waterC2, Transport by airC2
 
 
 
@@ -2118,8 +2118,16 @@ hand luggage		<-->	noun++B1[-0]	.
 
 
 
-hangar		<-->	noun++C2[-0]	.
-	; -- (1) 
+hangar		<-->	noun++C2[0]	./ˈhæŋə(r)/
+ /ˈhæŋər/
+	;nhà chứa máy bay -- (1) a large building in which aircraft are kept
+		;TOPICS BuildingsC2, Transport by airC2
+				;Oxford Collocations Dictionary
+				;Hangar is used before these nouns:
+				;bay
+				;Hangar is used after these nouns:
+				;aircraft
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -2131,9 +2139,49 @@ hangar		<-->	noun++C2[-0]	.
 
 
 
-hang-glider		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+hang-glider		<-->	noun++C2[0]	./ˈhæŋ ɡlaɪdə(r)/
+ /ˈhæŋ ɡlaɪdər/
+	;??? -- (1) the frame used in hang-gliding
+		;TOPICS Sports: other sportsC2, Transport by airC2
+	;người lượn dù -- (2) a person who goes hang-gliding
+		;TOPICS Sports: other sportsC2
+
+
+
+
+
+
+
+
+hatch		<-->	noun++C2[0]	./hætʃ/
+ /hætʃ/
+	;cửa tàu, máy bay -- (1) (also hatchway) an opening or a door in a ship, aircraft or spacecraft
+		;The engineer was peering into the service hatch.
+		;an escape hatch
+		;TOPICS Transport by waterC2, Transport by airC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;closedopenaccess…
+				;verb + hatch
+				;liftopenraise…
+				;preposition
+				;through a/​the hatchhatch betweenhatch to…
+		;See full entry
+	;cửa -- (2) an opening in a wall between two rooms, especially a kitchen and a dining room, through which food can be passed
+		;a serving hatch
+		;Extra Examples:
+		;She opened the serving hatch and put the soup on the counter.
+		;a hatch between the kitchen and the dining room
+		;a hatch to the dining room
+		;TOPICS Houses and homesC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;closedopenaccess…
+				;verb + hatch
+				;liftopenraise…
+				;preposition
+				;through a/​the hatchhatch betweenhatch to…
+		;See full entry
 	; -- (3) 
 
 
@@ -2144,24 +2192,10 @@ hang-glider		<-->	noun++C2[-0]	.
 
 
 
-hatch		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-hatchway		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+hatchway		<-->	noun++C2[0]	./ˈhætʃweɪ/
+ /ˈhætʃweɪ/ (also hatch)
+	;cửa sập -- (1) an opening or a door in a ship, aircraft or spacecraft
+		;TOPICS Transport by waterC2, Transport by airC2
 
 
 
@@ -2183,10 +2217,10 @@ helicopter		<-->	noun++B1[-0]	.
 
 
 
-helipad		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+helipad		<-->	noun++C2[0]	./ˈhelipæd/
+ /ˈhelipæd/ (also helicopter pad)
+	;bãi đáp, cất cánh  -- (1) a small area where helicopters can take off and land
+		;TOPICS Transport by airC2
 
 
 
@@ -2195,12 +2229,10 @@ helipad		<-->	noun++C2[-0]	.
 
 
 
-
-heliport		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+heliport		<-->	noun++C2[0]	./ˈhelipɔːt/
+ /ˈhelipɔːrt/
+	;bãi đáp, cất cánh -- (1) a place where helicopters take off and land
+		;TOPICS Transport by airC2
 
 
 
@@ -2261,11 +2293,12 @@ immigration		<-->	noun++B2[-0]	.
 
 
 
-inboard		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+inboard		<-->	adjective++C2[0]	./ˈɪnbɔːd/
+ /ˈɪnbɔːrd/ (specialist)
+	;bên trong -- (1) located on the inside of a boat, plane or car
+		;an inboard motor
+		;OPPOSITE outboard
+		;TOPICS Transport by airC2
 
 
 
@@ -2365,10 +2398,10 @@ jet lag		<-->	noun++C1[-0]	.
 
 
 
-jetliner		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+jetliner		<-->	noun++C2[0]	./ˈdʒetlaɪnə(r)/
+ /ˈdʒetlaɪnər/
+	;máy bay phản lực lớn -- (1) a large plane with a jet engine, that carries passengers
+		;TOPICS Transport by airC2
 
 
 
@@ -2377,12 +2410,14 @@ jetliner		<-->	noun++C2[-0]	.
 
 
 
-
-joystick		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+joystick		<-->	noun++C2[0]	./ˈdʒɔɪstɪk/
+ /ˈdʒɔɪstɪk/
+	;cần điều khiển -- (1) a stick with a handle used with some computer games to move images on the screen
+		;There are two joysticks on the console, which you operate with your thumbs.
+		;You can direct your spaceship around the screen using the mouse, the keyboard or a joystick.
+		;TOPICS ComputersC2
+	;cần điều khiển -- (2) ​(informal) a stick with a handle in an aircraft that is used to control direction or height
+		;TOPICS Transport by airC2
 
 
 
@@ -2404,11 +2439,11 @@ jumbo		<-->	noun++C1[-0]	.
 
 
 
-jump jet		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+jump jet		<-->	noun++C2[0]	./ˈdʒʌmp dʒet/
+ /ˈdʒʌmp dʒet/
+	;trực thăng -- (1) an aircraft that can take off and land by going straight up or down, without needing a runway
+		;Wordfinder: aircraftbomberdronefighterhelicopterjetjump jetparachutepilotwarplane
+		;TOPICS Transport by airC2
 
 
 
@@ -2678,11 +2713,10 @@ navigate		<-->	verb++B2[-0]	.
 
 
 
-navigator		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+navigator		<-->	noun++B2[0]	./ˈnævɪɡeɪtə(r)/
+ /ˈnævɪɡeɪtər/
+	;hoa tiêu -- (1) a person who navigates, for example on a ship or an aircraft
+		;TOPICS Transport by waterB2, Transport by airB2
 
 
 
