@@ -35,7 +35,6 @@ handler(int signo, siginfo_t *info, void *context)
 			pthread_kill(read_threadid, USER_SIG);
 		}
 		fprintf(stdout, "sending pid--------------: %llu\n", (unsigned long long)info->si_pid);
-		//is_stop_server = 1;
 }
 
 
@@ -60,6 +59,7 @@ typedef struct {
 void *sending_routine_thread(void *arg)
 {
 	pthread_t ptid = 0;
+	char *data = 0;
 	int rc = 0;
 	struct sockaddr_in servaddr, cliaddr;
 	int sockfd = 0;
@@ -88,9 +88,8 @@ void *sending_routine_thread(void *arg)
 	
 	while(1)
 	{
-		char *data = 0;
 		int rc = get_data_gen_list(gen_list, &data); 
-		fprintf(stdout, "send to client, rc: %d.\t", rc);
+		fprintf(stdout, "send to client, rc: %d.\t\n", rc);
 		if(!rc) {
 			sleep(60);
 			continue;
@@ -98,7 +97,7 @@ void *sending_routine_thread(void *arg)
 		n = rc/sizeof(item_feedback);	
 		int i = 0;
 		item_feedback *item = (item_feedback*) data;
-		fprintf(stdout, "send to client.\t");
+		fprintf(stdout, "send to client.\t\n");
 		for(i = 0; i < n; ++i)
 		{
 			sendto(sockfd, (const char *)item[i].data, item[i].len_buff,
@@ -175,6 +174,14 @@ int main(int argc, char *argv[]) {
 					MSG_WAITALL, ( struct sockaddr *) &cliaddr,	&len);
 		if(n < 1) {
 			continue;
+		}
+
+		if(n>0 && cliaddr.sin_family == AF_INET) {
+			char str[INET_ADDRSTRLEN + 1];
+			str[INET_ADDRSTRLEN] = 0;
+			inet_ntop(AF_INET, &(cliaddr.sin_addr), str, INET_ADDRSTRLEN);
+			fprintf(stdout, "\ncli port: %d, ", (int) cliaddr.sin_port);
+			fprintf(stdout, "cli IP: %s\n\n", str);
 		}
 		item_feedback item;
 		memset(&item, 0, sizeof(item));
