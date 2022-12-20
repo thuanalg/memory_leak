@@ -90,7 +90,7 @@ abusive		<-->	adjective++C2	[221128][001]	./əˈbjuːsɪv/-NAmE /əˈbjuːsɪv/
 
 
 
-academic		<-->	adjective++B1[-0]	.
+academic		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -333,7 +333,7 @@ aloof		<-->	adjective++C2	[221128][001]	.əˈluːf/-NAmE /əˈluːf/ [not usuall
 
 
 
-ambitious		<-->	adjective++B1[-0]	.
+ambitious		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -469,7 +469,7 @@ animated		<-->	adjective++C2	[221128][001]	.ˈænɪmeɪtɪd/-NAmE /ˈænɪmeɪt�
 
 
 
-annoying		<-->	adjective++B1[-0]	.
+annoying		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1555,7 +1555,7 @@ brash		<-->	adjective++C2[-0]	.
 
 
 
-brave		<-->	adjective++B1[-0]	.
+brave		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1744,7 +1744,7 @@ busybody		<-->	noun++C2[-0]	.
 
 
 
-calm		<-->	adjective++B1[-0]	.
+calm		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1849,7 +1849,7 @@ cautious		<-->	adjective++C1[-0]	.
 
 
 
-character		<-->	noun++B1[-0]	.
+character		<-->	noun++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2209,7 +2209,7 @@ comfort		<-->	verb++B2	[221127][001]	./cef/
 
 
 
-comfortable		<-->	adjective++B1[-0]	.
+comfortable		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2344,7 +2344,7 @@ confidence		<-->	noun++B2[-0]	.
 
 
 
-confident		<-->	adjective++B1[-0]	.
+confident		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2641,7 +2641,7 @@ creative		<-->	adjective++A2	[221204][001]	./cef/
 
 
 
-criminal		<-->	adjective++B1[-0]	.
+criminal		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2686,7 +2686,7 @@ crude		<-->	adjective++C1[-0]	.
 
 
 
-cruel		<-->	adjective++B1[-0]	.
+cruel		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3421,7 +3421,7 @@ dutiful		<-->	adjective++C2[-0]	.
 
 
 
-duty		<-->	noun++B1[-0]	.
+duty		<-->	noun++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3766,7 +3766,7 @@ excel		<-->	verb++B2[-0]	.
 
 
 
-experienced		<-->	adjective++B1[-0]	.
+experienced		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3871,9 +3871,14 @@ fake		<-->	adjective++B2[-0]	.
 
 
 
-fake		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
+fake		<-->	noun++B1	[221219][001]	./feɪk/
+ /feɪk/
+	;thứ giả mạo -- (1) an object such as a work of art, a coin or a piece of jewellery that is not what somebody claims it is but has been made to look as if it is
+		;All the paintings proved to be fakes.
+		;She had long ago sold the diamonds and replaced them with fakes.
+		;TOPICS ArtB1
+	;kẻ lừa đảo -- (2) a person who pretends to be what they are not in order to cheat people
+		;TOPICS Personal qualitiesB1
 	; -- (3) 
 
 
@@ -3961,8 +3966,32 @@ flaunt		<-->	verb++C2[-0]	.
 
 
 
-fool		<-->	verb++B1[-0]	.
-	; -- (1) 
+fool		<-->	verb++B1	[221219][001]	./fuːl/
+ /fuːl/
+	;gài bẫy -- (1) [transitive] to trick somebody into believing something that is not true
+		;fool somebody You don't fool me!
+		;She certainly had me fooled—I really believed her!
+		;fool yourself You're fooling yourself if you think none of this will affect you.
+		;fool somebody into doing something Don't be fooled into thinking they're going to change anything.
+		;Extra Examples:
+		;She's not easily fooled.
+		;Ha! Fooled you! You really thought I was going to jump, didn't you?
+		;She had me completely fooled for a moment.
+		;You can't fool me with all that nonsense!
+		;I'm not easily fooled by anyone, least of all you.
+		;He fooled them into thinking he was a detective.
+		;Just don't be fooled into investing any money with them.
+		;TOPICS Personal qualitiesB1
+				;Oxford Collocations Dictionary
+				;adverb
+				;completelyeasily
+				;verb + fool
+				;cannottry to
+				;preposition
+				;intowith
+				;phrases
+				;have somebody fooled
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -4231,7 +4260,7 @@ gamely		<-->	adveerb++C2[-0]	.
 
 
 
-generous		<-->	adjective++B1[-0]	.
+generous		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4276,7 +4305,7 @@ genius		<-->	noun++B2[-0]	.
 
 
 
-gentle		<-->	adjective++B1[-0]	.
+gentle		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4306,7 +4335,7 @@ genuine		<-->	adjective++B2[-0]	.
 
 
 
-get on		<-->	phrasal veerb++B1[-0]	.
+get on		<-->	phrasal veerb++B1	[221219][001]	./p/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4321,7 +4350,7 @@ get on		<-->	phrasal veerb++B1[-0]	.
 
 
 
-get on with		<-->	phrasal veerb++B1[-0]	.
+get on with		<-->	phrasal veerb++B1	[221219][001]	./p/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4576,7 +4605,7 @@ grasping		<-->	adjective++C2[-0]	.
 
 
 
-grateful		<-->	adjective++B1[-0]	.
+grateful		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4816,7 +4845,7 @@ gutsy		<-->	adjective++C2[-0]	.
 
 
 
-hard-working		<-->	adjective++A2[-0]	./ˌhɑːd ˈwɜːkɪŋ/-NAmE /ˌhɑːrd ˈwɜːrkɪŋ/
+hard-working		<-->	adjective++A2	[221219][001]	./ˌhɑːd ˈwɜːkɪŋ/-NAmE /ˌhɑːrd ˈwɜːrkɪŋ/
 	;chăm chỉ -- (1) putting a lot of effort into a job and doing it well
 		;hard-working nurses
 		;I want to stand up for all the decent, hard-working families in this country.
@@ -5026,7 +5055,7 @@ heroics		<-->	noun++C2[-0]	.
 
 
 
-heroine		<-->	noun++A2[-0]	./ˈherəʊɪn/-NAmE /ˈherəʊɪn/
+heroine		<-->	noun++A2	[221219][001]	./ˈherəʊɪn/-NAmE /ˈherəʊɪn/
 	;nữa anh hùng -- (1) a girl or woman who is admired by many for doing something brave or good
 		;the heroines of the revolution
 		;She remains one of the unsung heroines of the Second World War.
@@ -5150,7 +5179,7 @@ holy		<-->	adjective++B2[-0]	.
 
 
 
-honest		<-->	adjective++B1[-0]	.
+honest		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5240,7 +5269,7 @@ honourable		<-->	adjective++C1[-0]	.
 
 
 
-horrible		<-->	adjective++B1[-0]	.
+horrible		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5660,7 +5689,7 @@ indefensible		<-->	adjective++C2[-0]	.
 
 
 
-independent		<-->	adjective++B1[-0]	.
+independent		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5975,7 +6004,7 @@ introverted		<-->	adjective++C2[-0]	.
 
 
 
-invent		<-->	verb++B1[-0]	.
+invent		<-->	verb++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6050,10 +6079,48 @@ jaunty		<-->	adjective++C2[-0]	.
 
 
 
-jealous		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+jealous		<-->	adjective++B1	[221219][001]	./ˈdʒeləs/
+ /ˈdʒeləs/
+	;ghen tỵ -- (1) feeling angry or unhappy because somebody you like or love is showing interest in somebody else
+		;a jealous wife/husband
+		;He's only talking to her to make you jealous.
+		;Wordfinder: affairdatego out with somebodyjealouslovemarriagepartnerpassionaterelationshipromantic
+		;Extra Examples:
+		;I can remember feeling madly jealous when he was with other women.
+		;Peter was obsessively jealous and his behaviour was driving his partner away.
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeelsound…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;aboutof
+		;See full entry
+	;ghen tỵ  -- (2) ​jealous (of somebody/something) feeling angry or unhappy because you wish you had something that somebody else has
+		;SYNONYM envious
+		;She's jealous of my success.
+		;Children often feel jealous when a new baby arrives.
+		;Extra Examples:
+		;TOPICS FeelingsB1
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeelsound…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;aboutof
+		;See full entry
+	;ghen tỵ  -- (3) jealous (of something) wanting to keep or protect something that you have because it makes you feel proud
+		;They are very jealous of their good reputation (= they do not want to lose it).
+		;TOPICS Personal qualitiesB1
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeelsound…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;aboutof
+		;See full entry
 
 
 
@@ -6155,7 +6222,7 @@ just		<-->	adjective++C1[-0]	.
 
 
 
-keen		<-->	adjective++B1[-0]	.
+keen		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6185,7 +6252,7 @@ kid		<-->	verb++C2[-0]	.
 
 
 
-kind		<-->	adjective++B1[-0]	.
+kind		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6230,8 +6297,27 @@ kindly		<-->	adjective++C1[-0]	.
 
 
 
-kindness		<-->	noun++B1[-0]	.
-	; -- (1) 
+kindness		<-->	noun++B1	[221219][001]	./ˈkaɪndnəs/
+ /ˈkaɪndnəs/
+	;sự tử tế -- (1) [uncountable] the quality of being kind
+		;to treat somebody with kindness and consideration
+		;Extra Examples:
+		;They had shown him great kindness.
+		;I'll never forget your kindness to me.
+		;She has always been kindness itself to me.
+		;Show your appreciation by little acts of kindness.
+		;They volunteer out of the kindness of their hearts.
+		;TOPICS Personal qualitiesB1
+				;Oxford Collocations Dictionary
+				;adjective
+				;greatlovingsimple…
+				;verb + kindness
+				;show somebodytreat somebody withmeet with…
+				;preposition
+				;out of kindnesskindness tokindness towards/​toward…
+				;phrases
+				;an act of kindnesskindness itselfout of the kindness of your heart…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -6410,7 +6496,7 @@ licentious		<-->	adjective++C2[-0]	.
 
 
 
-lie		<-->	verb++B1[-0]	.
+lie		<-->	verb++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6530,7 +6616,7 @@ loose		<-->	adjective++C2[-0]	.
 
 
 
-loud		<-->	adjective++B1[-0]	.
+loud		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7419,7 +7505,7 @@ nerve		<-->	noun++C2[-0]	.
 
 
 
-nervous		<-->	adjective++B1[-0]	.
+nervous		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7734,7 +7820,7 @@ optimistic		<-->	adjective++B2[-0]	.
 
 
 
-organized		<-->	adjective++B1[-0]	.
+organized		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7762,8 +7848,14 @@ outface		<-->	verb++C2	[221125][001]	./ˌaʊtˈfeɪs/-NAmE /ˌaʊtˈfeɪs/ (form
 
 
 
-outgoing		<-->	adjective++B1[-0]	.
-	; -- (1) 
+outgoing		<-->	adjective++B1	[221219][001]	./ˌaʊtˈɡəʊɪŋ/-NAmE /ˌaʊtˈɡəʊɪŋ/
+	;hoà đồng -- (1) liking to meet other people, enjoying their company and being friendly towards them
+		;SYNONYM sociable
+		;<< gregarious, sociable, outgoing, >>
+		;an outgoing personality
+		;She was always cheerful and outgoing.
+		;I’ve become more confident and outgoing.
+		;TOPICS Personal qualitiesB1
 	; -- (2) 
 	; -- (3) 
 
@@ -8092,7 +8184,7 @@ plain		<-->	adjective++C1[-0]	.
 
 
 
-pleasant		<-->	adjective++B1[-0]	.
+pleasant		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8212,7 +8304,7 @@ polite		<-->	adjective++A2	[221204][001]	./cef/
 
 
 
-positive		<-->	adjective++B1[-0]	.
+positive		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8394,7 +8486,7 @@ pretend		<-->	verb++B1	[221125][001]	./cef/
 
 
 
-pride		<-->	noun++B2[-0]	.
+pride		<-->	noun++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8424,7 +8516,7 @@ Prince Charming		<-->	noun++C2[-0]	.
 
 
 
-principle		<-->	noun++B2[-0]	.
+principle		<-->	noun++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8469,11 +8561,18 @@ proactive		<-->	adjective++C2[-0]	.
 
 
 
-prodigy		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+prodigy		<-->	noun++B2	[221220][001]	./ˈprɒdədʒi/
+ /ˈprɑːdədʒi/ (plural prodigies)
+	;thần đồng -- (1) a young person whose intelligence or skill is unusually good for their age
+		;a child/an infant prodigy
+		;a musical prodigy
+		;Mozart was an infant prodigy, composing music at the age of four.
+		;The 12-year-old prodigy will play America’s reigning chess champion next week.
+		;TOPICS Personal qualitiesB2
+				;Oxford Collocations Dictionary
+				;Prodigy is used after these nouns:
+				;child
+		;See full entry
 
 
 
@@ -8502,7 +8601,7 @@ profess		<-->	verb++C1	[221125][001]	./prəˈfes/-NAmE /prəˈfes/ (formal)
 
 
 
-professional		<-->	adjective++B1[-0]	.
+professional		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8532,7 +8631,7 @@ proper		<-->	adjective++C2[-0]	.
 
 
 
-proud		<-->	adjective++B1[-0]	.
+proud		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8652,7 +8751,7 @@ pussycat		<-->	noun++C2[-0]	.
 
 
 
-quality		<-->	noun++B1[-0]	.
+quality		<-->	noun++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8850,7 +8949,7 @@ relatable		<-->	adjective++C1[-0]	.
 
 
 
-relaxed		<-->	adjective++B1[-0]	.
+relaxed		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8865,7 +8964,7 @@ relaxed		<-->	adjective++B1[-0]	.
 
 
 
-reliable		<-->	adjective++B1[-0]	.
+reliable		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8955,7 +9054,7 @@ resentful		<-->	adjective++C1[-0]	.
 
 
 
-responsible		<-->	adjective++B2[-0]	.
+responsible		<-->	adjective++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9311,10 +9410,13 @@ self-centred		<-->	adjective++C1[-0]	.
 
 
 
-self-confidence		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+self-confidence		<-->	noun++B2	[221220][001]	./ˌself ˈkɒnfɪdəns/
+ /ˌself ˈkɑːnfɪdəns/ [uncountable]
+	;sự tự tin -- (1) confidence in yourself and your abilities
+		;SYNONYM self-assurance, confidence (2)
+		;He constantly tried to undermine her self-confidence.
+		;He has no self-confidence.
+		;TOPICS Personal qualitiesB2
 
 
 
@@ -9325,9 +9427,13 @@ self-confidence		<-->	noun++B2[-0]	.
 
 
 
-
-self-confident		<-->	adjective++B2[-0]	.
-	; -- (1) 
+self-confident		<-->	adjective++B2	[221220][001]	./ˌself ˈkɒnfɪdənt/
+ /ˌself ˈkɑːnfɪdənt/
+	;tự tin -- (1) having confidence in yourself and your abilities
+		;SYNONYM self-assured, confident
+		;a self-confident child
+		;a self-confident manner
+		;TOPICS Personal qualitiesB2
 	; -- (2) 
 	; -- (3) 
 
@@ -9416,11 +9522,24 @@ self-indulgent		<-->	adjective++C2[-0]	.
 
 
 
-selfish		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+selfish		<-->	adjective++B1	[221219][001]	./ˈselfɪʃ/-NAmE /ˈselfɪʃ/ (disapproving)
+	;ích kỷ -- (1) caring only about yourself rather than about other people
+		;selfish behaviour
+		;Do you think I'm being selfish by not letting her go?
+		;What a selfish thing to do!
+		;It was selfish of him to leave all the work to you.
+		;OPPOSITE unselfish, selfless
+		;Extra Examples:
+		;People are basically selfish.
+		;a pretty selfish attitude
+		;He did it for purely selfish reasons.
+		;TOPICS Personal qualitiesB1
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeelseem…
+				;adverb
+				;extremelyfairlyvery…
+		;See full entry
 
 
 
@@ -9656,7 +9775,7 @@ self-worth		<-->	noun++C2[-0]	.
 
 
 
-sensible		<-->	adjective++B1[-0]	.
+sensible		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9671,7 +9790,7 @@ sensible		<-->	adjective++B1[-0]	.
 
 
 
-sensitive		<-->	adjective++B2[-0]	.
+sensitive		<-->	adjective++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9719,7 +9838,7 @@ shamble		<-->	verb++C2	[221125][001]	./ˈʃæmbl/-NAmE /ˈʃæmbl/ [intransitive
 
 
 
-sharp		<-->	adjective++B2[-0]	.
+sharp		<-->	adjective++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9815,7 +9934,7 @@ shoot your mouth off (about something)		<-->	idiom++C2[-0]	.
 
 
 
-show off		<-->	phrasal veerb++B2[-0]	.
+show off		<-->	phrasal veerb++B2	[221220][001]	./p/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9845,7 +9964,7 @@ shrewd		<-->	adjective++C2[-0]	.
 
 
 
-shy		<-->	adjective++B1[-0]	.
+shy		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9875,7 +9994,7 @@ skill		<-->	noun++A1	[221204][001]	./cef/
 
 
 
-skilled		<-->	adjective++B2[-0]	.
+skilled		<-->	adjective++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9890,8 +10009,11 @@ skilled		<-->	adjective++B2[-0]	.
 
 
 
-skill set		<-->	noun++B2[-0]	.
-	; -- (1) 
+skill set		<-->	noun++B2	[221220][001]	./ˈskɪl set/
+ /ˈskɪl set/
+	;kỹ năng tổng hợp -- (1) a person’s range of skills or abilities
+		;This job requires a completely different skill set.
+		;TOPICS Personal qualitiesB2
 	; -- (2) 
 	; -- (3) 
 
@@ -10100,7 +10222,7 @@ sly		<-->	adjective++C2[-0]	.
 
 
 
-smart		<-->	adjective++B1[-0]	.
+smart		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10192,11 +10314,18 @@ snide		<-->	adjective++C2[-0]	.
 
 
 
-sociable		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+sociable		<-->	adjective++B1	[221219][001]	./ˈsəʊʃəbl/-NAmE /ˈsəʊʃəbl/ (also less frequent social)
+	;hoà đồng -- (1) (of people) enjoying spending time with other people
+		;SYNONYM gregarious
+		;<< gregarious, sociable, outgoing, >>
+		;She's a sociable child who'll talk to anyone.
+		;I'm not feeling very sociable this evening.
+		;We had a very sociable weekend (= we did a lot of things with other people).
+		;The hours are not very sociable in this job (= you have to work early, late, at the weekend, etc.).
+		;OPPOSITE unsociable
+		;COMPARE antisocial
+		;TOPICS Family and relationshipsB1, Personal qualitiesB1
+		;Word Origin
 
 
 
@@ -10338,7 +10467,7 @@ spin (somebody) a yarn, tale, etc.		<-->	idiom++C2[-0]	.
 
 
 
-spirit		<-->	noun++B2[-0]	.
+spirit		<-->	noun++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10665,7 +10794,7 @@ streetwise		<-->	adjective++C2[-0]	.
 
 
 
-strength		<-->	noun++B2[-0]	.
+strength		<-->	noun++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10680,7 +10809,7 @@ strength		<-->	noun++B2[-0]	.
 
 
 
-strict		<-->	adjective++B2[-0]	.
+strict		<-->	adjective++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10695,7 +10824,7 @@ strict		<-->	adjective++B2[-0]	.
 
 
 
-strong		<-->	adjective++B1[-0]	.
+strong		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10725,8 +10854,20 @@ strut		<-->	verb++C2	[221125][001]	./strʌt/-NAmE /strʌt/\ [intransitive]
 
 
 
-stubborn		<-->	adjective++B2[-0]	.
-	; -- (1) 
+stubborn		<-->	adjective++B2	[221220][001]	./ˈstʌbən/
+ /ˈstʌbərn/
+	;bướng bỉnh -- (1) (often disapproving) determined not to change your opinion or attitude
+		;SYNONYM obstinate
+		;He was too stubborn to admit that he was wrong.
+		;She can be as stubborn as a mule (= extremely stubborn).
+		;stubborn pride
+		;a stubborn resistance to change
+		;a stubborn refusal to listen
+		;She has inherited her mother’s stubborn streak.
+		;Extra Examples:
+		;He started out with nothing but raw talent and stubborn determination.
+		;The situation was aggravated by Mr Johnson's stubborn refusal to apologize.
+		;TOPICS Opinion and argumentB2, Personal qualitiesB2
 	; -- (2) 
 	; -- (3) 
 
@@ -10949,7 +11090,7 @@ sweetie		<-->	noun++C2[-0]	.
 
 
 
-sympathetic		<-->	adjective++B2[-0]	.
+sympathetic		<-->	adjective++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10964,7 +11105,7 @@ sympathetic		<-->	adjective++B2[-0]	.
 
 
 
-sympathy		<-->	noun++B2[-0]	.
+sympathy		<-->	noun++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10994,7 +11135,7 @@ tactful		<-->	adjective++C1[-0]	.
 
 
 
-talented		<-->	adjective++B1[-0]	.
+talented		<-->	adjective++B1	[221219][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11009,8 +11150,20 @@ talented		<-->	adjective++B1[-0]	.
 
 
 
-talkative		<-->	adjective++B2[-0]	.
-	; -- (1) 
+talkative		<-->	adjective++B2	[221220][001]	./ˈtɔːkətɪv/
+ /ˈtɔːkətɪv/
+	;nói nhiều -- (1) liking to talk a lot
+		;He's not very talkative, is he?
+		;She was in a talkative mood.
+		;Extra Examples:
+		;She got more talkative as the evening wore on.
+		;Her normally talkative friend was very quiet that day.
+		;You're unusually talkative! What's going on?
+		;TOPICS Personal qualitiesB2
+				;Oxford Collocations Dictionary
+				;Talkative is used with these nouns:
+				;mood
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -11303,7 +11456,7 @@ tolerant		<-->	adjective++C1[-0]	.
 
 
 
-tough		<-->	adjective++B2[-0]	.
+tough		<-->	adjective++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11352,7 +11505,7 @@ trumpet		<-->	verb++C2	[221125][001]	./ˈtrʌmpɪt/-NAmE /ˈtrʌmpɪt/\
 
 
 
-trust		<-->	noun++B2[-0]	.
+trust		<-->	noun++B2	[221220][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -11502,8 +11655,16 @@ unconscionable		<-->	adjective++C2[-0]	.
 
 
 
-understanding		<-->	adjective++B1[-0]	.
-	; -- (1) 
+understanding		<-->	adjective++B1	[221219][001]	./ˌʌndəˈstændɪŋ/-NAmE /ˌʌndərˈstændɪŋ/
+	;Word Family:
+		understand 		verb (≠ misunderstand)
+		understandable 	adjective
+		misunderstood 	adjective
+		understanding 	adjective noun (≠ misunderstanding)
+	;thấu hiểu, cảm thông -- (1) showing sympathy for other people’s problems and being willing to forgive them when they do something wrong
+		;SYNONYM sympathetic
+		;She has very understanding parents.
+		;TOPICS Personal qualitiesB1
 	; -- (2) 
 	; -- (3) 
 
@@ -11532,8 +11693,12 @@ unflinching		<-->	adjective++C2[-0]	.
 
 
 
-unfriendliness		<-->	noun++B2[-0]	.
-	; -- (1) 
+unfriendliness		<-->	noun++B2	[221220][001]	./ʌnˈfrendlinəs/
+ /ʌnˈfrendlinəs/ [uncountable]
+	;thái độ khó ưa -- (1) behaviour that is not kind or pleasant to somebody
+		;We were shocked by the unfriendliness of the staff.
+		;OPPOSITE friendliness (1)
+		;TOPICS Personal qualitiesB2
 	; -- (2) 
 	; -- (3) 
 
@@ -11547,8 +11712,26 @@ unfriendliness		<-->	noun++B2[-0]	.
 
 
 
-unfriendly		<-->	adjective++B1[-0]	.
-	; -- (1) 
+unfriendly		<-->	adjective++B1	[221219][001]	./ʌnˈfrendli/-NAmE /ʌnˈfrendli/
+	;không thân thiện -- (1) not kind or pleasant to somebody
+		;an unfriendly atmosphere
+		;unfriendly (to/towards somebody) There's no need to be so unfriendly towards them.
+		;the use of environmentally unfriendly products (= that harm the environment)
+		;OPPOSITE friendly
+		;Extra Examples:
+		;She was really unfriendly to me.
+		;‘Yes?’ he said in an incredibly unfriendly voice.
+		;She shot him an unfriendly glance.
+		;The report said that the Church can appear unfriendly to outsiders.
+		;TOPICS Personal qualitiesB1
+				;Oxford Collocations Dictionary
+				;verbs
+				;appearbelook…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;to
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -11787,9 +11970,41 @@ vigour		<-->	noun++C2[-0]	.
 
 
 
-villain		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
+villain		<-->	noun++B2	[221220][001]	./ˈvɪlən/
+ /ˈvɪlən/
+	;kẻ phản diện, vai phản diện -- (1) the main bad character in a story, play, etc.
+		;He often plays the part of the villain.
+		;Wordfinder: anti-herobaddycharactergoodyherolove interestnarratorprotagonisttraitvillain
+		;Wordfinder: anti-hero, baddy, character, goody, hero, love interest, narrator, protagonist, trait, villain, 
+		;Extra Examples:
+		;He doesn't fit the standard stereotype of a movie villain.
+		;He has played villains in most of his films.
+		;He wore a black cloak, like a pantomime villain.
+		;The Queen in ‘Snow White’ is one of film's greatest villains.
+		;TOPICS Film and theatreB2, Literature and writingB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;moviepantomimescreen…
+				;verb + villain
+				;cast somebody asplaycatch…
+				;phrases
+				;the villain of the piece
+		;See full entry
+	;kẻ xấu -- (2) a person who is morally bad or responsible for causing trouble or harm
+		;the heroes and villains of the 20th century
+		;Industrialized nations are the real environmental villains.
+		;Extra Examples:
+		;He felt that the insurance companies were the real villains in all this.
+		;She seems to have cast me as the villain in her latest emotional upheaval.
+		;TOPICS Personal qualitiesB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;moviepantomimescreen…
+				;verb + villain
+				;cast somebody asplaycatch…
+				;phrases
+				;the villain of the piece
+		;See full entry
 	; -- (3) 
 
 

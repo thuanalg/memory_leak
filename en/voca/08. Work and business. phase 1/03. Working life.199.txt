@@ -1,1387 +1,1387 @@
-absentee		<-->	noun+C2	.
+absentee		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-achieve		<-->	verb+A2	.
+achieve		<-->	verb+A2[-0]	.
 
 
 
 
 
 
-adjourn		<-->	verb+C2	.
+adjourn		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-adjournment		<-->	noun+C2	.
+adjournment		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-adjourn to		<-->	phrasal verb+C2	.
+adjourn to		<-->	phrasal verb+C2[-0]	.
 
 
 
 
 
 
-agenda		<-->	noun+B2	.
+agenda		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-AGM		<-->	noun+C2	.
+AGM		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-AOB		<-->	abbreviation+C2	.
+AOB		<-->	abbreviation+C2[-0]	.
 
 
 
 
 
 
-apology		<-->	noun+C2	.
+apology		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-application		<-->	noun+B1	.
+application		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-apply		<-->	verb+A2	.
+apply		<-->	verb+A2[-0]	.
 
 
 
 
 
 
-appoint		<-->	verb+C1	.
+appoint		<-->	verb+C1[-0]	.
 
 
 
 
 
 
-appointment		<-->	noun+B1	.
+appointment		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-arduous		<-->	adjective+C2	.
+arduous		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-attend		<-->	verb+A2	.
+attend		<-->	verb+A2[-0]	.
 
 
 
 
 
 
-attendance		<-->	noun+C1	.
+attendance		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-back-breaking		<-->	adjective+C2	.
+back-breaking		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-between jobs		<-->	idiom+C1	.
+between jobs		<-->	idiom+C1[-0]	.
 
 
 
 
 
 
-blue Monday		<-->	noun+C2	.
+blue Monday		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-boardroom		<-->	noun+C1	.
+boardroom		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-bonus		<-->	noun+C1	.
+bonus		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-boring		<-->	adjective+A1	.
+boring		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-boss		<-->	noun+A2	.
+boss		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-brainstorm		<-->	verb+B2	.
+brainstorm		<-->	verb+B2[-0]	.
 
 
 
 
 
 
-brainstorming		<-->	noun+B2	.
+brainstorming		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-break		<-->	noun+A1	.
+break		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-breakout		<-->	adjective+C2	.
+breakout		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-business		<-->	noun+A1	.
+business		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-call		<-->	verb+B1	.
+call		<-->	verb+B1[-0]	.
 
 
 
 
 
 
-candidate		<-->	noun+B1	.
+candidate		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-career		<-->	noun+A1	.
+career		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-chair		<-->	noun+B2	.
+chair		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-chair		<-->	verb+B2	.
+chair		<-->	verb+B2[-0]	.
 
 
 
 
 
 
-challenging		<-->	adjective+B2	.
+challenging		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-clock in		<-->	phrasal verb+C2	.
+clock in		<-->	phrasal verb+C2[-0]	.
 
 
 
 
 
 
-clock off		<-->	phrasal verb+C2	.
+clock off		<-->	phrasal verb+C2[-0]	.
 
 
 
 
 
 
-clock on		<-->	phrasal verb+C2	.
+clock on		<-->	phrasal verb+C2[-0]	.
 
 
 
 
 
 
-clock out		<-->	phrasal verb+C2	.
+clock out		<-->	phrasal verb+C2[-0]	.
 
 
 
 
 
 
-collaborative		<-->	adjective+C1	.
+collaborative		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-colleague		<-->	noun+A2	.
+colleague		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-commence		<-->	verb+C1	.
+commence		<-->	verb+C1[-0]	.
 
 
 
 
 
 
-commission		<-->	noun+B2	.
+commission		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-committee		<-->	noun+B2	.
+committee		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-competitive		<-->	adjective+B1	.
+competitive		<-->	adjective+B1[-0]	.
 
 
 
 
 
 
-condition		<-->	noun+B1	.
+condition		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-contract		<-->	noun+B2	.
+contract		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-convene		<-->	verb+C2	.
+convene		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-copier		<-->	noun+B2	.
+copier		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-covering letter		<-->	noun+B2	.
+covering letter		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-co-worker		<-->	noun+B2	.
+co-worker		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-creative		<-->	adjective+A2	.
+creative		<-->	adjective+A2[-0]	.
 
 
 
 
 
 
-CV		<-->	noun+B1	.
+CV		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-danger money		<-->	noun+C2	.
+danger money		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-dangerous		<-->	adjective+A1	.
+dangerous		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-demanding		<-->	adjective+B2	.
+demanding		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-department		<-->	noun+A2	.
+department		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-desk		<-->	noun+A1	.
+desk		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-diary		<-->	noun+A2	.
+diary		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-discipline		<-->	noun+B2	.
+discipline		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-discrimination		<-->	noun+C1	.
+discrimination		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-easy		<-->	adjective+A1	.
+easy		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-employee		<-->	noun+A2	.
+employee		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-employer		<-->	noun+A2	.
+employer		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-exciting		<-->	adjective+A1	.
+exciting		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-exhausting		<-->	adjective+B2	.
+exhausting		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-exit interview		<-->	noun+C2	.
+exit interview		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-experience		<-->	noun+A2	.
+experience		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-exploit		<-->	verb+B2	.
+exploit		<-->	verb+B2[-0]	.
 
 
 
 
 
 
-file		<-->	noun+B1	.
+file		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-filing cabinet		<-->	noun+C1	.
+filing cabinet		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-follow up		<-->	phrasal verb+C1	.
+follow up		<-->	phrasal verb+C1[-0]	.
 
 
 
 
 
 
-grill		<-->	verb+C2	.
+grill		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-gruelling		<-->	adjective+C2	.
+gruelling		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-hard		<-->	adjective+A1	.
+hard		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-hazard pay		<-->	noun+C2	.
+hazard pay		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-hectic		<-->	adjective+C1	.
+hectic		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-hire		<-->	verb+B1	.
+hire		<-->	verb+B1[-0]	.
 
 
 
 
 
 
-hold		<-->	verb+B1	.
+hold		<-->	verb+B1[-0]	.
 
 
 
 
 
 
-hot desk		<-->	noun+C2	.
+hot desk		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-industry		<-->	noun+A2	.
+industry		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-innovative		<-->	adjective+B2	.
+innovative		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-intellectual		<-->	adjective+B2	.
+intellectual		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-intensive		<-->	adjective+C1	.
+intensive		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-intermittent		<-->	adjective+C2	.
+intermittent		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-intern		<-->	noun+C1	.
+intern		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-internship		<-->	noun+C1	.
+internship		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-interview		<-->	noun+A1	.
+interview		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-interview		<-->	verb+A1	.
+interview		<-->	verb+A1[-0]	.
 
 
 
 
 
 
-interviewee		<-->	noun+C1	.
+interviewee		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-interviewer		<-->	noun+A2	.
+interviewer		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-in tray		<-->	noun+C2	.
+in tray		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-job		<-->	noun+A1	.
+job		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-job description		<-->	noun+B2	.
+job description		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-job-hunt		<-->	verb+C1	.
+job-hunt		<-->	verb+C1[-0]	.
 
 
 
 
 
 
-job security		<-->	noun+B1	.
+job security		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-labor		<-->	noun+B2	.
+labor		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-labor union		<-->	noun+B1	.
+labor union		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-labour		<-->	noun+B2	.
+labour		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-labour-intensive		<-->	adjective+C2	.
+labour-intensive		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-leave		<-->	noun+B2	.
+leave		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-light		<-->	adjective+B1	.
+light		<-->	adjective+B1[-0]	.
 
 
 
 
 
 
-living wage		<-->	noun+C1	.
+living wage		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-lock out		<-->	phrasal verb+C2	.
+lock out		<-->	phrasal verb+C2[-0]	.
 
 
 
 
 
 
-lockout		<-->	noun+C2	.
+lockout		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-low-paid		<-->	adjective+B2	.
+low-paid		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-lunch hour		<-->	noun+B1	.
+lunch hour		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-manage		<-->	verb+A2	.
+manage		<-->	verb+A2[-0]	.
 
 
 
 
 
 
-meet		<-->	verb+A1	.
+meet		<-->	verb+A1[-0]	.
 
 
 
 
 
 
-meeting		<-->	noun+A1	.
+meeting		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-menial		<-->	adjective+C2	.
+menial		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-minimum wage		<-->	noun+C1	.
+minimum wage		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-minute		<-->	noun+C2	.
+minute		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-monotonous		<-->	adjective+C1	.
+monotonous		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-multi-skilling		<-->	noun+C1	.
+multi-skilling		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-multitask		<-->	verb+C1	.
+multitask		<-->	verb+C1[-0]	.
 
 
 
 
 
 
-off - adverb+A2	.
+off - adverb+A2[-0]	.
 
 
 
 
 
 
-off-duty		<-->	adjective+B2	.
+off-duty		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-office		<-->	noun+A1	.
+office		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-one-on-one		<-->	adjective+C1	.
+one-on-one		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-one-to-one		<-->	adjective+C1	.
+one-to-one		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-on/off duty		<-->	idiom+B2	.
+on/off duty		<-->	idiom+B2[-0]	.
 
 
 
 
 
 
-out tray		<-->	noun+C2	.
+out tray		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-overtime		<-->	noun+C1	.
+overtime		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-painstaking		<-->	adjective+C2	.
+painstaking		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-pay		<-->	noun+A2	.
+pay		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-pay as you earn		<-->	noun+C2	.
+pay as you earn		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-PAYE		<-->	abbreviation+C2	.
+PAYE		<-->	abbreviation+C2[-0]	.
 
 
 
 
 
 
-pay gap		<-->	noun+C1	.
+pay gap		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-pencil in		<-->	phrasal verb+C2	.
+pencil in		<-->	phrasal verb+C2[-0]	.
 
 
 
 
 
 
-pension		<-->	noun+B2	.
+pension		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-pension off		<-->	phrasal verb+C2	.
+pension off		<-->	phrasal verb+C2[-0]	.
 
 
 
 
 
 
-photocopier		<-->	noun+B2	.
+photocopier		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-physical		<-->	adjective+A2	.
+physical		<-->	adjective+A2[-0]	.
 
 
 
 
 
 
-picket		<-->	noun+C2	.
+picket		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-picket		<-->	verb+C2	.
+picket		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-placement		<-->	noun+B2	.
+placement		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-position		<-->	noun+B2	.
+position		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-post		<-->	noun+B2	.
+post		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-postpone		<-->	verb+C1	.
+postpone		<-->	verb+C1[-0]	.
 
 
 
 
 
 
-postponement		<-->	noun+C1	.
+postponement		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-professional		<-->	adjective+B1	.
+professional		<-->	adjective+B1[-0]	.
 
 
 
 
 
 
-qualification		<-->	noun+B1	.
+qualification		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-qualified		<-->	adjective+B1	.
+qualified		<-->	adjective+B1[-0]	.
 
 
 
 
 
 
-question		<-->	verb+A2	.
+question		<-->	verb+A2[-0]	.
 
 
 
 
 
 
-quorum		<-->	noun+C2	.
+quorum		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-reception		<-->	noun+A2	.
+reception		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-recruit		<-->	verb+B2	.
+recruit		<-->	verb+B2[-0]	.
 
 
 
 
 
 
-redundancy		<-->	noun+C1	.
+redundancy		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-redundant		<-->	adjective+C1	.
+redundant		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-referee		<-->	noun+C1	.
+referee		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-reference		<-->	noun+B2	.
+reference		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-resign		<-->	verb+B2	.
+resign		<-->	verb+B2[-0]	.
 
 
 
 
 
 
-resignation		<-->	noun+C1	.
+resignation		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-rewarding		<-->	adjective+B2	.
+rewarding		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-résumé		<-->	noun+C1	.
+résumé		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-sabbatical		<-->	noun+C2	.
+sabbatical		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-sack		<-->	verb+C1	.
+sack		<-->	verb+C1[-0]	.
 
 
 
 
 
 
-sacking		<-->	noun+C1	.
+sacking		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-salary		<-->	noun+A2	.
+salary		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-satisfying		<-->	adjective+B2	.
+satisfying		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-schedule		<-->	noun+A2	.
+schedule		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-schedule		<-->	verb+B2	.
+schedule		<-->	verb+B2[-0]	.
 
 
 
 
 
 
-shoddy		<-->	adjective+C2	.
+shoddy		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-sick day		<-->	noun+C1	.
+sick day		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-sick leave		<-->	noun+C1	.
+sick leave		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-skive		<-->	verb+C2	.
+skive		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-solitary		<-->	adjective+C1	.
+solitary		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-stimulating		<-->	adjective+C1	.
+stimulating		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-stressful		<-->	adjective+B1	.
+stressful		<-->	adjective+B1[-0]	.
 
 
 
 
 
 
-strike		<-->	verb+B2	.
+strike		<-->	verb+B2[-0]	.
 
 
 
 
 
 
-strike		<-->	noun+B2	.
+strike		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-supervisor		<-->	noun+C1	.
+supervisor		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-supervisory		<-->	adjective+C2	.
+supervisory		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-sweatshop		<-->	noun+C2	.
+sweatshop		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-table		<-->	verb+C2	.
+table		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-target		<-->	noun+A2	.
+target		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-task		<-->	noun+A2	.
+task		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-taxing		<-->	adjective+C2	.
+taxing		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-tedious		<-->	adjective+C1	.
+tedious		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-tiring		<-->	adjective+B2	.
+tiring		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-trade union		<-->	noun+B1	.
+trade union		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-underemployed		<-->	adjective+C1	.
+underemployed		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-unfinished		<-->	adjective+B2	.
+unfinished		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-union		<-->	noun+B1	.
+union		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-vacancy		<-->	noun+C1	.
+vacancy		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-wage gap		<-->	noun+C1	.
+wage gap		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-wage slave		<-->	noun+C1	.
+wage slave		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-water cooler		<-->	noun+C2	.
+water cooler		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-WFH		<-->	abbreviation+C2	.
+WFH		<-->	abbreviation+C2[-0]	.
 
 
 
 
 
 
-work		<-->	verb+A1	.
+work		<-->	verb+A1[-0]	.
 
 
 
 
 
 
-work		<-->	noun+A1	.
+work		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-workday		<-->	noun+B1	.
+workday		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-worker		<-->	noun+A1	.
+worker		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-work experience		<-->	noun+B1	.
+work experience		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-workforce		<-->	noun+B2	.
+workforce		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-work from home		<-->	idiom+B1	.
+work from home		<-->	idiom+B1[-0]	.
 
 
 
 
 
 
-workload		<-->	noun+C1	.
+workload		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-workplace		<-->	noun+B2	.
+workplace		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-zero-hours		<-->	adjective+C2	.
+zero-hours		<-->	adjective+C2[-0]	.
