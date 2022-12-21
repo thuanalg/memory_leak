@@ -135,7 +135,7 @@ architectural		<-->	adjective+C1	[221110][001]	./ˌɑːkɪˈtektʃərəl/-NAmE /
 
 
 
-architecture		<-->	noun+A2[-0]	.
+architecture		<-->	noun+A2[-0]	./cef/
 
 
 
@@ -194,7 +194,8 @@ asbestos		<-->	noun+C2	[221110][001]	./æsˈbestɒs/-NAmE /æzˈbestəs/
 
 
 aspect		<-->	noun+C2	[221110][001]	./ˈæspekt/-NAmE /ˈæspekt/
-	;hướng -- [countable, usually singular] (formal) the direction in which a building, window, piece of land, etc. faces;the side of a building that faces a particular direction ~ SYNONYM orientation
+	;hướng -- [countable, usually singular] (formal) the direction in which a building, window, piece of land, etc. faces;the side of a building that faces a particular direction 
+		;SYNONYM orientation
 		;Our room had a western aspect.
 
 

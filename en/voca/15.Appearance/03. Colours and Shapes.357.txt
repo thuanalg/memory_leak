@@ -1,2493 +1,2493 @@
-amber		<-->	adjective+C2    
+amber		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-angle		<-->	noun+B2    
+angle		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-apricot		<-->	adjective+C2    
+apricot		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-aquamarine		<-->	adjective+C2    
+aquamarine		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-arc		<-->	noun+C2    
+arc		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-arch		<-->	noun+C1    
+arch		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-asymmetric		<-->	adjective+C2    
+asymmetric		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-asymmetrically		<-->	adverb+C2    
+asymmetrically		<-->	adverb+C2[-0]	.
 
 
 
 
 
 
-asymmetry		<-->	noun+C2    
+asymmetry		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-auburn		<-->	adjective+C2    
+auburn		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-aureate		<-->	adjective+C2    
+aureate		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-axis		<-->	noun+C2    
+axis		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-azure		<-->	adjective+C2    
+azure		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-baby blue		<-->	adjective+C2    
+baby blue		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-bay		<-->	adjective+C2    
+bay		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-beige		<-->	adjective+C1    
+beige		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-black		<-->	adjective+A1    
+black		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-black		<-->	noun+A1    
+black		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-blackness		<-->	noun+B2    
+blackness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-blonde		<-->	adjective+A1    
+blonde		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-blood-red		<-->	adjective+B2    
+blood-red		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-blue		<-->	adjective+A1    
+blue		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-blue		<-->	noun+A1    
+blue		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-blueness		<-->	noun+B2    
+blueness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-bluish		<-->	adjective+C1    
+bluish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-bottle green		<-->	noun+C2    
+bottle green		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-bottle-green		<-->	adjective+C2    
+bottle-green		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-brassy		<-->	adjective+C2    
+brassy		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-brazen		<-->	adjective+C2    
+brazen		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-bright		<-->	adjective+A2    
+bright		<-->	adjective+A2[-0]	.
 
 
 
 
 
 
-brighten		<-->	verb+C1    
+brighten		<-->	verb+C1[-0]	.
 
 
 
 
 
 
-brightness		<-->	noun+B2    
+brightness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-bronze		<-->	adjective+C1    
+bronze		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-brown		<-->	adjective+A1    
+brown		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-brown		<-->	noun+A1    
+brown		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-brownish		<-->	adjective+C1    
+brownish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-buff		<-->	adjective+C2    
+buff		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-burgundy		<-->	noun+C2    
+burgundy		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-burgundy		<-->	adjective+C2    
+burgundy		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-burnt ochre		<-->	noun+C2    
+burnt ochre		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-burnt sienna		<-->	noun+C2    
+burnt sienna		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-burnt umber		<-->	noun+C2    
+burnt umber		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-carmine		<-->	adjective+C2    
+carmine		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-carroty		<-->	adjective+C2    
+carroty		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-cerise		<-->	adjective+C2    
+cerise		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-cerulean		<-->	adjective+C2    
+cerulean		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-cherry		<-->	adjective+C2    
+cherry		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-chestnut		<-->	adjective+C1    
+chestnut		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-china blue		<-->	noun+C2    
+china blue		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-china-blue		<-->	adjective+C2    
+china-blue		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-chocolate		<-->	noun+B2    
+chocolate		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-circle		<-->	noun+A2    
+circle		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-circular		<-->	adjective+C1    
+circular		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-circumference		<-->	noun+C2    
+circumference		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-claret		<-->	noun+C2    
+claret		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-clash		<-->	verb+C2    
+clash		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-coal-black		<-->	adjective+C2    
+coal-black		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-cobalt		<-->	noun+C2    
+cobalt		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-coffee		<-->	noun+B2    
+coffee		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-color		<-->	noun+A1    
+color		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-color		<-->	verb+A1    
+color		<-->	verb+A1[-0]	.
 
 
 
 
 
 
-colored		<-->	adjective+B1    
+colored		<-->	adjective+B1[-0]	.
 
 
 
 
 
 
-colorful		<-->	adjective+B2    
+colorful		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-colour		<-->	noun+A1    
+colour		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-colour		<-->	verb+B1    
+colour		<-->	verb+B1[-0]	.
 
 
 
 
 
 
-coloured		<-->	adjective+B1    
+coloured		<-->	adjective+B1[-0]	.
 
 
 
 
 
 
-colourful		<-->	adjective+B2    
+colourful		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-colour in		<-->	phrasal verb+C1
+colour in		<-->	phrasal verb+C1[-0]	.
 
 
 
 
 
 
-column		<-->	noun+C1    
+column		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-concave		<-->	adjective+C2    
+concave		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-concavity		<-->	noun+C2    
+concavity		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-concentric		<-->	adjective+C2    
+concentric		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-cone		<-->	noun+C1    
+cone		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-conical		<-->	adjective+C2    
+conical		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-conic section		<-->	noun+C2    
+conic section		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-contrast		<-->	noun+C1    
+contrast		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-convex		<-->	adjective+C2    
+convex		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-coppery		<-->	adjective+C2    
+coppery		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-coral		<-->	adjective+C2    
+coral		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-cream		<-->	noun+B1    
+cream		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-cream		<-->	adjective+B1    
+cream		<-->	adjective+B1[-0]	.
 
 
 
 
 
 
-creamy		<-->	adjective+C1    
+creamy		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-crescent		<-->	noun+C2    
+crescent		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-crimson		<-->	adjective+C2    
+crimson		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-cross		<-->	noun+A2    
+cross		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-cruciform		<-->	adjective+C2    
+cruciform		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-cube		<-->	noun+C1    
+cube		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-cubic		<-->	adjective+C2    
+cubic		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-curl		<-->	verb+C1    
+curl		<-->	verb+C1[-0]	.
 
 
 
 
 
 
-curl		<-->	noun+C1    
+curl		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-curve		<-->	noun+B2    
+curve		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-curve		<-->	verb+B2    
+curve		<-->	verb+B2[-0]	.
 
 
 
 
 
 
-curved		<-->	adjective+B2    
+curved		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-cylinder		<-->	noun+C1    
+cylinder		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-dark		<-->	adjective+A1    
+dark		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-darkness		<-->	noun+B2    
+darkness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-decagon		<-->	noun+C2    
+decagon		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-decahedron		<-->	noun+C2    
+decahedron		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-deep		<-->	adjective+B2    
+deep		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-diagonal		<-->	adjective+C2    
+diagonal		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-diagonal		<-->	noun+C2    
+diagonal		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-diameter		<-->	noun+C1    
+diameter		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-diamond		<-->	noun+B1    
+diamond		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-dimension		<-->	noun+C1    
+dimension		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-discolour		<-->	verb+C2    
+discolour		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-dodecagon		<-->	noun+C2    
+dodecagon		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-dull		<-->	adjective+C1    
+dull		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-dun		<-->	adjective+C2    
+dun		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-dun		<-->	noun+C2    
+dun		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-dusky		<-->	adjective+C2    
+dusky		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-dye		<-->	verb+B2    
+dye		<-->	verb+B2[-0]	.
 
 
 
 
 
 
-dye		<-->	noun+B2    
+dye		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-ebony		<-->	adjective+C2    
+ebony		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-ecru		<-->	noun+C2    
+ecru		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-ellipse		<-->	noun+C2    
+ellipse		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-emerald		<-->	adjective+C2    
+emerald		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-emerald		<-->	noun+C2    
+emerald		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-fawn		<-->	adjective+C2    
+fawn		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-fawn		<-->	noun+C2    
+fawn		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-flaming		<-->	adjective+C2    
+flaming		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-flat		<-->	adjective+A2    
+flat		<-->	adjective+A2[-0]	.
 
 
 
 
 
 
-flaxen		<-->	adjective+C2    
+flaxen		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-form		<-->	noun+B2    
+form		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-geometric		<-->	adjective+C2    
+geometric		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-ginger		<-->	noun+C1    
+ginger		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-ginger		<-->	adjective+B2    
+ginger		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-gingery		<-->	adjective+C2    
+gingery		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-gold		<-->	noun+A2    
+gold		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-gold		<-->	adjective+A2    
+gold		<-->	adjective+A2[-0]	.
 
 
 
 
 
 
-golden		<-->	adjective+B2    
+golden		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-gray		<-->	adjective+A1    
+gray		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-grayish		<-->	adjective+C1    
+grayish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-green		<-->	adjective+A1    
+green		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-green		<-->	noun+A1    
+green		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-greenish		<-->	adjective+C1    
+greenish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-greenness		<-->	noun+B2    
+greenness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-grey		<-->	adjective+A1    
+grey		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-grey		<-->	noun+A1    
+grey		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-greyish		<-->	adjective+C1    
+greyish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-greyness		<-->	noun+B2    
+greyness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-hazel		<-->	adjective+C1    
+hazel		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-helix		<-->	noun+C2    
+helix		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-hemisphere		<-->	noun+C2    
+hemisphere		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-hendecagon		<-->	noun+C2    
+hendecagon		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-heptagon		<-->	noun+C2    
+heptagon		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-hexagon		<-->	noun+C2    
+hexagon		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-hexagram		<-->	noun+C2    
+hexagram		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-hexahedron		<-->	noun+C2    
+hexahedron		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-honeyed		<-->	adjective+C2    
+honeyed		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-horizontal		<-->	adjective+B2    
+horizontal		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-hot pink		<-->	noun+C2    
+hot pink		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-hot pink		<-->	adjective+C2    
+hot pink		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-ice-blue		<-->	adjective+C2    
+ice-blue		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-indigo		<-->	adjective+C2    
+indigo		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-indigo		<-->	noun+C2    
+indigo		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-iron-grey		<-->	adjective+C2    
+iron-grey		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-jade		<-->	noun+C2    
+jade		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-jet black		<-->	adjective+C2    
+jet black		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-khaki		<-->	adjective+C2    
+khaki		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-leaden		<-->	adjective+C2    
+leaden		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-lemon		<-->	noun+B2    
+lemon		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-lemon		<-->	adjective+B2    
+lemon		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-light		<-->	adjective+A1    
+light		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-light-coloured		<-->	adjective+B2    
+light-coloured		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-lighten		<-->	verb+C1    
+lighten		<-->	verb+C1[-0]	.
 
 
 
 
 
 
-lightness		<-->	noun+B2    
+lightness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-lilac		<-->	noun+C2    
+lilac		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-lilac		<-->	adjective+C2    
+lilac		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-lily-white		<-->	adjective+C2    
+lily-white		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-lime		<-->	noun+C2    
+lime		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-lime-green		<-->	adjective+C2    
+lime-green		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-line		<-->	noun+A1    
+line		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-livid		<-->	adjective+C2    
+livid		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-loud		<-->	adjective+C2    
+loud		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-lozenge		<-->	noun+C2    
+lozenge		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-luminous		<-->	adjective+C2    
+luminous		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-lurid		<-->	adjective+C2    
+lurid		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-magenta		<-->	adjective+C2    
+magenta		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-magenta		<-->	noun+C2    
+magenta		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-maroon		<-->	adjective+C2    
+maroon		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-match		<-->	verb+B2    
+match		<-->	verb+B2[-0]	.
 
 
 
 
 
 
-mauve		<-->	noun+C2    
+mauve		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-mauve		<-->	adjective+C2    
+mauve		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-mellow		<-->	adjective+C2    
+mellow		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-midnight blue		<-->	noun+C2    
+midnight blue		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-midnight blue		<-->	adjective+C2    
+midnight blue		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-monochrome		<-->	noun+C2    
+monochrome		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-mustard		<-->	adjective+C2    
+mustard		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-mustard		<-->	noun+C2    
+mustard		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-navy blue		<-->	noun+C2    
+navy blue		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-navy blue		<-->	adjective+C2    
+navy blue		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-neutral		<-->	adjective+C1    
+neutral		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-nonagon		<-->	noun+C2    
+nonagon		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-nut-brown		<-->	adjective+C2    
+nut-brown		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-oatmeal		<-->	adjective+C2    
+oatmeal		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-oatmeal		<-->	noun+C2    
+oatmeal		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-oblong		<-->	noun+C2    
+oblong		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-oblong		<-->	adjective+C2    
+oblong		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-ochre		<-->	noun+C2    
+ochre		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-octagon		<-->	noun+C2    
+octagon		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-off-white		<-->	adjective+C2    
+off-white		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-off-white		<-->	noun+C2    
+off-white		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-olive		<-->	noun+C1    
+olive		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-olive		<-->	adjective+C1    
+olive		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-orange		<-->	noun+A1    
+orange		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-orange		<-->	adjective+A1    
+orange		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-oval		<-->	adjective+C1    
+oval		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-oval		<-->	noun+C1    
+oval		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-pale		<-->	adjective+B1    
+pale		<-->	adjective+B1[-0]	.
 
 
 
 
 
 
-palely		<-->	adverb+C2    
+palely		<-->	adverb+C2[-0]	.
 
 
 
 
 
 
-paleness		<-->	noun+B2    
+paleness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-parabola		<-->	noun+C2    
+parabola		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-parallel		<-->	adjective+B2    
+parallel		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-parallelogram		<-->	noun+C2    
+parallelogram		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-peach		<-->	noun+C2    
+peach		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-peach		<-->	adjective+C2    
+peach		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-peachy		<-->	adjective+C2    
+peachy		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-peacock blue		<-->	noun+C2    
+peacock blue		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-peacock blue		<-->	adjective+C2    
+peacock blue		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-pea-green		<-->	adjective+C2    
+pea-green		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-pentagon		<-->	noun+C2    
+pentagon		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-pentagram		<-->	noun+C2    
+pentagram		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-pentahedron		<-->	noun+C2    
+pentahedron		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-perimeter		<-->	noun+C2    
+perimeter		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-petrol blue		<-->	adjective+C2    
+petrol blue		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-petrol blue		<-->	noun+C2    
+petrol blue		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-pillar-box red		<-->	noun+C2    
+pillar-box red		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-pillar-box red		<-->	adjective+C2    
+pillar-box red		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-pink		<-->	adjective+A1    
+pink		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-pink		<-->	noun+A1    
+pink		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-pinkish		<-->	adjective+C1    
+pinkish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-plummy		<-->	adjective+C2    
+plummy		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-polygon		<-->	noun+C2    
+polygon		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-polyhedron		<-->	noun+C2    
+polyhedron		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-powder blue		<-->	noun+C2    
+powder blue		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-powder blue		<-->	adjective+C2    
+powder blue		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-primrose		<-->	noun+C2    
+primrose		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-primrose		<-->	adjective+C2    
+primrose		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-prism		<-->	noun+C2    
+prism		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-prismatic		<-->	adjective+C2    
+prismatic		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-puce		<-->	noun+C2    
+puce		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-puce		<-->	adjective+C2    
+puce		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-purple		<-->	adjective+A1    
+purple		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-purple		<-->	noun+A1    
+purple		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-purplish		<-->	adjective+C1    
+purplish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-pyramid		<-->	noun+B2    
+pyramid		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-quadrilateral		<-->	noun+C2    
+quadrilateral		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-quadrilateral		<-->	adjective+C2    
+quadrilateral		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-rectangle		<-->	noun+C1    
+rectangle		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-rectangular		<-->	adjective+C1    
+rectangular		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-red		<-->	adjective+A1    
+red		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-red		<-->	noun+A1    
+red		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-reddish		<-->	adjective+C1    
+reddish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-redness		<-->	noun+B2    
+redness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-rhomboid		<-->	noun+C2    
+rhomboid		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-rhombus		<-->	noun+C2    
+rhombus		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-right angle		<-->	noun+C1    
+right angle		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-right-angled		<-->	adjective+C2    
+right-angled		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-right-angled triangle		<-->	noun+C2    
+right-angled triangle		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-right triangle		<-->	noun+C2    
+right triangle		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-rose		<-->	adjective+C1    
+rose		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-roseate		<-->	adjective+C2    
+roseate		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-rose-coloured		<-->	adjective+C1    
+rose-coloured		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-rosy		<-->	adjective+C2    
+rosy		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-round		<-->	adjective+A2    
+round		<-->	adjective+A2[-0]	.
 
 
 
 
 
 
-ruby		<-->	adjective+C2    
+ruby		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-ruby		<-->	noun+C2    
+ruby		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-ruddy		<-->	adjective+C2    
+ruddy		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-run		<-->	verb+C2    
+run		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-russet		<-->	adjective+C2    
+russet		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-saffron		<-->	noun+C2    
+saffron		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-saffron		<-->	adjective+C2    
+saffron		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-salmon pink		<-->	adjective+C2    
+salmon pink		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-salmon pink		<-->	noun+C2    
+salmon pink		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-sandy		<-->	adjective+C2    
+sandy		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-sapphire		<-->	noun+C2    
+sapphire		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-sapphire		<-->	adjective+C2    
+sapphire		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-scarlet		<-->	noun+C2    
+scarlet		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-scarlet		<-->	adjective+C2    
+scarlet		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-sea green		<-->	noun+C1    
+sea green		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-sea-green		<-->	adjective+C1    
+sea-green		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-semicircle		<-->	noun+C2    
+semicircle		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-sepia		<-->	adjective+C2    
+sepia		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-sepia		<-->	noun+C2    
+sepia		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-shade		<-->	noun+B2    
+shade		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-shape		<-->	noun+A2    
+shape		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-shaped		<-->	adjective+B2    
+shaped		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-shocking pink		<-->	adjective+C2    
+shocking pink		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-shocking pink		<-->	noun+C2    
+shocking pink		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-silver		<-->	noun+A2    
+silver		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-silver		<-->	adjective+A2    
+silver		<-->	adjective+A2[-0]	.
 
 
 
 
 
 
-silvery		<-->	adjective+C2    
+silvery		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-sky blue		<-->	noun+C1    
+sky blue		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-sky-blue		<-->	adjective+C1    
+sky-blue		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-slate-grey		<-->	adjective+C2    
+slate-grey		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-smoky		<-->	adjective+C2    
+smoky		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-snow-white		<-->	adjective+C1    
+snow-white		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-soft		<-->	adjective+C1    
+soft		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-solid		<-->	adjective+C1    
+solid		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-solid		<-->	noun+C1    
+solid		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-sombre		<-->	adjective+C2    
+sombre		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-sooty		<-->	adjective+C2    
+sooty		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-sphere		<-->	noun+C1    
+sphere		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-spherical		<-->	adjective+C2    
+spherical		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-spheroid		<-->	noun+C2    
+spheroid		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-spiral		<-->	noun+C1    
+spiral		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-spiral		<-->	adjective+C1    
+spiral		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-square		<-->	adjective+A2    
+square		<-->	adjective+A2[-0]	.
 
 
 
 
 
 
-square		<-->	noun+A2    
+square		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-squarish		<-->	adjective+C1    
+squarish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-stain		<-->	verb+C2    
+stain		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-star		<-->	noun+A2    
+star		<-->	noun+A2[-0]	.
 
 
 
 
 
 
-steely		<-->	adjective+C2    
+steely		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-straight		<-->	adjective+A2    
+straight		<-->	adjective+A2[-0]	.
 
 
 
 
 
 
-subtle		<-->	adjective+C1    
+subtle		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-surface		<-->	noun+B1    
+surface		<-->	noun+B1[-0]	.
 
 
 
 
 
 
-symmetrical		<-->	adjective+C2    
+symmetrical		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-symmetrically		<-->	adverb+C2    
+symmetrically		<-->	adverb+C2[-0]	.
 
 
 
 
 
 
-symmetry		<-->	noun+C2    
+symmetry		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-tan		<-->	noun+C1    
+tan		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-tan		<-->	adjective+C1    
+tan		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-tangerine		<-->	adjective+C2    
+tangerine		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-tangerine		<-->	noun+C2    
+tangerine		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-taupe		<-->	adjective+C2    
+taupe		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-taupe		<-->	noun+C2    
+taupe		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-tawny		<-->	adjective+C2    
+tawny		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-tetrahedron		<-->	noun+C2    
+tetrahedron		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-tint		<-->	noun+C2    
+tint		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-tone		<-->	noun+C2    
+tone		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-tone		<-->	verb+C2    
+tone		<-->	verb+C2[-0]	.
 
 
 
 
 
 
-trapezium		<-->	noun+C2    
+trapezium		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-trapezoid		<-->	noun+C2    
+trapezoid		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-triangle		<-->	noun+B2    
+triangle		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-triangular		<-->	adjective+C1    
+triangular		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-trihedron		<-->	noun+C2    
+trihedron		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-turquoise		<-->	noun+C1    
+turquoise		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-turquoise		<-->	adjective+C1    
+turquoise		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-vermilion		<-->	adjective+C2    
+vermilion		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-vermilion		<-->	noun+C2    
+vermilion		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-vertical		<-->	adjective+B2    
+vertical		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-vibrancy		<-->	noun+C2    
+vibrancy		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-vibrant		<-->	adjective+C1    
+vibrant		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-vibrantly		<-->	adverb+C1    
+vibrantly		<-->	adverb+C1[-0]	.
 
 
 
 
 
 
-violet		<-->	adjective+C1    
+violet		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-violet		<-->	noun+C1    
+violet		<-->	noun+C1[-0]	.
 
 
 
 
 
 
-viridian		<-->	noun+C2    
+viridian		<-->	noun+C2[-0]	.
 
 
 
 
 
 
-vivid		<-->	adjective+B2    
+vivid		<-->	adjective+B2[-0]	.
 
 
 
 
 
 
-white		<-->	adjective+A1    
+white		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-white		<-->	noun+A1    
+white		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-whiteness		<-->	noun+B2    
+whiteness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-whitish		<-->	adjective+C1    
+whitish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-wishy-washy		<-->	adjective+C2    
+wishy-washy		<-->	adjective+C2[-0]	.
 
 
 
 
 
 
-yellow		<-->	adjective+A1    
+yellow		<-->	adjective+A1[-0]	.
 
 
 
 
 
 
-yellow		<-->	noun+A1    
+yellow		<-->	noun+A1[-0]	.
 
 
 
 
 
 
-yellowish		<-->	adjective+C1    
+yellowish		<-->	adjective+C1[-0]	.
 
 
 
 
 
 
-yellowness		<-->	noun+B2    
+yellowness		<-->	noun+B2[-0]	.
 
 
 
 
 
 
-zigzag		<-->	noun+C2    
+zigzag		<-->	noun+C2[-0]	.
