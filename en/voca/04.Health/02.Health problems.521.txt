@@ -1439,7 +1439,7 @@ coeliac disease		<-->	noun+C2[-0]	.
 
 
 
-cold		<-->	noun+A1[-0]	.
+cold		<-->	noun+A1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2023,7 +2023,7 @@ curable		<-->	adjective+C2[-0]	.
 
 
 
-cut		<-->	verb+A1[-0]	.
+cut		<-->	verb+A1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3162,7 +3162,7 @@ German measles		<-->	noun+C2[-0]	.
 
 
 
-get		<-->	verb+A1[-0]	.
+get		<-->	verb+A1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3202,7 +3202,7 @@ ghastly		<-->	adjective+C2[-0]	.
 
 
 
-give		<-->	verb+A1[-0]	.
+give		<-->	verb+A1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3358,7 +3358,7 @@ harm		<-->	verb+B2[-0]	.
 
 
 
-have		<-->	verb+A1[-0]	.
+have		<-->	verb+A1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6010,7 +6010,7 @@ shut-in		<-->	noun+C2[-0]	.
 
 
 
-sick		<-->	adjective+A1[-0]	.
+sick		<-->	adjective+A1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6728,7 +6728,7 @@ terminal		<-->	adjective+C1[-0]	.
 
 
 
-terrible		<-->	adjective+A1[-0]	.
+terrible		<-->	adjective+A1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6797,12 +6797,12 @@ tonsillitis		<-->	noun+C2[-0]	.
 
 
 
-toothache		<-->	noun+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
+toothache		<-->	noun+A2	[221222][001]	./ˈtuːθeɪk/
+ /ˈtuːθeɪk/ [uncountable, countable, usually singular]
+	;cơn đau răng -- (1) a pain in your teeth or in one tooth
+		;(British English) I've got toothache.
+		;(North American English, British English) I've got a toothache.
+		;TOPICS Health problemsA2
 
 
 
@@ -7072,7 +7072,7 @@ underweight		<-->	adjective+B2[-0]	.
 
 
 
-unfit		<-->	adjective+B2[-0]	./ʌnˈfɪt/
+unfit		<-->	adjective+B2	[221222][001]	./ʌnˈfɪt/
  /ʌnˈfɪt/
 	;không phù hợp -- (1) not of an acceptable standard; not suitable
 		;unfit (for something) The housing was unfit for human habitation.
@@ -7123,7 +7123,7 @@ unfit		<-->	adjective+B2[-0]	./ʌnˈfɪt/
 
 
 
-unhealthy		<-->	adjective+A2[-0]	./ʌnˈhelθi/
+unhealthy		<-->	adjective+A2	[221222][001]	./ʌnˈhelθi/
  /ʌnˈhelθi/
 	;không khoẻ -- (1) ​not having good health; showing a lack of good health
 		;They looked poor and unhealthy.
@@ -7150,7 +7150,7 @@ unhealthy		<-->	adjective+A2[-0]	./ʌnˈhelθi/
 
 
 
-unwell		<-->	adjective+B1[-0]	./ʌnˈwel/
+unwell		<-->	adjective+B1	[221222][001]	./ʌnˈwel/
  /ʌnˈwel/ [not before noun] (rather formal)
 	;bệnh -- (1) ill	
 		;<< ill, unwell, sick, >>
@@ -7178,7 +7178,7 @@ unwell		<-->	adjective+B1[-0]	./ʌnˈwel/
 
 
 
-upset		<-->	adjective+B1[-0]	./cef/
+upset		<-->	adjective+B1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7191,7 +7191,7 @@ upset		<-->	adjective+B1[-0]	./cef/
 
 
 
-upset		<-->	verb+B1[-0]	./cef/
+upset		<-->	verb+B1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7204,7 +7204,7 @@ upset		<-->	verb+B1[-0]	./cef/
 
 
 
-upset		<-->	noun+B1[-0]	./cef/
+upset		<-->	noun+B1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7217,7 +7217,7 @@ upset		<-->	noun+B1[-0]	./cef/
 
 
 
-varicose vein		<-->	noun+C2[-0]	./ˌværɪkəʊs ˈveɪn/
+varicose vein		<-->	noun+C2	[221222][001]	./ˌværɪkəʊs ˈveɪn/
  /ˌværɪkəʊs ˈveɪn/
 	;giãn tĩnh mạch -- (1) ​a vein, especially one in the leg, that has become swollen (= larger than normal) and painful
 		;TOPICS Health problemsC2
@@ -7233,7 +7233,7 @@ varicose vein		<-->	noun+C2[-0]	./ˌværɪkəʊs ˈveɪn/
 
 
 
-vector		<-->	noun+C2[-0]	./ˈvektə(r)/
+vector		<-->	noun+C2	[221222][001]	./ˈvektə(r)/
  /ˈvektər/
 	;vector -- (1) ​(mathematics) a quantity that has both size and direction
 		;Acceleration and velocity are both vectors.
@@ -7253,7 +7253,7 @@ vector		<-->	noun+C2[-0]	./ˈvektə(r)/
 
 
 
-victim		<-->	noun+B1[-0]	./cef/
+victim		<-->	noun+B1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7266,7 +7266,7 @@ victim		<-->	noun+B1[-0]	./cef/
 
 
 
-viral		<-->	adjective+C1[-0]	./ˈvaɪrəl/
+viral		<-->	adjective+C1	[221222][001]	./ˈvaɪrəl/
  /ˈvaɪrəl/
 	;có/bởi virus -- (1) like or caused by a virus
 		;a viral infection
@@ -7282,7 +7282,7 @@ viral		<-->	adjective+C1[-0]	./ˈvaɪrəl/
 
 
 
-virulence		<-->	noun+C2[-0]	./ˈvɪrələns/
+virulence		<-->	noun+C2	[221222][001]	./ˈvɪrələns/
  /ˈvɪrələns/ [uncountable]
 	;mức độc hại, nguy hiểm -- (1) ​the degree to which a disease or poison is dangerous or harmful and quick to have an effect
 		;the virulence of the virus strain
@@ -7299,7 +7299,7 @@ virulence		<-->	noun+C2[-0]	./ˈvɪrələns/
 
 
 
-virulent		<-->	adjective+C2[-0]	./ˈvɪrələnt/
+virulent		<-->	adjective+C2	[221222][001]	./ˈvɪrələnt/
  /ˈvɪrələnt/
 	;rất nguy hiểm -- (1) (of a disease or poison) extremely dangerous or harmful and quick to have an effect
 		;a virulent form of influenza
@@ -7317,7 +7317,7 @@ virulent		<-->	adjective+C2[-0]	./ˈvɪrələnt/
 
 
 
-virus		<-->	noun+A2[-0]	./cef/
+virus		<-->	noun+A2	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7356,7 +7356,7 @@ vomit		<-->	verb+C2	[220808][001]	./ˈvɒmɪt/-NAmE /ˈvɑːmɪt/\ (also informa
 
 
 
-wart		<-->	noun+C2[-0]	./wɔːt/
+wart		<-->	noun+C2	[221222][001]	./wɔːt/
  /wɔːrt/
 	;mụn ghẻ -- (1) a small hard spot that grows on your skin and that is caused by a virus
 		TOPICS Health problemsC2
@@ -7372,7 +7372,7 @@ wart		<-->	noun+C2[-0]	./wɔːt/
 
 
 
-waste away		<-->	phrasal adverb+C2[-0]	./p/
+waste away		<-->	phrasal adverb+C2	[221222][001]	./p/
 	;mất cân nặng, ốm đi -- (1) (of a person) to become thin and weak, especially because of illness
 			;SEE ALSO emaciated
 			;TOPICS Health problemsC2
@@ -7394,7 +7394,7 @@ wasted		<-->	adjective+C2	[220808][001]	./ˈweɪstɪd/-NAmE /ˈweɪstɪd/
 
 
 
-weak		<-->	adjective+A2[-0]	./cef/
+weak		<-->	adjective+A2	[221222][001]	./cef/
 
 
 
@@ -7405,7 +7405,7 @@ weak		<-->	adjective+A2[-0]	./cef/
 
 
 
-weaken		<-->	verb+C1[-0]	./cef/
+weaken		<-->	verb+C1	[221222][001]	./cef/
 
 
 
@@ -7431,7 +7431,7 @@ wheeze		<-->	verb+C2	[221109][001]	./wiːz/
 
 
 
-whiplash injury		<-->	noun+C2[-0]	./ˈwɪplæʃ ɪndʒəri/
+whiplash injury		<-->	noun+C2	[221222][001]	./ˈwɪplæʃ ɪndʒəri/
  /ˈwɪplæʃ ɪndʒəri/ [countable, uncountable] (also whiplash [uncountable])
 	;đau cổ -- (1) a neck injury caused when your head moves forward and back suddenly, especially in a car accident
 			;He suffered whiplash injuries in the crash.
@@ -7446,7 +7446,7 @@ whiplash injury		<-->	noun+C2[-0]	./ˈwɪplæʃ ɪndʒəri/
 
 
 
-whooping cough		<-->	noun+C2[-0]	./ˈhuːpɪŋ kɒf/
+whooping cough		<-->	noun+C2	[221222][001]	./ˈhuːpɪŋ kɒf/
  /ˈhuːpɪŋ kɔːf/ (medical pertussis) [uncountable]
 	;ho gà -- (1) a disease, especially of children, that makes them cough (= force air noisily through the throat) and have difficulty breathing
 			;TOPICS Health problemsC2
@@ -7460,7 +7460,7 @@ whooping cough		<-->	noun+C2[-0]	./ˈhuːpɪŋ kɒf/
 
 
 
-withdrawal		<-->	noun+C1[-0]	./cef/
+withdrawal		<-->	noun+C1	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7473,7 +7473,7 @@ withdrawal		<-->	noun+C1[-0]	./cef/
 
 
 
-wound		<-->	noun+B2[-0]	./cef/
+wound		<-->	noun+B2	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7487,7 +7487,7 @@ wound		<-->	noun+B2[-0]	./cef/
 
 
 
-wound		<-->	verb+B2[-0]	./cef/
+wound		<-->	verb+B2	[221222][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7514,7 +7514,7 @@ wrench		<-->	verb+C2	[220808][001]	./rentʃ/-NAmE /rentʃ/
 
 
 
-yellow fever		<-->	noun+C2[-0]	./ˌjeləʊ ˈfiːvə(r)/
+yellow fever		<-->	noun+C2	[221222][001]	./ˌjeləʊ ˈfiːvə(r)/
  /ˌjeləʊ ˈfiːvər/ [uncountable]
 	;sốt vàng da -- (1) a tropical disease that makes the skin turn yellow and often causes death
 			;TOPICS Health problemsC2

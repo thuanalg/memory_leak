@@ -610,7 +610,7 @@ bunker		<-->	noun+C2[-0]	.
 
 
 
-buoy		<-->	noun+C2	[221031][1]	./bɔɪ/-NAmE /ˈbuːi/,  /bɔɪ/\
+buoy		<-->	noun+C2	[221031][001]	./bɔɪ/-NAmE /ˈbuːi/,  /bɔɪ/\
 	;phao lớn trên biển -- (1) ​an object which floats on the sea or a river to mark the places where it is dangerous and where it is safe for boats to go
 		;SEE ALSO lifebuoy
 		;TOPICS Transport by waterC2
@@ -636,7 +636,7 @@ cabin		<-->	noun+B2[-0]	.
 
 
 
-cabin boy		<-->	noun+C2	[221031][1]	./ˈkæbɪn bɔɪ/-NAmE /ˈkæbɪn bɔɪ/
+cabin boy		<-->	noun+C2	[221031][001]	./ˈkæbɪn bɔɪ/-NAmE /ˈkæbɪn bɔɪ/
 	;phục vụ trên tàu -- (1) (especially in the past) a boy or young man employed to work as a servant on a ship
 		;TOPICS Transport by waterC2
 	; -- (2) 
@@ -3853,10 +3853,20 @@ scull		<-->	noun+C2[-0]	.
 
 
 
-scuttle		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+scuttle		<-->	verb+C2	[221224][001]	./ˈskʌtl/
+ /ˈskʌtl/
+	;chạy lúm túm -- (1) ​[intransitive] + adv./prep. to run with quick short steps [ap: scuttle]
+		;SYNONYM scurry
+		;She scuttled off when she heard the sound of his voice.
+		;He held his breath as a rat scuttled past.
+		;The rain sent everyone scuttling for cover.
+	;phá hoại -- (2) [transitive] scuttle something to deliberately cause something to fail
+		;SYNONYM foil
+		;<< foil, scuttle, >>
+		;Shareholders successfully scuttled the deal.
+		;TOPICS Difficulty and failureC2
+	;cố ý làm chìm tàu -- (3) [transitive] scuttle something to sink a ship deliberately by making holes in the side or bottom of it
+		;TOPICS Transport by waterC2
 
 
 
@@ -4225,11 +4235,11 @@ shipwreck		<-->	noun+C1[-0]	.
 
 
 
-shipwreck		<-->	verb+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+shipwreck		<-->	verb+C1	[221224][001]	./ˈʃɪprek/\
+ /ˈʃɪprek/ , be shipwrecked
+	;lái tàu đang chìm, chìm tàu -- (1) to be sailing in a ship that is then lost or destroyed at sea
+		;They were shipwrecked off the coast of Africa.
+		;TOPICS Transport by waterC1
 
 
 
@@ -4321,11 +4331,19 @@ skipper		<-->	noun+C2[-0]	.
 
 
 
-skipper		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+skipper		<-->	verb+C2	[221224][001]	./ˈskɪpə(r)/
+ /ˈskɪpər/
+	;là thuyền trưởng tàu nhỏ -- (1) skipper something to be the captain of a boat, sports team, etc.
+		;to skipper a yacht
+		;(especially British English) He skippered the team to victory.
+		;an all-woman crew, skippered by Tracy Edwards
+		;The 50-foot yacht will be skippered by Karen Brown.
+		;TOPICS Transport by waterC2
+				;Oxford Collocations Dictionary
+				;Skipper is used with these nouns as the object:
+				;boatside
+		;See full entry
+		;Word Origin
 
 
 
@@ -4513,7 +4531,7 @@ steamship		<-->	noun+C2[-0]	.
 
 
 
-steer		<-->	verb+C1[-0]	.
+steer		<-->	verb+C1	[221224][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4573,7 +4591,7 @@ stowage		<-->	noun+C2[-0]	.
 
 
 
-stow away		<-->	phrasal verb+C2	[221031][1]	./stəʊ/-NAmE /stəʊ/
+stow away		<-->	phrasal verb+C2	[221031][001]	./stəʊ/-NAmE /stəʊ/
 	;trốn lên tàu, máy bay -- (1) ​to hide in a ship, plane, etc. in order to travel secretly
 		;At the age of 13 he had stowed away on a ship bound for Rio.
 		;RELATED NOUN stowaway
@@ -4600,7 +4618,7 @@ stowaway		<-->	noun+C2[-0]	.
 
 
 
-strand		<-->	verb+C1	[221031][1]	./strænd/-NAmE /strænd/ [usually passive]
+strand		<-->	verb+C1	[221031][001]	./strænd/-NAmE /strænd/ [usually passive]
 	;bỏ rơi, để mắc kẹt -- (1) ​strand somebody to leave somebody in a place from which they have no way of leaving
 		;The strike left hundreds of tourists stranded at the airport.
 	;để mắc cạn -- (2) strand something to make a boat, fish, whale, etc. be left on land and unable to return to the water
@@ -4879,7 +4897,7 @@ topsail		<-->	noun+C2[-0]	.
 
 
 
-tow		<-->	verb+C2	[221031][1]	./təʊ/-NAmE /təʊ/
+tow		<-->	verb+C2	[221031][001]	./təʊ/-NAmE /təʊ/
 	;kéo, lai dắt -- (1) ​tow something (+ adv./prep.) to pull a car, boat, etc. behind another vehicle, using a rope or chain
 		;Our car was towed away by the police.
 		;A glider was being towed into the air.
@@ -5018,7 +5036,7 @@ turnround		<-->	noun+C2[-0]	.
 
 
 
-U-boat		<-->	noun+C2	[221031][1]	./ˈjuː bəʊt/-NAmE /ˈjuː bəʊt/
+U-boat		<-->	noun+C2	[221031][001]	./ˈjuː bəʊt/-NAmE /ˈjuː bəʊt/
 	;tàu ngầm Đức -- (1) a German submarine (= a ship that can travel underwater)
 		;TOPICS Transport by waterC2
 	; -- (2) 
@@ -5031,7 +5049,7 @@ U-boat		<-->	noun+C2	[221031][1]	./ˈjuː bəʊt/-NAmE /ˈjuː bəʊt/
 
 
 
-unload		<-->	verb+B2	[221031][1]	./ˌʌnˈləʊd/-NAmE /ˌʌnˈləʊd/
+unload		<-->	verb+B2	[221031][001]	./ˌʌnˈləʊd/-NAmE /ˌʌnˈləʊd/
 	;dỡ hàng -- (1) [transitive, intransitive] to remove things from a vehicle or ship after it has taken them somewhere
 		;unload something from something Everyone helped to unload the luggage from the car.
 		;unload (something) This isn't a suitable place to unload the van.
@@ -5048,7 +5066,7 @@ unload		<-->	verb+B2	[221031][1]	./ˌʌnˈləʊd/-NAmE /ˌʌnˈləʊd/
 
 
 
-up-anchor		<-->	verb+C2	[221031][1]	./ˌʌp ˈæŋkə(r)/-NAmE /ˌʌp ˈæŋkər/ [intransitive]
+up-anchor		<-->	verb+C2	[221031][001]	./ˌʌp ˈæŋkə(r)/-NAmE /ˌʌp ˈæŋkər/ [intransitive]
 	;nhổ neo -- (1) (of a ship or its crew) to raise the anchor from the water in order to be ready to sail
 		;TOPICS Transport by waterC2
 	; -- (2) 
@@ -5217,8 +5235,7 @@ wheelhouse		<-->	noun+C2[-0]	.
 
 
 
-wreck		<-->	noun+C1[-0]	./rek/
- /rek/ [orw.101]
+wreck		<-->	noun+C1	[221224][001]	./rek/-NAmE /rek/ [orw.101]
 	;tàu đắm -- (1) a ship that has sunk or that has been very badly damaged
 		;They're going to try and raise the wreck from the seabed.
 		;SEE ALSO shipwreck
@@ -5300,7 +5317,7 @@ yaw		<-->	noun+C2[-0]	.
 
 
 
-yaw		<-->	verb+C2	[221031][1]	./jɔː/\-NAmE /jɔː/ [intransitive] (specialist)
+yaw		<-->	verb+C2	[221031][001]	./jɔː/\-NAmE /jɔː/ [intransitive] (specialist)
 	;nghiêng một bên -- (1) (of a ship or plane) to turn to one side, away from a straight course, in an unsteady way
 		;TOPICS Transport by waterC2
 	; -- (2) 
