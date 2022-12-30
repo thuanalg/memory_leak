@@ -7,6 +7,7 @@
 #include <sys/socket.h>
 #include <arpa/inet.h>
 #include <netinet/in.h>
+#include <arpa/inet.h>
 	
 #define PORT	 9090
 #define MAXLINE 1024
@@ -24,6 +25,14 @@ int main(int argc, char *argv[]) {
 		exit(EXIT_FAILURE);
 	}
 	
+	if (!argv[1]) {
+		fprintf(stdout, "Address need entering as argv[1].\n");
+		exit(EXIT_FAILURE);
+	}
+	if(INADDR_NONE == inet_addr(argv[1])) {
+		fprintf(stdout, "Address need entering as argv[1].\n");
+		exit(EXIT_FAILURE);
+	}	
 	memset(&servaddr, 0, sizeof(servaddr));
 		
 	// Filling server information
@@ -43,6 +52,13 @@ int main(int argc, char *argv[]) {
 	n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 				MSG_WAITALL, (struct sockaddr *) &servaddr,
 				&len);
+	if(n>0 && servaddr.sin_family == AF_INET) {
+		char str[INET_ADDRSTRLEN + 1];
+		str[INET_ADDRSTRLEN] = 0;
+		inet_ntop(AF_INET, &(servaddr.sin_addr), str, INET_ADDRSTRLEN);
+		fprintf(stdout, "feedback port: %d\n", (int) servaddr.sin_port);
+		fprintf(stdout, "feedback IP: %s\n", str);
+	}
 	buffer[n] = '\0';
 	printf("Server : %s\n", buffer);
 	
