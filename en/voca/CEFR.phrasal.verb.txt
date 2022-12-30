@@ -410,11 +410,7 @@
 
 
 
-<<<<<<< HEAD
-[-] look out		<-->	phrasal verb+B1	[221220][001]	./p/
-=======
 [-] look out		<-->	phrasal verb+B1	[221220][001]	./p/ [ie-b1-z04]
->>>>>>> b8cfe6825b2b3c7371a88323d9cfc683379387ee
 	;cẩn thận, nhìn kìa -- (1) used to warn somebody to be careful, especially when there is danger
 		;SYNONYM watch out
 		;Look out! There's a car coming.
@@ -505,11 +501,7 @@
 
 
 
-<<<<<<< HEAD
-[-] add up		<-->	phrasal verb++B1[-0]	.
-=======
 [-] add up		<-->	phrasal verb++B1	[221224][001]	./p/
->>>>>>> b8cfe6825b2b3c7371a88323d9cfc683379387ee
 	; -- (1) 
 	; -- (2) 
 	;cộng dồn -- (3) [-add up | add something  up] to calculate the total of two or more numbers or amounts
@@ -842,11 +834,6 @@
 
 
 
-<<<<<<< HEAD
-
-[-] add up to		<-->	phrasal verb++B2[-0]	.
-	; -- (1) 
-=======
 [-] sort something/somebody/yourself out		<-->	phrasal verb+B2	[221224][001]	./p/ [IE-B1-Z09-170]
 	;sắp xếp -- (1) (especially British English) to deal with somebody’s/your own problems successfully
 		;If you can wait a moment, I'll sort it all out for you.
@@ -854,17 +841,12 @@
 		;Extra Examples:
 		;Someone will have to sort this problem out.
 		;Leave them to sort it out among themselves.
->>>>>>> b8cfe6825b2b3c7371a88323d9cfc683379387ee
 	; -- (2) 
 	; -- (3) 
 
 
 
 
-<<<<<<< HEAD
-[-] amount to		<-->	phrasal verb++B2[-0]	.
-	; -- (1) 
-=======
 
 [-] add up to		<-->	phrasal verb++B2	[221224][001]	./p/
 	;cộng lại -- (1) [-add up to something] ​to make a total amount of something
@@ -884,7 +866,6 @@
 		;His earnings are said to amount to £300 000 per annum.
 		;They gave me some help in the beginning but it did not amount to much (= they did not give me much help).
 		;TOPICS Maths and measurementB2
->>>>>>> b8cfe6825b2b3c7371a88323d9cfc683379387ee
 	; -- (2) 
 	; -- (3) 
 

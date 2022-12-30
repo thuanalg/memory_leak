@@ -1806,8 +1806,11 @@ bullheaded		<-->	adjective++C2[-0]	.
 
 
 
-bullish		<-->	adjective++C2[-0]	.
-	; -- (1) 
+bullish		<-->	adjective++C2	[221229][001]	./ˈbʊlɪʃ/-NAmE /ˈbʊlɪʃ/
+	;lạc quan -- (1) feeling confident and positive about the future
+		;<< optimism, bullish, >>
+		;in a bullish mood
+		;TOPICS Personal qualitiesC2
 	; -- (2) 
 	; -- (3) 
 
@@ -1821,10 +1824,29 @@ bullish		<-->	adjective++C2[-0]	.
 
 
 
-bum		<-->	noun++C2[-0]	.
-	; -- (1) 
+bum		<-->	noun++C2	[221229][001]	./bʌm/-NAmE /bʌm/*\ (informal)
+	;mông -- (1) (British English) the part of the body that you sit on
+		;They've been sitting on their bums all day, doing nothing.
+		;SYNONYM backside, behind, bottom
+		;<< backside, behind, bottom, bum, >>
+		;TOPICS BodyC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;bigbare
+				;verb + bum
+				;feelpinchsit on…
+				;phrases
+				;put bums on seats
+		;See full entry
 	; -- (2) 
-	; -- (3) 
+	;kẻ vô tích sự -- (3) a lazy person who does nothing for other people or for society
+		;He's nothing but a no-good bum!
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;lazydrunkenbeach…
+		;See full entry
+		;Word Origin
 
 
 
@@ -1836,11 +1858,10 @@ bum		<-->	noun++C2[-0]	.
 
 
 
-busybody		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+busybody		<-->	noun++C2	[221229][001]	./ˈbɪzibɒdi/-NAmE /ˈbɪzibɑːdi/ (plural busybodies) (disapproving)
+	;người nhiều chuyện -- (1) a person who is too interested in what other people are doing
+		;He's an interfering old busybody!
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -1866,11 +1887,19 @@ calm		<-->	adjective++B1	[221219][001]	./cef/
 
 
 
-canny		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+canny		<-->	adjective++C2	[221229][001]	./ˈkæni/-NAmE /ˈkæni/
+	;khôn ngoan -- (1) intelligent, careful and showing good judgement, especially in business or politics
+		;a canny politician
+		;a canny move
+		;He was canny enough to see that they were trying to trap him.
+		;Her opponent proved to be more canny than she’d thought.
+		;It was a canny move, which brought Palmer in on their side.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Canny is used with these nouns:
+				;buyerinvestor
+		;See full entry
+		;Word Origin
 
 
 
@@ -1924,10 +1953,28 @@ caring		<-->	adjective++B2	[221223][001]	./ˈkeərɪŋ/-NAmE /ˈkerɪŋ/ [usuall
 
 
 
-catty		<-->	adjective++C2[-0]	.
+catty		<-->	adjective++C2	[221229][001]	./ˈkæti/-NAmE /ˈkæti/ (informal) (comparative cattier, superlative cattiest)
+	;cay nghiệt, khốn nạn -- (1) saying unkind things about other people
+		;SYNONYM bitchy, spiteful
+		;<< bitchy, spiteful, catty, >>
+		;a catty comment
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Catty is used with these nouns:
+				;remark
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+caution		<-->	noun++C1	[221229][001]	./cef/
 	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -1938,26 +1985,8 @@ catty		<-->	adjective++C2[-0]	.
 
 
 
-
-caution		<-->	noun++C1[-0]	.
+cautious		<-->	adjective++C1	[221229][001]	./cef/
 	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-cautious		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -1984,10 +2013,20 @@ character		<-->	noun++B1	[221219][001]	./cef/
 
 
 
-charitable		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+charitable		<-->	adjective++C1	[221229][001]	./ˈtʃærətəbl/-NAmE /ˈtʃærətəbl/
+	;từ thiện -- (1) ​connected with a charity or charities
+		;a charitable institution/foundation/trust
+		;a charitable donation/gift
+		;(British English) to have charitable status (= to be an official charity)
+		;TOPICS Social issuesC1
+	;từ thiện -- (2) helping people who are poor or in need
+		;His later years were devoted largely to charitable work.
+		;TOPICS Social issuesC1
+	;từ thiện, bao dung -- (3) kind in your attitude to other people, especially when you are judging them
+		;Let's be charitable and assume she just made a mistake.
+		;Less charitable accounts of his character say he was vain and selfish.
+		;TOPICS Personal qualitiesC1
+		;OPPOSITE uncharitable
 
 
 
@@ -1999,10 +2038,10 @@ charitable		<-->	adjective++C1[-0]	.
 
 
 
-chatty		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+chatty		<-->	adjective++C1	[221229][001]	./ˈtʃæti/-NAmE /ˈtʃæti/ (comparative chattier, superlative chattiest) (informal)
+	;tâm sự -- (1) ​talking a lot in a friendly way
+		;You're very chatty today, Alice.
+		;TOPICS Personal qualitiesC1
 
 
 
@@ -2013,11 +2052,9 @@ chatty		<-->	adjective++C1[-0]	.
 
 
 
+cheap		<-->	adjective++C2	[221229][001]	./cef/
+	;bủn xỉn -- (4) 
 
-cheap		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -2045,9 +2082,8 @@ cheat		<-->	verb++B1	[221127][001]	./cef/
 
 
 cheek		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;sự ngạo mạn -- (4) 
+
 
 
 
@@ -2660,7 +2696,7 @@ corrupt		<-->	adjective++C1	[221224][001]	./cef/
 
 
 
-corruption		<-->	noun++C1[-0]	.
+corruption		<-->	noun++C1	[221229][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2693,7 +2729,7 @@ courage		<-->	noun++B2	[221223][001]	./cef/
 courageous		<-->	adjective++C1	[221224][001]	./kəˈreɪdʒəs/-NAmE /kəˈreɪdʒəs/	
 	;dũng cảm -- (1) showing courage
 		;SYNONYM brave
-		;<< courageous, valiant, daring, brave, >>
+		;<< courageous, valiant, daring, brave, plucky, >>
 		;a very courageous decision
 		;I hope people will be courageous enough to speak out against this injustice.
 		;OPPOSITE cowardly
@@ -3137,8 +3173,30 @@ daring		<-->	noun++C1	[221224][001]	./ˈdeərɪŋ/-NAmE /ˈderɪŋ/
 
 
 
-darling		<-->	noun++C1[-0]	.
-	; -- (1) 
+darling		<-->	noun++C1	[221229][001]	./ˈdɑːlɪŋ/-NAmE /ˈdɑːrlɪŋ/
+	;cục cưng -- (1) (informal) a way of addressing somebody that you love
+		;What's the matter, darling?
+		;I love you too, my darling.
+	;cục cưng -- (2) ​a person who is very friendly and kind
+		;You are a darling, Hugo.
+		;TOPICS Personal qualitiesC1
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+dashing		<-->	adjective++C2	[221229][001]	./ˈdæʃɪŋ/-NAmE /ˈdæʃɪŋ/ (old-fashioned)
+	;bảnh bao -- (1) (usually of a man) attractive and full of confidence
+		;a dashing young officer
+		;his dashing good looks
+		;TOPICS Personal qualitiesC2, AppearanceC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3152,8 +3210,30 @@ darling		<-->	noun++C1[-0]	.
 
 
 
-dashing		<-->	adjective++C2[-0]	.
-	; -- (1) 
+deadbeat		<-->	noun++C2	[221229][001]	./ˈdedbiːt/-NAmE /ˈdedbiːt/ (informal)
+	;kẻ lười -- (1) ​(especially North American English) a lazy person; a person who does not want to work or achieve anything
+		TOPICS Personal qualitiesC2
+	;người trốn nợ -- (2) (North American English) a person or company that tries to avoid paying their debts
+		;TOPICS Personal qualitiesC2
+	;người trốn trách nhiệm -- (3) (also deadbeat dad) (North American English) a father who does not live with his children and does not pay their mother any money to take care of them
+		;TOPICS Personal qualitiesC2
+
+
+
+
+
+
+
+
+
+
+
+dear		<-->	noun++C1	[221229][001]	./dɪə(r)/-NAmE /dɪr/*\
+	;bạn thân mến -- (1) (informal) a kind person
+		;Isn't he a dear?
+		;Be a dear and fetch me my coat.
+		;SEE ALSO old dear
+		;TOPICS Personal qualitiesC1
 	; -- (2) 
 	; -- (3) 
 
@@ -3167,10 +3247,10 @@ dashing		<-->	adjective++C2[-0]	.
 
 
 
-deadbeat		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+debauched		<-->	adjective++C2	[221229][001]	./dɪˈbɔːtʃt/-NAmE /dɪˈbɔːtʃt/
+	;sa đoạ, phóng đảng -- (1) a debauched person is not moral in their sexual behaviour, drinks a lot of alcohol, takes drugs, etc.
+		;SYNONYM depraved, dissolute
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -3181,12 +3261,10 @@ deadbeat		<-->	noun++C2[-0]	.
 
 
 
-
-dear		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+debonair		<-->	adjective++C2	[221229][001]	./ˌdebəˈneə(r)/-NAmE /ˌdebəˈner/ (old-fashioned)
+	;phóng khoáng, vui vẻ -- (1) (usually of men) fashionable and confident
+		;TOPICS Personal qualitiesC2, AppearanceC2
+		;Word Origin
 
 
 
@@ -3197,41 +3275,22 @@ dear		<-->	noun++C1[-0]	.
 
 
 
-debauched		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-debonair		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-deceit		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+deceit		<-->	noun++C2	[221229][001]	./dɪˈsiːt/-NAmE /dɪˈsiːt/ [uncountable, countable]
+	;Word Family
+		deceive 		verb
+		deceit 			noun
+		deceitful 		adjective
+		deception 		noun
+		deceptive 		adjective
+	;sự lừa dối -- (1) dishonest behaviour that is intended to make somebody believe something that is not true; an example of this behaviour
+		;SYNONYM deception
+		;<< deception, deceit, >>
+		;He was accused of lies and deceit.
+		;Everyone was involved in this web of deceit.
+		;Their marriage was an illusion and a deceit.
+		;She realized that their whole relationship had been based on lies and deceit.
+		;TOPICS Personal qualitiesC2
+		;Word Origin
 
 
 
@@ -4853,8 +4912,19 @@ gallant		<-->	adjective++C2[-0]	.
 
 
 
-gallantry		<-->	noun++C2[-0]	.
-	; -- (1) 
+gallantry		<-->	noun++C2	[221228][001]	./ˈɡæləntri/-NAmE /ˈɡæləntri/ [uncountable] (formal)
+	;sự dũng cảm -- (1) courage, especially in a battle
+		;a medal for gallantry
+		;She praised the gallantry of the servicemen and women who had given their lives for their country.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;outstandingconspicuous
+				;verb + gallantry
+				;demonstrateshow
+				;gallantry + noun
+				;awardmedal
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -4901,11 +4971,23 @@ generous		<-->	adjective++B1	[221219][001]	./cef/
 
 
 
-genial		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+genial		<-->	adjective++C2	[221228][001]	./ˈdʒiːniəl/-NAmE /ˈdʒiːniəl/
+	;ân cần -- (1) friendly and cheerful
+		;SYNONYM affable
+		;<< affable, genial, >>
+		;a genial person
+		;He was a kindly gentleman with white hair and a genial smile.
+		;Extra Examples:
+		;He seemed genial enough.
+		;Her manner was quite genial.
+		;The fierce old man suddenly looked almost genial.
+		;Graham was a genial and modest host.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Genial is used with these nouns:
+				;host
+		;See full entry
+		;Word Origin
 
 
 
@@ -4991,10 +5073,9 @@ get on with		<-->	phrasal veerb++B1	[221219][001]	./p/
 
 
 
-get-up-and-go		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+get-up-and-go		<-->	noun++C2	[221228][001]	./ˌɡet ʌp ən ˈɡəʊ/-NAmE /ˌɡet ʌp ən ˈɡəʊ/ [uncountable] (informal)
+	;ước muốn mãnh liệt -- (1) energy and a strong wish to get things done
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -5005,9 +5086,10 @@ get-up-and-go		<-->	noun++C2[-0]	.
 
 
 
-
-gibe		<-->	noun++C2[-0]	.
-	; -- (1) 
+gibe		<-->	noun++C2	[221228][001]	./dʒaɪb/-NAmE /dʒaɪb/ (also jibe)
+	;lời gièm pha -- (1) gibe (at somebody/something) an unkind or offensive remark about somebody
+		;He made several cheap gibes at his opponent during the interview.
+		;TOPICS Personal qualitiesC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5043,10 +5125,9 @@ goad		<-->	verb++C2	[221223][001]	./ɡəʊd/-NAmE /ɡəʊd/
 
 
 
-God-fearing		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+God-fearing		<-->	adjective++C2	[221228][001]	./ˈɡɒd fɪərɪŋ/-NAmE /ˈɡɑːd fɪrɪŋ/ [usually before noun] (old-fashioned)
+	;kính sợ Chúa -- (1) living a moral life based on religious principles
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -5057,12 +5138,10 @@ God-fearing		<-->	adjective++C2[-0]	.
 
 
 
-
-godly		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+godly		<-->	adjective++C2	[221228][001]	./ˈɡɒdli/-NAmE /ˈɡɑːdli/ [usually before noun] (old-fashioned)
+	;sùng đạo -- (1) living a moral life based on religious principles
+		;a godly man
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -5088,10 +5167,10 @@ good		<-->	adjective++A1	[221204][001]	./cef/
 
 
 
-good-for-nothing		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+good-for-nothing		<-->	adjective++C2	[221228][001]	./ˈɡʊd fə nʌθɪŋ/-NAmE /ˈɡʊd fər nʌθɪŋ/ [usually before noun] (informal)
+	;vô tích sự -- (1) lazy and without skills
+		;Where's that good-for-nothing son of yours?
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -5102,12 +5181,10 @@ good-for-nothing		<-->	adjective++C2[-0]	.
 
 
 
-
-good-for-nothing		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+good-for-nothing		<-->	noun++C2	[221228][001]	./ˈɡʊd fə nʌθɪŋ/-NAmE /ˈɡʊd fər nʌθɪŋ/ (informal)
+	;kẻ vô tích sự -- (1) ​a person who is lazy and has no skills
+		;an idle good-for-nothing
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -5117,11 +5194,10 @@ good-for-nothing		<-->	noun++C2[-0]	.
 
 
 
-
-good-hearted		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+good-hearted		<-->	adjective++C1	[221228][001]	./ˌɡʊd ˈhɑːtɪd/-NAmE /ˌɡʊd ˈhɑːrtɪd/
+	;từ bi, tốt bụng -- (1) kind; willing to help other people
+		;To be fair, she was a good-hearted woman who tried to do her best.
+		;TOPICS Personal qualitiesC1
 
 
 
@@ -5132,12 +5208,10 @@ good-hearted		<-->	adjective++C1[-0]	.
 
 
 
-
-good nature		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+good nature		<-->	noun++C1	[221228][001]	./ˌɡʊd ˈneɪtʃə(r)/-NAmE /ˌɡʊd ˈneɪtʃər/ [uncountable]
+	;tính tốt bụng, lòng tốt -- (1) the quality of being kind, friendly and patient when dealing with people
+		;People are always taking advantage of her good nature.
+		;TOPICS Personal qualitiesC1
 
 
 
@@ -5148,11 +5222,16 @@ good nature		<-->	noun++C1[-0]	.
 
 
 
-good-natured		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+good-natured		<-->	adjective++C1	[221228][001]	./ˌɡʊd ˈneɪtʃəd/-NAmE /ˌɡʊd ˈneɪtʃərd/
+	;tốt bụng -- (1) kind, friendly and patient when dealing with people
+		;a good-natured person/discussion
+		;Anthony is so good-natured—he finds it difficult to hate anyone.
+		;The discussion was good-natured and positive.
+		;TOPICS Personal qualitiesC1
+				;Oxford Collocations Dictionary
+				;Good-natured is used with these nouns:
+				;banter
+		;See full entry
 
 
 
@@ -5177,8 +5256,29 @@ good sense		<-->	noun++B2	[221222][001]	./ˌɡʊd ˈsens/-NAmE /ˌɡʊd ˈsens/ 
 
 
 
-goodwill		<-->	noun++C1[-0]	.
-	; -- (1) 
+goodwill		<-->	noun++C1	[221228][001]	./ˌɡʊdˈwɪl/-NAmE /ˌɡʊdˈwɪl/ [uncountable]
+	;thiện chí -- (1) friendly or helpful feelings towards other people or countries
+		;a spirit of goodwill in international relations
+		;a goodwill gesture/a gesture of goodwill
+		;The President is on a goodwill visit to Japan.
+		;Given goodwill on both sides, I am sure we can reach an agreement.
+		;Theatres increasingly have to rely on the goodwill of private sponsors to survive.
+		;Extra Examples:
+		;He expressed goodwill towards his former colleagues.
+		;The government released him as a gesture of goodwill.
+		;They are in danger of losing the government's goodwill.
+		;They made the offer in a spirit of goodwill.
+		;TOPICS Personal qualitiesC1
+				;Oxford Collocations Dictionary
+				;verb + goodwill
+				;enjoyhavecreate…
+				;goodwill + noun
+				;gesture
+				;preposition
+				;goodwill  togoodwill  towards/​toward
+				;phrases
+				;a gesture of goodwillin a spirit of goodwill
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -5192,10 +5292,21 @@ goodwill		<-->	noun++C1[-0]	.
 
 
 
-graceful		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+graceful		<-->	adjective++C2	[221228][001]	./ˈɡreɪsfl/-NAmE /ˈɡreɪsfl/
+	;duyên dáng -- (1) moving in an attractive way that shows control; having a smooth, attractive form
+		;The dancers were all tall and graceful.
+		;He gave a graceful bow to the audience.
+		;the graceful curves of the hills
+		;Dolphins are incredibly graceful and efficient swimmers.
+		;Extra Examples:
+		;She was slim and extremely graceful.
+		;Do the exercises in graceful slow motion.
+		;The flowers have graceful, arching stems.
+		;TOPICS AppearanceC1
+	;nhẫn nhịn -- (2) polite and kind in your behaviour, especially in a difficult situation
+		;His father had always taught him to be graceful in defeat.
+		;TOPICS Personal qualitiesC2
+
 
 
 
@@ -5606,7 +5717,7 @@ hateful		<-->	adjective++C2	[221227][001]	./ˈheɪtfl/-NAmE /ˈheɪtfl/
 
 
 
-have a big mouth		<-->	idiom++C2[-0]	.
+have a big mouth		<-->	idiom++C2	[221228][001]	./i/
 	;bép xép -- (1) to be bad at keeping secrets
 	;nổ, ba hoa -- (2) ​to talk too much, especially about your own abilities and achievements
 		;TOPICS Personal qualitiesC2
@@ -5639,8 +5750,10 @@ have a heart of gold		<-->	idiom++C2	[221227][001]	./i/
 
 
 
-have/lack the courage of your convictions		<-->	idiom++C2[-0]	.
-	; -- (1) 
+have/lack the courage of your convictions		<-->	idiom++C2	[221228][001]	./i/
+	;thiếu cương quyết, dũng cảm -- (1) to be/not be brave enough to do what you feel to be right
+		;You need to have the courage of your convictions.
+		;TOPICS Personal qualitiesC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5654,9 +5767,12 @@ have/lack the courage of your convictions		<-->	idiom++C2[-0]	.
 
 
 
-have no stomach for something		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+have no stomach for something		<-->	idiom++C2	[221228][001]	./i/
+	;không muốn ăn -- (1) to not want to eat something
+		;She had no stomach for the leftover stew.
+	;không có bụng dạ nào -- (2) to not have the desire or courage to do something
+		;They had no stomach for a fight.
+		;TOPICS Personal qualitiesC2
 	; -- (3) 
 
 
@@ -5669,9 +5785,15 @@ have no stomach for something		<-->	idiom++C2[-0]	.
 
 
 
-hearty		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+hearty		<-->	adjective++C2	[221228][001]	./ˈhɑːti/-NAmE /ˈhɑːrti/-\ (comparative heartier, superlative heartiest)
+	;nồng ấm -- (1) [usually before noun] showing friendly feelings for somebody
+		;a hearty welcome
+		;The Colonel gave me a hearty handshake.
+	;sôi nổi -- (2) (sometimes disapproving) loud, cheerful and full of energy
+		;a hearty and boisterous fellow
+		;a hearty voice
+		;Her laugh was far too hearty to be genuine.
+		;TOPICS Personal qualitiesC2
 	; -- (3) 
 
 
@@ -5684,11 +5806,15 @@ hearty		<-->	adjective++C2[-0]	.
 
 
 
-heinous		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+heinous		<-->	adjective++C2	[221228][001]	./ˈheɪnəs/,  /ˈhiːnəs/-NAmE /ˈheɪnəs/ [usually before noun] (formal)
+	;ghê tởm, tàn ác -- (1) morally very bad
+		;a heinous crime
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Heinous is used with these nouns:
+				;actcrimeoffence…
+		;See full entry
+		;Word Origin
 
 
 
@@ -5710,11 +5836,9 @@ helpful		<-->	adjective++A2	[221204][001]	./cef/
 
 
 
-henpecked		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+henpecked		<-->	adjective++C2	[221228][001]	./ˈhenpekt/-NAmE /ˈhenpekt/ (informal, disapproving)
+	;gà mái -- (1) often criticized and told what to do by somebody else, usually a wife or female partner, and too weak to disagree
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -5740,9 +5864,29 @@ hero		<-->	noun++A2	[221204][001]	./cef/
 
 
 
-heroic		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
+heroic		<-->	adjective++C1	[221228][001]	./həˈrəʊɪk/-NAmE /həˈrəʊɪk/
+	;anh hùng, dũng cảm -- (1) showing extreme courage and admired by many people
+		;SYNONYM courageous
+		;<< courageous, heroic, >>
+		;She is a heroic figure we can all look up to.
+		;Rescuers made heroic efforts to save the crew.
+		;TOPICS Personal qualitiesC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;be
+				;adverb
+				;trulyveryalmost…
+		;See full entry
+	;anh hùng -- (2) showing a determined effort to succeed or to achieve something, especially something difficult
+		;We watched our team's heroic struggle to win back the cup.
+		;a truly heroic battle
+		;TOPICS SuccessC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;be
+				;adverb
+				;trulyveryalmost…
+		;See full entry
 	; -- (3) 
 
 
@@ -5755,10 +5899,13 @@ heroic		<-->	adjective++C1[-0]	.
 
 
 
-heroics		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+heroics		<-->	noun++C2	[221228][001]	./həˈrəʊɪks/-NAmE /həˈrəʊɪks/ [plural]
+	;việc nói quá -- (1) (disapproving) talk or behaviour that is too brave or dramatic for a particular situation
+		;Remember, no heroics, we just go in there and do our job.
+	;hành động anh hùng -- (2) actions that are brave and determined
+		;Thanks to Bateman's heroics in the second half, the team won 2–0.
+		;TOPICS Personal qualitiesC2
+
 
 
 
@@ -6367,10 +6514,14 @@ impudence		<-->	noun++C2	[221227][001]	./ˈɪmpjədəns/-NAmE /ˈɪmpjədəns/ [
 
 
 
-impudent		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+impudent		<-->	adjective++C2	[221228][001]	./ˈɪmpjədənt/-NAmE /ˈɪmpjədənt/ (formal)
+	;trơ trẽn, vô liêm sĩ -- (1) rude; not showing respect for other people
+		;SYNONYM impertinent
+		;<< impertinent, impudent, rude, >>
+		;an impudent young fellow
+		;an impudent remark
+		;TOPICS Personal qualitiesC2
+		;Word Origin
 
 
 
@@ -6381,26 +6532,15 @@ impudent		<-->	adjective++C2[-0]	.
 
 
 
-
-impure		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-incisive		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+impure		<-->	adjective++C2	[221228][001]	./ɪmˈpjʊə(r)/-NAmE /ɪmˈpjʊr/
+	;tạp nhiễm -- (1) not pure or clean; not consisting of only one substance but mixed with one or more substances often of poorer quality
+		;impure gold
+		;Some of these drugs are highly impure.
+	;ô uế -- (2) ​(old-fashioned or formal) (of thoughts or feelings) morally bad, especially because they are connected with sex
+		;impure thoughts/motives
+		;TOPICS Personal qualitiesC2
+		;OPPOSITE pure
+		;Word Origin
 
 
 
@@ -6411,12 +6551,31 @@ incisive		<-->	adjective++C2[-0]	.
 
 
 
+incisive		<-->	adjective++C2	[221228][001]	./ɪnˈsaɪsɪv/-NAmE /ɪnˈsaɪsɪv/ (approving)
+	;minh mẫn -- (1) showing clear thought and good understanding of what is important, and the ability to express this
+		;incisive comments/criticism/analysis
+		;He had a clear, incisive mind.
+		;Extra Examples:
+		;She is an incisive critic of the current education system.
+		;Their comedy is savage and incisive.
+		;TOPICS Personal qualitiesC2
+	;sắc xảo -- (2) showing somebody’s ability to take decisions and act with force
+		;an incisive performance
+		;TOPICS Preferences and decisionsC2, Personal qualitiesC2
 
-incivility		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+
+
+
+
+
+
+
+
+incivility		<-->	noun++C2	[221228][001]	./ˌɪnsəˈvɪləti/-NAmE /ˌɪnsəˈvɪləti/ [uncountable, countable] (plural incivilities) (formal)
+	;thái độ láo xược -- (1) rude behaviour; rude remarks
+		;SEE ALSO uncivil
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -6736,11 +6895,10 @@ insensitive		<-->	adjective++C1	[221227][001]	./ɪnˈsensətɪv/-NAmE /ɪnˈsens
 
 
 
-insolence		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+insolence		<-->	noun++C2	[221228][001]	./ˈɪnsələns/-NAmE /ˈɪnsələns/ [uncountable]
+	;thái độ láo xược -- (1) extremely rude behaviour that shows a lack of respect for somebody
+		;Her insolence cost her her job.
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -7108,8 +7266,10 @@ jealous		<-->	adjective++B1	[221219][001]	./ˈdʒeləs/-NAmE /ˈdʒeləs/
 
 
 
-jibe		<-->	noun++C2[-0]	.
-	; -- (1) 
+jibe		<-->	noun++C2	[221228][001]	./dʒaɪb/-NAmE /dʒaɪb/ (also gibe)
+	;lời giễu cợt -- (1) jibe (at somebody/something) an unkind or offensive remark about somebody
+		;He made several cheap jibes at his opponent during the interview.
+		;TOPICS Personal qualitiesC2	
 	; -- (2) 
 	; -- (3) 
 
@@ -7142,8 +7302,12 @@ jilt		<-->	verb++C2	[221223][001]	./dʒɪlt/-NAmE /dʒɪlt/ [often passive]
 
 
 
-jolly		<-->	adjective++C1[-0]	.
-	; -- (1) 
+jolly		<-->	adjective++C1	[221228][001]	./ˈdʒɒli/-NAmE /ˈdʒɑːli/ (comparative jollier, superlative jolliest)
+	;vui tính -- (1) happy and cheerful
+		;a jolly crowd/face/mood
+		;He had a round, jolly face.
+		;The manager was fat and jolly.
+		;TOPICS Personal qualitiesC1
 	; -- (2) 
 	; -- (3) 
 
@@ -7157,8 +7321,31 @@ jolly		<-->	adjective++C1[-0]	.
 
 
 
-jovial		<-->	adjective++C2[-0]	.
-	; -- (1) 
+jovial		<-->	adjective++C2	[221228][001]	./ˈdʒəʊviəl/-NAmE /ˈdʒəʊviəl/
+	;vui tính -- (1) very cheerful and friendly
+		;He was in a jovial mood.
+		;He addressed Molly in his usual jovial manner.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Jovial is used with these nouns:
+				;moodpersonality
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+judgemental		<-->	adjective++C1	[221228][001]	./dʒʌdʒˈmentl/-NAmE /dʒʌdʒˈmentl/ (especially British English) (also judgmental especially in North American English)
+	;vội/hay phán xét -- (1) (disapproving) judging people and criticizing them too quickly
+		;Stop always being so judgemental!
+		;SEE ALSO non-judgemental
+		;TOPICS Personal qualitiesC1
 	; -- (2) 
 	; -- (3) 
 
@@ -7172,24 +7359,9 @@ jovial		<-->	adjective++C2[-0]	.
 
 
 
-judgemental		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-just		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
+just		<-->	adjective++C1	[221228][001]	./cef/
+	;công bằng-- (1) 
+	;thích hợp -- (2) 
 	; -- (3) 
 
 
@@ -8350,11 +8522,17 @@ moralize		<-->	verb++C2	[221125][001]	./ˈmɒrəlaɪz/-NAmE /ˈmɔːrəlaɪz/ (B
 
 
 
-mordant		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+mordant		<-->	adjective++C2	[221229][001]	./ˈmɔːdnt/-NAmE /ˈmɔːrdnt/ (formal)
+	;ma mãnh -- (1) critical and unkind, but funny
+		;SYNONYM caustic
+		;<< caustic, mordant, >>
+		;His mordant wit appealed to students.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Mordant is used with these nouns:
+				;wit
+		;See full entry
+		;Word Origin
 
 
 
@@ -8481,10 +8659,32 @@ nasty		<-->	adjective++B2	[221222][001]	./cef/
 
 
 
-needy		<-->	adjective++C2[-0]	.
-	; -- (1) 
+needy		<-->	adjective++C2	[221229][001]	./ˈniːdi/-NAmE /ˈniːdi/ (comparative needier, superlative neediest)
+	;thiếu thốn -- (1) (of people) not having enough money, food, clothes, etc.
+		;Synonyms poor: disadvantaged, needy, impoverished, deprived, penniless, hard up, 
+		;<< poor, disadvantaged, needy, impoverished, deprived, penniless, hard up, >>
+		;helping the children of poor and needy parents
+		;It’s a charity that provides help and comfort for needy children.
+				;Oxford Collocations Dictionary
+				;verbs
+				;belook
+				;adverb
+				;trulyveryemotionally…
+				;phrases
+				;poor and needy
+		;See full entry
 	; -- (2) 
-	; -- (3) 
+	;e dè, không tự tin -- (3) (of people) not confident, and needing a lot of love and emotional support from other people
+		;She is shy and needy.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;belook
+				;adverb
+				;trulyveryemotionally…
+				;phrases
+				;poor and needy
+		;See full entry
 
 
 
@@ -8511,10 +8711,10 @@ nefarious		<-->	adjective++C2[-0]	.
 
 
 
-nerve		<-->	noun++C2[-0]	.
+nerve		<-->	noun++C2	[221229][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;sự dũng cảm -- (3) 
 
 
 
@@ -8586,8 +8786,8 @@ nobility		<-->	noun++C2[-0]	.
 
 
 
-noble		<-->	adjective++C1[-0]	.
-	; -- (1) 
+noble		<-->	adjective++C1	[221229][001]	./cef/
+	;cao quý -- (1) 
 	; -- (2) 
 	; -- (3) 
 
@@ -8649,8 +8849,24 @@ nosy parker		<-->	noun++C2[-0]	.
 
 
 
-nuisance		<-->	noun++C1[-0]	.
-	; -- (1) 
+nuisance		<-->	noun++C1	[221229][001]	./ˈnjuːsns/-NAmE /ˈnuːsns/
+	;sự phiền toái -- (1) [countable, usually singular] a thing, person or situation that is annoying or causes trouble or problems
+		;I don't want to be a nuisance so tell me if you want to be alone.
+		;I hope you're not making a nuisance of yourself.
+		;It's a nuisance having to go back tomorrow.
+		;What a nuisance!
+		;Extra Examples:
+		;It's an awful nuisance having builders in the house all day.
+		;This new system is nothing but a nuisance.
+		;TOPICS Personal qualitiesC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;greatrealminor…
+				;preposition
+				;nuisance to
+				;phrases
+				;make a nuisance of yourself
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -8679,8 +8895,14 @@ number one		<-->	noun++C2[-0]	.
 
 
 
-obstinate		<-->	adjective++C2[-0]	.
-	; -- (1) 
+obstinate		<-->	adjective++C2	[221229][001]	./ˈɒbstɪnət/-NAmE /ˈɑːbstɪnət/
+	;cố chấp, bướng bỉnh, ương ngạnh -- (1) (often disapproving) refusing to change your opinions, way of behaving, etc. when other people try to persuade you to; showing this
+		;SYNONYM stubborn
+		;<< stubborn, obstinate, pig-headed, >>
+		;He can be very obstinate when he wants to be!
+		;her obstinate refusal to comply with their request
+		;Their position remains one of obstinate denial, even in face of the new evidence.
+		;TOPICS Personal qualitiesC2
 	; -- (2) 
 	; -- (3) 
 
@@ -8724,8 +8946,49 @@ open		<-->	adjective++B2	[221222][001]	./cef/
 
 
 
-open-hearted		<-->	adjective++C1[-0]	.
-	; -- (1) 
+open-hearted		<-->	adjective++C1	[221229][001]	./ˌəʊpən ˈhɑːtɪd/-NAmE /ˌəʊpən ˈhɑːrtɪd/
+	;cởi mở -- (1) kind and friendly
+		;TOPICS Personal qualitiesC1
+
+
+
+
+
+
+
+
+
+
+open-minded		<-->	adjective++C1	[221229][001]	./ˌəʊpən ˈmaɪndɪd/-NAmE /ˌəʊpən ˈmaɪndɪd/
+	;cở mở -- (1) willing to listen to, think about or accept different ideas
+		;I encourage the children to be open-minded about new ideas and experiences.
+		;OPPOSITE narrow-minded
+		;TOPICS Personal qualitiesC1
+
+
+
+
+
+
+
+
+
+
+openness		<-->	noun++C1	[221229][001]	./ˈəʊpənnəs/-NAmE /ˈəʊpənnəs/ [uncountable]
+	;tính cởi mở -- (1) the quality of being honest and not hiding information or feelings
+		;He talked with a new openness about his own life.
+		;Extra Examples:
+		;There is a need for greater openness in government.
+		;her openness about her marital problems
+		;TOPICS Personal qualitiesC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;greatermorecomplete…
+				;verb + openness
+				;demonstrateshowrequire…
+				;preposition
+				;openness  aboutopenness  toopenness  towards/​toward…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -8739,10 +9002,10 @@ open-hearted		<-->	adjective++C1[-0]	.
 
 
 
-open-minded		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+opportunism		<-->	noun++C2	[221229][001]	./ˌɒpəˈtjuːnɪzəm/-NAmE /ˌɑːpərˈtuːnɪzəm/ [uncountable] (disapproving)
+	;cơ hội chủ nghĩa -- (1) ​the practice of using situations unfairly to gain advantage for yourself without thinking about how your actions will affect other people
+		;political opportunism
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -8753,12 +9016,10 @@ open-minded		<-->	adjective++C1[-0]	.
 
 
 
-
-openness		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+opportunist		<-->	noun++C2	[221229][001]	./ˌɒpəˈtjuːnɪst/-NAmE /ˌɑːpərˈtuːnɪst/ (often disapproving)
+	;người cơ hội -- (1) ​a person who makes use of an opportunity, especially to get an advantage
+		;80 per cent of burglaries are committed by casual opportunists.
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -8769,41 +9030,12 @@ openness		<-->	noun++C1[-0]	.
 
 
 
-opportunism		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-opportunist		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-opportunist		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+opportunist		<-->	a++C2	[221229][001]	./ˌɒpəˈtjuːnɪst/-NAmE /ˌɑːpərˈtuːnɪst/ (also opportunistic) [usually before noun] (often disapproving)
+	;có tính cơ hội -- (1) making use of an opportunity, especially to get an advantage for yourself; not done in a planned way
+		;an opportunist crime
+		;Smith marked his debut match with an opportunist goal.
+		;TOPICS Personal qualitiesC2
+		;Word Origin
 
 
 
@@ -8893,10 +9125,26 @@ outgoing		<-->	adjective++B1	[221219][001]	./ˌaʊtˈɡəʊɪŋ/-NAmE /ˌaʊtˈ�
 
 
 
-overconfident		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+overconfident		<-->	adjective++C2	[221229][001]	./ˌəʊvəˈkɒnfɪdənt/-NAmE /ˌəʊvərˈkɑːnfɪdənt/
+	;quá tự tin -- (1) too confident
+		;TOPICS Personal qualitiesC2
+
+
+
+
+
+
+
+
+
+
+over-optimistic		<-->	adjective++C2	[221229][001]	./ˌəʊvər ˌɒptɪˈmɪstɪk/-NAmE /ˌəʊvər ˌɑːptɪˈmɪstɪk/
+	;quá lạc quan -- (1) too confident that something will be successful
+		;I'm not over-optimistic about my chances of getting the job.
+		;TOPICS SuccessC2, Personal qualitiesC2
+	;quá lạc quan -- (2) showing more confidence that something will be successful than is shown to be right or reasonable by later events
+		;The sales forecasts turned out to be over-optimistic.
+		;TOPICS Difficulty and failureC2
 
 
 
@@ -8908,26 +9156,12 @@ overconfident		<-->	adjective++C2[-0]	.
 
 
 
-over-optimistic		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
-
-
-
-
-
-
-
-
-
-
-overweening		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+overweening		<-->	adjective++C2	[221229][001]	./ˌəʊvəˈwiːnɪŋ/-NAmE /ˌəʊvərˈwiːnɪŋ/ [only before noun] (formal, disapproving)
+	;kiêu ngạo -- (1) showing that you are too confident or proud
+		;SYNONYM arrogant
+		;<< arrogant, overweening, >>
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -8953,11 +9187,12 @@ pain		<-->	noun++B2	[221222][001]	./cef/
 
 
 
-panache		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+panache		<-->	noun++C2	[221229][001]	./pəˈnæʃ/-NAmE /pəˈnæʃ/,  /pəˈnɑːʃ/ [uncountable]
+	;sự khoa trương ??? -- (1) the quality of being able to do things in a lively and confident way that other people find attractive
+		;SYNONYM flair, style
+		;She carried off the performance with panache.
+		;TOPICS Personal qualitiesC2
+		;Word Origin
 
 
 
@@ -8983,11 +9218,14 @@ passionate		<-->	adjective++B2	[221222][001]	./cef/
 
 
 
-past master		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+past master		<-->	noun++C2	[221229][001]	./ˌpɑːst ˈmɑːstə(r)/-NAmE /ˌpæst ˈmæstər/
+	;chuyên gia -- (1) a person who is very good at something because they have a lot of experience in it
+		;SYNONYM expert
+		;<< expert, past master, >>
+		;Director Mel Smith is a past master of this kind of comedy.
+		;past master at doing something She's a past master at getting what she wants.
+		;past master at something They are past masters at this game.
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -9074,6 +9312,7 @@ peppy		<-->	adjective++C2[-0]	.
 perk up		<-->	phrasal veerb++C2	[221223][001]	./p/
 	;làm tươi mới sb/st -- (1) [-perk up | perk somebody  up] (informal) to become or to make somebody become more cheerful or lively, especially after they have been ill or sad
 		;SYNONYM brighten
+		;<< brighten, perk up, >>
 		;He soon perked up when his friends arrived.
 		;A cup of coffee will perk you up.
 		;TOPICS Personal qualitiesC2
@@ -9090,9 +9329,54 @@ perk up		<-->	phrasal veerb++C2	[221223][001]	./p/
 
 
 
-perky		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+perky		<-->	adjective++C2	[221229][001]	./ˈpɜːki/-NAmE /ˈpɜːrki/ (comparative perkier, superlative perkiest) (informal)
+	;hoạt bát -- (1) cheerful and full of energy
+		;She hasn’t been her usual perky self lately.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Perky is used with these nouns:
+				;breast
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+personable		<-->	adjective++C2	[221229][001]	./ˈpɜːsənəbl/-NAmE /ˈpɜːrsənəbl/
+	;cá tính, độc đáo -- (1) (of a person) attractive to other people because of having a pleasant appearance and character
+		;The sales assistant was a very personable young man.
+		;TOPICS Personal qualitiesC2
+
+
+
+
+
+
+
+
+
+
+petty		<-->	adjective++C2	[221229][001]	./ˈpeti/-NAmE /ˈpeti/
+	;nhỏ -- (1) [usually before noun] (disapproving) small and unimportant
+		;SYNONYM minor
+		;<< minor, petty, >>
+		;I don't want to hear any more about your petty squabbles.
+		;a petty bureaucrat/official (= who does not have much power or authority, although they might pretend to)
+		;petty corruption/tyranny/jealousies/feuds
+		;Extra Examples:
+		;He made his children's lives a misery with all his petty rules.
+		;Some of the prison officers were petty tyrants.
+		;The removal of petty restrictions has made life easier.
+		;There are plenty of petty bureaucrats who would report you for that.
+	;nhỏ nhặt, chấp nhặt -- (2) (disapproving) caring too much about small and unimportant matters, especially when this is unkind to other people
+		;SYNONYM small-minded
+		;How could you be so petty?
+		;TOPICS Personal qualitiesC2
 	; -- (3) 
 
 
@@ -9105,100 +9389,77 @@ perky		<-->	adjective++C2[-0]	.
 
 
 
-personable		<-->	adjective++C2[-0]	.
+phoney		<-->	adjective++C2	[221229][001]	./ˈfəʊni/-NAmE /ˈfəʊni/ (also phony) (comparative phonier, superlative phoniest) (informal, disapproving)
+	;rởm -- (1) not real or true; false, and trying to trick people
+		;SYNONYM fake
+		;<< fake, phoney, >>
+		;She spoke with a phoney Russian accent.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Phoney/​phony is used with these nouns:
+				;documentwar
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+phony		<-->	adjective++C2	[221229][001]	./ˈfəʊni/-NAmE /ˈfəʊni/ (also phoney) (informal, disapproving)
+	;rởm -- (1) not real or true; false, and trying to trick people
+		;TOPICS Personal qualitiesC2
+
+
+
+
+
+
+
+
+
+
+pig-headed		<-->	adjective++C2	[221229][001]	./ˌpɪɡ ˈhedɪd/-NAmE /ˌpɪɡ ˈhedɪd/
+	;cố chấp, bướng bỉnh, ương ngạnh, óc như óc heo -- (1) ​unwilling to change your opinion about something, in a way that other people think is annoying and unreasonable
+		;SYNONYM obstinate, stubborn
+		;<< obstinate, stubborn, pig-headed, >>
+		;Why are you being so pig-headed about this?
+		;TOPICS Opinion and argumentC2, Personal qualitiesC2
+
+
+
+
+
+
+
+
+
+
+pizzazz		<-->	noun++C2	[221229][001]	./pɪˈzæz/-NAmE /pɪˈzæz/ [uncountable] (informal)
+	;sự hấp dẫn -- (1) a lively and exciting quality or style
+		;SYNONYM flair
+		;We need someone with youth, glamour and pizzazz.
+		;TOPICS Personal qualitiesC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+plain		<-->	adjective++C1	[221229][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-petty		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-phoney		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-phony		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-pig-headed		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-pizzazz		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-plain		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;thẳng thắn, thành thực, không màu mè -- (4) 
 
 
 
@@ -9225,8 +9486,56 @@ pleasant		<-->	adjective++B1	[221219][001]	./cef/
 
 
 
-pluck		<-->	noun++C2[-0]	.
-	; -- (1) 
+pluck		<-->	noun++C2	[221229][001]	./plʌk/-NAmE /plʌk/\ [uncountable] (old-fashioned, informal)
+	;sự dũng cảm -- (1) the quality of being brave and determined
+		;It takes a lot of pluck to do what she did.
+		;It takes some pluck to stand up to bullies like that.
+		;TOPICS Personal qualitiesC2
+
+
+
+
+
+
+
+
+
+
+plucky		<-->	adjective++C2	[221229][001]	./ˈplʌki/-NAmE /ˈplʌki/ (comparative pluckier, superlative pluckiest) (informal)
+	;dũng cảm -- (1) having a lot of courage; being very determined
+		;SYNONYM brave
+		;<< courageous, valiant, daring, brave, plucky, >>
+		;The plucky youngster had four operations during her long battle against the illness.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Plucky is used with these nouns:
+				;heroine
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+
+poise		<-->	noun++C2	[221229][001]	./pɔɪz/-NAmE /pɔɪz/ [uncountable]
+	;sự đĩnh đạc -- (1) a calm and confident manner with control of your feelings or behaviour
+		;His performance was full of maturity and poise.
+		;She seemed embarrassed for a moment but quickly recovered her poise.
+		;Extra Examples:
+		;She never lost her social poise, however awkward the situation.
+		;He struggled to retain his poise.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;naturalsocialextraordinary…
+				;verb + poise
+				;retainshowlose…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -9240,10 +9549,30 @@ pluck		<-->	noun++C2[-0]	.
 
 
 
-plucky		<-->	adjective++C2[-0]	.
-	; -- (1) 
+poised		<-->	adjective++C2	[221229][001]	./pɔɪzd/-NAmE /pɔɪzd/
+	;đĩnh đạc -- (1) [not before noun] in a position that is completely still but is ready to move at any moment
+		;poised (on, above, over, etc. something) Tina was tense, her hand poised over the telephone.
+		;He stopped writing and looked at me, pen poised.
+		;poised to do something The cat crouched in the grass, poised to jump.
+		;Extra Examples:
+		;She stood poised for a moment.
+		;They hovered by the door, poised for flight.
+				;Oxford Collocations Dictionary
+				;verbs
+				;appearbelook…
+				;adverb
+				;delicatelyfinelyperfectly…
+				;preposition
+				;aboveoverbetween…
+				;phrases
+				;poised on the brink of somethingpoised on the edge of somethingpoised on the threshold of something…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
+	;quả quyết -- (4) having a calm and confident manner and in control of your feelings and behaviour
+		;SYNONYM assured
+		;He is a remarkably poised young man.
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -9255,10 +9584,12 @@ plucky		<-->	adjective++C2[-0]	.
 
 
 
-poise		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+poke fun at somebody/something		<-->	idiom++C2	[221229][001]	./i/
+	;sự nhạo báng -- (1) to say unkind things about somebody/something in order to make other people laugh at them
+		;SYNONYM ridicule
+		;Her novels poke fun at the upper class.
+		;She’s always poking fun at herself.
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -9269,42 +9600,24 @@ poise		<-->	noun++C2[-0]	.
 
 
 
-
-poised		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-poke fun at somebody/something		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-polished		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+polished		<-->	adjective++C2	[221229][001]	./ˈpɒlɪʃt/-NAmE /ˈpɑːlɪʃt/
+	;sáng bóng -- (1) shiny as a result of polishing
+		;a highly polished floor
+		;SYNONYM gleaming
+		;Extra Examples:
+		;brightly polished brasses
+		;the finely polished wood table
+				;Oxford Collocations Dictionary
+				;verbs
+				;be
+				;adverb
+				;brightlyhighlywell…
+		;See full entry
+	;ấn tượng -- (2) confident, impressive and/or showing a lot of skill
+		;SYNONYM fine
+		;polished manners
+		;She gave a polished performance on the piano.
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -9345,25 +9658,44 @@ positive		<-->	adjective++B1	[221219][001]	./cef/
 
 
 
-positivity		<-->	noun++C2[-0]	.
-	; -- (1) 
+positivity		<-->	noun++C2	[221229][001]	./ˌpɒzəˈtɪvəti/-NAmE /ˌpɑːzəˈtɪvəti/ [uncountable]
+	;sự dương tính -- (1) (approving) the practice of being positive in your attitude and focusing on what is good in a situation
+		;We want to send a message of positivity and optimism even in these dark times.
+		;OPPOSITE negativity
+		;TOPICS Personal qualitiesC2
+	;sự dương tính -- (2) the fact that a particular substance, condition or feature is present
+		;The state's Covid test positivity rate jumped to 14.5 per cent.
+		;TOPICS Scientific researchC2
+
+
+
+
+
+
+
+
+
+
+possessive		<-->	adjective++C2	[221229][001]	./pəˈzesɪv/-NAmE /pəˈzesɪv/
+	;sở hữu, chiếm hữu -- (1) possessive (of/about somebody/something) demanding total attention or love; not wanting somebody to be independent
+		;Some parents are too possessive of their children.
+		;Extra Examples:
+		;Loretta's starting to get possessive and jealous.
+		;She had always been possessive of her brother.
+		;her fiercely possessive love for him
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeelbecome…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;aboutof
+		;See full entry
 	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-possessive		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;sở hữu, -- (3) [usually before noun] (grammar) showing that something belongs to somebody/something
+		;possessive pronouns (= yours, theirs, etc.)
+		;TOPICS LanguageA2
 
 
 
@@ -9390,12 +9722,11 @@ potential		<-->	noun++B2	[221222][001]	./cef/
 
 
 
-powerhouse		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
+powerhouse		<-->	noun++C2	[221229][001]	./ˈpaʊəhaʊs/-NAmE /ˈpaʊərhaʊs/
+	;tổ chức năng nổ -- (1) ​a group or an organization that is strong and effective in its activities
+		;China has been described as an economic powerhouse.
+	;người năng nổ -- (2) a person who is very strong and full of energy
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -9452,10 +9783,70 @@ preen		<-->	verb++C2	[221125][001]	./priːn/-NAmE /priːn/
 
 
 
-prejudiced		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+prejudiced		<-->	adjective++C2	[221229][001]	./ˈpredʒədɪst/-NAmE /ˈpredʒədɪst/
+	;thiên vị, thiên kiến -- (1) having an unreasonable dislike of or preference for somebody/something, especially based on their race, religion, sex, etc.
+		;Few people will admit to being racially prejudiced.
+		;prejudiced (against/in favour of somebody/something) They are prejudiced against older applicants.
+		;(humorous) I think it's an excellent article, but then I'm prejudiced—I wrote it.
+		;Extra Examples:
+		;I was a little prejudiced against him because of his background.
+		;She had to cope with the prejudiced views of the majority of the party.
+		;TOPICS Preferences and decisionsC2, Opinion and argumentC2, Personal qualitiesC2, Social issuesC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;beseem
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;against
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+presumption		<-->	noun++C2	[221229][001]	./prɪˈzʌmpʃn/-NAmE /prɪˈzʌmpʃn/
+	;sự giả định -- (1) ​[countable] something that is thought to be true or likely
+		;There is a general presumption that the doctor knows best.
+		;Extra Examples:
+		;The argument is based on certain presumptions about human nature.
+		;There is a general presumption that fatty foods are bad for your heart.
+		;We must ensure the discussion is not based on false presumptions.
+		;You should examine your own presumptions.
+		;TOPICS Doubt, guessing and certaintyC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;stronggeneralcorrect…
+				;preposition
+				;presumption aboutpresumption againstpresumption of…
+				;phrases
+				;the presumption of innocence
+		;See full entry
+	;sự tự phụ -- (2) [uncountable] (formal) behaviour that is too confident and shows a lack of respect for other people
+		;She was infuriated by his presumption in not consulting her first.
+		;TOPICS Personal qualitiesC2
+	;sự giả định -- (3) [uncountable, countable] (law) the act of supposing that something is true, although it has not yet been proved or is not certain
+		;Everyone is entitled to the presumption of innocence until they are proved to be guilty.
+		;Extra Examples:
+		;The presumption of innocence is constitutionally protected.
+		;There is a presumption in favour of your client.
+		;a strong presumption of guilt
+		;There is a strong presumption against the legality of using such weapons.
+		;TOPICS Doubt, guessing and certaintyC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;stronggeneralcorrect…
+				;preposition
+				;presumption aboutpresumption againstpresumption of…
+				;phrases
+				;the presumption of innocence
+		;See full entry
+		;Word Origin
 
 
 
@@ -9467,26 +9858,12 @@ prejudiced		<-->	adjective++C2[-0]	.
 
 
 
-presumption		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-presumptuous		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+presumptuous		<-->	adjective++C2	[221228][001]	./prɪˈzʌmptʃuəs/-NAmE /prɪˈzʌmptʃuəs/ [not usually before noun]
+	;xấc láo, nghêng ngang -- (1) too confident, in a way that shows a lack of respect for other people
+		;Would it be presumptuous of me to ask to borrow your car?
+		;Isn’t it rather presumptuous of you to decide what he needs?
+		;It would be presumptuous to assume she will accept the offer.
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -9527,8 +9904,12 @@ pride		<-->	noun++B2	[221220][001]	./cef/
 
 
 
-Prince Charming		<-->	noun++C2[-0]	.
-	; -- (1) 
+Prince Charming		<-->	noun++C2	[221228][001]	./ˌprɪns ˈtʃɑːmɪŋ/-NAmE /ˌprɪns ˈtʃɑːrmɪŋ/ [singular] (usually humorous)
+	;Hoàng Tử -- (1) a man who seems to be a perfect boyfriend or husband because he is very attractive, kind, etc.
+		;I’m still waiting for my Prince Charming!
+		;More Like This Expressions from history and legend
+		;TOPICS Personal qualitiesC2
+		;Word Origin
 	; -- (2) 
 	; -- (3) 
 
@@ -9557,8 +9938,15 @@ principle		<-->	noun++B2	[221220][001]	./cef/
 
 
 
-principled		<-->	adjective++C1[-0]	.
-	; -- (1) 
+principled		<-->	adjective++C1	[221228][001]	./ˈprɪnsəpld/-NAmE /ˈprɪnsəpld/
+	;nguyên tắc -- (1) having strong beliefs about what is right and wrong; based on strong beliefs
+		;a principled woman
+		;to take a principled stand against abortion
+		;OPPOSITE unprincipled
+		;Extra Examples:
+		;Their approach might seem principled, but in fact it's morally dubious.
+		;We need to get back to the days of principled journalism.
+		;TOPICS Personal qualitiesC1
 	; -- (2) 
 	; -- (3) 
 
@@ -9572,11 +9960,17 @@ principled		<-->	adjective++C1[-0]	.
 
 
 
-proactive		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+proactive		<-->	adjective++C2	[221228][001]	./ˌprəʊˈæktɪv/-NAmE /ˌprəʊˈæktɪv/	
+	;chủ động, chuyên nghiệp -- (1) (of a person or policy) controlling a situation by making things happen rather than waiting for things to happen and then reacting to them
+		;a proactive approach
+		;Managers must be proactive in identifying and preventing potential problems.
+		;COMPARE reactive
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Proactive is used with these nouns:
+				;approachrolestance…
+		;See full entry
+		;Word Origin
 
 
 
@@ -9641,10 +10035,10 @@ professional		<-->	adjective++B1	[221219][001]	./cef/
 
 
 
-proper		<-->	adjective++C2[-0]	.
+proper		<-->	adjective++C2	[221228][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;đúng  đắn -- (3) 
 
 
 
@@ -9671,10 +10065,48 @@ proud		<-->	adjective++B1	[221219][001]	./cef/
 
 
 
-prude		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+prude		<-->	noun++C2	[221228][001]	./pruːd/-NAmE /pruːd/ (disapproving)
+	;kẻ thô lỗ -- (1) a person that you think is too easily shocked by things connected with sex
+		;TOPICS Personal qualitiesC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+prudish		<-->	adjective++C2	[221228][001]	./ˈpruːdɪʃ/-NAmE /ˈpruːdɪʃ/ (disapproving)
+	;khuê các -- (1) very easily shocked by things connected with sex
+		;SYNONYM strait-laced
+		;He grew up in the prudish moral climate of the late nineteenth century.
+		;She can be quite prudish.
+		;TOPICS Personal qualitiesC2
+
+
+
+
+
+
+
+
+
+
+punky		<-->	adjective++C2	[221228][001]	./ˈpʌŋki/-NAmE /ˈpʌŋki/ (comparative punkier, superlative punkiest) (informal)
+	;nhạc rock nặng -- (1) (of music) having the loud, aggressive style of punk music
+		;His latest song has a raw, punky sound.
+		;TOPICS MusicC2
+	;theo phong cách rock -- (2) with the appearance or attitude associated with people who like or play punk music
+		;He's got a punky hairstyle.
+		;They were funky, punky and rebellious.
+		;TOPICS AppearanceC2
+	;gàn dở -- (3) (North American English) (of a person) having no good qualities or useful skills
+		;The punky little twerp was arrested for vandalism.
+		;TOPICS Personal qualitiesC2
+		;Check pronunciation: punky
 
 
 
@@ -9686,10 +10118,12 @@ prude		<-->	noun++C2[-0]	.
 
 
 
-prudish		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+puritan		<-->	noun++C2	[221228][001]	./ˈpjʊərɪtən/-NAmE /ˈpjʊrɪtən/
+	;người khắc khổ, nghiêm khắc -- (1) usually disapproving) a person who has very strict moral attitudes and who thinks that pleasure is bad
+		;TOPICS Personal qualitiesC2
+	;nhà tu khổ hạnh -- (2) Puritan a member of a Protestant group of Christians in England in the 16th and 17th centuries who wanted to worship God in a simple way
+		;Culture
+		;TOPICS Religion and festivalsC2
 
 
 
@@ -9700,42 +10134,14 @@ prudish		<-->	adjective++C2[-0]	.
 
 
 
-
-punky		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-puritan		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-puritanical		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+puritanical		<-->	adjective++C2	[221228][001]	./ˌpjʊərɪˈtænɪkl/-NAmE /ˌpjʊrɪˈtænɪkl/ (also puritan) (usually disapproving)
+	;khắc khe, nghiêm nghị -- (1) having very strict moral attitudes
+		;Their parents had a puritanical streak and didn't approve of dancing.
+		;TOPICS Personal qualitiesC2
+				;Oxford Collocations Dictionary
+				;Puritanical is used with these nouns:
+				;streak
+		;See full entry
 
 
 
@@ -9765,8 +10171,7 @@ pushy		<-->	adjective++C1	[221227][001]	./ˈpʊʃi/-NAmE /ˈpʊʃi/ (comparative
 
 
 
-pussycat		<-->	noun++C2[-0]	./ˈpʊsikæt/
- /ˈpʊsikæt/ (informal)
+pussycat		<-->	noun++C2	[221228][001]	./ˈpʊsikæt/-NAmE /ˈpʊsikæt/ (informal)
 	;cách gọi mèo của trẻ -- (1) a child’s word for a cat
 	;con mèo -- (2) a person who is kind and friendly, especially when you would not expect them to be like this
 		;He's just a pussycat really, once you get to know him.
@@ -9796,10 +10201,12 @@ quality		<-->	noun++B1	[221219][001]	./cef/
 
 
 
-quick-witted		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+quick-witted		<-->	adjective++C2	[221228][001]	./ˌkwɪk ˈwɪtɪd/-NAmE /ˌkwɪk ˈwɪtɪd/
+	;thông minh -- (1) able to think quickly; intelligent
+		;a quick-witted student/response
+		;OPPOSITE slow-witted
+		;TOPICS Personal qualitiesC2
+		;<< intelligent, quick-witted, razor-sharp, >>
 
 
 
@@ -9811,10 +10218,11 @@ quick-witted		<-->	adjective++C2[-0]	.
 
 
 
-raffish		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+raffish		<-->	adjective++C2	[221228][001]	./ˈræfɪʃ/-NAmE /ˈræfɪʃ/
+	;đê tiện, hèn hạ -- (1) (of somebody’s behaviour, clothes, etc.) not very acceptable according to some social standards, but interesting and attractive
+		;He had a cosmopolitan, slightly raffish air.
+		;TOPICS Personal qualitiesC2
+		;Word Origin
 
 
 
@@ -9825,12 +10233,11 @@ raffish		<-->	adjective++C2[-0]	.
 
 
 
-
-rambunctious		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+rambunctious		<-->	adjective++C2	[221228][001]	./ræmˈbʌŋkʃəs/-NAmE /ræmˈbʌŋkʃəs/ (especially North American English) (British English usually rumbustious) [usually before noun] (informal)
+	;huyên náo -- (1) full of energy in a cheerful and noisy way
+		;TOPICS Personal qualitiesC2
+		;Word Origin
+		;<< rumbustious, rambunctious, >>
 
 
 
@@ -9856,11 +10263,13 @@ rational		<-->	adjective++C1	[221227][001]	./cef/
 
 
 
-razor-sharp		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+razor-sharp		<-->	adjective++C2	[221228][001]	./ˌreɪzə ˈʃɑːp/-NAmE /ˌreɪzər ˈʃɑːrp/
+	;rất bén -- (1) extremely sharp
+		;razor-sharp teeth
+		;a razor-sharp blade/edge/knife
+	;sắc xảo, tinh nhạy -- (2) showing that somebody is extremely intelligent
+		;a razor-sharp mind
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -9954,10 +10363,14 @@ rebuff		<-->	noun++C2	[221227][001]	./rɪˈbʌf/-NAmE /rɪˈbʌf/ (formal)
 
 
 
-rectitude		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+rectitude		<-->	noun++C2	[221228][001]	./ˈrektɪtjuːd/-NAmE /ˈrektɪtuːd/ [uncountable] (formal)
+	;sự đứng đắn -- (1) the quality of thinking or behaving in a correct and honest way
+		;SYNONYM uprightness
+		;<< uprightness, rectitude, >>
+		;She is a model of rectitude.
+		;Most of them led lives of selfless moral rectitude.
+		;TOPICS Personal qualitiesC2
+		;Word Origin
 
 
 
@@ -9968,12 +10381,14 @@ rectitude		<-->	noun++C2[-0]	.
 
 
 
-
-relatable		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+relatable		<-->	adjective++C1	[221228][001]	./rɪˈleɪtəbl/-NAmE /rɪˈleɪtəbl/
+	;có cảm thông -- (1) making you feel that you can understand and have sympathy with somebody/something
+		;Kat is the most relatable character in the film.
+		;relatable to somebody She believes that her busy schedule makes her more relatable to voters.
+		;TOPICS Personal qualitiesC1
+	;có liên quan -- (2) relatable (to something) that can be related to something else
+		;The growth of the welfare state is clearly relatable to the growth of democracy.
+		;TOPICS Change, cause and effectC2
 
 
 
@@ -10014,10 +10429,9 @@ reliable		<-->	adjective++B1	[221219][001]	./cef/
 
 
 
-Renaissance man		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+Renaissance man		<-->	noun++C2	[221228][001]	./rɪˈneɪsns mæn/-NAmE /ˈrenəsɑːns mæn/
+	;người khởi nghiệp/tài năng  -- (1) a person who has a lot of different skills and interests
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -10028,12 +10442,9 @@ Renaissance man		<-->	noun++C2[-0]	.
 
 
 
-
-Renaissance woman		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+Renaissance woman		<-->	noun++C2	[221228][001]	./rɪˈneɪsns wʊmən/-NAmE /ˈrenəsɑːns wʊmən/
+	;người phụ nữ khởi nghiệp/tài năng -- (1) a woman who has a lot of different skills and interests
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -10296,11 +10707,33 @@ sap		<-->	noun++C2	[221227][001]	./sæp/-NAmE /sæp/
 
 
 
-sarcasm		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+sarcasm		<-->	noun++C2	[221228][001]	./ˈsɑːkæzəm/-NAmE /ˈsɑːrkæzəm/ [uncountable]
+	;sự mỉa mai -- (1) a way of using words that are the opposite of what you mean in order to be unpleasant to somebody or to make fun of them
+		;‘That will be useful,’ she snapped with heavy sarcasm (= she really thought it would not be useful at all).
+		;a hint/touch/trace of sarcasm in his voice
+		;Extra Examples:
+		;He made the remark without a hint of sarcasm.
+		;His voice dripped (with) sarcasm.
+		;I detected a touch of sarcasm in his remarks.
+		;I love him for his cutting wit and dry sarcasm.
+		;James caught the sarcasm in her voice.
+		;There was an edge of sarcasm in her voice.
+		;‘I'm impressed,’ Graham said with thinly-veiled sarcasm.
+		;Her voice was heavy with sarcasm.
+		;TOPICS Personal qualitiesC2, LanguageC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;bitingbitterheavy…
+				;… of sarcasm
+				;hintnotetinge…
+				;verb + sarcasm
+				;be full ofbe heavy withdrip…
+				;sarcasm + verb
+				;drip
+				;preposition
+				;with sarcasmsarcasm in
+		;See full entry
+		;Word Origin
 
 
 
@@ -10462,10 +10895,9 @@ self-absorbed		<-->	adjective++C2	[221227][001]	./ˌself əbˈzɔːbd/-NAmE /ˌs
 
 
 
-self-assertive		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+self-assertive		<-->	adjective++C2	[221228][001]	./ˌself əˈsɜːtɪv/-NAmE /ˌself əˈsɜːrtɪv/
+	;quả quyết -- (1) very confident and not afraid to express your opinions
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -10476,26 +10908,12 @@ self-assertive		<-->	adjective++C2[-0]	.
 
 
 
-
-self-assurance		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-self-assured		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+self-assurance		<-->	noun++C2	[221228][001]	./ˌself əˈʃʊərəns/,  /ˌself əˈʃɔːrəns/-NAmE /ˌself əˈʃʊrəns/ [uncountable]
+	;sự tự tin -- (1) confidence in yourself and your abilities
+		;SYNONYM self-confidence, confidence (2)
+		;<< self-confidence, confidence, self-assurance, >>
+		;He radiated an air of calm self-assurance.
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -10506,12 +10924,34 @@ self-assured		<-->	adjective++C2[-0]	.
 
 
 
+self-assured		<-->	adjective++C2	[221228][001]	./ˌself əˈʃʊəd/,  /ˌself əˈʃɔːd/-NAmE /ˌself əˈʃʊrd/
+	;tự tin -- (1) having a lot of confidence in yourself and your abilities
+		;SYNONYM confident
+		;<< confident, self-assured, self-confident, >>
+		;He grew more self-assured as he got older.
+		;She looks very self-assured.
+		;TOPICS Personal qualitiesC2
 
-self-centred		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+
+
+
+
+
+
+
+
+self-centred		<-->	adjective++C1	[221228][001]	./ˌself ˈsentəd/-NAmE /ˌself ˈsentərd/ (US English self-centered) (disapproving)
+	;tính tự cao xem mình là trung tâm -- (1) tending to think only about yourself and not thinking about the needs or feelings of other people
+		;She's completely self-centred.
+		;Extra Examples:
+		;a somewhat self-centred individual
+		;Your father's too self-centred to care what you do.
+		;TOPICS Personal qualitiesC1
+				;Oxford Collocations Dictionary
+				;Self-centred/​self-centered is used with these nouns:
+				;jerk
+		;See full entry
 
 
 
@@ -10739,10 +11179,11 @@ self-possession		<-->	noun++C2	[221227][001]	./ˌself pəˈzeʃn/-NAmE /ˌself p
 
 
 
-self-regard		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+self-regard		<-->	noun++C2	[221228][001]	./ˌself rɪˈɡɑːd/-NAmE /ˌself rɪˈɡɑːrd/ [uncountable]
+	;lòng tự trọng -- (1) a good opinion of yourself, which is considered bad if you have too little or too much
+		;He suffers from a lack of self-regard.
+		;TOPICS Opinion and argumentC2, Personal qualitiesC2
+		;<< self-regard, self-worth, self-esteem, >>
 
 
 
@@ -10753,12 +11194,10 @@ self-regard		<-->	noun++C2[-0]	.
 
 
 
-
-self-regarding		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+self-regarding		<-->	adjective++C2	[221228][001]	./ˌself rɪˈɡɑːdɪŋ/-NAmE /ˌself rɪˈɡɑːrdɪŋ/ (disapproving)
+	;chỉ nghĩ đến mình -- (1) having or showing too high an opinion of yourself
+		;His autobiography is nothing but self-regarding nonsense.
+		;TOPICS Opinion and argumentC2, Personal qualitiesC2
 
 
 
@@ -10769,11 +11208,11 @@ self-regarding		<-->	adjective++C2[-0]	.
 
 
 
-self-reliance		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+self-reliance		<-->	noun++C2	[221228][001]	./ˌself rɪˈlaɪəns/-NAmE /ˌself rɪˈlaɪəns/ [uncountable]
+	;khả năng tự lực, tính tự lực -- (1) the ability to do or decide things by yourself, rather than depending on other people for help
+		;economic self-reliance
+		;She developed a strong sense of self-reliance and independence at an early age.
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -10890,11 +11329,11 @@ self-starter		<-->	noun++C2	[221227][001]	./ˌself ˈstɑːtə(r)/-NAmE /ˌself 
 
 
 
-self-worth		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+self-worth		<-->	noun++C2	[221228][001]	./ˌself ˈwɜːθ/-NAmE /ˌself ˈwɜːrθ/ [uncountable]
+	;lòng tự trọng -- (1) a feeling of confidence in yourself that you are a good and useful person
+		;SYNONYM self-esteem
+		;Praise your child to increase her sense of self-worth.
+		;TOPICS Personal qualitiesC2
 
 
 
@@ -13275,10 +13714,10 @@ vainglory		<-->	noun++C2	[221224][001]	./ˌveɪnˈɡlɔːri/-NAmE /ˈveɪnɡlɔ�
 
 
 
-valiant		<-->	adjective++C2	[221224][001]	./ˈvæliənt/-NAmE /ˈvæliənt/ (especially literary)
+valiant		<-->	adjective++C2	[221224][002]	./ˈvæliənt/-NAmE /ˈvæliənt/ (especially literary)
 	;dũng cảm -- (1) very brave or determined
 		;SYNONYM courageous
-		;<< courageous, valiant, daring, brave, >>
+		;<< courageous, valiant, daring, brave, plucky, >>
 		;valiant warriors
 		;She made a valiant attempt not to laugh.
 		;The firefighters made valiant efforts to save them, but were beaten back by the flames.
