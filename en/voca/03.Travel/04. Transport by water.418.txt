@@ -3853,8 +3853,7 @@ scull		<-->	noun+C2[-0]	.
 
 
 
-scuttle		<-->	verb+C2	[221224][001]	./ˈskʌtl/
- /ˈskʌtl/
+scuttle		<-->	verb+C2	[221224][001]	./ˈskʌtl/-NAmE /ˈskʌtl/
 	;chạy lúm túm -- (1) ​[intransitive] + adv./prep. to run with quick short steps [ap: scuttle]
 		;SYNONYM scurry
 		;She scuttled off when she heard the sound of his voice.
@@ -4235,8 +4234,7 @@ shipwreck		<-->	noun+C1[-0]	.
 
 
 
-shipwreck		<-->	verb+C1	[221224][001]	./ˈʃɪprek/\
- /ˈʃɪprek/ , be shipwrecked
+shipwreck		<-->	verb+C1	[221224][001]	./ˈʃɪprek/\-NAmE /ˈʃɪprek/ , be shipwrecked
 	;lái tàu đang chìm, chìm tàu -- (1) to be sailing in a ship that is then lost or destroyed at sea
 		;They were shipwrecked off the coast of Africa.
 		;TOPICS Transport by waterC1
@@ -4331,8 +4329,7 @@ skipper		<-->	noun+C2[-0]	.
 
 
 
-skipper		<-->	verb+C2	[221224][001]	./ˈskɪpə(r)/
- /ˈskɪpər/
+skipper		<-->	verb+C2	[221224][001]	./ˈskɪpə(r)/-NAmE /ˈskɪpər/
 	;là thuyền trưởng tàu nhỏ -- (1) skipper something to be the captain of a boat, sports team, etc.
 		;to skipper a yacht
 		;(especially British English) He skippered the team to victory.
@@ -5127,7 +5124,43 @@ wake		<-->	noun+C2[-0]	.
 
 
 
-wardroom		<-->	noun+C2[-0]	.
+wardroom		<-->	noun+C2[-0]	./ˈwɔːdruːm/,  /ˈwɔːdrʊm/
+ /ˈwɔːrdruːm/,  /ˈwɔːrdrʊm/
+	;buồng nhỏ trên tàu -- (1) a room in a ship, especially a warship, where the officers live and eat
+		;TOPICS Transport by waterC2
+
+
+
+
+
+
+
+warship		<-->	noun+B2[-0]	./ˈwɔːʃɪp/
+ /ˈwɔːrʃɪp/	
+	;tàu chiến -- (1) a ship that has weapons and that is used in war
+		;A total of 18 warships were sunk or heavily damaged.
+		;Germany lost two warships during this attack.
+		;He is serving on a warship in the Pacific.
+		;Wordfinder: admiralaircraft carrierbasecaptaincommandfleetnavysubmarinetorpedowarship
+		;TOPICS Transport by waterB2, War and conflictB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;modernsurfacenaval…
+				;… of warships
+				;fleet
+				;verb + warship
+				;buildcommandsink…
+				;preposition
+				;aboard a warshipon a warship
+		;See full entry
+
+
+
+
+
+
+
+wash		<-->	noun+C2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5139,7 +5172,7 @@ wardroom		<-->	noun+C2[-0]	.
 
 
 
-warship		<-->	noun+B2[-0]	.
+water		<-->	noun+A1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5151,7 +5184,41 @@ warship		<-->	noun+B2[-0]	.
 
 
 
-wash		<-->	noun+C2[-0]	.
+wet dock		<-->	noun+C2[-0]	./ˈwet dɒk/
+ /ˈwet dɑːk/
+	;bãi sửa tàu, ụ tàu -- (1) a place for ships to stay in order to be repaired, have goods put onto them, etc., in which there is enough water for the ship to float
+		;COMPARE dry dock
+		;TOPICS Transport by waterC2
+
+
+
+
+
+
+
+whaler		<-->	noun+C2[-0]	./ˈweɪlə(r)/
+ /ˈweɪlər/
+	;tàu săn cá voi -- (1) ​a ship used for hunting whales
+		;TOPICS Transport by waterC2
+
+
+
+
+
+
+
+wharf		<-->	noun+C2[-0]	./wɔːf/
+ /wɔːrf/ (plural wharves  /wɔːvz/  /wɔːrvz/, wharfs)
+	;cầu cảng, cầu tàu -- (1) a flat structure built next to the sea or a river where boats can be tied up and goods unloaded
+		;TOPICS Transport by waterC2, GeographyC2
+
+
+
+
+
+
+
+wheel		<-->	noun+B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5163,68 +5230,10 @@ wash		<-->	noun+C2[-0]	.
 
 
 
-water		<-->	noun+A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-wet dock		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-whaler		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-wharf		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-wheel		<-->	noun+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-wheelhouse		<-->	noun+C2[-0]	.
-	; -- (1) 
+wheelhouse		<-->	noun+C2[-0]	./ˈwiːlhaʊs/
+ /ˈwiːlhaʊs/
+	;buồng lái -- (1) a small cabin with walls and a roof on a ship where the person controlling the direction in which the ship moves stands at the wheel
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5281,10 +5290,39 @@ wreck		<-->	noun+C1	[221224][001]	./rek/-NAmE /rek/ [orw.101]
 
 
 
-yacht		<-->	noun+B2[-0]	.
+yacht		<-->	noun+B2[-0]	./jɒt/
+ /jɑːt/ (North American English also sailboat)
+	;du thuyền -- (1) a large sailing boat, often also with an engine and a place to sleep on board, used for pleasure trips and racing
+		;a yacht club/race
+		;a motor yacht
+		;a luxury yacht
+		;COMPARE dinghy
+		;TOPICS Transport by waterB2, Sports: water sportsB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;luxuryprivateroyal…
+				;verb + yacht
+				;cruise onsailmoor…
+				;yacht + verb
+				;sailset sail
+				;yacht + noun
+				;raceclub
+				;preposition
+				;aboard a/​the yachton a/​the yachton board a/​the yacht…
+		;See full entry
+		;More Like This Silent letters
+
+
+
+
+
+
+
+yard		<-->	noun+C2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;cột buồm -- (5) 
 
 
 
@@ -5293,23 +5331,10 @@ yacht		<-->	noun+B2[-0]	.
 
 
 
-yard		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-yaw		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+yaw		<-->	noun+C2[-0]	./jɔː/
+ /jɔː/ [countable, uncountable] (specialist)
+	;việc nghiêng, mất ổn định tàu xe -- (1) the action of a ship or plane turning to one side, away from a straight course, in an unsteady way
+		;TOPICS Transport by waterC2
 
 
 
