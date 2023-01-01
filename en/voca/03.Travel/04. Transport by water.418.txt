@@ -1,4 +1,4 @@
-abaft		<-->	adverb+C2[-0]	.
+abaft		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10,7 +10,7 @@ abaft		<-->	adverb+C2[-0]	.
 
 
 
-aboard		<-->	adverb+C1[-0]	.
+aboard		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -22,7 +22,7 @@ aboard		<-->	adverb+C1[-0]	.
 
 
 
-admiral		<-->	noun+C1[-0]	.
+admiral		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -34,7 +34,7 @@ admiral		<-->	noun+C1[-0]	.
 
 
 
-adrift		<-->	adjective+C2[-0]	.
+adrift		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -46,7 +46,7 @@ adrift		<-->	adjective+C2[-0]	.
 
 
 
-a following windidiomC2[-0]	.
+a following wind		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -58,7 +58,7 @@ a following windidiomC2[-0]	.
 
 
 
-aft		<-->	adverb+C2[-0]	.
+aft		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -70,7 +70,7 @@ aft		<-->	adverb+C2[-0]	.
 
 
 
-aftermost		<-->	adjective+C2[-0]	.
+aftermost		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -82,7 +82,7 @@ aftermost		<-->	adjective+C2[-0]	.
 
 
 
-aground		<-->	adverb+C2[-0]	.
+aground		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -94,7 +94,7 @@ aground		<-->	adverb+C2[-0]	.
 
 
 
-aground		<-->	adjective+C2[-0]	.
+aground		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -106,7 +106,7 @@ aground		<-->	adjective+C2[-0]	.
 
 
 
-aircraft carrier		<-->	noun+C2[-0]	.
+aircraft carrier		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -118,7 +118,7 @@ aircraft carrier		<-->	noun+C2[-0]	.
 
 
 
-amidships		<-->	adverb+C2[-0]	.
+amidships		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -130,7 +130,7 @@ amidships		<-->	adverb+C2[-0]	.
 
 
 
-anchor		<-->	noun+C1[-0]	.
+anchor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -142,7 +142,7 @@ anchor		<-->	noun+C1[-0]	.
 
 
 
-anchor		<-->	verb+C1[-0]	.
+anchor		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -154,7 +154,7 @@ anchor		<-->	verb+C1[-0]	.
 
 
 
-anchorage		<-->	noun+C2[-0]	.
+anchorage		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -166,7 +166,7 @@ anchorage		<-->	noun+C2[-0]	.
 
 
 
-ashore		<-->	adverb+C2[-0]	.
+ashore		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -178,7 +178,7 @@ ashore		<-->	adverb+C2[-0]	.
 
 
 
-astern		<-->	adverb+C2[-0]	.
+astern		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -190,7 +190,7 @@ astern		<-->	adverb+C2[-0]	.
 
 
 
-at seaidiomB1[-0]	.
+at sea		<-->	idiom++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -202,7 +202,7 @@ at seaidiomB1[-0]	.
 
 
 
-at the helmidiomC2[-0]	.
+at the helm		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -214,7 +214,7 @@ at the helmidiomC2[-0]	.
 
 
 
-automatic pilot		<-->	noun+C1[-0]	.
+automatic pilot		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -226,7 +226,7 @@ automatic pilot		<-->	noun+C1[-0]	.
 
 
 
-autopilot		<-->	noun+C1[-0]	.
+autopilot		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -238,7 +238,7 @@ autopilot		<-->	noun+C1[-0]	.
 
 
 
-backwash		<-->	noun+C2[-0]	.
+backwash		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -250,7 +250,7 @@ backwash		<-->	noun+C2[-0]	.
 
 
 
-bail out		<-->	phrasal verb+C2[-0]	.
+bail out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -262,7 +262,7 @@ bail out		<-->	phrasal verb+C2[-0]	.
 
 
 
-ballast		<-->	noun+C2[-0]	.
+ballast		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -274,7 +274,7 @@ ballast		<-->	noun+C2[-0]	.
 
 
 
-barge		<-->	noun+C2[-0]	.
+barge		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -286,7 +286,7 @@ barge		<-->	noun+C2[-0]	.
 
 
 
-battlecruiser		<-->	noun+C2[-0]	.
+battlecruiser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -298,7 +298,7 @@ battlecruiser		<-->	noun+C2[-0]	.
 
 
 
-battleship		<-->	noun+C2[-0]	.
+battleship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -310,7 +310,7 @@ battleship		<-->	noun+C2[-0]	.
 
 
 
-beacon		<-->	noun+C2[-0]	.
+beacon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -322,7 +322,7 @@ beacon		<-->	noun+C2[-0]	.
 
 
 
-becalmed		<-->	adjective+C2[-0]	.
+becalmed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -334,7 +334,7 @@ becalmed		<-->	adjective+C2[-0]	.
 
 
 
-berth		<-->	noun+C2[-0]	.
+berth		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -346,7 +346,7 @@ berth		<-->	noun+C2[-0]	.
 
 
 
-bilge		<-->	noun+C2[-0]	.
+bilge		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -358,7 +358,7 @@ bilge		<-->	noun+C2[-0]	.
 
 
 
-bill of lading		<-->	noun+C2[-0]	.
+bill of lading		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -382,7 +382,7 @@ boardverbB1[-0]	.
 
 
 
-boarding card		<-->	noun+B2[-0]	.
+boarding card		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -394,7 +394,7 @@ boarding card		<-->	noun+B2[-0]	.
 
 
 
-boat		<-->	noun+A1[-0]	.
+boat		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -406,7 +406,7 @@ boat		<-->	noun+A1[-0]	.
 
 
 
-boathouse		<-->	noun+C1[-0]	.
+boathouse		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -418,7 +418,7 @@ boathouse		<-->	noun+C1[-0]	.
 
 
 
-boating		<-->	noun+B2[-0]	.
+boating		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -430,7 +430,7 @@ boating		<-->	noun+B2[-0]	.
 
 
 
-boatswain		<-->	noun+C2[-0]	.
+boatswain		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -442,7 +442,7 @@ boatswain		<-->	noun+C2[-0]	.
 
 
 
-boiler room		<-->	noun+C2[-0]	.
+boiler room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -454,7 +454,7 @@ boiler room		<-->	noun+C2[-0]	.
 
 
 
-bollard		<-->	noun+C2[-0]	.
+bollard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -466,7 +466,7 @@ bollard		<-->	noun+C2[-0]	.
 
 
 
-boom		<-->	noun+C2[-0]	.
+boom		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -478,7 +478,7 @@ boom		<-->	noun+C2[-0]	.
 
 
 
-bosun		<-->	noun+C2[-0]	.
+bosun		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -490,7 +490,7 @@ bosun		<-->	noun+C2[-0]	.
 
 
 
-bottom		<-->	noun+B1[-0]	.
+bottom		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -502,7 +502,7 @@ bottom		<-->	noun+B1[-0]	.
 
 
 
-bow		<-->	noun+C2[-0]	.
+bow		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -514,7 +514,7 @@ bow		<-->	noun+C2[-0]	.
 
 
 
-bowline		<-->	noun+C2[-0]	.
+bowline		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -526,7 +526,7 @@ bowline		<-->	noun+C2[-0]	.
 
 
 
-bowsprit		<-->	noun+C2[-0]	.
+bowsprit		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -538,7 +538,7 @@ bowsprit		<-->	noun+C2[-0]	.
 
 
 
-bridge		<-->	noun+C2[-0]	.
+bridge		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -550,7 +550,7 @@ bridge		<-->	noun+C2[-0]	.
 
 
 
-brig		<-->	noun+C2[-0]	.
+brig		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -562,7 +562,7 @@ brig		<-->	noun+C2[-0]	.
 
 
 
-buccaneer		<-->	noun+C2[-0]	.
+buccaneer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -574,7 +574,7 @@ buccaneer		<-->	noun+C2[-0]	.
 
 
 
-bulkhead		<-->	noun+C2[-0]	.
+bulkhead		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -586,7 +586,7 @@ bulkhead		<-->	noun+C2[-0]	.
 
 
 
-bunk		<-->	noun+C2[-0]	.
+bunk		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -598,7 +598,7 @@ bunk		<-->	noun+C2[-0]	.
 
 
 
-bunker		<-->	noun+C2[-0]	.
+bunker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -610,7 +610,7 @@ bunker		<-->	noun+C2[-0]	.
 
 
 
-buoy		<-->	noun+C2	[221031][001]	./bɔɪ/-NAmE /ˈbuːi/,  /bɔɪ/\
+buoy		<-->	noun++C2	[221031][001]	./bɔɪ/-NAmE /ˈbuːi/,  /bɔɪ/\
 	;phao lớn trên biển -- (1) ​an object which floats on the sea or a river to mark the places where it is dangerous and where it is safe for boats to go
 		;SEE ALSO lifebuoy
 		;TOPICS Transport by waterC2
@@ -624,7 +624,7 @@ buoy		<-->	noun+C2	[221031][001]	./bɔɪ/-NAmE /ˈbuːi/,  /bɔɪ/\
 
 
 
-cabin		<-->	noun+B2[-0]	.
+cabin		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -636,7 +636,7 @@ cabin		<-->	noun+B2[-0]	.
 
 
 
-cabin boy		<-->	noun+C2	[221031][001]	./ˈkæbɪn bɔɪ/-NAmE /ˈkæbɪn bɔɪ/
+cabin boy		<-->	noun++C2	[221031][001]	./ˈkæbɪn bɔɪ/-NAmE /ˈkæbɪn bɔɪ/
 	;phục vụ trên tàu -- (1) (especially in the past) a boy or young man employed to work as a servant on a ship
 		;TOPICS Transport by waterC2
 	; -- (2) 
@@ -649,7 +649,7 @@ cabin boy		<-->	noun+C2	[221031][001]	./ˈkæbɪn bɔɪ/-NAmE /ˈkæbɪn bɔɪ/
 
 
 
-cabin cruiser		<-->	noun+C2[-0]	.
+cabin cruiser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -661,7 +661,7 @@ cabin cruiser		<-->	noun+C2[-0]	.
 
 
 
-cable		<-->	noun+C1[-0]	.
+cable		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -673,7 +673,7 @@ cable		<-->	noun+C1[-0]	.
 
 
 
-canal		<-->	noun+B2[-0]	.
+canal		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -685,7 +685,7 @@ canal		<-->	noun+B2[-0]	.
 
 
 
-canal boat		<-->	noun+B2[-0]	.
+canal boat		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -697,7 +697,7 @@ canal boat		<-->	noun+B2[-0]	.
 
 
 
-canoe		<-->	noun+B2[-0]	.
+canoe		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -709,7 +709,7 @@ canoe		<-->	noun+B2[-0]	.
 
 
 
-canoe		<-->	verb+B2[-0]	.
+canoe		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -721,7 +721,7 @@ canoe		<-->	verb+B2[-0]	.
 
 
 
-canoeist		<-->	noun+C1[-0]	.
+canoeist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -733,7 +733,7 @@ canoeist		<-->	noun+C1[-0]	.
 
 
 
-capsize		<-->	verb+C2[-0]	.
+capsize		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -745,7 +745,7 @@ capsize		<-->	verb+C2[-0]	.
 
 
 
-capstan		<-->	noun+C2[-0]	.
+capstan		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -757,7 +757,7 @@ capstan		<-->	noun+C2[-0]	.
 
 
 
-captain		<-->	noun+B1[-0]	.
+captain		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -769,7 +769,7 @@ captain		<-->	noun+B1[-0]	.
 
 
 
-cargo		<-->	noun+C1[-0]	.
+cargo		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -781,7 +781,7 @@ cargo		<-->	noun+C1[-0]	.
 
 
 
-carrier		<-->	noun+C2[-0]	.
+carrier		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -793,7 +793,7 @@ carrier		<-->	noun+C2[-0]	.
 
 
 
-cast off		<-->	phrasal verb+C2[-0]	.
+cast off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -805,7 +805,7 @@ cast off		<-->	phrasal verb+C2[-0]	.
 
 
 
-catamaran		<-->	noun+C2[-0]	.
+catamaran		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -817,7 +817,7 @@ catamaran		<-->	noun+C2[-0]	.
 
 
 
-caulk		<-->	verb+C2[-0]	.
+caulk		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -829,7 +829,7 @@ caulk		<-->	verb+C2[-0]	.
 
 
 
-channel		<-->	noun+B2[-0]	.
+channel		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -841,7 +841,7 @@ channel		<-->	noun+B2[-0]	.
 
 
 
-chantey		<-->	noun+C2[-0]	.
+chantey		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -853,7 +853,7 @@ chantey		<-->	noun+C2[-0]	.
 
 
 
-charter		<-->	noun+C2[-0]	.
+charter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -865,7 +865,7 @@ charter		<-->	noun+C2[-0]	.
 
 
 
-charter		<-->	verb+C2[-0]	.
+charter		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -877,7 +877,7 @@ charter		<-->	verb+C2[-0]	.
 
 
 
-chartered		<-->	adjective+C2[-0]	.
+chartered		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -889,7 +889,7 @@ chartered		<-->	adjective+C2[-0]	.
 
 
 
-circumnavigate		<-->	verb+C2[-0]	.
+circumnavigate		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -901,7 +901,7 @@ circumnavigate		<-->	verb+C2[-0]	.
 
 
 
-circumnavigation		<-->	noun+C2[-0]	.
+circumnavigation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -913,7 +913,7 @@ circumnavigation		<-->	noun+C2[-0]	.
 
 
 
-clipper		<-->	noun+C2[-0]	.
+clipper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -925,7 +925,7 @@ clipper		<-->	noun+C2[-0]	.
 
 
 
-coaster		<-->	noun+C2[-0]	.
+coaster		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -937,7 +937,7 @@ coaster		<-->	noun+C2[-0]	.
 
 
 
-coastguard		<-->	noun+C2[-0]	.
+coastguard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -949,7 +949,7 @@ coastguard		<-->	noun+C2[-0]	.
 
 
 
-cockpit		<-->	noun+C1[-0]	.
+cockpit		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -961,7 +961,7 @@ cockpit		<-->	noun+C1[-0]	.
 
 
 
-color		<-->	noun+C2[-0]	.
+color		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -973,7 +973,7 @@ color		<-->	noun+C2[-0]	.
 
 
 
-colour		<-->	noun+C2[-0]	.
+colour		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -985,7 +985,7 @@ colour		<-->	noun+C2[-0]	.
 
 
 
-companionway		<-->	noun+C2[-0]	.
+companionway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -997,7 +997,7 @@ companionway		<-->	noun+C2[-0]	.
 
 
 
-container		<-->	noun+C1[-0]	.
+container		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1009,7 +1009,7 @@ container		<-->	noun+C1[-0]	.
 
 
 
-convoy		<-->	noun+C2[-0]	.
+convoy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1021,7 +1021,7 @@ convoy		<-->	noun+C2[-0]	.
 
 
 
-coracle		<-->	noun+C2[-0]	.
+coracle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1033,7 +1033,7 @@ coracle		<-->	noun+C2[-0]	.
 
 
 
-corvette		<-->	noun+C2[-0]	.
+corvette		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1045,7 +1045,7 @@ corvette		<-->	noun+C2[-0]	.
 
 
 
-craft		<-->	noun+C2[-0]	.
+craft		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1057,7 +1057,7 @@ craft		<-->	noun+C2[-0]	.
 
 
 
-crew		<-->	noun+B2[-0]	.
+crew		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1069,7 +1069,7 @@ crew		<-->	noun+B2[-0]	.
 
 
 
-crossing		<-->	noun+B2[-0]	.
+crossing		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1081,7 +1081,7 @@ crossing		<-->	noun+B2[-0]	.
 
 
 
-crow’s nest		<-->	noun+C2[-0]	.
+crow’s nest		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1093,7 +1093,7 @@ crow’s nest		<-->	noun+C2[-0]	.
 
 
 
-cruise		<-->	noun+B2[-0]	.
+cruise		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1117,7 +1117,7 @@ cruiseverbB2[-0]	.
 
 
 
-cruiser		<-->	noun+C2[-0]	.
+cruiser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1129,7 +1129,7 @@ cruiser		<-->	noun+C2[-0]	.
 
 
 
-current		<-->	noun+B2[-0]	.
+current		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1141,7 +1141,7 @@ current		<-->	noun+B2[-0]	.
 
 
 
-cutter		<-->	noun+C2[-0]	.
+cutter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1153,7 +1153,7 @@ cutter		<-->	noun+C2[-0]	.
 
 
 
-debark		<-->	verb+C2[-0]	.
+debark		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1165,7 +1165,7 @@ debark		<-->	verb+C2[-0]	.
 
 
 
-deck		<-->	noun+B2[-0]	.
+deck		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1177,7 +1177,7 @@ deck		<-->	noun+B2[-0]	.
 
 
 
-deckhand		<-->	noun+C2[-0]	.
+deckhand		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1189,7 +1189,7 @@ deckhand		<-->	noun+C2[-0]	.
 
 
 
-deckhouse		<-->	noun+C2[-0]	.
+deckhouse		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1201,7 +1201,7 @@ deckhouse		<-->	noun+C2[-0]	.
 
 
 
-derrick		<-->	noun+C2[-0]	.
+derrick		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1213,7 +1213,7 @@ derrick		<-->	noun+C2[-0]	.
 
 
 
-destroyer		<-->	noun+C2[-0]	.
+destroyer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1225,7 +1225,7 @@ destroyer		<-->	noun+C2[-0]	.
 
 
 
-dhow		<-->	noun+C2[-0]	.
+dhow		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1237,7 +1237,7 @@ dhow		<-->	noun+C2[-0]	.
 
 
 
-dinghy		<-->	noun+C2[-0]	.
+dinghy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1249,7 +1249,7 @@ dinghy		<-->	noun+C2[-0]	.
 
 
 
-disembark		<-->	verb+C2[-0]	.
+disembark		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1261,7 +1261,7 @@ disembark		<-->	verb+C2[-0]	.
 
 
 
-disembarkation		<-->	noun+C2[-0]	.
+disembarkation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1273,7 +1273,7 @@ disembarkation		<-->	noun+C2[-0]	.
 
 
 
-distress		<-->	noun+C1[-0]	.
+distress		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1285,7 +1285,7 @@ distress		<-->	noun+C1[-0]	.
 
 
 
-dock		<-->	noun+C1[-0]	.
+dock		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1297,7 +1297,7 @@ dock		<-->	noun+C1[-0]	.
 
 
 
-dock		<-->	verb+C1[-0]	.
+dock		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1309,7 +1309,7 @@ dock		<-->	verb+C1[-0]	.
 
 
 
-dockland		<-->	noun+C2[-0]	.
+dockland		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1321,7 +1321,7 @@ dockland		<-->	noun+C2[-0]	.
 
 
 
-dockside		<-->	noun+C2[-0]	.
+dockside		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1333,7 +1333,7 @@ dockside		<-->	noun+C2[-0]	.
 
 
 
-dockyard		<-->	noun+C2[-0]	.
+dockyard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1345,7 +1345,7 @@ dockyard		<-->	noun+C2[-0]	.
 
 
 
-dragon boat		<-->	noun+C2[-0]	.
+dragon boat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1357,7 +1357,7 @@ dragon boat		<-->	noun+C2[-0]	.
 
 
 
-dredge		<-->	verb+C2[-0]	.
+dredge		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1369,7 +1369,7 @@ dredge		<-->	verb+C2[-0]	.
 
 
 
-dredger		<-->	noun+C2[-0]	.
+dredger		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1381,7 +1381,7 @@ dredger		<-->	noun+C2[-0]	.
 
 
 
-drift		<-->	noun+C1[-0]	.
+drift		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1393,7 +1393,7 @@ drift		<-->	noun+C1[-0]	.
 
 
 
-dry dock		<-->	noun+C2[-0]	.
+dry dock		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1405,7 +1405,7 @@ dry dock		<-->	noun+C2[-0]	.
 
 
 
-dry land		<-->	noun+B2[-0]	.
+dry land		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1417,7 +1417,7 @@ dry land		<-->	noun+B2[-0]	.
 
 
 
-dugout		<-->	noun+C2[-0]	.
+dugout		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1429,7 +1429,7 @@ dugout		<-->	noun+C2[-0]	.
 
 
 
-embark		<-->	verb+C1[-0]	.
+embark		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1441,7 +1441,7 @@ embark		<-->	verb+C1[-0]	.
 
 
 
-embarkation		<-->	noun+C2[-0]	.
+embarkation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1453,7 +1453,7 @@ embarkation		<-->	noun+C2[-0]	.
 
 
 
-engineer		<-->	noun+B1[-0]	.
+engineer		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1465,7 +1465,7 @@ engineer		<-->	noun+B1[-0]	.
 
 
 
-engine room		<-->	noun+B2[-0]	.
+engine room		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1477,7 +1477,7 @@ engine room		<-->	noun+B2[-0]	.
 
 
 
-ensign		<-->	noun+C2[-0]	.
+ensign		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1489,7 +1489,7 @@ ensign		<-->	noun+C2[-0]	.
 
 
 
-factory ship		<-->	noun+C2[-0]	.
+factory ship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1501,7 +1501,7 @@ factory ship		<-->	noun+C2[-0]	.
 
 
 
-ferry		<-->	noun+B1[-0]	.
+ferry		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1513,7 +1513,7 @@ ferry		<-->	noun+B1[-0]	.
 
 
 
-ferry		<-->	verb+C2[-0]	.
+ferry		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1525,7 +1525,7 @@ ferry		<-->	verb+C2[-0]	.
 
 
 
-ferry boat		<-->	noun+B1[-0]	.
+ferry boat		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1537,7 +1537,7 @@ ferry boat		<-->	noun+B1[-0]	.
 
 
 
-figurehead		<-->	noun+C2[-0]	.
+figurehead		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1549,7 +1549,7 @@ figurehead		<-->	noun+C2[-0]	.
 
 
 
-first mate		<-->	noun+C2[-0]	.
+first mate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1561,7 +1561,7 @@ first mate		<-->	noun+C2[-0]	.
 
 
 
-flagship		<-->	noun+C2[-0]	.
+flagship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1573,7 +1573,7 @@ flagship		<-->	noun+C2[-0]	.
 
 
 
-flight deck		<-->	noun+C2[-0]	.
+flight deck		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1597,7 +1597,7 @@ floatverbB2[-0]	.
 
 
 
-flotilla		<-->	noun+C2[-0]	.
+flotilla		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1609,7 +1609,7 @@ flotilla		<-->	noun+C2[-0]	.
 
 
 
-flotsam		<-->	noun+C2[-0]	.
+flotsam		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1621,7 +1621,7 @@ flotsam		<-->	noun+C2[-0]	.
 
 
 
-foghorn		<-->	noun+C2[-0]	.
+foghorn		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1633,7 +1633,7 @@ foghorn		<-->	noun+C2[-0]	.
 
 
 
-fore		<-->	adjective+C2[-0]	.
+fore		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1645,7 +1645,7 @@ fore		<-->	adjective+C2[-0]	.
 
 
 
-forecastle		<-->	noun+C2[-0]	.
+forecastle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1657,7 +1657,7 @@ forecastle		<-->	noun+C2[-0]	.
 
 
 
-foresail		<-->	noun+C2[-0]	.
+foresail		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1669,7 +1669,7 @@ foresail		<-->	noun+C2[-0]	.
 
 
 
-forward		<-->	adverb+C1[-0]	.
+forward		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1681,7 +1681,7 @@ forward		<-->	adverb+C1[-0]	.
 
 
 
-founder		<-->	verb+C2[-0]	.
+founder		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1693,7 +1693,7 @@ founder		<-->	verb+C2[-0]	.
 
 
 
-fo’c’sle		<-->	noun+C2[-0]	.
+fo’c’sle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1705,7 +1705,7 @@ fo’c’sle		<-->	noun+C2[-0]	.
 
 
 
-free on board		<-->	adjective+C2[-0]	.
+free on board		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1717,7 +1717,7 @@ free on board		<-->	adjective+C2[-0]	.
 
 
 
-freighter		<-->	noun+C2[-0]	.
+freighter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1729,7 +1729,7 @@ freighter		<-->	noun+C2[-0]	.
 
 
 
-frigate		<-->	noun+C2[-0]	.
+frigate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1741,7 +1741,7 @@ frigate		<-->	noun+C2[-0]	.
 
 
 
-funnel		<-->	noun+C2[-0]	.
+funnel		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1753,7 +1753,7 @@ funnel		<-->	noun+C2[-0]	.
 
 
 
-galleon		<-->	noun+C2[-0]	.
+galleon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1765,7 +1765,7 @@ galleon		<-->	noun+C2[-0]	.
 
 
 
-galley		<-->	noun+C2[-0]	.
+galley		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1777,7 +1777,7 @@ galley		<-->	noun+C2[-0]	.
 
 
 
-gangplank		<-->	noun+C2[-0]	.
+gangplank		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1789,7 +1789,7 @@ gangplank		<-->	noun+C2[-0]	.
 
 
 
-gangway		<-->	noun+C2[-0]	.
+gangway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1801,7 +1801,7 @@ gangway		<-->	noun+C2[-0]	.
 
 
 
-gondola		<-->	noun+C2[-0]	.
+gondola		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1813,7 +1813,7 @@ gondola		<-->	noun+C2[-0]	.
 
 
 
-ground		<-->	verb+C1[-0]	.
+ground		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1825,7 +1825,7 @@ ground		<-->	verb+C1[-0]	.
 
 
 
-grounding		<-->	noun+C2[-0]	.
+grounding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1837,7 +1837,7 @@ grounding		<-->	noun+C2[-0]	.
 
 
 
-guard rail		<-->	noun+C2[-0]	.
+guard rail		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1849,7 +1849,7 @@ guard rail		<-->	noun+C2[-0]	.
 
 
 
-gunboat		<-->	noun+C2[-0]	.
+gunboat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1861,7 +1861,7 @@ gunboat		<-->	noun+C2[-0]	.
 
 
 
-gunnel		<-->	noun+C2[-0]	.
+gunnel		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1873,7 +1873,7 @@ gunnel		<-->	noun+C2[-0]	.
 
 
 
-gunwale		<-->	noun+C2[-0]	.
+gunwale		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1885,7 +1885,7 @@ gunwale		<-->	noun+C2[-0]	.
 
 
 
-gyroscope		<-->	noun+C2[-0]	.
+gyroscope		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1897,7 +1897,7 @@ gyroscope		<-->	noun+C2[-0]	.
 
 
 
-hand		<-->	noun+C2[-0]	.
+hand		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1909,7 +1909,7 @@ hand		<-->	noun+C2[-0]	.
 
 
 
-harbour		<-->	noun+B2[-0]	.
+harbour		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1921,7 +1921,7 @@ harbour		<-->	noun+B2[-0]	.
 
 
 
-hatch		<-->	noun+C2[-0]	.
+hatch		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1933,7 +1933,7 @@ hatch		<-->	noun+C2[-0]	.
 
 
 
-hatchway		<-->	noun+C2[-0]	.
+hatchway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1945,7 +1945,7 @@ hatchway		<-->	noun+C2[-0]	.
 
 
 
-hawser		<-->	noun+C2[-0]	.
+hawser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1957,7 +1957,7 @@ hawser		<-->	noun+C2[-0]	.
 
 
 
-heave into sight/viewidiomC2[-0]	.
+heave into sight/view		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1969,7 +1969,7 @@ heave into sight/viewidiomC2[-0]	.
 
 
 
-heavy		<-->	adjective+C1[-0]	.
+heavy		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1981,7 +1981,7 @@ heavy		<-->	adjective+C1[-0]	.
 
 
 
-helm		<-->	noun+C2[-0]	.
+helm		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1993,7 +1993,7 @@ helm		<-->	noun+C2[-0]	.
 
 
 
-helm		<-->	verb+C2[-0]	.
+helm		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2005,7 +2005,7 @@ helm		<-->	verb+C2[-0]	.
 
 
 
-helmsman		<-->	noun+C2[-0]	.
+helmsman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2017,7 +2017,7 @@ helmsman		<-->	noun+C2[-0]	.
 
 
 
-helmswoman		<-->	noun+C2[-0]	.
+helmswoman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2029,7 +2029,7 @@ helmswoman		<-->	noun+C2[-0]	.
 
 
 
-high tide		<-->	noun+C1[-0]	.
+high tide		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2041,7 +2041,7 @@ high tide		<-->	noun+C1[-0]	.
 
 
 
-high water		<-->	noun+C2[-0]	.
+high water		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2053,7 +2053,7 @@ high water		<-->	noun+C2[-0]	.
 
 
 
-high-water mark		<-->	noun+C2[-0]	.
+high-water mark		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2065,7 +2065,7 @@ high-water mark		<-->	noun+C2[-0]	.
 
 
 
-hold		<-->	noun+C1[-0]	.
+hold		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2077,7 +2077,7 @@ hold		<-->	noun+C1[-0]	.
 
 
 
-houseboat		<-->	noun+B2[-0]	.
+houseboat		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2089,7 +2089,7 @@ houseboat		<-->	noun+B2[-0]	.
 
 
 
-hovercraft		<-->	noun+C1[-0]	.
+hovercraft		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2101,7 +2101,7 @@ hovercraft		<-->	noun+C1[-0]	.
 
 
 
-hulk		<-->	noun+C2[-0]	.
+hulk		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2113,7 +2113,7 @@ hulk		<-->	noun+C2[-0]	.
 
 
 
-hull		<-->	noun+C2[-0]	.
+hull		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2125,7 +2125,7 @@ hull		<-->	noun+C2[-0]	.
 
 
 
-hydrofoil		<-->	noun+C2[-0]	.
+hydrofoil		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2137,7 +2137,7 @@ hydrofoil		<-->	noun+C2[-0]	.
 
 
 
-icebreaker		<-->	noun+C2[-0]	.
+icebreaker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2149,7 +2149,7 @@ icebreaker		<-->	noun+C2[-0]	.
 
 
 
-in convoyidiomC2[-0]	.
+in convoy		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2161,7 +2161,7 @@ in convoyidiomC2[-0]	.
 
 
 
-inflatable		<-->	noun+C2[-0]	.
+inflatable		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2173,7 +2173,7 @@ inflatable		<-->	noun+C2[-0]	.
 
 
 
-inshore		<-->	adverb+C2[-0]	.
+inshore		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2185,7 +2185,7 @@ inshore		<-->	adverb+C2[-0]	.
 
 
 
-inshore		<-->	adjective+C2[-0]	.
+inshore		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2197,7 +2197,7 @@ inshore		<-->	adjective+C2[-0]	.
 
 
 
-jetfoil		<-->	noun+C2[-0]	.
+jetfoil		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2209,7 +2209,7 @@ jetfoil		<-->	noun+C2[-0]	.
 
 
 
-jetsam		<-->	noun+C2[-0]	.
+jetsam		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2221,7 +2221,7 @@ jetsam		<-->	noun+C2[-0]	.
 
 
 
-jettison		<-->	verb+C2[-0]	.
+jettison		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2233,7 +2233,7 @@ jettison		<-->	verb+C2[-0]	.
 
 
 
-jetty		<-->	noun+C2[-0]	.
+jetty		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2245,7 +2245,7 @@ jetty		<-->	noun+C2[-0]	.
 
 
 
-jib		<-->	noun+C2[-0]	.
+jib		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2257,7 +2257,7 @@ jib		<-->	noun+C2[-0]	.
 
 
 
-jump shipidiomC2[-0]	.
+jump ship		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2269,7 +2269,7 @@ jump shipidiomC2[-0]	.
 
 
 
-junk		<-->	noun+C2[-0]	.
+junk		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2281,7 +2281,7 @@ junk		<-->	noun+C2[-0]	.
 
 
 
-kayak		<-->	noun+C1[-0]	.
+kayak		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2293,7 +2293,7 @@ kayak		<-->	noun+C1[-0]	.
 
 
 
-keel		<-->	noun+C2[-0]	.
+keel		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2317,7 +2317,7 @@ landverbA2[-0]	.
 
 
 
-landfall		<-->	noun+C2[-0]	.
+landfall		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2329,7 +2329,7 @@ landfall		<-->	noun+C2[-0]	.
 
 
 
-landing craft		<-->	noun+C2[-0]	.
+landing craft		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2341,7 +2341,7 @@ landing craft		<-->	noun+C2[-0]	.
 
 
 
-landing stage		<-->	noun+C2[-0]	.
+landing stage		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2353,7 +2353,7 @@ landing stage		<-->	noun+C2[-0]	.
 
 
 
-landlubber		<-->	noun+C2[-0]	.
+landlubber		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2365,7 +2365,7 @@ landlubber		<-->	noun+C2[-0]	.
 
 
 
-landward		<-->	adverb+C2[-0]	.
+landward		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2377,7 +2377,7 @@ landward		<-->	adverb+C2[-0]	.
 
 
 
-landward		<-->	adjective+C2[-0]	.
+landward		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2401,7 +2401,7 @@ launchverbB2[-0]	.
 
 
 
-launch		<-->	noun+C2[-0]	.
+launch		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2413,7 +2413,7 @@ launch		<-->	noun+C2[-0]	.
 
 
 
-lifebelt		<-->	noun+C2[-0]	.
+lifebelt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2425,7 +2425,7 @@ lifebelt		<-->	noun+C2[-0]	.
 
 
 
-lifeboat		<-->	noun+C1[-0]	.
+lifeboat		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2437,7 +2437,7 @@ lifeboat		<-->	noun+C1[-0]	.
 
 
 
-life jacket		<-->	noun+B2[-0]	.
+life jacket		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2449,7 +2449,7 @@ life jacket		<-->	noun+B2[-0]	.
 
 
 
-life raft		<-->	noun+C2[-0]	.
+life raft		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2461,7 +2461,7 @@ life raft		<-->	noun+C2[-0]	.
 
 
 
-life vest		<-->	noun+B2[-0]	.
+life vest		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2473,7 +2473,7 @@ life vest		<-->	noun+B2[-0]	.
 
 
 
-lighter		<-->	noun+C2[-0]	.
+lighter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2485,7 +2485,7 @@ lighter		<-->	noun+C2[-0]	.
 
 
 
-lighthouse		<-->	noun+C1[-0]	.
+lighthouse		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2497,7 +2497,7 @@ lighthouse		<-->	noun+C1[-0]	.
 
 
 
-lightship		<-->	noun+C2[-0]	.
+lightship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2509,7 +2509,7 @@ lightship		<-->	noun+C2[-0]	.
 
 
 
-liner		<-->	noun+C2[-0]	.
+liner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2521,7 +2521,7 @@ liner		<-->	noun+C2[-0]	.
 
 
 
-list		<-->	noun+C2[-0]	.
+list		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2533,7 +2533,7 @@ list		<-->	noun+C2[-0]	.
 
 
 
-load line		<-->	noun+C2[-0]	.
+load line		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2545,7 +2545,7 @@ load line		<-->	noun+C2[-0]	.
 
 
 
-log		<-->	noun+C1[-0]	.
+log		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2557,7 +2557,7 @@ log		<-->	noun+C1[-0]	.
 
 
 
-longboat		<-->	noun+C2[-0]	.
+longboat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2569,7 +2569,7 @@ longboat		<-->	noun+C2[-0]	.
 
 
 
-longship		<-->	noun+C2[-0]	.
+longship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2581,7 +2581,7 @@ longship		<-->	noun+C2[-0]	.
 
 
 
-low tide		<-->	noun+C1[-0]	.
+low tide		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2593,7 +2593,7 @@ low tide		<-->	noun+C1[-0]	.
 
 
 
-low-water mark		<-->	noun+C2[-0]	.
+low-water mark		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2605,7 +2605,7 @@ low-water mark		<-->	noun+C2[-0]	.
 
 
 
-mainsail		<-->	noun+C2[-0]	.
+mainsail		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2617,7 +2617,7 @@ mainsail		<-->	noun+C2[-0]	.
 
 
 
-maneuver		<-->	verb+C1[-0]	.
+maneuver		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2629,7 +2629,7 @@ maneuver		<-->	verb+C1[-0]	.
 
 
 
-manifest		<-->	noun+C2[-0]	.
+manifest		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2641,7 +2641,7 @@ manifest		<-->	noun+C2[-0]	.
 
 
 
-manoeuvre		<-->	verb+C1[-0]	.
+manoeuvre		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2653,7 +2653,7 @@ manoeuvre		<-->	verb+C1[-0]	.
 
 
 
-marine		<-->	adjective+C1[-0]	.
+marine		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2665,7 +2665,7 @@ marine		<-->	adjective+C1[-0]	.
 
 
 
-mariner		<-->	noun+C2[-0]	.
+mariner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2677,7 +2677,7 @@ mariner		<-->	noun+C2[-0]	.
 
 
 
-maritime		<-->	adjective+C2[-0]	.
+maritime		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2689,7 +2689,7 @@ maritime		<-->	adjective+C2[-0]	.
 
 
 
-maroon		<-->	verb+C2[-0]	.
+maroon		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2701,7 +2701,7 @@ maroon		<-->	verb+C2[-0]	.
 
 
 
-mast		<-->	noun+C1[-0]	.
+mast		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2713,7 +2713,7 @@ mast		<-->	noun+C1[-0]	.
 
 
 
-masthead		<-->	noun+C2[-0]	.
+masthead		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2725,7 +2725,7 @@ masthead		<-->	noun+C2[-0]	.
 
 
 
-mate		<-->	noun+C2[-0]	.
+mate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2737,7 +2737,7 @@ mate		<-->	noun+C2[-0]	.
 
 
 
-Mayday		<-->	noun+C2[-0]	.
+Mayday		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2749,7 +2749,7 @@ Mayday		<-->	noun+C2[-0]	.
 
 
 
-merchantman		<-->	noun+C2[-0]	.
+merchantman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2761,7 +2761,7 @@ merchantman		<-->	noun+C2[-0]	.
 
 
 
-minehunter		<-->	noun+C2[-0]	.
+minehunter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2773,7 +2773,7 @@ minehunter		<-->	noun+C2[-0]	.
 
 
 
-minesweeper		<-->	noun+C2[-0]	.
+minesweeper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2785,7 +2785,7 @@ minesweeper		<-->	noun+C2[-0]	.
 
 
 
-mizzen		<-->	noun+C2[-0]	.
+mizzen		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2797,7 +2797,7 @@ mizzen		<-->	noun+C2[-0]	.
 
 
 
-moor		<-->	verb+C2[-0]	.
+moor		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2809,7 +2809,7 @@ moor		<-->	verb+C2[-0]	.
 
 
 
-mooring		<-->	noun+C2[-0]	.
+mooring		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2821,7 +2821,7 @@ mooring		<-->	noun+C2[-0]	.
 
 
 
-motorboat		<-->	noun+B2[-0]	.
+motorboat		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2833,7 +2833,7 @@ motorboat		<-->	noun+B2[-0]	.
 
 
 
-mutiny		<-->	noun+C2[-0]	.
+mutiny		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2845,7 +2845,7 @@ mutiny		<-->	noun+C2[-0]	.
 
 
 
-narrowboat		<-->	noun+C2[-0]	.
+narrowboat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2857,7 +2857,7 @@ narrowboat		<-->	noun+C2[-0]	.
 
 
 
-nautical		<-->	adjective+C2[-0]	.
+nautical		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2869,7 +2869,7 @@ nautical		<-->	adjective+C2[-0]	.
 
 
 
-nautical mile		<-->	noun+C2[-0]	.
+nautical mile		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2881,7 +2881,7 @@ nautical mile		<-->	noun+C2[-0]	.
 
 
 
-navigability		<-->	noun+C2[-0]	.
+navigability		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2893,7 +2893,7 @@ navigability		<-->	noun+C2[-0]	.
 
 
 
-navigable		<-->	adjective+C2[-0]	.
+navigable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2917,7 +2917,7 @@ navigateverbB2[-0]	.
 
 
 
-navigation		<-->	noun+B2[-0]	.
+navigation		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2929,7 +2929,7 @@ navigation		<-->	noun+B2[-0]	.
 
 
 
-navigator		<-->	noun+B2[-0]	.
+navigator		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2941,7 +2941,7 @@ navigator		<-->	noun+B2[-0]	.
 
 
 
-navy		<-->	noun+B2[-0]	.
+navy		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2953,7 +2953,7 @@ navy		<-->	noun+B2[-0]	.
 
 
 
-oar		<-->	noun+C2[-0]	.
+oar		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2965,7 +2965,7 @@ oar		<-->	noun+C2[-0]	.
 
 
 
-oarlock		<-->	noun+C2[-0]	.
+oarlock		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2977,7 +2977,7 @@ oarlock		<-->	noun+C2[-0]	.
 
 
 
-oarsman		<-->	noun+C2[-0]	.
+oarsman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2989,7 +2989,7 @@ oarsman		<-->	noun+C2[-0]	.
 
 
 
-oarswoman		<-->	noun+C2[-0]	.
+oarswoman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3001,7 +3001,7 @@ oarswoman		<-->	noun+C2[-0]	.
 
 
 
-ocean-going		<-->	adjective+C2[-0]	.
+ocean-going		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3013,7 +3013,7 @@ ocean-going		<-->	adjective+C2[-0]	.
 
 
 
-offshore		<-->	adjective+C1[-0]	.
+offshore		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3025,7 +3025,7 @@ offshore		<-->	adjective+C1[-0]	.
 
 
 
-oil tanker		<-->	noun+C1[-0]	.
+oil tanker		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3037,7 +3037,7 @@ oil tanker		<-->	noun+C1[-0]	.
 
 
 
-on boardidiomB2[-0]	.
+on board		<-->	idiom++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3049,7 +3049,7 @@ on boardidiomB2[-0]	.
 
 
 
-on-board		<-->	adjective+B2[-0]	.
+on-board		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3061,7 +3061,7 @@ on-board		<-->	adjective+B2[-0]	.
 
 
 
-onshore		<-->	adjective+C2[-0]	.
+onshore		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3073,7 +3073,7 @@ onshore		<-->	adjective+C2[-0]	.
 
 
 
-onshore		<-->	adverb+C2[-0]	.
+onshore		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3085,7 +3085,7 @@ onshore		<-->	adverb+C2[-0]	.
 
 
 
-outboard		<-->	adjective+C2[-0]	.
+outboard		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3097,7 +3097,7 @@ outboard		<-->	adjective+C2[-0]	.
 
 
 
-outboard motor		<-->	noun+C2[-0]	.
+outboard motor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3109,7 +3109,7 @@ outboard motor		<-->	noun+C2[-0]	.
 
 
 
-outrigger		<-->	noun+C2[-0]	.
+outrigger		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3121,7 +3121,7 @@ outrigger		<-->	noun+C2[-0]	.
 
 
 
-overboard		<-->	adverb+C1[-0]	.
+overboard		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3133,7 +3133,7 @@ overboard		<-->	adverb+C1[-0]	.
 
 
 
-overfishing		<-->	noun+C2[-0]	.
+overfishing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3145,7 +3145,7 @@ overfishing		<-->	noun+C2[-0]	.
 
 
 
-paddle		<-->	noun+C1[-0]	.
+paddle		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3157,7 +3157,7 @@ paddle		<-->	noun+C1[-0]	.
 
 
 
-paddle		<-->	verb+C1[-0]	.
+paddle		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3169,7 +3169,7 @@ paddle		<-->	verb+C1[-0]	.
 
 
 
-paddle steamer		<-->	noun+C2[-0]	.
+paddle steamer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3181,7 +3181,7 @@ paddle steamer		<-->	noun+C2[-0]	.
 
 
 
-passage		<-->	noun+C1[-0]	.
+passage		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3193,7 +3193,7 @@ passage		<-->	noun+C1[-0]	.
 
 
 
-passenger		<-->	noun+A2[-0]	.
+passenger		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3205,7 +3205,7 @@ passenger		<-->	noun+A2[-0]	.
 
 
 
-pedalo		<-->	noun+C2[-0]	.
+pedalo		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3217,7 +3217,7 @@ pedalo		<-->	noun+C2[-0]	.
 
 
 
-pennant		<-->	noun+C2[-0]	.
+pennant		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3229,7 +3229,7 @@ pennant		<-->	noun+C2[-0]	.
 
 
 
-periscope		<-->	noun+C2[-0]	.
+periscope		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3241,7 +3241,7 @@ periscope		<-->	noun+C2[-0]	.
 
 
 
-pier		<-->	noun+C1[-0]	.
+pier		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3253,7 +3253,7 @@ pier		<-->	noun+C1[-0]	.
 
 
 
-pilot		<-->	noun+C1[-0]	.
+pilot		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3265,7 +3265,7 @@ pilot		<-->	noun+C1[-0]	.
 
 
 
-piracy		<-->	noun+C1[-0]	.
+piracy		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3277,7 +3277,7 @@ piracy		<-->	noun+C1[-0]	.
 
 
 
-pirate		<-->	noun+C1[-0]	.
+pirate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3289,7 +3289,7 @@ pirate		<-->	noun+C1[-0]	.
 
 
 
-pitch		<-->	verb+C2[-0]	.
+pitch		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3301,7 +3301,7 @@ pitch		<-->	verb+C2[-0]	.
 
 
 
-pleasure boat		<-->	noun+C1[-0]	.
+pleasure boat		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3313,7 +3313,7 @@ pleasure boat		<-->	noun+C1[-0]	.
 
 
 
-Plimsoll line		<-->	noun+C2[-0]	.
+Plimsoll line		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3325,7 +3325,7 @@ Plimsoll line		<-->	noun+C2[-0]	.
 
 
 
-ply		<-->	verb+C2[-0]	.
+ply		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3337,7 +3337,7 @@ ply		<-->	verb+C2[-0]	.
 
 
 
-poop		<-->	noun+C2[-0]	.
+poop		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3349,7 +3349,7 @@ poop		<-->	noun+C2[-0]	.
 
 
 
-port		<-->	noun+B1[-0]	.
+port		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3361,7 +3361,7 @@ port		<-->	noun+B1[-0]	.
 
 
 
-porthole		<-->	noun+C2[-0]	.
+porthole		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3373,7 +3373,7 @@ porthole		<-->	noun+C2[-0]	.
 
 
 
-port of call		<-->	noun+C2[-0]	.
+port of call		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3385,7 +3385,7 @@ port of call		<-->	noun+C2[-0]	.
 
 
 
-powerboat		<-->	noun+C1[-0]	.
+powerboat		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3397,7 +3397,7 @@ powerboat		<-->	noun+C1[-0]	.
 
 
 
-propeller		<-->	noun+C2[-0]	.
+propeller		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3409,7 +3409,7 @@ propeller		<-->	noun+C2[-0]	.
 
 
 
-prow		<-->	noun+C2[-0]	.
+prow		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3421,7 +3421,7 @@ prow		<-->	noun+C2[-0]	.
 
 
 
-punt		<-->	noun+C2[-0]	.
+punt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3433,7 +3433,7 @@ punt		<-->	noun+C2[-0]	.
 
 
 
-punt		<-->	verb+C2[-0]	.
+punt		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3445,7 +3445,7 @@ punt		<-->	verb+C2[-0]	.
 
 
 
-purser		<-->	noun+C2[-0]	.
+purser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3457,7 +3457,7 @@ purser		<-->	noun+C2[-0]	.
 
 
 
-put in		<-->	phrasal verb+C2[-0]	.
+put in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3469,7 +3469,7 @@ put in		<-->	phrasal verb+C2[-0]	.
 
 
 
-put into		<-->	phrasal verb+C2[-0]	.
+put into		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3481,7 +3481,7 @@ put into		<-->	phrasal verb+C2[-0]	.
 
 
 
-put (out) to seaidiomC2[-0]	.
+put (out) to sea		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3493,7 +3493,7 @@ put (out) to seaidiomC2[-0]	.
 
 
 
-quarterdeck		<-->	noun+C2[-0]	.
+quarterdeck		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3505,7 +3505,7 @@ quarterdeck		<-->	noun+C2[-0]	.
 
 
 
-radar		<-->	noun+C1[-0]	.
+radar		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3517,7 +3517,7 @@ radar		<-->	noun+C1[-0]	.
 
 
 
-radio		<-->	noun+A1[-0]	.
+radio		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3529,7 +3529,7 @@ radio		<-->	noun+A1[-0]	.
 
 
 
-raft		<-->	noun+B2[-0]	.
+raft		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3541,7 +3541,7 @@ raft		<-->	noun+B2[-0]	.
 
 
 
-rating		<-->	noun+C2[-0]	.
+rating		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3553,7 +3553,7 @@ rating		<-->	noun+C2[-0]	.
 
 
 
-refloat		<-->	verb+C2[-0]	.
+refloat		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3565,7 +3565,7 @@ refloat		<-->	verb+C2[-0]	.
 
 
 
-rig		<-->	verb+C2[-0]	.
+rig		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3577,7 +3577,7 @@ rig		<-->	verb+C2[-0]	.
 
 
 
-rig		<-->	noun+C2[-0]	.
+rig		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3589,7 +3589,7 @@ rig		<-->	noun+C2[-0]	.
 
 
 
-rigging		<-->	noun+C2[-0]	.
+rigging		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3601,7 +3601,7 @@ rigging		<-->	noun+C2[-0]	.
 
 
 
-roll		<-->	verb+C1[-0]	.
+roll		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3613,7 +3613,7 @@ roll		<-->	verb+C1[-0]	.
 
 
 
-roll-on roll-off		<-->	adjective+C2[-0]	.
+roll-on roll-off		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3625,7 +3625,7 @@ roll-on roll-off		<-->	adjective+C2[-0]	.
 
 
 
-rough		<-->	adjective+B2[-0]	.
+rough		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3649,7 +3649,7 @@ rowverbB2[-0]	.
 
 
 
-rowboat		<-->	noun+B2[-0]	.
+rowboat		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3661,7 +3661,7 @@ rowboat		<-->	noun+B2[-0]	.
 
 
 
-rower		<-->	noun+B2[-0]	.
+rower		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3673,7 +3673,7 @@ rower		<-->	noun+B2[-0]	.
 
 
 
-rowing		<-->	noun+B2[-0]	.
+rowing		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3685,7 +3685,7 @@ rowing		<-->	noun+B2[-0]	.
 
 
 
-rowing boat		<-->	noun+B2[-0]	.
+rowing boat		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3697,7 +3697,7 @@ rowing boat		<-->	noun+B2[-0]	.
 
 
 
-rubber dinghy		<-->	noun+C2[-0]	.
+rubber dinghy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3709,7 +3709,7 @@ rubber dinghy		<-->	noun+C2[-0]	.
 
 
 
-run		<-->	noun+C2[-0]	.
+run		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3733,7 +3733,7 @@ sailverbA2[-0]	.
 
 
 
-sail		<-->	noun+B1[-0]	.
+sail		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3745,7 +3745,7 @@ sail		<-->	noun+B1[-0]	.
 
 
 
-sailboat		<-->	noun+B2[-0]	.
+sailboat		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3757,7 +3757,7 @@ sailboat		<-->	noun+B2[-0]	.
 
 
 
-sailing		<-->	noun+A2[-0]	.
+sailing		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3769,7 +3769,7 @@ sailing		<-->	noun+A2[-0]	.
 
 
 
-sailing boat		<-->	noun+B2[-0]	.
+sailing boat		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3781,7 +3781,7 @@ sailing boat		<-->	noun+B2[-0]	.
 
 
 
-sailing ship		<-->	noun+B2[-0]	.
+sailing ship		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3793,7 +3793,7 @@ sailing ship		<-->	noun+B2[-0]	.
 
 
 
-sailor		<-->	noun+B1[-0]	.
+sailor		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3805,7 +3805,7 @@ sailor		<-->	noun+B1[-0]	.
 
 
 
-sampan		<-->	noun+C2[-0]	.
+sampan		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3817,7 +3817,7 @@ sampan		<-->	noun+C2[-0]	.
 
 
 
-schooner		<-->	noun+C2[-0]	.
+schooner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3829,7 +3829,7 @@ schooner		<-->	noun+C2[-0]	.
 
 
 
-screw		<-->	noun+C2[-0]	.
+screw		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3841,7 +3841,7 @@ screw		<-->	noun+C2[-0]	.
 
 
 
-scull		<-->	noun+C2[-0]	.
+scull		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3853,7 +3853,7 @@ scull		<-->	noun+C2[-0]	.
 
 
 
-scuttle		<-->	verb+C2	[221224][001]	./ˈskʌtl/-NAmE /ˈskʌtl/
+scuttle		<-->	verb++C2	[221224][001]	./ˈskʌtl/-NAmE /ˈskʌtl/
 	;chạy lúm túm -- (1) ​[intransitive] + adv./prep. to run with quick short steps [ap: scuttle]
 		;SYNONYM scurry
 		;She scuttled off when she heard the sound of his voice.
@@ -3874,7 +3874,7 @@ scuttle		<-->	verb+C2	[221224][001]	./ˈskʌtl/-NAmE /ˈskʌtl/
 
 
 
-sea		<-->	noun+A1[-0]	.
+sea		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3886,7 +3886,7 @@ sea		<-->	noun+A1[-0]	.
 
 
 
-seaborne		<-->	adjective+C2[-0]	.
+seaborne		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3898,7 +3898,7 @@ seaborne		<-->	adjective+C2[-0]	.
 
 
 
-SeaCat™		<-->	noun+C2[-0]	.
+SeaCat™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3910,7 +3910,7 @@ SeaCat™		<-->	noun+C2[-0]	.
 
 
 
-sea dog		<-->	noun+C2[-0]	.
+sea dog		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3922,7 +3922,7 @@ sea dog		<-->	noun+C2[-0]	.
 
 
 
-seafarer		<-->	noun+C2[-0]	.
+seafarer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3934,7 +3934,7 @@ seafarer		<-->	noun+C2[-0]	.
 
 
 
-seagoing		<-->	adjective+C2[-0]	.
+seagoing		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3946,7 +3946,7 @@ seagoing		<-->	adjective+C2[-0]	.
 
 
 
-sea lane		<-->	noun+C2[-0]	.
+sea lane		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3958,7 +3958,7 @@ sea lane		<-->	noun+C2[-0]	.
 
 
 
-sea legs		<-->	noun+C2[-0]	.
+sea legs		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3970,7 +3970,7 @@ sea legs		<-->	noun+C2[-0]	.
 
 
 
-sealift		<-->	noun+C2[-0]	.
+sealift		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3982,7 +3982,7 @@ sealift		<-->	noun+C2[-0]	.
 
 
 
-seaman		<-->	noun+C1[-0]	.
+seaman		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3994,7 +3994,7 @@ seaman		<-->	noun+C1[-0]	.
 
 
 
-seamanship		<-->	noun+C2[-0]	.
+seamanship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4006,7 +4006,7 @@ seamanship		<-->	noun+C2[-0]	.
 
 
 
-sea mile		<-->	noun+C2[-0]	.
+sea mile		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4018,7 +4018,7 @@ sea mile		<-->	noun+C2[-0]	.
 
 
 
-seaport		<-->	noun+C2[-0]	.
+seaport		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4030,7 +4030,7 @@ seaport		<-->	noun+C2[-0]	.
 
 
 
-seasick		<-->	adjective+B1[-0]	.
+seasick		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4042,7 +4042,7 @@ seasick		<-->	adjective+B1[-0]	.
 
 
 
-seasickness		<-->	noun+B2[-0]	.
+seasickness		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4054,7 +4054,7 @@ seasickness		<-->	noun+B2[-0]	.
 
 
 
-seaway		<-->	noun+C2[-0]	.
+seaway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4066,7 +4066,7 @@ seaway		<-->	noun+C2[-0]	.
 
 
 
-seaworthiness		<-->	noun+C2[-0]	.
+seaworthiness		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4078,7 +4078,7 @@ seaworthiness		<-->	noun+C2[-0]	.
 
 
 
-seaworthy		<-->	adjective+C2[-0]	.
+seaworthy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4090,7 +4090,7 @@ seaworthy		<-->	adjective+C2[-0]	.
 
 
 
-second-class		<-->	adjective+B1[-0]	.
+second-class		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4102,7 +4102,7 @@ second-class		<-->	adjective+B1[-0]	.
 
 
 
-shell		<-->	noun+C2[-0]	.
+shell		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4114,7 +4114,7 @@ shell		<-->	noun+C2[-0]	.
 
 
 
-ship		<-->	noun+A2[-0]	.
+ship		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4126,7 +4126,7 @@ ship		<-->	noun+A2[-0]	.
 
 
 
-shipboard		<-->	adjective+C2[-0]	.
+shipboard		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4138,7 +4138,7 @@ shipboard		<-->	adjective+C2[-0]	.
 
 
 
-shipload		<-->	noun+C2[-0]	.
+shipload		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4150,7 +4150,7 @@ shipload		<-->	noun+C2[-0]	.
 
 
 
-shipmate		<-->	noun+C2[-0]	.
+shipmate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4162,7 +4162,7 @@ shipmate		<-->	noun+C2[-0]	.
 
 
 
-shipowner		<-->	noun+C1[-0]	.
+shipowner		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4174,7 +4174,7 @@ shipowner		<-->	noun+C1[-0]	.
 
 
 
-shipper		<-->	noun+C2[-0]	.
+shipper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4186,7 +4186,7 @@ shipper		<-->	noun+C2[-0]	.
 
 
 
-shipping		<-->	noun+C1[-0]	.
+shipping		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4198,7 +4198,7 @@ shipping		<-->	noun+C1[-0]	.
 
 
 
-shipping forecast		<-->	noun+C2[-0]	.
+shipping forecast		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4210,7 +4210,7 @@ shipping forecast		<-->	noun+C2[-0]	.
 
 
 
-ship-to-shore		<-->	adjective+C2[-0]	.
+ship-to-shore		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4222,7 +4222,7 @@ ship-to-shore		<-->	adjective+C2[-0]	.
 
 
 
-shipwreck		<-->	noun+C1[-0]	.
+shipwreck		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4234,7 +4234,7 @@ shipwreck		<-->	noun+C1[-0]	.
 
 
 
-shipwreck		<-->	verb+C1	[221224][001]	./ˈʃɪprek/\-NAmE /ˈʃɪprek/ , be shipwrecked
+shipwreck		<-->	verb++C1	[221224][001]	./ˈʃɪprek/\-NAmE /ˈʃɪprek/ , be shipwrecked
 	;lái tàu đang chìm, chìm tàu -- (1) to be sailing in a ship that is then lost or destroyed at sea
 		;They were shipwrecked off the coast of Africa.
 		;TOPICS Transport by waterC1
@@ -4245,7 +4245,7 @@ shipwreck		<-->	verb+C1	[221224][001]	./ˈʃɪprek/\-NAmE /ˈʃɪprek/ , be ship
 
 
 
-shipyard		<-->	noun+C2[-0]	.
+shipyard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4257,7 +4257,7 @@ shipyard		<-->	noun+C2[-0]	.
 
 
 
-shoot the rapidsidiomC2[-0]	.
+shoot the rapids		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4269,7 +4269,7 @@ shoot the rapidsidiomC2[-0]	.
 
 
 
-shoreline		<-->	noun+C1[-0]	.
+shoreline		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4281,7 +4281,7 @@ shoreline		<-->	noun+C1[-0]	.
 
 
 
-showboat		<-->	noun+C2[-0]	.
+showboat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4293,7 +4293,7 @@ showboat		<-->	noun+C2[-0]	.
 
 
 
-sickbay		<-->	noun+C2[-0]	.
+sickbay		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4305,7 +4305,7 @@ sickbay		<-->	noun+C2[-0]	.
 
 
 
-skiff		<-->	noun+C2[-0]	.
+skiff		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4317,7 +4317,7 @@ skiff		<-->	noun+C2[-0]	.
 
 
 
-skipper		<-->	noun+C2[-0]	.
+skipper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4329,7 +4329,7 @@ skipper		<-->	noun+C2[-0]	.
 
 
 
-skipper		<-->	verb+C2	[221224][001]	./ˈskɪpə(r)/-NAmE /ˈskɪpər/
+skipper		<-->	verb++C2	[221224][001]	./ˈskɪpə(r)/-NAmE /ˈskɪpər/
 	;là thuyền trưởng tàu nhỏ -- (1) skipper something to be the captain of a boat, sports team, etc.
 		;to skipper a yacht
 		;(especially British English) He skippered the team to victory.
@@ -4348,7 +4348,7 @@ skipper		<-->	verb+C2	[221224][001]	./ˈskɪpə(r)/-NAmE /ˈskɪpər/
 
 
 
-slipway		<-->	noun+C2[-0]	.
+slipway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4360,7 +4360,7 @@ slipway		<-->	noun+C2[-0]	.
 
 
 
-sloop		<-->	noun+C2[-0]	.
+sloop		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4372,7 +4372,201 @@ sloop		<-->	noun+C2[-0]	.
 
 
 
-smack		<-->	noun+C2[-0]	.
+smack		<-->	noun++C2	[221231][001]	./smæk/-NAmE /smæk/\
+	;cái tát -- (1) [countable] (especially British English) a sharp hit given with your open hand, especially to a child as a punishment
+		;You'll get a smack on your backside if you're not careful.
+		;He longed to land her a good smack in the face.
+				;Oxford Collocations Dictionary
+				;adjective
+				;firmgoodhard…
+				;verb + smack
+				;give somebodyland (somebody)get…
+				;preposition
+				;with a smack
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+	;ma tuý heroin -- (5) [uncountable] (slang) the drug heroin
+		;smack addicts
+		;TOPICS Social issuesC2
+	;một thuyền đánh cá nhỏ -- (6) [countable] (British English) a small fishing boat
+		;TOPICS Transport by waterC2
+
+
+
+
+
+
+
+
+smokestack		<-->	noun++C2	[221231][001]	./ˈsməʊkstæk/-NAmE /ˈsməʊkstæk/ (especially North American English)
+	;ống khói -- (1) a tall chimney that takes away smoke from factories
+	;ống khói bằng kim loại -- (2) ​(also funnel) a metal chimney, for example on a ship or an engine, through which smoke comes out
+		;TOPICS Transport by waterC2
+	; -- (3) 
+
+
+
+
+
+
+
+
+SOS		<-->	noun++C2	[221231][001]	./ˌes əʊ ˈes/-NAmE /ˌes əʊ ˈes/ [singular]
+	;tín hiệu cấp cứu -- (1) a signal or message that a ship or plane sends when it needs help immediately
+		;to send an SOS
+		;an SOS message
+		;TOPICS Transport by waterC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+spar		<-->	noun++C2	[221231][001]	./spɑː(r)/-NAmE /spɑːr/\
+	;cột buồm -- (1) ​a strong pole used to support the sails, etc. on a ship
+		;TOPICS Transport by waterC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+speedboat		<-->	noun++C1	[221231][001]	./ˈspiːdbəʊt/-NAmE /ˈspiːdbəʊt/
+	;thuyền cao tốc -- (1) [image] a boat with a motor that can travel very fast
+		;TOPICS Transport by waterC1
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+stabilizer		<-->	noun++C2	[221231][001]	./ˈsteɪbəlaɪzə(r)/-NAmE /ˈsteɪbəlaɪzər/ (British English also stabiliser)
+	;vật giữa thăng bằng -- (1) [countable] a device that keeps something steady, especially one that stops an aircraft or a ship from rolling to one side
+		;TOPICS Transport by waterC2, Transport by airC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+starboard		<-->	noun++C2	[221231][001]	./ˈstɑːbəd/-NAmE /ˈstɑːrbərd/ [uncountable]
+	;mạn phải -- (1) the side of a ship or an aircraft that is on the right when you are facing forward
+		;COMPARE port
+		;TOPICS Transport by waterC2, Sports: water sportsC2
+				;Oxford Collocations Dictionary
+				;Starboard is used before these nouns:
+				;boutiquesidewing…
+		;See full entry
+		;Word Origin
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+stateroom		<-->	noun++C2	[221231][001]	./ˈsteɪtruːm/,  /ˈsteɪtrʊm/-NAmE /ˈsteɪtruːm/,  /ˈsteɪtrʊm/
+	;phòng riêng trên tàu -- (1) a private room on a large ship
+		;TOPICS Transport by waterC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+the waterline		<-->	noun++C2	[221231][001]	./ðə ˈwɔːtəlaɪn/-NAmE /ðə ˈwɔːtərlaɪn/ [singular]
+	;mực nước bên mạn tàu -- (1) the level that the water reaches along the side of a ship
+		;The ship was struck below the waterline by a single torpedo.
+		;(figurative) If the vote goes against her, the prime minister may well be holed below the waterline.
+		;TOPICS Transport by waterC2
+
+
+
+
+
+
+
+the high seas		<-->	noun++C2	[221231][001]	./ðə ˌhaɪ ˈsiːz/-NAmE /ðə ˌhaɪ ˈsiːz/ [plural] (formal or literary)
+	;vùng biển quốc tế -- (1) the open ocean, especially areas that are not under the legal control of any one country
+		;international laws to regulate fishing on the high seas
+		;a film about pirates seeking adventure on the high seas
+		;TOPICS Transport by waterC2, GeographyC2
+
+
+
+
+
+
+
+steamboat		<-->	noun++C2	[221231][001]	./ˈstiːmbəʊt/-NAmE /ˈstiːmbəʊt/
+	;tàu hơi nước -- (1) a boat driven by steam, used especially in the past on rivers and along coasts
+		;TOPICS Transport by waterC2
+
+
+
+
+
+
+
+steamer		<-->	noun++C2	[221231][001]	./ˈstiːmə(r)/-NAmE /ˈstiːmər/
+	;tàu hơi nước -- (1) a boat or ship driven by steam
+		;SEE ALSO paddle steamer
+		;In 1926 they boarded the steamer for home.
+		;TOPICS Transport by waterC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;coastallakeriver…
+				;verb + steamer
+				;board
+				;steamer + noun
+				;trunk
+				;preposition
+				;by steameron a/​the steameron board a/​the steamer…
+		;See full entry
+	;nồi hấp hơi -- (2) [image] a metal container with small holes in it, that is placed over a pan of boiling water in order to cook food in the steam
+		;TOPICS Cooking and eatingC2
+
+
+
+
+
+
+
+steamship		<-->	noun++C2	[221231][001]	./ˈstiːmʃɪp/-NAmE /ˈstiːmʃɪp/ (abbreviation SS)
+	;tàu hơi nước -- (1) a ship driven by steam
+		;TOPICS Transport by waterC2
+
+
+
+
+
+
+
+steer		<-->	verb++C1	[221224][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4384,8 +4578,23 @@ smack		<-->	noun+C2[-0]	.
 
 
 
-smokestack		<-->	noun+C2[-0]	.
-	; -- (1) 
+steerage		<-->	noun++C2	[221231][001]	./ˈstɪərɪdʒ/-NAmE /ˈstɪrɪdʒ/ [uncountable]
+	;khoang tàu lớp rẻ tiền -- (1) (in the past) the part of a ship where passengers with the cheapest tickets used to travel
+		;steerage passengers
+		;TOPICS Transport by waterC2
+
+
+
+
+
+
+
+
+
+stern		<-->	noun++C2	[221231][001]	./stɜːn/-NAmE /stɜːrn/-\
+	;đuôi tàu -- (1) the back end of a ship or boat
+		;COMPARE bow1, poop
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4396,8 +4605,20 @@ smokestack		<-->	noun+C2[-0]	.
 
 
 
-SOS		<-->	noun+C2[-0]	.
-	; -- (1) 
+steward		<-->	noun++C1	[221231][001]	./ˈstjuːəd/-NAmE /ˈstuːərd/
+	;bồi tàu xe -- (1) a person whose job is to take care of passengers on a ship, an aircraft or a train and who brings them meals, etc.
+		;a ship’s steward
+		;TOPICS Transport by waterC1, Transport by airC1, JobsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;chiefseniorair…
+				;verb + steward
+				;act aselect (somebody)
+				;steward + noun
+				;steward’s enquiry
+				;preposition
+				;steward to
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -4408,8 +4629,9 @@ SOS		<-->	noun+C2[-0]	.
 
 
 
-spar		<-->	noun+C2[-0]	.
-	; -- (1) 
+stowage		<-->	noun++C2	[221231][001]	./ˈstəʊɪdʒ/-NAmE /ˈstəʊɪdʒ/ [uncountable]
+	;tủ đồ trên tàu xe -- (1) space provided for stowing things away, in a boat or a plane
+		;TOPICS Transport by waterC2, Transport by airC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4420,175 +4642,7 @@ spar		<-->	noun+C2[-0]	.
 
 
 
-speedboat		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-stabilizer		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-starboard		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-stateroom		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-the waterline		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-the high seas		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-steamboat		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-steamer		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-steamship		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-steer		<-->	verb+C1	[221224][001]	./cef/
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-steerage		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-stern		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-steward		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-stowage		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-stow away		<-->	phrasal verb+C2	[221031][001]	./stəʊ/-NAmE /stəʊ/
+stow away		<-->	phrasal verb++C2	[221031][001]	./stəʊ/-NAmE /stəʊ/
 	;trốn lên tàu, máy bay -- (1) ​to hide in a ship, plane, etc. in order to travel secretly
 		;At the age of 13 he had stowed away on a ship bound for Rio.
 		;RELATED NOUN stowaway
@@ -4603,8 +4657,9 @@ stow away		<-->	phrasal verb+C2	[221031][001]	./stəʊ/-NAmE /stəʊ/
 
 
 
-stowaway		<-->	noun+C2[-0]	.
-	; -- (1) 
+stowaway		<-->	noun++C2	[221231][001]	./ˈstəʊəweɪ/-NAmE /ˈstəʊəweɪ/
+	;người đi lậu tàu -- (1) ​a person who hides in a ship or plane before it leaves, in order to travel without paying or being seen
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4615,7 +4670,7 @@ stowaway		<-->	noun+C2[-0]	.
 
 
 
-strand		<-->	verb+C1	[221031][001]	./strænd/-NAmE /strænd/ [usually passive]
+strand		<-->	verb++C1	[221031][001]	./strænd/-NAmE /strænd/ [usually passive]
 	;bỏ rơi, để mắc kẹt -- (1) ​strand somebody to leave somebody in a place from which they have no way of leaving
 		;The strike left hundreds of tourists stranded at the airport.
 	;để mắc cạn -- (2) strand something to make a boat, fish, whale, etc. be left on land and unable to return to the water
@@ -4630,7 +4685,206 @@ strand		<-->	verb+C1	[221031][001]	./strænd/-NAmE /strænd/ [usually passive]
 
 
 
-stroke		<-->	noun+C1[-0]	.
+stroke		<-->	noun++C1	[221231][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;sãi -- (5) 
+
+
+
+
+
+
+
+
+submarine		<-->	noun++C1	[221231][001]	./ˌsʌbməˈriːn/,  /ˈsʌbməriːn/-NAmE /ˌsʌbməˈriːn/,  /ˈsʌbməriːn/ also informal sub)
+	;tàu ngầm -- (1) a ship that can travel underwater
+		;a nuclear submarine
+		;a submarine base
+		;submarines carrying nuclear warheads
+		;the problem of submarines operating too close to fishing vessels
+		;Wordfinder: admiralaircraft carrierbasecaptaincommandfleetnavysubmarinetorpedowarship
+		;TOPICS Transport by waterC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;conventionalatomicballistic-missile…
+				;submarine + verb
+				;divesinksurface…
+				;submarine + noun
+				;captaincommandercrew…
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+submariner		<-->	noun++C2	[221231][001]	./sʌbˈmærɪnə(r)/-NAmE /sʌbˈmærɪnər/,  /ˌsʌbməˈriːnər/
+	;thuỷ thủ tàu ngầm -- (1) a sailor who works on a submarine
+		;TOPICS Transport by waterC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+submersible		<-->	noun++C2	[221231][001]	./səbˈmɜːsəbl/-NAmE /səbˈmɜːrsəbl/-\
+	;tàu ngầm -- (1) a submarine (= a ship that can travel underwater) that goes underwater for short periods
+		;TOPICS Transport by waterC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+sun deck		<-->	noun++C2	[221231][001]	./ˈsʌn dek/-NAmE /ˈsʌn dek/
+	;bong tàu để ngắm cảnh -- (1) the part of a ship where passengers can sit to enjoy the sun, or a similar area next to a restaurant or swimming pool
+		;TOPICS Transport by waterC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+supertanker		<-->	noun++C2	[221231][001]	./ˈsuːpətæŋkə(r)/-NAmE /ˈsuːpərtæŋkər/
+	;tàu dầu -- (1) a very large ship for carrying oil, etc.
+		;TOPICS Transport by waterC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+swing bridge		<-->	noun++C2	[221231][001]	./ˈswɪŋ brɪdʒ/-NAmE /ˈswɪŋ brɪdʒ/
+	;cầu cánh -- (1) ​a bridge that can be moved to one side to allow tall ships to pass
+		;TOPICS Transport by waterC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+tack		<-->	noun++C2	[221231][001]	./tæk/-NAmE /tæk
+	;chiến thuật -- (1) [uncountable, singular] the way in which you deal with a particular situation; the direction of your words or thoughts
+		;a complete change of tack
+		;It was a brave decision to change tack in the middle of the project.
+		;When threats failed, she decided to try/take a different tack.
+		;His thoughts wandered off on another tack.
+		;I find gentle persuasion is the best tack.
+				;Oxford Collocations Dictionary
+				;adjective
+				;rightwrongdifferent…
+				;verb + tack
+				;adoptgo off ontake…
+				;preposition
+				;on a/​the tack
+				;phrases
+				;a change of tack
+		;See full entry
+	;hướng buồm thuận??? -- (2) ​[countable, uncountable] (specialist) the direction that a boat with sails takes as it sails at an angle to the wind in order to fill its sails
+		;They were sailing on (a) port/starboard tack (= with the wind coming from the left/right side).
+		;The yacht swung to the opposite tack.
+		;TOPICS Transport by waterC2
+	; -- (3) 
+
+
+
+
+
+
+
+
+take (over) the helm		<-->	idiom++C2	[221231][001]	./i/
+	; -- (1) 
+	;bắt đầu lái buồm -- (2) to begin controlling the direction in which a boat or ship moves
+		;TOPICS Transport by waterC2
+	; -- (3) 
+
+
+
+
+
+
+
+
+tanker		<-->	noun++C1	[221231][001]	./ˈtæŋkə(r)/-NAmE /ˈtæŋkər/
+	;tàu xe lớn chở dầu -- (1) enlarge imagea ship or lorry that carries oil, gas or petrol in large quantities
+		;an oil tanker
+		;SEE ALSO supertanker
+		;Extra Examples:
+		;A damaged tanker has spilled millions of gallons of oil into the sea.
+		;The tanker ran aground in heavy seas and is breaking up on the rocks.
+		;a tanker carrying thousands of tons of crude oil
+		;TOPICS Transport by car or lorryC1, Transport by waterC1, The environmentC1
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+tender		<-->	noun++C2	[221231][001]	./ˈtendə(r)/-NAmE /ˈtendər/*\
+	;một giá thầu đề xuất -- (1) a formal offer to supply goods or do work at a stated price
+		;SYNONYM bid1
+		;Cleaning services have been put out to tender (= companies have been asked to make offers to supply these services).
+		;a competitive tender
+		;A local firm submitted the lowest tender.
+		;The bus company is inviting tenders for a number of new buses.
+		;Extra Examples
+		;The building of the new school will go out to tender.
+		;The property is to be sold by tender.
+				;Oxford Collocations Dictionary
+				;adjective
+				;highestlowestsuccessful…
+				;verb + tender
+				;makeput insubmit…
+				;tender + noun
+				;offerdocumentprice…
+				;preposition
+				;by tender
+		;See full entry
+	; -- (2) 
+	;một loại tàu nhỏ -- (3) a small boat, used for carrying people or goods between a larger boat and land
+		;TOPICS Transport by waterC2
+		;SEE ALSO legal tender
+		;Word Origin
+
+
+
+
+
+
+
+
+terminal		<-->	noun++B2	[221231][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4642,7 +4896,49 @@ stroke		<-->	noun+C1[-0]	.
 
 
 
-submarine		<-->	noun+C1[-0]	.
+third class		<-->	noun++B1	[221231][001]	./ˌθɜːd ˈklɑːs/-NAmE /ˌθɜːrd ˈklæs/
+	;hạng rẻ tiền -- (1) [uncountable, singular] (especially in the past) the cheapest and least comfortable part of a train, ship, etc.
+		;TOPICS Transport by waterB1
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+third-class		<-->	adjective++B1	[221231][001]	./ˌθɜːd ˈklɑːs/-NAmE /ˌθɜːrd ˈklæs/
+	;hạng rẻ tiền -- (1) ​(especially in the past) connected with the cheapest and least comfortable way of travelling on a train, ship, etc.
+		;TOPICS Transport by waterB1
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+tidal		<-->	adjective++C1	[221231][001]	./ˈtaɪdl/-NAmE /ˈtaɪdl/	
+	;c. thuỷ triều -- (1) connected with tides (= the regular rise and fall of the sea)
+		;tidal forces/energy
+		;a tidal river
+		;TOPICS Transport by waterC1, GeographyC1
+				;Oxford Collocations Dictionary
+				;Tidal is used with these nouns:
+				;creekcurrentflat…
+		;See full entry
+
+
+
+
+
+
+
+tide		<-->	noun++C1	[221231][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4654,7 +4950,45 @@ submarine		<-->	noun+C1[-0]	.
 
 
 
-submariner		<-->	noun+C2[-0]	.
+tideline		<-->	noun++C2	[221231][001]	./ˈtaɪdlaɪn/-NAmE /ˈtaɪdlaɪn/
+	;đường đỉnh thuỷ triều -- (1) a line left or reached by the sea when the tide is at its highest point
+		;TOPICS Transport by waterC2, GeographyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+tidemark		<-->	noun++C2	[221231][001]	./ˈtaɪdmɑːk/-NAmE /ˈtaɪdmɑːrk/
+	;đường đỉnh thuỷ triều -- (1) ​a line that is made by the sea on a beach at the highest point that the sea reaches
+		;TOPICS Transport by waterC2, GeographyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+tiller		<-->	noun++C2	[221231][001]	./ˈtɪlə(r)/-NAmE /ˈtɪlər/
+	;cây điều khiển bánh lái -- (1) a bar that is used to turn the rudder of a small boat in order to control the direction in which it moves
+		;COMPARE helm
+		;TOPICS Transport by waterC2
+		;Word Origin
+
+
+
+
+
+
+
+timber		<-->	noun++C2	[221231][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4666,8 +5000,10 @@ submariner		<-->	noun+C2[-0]	.
 
 
 
-submersible		<-->	noun+C2[-0]	.
-	; -- (1) 
+tonnage		<-->	noun++C2	[221231][001]	./ˈtʌnɪdʒ/-NAmE /ˈtʌnɪdʒ/ [uncountable, countable]
+	;tải trọng -- (1) the size of a ship or the amount it can carry, expressed in tons or tonnes
+		;TOPICS Transport by waterC2
+		;<< load, tonnage, payload, >>
 	; -- (2) 
 	; -- (3) 
 
@@ -4678,8 +5014,9 @@ submersible		<-->	noun+C2[-0]	.
 
 
 
-sun deck		<-->	noun+C2[-0]	.
-	; -- (1) 
+topsail		<-->	noun++C2	[221231][001]	./ˈtɒpseɪl/,  /ˈtɒpsl/-NAmE /ˈtɑːpseɪl/,  /ˈtɑːpsl/ [usually singular]
+	;cánh buồm trên??? -- (1) the sail attached to the upper part of the mast of a ship
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4690,211 +5027,7 @@ sun deck		<-->	noun+C2[-0]	.
 
 
 
-supertanker		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-swing bridge		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-tack		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-take (over) the helmidiomC2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-tanker		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-tender		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-terminal		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-third class		<-->	noun+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-third-class		<-->	adjective+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-tidal		<-->	adjective+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-tide		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-tideline		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-tidemark		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-tiller		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-timber		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-tonnage		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-topsail		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-tow		<-->	verb+C2	[221031][001]	./təʊ/-NAmE /təʊ/
+tow		<-->	verb++C2	[221031][001]	./təʊ/-NAmE /təʊ/
 	;kéo, lai dắt -- (1) ​tow something (+ adv./prep.) to pull a car, boat, etc. behind another vehicle, using a rope or chain
 		;Our car was towed away by the police.
 		;A glider was being towed into the air.
@@ -4913,8 +5046,9 @@ tow		<-->	verb+C2	[221031][001]	./təʊ/-NAmE /təʊ/
 
 
 
-trade route		<-->	noun+C1[-0]	.
-	; -- (1) 
+trade route		<-->	noun++C1	[221231][001]	./ˈtreɪd ruːt/-NAmE /ˈtreɪd ruːt/,  /ˈtreɪd raʊt/
+	;cầu thương mại??? -- (1) (in the past) the route that people buying and selling goods used to take across land or sea
+		;TOPICS Transport by waterC1
 	; -- (2) 
 	; -- (3) 
 
@@ -4925,8 +5059,40 @@ trade route		<-->	noun+C1[-0]	.
 
 
 
-transport		<-->	noun+C2[-0]	.
+transport		<-->	noun++C2	[221231][001]	./cef/
 	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;tàu xe... -- (4) 
+
+
+
+
+
+
+
+
+trawl		<-->	noun++C2	[221231][001]	./trɔːl/-NAmE /trɔːl/
+	;việc tìm kiếm trong nhiều thông tin -- (1) ​a search through a large amount of information, documents, etc.
+		;A quick trawl through the newspapers yielded five suitable job adverts.
+	;loại lưới cá lớn -- (2) (also trawl net) a large net with a wide opening, that is dragged along the bottom of the sea by a boat in order to catch fish
+		;TOPICS Transport by waterC2
+	; -- (3) 
+
+
+
+
+
+
+
+
+trawler		<-->	noun++C2	[221231][001]	./ˈtrɔːlə(r)/-NAmE /ˈtrɔːlər/
+	;tàu đánh cá -- (1) a fishing boat that uses large nets that it drags through the sea behind it
+		;TOPICS Transport by waterC2
+				;Oxford Collocations Dictionary
+				;Trawler is used after these nouns:
+				;fishing
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -4937,8 +5103,9 @@ transport		<-->	noun+C2[-0]	.
 
 
 
-trawl		<-->	noun+C2[-0]	.
-	; -- (1) 
+trimaran		<-->	noun++C2	[221231][001]	./ˈtraɪməræn/-NAmE /ˈtraɪməræn/
+	;một loại thuyền buồm??? -- (1) a fast sailing boat like a catamaran, but with three hulls instead of two
+		;TOPICS Transport by waterC2, Sports: water sportsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4949,8 +5116,9 @@ trawl		<-->	noun+C2[-0]	.
 
 
 
-trawler		<-->	noun+C2[-0]	.
-	; -- (1) 
+trim your sails		<-->	idiom++C2	[221231][001]	./i/
+	;lái buồm cho hợp với chiều gió -- (1) to arrange the sails of a boat to suit the wind so that the boat moves faster
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4961,8 +5129,9 @@ trawler		<-->	noun+C2[-0]	.
 
 
 
-trimaran		<-->	noun+C2[-0]	.
-	; -- (1) 
+troopship		<-->	noun++C2	[221231][001]	./ˈtruːpʃɪp/-NAmE /ˈtruːpʃɪp/
+	;tàu đổ bộ, tàu chở lính -- (1) a ship used for transporting soldiers
+		;TOPICS Transport by waterC2, War and conflictC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4973,8 +5142,25 @@ trimaran		<-->	noun+C2[-0]	.
 
 
 
-trim your sailsidiomC2[-0]	.
-	; -- (1) 
+
+
+
+tug		<-->	verb++	[221231][001]	./tʌɡ/-NAmE /tʌɡ/\
+	;kéo -- (1) [intransitive, transitive] to pull something hard, often several times
+		;tug (at/on something) She tugged at his sleeve to get his attention.
+		;tug something The baby was tugging her hair.
+		;tug something + adj. He tugged the door open.
+		;[a: tug]
+		;Extra Examples:
+		;Alexis was up in a flash, tugging on his arm.
+		;She playfully tugged at his shirt.
+		;He tugged harder, but it was caught fast.
+				;Oxford Collocations Dictionary
+				;adverb
+				;gentlylightlyhard…
+				;preposition
+				;atbyon…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -4985,8 +5171,17 @@ trim your sailsidiomC2[-0]	.
 
 
 
-troopship		<-->	noun+C2[-0]	.
-	; -- (1) 
+
+
+
+
+
+
+
+
+tug		<-->	noun++C2	[221231][001]	./tʌɡ/-NAmE /tʌɡ/\
+	;tàu kéo -- (1) ​enlarge image (also tugboat  /ˈtʌɡbəʊt/-NAmE /ˈtʌɡbəʊt/ ) a small powerful boat for pulling ships, especially into a harbour or up a river
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4997,10 +5192,14 @@ troopship		<-->	noun+C2[-0]	.
 
 
 
-tug		<-->	noun+C2[-0]	.
-	; -- (1) 
+turnaround		<-->	noun++C2	[221231][001]	./ˈtɜːnəraʊnd/-NAmE /ˈtɜːrnəraʊnd/ (British English also turnround) [usually singular]
+	;thời gian giữa kết thúc-bắt đầu chuyến -- (1) the amount of time it takes to unload a ship or plane at the end of one journey and load it again for the next one
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
+	;sự thay đổi, quay ngoắc -- (4) a complete change in somebody’s opinion, behaviour, etc.
+		;They remain suspicious about the government's turnround on education policy.
+		;TOPICS Opinion and argumentC2
 
 
 
@@ -5009,10 +5208,14 @@ tug		<-->	noun+C2[-0]	.
 
 
 
-turnaround		<-->	noun+C2[-0]	.
-	; -- (1) 
+turnround		<-->	noun++C2	[221231][001]	./ˈtɜːnraʊnd/-NAmE /ˈtɜːrnraʊnd/ (British English) (also turnaround British and North American English)
+	;thời gian giữa kết thúc-bắt đầu chuyến -- (1) the amount of time it takes to unload a ship or plane at the end of one journey and load it again for the next one
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
+	;sự thay đổi, quay ngoắc -- (4) a complete change in somebody’s opinion, behaviour, etc.
+		;They remain suspicious about the government's turnround on education policy.
+		;TOPICS Opinion and argumentC2
 
 
 
@@ -5021,19 +5224,7 @@ turnaround		<-->	noun+C2[-0]	.
 
 
 
-turnround		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-U-boat		<-->	noun+C2	[221031][001]	./ˈjuː bəʊt/-NAmE /ˈjuː bəʊt/
+U-boat		<-->	noun++C2	[221031][001]	./ˈjuː bəʊt/-NAmE /ˈjuː bəʊt/
 	;tàu ngầm Đức -- (1) a German submarine (= a ship that can travel underwater)
 		;TOPICS Transport by waterC2
 	; -- (2) 
@@ -5046,7 +5237,7 @@ U-boat		<-->	noun+C2	[221031][001]	./ˈjuː bəʊt/-NAmE /ˈjuː bəʊt/
 
 
 
-unload		<-->	verb+B2	[221031][001]	./ˌʌnˈləʊd/-NAmE /ˌʌnˈləʊd/
+unload		<-->	verb++B2	[221031][001]	./ˌʌnˈləʊd/-NAmE /ˌʌnˈləʊd/
 	;dỡ hàng -- (1) [transitive, intransitive] to remove things from a vehicle or ship after it has taken them somewhere
 		;unload something from something Everyone helped to unload the luggage from the car.
 		;unload (something) This isn't a suitable place to unload the van.
@@ -5063,7 +5254,7 @@ unload		<-->	verb+B2	[221031][001]	./ˌʌnˈləʊd/-NAmE /ˌʌnˈləʊd/
 
 
 
-up-anchor		<-->	verb+C2	[221031][001]	./ˌʌp ˈæŋkə(r)/-NAmE /ˌʌp ˈæŋkər/ [intransitive]
+up-anchor		<-->	verb++C2	[221031][001]	./ˌʌp ˈæŋkə(r)/-NAmE /ˌʌp ˈæŋkər/ [intransitive]
 	;nhổ neo -- (1) (of a ship or its crew) to raise the anchor from the water in order to be ready to sail
 		;TOPICS Transport by waterC2
 	; -- (2) 
@@ -5076,7 +5267,7 @@ up-anchor		<-->	verb+C2	[221031][001]	./ˌʌp ˈæŋkə(r)/-NAmE /ˌʌp ˈæŋk�
 
 
 
-vessel		<-->	noun+C1[-0]	.
+vessel		<-->	noun++C1	[221231][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5088,10 +5279,27 @@ vessel		<-->	noun+C1[-0]	.
 
 
 
-voyage		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+voyage		<-->	noun++B2	[221231][001]	./ˈvɔɪɪdʒ/-NAmE /ˈvɔɪɪdʒ/
+	;chuyến du hành -- (1) a long journey, especially by sea or in space
+		;an around-the-world voyage
+		;a voyage in space
+		;The Titanic sank on its maiden voyage (= first journey).
+		;(figurative) Going to college can be a voyage of self-discovery.
+		;Darwin’s epic voyage of exploration
+		;Wordfinder: colonizediscoverexplorepioneerreconnaissancescoutsettleterrainterritoryvoyage
+		;Extra Examples:
+		;TOPICS Transport by waterB2, SpaceB2, HolidaysB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;epicgreatlong…
+				;verb + voyage
+				;embark ongo onmake…
+				;preposition
+				;during a/​the voyageon a/​the voyagevoyage from…
+				;phrases
+				;a voyage of discovery
+		;See full entry
+		;Word Origin
 
 
 
@@ -5099,12 +5307,10 @@ voyage		<-->	noun+B2[-0]	.
 
 
 
-
-voyager		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+voyager		<-->	noun++C2	[221231][001]	./ˈvɔɪɪdʒə(r)/-NAmE /ˈvɔɪɪdʒər/ (old-fashioned or literary)
+	;nhà du hành -- (1) ​a person who goes on a long journey, especially by sea or in space to unknown parts of the world or universe
+		;The early voyagers thought they had landed on the Indian coast.
+		;TOPICS Transport by waterC2
 
 
 
@@ -5112,10 +5318,11 @@ voyager		<-->	noun+C2[-0]	.
 
 
 
-wake		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+wake		<-->	noun++C2	[221231][001]	./weɪk/-NAmE /weɪk/\
+	;??? -- (1) an occasion before or after a funeral when people gather to remember the dead person, traditionally held the night before the funeral to watch over the body before it is buried
+		;TOPICS Life stagesC2
+	;sóng do tàu gây ra -- (2) the track that a boat or ship leaves behind on the surface of the water
+		;TOPICS Transport by waterC2
 
 
 
@@ -5123,9 +5330,7 @@ wake		<-->	noun+C2[-0]	.
 
 
 
-
-wardroom		<-->	noun+C2[-0]	./ˈwɔːdruːm/,  /ˈwɔːdrʊm/
- /ˈwɔːrdruːm/,  /ˈwɔːrdrʊm/
+wardroom		<-->	noun++C2	[221231][001]	./ˈwɔːdruːm/,  /ˈwɔːdrʊm/-NAmE /ˈwɔːrdruːm/,  /ˈwɔːrdrʊm/
 	;buồng nhỏ trên tàu -- (1) a room in a ship, especially a warship, where the officers live and eat
 		;TOPICS Transport by waterC2
 
@@ -5135,8 +5340,7 @@ wardroom		<-->	noun+C2[-0]	./ˈwɔːdruːm/,  /ˈwɔːdrʊm/
 
 
 
-warship		<-->	noun+B2[-0]	./ˈwɔːʃɪp/
- /ˈwɔːrʃɪp/	
+warship		<-->	noun++B2	[221231][001]	./ˈwɔːʃɪp/-NAmE /ˈwɔːrʃɪp/	
 	;tàu chiến -- (1) a ship that has weapons and that is used in war
 		;A total of 18 warships were sunk or heavily damaged.
 		;Germany lost two warships during this attack.
@@ -5160,7 +5364,7 @@ warship		<-->	noun+B2[-0]	./ˈwɔːʃɪp/
 
 
 
-wash		<-->	noun+C2[-0]	./cef/
+wash		<-->	noun++C2	[221231][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5172,7 +5376,7 @@ wash		<-->	noun+C2[-0]	./cef/
 
 
 
-water		<-->	noun+A1[-0]	./cef/
+water		<-->	noun++A1	[221231][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5184,8 +5388,7 @@ water		<-->	noun+A1[-0]	./cef/
 
 
 
-wet dock		<-->	noun+C2[-0]	./ˈwet dɒk/
- /ˈwet dɑːk/
+wet dock		<-->	noun++C2	[221231][001]	./ˈwet dɒk/-NAmE /ˈwet dɑːk/
 	;bãi sửa tàu, ụ tàu -- (1) a place for ships to stay in order to be repaired, have goods put onto them, etc., in which there is enough water for the ship to float
 		;COMPARE dry dock
 		;TOPICS Transport by waterC2
@@ -5196,8 +5399,7 @@ wet dock		<-->	noun+C2[-0]	./ˈwet dɒk/
 
 
 
-whaler		<-->	noun+C2[-0]	./ˈweɪlə(r)/
- /ˈweɪlər/
+whaler		<-->	noun++C2	[221231][001]	./ˈweɪlə(r)/-NAmE /ˈweɪlər/
 	;tàu săn cá voi -- (1) ​a ship used for hunting whales
 		;TOPICS Transport by waterC2
 
@@ -5207,8 +5409,7 @@ whaler		<-->	noun+C2[-0]	./ˈweɪlə(r)/
 
 
 
-wharf		<-->	noun+C2[-0]	./wɔːf/
- /wɔːrf/ (plural wharves  /wɔːvz/  /wɔːrvz/, wharfs)
+wharf		<-->	noun++C2	[221231][001]	./wɔːf/-NAmE /wɔːrf/ (plural wharves  /wɔːvz/  /wɔːrvz/, wharfs)
 	;cầu cảng, cầu tàu -- (1) a flat structure built next to the sea or a river where boats can be tied up and goods unloaded
 		;TOPICS Transport by waterC2, GeographyC2
 
@@ -5218,7 +5419,7 @@ wharf		<-->	noun+C2[-0]	./wɔːf/
 
 
 
-wheel		<-->	noun+B1[-0]	./cef/
+wheel		<-->	noun++B1	[221231][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5230,8 +5431,7 @@ wheel		<-->	noun+B1[-0]	./cef/
 
 
 
-wheelhouse		<-->	noun+C2[-0]	./ˈwiːlhaʊs/
- /ˈwiːlhaʊs/
+wheelhouse		<-->	noun++C2	[221231][001]	./ˈwiːlhaʊs/-NAmE /ˈwiːlhaʊs/
 	;buồng lái -- (1) a small cabin with walls and a roof on a ship where the person controlling the direction in which the ship moves stands at the wheel
 		;TOPICS Transport by waterC2
 	; -- (2) 
@@ -5244,7 +5444,7 @@ wheelhouse		<-->	noun+C2[-0]	./ˈwiːlhaʊs/
 
 
 
-wreck		<-->	noun+C1	[221224][001]	./rek/-NAmE /rek/ [orw.101]
+wreck		<-->	noun++C1	[221224][001]	./rek/-NAmE /rek/ [orw.101]
 	;tàu đắm -- (1) a ship that has sunk or that has been very badly damaged
 		;They're going to try and raise the wreck from the seabed.
 		;SEE ALSO shipwreck
@@ -5290,8 +5490,7 @@ wreck		<-->	noun+C1	[221224][001]	./rek/-NAmE /rek/ [orw.101]
 
 
 
-yacht		<-->	noun+B2[-0]	./jɒt/
- /jɑːt/ (North American English also sailboat)
+yacht		<-->	noun++B2	[221231][001]	./jɒt/-NAmE /jɑːt/ (North American English also sailboat)
 	;du thuyền -- (1) a large sailing boat, often also with an engine and a place to sleep on board, used for pleasure trips and racing
 		;a yacht club/race
 		;a motor yacht
@@ -5318,7 +5517,7 @@ yacht		<-->	noun+B2[-0]	./jɒt/
 
 
 
-yard		<-->	noun+C2[-0]	./cef/
+yard		<-->	noun++C2	[221231][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5331,8 +5530,7 @@ yard		<-->	noun+C2[-0]	./cef/
 
 
 
-yaw		<-->	noun+C2[-0]	./jɔː/
- /jɔː/ [countable, uncountable] (specialist)
+yaw		<-->	noun++C2	[221231][001]	./jɔː/-NAmE /jɔː/ [countable, uncountable] (specialist)
 	;việc nghiêng, mất ổn định tàu xe -- (1) the action of a ship or plane turning to one side, away from a straight course, in an unsteady way
 		;TOPICS Transport by waterC2
 
@@ -5342,7 +5540,7 @@ yaw		<-->	noun+C2[-0]	./jɔː/
 
 
 
-yaw		<-->	verb+C2	[221031][001]	./jɔː/\-NAmE /jɔː/ [intransitive] (specialist)
+yaw		<-->	verb++C2	[221031][001]	./jɔː/\-NAmE /jɔː/ [intransitive] (specialist)
 	;nghiêng một bên -- (1) (of a ship or plane) to turn to one side, away from a straight course, in an unsteady way
 		;TOPICS Transport by waterC2
 	; -- (2) 
