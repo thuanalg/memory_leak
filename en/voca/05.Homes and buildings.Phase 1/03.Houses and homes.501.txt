@@ -1,5 +1,5 @@
 	2022-07-14, Thu
-accommodation		<-->	noun+B1	[220829][001]	./əˌkɒməˈdeɪʃn/-NAmE /əˌkɑːməˈdeɪʃn/
+accommodation		<-->	noun++B1	[220829][001]	./əˌkɒməˈdeɪʃn/-NAmE /əˌkɑːməˈdeɪʃn/
 	;chỗ ở: nhà, ... -- [uncountable] (British English) a place to live, work or stay in
 		;rented/temporary accommodation
 		;Hotel accommodation is included in the price of your holiday.
@@ -24,7 +24,7 @@ accommodation		<-->	noun+B1	[220829][001]	./əˌkɒməˈdeɪʃn/-NAmE /əˌkɑː
 
 
 
-aerial		<-->	noun+C1	[220829][001]	./ˈeəriəl/-NAmE /ˈeriəl/
+aerial		<-->	noun++C1	[220829][001]	./ˈeəriəl/-NAmE /ˈeriəl/
 	;antenna -- (especially British English) (also antenna especially in North American English) ​enlarge imagea piece of equipment made of wire or long straight pieces of metal for receiving or sending radio and television signals
 		;a forest of television aerials on the roofs
 		;TOPICS Houses and homesC1
@@ -38,7 +38,7 @@ aerial		<-->	noun+C1	[220829][001]	./ˈeəriəl/-NAmE /ˈeriəl/
 
 
 
-affordable housing		<-->	noun+C1	[220829][001]	./əˌfɔːdəbl ˈhaʊzɪŋ/-NAmE /əˌfɔːrdəbl ˈhaʊzɪŋ/
+affordable housing		<-->	noun++C1	[220829][001]	./əˌfɔːdəbl ˈhaʊzɪŋ/-NAmE /əˌfɔːrdəbl ˈhaʊzɪŋ/
 	;nhà xã hội -- [uncountable] houses or flats that are available for people on low incomes to buy or rent at a low price, especially because the government has required house-building companies to offer a certain number of new properties at lower prices
 		;The city needs more affordable housing for families on low incomes.
 		;The shortage of affordable housing has caused an increase in the number of homeless people.
@@ -49,7 +49,7 @@ affordable housing		<-->	noun+C1	[220829][001]	./əˌfɔːdəbl ˈhaʊzɪŋ/-NAm
 
 
 
-A-frame		<-->	noun+C2	[220829][001]	./ˈeɪ freɪm/-NAmE /ˈeɪ freɪm/ (also A-frame house)
+A-frame		<-->	noun++C2	[220829][001]	./ˈeɪ freɪm/-NAmE /ˈeɪ freɪm/ (also A-frame house)
 	;nhà mái dốc -- ​enlarge imagea house with very steep((of a slope, hill, etc.) rising or falling quickly) sides that meet at the top in the shape of the letter A
 		;TOPICS Houses and homesC2
 				;Oxford Collocations Dictionary
@@ -60,7 +60,7 @@ A-frame		<-->	noun+C2	[220829][001]	./ˈeɪ freɪm/-NAmE /ˈeɪ freɪm/ (also A-
 
 
 
-air-conditioned		<-->	adjective+B2	[220829][001]	./ˈeə kəndɪʃnd/-NAmE /ˈer kəndɪʃnd/
+air-conditioned		<-->	adjective++B2	[220829][001]	./ˈeə kəndɪʃnd/-NAmE /ˈer kəndɪʃnd/
 	;có điều hoà -- ​(of a building or car) having a system that cools and dries the air inside it
 		;air-conditioned offices
 		;The restaurant is fully air-conditioned.
@@ -70,7 +70,7 @@ air-conditioned		<-->	adjective+B2	[220829][001]	./ˈeə kəndɪʃnd/-NAmE /ˈer
 
 
 
-air conditioning		<-->	noun+B2	[220829][001]	./ˈeə kəndɪʃənɪŋ/-NAmE /ˈer kəndɪʃənɪŋ/
+air conditioning		<-->	noun++B2	[220829][001]	./ˈeə kəndɪʃənɪŋ/-NAmE /ˈer kəndɪʃənɪŋ/
 	;hệ thống điều hoà -- a system that cools and dries the air in a building or car
 		;Is the air conditioning on?
 		;SEE ALSO climate control
@@ -83,7 +83,7 @@ air conditioning		<-->	noun+B2	[220829][001]	./ˈeə kəndɪʃənɪŋ/-NAmE /ˈe
 
 
 
-alarm		<-->	noun+B1	[220829][001]	./əˈlɑːm/-NAmE /əˈlɑːrm/
+alarm		<-->	noun++B1	[220829][001]	./əˈlɑːm/-NAmE /əˈlɑːrm/
 	;tiếng cảnh báo --   [countable, usually singular] a loud noise or a signal that warns people of danger or of a problem
 		;She decided to sound the alarm (= warn people that the situation was dangerous).
 		;I hammered on all the doors to raise the alarm.
@@ -103,7 +103,7 @@ alarm		<-->	noun+B1	[220829][001]	./əˈlɑːm/-NAmE /əˈlɑːrm/
 
 
 
-alcove		<-->	noun+C2	[220829][001]	./ˈælkəʊv/-NAmE /ˈælkəʊv/
+alcove		<-->	noun++C2	[220829][001]	./ˈælkəʊv/-NAmE /ˈælkəʊv/
 	;hóc tường -- an area in a room that is formed by part of a wall being built further back than the rest of the wall
 		;The bookcase fits neatly into the alcove.
 		;TOPICS Houses and homesC2
@@ -112,14 +112,14 @@ alcove		<-->	noun+C2	[220829][001]	./ˈælkəʊv/-NAmE /ˈælkəʊv/
 
 
 
-almshouse		<-->	noun+C2	[220829][001]	./ˈɑːmzhaʊs/-NAmE /ˈɑːmzhaʊs/
+almshouse		<-->	noun++C2	[220829][001]	./ˈɑːmzhaʊs/-NAmE /ˈɑːmzhaʊs/
 	;nhà tế bần -- (in the past in the UK) a house owned by a charity where poor people (usually the old) lived without paying rent
 
 
 
 
 
-annexe		<-->	noun+C2	[220829][001]	./ˈæneks/-NAmE /ˈæneks/
+annexe		<-->	noun++C2	[220829][001]	./ˈæneks/-NAmE /ˈæneks/
 	;nhà phụ -- (British English) (also annex North American English, British English) a building that is added to, or is near, a larger one and that provides extra living or work space
 		;Our rooms were in the annexe.
 		;TOPICS Houses and homesC2, BuildingsC2
@@ -128,7 +128,7 @@ annexe		<-->	noun+C2	[220829][001]	./ˈæneks/-NAmE /ˈæneks/
 
 
 
-antenna		<-->	noun+C1	[220829][001]	./ænˈtenə/-NAmE /ænˈtenə/
+antenna		<-->	noun++C1	[220829][001]	./ænˈtenə/-NAmE /ænˈtenə/
 	;antenna -- (plural antennas, antennae) (especially North American English) (also aerial especially in British English) a piece of equipment made of wire or long straight pieces of metal for receiving or sending radio and television signals
 		;radio antennas
 		;They installed a dish antenna on the roof.
@@ -143,7 +143,7 @@ antenna		<-->	noun+C1	[220829][001]	./ænˈtenə/-NAmE /ænˈtenə/
 
 
 
-apartment		<-->	noun+A1	[220829][001]	./əˈpɑːtmənt/-NAmE /əˈpɑːrtmənt/
+apartment		<-->	noun++A1	[220829][001]	./əˈpɑːtmənt/-NAmE /əˈpɑːrtmənt/
 	;căn hộ -- (especially North American English) (British English usually flat) a set of rooms for living in, usually on one floor of a building
 		;an apartment building
 		;I was renting a two-bedroom apartment in an old building.
@@ -201,7 +201,7 @@ apartment		<-->	noun+A1	[220829][001]	./əˈpɑːtmənt/-NAmE /əˈpɑːrtmənt/
 
 
 
-appraiser		<-->	noun+C2	[220829][001]	./əˈpreɪzə(r)/-NAmE /əˈpreɪzər/
+appraiser		<-->	noun++C2	[220829][001]	./əˈpreɪzə(r)/-NAmE /əˈpreɪzər/
 	;người thẩm định nhà -- (North American English) (British English valuer) a person whose job is to examine a building, an object, etc. and say how much it is worth
 		;TOPICS Houses and homesC2
 
@@ -209,7 +209,7 @@ appraiser		<-->	noun+C2	[220829][001]	./əˈpreɪzə(r)/-NAmE /əˈpreɪzər/
 
 
 
-armchair		<-->	noun+B1	[220829][001]	./ˈɑːmtʃeə(r)/-NAmE /ˈɑːrmtʃer/
+armchair		<-->	noun++B1	[220829][001]	./ˈɑːmtʃeə(r)/-NAmE /ˈɑːrmtʃer/
 	;ghế có tay -- a comfortable chair with sides on which you can rest your arms
 		;to sit in an armchair
 		;He eased himself into the big armchair.
@@ -224,7 +224,7 @@ armchair		<-->	noun+B1	[220829][001]	./ˈɑːmtʃeə(r)/-NAmE /ˈɑːrmtʃer/
 
 
 
-arrears		<-->	noun+C2	[220829][001]	./əˈrɪəz/-NAmE /əˈrɪrz/
+arrears		<-->	noun++C2	[220829][001]	./əˈrɪəz/-NAmE /əˈrɪrz/
 	;tiền nợ quá hạn -- [plural] money that somebody owes that they have not paid at the right time
 		;rent/mortgage/tax arrears
 		;Extra Examples
@@ -244,7 +244,7 @@ arrears		<-->	noun+C2	[220829][001]	./əˈrɪəz/-NAmE /əˈrɪrz/
 
 
 
-attic		<-->	noun+B2	[220829][001]	./ˈætɪk/-NAmE /ˈætɪk/
+attic		<-->	noun++B2	[220829][001]	./ˈætɪk/-NAmE /ˈætɪk/
 	;gác xép -- a room or space just below the roof of a house, often used for storing things
 		;furniture stored in the attic
 		;an attic bedroom
@@ -261,7 +261,7 @@ attic		<-->	noun+B2	[220829][001]	./ˈætɪk/-NAmE /ˈætɪk/
 
 
 
-bachelor pad		<-->	noun+C2	[220829][001]	./ˈbætʃələ pæd/-NAmE /ˈbætʃələr pæd/
+bachelor pad		<-->	noun++C2	[220829][001]	./ˈbætʃələ pæd/-NAmE /ˈbætʃələr pæd/
 	;nhà của người thích độc -- (informal) a house or flat in which a man who is not married enjoys a lifestyle without family responsibilities
 		;TOPICS Houses and homesC2
 
@@ -269,7 +269,7 @@ bachelor pad		<-->	noun+C2	[220829][001]	./ˈbætʃələ pæd/-NAmE /ˈbætʃəl
 
 
 
-back door		<-->	noun+B1	[220829][001]	./ˌbæk ˈdɔː(r)/-NAmE /ˌbæk ˈdɔːr/
+back door		<-->	noun++B1	[220829][001]	./ˌbæk ˈdɔː(r)/-NAmE /ˌbæk ˈdɔːr/
 	;cửa sau -- the door at the back or side of a building
 		TOPICS Houses and homesB1
 
@@ -277,7 +277,7 @@ back door		<-->	noun+B1	[220829][001]	./ˌbæk ˈdɔː(r)/-NAmE /ˌbæk ˈdɔːr
 
 
 
-back-to-back		<-->	noun+C2	[220829][001]	./ˌbæk tə ˈbæk/-NAmE /ˌbæk tə ˈbæk/
+back-to-back		<-->	noun++C2	[220829][001]	./ˌbæk tə ˈbæk/-NAmE /ˌbæk tə ˈbæk/
 	;nhà giáp tường -- ​(British English) a house in a row of houses that share walls with the houses on each side and behind
 		;back-to-backs built for the poor in the nineteenth century
 		;TOPICS Houses and homesC2
@@ -286,7 +286,7 @@ back-to-back		<-->	noun+C2	[220829][001]	./ˌbæk tə ˈbæk/-NAmE /ˌbæk tə �
 
 
 
-balcony		<-->	noun+B1	[220829][001]	./ˈbælkəni/-NAmE /ˈbælkəni/
+balcony		<-->	noun++B1	[220829][001]	./ˈbælkəni/-NAmE /ˈbælkəni/
 	;ban công -- (plural balconies)	a platform that is built on the upstairs outside wall of a building, with a wall or rail around it. You can get out onto a balcony from an upstairs room.
 		;We had drinks on the hotel balcony.
 		;TOPICS Houses and homesB1, BuildingsB1
@@ -296,7 +296,7 @@ balcony		<-->	noun+B1	[220829][001]	./ˈbælkəni/-NAmE /ˈbælkəni/
 
 
 
-ballroom		<-->	noun+C1	[220829][001]	./ˈbɔːlruːm/,  /ˈbɔːlrʊm/-NAmE /ˈbɔːlruːm/,  /ˈbɔːlrʊm/
+ballroom		<-->	noun++C1	[220829][001]	./ˈbɔːlruːm/,  /ˈbɔːlrʊm/-NAmE /ˈbɔːlruːm/,  /ˈbɔːlrʊm/
 	;phòng khiêu vũ -- a very large room used for dancing on formal occasions
 		;He entered the palatial ballroom and took in his surroundings.
 		;COMPARE dance hall
@@ -313,7 +313,7 @@ ballroom		<-->	noun+C1	[220829][001]	./ˈbɔːlruːm/,  /ˈbɔːlrʊm/-NAmE /ˈb
 
 
 
-baseboard		<-->	noun+C2	[220829][001]	./ˈbeɪsbɔːd/-NAmE /ˈbeɪsbɔːrd/
+baseboard		<-->	noun++C2	[220829][001]	./ˈbeɪsbɔːd/-NAmE /ˈbeɪsbɔːrd/
 	;thanh gỗ chạy dọc chân tường trong nhà -- (North American English) (British English skirting board, skirting) [countable, uncountable] a narrow piece of wood that is fixed along the bottom of the walls in a house
 		;TOPICS Houses and homesC2
 
@@ -322,7 +322,7 @@ baseboard		<-->	noun+C2	[220829][001]	./ˈbeɪsbɔːd/-NAmE /ˈbeɪsbɔːrd/
 
 
 
-basement		<-->	noun+B2	[220829][001]	./ˈbeɪsmənt/-NAmE /ˈbeɪsmənt/
+basement		<-->	noun++B2	[220829][001]	./ˈbeɪsmənt/-NAmE /ˈbeɪsmənt/
 	;tầng hầm -- enlarge imagea room or rooms in a building, partly or completely below the level of the ground
 		;Kitchen goods are sold in the basement.
 		;a basement flat/apartment
@@ -342,7 +342,7 @@ basement		<-->	noun+B2	[220829][001]	./ˈbeɪsmənt/-NAmE /ˈbeɪsmənt/
 
 
 
-bath		<-->	noun+A1	[220829][001]	./bɑːθ/-NAmE /bæθ/\
+bath		<-->	noun++A1	[220829][001]	./bɑːθ/-NAmE /bæθ/\
 	;nhà tắm -- [countable] (British English) (also bathtub, informal tub North American English, British English) a large, long container that you put water in and then get into to wash your whole body
 		I'm in the bath!
 		bath taps
@@ -355,7 +355,7 @@ bath		<-->	noun+A1	[220829][001]	./bɑːθ/-NAmE /bæθ/\
 
 
 
-bathroom		<-->	noun+A1	[220829][001]	./ˈbɑːθruːm/,  /ˈbɑːθrʊm/-NAmE /ˈbæθruːm/,  /ˈbæθrʊm/
+bathroom		<-->	noun++A1	[220829][001]	./ˈbɑːθruːm/,  /ˈbɑːθrʊm/-NAmE /ˈbæθruːm/,  /ˈbæθrʊm/
 	;phòng tắm -- a room in which there is a bath, a washbasin and often a toilet
 		;Go and wash your hands in the bathroom.
 		;The master bedroom also has an en suite bathroom.
@@ -375,7 +375,7 @@ bathroom		<-->	noun+A1	[220829][001]	./ˈbɑːθruːm/,  /ˈbɑːθrʊm/-NAmE /�
 
 
 
-bay window		<-->	noun+C2	[220829][001]	./ˌbeɪ ˈwɪndəʊ/-NAmE /ˌbeɪ ˈwɪndəʊ/
+bay window		<-->	noun++C2	[220829][001]	./ˌbeɪ ˈwɪndəʊ/-NAmE /ˌbeɪ ˈwɪndəʊ/
 	;cửa kính lớn -- enlarge imagea large window, usually with glass on three sides, that sticks out from the outside wall of a house
 		;TOPICS Houses and homesC2
 
@@ -383,7 +383,7 @@ bay window		<-->	noun+C2	[220829][001]	./ˌbeɪ ˈwɪndəʊ/-NAmE /ˌbeɪ ˈwɪn
 
 
 
-bed		<-->	noun+A1	[220829][001]	./bed/-NAmE /bed/
+bed		<-->	noun++A1	[220829][001]	./bed/-NAmE /bed/
 	;giường ngủ -- [-furniture] [countable, uncountable] a piece of furniture for sleeping on
 		;a single/double bed
 		;on the bed She lay on the bed (= on top of the covers).
@@ -419,7 +419,7 @@ bed		<-->	noun+A1	[220829][001]	./bed/-NAmE /bed/
 
 
 
-bedroom		<-->	noun+A1	[220829][001]	./ˈbedruːm/,  /ˈbedrʊm/-NAmE /ˈbedruːm/,  /ˈbedrʊm/
+bedroom		<-->	noun++A1	[220829][001]	./ˈbedruːm/,  /ˈbedrʊm/-NAmE /ˈbedruːm/,  /ˈbedrʊm/
 	;phòng ngủ -- a room for sleeping in
 		;the spare/guest bedroom
 		;a hotel with 20 bedrooms
@@ -443,7 +443,7 @@ bedroom		<-->	noun+A1	[220829][001]	./ˈbedruːm/,  /ˈbedrʊm/-NAmE /ˈbedruːm
 
 
 
-bedsit		<-->	noun+C2	[220829][001]	./ˈbedsɪt/-NAmE /ˈbedsɪt/
+bedsit		<-->	noun++C2	[220829][001]	./ˈbedsɪt/-NAmE /ˈbedsɪt/
 	;phòng nhỏ cho thuê -- ​a room that a person rents and uses for both living and sleeping in
 		;Collocations Moving house:
 			---
@@ -485,7 +485,7 @@ bedsit		<-->	noun+C2	[220829][001]	./ˈbedsɪt/-NAmE /ˈbedsɪt/
 
 
 
-be in arrears		<-->	idiom+C2[-0]	.
+be in arrears		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -498,7 +498,7 @@ be in arrears		<-->	idiom+C2[-0]	.
 
 
 
-bin		<-->	noun+A2[-0]	.
+bin		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -508,7 +508,7 @@ bin		<-->	noun+A2[-0]	.
 
 
 
-birdcage		<-->	noun+C2[-0]	.
+birdcage		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -518,7 +518,7 @@ birdcage		<-->	noun+C2[-0]	.
 
 
 
-blackout		<-->	noun+C2[-0]	.
+blackout		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -528,7 +528,7 @@ blackout		<-->	noun+C2[-0]	.
 
 
 
-blind		<-->	noun+C1[-0]	.
+blind		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -538,7 +538,7 @@ blind		<-->	noun+C1[-0]	.
 
 
 
-boarder		<-->	noun+C2[-0]	.
+boarder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -548,7 +548,7 @@ boarder		<-->	noun+C2[-0]	.
 
 
 
-boarding house		<-->	noun+C2[-0]	.
+boarding house		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -558,7 +558,7 @@ boarding house		<-->	noun+C2[-0]	.
 
 
 
-boiler		<-->	noun+C1[-0]	.
+boiler		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -568,7 +568,7 @@ boiler		<-->	noun+C1[-0]	.
 
 
 
-boiler room		<-->	noun+C2[-0]	.
+boiler room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -578,7 +578,7 @@ boiler room		<-->	noun+C2[-0]	.
 
 
 
-bond		<-->	noun+C2[-0]	.
+bond		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -588,7 +588,7 @@ bond		<-->	noun+C2[-0]	.
 
 
 
-bookcase		<-->	noun+B2[-0]	.
+bookcase		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -598,7 +598,7 @@ bookcase		<-->	noun+B2[-0]	.
 
 
 
-bookshelf		<-->	noun+B2[-0]	.
+bookshelf		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -608,7 +608,7 @@ bookshelf		<-->	noun+B2[-0]	.
 
 
 
-borrow		<-->	verb+A2[-0]	.
+borrow		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -618,7 +618,7 @@ borrow		<-->	verb+A2[-0]	.
 
 
 
-box room		<-->	noun+C2[-0]	.
+box room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -628,7 +628,7 @@ box room		<-->	noun+C2[-0]	.
 
 
 
-breezeway		<-->	noun+C2[-0]	.
+breezeway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -638,7 +638,7 @@ breezeway		<-->	noun+C2[-0]	.
 
 
 
-bridging loan		<-->	noun+C2[-0]	.
+bridging loan		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -648,7 +648,7 @@ bridging loan		<-->	noun+C2[-0]	.
 
 
 
-broom		<-->	noun+C1[-0]	.
+broom		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -658,7 +658,7 @@ broom		<-->	noun+C1[-0]	.
 
 
 
-broom closet		<-->	noun+C1[-0]	.
+broom closet		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -668,7 +668,7 @@ broom closet		<-->	noun+C1[-0]	.
 
 
 
-broom cupboard		<-->	noun+C1[-0]	.
+broom cupboard		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -678,7 +678,7 @@ broom cupboard		<-->	noun+C1[-0]	.
 
 
 
-brownstone		<-->	noun+C2[-0]	.
+brownstone		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -688,7 +688,7 @@ brownstone		<-->	noun+C2[-0]	.
 
 
 
-brush		<-->	noun+A2[-0]	.
+brush		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -698,7 +698,7 @@ brush		<-->	noun+A2[-0]	.
 
 
 
-bucket		<-->	noun+C1[-0]	.
+bucket		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -708,7 +708,7 @@ bucket		<-->	noun+C1[-0]	.
 
 
 
-building society		<-->	noun+C2[-0]	.
+building society		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -718,7 +718,7 @@ building society		<-->	noun+C2[-0]	.
 
 
 
-built-in		<-->	adjective+C1[-0]	.
+built-in		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -728,7 +728,7 @@ built-in		<-->	adjective+C1[-0]	.
 
 
 
-bungalow		<-->	noun+C1[-0]	.
+bungalow		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -738,7 +738,7 @@ bungalow		<-->	noun+C1[-0]	.
 
 
 
-bunk		<-->	noun+C1[-0]	.
+bunk		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -748,7 +748,7 @@ bunk		<-->	noun+C1[-0]	.
 
 
 
-bureau		<-->	noun+C2[-0]	.
+bureau		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -758,7 +758,7 @@ bureau		<-->	noun+C2[-0]	.
 
 
 
-burglar alarm		<-->	noun+B1[-0]	.
+burglar alarm		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -768,7 +768,7 @@ burglar alarm		<-->	noun+B1[-0]	.
 
 
 
-buy		<-->	verb+A1[-0]	.
+buy		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -778,7 +778,7 @@ buy		<-->	verb+A1[-0]	.
 
 
 
-buyer		<-->	noun+B1[-0]	.
+buyer		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -788,7 +788,7 @@ buyer		<-->	noun+B1[-0]	.
 
 
 
-buy-to-let		<-->	adjective+C2[-0]	.
+buy-to-let		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -798,7 +798,7 @@ buy-to-let		<-->	adjective+C2[-0]	.
 
 
 
-cabinet		<-->	noun+C1[-0]	.
+cabinet		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -808,7 +808,7 @@ cabinet		<-->	noun+C1[-0]	.
 
 
 
-camp bed		<-->	noun+C2[-0]	.
+camp bed		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -818,7 +818,7 @@ camp bed		<-->	noun+C2[-0]	.
 
 
 
-canopy		<-->	noun+C2[-0]	.
+canopy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -828,7 +828,7 @@ canopy		<-->	noun+C2[-0]	.
 
 
 
-carpet		<-->	noun+A2[-0]	.
+carpet		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -838,7 +838,7 @@ carpet		<-->	noun+A2[-0]	.
 
 
 
-cat flap		<-->	noun+C2[-0]	.
+cat flap		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -848,7 +848,7 @@ cat flap		<-->	noun+C2[-0]	.
 
 
 
-ceiling		<-->	noun+B1[-0]	.
+ceiling		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -858,7 +858,7 @@ ceiling		<-->	noun+B1[-0]	.
 
 
 
-cellar		<-->	noun+B2[-0]	.
+cellar		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -868,7 +868,7 @@ cellar		<-->	noun+B2[-0]	.
 
 
 
-central heating		<-->	noun+B2[-0]	.
+central heating		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -878,7 +878,7 @@ central heating		<-->	noun+B2[-0]	.
 
 
 
-chain		<-->	noun+C2[-0]	.
+chain		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -888,7 +888,7 @@ chain		<-->	noun+C2[-0]	.
 
 
 
-chair		<-->	noun+A1[-0]	.
+chair		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -898,7 +898,7 @@ chair		<-->	noun+A1[-0]	.
 
 
 
-chalet		<-->	noun+C1[-0]	.
+chalet		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -908,7 +908,7 @@ chalet		<-->	noun+C1[-0]	.
 
 
 
-chest		<-->	noun+C1[-0]	.
+chest		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -918,7 +918,7 @@ chest		<-->	noun+C1[-0]	.
 
 
 
-chest of drawers		<-->	noun+B2[-0]	.
+chest of drawers		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -928,7 +928,7 @@ chest of drawers		<-->	noun+B2[-0]	.
 
 
 
-chimney		<-->	noun+C1[-0]	.
+chimney		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -938,7 +938,7 @@ chimney		<-->	noun+C1[-0]	.
 
 
 
-chimney stack		<-->	noun+C2[-0]	.
+chimney stack		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -948,7 +948,7 @@ chimney stack		<-->	noun+C2[-0]	.
 
 
 
-chintz		<-->	noun+C2[-0]	.
+chintz		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -958,7 +958,7 @@ chintz		<-->	noun+C2[-0]	.
 
 
 
-chore		<-->	noun+B1[-0]	.
+chore		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -968,7 +968,7 @@ chore		<-->	noun+B1[-0]	.
 
 
 
-cistern		<-->	noun+C2[-0]	.
+cistern		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -978,7 +978,7 @@ cistern		<-->	noun+C2[-0]	.
 
 
 
-clean		<-->	verb+A1[-0]	.
+clean		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -988,7 +988,7 @@ clean		<-->	verb+A1[-0]	.
 
 
 
-cleaning		<-->	noun+B1[-0]	.
+cleaning		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -998,7 +998,7 @@ cleaning		<-->	noun+B1[-0]	.
 
 
 
-closet		<-->	noun+B2[-0]	.
+closet		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1008,7 +1008,7 @@ closet		<-->	noun+B2[-0]	.
 
 
 
-clutter		<-->	noun+C1[-0]	.
+clutter		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1018,7 +1018,7 @@ clutter		<-->	noun+C1[-0]	.
 
 
 
-coffee table		<-->	noun+C1[-0]	.
+coffee table		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1028,7 +1028,7 @@ coffee table		<-->	noun+C1[-0]	.
 
 
 
-comfort room		<-->	noun+C2[-0]	.
+comfort room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1038,7 +1038,7 @@ comfort room		<-->	noun+C2[-0]	.
 
 
 
-communal		<-->	adjective+B2[-0]	.
+communal		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1048,7 +1048,7 @@ communal		<-->	adjective+B2[-0]	.
 
 
 
-condo		<-->	noun+C2[-0]	.
+condo		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1058,7 +1058,7 @@ condo		<-->	noun+C2[-0]	.
 
 
 
-condominium		<-->	noun+C2[-0]	.
+condominium		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1068,7 +1068,7 @@ condominium		<-->	noun+C2[-0]	.
 
 
 
-conservatory		<-->	noun+C2[-0]	.
+conservatory		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1078,7 +1078,7 @@ conservatory		<-->	noun+C2[-0]	.
 
 
 
-contract		<-->	noun+B2[-0]	.
+contract		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1088,7 +1088,7 @@ contract		<-->	noun+B2[-0]	.
 
 
 
-cooker		<-->	noun+A2[-0]	.
+cooker		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1098,7 +1098,7 @@ cooker		<-->	noun+A2[-0]	.
 
 
 
-corner		<-->	noun+A2[-0]	.
+corner		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1108,7 +1108,7 @@ corner		<-->	noun+A2[-0]	.
 
 
 
-cornice		<-->	noun+C2[-0]	.
+cornice		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1118,7 +1118,7 @@ cornice		<-->	noun+C2[-0]	.
 
 
 
-cottage		<-->	noun+B1[-0]	.
+cottage		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1128,7 +1128,7 @@ cottage		<-->	noun+B1[-0]	.
 
 
 
-couch		<-->	noun+B2[-0]	.
+couch		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1138,7 +1138,7 @@ couch		<-->	noun+B2[-0]	.
 
 
 
-council flat		<-->	noun+C1[-0]	.
+council flat		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1148,7 +1148,7 @@ council flat		<-->	noun+C1[-0]	.
 
 
 
-country house		<-->	noun+B2[-0]	.
+country house		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1158,7 +1158,7 @@ country house		<-->	noun+B2[-0]	.
 
 
 
-cupboard		<-->	noun+A2[-0]	.
+cupboard		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1168,7 +1168,7 @@ cupboard		<-->	noun+A2[-0]	.
 
 
 
-curtain		<-->	noun+B1[-0]	.
+curtain		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1178,7 +1178,7 @@ curtain		<-->	noun+B1[-0]	.
 
 
 
-cushion		<-->	noun+C1[-0]	.
+cushion		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1188,7 +1188,7 @@ cushion		<-->	noun+C1[-0]	.
 
 
 
-decor		<-->	noun+C1[-0]	.
+decor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1198,7 +1198,7 @@ decor		<-->	noun+C1[-0]	.
 
 
 
-decorate		<-->	verb+B1	[221029][001]	./cef/
+decorate		<-->	verb++B1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1208,7 +1208,7 @@ decorate		<-->	verb+B1	[221029][001]	./cef/
 
 
 
-decoration		<-->	noun+B2[-0]	.
+decoration		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1218,7 +1218,7 @@ decoration		<-->	noun+B2[-0]	.
 
 
 
-deed		<-->	noun+C2[-0]	.
+deed		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1228,7 +1228,7 @@ deed		<-->	noun+C2[-0]	.
 
 
 
-deep freeze		<-->	noun+C1[-0]	.
+deep freeze		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1238,7 +1238,7 @@ deep freeze		<-->	noun+C1[-0]	.
 
 
 
-deposit		<-->	noun+B2[-0]	.
+deposit		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1248,7 +1248,7 @@ deposit		<-->	noun+B2[-0]	.
 
 
 
-deposit		<-->	verb+C1	[221029][001]	./cef/
+deposit		<-->	verb++C1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1258,7 +1258,7 @@ deposit		<-->	verb+C1	[221029][001]	./cef/
 
 
 
-desk		<-->	noun+A1[-0]	.
+desk		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1268,7 +1268,7 @@ desk		<-->	noun+A1[-0]	.
 
 
 
-detached		<-->	adjective+B2[-0]	.
+detached		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1278,7 +1278,7 @@ detached		<-->	adjective+B2[-0]	.
 
 
 
-detailing		<-->	noun+C2[-0]	.
+detailing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1288,7 +1288,7 @@ detailing		<-->	noun+C2[-0]	.
 
 
 
-dining room		<-->	noun+A1[-0]	.
+dining room		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1298,7 +1298,7 @@ dining room		<-->	noun+A1[-0]	.
 
 
 
-dishwasher		<-->	noun+A2[-0]	.
+dishwasher		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1308,7 +1308,7 @@ dishwasher		<-->	noun+A2[-0]	.
 
 
 
-dispossess		<-->	verb+C2	[221029][001]	./ˌdɪspəˈzes/-NAmE /ˌdɪspəˈzes/ [usually passive] (formal)
+dispossess		<-->	verb++C2	[221029][001]	./ˌdɪspəˈzes/-NAmE /ˌdɪspəˈzes/ [usually passive] (formal)
 	;tịch thu -- (1) dispossess somebody (of something) to take somebody’s property, land or house away from them
 		;TOPICS Houses and homesC2
 
@@ -1318,7 +1318,7 @@ dispossess		<-->	verb+C2	[221029][001]	./ˌdɪspəˈzes/-NAmE /ˌdɪspəˈzes/ [
 
 
 
-dispossession		<-->	noun+C2[-0]	.
+dispossession		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1328,7 +1328,7 @@ dispossession		<-->	noun+C2[-0]	.
 
 
 
-DIY		<-->	noun+B2[-0]	.
+DIY		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1338,7 +1338,7 @@ DIY		<-->	noun+B2[-0]	.
 
 
 
-door		<-->	noun+A1[-0]	.
+door		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1348,7 +1348,7 @@ door		<-->	noun+A1[-0]	.
 
 
 
-doorbell		<-->	noun+B2[-0]	.
+doorbell		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1358,7 +1358,7 @@ doorbell		<-->	noun+B2[-0]	.
 
 
 
-doorknob		<-->	noun+C2[-0]	.
+doorknob		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1368,7 +1368,7 @@ doorknob		<-->	noun+C2[-0]	.
 
 
 
-door knocker		<-->	noun+C2[-0]	.
+door knocker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1378,7 +1378,7 @@ door knocker		<-->	noun+C2[-0]	.
 
 
 
-doorstep		<-->	noun+B2[-0]	.
+doorstep		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1388,7 +1388,7 @@ doorstep		<-->	noun+B2[-0]	.
 
 
 
-doorway		<-->	noun+B2[-0]	.
+doorway		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1398,7 +1398,7 @@ doorway		<-->	noun+B2[-0]	.
 
 
 
-dormitory		<-->	noun+C1[-0]	.
+dormitory		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1408,7 +1408,7 @@ dormitory		<-->	noun+C1[-0]	.
 
 
 
-downspout		<-->	noun+C2[-0]	.
+downspout		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1418,7 +1418,7 @@ downspout		<-->	noun+C2[-0]	.
 
 
 
-downstairs		<-->	adverb+A1[-0]	.
+downstairs		<-->	adverb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1428,7 +1428,7 @@ downstairs		<-->	adverb+A1[-0]	.
 
 
 
-downstairs		<-->	adjective+A2[-0]	.
+downstairs		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1438,7 +1438,7 @@ downstairs		<-->	adjective+A2[-0]	.
 
 
 
-downstairs		<-->	noun+A1[-0]	.
+downstairs		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1448,7 +1448,7 @@ downstairs		<-->	noun+A1[-0]	.
 
 
 
-drain		<-->	noun+C2[-0]	.
+drain		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1458,7 +1458,7 @@ drain		<-->	noun+C2[-0]	.
 
 
 
-drainpipe		<-->	noun+C2[-0]	.
+drainpipe		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1468,7 +1468,7 @@ drainpipe		<-->	noun+C2[-0]	.
 
 
 
-drape		<-->	noun+C2[-0]	.
+drape		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1478,7 +1478,7 @@ drape		<-->	noun+C2[-0]	.
 
 
 
-drawer		<-->	noun+B2	[221110][001]	./drɔː(r)/-NAmE /drɔːr/
+drawer		<-->	noun++B2	[221110][001]	./drɔː(r)/-NAmE /drɔːr/
 	;ngăn kéo -- (1) a part of a piece of furniture such as a desk, used for keeping things in. It is like a box in shape and has a handle on the front for pulling it out.
 		;in the top/middle/bottom drawer of the desk
 		;the kitchen drawer (= the one in the kitchen)
@@ -1506,7 +1506,7 @@ drawer		<-->	noun+B2	[221110][001]	./drɔː(r)/-NAmE /drɔːr/
 
 
 
-drawing room		<-->	noun+C2[-0]	.
+drawing room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1516,7 +1516,7 @@ drawing room		<-->	noun+C2[-0]	.
 
 
 
-dresser		<-->	noun+C2[-0]	.
+dresser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1526,7 +1526,7 @@ dresser		<-->	noun+C2[-0]	.
 
 
 
-dressing room		<-->	noun+C2[-0]	.
+dressing room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1536,7 +1536,7 @@ dressing room		<-->	noun+C2[-0]	.
 
 
 
-dressing table		<-->	noun+C2[-0]	.
+dressing table		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1546,7 +1546,7 @@ dressing table		<-->	noun+C2[-0]	.
 
 
 
-dry up		<-->	phrasal verb+C1	[221029][001]	./
+dry up		<-->	phrasal verb++C1	[221029][001]	./
 	;khô dần -- (1) (of rivers, lakes, etc.) to become completely dry
 		;During the drought the river dried up.
 				;Oxford Collocations Dictionary
@@ -1569,7 +1569,7 @@ dry up		<-->	phrasal verb+C1	[221029][001]	./
 
 
 
-duplex		<-->	adjective+C2	[221029][001]	./ˈdjuːpleks/-NAmE /ˈduːpleks/ [only before noun]
+duplex		<-->	adjective++C2	[221029][001]	./ˈdjuːpleks/-NAmE /ˈduːpleks/ [only before noun]
 	;nhiều tầng hai lầu -- (1) ​(of a flat) with rooms on two floors
 		;a duplex apartment
 		;The duplex penthouses cover the top two floors of the building.
@@ -1581,7 +1581,7 @@ duplex		<-->	adjective+C2	[221029][001]	./ˈdjuːpleks/-NAmE /ˈduːpleks/ [only
 
 
 
-duplex		<-->	noun+C2	[221029][001]	./ˈdjuːpleks/-NAmE /ˈduːpleks/
+duplex		<-->	noun++C2	[221029][001]	./ˈdjuːpleks/-NAmE /ˈduːpleks/
 	;nhà đôi -- (1) North American English) a building divided into two homes or apartments with separate entrances
 		;TOPICS Houses and homesC2
 	;nhà hai tầng nhiều phòng -- (2) ​(British English) a flat with rooms on two floors
@@ -1594,7 +1594,7 @@ duplex		<-->	noun+C2	[221029][001]	./ˈdjuːpleks/-NAmE /ˈduːpleks/
 
 
 
-dust		<-->	verb+C1	[221029][001]	./dʌst/-NAmE /dʌst/
+dust		<-->	verb++C1	[221029][001]	./dʌst/-NAmE /dʌst/
 	;quét bụi -- (1) [intransitive, transitive] to clean furniture, a room, etc. by removing dust from surfaces with a cloth
 		;I broke the vase while I was dusting.
 		;dust something Could you dust the sitting room?
@@ -1606,7 +1606,7 @@ dust		<-->	verb+C1	[221029][001]	./dʌst/-NAmE /dʌst/
 
 
 
-dustbin		<-->	noun+B2[-0]	.
+dustbin		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1616,7 +1616,7 @@ dustbin		<-->	noun+B2[-0]	.
 
 
 
-duster		<-->	noun+C2[-0]	.
+duster		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1626,7 +1626,7 @@ duster		<-->	noun+C2[-0]	.
 
 
 
-dustpan		<-->	noun+C2[-0]	.
+dustpan		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1636,7 +1636,7 @@ dustpan		<-->	noun+C2[-0]	.
 
 
 
-dwelling		<-->	noun+C2[-0]	.
+dwelling		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1646,7 +1646,7 @@ dwelling		<-->	noun+C2[-0]	.
 
 
 
-easy chair		<-->	noun+C2[-0]	.
+easy chair		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1656,7 +1656,7 @@ easy chair		<-->	noun+C2[-0]	.
 
 
 
-end table		<-->	noun+C2[-0]	.
+end table		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1666,7 +1666,7 @@ end table		<-->	noun+C2[-0]	.
 
 
 
-en suite		<-->	adjective+C1[-0]	.
+en suite		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1676,7 +1676,7 @@ en suite		<-->	adjective+C1[-0]	.
 
 
 
-entrance		<-->	noun+B1[-0]	.
+entrance		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1686,7 +1686,7 @@ entrance		<-->	noun+B1[-0]	.
 
 
 
-entrance hall		<-->	noun+C1[-0]	.
+entrance hall		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1696,7 +1696,7 @@ entrance hall		<-->	noun+C1[-0]	.
 
 
 
-entry		<-->	noun+B2[-0]	.
+entry		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1706,7 +1706,7 @@ entry		<-->	noun+B2[-0]	.
 
 
 
-Entryphone™		<-->	noun+C2[-0]	.
+Entryphone™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1716,7 +1716,7 @@ Entryphone™		<-->	noun+C2[-0]	.
 
 
 
-equipment		<-->	noun+A2[-0]	.
+equipment		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1726,7 +1726,7 @@ equipment		<-->	noun+A2[-0]	.
 
 
 
-estate		<-->	noun+B2[-0]	.
+estate		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1736,7 +1736,7 @@ estate		<-->	noun+B2[-0]	.
 
 
 
-estate agent		<-->	noun+B2[-0]	.
+estate agent		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1746,7 +1746,7 @@ estate agent		<-->	noun+B2[-0]	.
 
 
 
-evict		<-->	verb+C1	[220829][2]	./ɪˈvɪkt/-NAmE /ɪˈvɪkt/
+evict		<-->	verb++C1	[220829][2]	./ɪˈvɪkt/-NAmE /ɪˈvɪkt/
 	;trục xuất khỏi nhà -- (1) (1) evict somebody (from something) to force somebody to leave a house or land, especially when you have the legal right to do so
 		;A number of tenants have been evicted for not paying the rent.
 		;The council has tried to get them evicted.
@@ -1765,7 +1765,7 @@ evict		<-->	verb+C1	[220829][2]	./ɪˈvɪkt/-NAmE /ɪˈvɪkt/
 
 
 
-eviction		<-->	noun+C2	[220829][001]	./ɪˈvɪkʃn/-NAmE /ɪˈvɪkʃn/ [uncountable, countable]
+eviction		<-->	noun++C2	[220829][001]	./ɪˈvɪkʃn/-NAmE /ɪˈvɪkʃn/ [uncountable, countable]
 	;sự trục xuất khỏi nhà -- (1) eviction (from something) the act of forcing somebody to leave a house or land, especially when you have the legal right to do so
 		;to face eviction from your home
 		;TOPICS Houses and homesC2
@@ -1774,7 +1774,7 @@ eviction		<-->	noun+C2	[220829][001]	./ɪˈvɪkʃn/-NAmE /ɪˈvɪkʃn/ [uncounta
 
 
 
-exchange		<-->	verb+C2[-0]	.
+exchange		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1784,7 +1784,7 @@ exchange		<-->	verb+C2[-0]	.
 
 
 
-extension		<-->	noun+C1[-0]	.
+extension		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1794,7 +1794,7 @@ extension		<-->	noun+C1[-0]	.
 
 
 
-exterior		<-->	noun+C1[-0]	.
+exterior		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1804,7 +1804,7 @@ exterior		<-->	noun+C1[-0]	.
 
 
 
-facade		<-->	noun+C2	[221110][001]	./fəˈsɑːd/-NAmE /fəˈsɑːd/ (also façade)
+facade		<-->	noun++C2	[221110][001]	./fəˈsɑːd/-NAmE /fəˈsɑːd/ (also façade)
 	;tiền sảnh -- (1) the front of a building
 		;a classical facade
 		;TOPICS Houses and homesC2, BuildingsC2
@@ -1816,7 +1816,7 @@ facade		<-->	noun+C2	[221110][001]	./fəˈsɑːd/-NAmE /fəˈsɑːd/ (also faça
 
 
 
-family room		<-->	noun+B2[-0]	.
+family room		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1826,7 +1826,7 @@ family room		<-->	noun+B2[-0]	.
 
 
 
-fan		<-->	noun+C1[-0]	.
+fan		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1836,7 +1836,7 @@ fan		<-->	noun+C1[-0]	.
 
 
 
-farm		<-->	noun+B1[-0]	.
+farm		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1846,7 +1846,7 @@ farm		<-->	noun+B1[-0]	.
 
 
 
-fire alarm		<-->	noun+B1[-0]	.
+fire alarm		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1856,7 +1856,7 @@ fire alarm		<-->	noun+B1[-0]	.
 
 
 
-fire escape		<-->	noun+C1[-0]	.
+fire escape		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1866,7 +1866,7 @@ fire escape		<-->	noun+C1[-0]	.
 
 
 
-fireplace		<-->	noun+C1[-0]	.
+fireplace		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1876,7 +1876,7 @@ fireplace		<-->	noun+C1[-0]	.
 
 
 
-first floor		<-->	noun+A2[-0]	.
+first floor		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1886,7 +1886,7 @@ first floor		<-->	noun+A2[-0]	.
 
 
 
-first-floor		<-->	adjective+B1[-0]	.
+first-floor		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1896,7 +1896,7 @@ first-floor		<-->	adjective+B1[-0]	.
 
 
 
-fitting		<-->	noun+C2[-0]	.
+fitting		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1906,7 +1906,7 @@ fitting		<-->	noun+C2[-0]	.
 
 
 
-fixture		<-->	noun+C1[-0]	.
+fixture		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1916,7 +1916,7 @@ fixture		<-->	noun+C1[-0]	.
 
 
 
-flat		<-->	noun+A1[-0]	.
+flat		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1926,7 +1926,7 @@ flat		<-->	noun+A1[-0]	.
 
 
 
-flat-pack		<-->	noun+C2[-0]	.
+flat-pack		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1936,7 +1936,7 @@ flat-pack		<-->	noun+C2[-0]	.
 
 
 
-floor		<-->	noun+A1[-0]	.
+floor		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1946,7 +1946,7 @@ floor		<-->	noun+A1[-0]	.
 
 
 
-foreclose		<-->	verb+C2	[221029][001]	./fɔːˈkləʊz/-NAmE /fɔːrˈkləʊz/
+foreclose		<-->	verb++C2	[221029][001]	./fɔːˈkləʊz/-NAmE /fɔːrˈkləʊz/
 	;xiết nợ -- (1) [intransitive, transitive] foreclose (on somebody/something) | foreclose something (finance) (especially of a bank) to take control of somebody’s property because they have not paid back money that they borrowed to buy it
 		;Collocations Moving house
 		;TOPICS Houses and homesC2
@@ -1957,7 +1957,7 @@ foreclose		<-->	verb+C2	[221029][001]	./fɔːˈkləʊz/-NAmE /fɔːrˈkləʊz/
 
 
 
-forever home		<-->	noun+C2[-0]	.
+forever home		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1967,7 +1967,7 @@ forever home		<-->	noun+C2[-0]	.
 
 
 
-for rent		<-->	idiom+C1[-0]	.
+for rent		<-->	idiom++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1977,7 +1977,7 @@ for rent		<-->	idiom+C1[-0]	.
 
 
 
-foyer		<-->	noun+C2[-0]	.
+foyer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1987,7 +1987,7 @@ foyer		<-->	noun+C2[-0]	.
 
 
 
-freehold		<-->	noun+C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ [countable, uncountable] (law, especially British English)
+freehold		<-->	noun++C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ [countable, uncountable] (law, especially British English)
 	;việc sở hữu vĩnh viễn -- (1) the fact of owning a building or piece of land for a period of time that is not limited
 		;Private tenants in flats now have the right to buy the freehold from their landlord.
 		;TOPICS Houses and homesC2
@@ -1998,7 +1998,7 @@ freehold		<-->	noun+C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ [co
 
 
 
-freehold		<-->	adverb+C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ (law, especially British English)
+freehold		<-->	adverb++C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ (law, especially British English)
 	;sở hữu vĩnh viễn -- (1) with the right to own a building or piece of land for a period of time that is not limited
 		;to buy a house freehold
 		;TOPICS Houses and homesC2
@@ -2009,7 +2009,7 @@ freehold		<-->	adverb+C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/ (
 
 
 
-freehold		<-->	adjective+C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/*\ (law, especially British English)
+freehold		<-->	adjective++C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld/*\ (law, especially British English)
 	;sở hữu vĩnh viễn -- (1) (of a building or piece of land) owned for a period of time that is not limited
 		;a freehold property
 		;COMPARE leasehold
@@ -2021,7 +2021,7 @@ freehold		<-->	adjective+C2	[221029][001]	./ˈfriːhəʊld/-NAmE /ˈfriːhəʊld
 
 
 
-free-standing		<-->	adjective+C2[-0]	.
+free-standing		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2031,7 +2031,7 @@ free-standing		<-->	adjective+C2[-0]	.
 
 
 
-freezer		<-->	noun+B1[-0]	.
+freezer		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2041,7 +2041,7 @@ freezer		<-->	noun+B1[-0]	.
 
 
 
-French door		<-->	noun+C2[-0]	.
+French door		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2051,7 +2051,7 @@ French door		<-->	noun+C2[-0]	.
 
 
 
-French window		<-->	noun+C2[-0]	.
+French window		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2061,7 +2061,7 @@ French window		<-->	noun+C2[-0]	.
 
 
 
-fridge		<-->	noun+A2[-0]	.
+fridge		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2071,7 +2071,7 @@ fridge		<-->	noun+A2[-0]	.
 
 
 
-frieze		<-->	noun+C2[-0]	.
+frieze		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2081,7 +2081,7 @@ frieze		<-->	noun+C2[-0]	.
 
 
 
-front		<-->	noun+A1[-0]	.
+front		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2091,7 +2091,7 @@ front		<-->	noun+A1[-0]	.
 
 
 
-frontage		<-->	noun+C2[-0]	.
+frontage		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2101,7 +2101,7 @@ frontage		<-->	noun+C2[-0]	.
 
 
 
-front door		<-->	noun+B1[-0]	.
+front door		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2111,7 +2111,7 @@ front door		<-->	noun+B1[-0]	.
 
 
 
-front room		<-->	noun+B2[-0]	.
+front room		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2121,7 +2121,7 @@ front room		<-->	noun+B2[-0]	.
 
 
 
-furnish		<-->	verb+C1	[221029][001]	./ˈfɜːnɪʃ/-NAmE /ˈfɜːrnɪʃ/
+furnish		<-->	verb++C1	[221029][001]	./ˈfɜːnɪʃ/-NAmE /ˈfɜːrnɪʃ/
 	;trang trí nội thất,  -- (1) furnish something to put furniture in a house, room, etc.
 		;The room was furnished with antiques.
 		;Collocations Decorating and home improvement
@@ -2133,7 +2133,7 @@ furnish		<-->	verb+C1	[221029][001]	./ˈfɜːnɪʃ/-NAmE /ˈfɜːrnɪʃ/
 
 
 
-furnished		<-->	adjective+C1[-0]	.
+furnished		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2143,7 +2143,7 @@ furnished		<-->	adjective+C1[-0]	.
 
 
 
-furnishings		<-->	noun+C2[-0]	.
+furnishings		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2153,7 +2153,7 @@ furnishings		<-->	noun+C2[-0]	.
 
 
 
-furniture		<-->	noun+A2[-0]	.
+furniture		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2163,7 +2163,7 @@ furniture		<-->	noun+A2[-0]	.
 
 
 
-furniture van		<-->	noun+B1[-0]	.
+furniture van		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2173,7 +2173,7 @@ furniture van		<-->	noun+B1[-0]	.
 
 
 
-fuse box		<-->	noun+C2[-0]	.
+fuse box		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2183,7 +2183,7 @@ fuse box		<-->	noun+C2[-0]	.
 
 
 
-futon		<-->	noun+C2[-0]	.
+futon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2193,7 +2193,7 @@ futon		<-->	noun+C2[-0]	.
 
 
 
-gable		<-->	noun+C2[-0]	.
+gable		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2203,7 +2203,7 @@ gable		<-->	noun+C2[-0]	.
 
 
 
-gadget		<-->	noun+B1[-0]	.
+gadget		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2213,7 +2213,7 @@ gadget		<-->	noun+B1[-0]	.
 
 
 
-garage		<-->	noun+B1[-0]	.
+garage		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2223,7 +2223,7 @@ garage		<-->	noun+B1[-0]	.
 
 
 
-gasometer		<-->	noun+C2[-0]	.
+gasometer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2233,7 +2233,7 @@ gasometer		<-->	noun+C2[-0]	.
 
 
 
-gazump		<-->	verb+C2	[221029][001]	./ɡəˈzʌmp/-NAmE /ɡəˈzʌmp/ [usually passive] (British English)
+gazump		<-->	verb++C2	[221029][001]	./ɡəˈzʌmp/-NAmE /ɡəˈzʌmp/ [usually passive] (British English)
 	;trả cao hơn -- (1) gazump somebody when somebody who has made an offer to pay a particular price for a house and who has had this offer accepted is gazumped, their offer is no longer accepted by the person selling the house, because somebody else has made a higher offer
 		;TOPICS Houses and homesC2
 
@@ -2243,7 +2243,7 @@ gazump		<-->	verb+C2	[221029][001]	./ɡəˈzʌmp/-NAmE /ɡəˈzʌmp/ [usually pa
 
 
 
-gazumping		<-->	noun+C2[-0]	.
+gazumping		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2253,7 +2253,7 @@ gazumping		<-->	noun+C2[-0]	.
 
 
 
-gazunder		<-->	verb+C2	[221029][001]	./ɡəˈzʌndə(r)/-NAmE /ɡəˈzʌndər/ [often passive] (British English)
+gazunder		<-->	verb++C2	[221029][001]	./ɡəˈzʌndə(r)/-NAmE /ɡəˈzʌndər/ [often passive] (British English)
 	;đề xuất giảm giá -- (1) to offer a lower price for a house that you have already agreed to buy at a higher price, before the contract is signed
 		;be gazundered The vendors were gazundered at the last minute.
 		;TOPICS Houses and homesC2
@@ -2264,7 +2264,7 @@ gazunder		<-->	verb+C2	[221029][001]	./ɡəˈzʌndə(r)/-NAmE /ɡəˈzʌndər/ [
 
 
 
-gazundering		<-->	noun+C2[-0]	.
+gazundering		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2274,7 +2274,7 @@ gazundering		<-->	noun+C2[-0]	.
 
 
 
-granny flat		<-->	noun+C2[-0]	.
+granny flat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2284,7 +2284,7 @@ granny flat		<-->	noun+C2[-0]	.
 
 
 
-ground floor		<-->	noun+A2[-0]	.
+ground floor		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2294,7 +2294,7 @@ ground floor		<-->	noun+A2[-0]	.
 
 
 
-guttering		<-->	noun+C2[-0]	.
+guttering		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2304,7 +2304,7 @@ guttering		<-->	noun+C2[-0]	.
 
 
 
-hall		<-->	noun+A2[-0]	.
+hall		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2314,7 +2314,7 @@ hall		<-->	noun+A2[-0]	.
 
 
 
-hallway		<-->	noun+A2[-0]	.
+hallway		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2324,7 +2324,7 @@ hallway		<-->	noun+A2[-0]	.
 
 
 
-hammock		<-->	noun+C1[-0]	.
+hammock		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2334,7 +2334,7 @@ hammock		<-->	noun+C1[-0]	.
 
 
 
-hang		<-->	verb+C2[-0]	.
+hang		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2344,7 +2344,7 @@ hang		<-->	verb+C2[-0]	.
 
 
 
-hanging		<-->	noun+C2[-0]	.
+hanging		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2354,7 +2354,7 @@ hanging		<-->	noun+C2[-0]	.
 
 
 
-hatch		<-->	noun+C2[-0]	.
+hatch		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2364,7 +2364,7 @@ hatch		<-->	noun+C2[-0]	.
 
 
 
-HDB		<-->	noun+C2[-0]	.
+HDB		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2374,7 +2374,7 @@ HDB		<-->	noun+C2[-0]	.
 
 
 
-heater		<-->	noun+B1[-0]	.
+heater		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2384,7 +2384,7 @@ heater		<-->	noun+B1[-0]	.
 
 
 
-heating		<-->	noun+B1[-0]	.
+heating		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2394,7 +2394,7 @@ heating		<-->	noun+B1[-0]	.
 
 
 
-hi-fi		<-->	noun+C1[-0]	.
+hi-fi		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2404,7 +2404,7 @@ hi-fi		<-->	noun+C1[-0]	.
 
 
 
-high chair		<-->	noun+C2[-0]	.
+high chair		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2414,7 +2414,7 @@ high chair		<-->	noun+C2[-0]	.
 
 
 
-home		<-->	noun+A1[-0]	.
+home		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2424,7 +2424,7 @@ home		<-->	noun+A1[-0]	.
 
 
 
-homebuyer		<-->	noun+C1[-0]	.
+homebuyer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2434,7 +2434,7 @@ homebuyer		<-->	noun+C1[-0]	.
 
 
 
-home improvement		<-->	noun+C1[-0]	.
+home improvement		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2444,7 +2444,7 @@ home improvement		<-->	noun+C1[-0]	.
 
 
 
-home loan		<-->	noun+B2[-0]	.
+home loan		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2454,7 +2454,7 @@ home loan		<-->	noun+B2[-0]	.
 
 
 
-home office		<-->	noun+B2[-0]	.
+home office		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2464,7 +2464,7 @@ home office		<-->	noun+B2[-0]	.
 
 
 
-homeowner		<-->	noun+C1[-0]	.
+homeowner		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2474,7 +2474,7 @@ homeowner		<-->	noun+C1[-0]	.
 
 
 
-hoover		<-->	verb+C1	[221029][001]	./ˈhuːvə(r)/-NAmE /ˈhuːvər/ [transitive, intransitive] (British English)
+hoover		<-->	verb++C1	[221029][001]	./ˈhuːvə(r)/-NAmE /ˈhuːvər/ [transitive, intransitive] (British English)
 	;hút bụi -- (1) ​hoover (something) to clean a carpet, floor, etc. with a vacuum cleaner
 		;SYNONYM vacuum
 		;to hoover the carpet
@@ -2486,7 +2486,7 @@ hoover		<-->	verb+C1	[221029][001]	./ˈhuːvə(r)/-NAmE /ˈhuːvər/ [transitive
 
 
 
-Hoover™		<-->	noun+C1[-0]	.
+Hoover™		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2496,7 +2496,7 @@ Hoover™		<-->	noun+C1[-0]	.
 
 
 
-house		<-->	noun+A1[-0]	.
+house		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2506,7 +2506,7 @@ house		<-->	noun+A1[-0]	.
 
 
 
-houseboat		<-->	noun+B2[-0]	.
+houseboat		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2516,7 +2516,7 @@ houseboat		<-->	noun+B2[-0]	.
 
 
 
-house-hunting		<-->	noun+C1[-0]	.
+house-hunting		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2526,7 +2526,7 @@ house-hunting		<-->	noun+C1[-0]	.
 
 
 
-housemate		<-->	noun+C1[-0]	.
+housemate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2536,7 +2536,7 @@ housemate		<-->	noun+C1[-0]	.
 
 
 
-house-sit		<-->	verb+C2	[221029][001]	./ˈhaʊs sɪt/-NAmE /ˈhaʊs sɪt/ [intransitive]
+house-sit		<-->	verb++C2	[221029][001]	./ˈhaʊs sɪt/-NAmE /ˈhaʊs sɪt/ [intransitive]
 	;trông nhà -- (1) to live in somebody’s house while they are away in order to take care of it for them
 		;A friend of mine needs someone to house-sit and feed her cats.
 		;TOPICS Houses and homesC2
@@ -2547,7 +2547,7 @@ house-sit		<-->	verb+C2	[221029][001]	./ˈhaʊs sɪt/-NAmE /ˈhaʊs sɪt/ [intra
 
 
 
-house-warming		<-->	noun+C1[-0]	.
+house-warming		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2557,7 +2557,7 @@ house-warming		<-->	noun+C1[-0]	.
 
 
 
-housework		<-->	noun+A2[-0]	.
+housework		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2567,7 +2567,7 @@ housework		<-->	noun+A2[-0]	.
 
 
 
-housing		<-->	noun+B2[-0]	.
+housing		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2577,7 +2577,7 @@ housing		<-->	noun+B2[-0]	.
 
 
 
-housing benefit		<-->	noun+C2[-0]	.
+housing benefit		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2587,7 +2587,7 @@ housing benefit		<-->	noun+C2[-0]	.
 
 
 
-housing estate		<-->	noun+B2[-0]	.
+housing estate		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2597,7 +2597,7 @@ housing estate		<-->	noun+B2[-0]	.
 
 
 
-housing scheme		<-->	noun+C1[-0]	.
+housing scheme		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2607,7 +2607,7 @@ housing scheme		<-->	noun+C1[-0]	.
 
 
 
-hut		<-->	noun+B2[-0]	.
+hut		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2617,7 +2617,7 @@ hut		<-->	noun+B2[-0]	.
 
 
 
-igloo		<-->	noun+C1[-0]	.
+igloo		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2627,7 +2627,7 @@ igloo		<-->	noun+C1[-0]	.
 
 
 
-immersion heater		<-->	noun+C2[-0]	.
+immersion heater		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2637,7 +2637,7 @@ immersion heater		<-->	noun+C2[-0]	.
 
 
 
-in arrears		<-->	idiom+C2[-0]	.
+in arrears		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2647,7 +2647,7 @@ in arrears		<-->	idiom+C2[-0]	.
 
 
 
-indoor		<-->	adjective+B1[-0]	.
+indoor		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2657,7 +2657,7 @@ indoor		<-->	adjective+B1[-0]	.
 
 
 
-indoors		<-->	adverb+B1	[220829][001]	./ˌɪnˈdɔːz/-NAmE /ˌɪnˈdɔːrz/
+indoors		<-->	adverb++B1	[220829][001]	./ˌɪnˈdɔːz/-NAmE /ˌɪnˈdɔːrz/
 	;trong nhà -- (1) inside or into a building
 		;I prefer to stay indoors in this really hot weather.
 		;Let's go indoors.
@@ -2676,14 +2676,14 @@ indoors		<-->	adverb+B1	[220829][001]	./ˌɪnˈdɔːz/-NAmE /ˌɪnˈdɔːrz/
 
 
 
-interior		<-->	noun+C1[-0]    .
+interior		<-->	noun++C1[-0]    .
 
 
 
 
 
 
-interior		<-->	adjective+C1[-0]	.
+interior		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2693,7 +2693,7 @@ interior		<-->	adjective+C1[-0]	.
 
 
 
-iron		<-->	noun+B1[-0]	.
+iron		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2703,7 +2703,7 @@ iron		<-->	noun+B1[-0]	.
 
 
 
-iron		<-->	verb+B1	[221029][001]	./cef/
+iron		<-->	verb++B1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2713,7 +2713,7 @@ iron		<-->	verb+B1	[221029][001]	./cef/
 
 
 
-ironing		<-->	noun+B1[-0]	.
+ironing		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2723,7 +2723,7 @@ ironing		<-->	noun+B1[-0]	.
 
 
 
-ironing board		<-->	noun+B2[-0]	.
+ironing board		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2733,7 +2733,7 @@ ironing board		<-->	noun+B2[-0]	.
 
 
 
-Jacuzzi™		<-->	noun+C2[-0]	.
+Jacuzzi™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2743,7 +2743,7 @@ Jacuzzi™		<-->	noun+C2[-0]	.
 
 
 
-kitchen		<-->	noun+A1[-0]	.
+kitchen		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2753,7 +2753,7 @@ kitchen		<-->	noun+A1[-0]	.
 
 
 
-knick-knack		<-->	noun+C2[-0]	.
+knick-knack		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2763,7 +2763,7 @@ knick-knack		<-->	noun+C2[-0]	.
 
 
 
-knocker		<-->	noun+C2[-0]	.
+knocker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2773,7 +2773,7 @@ knocker		<-->	noun+C2[-0]	.
 
 
 
-ladder		<-->	noun+B2[-0]	.
+ladder		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2783,7 +2783,7 @@ ladder		<-->	noun+B2[-0]	.
 
 
 
-lamp		<-->	noun+A2[-0]	.
+lamp		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2793,7 +2793,7 @@ lamp		<-->	noun+A2[-0]	.
 
 
 
-lampshade		<-->	noun+C2[-0]	.
+lampshade		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2803,7 +2803,7 @@ lampshade		<-->	noun+C2[-0]	.
 
 
 
-landing		<-->	noun+C1[-0]	.
+landing		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2813,7 +2813,7 @@ landing		<-->	noun+C1[-0]	.
 
 
 
-landlady		<-->	noun+B2[-0]	.
+landlady		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2823,7 +2823,7 @@ landlady		<-->	noun+B2[-0]	.
 
 
 
-landlord		<-->	noun+C1[-0]	.
+landlord		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2833,7 +2833,7 @@ landlord		<-->	noun+C1[-0]	.
 
 
 
-larder		<-->	noun+C2[-0]	.
+larder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2843,7 +2843,7 @@ larder		<-->	noun+C2[-0]	.
 
 
 
-lavatory		<-->	noun+C2[-0]	.
+lavatory		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2853,7 +2853,7 @@ lavatory		<-->	noun+C2[-0]	.
 
 
 
-lease		<-->	noun+C1[-0]	.
+lease		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2863,7 +2863,7 @@ lease		<-->	noun+C1[-0]	.
 
 
 
-lease		<-->	verb+C1	[221029][001]	./liːs/-NAmE /liːs/\
+lease		<-->	verb++C1	[221029][001]	./liːs/-NAmE /liːs/\
 	;cho thuê -- (1) ​to use or let somebody use something, especially property or equipment, in exchange for rent or a regular payment
 		;SYNONYM rent
 		;lease something We lease all our computer equipment.
@@ -2879,7 +2879,7 @@ lease		<-->	verb+C1	[221029][001]	./liːs/-NAmE /liːs/\
 
 
 
-leasehold		<-->	noun+C2[-0]	.
+leasehold		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2889,7 +2889,7 @@ leasehold		<-->	noun+C2[-0]	.
 
 
 
-leaseholder		<-->	noun+C2[-0]	.
+leaseholder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2899,7 +2899,7 @@ leaseholder		<-->	noun+C2[-0]	.
 
 
 
-lend		<-->	verb+A2[-0]	.
+lend		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2909,7 +2909,7 @@ lend		<-->	verb+A2[-0]	.
 
 
 
-lessee		<-->	noun+C2[-0]	.
+lessee		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2919,7 +2919,7 @@ lessee		<-->	noun+C2[-0]	.
 
 
 
-lessor		<-->	noun+C2[-0]	.
+lessor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2929,7 +2929,7 @@ lessor		<-->	noun+C2[-0]	.
 
 
 
-let		<-->	verb+C1	[221029][001]	./cef/
+let		<-->	verb++C1	[221029][001]	./cef/
 	;cho thuê -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2939,7 +2939,7 @@ let		<-->	verb+C1	[221029][001]	./cef/
 
 
 
-let		<-->	noun+C1	[221029][001]	./let/-NAmE /let/\
+let		<-->	noun++C1	[221029][001]	./let/-NAmE /let/\
 	;??? -- (1) [-in tennis] a serve that lands in the correct part of the court but must be taken again because it has touched the top of the net
 	;việc thuê nhà -- (2) [-house/room] (British English) an act of renting a house, flat, room, etc.; a house, flat, room etc. that is available to rent
 		;a long-term/short-term let
@@ -2952,7 +2952,7 @@ let		<-->	noun+C1	[221029][001]	./let/-NAmE /let/\
 
 
 
-letter box		<-->	noun+C1[-0]	.
+letter box		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2962,7 +2962,7 @@ letter box		<-->	noun+C1[-0]	.
 
 
 
-letting		<-->	noun+C2[-0]	.
+letting		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2972,7 +2972,7 @@ letting		<-->	noun+C2[-0]	.
 
 
 
-level		<-->	noun+A2[-0]	.
+level		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2982,7 +2982,7 @@ level		<-->	noun+A2[-0]	.
 
 
 
-library		<-->	noun+A1[-0]	.
+library		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2992,7 +2992,7 @@ library		<-->	noun+A1[-0]	.
 
 
 
-light		<-->	noun+A1[-0]	.
+light		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3002,7 +3002,7 @@ light		<-->	noun+A1[-0]	.
 
 
 
-lino		<-->	noun+C2[-0]	.
+lino		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3012,7 +3012,7 @@ lino		<-->	noun+C2[-0]	.
 
 
 
-linoleum		<-->	noun+C2[-0]	.
+linoleum		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3022,7 +3022,7 @@ linoleum		<-->	noun+C2[-0]	.
 
 
 
-living room		<-->	noun+A1[-0]	.
+living room		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3032,7 +3032,7 @@ living room		<-->	noun+A1[-0]	.
 
 
 
-loan		<-->	noun+B2[-0]	.
+loan		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3042,7 +3042,7 @@ loan		<-->	noun+B2[-0]	.
 
 
 
-loan		<-->	verb+B2	[221029][001]	./ləʊn/-NAmE /ləʊn/
+loan		<-->	verb++B2	[221029][001]	./ləʊn/-NAmE /ləʊn/
 	;vay -- (1) (especially North American English) to lend something to somebody, especially money
 		;loan something (to somebody) The bank is happy to loan money to small businesses.
 		;loan somebody something A friend loaned me $1 000.
@@ -3058,7 +3058,7 @@ loan		<-->	verb+B2	[221029][001]	./ləʊn/-NAmE /ləʊn/
 
 
 
-lock		<-->	noun+A2[-0]	.
+lock		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3068,7 +3068,7 @@ lock		<-->	noun+A2[-0]	.
 
 
 
-lodger		<-->	noun+C2[-0]	.
+lodger		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3078,7 +3078,7 @@ lodger		<-->	noun+C2[-0]	.
 
 
 
-lodging		<-->	noun+C2[-0]	.
+lodging		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3088,7 +3088,7 @@ lodging		<-->	noun+C2[-0]	.
 
 
 
-loft		<-->	noun+C1[-0]	.
+loft		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3098,7 +3098,7 @@ loft		<-->	noun+C1[-0]	.
 
 
 
-log cabin		<-->	noun+C2[-0]	.
+log cabin		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3108,7 +3108,7 @@ log cabin		<-->	noun+C2[-0]	.
 
 
 
-loo		<-->	noun+C1[-0]	.
+loo		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3118,7 +3118,7 @@ loo		<-->	noun+C1[-0]	.
 
 
 
-lounge		<-->	noun+B2[-0]	.
+lounge		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3128,7 +3128,7 @@ lounge		<-->	noun+B2[-0]	.
 
 
 
-lounge chair		<-->	noun+C2[-0]	.
+lounge chair		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3138,7 +3138,7 @@ lounge chair		<-->	noun+C2[-0]	.
 
 
 
-mailbox		<-->	noun+C1[-0]	.
+mailbox		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3148,7 +3148,7 @@ mailbox		<-->	noun+C1[-0]	.
 
 
 
-main		<-->	noun+C2[-0]	.
+main		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3158,7 +3158,7 @@ main		<-->	noun+C2[-0]	.
 
 
 
-maisonette		<-->	noun+C2[-0]	.
+maisonette		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3168,7 +3168,7 @@ maisonette		<-->	noun+C2[-0]	.
 
 
 
-man cave		<-->	noun+C2[-0]	.
+man cave		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3178,7 +3178,7 @@ man cave		<-->	noun+C2[-0]	.
 
 
 
-manor		<-->	noun+C1[-0]	.
+manor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3188,7 +3188,7 @@ manor		<-->	noun+C1[-0]	.
 
 
 
-manse		<-->	noun+C2[-0]	.
+manse		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3198,7 +3198,7 @@ manse		<-->	noun+C2[-0]	.
 
 
 
-mansion		<-->	noun+C1[-0]	.
+mansion		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3208,7 +3208,7 @@ mansion		<-->	noun+C1[-0]	.
 
 
 
-mantelpiece		<-->	noun+C2[-0]	.
+mantelpiece		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3218,7 +3218,7 @@ mantelpiece		<-->	noun+C2[-0]	.
 
 
 
-mat		<-->	noun+C1[-0]	.
+mat		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3228,7 +3228,7 @@ mat		<-->	noun+C1[-0]	.
 
 
 
-mews house		<-->	noun+C2[-0]	.
+mews house		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3238,7 +3238,7 @@ mews house		<-->	noun+C2[-0]	.
 
 
 
-mezzanine		<-->	noun+C2[-0]	.
+mezzanine		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3248,7 +3248,7 @@ mezzanine		<-->	noun+C2[-0]	.
 
 
 
-mirror		<-->	noun+A2[-0]	.
+mirror		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3258,7 +3258,7 @@ mirror		<-->	noun+A2[-0]	.
 
 
 
-mobile home		<-->	noun+C2[-0]	.
+mobile home		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3268,7 +3268,7 @@ mobile home		<-->	noun+C2[-0]	.
 
 
 
-mod con		<-->	noun+C2[-0]	.
+mod con		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3278,7 +3278,7 @@ mod con		<-->	noun+C2[-0]	.
 
 
 
-mop		<-->	noun+C1[-0]	.
+mop		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3288,7 +3288,7 @@ mop		<-->	noun+C1[-0]	.
 
 
 
-mop		<-->	verb+C1	[221029][001]	./mɒp/-NAmE /mɑːp/
+mop		<-->	verb++C1	[221029][001]	./mɒp/-NAmE /mɑːp/
 	;lau chùi bằng cây lau nhà -- (1) ​mop something to clean something with a mop
 		;She wiped all the surfaces and mopped the floor.
 		;TOPICS Houses and homesC1
@@ -3299,7 +3299,7 @@ mop		<-->	verb+C1	[221029][001]	./mɒp/-NAmE /mɑːp/
 
 
 
-mortgage		<-->	noun+B2	[221029][001]	./cef/
+mortgage		<-->	noun++B2	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3309,7 +3309,7 @@ mortgage		<-->	noun+B2	[221029][001]	./cef/
 
 
 
-mortgage		<-->	verb+B2	[221029][001]	./ˈmɔːɡɪdʒ/-NAmE /ˈmɔːrɡɪdʒ/\
+mortgage		<-->	verb++B2	[221029][001]	./ˈmɔːɡɪdʒ/-NAmE /ˈmɔːrɡɪdʒ/\
 	;thế chấp -- (1) mortgage something to give a bank, etc. the legal right to own your house, land, etc. if you do not pay the money back that you have borrowed from the bank to buy the house or land
 		;He had to mortgage his house to pay his legal costs.
 		;TOPICS MoneyB2, Houses and homesB2
@@ -3320,7 +3320,7 @@ mortgage		<-->	verb+B2	[221029][001]	./ˈmɔːɡɪdʒ/-NAmE /ˈmɔːrɡɪdʒ/\
 
 
 
-mortgage bond		<-->	noun+C2[-0]	.
+mortgage bond		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3330,7 +3330,7 @@ mortgage bond		<-->	noun+C2[-0]	.
 
 
 
-moulding		<-->	noun+C2[-0]	.
+moulding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3340,7 +3340,7 @@ moulding		<-->	noun+C2[-0]	.
 
 
 
-move		<-->	verb+A2[-0]	.
+move		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3350,7 +3350,7 @@ move		<-->	verb+A2[-0]	.
 
 
 
-move		<-->	noun+B1[-0]	.
+move		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3360,7 +3360,7 @@ move		<-->	noun+B1[-0]	.
 
 
 
-mudroom		<-->	noun+C2[-0]	.
+mudroom		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3370,7 +3370,7 @@ mudroom		<-->	noun+C2[-0]	.
 
 
 
-mural		<-->	noun+C1[-0]	.
+mural		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3380,7 +3380,7 @@ mural		<-->	noun+C1[-0]	.
 
 
 
-negative equity		<-->	noun+C2[-0]	.
+negative equity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3390,7 +3390,7 @@ negative equity		<-->	noun+C2[-0]	.
 
 
 
-new build		<-->	noun+C1[-0]	.
+new build		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3400,7 +3400,7 @@ new build		<-->	noun+C1[-0]	.
 
 
 
-notice		<-->	noun+C2[-0]	.
+notice		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3410,7 +3410,7 @@ notice		<-->	noun+C2[-0]	.
 
 
 
-nursery		<-->	noun+C2[-0]	.
+nursery		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3420,7 +3420,7 @@ nursery		<-->	noun+C2[-0]	.
 
 
 
-occupancy		<-->	noun+C2[-0]	.
+occupancy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3430,7 +3430,7 @@ occupancy		<-->	noun+C2[-0]	.
 
 
 
-occupation		<-->	noun+C1[-0]	.
+occupation		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3440,7 +3440,7 @@ occupation		<-->	noun+C1[-0]	.
 
 
 
-occupier		<-->	noun+C2[-0]	.
+occupier		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3450,7 +3450,7 @@ occupier		<-->	noun+C2[-0]	.
 
 
 
-occupy		<-->	verb+C1	[221029][001]	./cef/
+occupy		<-->	verb++C1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3460,7 +3460,7 @@ occupy		<-->	verb+C1	[221029][001]	./cef/
 
 
 
-offer		<-->	noun+A2[-0]	.
+offer		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3470,7 +3470,7 @@ offer		<-->	noun+A2[-0]	.
 
 
 
-office		<-->	noun+A1[-0]	.
+office		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3480,7 +3480,7 @@ office		<-->	noun+A1[-0]	.
 
 
 
-open-plan		<-->	adjective+B2[-0]	.
+open-plan		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3490,7 +3490,7 @@ open-plan		<-->	adjective+B2[-0]	.
 
 
 
-ornament		<-->	noun+C2	[221029][001]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/\ [usually passive] (formal)
+ornament		<-->	noun++C2	[221029][001]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/\ [usually passive] (formal)
 	;trang trí -- (1) ornament something to add decoration to something
 		;SYNONYM decorate
 		;<< decorate, ornament, >>
@@ -3504,7 +3504,7 @@ ornament		<-->	noun+C2	[221029][001]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/\ [us
 
 
 
-ornament		<-->	verb+C2	[221029][001]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/ [usually passive] (formal)
+ornament		<-->	verb++C2	[221029][001]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/ [usually passive] (formal)
 	;trang trí -- (1) ornament something to add decoration to something
 		;SYNONYM decorate
 		;a room richly ornamented with carving
@@ -3516,7 +3516,7 @@ ornament		<-->	verb+C2	[221029][001]	./ˈɔːnəment/-NAmE /ˈɔːrnəment/ [usu
 
 
 
-outdoor		<-->	adjective+B1[-0]	.
+outdoor		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3526,7 +3526,7 @@ outdoor		<-->	adjective+B1[-0]	.
 
 
 
-outdoors		<-->	adverb+B1	[221029][001]	./cef/
+outdoors		<-->	adverb++B1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3536,7 +3536,7 @@ outdoors		<-->	adverb+B1	[221029][001]	./cef/
 
 
 
-owner-occupier		<-->	noun+C2[-0]	.
+owner-occupier		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3546,7 +3546,7 @@ owner-occupier		<-->	noun+C2[-0]	.
 
 
 
-pail		<-->	noun+C2[-0]	.
+pail		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3556,7 +3556,7 @@ pail		<-->	noun+C2[-0]	.
 
 
 
-paint		<-->	noun+A1[-0]	.
+paint		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3566,7 +3566,7 @@ paint		<-->	noun+A1[-0]	.
 
 
 
-paint		<-->	verb+A1[-0]	.
+paint		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3576,7 +3576,7 @@ paint		<-->	verb+A1[-0]	.
 
 
 
-palace		<-->	noun+A2[-0]	.
+palace		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3586,7 +3586,7 @@ palace		<-->	noun+A2[-0]	.
 
 
 
-panic room		<-->	noun+C2[-0]	.
+panic room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3596,7 +3596,7 @@ panic room		<-->	noun+C2[-0]	.
 
 
 
-pantry		<-->	noun+C2[-0]	.
+pantry		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3606,7 +3606,7 @@ pantry		<-->	noun+C2[-0]	.
 
 
 
-paperwork		<-->	noun+B2[-0]	.
+paperwork		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3616,7 +3616,7 @@ paperwork		<-->	noun+B2[-0]	.
 
 
 
-partition		<-->	noun+C2[-0]	.
+partition		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3626,7 +3626,7 @@ partition		<-->	noun+C2[-0]	.
 
 
 
-passage		<-->	noun+B2[-0]	.
+passage		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3636,7 +3636,7 @@ passage		<-->	noun+B2[-0]	.
 
 
 
-pattern		<-->	noun+B1[-0]	.
+pattern		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3646,7 +3646,7 @@ pattern		<-->	noun+B1[-0]	.
 
 
 
-patterned		<-->	adjective+C1[-0]	.
+patterned		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3656,7 +3656,7 @@ patterned		<-->	adjective+C1[-0]	.
 
 
 
-picture		<-->	noun+A1[-0]	.
+picture		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3666,7 +3666,7 @@ picture		<-->	noun+A1[-0]	.
 
 
 
-picture rail		<-->	noun+C2[-0]	.
+picture rail		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3676,7 +3676,7 @@ picture rail		<-->	noun+C2[-0]	.
 
 
 
-pile		<-->	noun+C2[-0]	.
+pile		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3686,7 +3686,7 @@ pile		<-->	noun+C2[-0]	.
 
 
 
-plain		<-->	adjective+B2[-0]	.
+plain		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3696,7 +3696,7 @@ plain		<-->	adjective+B2[-0]	.
 
 
 
-playroom		<-->	noun+B2[-0]	.
+playroom		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3706,7 +3706,7 @@ playroom		<-->	noun+B2[-0]	.
 
 
 
-plug		<-->	noun+C1[-0]	.
+plug		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3716,7 +3716,7 @@ plug		<-->	noun+C1[-0]	.
 
 
 
-plughole		<-->	noun+C2[-0]	.
+plughole		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3726,7 +3726,7 @@ plughole		<-->	noun+C2[-0]	.
 
 
 
-plunger		<-->	noun+C2[-0]	.
+plunger		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3736,7 +3736,7 @@ plunger		<-->	noun+C2[-0]	.
 
 
 
-poker		<-->	noun+C2[-0]	.
+poker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3746,7 +3746,7 @@ poker		<-->	noun+C2[-0]	.
 
 
 
-polish		<-->	noun+C1[-0]	.
+polish		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3756,7 +3756,7 @@ polish		<-->	noun+C1[-0]	.
 
 
 
-polish		<-->	verb+C1	[221029][001]	./ˈpɒlɪʃ/-NAmE /ˈpɑːlɪʃ/
+polish		<-->	verb++C1	[221029][001]	./ˈpɒlɪʃ/-NAmE /ˈpɑːlɪʃ/
 	;đánh bóng -- (1) [transitive, intransitive] to make something smooth and shiny by rubbing it
 		;polish (something) Polish shoes regularly to protect the leather.
 		;The gemstones are cut and polished by master craftsmen.
@@ -3774,7 +3774,7 @@ polish		<-->	verb+C1	[221029][001]	./ˈpɒlɪʃ/-NAmE /ˈpɑːlɪʃ/
 
 
 
-porch		<-->	noun+C1[-0]	.
+porch		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3784,7 +3784,7 @@ porch		<-->	noun+C1[-0]	.
 
 
 
-power point		<-->	noun+C1[-0]	.
+power point		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3794,7 +3794,7 @@ power point		<-->	noun+C1[-0]	.
 
 
 
-prefab		<-->	noun+C2[-0]	.
+prefab		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3804,7 +3804,7 @@ prefab		<-->	noun+C2[-0]	.
 
 
 
-public housing		<-->	noun+C1[-0]	.
+public housing		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3814,7 +3814,7 @@ public housing		<-->	noun+C1[-0]	.
 
 
 
-purchase		<-->	noun+B2[-0]	.
+purchase		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3824,7 +3824,7 @@ purchase		<-->	noun+B2[-0]	.
 
 
 
-quantity surveyor		<-->	noun+C2[-0]	.
+quantity surveyor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3834,7 +3834,7 @@ quantity surveyor		<-->	noun+C2[-0]	.
 
 
 
-radiator		<-->	noun+C2[-0]	.
+radiator		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3844,7 +3844,7 @@ radiator		<-->	noun+C2[-0]	.
 
 
 
-rate		<-->	noun+C2[-0]	.
+rate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3854,7 +3854,7 @@ rate		<-->	noun+C2[-0]	.
 
 
 
-real estate		<-->	noun+C2[-0]	.
+real estate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3864,7 +3864,7 @@ real estate		<-->	noun+C2[-0]	.
 
 
 
-Realtor™		<-->	noun+C2[-0]	.
+Realtor™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3874,7 +3874,7 @@ Realtor™		<-->	noun+C2[-0]	.
 
 
 
-realty		<-->	noun+C2[-0]	.
+realty		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3884,7 +3884,7 @@ realty		<-->	noun+C2[-0]	.
 
 
 
-reception room		<-->	noun+C2[-0]	.
+reception room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3894,7 +3894,7 @@ reception room		<-->	noun+C2[-0]	.
 
 
 
-recliner		<-->	noun+C2[-0]	.
+recliner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3904,7 +3904,7 @@ recliner		<-->	noun+C2[-0]	.
 
 
 
-recreation room		<-->	noun+C2[-0]	.
+recreation room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3914,7 +3914,7 @@ recreation room		<-->	noun+C2[-0]	.
 
 
 
-rec room		<-->	noun+C2[-0]	.
+rec room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3924,7 +3924,7 @@ rec room		<-->	noun+C2[-0]	.
 
 
 
-redecorate		<-->	verb+C1	[221029][001]	./ˌriːˈdekəreɪt/-NAmE /ˌriːˈdekəreɪt/ [intransitive, transitive]
+redecorate		<-->	verb++C1	[221029][001]	./ˌriːˈdekəreɪt/-NAmE /ˌriːˈdekəreɪt/ [intransitive, transitive]
 	;sơ lại -- (1) to put new paint and/or paper on the walls of a room or house
 		;We've just redecorated.
 		;redecorate something The house has been fully redecorated.
@@ -3940,7 +3940,7 @@ redecorate		<-->	verb+C1	[221029][001]	./ˌriːˈdekəreɪt/-NAmE /ˌriːˈdekə
 
 
 
-redecoration		<-->	noun+C2[-0]	.
+redecoration		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3950,7 +3950,7 @@ redecoration		<-->	noun+C2[-0]	.
 
 
 
-refrigerator		<-->	noun+B1[-0]	.
+refrigerator		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3960,7 +3960,7 @@ refrigerator		<-->	noun+B1[-0]	.
 
 
 
-refuge		<-->	noun+C1[-0]	.
+refuge		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3970,7 +3970,7 @@ refuge		<-->	noun+C1[-0]	.
 
 
 
-remortgage		<-->	verb+C2	[221029][001]	./ˌriːˈmɔːɡɪdʒ/-NAmE /ˌriːˈmɔːrɡɪdʒ/ [intransitive, transitive]
+remortgage		<-->	verb++C2	[221029][001]	./ˌriːˈmɔːɡɪdʒ/-NAmE /ˌriːˈmɔːrɡɪdʒ/ [intransitive, transitive]
 	;tái vay -- (1) remortgage (something) to arrange a second mortgage on your house or apartment, or to increase or change your first one
 		;TOPICS Houses and homesC2
 
@@ -3980,7 +3980,7 @@ remortgage		<-->	verb+C2	[221029][001]	./ˌriːˈmɔːɡɪdʒ/-NAmE /ˌriːˈmɔ
 
 
 
-remote control		<-->	noun+B2[-0]	.
+remote control		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3990,7 +3990,7 @@ remote control		<-->	noun+B2[-0]	.
 
 
 
-removal van		<-->	noun+C2[-0]	.
+removal van		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4000,7 +4000,7 @@ removal van		<-->	noun+C2[-0]	.
 
 
 
-remover		<-->	noun+C2[-0]	.
+remover		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4010,7 +4010,7 @@ remover		<-->	noun+C2[-0]	.
 
 
 
-renew		<-->	verb+C1[-0]	.
+renew		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4020,7 +4020,7 @@ renew		<-->	verb+C1[-0]	.
 
 
 
-rent		<-->	noun+B1[-0]	.
+rent		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4030,7 +4030,7 @@ rent		<-->	noun+B1[-0]	.
 
 
 
-rent		<-->	verb+B1	[221029][001]	./cef/
+rent		<-->	verb++B1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4040,7 +4040,7 @@ rent		<-->	verb+B1	[221029][001]	./cef/
 
 
 
-rental		<-->	noun+C1[-0]	.
+rental		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4050,7 +4050,7 @@ rental		<-->	noun+C1[-0]	.
 
 
 
-rent-free		<-->	adverb+C1	[221029][001]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfriː/a\
+rent-free		<-->	adverb++C1	[221029][001]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfriː/a\
 	;miễn phí -- (1) without having to pay rent
 		;She lives rent-free with her brother.
 		;TOPICS Houses and homesC1
@@ -4061,7 +4061,7 @@ rent-free		<-->	adverb+C1	[221029][001]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfriː/a
 
 
 
-rent-free		<-->	adjective+C1	[221029][001]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfriː/
+rent-free		<-->	adjective++C1	[221029][001]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfriː/
 	;miễn phí -- (1) for which no rent is paid
 		;rent-free housing
 		;TOPICS Houses and homesC1
@@ -4072,7 +4072,7 @@ rent-free		<-->	adjective+C1	[221029][001]	./ˌrent ˈfriː/-NAmE /ˌrent ˈfri�
 
 
 
-repayment		<-->	noun+C1[-0]	.
+repayment		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4082,7 +4082,7 @@ repayment		<-->	noun+C1[-0]	.
 
 
 
-repossess		<-->	verb+C2	[221029][001]	./ˌriːpəˈzes/-NAmE /ˌriːpəˈzes/ [usually passive]
+repossess		<-->	verb++C2	[221029][001]	./ˌriːpəˈzes/-NAmE /ˌriːpəˈzes/ [usually passive]
 	;thu hồi, lấy lại -- (1) to take back property or goods from somebody who has arranged to buy them but who still owes money for them and cannot pay
 		;be repossessed First I lost my job, then my house was repossessed.
 		;COMPARE foreclose
@@ -4099,7 +4099,7 @@ repossess		<-->	verb+C2	[221029][001]	./ˌriːpəˈzes/-NAmE /ˌriːpəˈzes/ [u
 
 
 
-repossession		<-->	noun+C2[-0]	.
+repossession		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4109,7 +4109,7 @@ repossession		<-->	noun+C2[-0]	.
 
 
 
-residential		<-->	adjective+C1[-0]	.
+residential		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4119,7 +4119,7 @@ residential		<-->	adjective+C1[-0]	.
 
 
 
-residents’ association		<-->	noun+C2[-0]	.
+residents’ association		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4129,7 +4129,7 @@ residents’ association		<-->	noun+C2[-0]	.
 
 
 
-rocking chair		<-->	noun+C2[-0]	.
+rocking chair		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4139,7 +4139,7 @@ rocking chair		<-->	noun+C2[-0]	.
 
 
 
-roof		<-->	noun+A2[-0]	.
+roof		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4149,7 +4149,7 @@ roof		<-->	noun+A2[-0]	.
 
 
 
-rooftop		<-->	noun+B2[-0]	.
+rooftop		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4159,7 +4159,7 @@ rooftop		<-->	noun+B2[-0]	.
 
 
 
-room		<-->	noun+A1[-0]	.
+room		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4169,7 +4169,7 @@ room		<-->	noun+A1[-0]	.
 
 
 
-roomer		<-->	noun+C2[-0]	.
+roomer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4179,7 +4179,7 @@ roomer		<-->	noun+C2[-0]	.
 
 
 
-roomie		<-->	noun+C2[-0]	.
+roomie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4189,7 +4189,7 @@ roomie		<-->	noun+C2[-0]	.
 
 
 
-rooming house		<-->	noun+C2[-0]	.
+rooming house		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4199,7 +4199,7 @@ rooming house		<-->	noun+C2[-0]	.
 
 
 
-room-mate		<-->	noun+B2[-0]	.
+room-mate		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4209,7 +4209,7 @@ room-mate		<-->	noun+B2[-0]	.
 
 
 
-rota		<-->	noun+C2[-0]	.
+rota		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4219,7 +4219,7 @@ rota		<-->	noun+C2[-0]	.
 
 
 
-rug		<-->	noun+B1[-0]	.
+rug		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4229,7 +4229,7 @@ rug		<-->	noun+B1[-0]	.
 
 
 
-safe room		<-->	noun+C2[-0]	.
+safe room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4239,7 +4239,7 @@ safe room		<-->	noun+C2[-0]	.
 
 
 
-satellite dish		<-->	noun+C1[-0]	.
+satellite dish		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4249,7 +4249,7 @@ satellite dish		<-->	noun+C1[-0]	.
 
 
 
-sauna		<-->	noun+C1[-0]	.
+sauna		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4259,7 +4259,7 @@ sauna		<-->	noun+C1[-0]	.
 
 
 
-savings and loan association		<-->	noun+C2[-0]	.
+savings and loan association		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4269,7 +4269,7 @@ savings and loan association		<-->	noun+C2[-0]	.
 
 
 
-scrubbing brush		<-->	noun+C2[-0]	.
+scrubbing brush		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4279,7 +4279,7 @@ scrubbing brush		<-->	noun+C2[-0]	.
 
 
 
-second home		<-->	noun+C1[-0]	.
+second home		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4289,7 +4289,7 @@ second home		<-->	noun+C1[-0]	.
 
 
 
-security deposit		<-->	noun+B2[-0]	.
+security deposit		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4299,7 +4299,7 @@ security deposit		<-->	noun+B2[-0]	.
 
 
 
-sell		<-->	verb+A1[-0]	.
+sell		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4309,7 +4309,7 @@ sell		<-->	verb+A1[-0]	.
 
 
 
-semi-detached		<-->	adjective+B2[-0]	.
+semi-detached		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4319,7 +4319,7 @@ semi-detached		<-->	adjective+B2[-0]	.
 
 
 
-settee		<-->	noun+C2[-0]	.
+settee		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4329,7 +4329,7 @@ settee		<-->	noun+C2[-0]	.
 
 
 
-shabby chic		<-->	noun+C2[-0]	.
+shabby chic		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4339,7 +4339,7 @@ shabby chic		<-->	noun+C2[-0]	.
 
 
 
-shabby chic		<-->	adjective+C2[-0]	.
+shabby chic		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4349,7 +4349,7 @@ shabby chic		<-->	adjective+C2[-0]	.
 
 
 
-shelf		<-->	noun+B1[-0]	.
+shelf		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4359,7 +4359,7 @@ shelf		<-->	noun+B1[-0]	.
 
 
 
-shelter		<-->	noun+B2[-0]	.
+shelter		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4369,7 +4369,7 @@ shelter		<-->	noun+B2[-0]	.
 
 
 
-shower		<-->	noun+A1[-0]	.
+shower		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4379,7 +4379,7 @@ shower		<-->	noun+A1[-0]	.
 
 
 
-shutter		<-->	noun+C1[-0]	.
+shutter		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4389,7 +4389,7 @@ shutter		<-->	noun+C1[-0]	.
 
 
 
-sideboard		<-->	noun+C2[-0]	.
+sideboard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4399,7 +4399,7 @@ sideboard		<-->	noun+C2[-0]	.
 
 
 
-sink		<-->	noun+B1[-0]	.
+sink		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4409,7 +4409,7 @@ sink		<-->	noun+B1[-0]	.
 
 
 
-sitting room		<-->	noun+A2[-0]	.
+sitting room		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4419,7 +4419,7 @@ sitting room		<-->	noun+A2[-0]	.
 
 
 
-skirting board		<-->	noun+C2[-0]	.
+skirting board		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4429,7 +4429,7 @@ skirting board		<-->	noun+C2[-0]	.
 
 
 
-skylight		<-->	noun+C2[-0]	.
+skylight		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4439,7 +4439,7 @@ skylight		<-->	noun+C2[-0]	.
 
 
 
-smoke alarm		<-->	noun+B2[-0]	.
+smoke alarm		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4449,7 +4449,7 @@ smoke alarm		<-->	noun+B2[-0]	.
 
 
 
-social housing		<-->	noun+C1[-0]	.
+social housing		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4459,7 +4459,7 @@ social housing		<-->	noun+C1[-0]	.
 
 
 
-socket		<-->	noun+C1[-0]	.
+socket		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4469,7 +4469,7 @@ socket		<-->	noun+C1[-0]	.
 
 
 
-sofa		<-->	noun+A1[-0]	.
+sofa		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4479,7 +4479,7 @@ sofa		<-->	noun+A1[-0]	.
 
 
 
-soft furnishings		<-->	noun+C2[-0]	.
+soft furnishings		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4489,7 +4489,7 @@ soft furnishings		<-->	noun+C2[-0]	.
 
 
 
-soil pipe		<-->	noun+C2[-0]	.
+soil pipe		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4499,7 +4499,7 @@ soil pipe		<-->	noun+C2[-0]	.
 
 
 
-solar panel		<-->	noun+B1[-0]	.
+solar panel		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4509,7 +4509,7 @@ solar panel		<-->	noun+B1[-0]	.
 
 
 
-split-level		<-->	adjective+C2[-0]	.
+split-level		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4519,7 +4519,7 @@ split-level		<-->	adjective+C2[-0]	.
 
 
 
-spring-clean		<-->	verb+C2	[221029][001]	./ˌsprɪŋ ˈkliːn/-NAmE /ˌsprɪŋ ˈkliːn/ [transitive, intransitive]
+spring-clean		<-->	verb++C2	[221029][001]	./ˌsprɪŋ ˈkliːn/-NAmE /ˌsprɪŋ ˈkliːn/ [transitive, intransitive]
 	;sửa soạn nhà, dọn dẹp nhà cửa -- (1) spring-clean (something) to clean a house, room, etc. carefully and completely, including the parts you do not usually clean
 		;Fran decided to spring-clean the apartment.
 		;TOPICS Houses and homesC2
@@ -4530,7 +4530,7 @@ spring-clean		<-->	verb+C2	[221029][001]	./ˌsprɪŋ ˈkliːn/-NAmE /ˌsprɪŋ �
 
 
 
-spring cleaning		<-->	noun+C2[-0]	.
+spring cleaning		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4540,7 +4540,7 @@ spring cleaning		<-->	noun+C2[-0]	.
 
 
 
-squat		<-->	noun+C2[-0]	.
+squat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4550,7 +4550,7 @@ squat		<-->	noun+C2[-0]	.
 
 
 
-squatter		<-->	noun+C2[-0]	.
+squatter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4560,7 +4560,7 @@ squatter		<-->	noun+C2[-0]	.
 
 
 
-stair		<-->	noun+A2[-0]	.
+stair		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4570,7 +4570,7 @@ stair		<-->	noun+A2[-0]	.
 
 
 
-staircase		<-->	noun+C1[-0]	.
+staircase		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4580,7 +4580,7 @@ staircase		<-->	noun+C1[-0]	.
 
 
 
-stairwell		<-->	noun+C2[-0]	.
+stairwell		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4590,7 +4590,7 @@ stairwell		<-->	noun+C2[-0]	.
 
 
 
-stately home		<-->	noun+C2[-0]	.
+stately home		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4600,7 +4600,7 @@ stately home		<-->	noun+C2[-0]	.
 
 
 
-step		<-->	noun+B2[-0]	.
+step		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4610,7 +4610,7 @@ step		<-->	noun+B2[-0]	.
 
 
 
-stilt		<-->	noun+C2[-0]	.
+stilt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4620,7 +4620,7 @@ stilt		<-->	noun+C2[-0]	.
 
 
 
-stool		<-->	noun+C1[-0]	.
+stool		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4630,7 +4630,7 @@ stool		<-->	noun+C1[-0]	.
 
 
 
-stoop		<-->	noun+C2[-0]	.
+stoop		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4640,7 +4640,7 @@ stoop		<-->	noun+C2[-0]	.
 
 
 
-storage heater		<-->	noun+C2[-0]	.
+storage heater		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4650,7 +4650,7 @@ storage heater		<-->	noun+C2[-0]	.
 
 
 
-storeroom		<-->	noun+B2[-0]	.
+storeroom		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4660,7 +4660,7 @@ storeroom		<-->	noun+B2[-0]	.
 
 
 
-storey		<-->	noun+C1[-0]	.
+storey		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4670,7 +4670,7 @@ storey		<-->	noun+C1[-0]	.
 
 
 
-stove		<-->	noun+B2[-0]	.
+stove		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4680,7 +4680,7 @@ stove		<-->	noun+B2[-0]	.
 
 
 
-strip		<-->	verb+C1	[221029][001]	./cef/
+strip		<-->	verb++C1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4690,7 +4690,7 @@ strip		<-->	verb+C1	[221029][001]	./cef/
 
 
 
-studio		<-->	noun+B1[-0]	.
+studio		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4700,7 +4700,7 @@ studio		<-->	noun+B1[-0]	.
 
 
 
-study		<-->	noun+B1[-0]	.
+study		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4710,7 +4710,7 @@ study		<-->	noun+B1[-0]	.
 
 
 
-sublease		<-->	verb+C2	[221029][001]	./ˌsʌbˈliːs/-NAmE /ˌsʌbˈliːs/ (especially North American English) (also sublet British and North American English)
+sublease		<-->	verb++C2	[221029][001]	./ˌsʌbˈliːs/-NAmE /ˌsʌbˈliːs/ (especially North American English) (also sublet British and North American English)
 	;thuê chung -- (1) sublease (something) (to somebody) to rent to somebody else all or part of a property that you rent from the owner
 		;TOPICS Houses and homesC2
 				;Oxford Collocations Dictionary
@@ -4723,7 +4723,7 @@ sublease		<-->	verb+C2	[221029][001]	./ˌsʌbˈliːs/-NAmE /ˌsʌbˈliːs/ (espe
 
 
 
-sublet		<-->	verb+C2	[221029][001]	./ˌsʌbˈlet/-NAmE /ˌsʌbˈlet/ (also sublease  /ˈsʌbliːs/  /ˈsʌbliːs/ especially in North American English) [transitive, intransitive]
+sublet		<-->	verb++C2	[221029][001]	./ˌsʌbˈlet/-NAmE /ˌsʌbˈlet/ (also sublease  /ˈsʌbliːs/  /ˈsʌbliːs/ especially in North American English) [transitive, intransitive]
 	;thuê chung -- (1) sublet (something) (to somebody) to rent to somebody else all or part of a property that you rent from the owner
 		;Collocations Moving house
 		;TOPICS Houses and homesC2
@@ -4734,7 +4734,7 @@ sublet		<-->	verb+C2	[221029][001]	./ˌsʌbˈlet/-NAmE /ˌsʌbˈlet/ (also suble
 
 
 
-suite		<-->	noun+C1[-0]	.
+suite		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4744,7 +4744,7 @@ suite		<-->	noun+C1[-0]	.
 
 
 
-summer house		<-->	noun+C2[-0]	.
+summer house		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4754,7 +4754,7 @@ summer house		<-->	noun+C2[-0]	.
 
 
 
-survey		<-->	noun+C1[-0]	.
+survey		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4764,7 +4764,7 @@ survey		<-->	noun+C1[-0]	.
 
 
 
-survey		<-->	verb+C1	[221029][001]	./cef/
+survey		<-->	verb++C1	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4774,7 +4774,7 @@ survey		<-->	verb+C1	[221029][001]	./cef/
 
 
 
-sweep		<-->	verb+B2	[221029][001]	./cef/
+sweep		<-->	verb++B2	[221029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4784,7 +4784,7 @@ sweep		<-->	verb+B2	[221029][001]	./cef/
 
 
 
-table		<-->	noun+A1[-0]	.
+table		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4794,7 +4794,7 @@ table		<-->	noun+A1[-0]	.
 
 
 
-telephone		<-->	noun+A1[-0]	.
+telephone		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4804,7 +4804,7 @@ telephone		<-->	noun+A1[-0]	.
 
 
 
-television		<-->	noun+A1[-0]	.
+television		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4814,7 +4814,7 @@ television		<-->	noun+A1[-0]	.
 
 
 
-tenant		<-->	noun+C1[-0]	.
+tenant		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4824,7 +4824,7 @@ tenant		<-->	noun+C1[-0]	.
 
 
 
-terminate		<-->	verb+C1[-0]	.
+terminate		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4834,7 +4834,7 @@ terminate		<-->	verb+C1[-0]	.
 
 
 
-terrace		<-->	noun+C2[-0]	.
+terrace		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4844,7 +4844,7 @@ terrace		<-->	noun+C2[-0]	.
 
 
 
-terraced		<-->	adjective+C1[-0]	.
+terraced		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4854,7 +4854,7 @@ terraced		<-->	adjective+C1[-0]	.
 
 
 
-terraced house		<-->	noun+C2[-0]	.
+terraced house		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4864,7 +4864,7 @@ terraced house		<-->	noun+C2[-0]	.
 
 
 
-thatch		<-->	noun+C2	[221110][001]	./θætʃ/-NAmE /θætʃ/
+thatch		<-->	noun++C2	[221110][001]	./θætʃ/-NAmE /θætʃ/
 	;cỏ, rơm, lau sậy, ...  khô -- (1) enlarge image[uncountable, countable] dried straw, reeds, etc. used for making a roof; a roof made of this material
 		;a roof made of thatch
 		;The thatch was badly damaged in the storm.
@@ -4879,7 +4879,7 @@ thatch		<-->	noun+C2	[221110][001]	./θætʃ/-NAmE /θætʃ/
 
 
 
-thermostat		<-->	noun+C2[-0]	.
+thermostat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4889,7 +4889,7 @@ thermostat		<-->	noun+C2[-0]	.
 
 
 
-threshold		<-->	noun+C1[-0]	.
+threshold		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4899,7 +4899,7 @@ threshold		<-->	noun+C1[-0]	.
 
 
 
-tile		<-->	noun+C1[-0]	.
+tile		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4909,7 +4909,7 @@ tile		<-->	noun+C1[-0]	.
 
 
 
-title deed		<-->	noun+C2[-0]	.
+title deed		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4919,7 +4919,7 @@ title deed		<-->	noun+C2[-0]	.
 
 
 
-title-holder		<-->	noun+C2[-0]	.
+title-holder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4929,7 +4929,7 @@ title-holder		<-->	noun+C2[-0]	.
 
 
 
-toilet		<-->	noun+A1[-0]	.
+toilet		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4939,7 +4939,7 @@ toilet		<-->	noun+A1[-0]	.
 
 
 
-town house		<-->	noun+C2[-0]	.
+town house		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4949,7 +4949,7 @@ town house		<-->	noun+C2[-0]	.
 
 
 
-tumble dryer		<-->	noun+C2[-0]	.
+tumble dryer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4959,7 +4959,7 @@ tumble dryer		<-->	noun+C2[-0]	.
 
 
 
-two-up two-down		<-->	noun+C2[-0]	.
+two-up two-down		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4969,7 +4969,7 @@ two-up two-down		<-->	noun+C2[-0]	.
 
 
 
-unfurnished		<-->	adjective+C1[-0]	.
+unfurnished		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4979,7 +4979,7 @@ unfurnished		<-->	adjective+C1[-0]	.
 
 
 
-unit		<-->	noun+B2[-0]	.
+unit		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4989,7 +4989,7 @@ unit		<-->	noun+B2[-0]	.
 
 
 
-(up) for sale		<-->	idiom+B1[-0]	.
+(up) for sale		<-->	idiom++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4999,7 +4999,7 @@ unit		<-->	noun+B2[-0]	.
 
 
 
-upstairs		<-->	adverb+A1[-0]	.
+upstairs		<-->	adverb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5009,7 +5009,7 @@ upstairs		<-->	adverb+A1[-0]	.
 
 
 
-upstairs		<-->	adjective+A2[-0]	.
+upstairs		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5019,7 +5019,7 @@ upstairs		<-->	adjective+A2[-0]	.
 
 
 
-upstairs		<-->	noun+A1[-0]	.
+upstairs		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5029,7 +5029,7 @@ upstairs		<-->	noun+A1[-0]	.
 
 
 
-utility room		<-->	noun+C2[-0]	.
+utility room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5039,7 +5039,7 @@ utility room		<-->	noun+C2[-0]	.
 
 
 
-vacant		<-->	adjective+C1[-0]	.
+vacant		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5049,7 +5049,7 @@ vacant		<-->	adjective+C1[-0]	.
 
 
 
-vacant possession		<-->	noun+C2[-0]	.
+vacant possession		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5059,7 +5059,7 @@ vacant possession		<-->	noun+C2[-0]	.
 
 
 
-vacuum		<-->	verb+B2	[221029][001]	./ˈvækjuːm/-NAmE /ˈvækjuːm/ [transitive, intransitive]
+vacuum		<-->	verb++B2	[221029][001]	./ˈvækjuːm/-NAmE /ˈvækjuːm/ [transitive, intransitive]
 	;hút bụi -- (1) vacuum (something) to clean something using a vacuum cleaner
 		;SYNONYM hoover
 		;Have you vacuumed the stairs?
@@ -5071,7 +5071,7 @@ vacuum		<-->	verb+B2	[221029][001]	./ˈvækjuːm/-NAmE /ˈvækjuːm/ [transitive
 
 
 
-vacuum cleaner		<-->	noun+B2[-0]	.
+vacuum cleaner		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5081,7 +5081,7 @@ vacuum cleaner		<-->	noun+B2[-0]	.
 
 
 
-vase		<-->	noun+B1[-0]	.
+vase		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5091,7 +5091,7 @@ vase		<-->	noun+B1[-0]	.
 
 
 
-vendor		<-->	noun+C1[-0]	.
+vendor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5101,7 +5101,7 @@ vendor		<-->	noun+C1[-0]	.
 
 
 
-vent		<-->	noun+C2[-0]	.
+vent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5111,7 +5111,7 @@ vent		<-->	noun+C2[-0]	.
 
 
 
-ventilator		<-->	noun+C2[-0]	.
+ventilator		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5121,7 +5121,7 @@ ventilator		<-->	noun+C2[-0]	.
 
 
 
-veranda		<-->	noun+C2	[221110][001]	./vəˈrændə/-NAmE /vəˈrændə/ (also verandah)
+veranda		<-->	noun++C2	[221110][001]	./vəˈrændə/-NAmE /vəˈrændə/ (also verandah)
 	;hiên nhà -- (1) (especially British English) (North American English usually porch)
 		;a platform with an open front and a roof, built onto the side of a house on the ground floor
 		;After dinner, we sat talking on the veranda.
@@ -5133,7 +5133,7 @@ veranda		<-->	noun+C2	[221110][001]	./vəˈrændə/-NAmE /vəˈrændə/ (also ve
 
 
 
-villa		<-->	noun+B2[-0]	.
+villa		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5143,7 +5143,7 @@ villa		<-->	noun+B2[-0]	.
 
 
 
-wall		<-->	noun+A1[-0]	.
+wall		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5153,7 +5153,7 @@ wall		<-->	noun+A1[-0]	.
 
 
 
-wallpaper		<-->	noun+C2	[221110][001]	./ˈwɔːlpeɪpə(r)/-NAmE /ˈwɔːlpeɪpər/ [uncountable]
+wallpaper		<-->	noun++C2	[221110][001]	./ˈwɔːlpeɪpə(r)/-NAmE /ˈwɔːlpeɪpər/ [uncountable]
 	;giấy dán tường -- (1) thick paper, often with a pattern on it, used for covering the walls and ceiling of a room
 		;wallpaper paste
 		;a roll of wallpaper
@@ -5182,7 +5182,7 @@ wallpaper		<-->	noun+C2	[221110][001]	./ˈwɔːlpeɪpə(r)/-NAmE /ˈwɔːlpeɪp�
 
 
 
-wallpaper		<-->	verb+C2	[221029][001]	./ˈwɔːlpeɪpə(r)/-NAmE /ˈwɔːlpeɪpər/ (also paper) [transitive, intransitive]
+wallpaper		<-->	verb++C2	[221029][001]	./ˈwɔːlpeɪpə(r)/-NAmE /ˈwɔːlpeɪpər/ (also paper) [transitive, intransitive]
 	;dán giấy tường -- (1) wallpaper (something) to put wallpaper onto the walls of a room
 		;TOPICS Houses and homesC2
 
@@ -5191,7 +5191,7 @@ wallpaper		<-->	verb+C2	[221029][001]	./ˈwɔːlpeɪpə(r)/-NAmE /ˈwɔːlpeɪp�
 
 
 
-wardrobe		<-->	noun+B1[-0]	.
+wardrobe		<-->	noun++B1[-0]	.
 	;tủ quần áo -- (1) a large cupboard for hanging clothes in, which is either a piece of furniture or (in British English) built into the wall
 		;a fitted wardrobe
 		;COMPARE closet
@@ -5234,7 +5234,7 @@ wardrobe		<-->	noun+B1[-0]	.
 
 
 
-wash		<-->	verb+A1[-0]	.
+wash		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5244,7 +5244,7 @@ wash		<-->	verb+A1[-0]	.
 
 
 
-washbasin		<-->	noun+B2	[221110][001]	./ˈwɒʃbeɪsn/-NAmE /ˈwɑːʃbeɪsn/
+washbasin		<-->	noun++B2	[221110][001]	./ˈwɒʃbeɪsn/-NAmE /ˈwɑːʃbeɪsn/
 	;(also basin) (both especially British English) (also sink North American English, British English) (also especially North American English washbowl  /ˈwɒʃbəʊl/  /ˈwɑːʃbəʊl/)
 	;bồn rửa -- (1) a large bowl that has taps and is fixed to the wall in a bathroom, used for washing your hands and face in
 		;He washed his shirt in the washbasin.
@@ -5258,7 +5258,7 @@ washbasin		<-->	noun+B2	[221110][001]	./ˈwɒʃbeɪsn/-NAmE /ˈwɑːʃbeɪsn/
 
 
 
-washing		<-->	noun+A2[-0]	.
+washing		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5268,7 +5268,7 @@ washing		<-->	noun+A2[-0]	.
 
 
 
-washing machine		<-->	noun+A2[-0]	.
+washing machine		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5278,7 +5278,7 @@ washing machine		<-->	noun+A2[-0]	.
 
 
 
-washing-up		<-->	noun+B1	[221110][001]	./ˌwɒʃɪŋ ˈʌp/-NAmE /ˌwɑːʃɪŋ ˈʌp/ [uncountable] (British English)
+washing-up		<-->	noun++B1	[221110][001]	./ˌwɒʃɪŋ ˈʌp/-NAmE /ˌwɑːʃɪŋ ˈʌp/ [uncountable] (British English)
 	;việc chùi rửa nồi, chén -- (1) the act of washing plates, glasses, pans, etc. after a meal
 		;If you cook, I'll do the washing-up.
 		;a washing-up bowl
@@ -5296,7 +5296,7 @@ washing-up		<-->	noun+B1	[221110][001]	./ˌwɒʃɪŋ ˈʌp/-NAmE /ˌwɑːʃɪŋ 
 
 
 
-wash up		<-->	phrasal verb+B1	[221029][001]	./p/
+wash up		<-->	phrasal verb++B1	[221029][001]	./p/
 	;rủa bát đĩa -- (1) (British English) (also do the dishes North American English, British English) to wash plates, glasses, etc. after a meal
 		;RELATED NOUN washing-up
 		;TOPICS Houses and homesB1
@@ -5307,7 +5307,7 @@ wash up		<-->	phrasal verb+B1	[221029][001]	./p/
 
 
 
-weathervane		<-->	noun+C2	[221110][001]	./ˈweðəveɪn/-NAmE /ˈweðərveɪn/
+weathervane		<-->	noun++C2	[221110][001]	./ˈweðəveɪn/-NAmE /ˈweðərveɪn/
 	;cửa trên mái nhà -- (1) a metal object on the roof of a building that turns easily in the wind and shows which direction the wind is blowing from
 		;SEE ALSO weathercock
 		;TOPICS WeatherC2, Houses and homesC2, BuildingsC2
@@ -5318,7 +5318,7 @@ weathervane		<-->	noun+C2	[221110][001]	./ˈweðəveɪn/-NAmE /ˈweðərveɪn/
 
 
 
-Welsh dresser		<-->	noun+C2	[221110][001]	./ˌwelʃ ˈdresə(r)/-NAmE /ˌwelʃ ˈdresər/ (also dresser) (British English)
+Welsh dresser		<-->	noun++C2	[221110][001]	./ˌwelʃ ˈdresə(r)/-NAmE /ˌwelʃ ˈdresər/ (also dresser) (British English)
 	;??? -- (1) a large piece of wooden furniture with shelves in the top part and cupboards below, used for displaying and storing cups, plates, etc.
 		;TOPICS Houses and homesC2
 
@@ -5328,7 +5328,7 @@ Welsh dresser		<-->	noun+C2	[221110][001]	./ˌwelʃ ˈdresə(r)/-NAmE /ˌwelʃ �
 
 
 
-white goods		<-->	noun+C2	[221110][001]	./ˈwaɪt ɡʊdz/-NAmE /ˈwaɪt ɡʊdz/ [plural]
+white goods		<-->	noun++C2	[221110][001]	./ˈwaɪt ɡʊdz/-NAmE /ˈwaɪt ɡʊdz/ [plural]
 	;hành điện tử dân dụng -- (1) large pieces of electrical equipment in the house, such as washing machines, etc.
 		;COMPARE brown goods
 		;TOPICS Houses and homesC2, ShoppingC2
@@ -5339,7 +5339,7 @@ white goods		<-->	noun+C2	[221110][001]	./ˈwaɪt ɡʊdz/-NAmE /ˈwaɪt ɡʊdz/ 
 
 
 
-window		<-->	noun+A1[-0]	./cef/
+window		<-->	noun++A1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5349,7 +5349,7 @@ window		<-->	noun+A1[-0]	./cef/
 
 
 
-window ledge		<-->	noun+C2	[221110][001]	./ˈwɪndəʊ ledʒ/-NAmE /ˈwɪndəʊ ledʒ/ (also sill, windowsill)
+window ledge		<-->	noun++C2	[221110][001]	./ˈwɪndəʊ ledʒ/-NAmE /ˈwɪndəʊ ledʒ/ (also sill, windowsill)
 	;gồ dưới cửa sổ  -- (1) a narrow shelf below a window, either inside or outside
 		;TOPICS Houses and homesC2, BuildingsC2
 
@@ -5359,7 +5359,7 @@ window ledge		<-->	noun+C2	[221110][001]	./ˈwɪndəʊ ledʒ/-NAmE /ˈwɪndəʊ 
 
 
 
-windowsill		<-->	noun+C1[-0]	.ˈwɪndəʊsɪl/-NAmE /ˈwɪndəʊsɪl/ (also sill, window ledge)
+windowsill		<-->	noun++C1[-0]	.ˈwɪndəʊsɪl/-NAmE /ˈwɪndəʊsɪl/ (also sill, window ledge)
 	;bệ cửa sổ -- (1) a narrow shelf below a window, either inside or outside
 		;Place the plants on a sunny windowsill.
 		;TOPICS Houses and homesC1, BuildingsC1
@@ -5370,7 +5370,7 @@ windowsill		<-->	noun+C1[-0]	.ˈwɪndəʊsɪl/-NAmE /ˈwɪndəʊsɪl/ (also sill
 
 
 
-worktop		<-->	noun+C2	[221110][001]	./ˈwɜːktɒp/-NAmE /ˈwɜːrktɑːp/
+worktop		<-->	noun++C2	[221110][001]	./ˈwɜːktɒp/-NAmE /ˈwɜːrktɑːp/
 	;(also work surface both British English) (North American English counter, countertop)
 	;cái quầy bếp -- (1) a flat surface in a kitchen for preparing food on
 		;The kitchen has granite worktops.
@@ -5386,7 +5386,7 @@ worktop		<-->	noun+C2	[221110][001]	./ˈwɜːktɒp/-NAmE /ˈwɜːrktɑːp/
 
 
 
-yurt		<-->	noun+C2	[221110][001]	./jɜːt/-NAmE /jɜːrt/
+yurt		<-->	noun++C2	[221110][001]	./jɜːt/-NAmE /jɜːrt/
 	;lều Mông Cổ -- (1) enlarge imagea type of traditional round tent used in Mongolia and Siberia
 		;TOPICS Houses and homesC2
 
@@ -5396,7 +5396,7 @@ yurt		<-->	noun+C2	[221110][001]	./jɜːt/-NAmE /jɜːrt/
 
 
 
-zapper		<-->	noun+C2[-0]  ./ˈzæpə(r)/-NAmE /ˈzæpər/ (informal)
+zapper		<-->	noun++C2[-0]  ./ˈzæpə(r)/-NAmE /ˈzæpər/ (informal)
 	;cái điều khiển từ xa -- (1) a device that allows you to operate a television, etc. from a distance
 		;SYNONYM remote control (2)
 		;TOPICS Houses and homesC2
