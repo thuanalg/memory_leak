@@ -412,7 +412,18 @@ board		<-->	verb+B1[-0]	.
 
 
 
-boarding card		<-->	noun++B2[-0]	.
+boarding card		<-->	noun++B2[-0]	./ˈbɔːdɪŋ kɑːd/
+ /ˈbɔːrdɪŋ kɑːrd/ (British English) (also boarding pass North American English, British English)
+	;thẻ lên tàu xe -- (1) a card that you show before you get on a plane or boat
+		;TOPICS Transport by waterB2, Transport by airB2
+
+
+
+
+
+
+
+boat		<-->	noun++A1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -424,8 +435,50 @@ boarding card		<-->	noun++B2[-0]	.
 
 
 
-boat		<-->	noun++A1[-0]	.
-	; -- (1) 
+boathouse		<-->	noun++C1[-0]	./ˈbəʊthaʊs/
+ /ˈbəʊthaʊs/
+	;nhà chứa tàu thuyền -- (1) a building next to a river or lake for keeping a boat in
+		;TOPICS Transport by waterC1
+
+
+
+
+
+
+
+boating		<-->	noun++B2[-0]	./ˈbəʊtɪŋ/
+ /ˈbəʊtɪŋ/ [uncountable]
+	;môn chèo thuyền, xuồng -- (1) the activity of using a small boat for pleasure
+		;to go boating
+		;Local activities include walking, boating and golf.
+		;TOPICS Transport by waterB2, Sports: water sportsB2
+				;Oxford Collocations Dictionary
+				;Boating is used before these nouns:
+				;accidentlake
+		;See full entry
+
+
+
+
+
+
+
+boatswain		<-->	noun++C2[-0]	./ˈbəʊsn/
+ /ˈbəʊsn/ (also bo’sun, bosun)
+	;kỹ sư trưởng trên tàu -- (1) an officer on a ship whose job is to take care of the equipment and the people who work on the ship
+		;TOPICS Transport by waterC2
+		;Word Origin
+
+
+
+
+
+
+
+boiler room		<-->	noun++C2[-0]	./ˈbɔɪlə ruːm/,  /ˈbɔɪlə rʊm/
+ /ˈbɔɪlər ruːm/,  /ˈbɔɪlər rʊm/
+	;phòng chứa nồi hơi -- (1) a room in a building or ship containing the boiler
+		;TOPICS Houses and homesC2, Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -436,10 +489,24 @@ boat		<-->	noun++A1[-0]	.
 
 
 
-boathouse		<-->	noun++C1[-0]	.
+bollard		<-->	noun++C2[-0]	./ˈbɒlɑːd/
+ /ˈbɑːlərd/
+	;cái trụ thấp trên đường -- (1) (British English) a short thick post that is used to stop vehicles from going on to a road or part of a road
+		;TOPICS Transport by car or lorryC2
+	;trụ cột dây neo trên tàu -- (2) a short thick post on a ship, or on land close to water, to which a ship’s rope may be tied
+		;TOPICS Transport by waterC2
+		;Word Origin
+
+
+
+
+
+
+
+boom		<-->	noun++C2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;cột buồm -- (3) 
 
 
 
@@ -448,71 +515,10 @@ boathouse		<-->	noun++C1[-0]	.
 
 
 
-boating		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-boatswain		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-boiler room		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-bollard		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-boom		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-bosun		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+bosun		<-->	noun++C2[-0]	./ˈbəʊsn/
+ /ˈbəʊsn/ (also bo’sun, boatswain)
+	;người kỹ sư trưởng trên tàu -- (1) an officer on a ship whose job is to take care of the equipment and the people who work on the ship
+		;TOPICS Transport by waterC2
 
 
 
@@ -532,9 +538,9 @@ bottom		<-->	noun++B1	[230103][001]	./cef/
 
 
 
-bow		<-->	noun++C2[-0]	.
+bow		<-->	noun++C2[-0]	./cef/
 	; -- (1) 
-	; -- (2) 
+	;mũi tàu -- (2) 
 	; -- (3) 
 
 
@@ -1654,7 +1660,7 @@ dugout		<-->	noun++C2	[230103][001]	./ˈdʌɡaʊt/-NAmE /ˈdʌɡaʊt/
 
 
 
-embark		<-->	verb++C1[-0]	.
+embark		<-->	verb++C1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1666,10 +1672,11 @@ embark		<-->	verb++C1[-0]	.
 
 
 
-embarkation		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+embarkation		<-->	noun++C2[-0]	./ˌembɑːˈkeɪʃn/
+ /ˌembɑːrˈkeɪʃn/ [uncountable, countable] (formal)
+	;việc lên tàu xe -- (1) the act of getting onto a ship or plane
+		;Embarkation will be at 14:20 hours.
+		;TOPICS Transport by waterC2
 
 
 
@@ -1677,8 +1684,7 @@ embarkation		<-->	noun++C2[-0]	.
 
 
 
-
-engineer		<-->	noun++B1[-0]	.
+engineer		<-->	noun++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2830,8 +2836,37 @@ low-water mark		<-->	noun++C2[-0]	.
 
 
 
-mainsail		<-->	noun++C2[-0]	.
-	; -- (1) 
+mainsail		<-->	noun++C2[-0]	./ˈmeɪnseɪl/,  /ˈmeɪnsl/
+ /ˈmeɪnseɪl/,  /ˈmeɪnsl/
+	; -- (1) the largest and most important sail on a boat or ship
+		;TOPICS Transport by waterC2
+
+
+
+
+
+
+
+maneuver		<-->	verb++C1[-0]	./məˈnuːvə(r)/
+ /məˈnuːvər/\ (US English) (British English manoeuvre)
+	;cơ động -- (1) [intransitive, transitive] to move or turn with skill or care; to move or turn something with skill or care
+		;maneuver (for something) The yachts maneuvered for position.
+		;There was very little room to maneuver.
+		;maneuver something (+ adv./prep.) She maneuvered the car carefully into the garage.[ap- maneuver]
+		;Extra Examples:
+		;He carefully maneuvered the boat past the rocks.
+		;You will need to learn how to maneuver in a confined space.
+		;TOPICS Transport by waterC1
+				;Oxford Collocations Dictionary
+				;adverb
+				;carefullyquicklyeasily…
+				;verb + manoeuvre/​maneuver
+				;be difficult tobe easy to
+				;preposition
+				;aroundpastthrough…
+				;phrases
+				;manoeuvre (something) into positionmanoeuvre your wayroom to manoeuvre…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -2842,8 +2877,28 @@ mainsail		<-->	noun++C2[-0]	.
 
 
 
-maneuver		<-->	verb++C1[-0]	.
-	; -- (1) 
+manifest		<-->	noun++C2[-0]	./ˈmænɪfest/
+ /ˈmænɪfest/*\ (specialist)
+	;danh sách hàng hoá, hành khách, ...  -- (1) a list of goods or passengers on a ship or an aircraft
+		;TOPICS Transport by waterC2
+		;Word Origin
+
+
+
+
+
+
+
+manoeuvre		<-->	verb++C1[-0]	./məˈnuːvə(r)/
+ /məˈnuːvər/\ (US English maneuver)
+	;cơ động, di chuyển -- (1) [intransitive, transitive] to move or turn with skill or care; to move or turn something with skill or care
+		;manoeuvre (for something) The yachts manoeuvred for position.
+		;There was very little room to manoeuvre.
+		;manoeuvre something (+ adv./prep.) She manoeuvred the car carefully into the garage.[ap- manoeuvre]
+		;Extra Examples:
+		;He carefully manoeuvred the boat past the rocks.
+		;You will need to learn how to manoeuvre in a confined space.
+		;TOPICS Transport by waterC1
 	; -- (2) 
 	; -- (3) 
 
@@ -2854,106 +2909,97 @@ maneuver		<-->	verb++C1[-0]	.
 
 
 
-manifest		<-->	noun++C2[-0]	.
+marine		<-->	adjective++C1[-0]	./cef/
+ 
+
+
+
+
+
+
+
+
+mariner		<-->	noun++C2[-0]	./ˈmærɪnə(r)/
+ /ˈmærɪnər/ (old-fashioned or literary)
+	;thuỷ thủ -- (1) a sailor
+		;TOPICS Transport by waterC2
+		;Word Origin
+
+
+
+
+
+
+
+maritime		<-->	adjective++C2[-0]	./ˈmærɪtaɪm/
+ /ˈmærɪtaɪm/ [only before noun]
+	;c. hàng hải -- (1) connected with the sea or ships
+		;a maritime museum
+		;the country’s maritime history
+		;TOPICS Transport by waterC2, GeographyC2
+	;gần biển -- (2) (formal) near the sea
+		;maritime Antarctica
+		;Word Origin
+
+
+
+
+
+
+
+maroon		<-->	verb++C2[-0]	./məˈruːn/
+ /məˈruːn/*\ [usually passive]
+	;mắc cạn -- (1) to leave somebody in a place that they cannot escape from, for example an island
+		;SYNONYM strand
+		;<< strand, maroon, >
+		;be marooned (by something) The car was marooned by floods.
+		;‘Lord of the Flies’ is a novel about English schoolboys marooned on a desert island.
+		;TOPICS Transport by waterC2
+		;Word Origin
+
+
+
+
+
+
+
+mast		<-->	noun++C1[-0]	./mɑːst/
+ /mæst/
+	;cột buồm -- (1) enlarge imagea tall pole on a boat or ship that supports the sails
+		;TOPICS Transport by waterC1
+	;tháp truyền hình -- (2) a tall metal tower with an aerial that sends and receives radio, television or phone signals
+		;people who worry about the health risks of mobile phone masts
+		;TOPICS TV, radio and newsC2
+
+
+
+
+
+
+
+
+
+masthead		<-->	noun++C2[-0]	./ˈmɑːsthed/
+ /ˈmæsthed/
+	;cột buồm -- (1) the top of a mast on a ship
+		;TOPICS Transport by waterC2
+	;tiêu đề -- (2) the name of a newspaper at the top of the front page or website
+		;TOPICS TV, radio and newsC2
+	;mục nhân viên -- (3) (North American English) the part of a newspaper or a news website that gives details of the people who work on it and other information about it
+		;TOPICS TV, radio and newsC2
+
+
+
+
+
+
+
+
+mate		<-->	noun++C2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
-
-
-
-
-
-
-
-manoeuvre		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-marine		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-mariner		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-maritime		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-maroon		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-mast		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-masthead		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-mate		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;thuyền phó -- (7) 
 
 
 
@@ -3226,22 +3272,30 @@ oarswoman		<-->	noun++C2[-0]	.
 
 
 
-ocean-going		<-->	adjective++C2[-0]	.
-	; -- (1) 
+ocean-going		<-->	adjective++C2[0]	./ˈəʊʃn ɡəʊɪŋ/-NAmE /ˈəʊʃn ɡəʊɪŋ/ [only before noun]
+	;xuyên đại dương -- (1) (of ships) made for crossing the sea or ocean, not for journeys along the coast or up rivers
+		;TOPICS Transport by waterC2
+				;Oxford Collocations Dictionary
+				;Ocean-going is used with these nouns:
+				;linershipvessel…
+		;See full entry
+
+
+
+
+
+
+
+offshore		<-->	adjective++C1[0]	./ˌɒfˈʃɔː(r)/-NAmE /ˌɔːfˈʃɔːr/ [usually before noun]
+	;xa bờ -- (1) ​happening or existing in the sea, not far from the land
+		;offshore drilling
+		;an offshore island
+		;COMPARE onshore (1)
+		;TOPICS Transport by waterC1, GeographyC1
 	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-offshore		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;nước ngoài -- (3) (business) (of money, companies, etc.) kept or located in a foreign country that has more generous tax laws than the home country
+		;offshore investments
+		;TOPICS MoneyC2
 
 
 
@@ -3286,8 +3340,11 @@ on-board		<-->	adjective++B2[-0]	.
 
 
 
-onshore		<-->	adjective++C2[-0]	.
-	; -- (1) 
+onshore		<-->	adjective++C2[0]	./ˈɒnʃɔː(r)/-NAmE /ˈɑːnʃɔːr/ [usually before noun]
+	;trên bờ -- (1) on or towards land
+		;an onshore oil field
+		;COMPARE offshore (1)
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3298,47 +3355,50 @@ onshore		<-->	adjective++C2[-0]	.
 
 
 
-onshore		<-->	adverb++C2[-0]	.
-	; -- (1) 
+onshore		<-->	adverb++C2[0]	./ˈɒnʃɔː(r)/-NAmE /ˈɑːnʃɔːr/a\ 
+	;trên bờ, hướng vào bờ -- (1) on or towards land
+		;The wind will drive the boat onshore.[ap: drive]
+		;COMPARE offshore (1)
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
-
-
 
 
 
 
 
-
-outboard		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+outboard		<-->	adjective++C2[0]	./ˈaʊtbɔːd/-NAmE /ˈaʊtbɔːrd/ [usually before noun] (specialist)
+	;phía ngoài -- (1) on, towards or near the outside of a ship or an aircraft
+		;outboard wing panels
+		;TOPICS Transport by waterC2, Transport by airC2
+				;Oxford Collocations Dictionary
+				;Outboard is used with these nouns:
+				;enginemotor
+		;See full entry
 
 
 
 
 
-outboard motor		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+outboard motor		<-->	noun++C2[0]	./ˌaʊtbɔːd ˈməʊtə(r)/-NAmE /ˌaʊtbɔːrd ˈməʊtər/ (also outboard engine, outboard)
+	;động cơ rời của tàu xuồng -- (1) an engine that you can fix to the back of a small boat
+		;a boat with a powerful outboard motor
+		;TOPICS Transport by waterC2
 
 
 
 
 
 
-outrigger		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+outrigger		<-->	noun++C2[0]	./ˈaʊtrɪɡə(r)/-NAmE /ˈaʊtrɪɡər/
+	;các thanh xà khung chịu lực của tàu -- (1) ​a wooden structure that is fixed to the side of a boat or ship in order to keep it steady in the water; a boat fitted with such a structure
+		;TOPICS Transport by waterC2
 
 
 
@@ -3346,8 +3406,15 @@ outrigger		<-->	noun++C2[-0]	.
 
 
 
-overboard		<-->	adverb++C1[-0]	.
-	; -- (1) 
+overboard		<-->	adverb++C1[0]	./ˈəʊvəbɔːd/-NAmE /ˈəʊvərbɔːrd/
+	;tràn qua -- (1) over the side of a boat or a ship into the water
+		;to fall/jump overboard
+		;Huge waves washed him overboard.
+		;TOPICS Transport by waterC1
+				;Oxford Collocations Dictionary
+				;Overboard is used with these verbs:
+				;dumpfalljump…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -3358,8 +3425,10 @@ overboard		<-->	adverb++C1[-0]	.
 
 
 
-overfishing		<-->	noun++C2[-0]	.
-	; -- (1) 
+overfishing		<-->	noun++C2[0]	./ˌəʊvəˈfɪʃɪŋ/-NAmE /ˌəʊvərˈfɪʃɪŋ/ [uncountable]
+	;việc đánh cá kiểu tận diệt -- (1) the process of taking so many fish from the sea, a river, etc. that the number of fish in it becomes very low
+		;a shortage of tuna, caused by overfishing
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3370,8 +3439,10 @@ overfishing		<-->	noun++C2[-0]	.
 
 
 
-paddle		<-->	noun++C1[-0]	.
-	; -- (1) 
+paddle		<-->	noun++C1[0]	./ˈpædl/-NAmE /ˈpædl/
+	;cái chèo chân vịt -- (1) enlarge image[countable] a short pole with a flat wide part at one or both ends, that you hold in both hands and use for moving a small boat, especially a canoe, through water
+		;COMPARE oar
+		;TOPICS Transport by waterC1, Sports: water sportsC1
 	; -- (2) 
 	; -- (3) 
 
@@ -3382,9 +3453,18 @@ paddle		<-->	noun++C1[-0]	.
 
 
 
-paddle		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
+paddle		<-->	verb++C1[0]	./ˈpædl/-NAmE /ˈpædl/\
+	;chèo chống -- (1) ​[intransitive, transitive] to move a small boat through water using a paddle
+		;(+ adv./prep.) We paddled downstream for about a mile.[ap: paddle]
+		;paddle something (+ adv./prep.) We paddled the canoe along the coast.
+		;TOPICS Transport by waterC1
+				;Oxford Collocations Dictionary
+				;adverb
+				;franticallyfuriously
+		;See full entry
+	;lội nước ( cạn) -- (2) ​(British English) (North American English wade) [intransitive] to walk or stand with no shoes or socks in shallow water in the sea, a lake, etc.
+		;The children have gone paddling.
+		;TOPICS HobbiesB2
 	; -- (3) 
 
 
@@ -3393,12 +3473,10 @@ paddle		<-->	verb++C1[-0]	.
 
 
 
-
-paddle steamer		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+paddle steamer		<-->	noun++C2[0]	./ˈpædl stiːmə(r)/-NAmE /ˈpædl stiːmər/ (British English) (North American English paddlewheeler  /ˈpædlwiːlə(r)/  /ˈpædlwiːlər/) (also paddle boat North American English, British English)
+	;tàu hơi nước kiểu cũ -- (1) enlarge image an old-fashioned type of boat moved forward by a large wheel or wheels driven by steam
+		;TOPICS Transport by waterC2
 
 
 
@@ -3406,7 +3484,7 @@ paddle steamer		<-->	noun++C2[-0]	.
 
 
 
-passage		<-->	noun++C1[-0]	.
+passage		<-->	noun++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3418,7 +3496,7 @@ passage		<-->	noun++C1[-0]	.
 
 
 
-passenger		<-->	noun++A2[-0]	.
+passenger		<-->	noun++A2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3430,10 +3508,10 @@ passenger		<-->	noun++A2[-0]	.
 
 
 
-pedalo		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+pedalo		<-->	noun++C2[0]	./ˈpedələʊ/-NAmE /ˈpedələʊ/ (plural pedaloes, pedalos) (British English)
+	;bàn đạp vịt -- (1) a small pleasure boat that you move through the water by pushing pedals with your feet
+		;TOPICS Transport by waterC2
+		;Word Origin
 
 
 
@@ -3441,11 +3519,13 @@ pedalo		<-->	noun++C2[-0]	.
 
 
 
+pennant		<-->	noun++C2[0]	./ˈpenənt/-NAmE /ˈpenənt/
+	;cờ hiệu -- (1) a long narrow pointed flag, for example one used on a ship to give signals
+		;TOPICS Transport by waterC2
+	;cờ hiệu -- (2) (in the US) a flag given to the team that wins in a sports league, especially in baseball
+		;The Dodgers defeated the Mets 6–0 to win the pennant.
+		;TOPICS Sports: ball and racket sportsC2
 
-pennant		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -3454,8 +3534,9 @@ pennant		<-->	noun++C2[-0]	.
 
 
 
-periscope		<-->	noun++C2[-0]	.
-	; -- (1) 
+periscope		<-->	noun++C2[0]	./ˈperɪskəʊp/-NAmE /ˈperɪskəʊp/
+	;kính tiềm vọng -- (1) a device consisting of a long tube containing mirrors that enable the user to see over the top of something, used especially in a submarine (= a ship that can operate underwater) to see above the surface of the sea
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3466,9 +3547,18 @@ periscope		<-->	noun++C2[-0]	.
 
 
 
-pier		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
+pier		<-->	noun++C1[0]	./pɪə(r)/-NAmE /pɪr/
+	;cầu tàu -- (1) a long structure built in the sea and joined to the land at one end, often with places of entertainment on it
+		;After lunch, the family went for a walk along the pier.
+		;Blackpool pier
+		;the fishermen on the pier
+		;Wordfinder: beachcoastharbourpiersandbankseashorelinesurftidewave
+		;Culture
+		;TOPICS BuildingsC1
+	;cầu tàu -- (2) a long low structure built in a lake, river or the sea and joined to the land at one end, used by boats to allow passengers to get on and off
+		;SYNONYM landing stage
+		;The river bus leaves from Pier 4.
+		;TOPICS Transport by waterC1
 	; -- (3) 
 
 
@@ -3478,7 +3568,7 @@ pier		<-->	noun++C1[-0]	.
 
 
 
-pilot		<-->	noun++C1[-0]	.
+pilot		<-->	noun++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3489,12 +3579,15 @@ pilot		<-->	noun++C1[-0]	.
 
 
 
-
-piracy		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+piracy		<-->	noun++C1[0]	./ˈpaɪrəsi/-NAmE /ˈpaɪrəsi/ [uncountable]
+	;tội cướp biển -- (1) the crime of attacking ships at sea in order to steal from them
+		;TOPICS Crime and punishmentC1, Transport by waterC1
+	;hành vi copy lậu -- (2) ​the act of making illegal copies of DVDs, computer programs, books, etc., in order to sell them
+		;software piracy
+		;TOPICS Crime and punishmentC1, ComputersC1
+		;SEE ALSO pirate
+		;Word Origin
 
 
 
@@ -3502,7 +3595,7 @@ piracy		<-->	noun++C1[-0]	.
 
 
 
-pirate		<-->	noun++C1[-0]	.
+pirate		<-->	noun++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3514,10 +3607,32 @@ pirate		<-->	noun++C1[-0]	.
 
 
 
-pitch		<-->	verb++C2[-0]	.
-	; -- (1) 
+pitch		<-->	verb++C2[0]	./pɪtʃ/-NAmE /pɪtʃ/
+	; -- (1) [-throw] [transitive] pitch somebody/something + adv./prep. to throw somebody/something with force[ap- pitch]
+		;The explosion pitched her violently into the air.
+		;(figurative) The new government has already been pitched into a crisis.
+		;Extra Examples:
+		;If they hit any unseen obstacle they would be pitched headlong into the snow.
+		;There was a loud bang and he was pitched from his seat.
+				;Oxford Collocations Dictionary
+				;adverb
+				;violentlyforwardheadlong…
+				;preposition
+				;fromintoout of…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
+	;trồi lên tụt xuống -- (6) [-of ship/aircraft] ​[intransitive] to move up and down on the water or in the air
+		;The sea was rough and the ship pitched and rolled all night.
+		;The boat pitched violently in a heavy swell.
+		;COMPARE roll (12)
+		;TOPICS Transport by waterC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;violentlyforwardheadlong…
+				;preposition
+				;fromintoout of…
+		;See full entry
 
 
 
@@ -3526,8 +3641,9 @@ pitch		<-->	verb++C2[-0]	.
 
 
 
-pleasure boat		<-->	noun++C1[-0]	.
-	; -- (1) 
+pleasure boat		<-->	noun++C1[0]	./ˈpleʒə bəʊt/-NAmE /ˈpleʒər bəʊt/ (also pleasure craft)
+	;xuồng đi chơi ngắn -- (1) a boat used for short pleasure trips
+		TOPICS Transport by waterC1
 	; -- (2) 
 	; -- (3) 
 
@@ -3537,12 +3653,11 @@ pleasure boat		<-->	noun++C1[-0]	.
 
 
 
-
-Plimsoll line		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+Plimsoll line		<-->	noun++C2[0]	./ˈplɪmsəl laɪn/-NAmE /ˈplɪmsəl laɪn/ (also load line)
+	;đường giới hạn tải trọng của tàu -- (1) a line on the side of a ship showing the highest point that the water can safely reach when the ship is loaded
+		;TOPICS Transport by waterC2
+		;Word Origin
 
 
 
@@ -3550,11 +3665,16 @@ Plimsoll line		<-->	noun++C2[-0]	.
 
 
 
-ply		<-->	verb++C2[-0]	.
-	; -- (1) 
+ply		<-->	verb++C2[0]	./plaɪ/-NAmE /plaɪ/
+	;chạy theo định kỳ -- (1) [intransitive, transitive] (literary or Indian English) (of ships, buses, etc.) to travel regularly along a particular route or between two particular places
+		;+ adv./prep. Ferries ply across a narrow strait to the island.[ap: ply]
+		;The train plies twice a day between Paris and Madrid.
+		;Buses ply regularly to and from these places.
+		;ply something canals plied by gondolas and steam boats
+		;ships plying the route between Tripoli and Malta
+		;TOPICS Transport by bus and trainC2, Transport by waterC2
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -3562,11 +3682,11 @@ ply		<-->	verb++C2[-0]	.
 
 
 
-poop		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+poop		<-->	noun++C2[0]	./puːp/-NAmE /puːp/
+	;phần sau lái tàu -- (1) (also poop deck) [countable] the raised part at the back end of a ship
+		;COMPARE stern
+		;TOPICS Transport by waterC2
 
 
 
@@ -3574,59 +3694,56 @@ poop		<-->	noun++C2[-0]	.
 
 
 
-port		<-->	noun++B1[-0]	.
+port		<-->	noun++B1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
-
-
-
 
 
 
 
-porthole		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+porthole		<-->	noun++C2[0]	./ˈpɔːthəʊl/-NAmE /ˈpɔːrthəʊl/
+	;cửa sổ tròn trên tàu xe -- (1) ​a round window in the side of a ship or an aircraft
+		;TOPICS Transport by waterC2
 
 
 
 
-port of call		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+port of call		<-->	noun++C2[0]	./ˌpɔːt əv ˈkɔːl/-NAmE /ˌpɔːrt əv ˈkɔːl/ (plural ports of call)
+	;một cảnh ghé qua -- (1) a port where a ship stops during a journey
+		;Las Palmas has become the traditional port of call for yachts on their way to the Caribbean.
+		;TOPICS Transport by waterC2
 
 
 
 
 
-powerboat		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+powerboat		<-->	noun++C1	[230105][001]	./ˈpaʊəbəʊt/-NAmE /ˈpaʊərbəʊt/
+	;xuồng máy -- (1) a fast boat with a powerful engine that is used especially for racing
+		;TOPICS Transport by waterC1
 
 
 
 
 
 
-propeller		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+propeller		<-->	noun++C2	[230105][001]	./prəˈpelə(r)/-NAmE /prəˈpelər/
+	;chân vịt, cách quạt -- (1) a device with two or more long, flat blades that turn quickly and cause a ship or an aircraft to move forward
+		;The propeller suddenly stopped turning.
+		;Extra Examples:
+		;The boat is fitted with a two-blade propeller.
+		;The front engine drives the propellers.
+		;TOPICS Transport by waterC2, Transport by airC2
 
 
 
@@ -3634,8 +3751,10 @@ propeller		<-->	noun++C2[-0]	.
 
 
 
-prow		<-->	noun++C2[-0]	.
-	; -- (1) 
+prow		<-->	noun++C2	[230105][001]	./praʊ/-NAmE /praʊ/ (formal or literary)
+	;mũi thuyền -- (1) the pointed front part of a ship or boat
+		;TOPICS Transport by waterC2
+		;Word Origin
 	; -- (2) 
 	; -- (3) 
 
@@ -3646,8 +3765,9 @@ prow		<-->	noun++C2[-0]	.
 
 
 
-punt		<-->	noun++C2[-0]	.
-	; -- (1) 
+punt		<-->	noun++C2	[230105][001]	./pʌnt/-NAmE /pʌnt/
+	;xuồng -- (1) enlarge imagea long shallow boat with a flat bottom and square ends which is moved by pushing the end of a long pole against the bottom of a river
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3658,8 +3778,13 @@ punt		<-->	noun++C2[-0]	.
 
 
 
-punt		<-->	verb++C2[-0]	.
-	; -- (1) 
+punt		<-->	verb++C2	[230105][001]	./pʌnt/-NAmE /pʌnt/
+	;chèo xuồng -- (1) [intransitive, transitive] punt (something) (+ adv./prep.) to travel in a punt, especially for pleasure
+		;[ap: punt]
+		;[ap- punt]
+		;We spent the day punting on the river.
+		;to go punting
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3669,12 +3794,10 @@ punt		<-->	verb++C2[-0]	.
 
 
 
-
-purser		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+purser		<-->	noun++C2	[230105][001]	./ˈpɜːsə(r)/-NAmE /ˈpɜːrsər/
+	;nhân viên tàu xe -- (1) an officer on a ship who is responsible for taking care of the passengers, and for the accounts
+		;TOPICS Transport by waterC2
 
 
 
@@ -3682,10 +3805,14 @@ purser		<-->	noun++C2[-0]	.
 
 
 
-put in		<-->	phrasal verb++C2[-0]	.
+put in		<-->	phrasal verb++C2	[230105][001]	./p/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;vào cảng -- (7) (of a boat or its sailors) to enter a port
+		;They put in at Lagos for repairs.
+		;OPPOSITE put out (to…/from…)
+		;TOPICS Transport by waterC2
 
 
 
@@ -3694,8 +3821,11 @@ put in		<-->	phrasal verb++C2[-0]	.
 
 
 
-put into		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
+put into		<-->	phrasal verb++C2	[230105][001]	./p/
+	;vào cảng -- (1) ​(of a boat or its sailors) to enter a port
+		;They put in at Lagos for repairs.
+		;OPPOSITE put out (to…/from…)
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3706,11 +3836,12 @@ put into		<-->	phrasal verb++C2[-0]	.
 
 
 
-put (out) to sea		<-->	idiom++C2[-0]	.
-	; -- (1) 
+put (out) to sea		<-->	idiom++C2	[230105][001]	./i/
+	;ra khơi -- (1) to leave a port or harbour by ship or boat
+		;The ship put to sea in deteriorating weather conditions.
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -3718,11 +3849,10 @@ put (out) to sea		<-->	idiom++C2[-0]	.
 
 
 
-quarterdeck		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+quarterdeck		<-->	noun++C2	[230105][001]	./ˈkwɔːtədek/-NAmE /ˈkwɔːrtərdek/
+	;boong chính -- (1) a part of the upper level of a ship, at the back, that is used mainly by officers
+		;TOPICS Transport by waterC2
 
 
 
@@ -3730,7 +3860,7 @@ quarterdeck		<-->	noun++C2[-0]	.
 
 
 
-radar		<-->	noun++C1[-0]	.
+radar		<-->	noun++C1	[230105][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3742,7 +3872,7 @@ radar		<-->	noun++C1[-0]	.
 
 
 
-radio		<-->	noun++A1[-0]	.
+radio		<-->	noun++A1	[230105][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3754,9 +3884,42 @@ radio		<-->	noun++A1[-0]	.
 
 
 
-raft		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
+raft		<-->	noun++B2	[230105][001]	./rɑːft/-NAmE /ræft/
+	;bè -- (1) a flat structure made of pieces of wood tied together and used as a boat or floating platform
+		;Extra Examples:
+		;They built a raft of logs.
+		;He was found floating on a raft.
+		;The raft floated away down the river.
+		;We paddled the raft to the shore.
+		;TOPICS Transport by waterB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;lifeinflatablerubber…
+				;verb + raft
+				;buildmakeinflate…
+				;raft + verb
+				;floatcapsizeoverturn…
+				;raft + noun
+				;race
+				;preposition
+				;on a/​the raftonto a/​the raft
+		;See full entry
+	;bè -- (2) a small boat made of rubber or plastic that is filled with air
+		;an inflatable raft
+		;The two airmen inflated the life raft.
+		;TOPICS Transport by waterB2, Sports: water sportsB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;lifeinflatablerubber…
+				;verb + raft
+				;buildmakeinflate…
+				;raft + verb
+				;floatcapsizeoverturn…
+				;raft + noun
+				;race
+				;preposition
+				;on a/​the raftonto a/​the raft
+		;See full entry
 	; -- (3) 
 
 
@@ -3766,47 +3929,61 @@ raft		<-->	noun++B2[-0]	.
 
 
 
-rating		<-->	noun++C2[-0]	.
+rating		<-->	noun++C2	[230105][001]	./cef/ [w]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
-
-
+	;thuỷ thủ không chuyên -- (4) 
 
 
 
 
 
-refloat		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+refloat		<-->	verb++C2	[230105][001]	./ˌriːˈfləʊt/-NAmE /ˌriːˈfləʊt/
+	;trục vớt -- (1) refloat something to make a boat or ship float again, for example after it has become stuck on the bottom in shallow water
+		;A salvage team had battled for five days to refloat the ship.
+		;TOPICS Transport by waterC2
+				;Oxford Collocations Dictionary
+				;Refloat is used with these nouns as the object:
+				;vessel
+		;See full entry
 
 
 
 
 
-rig		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+rig		<-->	verb++C2	[230105][001]	./rɪɡ/-NAmE /rɪɡ/ [usually passive]
+	;dàn xếp -- (1) rig something to arrange or influence something in a dishonest way in order to get the result that you want
+		;SYNONYM fix
+		;<< fix, rig, >>
+		;He said the election had been rigged.
+		;to rig a vote
+		;A commission was appointed to ensure the lottery was not rigged.
+		;to rig the market (= to cause an artificial rise or fall in prices, in order to make a profit)
+		;a rigged match
+	;trang bị -- (2) rig something (with something) to provide a ship or boat with ropes, sails, etc.; to fit the sails, etc. in position
+		;The ships were rigged with a single square sail.
+		;The sails were kept rigged, ready for action.
+		;TOPICS Transport by waterC2
 
 
 
 
 
 
-rig		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+rig		<-->	noun++C2	[230105][001]	./rɪɡ/-NAmE /rɪɡ/
+	;giàn khoan dầu -- (1) (especially in compounds) a large piece of equipment that is used for taking oil or gas from the ground or the bottom of the sea
+		;an oil rig
+		;Her husband works on a rig in the North Sea for weeks at a time.
+		;TOPICS The environmentB2
+	;cách làm buồm??? -- (2) the way that the masts and sails on a boat, etc. are arranged
+		;TOPICS Transport by waterC2
 
 
 
@@ -3814,8 +3991,9 @@ rig		<-->	noun++C2[-0]	.
 
 
 
-rigging		<-->	noun++C2[-0]	.
-	; -- (1) 
+rigging		<-->	noun++C2	[230105][001]	./ˈrɪɡɪŋ/-NAmE /ˈrɪɡɪŋ/ [uncountable]
+	;dây cột buồm -- (1) the ropes that support the masts and sails of a boat or ship
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3826,11 +4004,11 @@ rigging		<-->	noun++C2[-0]	.
 
 
 
-roll		<-->	verb++C1[-0]	.
+roll		<-->	verb++C1	[230105][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
+	;lắc lư, làm lắc lư -- (12) 
 
 
 
@@ -3838,11 +4016,11 @@ roll		<-->	verb++C1[-0]	.
 
 
 
-roll-on roll-off		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+roll-on roll-off		<-->	adjective++C2	[230105][001]	./rəʊl ˌɒn rəʊl ˈɒf/-NAmE /rəʊl ˌɑːn rəʊl ˈɔːf/ [usually before noun] (abbreviation ro-ro) (British English)
+	;vào ra thẳng hàng -- (1) (of a ship) designed so that cars can be driven straight on and off
+		;a roll-on roll-off car ferry
+		;TOPICS Transport by waterC2
 
 
 
@@ -3850,71 +4028,74 @@ roll-on roll-off		<-->	adjective++C2[-0]	.
 
 
 
-rough		<-->	adjective++B2[-0]	.
+rough		<-->	adjective++B2	[230105][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
-
-
+	;xấu -- (5) [-sea/weather] 
 
 
 
-
-
-row		<-->	verb+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
+row		<-->	verb++B2	[230105][001]	./rəʊ/-NAmE /rəʊ/
+	;chèo -- (1) [intransitive, transitive] to move a boat through water using oars (= long thin straight pieces of wood with flat ends)
+		;We rowed around the island.
+		;row something Grace rowed the boat out to sea again.
+		;Homophones road | rode | rowed
+		;Homophones rose | rows
+		;TOPICS Sports: water sportsB2
+	;đưa đi bằng xuồng chèo -- (2) ​[transitive] row somebody (+ adv./prep.) to take somebody somewhere in a boat with oars
+		;The fisherman rowed us back to the shore.
+		;TOPICS Transport by waterB2
 
 
 
-rowboat		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+rowboat		<-->	noun++B2	[230105][001]	./ˈrəʊbəʊt/-NAmE /ˈrəʊbəʊt/ (North American English) (British English rowing boat)
+	;thuyền chèo -- (1) [image] a small open boat that you move using oars
+		;TOPICS Transport by waterB2, Sports: water sportsB2
 
 
 
 
-rower		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+rower		<-->	noun++B2	[230105][001]	./ˈrəʊə(r)/-NAmE /ˈrəʊər/
+	;người chèo thuyền -- (1) a person who rows a boat
+		;TOPICS Transport by waterB2
 
 
 
 
 
-rowing		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+rowing		<-->	noun++B2	[230105][001]	./ˈrəʊɪŋ/-NAmE /ˈrəʊɪŋ/ [uncountable]
+	;môn chèo thuyền -- (1) the sport or activity of travelling in a boat using oars
+		;to go rowing
+		;TOPICS Transport by waterB2, Sports: water sportsB2
+				;Oxford Collocations Dictionary
+				;Rowing is used before these nouns:
+				;boatmachinesquad…
+		;See full entry
 
 
 
 
 
 
-rowing boat		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+rowing boat		<-->	noun++B2	[230105][001]	./ˈrəʊɪŋ bəʊt/-NAmE /ˈrəʊɪŋ bəʊt/ (British English) (North American English rowboat)
+	;thuyền chèo -- (1) enlarge imagea small open boat that you move using oars
+		;TOPICS Transport by waterB2, Sports: water sportsB2
 
 
 
@@ -3922,11 +4103,10 @@ rowing boat		<-->	noun++B2[-0]	.
 
 
 
-rubber dinghy		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+rubber dinghy		<-->	noun++C2	[230105][001]	./ˌrʌbə ˈdɪŋi/,  /ˌrʌbə ˈdɪŋɡi/-NAmE /ˌrʌbər ˈdɪŋi/,  /ˌrʌbər ˈdɪŋɡi/
+	;thuyền cao su -- (1) a small boat made of rubber that is filled with air
+		;TOPICS Transport by waterC2
 
 
 
@@ -3934,9 +4114,9 @@ rubber dinghy		<-->	noun++C2[-0]	.
 
 
 
-run		<-->	noun++C2[-0]	.
+run		<-->	noun++C2	[230105][001]	./cef/
 	; -- (1) 
-	; -- (2) 
+	;chuyến bay, tàu, xe -- (2) 
 	; -- (3) 
 
 
@@ -3946,7 +4126,7 @@ run		<-->	noun++C2[-0]	.
 
 
 
-sailverbA2[-0]	.
+sail		<-->	verb+A2	[230105][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3958,11 +4138,10 @@ sailverbA2[-0]	.
 
 
 
-sail		<-->	noun++B1[-0]	.
+sail		<-->	noun++B1	[230105][001]	./cef/\
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -3970,11 +4149,10 @@ sail		<-->	noun++B1[-0]	.
 
 
 
-sailboat		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+sailboat		<-->	noun++B2	[230105][001]	./ˈseɪlɪŋ bəʊt/-NAmE /ˈseɪlɪŋ bəʊt/ (British English) (North American English sailboat)
+	;thuyền buồm -- (1) a boat with sails
+		;TOPICS Transport by waterB2
 
 
 
@@ -3982,11 +4160,10 @@ sailboat		<-->	noun++B2[-0]	.
 
 
 
-sailing		<-->	noun++A2[-0]	.
+sailing		<-->	noun++A2	[230105][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -3994,23 +4171,20 @@ sailing		<-->	noun++A2[-0]	.
 
 
 
-sailing boat		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+sailing boat		<-->	noun++B2	[230105][001]	./ˈseɪlɪŋ bəʊt/-NAmE /ˈseɪlɪŋ bəʊt/ (British English) (North American English sailboat)
+	;thuyền buồm -- (1) enlarge imagea boat with sails
+		;TOPICS Transport by waterB2
 
 
 
 
 
 
-
-sailing ship		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+sailing ship		<-->	noun++B2	[230105][001]	./ˈseɪlɪŋ ʃɪp/-NAmE /ˈseɪlɪŋ ʃɪp/
+	;tàu buồm -- (1) a ship with sails
+		;TOPICS Transport by waterB2
 
 
 
@@ -4018,7 +4192,7 @@ sailing ship		<-->	noun++B2[-0]	.
 
 
 
-sailor		<-->	noun++B1[-0]	.
+sailor		<-->	noun++B1	[230105][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4029,12 +4203,11 @@ sailor		<-->	noun++B1[-0]	.
 
 
 
-
-sampan		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+sampan		<-->	noun++C2	[230105][001]	./ˈsæmpæn/-NAmE /ˈsæmpæn/
+	;thuyền tam bản -- (1) a small boat with a flat bottom used along the coast and rivers of China
+		;TOPICS Transport by waterC2
+		;Word Origin
 
 
 
@@ -4042,8 +4215,9 @@ sampan		<-->	noun++C2[-0]	.
 
 
 
-schooner		<-->	noun++C2[-0]	.
-	; -- (1) 
+schooner		<-->	noun++C2	[230105][001]	./ˈskuːnə(r)/-NAmE /ˈskuːnər/
+	;thuyền có nhiều cột buồm -- (1) a sailing ship with two or more masts (= posts that support the sails)
+		;TOPICS Transport by waterC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4054,10 +4228,11 @@ schooner		<-->	noun++C2[-0]	.
 
 
 
-screw		<-->	noun++C2[-0]	.
+screw		<-->	noun++C2	[230105][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;chân vịt -- (5) 
 
 
 
@@ -4066,10 +4241,12 @@ screw		<-->	noun++C2[-0]	.
 
 
 
-scull		<-->	noun++C2[-0]	.
-	; -- (1) 
+scull		<-->	noun++C2	[230105][001]	./skʌl/-NAmE /skʌl/
+	;thuyền có mái chèo -- (1) [countable, usually plural] one of a pair of small oars used by a single person rowing a boat, one in each hand
+		;TOPICS Transport by waterC2, Sports: water sportsC2
 	; -- (2) 
-	; -- (3) 
+	;thuyền có mái chèo -- (3) ​[countable] a small light boat used in sculls races
+		;TOPICS Transport by waterC2, Sports: water sportsC2
 
 
 
@@ -4099,7 +4276,7 @@ scuttle		<-->	verb++C2	[221224][001]	./ˈskʌtl/-NAmE /ˈskʌtl/
 
 
 
-sea		<-->	noun++A1[-0]	.
+sea		<-->	noun++A1	[230105][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4111,10 +4288,10 @@ sea		<-->	noun++A1[-0]	.
 
 
 
-seaborne		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+seaborne		<-->	adjective++C2	[230105][001]	./ˈsiːbɔːn/-NAmE /ˈsiːbɔːrn/ [only before noun]
+	;đường biển -- (1) ​carried in ships
+		;a seaborne invasion
+		;TOPICS Transport by waterC2
 
 
 
@@ -4122,72 +4299,75 @@ seaborne		<-->	adjective++C2[-0]	.
 
 
 
+SeaCat™		<-->	noun++C2	[230105][001]	./ˈsiːkæt/-NAmE /ˈsiːkæt/
+	;tàu chở xe khách qua sông, biển hẹp -- (1) a type of large fast boat that is used to transport passengers and cars on short sea journeys
+		;TOPICS Transport by waterC2
 
-SeaCat™		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
 
+sea dog		<-->	noun++C2	[230105][001]	./ˈsiː dɒɡ/-NAmE /ˈsiː dɔːɡ/ (informal)
+	;thuỷ thủ già, giàu kinh nghiệm -- (1) a sailor who is old or who has a lot of experience
+		;TOPICS Transport by waterC2
 
 
-sea dog		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
+seafarer		<-->	noun++C2	[230105][001]	./ˈsiːfeərə(r)/-NAmE /ˈsiːferər/ (old-fashioned or formal)
+	;thuỷ thủ -- (1) a sailor
+		;TOPICS Transport by waterC2
 
 
 
-seafarer		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+seagoing		<-->	adjective++C2	[230105][001]	./ˈsiːɡəʊɪŋ/-NAmE /ˈsiːɡəʊɪŋ/ [only before noun]
+	;vượt biển -- (1) (of ships) built for crossing the sea
+		;a seagoing vessel
+		;TOPICS Transport by waterC2
+				;Oxford Collocations Dictionary
+				;Seagoing is used with these nouns:
+				;vessel
+		;See full entry
 
 
 
 
-seagoing		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+sea lane		<-->	noun++C2	[230105][001]	./ˈsiː leɪn/-NAmE /ˈsiː leɪn/
+	;làn tàu biển -- (1) an official route at sea that is regularly used by ships
+		;TOPICS Transport by waterC2
 
 
 
 
 
-sea lane		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+sea legs		<-->	noun++C2	[230105][001]	./ˈsiː leɡz/-NAmE /ˈsiː leɡz/ [plural]
+	;khả năng đi tàu xe tốt -- (1) ​the ability to walk easily on a moving ship and not to feel sick at sea
+		;It won't take you long to find your sea legs.
+		;TOPICS Transport by waterC2
 
 
 
 
 
 
-sea legs		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+sealift		<-->	noun++C2	[230105][001]	./ˈsiːlɪft/-NAmE /ˈsiːlɪft/
+	;hoạt động vận tải biển -- (1) an operation to take people, soldiers, food, etc. to or from an area by ship, especially in an emergency
+		;TOPICS Transport by waterC2
 
 
 
@@ -4195,10 +4375,17 @@ sea legs		<-->	noun++C2[-0]	.
 
 
 
-sealift		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+seaman		<-->	noun++C1	[230105][001]	./ˈsiːmən/-NAmE /ˈsiːmən/ (plural seamen  /ˈsiːmən/  /ˈsiːmən/)
+	;thuỷ thủ -- (1) a member of the navy or a sailor on a ship below the rank of an officer
+		;Seaman Bates
+		;a merchant seaman
+		;SEE ALSO able seaman, leading seaman, master seaman, ordinary seaman
+		;TOPICS War and conflictC1, Transport by waterC1
+				;Oxford Collocations Dictionary
+				;Seaman is used after these nouns:
+				;merchant
+		;See full entry
+		;Word Origin
 
 
 
@@ -4206,72 +4393,73 @@ sealift		<-->	noun++C2[-0]	.
 
 
 
+seamanship		<-->	noun++C2	[230105][001]	./ˈsiːmənʃɪp/-NAmE /ˈsiːmənʃɪp/ [uncountable]
+	;khả năng về tàu biển -- (1) ​skill in sailing a boat or ship
+		;TOPICS Transport by waterC2
 
-seaman		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
 
+sea mile		<-->	noun++C2	[230105][001]	./ˈsiː maɪl/-NAmE /ˈsiː maɪl/ (also nautical mile)
+	;hải lý -- (1) a unit for measuring distance at sea; 1 852 metres
+		lTOPICS Transport by waterC2
 
 
-seamanship		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
+seaport		<-->	noun++C2	[230105][001]	./ˈsiːpɔːt/-NAmE /ˈsiːpɔːrt/
+	;cảng biển -- (1) a town with a harbour used by large ships
+		;the Baltic seaports
+		;TOPICS Transport by waterC2
 
 
 
-sea mile		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+seasick		<-->	adjective++B1	[230105][001]	./ˈsiːsɪk/-NAmE /ˈsiːsɪk/ [not usually before noun]
+	;say sóng -- (1) feeling sick or wanting to vomit when you are travelling on a boat or ship
+		;to be/feel/get seasick
+		;TOPICS Transport by waterB1, Health problemsB1
 
 
 
 
-seaport		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+seasickness		<-->	noun++B2	[230105][001]	./ˈsiːsɪknəs/-NAmE /ˈsiːsɪknəs/ [uncountable]
+	;cảm giác say sóng -- (1) a feeling that you are going to vomit caused by travelling on a boat or ship
+		;to suffer from seasickness
+		;TOPICS Health problemsB2, Transport by waterB2
 
 
 
 
 
-seasick		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+seaway		<-->	noun++C2	[230105][001]	./ˈsiːweɪ/-NAmE /ˈsiːweɪ/
+	;hải lộ, đường biển -- (1) a passage from the sea through the land along which large ships can travel
+		;In 1959 the St Lawrence Seaway opened to shipping.
+		;TOPICS Transport by waterC2
 
 
 
 
 
 
-seasickness		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+seaworthiness		<-->	noun++C2	[230105][001]	./ˈsiːwɜːðinəs/-NAmE /ˈsiːwɜːrðinəs/ [uncountable]
+	;điều kiện tốt ra khơi -- (1) ​the quality in a ship of being in a suitable condition to sail
+		;TOPICS Transport by waterC2
 
 
 
@@ -4279,32 +4467,7 @@ seasickness		<-->	noun++B2[-0]	.
 
 
 
-seaway		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-seaworthiness		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-seaworthy		<-->	adjective++C2	[230103][001]	./ˈsiːwɜːði/
- /ˈsiːwɜːrði/
+seaworthy		<-->	adjective++C2	[230103][001]	./ˈsiːwɜːði/-NAmE /ˈsiːwɜːrði/
 	;thuận lợi ra khơi -- (1) (of a ship) in a suitable condition to sail
 		;TOPICS Transport by waterC2
 				;Oxford Collocations Dictionary
@@ -4318,8 +4481,7 @@ seaworthy		<-->	adjective++C2	[230103][001]	./ˈsiːwɜːði/
 
 
 
-second-class		<-->	adjective++B1	[230103][001]	./ˌsekənd ˈklɑːs/
- /ˌsekənd ˈklæs/
+second-class		<-->	adjective++B1	[230103][001]	./ˌsekənd ˈklɑːs/-NAmE /ˌsekənd ˈklæs/
 	;hạng hai -- (1) (disapproving) (of a person) less important than other people
 		;Older people should not be treated as second-class citizens.
 	; -- (2) 
@@ -4358,8 +4520,7 @@ ship		<-->	noun++A2	[230103][001]	./cef/
 
 
 
-shipboard		<-->	adjective++C2	[230103][001]	./ˈʃɪpbɔːd/
- /ˈʃɪpbɔːrd/ [only before noun]
+shipboard		<-->	adjective++C2	[230103][001]	./ˈʃɪpbɔːd/-NAmE /ˈʃɪpbɔːrd/ [only before noun]
 	;trên tàu -- (1) happening on a ship
 		;shipboard romances
 		;TOPICS Transport by waterC2
@@ -4370,8 +4531,7 @@ shipboard		<-->	adjective++C2	[230103][001]	./ˈʃɪpbɔːd/
 
 
 
-shipload		<-->	noun++C2	[230103][001]	./ˈʃɪpləʊd/
- /ˈʃɪpləʊd/
+shipload		<-->	noun++C2	[230103][001]	./ˈʃɪpləʊd/-NAmE /ˈʃɪpləʊd/
 	;tải trọng -- (1) as many goods or passengers as a ship can carry
 		;a shipload of food and medical supplies
 		;TOPICS Transport by waterC2
@@ -4382,8 +4542,7 @@ shipload		<-->	noun++C2	[230103][001]	./ˈʃɪpləʊd/
 
 
 
-shipmate		<-->	noun++C2	[230103][001]	./ˈʃɪpmeɪt/
- /ˈʃɪpmeɪt/
+shipmate		<-->	noun++C2	[230103][001]	./ˈʃɪpmeɪt/-NAmE /ˈʃɪpmeɪt/
 	;thuỷ thủ đoàn -- (1) sailors who are shipmates are sailing on the same ship as each other
 		;The crew were all old shipmates of previous cruises.
 		;TOPICS Transport by waterC2
@@ -4394,8 +4553,7 @@ shipmate		<-->	noun++C2	[230103][001]	./ˈʃɪpmeɪt/
 
 
 
-shipowner		<-->	noun++C1	[230103][001]	./ˈʃɪpəʊnə(r)/
- /ˈʃɪpəʊnər/
+shipowner		<-->	noun++C1	[230103][001]	./ˈʃɪpəʊnə(r)/-NAmE /ˈʃɪpəʊnər/
 	;chủ tàu -- (1) a person or company that owns a ship or ships
 		;TOPICS Transport by waterC1
 
@@ -4821,7 +4979,7 @@ steerage		<-->	noun++C2	[221231][001]	./ˈstɪərɪdʒ/-NAmE /ˈstɪrɪdʒ/ [unc
 
 
 
-stern		<-->	noun++C2	[221231][001]	./stɜːn/-NAmE /stɜːrn/-\
+stern		<-->	noun++C2	[221231][002]	./stɜːn/-NAmE /stɜːrn/-\
 	;đuôi tàu -- (1) the back end of a ship or boat
 		;COMPARE bow1, poop
 		;TOPICS Transport by waterC2
