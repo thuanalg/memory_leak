@@ -58,7 +58,7 @@ actress		<-->	noun+A1[-0]	.
 
 
 
-actuary		<-->	noun+C2	[221028][1]	./ˈæktʃuəri/-NAmE /ˈæktʃueri/ (plural actuaries)
+actuary		<-->	noun+C2	[221028][001]	./ˈæktʃuəri/-NAmE /ˈæktʃueri/ (plural actuaries)
 	;nhà phân tích bảo hiểm -- (1) a person whose job involves calculating insurance risks and payments for insurance companies by studying how frequently accidents, fires, deaths, etc. happen
 		;Wordfinder: actuaryannuitycoverexcessinsuranceno-claims bonuspolicypremiumriskunderwrite
 		;TOPICS JobsC2
@@ -119,7 +119,7 @@ agent		<-->	noun+B1[-0]	.
 
 
 
-aide		<-->	noun+C1	[221028][1]	./cef/
+aide		<-->	noun+C1	[221028][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -131,7 +131,7 @@ aide		<-->	noun+C1	[221028][1]	./cef/
 
 
 
-air hostess		<-->	noun+C1	[221028][1]	./ˈeə həʊstəs/,  /ˈeə həʊstes/-NAmE /ˈer həʊstəs/ (British English, old-fashioned)
+air hostess		<-->	noun+C1	[221028][001]	./ˈeə həʊstəs/,  /ˈeə həʊstes/-NAmE /ˈer həʊstəs/ (British English, old-fashioned)
 	;nữ tiếp viên hàng không -- (1) ​a female flight attendant
 		;More About gender
 		;TOPICS Transport by airC1, JobsC1
@@ -156,7 +156,7 @@ air traffic controller		<-->	noun+C1[-0]	.
 
 
 
-ambassador		<-->	noun+C1	[221028][1]	./cef/
+ambassador		<-->	noun+C1	[221028][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -180,7 +180,7 @@ analyst		<-->	noun+B2[-0]	.
 
 
 
-ancillary		<-->	adjective+C2	[221028][1]	./ænˈsɪləri/-NAmE /ˈænsəleri/
+ancillary		<-->	adjective+C2	[221028][001]	./ænˈsɪləri/-NAmE /ˈænsəleri/
 	;phụ trợ -- (1) ancillary (to something) providing necessary support to the main work or activities of an organization
 		;SYNONYM auxiliary
 		;ancillary staff/services/equipment
@@ -194,7 +194,7 @@ ancillary		<-->	adjective+C2	[221028][1]	./ænˈsɪləri/-NAmE /ˈænsəleri/
 
 
 
-apprentice		<-->	noun+B2	[221028][1]	./əˈprentɪs/-NAmE /əˈprentɪs/
+apprentice		<-->	noun+B2	[221028][001]	./əˈprentɪs/-NAmE /əˈprentɪs/
 	;thợ học việc -- (1) a young person who works for an employer for a fixed period of time in order to learn the particular skills needed in their job
 		;an apprentice electrician/chef
 		;Wordfinder: apprenticecertificatecoachingcollegecourseinternprobationqualifytrainingwork experience
@@ -212,7 +212,7 @@ apprentice		<-->	noun+B2	[221028][1]	./əˈprentɪs/-NAmE /əˈprentɪs/
 
 
 
-apprenticeship		<-->	noun+C1	[221028][1]	./əˈprentɪʃɪp/-NAmE /əˈprentɪʃɪp/ [countable, uncountable]
+apprenticeship		<-->	noun+C1	[221028][001]	./əˈprentɪʃɪp/-NAmE /əˈprentɪʃɪp/ [countable, uncountable]
 	;thời gian học việc -- (1) a period of time working as an apprentice; a job as an apprentice
 		;She was in the second year of her apprenticeship as a carpenter.
 		;He had served his apprenticeship as a plumber.
@@ -228,7 +228,7 @@ apprenticeship		<-->	noun+C1	[221028][1]	./əˈprentɪʃɪp/-NAmE /əˈprentɪʃ
 
 
 
-archaeologist		<-->	noun+B2	[221028][1]	./ˌɑːkiˈɒlədʒɪst/-NAmE /ˌɑːrkiˈɑːlədʒɪst/ (North American English) (also archaeologist British and North American English)
+archaeologist		<-->	noun+B2	[221028][001]	./ˌɑːkiˈɒlədʒɪst/-NAmE /ˌɑːrkiˈɑːlədʒɪst/ (North American English) (also archaeologist British and North American English)
 	;nhà khoả cổ -- (1) a person who studies archeology
 		;TOPICS HistoryB2, JobsB2
 
@@ -252,7 +252,7 @@ archeologist		<-->	noun+B2[-0]	.
 
 
 
-architect		<-->	noun+A2	[221028][1]	./ˈɑːkɪtekt/-NAmE /ˈɑːrkɪtekt/
+architect		<-->	noun+A2	[221028][001]	./ˈɑːkɪtekt/-NAmE /ˈɑːrkɪtekt/
 	;kiến trúc sư -- (1) a person whose job is designing buildings
 		;The house was designed by architect Louis Kahn.
 		;She's a London-based architect and interior designer.
@@ -276,7 +276,7 @@ architect		<-->	noun+A2	[221028][1]	./ˈɑːkɪtekt/-NAmE /ˈɑːrkɪtekt/
 
 
 
-archivist		<-->	noun+C2	[221028][1]	./ˈɑːkɪvɪst/-NAmE /ˈɑːrkɪvɪst/
+archivist		<-->	noun+C2	[221028][001]	./ˈɑːkɪvɪst/-NAmE /ˈɑːrkɪvɪst/
 	;nhà lưu trữ dữ liệu -- (1) a person whose job is to develop and manage an archive
 		;TOPICS JobsC2
 
@@ -360,7 +360,7 @@ astronaut		<-->	noun+B1[-0]	.
 
 
 
-attendant		<-->	noun+B1	[221028][1]	./əˈtendənt/-NAmE /əˈtendənt/-\
+attendant		<-->	noun+B1	[221028][001]	./əˈtendənt/-NAmE /əˈtendənt/-\
 	;nhân viên hỗ trợ công chúng, khách hàng -- (1) a person whose job is to serve or help people in a public place
 		;a cloakroom/parking/museum attendant
 		;Pool attendants kept a constant watch on the swimmers.
@@ -393,7 +393,7 @@ attorney		<-->	noun+C1[-0]	.
 
 
 
-auctioneer		<-->	noun+C2	[221028][1]	./ˌɔːkʃəˈnɪə(r)/,  /ˌɒkʃəˈnɪə(r)/-NAmE /ˌɔːkʃəˈnɪr/
+auctioneer		<-->	noun+C2	[221028][001]	./ˌɔːkʃəˈnɪə(r)/,  /ˌɒkʃəˈnɪə(r)/-NAmE /ˌɔːkʃəˈnɪr/
 	;chủ toạ đấu giá -- (1) ​a person whose job is to direct an auction and sell the goods
 		;‘Yours for £200,’ said the auctioneer.
 		;TOPICS ArtC2, JobsC2
@@ -442,7 +442,7 @@ babysit		<-->	verb+B2[-0]	.
 
 
 
-bailiff		<-->	noun+C2	[221028][1]	./ˈbeɪlɪf/-NAmE /ˈbeɪlɪf/
+bailiff		<-->	noun+C2	[221028][001]	./ˈbeɪlɪf/-NAmE /ˈbeɪlɪf/
 	;thừa phát lại -- (1) (British English) a law officer whose job is to take the possessions and property of people who cannot pay their debts
 		;The bailiffs seized the car and house.
 		;Their landlord has threatened to send in the bailiffs if they don’t pay their rent.
@@ -479,7 +479,7 @@ baker		<-->	noun+B1[-0]	.
 
 
 
-ballerina		<-->	noun+C2	[221028][1]	./ˌbæləˈriːnə/-NAmE /ˌbæləˈriːnə/
+ballerina		<-->	noun+C2	[221028][001]	./ˌbæləˈriːnə/-NAmE /ˌbæləˈriːnə/
 	;nữ vũ công bale -- (1) a female dancer in ballet
 		;SEE ALSO prima ballerina
 		;TOPICS JobsC2
