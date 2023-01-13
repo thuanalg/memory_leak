@@ -1702,8 +1702,10 @@
 
 
 
-[-] back up		<-->	phrasal verb++C1	[221220][001]	./p/
-	; -- (1) 
+[-] back up		<-->	phrasal verb+B2	[221220][002]	./p/ [IE-B2-Z03-WB-56]
+	;hỗ trợ, chống lưng -- (1) [-back somebody/something  up] to support somebody/something; to say that what somebody says, etc. is true
+		;I'll back you up if they don't believe you.
+		;The writer doesn't back up his opinions with examples.
 	; -- (2) 
 	;tạo một bản dự phòng -- (3) [-back something  up] (computing) to prepare a second copy of a file, program, etc. that can be used if the main one fails or needs extra support
 		;It's a good idea to back up your files onto a memory stick.

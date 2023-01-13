@@ -951,7 +951,7 @@ bend		<-->	noun++C2	[230109][001]	./cef/
 
 
 
-benign		<-->	adjective++C2	[230109][001]	./bɪˈnaɪn/-NAmE /bɪˈnaɪn/
+benign		<-->	adjective++C2	[230109][002]	./bɪˈnaɪn/-NAmE /bɪˈnaɪn/
 	;hiền lành -- (1) (formal) (of people) kind and gentle; not hurting anybody
 		;You would never have guessed his intentions from the benign expression on his face.
 		;Extra Examples:
@@ -1521,8 +1521,7 @@ burnt		<-->	adjective++B1	[230109][001]	./bɜːnt/-NAmE /bɜːrnt/
 
 
 
-C-19		<-->	noun++C1	[230110][001]	.ˌsiː naɪnˈtiːn/
- /ˌsiː naɪnˈtiːn/ (also C19) [uncountable]
+C-19		<-->	noun++C1	[230110][001]	.ˌsiː naɪnˈtiːn/-NAmE /ˌsiː naɪnˈtiːn/ (also C19) [uncountable]
 	;dịch viêm phổi Tàu -- (1) a disease caused by a coronavirus that was first reported in 2019 and became a pandemic (the abbreviation for Covid-19)
 		;There have been twelve new C-19 cases in the county over the last 24 hours.
 		;TOPICS Health problemsC1
@@ -1614,8 +1613,7 @@ cardiac		<-->	adjective++C2	[230109][001]	./ˈkɑːdiæk/-NAmE /ˈkɑːrdiæk/ [
 
 
 
-carpal tunnel syndrome		<-->	noun++C2	[230110][001]	.ˌkɑːpl ˈtʌnl sɪndrəʊm/
- /ˌkɑːrpl ˈtʌnl sɪndrəʊm/ [uncountable] (medical)
+carpal tunnel syndrome		<-->	noun++C2	[230110][001]	.ˌkɑːpl ˈtʌnl sɪndrəʊm/-NAmE /ˌkɑːrpl ˈtʌnl sɪndrəʊm/ [uncountable] (medical)
 	;tình trạng tê tay, chân do bị chèn ép dây thần kinh -- (1) a painful condition of the hand and fingers caused by pressure on a nerve because of repeated movements over a long period
 		;TOPICS Health problemsC2
 
@@ -1627,8 +1625,7 @@ carpal tunnel syndrome		<-->	noun++C2	[230110][001]	.ˌkɑːpl ˈtʌnl sɪndrə�
 
 
 
-carrier		<-->	noun++C1	[230110][001]	.ˈkæriə(r)/
- /ˈkæriər
+carrier		<-->	noun++C1	[230110][001]	.ˈkæriə(r)/-NAmE /ˈkæriər
 	;công ty vận tải -- (1) a company that carries goods or passengers from one place to another, especially by air
 		;Delta Air Lines, the third-largest carrier in the US
 	;tàu sân bay -- (2) a military vehicle or ship that carries soldiers or equipment from one place to another
@@ -1701,8 +1698,7 @@ catch		<-->	verb++B1	[230110][001]	.cef/
 
 
 
-catching		<-->	adjective++C1	[230110][001]	.ˈkætʃɪŋ/
- /ˈkætʃɪŋ/,  /ˈketʃɪŋ/ [not before noun]
+catching		<-->	adjective++C1	[230110][001]	.ˈkætʃɪŋ/-NAmE /ˈkætʃɪŋ/,  /ˈketʃɪŋ/ [not before noun]
 	;bị lây bệnh -- (1) (of a disease) easily caught by one person from another
 		;SYNONYM infectious
 	;bị lây bệnh -- (2) (of an emotion or a mood) passing quickly from one person to another
@@ -1911,8 +1907,10 @@ cirrhosis		<-->	noun++C2	[230109][001]	./səˈrəʊsɪs/-NAmE /səˈrəʊsɪs/ [
 
 
 
-CJDabbreviationC2[-0]	.
-	; -- (1) 
+CJD		<-->	abbreviation+C2	[230113][001]	./ˌsiː dʒeɪ ˈdiː/-NAmE /ˌsiː dʒeɪ ˈdiː/
+	;bệnh Creutzfeldt-Jakob -- (1) Creutzfeldt-Jakob disease
+		;SEE ALSO new variant CJD
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -1925,8 +1923,7 @@ CJDabbreviationC2[-0]	.
 
 
 
-coeliac		<-->	adjective++C2	[230110][001]	.ˈsiːliæk/
- /ˈsiːliæk/ (British English) (North American English celiac )
+coeliac		<-->	adjective++C2	[230110][001]	.ˈsiːliæk/-NAmE /ˈsiːliæk/ (British English) (North American English celiac )
 	;có bệnh đường ruột, tiêu hoá -- (1) having or connected with coeliac disease, a condition in which food containing gluten causes somebody to become ill
 		;coeliac children/patients
 		;TOPICS Health problemsC2
@@ -1939,8 +1936,7 @@ coeliac		<-->	adjective++C2	[230110][001]	.ˈsiːliæk/
 
 
 
-coeliac		<-->	noun++C2	[230110][001]	.ˈsiːliæk/
- /ˈsiːliæk/ (British English) (North American English celiac )
+coeliac		<-->	noun++C2	[230110][001]	.ˈsiːliæk/-NAmE /ˈsiːliæk/ (British English) (North American English celiac )
 	;người có bệnh đường ruột, tiêu hoá -- (1) a person who has coeliac disease, a condition in which food containing gluten causes them to become ill
 		;As a coeliac, he is on a strict gluten-free diet.
 		;Many people dislike this use and prefer to say that somebody has coeliac disease rather than refer to them as ‘a coeliac’.
@@ -1954,8 +1950,7 @@ coeliac		<-->	noun++C2	[230110][001]	.ˈsiːliæk/
 
 
 
-coeliac disease		<-->	noun++C2	[230110][001]	.ˈsiːliæk dɪziːz/
- /ˈsiːliæk dɪziːz/ (British English) (North American English celiac disease) [uncountable]
+coeliac disease		<-->	noun++C2	[230110][001]	.ˈsiːliæk dɪziːz/-NAmE /ˈsiːliæk dɪziːz/ (British English) (North American English celiac disease) [uncountable]
 	;bệnh đường ruột, tiêu hoá -- (1) a disease in which somebody cannot digest some types of food (= break them down in their body) because their body is very sensitive to gluten (= a substance that is found in flour, especially wheat flour)
 		;TOPICS Health problemsC2
 
@@ -1980,8 +1975,7 @@ cold		<-->	noun++A1	[221222][001]	./cef/
 
 
 
-cold turkey		<-->	adverb++C2	[230110][001]	.ˌkəʊld ˈtɜːki/
- /ˌkəʊld ˈtɜːrki/
+cold turkey		<-->	adverb++C2	[230110][001]	.ˌkəʊld ˈtɜːki/-NAmE /ˌkəʊld ˈtɜːrki/
 	;c. cảm giác thiếu ma tuý -- (1) if somebody stops taking a drug cold turkey, they stop in a sudden way that produces an unpleasant state
 		;I quit smoking cold turkey.
 		;TOPICS Health problemsC2
@@ -1992,8 +1986,7 @@ cold turkey		<-->	adverb++C2	[230110][001]	.ˌkəʊld ˈtɜːki/
 
 
 
-cold turkey		<-->	noun++C2	[230110][001]	.ˌkəʊld ˈtɜːki/
- /ˌkəʊld ˈtɜːrki/ [uncountable]
+cold turkey		<-->	noun++C2	[230110][001]	.ˌkəʊld ˈtɜːki/-NAmE /ˌkəʊld ˈtɜːrki/ [uncountable]
 	;cảm giác thiếu ma tuý, tình trạng vã thuốc -- (1) the unpleasant state that drug addicts experience when they suddenly stop taking a drug; a way of treating drug addicts that makes them experience this state
 		;TOPICS Health problemsC2
 
@@ -2005,8 +1998,7 @@ cold turkey		<-->	noun++C2	[230110][001]	.ˌkəʊld ˈtɜːki/
 
 
 
-colic		<-->	noun++C2	[230110][001]	.ˈkɒlɪk/
- /ˈkɑːlɪk/ [uncountable
+colic		<-->	noun++C2	[230110][001]	.ˈkɒlɪk/-NAmE /ˈkɑːlɪk/ [uncountable
 	;bệnh đau bụng -- (1) severe pain in the stomach and bowels, suffered especially by babies
 		;TOPICS Health problemsC2
 				;Oxford Collocations Dictionary
@@ -2086,8 +2078,7 @@ collapse		<-->	noun++C1	[230110][001]	.cef/
 
 
 
-coma		<-->	noun++C2	[230110][001]	.ˈkəʊmə/
- /ˈkəʊmə/
+coma		<-->	noun++C2	[230110][001]	.ˈkəʊmə/-NAmE /ˈkəʊmə/
 	;tình trạng hôn mê -- (1) a deep unconscious state, usually lasting a long time and caused by serious illness or injury
 		;to go into/be in a coma
 		;Extra Examples:
@@ -2115,8 +2106,7 @@ coma		<-->	noun++C2	[230110][001]	.ˈkəʊmə/
 
 
 
-comatose		<-->	adjective++C2	[230110][001]	.ˈkəʊmətəʊs/
- /ˈkəʊmətəʊs/	
+comatose		<-->	adjective++C2	[230110][001]	.ˈkəʊmətəʊs/-NAmE /ˈkəʊmətəʊs/	
 	;hôn mê sâu -- (1) ​(medical) deeply unconscious; in a coma
 		;TOPICS Health problemsC2
 
@@ -2138,8 +2128,7 @@ come down with		<-->	phrasal adverb++C2	[230110][001]	.p/
 
 
 
-community spread		<-->	noun++C2	[230110][001]	.kəˌmjuːnəti ˈspred/
- /kəˌmjuːnəti ˈspred/ (also community transmission) [uncountable]
+community spread		<-->	noun++C2	[230110][001]	.kəˌmjuːnəti ˈspred/-NAmE /kəˌmjuːnəti ˈspred/ (also community transmission) [uncountable]
 	;sự lây nhiễm cộng đồng -- (1) the spread of a disease within a group of people without any obvious source of infection
 		;As more and more countries experience community spread, containment at borders becomes harder.
 		;TOPICS Health problemsC2
@@ -2152,8 +2141,7 @@ community spread		<-->	noun++C2	[230110][001]	.kəˌmjuːnəti ˈspred/
 
 
 
-community transmission		<-->	noun++C2	[230110][001]	.kəˌmjuːnəti trænzˈmɪʃn/
- /kəˌmjuːnəti trænzˈmɪʃn/ (also community spread) [uncountable]
+community transmission		<-->	noun++C2	[230110][001]	.kəˌmjuːnəti trænzˈmɪʃn/-NAmE /kəˌmjuːnəti trænzˈmɪʃn/ (also community spread) [uncountable]
 	;sự lây nhiễm cộng đồng -- (1) the spread of a disease within a group of people without any obvious source of infection
 		;There is no evidence yet of local community transmission within the country.
 		;TOPICS Health problemsC2
@@ -2853,8 +2841,10 @@ dehydrated		<-->	adjective++C2	[230110][001]	./ˌdiːhaɪˈdreɪtɪd/-NAmE /diː
 
 
 
-dehydration		<-->	noun++C2[-0]	.
-	; -- (1) 
+dehydration		<-->	noun++C2	[230113][001]	./ˌdiːhaɪˈdreɪʃn/-NAmE /ˌdiːhaɪˈdreɪʃn/ [uncountable]
+	;bệnh mất nước -- (1) the condition of having lost too much water from your body
+		;to suffer from dehydration
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -2913,7 +2903,227 @@ delta		<-->	noun++C2	[230110][001]	./ˈdeltə/-NAmE /ˈdeltə/
 
 
 
-demented		<-->	adjective++C2[-0]	.
+demented		<-->	adjective++C2	[230113][001]	./dɪˈmentɪd/-NAmE /dɪˈmentɪd/
+	;mất trí, điên -- (1) (especially British English) behaving in a crazy way because you are extremely upset or worried
+		;I've been nearly demented with worry about you.
+		;The children have driven me demented today.
+		;He was crashing about the house like a demented animal.
+	;mắc bệnh mất trí nhớ -- (2) (old-fashioned or medical) having dementia
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+
+
+dementia		<-->	noun++C2	[230113][001]	./dɪˈmenʃə/-NAmE /dɪˈmenʃə/ [uncountable] (psychology)
+	;chứng mất trí nhớ -- (1) a brain condition, mostly affecting older people, in which a person has difficulties with memory, thinking, control of the body, etc. that are severe enough to affect daily life
+		;patients with dementia
+		;She was diagnosed with dementia.
+		;a dementia sufferer/patient
+		;111 people in the study subsequently developed dementia.
+		;The staff have specialist training in dementia care.
+		;COMPARE Alzheimer’s
+		;Wordfinder: anorexiaautismbipolar disorderconditiondementiadepressionparanoiapsychosisschizophrenia
+		;TOPICS Life stagesC2, Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+dependence		<-->	noun++C1	[230113][001]	./cef/
+	; -- (1) 
+	;sự nghiện ngập -- (2) (also dependency) the state of being addicted to something (= unable to stop taking or using it)
+		;drug/alcohol dependence
+		;dependence on alcohol
+		;TOPICS Health problemsC1, Social issuesC1
+		;Wordfinder: abuse, addict, deal, dependence, detoxification, drug, hallucinate, overdose, rehab, withdrawal, 
+		;Wordfinder: abuse, addict, deal, dependence, detoxification, drug, hallucinate, overdose, rehab, withdrawal
+			;Oxford Collocations Dictionary
+			;adjective
+				;alcoholdrugnicotine…
+			;preposition
+				;dependence  on
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+dependent		<-->	adjective++B2	[230113][001]	./cef/
+	; -- (1) 
+	;nghiện -- (2) dependent on/upon something addicted to something (= unable to stop taking or using it)
+		;to be dependent on drugs
+		;TOPICS Health problemsB2, Social issuesB2
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+develop		<-->	verb++B1	[230113][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;phát triển -- (4) [-disease/problem] [transitive, intraansitive] develop (something) to begin to have something such as a disease or a problem; to start to affect somebody/something
+		;She developed lung cancer at the age of sixty.
+		;Her son developed asthma when he was two.
+		;The car developed engine trouble and we had to stop.
+		;If symptoms develop, seek help quickly.
+		;Problems can develop unexpectedly.
+		;TOPICS Health problemsB1
+
+
+
+
+
+
+
+
+
+diabetes		<-->	noun++B2	[230113][001]	./ˌdaɪəˈbiːtiːz/-NAmE /ˌdaɪəˈbiːtiːz/ [uncountable]
+	;bệnh tiểu đường -- (1) a medical condition in which the body cannot produce enough insulin to control the amount of sugar in the blood
+		;TOPICS Health problemsB2
+				;Oxford Collocations Dictionary
+				;Diabetes is used before these nouns:
+				;medication
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+diabetic		<-->	n++C2	[230113][001]	./ˌdaɪəˈbetɪk/-NAmE /ˌdaɪəˈbetɪk/
+	;người có bệnh tiểu đường -- (1) a person who has diabetes
+		;Many people dislike this use and prefer to say that somebody has diabetes rather than refer to them as ‘a diabetic’.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+diabetic		<-->	a++C2	[230113][001]	./ˌdaɪəˈbetɪk/-NAmE /ˌdaɪəˈbetɪk/
+	;có bệnh tiểu đường -- (1) having or connected with diabetes
+		;She's diabetic.
+		;a diabetic patient
+		;diabetic complications
+		;TOPICS Health problemsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+diarrhoea		<-->	noun++C1	[230113][001]	./ˌdaɪəˈrɪə/-NAmE /ˌdaɪəˈriːə/ (British English) (North American English diarrhea) (also informal the runs) [uncountable]
+	;bệnh tiêu chảy -- (1) an illness in which waste matter is emptied from the bowels much more frequently than normal, and in liquid form
+		;Symptoms include diarrhoea and vomiting.
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;severemildacute…
+				;verb + diarrhoea/​diarrhea
+				;experiencehavesuffer from…
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+diphtheria		<-->	noun++C2	[230113][001]	./dɪfˈθɪəriə/,  /dɪpˈθɪəriə/-NAmE /dɪfˈθɪriə/,  /dɪpˈθɪriə/ [uncountable]
+	;bệnh bạch hầu -- (1) a serious disease of the throat that causes difficulty in breathing
+		;Parents are advised to have their children immunized against diphtheria.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;verb + diphtheria
+				;havesuffer fromcatch…
+				;diphtheria + noun
+				;epidemicvaccine
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+discomfort		<-->	noun++C1	[230113][001]	./dɪsˈkʌmfət/-NAmE /dɪsˈkʌmfərt/ (formal)
+	;cảm giác khó chịu -- (1) [uncountable] a feeling of slight pain or of being physically uncomfortable
+		;You will experience some minor discomfort during the treatment.
+		;abdominal discomfort
+		;Extra Examples:
+		;He became conscious of a growing discomfort.
+		;I didn't have much discomfort after the operation.
+		;Not eating late at night should help to relieve the discomfort.
+		;Some of the patients complained of discomfort.
+		;You may experience some slight discomfort after the operation.
+		;You should be able to drive without discomfort after about two weeks.
+		;the discomfort associated with wearing a wig
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;acuteconsiderableextreme…
+				;… of discomfort
+				;amountdegree
+				;verb + discomfort
+				;complain ofexperiencefeel…
+				;preposition
+				;in discomfortwith discomfortwithout discomfort…
+				;phrases
+				;pain and discomfortpain or discomfortthe discomfort associated with something…
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+disease		<-->	noun++A2	[230113][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2927,8 +3137,67 @@ demented		<-->	adjective++C2[-0]	.
 
 
 
-dementia		<-->	noun++C2[-0]	.
-	; -- (1) 
+diseased		<-->	adjective++C2	[230113][001]	./dɪˈziːzd/-NAmE /dɪˈziːzd/
+	;bị bệnh -- (1) suffering from a disease
+		;diseased tissue
+		;the diseased social system
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;Diseased is used with these nouns:
+				;liverlungtissue…
+		;See full entry
+
+
+
+
+
+
+
+
+
+dislocate		<-->	verb++C2	[230113][001]	./ˈdɪsləkeɪt/-NAmE /ˈdɪsləʊkeɪt/,  /dɪsˈləʊkeɪt/
+	;làm trật khớp -- (1) dislocate something to put a bone out of its normal position in a joint
+		;He dislocated his shoulder in the accident.
+		;a dislocated finger
+		;Collocations Injuries
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+disorder		<-->	noun++B2	[230113][001]	./cef/
+	;bệnh rối loạn thần kinh -- (1) [countable, uncoountable] (medical) a condition or illness that causes problems with the way part of the body or brain works
+		;a blood/bowel disorder
+		;He was diagnosed with an anxiety disorder.
+		;This is a rare disorder of the liver.
+		;help for people with alcohol use disorder
+		;Consumption of fatty acids may help prevent the disorder.
+		;Her doctor diagnosed a thyroid disorder.
+		;She has a rare blood disorder.
+		;people with rheumatoid arthritis, lupus and other autoimmune disorders
+		;He is thought to have had a genetic disorder that stopped him from growing when he was young.
+		;neurological disorders such as multiple sclerosis, epilepsy and Parkinson's disease
+		;Insomnia is one of the most common sleep disorders.
+		;The team says alcohol use disorder is a chronic disease.
+		;Adolescents with mental disorders are waiting too long to get help.
+		;Some people develop psychological disorders as a result of trauma.
+		;disorders of the digestive system
+		;She's got some kind of bowel disorder.
+		;SEE ALSO attention deficit disorder, autism spectrum disorder, bipolar disorder, body dysmorphic disorder, borderline personality disorder, dissociative identity disorder, eating disorder, multiple personality disorder, narcissistic personality disorder, obsessive compulsive disorder, personality disorder, post-traumatic stress disorder, seasonal affective disorder, split personality disorder, substance use disorder
+		;Synonyms disease
+		;TOPICS Health problemsB2
+			;Oxford Collocations Dictionary
+			;adjective
+				;seriousseverechronic…
+			;verb + disorder
+				;havesuffer fromdevelop…
+				;disorder + verb
+				;affect something
+			;preposition
+				;disorder of
 	; -- (2) 
 	; -- (3) 
 
@@ -2941,8 +3210,35 @@ dementia		<-->	noun++C2[-0]	.
 
 
 
-dependence		<-->	noun++C1[-0]	.
-	; -- (1) 
+distressed		<-->	adjective++C2	[230113][001]	./dɪˈstrest/-NAmE /dɪˈstrest/
+	;rất khó chịu -- (1) very upset and anxious
+		;He was too distressed and confused to answer their questions.
+		;Extra Examples:
+		;Her distressed boyfriend has been interviewed by police.
+		;I was very distressed to hear that Joseph has been forced to flee.
+		;She was in a somewhat distressed state when she came to see me.
+		;TOPICS FeelingsC1
+
+
+
+
+
+
+
+
+
+dizzy		<-->	adjective++C1	[230113][001]	./ˈdɪzi/-NAmE /ˈdɪzi/ (comparative dizzier, superlative dizziest)
+	;chóng mặt -- (1) feeling as if everything is turning around you and that you are not able to balance
+		;SYNONYM giddy
+		;<< giddy, dizzy, >>
+		;Climbing so high made me feel dizzy.
+		;I suffer from dizzy spells (= short periods when I am dizzy).
+		;Extra Examples: 
+		;He was all right, just a bit dizzy, that's all.
+		;She felt almost dizzy with happiness.
+		;Some of the fairground rides can make you quite dizzy.
+		;Almost dizzy with relief, she smiled broadly.
+		;TOPICS Health problemsC1
 	; -- (2) 
 	; -- (3) 
 
@@ -2954,10 +3250,10 @@ dependence		<-->	noun++C1[-0]	.
 
 
 
-dependent		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+doddering		<-->	adjective++C2	[230113][001]	./ˈdɒdərɪŋ/-NAmE /ˈdɑːdərɪŋ/ (British English also doddery  /ˈdɒdəri/  /ˈdɑːdəri/)
+	;quá già yếu -- (1) weak, slow and not able to walk in a steady way, especially because you are old
+		;a doddering old fool
+		;TOPICS Health problemsC2, Life stagesC2
 
 
 
@@ -2967,11 +3263,17 @@ dependent		<-->	adjective++B2[-0]	.
 
 
 
+drawn		<-->	adjective++C2	[230113][001]	./drɔːn/-NAmE /drɔːn/v\
+	;nhợt nhạt -- (1) (of a person or their face) looking pale and thin because the person is ill, tired or worried
+		;<< pale, drawn, >>
+		;She looked very pale and drawn.
+		;Jo looked drawn and strained after her long night’s work.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;Drawn is used with these nouns:
+				;curtain
+		;See full entry
 
-develop		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -2980,11 +3282,18 @@ develop		<-->	verb++B1[-0]	.
 
 
 
+dysentery		<-->	noun++C2	[230113][001]	./ˈdɪsəntri/-NAmE /ˈdɪsənteri/ [uncountable]
+	;chứng kiết lị -- (1) an infection of the bowels that causes severe diarrhoea with loss of blood
+		;SEE ALSO amoebic dysentery
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;amoebic
+				;… of dysentery
+				;attackoutbreak
+		;See full entry
+		;Word Origin
 
-diabetes		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -2993,78 +3302,12 @@ diabetes		<-->	noun++B2[-0]	.
 
 
 
-
-
-diabetic		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-diabetic		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-diarrhoea		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-diphtheria		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-discomfort		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-disease		<-->	noun++A2[-0]	.
-	; -- (1) 
+dyspepsia		<-->	noun++C2	[230113][001]	./dɪsˈpepsiə/-NAmE /dɪsˈpepʃə/ [uncountable] (medical)
+	;chứng khó tiêu -- (1) pain caused by difficulty in digesting food
+		;SYNONYM indigestion
+		;<< indigestion, dyspepsia, >>
+		;TOPICS Health problemsC2
+		;Word Origin
 	; -- (2) 
 	; -- (3) 
 
@@ -3077,139 +3320,10 @@ disease		<-->	noun++A2[-0]	.
 
 
 
-diseased		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-dislocate		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-disorder		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-distressed		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-dizzy		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-doddering		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-drawn		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-dysentery		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-dyspepsia		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-earache		<-->	noun++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+earache		<-->	noun++A2	[230113][001]	./ˈɪəreɪk/-NAmE /ˈɪreɪk/ [uncountable, countable]
+	;đau trong tai -- (1) pain inside the ear
+		;to have (an) earache
+		;TOPICS Health problemsA2
 
 
 
@@ -3233,8 +3347,11 @@ Ebola		<-->	noun++C2[-0]	.
 
 
 
-eclampsia		<-->	noun++C2[-0]	.
-	; -- (1) 
+eclampsia		<-->	noun++C2	[230113][001]	./ɪˈklæmpsiə/-NAmE /ɪˈklæmpsiə/ [uncountable] (medical)
+	;bệnh sản giật -- (1) a condition in which a pregnant woman has high blood pressure and convulsions, which can be dangerous to the woman and the baby
+		;COMPARE pre-eclampsia
+		;TOPICS Health problemsC2
+		;Word Origin
 	; -- (2) 
 	; -- (3) 
 
@@ -3247,8 +3364,99 @@ eclampsia		<-->	noun++C2[-0]	.
 
 
 
-eczema		<-->	noun++C2[-0]	.
-	; -- (1) 
+eczema		<-->	noun++C2	[230113][001]	./ˈeksmə/-NAmE /ɪɡˈziːmə/,  /ˈeksɪmə/ [uncountable]
+	;bệnh chàm -- (1) a skin condition in which areas of skin become red, rough and itchy
+		;Many cases of childhood eczema may be due to allergy to cow’s milk.
+		;TOPICS Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+electric shock		<-->	noun++C1	[230113][001]	./ɪˌlektrɪk ˈʃɒk/-NAmE /ɪˌlektrɪk ˈʃɑːk/ (also shock)
+	;việc sốc điện, bị điện giật -- (1) a sudden flow of electricity through a part of the body, causing pain and sometimes death
+		;I got an electric shock from that light switch.
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;massivepowerfulsevere…
+				;… of electric shocks
+				;series
+				;verb + electric shock
+				;getreceivesuffer…
+				;electric-shock + noun
+				;therapytreatment
+				;preposition
+				;electric shock  onelectric shock  to
+		;See full entry
+
+
+
+
+
+
+
+
+emaciated		<-->	adjective++C2	[230113][001]	./ɪˈmeɪsieɪtɪd/,  /ɪˈmeɪʃieɪtɪd/-NAmE /ɪˈmeɪsieɪtɪd/,  /ɪˈmeɪʃieɪtɪd/
+	;ốm yếu, hốc hác, tiều tuỵ -- (1) thin and weak, usually because of illness or lack of food
+		;He was thirty, but looked fifty, with pale skin, hopeless eyes and an emaciated body, covered in sores.
+		;TOPICS Social issuesC2, Health problemsC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;belookbecome…
+				;adverb
+				;severely
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+emaciation		<-->	noun++C2	[230113][001]	./ɪˌmeɪsiˈeɪʃn/-NAmE /ɪˌmeɪsiˈeɪʃn/ [uncountable]
+	;sự ốm yếu, hốc hác, tiều tuỵ -- (1) the fact of being very thin and weak, usually because of illness or lack of food
+		;She was very thin, almost to the point of emaciation.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+epidemic		<-->	noun++C1	[230113][001]	./cef/
+	;dịch bệnh -- (1) a large number of cases of a particular disease or medical condition happening at the same time in a particular community
+		;the outbreak of a flu epidemic
+		;<<pandemic, epidemic, >>
+		;An epidemic of measles broke out, and over 200 children died.
+		;Effectively, tobacco companies will be exporting an epidemic of smoking-related diseases, the campaign suggests.
+		;Over fifty people died during the flu epidemic last winter.
+		;The worst flu epidemic for 14 years is sweeping the country.
+		;Wordfinder: bacteria, disease, epidemic, fever, illness, immunity, infection, spread, vaccinate, virus,
+		;Wordfinder: bacteria, disease, epidemic, fever, illness, immunity, infection, spread, vaccinate, virus
+		;TOPICS Health problemsC1
+			;Oxford Collocations Dictionary
+			;adjective
+				;majorglobalnational…
+			;verb + epidemic
+				;becomecombatfight…
+				;epidemic + verb
+				;break outoccurstrike (something)…
+			;preposition
+				;during an/​the epidemicin an/​the epidemicepidemic of…
+			;phrases
+				;reach epidemic proportions
 	; -- (2) 
 	; -- (3) 
 
@@ -3260,138 +3468,98 @@ eczema		<-->	noun++C2[-0]	.
 
 
 
+epilepsy		<-->	noun++C2	[230113][001]	./ˈepɪlepsi/-NAmE /ˈepɪlepsi/ [uncountable]
+	;bệnh động kinh -- (1) a condition affecting the nervous system that causes a person to become unconscious suddenly, often with violent movements of the body
+		;TOPICS Health problemsC2
+		;Word Origin
 
-electric shock		<-->	noun++C1[-0]	.
+
+
+
+
+
+
+
+
+epileptic		<-->	noun++C2	[230113][001]	./ˌepɪˈleptɪk/-NAmE /ˌepɪˈleptɪk/-\
+	;người có chứng động kinh -- (1) a person who has epilepsy
+		;Many people dislike this use and prefer to say that somebody has epilepsy rather than refer to them as ‘an epileptic’.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+episode		<-->	noun++C2	[230113][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	;một đợt lây nhiễm -- (3) a period of time during which somebody is affected by a particular illness or a particular stage of a longer illness
+		;an acute episode of pneumonia
+		;All the patients had episodes of unexplained fever.
+		;His former wife suffered with depressive episodes.
+		;Extra Examples:
+		;They were admitted to hospital after experiencing episodes of breathlessness.
+		;In his twenties he had a psychotic episode.
+		;I've suffered badly with social anxiety but it's been over 100 days since my last episode.
+		;TOPICS Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+exacerbate		<-->	verb++C2	[230113][001]	./ɪɡˈzæsəbeɪt/-NAmE /ɪɡˈzæsərbeɪt/ (formal)
+	; -- (1) exacerbate something to make something worse, especially a disease or problem
+		;SYNONYM aggravate
+		;<< aggravate, exacerbate, >>
+		;His aggressive reaction only exacerbated the situation.
+		;The symptoms may be exacerbated by certain drugs.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;Exacerbate is used with these nouns as the object:
+				;anxietyconditioncrisis…
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+exacerbation		<-->	noun++C2	[230113][001]	./ɪɡˌzæsəˈbeɪʃn/-NAmE /ɪɡˌzæsərˈbeɪʃn/ [uncountable, countable] (formal)
+	;việc làm bệnh/tình hình/... nặng thêm -- (1) the act of making something worse, especially a disease or problem
+		;the exacerbation of religious tensions
+		;Over the next two years, Gary experienced numerous acute exacerbations of his illness.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+
+
+exposure		<-->	noun++C1	[230113][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
-
-
-
-
-
-
-
-
-emaciated		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-emaciation		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-epidemic		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-epilepsy		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-epileptic		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-episode		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-exacerbate		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-exacerbation		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-exposure		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;sự phơi nhiễm -- [B2-C1] (5) [-medical condition] [uncoountable] a medical condition caused by being out in very cold weather for too long without protection
+		;Two climbers were brought in suffering from exposure.
+		;Three of the men died of exposure.
+		;TOPICS Health problemsC1
 
 
 
@@ -3417,7 +3585,204 @@ fade away		<-->	phrasal adverb++C2[-0]	.
 
 
 
-faint		<-->	adjective++C1[-0]	.
+faint		<-->	adjective++C1	[230111][001]	./feɪnt/-NAmE /feɪnt/ (comparative fainter, superlative faintest)
+	;loãng, mờ nhạt, khó thấy -- (1) that cannot be clearly seen, heard or smelt
+		;a faint glow/glimmer/light
+		;a faint smell of perfume
+		;We saw the faint outline of the mountain through the mist.
+		;We could hear their voices growing fainter as they walked down the road.
+		;His breathing became faint.
+		;Extra Examples:
+		;I can't make out the number—it's very faint.
+		;The whispers grew fainter and fainter, then stopped altogether.
+		;The faint glow of a match shone through the doorway.
+		;There was a faint glimmer of light from her window.
+				;Oxford Collocations Dictionary
+				;verbs
+				;besoundbecome…
+				;adverb
+				;extremelyveryrather…
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+	;yếu ớt -- (3) [not before noun] feeling weak and tired and likely to become unconscious
+		;She suddenly felt faint.
+		;The walkers were faint from hunger.
+		;Extra Examples:
+		;What he saw made him feel faint with fear.
+		;I was faint with hunger.
+		;I was beginning to feel a little faint.
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;extremelyveryalmost…
+				;preposition
+				;with
+		;See full entry
+
+
+
+
+
+
+
+
+
+faint		<-->	verb++C1	[230111][001]	./feɪnt/-NAmE /feɪnt/ [intransitive]
+	;trở nên nhợt nhạt -- (1) to become unconscious when not enough blood is going to your brain, usually because of the heat, a shock, etc.
+		;SYNONYM pass out
+		;<< pass out, faint, >>
+		;to faint from hunger
+		;Suddenly the woman in front of me fainted.
+		;I'm nearly fainting with the heat in here.
+		;(informal) I almost fainted (= I was very surprised) when she told me.
+		;Extra Examples:
+		;He was so pale she thought he was going to faint.
+		;He would faint at the sight of blood.
+		;She almost fainted with shock.
+		;Almost fainting from lack of air, she could only answer in choked gasps.
+		;She thought she would faint from sheer happiness.
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;adverb
+				;almostnearly
+				;verb + faint
+				;be about tobe going to
+				;preposition
+				;atfromwith…
+		;See full entry
+		;Word Origin
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+faint		<-->	noun++C1	[230111][001]	./feɪnt/-NAmE /feɪnt/*\ [singular]
+	;tình trạng bất tỉnh, mất nhận thức -- (1) the state of becoming unconscious
+		;He fell to the ground in a dead faint.
+		;TOPICS Health problemsC1
+		;Word Origin
+
+
+
+
+
+
+
+
+fatal		<-->	adjective++C1	[230111][001]	./cef/
+	;chết chóc, chết người -- (1) causing or ending in death
+		;a fatal accident/blow/illness
+		;<<fatal, lethal, >>
+		;a potentially fatal form of cancer
+		;If she gets ill again it could prove fatal.
+		;He has not driven since his nearly fatal accident earlier this year.
+		;Her disregard of this advice was ultimately fatal.
+		;The disease is potentially fatal.
+		;This kind of accident is almost always fatal for the pilot.
+		;a chemical which is invariably fatal to small mammals
+		;He suffered fatal injuries when he was struck by a car.
+		;Most farmers are alert to the potentially fatal consequences of an overturning tractor.
+		;They were involved in a fatal accident.
+		;COMPARE mortal
+		;TOPICS Health problemsC1
+			;Oxford Collocations Dictionary
+			;verbs
+				;be, prove
+			;adverb
+				;nearly, alwaysinvariably…
+			;preposition
+				;for, to
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+fatally		<-->	adverb++C1	[230111][001]	./ˈfeɪtəli/-NAmE /ˈfeɪtəli/
+	;một cách chết chóc -- (1) in a way that causes or ends in death
+		;fatally injured/wounded
+		;TOPICS Health problemsC1
+	;một cách chết chóc -- (2) in a way that causes disaster or failure
+		;The plan was fatally flawed from the start.
+		;TOPICS Difficulty and failureC1
+
+
+
+
+
+
+
+
+fatigue		<-->	noun++C1	[230111][001]	./fəˈtiːɡ/-NAmE /fəˈtiːɡ/
+	;sự mệt mỏi -- (1) [uncountable] a feeling of being extremely tired, usually because of hard work or exercise
+		;SYNONYM exhaustion, tiredness
+		;physical and mental fatigue
+		;Driver fatigue was to blame for the accident.
+		;I was dropping with fatigue and could not keep my eyes open.
+		;Extra Examples:
+		;He was crying from cold and fatigue.
+		;She had to stop work when fatigue set in.
+		;The man was shivering with fatigue.
+		;The right vitamins help you combat fatigue.
+		;Tom began to feel fatigue and weakness once more.
+		;Correcting your posture prevents muscle fatigue and injury.
+		;conditions such as chronic fatigue, insomnia and depression
+		;simple lifestyle strategies to prevent fatigue
+		;swimmers who are in a state of extreme fatigue
+		;TOPICS Health problemsC1, FeelingsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;extremeseveregrowing…
+				;verb + fatigue
+				;experiencefeelsuffer from…
+				;fatigue + verb
+				;set inovercome somebody
+				;preposition
+				;from fatiguewith fatigue
+				;phrases
+				;a feeling of fatiguesigns of fatigue
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+fetal alcohol syndrome		<-->	noun++C2	[230111][001]	./ˌfiːtl ˈælkəhɒl sɪndrəʊm/-NAmE /ˌfiːtl ˈælkəhɔːl sɪndrəʊm/ [uncountable] (medical)
+	;hội chứng rượu ảnh hưởng xấu cho bào thai -- (1) a condition in which a child’s mental and physical development is damaged because the mother drank too much alcohol while she was pregnant
+		;TOPICS Health problemsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+fever		<-->	noun++B2	[230111][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3430,10 +3795,17 @@ faint		<-->	adjective++C1[-0]	.
 
 
 
-faint		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+
+feverish		<-->	adjective++C1	[230111][001]	./ˈfiːvərɪʃ/-NAmE /ˈfiːvərɪʃ/
+	;phát sốt -- (1) [usually before noun] showing strong feelings of excitement or worry, often with a lot of activity or quick movements
+		;The whole place was a scene of feverish activity.
+		;a state of feverish excitement
+		;He worked with feverish haste.
+		;feverish with longing
+	;sốt -- (2) suffering from a fever (= a high temperature); caused by a fever
+		;She was aching and feverish.
+		;a feverish cold/dream
+		;TOPICS Health problemsC1
 
 
 
@@ -3442,61 +3814,9 @@ faint		<-->	verb++C1[-0]	.
 
 
 
-
-faint		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-fatal		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-fatally		<-->	adverb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-fatigue		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-fetal alcohol syndrome		<-->	noun++C2[-0]	.
-	; -- (1) 
+fibroid		<-->	noun++C2	[230111][001]	./ˈfaɪbrɔɪd/-NAmE /ˈfaɪbrɔɪd/ (medical)
+	;u xơ tử cung -- (1) a mass of cells that form a round shape, usually found in the wall of the uterus
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3509,8 +3829,10 @@ fetal alcohol syndrome		<-->	noun++C2[-0]	.
 
 
 
-fever		<-->	noun++B2[-0]	.
-	; -- (1) 
+fight for (your) life		<-->	idiom++C1	[230111][001]	./i/
+	;chiến đấu giành sự sống -- (1) to make a great effort to stay alive, especially when you are badly injured or seriously ill
+		;A young cyclist is fighting for his life after the accident.
+		;TOPICS Health problemsC1
 	; -- (2) 
 	; -- (3) 
 
@@ -3522,24 +3844,11 @@ fever		<-->	noun++B2[-0]	.
 
 
 
-
-feverish		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-fibroid		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+first-degree		<-->	adjective++C2	[230111][001]	./ˌfɜːst dɪˈɡriː/-NAmE /ˌfɜːrst dɪˈɡriː/ [only before noun]
+	;cấp một, cấp nghiêm trọng nhất -- (1) (especially North American English) first-degree murder, assault, robbery, etc. murder, etc. of the most serious kind
+	;(phỏng) cấp một, ít nghiêm trọng nhất -- (2) first-degree burns burns of the least serious of three kinds, affecting only the surface of the skin
+		;COMPARE second-degree, third-degree
+		;TOPICS Health problemsC2
 
 
 
@@ -3549,37 +3858,44 @@ fibroid		<-->	noun++C2[-0]	.
 
 
 
-
-fight for (your) life		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-first-degree		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-fit		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
+fit		<-->	noun++C1	[230111][001]	./cef/
+	;cơn đau, cơn cơ giật -- (1) [-illness] [countable] a sudden attack of an illness, such as epilepsy, in which somebody becomes unconscious and their body may make violent movements
+		;SYNONYM convulsion
+		;to have an epileptic fit
+		;He suffered from headaches and fainting fits.
+		;Her fits are now controlled by drugs.
+		;He has a brain disorder that can trigger convulsive fits.
+		;She hurt her arm during one of her fits.
+		;She suffered a major fit last year.
+		;The fits usually occur at night.
+		;TOPICS Health problemsC1
+			;Oxford Collocations Dictionary
+			;adjective
+				;convulsiveepilepticfainting…
+			;verb + fit
+				;havesuffersuffer from…
+				;fit + verb
+				;happenoccur
+			;preposition
+				;during a fit
+	;cơn -- (2) [-of coughing/laughter] [countable] a sudden short period of coughing (= forcing air through the throat noisily) or of laughing, that you cannot control
+		;SYNONYM bout
+		;a fit of coughing
+		;He had us all in fits (of laughter) with his jokes.
+		;She collapsed in a fit of laughter.
+		;The cold air brought on one of his coughing fits.
+		;TOPICS Health problemsC1
+			;Oxford Collocations Dictionary
+			;adjective
+				;coughingsneezingcrying…
+			;verb + fit
+				;havepitchthrow…
+				;fit + verb
+				;be overpass
+			;preposition
+				;in a fit offit of
+			;phrases
+				;in fitsin fits of laughter
 	; -- (3) 
 
 
@@ -3660,28 +3976,51 @@ flu		<-->	noun++A2[-0]	.
 
 
 
-flutter		<-->	verb++C2[-0]	.
-	; -- (1) 
+flutter		<-->	verb++C2	[230111][001]	./ˈflʌtə(r)/-NAmE /ˈflʌtər/
+	;đập nhanh, vỗ nhanh -- (1) [intransitive, transitive] to move lightly and quickly; to make something move in this way
+		;Flags fluttered in the breeze.
+		;Her eyelids fluttered but did not open.
+		;(figurative) He felt his stomach flutter (= he felt nervous) when they called his name.
+		;flutter something He fluttered his hands around wildly.
+		;She fluttered her eyelashes at him (= tried to attract him in order to persuade him to do something).
+		;Extra Examples:
+		;The first snowflakes fluttered down between the trees.
+		;A silk scarf fluttered around her shoulders.
+		;The bank note fluttered away in the breeze.
 	; -- (2) 
 	; -- (3) 
+	;đập nhanh -- (4) ​[intransitive] (of your heart, etc.) to beat very quickly and not regularly
+		;I could feel a fluttering pulse.
+		;(figurative) The sound of his voice in the hall made her heart flutter.
+		;TOPICS Health problemsC2, FeelingsC2
 
 
-	; -- (1) 
+
+
+
+
+
+flutter		<-->	noun++C2	[230111][001]	./ˈflʌtə(r)/-NAmE /ˈflʌtər/
+	;sự nhanh nhẹn -- (1) [countable, usually singular] a quick, light movement
+		;the flutter of wings
+		;with a flutter of her long, dark eyelashes
+		;(figurative) to feel a flutter of panic in your stomach
+		;(figurative) She felt a flutter of excitement.
+				;Oxford Collocations Dictionary
+				;adjective
+				;little
+				;verb + flutter
+				;give
+				;preposition
+				;flutter of
+		;See full entry
 	; -- (2) 
 	; -- (3) 
-
-
-
-
-
-
-
-
-flutter		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+	;việc tim đập nhanh -- (4) [countable] a very fast heartbeat, caused when somebody is nervous or excited
+		;Her heart gave a flutter when she saw him.
+		;TOPICS FeelingsC2
+	;bệnh tim -- (5) [uncountable, countable] (medical) a medical condition in which you have an unsteady heartbeat
+		;TOPICS Health problemsC2
 
 
 
@@ -3705,8 +4044,24 @@ food poisoning		<-->	noun++B2[-0]	.
 
 
 
-fracture		<-->	noun++C1[-0]	.
-	; -- (1) 
+fracture		<-->	noun++C1	[230111][001]	./ˈfræktʃə(r)/-NAmE /ˈfræktʃər/
+	;sự gãy xương -- (1) [countable] a break in a bone or other hard material
+		;a fracture of the leg/skull
+		;a compound/simple fracture (= one in which the broken bone comes/does not come through the skin)
+		;Cracks and fractures are appearing in the ancient wall.
+		;SEE ALSO compound fracture, greenstick fracture, simple fracture
+		;Wordfinder: bandagebleedbruisefracturehurtinjuryplastersoreswellwound
+		;Collocations Injuries
+		;Extra Examples:
+		;A security guard suffered a hairline fracture of the skull.
+		;She sustained two fractures to her leg.
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;stresshairlinecompound…
+				;verb + fracture
+				;suffersustain
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -3718,8 +4073,12 @@ fracture		<-->	noun++C1[-0]	.
 
 
 
-fracture		<-->	verb++C1[-0]	.
-	; -- (1) 
+fracture		<-->	verb++C1	[230111][001]	./ˈfræktʃə(r)/-NAmE /ˈfræktʃər/
+	;làm gãy xương, gãy xương -- (1) [intransitive, transitive] to break or crack; to make something break or crack
+		;His leg fractured in two places.
+		;Cast iron is not only heavy, but likely to fracture.
+		;fracture something She fell and fractured her skull.
+		;TOPICS Health problemsC1
 	; -- (2) 
 	; -- (3) 
 
@@ -3731,10 +4090,19 @@ fracture		<-->	verb++C1[-0]	.
 
 
 
-fragile		<-->	adjective++C1[-0]	.
+fragile		<-->	adjective++C1	[230111][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;dễ bệnh -- (4) not strong and likely to become ill
+		;Her father is now 86 and in fragile health.
+		;(British English, informal) I'm feeling a bit fragile after last night (= not well, perhaps because of drinking too much alcohol).
+		;TOPICS Health problemsC1
+			;Oxford Collocations Dictionary
+			;verbs
+				;be, become, feel…
+			;adverb
+				;extremely, fairly, very…
 
 
 
@@ -3744,64 +4112,23 @@ fragile		<-->	adjective++C1[-0]	.
 
 
 
-frail		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-frostbite		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-funny		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-ganglion		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-gangrene		<-->	noun++C2[-0]	.
-	; -- (1) 
+frail		<-->	adjective++C2	[230111][001]	./freɪl/-NAmE /freɪl/ (comparative frailer, superlative frailest)
+	;ốm yếu, yếu ớt -- (1) (especially of an old person) physically weak and thin
+		;Mother was becoming too frail to live alone.
+		;Extra Examples:
+		;She looked old and frail.
+		;Some old people become physically frail.
+		;His frail hands were shaking.
+		;women caring for frail elderly relatives
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;belookseem…
+				;adverb
+				;extremelyfairlyvery…
+				;phrases
+				;old and frail
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -3814,10 +4141,26 @@ gangrene		<-->	noun++C2[-0]	.
 
 
 
-gastric		<-->	adjective++C2[-0]	.
+frostbite		<-->	noun++C2	[230111][001]	./ˈfrɒstbaɪt/-NAmE /ˈfrɔːstbaɪt/ [uncountable]
+	;sự tê cóng -- (1) a medical condition in which parts of the body, especially the fingers and toes, become damaged as a result of extremely cold temperatures
+		;The climbers were all suffering from frostbite.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+funny		<-->	adjective++C2	[230111][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;bệnh nhẹ -- [A1-C2] (5) [[*]] (funny) [-ill/sick] ​(infoormal) slightly ill
+		;I feel a bit funny today—I don't think I'll go to work.
+		;TOPICS Health problemsC2
 
 
 
@@ -3828,10 +4171,11 @@ gastric		<-->	adjective++C2[-0]	.
 
 
 
-gastric flu		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+ganglion		<-->	noun++C2	[230111][001]	./ˈɡæŋɡliən/-NAmE /ˈɡæŋɡliən/ (plural ganglia  /ˈɡæŋɡliə/  /ˈɡæŋɡliə/) (medical)
+	;tế bào thần kinh lớn -- (1) a mass of nerve cells
+		;TOPICS BodyC2
+	;hạch -- (2) a swelling (= an area that is larger and rounder than normal) in a tendon, often at the back of the hand
+		;TOPICS Health problemsC2
 
 
 
@@ -3841,23 +4185,94 @@ gastric flu		<-->	noun++C2[-0]	.
 
 
 
-
-genetic		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
+gangrene		<-->	noun++C2	[230111][001]	./ˈɡæŋɡriːn/-NAmE /ˈɡæŋɡriːn/ [uncountable]
+	;chứng hoại tử -- (1) the decay (= a process of being destroyed) that takes place in a part of the body when the blood supply to it has been stopped because of an illness or injury
+		;Gangrene set in and he had to have his leg amputated.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;verb + gangrene
+				;havesuffer fromdevelop…
+				;gangrene + verb
+				;set in
+		;See full entry
+		;Word Origin
 
 
-germ		<-->	noun++B2[-0]	.
-	; -- (1) 
+
+
+
+
+
+
+
+gastric		<-->	adjective++C2	[230111][001]	./ˈɡæstrɪk/-NAmE /ˈɡæstrɪk/ [only before noun] (medical)
+	;c. bụng -- (1) connected with the stomach
+		;a gastric ulcer
+		;gastric juices (= the acids in your stomach that help you to digest food)
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;Gastric is used with these nouns:
+				;bypassflusurgery…
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+gastric flu		<-->	noun++C2	[230111][001]	./ˌɡæstrɪk ˈfluː/-NAmE /ˌɡæstrɪk ˈfluː/ [uncountable]
+	;bệnh đau bụng do virus -- (1) an illness affecting the stomach, which does not last long and is thought to be caused by a virus
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+genetic		<-->	adjective++B2	[230111][001]	./dʒəˈnetɪk/-NAmE /dʒəˈnetɪk/
+	;c. gen -- (1) connected with genes (= the units in the cells of a living thing that control its physical characteristics) or genetics (= the study of genes)
+		;genetic and environmental factors
+		;genetic abnormalities
+		;There are about 4 000 inherited human genetic diseases.
+		;genetic research/techniques
+		;TOPICS Health problemsB2, BiologyB2
+				;Oxford Collocations Dictionary
+				;Genetic is used with these nouns:
+				;analysisbackgroundblueprint…
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+germ		<-->	noun++B2	[230111][001]	./dʒɜːm/-NAmE /dʒɜːrm/
+	;vi trùng -- (1) countable, usually plural] a very small living thing that can cause infection and disease
+		;Disinfectant kills germs.
+		;Dirty hands can be a breeding ground for germs.
+		;Extra Examples:
+		;Cracks and scratches in work surfaces can harbour germs.
+		;The epidemic was caused by a particularly virulent flu germ.
+		;TOPICS BiologyB2, Health problemsB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;deadlydrug-resistantresistant…
+				;verb + germ
+				;carryspreaddestroy…
+				;germ + noun
+				;warfare
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -3897,8 +4312,11 @@ get		<-->	verb++A1	[221222][001]	./cef/
 
 
 
-get over		<-->	phrasal adverb++B2[-0]	.
-	; -- (1) 
+get over		<-->	phrasal adverb++B2	[230111][001]	./p/
+	;hồi phục -- (1) [-get over something/somebody] to return to your usual state of health, happiness, etc. after an illness, a shock, the end of a relationship, etc.
+		;He was disappointed at not getting the job, but he'll get over it.
+		;OK, so you lost. Get over it!
+		;TOPICS Health problemsB2
 	; -- (2) 
 	; -- (3) 
 
@@ -3910,10 +4328,18 @@ get over		<-->	phrasal adverb++B2[-0]	.
 
 
 
-ghastly		<-->	adjective++C2[-0]	.
-	; -- (1) 
+ghastly		<-->	adjective++C2	[230113][001]	./ˈɡɑːstli/-NAmE /ˈɡæstli/ (comparative ghastlier, superlative ghastliest)
+	;kinh khủng -- (1) (of an event) very frightening and unpleasant, because it involves pain, death, etc.
+		;SYNONYM horrible
+		;a ghastly crime/murder
+		;She woke up in the middle of a ghastly nightmare.
 	; -- (2) 
 	; -- (3) 
+	;bực mình, kinh khủng, bệnh -- (4) [not usually before noun] ill or upset
+		;SYNONYM terrible
+		;I felt ghastly the next day.
+		;Do I look as ghastly as I feel?
+		;TOPICS Health problemsC2
 
 
 
@@ -3937,8 +4363,115 @@ give		<-->	verb++A1	[221222][001]	./cef/
 
 
 
-glue-sniffing		<-->	noun++C2[-0]	.
-	; -- (1) 
+glue-sniffing		<-->	noun++C2	[230111][001]	./ˈɡluː snɪfɪŋ/-NAmE /ˈɡluː snɪfɪŋ/ [uncountable]
+	;thú chơi bóng cười -- (1) the habit of breathing in the gases from some kinds of glue (= a sticky substance used for joining things together) in order to produce a state of excitement
+		;SEE ALSO solvent abuse
+		;TOPICS Social issuesC2, Health problemsC2
+
+
+
+
+
+
+
+
+
+graze		<-->	verb++C2	[230111][001]	./ɡreɪz/-NAmE /ɡreɪz/
+	;gặm cỏ -- (1) [intransitive, transitive] (of cows, sheep, etc.) to eat grass that is growing in a field
+		;There were cows grazing beside the river.
+		;graze on something The horses were grazing on the lush grass.
+		;graze something The field had been grazed by sheep.
+		;Wordfinder: arablebarncropcultivatedairyfallowfarmgrazelivestocktractor
+		;Extra Examples:
+		;Sheep were grazing peacefully in the fields.
+		;The cattle were turned out to graze.
+		;lambs grazing on the rough moorland pasture
+		;TOPICS FarmingC2, AnimalsC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;contentedlypeacefullyquietly…
+				;verb + graze
+				;allow something toturn something out to
+				;preposition
+				;onupon
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+	;làm rách da, trầy da -- (4) [transitive] graze something (on something) to break the surface of your skin by rubbing it against something rough
+		;I fell and grazed my knee.
+		;He grazed his elbow on a sharp piece of rock.
+		;Collocations Injuries
+		;Extra Examples:
+		;He fell and grazed his knees on a rock
+		;She had grazed her elbow quite badly.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;badlyjustonly…
+				;preposition
+				;on
+		;See full entry
+
+
+
+
+
+
+
+grim		<-->	adjective++C2	[230111][001]	./ɡrɪm/-NAmE /ɡrɪm/ (comparative grimmer, superlative grimmest)
+	;trông có bệnh -- (1) looking or sounding very serious
+		;a grim face/look/smile
+		;She looked grim.
+		;with a look of grim determination on his face
+		;He set about the task with grim concentration.
+		;grim-faced policemen
+		;Extra Examples:
+		;There was a grim smile on her face as she approached.
+		;They clung on to the edge of the boat with grim determination.
+	; -- (2) 
+	; -- (3) 
+	;bệnh -- (4) [not before noun] (British English, informal) ill
+		;I feel grim this morning.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+
+groggy		<-->	adjective++C2	[230111][001]	./ˈɡrɒɡi/-NAmE /ˈɡrɑːɡi/ [not usually before noun] (comparative groggier, superlative groggiest) (informal)
+	;loạng choạng (do say rượu) -- (1) weak and unable to think or move well because you are ill or very tired
+		;The sleeping pills left her feeling very groggy.
+		;He’s still groggy from the anaesthetic.
+		;TOPICS FeelingsC2, Health problemsC2
+
+
+
+
+
+
+
+
+
+haemophilia		<-->	noun++C2	[230111][001]	./ˌhiːməˈfɪliə/-NAmE /ˌhiːməˈfɪliə/ (British English) (North American English hemophilia) [uncountable]
+	;bệnh máu khó đông -- (1) a medical condition that causes severe loss of blood from even a slight injury because the blood fails to clot normally. It usually affects only men although it can be passed on by women.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+haemophiliac		<-->	noun++C2	[230111][001]	./ˌhiːməˈfɪliæk/-NAmE /ˌhiːməˈfɪliæk/ (British English) (North American English hemophiliac)
+	;người có chứng máu khó đông -- (1) a person who has haemophilia
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3951,25 +4484,18 @@ glue-sniffing		<-->	noun++C2[-0]	.
 
 
 
-graze		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-grim		<-->	adjective++C2[-0]	.
-	; -- (1) 
+haemorrhage		<-->	noun++C2	[230111][001]	./ˈhemərɪdʒ/-NAmE /ˈhemərɪdʒ/ (British English) (North American English hemorrhage)
+	;sự băng huyết, xuất huyết -- (1) [countable, uncountable] a medical condition in which there is severe loss of blood from a damaged blood vessel inside a person’s body
+		;a massive brain/cerebral haemorrhage
+		;He was checked for any signs of haemorrhage.
+		;The patient died from acute cerebral haemorrhage.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;massiveseverefatal…
+				;verb + haemorrhage/​hemorrhage
+				;havesufferdie from…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -3982,8 +4508,24 @@ grim		<-->	adjective++C2[-0]	.
 
 
 
-groggy		<-->	adjective++C2[-0]	.
-	; -- (1) 
+haemorrhoids		<-->	noun++C2	[230111][001]	./ˈhemərɔɪdz/-NAmE /ˈhemərɔɪdz/ (British English) (North American English hemorrhoids) [plural] (medical)
+	;bệnh trĩ -- (1) veins at or near the anus that have become painful and swollen (= larger than normal)
+		;SYNONYM piles
+		;<< piles, haemorrhoids, >>
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+hangover		<-->	noun++C2	[230111][001]	./ˈhæŋəʊvə(r)/-NAmE /ˈhæŋəʊvər/
+	;chứng đau đầu do uống rượu -- (1) the headache and sick feeling that you have the day after drinking too much alcohol
+		;She woke up with a terrible hangover.
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -3996,80 +4538,26 @@ groggy		<-->	adjective++C2[-0]	.
 
 
 
-haemophilia		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-haemophiliac		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-haemorrhage		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-haemorrhoids		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-hangover		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-harm		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+harm		<-->	verb++B2	[230111][001]	./cef/
+	;gây tổn thương -- (1) harm somebody/something to hurt or injure somebody or to damage something
+		;He would never harm anyone.
+		;Pollution can harm marine life.
+		;These revelations will harm her chances of winning the election.
+		;Rising oil prices could harm the global economy.
+		;It's important to grow the business in a way that does not harm the environment.
+		;Misusing drugs in pregnancy can seriously harm your baby.
+		;The decision could harm British interests.
+		;The country's treatment of asylum seekers is harming its international reputation.
+		;He claimed that he had not intended to harm the girl.
+		;SEE ALSO self-harm
+		;Synonyms damage: hurt, harm, impair
+		;<< damage, hurt, harm, impair, >>
+		;TOPICS Health problemsB2
+			;Oxford Collocations Dictionary
+			;adverb
+				;seriouslydeliberatelyphysically…
+			;verb + harm
+				;intend towant totry to…
 
 
 
@@ -5169,11 +5657,11 @@ multiple sclerosis		<-->	noun++C2[-0]	.
 
 
 
-mumps		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+mumps		<-->	noun++C2	[230113][001]	./mʌmps/
+ /mʌmps/ [uncountable]
+	;bệnh quai bị -- (1) a disease, especially of children, that causes painful swellings at the sides of the face and under the ears
+		;TOPICS Health problemsC2
+		;Word Origin
 
 
 
@@ -5208,10 +5696,15 @@ nausea		<-->	noun++C2	[220808][001]	./ˈnɔːziə/-NAmE /ˈnɔːziə/
 
 
 
-nauseous		<-->	adjective++C2[-0]	.
-	; -- (1) 
+nauseous		<-->	adjective++C2	[230113][001]	./ˈnɔːziəs/
+ /ˈnɔːʃəs/
+	;buồn nôn, muốn ói -- (1) feeling as if you want to vomit
+		;She felt dizzy and nauseous.
+		;TOPICS Health problemsC2
 	; -- (2) 
-	; -- (3) 
+	;làm buồn nôn, muốn ói -- (3) making you feel as if you want to vomit
+		;a nauseous smell
+		;TOPICS Health problemsC2
 
 
 
@@ -5236,8 +5729,48 @@ nCoV		<-->	noun++C2[-0]	.
 
 
 
-niggle		<-->	noun++C2[-0]	.
-	; -- (1) 
+niggle		<-->	noun++C2	[230113][001]	./ˈnɪɡl/
+ /ˈnɪɡl/
+	;một khúc mắc nhỏ -- (1) (British English) a small criticism or complaint
+		;My only niggle is that they should have told me sooner.
+		;niggle about/over something niggles over ticket prices
+	; -- (2) 
+	;sự đau nhẹ -- (3) a slight pain
+		;He gets the occasional niggle in his right shoulder.
+		;TOPICS Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+non-malignant		<-->	adjective++C2	[230113][001]	./ˌnɒn məˈlɪɡnənt/
+ /ˌnɑːn məˈlɪɡnənt/
+	;lành tính -- (1) (of a tumour) not caused by cancer and not likely to be dangerous
+		;SYNONYM benign (3)
+		;<< benign, non-malignant, >>
+		;OPPOSITE malignant (1)
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+notifiable		<-->	adjective++C2	[230113][001]	./ˈnəʊtɪfaɪəbl/
+ /ˈnəʊtɪfaɪəbl/ [usually before noun] (formal)
+	;rất nguy hiểm, đáng báo động -- (1) (of a disease or a crime) so dangerous or serious that it must by law be reported officially to the authorities
+		;Is meningitis a notifiable disease?
+		;notifiable offences
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5250,8 +5783,16 @@ niggle		<-->	noun++C2[-0]	.
 
 
 
-non-malignant		<-->	adjective++C2[-0]	.
-	; -- (1) 
+obese		<-->	adjective++B2	[230113][001]	./əʊˈbiːs/
+ /əʊˈbiːs/ (formal or medical)
+	;béo ú -- (1) (of people) very fat, in a way that is not healthy
+		;Obese patients are given dietary advice.
+		;She is grossly obese.
+		;COMPARE overweight (1)
+		;Vocabulary Building Saying that somebody is fat:
+			{ fat, OBESE, Stout, Large, heavy, Plump, Tubby, big, Overweight, ...}
+		;Collocations Diet and exercise
+		;TOPICS Health problemsB2, AppearanceB2
 	; -- (2) 
 	; -- (3) 
 
@@ -5264,36 +5805,10 @@ non-malignant		<-->	adjective++C2[-0]	.
 
 
 
-notifiable		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-obese		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-obesity		<-->	noun++B2[-0]	.
-	; -- (1) 
+obesity		<-->	noun++B2	[230113][001]	./cef/
+	;tình trạng béo phì -- (1) 	the quality or fact of being very fat, in a way that is not healthy
+		;Obesity can increase the risk of heart disease.
+		;TOPICS Health problemsB2, AppearanceB2
 	; -- (2) 
 	; -- (3) 
 
@@ -5337,8 +5852,12 @@ omicron		<-->	noun++C2[-0]	.
 
 
 
-on the mend		<-->	idiom++C2[-0]	.
-	; -- (1) 
+on the mend		<-->	idiom++C2	[230113][001]	./i/
+	;hồi phục -- (1) (informal) getting better after an illness or injury; improving after a difficult situation
+		;My leg is definitely on the mend now.
+		;Does he believe the economy's really on the mend?
+		;They’ve been to see a counsellor and their relationship seems to be on the mend.
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5350,8 +5869,12 @@ on the mend		<-->	idiom++C2[-0]	.
 
 
 
-on your feet		<-->	idiom++C2[-0]	.
-	; -- (1) 
+on your feet		<-->	idiom++C2	[230113][001]	./i/
+	;rất khoẻ, ổn -- (1) completely well or in a normal state again after an illness or a time of trouble
+		;Sue's back on her feet again after her operation.
+		;The new chairman hopes to get the company back on its feet within six months.
+		;Synonyms stand
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5363,8 +5886,27 @@ on your feet		<-->	idiom++C2[-0]	.
 
 
 
-outbreak		<-->	noun++C1[-0]	.
-	; -- (1) 
+outbreak		<-->	noun++C1	[230113][001]	./cef/
+	;sự bùng nổ -- (1) the sudden start of something unpleasant, especially violence or a disease
+		;the outbreak of war
+		;an outbreak of typhoid
+		;Outbreaks of rain are expected in the afternoon.
+		;the events that led to the outbreak of World War I
+		;an outbreak of hostilities
+		;Collocations Illnesses
+		;Wordfinder: acute, condition, health, medicine, outbreak, pain, recover, relapse, terminal, treatment
+		;TOPICS Health problemsC1
+			;Oxford Collocations Dictionary
+			;adjective
+				;largemajorserious…
+			;verb + outbreak
+				;causelead toprevent…
+				;outbreak + verb
+				;occur
+			;preposition
+				;outbreak of
+			;phrases
+				;an outbreak of diseaseoutbreaks of rainan outbreak of war, fighting, hostilities, violence, etc.…
 	; -- (2) 
 	; -- (3) 
 
@@ -5376,10 +5918,11 @@ outbreak		<-->	noun++C1[-0]	.
 
 
 
-out of breath		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+out of breath		<-->	idiom++C1	[230113][001]	./i/
+	;mệt đứt hơi -- (1) having difficulty breathing after exercise
+		;We were out of breath after only five minutes.
+		;I'm a bit out of breath after my run.
+		;TOPICS Health problemsC1
 
 
 
@@ -5388,11 +5931,13 @@ out of breath		<-->	idiom++C1[-0]	.
 
 
 
+overdose		<-->	verb++C1	[230113][001]	./ˈəʊvədəʊs/
+ /ˈəʊvərdəʊs/\ (also informal OD) [intransitive]
+	;dùng quá liều  -- (1) overdose (on something) to take too much of a drug at one time, so that it is dangerous
+		;He had overdosed on heroin.
+		;(figurative) I had overdosed on sun.
+		;TOPICS Social issuesC1, Health problemsC1
 
-overdose		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -5400,108 +5945,48 @@ overdose		<-->	verb++C1[-0]	.
 
 
 
+overeat		<-->	verb++C2	[230113][001]	./ˌəʊvərˈiːt/
+ /ˌəʊvərˈiːt/ [intransitive]
+	;ăn quá no -- (1) to eat more than you need or more than is healthy
+		;TOPICS Health problemsC2
 
 
-overeat		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+overeating		<-->	noun++C2	[230111][001]	./ˌəʊvərˈiːtɪŋ/-NAmE /ˌəʊvərˈiːtɪŋ/ [uncountable]
+	;việc ăn quá no -- (1) the act of eating more than you need or more than is healthy
+		She went through periods of compulsive overeating.
+		TOPICS Health problemsC2
 
 
 
 
 
-overeating		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
-
-
-
-
-
-
-overweight		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-pain		<-->	noun++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-painful		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-painfully		<-->	adverb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-pale		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-pallid		<-->	adjective++C2[-0]	.
-	; -- (1) 
+overweight		<-->	adjective++B2	[230111][001]	./ˌəʊvəˈweɪt/-NAmE /ˌəʊvərˈweɪt/
+	;thừa cân -- (1) (of people) too heavy, in a way that may be unhealthy
+		;She was only a few pounds overweight.
+		;A number of medical conditions are due to being overweight.
+		;You don’t look overweight.
+		;OPPOSITE underweight
+		;COMPARE obese
+		;Vocabulary Building Saying that somebody is fat
+		;Collocations Diet and exercise
+		;TOPICS Health problemsB2, AppearanceB2
+				;Oxford Collocations Dictionary
+				;verbs
+				;belookbecome…
+				;adverb
+				;extremelyfairlyvery…
+				;phrases
+				;a few pounds, etc. overweight
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -5514,8 +5999,51 @@ pallid		<-->	adjective++C2[-0]	.
 
 
 
-pallor		<-->	noun++C2[-0]	.
-	; -- (1) 
+pain		<-->	noun++A2	[230111][001]	./cef/
+	;cảm giác đau -- (1) [uncoountable, countable] the feelings that you have in your body when you have been hurt or when you are ill
+		;a cry of pain
+		;in pain She was clearly in a lot of pain.
+		;He screamed in pain as he fell to his knees.
+		;pain in something He felt a sharp pain in his knee.
+		;chronic/acute/severe pain
+		;patients suffering from back pain
+		;stomach/chest/abdominal/back pains
+		;You get more aches and pains as you get older.
+		;The booklet contains information on pain relief during labour.
+		;This cream should help to relieve the pain.
+		;These pills should ease the pain.
+		;to feel/experience/suffer pain
+		;It's wrong to inflict pain on any animal.
+		;I was able to learn pain management techniques.
+		;SEE ALSO growing pains
+		;Homophones pain | pane
+		;Wordfinder: acute, condition, health, medicine, outbreak, pain, recover, relapse, terminal, treatment, 
+		;Extra Examples:
+		;Can you feel any pain?
+		;His face was contorted with pain as he crossed the finish line.
+		;I have a very low threshold for pain.
+		;If the pain persists, see your doctor.
+		;She had a burning pain in one eye.
+		;The pains began shortly after she started work as a gardener.
+		;The treatments helped manage his pain.
+		;Your doctor should be able to do something for the pain.
+		;TOPICS Health problemsA2
+			;Oxford Collocations Dictionary
+			;adjective
+				;acuteagonizingawful…
+				;… of pain
+				;spasmstab
+			;verb + pain
+				;be inbe racked withexperience…
+				;pain + verb
+				;begincomeoccur…
+				;pain + noun
+				;controlmanagementrelief…
+			;preposition
+				;pain in
+			;phrases
+				;aches and painsa cry of paina threshold for pain…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -5528,8 +6056,98 @@ pallor		<-->	noun++C2[-0]	.
 
 
 
-pandemic		<-->	noun++B2[-0]	.
-	; -- (1) 
+painful		<-->	adjective++B1	[230111][001]	./cef/
+	;đau đớn -- (1) causing you pain
+		;Is your back still painful?
+		;a painful death
+		;My ankle is still too painful to walk on.
+		;He took a painful blow on the shoulder.
+		;It was a difficult and painful operation.
+		;Synonyms painful: sore, raw, inflamed, excruciating, burning, itchy
+		;Extra Examples:
+		;I had to undergo a series of painful injections.
+		;It was a slow and painful death.
+		;The infection isn't dangerous, but it's very painful.
+		;Ulcers can be unbearably painful.
+		;TOPICS Health problemsB1
+			;Oxford Collocations Dictionary
+			;verbs
+				;be, look, seem…
+			;adverb
+				;extremely, fairly, very, …
+			;preposition
+				;to
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+painfully		<-->	adverb++B1	[230111][001]	./ˈpeɪnfəli/-NAmE /ˈpeɪnfəli/
+	;đau đớn -- (1) extremely, and in a way that makes you feel annoyed, upset, etc.
+		;Their son was painfully shy.
+		;The dog was painfully thin.
+		;He was painfully aware of his lack of experience.
+		;Progress has been painfully slow.
+	;một cách đau đớn -- (2) in a way that causes you physical or emotional pain
+		;He banged his knee painfully against the desk.
+		;TOPICS Health problemsB1
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+pale		<-->	adjective++B1	[230111][001]	./cef/
+	;nhợt nhạt, tái -- (1) (of a person, their face, etc.) having skin that is very light in colour; having skin that has less colour than usual because of illness, a strong emotion, etc.
+		;a pale complexion
+		;<< pale, drawn, >>
+		;She was tall with a slender figure and pale skin.
+		;pale with fear/shock
+		;to go/turn/grow pale
+		;You look pale. Are you OK?
+		;Her face had grown deathly pale.
+		;The ordeal left her looking pale and drawn.
+		;Extra Examples:
+		;She was tall, dark and pale, and very beautiful.
+		;Ruth went pale as the news sank in.
+		;He turned deathly pale.
+		;His face went pale with anger.
+		;TOPICS AppearanceB1, Health problemsB1
+			;Oxford Collocations Dictionary
+			;verbs
+				;appear, be, look…
+			;adverb
+				;extremely, fairly, very, …
+			;phrases
+				;pale and drawn
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+pallid		<-->	adjective++C2	[230111][001]	./ˈpælɪd/-NAmE /ˈpælɪd/
+	;nhợt nhạt, xanh xao -- (1) (of a person, their face, etc.) pale, especially because of illness
+		;a pallid complexion
+		;She found him on the bed, pallid and shivering.
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5542,8 +6160,54 @@ pandemic		<-->	noun++B2[-0]	.
 
 
 
-pandemic		<-->	adjective++B2[-0]	.
-	; -- (1) 
+pallor		<-->	noun++C2	[230111][001]	./ˈpælə(r)/-NAmE /ˈpælər/ [uncountable]
+	;sự xanh mặt do sợ hãi -- (1) a pale colour of the face, especially because of illness or fear
+		;Her cheeks had an unhealthy pallor.
+		;He had a sickly pallor.
+		;the deathly pallor of her face
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;deathlysickly
+				;verb + pallor
+				;have
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+pandemic		<-->	noun++B2	[230111][001]	./pænˈdemɪk/-NAmE /pænˈdemɪk/
+	;đại dịch -- (1) a disease that spreads over a whole country or the whole world
+		;the coronavirus pandemic
+		;TOPICS Health problemsB2
+				;Oxford Collocations Dictionary
+				;Pandemic is used after these nouns:
+				;fluinfluenza
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+
+pandemic		<-->	adjective++B2	[230111][001]	./pænˈdemɪk/-NAmE /pænˈdemɪk/
+	;dịch -- (1) (of a disease) that spreads over a whole country or the whole world
+		;a pandemic disease
+		;COMPARE endemic, epidemic (2)
+		;TOPICS Health problemsB2
 	; -- (2) 
 	; -- (3) 
 
@@ -5556,8 +6220,99 @@ pandemic		<-->	adjective++B2[-0]	.
 
 
 
-paralyse		<-->	verb++C2[-0]	.
-	; -- (1) 
+paralyse		<-->	verb++C2	[230111][001]	./ˈpærəlaɪz/-NAmE /ˈpærəlaɪz/ (British English) (North American English paralyze) [often passive]
+	;làm liệt -- (1) paralyse somebody to make somebody unable to feel or move all or part of their body
+		;The accident left him paralysed from the waist down.
+		;He was partially paralysed by the fall.
+		;(figurative) paralysing heat
+		;(figurative) She stood there, paralysed with fear.
+		;TOPICS Health problemsC2, DisabilityC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;completelytotallypartially…
+				;phrases
+				;leave somebody paralysedbe paralysed from the neck, waist, etc. downbe paralysed with fear…
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+paralysis		<-->	noun++C2	[230111][001]	./pəˈræləsɪs/-NAmE /pəˈræləsɪs/ (plural paralyses  /pəˈræləsiːz/  /pəˈræləsiːz/)
+	;sự bại liệt -- (1) [uncountable, countable] a loss of control of, and sometimes feeling in, part or most of the body, caused by disease or an injury to the nerves
+		;paralysis of both legs
+		;Extra Examples:
+		;Polio can cause paralysis and sometimes death.
+		;The snake's venom induces instant paralysis.
+		;stroke patients who have suffered partial paralysis
+		;TOPICS Health problemsC2, DisabilityC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;completepartialpermanent…
+				;verb + paralysis
+				;suffer fromcauseinduce…
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+parasite		<-->	noun++C1	[230111][001]	./ˈpærəsaɪt/-NAmE /ˈpærəsaɪt/
+	;kí sinh trùng -- (1) a small animal or plant that lives on or inside another animal or plant and gets its food from it
+		;fleas, lice and other parasites
+		;an intestinal parasite of cattle
+		;Extra Examples:
+		;These flies carry a dangerous parasite.
+		;Your contaminated fingers can transmit the parasite to many surfaces.
+		;the parasite that causes malaria
+		;TOPICS Health problemsC1, BiologyC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;commondangerousdeadly…
+				;verb + parasite
+				;carryhavepick up…
+				;parasite + verb
+				;infect somebody/​somethingcause something
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+pass out		<-->	phrasal adverb++C2	[230111][001]	./p/
+	;trở nên bất tỉnh -- (1) to become unconscious
+		;SYNONYM faint
+		;<< faint, pass out, >>
+		;TOPICS Health problemsC2
+		;Oxford Collocations Dictionary
+		;Pass out is used with these nouns as the object:
+		;leaflet
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -5572,10 +6327,26 @@ paralyse		<-->	verb++C2[-0]	.
 
 
 
+pathogen		<-->	noun++C2	[230111][001]	./ˈpæθədʒən/-NAmE /ˈpæθədʒən/ (specialist)
+	;tác nhân gây bệnh -- (1) a thing that causes disease
+		;the spread of pathogens by insects
+		;TOPICS Health problemsC2
 
-paralysis		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+
+
+
+
+
+
+
+
+pathological		<-->	adjective++C2	[230111][001]	./ˌpæθəˈlɒdʒɪkl/-NAmE /ˌpæθəˈlɑːdʒɪkl/
+	;vô cớ -- (1) not reasonable or sensible; impossible to control
+		;pathological fear/hatred/violence
+		;a pathological liar (= a person who cannot stop telling lies)
+	;c. bệnh -- (2) caused by, or connected with, disease or illness
+		;pathological depression
+		;TOPICS Health problemsC2
 	; -- (3) 
 
 
@@ -5587,68 +6358,10 @@ paralysis		<-->	noun++C2[-0]	.
 
 
 
-parasite		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-pass out		<-->	phrasal adverb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-pathogen		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-pathological		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-patient zero		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+patient zero		<-->	noun++C2	[230111][001]	./ˌpeɪʃnt ˈzɪərəʊ/-NAmE /ˌpeɪʃnt ˈzɪrəʊ/ [singular] usually used without a (especially US English)
+	;bệnh nhân gốc -- (1) the first person to be infected by a particular disease
+		;The authorities have so far been unable to trace patient zero.
+		;TOPICS Health problemsC2
 
 
 
@@ -5660,6 +6373,24 @@ patient zero		<-->	noun++C2[-0]	.
 
 peaked		<-->	adjective++C2[-0]	.
 	; -- (1) 
+	;bệnh, hốc hác, nhợt nhạt -- (2) (North American English) (British English peaky) ill or pale
+		;<< pale, ill, drawn, peaked, >>
+		;TOPICS Health problemsC2
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+peaky		<-->	adjective++C2	[230111][001]	./ˈpiːki/-NAmE /ˈpiːki/ (British English, informal) (North American English peaked)
+	;xanh xao -- (1) ill or pale
+		;You're looking a little peaky. Are you OK?
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5672,10 +6403,18 @@ peaked		<-->	adjective++C2[-0]	.
 
 
 
-peaky		<-->	adjective++C2[-0]	.
+peculiar		<-->	adjective++C2	[230111][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;bệnh nhẹ -- (3) (British English, informal) slightly ill
+		;I don’t think I’ll eat anything—I’m feeling a bit peculiar.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;mostveryquite…
+		;See full entry
 
 
 
@@ -5686,8 +6425,22 @@ peaky		<-->	adjective++C2[-0]	.
 
 
 
-peculiar		<-->	adjective++C2[-0]	.
-	; -- (1) 
+pellagra		<-->	noun++C2	[230111][001]	./pəˈlæɡrə/-NAmE /pəˈlɑːɡrə/ [uncountable]
+	;bệnh nứt da do thiếu dinh dưỡng -- (1) a disease caused by eating food that lacks certain nutrients (= substances important for health [ws::]) that leads to problems with the skin, digestive system and brain
+		;TOPICS Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+pertussis		<-->	noun++C2	[230111][001]	./pəˈtʌsɪs/-NAmE /pərˈtʌsɪs/ [uncountable] (medical)
+	;bệnh ho gà -- (1) ​whooping cough (= a disease, especially of children, that makes them cough and have difficulty breathing)
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5700,8 +6453,9 @@ peculiar		<-->	adjective++C2[-0]	.
 
 
 
-pellagra		<-->	noun++C2[-0]	.
-	; -- (1) 
+phlegm		<-->	noun++C2	[230111][001]	./flem/-NAmE /flem/ [uncountable]
+	;đờm trong mũi, họng -- (1) the thick substance that forms in the nose and throat, especially when you have a cold
+		;TOPICS BodyC2, Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5714,38 +6468,59 @@ pellagra		<-->	noun++C2[-0]	.
 
 
 
-pertussis		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-phlegm		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-plague		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+plague		<-->	noun++C1	[230111][001]	./pleɪɡ/-NAmE /pleɪɡ/\
+	;bệnh dịch hạch -- (1) (also the plague) (also bubonic plague) [uncountable] a disease spread by rats that causes a high temperature, swellings (= areas that are larger and rounder than usual) on the body and usually death
+		;a decline in population following outbreaks of plague
+		;Extra Examples:
+		;Fleas spread plague from animals to humans.
+		;Nearly a third of the population died in the Great Plague.
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;bubonicgreat
+				;… of plague
+				;outbreak
+				;verb + plague
+				;sufferspreadbe decimated by…
+				;plague + verb
+				;break outstartstrike (something)…
+				;preposition
+				;plague of
+		;See full entry
+	;dịch bệnh -- (2) [countable] any disease that spreads quickly and kills a lot of people
+		;SYNONYM epidemic
+		;the plague of AIDS
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;bubonicgreat
+				;… of plague
+				;outbreak
+				;verb + plague
+				;sufferspreadbe decimated by…
+				;plague + verb
+				;break outstartstrike (something)…
+				;preposition
+				;plague of
+		;See full entry
+	;dịch -- (3) [countable] plague of something large numbers of an animal or insect that come into an area and cause great damage
+		;a plague of locusts/rats, etc.
+		;Extra Examples:
+		;The city is suffering a plague of rats.
+		;The region has just suffered a plague of locusts.
+		;TOPICS Insects, worms, etc.C2
+				;Oxford Collocations Dictionary
+				;adjective
+				;bubonicgreat
+				;… of plague
+				;outbreak
+				;verb + plague
+				;sufferspreadbe decimated by…
+				;plague + verb
+				;break outstartstrike (something)…
+				;preposition
+				;plague of
+		;See full entry
 
 
 
@@ -5779,8 +6554,15 @@ pneumonia		<-->	noun++C2	[230110][001]	./njuːˈməʊniə/-NAmE /nuːˈməʊniə
 
 
 
-polio		<-->	noun++C2[-0]	.
-	; -- (1) 
+polio		<-->	noun++C2	[230111][001]	./ˈpəʊliəʊ/-NAmE /ˈpəʊliəʊ/ (also formal poliomyelitis  /ˌpəʊliəʊˌmaɪəˈlaɪtɪs/  /ˌpəʊliəʊˌmaɪəˈlaɪtɪs/) [uncountable]
+	;bệnh bại liệt -- (1) a disease that affects the central nervous system and can cause temporary or permanent paralysis (= loss of control or feeling in part or most of the body)
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;verb + polio
+				;havecontractimmunize somebody against…
+				;polio + noun
+				;vaccinationvaccinevirus…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -5793,10 +6575,35 @@ polio		<-->	noun++C2[-0]	.
 
 
 
-poor		<-->	adjective++B1[-0]	.
+poor		<-->	adjective++B1	[230111][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;không khoẻ, dở -- (4) [-not good] not good; of a quality that is low or lower than expected
+		;the party’s poor performance in the election
+		;The food was of very poor quality.
+		;She's been in poor health for some time now.
+		;The cottage was in poor physical condition.
+		;It was raining heavily and visibility was poor.
+		;poor food/light/soil
+		;to have a poor opinion of somebody (= to not think well of somebody)
+		;SEE ALSO piss-poor
+		;Extra Examples:
+		;The work was of an extremely poor standard.
+		;He makes some pretty poor decisions throughout the novel.
+		;Many health problems are related to poor diet and sedentary lifestyles.
+		;Her guitar playing is poor.
+		;He was frustrated about his poor exam performance.
+		;There was a reduced crop because of poor growing conditions.
+		;He showed poor judgement by hiring her.
+		;Poor management has damaged the land in the past.
+		;The soil was so poor that it couldn't support any vegetation.
+		;Watching the concert on TV was a poor substitute for being at the live performance.
+		;The city has the poorest exam results in the region.
+		;We received a very poor return on our investment.
+		;He wanted to be a Navy pilot but was disqualified due to poor eyesight.
+		;The country is criticised for its poor human rights record.
+		;TOPICS Health problemsB1
 
 
 
@@ -5806,53 +6613,12 @@ poor		<-->	adjective++B1[-0]	.
 
 
 
-poorly		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-post-operative		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-present		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-prolapse		<-->	noun++C2[-0]	.
-	; -- (1) 
+poorly		<-->	adjective++C2	[230111][001]	./ˈpɔːli/,  /ˈpʊəli/-NAmE /ˈpʊrli/,  /ˈpɔːrli/ [not usually before noun] (British English, informal)
+	;bệnh -- (1) ill
+		;She felt poorly.
+		;According to a hospital spokesman, his condition is said to be poorly, but stable.
+		;I’m sorry you’ve been feeling poorly.
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -5865,50 +6631,16 @@ prolapse		<-->	noun++C2[-0]	.
 
 
 
-pull		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-pull		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-pull through		<-->	phrasal adverb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-queasy		<-->	adjective++C2[-0]	.
-	; -- (1) 
+post-operative		<-->	adjective++C2	[230111][001]	./ˌpəʊst ˈɒpərətɪv/-NAmE /ˌpəʊst ˈɑːpərətɪv/ (also informal post-op  /ˌpəʊst ˈɒp/  /ˈpəʊst ɑːp/) [only before noun] (medical)
+	;hậu điều trị -- (1) connected with the period after a medical operation
+		;post-operative complications/pain/care
+		;patients in the post-operative period
+		;COMPARE intraoperative, preoperative
+		;TOPICS Health problemsC2, HealthcareC2
+				;Oxford Collocations Dictionary
+				;Post-operative is used with these nouns:
+				;complicationrecovery
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -5921,8 +6653,27 @@ queasy		<-->	adjective++C2[-0]	.
 
 
 
-rabies		<-->	noun++C2[-0]	.
+present		<-->	verb++C2	[230111][001]	./cef/
 	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;xuất hiện triệu chứng -- (12) [C2] [-medical] [intraansitive, transitive] (medical) (of a patient or an illness) to have or show particular symptoms
+		;present with something The patient presented with a chest complaint.
+		;present as something This illness rarely presents as a chest wall tumour in young patients.
+		;present something All these patients presented a chief complaint of frequent headaches.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+prolapse		<-->	noun++C2	[230111][001]	./ˈprəʊlæps/-NAmE /ˈprəʊlæps/ (medical)
+	;sự sa nội tạng -- (1) a condition in which an organ of the body has slipped forward or down from its normal position
+		;TOPICS Health problemsC2
+		;Word Origin
 	; -- (2) 
 	; -- (3) 
 
@@ -5935,27 +6686,34 @@ rabies		<-->	noun++C2[-0]	.
 
 
 
-rally		<-->	verb++C2[-0]	.
+pull		<-->	verb++B1	[230111][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;căng cơ -- (7) [-muscle] [transitive] pull something to damage a muscle, etc. by using too much force
+		;to pull a muscle/ligament/tendon
+		;He pulled a hamstring in training.
+		;Synonyms injure: wound, hurt, bruise, sprain, pull, strain
+		;<< injure: wound, hurt, bruise, sprain, pull, strain
+		;Extra Examples: 
+		;He pulled a muscle in his back.
+		;She has pulled her Achilles tendon.
+		;TOPICS Health problemsB1
 
 
+
+
+
+
+
+
+
+pull		<-->	noun++C1	[230111][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
-
-
-
-
-
-
-
-rash		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;sự căng cơ -- [B1-C1] (7) [-muscle injury] [countable] an injury to a muscle caused by using too much force
+		;TOPICS Health problemsC1
 
 
 
@@ -5965,34 +6723,10 @@ rash		<-->	noun++C1[-0]	.
 
 
 
-react		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-reaction		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-recover		<-->	verb++B2[-0]	.
-	; -- (1) 
+pull through		<-->	phrasal adverb++C2	[230111][001]	./p/
+	;hồi phục -- (1) [-pull through | pull through something] to get better after a serious illness, operation, etc.
+		;The doctors think she will pull through.
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -6002,12 +6736,47 @@ recover		<-->	verb++B2[-0]	.
 
 
 
+queasy		<-->	adjective++C2	[230111][001]	./ˈkwiːzi/-NAmE /ˈkwiːzi/
+	;muốn ói mửa, buồn nôn -- (1) feeling sick; wanting to vomit
+		;SYNONYM nauseous
+		;<< nauseous, queasy,>>
+		;Travelling by boat makes me queasy.
+		;His stomach still felt queasy and he was grateful for the fresh air.
+		;TOPICS Health problemsC2
+	;căng thẳng -- (2) slightly nervous or worried about something
+		;Now she’d arrived she felt queasy inside.
+		;TOPICS FeelingsC2
+		;Word Origin
 
 
 
-recovery		<-->	noun++B2[-0]	.
+
+
+
+
+
+
+rabies		<-->	noun++C2	[230111][001]	./ˈreɪbiːz/-NAmE /ˈreɪbiːz/ [uncountable]
+	;bệnh dại -- (1) a disease of dogs and other animals that causes madness and death. Animals with the disease can pass it to humans by biting them.
+		;COMPARE hydrophobia
+		;TOPICS Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+rally		<-->	verb++C2	[230113][001]	./cef/
 	; -- (1) 
-	; -- (2) 
+	;hồi phục -- ​[intraansitive] to become healthier, stronger, etc. after a period of illness, weakness, etc.
+		;SYNONYM recover
+		;He never really rallied after the operation.
+		;The champion rallied to win the second set 6–3.
+		;TOPICS Health problemsC2
 	; -- (3) 
 
 
@@ -6017,55 +6786,30 @@ recovery		<-->	noun++B2[-0]	.
 
 
 
-
-
-recuperate		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-recuperative		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-red zone		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-reject		<-->	verb++B1[-0]	.
-	; -- (1) 
+rash		<-->	noun++C1	[230111][001]	./ræʃ/-NAmE /ræʃ/-\
+	;vùng da bị dị ứng -- (1) [countable, usually singular] an area of red spots on a person’s skin, caused by an illness or a reaction to something
+		;I woke up covered in a rash.
+		;I come out in a rash (= a rash appears on my skin) if I eat chocolate.
+		;The sun brought her out in (= caused) an itchy rash.
+		;a heat rash (= caused by heat)
+		;COMPARE spot
+		;SEE ALSO diaper rash, nappy rash
+		;Extra Examples:
+		;He has a slight rash on his chest.
+		;Some pesticides can cause rashes and burns.
+		;The rash most commonly appears on the back.
+		;When I'm stressed I break out in a rash.
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;skinitchyred…
+				;verb + rash
+				;havebreak out income out in…
+				;rash + verb
+				;appearcome outdevelop…
+				;preposition
+				;rash on
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -6077,8 +6821,81 @@ reject		<-->	verb++B1[-0]	.
 
 
 
-rejection		<-->	noun++C2[-0]	.
+react		<-->	verb++B1	[230111][001]	./cef/
 	; -- (1) 
+	;phản ứng lại (thuốc) -- (2) [intraansitive] to become ill after eating, breathing, etc. a particular substance
+		;react + adv. Some patients may react adversely.
+		;[ap: react]
+		;react (+ adv.) to something People can react badly to certain food additives.
+		;People react differently to these drugs.
+		;TOPICS Health problemsB1
+			;Oxford Collocations Dictionary
+			;adverb
+				;strongly, favourably/​favorably, positively…
+			;verb + react
+				;tend to, be slow tonot know how to…
+			;preposition
+				;againstbyto…
+		;See full entry
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+reaction		<-->	noun++B1	[230111][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	;sự phản ứng -- (3) [-to drugs] [countable, uncoountable] a response by the body, usually a bad one, to a drug, chemical substance, etc.
+		If you have a bad reaction, discontinue use immediately.
+		reaction to something to have an allergic reaction to a drug
+		Adverse reactions to certain foods can take a few days to manifest.
+		a delayed reaction to the drugs
+		She had a very bad allergic reaction to the peanuts.
+		I believe she is experiencing a post-traumatic stress reaction.
+		TOPICS Health problemsB1
+				Oxford Collocations Dictionary
+				adjective
+				adversebadsevere…
+				verb + reaction
+				experiencehavesuffer…
+				preposition
+				reaction to
+		See full entry
+
+
+
+
+
+
+
+
+
+recover		<-->	verb++B2	[230111][001]	./cef/
+	;hồi phục -- (1) [-from illness] [intraansitive] to get well again after being ill, hurt, etc.
+		;recover from something He's still recovering from his operation.
+		;She spent many weeks in hospital recovering from her injuries.
+		;He has fully recovered from the shoulder surgery.
+		;She remains in serious condition, but is expected to recover.
+		;The victim is recovering well at home.
+		;Mrs Burton was last night recovering from her injuries in hospital.
+		;She had hardly recovered from the birth of her last baby.
+		;Yates is struggling to recover form a serious knee injury.
+		;Your baby is recovering well.
+		;Mother and baby are recovering well.
+		;Wordfinder: acute, condition, health, medicine, outbreak, pain, recover, relapse, terminal, treatment, 
+		;TOPICS Health problemsB2
+			;Oxford Collocations Dictionary
+			;adverb
+				;completelyfully, partially…
+			;verb + recover
+				;help somebody (to)struggle to
+			;preposition
+				;from
 	; -- (2) 
 	; -- (3) 
 
@@ -6091,11 +6908,164 @@ rejection		<-->	noun++C2[-0]	.
 
 
 
-relapse		<-->	noun++C2[-0]	.
-	; -- (1) 
+recovery		<-->	noun++B2	[230111][001]	./cef/
+	;sự hồi phục -- (1) [uncoountable, countable, usually singular] recovery (from something) the process of becoming well again after an illness or injury
+		;My father has made a full recovery from the operation.
+		;to make a remarkable/quick/speedy/slow recovery
+		;She is on the road to (= making progress towards) recovery.
+		;A holiday would speed his recovery.
+		;He's in recovery from the disease.
+		;His injuries have returned as there was insufficient recovery time between games.
+		;Laura made a miraculous recovery.
+		;Many people make remarkable recoveries after strokes.
+		;Mr Fisher made a full physical recovery.
+		;She is well on the road to recovery.
+		;We wish them all a speedy recovery.
+		;a slow recovery to full health
+		;TOPICS Health problemsB2
+			;Oxford Collocations Dictionary
+			;adjective
+				;amazingastonishingdramatic…
+			;verb + recovery
+				;achieve, makeshow…
+				;recovery + verb
+				;depend on somethingbe on the waybegin…
+				;recovery + noun
+				;timeratespeed…
+			;preposition
+				;beyond recoveryin recoveryrecovery from…
+			;phrases
+				;be on the road to recoverybe on the way to recoveryhope of recovery…
 	; -- (2) 
 	; -- (3) 
 
+
+
+
+
+
+
+
+
+
+recuperate		<-->	verb++C2	[230111][001]	./rɪˈkuːpəreɪt/-NAmE /rɪˈkuːpəreɪt/ (formal)
+	;hồi phục -- (1) [intransitive] recuperate (from something) to get back your health, strength or energy after being ill, tired, injured, etc.
+		;SYNONYM recover
+		;<< recover, recuperate, >>
+		;He's still recuperating from his operation.
+		;After an exhausting few weeks I needed some time to recuperate.
+		;TOPICS Health problemsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+recuperative		<-->	adjective++C2	[230111][001]	./rɪˈkuːpərətɪv/-NAmE /rɪˈkuːpərətɪv/ (formal)
+	;có phục hồi -- (1) helping you to get better after you have been ill, very tired, etc.
+		;the recuperative powers of a good night’s sleep
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+red zone		<-->	noun++C2	[230111][001]	./ˈred zəʊn/-NAmE /ˈred zəʊn/
+	;vùng cấm -- (1) [singular] (in American football) the area within 20 yards of a team’s goal line
+		;TOPICS Sports: ball and racket sportsC2
+	;vùng dịch cao -- (2) [countable] an area where there is a high number of people carrying an infection and strict public health rules are in place
+		Tight restrictions remain in red zones.
+		COMPARE hot zone
+		TOPICS Health problemsC2
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+reject		<-->	verb++B1	[230111][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;từ chối, không tương thích -- (4) [-new organ] reject something (of the body) to not accept a new organ after a transplant operation, by producing substances that attack the organ
+		;Her body has already rejected two kidneys.
+		;Extra Examples:
+		;No one knows why a foetus is not automatically rejected by the mother's immune system.
+		;The organs are automatically rejected by the immune system.
+		;TOPICS Health problemsB1, HealthcareB1
+			;Oxford Collocations Dictionary
+			;adverb
+				;decisively, emphatically, firmly…
+			;verb + reject
+				;vote to, be free tohave the right to…
+			;preposition
+				;asin favour/​favor of
+			;phrases
+				;reject something on… grounds
+		;See full entry
+
+
+
+
+
+
+
+
+
+rejection		<-->	noun++C2	[230111][001]	./cef/
+	; -- (1) 
+	;sự không tương thích trong ghép tạng -- [C2] (4)the failure of somebody's body to accept a new organ after a transplant operation
+		;He had a second lung transplant after rejection of the first.
+		;TOPICS Health problemsC2
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+relapse		<-->	noun++C2	[230111][001]	./ˈriːlæps/-NAmE /ˈriːlæps/ [countable, uncountable]
+	;sự tái phát -- (1) the fact of becoming ill again after making an improvement
+		;to have/suffer a relapse
+		;a risk of relapse
+		;Wordfinder: acuteconditionhealthmedicineoutbreakpainrecoverrelapseterminaltreatment
+		;Extra Examples:
+		;A wide range of emotionally stressful events may trigger a relapse.
+		;Even in relapse there will be times when the patient's general condition improves.
+		;The therapy can reduce the relapse rate for multiple sclerosis.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;acute
+				;verb + relapse
+				;experiencesuffercause…
+				;relapse + verb
+				;occur
+				;relapse + noun
+				;preventionrate
+				;preposition
+				;in relapse
+				;phrases
+				;a risk of relapse
+		;See full entry
+		;Word Origin
 
 
 
@@ -6120,9 +7090,18 @@ relapse		<-->	verb++C2	[221109][001]	./rɪˈlæps/-NAmE /rɪˈlæps/,  /ˈriːl�
 
 
 
-remission		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+remission		<-->	noun++C2	[230111][001]	./rɪˈmɪʃn/-NAmE /rɪˈmɪʃn/ [uncountable, countable]
+	;giai đoạn hồi phục -- (1) a period during which a serious illness improves for a time and the patient seems to get better
+		;in remission The patient has been in remission for the past six months.
+		;The symptoms reappeared after only a short remission.
+		;a period of remission
+		;TOPICS Health problemsC2
+	;sự ân xá, giảm án -- (2) (British English) a reduction in the amount of time somebody spends in prison, especially because they have behaved well
+		;With remission for good behaviour, he could be out by the end of the year.
+		;She has been granted a remission of sentence.
+		;He lost two months’ remission after he attacked another prisoner.
+		;Wordfinder: celldeath rowdischargejusticeparoleprisonprobationremissionsentencewarder
+		;TOPICS Crime and punishmentC2
 	; -- (3) 
 
 
@@ -6134,10 +7113,83 @@ remission		<-->	noun++C2[-0]	.
 
 
 
-rheumatism		<-->	noun++C2[-0]	.
-	; -- (1) 
+rheumatism		<-->	noun++C2	[230111][001]	./ˈruːmətɪzəm/-NAmE /ˈruːmətɪzəm/ [uncountable]
+	;bệnh thấp khớp -- (1) a disease that makes the muscles and joints painful, stiff and swollen (= larger than normal)
+		;The pills help to relieve my rheumatism.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;chronic
+				;verb + rheumatism
+				;gethavesuffer from…
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+rickets		<-->	noun++C2	[230111][001]	./ˈrɪkɪts/-NAmE /ˈrɪkɪts/ [uncountable]
+	;bệnh còi xương -- (1) a disease of children caused by a lack of good food that makes the bones become soft and badly formed, especially in the legs
+		;TOPICS Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+ropy		<-->	adjective++C2	[230111][001]	./ˈrəʊpi/-NAmE /ˈrəʊpi/ (also ropey) (British English, informal)
+	;muốn bệnh -- (1) not in good condition; of bad quality
+		;We spent the night in a ropy old tent.
+	;có bệnh nhẹ -- (2) feeling slightly ill
+		;I felt a bit ropy earlier this week, but I’m better now.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+rosacea		<-->	noun++C2	[230111][001]	./rəʊˈzeɪʃə/-NAmE /rəʊˈzeɪʃə/ [uncountable] (medical)
+	;bệnh da bị đỏ, mẫn ngứa -- (1) a skin condition in which areas of skin on the face become red
+		;The drug is also used to treat the skin condition rosacea.
+		;TOPICS Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+rotten		<-->	adjective++C2	[230111][001]	./ˈrɒtn/-NAmE /ˈrɑːtn/
+	;thui, thối rữa -- (1) (of food, wood, etc.) that has decayed and cannot be eaten or used
+		;the smell of rotten vegetables
+		;The fruit is starting to go rotten.
+		;rotten floorboards
+		;Extra Examples:
+		;That meat's going to go rotten if you don't use it soon.
+		;The wood was quite rotten by this time.
+		;They pelted him with rotten eggs.
 	; -- (2) 
 	; -- (3) 
+	;có bệnh -- (4) [not before noun] (informal) looking or feeling ill
+		;She felt rotten.
+		;This flu makes you feel rotten.
+		;TOPICS Health problemsC2
 
 
 
@@ -6148,108 +7200,65 @@ rheumatism		<-->	noun++C2[-0]	.
 
 
 
-rickets		<-->	noun++C2[-0]	.
-	; -- (1) 
+RSI		<-->	noun++C2	[230111][001]	./ˌɑːr es ˈaɪ/-NAmE /ˌɑːr es ˈaɪ/ [uncountable]
+	;vết phòng -- (1) pain and swelling, especially in the arms and hands, caused by performing the same movement many times in a job or an activity (the abbreviation for ‘repetitive strain injury’ or ‘repetitive stress injury’)
+		;The spread of computers in offices has led to a rise in cases of RSI.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+rubella		<-->	noun++C2	[230111][001]	./ruːˈbelə/-NAmE /ruːˈbelə/ (also German measles) [uncountable]
+	;khuẩn rubella gây đau họng và đốm đỏ da -- (1) a mild disease that causes a sore throat (= a painful throat because of an infection) and red spots all over the body. It can seriously affect babies born to women who catch it soon after they become pregnant.
+		;TOPICS Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+run-down		<-->	adjective++C2	[230111][001]	./ˌrʌn ˈdaʊn/-NAmE /ˌrʌn ˈdaʊn/
+	;xuống cấp -- (1) (of a building or place) in very bad condition; that has not been taken care of
+		;SYNONYM neglected
+		;<< neglected, run-down, >>
+		;run-down inner-city areas
+		;a rather run-down part of town
+		;TOPICS BuildingsC2
+	; -- (2) 
+	;xuống sức, muốn bệnh -- (3) [not before noun] (of a person) tired or slightly ill, especially from working hard
+		;to be run-down
+		;She got very run-down working such long hours.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+
+rupture		<-->	noun++C2	[230111][001]	./ˈrʌptʃə(r)/-NAmE /ˈrʌptʃər/\ [countable, uncountable]
+	;vỡ tĩnh mạch, vỡ nội tạng -- (1) (medical) an injury in which something inside the body breaks apart or bursts (= explodes)
+		;the rupture of a blood vessel
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-ropy		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-rosacea		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-rotten		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-RSI		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-rubella		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-run-down		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-rupture		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;sư tan vỡ quan hệ tốt đẹp -- (4) (formal) the ending of agreement or of good relations between people, countries, etc.
+		;a rupture in relations between the two countries
+		;Nothing could heal the rupture with his father.
+		;TOPICS Discussion and agreementC2
+		;Word Origin
 
 
 
@@ -6275,10 +7284,16 @@ rupture		<-->	verb++C2	[221109][001]	./ˈrʌptʃə(r)/-NAmE /ˈrʌptʃər/\
 
 
 
-salmonella		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+salmonella		<-->	noun++C2	[230111][001]	./ˌsælməˈnelə/-NAmE /ˌsælməˈnelə/ [uncountable]
+	;khuẩn đường ruột  salmonella -- (1) a type of bacteria that makes people sick if they eat food that contains it; an illness caused by this bacteria
+		;cases of salmonella poisoning
+		;an outbreak of salmonella
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;Salmonella is used before these nouns:
+				;outbreak
+		;See full entry
+		;Word Origin
 
 
 
@@ -6288,12 +7303,15 @@ salmonella		<-->	noun++C2[-0]	.
 
 
 
-
-SARS		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+SARS		<-->	noun++C2	[230113][001]	./sɑːz/
+ /sɑːrz/ [uncountable]
+	;SEVERE ACUTE hô hấp SYNDROME -- (1) an illness that is easily spread from person to person, which affects the lungs and can sometimes cause death (the abbreviation for ‘severe acute respiratory syndrome’)
+		;No new SARS cases have been reported in the region.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;SARS is used before these nouns:
+				;case
+		;See full entry
 
 
 
@@ -6317,8 +7335,9 @@ SARS-CoV-2		<-->	noun++C2[-0]	.
 
 
 
-scab		<-->	noun++C2[-0]	.
-	; -- (1) 
+scab		<-->	noun++C2	[230111][001]	./skæb/-NAmE /skæb/
+	;vảy -- (1) [countable] a hard dry layer that forms over and covers a wound on the skin as it gets better
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -6348,8 +7367,45 @@ scald		<-->	verb++C2	[221109][001]	./skɔːld/-NAmE /skɔːld/
 
 
 
-scald		<-->	noun++C2[-0]	.
-	; -- (1) 
+scald		<-->	noun++C2	[230111][001]	./skɔːld/-NAmE /skɔːld/
+	;đốt cháy -- (1) scald something/yourself to burn yourself or part of your body with very hot liquid or steam
+		;Be careful not to scald yourself with the steam.
+		;(figurative) Tears scalded her eyes.
+		;<< burn: char, scald, scorch, singe, burn, >>
+		;Synonyms burn: char, scald, scorch, singe, burn, 
+		;Collocations Injuries
+		;TOPICS Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+scar		<-->	noun++C1	[230110][001]	./skɑː(r)/-NAmE /skɑːr/
+	;vết sẹo -- (1) a mark that is left on the skin after a wound has got better
+		;a scar on his cheek
+		;Will the operation leave a scar?
+		;scar tissue
+		;Extra Examples:
+		;She had a long scar running down her face.
+		;The cut left a permanent scar on his arm.
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;deeplargelong…
+				;verb + scar
+				;leavebearexpose…
+				;scar + verb
+				;remainformfade…
+				;scar + noun
+				;tissue
+				;preposition
+				;scar on
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -6361,22 +7417,19 @@ scald		<-->	noun++C2[-0]	.
 
 
 
-
-scar		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-scar		<-->	verb++C1[-0]	.
-	; -- (1) 
+scar		<-->	verb++C1	[230110][001]	./skɑː(r)/-NAmE /skɑːr/ [usually passive]
+	;để lại sẹo -- (1) (of a wound, etc.) to leave a mark on the skin after it has got better
+		;be/leave somebody scarred His face was badly scarred.
+		;The accident left him permanently scarred.
+		;TOPICS Health problemsC1
+				;Oxford Collocations Dictionary
+				;adverb
+				;badlydeeplyheavily…
+				;preposition
+				;with
+				;phrases
+				;be scarred for lifeleave somebody scarred
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -6428,7 +7481,161 @@ scrape		<-->	verb++C2	[221109][001]	./skreɪp/-NAmE /skreɪp/
 
 
 
-scrapie		<-->	noun++C2[-0]	.
+scrapie		<-->	noun++C2	[230110][001]	./ˈskreɪpi/-NAmE /ˈskreɪpi/ [uncountable]
+	;bệnh thần kinh của cừu ??? -- (1) a serious disease that affects the nervous system of sheep
+		;TOPICS Health problemsC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+scratch		<-->	verb++B2	[230110][001]	./cef/
+	;cào, cấu -- (1) [-rub with your nails] [transitive, intraansitive] to rub your skin with your nails, usually because it is itching
+		;scratch something John yawned and scratched his chin.
+		;scratch (yourself) The dog scratched itself behind the ear.
+		;Try not to scratch.
+		;scratch at something She scratched at the insect bites on her arm.
+		;He absently scratched his head.
+		;He kept scratching at his nose.
+		;He scratched at his beard for a few seconds.
+			;Oxford Collocations Dictionary
+			;adverb
+				;badly, absentlylightly…
+			;preposition
+				;atonwith…
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+scratch		<-->	noun++B2	[230110][001]	./cef/
+	;vết càu -- (1) [-mark/cut] [countable] a mark, a cut or an injury made by scratching somebody’s skin or the surface of something
+		;Her hands were covered in scratches from the brambles.
+		;a scratch on the paintwork
+		;It's only a scratch (= a very slight injury).
+		;without a scratch He escaped without a scratch (= was not hurt at all).
+		;I've got some nasty scratches on my legs.
+		;Powdered cleansers will leave scratches on the glass.
+		;TOPICS Health problemsB2
+			;Oxford Collocations Dictionary
+			;adjective
+				;deeplong, nasty…
+			;verb + scratch
+				;havegetleave…
+				;scratch + noun
+				;mark
+			;preposition
+				;without a scratch
+
+
+
+
+
+
+
+
+
+seasick		<-->	adjective++B1	[230110][001]	./ˈsiːsɪk/-NAmE /ˈsiːsɪk/ [not usually before noun]
+	;say sóng -- (1) feeling sick or wanting to vomit when you are travelling on a boat or ship
+		;to be/feel/get seasick
+		;TOPICS Transport by waterB1, Health problemsB1
+
+
+
+
+
+
+
+
+seasickness		<-->	noun++B2	[230110][001]	./ˈsiːsɪknəs/-NAmE /ˈsiːsɪknəs/ [uncountable]
+	;cảm giác say tàu xe -- (1) a feeling that you are going to vomit caused by travelling on a boat or ship
+		;to suffer from seasickness
+		;TOPICS Health problemsB2, Transport by waterB2
+
+
+
+
+
+
+
+
+
+second-degree		<-->	adjective++C2	[230110][001]	./ˌsekənd dɪˈɡriː/-NAmE /ˌsekənd dɪˈɡriː/ [only before noun]
+	;cấp độ -- (1) ​second-degree murder, assault, burglary, etc. (especially North American English) murder, etc. that is less serious than first-degree crimes
+	;phỏng cấp độ hai -- (2) second-degree burns burns of the second most serious of three kinds, causing blisters but no permanent marks
+		;TOPICS Health problemsC2
+		;COMPARE first-degree, third-degree
+
+
+
+
+
+
+
+
+
+
+
+seizure		<-->	noun++C2	[230110][001]	./ˈsiːʒə(r)/-NAmE /ˈsiːʒər/
+	;sự tịch thu -- (1) [uncountable, countable] seizure (of something) the use of legal authority to take something from somebody; an amount of something that is taken in this way
+		;The court ordered the seizure of his assets.
+		;the largest ever seizure of cocaine at a British port
+		;The Act confers powers of entry, search and seizure on the police.
+		;TOPICS Law and justiceC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;biggestlargestdrug…
+				;verb + seizure
+				;make
+				;phrases
+				;search and seizure
+		;See full entry
+	; -- (2) 
+	;cơn động kinh -- (3) [countable] (old-fashioned) a sudden attack of an illness, especially one that affects the brain
+		;to have/suffer an epileptic seizure
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+
+septic		<-->	adjective++C2	[230110][001]	./ˈseptɪk/-NAmE /ˈseptɪk/
+	;dơ bẩn, có vi khuẩn -- (1) (of a wound or part of the body) containing harmful bacteria that cause infection
+		;a septic finger
+		;A dirty cut may go septic.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;Septic is used with these nouns:
+				;tank
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+serious		<-->	adjective++A2	[230110][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6442,8 +7649,28 @@ scrapie		<-->	noun++C2[-0]	.
 
 
 
-scratch		<-->	verb++B2[-0]	.
-	; -- (1) 
+severe		<-->	adjective++B2	[230110][001]	./cef/
+	;rất tệ, nghiêm trọng -- (1) [-very bad] extremely bad or serious
+		;His injuries are severe.
+		;severe pain/depression/asthma
+		;a severe illness/disease
+		;severe weather/storms
+		;a severe winter (= one during which the weather conditions are extremely bad)
+		;The fire has caused severe damage to the building.
+		;The victim suffered severe brain damage.
+		;a severe shortage of qualified staff
+		;The party suffered severe losses during the last election.
+		;severe symptoms
+		;a severe case of woodworm
+		;Strikes are causing severe disruption to all train services.
+		;If the pain becomes severe, you may wish to contact a doctor.
+		;TOPICS Health problemsB2
+			;Oxford Collocations Dictionary
+				;women affected by mild to moderately severe symptoms
+				;an exceptionally severe frost
+				;A severe storm blew the ship off course.
+				;Priority will be given to those at risk of developing severe symptoms if they contract Covid-19.
+				;The sector is suffering from chronic underfunding and severe staffing shortages.
 	; -- (2) 
 	; -- (3) 
 
@@ -6456,8 +7683,12 @@ scratch		<-->	verb++B2[-0]	.
 
 
 
-scratch		<-->	noun++B2[-0]	.
-	; -- (1) 
+severely		<-->	adverb++B2	[230110][001]	./cef/
+	;rất nghiêm trọng -- (1) very badly or seriously
+		;severely injured
+		;areas severely affected by unemployment
+		;The crops were severely damaged.
+		;TOPICS Health problemsB2
 	; -- (2) 
 	; -- (3) 
 
@@ -6470,9 +7701,11 @@ scratch		<-->	noun++B2[-0]	.
 
 
 
-seasick		<-->	adjective++B1[-0]	.
+shake		<-->	noun++C1	[230110][001]	./cef/
 	; -- (1) 
-	; -- (2) 
+	;run, co giật -- [b1-C1] (2) [-of body] the shakes [plural] (infoormal) a physical condition in which you cannot stop your body from shaking because of fear, illness, or because you have drunk too much alcohol
+		;I always get the shakes before exams.
+		;TOPICS Health problemsC1
 	; -- (3) 
 
 
@@ -6483,121 +7716,49 @@ seasick		<-->	adjective++B1[-0]	.
 
 
 
-seasickness		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-second-degree		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-seizure		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-septic		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-serious		<-->	adjective++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-severe		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-severely		<-->	adverb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-shake		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-shaky		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+shaky		<-->	adjective++C2	[230110][001]	./ˈʃeɪki/-NAmE /ˈʃeɪki/ (comparative shakier, superlative shakiest)
+	;run rẩy -- (1) shaking and feeling weak, for example because you are ill or feel emotional
+		;SYNONYM unsteady
+		;<< unsteady, unsteady, >>
+		;Her voice sounded shaky on the phone.
+		;The virus left him shaky on his feet.
+		;My legs still felt quite shaky.
+		;Extra Examples:
+		;The experience had left him rather shaky.
+		;You've gone all shaky!
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeelseem…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;with
+		;See full entry
+	;lung lay -- (2) not stable, steady or safe; not certain
+		;That ladder looks a little shaky.
+		;(figurative) Her memories of the accident are a little shaky.
+		;(figurative) The protesters are on shaky ground (= it is not certain that their claims are valid).
+		;TOPICS Doubt, guessing and certaintyC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;extremelyfairlyvery…
+		;See full entry
+	;thiếu chắc chắc -- (3) not seeming very successful; likely to fail
+		;SYNONYM uncertain
+		;<< uncertain, shaky, >>
+		;Business is looking shaky at the moment.
+		;After a shaky start, they fought back to win 3–2.
+		;The future looks shaky for the present government.
+		;TOPICS Difficulty and failureC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;extremelyfairlyvery…
+		;See full entry
 
 
 
@@ -6640,10 +7801,27 @@ shield		<-->	verb++C2	[221109][001]	./ʃiːld/-NAmE /ʃiːld/\
 
 
 
-shiver		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+shiver		<-->	verb++C1	[230110][001]	./ˈʃɪvə(r)/-NAmE /ˈʃɪvər/ [intransitive]
+	;rùng mình -- (1) (of a person) to shake slightly because you are cold, frightened, excited, etc.
+		;Don't stand outside shivering—come inside and get warm!
+		;He shivered at the thought of the cold, dark sea.
+		;shiver with something to shiver with cold/fear/excitement/pleasure
+		;Extra Examples:
+		;His cruel and callous comments made me shiver.
+		;I was shivering with cold.
+		;She shivered involuntarily as he approached her.
+		;TOPICS FeelingsC1, Health problemsC1
+				;Oxford Collocations Dictionary
+				;adverb
+				;uncontrollablyviolentlya little…
+				;verb + shiver
+				;begin tostart tomake somebody…
+				;preposition
+				;atfromin…
+				;phrases
+				;shiver at the thought (of something)
+		;See full entry
+		;Word Origin
 
 
 
@@ -6652,65 +7830,30 @@ shiver		<-->	verb++C1[-0]	.
 
 
 
-
-shiver		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-shivery		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-shock		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-shortness		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-short-winded		<-->	adjective++C2[-0]	.
-	; -- (1) 
+shiver		<-->	noun++C2	[230110][001]	./ˈʃɪvə(r)/-NAmE /ˈʃɪvər/
+	;sự rùng mình -- (1) [countable] a sudden shaking movement of your body because you are cold, frightened, excited, etc.
+		;The sound of his voice sent shivers down her spine.
+		;He felt a cold shiver of fear run through him.
+		;She gave a little shiver as she walked into the cold room.
+		;Extra Examples:
+		;A shiver passed through his whole body.
+		;A shiver of unease ran through the audience.
+		;He felt a shiver of excitement.
+		;She tried to suppress a shiver of anticipation.
+		;a delicious shiver of pleasure
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;littleslightsmall…
+				;verb + shiver
+				;givefeelsend…
+				;shiver + verb
+				;gopassrun…
+				;preposition
+				;with a shivershiver of
+				;phrases
+				;get the shiversgive somebody the shiverssend shivers down somebody’s spine…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -6723,11 +7866,77 @@ short-winded		<-->	adjective++C2[-0]	.
 
 
 
-shut-in		<-->	noun++C2[-0]	.
+shivery		<-->	adjective++C2	[230110][001]	./ˈʃɪvəri/-NAmE /ˈʃɪvəri/
+	;run, rùng mình -- (1) shaking with cold, fear, illness, etc.
+		;She felt sick and shivery.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+shock		<-->	noun++B2	[230110][001]	./cef/
 	; -- (1) 
-	; -- (2) 
+	;ngất do mất máu -- (2) [-medical] [uncoountable] a serious medical condition, usually the result of injury in which a person has lost a lot of blood and they are extremely weak
+		;Many passengers were treated for shock.
+		;She was taken to hospital suffering from shock.
+		;in shock Others seemed in shock, waiting to be told what to do next.
+		;He isn’t seriously injured but he is in a state of shock.
+		;He had gone into shock and was shaking violently.
+		;SEE ALSO shell shock, toxic shock syndrome
+		;TOPICS Health problemsB2
+			;Oxford Collocations Dictionary
+			;adjective
+				;deepseveremild…
+			;verb + shock
+				;be inbe suffering fromsuffer…
 	; -- (3) 
 
+
+
+
+
+
+
+
+
+
+shortness		<-->	noun++C2	[230110][001]	./ˈʃɔːtnəs/-NAmE /ˈʃɔːrtnəs/ [uncountable]
+	;tính ngắn -- (1) the fact of being short in length or height
+		;Readers may be disappointed by the shortness of the book.
+		;Historians often mention his shortness of stature.
+	;sự khó thở, thở ngắn, thở hổn hển -- (2) shortness of breath difficulty breathing, for example because of illness
+		;She suffered from shortness of breath.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+short-winded		<-->	adjective++C2	[230110][001]	./ˌʃɔːt ˈwɪndɪd/-NAmE /ˌʃɔːrt ˈwɪndɪd/
+	;khó thở do mệt từ tập thể dục -- (1) (of a person) having difficulty breathing after exercise or physical effort
+		;TOPICS Health and FitnessC2, Health problemsC2
+
+
+
+
+
+
+
+
+
+shut-in		<-->	noun++C2	[230110][001]	./ˈʃʌt ɪn/-NAmE /ˈʃʌt ɪn/ (North American English)
+	;người bệnh nằm nhà -- (1) a person who cannot leave their home very easily because they are ill or disabled
+		;He worked as a volunteer, delivering hot meals to shut-ins.
+		;TOPICS Health problemsC2
 
 
 
@@ -6768,8 +7977,10 @@ sicken		<-->	verb++C2	[221109][001]	./ˈsɪkən/-NAmE /ˈsɪkən/ (British Engli
 
 
 
-sickly		<-->	adjective++C2[-0]	.
-	; -- (1) 
+sickly		<-->	adjective++C2	[230110][001]	./ˈsɪkli/-NAmE /ˈsɪkli/ (comparative sicklier, superlative sickliest)
+	;ốm yếu -- (1) often ill
+		;He was a sickly child.
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -6782,8 +7993,44 @@ sickly		<-->	adjective++C2[-0]	.
 
 
 
-sickness		<-->	noun++B2[-0]	.
-	; -- (1) 
+sickness		<-->	noun++B2	[230110][001]	./ˈsɪknəs/-NAmE /ˈsɪknəs/
+	;bệnh -- (1) [uncountable] illness; bad health
+		;She's been off work because of sickness.
+		;insurance against sickness and unemployment
+		;Synonyms illness
+		;Extra Examples:
+		;Staff sickness rates are at record levels.
+		;The Personnel Department keeps a record of employees absent through sickness.
+		;The policy includes long-term sickness cover.
+		;TOPICS Health problemsB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;chroniclonglong-term…
+				;verb + sickness
+				;feign
+				;sickness + noun
+				;absencebenefitcover…
+				;preposition
+				;due to sicknessowing to sicknessthrough sickness…
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+	;cảm giác thất vọng, mệt mỏi -- (4) [singular] a feeling of being very sad, disappointed or full of horror
+		;He felt a sickness rise in him at the thought of leaving.
+		;TOPICS FeelingsC2
+
+
+
+
+
+
+
+
+
+
+slipped disc		<-->	noun++C2	[230110][001]	./ˌslɪpt ˈdɪsk/-NAmE /ˌslɪpt ˈdɪsk/
+	;bệnh trật khớp -- (1) a painful condition caused when one of the discs between the bones of the spine in a person’s back moves out of place
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -6796,8 +8043,22 @@ sickness		<-->	noun++B2[-0]	.
 
 
 
-slipped disc		<-->	noun++C2[-0]	.
-	; -- (1) 
+smallpox		<-->	noun++C2	[230110][001]	./ˈsmɔːlpɒks/-NAmE /ˈsmɔːlpɑːks/ [uncountable]
+	;bệnh đậu mùa -- (1) ​(in the past) a serious disease that caused a high temperature, left permanent marks on the skin and often caused death
+		;In 1742 he suffered a fatal attack of smallpox.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;… of smallpox
+				;attackcaseoutbreak…
+				;verb + smallpox
+				;havebe infected withcatch…
+				;smallpox + noun
+				;virusepidemicoutbreak…
+				;preposition
+				;against smallpoxfor smallpoxfrom smallpox…
+				;phrases
+				;the eradication of smallpox
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -6810,8 +8071,26 @@ slipped disc		<-->	noun++C2[-0]	.
 
 
 
-smallpox		<-->	noun++C2[-0]	.
-	; -- (1) 
+sneeze		<-->	verb++B2	[230110][001]	./sniːz/-NAmE /sniːz/\ [intransitive]
+	;hắt hơi, nhảy mũi -- (1) to have air come suddenly and noisily out through your nose and mouth in a way that you cannot control, for example because you have a cold
+		;I've been sneezing all morning.
+		;Extra Examples:
+		;She suddenly felt the urge to sneeze.
+		;Someone sneezed loudly at the back of the hall.
+		;The smoke reached her and made her sneeze.
+		;Viruses can be spread through coughing and sneezing.
+		;TOPICS Health problemsB2
+				;Oxford Collocations Dictionary
+				;adverb
+				;loudlyviolentlyuncontrollably…
+				;verb + sneeze
+				;cause somebody tomake somebody
+				;preposition
+				;on
+				;phrases
+				;coughing and sneezingthe urge to sneeze
+		;See full entry
+		;Word Origin
 	; -- (2) 
 	; -- (3) 
 
@@ -6824,8 +8103,12 @@ smallpox		<-->	noun++C2[-0]	.
 
 
 
-sneeze		<-->	verb++B2[-0]	.
-	; -- (1) 
+sneeze		<-->	noun++B2	[230110][001]	./sniːz/-NAmE /sniːz/
+	;việc nhảy mũi -- (1) the act of sneezing or the noise you make when you sneeze
+		;coughs and sneezes
+		;She gave a violent sneeze.
+		;TOPICS Health problemsB2
+		;Word Origin
 	; -- (2) 
 	; -- (3) 
 
@@ -6838,8 +8121,159 @@ sneeze		<-->	verb++B2[-0]	.
 
 
 
-sneeze		<-->	noun++B2[-0]	.
-	; -- (1) 
+snow-blind		<-->	adjective++C2	[230110][001]	./ˈsnəʊ blaɪnd/-NAmE /ˈsnəʊ blaɪnd/
+	;không thấy do tuyết rơi nhiều -- (1) unable to see because of the light reflected from a large area of snow
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+snow-blindness		<-->	noun++C2	[230110][001]	./ˈsnəʊ blaɪndnəs/-NAmE /ˈsnəʊ blaɪndnəs/ [uncountable]
+	;tình trạng không thấy do nhiều tuyết -- (1) the condition of being unable to see because of the light reflected from a large area of snow
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+sober		<-->	adjective++C2	[230110][001]	./ˈsəʊbə(r)/-NAmE /ˈsəʊbər/
+	;tỉnh táo -- (1) [not usually before noun] not drunk (= not affected by alcohol)
+		;I stayed sober so I could drive us home.
+		;He was as sober as a judge (= completely sober).
+		;Extra Examples:
+		;By this time he felt more or less sober again.
+		;We'll talk about this tomorrow when you're sober.
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;completelyentirelyperfectly…
+				;phrases
+				;clean and sober
+		;See full entry
+	;tỉnh táo, không có rượu trong cơ thể -- (2) having completely stopped drinking alcohol, especially after being an alcoholic (= somebody who regularly drinks too much alcohol and cannot stop)
+		;to get/stay sober
+		;Extra Examples:
+		;I've been clean and sober for four years.
+		;There is help for you out there if you want to get sober.
+		;He is really committed to staying sober.
+		;Only the thought of her kept him sober.
+		;TOPICS Social issuesC2, Health problemsC2
+	; -- (3) 
+	;không sáng -- (4) (of colours or clothes) plain and not bright
+		;a sober grey suit
+		;TOPICS Clothes and FashionC2
+
+
+
+
+
+
+
+
+
+
+sobriety		<-->	noun++C2	[230110][001]	./səˈbraɪəti/-NAmE /səˈbraɪəti/ [uncountable] (formal)
+	;tình trạng cai rượu -- (1) the state of not being drunk
+		;I can assure you I'm in a state of complete sobriety.
+		;OPPOSITE insobriety
+	;tình trạng cai rượu -- (2) the condition of having completely stopped drinking alcohol, especially after being an alcoholic (= somebody who regularly drinks too much alcohol and cannot stop)
+		;He's celebrating 12 months of sobriety.
+		;It's been a long hard road to sobriety for her.
+		;TOPICS Social issuesC2, Health problemsC2
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+sore		<-->	adjective++C2	[230110][001]	./sɔː(r)/-NAmE /sɔːr/
+	;sưng đỏ -- (1) if a part of your body is sore, it is painful, and often red, especially because of infection or because a muscle has been used too much
+		;to have a sore throat
+		;His feet were sore after the walk.
+		;My stomach is still sore (= painful) after the operation.
+		;When I woke up my head was sore and throbbing.
+		;Homophones soar | sore
+		;Synonyms painful
+		;Wordfinder: bandagebleedbruisefracturehurtinjuryplastersoreswellwound
+		;SEE ALSO saddle sore
+		;TOPICS Health problemsB1
+	;bực mình -- (2) [not before noun] sore (at somebody/about something) (especially North American English, informal) upset and angry, especially because you have been treated unfairly
+		;SYNONYM annoyed
+		;He was still sore at me for telling him he couldn't sing.
+		;TOPICS FeelingsC2
+
+
+
+
+
+
+
+
+
+sore		<-->	noun++C2	[230110][001]	./sɔː(r)/-NAmE /sɔːr/\
+	;vết sưng đỏ -- (1) a painful, often red, place on your body where there is a wound or an infection
+		;The illness left them with open sores all over their backs.
+		;SYNONYM wound1
+		;open sores
+		;SEE ALSO bedsore, canker sore, cold sore, running sore
+		;Extra Examples:
+		;The patient developed pressure sores on the toes of both feet.
+		;(figurative) This issue is a festering sore between the two countries.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;festeringoozingopen…
+				;verb + sore
+				;causedevelopget…
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+spasm		<-->	noun++C2	[230110][001]	./ˈspæzəm/-NAmE /ˈspæzəm/
+	;bệnh động kinh -- (1) [countable, uncountable] a sudden and often painful contracting of a muscle, which you cannot control
+		;Cholera reduces heartbeat and causes muscle spasms.
+		;The injection sent his leg into spasm.
+		;Extra Examples:
+		;He suffered a back spasm while playing football.
+		;She could not speak; her throat was in spasm.
+		;The muscle goes into spasm, producing the symptom of cramp.
+		;involuntary spasms of the nervous system
+		;His face went into a spasm of nervous twitches.
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;suddeninvoluntaryuncontrollable…
+				;verb + spasm
+				;experiencefeelsuffer…
+				;spasm + verb
+				;passstop
+				;preposition
+				;in spasmspasm of
+				;phrases
+				;a spasm of pain
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -6852,8 +8286,61 @@ sneeze		<-->	noun++B2[-0]	.
 
 
 
-snow-blind		<-->	adjective++C2[-0]	.
+splitting		<-->	adjective++C2	[230110][001]	./ˈsplɪtɪŋ/-NAmE /ˈsplɪtɪŋ/ [only before noun]
+	;đau như bể đầu, búa bổ -- (1) if you have a splitting headache, you have a very bad pain in your head
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;Splitting is used with these nouns:
+				;headache
+		;See full entry
+
+
+
+
+
+
+
+
+
+spot		<-->	noun++B1	[230110][001]	./cef/
 	; -- (1) 
+	;đốm -- (2) [usually plural] a small mark or lump on a person’s skin, sometimes with a yellow head to it
+		;The baby's whole body was covered in small red spots.
+		;He had a large spot on his nose.
+		;The aim of acne treatments is to shorten the length of time someone has spots.
+		;(British English) teenagers worried about their spots
+		;The children all had measles, and had broken out in spots.
+		;enlarged pores and spots on the skin
+		;COMPARE pimple, rash, zit
+		;TOPICS Health problemsB1, AppearanceB1
+			;Oxford Collocations Dictionary
+			;adjective
+				;beautyliver
+			;verb + spot
+				;break out inscratchsqueeze…
+		;See full entry
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+sprain		<-->	verb++B2	[230110][001]	./spreɪn/-NAmE /spreɪn/
+	;làm trật khớp -- (1) sprain something to injure a joint in your body, especially your wrist or ankle, by suddenly twisting it
+		;I stumbled and sprained my ankle.
+		;Collocations Injuries
+		;Synonyms injure: wound, hurt, bruise, sprain, pull, strain, injure, 
+		;<< injure: wound, hurt, bruise, sprain, pull, strain, injure, >>
+		;TOPICS Health problemsB2
+				;Oxford Collocations Dictionary
+				;Sprain is used with these nouns as the object:
+				;anklekneeligament…
+		;See full entry
+		;Word Origin
 	; -- (2) 
 	; -- (3) 
 
@@ -6866,8 +8353,74 @@ snow-blind		<-->	adjective++C2[-0]	.
 
 
 
-snow-blindness		<-->	noun++C2[-0]	.
-	; -- (1) 
+sprain		<-->	noun++B2	[230110][001]	./spreɪn/-NAmE /spreɪn/
+	;bệnh đau khớp, trật khớp -- (1) an injury to a joint in your body, especially your wrist or ankle, caused by suddenly twisting it
+		;a bad ankle sprain
+		;TOPICS Health problemsB2
+
+
+
+
+
+
+
+
+
+spread		<-->	verb++B1	[230110][001]	./cef/
+	;lan toả, lây lan -- (1) [-among people] [intraansitive, transitive] to affect or make something affect, be known by, or be used by more and more people
+		;The news had spread and was causing great excitement.
+		;+ adv./prep. Use of computers spread rapidly during that period. 
+		;[ap: spread]
+		;Within weeks, his confidence had spread throughout the team.
+		;The disease spreads easily.
+		;The idea spread quickly in the years that followed.
+		;spread something Someone's been spreading rumours about you.
+		;He's using his rap music to spread the message that violence is wrong.
+		;The disease is spread by mosquitoes.
+		;The virus is primarily spread from person to person through coughing and sneezing.
+		;The depression started in the US and spread quickly throughout the world.
+		;Wordfinder: bacteria, disease, epidemic, fever, illness, immunity, infection, spread, vaccinate, virus,
+		;Extra Examples:
+		;His fame had spread far and wide.
+		;The disease can be spread by contact.
+		;I wish he would stop spreading lies about me.
+		;The effects of this policy spread far beyond children now at school.
+		;TOPICS Health problemsB1
+			;Oxford Collocations Dictionary
+			;adverb
+				;fastlike wildfirequickly…
+			;preposition
+				;(all) acrossamongaround…
+			;phrases
+				;be thinly spreadspread yourself too thin
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+the walking wounded		<-->	noun++C2	[230110][001]	./ðə ˌwɔːkɪŋ ˈwuːndɪd/-NAmE /ðə ˌwɔːkɪŋ ˈwuːndɪd/ [plural]
+	;bị thương nhưng đi được -- (1) people who have been injured in a battle or an accident but who are still able to walk
+		;The walking wounded were treated at the scene of the crash.
+		;TOPICS Health problemsC2
+
+
+
+
+
+
+
+
+
+the common cold		<-->	noun++B2	[230110][001]	./ðə ˌkɒmən ˈkəʊld/-NAmE /ðə ˌkɑːmən ˈkəʊld/ [singular] (also more frequent cold [countable])
+	;cảm thông thường -- (1) a common illness that affects the nose and/or throat, making you cough, sneeze, etc.
+		;TOPICS Health problemsB2
 	; -- (2) 
 	; -- (3) 
 
@@ -6880,8 +8433,10 @@ snow-blindness		<-->	noun++C2[-0]	.
 
 
 
-sober		<-->	adjective++C2[-0]	.
-	; -- (1) 
+stiffness		<-->	noun++C2	[230110][001]	./ˈstɪfnəs/-NAmE /ˈstɪfnəs/ [uncountable]
+	;sự căng cơ -- (1) difficulty in moving because of pain in your muscles
+		;pain and stiffness in her legs
+		;TOPICS Health problemsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -6894,9 +8449,21 @@ sober		<-->	adjective++C2[-0]	.
 
 
 
-sobriety		<-->	noun++C2[-0]	.
-	; -- (1) 
+sting		<-->	verb++B2	[230110][001]	./stɪŋ/-NAmE /stɪŋ/\
+	;chích -- (1) [transitive, intransitive] sting (somebody/something) (of an insect or plant) to touch your skin or make a very small hole in it so that you feel a sharp pain
+		;I was stung on the arm by a wasp.
+		;Be careful of the nettles—they sting!
+		;TOPICS Health problemsB2, Insects, worms, etc.B2
 	; -- (2) 
+	;châm chích chọc ghẹo -- (3) ​[transitive] to make somebody feel angry or upset
+		;sting somebody He was stung by their criticism.
+		;They launched a stinging attack on the government.
+		;sting somebody to/into something Their cruel remarks stung her into action.
+		;sting somebody into doing something He was stung into answering in his defence.
+		;Extra Examples:
+		;He was stung into making a cheap retort.
+		;Taunts from the fans stung him into his best performance of the season.
+		;TOPICS FeelingsC2
 	; -- (3) 
 
 
@@ -6908,175 +8475,30 @@ sobriety		<-->	noun++C2[-0]	.
 
 
 
-sore		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-sore		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-spasm		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-splitting		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-spot		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-sprain		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-sprain		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-spre		<-->	adverb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-the walking wounded		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-the common cold		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-stiffness		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-sting		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-sting		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
+sting		<-->	noun++B2	[230110][001]	./stɪŋ/-NAmE /stɪŋ/
+	;kim chích của con trùng -- (1) (North American English also stinger) [countable] the sharp pointed part of an insect or creature that can go into the skin leaving a small, painful and sometimes poisonous wound
+		;the sting of a bee
+		;The scorpion has a sting in its tail.
+		;The scorpion has a sting that can be deadly.
+		;TOPICS Insects, worms, etc.B2
+				;Oxford Collocations Dictionary
+				;adjective
+				;nastypainfulsharp…
+				;verb + sting
+				;havegetgive somebody…
+		;See full entry
+	;vết chích bởi côn trùng -- (2) [countable] a wound that is made when an insect, a creature or a plant stings you
+		;A wasp or bee sting is painful but not necessarily serious.
+		;Extra Examples:
+		;She's allergic to bee stings.
+		;You can get a nasty sting from a jellyfish.
+		;TOPICS Health problemsB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;nastypainfulsharp…
+				;verb + sting
+				;havegetgive somebody…
+		;See full entry
 	; -- (3) 
 
 
@@ -7729,10 +9151,14 @@ tumour		<-->	noun++C1	[230108][001]	./ˈtjuːmə(r)/-NAmE /ˈtuːmər/ (US Engli
 
 
 
-turn		<-->	noun++C2[-0]	.
+turn		<-->	noun++C2	[230110][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;bệnh nhẹ -- [A1-C2] [[*]] (turn) (9) [-illness] (old-fashioned) a feeling of illness
+		;a funny turn (= a feeling that you may faint)
+		;Grandma had one of her turns.
+		;TOPICS Health problemsC2
 
 
 
