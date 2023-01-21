@@ -1,131 +1,1048 @@
-able-bodiedadjectiveC2    
-a breath of (fresh) airidiomC2
-activity trackernounC2    
-aerobicadjectiveC1    
-aerobicsnounB2    
-alive and kickingidiomC2
-anaerobicadjectiveC2    
-a/one hundred per centidiomC2
-athletenounB1    
-athleticadjectiveB2    
-beauty sleepnounC2    
-bloomnounC2    
-bloomverbC2    
-blossomverbC1    
-bouncingadjectiveC2    
-bubblenounC2    
-bubble withphrasal verbC2
-burnnounC2    
-burpeenounC2    
-cardionounC2    
-circuitnounC2    
-circuit breakernounC2    
-circuit trainingnounC2    
-circulationnounC1    
-clean-livingadjectiveC2    
-CrossFit™nounC2    
-cross trainernounC2    
-cross-trainingnounC2    
-elbow bumpnounC2    
-elbumpnounC2    
-energynounA2    
-exercisenounA1    
-exerciseverbA1    
-exercise bikenounB1    
-fineadjectiveA1    
-fitadjectiveA2    
-fitnessnounB1    
-fitness centrenounB2    
-fitness trackernounC2    
-flourishverbC1    
-foam rollernounC2    
-formnounC1    
-fresh-facedadjectiveC2    
-get (yourself) into shapeidiomC2
-glowverbC2    
-goodadjectiveA1    
-gymnounA1    
-gymnasiumnounC1    
-healthnounA1    
-health clubnounB1    
-health spanounC2    
-healthyadjectiveA1    
-heartbeatnounB2    
-heart ratenounB1    
-high-intensity interval trainingnounC2    
-HIITnounC2    
-immuneadjectiveB2    
-immunitynounC1    
-intervalnounC2    
-interval trainingnounC2    
-jogverbA2    
-jognounA2    
-joggernounB1    
-joggingnounA2    
-jumping jacknounC2    
-keep-fitnounC1    
-kettlebellnounC2    
-lock downphrasal verbC2
-mountain climbernounC2    
-non-disabledadjectiveB2    
-pantverbC2    
-pantnounC2    
-PEnounB1    
-personal trainernounC1    
-physical distancingnounC2    
-physical educationnounB1    
-physically distancedadjectiveC2    
-planknounC2    
-power walkingnounC2    
-press-upnounC1    
-puffedadjectiveC2    
-pump ironidiomC2
-punchbagnounC2    
-punching bagnounC2    
-push-upnounC1    
-radiancenounC2    
-regimennounC2    
-repnounC2    
-resistancenounC1    
-resistantadjectiveC1    
-restedadjectiveB2    
-robustadjectiveC1    
-runverbA1    
-self-carenounB2    
-short-windedadjectiveC2    
-sit-upnounC2    
-social bubblenounC2    
-social distancenounC2    
-social distancingnounC2    
-socially distancedadjectiveC2    
-spinningnounC2    
-squat thrustnounC2    
-staminanounC1    
-stepnounC1    
-strengthnounB1    
-strengthenverbB2    
-strenuousadjectiveC2    
-stretchverbB2    
-strongadjectiveA1    
-sturdyadjectiveC2    
-support bubblenounC2    
-sweatverbB2    
-Tabata™nounC2    
-thriveverbC1    
-thrive onphrasal verbC1
-thrivingadjectiveC1    
-toneverbC2    
-tonifyverbC2    
-trainverbA2    
-treadmillnounC2    
-trimadjectiveC2    
-walkverbA1    
-walkernounB1    
-walkingnounA2    
-warm-upnounC2    
-weightnounA2    
-welladjectiveA1    
-wellnessnounC2    
-work outphrasal verbA2
-workoutnounC1    
-Zumba™nounC2    
+[-] able-bodied		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] a breath of (fresh) air		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] activity tracker		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] aerobic		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] aerobics		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] alive and kicking		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] anaerobic		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] a/one hundred per cent		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] athlete		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] athletic		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] beauty sleep		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bloom		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bloom		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] blossom		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bouncing		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bubble		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bubble with		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] burn		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] burpee		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] cardio		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] circuit		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] circuit breaker		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] circuit training		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] circulation		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] clean-living		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] CrossFit™		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] cross trainer		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] cross-training		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] elbow bump		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] elbump		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] energy		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] exercise		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] exercise		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] exercise bike		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] fine		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] fit		<-->	adjective+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] fitness		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] fitness centre		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] fitness tracker		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] flourish		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] foam roller		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] form		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] fresh-faced		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] get (yourself) into shape		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] glow		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] good		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] gym		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] gymnasium		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] health		<-->	noun+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] health club		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] health spa		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] healthy		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] heartbeat		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] heart rate		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] high-intensity interval training		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] HIIT		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] immune		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] immunity		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] interval		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] interval training		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] jog		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] jog		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] jogger		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] jogging		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] jumping jack		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] keep-fit		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] kettlebell		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] lock down		<-->	phrasal veerb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] mountain climber		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] non-disabled		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pant		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pant		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] PE		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] personal trainer		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] physical distancing		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] physical education		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] physically distanced		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] plank		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] power walking		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] press-up		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] puffed		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pump iron		<-->	idiom+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] punchbag		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] punching bag		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] push-up		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] radiance		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] regimen		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] rep		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] resistance		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] resistant		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] rested		<-->	adjective+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] robust		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] run		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] self-care		<-->	noun+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] short-winded		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sit-up		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] social bubble		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] social distance		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] social distancing		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] socially distanced		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] spinning		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] squat thrust		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] stamina		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] step		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] strength		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] strengthen		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] strenuous		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] stretch		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] strong		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sturdy		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] support bubble		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sweat		<-->	verb+B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Tabata™		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] thrive		<-->	verb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] thrive on		<-->	phrasal veerb+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] thriving		<-->	adjective+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] tone		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] tonify		<-->	verb+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] train		<-->	verb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] treadmill		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] trim		<-->	adjective+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] walk		<-->	verb+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] walker		<-->	noun+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] walking		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] warm-up		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] weight		<-->	noun+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] well		<-->	adjective+A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] wellness		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] work out		<-->	phrasal veerb+A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] workout		<-->	noun+C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Zumba™		<-->	noun+C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+

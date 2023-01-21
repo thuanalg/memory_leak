@@ -1,4 +1,4 @@
-accelerate		<-->	verb+C1[-0]	.
+accelerate		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10,7 +10,7 @@ accelerate		<-->	verb+C1[-0]	.
 
 
 
-accelerator		<-->	noun+C1[-0]	.
+accelerator		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -22,7 +22,7 @@ accelerator		<-->	noun+C1[-0]	.
 
 
 
-access road		<-->	noun+C1	[221107][001]	./ˈækses rəʊd/-NAmE /ˈækses rəʊd/
+access road		<-->	noun++C1	[221107][001]	./ˈækses rəʊd/-NAmE /ˈækses rəʊd/
 	;đường rẽ -- (1) a road used for driving into or out of a particular place
 		;an access road to an industrial estate
 		;COMPARE slip road
@@ -37,7 +37,7 @@ access road		<-->	noun+C1	[221107][001]	./ˈækses rəʊd/-NAmE /ˈækses rəʊd
 
 
 
-accident		<-->	noun+A2[-0]	.
+accident		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -49,7 +49,7 @@ accident		<-->	noun+A2[-0]	.
 
 
 
-airbag		<-->	noun+C2[-0]	.
+airbag		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -61,7 +61,7 @@ airbag		<-->	noun+C2[-0]	.
 
 
 
-air-conditioned		<-->	adjective+B2[-0]	.
+air-conditioned		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -73,7 +73,7 @@ air-conditioned		<-->	adjective+B2[-0]	.
 
 
 
-air conditioning		<-->	noun+B2[-0]	.
+air conditioning		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -85,7 +85,7 @@ air conditioning		<-->	noun+B2[-0]	.
 
 
 
-all-terrain		<-->	adjective+C2[-0]	.
+all-terrain		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -97,7 +97,7 @@ all-terrain		<-->	adjective+C2[-0]	.
 
 
 
-all-wheel drive		<-->	noun+C1[-0]	.
+all-wheel drive		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -109,7 +109,7 @@ all-wheel drive		<-->	noun+C1[-0]	.
 
 
 
-ALPR		<-->	noun+C2[-0]	.
+ALPR		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -121,7 +121,7 @@ ALPR		<-->	noun+C2[-0]	.
 
 
 
-ambulance		<-->	noun+B2[-0]	.
+ambulance		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -133,7 +133,7 @@ ambulance		<-->	noun+B2[-0]	.
 
 
 
-ANPR		<-->	noun+C2[-0]	.
+ANPR		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -145,7 +145,7 @@ ANPR		<-->	noun+C2[-0]	.
 
 
 
-anti-roll bar		<-->	noun+C2[-0]	.
+anti-roll bar		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -157,7 +157,7 @@ anti-roll bar		<-->	noun+C2[-0]	.
 
 
 
-approach		<-->	noun+C1[-0]	.
+approach		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -169,7 +169,7 @@ approach		<-->	noun+C1[-0]	.
 
 
 
-armrest		<-->	noun+C2[-0]	.
+armrest		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -181,7 +181,7 @@ armrest		<-->	noun+C2[-0]	.
 
 
 
-A-road		<-->	noun+C2	[221107][001]	./ˈeɪ rəʊd/-NAmE /ˈeɪ rəʊd/
+A-road		<-->	noun++C2	[221107][001]	./ˈeɪ rəʊd/-NAmE /ˈeɪ rəʊd/
 	;đường loại A -- (1) (in the UK) a road that is less important than a motorway, but wider and straighter than a B-road
 		;TOPICS Transport by car or lorryC2
 	; -- (2) 
@@ -194,7 +194,7 @@ A-road		<-->	noun+C2	[221107][001]	./ˈeɪ rəʊd/-NAmE /ˈeɪ rəʊd/
 
 
 
-artery		<-->	noun+C2[-0]	.
+artery		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -206,7 +206,7 @@ artery		<-->	noun+C2[-0]	.
 
 
 
-articulated		<-->	adjective+C2[-0]	.
+articulated		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -218,7 +218,7 @@ articulated		<-->	adjective+C2[-0]	.
 
 
 
-asphalt		<-->	noun+C2[-0]	.
+asphalt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -230,7 +230,7 @@ asphalt		<-->	noun+C2[-0]	.
 
 
 
-assembly line		<-->	noun+C1[-0]	.
+assembly line		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -242,7 +242,7 @@ assembly line		<-->	noun+C1[-0]	.
 
 
 
-automaker		<-->	noun+C2[-0]	.
+automaker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -254,7 +254,7 @@ automaker		<-->	noun+C2[-0]	.
 
 
 
-automatic		<-->	noun+C1[-0]	.
+automatic		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -266,7 +266,7 @@ automatic		<-->	noun+C1[-0]	.
 
 
 
-automatic license plate recognition		<-->	noun+C2[-0]	.
+automatic license plate recognition		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -278,7 +278,7 @@ automatic license plate recognition		<-->	noun+C2[-0]	.
 
 
 
-automatic number plate recognition		<-->	noun+C2[-0]	.
+automatic number plate recognition		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -290,7 +290,7 @@ automatic number plate recognition		<-->	noun+C2[-0]	.
 
 
 
-automatic transmission		<-->	noun+C2[-0]	.
+automatic transmission		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -302,7 +302,7 @@ automatic transmission		<-->	noun+C2[-0]	.
 
 
 
-automobile		<-->	noun+B2[-0]	.
+automobile		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -314,7 +314,7 @@ automobile		<-->	noun+B2[-0]	.
 
 
 
-autonomous		<-->	adjective+C2[-0]	.
+autonomous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -326,7 +326,7 @@ autonomous		<-->	adjective+C2[-0]	.
 
 
 
-autorickshaw		<-->	noun+C2[-0]	.
+autorickshaw		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -338,7 +338,7 @@ autorickshaw		<-->	noun+C2[-0]	.
 
 
 
-avenue		<-->	noun+C1[-0]	.
+avenue		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -350,7 +350,7 @@ avenue		<-->	noun+C1[-0]	.
 
 
 
-axle		<-->	noun+C1[-0]	.
+axle		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -362,7 +362,7 @@ axle		<-->	noun+C1[-0]	.
 
 
 
-backfire		<-->	verb+C2[-0]	.
+backfire		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -374,7 +374,7 @@ backfire		<-->	verb+C2[-0]	.
 
 
 
-backhoe		<-->	noun+C2[-0]	.
+backhoe		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -386,7 +386,7 @@ backhoe		<-->	noun+C2[-0]	.
 
 
 
-back-seat driver		<-->	noun+C2[-0]	.
+back-seat driver		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -398,7 +398,7 @@ back-seat driver		<-->	noun+C2[-0]	.
 
 
 
-backstreet		<-->	noun+C2[-0]	.
+backstreet		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -410,7 +410,7 @@ backstreet		<-->	noun+C2[-0]	.
 
 
 
-bakkie		<-->	noun+C2[-0]	.
+bakkie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -422,7 +422,7 @@ bakkie		<-->	noun+C2[-0]	.
 
 
 
-banger		<-->	noun+C2[-0]	.
+banger		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -434,7 +434,7 @@ banger		<-->	noun+C2[-0]	.
 
 
 
-bank		<-->	noun+C1[-0]	.
+bank		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -446,7 +446,7 @@ bank		<-->	noun+C1[-0]	.
 
 
 
-battery		<-->	noun+B1[-0]	.
+battery		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -458,7 +458,7 @@ battery		<-->	noun+B1[-0]	.
 
 
 
-beach buggy		<-->	noun+C2[-0]	.
+beach buggy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -470,7 +470,7 @@ beach buggy		<-->	noun+C2[-0]	.
 
 
 
-beater		<-->	noun+C2[-0]	.
+beater		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -482,7 +482,7 @@ beater		<-->	noun+C2[-0]	.
 
 
 
-beep		<-->	noun+C1[-0]	.
+beep		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -494,7 +494,7 @@ beep		<-->	noun+C1[-0]	.
 
 
 
-beep		<-->	verb+C1[-0]	.
+beep		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -506,7 +506,7 @@ beep		<-->	verb+C1[-0]	.
 
 
 
-Belisha beacon		<-->	noun+C2[-0]	.
+Belisha beacon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -518,7 +518,7 @@ Belisha beacon		<-->	noun+C2[-0]	.
 
 
 
-beltway		<-->	noun+C2[-0]	.
+beltway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -530,7 +530,7 @@ beltway		<-->	noun+C2[-0]	.
 
 
 
-bend		<-->	noun+B1[-0]	.
+bend		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -542,7 +542,7 @@ bend		<-->	noun+B1[-0]	.
 
 
 
-bicycle		<-->	noun+A1[-0]	.
+bicycle		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -554,7 +554,7 @@ bicycle		<-->	noun+A1[-0]	.
 
 
 
-bicycle lane		<-->	noun+B2[-0]	.
+bicycle lane		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -566,7 +566,7 @@ bicycle lane		<-->	noun+B2[-0]	.
 
 
 
-bike		<-->	noun+A1[-0]	.
+bike		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -590,7 +590,7 @@ bikeverbB1[-0]	.
 
 
 
-bike lane		<-->	noun+B2[-0]	.
+bike lane		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -602,7 +602,7 @@ bike lane		<-->	noun+B2[-0]	.
 
 
 
-biker		<-->	noun+C1[-0]	.
+biker		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -614,7 +614,7 @@ biker		<-->	noun+C1[-0]	.
 
 
 
-billboard		<-->	noun+B2[-0]	.
+billboard		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -626,7 +626,7 @@ billboard		<-->	noun+B2[-0]	.
 
 
 
-bingle		<-->	noun+C2[-0]	.
+bingle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -638,7 +638,7 @@ bingle		<-->	noun+C2[-0]	.
 
 
 
-biofuel		<-->	noun+B2[-0]	.
+biofuel		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -650,7 +650,7 @@ biofuel		<-->	noun+B2[-0]	.
 
 
 
-black cab		<-->	noun+C2[-0]	.
+black cab		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -662,7 +662,7 @@ black cab		<-->	noun+C2[-0]	.
 
 
 
-black ice		<-->	noun+C2[-0]	.
+black ice		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -674,7 +674,7 @@ black ice		<-->	noun+C2[-0]	.
 
 
 
-Black Maria		<-->	noun+C2[-0]	.
+Black Maria		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -686,7 +686,7 @@ Black Maria		<-->	noun+C2[-0]	.
 
 
 
-blacktop		<-->	noun+C2[-0]	.
+blacktop		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -698,7 +698,7 @@ blacktop		<-->	noun+C2[-0]	.
 
 
 
-blind		<-->	adjective+C2[-0]	.
+blind		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -710,7 +710,7 @@ blind		<-->	adjective+C2[-0]	.
 
 
 
-blind spot		<-->	noun+C2[-0]	.
+blind spot		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -722,7 +722,7 @@ blind spot		<-->	noun+C2[-0]	.
 
 
 
-blinker		<-->	noun+C2[-0]	.
+blinker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -734,7 +734,7 @@ blinker		<-->	noun+C2[-0]	.
 
 
 
-block		<-->	noun+B1[-0]	.
+block		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -758,7 +758,7 @@ blockverbB1[-0]	.
 
 
 
-block in		<-->	phrasal verb+C2[-0]	.
+block in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -770,7 +770,7 @@ block in		<-->	phrasal verb+C2[-0]	.
 
 
 
-blowout		<-->	noun+C2[-0]	.
+blowout		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -782,7 +782,7 @@ blowout		<-->	noun+C2[-0]	.
 
 
 
-body		<-->	noun+B2[-0]	.
+body		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -794,7 +794,7 @@ body		<-->	noun+B2[-0]	.
 
 
 
-body shop		<-->	noun+C2[-0]	.
+body shop		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -806,7 +806,7 @@ body shop		<-->	noun+C2[-0]	.
 
 
 
-bodywork		<-->	noun+C2[-0]	.
+bodywork		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -818,7 +818,7 @@ bodywork		<-->	noun+C2[-0]	.
 
 
 
-bollard		<-->	noun+C2[-0]	.
+bollard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -830,7 +830,7 @@ bollard		<-->	noun+C2[-0]	.
 
 
 
-bonnet		<-->	noun+C2[-0]	.
+bonnet		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -842,7 +842,7 @@ bonnet		<-->	noun+C2[-0]	.
 
 
 
-booster seat		<-->	noun+C2[-0]	.
+booster seat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -854,7 +854,7 @@ booster seat		<-->	noun+C2[-0]	.
 
 
 
-bottleneck		<-->	noun+C2[-0]	.
+bottleneck		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -866,7 +866,7 @@ bottleneck		<-->	noun+C2[-0]	.
 
 
 
-boulevard		<-->	noun+C1[-0]	.
+boulevard		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -878,7 +878,7 @@ boulevard		<-->	noun+C1[-0]	.
 
 
 
-boy racer		<-->	noun+C2[-0]	.
+boy racer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -890,7 +890,7 @@ boy racer		<-->	noun+C2[-0]	.
 
 
 
-brake		<-->	noun+B2[-0]	.
+brake		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -914,7 +914,7 @@ brakeverbB2[-0]	.
 
 
 
-brake light		<-->	noun+B2[-0]	.
+brake light		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -926,7 +926,7 @@ brake light		<-->	noun+B2[-0]	.
 
 
 
-brake pad		<-->	noun+C2[-0]	.
+brake pad		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -938,7 +938,7 @@ brake pad		<-->	noun+C2[-0]	.
 
 
 
-branch off		<-->	phrasal verb+C2[-0]	.
+branch off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -950,7 +950,7 @@ branch off		<-->	phrasal verb+C2[-0]	.
 
 
 
-break down		<-->	phrasal verb+B1[-0]	.
+break down		<-->	phrasal verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -962,7 +962,7 @@ break down		<-->	phrasal verb+B1[-0]	.
 
 
 
-breakdown		<-->	noun+C1[-0]	.
+breakdown		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -974,7 +974,7 @@ breakdown		<-->	noun+C1[-0]	.
 
 
 
-breakdown lane		<-->	noun+C1[-0]	.
+breakdown lane		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -986,7 +986,7 @@ breakdown lane		<-->	noun+C1[-0]	.
 
 
 
-breakdown truck		<-->	noun+B2[-0]	.
+breakdown truck		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -998,7 +998,7 @@ breakdown truck		<-->	noun+B2[-0]	.
 
 
 
-breath test		<-->	noun+C2[-0]	.
+breath test		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1010,7 +1010,7 @@ breath test		<-->	noun+C2[-0]	.
 
 
 
-B-road		<-->	noun+C2	[221107][001]	./ˈbiː rəʊd/-NAmE /ˈbiː rəʊd/
+B-road		<-->	noun++C2	[221107][001]	./ˈbiː rəʊd/-NAmE /ˈbiː rəʊd/
 	;đường loại B -- (1) (in the UK) a road that is less important than an A-road and usually joins small towns and villages
 		;TOPICS Transport by car or lorryC2
 	; -- (2) 
@@ -1023,7 +1023,7 @@ B-road		<-->	noun+C2	[221107][001]	./ˈbiː rəʊd/-NAmE /ˈbiː rəʊd/
 
 
 
-bucket seat		<-->	noun+C2[-0]	.
+bucket seat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1035,7 +1035,7 @@ bucket seat		<-->	noun+C2[-0]	.
 
 
 
-buggy		<-->	noun+C1[-0]	.
+buggy		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1047,7 +1047,7 @@ buggy		<-->	noun+C1[-0]	.
 
 
 
-bulldozer		<-->	noun+C2[-0]	.
+bulldozer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1059,7 +1059,7 @@ bulldozer		<-->	noun+C2[-0]	.
 
 
 
-bump		<-->	noun+C1[-0]	.
+bump		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1071,7 +1071,7 @@ bump		<-->	noun+C1[-0]	.
 
 
 
-bumper		<-->	noun+C2[-0]	.
+bumper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1095,7 +1095,7 @@ burn rubberidiomC2[-0]	.
 
 
 
-bus		<-->	noun+A1[-0]	.
+bus		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1107,7 +1107,7 @@ bus		<-->	noun+A1[-0]	.
 
 
 
-bus lane		<-->	noun+B2[-0]	.
+bus lane		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1119,7 +1119,7 @@ bus lane		<-->	noun+B2[-0]	.
 
 
 
-bypass		<-->	noun+C1[-0]	.
+bypass		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1131,7 +1131,7 @@ bypass		<-->	noun+C1[-0]	.
 
 
 
-bypass		<-->	verb+C1[-0]	.
+bypass		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1143,7 +1143,7 @@ bypass		<-->	verb+C1[-0]	.
 
 
 
-byroad		<-->	noun+C2	[221107][001]	./ˈbaɪrəʊd/-NAmE /ˈbaɪrəʊd/
+byroad		<-->	noun++C2	[221107][001]	./ˈbaɪrəʊd/-NAmE /ˈbaɪrəʊd/
 	;đường nhỏ -- (1) a minor road
 		;TOPICS Transport by car or lorryC2
 	; -- (2) 
@@ -1156,7 +1156,7 @@ byroad		<-->	noun+C2	[221107][001]	./ˈbaɪrəʊd/-NAmE /ˈbaɪrəʊd/
 
 
 
-byway		<-->	noun+C2[-0]	.
+byway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1168,7 +1168,7 @@ byway		<-->	noun+C2[-0]	.
 
 
 
-cab		<-->	noun+B2[-0]	.
+cab		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1180,7 +1180,7 @@ cab		<-->	noun+B2[-0]	.
 
 
 
-cabby		<-->	noun+C2[-0]	.
+cabby		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1192,7 +1192,7 @@ cabby		<-->	noun+C2[-0]	.
 
 
 
-cabriolet		<-->	noun+C2[-0]	.
+cabriolet		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1204,7 +1204,7 @@ cabriolet		<-->	noun+C2[-0]	.
 
 
 
-Cadillac™		<-->	noun+C2[-0]	.
+Cadillac™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1216,7 +1216,7 @@ Cadillac™		<-->	noun+C2[-0]	.
 
 
 
-camber		<-->	noun+C2[-0]	.
+camber		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1228,7 +1228,7 @@ camber		<-->	noun+C2[-0]	.
 
 
 
-camper		<-->	noun+C1[-0]	.
+camper		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1240,7 +1240,7 @@ camper		<-->	noun+C1[-0]	.
 
 
 
-car		<-->	noun+A1[-0]	.
+car		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1252,7 +1252,7 @@ car		<-->	noun+A1[-0]	.
 
 
 
-caravan		<-->	noun+B2[-0]	.
+caravan		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1264,7 +1264,7 @@ caravan		<-->	noun+B2[-0]	.
 
 
 
-carburettor		<-->	noun+C2[-0]	.
+carburettor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1276,7 +1276,7 @@ carburettor		<-->	noun+C2[-0]	.
 
 
 
-careen		<-->	verb+C2[-0]	.
+careen		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1288,7 +1288,7 @@ careen		<-->	verb+C2[-0]	.
 
 
 
-career		<-->	verb+C2[-0]	.
+career		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1300,7 +1300,7 @@ career		<-->	verb+C2[-0]	.
 
 
 
-carjack		<-->	verb+C2[-0]	.
+carjack		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1312,7 +1312,7 @@ carjack		<-->	verb+C2[-0]	.
 
 
 
-carjacking		<-->	noun+C2[-0]	.
+carjacking		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1324,7 +1324,7 @@ carjacking		<-->	noun+C2[-0]	.
 
 
 
-car park		<-->	noun+A1[-0]	.
+car park		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1336,7 +1336,7 @@ car park		<-->	noun+A1[-0]	.
 
 
 
-car pool		<-->	noun+C2[-0]	.
+car pool		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1348,7 +1348,7 @@ car pool		<-->	noun+C2[-0]	.
 
 
 
-carriageway		<-->	noun+C2[-0]	.
+carriageway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1360,7 +1360,7 @@ carriageway		<-->	noun+C2[-0]	.
 
 
 
-car seat		<-->	noun+B1[-0]	.
+car seat		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1372,7 +1372,7 @@ car seat		<-->	noun+B1[-0]	.
 
 
 
-carsick		<-->	adjective+B1[-0]	.
+carsick		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1384,7 +1384,7 @@ carsick		<-->	adjective+B1[-0]	.
 
 
 
-carsickness		<-->	noun+B1[-0]	.
+carsickness		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1396,7 +1396,7 @@ carsickness		<-->	noun+B1[-0]	.
 
 
 
-cart		<-->	noun+B2[-0]	.
+cart		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1408,7 +1408,7 @@ cart		<-->	noun+B2[-0]	.
 
 
 
-car wash		<-->	noun+B1[-0]	.
+car wash		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1420,7 +1420,7 @@ car wash		<-->	noun+B1[-0]	.
 
 
 
-catalytic converter		<-->	noun+C2[-0]	.
+catalytic converter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1432,7 +1432,7 @@ catalytic converter		<-->	noun+C2[-0]	.
 
 
 
-Catseye™		<-->	noun+C2[-0]	.
+Catseye™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1444,7 +1444,7 @@ Catseye™		<-->	noun+C2[-0]	.
 
 
 
-cattle grid		<-->	noun+C2[-0]	.
+cattle grid		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1456,7 +1456,7 @@ cattle grid		<-->	noun+C2[-0]	.
 
 
 
-causeway		<-->	noun+C2[-0]	.
+causeway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1468,7 +1468,7 @@ causeway		<-->	noun+C2[-0]	.
 
 
 
-central locking		<-->	noun+C2[-0]	.
+central locking		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1480,7 +1480,7 @@ central locking		<-->	noun+C2[-0]	.
 
 
 
-central reservation		<-->	noun+C2[-0]	.
+central reservation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1492,7 +1492,7 @@ central reservation		<-->	noun+C2[-0]	.
 
 
 
-change down		<-->	phrasal verb+C2[-0]	.
+change down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1504,7 +1504,7 @@ change down		<-->	phrasal verb+C2[-0]	.
 
 
 
-change up		<-->	phrasal verb+C2[-0]	.
+change up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1516,7 +1516,7 @@ change up		<-->	phrasal verb+C2[-0]	.
 
 
 
-chassis		<-->	noun+C2[-0]	.
+chassis		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1528,7 +1528,7 @@ chassis		<-->	noun+C2[-0]	.
 
 
 
-chauffeur		<-->	noun+C1[-0]	.
+chauffeur		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1540,7 +1540,7 @@ chauffeur		<-->	noun+C1[-0]	.
 
 
 
-checkpoint		<-->	noun+C2[-0]	.
+checkpoint		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1552,7 +1552,7 @@ checkpoint		<-->	noun+C2[-0]	.
 
 
 
-Chelsea tractor		<-->	noun+C2[-0]	.
+Chelsea tractor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1564,7 +1564,7 @@ Chelsea tractor		<-->	noun+C2[-0]	.
 
 
 
-child restraint		<-->	noun+C2[-0]	.
+child restraint		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1576,7 +1576,7 @@ child restraint		<-->	noun+C2[-0]	.
 
 
 
-choke		<-->	noun+C2[-0]	.
+choke		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1588,7 +1588,7 @@ choke		<-->	noun+C2[-0]	.
 
 
 
-chopper		<-->	noun+C2[-0]	.
+chopper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1600,7 +1600,7 @@ chopper		<-->	noun+C2[-0]	.
 
 
 
-clamp		<-->	noun+C2[-0]	.
+clamp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1612,7 +1612,7 @@ clamp		<-->	noun+C2[-0]	.
 
 
 
-clearway		<-->	noun+C2[-0]	.
+clearway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1624,7 +1624,7 @@ clearway		<-->	noun+C2[-0]	.
 
 
 
-clock		<-->	noun+C2[-0]	.
+clock		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1636,7 +1636,7 @@ clock		<-->	noun+C2[-0]	.
 
 
 
-clock		<-->	verb+C2[-0]	.
+clock		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1648,7 +1648,7 @@ clock		<-->	verb+C2[-0]	.
 
 
 
-closure		<-->	noun+C1[-0]	.
+closure		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1660,7 +1660,7 @@ closure		<-->	noun+C1[-0]	.
 
 
 
-clunker		<-->	noun+C2[-0]	.
+clunker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1672,7 +1672,7 @@ clunker		<-->	noun+C2[-0]	.
 
 
 
-clutch		<-->	noun+C2[-0]	.
+clutch		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1684,7 +1684,7 @@ clutch		<-->	noun+C2[-0]	.
 
 
 
-coach		<-->	noun+A2[-0]	.
+coach		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1696,7 +1696,7 @@ coach		<-->	noun+A2[-0]	.
 
 
 
-coachwork		<-->	noun+C2[-0]	.
+coachwork		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1708,7 +1708,7 @@ coachwork		<-->	noun+C2[-0]	.
 
 
 
-coast		<-->	verb+C2[-0]	.
+coast		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1720,7 +1720,7 @@ coast		<-->	verb+C2[-0]	.
 
 
 
-cobbled		<-->	adjective+C2[-0]	.
+cobbled		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1732,7 +1732,7 @@ cobbled		<-->	adjective+C2[-0]	.
 
 
 
-cobbles		<-->	noun+C2[-0]	.
+cobbles		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1744,7 +1744,7 @@ cobbles		<-->	noun+C2[-0]	.
 
 
 
-collide		<-->	verb+C1[-0]	.
+collide		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1756,7 +1756,7 @@ collide		<-->	verb+C1[-0]	.
 
 
 
-collision		<-->	noun+C1[-0]	.
+collision		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1768,7 +1768,7 @@ collision		<-->	noun+C1[-0]	.
 
 
 
-combi		<-->	noun+C2[-0]	.
+combi		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1780,7 +1780,7 @@ combi		<-->	noun+C2[-0]	.
 
 
 
-combustion chamber		<-->	noun+C2[-0]	.
+combustion chamber		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1804,7 +1804,7 @@ commuteverbB1[-0]	.
 
 
 
-compact		<-->	noun+C2[-0]	.
+compact		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1816,7 +1816,7 @@ compact		<-->	noun+C2[-0]	.
 
 
 
-company car		<-->	noun+B1[-0]	.
+company car		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1828,7 +1828,7 @@ company car		<-->	noun+B1[-0]	.
 
 
 
-conductor		<-->	noun+C2[-0]	.
+conductor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1840,7 +1840,7 @@ conductor		<-->	noun+C2[-0]	.
 
 
 
-cone		<-->	noun+B2[-0]	.
+cone		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1852,7 +1852,7 @@ cone		<-->	noun+B2[-0]	.
 
 
 
-cone off		<-->	phrasal verb+C2[-0]	.
+cone off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1864,7 +1864,7 @@ cone off		<-->	phrasal verb+C2[-0]	.
 
 
 
-congestion charge		<-->	noun+C2[-0]	.
+congestion charge		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1876,7 +1876,7 @@ congestion charge		<-->	noun+C2[-0]	.
 
 
 
-congestion charging		<-->	noun+C2[-0]	.
+congestion charging		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1888,7 +1888,7 @@ congestion charging		<-->	noun+C2[-0]	.
 
 
 
-constructor		<-->	noun+C1[-0]	.
+constructor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1900,7 +1900,7 @@ constructor		<-->	noun+C1[-0]	.
 
 
 
-contraflow		<-->	noun+C2[-0]	.
+contraflow		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1912,7 +1912,7 @@ contraflow		<-->	noun+C2[-0]	.
 
 
 
-convertible		<-->	adjective+C2[-0]	.
+convertible		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1924,7 +1924,7 @@ convertible		<-->	adjective+C2[-0]	.
 
 
 
-convertible		<-->	noun+C2[-0]	.
+convertible		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1936,7 +1936,7 @@ convertible		<-->	noun+C2[-0]	.
 
 
 
-cordon off		<-->	phrasal verb+C2[-0]	.
+cordon off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1948,7 +1948,7 @@ cordon off		<-->	phrasal verb+C2[-0]	.
 
 
 
-corner		<-->	noun+A2[-0]	.
+corner		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1960,7 +1960,7 @@ corner		<-->	noun+A2[-0]	.
 
 
 
-corridor		<-->	noun+C1[-0]	.
+corridor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1972,7 +1972,7 @@ corridor		<-->	noun+C1[-0]	.
 
 
 
-coupé		<-->	noun+C2[-0]	.
+coupé		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1984,7 +1984,7 @@ coupé		<-->	noun+C2[-0]	.
 
 
 
-courier		<-->	noun+C1[-0]	.
+courier		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1996,7 +1996,7 @@ courier		<-->	noun+C1[-0]	.
 
 
 
-courtesy		<-->	adjective+C2[-0]	.
+courtesy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2008,7 +2008,7 @@ courtesy		<-->	adjective+C2[-0]	.
 
 
 
-crankshaft		<-->	noun+C2[-0]	.
+crankshaft		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2020,7 +2020,7 @@ crankshaft		<-->	noun+C2[-0]	.
 
 
 
-crash		<-->	noun+B2[-0]	.
+crash		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2044,7 +2044,7 @@ crashverbB2[-0]	.
 
 
 
-crash barrier		<-->	noun+C2[-0]	.
+crash barrier		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2056,7 +2056,7 @@ crash barrier		<-->	noun+C2[-0]	.
 
 
 
-crash helmet		<-->	noun+C1[-0]	.
+crash helmet		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2068,7 +2068,7 @@ crash helmet		<-->	noun+C1[-0]	.
 
 
 
-crash-test		<-->	verb+C1[-0]	.
+crash-test		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2080,7 +2080,7 @@ crash-test		<-->	verb+C1[-0]	.
 
 
 
-crash-test dummy		<-->	noun+C2[-0]	.
+crash-test dummy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2092,7 +2092,7 @@ crash-test dummy		<-->	noun+C2[-0]	.
 
 
 
-crescent		<-->	noun+C2[-0]	.
+crescent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2104,7 +2104,7 @@ crescent		<-->	noun+C2[-0]	.
 
 
 
-crossing		<-->	noun+B2[-0]	.
+crossing		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2116,7 +2116,7 @@ crossing		<-->	noun+B2[-0]	.
 
 
 
-crossover		<-->	noun+C2[-0]	.
+crossover		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2128,7 +2128,7 @@ crossover		<-->	noun+C2[-0]	.
 
 
 
-crossroads		<-->	noun+B2	[221106][001]	./ˈkrɒsrəʊdz/-NAmE /ˈkrɔːsrəʊdz/ (North American English also crossroad) (plural crossroads)
+crossroads		<-->	noun++B2	[221106][001]	./ˈkrɒsrəʊdz/-NAmE /ˈkrɔːsrəʊdz/ (North American English also crossroad) (plural crossroads)
 	;ngã tư -- (1) a place where two roads meet and cross each other
 		;At the next crossroads, turn right.
 		;Turn right at the next crossroads.
@@ -2144,7 +2144,7 @@ crossroads		<-->	noun+B2	[221106][001]	./ˈkrɒsrəʊdz/-NAmE /ˈkrɔːsrəʊdz/
 
 
 
-cross street		<-->	noun+C2[-0]	.
+cross street		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2156,7 +2156,7 @@ cross street		<-->	noun+C2[-0]	.
 
 
 
-crosswalk		<-->	noun+C2[-0]	.
+crosswalk		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2168,7 +2168,7 @@ crosswalk		<-->	noun+C2[-0]	.
 
 
 
-cruise		<-->	verb+C1[-0]	.
+cruise		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2180,7 +2180,7 @@ cruise		<-->	verb+C1[-0]	.
 
 
 
-cruise control		<-->	noun+C2[-0]	.
+cruise control		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2192,7 +2192,7 @@ cruise control		<-->	noun+C2[-0]	.
 
 
 
-cruiser		<-->	noun+C2[-0]	.
+cruiser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2204,7 +2204,7 @@ cruiser		<-->	noun+C2[-0]	.
 
 
 
-crumple zone		<-->	noun+C2[-0]	.
+crumple zone		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2216,7 +2216,7 @@ crumple zone		<-->	noun+C2[-0]	.
 
 
 
-cubbyhole		<-->	noun+C2[-0]	.
+cubbyhole		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2228,7 +2228,7 @@ cubbyhole		<-->	noun+C2[-0]	.
 
 
 
-curb		<-->	noun+C2[-0]	.
+curb		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2240,7 +2240,7 @@ curb		<-->	noun+C2[-0]	.
 
 
 
-curbside		<-->	noun+C2[-0]	.
+curbside		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2252,7 +2252,7 @@ curbside		<-->	noun+C2[-0]	.
 
 
 
-cut in		<-->	phrasal verb+C2[-0]	.
+cut in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2264,7 +2264,7 @@ cut in		<-->	phrasal verb+C2[-0]	.
 
 
 
-cut up		<-->	phrasal verb+C2[-0]	.
+cut up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2276,7 +2276,7 @@ cut up		<-->	phrasal verb+C2[-0]	.
 
 
 
-cycle		<-->	noun+A2[-0]	.
+cycle		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2288,7 +2288,7 @@ cycle		<-->	noun+A2[-0]	.
 
 
 
-cycle lane		<-->	noun+B2[-0]	.
+cycle lane		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2300,7 +2300,7 @@ cycle lane		<-->	noun+B2[-0]	.
 
 
 
-cycle rickshaw		<-->	noun+C2[-0]	.
+cycle rickshaw		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2312,7 +2312,7 @@ cycle rickshaw		<-->	noun+C2[-0]	.
 
 
 
-cyclist		<-->	noun+B1[-0]	.
+cyclist		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2324,7 +2324,7 @@ cyclist		<-->	noun+B1[-0]	.
 
 
 
-daladala		<-->	noun+C2[-0]	.
+daladala		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2336,7 +2336,7 @@ daladala		<-->	noun+C2[-0]	.
 
 
 
-dashboard		<-->	noun+C2[-0]	.
+dashboard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2348,7 +2348,7 @@ dashboard		<-->	noun+C2[-0]	.
 
 
 
-dead end		<-->	noun+C2[-0]	.
+dead end		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2360,7 +2360,7 @@ dead end		<-->	noun+C2[-0]	.
 
 
 
-dealer		<-->	noun+B2[-0]	.
+dealer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2372,7 +2372,7 @@ dealer		<-->	noun+B2[-0]	.
 
 
 
-dealership		<-->	noun+C2[-0]	.
+dealership		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2384,7 +2384,7 @@ dealership		<-->	noun+C2[-0]	.
 
 
 
-decompressor		<-->	noun+C2[-0]	.
+decompressor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2396,7 +2396,7 @@ decompressor		<-->	noun+C2[-0]	.
 
 
 
-Denver boot		<-->	noun+C2[-0]	.
+Denver boot		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2408,7 +2408,7 @@ Denver boot		<-->	noun+C2[-0]	.
 
 
 
-designated driver		<-->	noun+C2[-0]	.
+designated driver		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2420,7 +2420,7 @@ designated driver		<-->	noun+C2[-0]	.
 
 
 
-detail		<-->	verb+C2[-0]	.
+detail		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2432,7 +2432,7 @@ detail		<-->	verb+C2[-0]	.
 
 
 
-detour		<-->	noun+C2	[221107][001]	./ˈdiːtʊə(r)/,  /ˈdiːtɔː(r)/-NAmE /ˈdiːtʊr/
+detour		<-->	noun++C2	[221107][001]	./ˈdiːtʊə(r)/,  /ˈdiːtɔː(r)/-NAmE /ˈdiːtʊr/
 	;tuyến đường tránh -- (1) a longer route that you take in order to avoid a problem or to visit a place
 		;We had to make a detour around the flooded fields.
 		;It's well worth making a detour to see the village.
@@ -2461,7 +2461,7 @@ detour		<-->	noun+C2	[221107][001]	./ˈdiːtʊə(r)/,  /ˈdiːtɔː(r)/-NAmE /ˈ
 
 
 
-dial		<-->	noun+C1[-0]	.
+dial		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2473,7 +2473,7 @@ dial		<-->	noun+C1[-0]	.
 
 
 
-diesel		<-->	noun+C1[-0]	.
+diesel		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2485,7 +2485,7 @@ diesel		<-->	noun+C1[-0]	.
 
 
 
-ding		<-->	noun+C2[-0]	.
+ding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2497,7 +2497,7 @@ ding		<-->	noun+C2[-0]	.
 
 
 
-dip		<-->	verb+C2[-0]	.
+dip		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2509,7 +2509,7 @@ dip		<-->	verb+C2[-0]	.
 
 
 
-dipstick		<-->	noun+C2[-0]	.
+dipstick		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2521,7 +2521,7 @@ dipstick		<-->	noun+C2[-0]	.
 
 
 
-dirt road		<-->	noun+C2	[221107][001]	./ˈdɜːt rəʊd/-NAmE /ˈdɜːrt rəʊd/ (also dirt track)
+dirt road		<-->	noun++C2	[221107][001]	./ˈdɜːt rəʊd/-NAmE /ˈdɜːrt rəʊd/ (also dirt track)
 	;đường xấu -- (1) a rough road in the country that is made from hard earth
 		;TOPICS Transport by car or lorryC2
 	; -- (2) 
@@ -2534,7 +2534,7 @@ dirt road		<-->	noun+C2	[221107][001]	./ˈdɜːt rəʊd/-NAmE /ˈdɜːrt rəʊd/
 
 
 
-ditch		<-->	noun+C1[-0]	.
+ditch		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2546,7 +2546,7 @@ ditch		<-->	noun+C1[-0]	.
 
 
 
-diversion		<-->	noun+C1[-0]	.
+diversion		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2570,7 +2570,7 @@ divideverbB1[-0]	.
 
 
 
-divided highway		<-->	noun+C2[-0]	.
+divided highway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2582,7 +2582,7 @@ divided highway		<-->	noun+C2[-0]	.
 
 
 
-dockless bike		<-->	noun+C2[-0]	.
+dockless bike		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2594,7 +2594,7 @@ dockless bike		<-->	noun+C2[-0]	.
 
 
 
-dog-leg		<-->	noun+C2[-0]	.
+dog-leg		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2606,7 +2606,7 @@ dog-leg		<-->	noun+C2[-0]	.
 
 
 
-double-park		<-->	verb+C2[-0]	.
+double-park		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2618,7 +2618,7 @@ double-park		<-->	verb+C2[-0]	.
 
 
 
-drink-driver		<-->	noun+C1[-0]	.
+drink-driver		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2630,7 +2630,7 @@ drink-driver		<-->	noun+C1[-0]	.
 
 
 
-drink-driving		<-->	noun+B2[-0]	.
+drink-driving		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2654,7 +2654,7 @@ driveverbA1[-0]	.
 
 
 
-drive		<-->	noun+A2[-0]	.
+drive		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2666,7 +2666,7 @@ drive		<-->	noun+A2[-0]	.
 
 
 
-drive away		<-->	phrasal verb+B1[-0]	.
+drive away		<-->	phrasal verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2678,7 +2678,7 @@ drive away		<-->	phrasal verb+B1[-0]	.
 
 
 
-drive off		<-->	phrasal verb+B2[-0]	.
+drive off		<-->	phrasal verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2690,7 +2690,7 @@ drive off		<-->	phrasal verb+B2[-0]	.
 
 
 
-drive on		<-->	phrasal verb+B2[-0]	.
+drive on		<-->	phrasal verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2702,7 +2702,7 @@ drive on		<-->	phrasal verb+B2[-0]	.
 
 
 
-driver		<-->	noun+A1[-0]	.
+driver		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2714,7 +2714,7 @@ driver		<-->	noun+A1[-0]	.
 
 
 
-driverless		<-->	adjective+B1[-0]	.
+driverless		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2726,7 +2726,7 @@ driverless		<-->	adjective+B1[-0]	.
 
 
 
-drive time		<-->	noun+C2[-0]	.
+drive time		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2738,7 +2738,7 @@ drive time		<-->	noun+C2[-0]	.
 
 
 
-drive-time		<-->	adjective+C2[-0]	.
+drive-time		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2750,7 +2750,7 @@ drive-time		<-->	adjective+C2[-0]	.
 
 
 
-driveway		<-->	noun+B2[-0]	.
+driveway		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2762,7 +2762,7 @@ driveway		<-->	noun+B2[-0]	.
 
 
 
-driving licence		<-->	noun+B2[-0]	.
+driving licence		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2774,7 +2774,7 @@ driving licence		<-->	noun+B2[-0]	.
 
 
 
-driving school		<-->	noun+B2[-0]	.
+driving school		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2786,7 +2786,7 @@ driving school		<-->	noun+B2[-0]	.
 
 
 
-driving test		<-->	noun+B1[-0]	.
+driving test		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2798,7 +2798,7 @@ driving test		<-->	noun+B1[-0]	.
 
 
 
-driving under the influence		<-->	noun+C2[-0]	.
+driving under the influence		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2810,7 +2810,7 @@ driving under the influence		<-->	noun+C2[-0]	.
 
 
 
-driving while intoxicated		<-->	noun+C2[-0]	.
+driving while intoxicated		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2834,7 +2834,7 @@ dropverbB2[-0]	.
 
 
 
-drunk driving		<-->	noun+B2[-0]	.
+drunk driving		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2846,7 +2846,7 @@ drunk driving		<-->	noun+B2[-0]	.
 
 
 
-drunken driving		<-->	noun+C1[-0]	.
+drunken driving		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2858,7 +2858,7 @@ drunken driving		<-->	noun+C1[-0]	.
 
 
 
-dual carriageway		<-->	noun+C2[-0]	.
+dual carriageway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2870,7 +2870,7 @@ dual carriageway		<-->	noun+C2[-0]	.
 
 
 
-dual control		<-->	adjective+C2[-0]	.
+dual control		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2882,7 +2882,7 @@ dual control		<-->	adjective+C2[-0]	.
 
 
 
-dual controls		<-->	noun+C2[-0]	.
+dual controls		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2894,7 +2894,7 @@ dual controls		<-->	noun+C2[-0]	.
 
 
 
-dumper truck		<-->	noun+C2[-0]	.
+dumper truck		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2906,7 +2906,7 @@ dumper truck		<-->	noun+C2[-0]	.
 
 
 
-dune buggy		<-->	noun+C2[-0]	.
+dune buggy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2918,7 +2918,7 @@ dune buggy		<-->	noun+C2[-0]	.
 
 
 
-dustcart		<-->	noun+C2[-0]	.
+dustcart		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2930,7 +2930,7 @@ dustcart		<-->	noun+C2[-0]	.
 
 
 
-electric		<-->	noun+C1[-0]	.
+electric		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2942,7 +2942,7 @@ electric		<-->	noun+C1[-0]	.
 
 
 
-embankment		<-->	noun+C2[-0]	.
+embankment		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2954,7 +2954,7 @@ embankment		<-->	noun+C2[-0]	.
 
 
 
-engine		<-->	noun+A2[-0]	.
+engine		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2966,7 +2966,7 @@ engine		<-->	noun+A2[-0]	.
 
 
 
-escort		<-->	noun+C2[-0]	.
+escort		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2978,7 +2978,7 @@ escort		<-->	noun+C2[-0]	.
 
 
 
-estate car		<-->	noun+C2[-0]	.
+estate car		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2990,7 +2990,7 @@ estate car		<-->	noun+C2[-0]	.
 
 
 
-exhaust		<-->	noun+C1[-0]	.
+exhaust		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3002,7 +3002,7 @@ exhaust		<-->	noun+C1[-0]	.
 
 
 
-exit		<-->	noun+B2[-0]	.
+exit		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3014,7 +3014,7 @@ exit		<-->	noun+B2[-0]	.
 
 
 
-express lane		<-->	noun+C1[-0]	.
+express lane		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3026,7 +3026,7 @@ express lane		<-->	noun+C1[-0]	.
 
 
 
-expressway		<-->	noun+C2[-0]	.
+expressway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3038,7 +3038,7 @@ expressway		<-->	noun+C2[-0]	.
 
 
 
-fan belt		<-->	noun+C2[-0]	.
+fan belt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3050,7 +3050,7 @@ fan belt		<-->	noun+C2[-0]	.
 
 
 
-fast lane		<-->	noun+B2[-0]	.
+fast lane		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3062,7 +3062,7 @@ fast lane		<-->	noun+B2[-0]	.
 
 
 
-feeder		<-->	adjective+C2[-0]	.
+feeder		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3074,7 +3074,7 @@ feeder		<-->	adjective+C2[-0]	.
 
 
 
-fender		<-->	noun+C2[-0]	.
+fender		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3086,7 +3086,7 @@ fender		<-->	noun+C2[-0]	.
 
 
 
-fender bender		<-->	noun+C2[-0]	.
+fender bender		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3098,7 +3098,7 @@ fender bender		<-->	noun+C2[-0]	.
 
 
 
-filler cap		<-->	noun+C2[-0]	.
+filler cap		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3110,7 +3110,7 @@ filler cap		<-->	noun+C2[-0]	.
 
 
 
-filling station		<-->	noun+C2[-0]	.
+filling station		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3122,7 +3122,7 @@ filling station		<-->	noun+C2[-0]	.
 
 
 
-fill-up		<-->	noun+C2[-0]	.
+fill-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3134,7 +3134,7 @@ fill-up		<-->	noun+C2[-0]	.
 
 
 
-filter		<-->	verb+C2[-0]	.
+filter		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3146,7 +3146,7 @@ filter		<-->	verb+C2[-0]	.
 
 
 
-fin		<-->	noun+C2[-0]	.
+fin		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3158,7 +3158,7 @@ fin		<-->	noun+C2[-0]	.
 
 
 
-fire engine		<-->	noun+B2[-0]	.
+fire engine		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3170,7 +3170,7 @@ fire engine		<-->	noun+B2[-0]	.
 
 
 
-fire hydrant		<-->	noun+C2[-0]	.
+fire hydrant		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3182,7 +3182,7 @@ fire hydrant		<-->	noun+C2[-0]	.
 
 
 
-fire truck		<-->	noun+B2[-0]	.
+fire truck		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3194,7 +3194,7 @@ fire truck		<-->	noun+B2[-0]	.
 
 
 
-flasher		<-->	noun+C2[-0]	.
+flasher		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3206,7 +3206,7 @@ flasher		<-->	noun+C2[-0]	.
 
 
 
-flat		<-->	noun+C1[-0]	.
+flat		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3218,7 +3218,7 @@ flat		<-->	noun+C1[-0]	.
 
 
 
-floor		<-->	verb+C2[-0]	.
+floor		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3230,7 +3230,7 @@ floor		<-->	verb+C2[-0]	.
 
 
 
-flyover		<-->	noun+C2[-0]	.
+flyover		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3242,7 +3242,7 @@ flyover		<-->	noun+C2[-0]	.
 
 
 
-fog lamp		<-->	noun+C2[-0]	.
+fog lamp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3254,7 +3254,7 @@ fog lamp		<-->	noun+C2[-0]	.
 
 
 
-footbrake		<-->	noun+C2[-0]	.
+footbrake		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3266,7 +3266,7 @@ footbrake		<-->	noun+C2[-0]	.
 
 
 
-footway		<-->	noun+C2[-0]	.
+footway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3278,7 +3278,7 @@ footway		<-->	noun+C2[-0]	.
 
 
 
-forecourt		<-->	noun+C2[-0]	.
+forecourt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3290,7 +3290,7 @@ forecourt		<-->	noun+C2[-0]	.
 
 
 
-fork		<-->	noun+C1[-0]	.
+fork		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3302,7 +3302,7 @@ fork		<-->	noun+C1[-0]	.
 
 
 
-fork		<-->	verb+C1[-0]	.
+fork		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3314,7 +3314,7 @@ fork		<-->	verb+C1[-0]	.
 
 
 
-forklift truck		<-->	noun+C2[-0]	.
+forklift truck		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3326,7 +3326,7 @@ forklift truck		<-->	noun+C2[-0]	.
 
 
 
-four-by-four		<-->	noun+C2[-0]	.
+four-by-four		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3338,7 +3338,7 @@ four-by-four		<-->	noun+C2[-0]	.
 
 
 
-four-stroke		<-->	adjective+C2[-0]	.
+four-stroke		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3350,7 +3350,7 @@ four-stroke		<-->	adjective+C2[-0]	.
 
 
 
-four-wheel drive		<-->	noun+C1[-0]	.
+four-wheel drive		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3362,7 +3362,7 @@ four-wheel drive		<-->	noun+C1[-0]	.
 
 
 
-freeway		<-->	noun+B2[-0]	.
+freeway		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3374,7 +3374,7 @@ freeway		<-->	noun+B2[-0]	.
 
 
 
-front		<-->	noun+C1[-0]	.
+front		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3386,7 +3386,7 @@ front		<-->	noun+C1[-0]	.
 
 
 
-front end		<-->	noun+C1[-0]	.
+front end		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3398,7 +3398,7 @@ front end		<-->	noun+C1[-0]	.
 
 
 
-front-end loader		<-->	noun+C2[-0]	.
+front-end loader		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3410,7 +3410,7 @@ front-end loader		<-->	noun+C2[-0]	.
 
 
 
-front-wheel drive		<-->	noun+C2[-0]	.
+front-wheel drive		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3422,7 +3422,7 @@ front-wheel drive		<-->	noun+C2[-0]	.
 
 
 
-fuel injection		<-->	noun+C2[-0]	.
+fuel injection		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3434,7 +3434,7 @@ fuel injection		<-->	noun+C2[-0]	.
 
 
 
-full beam		<-->	noun+C2[-0]	.
+full beam		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3446,7 +3446,7 @@ full beam		<-->	noun+C2[-0]	.
 
 
 
-furniture van		<-->	noun+B1[-0]	.
+furniture van		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3458,7 +3458,7 @@ furniture van		<-->	noun+B1[-0]	.
 
 
 
-garage		<-->	noun+B1[-0]	.
+garage		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3470,7 +3470,7 @@ garage		<-->	noun+B1[-0]	.
 
 
 
-garbage truck		<-->	noun+C1[-0]	.
+garbage truck		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3482,7 +3482,7 @@ garbage truck		<-->	noun+C1[-0]	.
 
 
 
-gas		<-->	noun+A2[-0]	.
+gas		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3494,7 +3494,7 @@ gas		<-->	noun+A2[-0]	.
 
 
 
-gas guzzler		<-->	noun+C2[-0]	.
+gas guzzler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3506,7 +3506,7 @@ gas guzzler		<-->	noun+C2[-0]	.
 
 
 
-gas-guzzling		<-->	adjective+C2[-0]	.
+gas-guzzling		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3518,7 +3518,7 @@ gas-guzzling		<-->	adjective+C2[-0]	.
 
 
 
-gas pedal		<-->	noun+C1[-0]	.
+gas pedal		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3530,7 +3530,7 @@ gas pedal		<-->	noun+C1[-0]	.
 
 
 
-gas station		<-->	noun+B1[-0]	.
+gas station		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3542,7 +3542,7 @@ gas station		<-->	noun+B1[-0]	.
 
 
 
-gated		<-->	adjective+C2[-0]	.
+gated		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3554,7 +3554,7 @@ gated		<-->	adjective+C2[-0]	.
 
 
 
-gear		<-->	noun+C1[-0]	.
+gear		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3566,7 +3566,7 @@ gear		<-->	noun+C1[-0]	.
 
 
 
-gearbox		<-->	noun+C2[-0]	.
+gearbox		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3578,7 +3578,7 @@ gearbox		<-->	noun+C2[-0]	.
 
 
 
-gear lever		<-->	noun+C2[-0]	.
+gear lever		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3590,7 +3590,7 @@ gear lever		<-->	noun+C2[-0]	.
 
 
 
-gearshift		<-->	noun+C2[-0]	.
+gearshift		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3614,7 +3614,7 @@ give way (to somebody/something)idiomC2[-0]	.
 
 
 
-glove compartment		<-->	noun+C2[-0]	.
+glove compartment		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3626,7 +3626,7 @@ glove compartment		<-->	noun+C2[-0]	.
 
 
 
-go-faster stripes		<-->	noun+C2[-0]	.
+go-faster stripes		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3638,7 +3638,7 @@ go-faster stripes		<-->	noun+C2[-0]	.
 
 
 
-GPS		<-->	noun+B2[-0]	.
+GPS		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3650,7 +3650,7 @@ GPS		<-->	noun+B2[-0]	.
 
 
 
-grade crossing		<-->	noun+C2[-0]	.
+grade crossing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3662,7 +3662,7 @@ grade crossing		<-->	noun+C2[-0]	.
 
 
 
-gradient		<-->	noun+C1[-0]	.
+gradient		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3674,7 +3674,7 @@ gradient		<-->	noun+C1[-0]	.
 
 
 
-gravel		<-->	noun+C2[-0]	.
+gravel		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3686,7 +3686,7 @@ gravel		<-->	noun+C2[-0]	.
 
 
 
-gravelled		<-->	adjective+C2[-0]	.
+gravelled		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3698,7 +3698,7 @@ gravelled		<-->	adjective+C2[-0]	.
 
 
 
-grease monkey		<-->	noun+C2[-0]	.
+grease monkey		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3710,7 +3710,7 @@ grease monkey		<-->	noun+C2[-0]	.
 
 
 
-gridlock		<-->	noun+C2[-0]	.
+gridlock		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3722,7 +3722,7 @@ gridlock		<-->	noun+C2[-0]	.
 
 
 
-grit		<-->	verb+C2	[220825][001]	./ɡrɪt/-NAmE /ɡrɪt/ [uncountable]
+grit		<-->	verb++C2	[220825][001]	./ɡrɪt/-NAmE /ɡrɪt/ [uncountable]
 	;​grit something to spread grit, salt or sand on a road that is covered with ice
 		;TOPICS Transport by car or lorryC2
 				;Oxford Collocations Dictionary
@@ -3734,7 +3734,7 @@ grit		<-->	verb+C2	[220825][001]	./ɡrɪt/-NAmE /ɡrɪt/ [uncountable]
 
 
 
-guard rail		<-->	noun+C2[-0]	.
+guard rail		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3746,7 +3746,7 @@ guard rail		<-->	noun+C2[-0]	.
 
 
 
-gun		<-->	verb+C2	[220825][001]	./ɡʌn/-NAmE /ɡʌn/
+gun		<-->	verb++C2	[220825][001]	./ɡʌn/-NAmE /ɡʌn/
 	;lái xe nhanh hết cỡ -- (2) [transitive] gun something + adv./prep. (North American English) to start driving a vehicle very fast
 		;He gunned the cab through the red light.
 		;TOPICS Transport by car or lorryC2
@@ -3757,7 +3757,7 @@ gun		<-->	verb+C2	[220825][001]	./ɡʌn/-NAmE /ɡʌn/
 
 
 
-gutter		<-->	noun+C2[-0]	.
+gutter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3769,7 +3769,7 @@ gutter		<-->	noun+C2[-0]	.
 
 
 
-hairpin bend		<-->	noun+C2[-0]	.
+hairpin bend		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3781,7 +3781,7 @@ hairpin bend		<-->	noun+C2[-0]	.
 
 
 
-handbrake		<-->	noun+C1[-0]	.
+handbrake		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3793,7 +3793,7 @@ handbrake		<-->	noun+C1[-0]	.
 
 
 
-handbrake turn		<-->	noun+C2[-0]	.
+handbrake turn		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3805,7 +3805,7 @@ handbrake turn		<-->	noun+C2[-0]	.
 
 
 
-handle		<-->	verb+C2	[220825][001]	./ˈhændl/-NAmE /ˈhændl/
+handle		<-->	verb++C2	[220825][001]	./ˈhændl/-NAmE /ˈhændl/
 	;cầm lái -- (3) [-control] [transitive] handle something to control a vehicle, an animal, a tool, etc.
 		;I wasn't sure if I could handle such a powerful car.
 		;She's a difficult horse to handle.
@@ -3821,7 +3821,7 @@ handle		<-->	verb+C2	[220825][001]	./ˈhændl/-NAmE /ˈhændl/
 
 
 
-handling		<-->	noun+C2[-0]	.
+handling		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3833,7 +3833,7 @@ handling		<-->	noun+C2[-0]	.
 
 
 
-hard shoulder		<-->	noun+C2[-0]	.
+hard shoulder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3845,7 +3845,7 @@ hard shoulder		<-->	noun+C2[-0]	.
 
 
 
-hardtop		<-->	noun+C2[-0]	.
+hardtop		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3857,7 +3857,7 @@ hardtop		<-->	noun+C2[-0]	.
 
 
 
-hatchback		<-->	noun+C2[-0]	.
+hatchback		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3869,7 +3869,7 @@ hatchback		<-->	noun+C2[-0]	.
 
 
 
-haulier		<-->	noun+C2[-0]	.
+haulier		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3881,7 +3881,7 @@ haulier		<-->	noun+C2[-0]	.
 
 
 
-hazard lights		<-->	noun+C2[-0]	.
+hazard lights		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3893,7 +3893,7 @@ hazard lights		<-->	noun+C2[-0]	.
 
 
 
-headlamp		<-->	noun+C1[-0]	.
+headlamp		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3905,7 +3905,7 @@ headlamp		<-->	noun+C1[-0]	.
 
 
 
-headlight		<-->	noun+C1[-0]	.
+headlight		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3917,7 +3917,7 @@ headlight		<-->	noun+C1[-0]	.
 
 
 
-head-on		<-->	adjective+C2[-0]	.
+head-on		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3929,7 +3929,7 @@ head-on		<-->	adjective+C2[-0]	.
 
 
 
-headrest		<-->	noun+C2[-0]	.
+headrest		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3941,7 +3941,7 @@ headrest		<-->	noun+C2[-0]	.
 
 
 
-hearse		<-->	noun+C2[-0]	.
+hearse		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3953,7 +3953,7 @@ hearse		<-->	noun+C2[-0]	.
 
 
 
-heavy		<-->	adjective+B2[-0]	.
+heavy		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3965,7 +3965,7 @@ heavy		<-->	adjective+B2[-0]	.
 
 
 
-heavy goods vehicle		<-->	noun+C2[-0]	.
+heavy goods vehicle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3977,7 +3977,7 @@ heavy goods vehicle		<-->	noun+C2[-0]	.
 
 
 
-Hells Angel™		<-->	noun+C2[-0]	.
+Hells Angel™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3989,7 +3989,7 @@ Hells Angel™		<-->	noun+C2[-0]	.
 
 
 
-helmet		<-->	noun+B2[-0]	.
+helmet		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4001,7 +4001,7 @@ helmet		<-->	noun+B2[-0]	.
 
 
 
-HGV		<-->	noun+C2[-0]	.
+HGV		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4013,7 +4013,7 @@ HGV		<-->	noun+C2[-0]	.
 
 
 
-high beams		<-->	noun+C2[-0]	.
+high beams		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4025,7 +4025,7 @@ high beams		<-->	noun+C2[-0]	.
 
 
 
-high road		<-->	noun+C2	[221107][001]	./ˈhaɪ rəʊd/-NAmE /ˈhaɪ rəʊd/ [usually singular]
+high road		<-->	noun++C2	[221107][001]	./ˈhaɪ rəʊd/-NAmE /ˈhaɪ rəʊd/ [usually singular]
 	;đường chính -- (1) (old-fashioned except in road names) a main or important road
 		;Kilburn High Road
 		;TOPICS Transport by car or lorryC2
@@ -4039,7 +4039,7 @@ high road		<-->	noun+C2	[221107][001]	./ˈhaɪ rəʊd/-NAmE /ˈhaɪ rəʊd/ [usu
 
 
 
-highway		<-->	noun+B2[-0]	.
+highway		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4051,7 +4051,7 @@ highway		<-->	noun+B2[-0]	.
 
 
 
-hit-and-run		<-->	adjective+C2[-0]	.
+hit-and-run		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4063,7 +4063,7 @@ hit-and-run		<-->	adjective+C2[-0]	.
 
 
 
-hitch		<-->	verb+C2[-0]	.
+hitch		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4075,7 +4075,7 @@ hitch		<-->	verb+C2[-0]	.
 
 
 
-hitchhike		<-->	verb+C1[-0]	.
+hitchhike		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4087,7 +4087,7 @@ hitchhike		<-->	verb+C1[-0]	.
 
 
 
-hitchhiker		<-->	noun+C1[-0]	.
+hitchhiker		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4099,7 +4099,7 @@ hitchhiker		<-->	noun+C1[-0]	.
 
 
 
-hitchhiking		<-->	noun+C1[-0]	.
+hitchhiking		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4111,7 +4111,7 @@ hitchhiking		<-->	noun+C1[-0]	.
 
 
 
-hoarding		<-->	noun+C2[-0]	.
+hoarding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4123,7 +4123,7 @@ hoarding		<-->	noun+C2[-0]	.
 
 
 
-hold		<-->	verb+C2[-0]	.
+hold		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4135,7 +4135,7 @@ hold		<-->	verb+C2[-0]	.
 
 
 
-hold-up		<-->	noun+C2[-0]	.
+hold-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4147,7 +4147,7 @@ hold-up		<-->	noun+C2[-0]	.
 
 
 
-honk		<-->	noun+C2[-0]	.
+honk		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4159,7 +4159,7 @@ honk		<-->	noun+C2[-0]	.
 
 
 
-honk		<-->	verb+C2[-0]	.
+honk		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4171,7 +4171,7 @@ honk		<-->	verb+C2[-0]	.
 
 
 
-hood		<-->	noun+C2[-0]	.
+hood		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4183,7 +4183,7 @@ hood		<-->	noun+C2[-0]	.
 
 
 
-hoon		<-->	noun+C2[-0]	.
+hoon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4195,7 +4195,7 @@ hoon		<-->	noun+C2[-0]	.
 
 
 
-hoon		<-->	verb+C2[-0]	.
+hoon		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4207,7 +4207,7 @@ hoon		<-->	verb+C2[-0]	.
 
 
 
-hooter		<-->	noun+C2[-0]	.
+hooter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4219,7 +4219,7 @@ hooter		<-->	noun+C2[-0]	.
 
 
 
-horn		<-->	noun+C1[-0]	.
+horn		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4231,7 +4231,7 @@ horn		<-->	noun+C1[-0]	.
 
 
 
-horsebox		<-->	noun+C2[-0]	.
+horsebox		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4243,7 +4243,7 @@ horsebox		<-->	noun+C2[-0]	.
 
 
 
-horse trailer		<-->	noun+C1[-0]	.
+horse trailer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4255,7 +4255,7 @@ horse trailer		<-->	noun+C1[-0]	.
 
 
 
-hot rod		<-->	noun+C2[-0]	.
+hot rod		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4267,7 +4267,7 @@ hot rod		<-->	noun+C2[-0]	.
 
 
 
-hot-wire		<-->	verb+C2[-0]	.
+hot-wire		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4279,7 +4279,7 @@ hot-wire		<-->	verb+C2[-0]	.
 
 
 
-HOV lane		<-->	noun+C2[-0]	.
+HOV lane		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4291,7 +4291,7 @@ HOV lane		<-->	noun+C2[-0]	.
 
 
 
-hubcap		<-->	noun+C2[-0]	.
+hubcap		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4303,7 +4303,7 @@ hubcap		<-->	noun+C2[-0]	.
 
 
 
-hydrant		<-->	noun+C2[-0]	.
+hydrant		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4315,7 +4315,7 @@ hydrant		<-->	noun+C2[-0]	.
 
 
 
-idle		<-->	verb+C2[-0]	.
+idle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4327,7 +4327,7 @@ idle		<-->	verb+C2[-0]	.
 
 
 
-ignition		<-->	noun+C2[-0]	.
+ignition		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4339,7 +4339,7 @@ ignition		<-->	noun+C2[-0]	.
 
 
 
-impassable		<-->	adjective+C2[-0]	.
+impassable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4351,7 +4351,7 @@ impassable		<-->	adjective+C2[-0]	.
 
 
 
-indicate		<-->	verb+C1[-0]	.
+indicate		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4363,7 +4363,7 @@ indicate		<-->	verb+C1[-0]	.
 
 
 
-indicator		<-->	noun+C1[-0]	.
+indicator		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4375,7 +4375,7 @@ indicator		<-->	noun+C1[-0]	.
 
 
 
-inside		<-->	noun+B2[-0]	.
+inside		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4387,7 +4387,7 @@ inside		<-->	noun+B2[-0]	.
 
 
 
-inside		<-->	adjective+A2[-0]	.
+inside		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4399,7 +4399,7 @@ inside		<-->	adjective+A2[-0]	.
 
 
 
-instructor		<-->	noun+A2[-0]	.
+instructor		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4411,7 +4411,7 @@ instructor		<-->	noun+A2[-0]	.
 
 
 
-insure		<-->	verb+C2[-0]	.
+insure		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4423,7 +4423,7 @@ insure		<-->	verb+C2[-0]	.
 
 
 
-interchange		<-->	noun+C2[-0]	.
+interchange		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4435,7 +4435,7 @@ interchange		<-->	noun+C2[-0]	.
 
 
 
-internal combustion engine		<-->	noun+C2[-0]	.
+internal combustion engine		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4447,7 +4447,7 @@ internal combustion engine		<-->	noun+C2[-0]	.
 
 
 
-interstate		<-->	noun+C1[-0]	.
+interstate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4459,7 +4459,7 @@ interstate		<-->	noun+C1[-0]	.
 
 
 
-jack		<-->	noun+C2[-0]	.
+jack		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4471,7 +4471,7 @@ jack		<-->	noun+C2[-0]	.
 
 
 
-jackknife		<-->	verb+C2[-0]	.
+jackknife		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4483,7 +4483,7 @@ jackknife		<-->	verb+C2[-0]	.
 
 
 
-jack up		<-->	phrasal verb+C2[-0]	.
+jack up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4495,7 +4495,7 @@ jack up		<-->	phrasal verb+C2[-0]	.
 
 
 
-jalopy		<-->	noun+C2[-0]	.
+jalopy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4507,7 +4507,7 @@ jalopy		<-->	noun+C2[-0]	.
 
 
 
-jam		<-->	noun+B2[-0]	.
+jam		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4519,7 +4519,7 @@ jam		<-->	noun+B2[-0]	.
 
 
 
-JCB™		<-->	noun+C2[-0]	.
+JCB™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4531,7 +4531,7 @@ JCB™		<-->	noun+C2[-0]	.
 
 
 
-Jeep™		<-->	noun+C1[-0]	.
+Jeep™		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4543,7 +4543,7 @@ Jeep™		<-->	noun+C1[-0]	.
 
 
 
-joyriding		<-->	noun+C2[-0]	.
+joyriding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4555,7 +4555,7 @@ joyriding		<-->	noun+C2[-0]	.
 
 
 
-juggernaut		<-->	noun+C2[-0]	.
+juggernaut		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4567,7 +4567,7 @@ juggernaut		<-->	noun+C2[-0]	.
 
 
 
-jumper cable		<-->	noun+C2[-0]	.
+jumper cable		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4579,7 +4579,7 @@ jumper cable		<-->	noun+C2[-0]	.
 
 
 
-jump lead		<-->	noun+C2[-0]	.
+jump lead		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4591,7 +4591,7 @@ jump lead		<-->	noun+C2[-0]	.
 
 
 
-jump-start		<-->	verb+C2[-0]	.
+jump-start		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4615,7 +4615,7 @@ jump the lightsidiomC2[-0]	.
 
 
 
-junction		<-->	noun+C1[-0]	.
+junction		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4627,7 +4627,7 @@ junction		<-->	noun+C1[-0]	.
 
 
 
-junker		<-->	noun+C2[-0]	.
+junker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4639,7 +4639,7 @@ junker		<-->	noun+C2[-0]	.
 
 
 
-junkyard		<-->	noun+C2[-0]	.
+junkyard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4651,7 +4651,7 @@ junkyard		<-->	noun+C2[-0]	.
 
 
 
-kerb		<-->	noun+C2[-0]	.
+kerb		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4663,7 +4663,7 @@ kerb		<-->	noun+C2[-0]	.
 
 
 
-kerbside		<-->	noun+C2[-0]	.
+kerbside		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4675,7 +4675,7 @@ kerbside		<-->	noun+C2[-0]	.
 
 
 
-keyless		<-->	adjective+B2[-0]	.
+keyless		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4687,7 +4687,7 @@ keyless		<-->	adjective+B2[-0]	.
 
 
 
-kombi		<-->	noun+C2[-0]	.
+kombi		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4699,7 +4699,7 @@ kombi		<-->	noun+C2[-0]	.
 
 
 
-lamp post		<-->	noun+C1[-0]	.
+lamp post		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4711,7 +4711,7 @@ lamp post		<-->	noun+C1[-0]	.
 
 
 
-Land Rover™		<-->	noun+C2[-0]	.
+Land Rover™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4723,7 +4723,7 @@ Land Rover™		<-->	noun+C2[-0]	.
 
 
 
-lane		<-->	noun+B2[-0]	.
+lane		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4735,7 +4735,7 @@ lane		<-->	noun+B2[-0]	.
 
 
 
-lay-by		<-->	noun+C2[-0]	.
+lay-by		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4747,7 +4747,7 @@ lay-by		<-->	noun+C2[-0]	.
 
 
 
-learner		<-->	noun+A2[-0]	.
+learner		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4759,7 +4759,7 @@ learner		<-->	noun+A2[-0]	.
 
 
 
-left-hand drive		<-->	adjective+C2[-0]	.
+left-hand drive		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4771,7 +4771,7 @@ left-hand drive		<-->	adjective+C2[-0]	.
 
 
 
-legroom		<-->	noun+B2[-0]	.
+legroom		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4783,7 +4783,7 @@ legroom		<-->	noun+B2[-0]	.
 
 
 
-level crossing		<-->	noun+C2[-0]	.
+level crossing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4795,7 +4795,7 @@ level crossing		<-->	noun+C2[-0]	.
 
 
 
-license number		<-->	noun+B2[-0]	.
+license number		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4807,7 +4807,7 @@ license number		<-->	noun+B2[-0]	.
 
 
 
-license plate		<-->	noun+C1[-0]	.
+license plate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4819,7 +4819,7 @@ license plate		<-->	noun+C1[-0]	.
 
 
 
-lift		<-->	noun+B1[-0]	.
+lift		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4831,7 +4831,7 @@ lift		<-->	noun+B1[-0]	.
 
 
 
-limo		<-->	noun+C1[-0]	.
+limo		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4843,7 +4843,7 @@ limo		<-->	noun+C1[-0]	.
 
 
 
-limousine		<-->	noun+C1[-0]	.
+limousine		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4867,7 +4867,7 @@ lockverbB2[-0]	.
 
 
 
-logbook		<-->	noun+C2[-0]	.
+logbook		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4879,7 +4879,7 @@ logbook		<-->	noun+C2[-0]	.
 
 
 
-lollipop lady		<-->	noun+C2[-0]	.
+lollipop lady		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4891,7 +4891,7 @@ lollipop lady		<-->	noun+C2[-0]	.
 
 
 
-lollipop man		<-->	noun+C2[-0]	.
+lollipop man		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4903,7 +4903,7 @@ lollipop man		<-->	noun+C2[-0]	.
 
 
 
-low beams		<-->	noun+C2[-0]	.
+low beams		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4915,7 +4915,7 @@ low beams		<-->	noun+C2[-0]	.
 
 
 
-L-plate		<-->	noun+C2[-0]	.
+L-plate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4927,7 +4927,7 @@ L-plate		<-->	noun+C2[-0]	.
 
 
 
-macadam		<-->	noun+C2[-0]	.
+macadam		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4939,7 +4939,7 @@ macadam		<-->	noun+C2[-0]	.
 
 
 
-main road		<-->	noun+B1[-0]	.
+main road		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4951,7 +4951,7 @@ main road		<-->	noun+B1[-0]	.
 
 
 
-main street		<-->	noun+B1[-0]	.
+main street		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4963,7 +4963,7 @@ main street		<-->	noun+B1[-0]	.
 
 
 
-make		<-->	noun+B2[-0]	.
+make		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4975,7 +4975,7 @@ make		<-->	noun+B2[-0]	.
 
 
 
-manhole		<-->	noun+C2[-0]	.
+manhole		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4987,7 +4987,7 @@ manhole		<-->	noun+C2[-0]	.
 
 
 
-manifold		<-->	noun+C2[-0]	.
+manifold		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4999,7 +4999,7 @@ manifold		<-->	noun+C2[-0]	.
 
 
 
-manual		<-->	noun+C2[-0]	.
+manual		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5011,7 +5011,7 @@ manual		<-->	noun+C2[-0]	.
 
 
 
-marque		<-->	noun+C2[-0]	.
+marque		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5023,7 +5023,7 @@ marque		<-->	noun+C2[-0]	.
 
 
 
-matatu		<-->	noun+C2[-0]	.
+matatu		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5035,7 +5035,7 @@ matatu		<-->	noun+C2[-0]	.
 
 
 
-mechanic		<-->	noun+B2[-0]	.
+mechanic		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5047,7 +5047,7 @@ mechanic		<-->	noun+B2[-0]	.
 
 
 
-median		<-->	noun+C2[-0]	.
+median		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5059,7 +5059,7 @@ median		<-->	noun+C2[-0]	.
 
 
 
-mews		<-->	noun+C2[-0]	.
+mews		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5071,7 +5071,7 @@ mews		<-->	noun+C2[-0]	.
 
 
 
-mileometer		<-->	noun+C2[-0]	.
+mileometer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5083,7 +5083,7 @@ mileometer		<-->	noun+C2[-0]	.
 
 
 
-milepost		<-->	noun+C2[-0]	.
+milepost		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5095,7 +5095,7 @@ milepost		<-->	noun+C2[-0]	.
 
 
 
-milometer		<-->	noun+C2[-0]	.
+milometer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5107,7 +5107,7 @@ milometer		<-->	noun+C2[-0]	.
 
 
 
-minibus		<-->	noun+C1[-0]	.
+minibus		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5119,7 +5119,7 @@ minibus		<-->	noun+C1[-0]	.
 
 
 
-mini-roundabout		<-->	noun+C2[-0]	.
+mini-roundabout		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5131,7 +5131,7 @@ mini-roundabout		<-->	noun+C2[-0]	.
 
 
 
-minivan		<-->	noun+C2[-0]	.
+minivan		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5143,7 +5143,7 @@ minivan		<-->	noun+C2[-0]	.
 
 
 
-misfire		<-->	verb+C2[-0]	.
+misfire		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5155,7 +5155,7 @@ misfire		<-->	verb+C2[-0]	.
 
 
 
-moped		<-->	noun+C1[-0]	.
+moped		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5167,7 +5167,7 @@ moped		<-->	noun+C1[-0]	.
 
 
 
-MOT		<-->	noun+C2[-0]	.
+MOT		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5179,7 +5179,7 @@ MOT		<-->	noun+C2[-0]	.
 
 
 
-motor		<-->	noun+C1[-0]	.
+motor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5203,7 +5203,7 @@ motorverbB2[-0]	.
 
 
 
-motorbike		<-->	noun+A2[-0]	.
+motorbike		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5215,7 +5215,7 @@ motorbike		<-->	noun+A2[-0]	.
 
 
 
-motor car		<-->	noun+A2[-0]	.
+motor car		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5227,7 +5227,7 @@ motor car		<-->	noun+A2[-0]	.
 
 
 
-motorcycle		<-->	noun+A2[-0]	.
+motorcycle		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5239,7 +5239,7 @@ motorcycle		<-->	noun+A2[-0]	.
 
 
 
-motorcyclist		<-->	noun+B2[-0]	.
+motorcyclist		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5251,7 +5251,7 @@ motorcyclist		<-->	noun+B2[-0]	.
 
 
 
-motorhome		<-->	noun+C2[-0]	.
+motorhome		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5263,7 +5263,7 @@ motorhome		<-->	noun+C2[-0]	.
 
 
 
-motorist		<-->	noun+C1[-0]	.
+motorist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5275,7 +5275,7 @@ motorist		<-->	noun+C1[-0]	.
 
 
 
-motorway		<-->	noun+A2[-0]	.
+motorway		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5287,7 +5287,7 @@ motorway		<-->	noun+A2[-0]	.
 
 
 
-mountain bike		<-->	noun+B2[-0]	.
+mountain bike		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5299,7 +5299,7 @@ mountain bike		<-->	noun+B2[-0]	.
 
 
 
-moving van		<-->	noun+C1[-0]	.
+moving van		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5311,7 +5311,7 @@ moving van		<-->	noun+C1[-0]	.
 
 
 
-MPV		<-->	noun+C2[-0]	.
+MPV		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5323,7 +5323,7 @@ MPV		<-->	noun+C2[-0]	.
 
 
 
-mudflap		<-->	noun+C2[-0]	.
+mudflap		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5335,7 +5335,7 @@ mudflap		<-->	noun+C2[-0]	.
 
 
 
-muffler		<-->	noun+C2[-0]	.
+muffler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5359,7 +5359,7 @@ navigateverbB2[-0]	.
 
 
 
-nearside		<-->	adjective+C2[-0]	.
+nearside		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5383,7 +5383,7 @@ nose to tailidiomC2[-0]	.
 
 
 
-number plate		<-->	noun+C1[-0]	.
+number plate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5395,7 +5395,7 @@ number plate		<-->	noun+C1[-0]	.
 
 
 
-obstruct		<-->	verb+C2[-0]	.
+obstruct		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5407,7 +5407,7 @@ obstruct		<-->	verb+C2[-0]	.
 
 
 
-obstruction		<-->	noun+C2[-0]	.
+obstruction		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5419,7 +5419,7 @@ obstruction		<-->	noun+C2[-0]	.
 
 
 
-odometer		<-->	noun+C2[-0]	.
+odometer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5431,7 +5431,7 @@ odometer		<-->	noun+C2[-0]	.
 
 
 
-off-ramp		<-->	noun+C2[-0]	.
+off-ramp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5443,7 +5443,7 @@ off-ramp		<-->	noun+C2[-0]	.
 
 
 
-off-road		<-->	adverb+C1	[221107][001]	./ˈɒf rəʊd/-NAmE /ˈɔːf rəʊd/ [usually before noun]
+off-road		<-->	adverb++C1	[221107][001]	./ˈɒf rəʊd/-NAmE /ˈɔːf rəʊd/ [usually before noun]
 	;địa hình, không bằng phẳng -- (1) not on the public road; on rough ground
 		;Many 4 x 4 owners have never driven off-road.
 		;an off-road vehicle
@@ -5457,7 +5457,7 @@ off-road		<-->	adverb+C1	[221107][001]	./ˈɒf rəʊd/-NAmE /ˈɔːf rəʊd/ [us
 
 
 
-off-road		<-->	adjective+C1	[221107][001]	./ˈɒf rəʊd/-NAmE /ˈɔːf rəʊd/ [usually before noun]
+off-road		<-->	adjective++C1	[221107][001]	./ˈɒf rəʊd/-NAmE /ˈɔːf rəʊd/ [usually before noun]
 	;địa hình, không bằng phẳng -- (1) not on the public road; on rough ground
 		;Many 4 x 4 owners have never driven off-road.
 		;an off-road vehicle
@@ -5473,7 +5473,7 @@ off-road		<-->	adjective+C1	[221107][001]	./ˈɒf rəʊd/-NAmE /ˈɔːf rəʊd/ 
 
 
 
-offside		<-->	adjective+C2[-0]	.
+offside		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5485,7 +5485,7 @@ offside		<-->	adjective+C2[-0]	.
 
 
 
-offside		<-->	noun+C2[-0]	.
+offside		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5497,7 +5497,7 @@ offside		<-->	noun+C2[-0]	.
 
 
 
-off-street		<-->	adjective+C1[-0]	.
+off-street		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5509,7 +5509,7 @@ off-street		<-->	adjective+C1[-0]	.
 
 
 
-oil		<-->	noun+A2[-0]	.
+oil		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5521,7 +5521,7 @@ oil		<-->	noun+A2[-0]	.
 
 
 
-on-ramp		<-->	noun+C2[-0]	.
+on-ramp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5533,7 +5533,7 @@ on-ramp		<-->	noun+C2[-0]	.
 
 
 
-on-street		<-->	adjective+C1[-0]	.
+on-street		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5557,7 +5557,7 @@ on the roadidiomC2[-0]	.
 
 
 
-open-top		<-->	adjective+C1[-0]	.
+open-top		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5569,7 +5569,7 @@ open-top		<-->	adjective+C1[-0]	.
 
 
 
-orbital		<-->	noun+C2[-0]	.
+orbital		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5581,7 +5581,7 @@ orbital		<-->	noun+C2[-0]	.
 
 
 
-outer belt		<-->	noun+C2[-0]	.
+outer belt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5593,7 +5593,7 @@ outer belt		<-->	noun+C2[-0]	.
 
 
 
-outrider		<-->	noun+C2[-0]	.
+outrider		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5605,7 +5605,7 @@ outrider		<-->	noun+C2[-0]	.
 
 
 
-outside		<-->	noun+B2[-0]	.
+outside		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5617,7 +5617,7 @@ outside		<-->	noun+B2[-0]	.
 
 
 
-outside lane		<-->	noun+B2[-0]	.
+outside lane		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5629,7 +5629,7 @@ outside lane		<-->	noun+B2[-0]	.
 
 
 
-overbridge		<-->	noun+C2[-0]	.
+overbridge		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5641,7 +5641,7 @@ overbridge		<-->	noun+C2[-0]	.
 
 
 
-overpass		<-->	noun+C2[-0]	.
+overpass		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5665,7 +5665,7 @@ overtakeverbB2[-0]	.
 
 
 
-paddy wagon		<-->	noun+C2[-0]	.
+paddy wagon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5677,7 +5677,7 @@ paddy wagon		<-->	noun+C2[-0]	.
 
 
 
-paintwork		<-->	noun+C2[-0]	.
+paintwork		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5689,7 +5689,7 @@ paintwork		<-->	noun+C2[-0]	.
 
 
 
-panel van		<-->	noun+C2[-0]	.
+panel van		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5701,7 +5701,7 @@ panel van		<-->	noun+C2[-0]	.
 
 
 
-parade		<-->	noun+C2[-0]	.
+parade		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5725,7 +5725,7 @@ parkverbA1[-0]	.
 
 
 
-parkade		<-->	noun+C2[-0]	.
+parkade		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5737,7 +5737,7 @@ parkade		<-->	noun+C2[-0]	.
 
 
 
-park and ride		<-->	noun+C2[-0]	.
+park and ride		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5749,7 +5749,7 @@ park and ride		<-->	noun+C2[-0]	.
 
 
 
-parking		<-->	noun+A2[-0]	.
+parking		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5761,7 +5761,7 @@ parking		<-->	noun+A2[-0]	.
 
 
 
-parking brake		<-->	noun+C1[-0]	.
+parking brake		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5773,7 +5773,7 @@ parking brake		<-->	noun+C1[-0]	.
 
 
 
-parking lot		<-->	noun+B2[-0]	.
+parking lot		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5785,7 +5785,7 @@ parking lot		<-->	noun+B2[-0]	.
 
 
 
-parking meter		<-->	noun+C1[-0]	.
+parking meter		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5797,7 +5797,7 @@ parking meter		<-->	noun+C1[-0]	.
 
 
 
-parking ticket		<-->	noun+C1[-0]	.
+parking ticket		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5809,7 +5809,7 @@ parking ticket		<-->	noun+C1[-0]	.
 
 
 
-parkway		<-->	noun+C2[-0]	.
+parkway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5821,7 +5821,7 @@ parkway		<-->	noun+C2[-0]	.
 
 
 
-pass		<-->	noun+C2[-0]	.
+pass		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5833,7 +5833,7 @@ pass		<-->	noun+C2[-0]	.
 
 
 
-passable		<-->	adjective+C2[-0]	.
+passable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5845,7 +5845,7 @@ passable		<-->	adjective+C2[-0]	.
 
 
 
-passenger		<-->	noun+A2[-0]	.
+passenger		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5857,7 +5857,7 @@ passenger		<-->	noun+A2[-0]	.
 
 
 
-passenger seat		<-->	noun+B1[-0]	.
+passenger seat		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5869,7 +5869,7 @@ passenger seat		<-->	noun+B1[-0]	.
 
 
 
-passing lane		<-->	noun+C1[-0]	.
+passing lane		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5881,7 +5881,7 @@ passing lane		<-->	noun+C1[-0]	.
 
 
 
-patrol wagon		<-->	noun+C2[-0]	.
+patrol wagon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5893,7 +5893,7 @@ patrol wagon		<-->	noun+C2[-0]	.
 
 
 
-pavement		<-->	noun+B2[-0]	.
+pavement		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5905,7 +5905,7 @@ pavement		<-->	noun+B2[-0]	.
 
 
 
-pay and display		<-->	noun+C2[-0]	.
+pay and display		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5917,7 +5917,7 @@ pay and display		<-->	noun+C2[-0]	.
 
 
 
-pedal		<-->	noun+C1[-0]	.
+pedal		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5929,7 +5929,7 @@ pedal		<-->	noun+C1[-0]	.
 
 
 
-pedestrian crossing		<-->	noun+C1[-0]	.
+pedestrian crossing		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5941,7 +5941,7 @@ pedestrian crossing		<-->	noun+C1[-0]	.
 
 
 
-pedestrianization		<-->	noun+C2[-0]	.
+pedestrianization		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5953,7 +5953,7 @@ pedestrianization		<-->	noun+C2[-0]	.
 
 
 
-pedestrianize		<-->	verb+C2[-0]	.
+pedestrianize		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5965,7 +5965,7 @@ pedestrianize		<-->	verb+C2[-0]	.
 
 
 
-pedestrian precinct		<-->	noun+C2[-0]	.
+pedestrian precinct		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5977,7 +5977,7 @@ pedestrian precinct		<-->	noun+C2[-0]	.
 
 
 
-pelican crossing		<-->	noun+C2[-0]	.
+pelican crossing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5989,7 +5989,7 @@ pelican crossing		<-->	noun+C2[-0]	.
 
 
 
-people carrier		<-->	noun+C2[-0]	.
+people carrier		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6001,7 +6001,7 @@ people carrier		<-->	noun+C2[-0]	.
 
 
 
-personnel carrier		<-->	noun+C2[-0]	.
+personnel carrier		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6013,7 +6013,7 @@ personnel carrier		<-->	noun+C2[-0]	.
 
 
 
-petrol		<-->	noun+A2[-0]	.
+petrol		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6025,7 +6025,7 @@ petrol		<-->	noun+A2[-0]	.
 
 
 
-petrol station		<-->	noun+B1[-0]	.
+petrol station		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6037,7 +6037,7 @@ petrol station		<-->	noun+B1[-0]	.
 
 
 
-pick up		<-->	phrasal verb+B1[-0]	.
+pick up		<-->	phrasal verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6049,7 +6049,7 @@ pick up		<-->	phrasal verb+B1[-0]	.
 
 
 
-pickup		<-->	noun+C2[-0]	.
+pickup		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6061,7 +6061,7 @@ pickup		<-->	noun+C2[-0]	.
 
 
 
-pile-up		<-->	noun+C2[-0]	.
+pile-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6073,7 +6073,7 @@ pile-up		<-->	noun+C2[-0]	.
 
 
 
-pillion		<-->	adverb+C2[-0]	.
+pillion		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6085,7 +6085,7 @@ pillion		<-->	adverb+C2[-0]	.
 
 
 
-pillion		<-->	noun+C2[-0]	.
+pillion		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6097,7 +6097,7 @@ pillion		<-->	noun+C2[-0]	.
 
 
 
-pinch point		<-->	noun+C2[-0]	.
+pinch point		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6109,7 +6109,7 @@ pinch point		<-->	noun+C2[-0]	.
 
 
 
-plough into		<-->	phrasal verb+C2	[221109][001]	./p/
+plough into		<-->	phrasal verb++C2	[221109][001]	./p/
 	;tông vào đuôi -- (1) [-plough into somebody/something] (especially of a vehicle or its driver) to crash violently into something, especially because you are driving too fast or not paying enough attention
 		;A truck ploughed into the back of the bus.
 		;TOPICS Transport by car or lorryC2
@@ -6123,7 +6123,7 @@ plough into		<-->	phrasal verb+C2	[221109][001]	./p/
 
 
 
-point duty		<-->	noun+C2[-0]	.
+point duty		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6135,7 +6135,7 @@ point duty		<-->	noun+C2[-0]	.
 
 
 
-pothole		<-->	noun+C2[-0]	.
+pothole		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6147,7 +6147,7 @@ pothole		<-->	noun+C2[-0]	.
 
 
 
-power-assisted steering		<-->	noun+C2[-0]	.
+power-assisted steering		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6159,7 +6159,7 @@ power-assisted steering		<-->	noun+C2[-0]	.
 
 
 
-power steering		<-->	noun+C2[-0]	.
+power steering		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6171,7 +6171,7 @@ power steering		<-->	noun+C2[-0]	.
 
 
 
-priority		<-->	noun+C2[-0]	.
+priority		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6183,7 +6183,7 @@ priority		<-->	noun+C2[-0]	.
 
 
 
-production line		<-->	noun+C1[-0]	.
+production line		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6195,7 +6195,7 @@ production line		<-->	noun+C1[-0]	.
 
 
 
-provisional licence		<-->	noun+C2[-0]	.
+provisional licence		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6207,7 +6207,7 @@ provisional licence		<-->	noun+C2[-0]	.
 
 
 
-pull in		<-->	phrasal verb+C1	[221109][001]	./p/
+pull in		<-->	phrasal verb++C1	[221109][001]	./p/
 	;vào trạm -- (1) [-pull in (to something)] (of a train) to enter a station and stop
 		;TOPICS Transport by bus and trainC1
 	;dạt/tấp vào lề -- (2) (British English) (of a vehicle or its driver) to move to the side of the road or to the place mentioned and stop
@@ -6222,7 +6222,7 @@ pull in		<-->	phrasal verb+C1	[221109][001]	./p/
 
 
 
-pull off		<-->	phrasal verb+C2[-0]	.
+pull off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6234,7 +6234,7 @@ pull off		<-->	phrasal verb+C2[-0]	.
 
 
 
-pull out		<-->	phrasal verb+C1	[221109][001]	./p/
+pull out		<-->	phrasal verb++C1	[221109][001]	./p/
 	;lao ra, rời đi -- (1) (of a vehicle or its driver) to move away from the side of the road, etc.
 		;A car suddenly pulled out in front of me.
 		;TOPICS Transport by car or lorryC1
@@ -6252,7 +6252,7 @@ pull out		<-->	phrasal verb+C1	[221109][001]	./p/
 
 
 
-pull over		<-->	phrasal verb+C1	[221109][001]	./p/
+pull over		<-->	phrasal verb++C1	[221109][001]	./p/
 	;tấp/dạt vào lề -- (1) (of a vehicle or its driver) to move to the side of the road in order to stop or let something pass
 		;She saw the ambulance coming up behind her and pulled over.
 		;TOPICS Transport by car or lorryC1
@@ -6267,7 +6267,7 @@ pull over		<-->	phrasal verb+C1	[221109][001]	./p/
 
 
 
-pull up		<-->	phrasal verb+C1	[221109][001]	./p/
+pull up		<-->	phrasal verb++C1	[221109][001]	./p/
 	;dừng lại -- (1) (of a vehicle or its driver) to stop
 		;He pulled up at the traffic lights.
 		;TOPICS Transport by car or lorryC1
@@ -6281,7 +6281,7 @@ pull up		<-->	phrasal verb+C1	[221109][001]	./p/
 
 
 
-puncture		<-->	noun+C1[-0]	.
+puncture		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6293,7 +6293,7 @@ puncture		<-->	noun+C1[-0]	.
 
 
 
-purr		<-->	verb+C2	[221109][001]	./pɜː(r)/
+purr		<-->	verb++C2	[221109][001]	./pɜː(r)/
  /pɜːr/\
 	;bgừ bgừ -- (1) ​[intransitive] when a cat purrs, it makes a low continuous sound in the throat, especially when it is happy or comfortable
 		;The cat was purring contentedly on my lap.
@@ -6314,7 +6314,7 @@ purr		<-->	verb+C2	[221109][001]	./pɜː(r)/
 
 
 
-push-start		<-->	noun+C2[-0]	.
+push-start		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6326,7 +6326,7 @@ push-start		<-->	noun+C2[-0]	.
 
 
 
-push-start		<-->	verb+C2	[221109][001]	./ˈpʊʃ stɑːt/
+push-start		<-->	verb++C2	[221109][001]	./ˈpʊʃ stɑːt/
  /ˈpʊʃ stɑːrt/ (especially British English)
 	;đẩy để nổ máy -- (1) push-start something to push a vehicle in order to make the engine start
 		;TOPICS Transport by car or lorryC2
@@ -6340,7 +6340,7 @@ push-start		<-->	verb+C2	[221109][001]	./ˈpʊʃ stɑːt/
 
 
 
-quad bike		<-->	noun+C2[-0]	.
+quad bike		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6352,7 +6352,7 @@ quad bike		<-->	noun+C2[-0]	.
 
 
 
-queue		<-->	noun+B1[-0]	.
+queue		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6364,7 +6364,7 @@ queue		<-->	noun+B1[-0]	.
 
 
 
-race car		<-->	noun+B1[-0]	.
+race car		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6376,7 +6376,7 @@ race car		<-->	noun+B1[-0]	.
 
 
 
-racer		<-->	noun+B2[-0]	.
+racer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6388,7 +6388,7 @@ racer		<-->	noun+B2[-0]	.
 
 
 
-racing car		<-->	noun+B1[-0]	.
+racing car		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6400,7 +6400,7 @@ racing car		<-->	noun+B1[-0]	.
 
 
 
-radar trap		<-->	noun+C2[-0]	.
+radar trap		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6412,7 +6412,7 @@ radar trap		<-->	noun+C2[-0]	.
 
 
 
-radial		<-->	noun+C2[-0]	.
+radial		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6424,7 +6424,7 @@ radial		<-->	noun+C2[-0]	.
 
 
 
-radiator		<-->	noun+C2[-0]	.
+radiator		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6436,7 +6436,7 @@ radiator		<-->	noun+C2[-0]	.
 
 
 
-railroad crossing		<-->	noun+B2[-0]	.
+railroad crossing		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6448,7 +6448,7 @@ railroad crossing		<-->	noun+B2[-0]	.
 
 
 
-ram		<-->	verb+C2	[221104][001]	./ræm/-NAmE /ræm/
+ram		<-->	verb++C2	[221104][001]	./ræm/-NAmE /ræm/
 	;đâm vào -- (1) ram something (of a vehicle, a ship, etc.) to drive into or hit another vehicle, ship, etc. with force, sometimes deliberately
 		;Two passengers were injured when their taxi was rammed from behind by a bus.
 		;TOPICS Transport by car or lorryC2
@@ -6470,7 +6470,7 @@ ram		<-->	verb+C2	[221104][001]	./ræm/-NAmE /ræm/
 
 
 
-ramp		<-->	noun+C2[-0]	.
+ramp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6482,7 +6482,7 @@ ramp		<-->	noun+C2[-0]	.
 
 
 
-rat run		<-->	noun+C2[-0]	.
+rat run		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6494,7 +6494,7 @@ rat run		<-->	noun+C2[-0]	.
 
 
 
-rear-end		<-->	verb+C2	[221104][001]	./ˌrɪər ˈend/-NAmE /ˌrɪr ˈend/ (informal)
+rear-end		<-->	verb++C2	[221104][001]	./ˌrɪər ˈend/-NAmE /ˌrɪr ˈend/ (informal)
 	;lái phía sau -- (1) rear-end something/somebody (of a vehicle or driver) to drive into the back of another vehicle
 		;There was a loud crash as someone rear-ended me.
 		;TOPICS Transport by car or lorryC2
@@ -6508,7 +6508,7 @@ rear-end		<-->	verb+C2	[221104][001]	./ˌrɪər ˈend/-NAmE /ˌrɪr ˈend/ (info
 
 
 
-rear end		<-->	noun+C1[-0]	.
+rear end		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6520,7 +6520,7 @@ rear end		<-->	noun+C1[-0]	.
 
 
 
-rear-view mirror		<-->	noun+C2[-0]	.
+rear-view mirror		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6532,7 +6532,7 @@ rear-view mirror		<-->	noun+C2[-0]	.
 
 
 
-rear-wheel drive		<-->	noun+C2[-0]	.
+rear-wheel drive		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6544,7 +6544,7 @@ rear-wheel drive		<-->	noun+C2[-0]	.
 
 
 
-red light		<-->	noun+B1[-0]	.
+red light		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6568,7 +6568,7 @@ regabbreviationC2[-0]	.
 
 
 
-registration number		<-->	noun+C2[-0]	.
+registration number		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6580,7 +6580,7 @@ registration number		<-->	noun+C2[-0]	.
 
 
 
-relief road		<-->	noun+C2	[221107][001]	./rɪˈliːf rəʊd/-NAmE /rɪˈliːf rəʊd/ (British English)
+relief road		<-->	noun++C2	[221107][001]	./rɪˈliːf rəʊd/-NAmE /rɪˈliːf rəʊd/ (British English)
 	;đường tránh xe tải -- (1) a road that vehicles can use to avoid an area of heavy traffic, especially a road built for this purpose
 		;It's part of the relief road system around the city.
 		;There is a detailed map showing where the new relief road is going to go.
@@ -6595,7 +6595,7 @@ relief road		<-->	noun+C2	[221107][001]	./rɪˈliːf rəʊd/-NAmE /rɪˈliːf r�
 
 
 
-removal van		<-->	noun+C2[-0]	.
+removal van		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6619,7 +6619,7 @@ repairverbA2[-0]	.
 
 
 
-repair		<-->	noun+B1[-0]	.
+repair		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6631,7 +6631,7 @@ repair		<-->	noun+B1[-0]	.
 
 
 
-reroute		<-->	verb+C2	[221104][001]	./ˌriːˈruːt/-NAmE /ˌriːˈruːt/,  /ˌriːˈraʊt/
+reroute		<-->	verb++C2	[221104][001]	./ˌriːˈruːt/-NAmE /ˌriːˈruːt/,  /ˌriːˈraʊt/
 	;tái định tuyến, thay đổi lộ trình -- (1) reroute something to change the route that a road, vehicle, phone call, etc. normally follows
 		;to reroute a road
 		;to reroute traffic
@@ -6651,7 +6651,7 @@ reroute		<-->	verb+C2	[221104][001]	./ˌriːˈruːt/-NAmE /ˌriːˈruːt/,  /ˌr
 
 
 
-respray		<-->	noun+C2[-0]	.
+respray		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6663,7 +6663,7 @@ respray		<-->	noun+C2[-0]	.
 
 
 
-respray		<-->	verb+C2	[221104][001]	./ˌriːˈspreɪ/-NAmE /ˌriːˈspreɪ/
+respray		<-->	verb++C2	[221104][001]	./ˌriːˈspreɪ/-NAmE /ˌriːˈspreɪ/
 	;sơn lại -- (1) ​respray something to change the colour of something, especially a car, by spraying it with paint
 		;TOPICS Transport by car or lorryC2
 
@@ -6675,7 +6675,7 @@ respray		<-->	verb+C2	[221104][001]	./ˌriːˈspreɪ/-NAmE /ˌriːˈspreɪ/
 
 
 
-rest stop		<-->	noun+B2[-0]	.
+rest stop		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6687,7 +6687,7 @@ rest stop		<-->	noun+B2[-0]	.
 
 
 
-resurface		<-->	verb+C2	[221104][001]	./ˌriːˈsɜːfɪs/-NAmE /ˌriːˈsɜːrfɪs/
+resurface		<-->	verb++C2	[221104][001]	./ˌriːˈsɜːfɪs/-NAmE /ˌriːˈsɜːrfɪs/
 	;ngoi lên -- (1) [intransitive] to come to the surface again after being underwater or under the ground
 		;The submarine resurfaced.
 		;(figurative) All the old hostilities resurfaced when they met again.
@@ -6702,7 +6702,7 @@ resurface		<-->	verb+C2	[221104][001]	./ˌriːˈsɜːfɪs/-NAmE /ˌriːˈsɜːrf
 
 
 
-reverse		<-->	verb+C1	[221104][001]	./cef/
+reverse		<-->	verb++C1	[221104][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6714,7 +6714,7 @@ reverse		<-->	verb+C1	[221104][001]	./cef/
 
 
 
-reverse		<-->	noun+C1[-0]	.
+reverse		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6726,7 +6726,7 @@ reverse		<-->	noun+C1[-0]	.
 
 
 
-rickshaw		<-->	noun+C2[-0]	.
+rickshaw		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6750,7 +6750,7 @@ rideverbA1[-0]	.
 
 
 
-rider		<-->	noun+B1[-0]	.
+rider		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6762,7 +6762,7 @@ rider		<-->	noun+B1[-0]	.
 
 
 
-right-hand drive		<-->	adjective+C2[-0]	.
+right-hand drive		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6774,7 +6774,7 @@ right-hand drive		<-->	adjective+C2[-0]	.
 
 
 
-right of way		<-->	noun+C2[-0]	.
+right of way		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6786,7 +6786,7 @@ right of way		<-->	noun+C2[-0]	.
 
 
 
-ring road		<-->	noun+C1	[221107][001]	./ˈrɪŋ rəʊd/-NAmE /ˈrɪŋ rəʊd/ (British English) (US English outer belt)
+ring road		<-->	noun++C1	[221107][001]	./ˈrɪŋ rəʊd/-NAmE /ˈrɪŋ rəʊd/ (British English) (US English outer belt)
 	;đường vành đai -- (1) a road that is built around a city or town to reduce traffic in the centre
 		;I followed the car around the ring road.
 		;There was a two-mile traffic jam on the ring road.
@@ -6805,7 +6805,7 @@ ring road		<-->	noun+C1	[221107][001]	./ˈrɪŋ rəʊd/-NAmE /ˈrɪŋ rəʊd/ (B
 
 
 
-road		<-->	noun+A1[-0]	.
+road		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6817,7 +6817,7 @@ road		<-->	noun+A1[-0]	.
 
 
 
-roadblock		<-->	noun+C2[-0]	.
+roadblock		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6829,7 +6829,7 @@ roadblock		<-->	noun+C2[-0]	.
 
 
 
-road hog		<-->	noun+C2[-0]	.
+road hog		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6841,7 +6841,7 @@ road hog		<-->	noun+C2[-0]	.
 
 
 
-roadholding		<-->	noun+C2[-0]	.
+roadholding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6853,7 +6853,7 @@ roadholding		<-->	noun+C2[-0]	.
 
 
 
-roadkill		<-->	noun+C2[-0]	.
+roadkill		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6865,7 +6865,7 @@ roadkill		<-->	noun+C2[-0]	.
 
 
 
-road map		<-->	noun+A2[-0]	.
+road map		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6877,7 +6877,7 @@ road map		<-->	noun+A2[-0]	.
 
 
 
-road pricing		<-->	noun+C2[-0]	.
+road pricing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6889,7 +6889,7 @@ road pricing		<-->	noun+C2[-0]	.
 
 
 
-road rage		<-->	noun+C1[-0]	.
+road rage		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6901,7 +6901,7 @@ road rage		<-->	noun+C1[-0]	.
 
 
 
-road sense		<-->	noun+C2[-0]	.
+road sense		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6913,7 +6913,7 @@ road sense		<-->	noun+C2[-0]	.
 
 
 
-roadside		<-->	noun+C1[-0]	.
+roadside		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6925,7 +6925,7 @@ roadside		<-->	noun+C1[-0]	.
 
 
 
-road sign		<-->	noun+B1[-0]	.
+road sign		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6937,7 +6937,7 @@ road sign		<-->	noun+B1[-0]	.
 
 
 
-roadster		<-->	noun+C2[-0]	.
+roadster		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6949,7 +6949,7 @@ roadster		<-->	noun+C2[-0]	.
 
 
 
-road tax		<-->	noun+C1[-0]	.
+road tax		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6961,7 +6961,7 @@ road tax		<-->	noun+C1[-0]	.
 
 
 
-road test		<-->	noun+C2[-0]	.
+road test		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6973,7 +6973,7 @@ road test		<-->	noun+C2[-0]	.
 
 
 
-road-test		<-->	verb+C2	[221104][001]	./ˈrəʊd test/-NAmE /ˈrəʊd test/
+road-test		<-->	verb++C2	[221104][001]	./ˈrəʊd test/-NAmE /ˈrəʊd test/
 	;chạy thử -- (1) road-test something to test a vehicle to see how it functions or what condition it is in
 		;We invited ‘Which car?’ magazine to road-test two popular cars for us.
 		;(figurative) I decided to road-test some of the ideas in th book.
@@ -6988,7 +6988,7 @@ road-test		<-->	verb+C2	[221104][001]	./ˈrəʊd test/-NAmE /ˈrəʊd test/
 
 
 
-road train		<-->	noun+C2[-0]	.
+road train		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7000,7 +7000,7 @@ road train		<-->	noun+C2[-0]	.
 
 
 
-road trip		<-->	noun+B1[-0]	.
+road trip		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7012,7 +7012,7 @@ road trip		<-->	noun+B1[-0]	.
 
 
 
-roadway		<-->	noun+C2[-0]	.
+roadway		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7024,7 +7024,7 @@ roadway		<-->	noun+C2[-0]	.
 
 
 
-roadworks		<-->	noun+C1[-0]	.
+roadworks		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7036,7 +7036,7 @@ roadworks		<-->	noun+C1[-0]	.
 
 
 
-roadworthiness		<-->	noun+C2[-0]	.
+roadworthiness		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7048,7 +7048,7 @@ roadworthiness		<-->	noun+C2[-0]	.
 
 
 
-roadworthy		<-->	adjective+C2[-0]	.
+roadworthy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7060,7 +7060,7 @@ roadworthy		<-->	adjective+C2[-0]	.
 
 
 
-roar		<-->	verb+C2	[221104][001]	./rɔː(r)/-NAmE /rɔːr/\
+roar		<-->	verb++C2	[221104][001]	./rɔː(r)/-NAmE /rɔːr/\
 	;rống, gầm lên -- (1) [intransitive] to make a very loud, deep sound
 		;We heard a lion roar.
 		;The gun roared deafeningly.
@@ -7080,7 +7080,7 @@ roar		<-->	verb+C2	[221104][001]	./rɔː(r)/-NAmE /rɔːr/\
 
 
 
-roll bar		<-->	noun+C2[-0]	.
+roll bar		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7092,7 +7092,7 @@ roll bar		<-->	noun+C2[-0]	.
 
 
 
-rollover		<-->	noun+C2[-0]	.
+rollover		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7104,7 +7104,7 @@ rollover		<-->	noun+C2[-0]	.
 
 
 
-roof		<-->	noun+A2[-0]	.
+roof		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7116,7 +7116,7 @@ roof		<-->	noun+A2[-0]	.
 
 
 
-roof rack		<-->	noun+C2[-0]	.
+roof rack		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7128,7 +7128,7 @@ roof rack		<-->	noun+C2[-0]	.
 
 
 
-rotary		<-->	noun+C2[-0]	.
+rotary		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7140,7 +7140,7 @@ rotary		<-->	noun+C2[-0]	.
 
 
 
-round		<-->	verb+C2	[221104][001]	./raʊnd/-NAmE /raʊnd/
+round		<-->	verb++C2	[221104][001]	./raʊnd/-NAmE /raʊnd/
 	;chạy xung quanh,  -- (1) [transitive] round something to go around a corner of a building, a bend in the road, etc.
 		;The boat rounded the tip of the island.
 		;We rounded the bend at high speed.
@@ -7154,7 +7154,7 @@ round		<-->	verb+C2	[221104][001]	./raʊnd/-NAmE /raʊnd/
 
 
 
-roundabout		<-->	noun+B2[-0]	.
+roundabout		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7178,7 +7178,7 @@ RTAabbreviationC2[-0]	.
 
 
 
-rumble strip		<-->	noun+C2[-0]	.
+rumble strip		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7190,7 +7190,7 @@ rumble strip		<-->	noun+C2[-0]	.
 
 
 
-run		<-->	verb+C2	[221104][001]	./rʌn/-NAmE /rʌn/
+run		<-->	verb++C2	[221104][001]	./rʌn/-NAmE /rʌn/
 	;đón -- (15) [-drive somebody] [transitive] run somebody + adv./prep. (informal) to drive somebody to a place in a car
 		;Shall I run you home?
 		;Would you mind running me to the shops?
@@ -7204,7 +7204,7 @@ run		<-->	verb+C2	[221104][001]	./rʌn/-NAmE /rʌn/
 
 
 
-runabout		<-->	noun+C2[-0]	.
+runabout		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7216,7 +7216,7 @@ runabout		<-->	noun+C2[-0]	.
 
 
 
-run over		<-->	phrasal verb+C1	[221104][001]	./p/
+run over		<-->	phrasal verb++C1	[221104][001]	./p/
 	;kéo lê -- (1) [-run somebody/something  over] (of a vehicle or its driver) to knock a person or an animal down and drive over their body or a part of it
 		;Two children were run over and killed.
 		;My dog almost got run over.
@@ -7231,7 +7231,7 @@ run over		<-->	phrasal verb+C1	[221104][001]	./p/
 
 
 
-rush hour		<-->	noun+B2[-0]	.
+rush hour		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7243,7 +7243,7 @@ rush hour		<-->	noun+B2[-0]	.
 
 
 
-rutted		<-->	adjective+C2[-0]	.
+rutted		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7255,7 +7255,7 @@ rutted		<-->	adjective+C2[-0]	.
 
 
 
-safety belt		<-->	noun+B1[-0]	.
+safety belt		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7267,7 +7267,7 @@ safety belt		<-->	noun+B1[-0]	.
 
 
 
-saloon		<-->	noun+C2[-0]	.
+saloon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7279,7 +7279,7 @@ saloon		<-->	noun+C2[-0]	.
 
 
 
-salt truck		<-->	noun+C1[-0]	.
+salt truck		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7291,7 +7291,7 @@ salt truck		<-->	noun+C1[-0]	.
 
 
 
-salvage yard		<-->	noun+C2[-0]	.
+salvage yard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7303,7 +7303,7 @@ salvage yard		<-->	noun+C2[-0]	.
 
 
 
-satnav		<-->	noun+B2[-0]	.
+satnav		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7315,7 +7315,7 @@ satnav		<-->	noun+B2[-0]	.
 
 
 
-scooter		<-->	noun+B2[-0]	.
+scooter		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7327,7 +7327,7 @@ scooter		<-->	noun+B2[-0]	.
 
 
 
-scrap		<-->	noun+C2[-0]	.
+scrap		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7341,7 +7341,7 @@ scrap		<-->	noun+C2[-0]	.
 
 
 
-scrapyard		<-->	noun+C2[-0]	.
+scrapyard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7353,7 +7353,7 @@ scrapyard		<-->	noun+C2[-0]	.
 
 
 
-seat belt		<-->	noun+B1[-0]	.
+seat belt		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7365,7 +7365,7 @@ seat belt		<-->	noun+B1[-0]	.
 
 
 
-second-hand		<-->	adjective+B2[-0]	.
+second-hand		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7377,7 +7377,7 @@ second-hand		<-->	adjective+B2[-0]	.
 
 
 
-sedan		<-->	noun+C2[-0]	.
+sedan		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7389,7 +7389,7 @@ sedan		<-->	noun+C2[-0]	.
 
 
 
-self-driving		<-->	adjective+B2[-0]	.
+self-driving		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7401,7 +7401,7 @@ self-driving		<-->	adjective+B2[-0]	.
 
 
 
-semi-trailer		<-->	noun+C2[-0]	.
+semi-trailer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7413,7 +7413,7 @@ semi-trailer		<-->	noun+C2[-0]	.
 
 
 
-service		<-->	noun+C1[-0]	.
+service		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7425,7 +7425,7 @@ service		<-->	noun+C1[-0]	.
 
 
 
-service		<-->	verb+C1	[221104][001]	./ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
+service		<-->	verb++C1	[221104][001]	./ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
 	;kiểm tra sửa chữa -- (1) [-vehicle/machine] [usually passive] to examine a vehicle or machine and repair it if necessary so that it continues to work correctly
 		;have something serviced We need to have the car serviced.
 		;be serviced Make sure your boiler is serviced regularly.
@@ -7451,7 +7451,7 @@ service		<-->	verb+C1	[221104][001]	./ˈsɜːvɪs/-NAmE /ˈsɜːrvɪs/
 
 
 
-service road		<-->	noun+C2	[221107][001]	./ˈsɜːvɪs rəʊd/-NAmE /ˈsɜːrvɪs rəʊd/ (North American English also frontage road)
+service road		<-->	noun++C2	[221107][001]	./ˈsɜːvɪs rəʊd/-NAmE /ˈsɜːrvɪs rəʊd/ (North American English also frontage road)
 	;đường nhỏ -- (1) a side road that runs next to a main road, that you use to reach houses, shops, etc.
 		;TOPICS Transport by car or lorryC2
 	; -- (2) 
@@ -7464,7 +7464,7 @@ service road		<-->	noun+C2	[221107][001]	./ˈsɜːvɪs rəʊd/-NAmE /ˈsɜːrvɪ
 
 
 
-service station		<-->	noun+C1[-0]	.
+service station		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7476,7 +7476,7 @@ service station		<-->	noun+C1[-0]	.
 
 
 
-shed		<-->	verb+C2	[221104][001]	./cef/
+shed		<-->	verb++C2	[221104][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7488,7 +7488,7 @@ shed		<-->	verb+C2	[221104][001]	./cef/
 
 
 
-shock absorber		<-->	noun+C2[-0]	.
+shock absorber		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7500,7 +7500,7 @@ shock absorber		<-->	noun+C2[-0]	.
 
 
 
-shoulder		<-->	noun+C2[-0]	.
+shoulder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7512,7 +7512,7 @@ shoulder		<-->	noun+C2[-0]	.
 
 
 
-showroom		<-->	noun+C2[-0]	.
+showroom		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7524,7 +7524,7 @@ showroom		<-->	noun+C2[-0]	.
 
 
 
-shunt		<-->	noun+C2[-0]	.
+shunt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7536,7 +7536,7 @@ shunt		<-->	noun+C2[-0]	.
 
 
 
-sidecar		<-->	noun+C2[-0]	.
+sidecar		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7548,7 +7548,7 @@ sidecar		<-->	noun+C2[-0]	.
 
 
 
-side road		<-->	noun+B2	[221107][001]	./ˈsaɪd rəʊd/-NAmE /ˈsaɪd rəʊd/
+side road		<-->	noun++B2	[221107][001]	./ˈsaɪd rəʊd/-NAmE /ˈsaɪd rəʊd/
 	;đường nhỏ -- (1) a smaller and less important road leading off a main road
 		;TOPICS Transport by car or lorryB2
 	; -- (2) 
@@ -7561,7 +7561,7 @@ side road		<-->	noun+B2	[221107][001]	./ˈsaɪd rəʊd/-NAmE /ˈsaɪd rəʊd/
 
 
 
-side street		<-->	noun+B2[-0]	.
+side street		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7573,7 +7573,7 @@ side street		<-->	noun+B2[-0]	.
 
 
 
-sidewalk		<-->	noun+B2[-0]	.
+sidewalk		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7585,7 +7585,7 @@ sidewalk		<-->	noun+B2[-0]	.
 
 
 
-signal		<-->	noun+B1[-0]	.
+signal		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7597,7 +7597,7 @@ signal		<-->	noun+B1[-0]	.
 
 
 
-signpost		<-->	noun+B2[-0]	.
+signpost		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7621,7 +7621,7 @@ signpostverbB2[-0]	.
 
 
 
-silencer		<-->	noun+C2[-0]	.
+silencer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7633,7 +7633,7 @@ silencer		<-->	noun+C2[-0]	.
 
 
 
-skid		<-->	verb+C2	[220825][001]	./skɪd/-NAmE /skɪd/ [intransitive]
+skid		<-->	verb++C2	[220825][001]	./skɪd/-NAmE /skɪd/ [intransitive]
 	;trượt -- (1) (+ adv./prep.) (usually of a vehicle) to slide forward or to one side in a way that shows a loss of control
 		;The car skidded on the ice and went straight into the wall.
 		;She could feel they were skidding.
@@ -7651,7 +7651,7 @@ skid		<-->	verb+C2	[220825][001]	./skɪd/-NAmE /skɪd/ [intransitive]
 
 
 
-skid		<-->	noun+C2[-0]	.
+skid		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7663,7 +7663,7 @@ skid		<-->	noun+C2[-0]	.
 
 
 
-slam		<-->	verb+C2	[221104][001]	./cef/
+slam		<-->	verb++C2	[221104][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7675,7 +7675,7 @@ slam		<-->	verb+C2	[221104][001]	./cef/
 
 
 
-sleeping policeman		<-->	noun+C2[-0]	.
+sleeping policeman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7687,7 +7687,7 @@ sleeping policeman		<-->	noun+C2[-0]	.
 
 
 
-slip road		<-->	noun+C2	[221107][001]	./ˈslɪp rəʊd/-NAmE /ˈslɪp rəʊd/ (British English) (North American English ramp)
+slip road		<-->	noun++C2	[221107][001]	./ˈslɪp rəʊd/-NAmE /ˈslɪp rəʊd/ (British English) (North American English ramp)
 	;đường  phụ, chỗ rẽ -- (1) a road used for driving onto or off a major road such as a motorway or interstate
 		;COMPARE access road
 		;TOPICS Transport by car or lorryC2
@@ -7713,7 +7713,7 @@ slowverbB1[-0]	.
 
 
 
-slow lane		<-->	noun+B2[-0]	.
+slow lane		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7725,7 +7725,7 @@ slow lane		<-->	noun+B2[-0]	.
 
 
 
-smash		<-->	verb+C1	[220825][001]	./smæʃ/-NAmE /smæʃ/
+smash		<-->	verb++C1	[220825][001]	./smæʃ/-NAmE /smæʃ/
 
 
 
@@ -7735,7 +7735,7 @@ smash		<-->	verb+C1	[220825][001]	./smæʃ/-NAmE /smæʃ/
 
 
 
-smash-up		<-->	noun+C2[-0]	.
+smash-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7747,7 +7747,7 @@ smash-up		<-->	noun+C2[-0]	.
 
 
 
-snarl-up		<-->	noun+C2[-0]	.
+snarl-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7759,7 +7759,7 @@ snarl-up		<-->	noun+C2[-0]	.
 
 
 
-snowplough		<-->	noun+C2[-0]	.
+snowplough		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7771,7 +7771,7 @@ snowplough		<-->	noun+C2[-0]	.
 
 
 
-soft shoulder		<-->	noun+C2[-0]	.
+soft shoulder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7783,7 +7783,7 @@ soft shoulder		<-->	noun+C2[-0]	.
 
 
 
-soft-top		<-->	noun+C2[-0]	.
+soft-top		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7795,7 +7795,7 @@ soft-top		<-->	noun+C2[-0]	.
 
 
 
-soup up		<-->	phrasal verb+C2	[220825][001]	./suːp/-NAmE /suːp/
+soup up		<-->	phrasal verb++C2	[220825][001]	./suːp/-NAmE /suːp/
 	;độ xe -- (1) soup something  up: (informal) to make changes to something such as a car or computer, so that it is more powerful or exciting than before
 		;TOPICS Transport by car or lorryC2
 
@@ -7806,7 +7806,7 @@ soup up		<-->	phrasal verb+C2	[220825][001]	./suːp/-NAmE /suːp/
 
 
 
-spare part		<-->	noun+C1[-0]	.
+spare part		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7818,7 +7818,7 @@ spare part		<-->	noun+C1[-0]	.
 
 
 
-spare tyre		<-->	noun+C1[-0]	.
+spare tyre		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7830,7 +7830,7 @@ spare tyre		<-->	noun+C1[-0]	.
 
 
 
-spark plug		<-->	noun+C2[-0]	.
+spark plug		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7842,7 +7842,7 @@ spark plug		<-->	noun+C2[-0]	.
 
 
 
-speed camera		<-->	noun+B1[-0]	.
+speed camera		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7854,7 +7854,7 @@ speed camera		<-->	noun+B1[-0]	.
 
 
 
-speed hump		<-->	noun+C2[-0]	.
+speed hump		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7866,7 +7866,7 @@ speed hump		<-->	noun+C2[-0]	.
 
 
 
-speeding		<-->	noun+B2[-0]	.
+speeding		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7878,7 +7878,7 @@ speeding		<-->	noun+B2[-0]	.
 
 
 
-speed limit		<-->	noun+B1[-0]	.
+speed limit		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7890,7 +7890,7 @@ speed limit		<-->	noun+B1[-0]	.
 
 
 
-speedometer		<-->	noun+C2[-0]	.
+speedometer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7902,7 +7902,7 @@ speedometer		<-->	noun+C2[-0]	.
 
 
 
-speed trap		<-->	noun+C1[-0]	.
+speed trap		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7914,7 +7914,7 @@ speed trap		<-->	noun+C1[-0]	.
 
 
 
-spoiler		<-->	noun+C2[-0]	.
+spoiler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7926,7 +7926,7 @@ spoiler		<-->	noun+C2[-0]	.
 
 
 
-sports car		<-->	noun+B1[-0]	.
+sports car		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7938,7 +7938,7 @@ sports car		<-->	noun+B1[-0]	.
 
 
 
-sport utility vehicle		<-->	noun+C2[-0]	.
+sport utility vehicle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7950,7 +7950,7 @@ sport utility vehicle		<-->	noun+C2[-0]	.
 
 
 
-sporty		<-->	adjective+C1[-0]	.
+sporty		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7962,7 +7962,7 @@ sporty		<-->	adjective+C1[-0]	.
 
 
 
-squad car		<-->	noun+C2[-0]	.
+squad car		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7974,7 +7974,7 @@ squad car		<-->	noun+C2[-0]	.
 
 
 
-stall		<-->	verb+C2	[220825][002]	./stɔːl/-NAmE /stɔːl/
+stall		<-->	verb++C2	[220825][002]	./stɔːl/-NAmE /stɔːl/
 	;thắng gấp -- (1) ​[intransitive, transitive] (of a vehicle or an engine) to stop suddenly because of a lack of power or speed; to make a vehicle or an engine do this
 		;The car stalled and refused to start again.
 		;I kept stalling.
@@ -7987,7 +7987,7 @@ stall		<-->	verb+C2	[220825][002]	./stɔːl/-NAmE /stɔːl/
 
 
 
-station wagon		<-->	noun+C2[-0]	.
+station wagon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -7999,7 +7999,7 @@ station wagon		<-->	noun+C2[-0]	.
 
 
 
-the main drag		<-->	noun+C2[-0]	.
+the main drag		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8011,7 +8011,7 @@ the main drag		<-->	noun+C2[-0]	.
 
 
 
-steamroller		<-->	noun+C2[-0]	.
+steamroller		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8023,7 +8023,7 @@ steamroller		<-->	noun+C2[-0]	.
 
 
 
-steer		<-->	verb+C1	[221104][001]	./cef/
+steer		<-->	verb++C1	[221104][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8035,7 +8035,7 @@ steer		<-->	verb+C1	[221104][001]	./cef/
 
 
 
-steering		<-->	noun+C1[-0]	.
+steering		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8047,7 +8047,7 @@ steering		<-->	noun+C1[-0]	.
 
 
 
-steering wheel		<-->	noun+C1[-0]	.
+steering wheel		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8059,7 +8059,7 @@ steering wheel		<-->	noun+C1[-0]	.
 
 
 
-stick shift		<-->	noun+C2[-0]	.
+stick shift		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8083,7 +8083,7 @@ stopverbA1[-0]	.
 
 
 
-stop light		<-->	noun+B2[-0]	.
+stop light		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8095,7 +8095,7 @@ stop light		<-->	noun+B2[-0]	.
 
 
 
-stop street		<-->	noun+C2[-0]	.
+stop street		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8107,7 +8107,7 @@ stop street		<-->	noun+C2[-0]	.
 
 
 
-street		<-->	noun+A1[-0]	.
+street		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8119,7 +8119,7 @@ street		<-->	noun+A1[-0]	.
 
 
 
-streetcar		<-->	noun+C2	[221106][001]	./ˈstriːtkɑː(r)/-NAmE /ˈstriːtkɑːr/ (also trolley) (both US English) (British English tram, tramcar)
+streetcar		<-->	noun++C2	[221106][001]	./ˈstriːtkɑː(r)/-NAmE /ˈstriːtkɑːr/ (also trolley) (both US English) (British English tram, tramcar)
 	;xe điện công cộng -- (1) a vehicle driven by electricity, that runs on rails along the streets of a town and carries passengers
 		;TOPICS Transport by car or lorryC2
 
@@ -8131,7 +8131,7 @@ streetcar		<-->	noun+C2	[221106][001]	./ˈstriːtkɑː(r)/-NAmE /ˈstriːtkɑːr
 
 
 
-street light		<-->	noun+B1[-0]	.
+street light		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8143,7 +8143,7 @@ street light		<-->	noun+B1[-0]	.
 
 
 
-stretch limo		<-->	noun+C2[-0]	.
+stretch limo		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8155,7 +8155,7 @@ stretch limo		<-->	noun+C2[-0]	.
 
 
 
-strip		<-->	noun+C2[-0]	.
+strip		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8167,7 +8167,7 @@ strip		<-->	noun+C2[-0]	.
 
 
 
-strip mall		<-->	noun+C2[-0]	.
+strip mall		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8179,7 +8179,7 @@ strip mall		<-->	noun+C2[-0]	.
 
 
 
-stripped-down		<-->	adjective+C2[-0]	.
+stripped-down		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8191,7 +8191,7 @@ stripped-down		<-->	adjective+C2[-0]	.
 
 
 
-subcompact		<-->	noun+C2[-0]	.
+subcompact		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8203,7 +8203,7 @@ subcompact		<-->	noun+C2[-0]	.
 
 
 
-subway		<-->	noun+C1[-0]	.
+subway		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8215,7 +8215,7 @@ subway		<-->	noun+C1[-0]	.
 
 
 
-sunroof		<-->	noun+C2[-0]	.
+sunroof		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8227,7 +8227,7 @@ sunroof		<-->	noun+C2[-0]	.
 
 
 
-surface		<-->	noun+B1[-0]	.
+surface		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8239,7 +8239,7 @@ surface		<-->	noun+B1[-0]	.
 
 
 
-suspension		<-->	noun+C2[-0]	.
+suspension		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8251,7 +8251,7 @@ suspension		<-->	noun+C2[-0]	.
 
 
 
-SUV		<-->	noun+C2[-0]	.
+SUV		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8263,7 +8263,7 @@ SUV		<-->	noun+C2[-0]	.
 
 
 
-swerve		<-->	verb+C1	[220825][002]	./swɜːv/-NAmE /swɜːrv/ [intransitive]
+swerve		<-->	verb++C1	[220825][002]	./swɜːv/-NAmE /swɜːrv/ [intransitive]
 	;bẻ lái đột ngột -- (1) (especially of a vehicle) to change direction suddenly, especially in order to avoid hitting somebody/something
 		;She swerved sharply to avoid a cyclist.
 		;<< , swerve, veer, >>
@@ -8290,7 +8290,7 @@ swerve		<-->	verb+C1	[220825][002]	./swɜːv/-NAmE /swɜːrv/ [intransitive]
 
 
 
-switchback		<-->	noun+C2[-0]	.
+switchback		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8302,7 +8302,7 @@ switchback		<-->	noun+C2[-0]	.
 
 
 
-tail back		<-->	phrasal verb+C2	[220825][002]	./teɪl/-NAmE /teɪl/
+tail back		<-->	phrasal verb++C2	[220825][002]	./teɪl/-NAmE /teɪl/
 	;nối đuôi -- (of traffic) to form a tailback
 		;Traffic tailed back five miles from the scene of the accident.
 		;TOPICS Transport by car or lorryC2
@@ -8317,7 +8317,7 @@ tail back		<-->	phrasal verb+C2	[220825][002]	./teɪl/-NAmE /teɪl/
 
 
 
-tailback		<-->	noun+C2[-0]	.
+tailback		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8329,7 +8329,7 @@ tailback		<-->	noun+C2[-0]	.
 
 
 
-tailgate		<-->	noun+C2[-0]	.
+tailgate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8341,7 +8341,7 @@ tailgate		<-->	noun+C2[-0]	.
 
 
 
-tailgate		<-->	verb+C2	[220825][001]	./ˈteɪlɡeɪt/-NAmE /ˈteɪlɡeɪt/\
+tailgate		<-->	verb++C2	[220825][001]	./ˈteɪlɡeɪt/-NAmE /ˈteɪlɡeɪt/\
 	;bám đuôi, lái quá gần xe phía trước -- (1) [intransitive, transitive] tailgate (somebody/something) (informal) to drive too closely behind another vehicle
 		;TOPICS Transport by car or lorryC2
 
@@ -8351,7 +8351,7 @@ tailgate		<-->	verb+C2	[220825][001]	./ˈteɪlɡeɪt/-NAmE /ˈteɪlɡeɪt/\
 
 
 
-tail light		<-->	noun+C2[-0]	.
+tail light		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8363,7 +8363,7 @@ tail light		<-->	noun+C2[-0]	.
 
 
 
-tandem		<-->	noun+C2[-0]	.
+tandem		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8375,7 +8375,7 @@ tandem		<-->	noun+C2[-0]	.
 
 
 
-tank		<-->	noun+B2[-0]	.
+tank		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8387,7 +8387,7 @@ tank		<-->	noun+B2[-0]	.
 
 
 
-tanker		<-->	noun+C1[-0]	.
+tanker		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8399,7 +8399,7 @@ tanker		<-->	noun+C1[-0]	.
 
 
 
-tank up		<-->	phrasal verb+C2	[220825][002]	./tæŋk/-NAmE /tæŋk/
+tank up		<-->	phrasal verb++C2	[220825][002]	./tæŋk/-NAmE /tæŋk/
 	;đổ xăng -- (1) to fill a car with gas
 		;He tanked up and drove off.
 		;We stopped to tank the car up.
@@ -8410,7 +8410,7 @@ tank up		<-->	phrasal verb+C2	[220825][002]	./tæŋk/-NAmE /tæŋk/
 
 
 
-tar		<-->	noun+C2[-0]	.
+tar		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8422,7 +8422,7 @@ tar		<-->	noun+C2[-0]	.
 
 
 
-Tarmac™		<-->	noun+C2[-0]	.
+Tarmac™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8434,7 +8434,7 @@ Tarmac™		<-->	noun+C2[-0]	.
 
 
 
-tax disc		<-->	noun+C2[-0]	.
+tax disc		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8446,7 +8446,7 @@ tax disc		<-->	noun+C2[-0]	.
 
 
 
-taxi		<-->	noun+A1[-0]	.
+taxi		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8458,7 +8458,7 @@ taxi		<-->	noun+A1[-0]	.
 
 
 
-teamster		<-->	noun+C2[-0]	.
+teamster		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8470,7 +8470,7 @@ teamster		<-->	noun+C2[-0]	.
 
 
 
-test drive		<-->	noun+C1[-0]	.
+test drive		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8482,7 +8482,7 @@ test drive		<-->	noun+C1[-0]	.
 
 
 
-test-drive		<-->	verb+C1	[220825][002]	./ˈtest draɪv/-NAmE /ˈtest draɪv/
+test-drive		<-->	verb++C1	[220825][002]	./ˈtest draɪv/-NAmE /ˈtest draɪv/
 	;láy thử xe định mua -- (1) ​test-drive something to drive a vehicle that you are thinking of buying so that you can see how well it works and if you like it
 		;TOPICS Transport by car or lorryC1
 
@@ -8492,7 +8492,7 @@ test-drive		<-->	verb+C1	[220825][002]	./ˈtest draɪv/-NAmE /ˈtest draɪv/
 
 
 
-thoroughfare		<-->	noun+C2[-0]	.
+thoroughfare		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8504,7 +8504,7 @@ thoroughfare		<-->	noun+C2[-0]	.
 
 
 
-three-point turn		<-->	noun+C2[-0]	.
+three-point turn		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8516,7 +8516,7 @@ three-point turn		<-->	noun+C2[-0]	.
 
 
 
-throttle		<-->	noun+C2[-0]	.
+throttle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8528,7 +8528,7 @@ throttle		<-->	noun+C2[-0]	.
 
 
 
-through		<-->	adjective+B2[-0]	.
+through		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8540,7 +8540,7 @@ through		<-->	adjective+B2[-0]	.
 
 
 
-T-intersection		<-->	noun+C2[-0]	.
+T-intersection		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8552,7 +8552,7 @@ T-intersection		<-->	noun+C2[-0]	.
 
 
 
-tipper		<-->	noun+C2[-0]	.
+tipper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8564,7 +8564,7 @@ tipper		<-->	noun+C2[-0]	.
 
 
 
-tire		<-->	noun+B1[-0]	.
+tire		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8576,7 +8576,7 @@ tire		<-->	noun+B1[-0]	.
 
 
 
-T-junction		<-->	noun+C2[-0]	.
+T-junction		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8588,7 +8588,7 @@ T-junction		<-->	noun+C2[-0]	.
 
 
 
-toll		<-->	noun+C1[-0]	.
+toll		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8600,7 +8600,7 @@ toll		<-->	noun+C1[-0]	.
 
 
 
-tollbooth		<-->	noun+C2[-0]	.
+tollbooth		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8612,7 +8612,7 @@ tollbooth		<-->	noun+C2[-0]	.
 
 
 
-toll plaza		<-->	noun+C2[-0]	.
+toll plaza		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8624,7 +8624,7 @@ toll plaza		<-->	noun+C2[-0]	.
 
 
 
-toot		<-->	noun+C2[-0]	.
+toot		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8636,7 +8636,7 @@ toot		<-->	noun+C2[-0]	.
 
 
 
-toot		<-->	verb+C2	[220825][002]	./tuːt/-NAmE /tuːt/
+toot		<-->	verb++C2	[220825][002]	./tuːt/-NAmE /tuːt/
 	;[intransitive, transitive] (especially British English)
 	;bóp còi -- (1) when a car horn toots or you toot it, it makes a short, high sound
 		;the sound of horns tooting
@@ -8653,7 +8653,7 @@ toot		<-->	verb+C2	[220825][002]	./tuːt/-NAmE /tuːt/
 
 
 
-total		<-->	verb+C2	[220825][002]	./ˈtəʊtl/-NAmE /ˈtəʊtl/*\
+total		<-->	verb++C2	[220825][002]	./ˈtəʊtl/-NAmE /ˈtəʊtl/*\
 	;phá huỷ, gây hại -- (3) total something (especially North American English, informal) to damage a car very badly, so that it is not worth repairing it
 		;She never forgave him for totaling her car.
 		;SEE ALSO write off
@@ -8665,7 +8665,7 @@ total		<-->	verb+C2	[220825][002]	./ˈtəʊtl/-NAmE /ˈtəʊtl/*\
 
 
 
-tow truck		<-->	noun+C2[-0]	.
+tow truck		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8677,7 +8677,7 @@ tow truck		<-->	noun+C2[-0]	.
 
 
 
-track		<-->	noun+B1[-0]	.
+track		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8689,7 +8689,7 @@ track		<-->	noun+B1[-0]	.
 
 
 
-tractor		<-->	noun+C1[-0]	.
+tractor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8701,7 +8701,7 @@ tractor		<-->	noun+C1[-0]	.
 
 
 
-tractor-trailer		<-->	noun+C2[-0]	.
+tractor-trailer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8713,7 +8713,7 @@ tractor-trailer		<-->	noun+C2[-0]	.
 
 
 
-traffic		<-->	noun+A1[-0]	.
+traffic		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8725,7 +8725,7 @@ traffic		<-->	noun+A1[-0]	.
 
 
 
-traffic circle		<-->	noun+C2[-0]	.
+traffic circle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8737,7 +8737,7 @@ traffic circle		<-->	noun+C2[-0]	.
 
 
 
-traffic cone		<-->	noun+B2[-0]	.
+traffic cone		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8749,7 +8749,7 @@ traffic cone		<-->	noun+B2[-0]	.
 
 
 
-traffic island		<-->	noun+C2[-0]	.
+traffic island		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8761,7 +8761,7 @@ traffic island		<-->	noun+C2[-0]	.
 
 
 
-traffic jam		<-->	noun+B2[-0]	.
+traffic jam		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8773,7 +8773,7 @@ traffic jam		<-->	noun+B2[-0]	.
 
 
 
-traffic light		<-->	noun+B1[-0]	.
+traffic light		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8785,7 +8785,7 @@ traffic light		<-->	noun+B1[-0]	.
 
 
 
-traffic warden		<-->	noun+C2[-0]	.
+traffic warden		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8797,7 +8797,7 @@ traffic warden		<-->	noun+C2[-0]	.
 
 
 
-trailer		<-->	noun+C1[-0]	.
+trailer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8809,7 +8809,7 @@ trailer		<-->	noun+C1[-0]	.
 
 
 
-trailer truck		<-->	noun+C2[-0]	.
+trailer truck		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8821,7 +8821,7 @@ trailer truck		<-->	noun+C2[-0]	.
 
 
 
-tram		<-->	noun+B1[-0]	.
+tram		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8833,7 +8833,7 @@ tram		<-->	noun+B1[-0]	.
 
 
 
-tramlines		<-->	noun+C2[-0]	.
+tramlines		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8845,7 +8845,7 @@ tramlines		<-->	noun+C2[-0]	.
 
 
 
-Transit™		<-->	noun+C2[-0]	.
+Transit™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8857,7 +8857,7 @@ Transit™		<-->	noun+C2[-0]	.
 
 
 
-travel-sick		<-->	adjective+B1[-0]	.
+travel-sick		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8869,7 +8869,7 @@ travel-sick		<-->	adjective+B1[-0]	.
 
 
 
-travel sickness		<-->	noun+B1[-0]	.
+travel sickness		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8881,7 +8881,7 @@ travel sickness		<-->	noun+B1[-0]	.
 
 
 
-tread		<-->	noun+C2[-0]	.
+tread		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8893,7 +8893,7 @@ tread		<-->	noun+C2[-0]	.
 
 
 
-tricycle		<-->	noun+C2[-0]	.
+tricycle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8905,7 +8905,7 @@ tricycle		<-->	noun+C2[-0]	.
 
 
 
-trike		<-->	noun+C2[-0]	.
+trike		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8917,7 +8917,7 @@ trike		<-->	noun+C2[-0]	.
 
 
 
-trolleybus		<-->	noun+C2[-0]	.
+trolleybus		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8929,7 +8929,7 @@ trolleybus		<-->	noun+C2[-0]	.
 
 
 
-truck		<-->	noun+A2[-0]	.
+truck		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8941,7 +8941,7 @@ truck		<-->	noun+A2[-0]	.
 
 
 
-truck		<-->	verb+C1	[220825][002]	./trʌk/-NAmE /trʌk/\
+truck		<-->	verb++C1	[220825][002]	./trʌk/-NAmE /trʌk/\
 	;(especially North American English)
 	;chở, vận chuyển -- (1) truck something (+ adv./prep.) to take something somewhere by truck
 		;Water had to be trucked in to the town.
@@ -8953,7 +8953,7 @@ truck		<-->	verb+C1	[220825][002]	./trʌk/-NAmE /trʌk/\
 
 
 
-trucker		<-->	noun+B2[-0]	.
+trucker		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8965,7 +8965,7 @@ trucker		<-->	noun+B2[-0]	.
 
 
 
-truck stop		<-->	noun+B2[-0]	.
+truck stop		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8977,7 +8977,7 @@ truck stop		<-->	noun+B2[-0]	.
 
 
 
-trunk		<-->	noun+C2[-0]	.
+trunk		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8989,7 +8989,7 @@ trunk		<-->	noun+C2[-0]	.
 
 
 
-trunk road		<-->	noun+C2	[221107][002]	./ˈtrʌŋk rəʊd/-NAmE /ˈtrʌŋk rəʊd/ (British English)
+trunk road		<-->	noun++C2	[221107][002]	./ˈtrʌŋk rəʊd/-NAmE /ˈtrʌŋk rəʊd/ (British English)
 	;đường cái -- (1) an important main road
 		;Over a 1 000 miles of new trunk roads and motorways have been built.
 		;The M40 motorway and the A34 trunk road make the town easily accessible.
@@ -9004,7 +9004,7 @@ trunk road		<-->	noun+C2	[221107][002]	./ˈtrʌŋk rəʊd/-NAmE /ˈtrʌŋk rəʊ
 
 
 
-tunnel		<-->	noun+B2[-0]	.
+tunnel		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9028,7 +9028,7 @@ turnverbA1[-0]	.
 
 
 
-turn		<-->	noun+A2[-0]	.
+turn		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9040,7 +9040,7 @@ turn		<-->	noun+A2[-0]	.
 
 
 
-turn-off		<-->	noun+C1[-0]	.
+turn-off		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9052,7 +9052,7 @@ turn-off		<-->	noun+C1[-0]	.
 
 
 
-turn off		<-->	phrasal verb+B2	[221104][002]	./p/
+turn off		<-->	phrasal verb++B2	[221104][002]	./p/
 	;rẽ -- (1) [-turn off | turn off something] [no passive] to leave a road in order to travel on another
 		;Is this where we turn off?
 		;The jet began to turn off the main runway.
@@ -9067,7 +9067,7 @@ turn off		<-->	phrasal verb+B2	[221104][002]	./p/
 
 
 
-turnpike		<-->	noun+C2[-0]	.
+turnpike		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9079,7 +9079,7 @@ turnpike		<-->	noun+C2[-0]	.
 
 
 
-turn signal		<-->	noun+B2[-0]	.
+turn signal		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9091,7 +9091,7 @@ turn signal		<-->	noun+B2[-0]	.
 
 
 
-twist		<-->	noun+C1[-0]	.
+twist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9103,7 +9103,7 @@ twist		<-->	noun+C1[-0]	.
 
 
 
-twisty		<-->	adjective+C2[-0]	.
+twisty		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9115,7 +9115,7 @@ twisty		<-->	adjective+C2[-0]	.
 
 
 
-two-seater		<-->	noun+C2[-0]	.
+two-seater		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9127,7 +9127,7 @@ two-seater		<-->	noun+C2[-0]	.
 
 
 
-tyre		<-->	noun+B1[-0]	.
+tyre		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9139,7 +9139,7 @@ tyre		<-->	noun+B1[-0]	.
 
 
 
-U-ey		<-->	noun+C2[-0]	.
+U-ey		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9151,7 +9151,7 @@ U-ey		<-->	noun+C2[-0]	.
 
 
 
-underpass		<-->	noun+C2[-0]	.
+underpass		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9163,7 +9163,7 @@ underpass		<-->	noun+C2[-0]	.
 
 
 
-used		<-->	adjective+B1[-0]	.
+used		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9175,7 +9175,7 @@ used		<-->	adjective+B1[-0]	.
 
 
 
-ute		<-->	noun+C2[-0]	.
+ute		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9187,7 +9187,7 @@ ute		<-->	noun+C2[-0]	.
 
 
 
-utility vehicle		<-->	noun+C2[-0]	.
+utility vehicle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9199,7 +9199,7 @@ utility vehicle		<-->	noun+C2[-0]	.
 
 
 
-U-turn		<-->	noun+C2[-0]	.
+U-turn		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9211,7 +9211,7 @@ U-turn		<-->	noun+C2[-0]	.
 
 
 
-valet		<-->	noun+C2[-0]	.
+valet		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9223,7 +9223,7 @@ valet		<-->	noun+C2[-0]	.
 
 
 
-valet		<-->	verb+C2	[220825][002]	./ˈvælɪt/-NAmE /ˈvælɪt/\
+valet		<-->	verb++C2	[220825][002]	./ˈvælɪt/-NAmE /ˈvælɪt/\
 	;dọn dẹp nội thất xe -- (1) [transitive] valet something (British English) to clean a person’s car carefully and completely, especially on the inside
 		;a car valeting service
 		;TOPICS Transport by car or lorryC2
@@ -9234,7 +9234,7 @@ valet		<-->	verb+C2	[220825][002]	./ˈvælɪt/-NAmE /ˈvælɪt/\
 
 
 
-van		<-->	noun+A2[-0]	.
+van		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9246,7 +9246,7 @@ van		<-->	noun+A2[-0]	.
 
 
 
-veer		<-->	verb+C2	[220825][002]	./vɪə(r)/-NAmE /vɪr/
+veer		<-->	verb++C2	[220825][002]	./vɪə(r)/-NAmE /vɪr/
 	;đổi hướng đột ngột -- (1) [intransitive] + adv./prep. (especially of a vehicle) to change direction suddenly
 		;SYNONYM swerve
 		;The bus veered onto the wrong side of the road.
@@ -9273,7 +9273,7 @@ veer		<-->	verb+C2	[220825][002]	./vɪə(r)/-NAmE /vɪr/
 
 
 
-vehicle		<-->	noun+A2[-0]	.
+vehicle		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9285,7 +9285,7 @@ vehicle		<-->	noun+A2[-0]	.
 
 
 
-verge		<-->	noun+C2[-0]	.
+verge		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9297,7 +9297,7 @@ verge		<-->	noun+C2[-0]	.
 
 
 
-veteran car		<-->	noun+C2[-0]	.
+veteran car		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9309,7 +9309,7 @@ veteran car		<-->	noun+C2[-0]	.
 
 
 
-viaduct		<-->	noun+C2[-0]	.
+viaduct		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9321,7 +9321,7 @@ viaduct		<-->	noun+C2[-0]	.
 
 
 
-vintage		<-->	adjective+C1[-0]	.
+vintage		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9333,7 +9333,7 @@ vintage		<-->	adjective+C1[-0]	.
 
 
 
-visor		<-->	noun+C2[-0]	.
+visor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9345,7 +9345,7 @@ visor		<-->	noun+C2[-0]	.
 
 
 
-wagon		<-->	noun+C1[-0]	.
+wagon		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9357,7 +9357,7 @@ wagon		<-->	noun+C1[-0]	.
 
 
 
-warning triangle		<-->	noun+C2[-0]	.
+warning triangle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9369,7 +9369,7 @@ warning triangle		<-->	noun+C2[-0]	.
 
 
 
-warranty		<-->	noun+C2[-0]	.
+warranty		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9381,7 +9381,7 @@ warranty		<-->	noun+C2[-0]	.
 
 
 
-wheel		<-->	noun+A2[-0]	.
+wheel		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9393,7 +9393,7 @@ wheel		<-->	noun+A2[-0]	.
 
 
 
-wheel arch		<-->	noun+C2[-0]	.
+wheel arch		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9405,7 +9405,7 @@ wheel arch		<-->	noun+C2[-0]	.
 
 
 
-wheel clamp		<-->	noun+C2[-0]	.
+wheel clamp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9417,7 +9417,7 @@ wheel clamp		<-->	noun+C2[-0]	.
 
 
 
-whiplash injury		<-->	noun+C2[-0]	.
+whiplash injury		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9441,7 +9441,7 @@ windverbB2[-0]	.
 
 
 
-winding		<-->	adjective+C2[-0]	.
+winding		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9453,7 +9453,7 @@ winding		<-->	adjective+C2[-0]	.
 
 
 
-windscreen wiper		<-->	noun+C2[-0]	.
+windscreen wiper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9465,7 +9465,7 @@ windscreen wiper		<-->	noun+C2[-0]	.
 
 
 
-windshield		<-->	noun+C1[-0]	.
+windshield		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9477,7 +9477,7 @@ windshield		<-->	noun+C1[-0]	.
 
 
 
-wing		<-->	noun+C2	[221106][002]	./wɪŋ/-NAmE /wɪŋ/\ [/cef/] 
+wing		<-->	noun++C2	[221106][002]	./wɪŋ/-NAmE /wɪŋ/\ [/cef/] 
 	;gồ quanh bánh xe -- (1) [-of car] ​enlarge image(British English) (North American English fender) [countable] a part of a car that is above a wheel
 		;There was a dent in the nearside wing.
 		;Extra Examples:
@@ -9504,7 +9504,7 @@ wing		<-->	noun+C2	[221106][002]	./wɪŋ/-NAmE /wɪŋ/\ [/cef/]
 
 
 
-wing mirror		<-->	noun+C2	[221106][001]	./ˈwɪŋ mɪrə(r)/-NAmE /ˈwɪŋ mɪrər/ (British English) (North American English side-view mirror)
+wing mirror		<-->	noun++C2	[221106][001]	./ˈwɪŋ mɪrə(r)/-NAmE /ˈwɪŋ mɪrər/ (British English) (North American English side-view mirror)
 	;kính hậu -- (1) a mirror that sticks out from the side of a vehicle and allows the driver to see behind the vehicle
 		;TOPICS Transport by car or lorryC2
 	; -- (2) 
@@ -9517,7 +9517,7 @@ wing mirror		<-->	noun+C2	[221106][001]	./ˈwɪŋ mɪrə(r)/-NAmE /ˈwɪŋ mɪr�
 
 
 
-Winnebago™		<-->	noun+C2	[221106][002]	./ˌwɪnɪˈbeɪɡəʊ/-NAmE /ˌwɪnɪˈbeɪɡəʊ/ (North American English) (plural Winnebago, Winnebagos)
+Winnebago™		<-->	noun++C2	[221106][002]	./ˌwɪnɪˈbeɪɡəʊ/-NAmE /ˌwɪnɪˈbeɪɡəʊ/ (North American English) (plural Winnebago, Winnebagos)
 	;xe nhà di động -- (1) a large vehicle designed for people to live and sleep in when they are camping; a type of RV
 		;Culture
 		;TOPICS Transport by car or lorryC2
@@ -9531,7 +9531,7 @@ Winnebago™		<-->	noun+C2	[221106][002]	./ˌwɪnɪˈbeɪɡəʊ/-NAmE /ˌwɪnɪ�
 
 
 
-wiper		<-->	noun+C2	[221106][002]	./ˈwaɪpə(r)/-NAmE /ˈwaɪpər/ (North American English also windshield wiper, British English also windscreen wiper)
+wiper		<-->	noun++C2	[221106][002]	./ˈwaɪpə(r)/-NAmE /ˈwaɪpər/ (North American English also windshield wiper, British English also windscreen wiper)
 	;cây lau kính chắn gió -- (1) a long metal part with a rubber edge that moves across a windscreen to make it clear of rain, snow, etc.
 		;Cars were coming past with their wipers going.
 		;TOPICS Transport by car or lorryC2
@@ -9545,7 +9545,7 @@ wiper		<-->	noun+C2	[221106][002]	./ˈwaɪpə(r)/-NAmE /ˈwaɪpər/ (North Ameri
 
 
 
-wreck		<-->	noun+C1	[221106][002]	./rek/-NAmE /rek/\
+wreck		<-->	noun++C1	[221106][002]	./rek/-NAmE /rek/\
 	;con tàu đắm -- (1) a ship that has sunk or that has been very badly damaged
 		;They're going to try and raise the wreck from the seabed.
 		;SEE ALSO shipwreck
@@ -9591,7 +9591,7 @@ wreck		<-->	noun+C1	[221106][002]	./rek/-NAmE /rek/\
 
 
 
-wreckage		<-->	noun+C2	[221106][002]	./ˈrekɪdʒ/-NAmE /ˈrekɪdʒ/ [uncountable]
+wreckage		<-->	noun++C2	[221106][002]	./ˈrekɪdʒ/-NAmE /ˈrekɪdʒ/ [uncountable]
 	;đống đổ nát -- (1) the parts of a vehicle, building, etc. that remain after it has been badly damaged or destroyed
 		;A few survivors were pulled from the wreckage.
 		;Pieces of wreckage were found ten miles away from the scene of the explosion.
@@ -9638,7 +9638,7 @@ wreckage		<-->	noun+C2	[221106][002]	./ˈrekɪdʒ/-NAmE /ˈrekɪdʒ/ [uncountabl
 
 
 
-write-off		<-->	noun+C2	[221106][002]	./ˈraɪt ɒf/-NAmE /ˈraɪt ɔːf/
+write-off		<-->	noun++C2	[221106][002]	./ˈraɪt ɒf/-NAmE /ˈraɪt ɔːf/
 	;xe bị tan nát -- (1) (British English) a vehicle that has been so badly damaged in an accident that cannot be repaired or would cost more to repair than to replace
 		;She survived the crash with minor injuries, but the car was a write-off.
 		;TOPICS Transport by car or lorryC2
@@ -9654,7 +9654,7 @@ write-off		<-->	noun+C2	[221106][002]	./ˈraɪt ɒf/-NAmE /ˈraɪt ɔːf/
 
 
 
-yellow line		<-->	noun+C1[-0]	./ˌjeləʊ ˈlaɪn/-NAmE /ˌjeləʊ ˈlaɪn/
+yellow line		<-->	noun++C1[-0]	./ˌjeləʊ ˈlaɪn/-NAmE /ˌjeləʊ ˈlaɪn/
 	;vạch đậu xe -- (1) (in the UK) a yellow line painted at the side of a road to show that you can only park your car there at particular times or for a short time
 		;double yellow lines (= two lines that mean you cannot park there at all)
 		;TOPICS Transport by car or lorryC1
@@ -9668,7 +9668,7 @@ yellow line		<-->	noun+C1[-0]	./ˌjeləʊ ˈlaɪn/-NAmE /ˌjeləʊ ˈlaɪn/
 
 
 
-yield		<-->	verb+C2	[221104][001]	./cef/
+yield		<-->	verb++C2	[221104][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9680,7 +9680,7 @@ yield		<-->	verb+C2	[221104][001]	./cef/
 
 
 
-zebra crossing		<-->	noun+C1	[221106][002]	./ˌzebrə ˈkrɒsɪŋ/,  /ˌziːbrə ˈkrɒsɪŋ/-NAmE /ˌziːbrə ˈkrɔːsɪŋ/ (British English)
+zebra crossing		<-->	noun++C1	[221106][002]	./ˌzebrə ˈkrɒsɪŋ/,  /ˌziːbrə ˈkrɒsɪŋ/-NAmE /ˌziːbrə ˈkrɔːsɪŋ/ (British English)
 	;vạch qua đường -- (1) an area of road marked with broad black and white lines where vehicles must stop for people to walk across
 		;SEE ALSO pedestrian crossing, pelican crossing
 		;Wordfinder: clampconecontraflowpedestrianroadworksspeed humptailbacktolltrafficzebra crossing
@@ -9695,7 +9695,7 @@ zebra crossing		<-->	noun+C1	[221106][002]	./ˌzebrə ˈkrɒsɪŋ/,  /ˌziːbrə
 
 
 
-zero-emission		<-->	adjective+C1	[221109][001]	./ˌzɪərəʊ ɪˈmɪʃn/
+zero-emission		<-->	adjective++C1	[221109][001]	./ˌzɪərəʊ ɪˈmɪʃn/
  /ˌzɪrəʊ ɪˈmɪʃn/ [only before noun]
 	;không phát thải  -- (1) used to describe a vehicle that does not produce gases that cause pollution
 		;Zero-emission cars—including all electric cars—are exempt from car tax.
