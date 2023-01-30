@@ -13,6 +13,30 @@
 
 
 
+[-] check out		<-->	 phrasal verb+A2	[221220][001]	./p/
+	;khám phá ra -- to be found to be true or acceptable after being examined
+		;The local police found her story didn't check out.
+	;trả tiền phòng -- (2) [-check out (of…)] to pay your bill and leave a hotel, etc.
+		;Guests should check out of their rooms by noon.
+		;I'm sorry, they aren't here. They checked out this morning.
+		;RELATED NOUN checkout (2)
+	;khám phá ra -- (3) [-check somebody/something  out] to find out if something is correct, or if somebody is acceptable
+		;The police are checking out his alibi.
+		;We'll have to check him out before we employ him.
+	;mượn từ -- (4) [check something  out] to borrow something from an official place, for example a book from a library
+		;The book has been checked out in your name.
+
+
+
+
+
+
+
+
+
+
+
+
 [-] go down		<-->	 phrasal verb+A2	[221220][001]	./p/
 	;đi xuống -- (1) if the price of something, the temperature, etc. goes down, it becomes lower
 		;SYNONYM fall
@@ -193,6 +217,15 @@
 		;She's just broken up with her boyfriend.
 		;RELATED NOUN break-up
 		;TOPICS Family and relationshipsB1
+
+
+[-] end up		<-->	 phrasal verb+B1	[221220][001]	./p/ [IE-C1-Z02-19]
+	;tự mình, kết thúc, kết cục là -- (1) to find yourself in a place or situation at the end of a process or period of time
+		;end up doing something I ended up doing all the work myself.[ap: end up]
+		;+ adv./prep. If you go on like this you'll end up in prison.
+		;We moved around a lot when I was young but we ended up in London.
+		;+ adj. If he carries on driving like that, he'll end up dead.[:: end up]
+
 
 
 
@@ -547,7 +580,7 @@
 
 
 
-[-] bring up		<-->	 phrasal verb+B2	[221220][001]	./p/
+[-] bring up		<-->	 phrasal verb+B2	[221220][001]	./p/ [IE-C1-Z02-20]
 	;nuôi dạy -- (1) [-bring somebody  up] [often passive] to care for a child, teaching him or her how to behave, etc.
 		;SYNONYM raise
 		;She brought up five children.
@@ -4846,38 +4879,40 @@
 
 
 
-[-] walk into		<-->	phrasal verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] walk into		<-->	phrasal verb+C2[-0]	./p/
+	;can dự, dự vào -- (1) [-walk into something] (informal) to become involved in an unpleasant situation, especially because you were not sensible enough to avoid it
+		;I realized I'd walked into a trap.
+	;bước vào/lấy/nhận dễ dàng -- (2) to succeed in getting a job very easily
+		;She walked straight into a job at the bank as soon as she graduated.
+		;TOPICS SuccessC2
+	;giẫm vào -- (3) [-walk into something/somebody] to crash into something/somebody while you are walking, for example because you do not see them
+		;I was in a hurry and almost walked into the glass door.
 
 
 
 
 
-[-] win out		<-->	phrasal verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] win out		<-->	phrasal verb+C2[-0]	./p/
+	;thành công sau khi trãi qua nhiều khó khăn -- (1) [-win out/through] (informal) to be successful despite difficulties
+		;It won't be easy but we'll win through in the end.
+		;TOPICS SuccessC2
 
 
 
 
-
-[-] win through		<-->	phrasal verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+[-] win through		<-->	phrasal verb+C2[-0]	./p/
+	;thành công sau khi trãi qua nhiều khó khăn -- (1) [-win out/through] (informal) to be successful despite difficulties
+		;It won't be easy but we'll win through in the end.
+		;TOPICS SuccessC2
 
 
 
 
-[-] work at		<-->	phrasal verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+[-] work at		<-->	phrasal verb+C2[-0]	./p/
+	;nỗ lực -- (1) [-work at something]to make great efforts to achieve something or do something well
+		;He's working at losing weight.
+		;Learning to play the piano isn't easy. You have to work at it.
+		;TOPICS SuccessC2
 
 
 

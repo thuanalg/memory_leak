@@ -1,4 +1,4 @@
-abduct		<-->	verb+C2[-0]	.
+abduct		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -7,7 +7,7 @@ abduct		<-->	verb+C2[-0]	.
 
 
 
-abductee		<-->	noun+C2[-0]	.
+abductee		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -16,7 +16,7 @@ abductee		<-->	noun+C2[-0]	.
 
 
 
-abduction		<-->	noun+C2[-0]	.
+abduction		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -25,7 +25,7 @@ abduction		<-->	noun+C2[-0]	.
 
 
 
-abductor		<-->	noun+C2[-0]	.
+abductor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -34,7 +34,7 @@ abductor		<-->	noun+C2[-0]	.
 
 
 
-ABH		<-->	abbreviation+C2[-0]	.
+ABH		<-->	abbreviation++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -43,7 +43,7 @@ ABH		<-->	abbreviation+C2[-0]	.
 
 
 
-abuse		<-->	noun+C1[-0]	.
+abuse		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -52,7 +52,7 @@ abuse		<-->	noun+C1[-0]	.
 
 
 
-abuse		<-->	verb+C1[-0]	.
+abuse		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -61,7 +61,7 @@ abuse		<-->	verb+C1[-0]	.
 
 
 
-accessory		<-->	noun+C2[-0]	.
+accessory		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -70,7 +70,7 @@ accessory		<-->	noun+C2[-0]	.
 
 
 
-accomplice		<-->	noun+C1[-0]	.
+accomplice		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -79,7 +79,7 @@ accomplice		<-->	noun+C1[-0]	.
 
 
 
-actual bodily harm		<-->	noun+C2[-0]	.
+actual bodily harm		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -88,7 +88,7 @@ actual bodily harm		<-->	noun+C2[-0]	.
 
 
 
-alibi		<-->	noun+C1[-0]	.
+alibi		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -97,7 +97,7 @@ alibi		<-->	noun+C1[-0]	.
 
 
 
-alien		<-->	noun+B2[-0]	.
+alien		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -106,7 +106,7 @@ alien		<-->	noun+B2[-0]	.
 
 
 
-all-points bulletin		<-->	noun+C2[-0]	.
+all-points bulletin		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -115,7 +115,7 @@ all-points bulletin		<-->	noun+C2[-0]	.
 
 
 
-appeal		<-->	noun+B2[-0]	.
+appeal		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -124,7 +124,7 @@ appeal		<-->	noun+B2[-0]	.
 
 
 
-appeal		<-->	verb+B2[-0]	.
+appeal		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -133,7 +133,7 @@ appeal		<-->	verb+B2[-0]	.
 
 
 
-apprehend		<-->	verb+C2[-0]	.
+apprehend		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -142,7 +142,7 @@ apprehend		<-->	verb+C2[-0]	.
 
 
 
-apprehension		<-->	noun+C2[-0]	.
+apprehension		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -151,7 +151,7 @@ apprehension		<-->	noun+C2[-0]	.
 
 
 
-appropriate		<-->	verb+C2[-0]	.
+appropriate		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -160,7 +160,7 @@ appropriate		<-->	verb+C2[-0]	.
 
 
 
-appropriation		<-->	noun+C2[-0]	.
+appropriation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -169,7 +169,7 @@ appropriation		<-->	noun+C2[-0]	.
 
 
 
-arrest		<-->	verb+B1[-0]	.
+arrest		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -178,7 +178,7 @@ arrest		<-->	verb+B1[-0]	.
 
 
 
-arrest		<-->	noun+B1[-0]	.
+arrest		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -187,7 +187,7 @@ arrest		<-->	noun+B1[-0]	.
 
 
 
-arson		<-->	noun+C1[-0]	.
+arson		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -196,7 +196,7 @@ arson		<-->	noun+C1[-0]	.
 
 
 
-arsonist		<-->	noun+C1[-0]	.
+arsonist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -205,7 +205,7 @@ arsonist		<-->	noun+C1[-0]	.
 
 
 
-ASBO		<-->	noun+C2[-0]	.
+ASBO		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -214,7 +214,7 @@ ASBO		<-->	noun+C2[-0]	.
 
 
 
-assail		<-->	verb+C2	[221028][1]	./əˈseɪl/
+assail		<-->	verb++C2	[221028][1]	./əˈseɪl/
  /əˈseɪl/
 	;tấn công -- (1) assail somebody/something (with something) to attack somebody/something violently, either physically or with words
 		;His attacker assailed him with fierce blows to the head.
@@ -227,7 +227,7 @@ assail		<-->	verb+C2	[221028][1]	./əˈseɪl/
 
 
 
-assailant		<-->	noun+C2	[221028][1]	./əˈseɪlənt/
+assailant		<-->	noun++C2	[221028][1]	./əˈseɪlənt/
  /əˈseɪlənt/ (formal)
 	;kẻ tấn công -- (1) a person who attacks somebody, especially physically
 		;SYNONYM attacker
@@ -241,7 +241,7 @@ assailant		<-->	noun+C2	[221028][1]	./əˈseɪlənt/
 
 
 
-assassin		<-->	noun+C1[-0]	.
+assassin		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -250,7 +250,7 @@ assassin		<-->	noun+C1[-0]	.
 
 
 
-assault		<-->	noun+C1[-0]	.
+assault		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -259,7 +259,7 @@ assault		<-->	noun+C1[-0]	.
 
 
 
-assault		<-->	verb+C1[-0]	.
+assault		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -268,7 +268,7 @@ assault		<-->	verb+C1[-0]	.
 
 
 
-assault and battery		<-->	noun+C2[-0]	.
+assault and battery		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -277,7 +277,7 @@ assault and battery		<-->	noun+C2[-0]	.
 
 
 
-a stay of execution		<-->	idiom+C2[-0]	.
+a stay of execution		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -286,7 +286,7 @@ a stay of execution		<-->	idiom+C2[-0]	.
 
 
 
-attack		<-->	noun+A2[-0]	.
+attack		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -295,7 +295,7 @@ attack		<-->	noun+A2[-0]	.
 
 
 
-attack		<-->	verb+A2[-0]	.
+attack		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -304,7 +304,7 @@ attack		<-->	verb+A2[-0]	.
 
 
 
-attacker		<-->	noun+B1[-0]	.
+attacker		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -313,7 +313,7 @@ attacker		<-->	noun+B1[-0]	.
 
 
 
-attempted		<-->	adjective+BB2[-0]	.
+attempted		<-->	adjective++BB2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -322,7 +322,7 @@ attempted		<-->	adjective+BB2[-0]	.
 
 
 
-autopsy		<-->	noun+C2[-0]	.
+autopsy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -331,7 +331,7 @@ autopsy		<-->	noun+C2[-0]	.
 
 
 
-backup		<-->	noun+C1[-0]	.
+backup		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -340,7 +340,7 @@ backup		<-->	noun+C1[-0]	.
 
 
 
-bandit		<-->	noun+C1[-0]	.
+bandit		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -349,7 +349,7 @@ bandit		<-->	noun+C1[-0]	.
 
 
 
-banish		<-->	verb+C2[-0]	.
+banish		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -358,7 +358,7 @@ banish		<-->	verb+C2[-0]	.
 
 
 
-banishment		<-->	noun+C2[-0]	.
+banishment		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -367,7 +367,7 @@ banishment		<-->	noun+C2[-0]	.
 
 
 
-batter		<-->	verb+C2[-0]	.
+batter		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -376,7 +376,7 @@ batter		<-->	verb+C2[-0]	.
 
 
 
-battered		<-->	adjective+BC2[-0]	.
+battered		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -385,7 +385,7 @@ battered		<-->	adjective+BC2[-0]	.
 
 
 
-battery		<-->	noun+C2[-0]	.
+battery		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -394,7 +394,7 @@ battery		<-->	noun+C2[-0]	.
 
 
 
-bigamist		<-->	noun+C2[-0]	.
+bigamist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -403,7 +403,7 @@ bigamist		<-->	noun+C2[-0]	.
 
 
 
-bigamous		<-->	adjective+BC2[-0]	.
+bigamous		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -412,7 +412,7 @@ bigamous		<-->	adjective+BC2[-0]	.
 
 
 
-bigamy		<-->	noun+C2[-0]	.
+bigamy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -421,7 +421,7 @@ bigamy		<-->	noun+C2[-0]	.
 
 
 
-blackmail		<-->	noun+C1[-0]	.
+blackmail		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -430,7 +430,7 @@ blackmail		<-->	noun+C1[-0]	.
 
 
 
-blackmail		<-->	verb+C1[-0]	.
+blackmail		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -439,7 +439,7 @@ blackmail		<-->	verb+C1[-0]	.
 
 
 
-blackmailer		<-->	noun+C1[-0]	.
+blackmailer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -448,7 +448,7 @@ blackmailer		<-->	noun+C1[-0]	.
 
 
 
-blood feud		<-->	noun+C2[-0]	.
+blood feud		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -457,7 +457,7 @@ blood feud		<-->	noun+C2[-0]	.
 
 
 
-body		<-->	noun+A1[-0]	.
+body		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -466,7 +466,7 @@ body		<-->	noun+A1[-0]	.
 
 
 
-bomb		<-->	verb+B1[-0]	.
+bomb		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -475,7 +475,7 @@ bomb		<-->	verb+B1[-0]	.
 
 
 
-bomber		<-->	noun+B1[-0]	.
+bomber		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -484,7 +484,7 @@ bomber		<-->	noun+B1[-0]	.
 
 
 
-bombing		<-->	noun+B2[-0]	.
+bombing		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -493,7 +493,7 @@ bombing		<-->	noun+B2[-0]	.
 
 
 
-boot camp		<-->	noun+C2[-0]	.
+boot camp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -502,7 +502,7 @@ boot camp		<-->	noun+C2[-0]	.
 
 
 
-bootleg		<-->	verb+C2[-0]	.
+bootleg		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -511,7 +511,7 @@ bootleg		<-->	verb+C2[-0]	.
 
 
 
-bootlegger		<-->	noun+C2[-0]	.
+bootlegger		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -520,7 +520,7 @@ bootlegger		<-->	noun+C2[-0]	.
 
 
 
-bootlegging		<-->	noun+C2[-0]	.
+bootlegging		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -529,7 +529,7 @@ bootlegging		<-->	noun+C2[-0]	.
 
 
 
-borstal		<-->	noun+C2[-0]	.
+borstal		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -538,7 +538,7 @@ borstal		<-->	noun+C2[-0]	.
 
 
 
-breach		<-->	noun+C1[-0]	.
+breach		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -547,7 +547,7 @@ breach		<-->	noun+C1[-0]	.
 
 
 
-breach		<-->	verb+C1[-0]	.
+breach		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -556,7 +556,7 @@ breach		<-->	verb+C1[-0]	.
 
 
 
-break		<-->	verb+B1[-0]	.
+break		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -565,7 +565,7 @@ break		<-->	verb+B1[-0]	.
 
 
 
-break-in		<-->	noun+C1[-0]	.
+break-in		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -574,7 +574,7 @@ break-in		<-->	noun+C1[-0]	.
 
 
 
-break in		<-->	phrasal verb+B2[-0]	.
+break in		<-->	phrasal verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -583,7 +583,7 @@ break in		<-->	phrasal verb+B2[-0]	.
 
 
 
-breaking and entering		<-->	noun+C2[-0]	.
+breaking and entering		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -592,7 +592,7 @@ breaking and entering		<-->	noun+C2[-0]	.
 
 
 
-break into		<-->	phrasal verb+B2[-0]	.
+break into		<-->	phrasal verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -601,7 +601,7 @@ break into		<-->	phrasal verb+B2[-0]	.
 
 
 
-breakout		<-->	noun+C2[-0]	.
+breakout		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -610,7 +610,7 @@ breakout		<-->	noun+C2[-0]	.
 
 
 
-bribe		<-->	noun+C1[-0]	.
+bribe		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -619,7 +619,7 @@ bribe		<-->	noun+C1[-0]	.
 
 
 
-bribe		<-->	verb+C1[-0]	.
+bribe		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -628,7 +628,7 @@ bribe		<-->	verb+C1[-0]	.
 
 
 
-bribery		<-->	noun+C1[-0]	.
+bribery		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -637,7 +637,7 @@ bribery		<-->	noun+C1[-0]	.
 
 
 
-bring in		<-->	phrasal verb+C2[-0]	.
+bring in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -646,7 +646,7 @@ bring in		<-->	phrasal verb+C2[-0]	.
 
 
 
-bug		<-->	noun+C1[-0]	.
+bug		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -655,7 +655,7 @@ bug		<-->	noun+C1[-0]	.
 
 
 
-bug		<-->	verb+C1[-0]	.
+bug		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -664,7 +664,7 @@ bug		<-->	verb+C1[-0]	.
 
 
 
-burglar		<-->	noun+B1[-0]	.
+burglar		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -673,7 +673,7 @@ burglar		<-->	noun+B1[-0]	.
 
 
 
-burglary		<-->	noun+B1[-0]	.
+burglary		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -682,7 +682,7 @@ burglary		<-->	noun+B1[-0]	.
 
 
 
-burgle		<-->	verb+B1[-0]	.
+burgle		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -691,7 +691,7 @@ burgle		<-->	verb+B1[-0]	.
 
 
 
-bust		<-->	verb+C2[-0]	.
+bust		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -700,7 +700,7 @@ bust		<-->	verb+C2[-0]	.
 
 
 
-bust		<-->	noun+C2[-0]	.
+bust		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -709,7 +709,7 @@ bust		<-->	noun+C2[-0]	.
 
 
 
-capital		<-->	adjective+BC1[-0]	.
+capital		<-->	adjective++BC1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -718,7 +718,7 @@ capital		<-->	adjective+BC1[-0]	.
 
 
 
-capital punishment		<-->	noun+C1[-0]	.
+capital punishment		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -727,7 +727,7 @@ capital punishment		<-->	noun+C1[-0]	.
 
 
 
-capture		<-->	noun+B2[-0]	.
+capture		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -736,7 +736,7 @@ capture		<-->	noun+B2[-0]	.
 
 
 
-carjack		<-->	verb+C2[-0]	.
+carjack		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -745,7 +745,7 @@ carjack		<-->	verb+C2[-0]	.
 
 
 
-carjacker		<-->	noun+C2[-0]	.
+carjacker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -754,7 +754,7 @@ carjacker		<-->	noun+C2[-0]	.
 
 
 
-carjacking		<-->	noun+C2[-0]	.
+carjacking		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -763,7 +763,7 @@ carjacking		<-->	noun+C2[-0]	.
 
 
 
-case		<-->	noun+B1[-0]	.
+case		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -772,7 +772,7 @@ case		<-->	noun+B1[-0]	.
 
 
 
-case the joint		<-->	idiom+C2[-0]	.
+case the joint		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -781,7 +781,7 @@ case the joint		<-->	idiom+C2[-0]	.
 
 
 
-cat burglar		<-->	noun+C2[-0]	.
+cat burglar		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -790,7 +790,7 @@ cat burglar		<-->	noun+C2[-0]	.
 
 
 
-catch		<-->	verb+A2[-0]	.
+catch		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -799,7 +799,7 @@ catch		<-->	verb+A2[-0]	.
 
 
 
-caution		<-->	noun+C2[-0]	.
+caution		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -808,7 +808,7 @@ caution		<-->	noun+C2[-0]	.
 
 
 
-cell		<-->	noun+B2[-0]	.
+cell		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -817,7 +817,7 @@ cell		<-->	noun+B2[-0]	.
 
 
 
-chase		<-->	verb+B2[-0]	.
+chase		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -826,7 +826,7 @@ chase		<-->	verb+B2[-0]	.
 
 
 
-chase		<-->	noun+B2[-0]	.
+chase		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -835,7 +835,7 @@ chase		<-->	noun+B2[-0]	.
 
 
 
-child abuse		<-->	noun+C2[-0]	.
+child abuse		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -844,7 +844,7 @@ child abuse		<-->	noun+C2[-0]	.
 
 
 
-circumstantial		<-->	adjective+BC2[-0]	.
+circumstantial		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -853,7 +853,7 @@ circumstantial		<-->	adjective+BC2[-0]	.
 
 
 
-citizen’s arrest		<-->	noun+C2[-0]	.
+citizen’s arrest		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -862,7 +862,7 @@ citizen’s arrest		<-->	noun+C2[-0]	.
 
 
 
-closed-circuit television		<-->	noun+C2[-0]	.
+closed-circuit television		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -871,7 +871,7 @@ closed-circuit television		<-->	noun+C2[-0]	.
 
 
 
-clue		<-->	noun+B1[-0]	.
+clue		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -880,7 +880,7 @@ clue		<-->	noun+B1[-0]	.
 
 
 
-cold case		<-->	noun+C2[-0]	.
+cold case		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -889,7 +889,7 @@ cold case		<-->	noun+C2[-0]	.
 
 
 
-collude		<-->	verb+C2[-0]	.
+collude		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -898,7 +898,7 @@ collude		<-->	verb+C2[-0]	.
 
 
 
-collusion		<-->	noun+C2[-0]	.
+collusion		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -907,7 +907,7 @@ collusion		<-->	noun+C2[-0]	.
 
 
 
-commission		<-->	noun+C2[-0]	.
+commission		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -916,7 +916,7 @@ commission		<-->	noun+C2[-0]	.
 
 
 
-commit		<-->	verb+B1[-0]	.
+commit		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -925,7 +925,7 @@ commit		<-->	verb+B1[-0]	.
 
 
 
-committal		<-->	noun+C2[-0]	.
+committal		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -934,7 +934,7 @@ committal		<-->	noun+C2[-0]	.
 
 
 
-community service		<-->	noun+B2[-0]	.
+community service		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -943,7 +943,7 @@ community service		<-->	noun+B2[-0]	.
 
 
 
-commutable		<-->	adjective+BC2[-0]	.
+commutable		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -952,7 +952,7 @@ commutable		<-->	adjective+BC2[-0]	.
 
 
 
-complicit		<-->	adjective+BC2[-0]	.
+complicit		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -961,7 +961,7 @@ complicit		<-->	adjective+BC2[-0]	.
 
 
 
-complicity		<-->	noun+C2[-0]	.
+complicity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -970,7 +970,7 @@ complicity		<-->	noun+C2[-0]	.
 
 
 
-composite		<-->	noun+C2[-0]	.
+composite		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -979,7 +979,7 @@ composite		<-->	noun+C2[-0]	.
 
 
 
-con		<-->	noun+C2[-0]	.
+con		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -988,7 +988,7 @@ con		<-->	noun+C2[-0]	.
 
 
 
-con		<-->	verb+C2[-0]	.
+con		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -997,7 +997,7 @@ con		<-->	verb+C2[-0]	.
 
 
 
-condemn		<-->	verb+C1[-0]	.
+condemn		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1006,7 +1006,7 @@ condemn		<-->	verb+C1[-0]	.
 
 
 
-confess		<-->	verb+B2[-0]	.
+confess		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1015,7 +1015,7 @@ confess		<-->	verb+B2[-0]	.
 
 
 
-confession		<-->	noun+C1[-0]	.
+confession		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1024,7 +1024,7 @@ confession		<-->	noun+C1[-0]	.
 
 
 
-confinement		<-->	noun+C2[-0]	.
+confinement		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1033,7 +1033,7 @@ confinement		<-->	noun+C2[-0]	.
 
 
 
-confiscate		<-->	verb+C2[-0]	.
+confiscate		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1042,7 +1042,7 @@ confiscate		<-->	verb+C2[-0]	.
 
 
 
-confiscation		<-->	noun+C2[-0]	.
+confiscation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1051,7 +1051,7 @@ confiscation		<-->	noun+C2[-0]	.
 
 
 
-conman		<-->	noun+C2[-0]	.
+conman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1060,7 +1060,7 @@ conman		<-->	noun+C2[-0]	.
 
 
 
-conspiracy		<-->	noun+B2[-0]	.
+conspiracy		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1069,7 +1069,7 @@ conspiracy		<-->	noun+B2[-0]	.
 
 
 
-conspirator		<-->	noun+C1[-0]	.
+conspirator		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1078,7 +1078,7 @@ conspirator		<-->	noun+C1[-0]	.
 
 
 
-conspire		<-->	verb+C2[-0]	.
+conspire		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1087,7 +1087,7 @@ conspire		<-->	verb+C2[-0]	.
 
 
 
-contraband		<-->	noun+C2[-0]	.
+contraband		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1096,7 +1096,7 @@ contraband		<-->	noun+C2[-0]	.
 
 
 
-convict		<-->	noun+C1[-0]	.
+convict		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1105,7 +1105,7 @@ convict		<-->	noun+C1[-0]	.
 
 
 
-conwoman		<-->	noun+C2[-0]	.
+conwoman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1114,7 +1114,7 @@ conwoman		<-->	noun+C2[-0]	.
 
 
 
-copycat		<-->	adjective+BC2[-0]	.
+copycat		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1123,7 +1123,7 @@ copycat		<-->	adjective+BC2[-0]	.
 
 
 
-corporal punishment		<-->	noun+C2[-0]	.
+corporal punishment		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1132,7 +1132,7 @@ corporal punishment		<-->	noun+C2[-0]	.
 
 
 
-corrupt		<-->	adjective+BC1[-0]	.
+corrupt		<-->	adjective++BC1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1141,7 +1141,7 @@ corrupt		<-->	adjective+BC1[-0]	.
 
 
 
-corrupt		<-->	verb+C1[-0]	.
+corrupt		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1150,7 +1150,7 @@ corrupt		<-->	verb+C1[-0]	.
 
 
 
-corruption		<-->	noun+C1[-0]	.
+corruption		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1159,7 +1159,7 @@ corruption		<-->	noun+C1[-0]	.
 
 
 
-counterterrorism		<-->	noun+C2[-0]	.
+counterterrorism		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1168,7 +1168,7 @@ counterterrorism		<-->	noun+C2[-0]	.
 
 
 
-counterterrorist		<-->	adjective+BC2[-0]	.
+counterterrorist		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1177,7 +1177,7 @@ counterterrorist		<-->	adjective+BC2[-0]	.
 
 
 
-crack		<-->	verb+C2[-0]	.
+crack		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1186,7 +1186,7 @@ crack		<-->	verb+C2[-0]	.
 
 
 
-crackdown		<-->	noun+C1[-0]	.
+crackdown		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1195,7 +1195,7 @@ crackdown		<-->	noun+C1[-0]	.
 
 
 
-crime		<-->	noun+A2[-0]	.
+crime		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1204,7 +1204,7 @@ crime		<-->	noun+A2[-0]	.
 
 
 
-crime-busting		<-->	adjective+BC2[-0]	.
+crime-busting		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1213,7 +1213,7 @@ crime-busting		<-->	adjective+BC2[-0]	.
 
 
 
-crime lab		<-->	noun+B2[-0]	.
+crime lab		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1222,7 +1222,7 @@ crime lab		<-->	noun+B2[-0]	.
 
 
 
-crime scene		<-->	noun+B1[-0]	.
+crime scene		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1231,7 +1231,7 @@ crime scene		<-->	noun+B1[-0]	.
 
 
 
-crime wave		<-->	noun+C2[-0]	.
+crime wave		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1240,7 +1240,7 @@ crime wave		<-->	noun+C2[-0]	.
 
 
 
-criminal		<-->	noun+A2[-0]	.
+criminal		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1249,7 +1249,7 @@ criminal		<-->	noun+A2[-0]	.
 
 
 
-criminal		<-->	adjective+BB1[-0]	.
+criminal		<-->	adjective++BB1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1258,7 +1258,7 @@ criminal		<-->	adjective+BB1[-0]	.
 
 
 
-criminal damage		<-->	noun+C2[-0]	.
+criminal damage		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1267,7 +1267,7 @@ criminal damage		<-->	noun+C2[-0]	.
 
 
 
-criminality		<-->	noun+C2[-0]	.
+criminality		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1276,7 +1276,7 @@ criminality		<-->	noun+C2[-0]	.
 
 
 
-criminology		<-->	noun+C2[-0]	.
+criminology		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1285,7 +1285,7 @@ criminology		<-->	noun+C2[-0]	.
 
 
 
-custodial		<-->	adjective+BC2[-0]	.
+custodial		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1294,7 +1294,7 @@ custodial		<-->	adjective+BC2[-0]	.
 
 
 
-custody		<-->	noun+C1[-0]	.
+custody		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1303,7 +1303,7 @@ custody		<-->	noun+C1[-0]	.
 
 
 
-customs		<-->	noun+C2[-0]	.
+customs		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1312,7 +1312,7 @@ customs		<-->	noun+C2[-0]	.
 
 
 
-cybercrime		<-->	noun+C1[-0]	.
+cybercrime		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1321,7 +1321,7 @@ cybercrime		<-->	noun+C1[-0]	.
 
 
 
-damage		<-->	noun+C1[-0]	.
+damage		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1330,7 +1330,7 @@ damage		<-->	noun+C1[-0]	.
 
 
 
-date rape		<-->	noun+C2[-0]	.
+date rape		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1339,7 +1339,7 @@ date rape		<-->	noun+C2[-0]	.
 
 
 
-deal		<-->	verb+B2[-0]	.
+deal		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1348,7 +1348,7 @@ deal		<-->	verb+B2[-0]	.
 
 
 
-dealer		<-->	noun+B2[-0]	.
+dealer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1357,7 +1357,7 @@ dealer		<-->	noun+B2[-0]	.
 
 
 
-dealing		<-->	noun+C2[-0]	.
+dealing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1366,7 +1366,7 @@ dealing		<-->	noun+C2[-0]	.
 
 
 
-death row		<-->	noun+C2[-0]	.
+death row		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1375,7 +1375,7 @@ death row		<-->	noun+C2[-0]	.
 
 
 
-death sentence		<-->	noun+B2[-0]	.
+death sentence		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1384,7 +1384,7 @@ death sentence		<-->	noun+B2[-0]	.
 
 
 
-deceive		<-->	verb+B2[-0]	.
+deceive		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1393,7 +1393,7 @@ deceive		<-->	verb+B2[-0]	.
 
 
 
-deception		<-->	noun+C1[-0]	.
+deception		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1407,7 +1407,7 @@ deception		<-->	noun+C1[-0]	.
 
 
 
-defamation		<-->	noun+C2	/ˌdefəˈmeɪʃn/
+defamation		<-->	noun++C2	/ˌdefəˈmeɪʃn/
 /ˌdefəˈmeɪʃn/
 	;sự bôi nhoạ hình ảnh người nổi tiếng bằng vu cáo -- [uncountable, countable] (formal)​the act of damaging somebody’s reputation by saying or writing bad or false things about them
 		;The company sued for defamation.
@@ -1439,7 +1439,7 @@ defamation		<-->	noun+C2	/ˌdefəˈmeɪʃn/
 
 
    
-defamatory		<-->	adjective+BC2[-0]	.
+defamatory		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1448,7 +1448,7 @@ defamatory		<-->	adjective+BC2[-0]	.
 
 
 
-defame		<-->	verb+C2[-0]	.
+defame		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1457,7 +1457,7 @@ defame		<-->	verb+C2[-0]	.
 
 
 
-default		<-->	noun+C1[-0]	.
+default		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1466,7 +1466,7 @@ default		<-->	noun+C1[-0]	.
 
 
 
-default		<-->	verb+C2[-0]	.
+default		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1475,7 +1475,7 @@ default		<-->	verb+C2[-0]	.
 
 
 
-defaulter		<-->	noun+C2[-0]	.
+defaulter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1484,7 +1484,7 @@ defaulter		<-->	noun+C2[-0]	.
 
 
 
-defraud		<-->	verb+C2[-0]	.
+defraud		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1493,7 +1493,7 @@ defraud		<-->	verb+C2[-0]	.
 
 
 
-delinquency		<-->	noun+C2[-0]	.
+delinquency		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1502,7 +1502,7 @@ delinquency		<-->	noun+C2[-0]	.
 
 
 
-delinquent		<-->	noun+C2[-0]	.
+delinquent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1511,7 +1511,7 @@ delinquent		<-->	noun+C2[-0]	.
 
 
 
-delinquent		<-->	adjective+BC2[-0]	.
+delinquent		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1520,7 +1520,7 @@ delinquent		<-->	adjective+BC2[-0]	.
 
 
 
-desperado		<-->	noun+C2[-0]	.
+desperado		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1529,7 +1529,7 @@ desperado		<-->	noun+C2[-0]	.
 
 
 
-despoil		<-->	verb+C2[-0]	.
+despoil		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1538,7 +1538,7 @@ despoil		<-->	verb+C2[-0]	.
 
 
 
-detain		<-->	verb+C1[-0]	.
+detain		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1547,7 +1547,7 @@ detain		<-->	verb+C1[-0]	.
 
 
 
-detainee		<-->	noun+C2[-0]	.
+detainee		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1556,7 +1556,7 @@ detainee		<-->	noun+C2[-0]	.
 
 
 
-detective		<-->	noun+A2[-0]	.
+detective		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1565,7 +1565,7 @@ detective		<-->	noun+A2[-0]	.
 
 
 
-detective work		<-->	noun+B1[-0]	.
+detective work		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1574,7 +1574,7 @@ detective work		<-->	noun+B1[-0]	.
 
 
 
-detention		<-->	noun+C1[-0]	.
+detention		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1583,7 +1583,7 @@ detention		<-->	noun+C1[-0]	.
 
 
 
-disciplinary		<-->	adjective+BC2[-0]	.
+disciplinary		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1592,7 +1592,7 @@ disciplinary		<-->	adjective+BC2[-0]	.
 
 
 
-DNA fingerprinting		<-->	noun+C2[-0]	.
+DNA fingerprinting		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1601,7 +1601,7 @@ DNA fingerprinting		<-->	noun+C2[-0]	.
 
 
 
-do time		<-->	idiom+C2[-0]	.
+do time		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1610,7 +1610,7 @@ do time		<-->	idiom+C2[-0]	.
 
 
 
-drink-driver		<-->	noun+C1[-0]	.
+drink-driver		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1619,7 +1619,7 @@ drink-driver		<-->	noun+C1[-0]	.
 
 
 
-drink-driving		<-->	noun+B2[-0]	.
+drink-driving		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1628,7 +1628,7 @@ drink-driving		<-->	noun+B2[-0]	.
 
 
 
-driving under the influence		<-->	noun+C2[-0]	.
+driving under the influence		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1637,7 +1637,7 @@ driving under the influence		<-->	noun+C2[-0]	.
 
 
 
-driving while intoxicated		<-->	noun+C2[-0]	.
+driving while intoxicated		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1646,7 +1646,7 @@ driving while intoxicated		<-->	noun+C2[-0]	.
 
 
 
-drug dealer		<-->	noun+B2[-0]	.
+drug dealer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1655,7 +1655,7 @@ drug dealer		<-->	noun+B2[-0]	.
 
 
 
-drunk driving		<-->	noun+B2[-0]	.
+drunk driving		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1664,7 +1664,7 @@ drunk driving		<-->	noun+B2[-0]	.
 
 
 
-drunken driving		<-->	noun+C1[-0]	.
+drunken driving		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1673,7 +1673,7 @@ drunken driving		<-->	noun+C1[-0]	.
 
 
 
-E-fit™		<-->	noun+C2[-0]	.
+E-fit™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1682,7 +1682,7 @@ E-fit™		<-->	noun+C2[-0]	.
 
 
 
-embezzle		<-->	verb+C2[-0]	.
+embezzle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1691,7 +1691,7 @@ embezzle		<-->	verb+C2[-0]	.
 
 
 
-embezzlement		<-->	noun+C2[-0]	.
+embezzlement		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1700,7 +1700,7 @@ embezzlement		<-->	noun+C2[-0]	.
 
 
 
-embezzler		<-->	noun+C2[-0]	.
+embezzler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1709,7 +1709,7 @@ embezzler		<-->	noun+C2[-0]	.
 
 
 
-endangerment		<-->	noun+C2[-0]	.
+endangerment		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1718,7 +1718,7 @@ endangerment		<-->	noun+C2[-0]	.
 
 
 
-entrapment		<-->	noun+C2[-0]	.
+entrapment		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1727,7 +1727,7 @@ entrapment		<-->	noun+C2[-0]	.
 
 
 
-escapee		<-->	noun+C2[-0]	.
+escapee		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1736,7 +1736,7 @@ escapee		<-->	noun+C2[-0]	.
 
 
 
-evidence		<-->	noun+A2[-0]	.
+evidence		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1745,7 +1745,7 @@ evidence		<-->	noun+A2[-0]	.
 
 
 
-execute		<-->	verb+C1[-0]	.
+execute		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1754,7 +1754,7 @@ execute		<-->	verb+C1[-0]	.
 
 
 
-execution		<-->	noun+C1[-0]	.
+execution		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1763,7 +1763,7 @@ execution		<-->	noun+C1[-0]	.
 
 
 
-exhibit		<-->	noun+B2[-0]	.
+exhibit		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1772,7 +1772,7 @@ exhibit		<-->	noun+B2[-0]	.
 
 
 
-exile		<-->	noun+C1[-0]	.
+exile		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1781,7 +1781,7 @@ exile		<-->	noun+C1[-0]	.
 
 
 
-exile		<-->	verb+C1[-0]	.
+exile		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1790,7 +1790,7 @@ exile		<-->	verb+C1[-0]	.
 
 
 
-extradite		<-->	verb+C2[-0]	.
+extradite		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1799,7 +1799,7 @@ extradite		<-->	verb+C2[-0]	.
 
 
 
-extradition		<-->	noun+C2[-0]	.
+extradition		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1808,7 +1808,7 @@ extradition		<-->	noun+C2[-0]	.
 
 
 
-eyewitness		<-->	noun+B2[-0]	.
+eyewitness		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1817,7 +1817,7 @@ eyewitness		<-->	noun+B2[-0]	.
 
 
 
-fake		<-->	adjective+BB2[-0]	.
+fake		<-->	adjective++BB2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1826,7 +1826,7 @@ fake		<-->	adjective+BB2[-0]	.
 
 
 
-fake		<-->	verb+B2[-0]	.
+fake		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1835,7 +1835,7 @@ fake		<-->	verb+B2[-0]	.
 
 
 
-false imprisonment		<-->	noun+C2[-0]	.
+false imprisonment		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1844,7 +1844,7 @@ false imprisonment		<-->	noun+C2[-0]	.
 
 
 
-felon		<-->	noun+C2[-0]	.
+felon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1853,7 +1853,7 @@ felon		<-->	noun+C2[-0]	.
 
 
 
-felony		<-->	noun+C2[-0]	.
+felony		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1862,7 +1862,7 @@ felony		<-->	noun+C2[-0]	.
 
 
 
-femicide		<-->	noun+C2[-0]	.
+femicide		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1871,7 +1871,7 @@ femicide		<-->	noun+C2[-0]	.
 
 
 
-fiddle		<-->	verb+C2[-0]	.
+fiddle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1880,7 +1880,7 @@ fiddle		<-->	verb+C2[-0]	.
 
 
 
-fiddle		<-->	noun+C2[-0]	.
+fiddle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1889,7 +1889,7 @@ fiddle		<-->	noun+C2[-0]	.
 
 
 
-fine		<-->	noun+C1[-0]	.
+fine		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1898,7 +1898,7 @@ fine		<-->	noun+C1[-0]	.
 
 
 
-fine		<-->	verb+C1[-0]	.
+fine		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1907,7 +1907,7 @@ fine		<-->	verb+C1[-0]	.
 
 
 
-fingerprint		<-->	noun+C1[-0]	.
+fingerprint		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1916,7 +1916,7 @@ fingerprint		<-->	noun+C1[-0]	.
 
 
 
-fingerprint		<-->	verb+C1[-0]	.
+fingerprint		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1925,7 +1925,7 @@ fingerprint		<-->	verb+C1[-0]	.
 
 
 
-fingerprinting		<-->	noun+C1[-0]	.
+fingerprinting		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1934,7 +1934,7 @@ fingerprinting		<-->	noun+C1[-0]	.
 
 
 
-fire starter		<-->	noun+C1[-0]	.
+fire starter		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1943,7 +1943,7 @@ fire starter		<-->	noun+C1[-0]	.
 
 
 
-firing squad		<-->	noun+C2[-0]	.
+firing squad		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1952,7 +1952,7 @@ firing squad		<-->	noun+C2[-0]	.
 
 
 
-first offender		<-->	noun+C1[-0]	.
+first offender		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1961,7 +1961,7 @@ first offender		<-->	noun+C1[-0]	.
 
 
 
-flash		<-->	verb+C2[-0]	.
+flash		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1970,7 +1970,7 @@ flash		<-->	verb+C2[-0]	.
 
 
 
-flasher		<-->	noun+C2[-0]	.
+flasher		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1979,7 +1979,7 @@ flasher		<-->	noun+C2[-0]	.
 
 
 
-forensic		<-->	adjective+BC1[-0]	.
+forensic		<-->	adjective++BC1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1988,7 +1988,7 @@ forensic		<-->	adjective+BC1[-0]	.
 
 
 
-forensics		<-->	noun+C1[-0]	.
+forensics		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -1997,7 +1997,7 @@ forensics		<-->	noun+C1[-0]	.
 
 
 
-forfeit		<-->	verb+C2[-0]	.
+forfeit		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2006,7 +2006,7 @@ forfeit		<-->	verb+C2[-0]	.
 
 
 
-forfeit		<-->	noun+C2[-0]	.
+forfeit		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2015,7 +2015,7 @@ forfeit		<-->	noun+C2[-0]	.
 
 
 
-forge		<-->	verb+C1[-0]	.
+forge		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2024,7 +2024,7 @@ forge		<-->	verb+C1[-0]	.
 
 
 
-forgery		<-->	noun+C1[-0]	.
+forgery		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2033,7 +2033,7 @@ forgery		<-->	noun+C1[-0]	.
 
 
 
-fratricide		<-->	noun+C2[-0]	.
+fratricide		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2042,7 +2042,7 @@ fratricide		<-->	noun+C2[-0]	.
 
 
 
-fraud		<-->	noun+B2[-0]	.
+fraud		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2051,7 +2051,7 @@ fraud		<-->	noun+B2[-0]	.
 
 
 
-fraudster		<-->	noun+C1[-0]	.
+fraudster		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2060,7 +2060,7 @@ fraudster		<-->	noun+C1[-0]	.
 
 
 
-front for		<-->	phrasal verb+C2[-0]	.
+front for		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2069,7 +2069,7 @@ front for		<-->	phrasal verb+C2[-0]	.
 
 
 
-frontman		<-->	noun+C2[-0]	.
+frontman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2078,7 +2078,7 @@ frontman		<-->	noun+C2[-0]	.
 
 
 
-fugitive		<-->	noun+C2[-0]	.
+fugitive		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2087,7 +2087,7 @@ fugitive		<-->	noun+C2[-0]	.
 
 
 
-furlough		<-->	noun+C2[-0]	.
+furlough		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2096,7 +2096,7 @@ furlough		<-->	noun+C2[-0]	.
 
 
 
-gangland		<-->	noun+C2[-0]	.
+gangland		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2105,7 +2105,7 @@ gangland		<-->	noun+C2[-0]	.
 
 
 
-gangmaster		<-->	noun+C2[-0]	.
+gangmaster		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2114,7 +2114,7 @@ gangmaster		<-->	noun+C2[-0]	.
 
 
 
-gangster		<-->	noun+C1[-0]	.
+gangster		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2123,7 +2123,7 @@ gangster		<-->	noun+C1[-0]	.
 
 
 
-gaslight		<-->	verb+C2[-0]	.
+gaslight		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2132,7 +2132,7 @@ gaslight		<-->	verb+C2[-0]	.
 
 
 
-gaslighting		<-->	noun+C2[-0]	.
+gaslighting		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2141,7 +2141,7 @@ gaslighting		<-->	noun+C2[-0]	.
 
 
 
-GBH		<-->	abbreviation+C2[-0]	.
+GBH		<-->	abbreviation++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2150,7 +2150,7 @@ GBH		<-->	abbreviation+C2[-0]	.
 
 
 
-genetic fingerprint		<-->	noun+C2[-0]	.
+genetic fingerprint		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2159,7 +2159,7 @@ genetic fingerprint		<-->	noun+C2[-0]	.
 
 
 
-genetic fingerprinting		<-->	noun+C2[-0]	.
+genetic fingerprinting		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2168,7 +2168,7 @@ genetic fingerprinting		<-->	noun+C2[-0]	.
 
 
 
-genocide		<-->	noun+C1[-0]	.
+genocide		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2177,7 +2177,7 @@ genocide		<-->	noun+C1[-0]	.
 
 
 
-getaway		<-->	noun+C1[-0]	.
+getaway		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2186,7 +2186,7 @@ getaway		<-->	noun+C1[-0]	.
 
 
 
-get away with		<-->	phrasal verb+C1[-0]	.
+get away with		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2195,7 +2195,7 @@ get away with		<-->	phrasal verb+C1[-0]	.
 
 
 
-graft		<-->	noun+C2[-0]	.
+graft		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2204,7 +2204,7 @@ graft		<-->	noun+C2[-0]	.
 
 
 
-grand larceny		<-->	noun+C2[-0]	.
+grand larceny		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2213,7 +2213,7 @@ grand larceny		<-->	noun+C2[-0]	.
 
 
 
-grand theft		<-->	noun+C2[-0]	.
+grand theft		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2222,7 +2222,7 @@ grand theft		<-->	noun+C2[-0]	.
 
 
 
-grass		<-->	noun+C2[-0]	.
+grass		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2231,7 +2231,7 @@ grass		<-->	noun+C2[-0]	.
 
 
 
-grass		<-->	verb+C2[-0]	.
+grass		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2240,7 +2240,7 @@ grass		<-->	verb+C2[-0]	.
 
 
 
-grievous bodily harm		<-->	noun+C2[-0]	.
+grievous bodily harm		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2249,7 +2249,7 @@ grievous bodily harm		<-->	noun+C2[-0]	.
 
 
 
-guard		<-->	noun+B1[-0]	.
+guard		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2258,7 +2258,7 @@ guard		<-->	noun+B1[-0]	.
 
 
 
-guillotine		<-->	noun+C2[-0]	.
+guillotine		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2267,7 +2267,7 @@ guillotine		<-->	noun+C2[-0]	.
 
 
 
-gunman		<-->	noun+B2[-0]	.
+gunman		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2276,7 +2276,7 @@ gunman		<-->	noun+B2[-0]	.
 
 
 
-gunrunner		<-->	noun+C2[-0]	.
+gunrunner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2285,7 +2285,7 @@ gunrunner		<-->	noun+C2[-0]	.
 
 
 
-gunrunning		<-->	noun+C2[-0]	.
+gunrunning		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2294,7 +2294,7 @@ gunrunning		<-->	noun+C2[-0]	.
 
 
 
-gunwoman		<-->	noun+B2[-0]	.
+gunwoman		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2303,7 +2303,7 @@ gunwoman		<-->	noun+B2[-0]	.
 
 
 
-hack		<-->	verb+B2[-0]	.
+hack		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2312,7 +2312,7 @@ hack		<-->	verb+B2[-0]	.
 
 
 
-hacker		<-->	noun+C1[-0]	.
+hacker		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2321,7 +2321,7 @@ hacker		<-->	noun+C1[-0]	.
 
 
 
-halfway house		<-->	noun+C2[-0]	.
+halfway house		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2330,7 +2330,7 @@ halfway house		<-->	noun+C2[-0]	.
 
 
 
-handcuff		<-->	verb+C2[-0]	.
+handcuff		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2339,7 +2339,7 @@ handcuff		<-->	verb+C2[-0]	.
 
 
 
-handcuffs		<-->	noun+C1[-0]	.
+handcuffs		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2348,7 +2348,7 @@ handcuffs		<-->	noun+C1[-0]	.
 
 
 
-hang		<-->	verb+B1[-0]	.
+hang		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2357,7 +2357,7 @@ hang		<-->	verb+B1[-0]	.
 
 
 
-hanging		<-->	noun+C1[-0]	.
+hanging		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2366,7 +2366,7 @@ hanging		<-->	noun+C1[-0]	.
 
 
 
-hard labour		<-->	noun+C2[-0]	.
+hard labour		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2375,7 +2375,7 @@ hard labour		<-->	noun+C2[-0]	.
 
 
 
-hate speech		<-->	noun+C1[-0]	.
+hate speech		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2384,7 +2384,7 @@ hate speech		<-->	noun+C1[-0]	.
 
 
 
-heist		<-->	noun+C2[-0]	.
+heist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2393,7 +2393,7 @@ heist		<-->	noun+C2[-0]	.
 
 
 
-heist		<-->	verb+C2[-0]	.
+heist		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2402,7 +2402,7 @@ heist		<-->	verb+C2[-0]	.
 
 
 
-high-security		<-->	adjective+BC1[-0]	.
+high-security		<-->	adjective++BC1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2411,7 +2411,7 @@ high-security		<-->	adjective+BC1[-0]	.
 
 
 
-high treason		<-->	noun+C2[-0]	.
+high treason		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2420,7 +2420,7 @@ high treason		<-->	noun+C2[-0]	.
 
 
 
-hijack		<-->	verb+C1[-0]	.
+hijack		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2429,7 +2429,7 @@ hijack		<-->	verb+C1[-0]	.
 
 
 
-hijacker		<-->	noun+C1[-0]	.
+hijacker		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2438,7 +2438,7 @@ hijacker		<-->	noun+C1[-0]	.
 
 
 
-hijacking		<-->	noun+C1[-0]	.
+hijacking		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2447,7 +2447,7 @@ hijacking		<-->	noun+C1[-0]	.
 
 
 
-hitman		<-->	noun+C2[-0]	.
+hitman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2456,7 +2456,7 @@ hitman		<-->	noun+C2[-0]	.
 
 
 
-hold		<-->	verb+B2[-0]	.
+hold		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2465,7 +2465,7 @@ hold		<-->	verb+B2[-0]	.
 
 
 
-hold-up		<-->	noun+C2[-0]	.
+hold-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2474,7 +2474,7 @@ hold-up		<-->	noun+C2[-0]	.
 
 
 
-hold up		<-->	phrasal verb+C2[-0]	.
+hold up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2483,7 +2483,7 @@ hold up		<-->	phrasal verb+C2[-0]	.
 
 
 
-home confinement		<-->	noun+C2[-0]	.
+home confinement		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2492,7 +2492,7 @@ home confinement		<-->	noun+C2[-0]	.
 
 
 
-homicide		<-->	noun+C2[-0]	.
+homicide		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2501,7 +2501,7 @@ homicide		<-->	noun+C2[-0]	.
 
 
 
-honour killing		<-->	noun+C2[-0]	.
+honour killing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2510,7 +2510,7 @@ honour killing		<-->	noun+C2[-0]	.
 
 
 
-hoodlum		<-->	noun+C2[-0]	.
+hoodlum		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2519,7 +2519,7 @@ hoodlum		<-->	noun+C2[-0]	.
 
 
 
-hostage		<-->	noun+C1[-0]	.
+hostage		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2528,7 +2528,7 @@ hostage		<-->	noun+C1[-0]	.
 
 
 
-house arrest		<-->	noun+C2[-0]	.
+house arrest		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2537,7 +2537,7 @@ house arrest		<-->	noun+C2[-0]	.
 
 
 
-housebreaker		<-->	noun+C2[-0]	.
+housebreaker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2546,7 +2546,7 @@ housebreaker		<-->	noun+C2[-0]	.
 
 
 
-housebreaking		<-->	noun+C2[-0]	.
+housebreaking		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2555,7 +2555,7 @@ housebreaking		<-->	noun+C2[-0]	.
 
 
 
-human smuggling		<-->	noun+C1[-0]	.
+human smuggling		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2564,7 +2564,7 @@ human smuggling		<-->	noun+C1[-0]	.
 
 
 
-human trafficking		<-->	noun+C1[-0]	.
+human trafficking		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2573,7 +2573,7 @@ human trafficking		<-->	noun+C1[-0]	.
 
 
 
-hustle		<-->	verb+C2[-0]	.
+hustle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2582,7 +2582,7 @@ hustle		<-->	verb+C2[-0]	.
 
 
 
-hustle		<-->	noun+C2[-0]	.
+hustle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2591,7 +2591,7 @@ hustle		<-->	noun+C2[-0]	.
 
 
 
-hustler		<-->	noun+C2[-0]	.
+hustler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2600,7 +2600,7 @@ hustler		<-->	noun+C2[-0]	.
 
 
 
-identify		<-->	verb+A2[-0]	.
+identify		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2609,7 +2609,7 @@ identify		<-->	verb+A2[-0]	.
 
 
 
-Identikit™		<-->	noun+C2[-0]	.
+Identikit™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2618,7 +2618,7 @@ Identikit™		<-->	noun+C2[-0]	.
 
 
 
-identity theft		<-->	noun+B2[-0]	.
+identity theft		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2627,7 +2627,7 @@ identity theft		<-->	noun+B2[-0]	.
 
 
 
-identity thief		<-->	noun+B2[-0]	.
+identity thief		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2636,7 +2636,7 @@ identity thief		<-->	noun+B2[-0]	.
 
 
 
-illegal		<-->	adjective+BB1[-0]	.
+illegal		<-->	adjective++BB1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2645,7 +2645,7 @@ illegal		<-->	adjective+BB1[-0]	.
 
 
 
-illegally		<-->	adverb+B1[-0]	.
+illegally		<-->	adverb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2654,7 +2654,7 @@ illegally		<-->	adverb+B1[-0]	.
 
 
 
-imprison		<-->	verb+C1[-0]	.
+imprison		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2663,7 +2663,7 @@ imprison		<-->	verb+C1[-0]	.
 
 
 
-imprisonment		<-->	noun+C1[-0]	.
+imprisonment		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2672,7 +2672,7 @@ imprisonment		<-->	noun+C1[-0]	.
 
 
 
-incarcerate		<-->	verb+C2[-0]	.
+incarcerate		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2681,7 +2681,7 @@ incarcerate		<-->	verb+C2[-0]	.
 
 
 
-incarceration		<-->	noun+C2[-0]	.
+incarceration		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2690,7 +2690,7 @@ incarceration		<-->	noun+C2[-0]	.
 
 
 
-incest		<-->	noun+C2[-0]	.
+incest		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2699,7 +2699,7 @@ incest		<-->	noun+C2[-0]	.
 
 
 
-incident room		<-->	noun+C2[-0]	.
+incident room		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2708,7 +2708,7 @@ incident room		<-->	noun+C2[-0]	.
 
 
 
-incriminate		<-->	verb+C2[-0]	.
+incriminate		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2717,7 +2717,7 @@ incriminate		<-->	verb+C2[-0]	.
 
 
 
-incriminating		<-->	adjective+BC2[-0]	.
+incriminating		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2726,7 +2726,7 @@ incriminating		<-->	adjective+BC2[-0]	.
 
 
 
-incrimination		<-->	noun+C2[-0]	.
+incrimination		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2735,7 +2735,7 @@ incrimination		<-->	noun+C2[-0]	.
 
 
 
-indecent exposure		<-->	noun+C2[-0]	.
+indecent exposure		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2744,7 +2744,7 @@ indecent exposure		<-->	noun+C2[-0]	.
 
 
 
-infanticide		<-->	noun+C2[-0]	.
+infanticide		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2753,7 +2753,7 @@ infanticide		<-->	noun+C2[-0]	.
 
 
 
-inform		<-->	verb+B2[-0]	.
+inform		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2762,7 +2762,7 @@ inform		<-->	verb+B2[-0]	.
 
 
 
-informant		<-->	noun+C2[-0]	.
+informant		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2771,7 +2771,7 @@ informant		<-->	noun+C2[-0]	.
 
 
 
-inmate		<-->	noun+C1[-0]	.
+inmate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2780,7 +2780,7 @@ inmate		<-->	noun+C1[-0]	.
 
 
 
-innocent		<-->	adjective+BB2[-0]	.
+innocent		<-->	adjective++BB2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2789,7 +2789,7 @@ innocent		<-->	adjective+BB2[-0]	.
 
 
 
-inside		<-->	adverb+C2[-0]	.
+inside		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2798,7 +2798,7 @@ inside		<-->	adverb+C2[-0]	.
 
 
 
-inside		<-->	adjective+BC2[-0]	.
+inside		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2807,7 +2807,7 @@ inside		<-->	adjective+BC2[-0]	.
 
 
 
-insider trading		<-->	noun+C2[-0]	.
+insider trading		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2816,7 +2816,7 @@ insider trading		<-->	noun+C2[-0]	.
 
 
 
-inspect		<-->	verb+C1[-0]	.
+inspect		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2825,7 +2825,7 @@ inspect		<-->	verb+C1[-0]	.
 
 
 
-inspection		<-->	noun+C1[-0]	.
+inspection		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2834,7 +2834,7 @@ inspection		<-->	noun+C1[-0]	.
 
 
 
-intruder		<-->	noun+C1[-0]	.
+intruder		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2843,7 +2843,7 @@ intruder		<-->	noun+C1[-0]	.
 
 
 
-investigate		<-->	verb+B1[-0]	.
+investigate		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2852,7 +2852,7 @@ investigate		<-->	verb+B1[-0]	.
 
 
 
-investigation		<-->	noun+B2[-0]	.
+investigation		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2861,7 +2861,7 @@ investigation		<-->	noun+B2[-0]	.
 
 
 
-investigator		<-->	noun+C1[-0]	.
+investigator		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2870,7 +2870,7 @@ investigator		<-->	noun+C1[-0]	.
 
 
 
-jail		<-->	noun+B2[-0]	.
+jail		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2879,7 +2879,7 @@ jail		<-->	noun+B2[-0]	.
 
 
 
-jail		<-->	verb+B2[-0]	.
+jail		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2888,7 +2888,7 @@ jail		<-->	verb+B2[-0]	.
 
 
 
-jailbird		<-->	noun+C2[-0]	.
+jailbird		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2897,7 +2897,7 @@ jailbird		<-->	noun+C2[-0]	.
 
 
 
-jailbreak		<-->	noun+C2[-0]	.
+jailbreak		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2906,7 +2906,7 @@ jailbreak		<-->	noun+C2[-0]	.
 
 
 
-jailer		<-->	noun+C2[-0]	.
+jailer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2915,7 +2915,7 @@ jailer		<-->	noun+C2[-0]	.
 
 
 
-jailhouse		<-->	noun+C2[-0]	.
+jailhouse		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2924,7 +2924,7 @@ jailhouse		<-->	noun+C2[-0]	.
 
 
 
-job		<-->	noun+C1[-0]	.
+job		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2933,7 +2933,7 @@ job		<-->	noun+C1[-0]	.
 
 
 
-joyride		<-->	noun+C2[-0]	.
+joyride		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2942,7 +2942,7 @@ joyride		<-->	noun+C2[-0]	.
 
 
 
-joyrider		<-->	noun+C2[-0]	.
+joyrider		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2951,7 +2951,7 @@ joyrider		<-->	noun+C2[-0]	.
 
 
 
-joyriding		<-->	noun+C2[-0]	.
+joyriding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2960,7 +2960,7 @@ joyriding		<-->	noun+C2[-0]	.
 
 
 
-jump the lights		<-->	idiom+C2[-0]	.
+jump the lights		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2969,7 +2969,7 @@ jump the lights		<-->	idiom+C2[-0]	.
 
 
 
-juvenile delinquency		<-->	noun+C2[-0]	.
+juvenile delinquency		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2978,7 +2978,7 @@ juvenile delinquency		<-->	noun+C2[-0]	.
 
 
 
-juvenile delinquent		<-->	noun+C1[-0]	.
+juvenile delinquent		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2987,7 +2987,7 @@ juvenile delinquent		<-->	noun+C1[-0]	.
 
 
 
-kerb-crawler		<-->	noun+C2[-0]	.
+kerb-crawler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -2996,7 +2996,7 @@ kerb-crawler		<-->	noun+C2[-0]	.
 
 
 
-kerb-crawling		<-->	noun+C2[-0]	.
+kerb-crawling		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3005,7 +3005,7 @@ kerb-crawling		<-->	noun+C2[-0]	.
 
 
 
-kidnap		<-->	verb+C1[-0]	.
+kidnap		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3014,7 +3014,7 @@ kidnap		<-->	verb+C1[-0]	.
 
 
 
-kidnapper		<-->	noun+C1[-0]	.
+kidnapper		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3023,7 +3023,7 @@ kidnapper		<-->	noun+C1[-0]	.
 
 
 
-kidnapping		<-->	noun+C1[-0]	.
+kidnapping		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3032,7 +3032,7 @@ kidnapping		<-->	noun+C1[-0]	.
 
 
 
-kill		<-->	verb+A2[-0]	.
+kill		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3041,7 +3041,7 @@ kill		<-->	verb+A2[-0]	.
 
 
 
-killer		<-->	noun+B1[-0]	.
+killer		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3050,7 +3050,7 @@ killer		<-->	noun+B1[-0]	.
 
 
 
-killing		<-->	noun+B1[-0]	.
+killing		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3059,7 +3059,7 @@ killing		<-->	noun+B1[-0]	.
 
 
 
-labour camp		<-->	noun+B2[-0]	.
+labour camp		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3068,7 +3068,7 @@ labour camp		<-->	noun+B2[-0]	.
 
 
 
-larceny		<-->	noun+C2[-0]	.
+larceny		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3077,7 +3077,7 @@ larceny		<-->	noun+C2[-0]	.
 
 
 
-launder		<-->	verb+C2[-0]	.
+launder		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3086,7 +3086,7 @@ launder		<-->	verb+C2[-0]	.
 
 
 
-launderer		<-->	noun+C2[-0]	.
+launderer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3095,7 +3095,7 @@ launderer		<-->	noun+C2[-0]	.
 
 
 
-lese-majesty		<-->	noun+C2[-0]	.
+lese-majesty		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3104,7 +3104,7 @@ lese-majesty		<-->	noun+C2[-0]	.
 
 
 
-libel		<-->	noun+C2[-0]	.
+libel		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3113,7 +3113,7 @@ libel		<-->	noun+C2[-0]	.
 
 
 
-libel		<-->	verb+C2[-0]	.
+libel		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3122,7 +3122,7 @@ libel		<-->	verb+C2[-0]	.
 
 
 
-libellous		<-->	adjective+BC2[-0]	.
+libellous		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3131,7 +3131,7 @@ libellous		<-->	adjective+BC2[-0]	.
 
 
 
-lie detector		<-->	noun+C1[-0]	.
+lie detector		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3140,7 +3140,7 @@ lie detector		<-->	noun+C1[-0]	.
 
 
 
-life		<-->	noun+B2[-0]	.
+life		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3149,7 +3149,7 @@ life		<-->	noun+B2[-0]	.
 
 
 
-lifer		<-->	noun+C2[-0]	.
+lifer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3158,7 +3158,7 @@ lifer		<-->	noun+C2[-0]	.
 
 
 
-life sentence		<-->	noun+B2[-0]	.
+life sentence		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3167,7 +3167,7 @@ life sentence		<-->	noun+B2[-0]	.
 
 
 
-lift		<-->	verb+C2[-0]	.
+lift		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3176,7 +3176,7 @@ lift		<-->	verb+C2[-0]	.
 
 
 
-line-up		<-->	noun+C2[-0]	.
+line-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3185,7 +3185,7 @@ line-up		<-->	noun+C2[-0]	.
 
 
 
-lock away		<-->	phrasal verb+C2[-0]	.
+lock away		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3194,7 +3194,7 @@ lock away		<-->	phrasal verb+C2[-0]	.
 
 
 
-lock-up		<-->	noun+C2[-0]	.
+lock-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3203,7 +3203,7 @@ lock-up		<-->	noun+C2[-0]	.
 
 
 
-lock up		<-->	phrasal verb+C1[-0]	.
+lock up		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3212,7 +3212,7 @@ lock up		<-->	phrasal verb+C1[-0]	.
 
 
 
-loot		<-->	verb+C2[-0]	.
+loot		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3221,7 +3221,7 @@ loot		<-->	verb+C2[-0]	.
 
 
 
-looter		<-->	noun+C2[-0]	.
+looter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3230,7 +3230,7 @@ looter		<-->	noun+C2[-0]	.
 
 
 
-looting		<-->	noun+C2[-0]	.
+looting		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3239,7 +3239,7 @@ looting		<-->	noun+C2[-0]	.
 
 
 
-malfeasance		<-->	noun+C2[-0]	.
+malfeasance		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3248,7 +3248,7 @@ malfeasance		<-->	noun+C2[-0]	.
 
 
 
-manhunt		<-->	noun+C2[-0]	.
+manhunt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3257,7 +3257,7 @@ manhunt		<-->	noun+C2[-0]	.
 
 
 
-manslaughter		<-->	noun+C2[-0]	.
+manslaughter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3266,7 +3266,7 @@ manslaughter		<-->	noun+C2[-0]	.
 
 
 
-matricide		<-->	noun+C2[-0]	.
+matricide		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3275,7 +3275,7 @@ matricide		<-->	noun+C2[-0]	.
 
 
 
-minimum security prison		<-->	noun+C2[-0]	.
+minimum security prison		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3284,7 +3284,7 @@ minimum security prison		<-->	noun+C2[-0]	.
 
 
 
-misdemeanour		<-->	noun+C2[-0]	.
+misdemeanour		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3293,7 +3293,7 @@ misdemeanour		<-->	noun+C2[-0]	.
 
 
 
-missing person		<-->	noun+B2[-0]	.
+missing person		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3302,7 +3302,7 @@ missing person		<-->	noun+B2[-0]	.
 
 
 
-mobster		<-->	noun+C2[-0]	.
+mobster		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3311,7 +3311,7 @@ mobster		<-->	noun+C2[-0]	.
 
 
 
-modern slavery		<-->	noun+C1[-0]	.
+modern slavery		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3320,7 +3320,7 @@ modern slavery		<-->	noun+C1[-0]	.
 
 
 
-money launderer		<-->	noun+C2[-0]	.
+money launderer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3329,7 +3329,7 @@ money launderer		<-->	noun+C2[-0]	.
 
 
 
-money laundering		<-->	noun+C2[-0]	.
+money laundering		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3338,7 +3338,7 @@ money laundering		<-->	noun+C2[-0]	.
 
 
 
-mug		<-->	verb+C1[-0]	.
+mug		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3347,7 +3347,7 @@ mug		<-->	verb+C1[-0]	.
 
 
 
-mugger		<-->	noun+C1[-0]	.
+mugger		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3356,7 +3356,7 @@ mugger		<-->	noun+C1[-0]	.
 
 
 
-mugging		<-->	noun+C1[-0]	.
+mugging		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3365,7 +3365,7 @@ mugging		<-->	noun+C1[-0]	.
 
 
 
-mugshot		<-->	noun+C2[-0]	.
+mugshot		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3374,7 +3374,7 @@ mugshot		<-->	noun+C2[-0]	.
 
 
 
-mule		<-->	noun+C2[-0]	.
+mule		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3383,7 +3383,7 @@ mule		<-->	noun+C2[-0]	.
 
 
 
-murder		<-->	noun+B1[-0]	.
+murder		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3392,7 +3392,7 @@ murder		<-->	noun+B1[-0]	.
 
 
 
-murder		<-->	verb+B1[-0]	.
+murder		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3401,7 +3401,7 @@ murder		<-->	verb+B1[-0]	.
 
 
 
-murderer		<-->	noun+B1[-0]	.
+murderer		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3410,7 +3410,7 @@ murderer		<-->	noun+B1[-0]	.
 
 
 
-murderess		<-->	noun+C2[-0]	.
+murderess		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3419,7 +3419,7 @@ murderess		<-->	noun+C2[-0]	.
 
 
 
-mystery		<-->	noun+B1[-0]	.
+mystery		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3428,7 +3428,7 @@ mystery		<-->	noun+B1[-0]	.
 
 
 
-nick		<-->	noun+C2[-0]	.
+nick		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3437,7 +3437,7 @@ nick		<-->	noun+C2[-0]	.
 
 
 
-nick		<-->	verb+C2[-0]	.
+nick		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3446,7 +3446,7 @@ nick		<-->	verb+C2[-0]	.
 
 
 
-no-go area		<-->	noun+C2[-0]	.
+no-go area		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3455,7 +3455,7 @@ no-go area		<-->	noun+C2[-0]	.
 
 
 
-non-citizen		<-->	noun+C2[-0]	.
+non-citizen		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3464,7 +3464,7 @@ non-citizen		<-->	noun+C2[-0]	.
 
 
 
-offence		<-->	noun+B2[-0]	.
+offence		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3473,7 +3473,7 @@ offence		<-->	noun+B2[-0]	.
 
 
 
-offend		<-->	verb+B2[-0]	.
+offend		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3482,7 +3482,7 @@ offend		<-->	verb+B2[-0]	.
 
 
 
-offender		<-->	noun+B2[-0]	.
+offender		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3491,7 +3491,7 @@ offender		<-->	noun+B2[-0]	.
 
 
 
-open-and-shut case		<-->	noun+C2[-0]	.
+open-and-shut case		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3500,7 +3500,7 @@ open-and-shut case		<-->	noun+C2[-0]	.
 
 
 
-open prison		<-->	noun+C2[-0]	.
+open prison		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3509,7 +3509,7 @@ open prison		<-->	noun+C2[-0]	.
 
 
 
-outlaw		<-->	noun+C1[-0]	.
+outlaw		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3518,7 +3518,7 @@ outlaw		<-->	noun+C1[-0]	.
 
 
 
-patricide		<-->	noun+C2[-0]	.
+patricide		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3527,7 +3527,7 @@ patricide		<-->	noun+C2[-0]	.
 
 
 
-penalize		<-->	verb+C1[-0]	.
+penalize		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3536,7 +3536,7 @@ penalize		<-->	verb+C1[-0]	.
 
 
 
-penalty		<-->	noun+B2[-0]	.
+penalty		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3545,7 +3545,7 @@ penalty		<-->	noun+B2[-0]	.
 
 
 
-penitentiary		<-->	noun+C2[-0]	.
+penitentiary		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3554,7 +3554,7 @@ penitentiary		<-->	noun+C2[-0]	.
 
 
 
-people smuggling		<-->	noun+C1[-0]	.
+people smuggling		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3563,7 +3563,7 @@ people smuggling		<-->	noun+C1[-0]	.
 
 
 
-people trafficking		<-->	noun+C1[-0]	.
+people trafficking		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3572,7 +3572,7 @@ people trafficking		<-->	noun+C1[-0]	.
 
 
 
-perjure		<-->	verb+C2[-0]	.
+perjure		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3581,7 +3581,7 @@ perjure		<-->	verb+C2[-0]	.
 
 
 
-perjurer		<-->	noun+C2[-0]	.
+perjurer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3590,7 +3590,7 @@ perjurer		<-->	noun+C2[-0]	.
 
 
 
-perjury		<-->	noun+C2[-0]	.
+perjury		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3599,7 +3599,7 @@ perjury		<-->	noun+C2[-0]	.
 
 
 
-perp		<-->	noun+C2[-0]	.
+perp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3609,7 +3609,7 @@ perp		<-->	noun+C2[-0]	.
 
 
 
-perpetrate		<-->	verb+C2/ˈpɜːpətreɪt/
+perpetrate		<-->	verb++C2/ˈpɜːpətreɪt/
  /ˈpɜːrpətreɪt/
 	;phạm tội -- (formal) to commit a crime or do something wrong or evil
 		;perpetrate something to perpetrate a crime/fraud/massacre
@@ -3617,7 +3617,7 @@ perpetrate		<-->	verb+C2/ˈpɜːpətreɪt/
 		;perpetrate something against/upon/on somebody violence perpetrated against women and children
 
 
-perpetration		<-->	noun+C2[-0]	.
+perpetration		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3626,7 +3626,7 @@ perpetration		<-->	noun+C2[-0]	.
 
 
 
-perpetrator		<-->	noun+C2[-0]	.
+perpetrator		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3635,7 +3635,7 @@ perpetrator		<-->	noun+C2[-0]	.
 
 
 
-perp walk		<-->	noun+C2[-0]	.
+perp walk		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3644,7 +3644,7 @@ perp walk		<-->	noun+C2[-0]	.
 
 
 
-person of interest		<-->	idiom+C2[-0]	.
+person of interest		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3653,7 +3653,7 @@ person of interest		<-->	idiom+C2[-0]	.
 
 
 
-pervert the course of justice		<-->	idiom+C2[-0]	.
+pervert the course of justice		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3662,7 +3662,7 @@ pervert the course of justice		<-->	idiom+C2[-0]	.
 
 
 
-petty larceny		<-->	noun+C2[-0]	.
+petty larceny		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3671,7 +3671,7 @@ petty larceny		<-->	noun+C2[-0]	.
 
 
 
-phishing		<-->	noun+C1[-0]	.
+phishing		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3680,7 +3680,7 @@ phishing		<-->	noun+C1[-0]	.
 
 
 
-photofit		<-->	noun+C2[-0]	.
+photofit		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3689,7 +3689,7 @@ photofit		<-->	noun+C2[-0]	.
 
 
 
-pickpocket		<-->	noun+B2[-0]	.
+pickpocket		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3698,7 +3698,7 @@ pickpocket		<-->	noun+B2[-0]	.
 
 
 
-pick somebody’s pocket		<-->	idiom+C2[-0]	.
+pick somebody’s pocket		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3707,7 +3707,7 @@ pick somebody’s pocket		<-->	idiom+C2[-0]	.
 
 
 
-pilfer		<-->	verb+C2[-0]	.
+pilfer		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3716,7 +3716,7 @@ pilfer		<-->	verb+C2[-0]	.
 
 
 
-pilferage		<-->	noun+C2[-0]	.
+pilferage		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3725,7 +3725,7 @@ pilferage		<-->	noun+C2[-0]	.
 
 
 
-pilferer		<-->	noun+C2[-0]	.
+pilferer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3734,7 +3734,7 @@ pilferer		<-->	noun+C2[-0]	.
 
 
 
-pilfering		<-->	noun+C2[-0]	.
+pilfering		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3743,7 +3743,7 @@ pilfering		<-->	noun+C2[-0]	.
 
 
 
-pimp		<-->	noun+C2[-0]	.
+pimp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3752,7 +3752,7 @@ pimp		<-->	noun+C2[-0]	.
 
 
 
-pimp		<-->	verb+C2[-0]	.
+pimp		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3761,7 +3761,7 @@ pimp		<-->	verb+C2[-0]	.
 
 
 
-pinch		<-->	verb+C1[-0]	.
+pinch		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3770,7 +3770,7 @@ pinch		<-->	verb+C1[-0]	.
 
 
 
-piracy		<-->	noun+C1[-0]	.
+piracy		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3779,7 +3779,7 @@ piracy		<-->	noun+C1[-0]	.
 
 
 
-pirate		<-->	noun+C1[-0]	.
+pirate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3788,7 +3788,7 @@ pirate		<-->	noun+C1[-0]	.
 
 
 
-pirate		<-->	verb+C1[-0]	.
+pirate		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3797,7 +3797,7 @@ pirate		<-->	verb+C1[-0]	.
 
 
 
-poach		<-->	verb+C1[-0]	.
+poach		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3806,7 +3806,7 @@ poach		<-->	verb+C1[-0]	.
 
 
 
-poacher		<-->	noun+C1[-0]	.
+poacher		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3815,7 +3815,7 @@ poacher		<-->	noun+C1[-0]	.
 
 
 
-polygraph		<-->	noun+C2[-0]	.
+polygraph		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3824,7 +3824,7 @@ polygraph		<-->	noun+C2[-0]	.
 
 
 
-possession		<-->	noun+C2[-0]	.
+possession		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3833,7 +3833,7 @@ possession		<-->	noun+C2[-0]	.
 
 
 
-post-mortem		<-->	noun+C2[-0]	.
+post-mortem		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3842,7 +3842,7 @@ post-mortem		<-->	noun+C2[-0]	.
 
 
 
-premeditated		<-->	adjective+BC2[-0]	.
+premeditated		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3851,7 +3851,7 @@ premeditated		<-->	adjective+BC2[-0]	.
 
 
 
-prison		<-->	noun+A2[-0]	.
+prison		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3860,7 +3860,7 @@ prison		<-->	noun+A2[-0]	.
 
 
 
-prisoner		<-->	noun+B1[-0]	.
+prisoner		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3869,7 +3869,7 @@ prisoner		<-->	noun+B1[-0]	.
 
 
 
-prisoner of conscience		<-->	noun+C2[-0]	.
+prisoner of conscience		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3878,7 +3878,7 @@ prisoner of conscience		<-->	noun+C2[-0]	.
 
 
 
-prisoner of war		<-->	noun+B2[-0]	.
+prisoner of war		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3887,7 +3887,7 @@ prisoner of war		<-->	noun+B2[-0]	.
 
 
 
-prison visitor		<-->	noun+C2[-0]	.
+prison visitor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3896,7 +3896,7 @@ prison visitor		<-->	noun+C2[-0]	.
 
 
 
-private detective		<-->	noun+B2[-0]	.
+private detective		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3905,7 +3905,7 @@ private detective		<-->	noun+B2[-0]	.
 
 
 
-probation		<-->	noun+C1[-0]	.
+probation		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3914,7 +3914,7 @@ probation		<-->	noun+C1[-0]	.
 
 
 
-probation officer		<-->	noun+C2[-0]	.
+probation officer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3923,7 +3923,7 @@ probation officer		<-->	noun+C2[-0]	.
 
 
 
-protection		<-->	noun+C2[-0]	.
+protection		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3932,7 +3932,7 @@ protection		<-->	noun+C2[-0]	.
 
 
 
-punish		<-->	verb+B1[-0]	.
+punish		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3941,7 +3941,7 @@ punish		<-->	verb+B1[-0]	.
 
 
 
-punishable		<-->	adjective+BC2[-0]	.
+punishable		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3950,7 +3950,7 @@ punishable		<-->	adjective+BC2[-0]	.
 
 
 
-punishment		<-->	noun+B1[-0]	.
+punishment		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3959,7 +3959,7 @@ punishment		<-->	noun+B1[-0]	.
 
 
 
-purloin		<-->	verb+C2[-0]	.
+purloin		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3968,7 +3968,7 @@ purloin		<-->	verb+C2[-0]	.
 
 
 
-pursue		<-->	verb+B2[-0]	.
+pursue		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3977,7 +3977,7 @@ pursue		<-->	verb+B2[-0]	.
 
 
 
-pursuit		<-->	noun+C1[-0]	.
+pursuit		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3986,7 +3986,7 @@ pursuit		<-->	noun+C1[-0]	.
 
 
 
-push		<-->	verb+C2[-0]	.
+push		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -3995,7 +3995,7 @@ push		<-->	verb+C2[-0]	.
 
 
 
-pusher		<-->	noun+C2[-0]	.
+pusher		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4004,7 +4004,7 @@ pusher		<-->	noun+C2[-0]	.
 
 
 
-question		<-->	verb+A2[-0]	.
+question		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4013,7 +4013,7 @@ question		<-->	verb+A2[-0]	.
 
 
 
-questioning		<-->	noun+B2[-0]	.
+questioning		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4022,7 +4022,7 @@ questioning		<-->	noun+B2[-0]	.
 
 
 
-raid		<-->	noun+C1[-0]	.
+raid		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4031,7 +4031,7 @@ raid		<-->	noun+C1[-0]	.
 
 
 
-raid		<-->	verb+C1[-0]	.
+raid		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4040,7 +4040,7 @@ raid		<-->	verb+C1[-0]	.
 
 
 
-raider		<-->	noun+C1[-0]	.
+raider		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4049,7 +4049,7 @@ raider		<-->	noun+C1[-0]	.
 
 
 
-ransom		<-->	noun+C1[-0]	.
+ransom		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4058,7 +4058,7 @@ ransom		<-->	noun+C1[-0]	.
 
 
 
-ransom		<-->	verb+C2[-0]	.
+ransom		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4067,7 +4067,7 @@ ransom		<-->	verb+C2[-0]	.
 
 
 
-rape		<-->	noun+C1[-0]	.
+rape		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4076,7 +4076,7 @@ rape		<-->	noun+C1[-0]	.
 
 
 
-rape		<-->	verb+C1[-0]	.
+rape		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4085,7 +4085,7 @@ rape		<-->	verb+C1[-0]	.
 
 
 
-rapist		<-->	noun+C1[-0]	.
+rapist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4094,7 +4094,7 @@ rapist		<-->	noun+C1[-0]	.
 
 
 
-record		<-->	noun+C1[-0]	.
+record		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4103,7 +4103,7 @@ record		<-->	noun+C1[-0]	.
 
 
 
-reformatory		<-->	noun+C2[-0]	.
+reformatory		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4112,7 +4112,7 @@ reformatory		<-->	noun+C2[-0]	.
 
 
 
-regicide		<-->	noun+C2[-0]	.
+regicide		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4121,7 +4121,7 @@ regicide		<-->	noun+C2[-0]	.
 
 
 
-remand centre		<-->	noun+C2[-0]	.
+remand centre		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4130,7 +4130,7 @@ remand centre		<-->	noun+C2[-0]	.
 
 
 
-remission		<-->	noun+C2[-0]	.
+remission		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4139,7 +4139,7 @@ remission		<-->	noun+C2[-0]	.
 
 
 
-remit		<-->	verb+C2[-0]	.
+remit		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4148,7 +4148,7 @@ remit		<-->	verb+C2[-0]	.
 
 
 
-report		<-->	verb+A2[-0]	.
+report		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4157,7 +4157,7 @@ report		<-->	verb+A2[-0]	.
 
 
 
-reprieve		<-->	verb+C2[-0]	.
+reprieve		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4166,7 +4166,7 @@ reprieve		<-->	verb+C2[-0]	.
 
 
 
-reprieve		<-->	noun+C2[-0]	.
+reprieve		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4175,7 +4175,7 @@ reprieve		<-->	noun+C2[-0]	.
 
 
 
-restorative justice		<-->	noun+C2[-0]	.
+restorative justice		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4184,7 +4184,7 @@ restorative justice		<-->	noun+C2[-0]	.
 
 
 
-restraining order		<-->	noun+C2[-0]	.
+restraining order		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4193,7 +4193,7 @@ restraining order		<-->	noun+C2[-0]	.
 
 
 
-retribution		<-->	noun+C2[-0]	.
+retribution		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4202,7 +4202,7 @@ retribution		<-->	noun+C2[-0]	.
 
 
 
-retributive		<-->	adjective+BC2[-0]	.
+retributive		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4211,7 +4211,7 @@ retributive		<-->	adjective+BC2[-0]	.
 
 
 
-rifle		<-->	verb+C2[-0]	.
+rifle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4220,7 +4220,7 @@ rifle		<-->	verb+C2[-0]	.
 
 
 
-ring		<-->	noun+C2[-0]	.
+ring		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4229,7 +4229,7 @@ ring		<-->	noun+C2[-0]	.
 
 
 
-ringleader		<-->	noun+C2[-0]	.
+ringleader		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4238,7 +4238,7 @@ ringleader		<-->	noun+C2[-0]	.
 
 
 
-riot		<-->	noun+C1[-0]	.
+riot		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4247,7 +4247,7 @@ riot		<-->	noun+C1[-0]	.
 
 
 
-riot		<-->	verb+C1[-0]	.
+riot		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4256,7 +4256,7 @@ riot		<-->	verb+C1[-0]	.
 
 
 
-rioter		<-->	noun+C1[-0]	.
+rioter		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4265,7 +4265,7 @@ rioter		<-->	noun+C1[-0]	.
 
 
 
-riotous		<-->	adjective+BC2[-0]	.
+riotous		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4274,7 +4274,7 @@ riotous		<-->	adjective+BC2[-0]	.
 
 
 
-rip off		<-->	phrasal verb+C1[-0]	.
+rip off		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4283,7 +4283,7 @@ rip off		<-->	phrasal verb+C1[-0]	.
 
 
 
-rob		<-->	verb+B2[-0]	.
+rob		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4292,7 +4292,7 @@ rob		<-->	verb+B2[-0]	.
 
 
 
-robber		<-->	noun+B1[-0]	.
+robber		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4301,7 +4301,7 @@ robber		<-->	noun+B1[-0]	.
 
 
 
-robbery		<-->	noun+B2[-0]	.
+robbery		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4310,7 +4310,7 @@ robbery		<-->	noun+B2[-0]	.
 
 
 
-run		<-->	verb+C2[-0]	.
+run		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4319,7 +4319,7 @@ run		<-->	verb+C2[-0]	.
 
 
 
-runner		<-->	noun+C2[-0]	.
+runner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4328,7 +4328,7 @@ runner		<-->	noun+C2[-0]	.
 
 
 
-running		<-->	noun+C2[-0]	.
+running		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4337,7 +4337,7 @@ running		<-->	noun+C2[-0]	.
 
 
 
-rustle		<-->	verb+C2[-0]	.
+rustle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4346,7 +4346,7 @@ rustle		<-->	verb+C2[-0]	.
 
 
 
-rustler		<-->	noun+C2[-0]	.
+rustler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4355,7 +4355,7 @@ rustler		<-->	noun+C2[-0]	.
 
 
 
-rustling		<-->	noun+C2[-0]	.
+rustling		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4364,7 +4364,7 @@ rustling		<-->	noun+C2[-0]	.
 
 
 
-sanction		<-->	noun+C1[-0]	.
+sanction		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4373,7 +4373,7 @@ sanction		<-->	noun+C1[-0]	.
 
 
 
-sanction		<-->	verb+C1[-0]	.
+sanction		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4382,7 +4382,7 @@ sanction		<-->	verb+C1[-0]	.
 
 
 
-scalp		<-->	verb+C2[-0]	.
+scalp		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4391,7 +4391,7 @@ scalp		<-->	verb+C2[-0]	.
 
 
 
-scalper		<-->	noun+C2[-0]	.
+scalper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4400,7 +4400,7 @@ scalper		<-->	noun+C2[-0]	.
 
 
 
-scam		<-->	noun+C1[-0]	.
+scam		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4409,7 +4409,7 @@ scam		<-->	noun+C1[-0]	.
 
 
 
-scam		<-->	verb+C1[-0]	.
+scam		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4418,7 +4418,7 @@ scam		<-->	verb+C1[-0]	.
 
 
 
-scene		<-->	noun+A2[-0]	.
+scene		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4427,7 +4427,7 @@ scene		<-->	noun+A2[-0]	.
 
 
 
-scene-of-crime		<-->	adjective+BC2[-0]	.
+scene-of-crime		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4436,7 +4436,7 @@ scene-of-crime		<-->	adjective+BC2[-0]	.
 
 
 
-scot-free		<-->	adverb+C2[-0]	.
+scot-free		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4445,7 +4445,7 @@ scot-free		<-->	adverb+C2[-0]	.
 
 
 
-Scotland Yard		<-->	noun+C2[-0]	.
+Scotland Yard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4454,7 +4454,7 @@ Scotland Yard		<-->	noun+C2[-0]	.
 
 
 
-security risk		<-->	noun+C1[-0]	.
+security risk		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4463,7 +4463,7 @@ security risk		<-->	noun+C1[-0]	.
 
 
 
-seize		<-->	verb+C1[-0]	.
+seize		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4472,7 +4472,7 @@ seize		<-->	verb+C1[-0]	.
 
 
 
-sentence		<-->	noun+B2[-0]	.
+sentence		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4481,7 +4481,7 @@ sentence		<-->	noun+B2[-0]	.
 
 
 
-sentence		<-->	verb+B2[-0]	.
+sentence		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4490,7 +4490,7 @@ sentence		<-->	verb+B2[-0]	.
 
 
 
-serial killer		<-->	noun+C2[-0]	.
+serial killer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4499,7 +4499,7 @@ serial killer		<-->	noun+C2[-0]	.
 
 
 
-serious		<-->	adjective+BA2[-0]	.
+serious		<-->	adjective++BA2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4508,7 +4508,7 @@ serious		<-->	adjective+BA2[-0]	.
 
 
 
-serve		<-->	verb+C1[-0]	.
+serve		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4517,7 +4517,7 @@ serve		<-->	verb+C1[-0]	.
 
 
 
-shoot		<-->	verb+B1[-0]	.
+shoot		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4526,7 +4526,7 @@ shoot		<-->	verb+B1[-0]	.
 
 
 
-shooting		<-->	noun+B2[-0]	.
+shooting		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4535,7 +4535,7 @@ shooting		<-->	noun+B2[-0]	.
 
 
 
-shoplift		<-->	verb+B2[-0]	.
+shoplift		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4544,7 +4544,7 @@ shoplift		<-->	verb+B2[-0]	.
 
 
 
-shoplifter		<-->	noun+B2[-0]	.
+shoplifter		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4553,7 +4553,7 @@ shoplifter		<-->	noun+B2[-0]	.
 
 
 
-shoplifting		<-->	noun+B2[-0]	.
+shoplifting		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4562,7 +4562,7 @@ shoplifting		<-->	noun+B2[-0]	.
 
 
 
-skim		<-->	verb+C2[-0]	.
+skim		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4571,7 +4571,7 @@ skim		<-->	verb+C2[-0]	.
 
 
 
-slander		<-->	noun+C2[-0]	.
+slander		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4580,7 +4580,7 @@ slander		<-->	noun+C2[-0]	.
 
 
 
-slander		<-->	verb+C2[-0]	.
+slander		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4589,7 +4589,7 @@ slander		<-->	verb+C2[-0]	.
 
 
 
-slanderous		<-->	adjective+BC2[-0]	.
+slanderous		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4598,7 +4598,7 @@ slanderous		<-->	adjective+BC2[-0]	.
 
 
 
-smuggle		<-->	verb+C1[-0]	.
+smuggle		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4607,7 +4607,7 @@ smuggle		<-->	verb+C1[-0]	.
 
 
 
-smuggler		<-->	noun+C1[-0]	.
+smuggler		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4616,7 +4616,7 @@ smuggler		<-->	noun+C1[-0]	.
 
 
 
-smuggling		<-->	noun+C1[-0]	.
+smuggling		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4625,7 +4625,7 @@ smuggling		<-->	noun+C1[-0]	.
 
 
 
-snatch		<-->	verb+C1[-0]	.
+snatch		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4634,7 +4634,7 @@ snatch		<-->	verb+C1[-0]	.
 
 
 
-solitary confinement		<-->	noun+C2[-0]	.
+solitary confinement		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4643,7 +4643,7 @@ solitary confinement		<-->	noun+C2[-0]	.
 
 
 
-solve		<-->	verb+A2[-0]	.
+solve		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4652,7 +4652,7 @@ solve		<-->	verb+A2[-0]	.
 
 
 
-Special Branch		<-->	noun+C2[-0]	.
+Special Branch		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4661,7 +4661,7 @@ Special Branch		<-->	noun+C2[-0]	.
 
 
 
-speed		<-->	verb+B2[-0]	.
+speed		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4670,7 +4670,7 @@ speed		<-->	verb+B2[-0]	.
 
 
 
-speeding		<-->	noun+B2[-0]	.
+speeding		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4679,7 +4679,7 @@ speeding		<-->	noun+B2[-0]	.
 
 
 
-stab		<-->	verb+C1[-0]	.
+stab		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4688,7 +4688,7 @@ stab		<-->	verb+C1[-0]	.
 
 
 
-stabbing		<-->	noun+C1[-0]	.
+stabbing		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4697,7 +4697,7 @@ stabbing		<-->	noun+C1[-0]	.
 
 
 
-stake-out		<-->	noun+C2[-0]	.
+stake-out		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4706,7 +4706,7 @@ stake-out		<-->	noun+C2[-0]	.
 
 
 
-stake out		<-->	phrasal verb+C2[-0]	.
+stake out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4715,7 +4715,7 @@ stake out		<-->	phrasal verb+C2[-0]	.
 
 
 
-stalk		<-->	verb+C2[-0]	.
+stalk		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4724,7 +4724,7 @@ stalk		<-->	verb+C2[-0]	.
 
 
 
-stalker		<-->	noun+C2[-0]	.
+stalker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4733,7 +4733,7 @@ stalker		<-->	noun+C2[-0]	.
 
 
 
-stalking		<-->	noun+C2[-0]	.
+stalking		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4742,7 +4742,7 @@ stalking		<-->	noun+C2[-0]	.
 
 
 
-statutory offence		<-->	noun+C2[-0]	.
+statutory offence		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4751,7 +4751,7 @@ statutory offence		<-->	noun+C2[-0]	.
 
 
 
-statutory rape		<-->	noun+C2[-0]	.
+statutory rape		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4760,7 +4760,7 @@ statutory rape		<-->	noun+C2[-0]	.
 
 
 
-steal		<-->	verb+A2[-0]	.
+steal		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4769,7 +4769,7 @@ steal		<-->	verb+A2[-0]	.
 
 
 
-stick-up		<-->	noun+C2[-0]	.
+stick-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4778,7 +4778,7 @@ stick-up		<-->	noun+C2[-0]	.
 
 
 
-strip search		<-->	noun+C2[-0]	.
+strip search		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4787,7 +4787,7 @@ strip search		<-->	noun+C2[-0]	.
 
 
 
-strip-search		<-->	verb+C2[-0]	.
+strip-search		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4796,7 +4796,7 @@ strip-search		<-->	verb+C2[-0]	.
 
 
 
-suicide		<-->	noun+C1[-0]	.
+suicide		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4805,7 +4805,7 @@ suicide		<-->	noun+C1[-0]	.
 
 
 
-supergrass		<-->	noun+C2[-0]	.
+supergrass		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4814,7 +4814,7 @@ supergrass		<-->	noun+C2[-0]	.
 
 
 
-supermax		<-->	noun+C2[-0]	.
+supermax		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4823,7 +4823,7 @@ supermax		<-->	noun+C2[-0]	.
 
 
 
-surrender		<-->	verb+C1[-0]	.
+surrender		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4832,7 +4832,7 @@ surrender		<-->	verb+C1[-0]	.
 
 
 
-surveillance		<-->	noun+C1[-0]	.
+surveillance		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4841,7 +4841,7 @@ surveillance		<-->	noun+C1[-0]	.
 
 
 
-suspect		<-->	verb+B2[-0]	.
+suspect		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4850,7 +4850,7 @@ suspect		<-->	verb+B2[-0]	.
 
 
 
-suspect		<-->	noun+B2[-0]	.
+suspect		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4859,7 +4859,7 @@ suspect		<-->	noun+B2[-0]	.
 
 
 
-suspended sentence		<-->	noun+C1[-0]	.
+suspended sentence		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4868,7 +4868,7 @@ suspended sentence		<-->	noun+C1[-0]	.
 
 
 
-suspicious		<-->	adjective+BC1[-0]	.
+suspicious		<-->	adjective++BC1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4877,7 +4877,7 @@ suspicious		<-->	adjective+BC1[-0]	.
 
 
 
-swindle		<-->	verb+C2[-0]	.
+swindle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4886,7 +4886,7 @@ swindle		<-->	verb+C2[-0]	.
 
 
 
-swindle		<-->	noun+C2[-0]	.
+swindle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4895,7 +4895,7 @@ swindle		<-->	noun+C2[-0]	.
 
 
 
-swindler		<-->	noun+C2[-0]	.
+swindler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4904,7 +4904,7 @@ swindler		<-->	noun+C2[-0]	.
 
 
 
-swipe		<-->	verb+C2[-0]	.
+swipe		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4913,7 +4913,7 @@ swipe		<-->	verb+C2[-0]	.
 
 
 
-tax evasion		<-->	noun+C2[-0]	.
+tax evasion		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4922,7 +4922,7 @@ tax evasion		<-->	noun+C2[-0]	.
 
 
 
-term		<-->	noun+B2[-0]	.
+term		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4931,7 +4931,7 @@ term		<-->	noun+B2[-0]	.
 
 
 
-terror		<-->	noun+C1[-0]	.
+terror		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4940,7 +4940,7 @@ terror		<-->	noun+C1[-0]	.
 
 
 
-terrorism		<-->	noun+B2[-0]	.
+terrorism		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4949,7 +4949,7 @@ terrorism		<-->	noun+B2[-0]	.
 
 
 
-terrorist		<-->	noun+B2[-0]	.
+terrorist		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4958,7 +4958,7 @@ terrorist		<-->	noun+B2[-0]	.
 
 
 
-theft		<-->	noun+B2[-0]	.
+theft		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4967,7 +4967,7 @@ theft		<-->	noun+B2[-0]	.
 
 
 
-thief		<-->	noun+A2[-0]	.
+thief		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4976,7 +4976,7 @@ thief		<-->	noun+A2[-0]	.
 
 
 
-thievery		<-->	noun+C2[-0]	.
+thievery		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4985,7 +4985,7 @@ thievery		<-->	noun+C2[-0]	.
 
 
 
-thug		<-->	noun+C2[-0]	.
+thug		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -4994,7 +4994,7 @@ thug		<-->	noun+C2[-0]	.
 
 
 
-thuggery		<-->	noun+C2[-0]	.
+thuggery		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5003,7 +5003,7 @@ thuggery		<-->	noun+C2[-0]	.
 
 
 
-tip-off		<-->	noun+C2[-0]	.
+tip-off		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5012,7 +5012,7 @@ tip-off		<-->	noun+C2[-0]	.
 
 
 
-tip off		<-->	phrasal verb+C2[-0]	.
+tip off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5021,7 +5021,7 @@ tip off		<-->	phrasal verb+C2[-0]	.
 
 
 
-tipster		<-->	noun+C2[-0]	.
+tipster		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5030,7 +5030,7 @@ tipster		<-->	noun+C2[-0]	.
 
 
 
-tout		<-->	verb+C2[-0]	.
+tout		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5039,7 +5039,7 @@ tout		<-->	verb+C2[-0]	.
 
 
 
-tout		<-->	noun+C2[-0]	.
+tout		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5048,7 +5048,7 @@ tout		<-->	noun+C2[-0]	.
 
 
 
-trace		<-->	verb+B2[-0]	.
+trace		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5057,7 +5057,7 @@ trace		<-->	verb+B2[-0]	.
 
 
 
-traffic		<-->	verb+B2[-0]	.
+traffic		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5066,7 +5066,7 @@ traffic		<-->	verb+B2[-0]	.
 
 
 
-trafficker		<-->	noun+C1[-0]	.
+trafficker		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5075,7 +5075,7 @@ trafficker		<-->	noun+C1[-0]	.
 
 
 
-trafficking		<-->	noun+C1[-0]	.
+trafficking		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5084,7 +5084,7 @@ trafficking		<-->	noun+C1[-0]	.
 
 
 
-traitor		<-->	noun+C2[-0]	.
+traitor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5093,7 +5093,7 @@ traitor		<-->	noun+C2[-0]	.
 
 
 
-treason		<-->	noun+C2[-0]	.
+treason		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5102,7 +5102,7 @@ treason		<-->	noun+C2[-0]	.
 
 
 
-treasonable		<-->	adjective+BC2[-0]	.
+treasonable		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5111,7 +5111,7 @@ treasonable		<-->	adjective+BC2[-0]	.
 
 
 
-trespass		<-->	verb+C2[-0]	.
+trespass		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5120,7 +5120,7 @@ trespass		<-->	verb+C2[-0]	.
 
 
 
-trespass		<-->	noun+C2[-0]	.
+trespass		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5129,7 +5129,7 @@ trespass		<-->	noun+C2[-0]	.
 
 
 
-trespasser		<-->	noun+C2[-0]	.
+trespasser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5138,7 +5138,7 @@ trespasser		<-->	noun+C2[-0]	.
 
 
 
-uncover		<-->	verb+C1[-0]	.
+uncover		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5147,7 +5147,7 @@ uncover		<-->	verb+C1[-0]	.
 
 
 
-undercover		<-->	adjective+BC1[-0]	.
+undercover		<-->	adjective++BC1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5156,7 +5156,7 @@ undercover		<-->	adjective+BC1[-0]	.
 
 
 
-undercover		<-->	adverb+C1[-0]	.
+undercover		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5165,7 +5165,7 @@ undercover		<-->	adverb+C1[-0]	.
 
 
 
-underground		<-->	adjective+BC2[-0]	.
+underground		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5174,7 +5174,7 @@ underground		<-->	adjective+BC2[-0]	.
 
 
 
-under the counter		<-->	idiom+C2[-0]	.
+under the counter		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5183,7 +5183,7 @@ under the counter		<-->	idiom+C2[-0]	.
 
 
 
-under-the-counter		<-->	adjective+BC2[-0]	.
+under-the-counter		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5192,7 +5192,7 @@ under-the-counter		<-->	adjective+BC2[-0]	.
 
 
 
-unlawful killing		<-->	noun+C2[-0]	.
+unlawful killing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5201,7 +5201,7 @@ unlawful killing		<-->	noun+C2[-0]	.
 
 
 
-vagrancy		<-->	noun+C2[-0]	.
+vagrancy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5210,7 +5210,7 @@ vagrancy		<-->	noun+C2[-0]	.
 
 
 
-vagrant		<-->	noun+C2[-0]	.
+vagrant		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5219,7 +5219,7 @@ vagrant		<-->	noun+C2[-0]	.
 
 
 
-vandal		<-->	noun+B2[-0]	.
+vandal		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5228,7 +5228,7 @@ vandal		<-->	noun+B2[-0]	.
 
 
 
-vandalism		<-->	noun+B2[-0]	.
+vandalism		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5237,7 +5237,7 @@ vandalism		<-->	noun+B2[-0]	.
 
 
 
-vandalize		<-->	verb+C1[-0]	.
+vandalize		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5246,7 +5246,7 @@ vandalize		<-->	verb+C1[-0]	.
 
 
 
-vice		<-->	noun+C1[-0]	.
+vice		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5255,7 +5255,7 @@ vice		<-->	noun+C1[-0]	.
 
 
 
-victim		<-->	noun+B1[-0]	.
+victim		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5264,7 +5264,7 @@ victim		<-->	noun+B1[-0]	.
 
 
 
-vigilante		<-->	noun+C2[-0]	.
+vigilante		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5273,7 +5273,7 @@ vigilante		<-->	noun+C2[-0]	.
 
 
 
-vigilantism		<-->	noun+C2[-0]	.
+vigilantism		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5282,7 +5282,7 @@ vigilantism		<-->	noun+C2[-0]	.
 
 
 
-violence		<-->	noun+B2[-0]	.
+violence		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5291,7 +5291,7 @@ violence		<-->	noun+B2[-0]	.
 
 
 
-violent		<-->	adjective+BB1[-0]	.
+violent		<-->	adjective++BB1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5300,7 +5300,7 @@ violent		<-->	adjective+BB1[-0]	.
 
 
 
-walk free		<-->	idiom+C2[-0]	.
+walk free		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5309,7 +5309,7 @@ walk free		<-->	idiom+C2[-0]	.
 
 
 
-wanted		<-->	adjective+BC2[-0]	.
+wanted		<-->	adjective++BC2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5318,7 +5318,7 @@ wanted		<-->	adjective+BC2[-0]	.
 
 
 
-war crime		<-->	noun+B2[-0]	.
+war crime		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5327,7 +5327,7 @@ war crime		<-->	noun+B2[-0]	.
 
 
 
-war criminal		<-->	noun+B2[-0]	.
+war criminal		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5336,7 +5336,7 @@ war criminal		<-->	noun+B2[-0]	.
 
 
 
-warden		<-->	noun+C2[-0]	.
+warden		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5345,7 +5345,7 @@ warden		<-->	noun+C2[-0]	.
 
 
 
-warder		<-->	noun+C2[-0]	.
+warder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5354,7 +5354,7 @@ warder		<-->	noun+C2[-0]	.
 
 
 
-weapon		<-->	noun+B1[-0]	.
+weapon		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5363,7 +5363,7 @@ weapon		<-->	noun+B1[-0]	.
 
 
 
-witness		<-->	noun+B2[-0]	.
+witness		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5372,7 +5372,7 @@ witness		<-->	noun+B2[-0]	.
 
 
 
-witness		<-->	verb+B2[-0]	.
+witness		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5381,7 +5381,7 @@ witness		<-->	verb+B2[-0]	.
 
 
 
-witness tampering		<-->	noun+C2[-0]	.
+witness tampering		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5390,7 +5390,7 @@ witness tampering		<-->	noun+C2[-0]	.
 
 
 
-work release		<-->	noun+C2[-0]	.
+work release		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5399,7 +5399,7 @@ work release		<-->	noun+C2[-0]	.
 
 
 
-wrong		<-->	noun+B1[-0]	.
+wrong		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -5408,7 +5408,7 @@ wrong		<-->	noun+B1[-0]	.
 
 
 
-youth custody		<-->	noun+C2[-0]	.
+youth custody		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 

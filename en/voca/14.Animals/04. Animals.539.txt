@@ -1,32 +1,26 @@
-aardvark		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+aardvark		<-->	noun+C2	[230128][001]	./ˈɑːdvɑːk/-NAmE /ˈɑːrdvɑːrk/
+	;lợn đất ăn kiến -- (1) an animal from southern Africa that has a long nose and tongue and that eats insects
+		;TOPICS AnimalsC2
 
 
 
 
-
-adder		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+adder		<-->	noun+C2	[230128][001]	./ˈædə(r)/-NAmE /ˈædər/
+	;rắn lục có độc ở Anh -- (1) a small snake, often with marks in the shape of diamonds on its back. Adders are the only poisonous snakes in Britain.
+		;SEE ALSO puff adder
+		;TOPICS AnimalsC2
 
 
 
 
-Afghan hound		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+Afghan hound		<-->	noun+C2	[230128][001]	./ˌæfɡæn ˈhaʊnd/-NAmE /ˌæfɡæn ˈhaʊnd/
+	;chó săn ở Afghan; một con chó cao với bộ lông dài mềm mại và chiếc mũi nhọn -- (1) a tall dog with long soft hair and a pointed nose
+		;TOPICS AnimalsC2
 
 
 
 
-
-alligator		<-->	noun+C1[-0]	./ˈælɪɡeɪtə(r)/
- /ˈælɪɡeɪtər/
+alligator		<-->	noun+C1	[230128][001]	./ˈælɪɡeɪtə(r)/-NAmE /ˈælɪɡeɪtər/
 	;cá sấu nam Mỹ -- (1) a large reptile similar to a crocodile, with a long tail, hard skin and very big jaws, that lives in rivers and lakes in North and South America and China
 		;TOPICS AnimalsC1
 				;Oxford Collocations Dictionary
@@ -38,7 +32,109 @@ alligator		<-->	noun+C1[-0]	./ˈælɪɡeɪtə(r)/
 
 
 
-alpaca		<-->	noun+C2[-0]	.
+alpaca		<-->	noun+C2	[230128][001]	./ælˈpækə/-NAmE /ælˈpækə/
+	;lạc đà không bướu; một loài động vật Nam Mỹ có liên quan đến llama và có mái tóc dài -- (1) [countable] a South American animal that is related to the llama and has long hair
+		;TOPICS AnimalsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+Alsatian		<-->	noun+C1	[230128][001]	./ælˈseɪʃn/-NAmE /ælˈseɪʃn/ (British English) (also German shepherd North American English, British English)
+	;một con chó lớn, thường được huấn luyện để giúp cảnh sát, bảo vệ các tòa nhà hoặc (đặc biệt là ở Mỹ) để giúp người mù tìm đường -- (1) a large dog, often trained to help the police, to guard buildings or (especially in the US) to help blind people find their way
+		;TOPICS AnimalsC1
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+amphibian		<-->	noun+C1	[230128][001]	./æmˈfɪbiən/-NAmE /æmˈfɪbiən/
+	;loài lưỡng cư -- (1) enlarge imageany animal that can live both on land and in water. Amphibians have cold blood and skin without scales. Frogs, toads and newts are all amphibians.
+		;Collocations The living world:
+			---
+			The living world
+			Animals:
+				animals mate/​breed/​reproduce/​feed (on something)
+				fish/​amphibians swim/​spawn (= lay eggs)
+				birds fly/​migrate/​nest/​sing
+				insects crawl/​fly/​bite/​sting
+				insects/​bees/​locusts swarm
+				bees collect/​gather nectar/​pollen
+				spiders spin/​weave a web
+				snakes/​lizards shed their skins
+				bears/​hedgehogs/​frogs hibernate
+				insect larvae grow/​develop/​pupate
+				an egg/​a chick/​a larva hatches
+				attract/​find/​choose a mate
+				produce/​release eggs/​sperm
+				lay/​fertilize/​incubate/​hatch eggs
+				inhabit a forest/​a reef/​the coast
+				mark/​enter/​defend (a) territory
+				stalk/​hunt/​capture/​catch/​kill prey
+			Plants and fungi:
+				trees/​plants grow/​bloom/​blossom/​flower
+				a seed germinates/​sprouts
+				leaves/​buds/​roots/​shoots appear/​develop/​form
+				flower buds swell/​open
+				a fungus grows/​spreads/​colonizes something
+				pollinate/​fertilize a flower/​plant
+				produce/​release/​spread/​disperse pollen/​seeds/​spores
+				produce/​bear fruit
+				develop/​grow/​form roots/​shoots/​leaves
+				provide/​supply/​absorb/​extract/​release nutrients
+				perform/​increase/​reduce photosynthesis
+			Bacteria and viruses:
+				bacteria/​microbes/​viruses grow/​spread/​multiply
+				bacteria/​microbes live/​thrive in/​on something
+				bacteria/​microbes/​viruses evolve/​colonize something/​cause disease
+				bacteria break something down/​convert something (into something)
+				a virus enters/​invades something/​the body
+				a virus mutates/​evolves/​replicates (itself)
+				be infected with/​contaminated with/​exposed to a new strain of a virus/​drug-resistant bacteria
+				contain/​carry/​harbour bacteria/​a virus
+				kill/​destroy/​eliminate harmful/​deadly bacteria
+			---
+		;COMPARE reptile
+		;TOPICS AnimalsC1
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+amphibious		<-->	adjective+C2	[230128][001]	./æmˈfɪbiəs/-NAmE /æmˈfɪbiəs/
+	;lưỡng cư -- (1) able to live both on land and in water
+		;TOPICS AnimalsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+anaconda		<-->	noun+C2	[230128][001]	./ˌænəˈkɒndə/-NAmE /ˌænəˈkɑːndə/
+	;một con rắn lớn Nam Mỹ thuộc họ trăn, quấn chặt lấy những con vật khác để giết chúng trước khi ăn thịt chúng -- (1) a large South American snake of the boa family, that wraps itself tightly around other animals to kill them before eating them
+		;TOPICS AnimalsC2
+
+
+
+
+angora		<-->	noun+C2	[230128][001]	./æŋˈɡɔːrə/-NAmE /æŋˈɡɔːrə/
+	;một loại mèo, dê hoặc thỏ có mái tóc dài mềm mại -- (1) [countable] a type of cat, goat or rabbit that has long soft hair
+		;TOPICS AnimalsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+animal		<-->	noun+A1	[230128][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -47,8 +143,33 @@ alpaca		<-->	noun+C2[-0]	.
 
 
 
-Alsatian		<-->	noun+C1[-0]	.
-	; -- (1) 
+anteater		<-->	noun+C2	[230128][001]	./ˈæntiːtə(r)/-NAmE /ˈæntiːtər/
+	;Thú ăn kiến -- (1) an animal with a long nose and tongue that eats ants
+		;TOPICS AnimalsC2
+
+
+
+
+antelope		<-->	noun+C1	[230128][001]	./ˈæntɪləʊp/-NAmE /ˈæntɪləʊp/ (plural antelope, antelopes)
+	;con linh dương -- (1) an African or Asian animal, like a deer, that runs very fast. There are many types of antelope.
+		;TOPICS AnimalsC1
+
+
+
+
+antler		<-->	noun+C1	[230128][001]	./ˈæntlə(r)/-NAmE /ˈæntlər/ [usually plural]
+	;gạc mai; một trong hai chiếc sừng mọc trên đầu hươu đực -- (1) one of the two horns that grow on the head of male deer
+		;Poachers in search of antlers prey on red deer.
+		;TOPICS AnimalsC1
+		;Word Origin
+
+
+
+
+ape		<-->	noun+B2	[230128][001]	./eɪp/-NAmE /eɪp/
+	;vượn;  -- (1) a large animal like a monkey, with no tail. There are different types of ape.
+		;the great apes (= for example, orangutans or chimpanzees)
+		;TOPICS AnimalsB2
 	; -- (2) 
 	; -- (3) 
 
@@ -56,8 +177,9 @@ Alsatian		<-->	noun+C1[-0]	.
 
 
 
-amphibian		<-->	noun+C1[-0]	.
-	; -- (1) 
+armadillo		<-->	noun+C2	[230128][001]	./ˌɑːməˈdɪləʊ/-NAmE /ˌɑːrməˈdɪləʊ/ (plural armadillos)
+	;con tatu; một động vật Mỹ với một vỏ cứng làm bằng mảnh xương -- (1) an American animal with a hard shell made of pieces of bone
+		;TOPICS AnimalsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -65,8 +187,29 @@ amphibian		<-->	noun+C1[-0]	.
 
 
 
-amphibious		<-->	adjective+C2[-0]	.
-	; -- (1) 
+asp		<-->	noun+C2	[230128][001]	./æsp/-NAmE /æsp/
+	;rắn độc -- (1) a small poisonous snake found in south-west Europe
+		;TOPICS AnimalsC2
+	;rắn độc -- (2) a general name for various types of small poisonous snake found in North Africa
+		;TOPICS AnimalsC2
+
+
+
+
+assistance dog		<-->	noun+C1	[230128][001]	./əˈsɪstəns dɒɡ/-NAmE /əˈsɪstəns dɔːɡ/
+	;một con chó được huấn luyện để giúp đỡ ai đó có tình trạng bệnh tật hoặc khuyết tật -- (1) a dog trained to help somebody who has a medical condition or disability
+		;Dogs are not allowed inside the cafe, with the exception of assistance dogs.
+		;COMPARE guide dog, hearing dog
+		;TOPICS AnimalsC1, DisabilityC1
+
+
+
+
+attack dog		<-->	noun+C2	[230128][001]	./əˈtæk dɒɡ/-NAmE /əˈtæk dɔːɡ/
+	;một con chó đã được huấn luyện để tấn công người hoặc động vật khác -- (1) a dog that has been trained to attack people or other animals
+		;the use of attack dogs against prisoners
+		;four breeds of attack dogs
+		;TOPICS AnimalsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -74,128 +217,25 @@ amphibious		<-->	adjective+C2[-0]	.
 
 
 
-anaconda		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+baa		<-->	noun+C2	[230128][001]	./bɑː/-NAmE /bɑː/
+	;âm thanh được tạo ra bởi một con cừu hoặc cừu -- (1) the sound made by a sheep or lamb
+		;TOPICS AnimalsC2
 
 
 
 
+baa		<-->	verb+C2	[230128][001]	./bɑː/-NAmE /bɑː/ [intransitive]
+	;để làm cho một âm thanh như một con cừu hoặc cừu -- (1) to make a sound like a sheep or lamb
+		;TOPICS AnimalsC2
+		;More Like This
+		;Animal sounds: baa, caw, coo, meow, moo, neigh, oink, quack, tu-whit, tu- whoo, tweet, woof
 
-angora		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
-
-
-animal		<-->	noun+A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-anteater		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-antelope		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-antler		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-ape		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-armadillo		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-asp		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-assistance dog		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-attack dog		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-baa		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-baa		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-baboon		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+baboon		<-->	noun+C2	[230128][001]	./bəˈbuːn/-NAmE /bæˈbuːn/
+	;khỉ đầu chó -- (1) ​a large African or Asian monkey with a long face like a dog’s
+		;TOPICS AnimalsC2
 
 
 
@@ -1128,7 +1168,7 @@ dingo		<-->	noun+C2[-0]	.
 
 
 
-dinosaur		<-->	noun+B2[-0]	./ˈdaɪnəsɔː(r)/-NAmE /ˈdaɪnəsɔːr/
+dinosaur		<-->	noun+B2	[230128][001]	./ˈdaɪnəsɔː(r)/-NAmE /ˈdaɪnəsɔːr/
 	;một con khủng long -- (1) an animal that lived millions of years ago but is now extinct (= it no longer exists). There were many types of dinosaur, some of which were very large.
 		;TOPICS AnimalsB2
 	; -- (2) 
@@ -1156,7 +1196,7 @@ dog		<-->	noun+A1[-0]	.
 
 
 
-dogie		<-->	noun+C2[-0]	./ˈdəʊɡi/-NAmE /ˈdəʊɡi/ (North American English)
+dogie		<-->	noun+C2	[230128][001]	./ˈdəʊɡi/-NAmE /ˈdəʊɡi/ (North American English)
 	;bê con lạc mẹ -- (1) a young cow that has lost its mother
 		;TOPICS AnimalsC2
 	; -- (2) 
@@ -4685,7 +4725,7 @@ whale		<-->	noun+A2	[221106][001]	./weɪl/-NAmE /weɪl/
 
 
 
-whimper		<-->	verb+C2[-0]	./ˈwɪmpə(r)/-NAmE /ˈwɪmpər/\ [intransitive, transitive]
+whimper		<-->	verb+C2	[230128][001]	./ˈwɪmpə(r)/-NAmE /ˈwɪmpər/\ [intransitive, transitive]
 	;rên khẽ -- (1) to make low, weak crying noises; to speak in this way
 		;The dog whimpered softly.
 		;The child was lost and began to whimper.
@@ -4712,7 +4752,7 @@ whimper		<-->	verb+C2[-0]	./ˈwɪmpə(r)/-NAmE /ˈwɪmpər/\ [intransitive, tran
 
 
 
-whimper		<-->	noun+C2[-0]	./ˈwɪmpə(r)/-NAmE /ˈwɪmpər/
+whimper		<-->	noun+C2	[230128][001]	./ˈwɪmpə(r)/-NAmE /ˈwɪmpər/
 	;tiếng rên rỉ -- (1) a low, weak sound that a person or an animal makes when they are hurt, frightened or sad
 		;The puppy gave a little whimper of fear.
 		;She let out a whimper of pain.
@@ -4788,7 +4828,7 @@ wildlife		<-->	noun+B2[-0]	.
 
 
 
-withers		<-->	noun+C2[-0]	./ˈwɪðəz/-NAmE /ˈwɪðərz/ [plural]
+withers		<-->	noun+C2	[230128][001]	./ˈwɪðəz/-NAmE /ˈwɪðərz/ [plural]
 	;cục thịt nổi phía trước lưng ngựa bò -- (1) the highest part of a horse’s back, between its shoulders
 		;TOPICS AnimalsC2
 	; -- (2) 
