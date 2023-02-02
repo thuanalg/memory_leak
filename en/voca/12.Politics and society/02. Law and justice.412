@@ -1,4 +1,4 @@
-abide by		<-->	phrasal verb++C2[-0]	./p/
+abide by		<-->	phrasal verb++C2	[230201][001]	./p/
 	;tuân thủ -- (1) [-abide by something] (formal) to accept and act according to a law, an agreement, etc.
 		;You'll have to abide by the rules of the club.
 		;We will abide by their decision.
@@ -19,8 +19,7 @@ abide by		<-->	phrasal verb++C2[-0]	./p/
 
 
 
-acquit		<-->	verb++C1[-0]	./əˈkwɪt/
- /əˈkwɪt/
+acquit		<-->	verb++C1	[230201][002]	./əˈkwɪt/-NAmE /əˈkwɪt/
 	;phán -- (1) acquit somebody (of something) to decide and state officially in court that somebody is not guilty of a crime
 		;The jury acquitted him of murder.
 		;Both defendants were acquitted.
@@ -43,7 +42,7 @@ acquit		<-->	verb++C1[-0]	./əˈkwɪt/
 
 
 
-act		<-->	noun++B1[-0]	./cef/
+act		<-->	noun++B1	[230201][001]	./cef/
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -61,7 +60,7 @@ act		<-->	noun++B1[-0]	./cef/
 
 
 
-action		<-->	noun++B2[-0]	./cef/
+action		<-->	noun++B2	[230201][001]	./cef/
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -79,7 +78,7 @@ action		<-->	noun++B2[-0]	./cef/
 
 
 
-adopt		<-->	verb++B2[-0]	./cef/
+adopt		<-->	verb++B2	[230201][001]	./cef/
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -97,7 +96,7 @@ adopt		<-->	verb++B2[-0]	./cef/
 
 
 
-adoption		<-->	noun++C1[-0]	./cef/
+adoption		<-->	noun++C1	[230201][001]	./cef/
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -115,7 +114,7 @@ adoption		<-->	noun++C1[-0]	./cef/
 
 
 
-advocate		<-->	noun++C2[-0]	./cef/
+advocate		<-->	noun++C2	[230201][001]	./cef/
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
@@ -133,20 +132,15 @@ advocate		<-->	noun++C2[-0]	./cef/
 
 
 
-affidavit		<-->	noun++C2[-0]	./ˌæfəˈdeɪvɪt/
- /ˌæfəˈdeɪvɪt/ (law)
+affidavit		<-->	noun++C2	[230201][002]	./ˌæfəˈdeɪvɪt/-NAmE /ˌæfəˈdeɪvɪt/ (law)
 	;bản tuyên thệ -- (1) a written statement that you swear is true, and that can be used as evidence in court
 		;to make/swear/sign an affidavit
 		;They swore affidavits and put further material before the court.
+		;TOPICS Law and justiceC2
 	; -- (1) 
 	; -- (2)  
 	; -- (3) 
 
-
-
-
-
-		;TOPICS Law and justiceC2
 
 
 
@@ -191,11 +185,12 @@ agreement		<-->	noun++B1[-0]	.
 
 
 
-annulment		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2)  
-	; -- (3) 
-
+annulment		<-->	noun++C2[-0]	./ˌeɪdʒ əv kənˈsent/
+ /ˌeɪdʒ əv kənˈsent/ [singular]
+	;tuổi chịu trách nhiệm trước pháp luật -- (1) the age at which somebody is legally old enough to agree to have a sexual relationship
+		;The girl was under the age of consent.
+		;Culture
+		;TOPICS Law and justiceC2
 
 
 
@@ -3413,8 +3408,7 @@ JP		<-->	noun++C2[-0]	.
 
 
 
-judge		<-->	noun++B1[-0]	./dʒʌdʒ/
- /dʒʌdʒ/
+judge		<-->	noun++B1	[230201][001]	./dʒʌdʒ/-NAmE /dʒʌdʒ/
 	;thẩm phán -- (1) [-in court] a person in a court who has the authority to decide how criminals should be punished or to make legal decisions
 		;a High Court judge
 		;a federal/district judge
@@ -3668,8 +3662,7 @@ jury duty		<-->	noun++C1[-0]	.
 
 
 
-justice		<-->	noun++B2[-0]	./ˈdʒʌstɪs/
- /ˈdʒʌstɪs/
+justice		<-->	noun++B2	[230201][001]	./ˈdʒʌstɪs/-NAmE /ˈdʒʌstɪs/
 	;tư pháp, ngành tư pháp -- (3) [uncountable] the legal system used to punish people who have committed crimes
 		;the criminal justice system
 		;The European Court of Justice
