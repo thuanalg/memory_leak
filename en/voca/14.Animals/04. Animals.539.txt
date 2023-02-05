@@ -240,7 +240,81 @@ baboon		<-->	noun+C2	[230128][001]	./bəˈbuːn/-NAmE /bæˈbuːn/
 
 
 
-badger		<-->	noun+C2[-0]	.
+badger		<-->	noun+C2	[230205][001]	./ˈbædʒə(r)/-NAmE /ˈbædʒər/
+	;con lửng -- (1) an animal with grey fur and wide black and white lines on its head. Badgers are nocturnal (= active mostly at night) and live in holes in the ground.
+		;TOPICS AnimalsC2
+
+
+
+
+bandicoot		<-->	noun+C2	[230205][001]	./ˈbændɪkuːt/-NAmE /ˈbændɪkuːt/
+	;một loài động vật nhỏ ở Úc có mũi dài và đuôi dài, chủ yếu ăn côn trùng -- (1) a small Australasian animal with a long nose and long tail, which eats mainly insects
+		;TOPICS AnimalsC2
+	;một con chuột châu Á -- (2) (also bandicoot rat) an Asian rat
+		;TOPICS AnimalsC2
+
+
+
+
+bark		<-->	noun+C1	[230205][001]	./bɑːk/-NAmE /bɑːrk/\ [uncountable, countable]
+	;vỏ cây -- (1) the outer layer of a tree
+		;The bark peels off in summer.
+		;The people strip the bark and use it in medicines.
+		;TOPICS Plants and treesC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;roughtreebirch…
+				;verb + bark
+				;peel offremovestrip…
+				;bark + verb
+				;peel off
+				;bark + noun
+				;chippingschipsmulch…
+		;See full entry
+	;tiếng sủa -- (2) the short loud sound made by dogs and some other animals
+		;The dog gave a loud bark.
+		;TOPICS ANIMALSC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;loudnoisy
+				;verb + bark
+				;give
+		;See full entry
+	; -- (3) 
+
+
+
+
+
+bark		<-->	verb+C1	[230205][001]	./bɑːk/-NAmE /bɑːrk/
+	;sủa -- (1) ​[intransitive] bark (at somebody/something) when a dog barks, it makes a short loud sound
+		;The dog suddenly started barking at us.
+		;The dog was barking furiously at a cat.
+		;TOPICS AnimalsC1
+				;Oxford Collocations Dictionary
+				;adverb
+				;angrilyexcitedlyfrantically…
+				;preposition
+				;at
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+basset		<-->	noun+C2	[230205][001]	./ˈbæsɪt/-NAmE /ˈbæsɪt/ (also basset hound)
+	;một con chó có chân ngắn, thân dài và tai dài -- (1) a dog with short legs, a long body and long ears
+		;TOPICS AnimalsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+bat		<-->	noun+C1	[230205][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -249,7 +323,17 @@ badger		<-->	noun+C2[-0]	.
 
 
 
-bandicoot		<-->	noun+C2[-0]	.
+beagle		<-->	noun+C2	[230205][001]	./ˈbiːɡl/-NAmE /ˈbiːɡl/
+	;một loại chó nhỏ có chân ngắn, được sử dụng để săn bắn -- (1) a type of small dog with short legs, used in hunting
+		;TOPICS AnimalsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+bear		<-->	noun+A2	[230205][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -258,7 +342,7 @@ bandicoot		<-->	noun+C2[-0]	.
 
 
 
-bark		<-->	noun+C1[-0]	.
+beast		<-->	noun+C1	[230205][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -267,7 +351,18 @@ bark		<-->	noun+C1[-0]	.
 
 
 
-bark		<-->	verb+C1[-0]	.
+beaver		<-->	noun+C2	[230205][001]	./ˈbiːvə(r)/-NAmE /ˈbiːvər/
+	;hải ly -- (1) [countable] an animal with a wide flat tail and strong teeth. Beavers live in water and on land and can build dams (= barriers across rivers), made of pieces of wood and mud. The beaver is an official symbol of Canada.
+		;SEE ALSO eager beaver
+		;TOPICS AnimalsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+behaviour		<-->	noun+A2	[230205][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -276,8 +371,47 @@ bark		<-->	verb+C1[-0]	.
 
 
 
-basset		<-->	noun+C2[-0]	.
-	; -- (1) 
+big cat		<-->	noun+B1	[230205][001]	./ˌbɪɡ ˈkæt/-NAmE /ˌbɪɡ ˈkæt/
+	;loài mèo lớn -- (1) any large wild animal of the cat family. Lions, tigers and leopards are all big cats.
+		;TOPICS AnimalsB1
+
+
+
+
+bilby		<-->	noun+C2	[230205][001]	./ˈbɪlbi/-NAmE /ˈbɪlbi/ (plural bilbies)
+	;một loài động vật nhỏ ở Úc có mũi dài, đuôi dài và tai to -- (1) a small Australasian animal with a long nose, a long tail and big ears
+		;TOPICS AnimalsC2
+
+
+
+
+billy goat		<-->	noun+C2	[230205][001]	./ˈbɪli ɡəʊt/-NAmE /ˈbɪli ɡəʊt/
+	;một con dê đực -- (1) a male goat
+		;COMPARE nanny goat
+		;TOPICS AnimalsC2
+
+
+
+
+bird dog		<-->	noun+C2	[230205][001]	./ˈbɜːd dɒɡ/-NAmE /ˈbɜːrd dɔːɡ/ (North American English, informal)
+	;một con chó được sử dụng trong săn bắn để mang lại những con chim đã bị bắn -- (1) a dog used in hunting to bring back birds that have been shot
+		;TOPICS AnimalsC2
+
+
+
+
+bison		<-->	noun+C2	[230205][001]	./ˈbaɪsn/-NAmE /ˈbaɪsn/ (plural bison)
+	;một loài động vật hoang dã lớn thuộc họ bò được bao phủ bởi lông Có hai loại bò rừng, Bắc Mỹ (còn gọi là trâu) và châu Âu. -- (1) a large wild animal of the cow family that is covered with hair. There are two types of bison, the North American (also called buffalo) and the European.
+		;a herd of bison
+		;TOPICS AnimalsC2
+
+
+
+
+bitch		<-->	noun+C2	[230205][001]	./bɪtʃ/-NAmE /bɪtʃ/
+	;một con chó cái -- (1) [countable] a female dog
+		;a greyhound bitch
+		;TOPICS AnimalsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -285,8 +419,18 @@ basset		<-->	noun+C2[-0]	.
 
 
 
-bat		<-->	noun+C1[-0]	.
-	; -- (1) 
+bitzer		<-->	noun+C2	[230205][001]	./ˈbɪtsə(r)/-NAmE /ˈbɪtsər/ (Australian English, New Zealand English, informal)
+	;một thứ được làm từ các bộ phận ban đầu không thuộc về nhau -- (1) a thing that is made from parts that originally did not belong together
+	;chó lai; một con chó là hỗn hợp của các giống khác nhau (= loại) -- (2) a dog that is a mixture of different breeds (= types)
+		;SYNONYM mongrel
+		;TOPICS AnimalsC2
+
+
+
+
+blackface		<-->	noun+C2	[230205][001]	./ˈblækfeɪs/-NAmE /ˈblækfeɪs/
+	;một loại cừu có khuôn mặt đen -- (1) [countable] a type of sheep with a black face
+		;TOPICS AnimalsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -294,125 +438,9 @@ bat		<-->	noun+C1[-0]	.
 
 
 
-beagle		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bear		<-->	noun+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-beast		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-beaver		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-behaviour		<-->	noun+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-big cat		<-->	noun+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bilby		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-billy goat		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bird dog		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bison		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bitch		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bitzer		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-blackface		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bloodhound		<-->	noun+C2[-0]	.
-	; -- (1) 
+bloodhound		<-->	noun+C2	[230205][001]	./ˈblʌdhaʊnd/-NAmE /ˈblʌdhaʊnd/
+	;chó săn; một con chó lớn có khứu giác rất tốt, được sử dụng để theo dõi hoặc tìm kiếm người -- (1) a large dog with a very good sense of smell, used to follow or look for people
+		;TOPICS AnimalsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -430,7 +458,71 @@ blue whale		<-->	noun+C1	[221106][001]	./ˌbluː ˈweɪl/-NAmE /ˌbluː ˈweɪl/
 
 
 
-boa		<-->	noun+C2[-0]	.
+boa		<-->	noun+C2	[230205][001]	./ˈbəʊə/-NAmE /ˈbəʊə/
+	;trăn; một con rắn lớn Nam Mỹ giết động vật để làm thức ăn bằng cách cuộn chặt cơ thể dài của nó quanh chúng -- (1) (also boa constrictor) a large South American snake that kills animals for food by winding its long body tightly around them
+		;TOPICS AnimalsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+boa constrictor		<-->	noun+C2	[230205][001]	./ˌbəʊə kənˈstrɪktə(r)/-NAmE /ˌbəʊə kənˈstrɪktər/ (also boa)
+	;trăn Nam Mỹ -- (1) a large South American snake that kills animals for food by winding its long body tightly around them
+		;TOPICS AnimalsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+boar		<-->	noun+C2	[230205][001]	./bɔː(r)/-NAmE /bɔːr/ (plural boar, boars)
+	;(cũng là lợn rừng) con lợn rừng -- (1) (also wild boar) a wild pig
+		;TOPICS AnimalsC2
+	;một con lợn đực chưa được thiến -- (2) a male pig that has not been castrated
+		;COMPARE hog, sow2
+		;TOPICS AnimalsC2
+
+
+
+
+bobcat		<-->	noun+C2	[230205][001]	./ˈbɒbkæt/-NAmE /ˈbɑːbkæt/
+	;một con mèo hoang Bắc Mỹ -- (1) a North American wild cat
+		;TOPICS AnimalsC2
+
+
+
+
+Border collie		<-->	noun+C2	[230205][001]	./ˌbɔːdə ˈkɒli/-NAmE /ˌbɔːrdər ˈkɑːli/
+	;một con chó đen trắng cỡ trung bình, thường được sử dụng làm chó chăn cừu -- (1) a medium-sized black and white dog, often used as a sheepdog
+		;TOPICS AnimalsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+borzoi		<-->	noun+C2	[230205][001]	./ˈbɔːzɔɪ/-NAmE /ˈbɔːrzɔɪ/
+	;một con chó Nga lớn với bộ lông trắng mềm -- (1) a large Russian dog with soft white hair
+		;TOPICS AnimalsC2
+
+
+
+
+boxer		<-->	noun+C2	[230205][001]	./ˈbɒksə(r)/-NAmE /ˈbɑːksər/
+	;võ sĩ đấm bốc -- (1) a person who boxes, especially as a job
+		;a professional/amateur/heavyweight boxer
+		;TOPICS Sports: other sportsB2
+	;một con chó lớn với bộ lông mượt mà, chiếc mũi tẹt ngắn và cái đuôi thường bị cắt rất ngắn -- (2) a large dog with smooth hair, a short flat nose and a tail that has often been cut very short
+		;TOPICS AnimalsC2
+
+
+
+
+breed		<-->	verb+C1	[230205][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -439,7 +531,7 @@ boa		<-->	noun+C2[-0]	.
 
 
 
-boa constrictor		<-->	noun+C2[-0]	.
+breed		<-->	noun+C1	[230205][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -448,146 +540,92 @@ boa constrictor		<-->	noun+C2[-0]	.
 
 
 
-boar		<-->	noun+C2[-0]	.
+brood mare		<-->	noun+C2	[230205][001]	./ˈbruːd meə(r)/-NAmE /ˈbruːd mer/
+	;một con ngựa cái được giữ để đẻ -- (1) a female horse kept for producing young
+		;TOPICS AnimalsC2
+
+
+
+
+buck		<-->	noun+C2	[230205][001]	./cef/
 	; -- (1) 
-	; -- (2) 
+	;con nai sừng tấm đực -- (2) [countable] a male deer, hare or rabbit (also called a buck rabbit)
+		;COMPARE doe, hart, stag
+		;TOPICS AnimalsC2
 	; -- (3) 
 
 
 
 
 
-bobcat		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+buffalo		<-->	noun+C2	[230205][001]	./ˈbʌfələʊ/-NAmE /ˈbʌfələʊ/ (plural buffalo, buffaloes)
+	;trâu, bò -- (1) a large animal of the cow family that has wide, curved horns. There are two types of buffalo, the African and the Asian.
+		;SEE ALSO water buffalo
+		;TOPICS AnimalsC2
+	;một con bò rừng Bắc Mỹ -- (2) a North American bison (= a large wild animal of the cow family that is covered with hair)
+		;TOPICS AnimalsC2
+
+
+
+
+bull		<-->	noun+B1	[230205][001]	./bʊl/-NAmE /bʊl/
+	;bò đực -- (1) [countable] the male of any animal in the cow family
+		;a bull neck (= a short thick neck like a bull's)
+		;COMPARE bullock, cow, ox, steer
+		;TOPICS AnimalsB1
+	;con đực của voi, cá voi và một số động vật lớn khác -- (2) [countable] the male of the elephant, whale and some other large animals
+		;a bull elephant
+		;COMPARE cow
+		;TOPICS AnimalsC2
 	; -- (3) 
 
 
 
 
 
-Border collie		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+bulldog		<-->	noun+C2	[230205][001]	./ˈbʊldɒɡ/-NAmE /ˈbʊldɔːɡ/
+	;một con chó ngắn khỏe với cái đầu to, mũi tẹt ngắn và cổ ngắn dày -- (1) a short strong dog with a large head, a short flat nose and a short thick neck
+		;TOPICS AnimalsC2
+				;Oxford Collocations Dictionary
+				;Bulldog is used before these nouns:
+				;clip
+		;See full entry
 
 
 
 
+bullfrog		<-->	noun+C2	[230205][001]	./ˈbʊlfrɒɡ/-NAmE /ˈbʊlfrɑːɡ/
+	;ễnh ương -- (1) a large American frog with a loud croak
+		;TOPICS AnimalsC2
 
-borzoi		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
-boxer		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+bull mastiff		<-->	noun+C2	[230205][001]	./ˌbʊl ˈmæstɪf/-NAmE /ˌbʊl ˈmæstɪf/
+	;một con chó to khỏe với bộ lông ngắn mượt -- (1) a large strong dog with short smooth hair
+		;TOPICS AnimalsC2
 
 
 
 
+bullock		<-->	noun+C2	[230205][001]	./ˈbʊlək/-NAmE /ˈbʊlək/
+	;một con bò đực non (= một con bò đực) đã bị thiến (= đã cắt bỏ một phần cơ quan sinh dục của nó) -- (1) a young bull (= a male cow) that has been castrated (= had part of its sex organs removed)
+		;COMPARE ox, steer
+		;TOPICS AnimalsC2
+				;Oxford Collocations Dictionary
+				;Bullock is used before these nouns:
+				;cart
+		;See full entry
 
-breed		<-->	verb+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
-
-
-breed		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-brood mare		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-buck		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-buffalo		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bull		<-->	noun+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bulldog		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bullfrog		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bull mastiff		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bullock		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-bull terrier		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+bull terrier		<-->	noun+C2	[230205][001]	./ˌbʊl ˈteriə(r)/-NAmE /ˌbʊl ˈteriər/
+	;một con chó mạnh mẽ với lông ngắn, cổ dày và mũi dài -- (1) a strong dog with short hair, a thick neck and a long nose
+		;SEE ALSO pit bull terrier
+		;TOPICS AnimalsC2
 
 
 
