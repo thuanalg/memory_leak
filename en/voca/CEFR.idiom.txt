@@ -5,16 +5,16 @@
 			;a literary prize for writers of color
 			;students of color
 			;TOPICS People in societyB1
-		; -- (2) 
-		; -- (3) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] of colour		<-->	idiom++A1[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -26,15 +26,15 @@
 		;đồng thời -- (2) [z1-B1] used to introduce a fact that is different and must be considered
 			;You have to be firm, but at the same time you should try and be sympathetic.
 			;TOPICS Opinion and argumentC1
-		; -- (3) 
+	; -- (3) 
 
 
 
 
 [-] half past one, two, etc.		<-->	idiom++A1[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -63,25 +63,25 @@
 
 
 [-] excuse me		<-->	idiom++A1[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] I’m sorry		<-->	idiom++A1[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] how about…?		<-->	idiom++A1[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -95,7 +95,7 @@
 			;(especially North American English) How about we go for a walk?
 			;What about a break?
 			;TOPICS Suggestions and adviceA1
-		; -- (3) 
+	; -- (3) 
 
 
 
@@ -113,9 +113,9 @@
 
 
 [-] feel good		<-->	 idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -125,8 +125,8 @@
 			;Ann's expecting a baby in June.
 			;I didn't know she was expecting!
 			;TOPICS Life stagesA2
-		; -- (2) 
-		; -- (3) 
+	; -- (2) 
+	; -- (3) 
 
 
 
@@ -137,100 +137,110 @@
 			;I was sick three times in the night.
 			;She had been violently sick.
 			;TOPICS Health problemsA2
-		; -- (2) 
-		; -- (3) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] all the time		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] in the end		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] on time		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] be on the phone		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] be on the telephone		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] make sure (of something/that…)		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] that depends		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] (there is) no way		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
-[-] I know		<-->	idiom++A2    
+[-] I know		<-->	idiom++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
 [-] of course		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] why not?		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] be (all) for the best		<-->	idiom++A2[-0]	.
-		; -- (1) 
-		; -- (2) 
-		; -- (3) 
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 
 
 
 
 [-] do well		<-->	idiom++A2	
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
 

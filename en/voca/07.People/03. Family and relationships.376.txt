@@ -5,7 +5,7 @@
 
 
 
-acquaintance		<-->	noun+B2[-0]	.
+[-] acquaintance		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -17,7 +17,7 @@ acquaintance		<-->	noun+B2[-0]	.
 
 
 
-adopt		<-->	verb+B2[-0]	.
+[-] adopt		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -29,7 +29,7 @@ adopt		<-->	verb+B2[-0]	.
 
 
 
-adoptive		<-->	adjective+C1[-0]	.
+[-] adoptive		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -41,7 +41,7 @@ adoptive		<-->	adjective+C1[-0]	.
 
 
 
-adulterous		<-->	adjective+C2[-0]	.
+[-] adulterous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -53,7 +53,7 @@ adulterous		<-->	adjective+C2[-0]	.
 
 
 
-adultery		<-->	noun+C2[-0]	.
+[-] adultery		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -65,7 +65,7 @@ adultery		<-->	noun+C2[-0]	.
 
 
 
-affair		<-->	noun+B2[-0]	.
+[-] affair		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -77,7 +77,7 @@ affair		<-->	noun+B2[-0]	.
 
 
 
-affaire		<-->	noun+C2[-0]	.
+[-] affaire		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -89,7 +89,7 @@ affaire		<-->	noun+C2[-0]	.
 
 
 
-affinity		<-->	noun+C2[-0]	.
+[-] affinity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -101,7 +101,7 @@ affinity		<-->	noun+C2[-0]	.
 
 
 
-alike		<-->	adjective+C1[-0]	.
+[-] alike		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -113,7 +113,7 @@ alike		<-->	adjective+C1[-0]	.
 
 
 
-ally		<-->	noun+C1[-0]	.
+[-] ally		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -125,7 +125,7 @@ ally		<-->	noun+C1[-0]	.
 
 
 
-amity		<-->	noun+C2[-0]	.
+[-] amity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -137,7 +137,7 @@ amity		<-->	noun+C2[-0]	.
 
 
 
-ancestor		<-->	noun+B2[-0]	.
+[-] ancestor		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -149,7 +149,7 @@ ancestor		<-->	noun+B2[-0]	.
 
 
 
-ancestry		<-->	noun+C1[-0]	.
+[-] ancestry		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -161,7 +161,7 @@ ancestry		<-->	noun+C1[-0]	.
 
 
 
-annul		<-->	verb+C2[-0]	.
+[-] annul		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -173,7 +173,7 @@ annul		<-->	verb+C2[-0]	.
 
 
 
-annulment		<-->	noun+C2[-0]	.
+[-] annulment		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -185,7 +185,7 @@ annulment		<-->	noun+C2[-0]	.
 
 
 
-antecedent		<-->	noun+C2[-0]	.
+[-] antecedent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -197,7 +197,7 @@ antecedent		<-->	noun+C2[-0]	.
 
 
 
-aunt		<-->	noun+A1[-0]	.
+[-] aunt		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -209,7 +209,7 @@ aunt		<-->	noun+A1[-0]	.
 
 
 
-avuncular		<-->	adjective+C2[-0]	.
+[-] avuncular		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -221,7 +221,7 @@ avuncular		<-->	adjective+C2[-0]	.
 
 
 
-background		<-->	noun+A2[-0]	.
+[-] background		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -233,7 +233,7 @@ background		<-->	noun+A2[-0]	.
 
 
 
-band		<-->	noun+B2[-0]	.
+[-] band		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -245,7 +245,7 @@ band		<-->	noun+B2[-0]	.
 
 
 
-befriend		<-->	verb+C2[-0]	.
+[-] befriend		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -257,7 +257,7 @@ befriend		<-->	verb+C2[-0]	.
 
 
 
-be on good, friendly, bad, etc. terms (with somebody)		<-->	idiom+C1[-0]	.
+[-] be on good, friendly, bad, etc. terms (with somebody)		<-->	idiom++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -269,7 +269,7 @@ be on good, friendly, bad, etc. terms (with somebody)		<-->	idiom+C1[-0]	.
 
 
 
-bestie		<-->	noun+C2[-0]	.
+[-] bestie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -281,7 +281,7 @@ bestie		<-->	noun+C2[-0]	.
 
 
 
-BF		<-->	abbreviation+C2[-0]	.
+[-] bF		<-->	abbreviation++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -293,7 +293,7 @@ BF		<-->	abbreviation+C2[-0]	.
 
 
 
-biracial		<-->	adjective+C1[-0]	.
+[-] biracial		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -305,7 +305,7 @@ biracial		<-->	adjective+C1[-0]	.
 
 
 
-birth father		<-->	noun+C1[-0]	.
+[-] birth father		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -317,7 +317,7 @@ birth father		<-->	noun+C1[-0]	.
 
 
 
-birth mother		<-->	noun+C1[-0]	.
+[-] birth mother		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -329,7 +329,7 @@ birth mother		<-->	noun+C1[-0]	.
 
 
 
-birthright		<-->	noun+C2[-0]	.
+[-] birthright		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -341,7 +341,7 @@ birthright		<-->	noun+C2[-0]	.
 
 
 
-blended family		<-->	noun+C2[-0]	.
+[-] blended family		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -353,7 +353,7 @@ blended family		<-->	noun+C2[-0]	.
 
 
 
-blood		<-->	noun+C2[-0]	.
+[-] blood		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -365,7 +365,7 @@ blood		<-->	noun+C2[-0]	.
 
 
 
-blood relation		<-->	noun+C2[-0]	.
+[-] blood relation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -377,7 +377,7 @@ blood relation		<-->	noun+C2[-0]	.
 
 
 
-blue blood		<-->	noun+C2[-0]	.
+[-] blue blood		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -389,7 +389,7 @@ blue blood		<-->	noun+C2[-0]	.
 
 
 
-blue-blooded		<-->	adjective+C2[-0]	.
+[-] blue-blooded		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -401,7 +401,7 @@ blue-blooded		<-->	adjective+C2[-0]	.
 
 
 
-bond		<-->	noun+B2[-0]	.
+[-] bond		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -413,7 +413,7 @@ bond		<-->	noun+B2[-0]	.
 
 
 
-bond		<-->	verb+C1[-0]	.
+[-] bond		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -425,7 +425,7 @@ bond		<-->	verb+C1[-0]	.
 
 
 
-bonding		<-->	noun+C2[-0]	.
+[-] bonding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -437,7 +437,7 @@ bonding		<-->	noun+C2[-0]	.
 
 
 
-bonhomie		<-->	noun+C2[-0]	.
+[-] bonhomie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -449,7 +449,7 @@ bonhomie		<-->	noun+C2[-0]	.
 
 
 
-bosom friend		<-->	noun+C2[-0]	.
+[-] bosom friend		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -461,7 +461,7 @@ bosom friend		<-->	noun+C2[-0]	.
 
 
 
-boyfriend		<-->	noun+A1[-0]	.
+[-] boyfriend		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -473,7 +473,7 @@ boyfriend		<-->	noun+A1[-0]	.
 
 
 
-branch		<-->	noun+C1[-0]	.
+[-] branch		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -485,7 +485,7 @@ branch		<-->	noun+C1[-0]	.
 
 
 
-break-up		<-->	noun+C1[-0]	.
+[-] break-up		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -497,7 +497,7 @@ break-up		<-->	noun+C1[-0]	.
 
 
 
-break up		<-->	phrasal verb+B1[-0]	.
+[-] break up		<-->	phrasal verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -509,7 +509,7 @@ break up		<-->	phrasal verb+B1[-0]	.
 
 
 
-breeding		<-->	noun+C2[-0]	.
+[-] breeding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -521,7 +521,7 @@ breeding		<-->	noun+C2[-0]	.
 
 
 
-broer		<-->	noun+C2[-0]	.
+[-] broer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -533,7 +533,7 @@ broer		<-->	noun+C2[-0]	.
 
 
 
-broken home		<-->	noun+C2[-0]	.
+[-] broken home		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -545,7 +545,7 @@ broken home		<-->	noun+C2[-0]	.
 
 
 
-brother		<-->	noun+A1[-0]	.
+[-] brother		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -557,7 +557,7 @@ brother		<-->	noun+A1[-0]	.
 
 
 
-brotherhood		<-->	noun+C1[-0]	.
+[-] brotherhood		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -569,7 +569,7 @@ brotherhood		<-->	noun+C1[-0]	.
 
 
 
-brother-in-law		<-->	noun+B1[-0]	.
+[-] brother-in-law		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -581,7 +581,7 @@ brother-in-law		<-->	noun+B1[-0]	.
 
 
 
-brotherly		<-->	adjective+C1[-0]	.
+[-] brotherly		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -593,7 +593,7 @@ brotherly		<-->	adjective+C1[-0]	.
 
 
 
-bua		<-->	noun+C2[-0]	.
+[-] bua		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -605,7 +605,7 @@ bua		<-->	noun+C2[-0]	.
 
 
 
-buddy		<-->	noun+C1[-0]	.
+[-] buddy		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -617,7 +617,7 @@ buddy		<-->	noun+C1[-0]	.
 
 
 
-by marriage		<-->	idiom+B1[-0]	.
+[-] by marriage		<-->	idiom++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -629,7 +629,7 @@ by marriage		<-->	idiom+B1[-0]	.
 
 
 
-camaraderie		<-->	noun+C2[-0]	.
+[-] camaraderie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -641,7 +641,7 @@ camaraderie		<-->	noun+C2[-0]	.
 
 
 
-care		<-->	verb+A2[-0]	.
+[-] care		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -653,7 +653,7 @@ care		<-->	verb+A2[-0]	.
 
 
 
-caress		<-->	verb+C2[-0]	.
+[-] caress		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -665,7 +665,7 @@ caress		<-->	verb+C2[-0]	.
 
 
 
-caress		<-->	noun+C2[-0]	.
+[-] caress		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -677,7 +677,7 @@ caress		<-->	noun+C2[-0]	.
 
 
 
-chacha		<-->	noun+C2[-0]	.
+[-] chacha		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -689,7 +689,7 @@ chacha		<-->	noun+C2[-0]	.
 
 
 
-chachi		<-->	noun+C2[-0]	.
+[-] chachi		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -701,7 +701,7 @@ chachi		<-->	noun+C2[-0]	.
 
 
 
-cheat		<-->	verb+C1[-0]	.
+[-] cheat		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -713,7 +713,7 @@ cheat		<-->	verb+C1[-0]	.
 
 
 
-chemistry		<-->	noun+C2[-0]	.
+[-] chemistry		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -725,7 +725,7 @@ chemistry		<-->	noun+C2[-0]	.
 
 
 
-cherish		<-->	verb+C2[-0]	.
+[-] cherish		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -737,7 +737,7 @@ cherish		<-->	verb+C2[-0]	.
 
 
 
-Christian name		<-->	noun+C1[-0]	.
+[-] christian name		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -749,7 +749,7 @@ Christian name		<-->	noun+C1[-0]	.
 
 
 
-chuck		<-->	verb+C2[-0]	.
+[-] chuck		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -761,7 +761,7 @@ chuck		<-->	verb+C2[-0]	.
 
 
 
-chum		<-->	noun+C2[-0]	.
+[-] chum		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -773,7 +773,7 @@ chum		<-->	noun+C2[-0]	.
 
 
 
-civil partner		<-->	noun+C1[-0]	.
+[-] civil partner		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -785,7 +785,7 @@ civil partner		<-->	noun+C1[-0]	.
 
 
 
-clan		<-->	noun+C1[-0]	.
+[-] clan		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -797,7 +797,7 @@ clan		<-->	noun+C1[-0]	.
 
 
 
-close		<-->	adjective+B1[-0]	.
+[-] close		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -809,7 +809,7 @@ close		<-->	adjective+B1[-0]	.
 
 
 
-close-knit		<-->	adjective+C1[-0]	.
+[-] close-knit		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -821,7 +821,7 @@ close-knit		<-->	adjective+C1[-0]	.
 
 
 
-cobber		<-->	noun+C2[-0]	.
+[-] cobber		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -833,7 +833,7 @@ cobber		<-->	noun+C2[-0]	.
 
 
 
-common-law husband		<-->	noun+C2[-0]	.
+[-] common-law husband		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -845,7 +845,7 @@ common-law husband		<-->	noun+C2[-0]	.
 
 
 
-common-law wife		<-->	noun+C2[-0]	.
+[-] common-law wife		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -857,7 +857,7 @@ common-law wife		<-->	noun+C2[-0]	.
 
 
 
-companion		<-->	noun+C1[-0]	.
+[-] companion		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -869,7 +869,7 @@ companion		<-->	noun+C1[-0]	.
 
 
 
-companionship		<-->	noun+C1[-0]	.
+[-] companionship		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -881,7 +881,7 @@ companionship		<-->	noun+C1[-0]	.
 
 
 
-compatible		<-->	adjective+C1[-0]	.
+[-] compatible		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -893,7 +893,7 @@ compatible		<-->	adjective+C1[-0]	.
 
 
 
-comrade		<-->	noun+C2[-0]	.
+[-] comrade		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -905,7 +905,7 @@ comrade		<-->	noun+C2[-0]	.
 
 
 
-consanguinity		<-->	noun+C2[-0]	.
+[-] consanguinity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -917,7 +917,7 @@ consanguinity		<-->	noun+C2[-0]	.
 
 
 
-convivial		<-->	adjective+C2[-0]	.
+[-] convivial		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -929,7 +929,7 @@ convivial		<-->	adjective+C2[-0]	.
 
 
 
-conviviality		<-->	noun+C2[-0]	.
+[-] conviviality		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -941,7 +941,7 @@ conviviality		<-->	noun+C2[-0]	.
 
 
 
-co-parent		<-->	noun+C1[-0]	.
+[-] co-parent		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -953,7 +953,7 @@ co-parent		<-->	noun+C1[-0]	.
 
 
 
-co-parent		<-->	verb+C1[-0]	.
+[-] co-parent		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -965,7 +965,7 @@ co-parent		<-->	verb+C1[-0]	.
 
 
 
-co-parenting		<-->	noun+C1[-0]	.
+[-] co-parenting		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -977,7 +977,7 @@ co-parenting		<-->	noun+C1[-0]	.
 
 
 
-couple		<-->	noun+A2[-0]	.
+[-] couple		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -989,7 +989,7 @@ couple		<-->	noun+A2[-0]	.
 
 
 
-court		<-->	verb+C2[-0]	.
+[-] court		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1001,7 +1001,7 @@ court		<-->	verb+C2[-0]	.
 
 
 
-cousin		<-->	noun+A1[-0]	.
+[-] cousin		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1013,7 +1013,7 @@ cousin		<-->	noun+A1[-0]	.
 
 
 
-crony		<-->	noun+C2[-0]	.
+[-] crony		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1025,7 +1025,7 @@ crony		<-->	noun+C2[-0]	.
 
 
 
-crush		<-->	noun+C2[-0]	.
+[-] crush		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1037,7 +1037,7 @@ crush		<-->	noun+C2[-0]	.
 
 
 
-cuddle		<-->	verb+C2[-0]	.
+[-] cuddle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1049,7 +1049,7 @@ cuddle		<-->	verb+C2[-0]	.
 
 
 
-Cupid		<-->	noun+C2[-0]	.
+[-] cupid		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1061,7 +1061,7 @@ Cupid		<-->	noun+C2[-0]	.
 
 
 
-custodial		<-->	adjective+C2[-0]	.
+[-] custodial		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1073,7 +1073,7 @@ custodial		<-->	adjective+C2[-0]	.
 
 
 
-custody		<-->	noun+C1[-0]	.
+[-] custody		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1085,7 +1085,7 @@ custody		<-->	noun+C1[-0]	.
 
 
 
-dad		<-->	noun+A1[-0]	.
+dad		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1097,7 +1097,7 @@ dad		<-->	noun+A1[-0]	.
 
 
 
-dada		<-->	noun+C2[-0]	.
+dada		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1109,7 +1109,7 @@ dada		<-->	noun+C2[-0]	.
 
 
 
-daddy		<-->	noun+A2[-0]	.
+daddy		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1121,7 +1121,7 @@ daddy		<-->	noun+A2[-0]	.
 
 
 
-damad		<-->	noun+C2[-0]	.
+damad		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1133,7 +1133,7 @@ damad		<-->	noun+C2[-0]	.
 
 
 
-datable		<-->	adjective+C1[-0]	.
+datable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1145,7 +1145,7 @@ datable		<-->	adjective+C1[-0]	.
 
 
 
-date		<-->	noun+A2[-0]	.
+date		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1157,7 +1157,7 @@ date		<-->	noun+A2[-0]	.
 
 
 
-date		<-->	verb+B2[-0]	.
+date		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1169,7 +1169,7 @@ date		<-->	verb+B2[-0]	.
 
 
 
-date night		<-->	noun+B2[-0]	.
+date night		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1181,7 +1181,7 @@ date night		<-->	noun+B2[-0]	.
 
 
 
-dating agency		<-->	noun+C2[-0]	.
+dating agency		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1193,7 +1193,7 @@ dating agency		<-->	noun+C2[-0]	.
 
 
 
-daughter		<-->	noun+A1[-0]	.
+daughter		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1205,7 +1205,7 @@ daughter		<-->	noun+A1[-0]	.
 
 
 
-daughter-in-law		<-->	noun+B1[-0]	.
+daughter-in-law		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1217,7 +1217,7 @@ daughter-in-law		<-->	noun+B1[-0]	.
 
 
 
-decree absolute		<-->	noun+C2[-0]	.
+decree absolute		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1229,7 +1229,7 @@ decree absolute		<-->	noun+C2[-0]	.
 
 
 
-descendant		<-->	noun+C1[-0]	.
+descendant		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1241,7 +1241,7 @@ descendant		<-->	noun+C1[-0]	.
 
 
 
-descent		<-->	noun+C2[-0]	.
+descent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1253,7 +1253,7 @@ descent		<-->	noun+C2[-0]	.
 
 
 
-devoted		<-->	adjective+C1[-0]	.
+devoted		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1265,7 +1265,7 @@ devoted		<-->	adjective+C1[-0]	.
 
 
 
-devotion		<-->	noun+C1[-0]	.
+devotion		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1277,7 +1277,7 @@ devotion		<-->	noun+C1[-0]	.
 
 
 
-didi		<-->	noun+C2[-0]	.
+didi		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1289,7 +1289,7 @@ didi		<-->	noun+C2[-0]	.
 
 
 
-disown		<-->	verb+C2[-0]	.
+disown		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1301,7 +1301,7 @@ disown		<-->	verb+C2[-0]	.
 
 
 
-dissolution		<-->	noun+C2[-0]	.
+dissolution		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1313,7 +1313,7 @@ dissolution		<-->	noun+C2[-0]	.
 
 
 
-dissolve		<-->	verb+C2[-0]	.
+dissolve		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1325,7 +1325,7 @@ dissolve		<-->	verb+C2[-0]	.
 
 
 
-distant		<-->	adjective+C1[-0]	.
+distant		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1337,7 +1337,7 @@ distant		<-->	adjective+C1[-0]	.
 
 
 
-divorce		<-->	noun+B2[-0]	.
+divorce		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1349,7 +1349,7 @@ divorce		<-->	noun+B2[-0]	.
 
 
 
-divorce		<-->	verb+B2[-0]	.
+divorce		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1361,7 +1361,7 @@ divorce		<-->	verb+B2[-0]	.
 
 
 
-divorced		<-->	adjective+A2[-0]	.
+divorced		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1373,7 +1373,7 @@ divorced		<-->	adjective+A2[-0]	.
 
 
 
-divorcee		<-->	noun+C2[-0]	.
+divorcee		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1385,7 +1385,7 @@ divorcee		<-->	noun+C2[-0]	.
 
 
 
-divorcé		<-->	noun+C2[-0]	.
+divorcé		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1397,7 +1397,7 @@ divorcé		<-->	noun+C2[-0]	.
 
 
 
-divorcée		<-->	noun+C2[-0]	.
+divorcée		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1409,7 +1409,7 @@ divorcée		<-->	noun+C2[-0]	.
 
 
 
-double-barrelled		<-->	adjective+C2[-0]	.
+double-barrelled		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1421,7 +1421,7 @@ double-barrelled		<-->	adjective+C2[-0]	.
 
 
 
-dual heritage		<-->	noun+C2[-0]	.
+dual heritage		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1433,7 +1433,7 @@ dual heritage		<-->	noun+C2[-0]	.
 
 
 
-dump		<-->	verb+C1[-0]	.
+dump		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1445,7 +1445,7 @@ dump		<-->	verb+C1[-0]	.
 
 
 
-dynasty		<-->	noun+C1[-0]	.
+dynasty		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1457,7 +1457,7 @@ dynasty		<-->	noun+C1[-0]	.
 
 
 
-elder		<-->	adjective+C1[-0]	.
+elder		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1469,7 +1469,7 @@ elder		<-->	adjective+C1[-0]	.
 
 
 
-eldest		<-->	adjective+B2[-0]	.
+eldest		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1481,7 +1481,7 @@ eldest		<-->	adjective+B2[-0]	.
 
 
 
-embrace		<-->	verb+B2[-0]	.
+embrace		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1493,7 +1493,7 @@ embrace		<-->	verb+B2[-0]	.
 
 
 
-estranged		<-->	adjective+C2[-0]	.
+estranged		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1505,7 +1505,7 @@ estranged		<-->	adjective+C2[-0]	.
 
 
 
-ex		<-->	noun+C1[-0]	.
+ex		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1529,7 +1529,7 @@ ex-prefixC1[-0]	.
 
 
 
-extended family		<-->	noun+C1[-0]	.
+extended family		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1541,7 +1541,7 @@ extended family		<-->	noun+C1[-0]	.
 
 
 
-extraction		<-->	noun+C2[-0]	.
+extraction		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1553,7 +1553,7 @@ extraction		<-->	noun+C2[-0]	.
 
 
 
-fall in with		<-->	phrasal verb+C1[-0]	.
+fall in with		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1565,7 +1565,7 @@ fall in with		<-->	phrasal verb+C1[-0]	.
 
 
 
-fam		<-->	noun+C2[-0]	.
+fam		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1577,7 +1577,7 @@ fam		<-->	noun+C2[-0]	.
 
 
 
-family		<-->	noun+A1[-0]	.
+family		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1589,7 +1589,7 @@ family		<-->	noun+A1[-0]	.
 
 
 
-family name		<-->	noun+A2[-0]	.
+family name		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1601,7 +1601,7 @@ family name		<-->	noun+A2[-0]	.
 
 
 
-family tree		<-->	noun+B1[-0]	.
+family tree		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1613,7 +1613,7 @@ family tree		<-->	noun+B1[-0]	.
 
 
 
-fancy		<-->	verb+B1[-0]	.
+fancy		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1625,7 +1625,7 @@ fancy		<-->	verb+B1[-0]	.
 
 
 
-father		<-->	noun+A1[-0]	.
+father		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1637,7 +1637,7 @@ father		<-->	noun+A1[-0]	.
 
 
 
-father-in-law		<-->	noun+B1[-0]	.
+father-in-law		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1649,7 +1649,7 @@ father-in-law		<-->	noun+B1[-0]	.
 
 
 
-fellowship		<-->	noun+C2[-0]	.
+fellowship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1661,7 +1661,7 @@ fellowship		<-->	noun+C2[-0]	.
 
 
 
-first base		<-->	noun+C2[-0]	.
+first base		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1673,7 +1673,7 @@ first base		<-->	noun+C2[-0]	.
 
 
 
-first cousin		<-->	noun+A1[-0]	.
+first cousin		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1685,7 +1685,7 @@ first cousin		<-->	noun+A1[-0]	.
 
 
 
-first name		<-->	noun+A2[-0]	.
+first name		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1697,7 +1697,7 @@ first name		<-->	noun+A2[-0]	.
 
 
 
-fling		<-->	noun+C2[-0]	.
+fling		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1709,7 +1709,7 @@ fling		<-->	noun+C2[-0]	.
 
 
 
-flirt		<-->	verb+C1[-0]	.
+flirt		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1721,7 +1721,7 @@ flirt		<-->	verb+C1[-0]	.
 
 
 
-flirt		<-->	noun+C1[-0]	.
+flirt		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1733,7 +1733,7 @@ flirt		<-->	noun+C1[-0]	.
 
 
 
-flirtation		<-->	noun+C2[-0]	.
+flirtation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1745,7 +1745,7 @@ flirtation		<-->	noun+C2[-0]	.
 
 
 
-forebear		<-->	noun+C2[-0]	.
+forebear		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1757,7 +1757,7 @@ forebear		<-->	noun+C2[-0]	.
 
 
 
-forefather		<-->	noun+C2[-0]	.
+forefather		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1769,7 +1769,7 @@ forefather		<-->	noun+C2[-0]	.
 
 
 
-forename		<-->	noun+C2[-0]	.
+forename		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1781,7 +1781,7 @@ forename		<-->	noun+C2[-0]	.
 
 
 
-foster		<-->	verb+C1[-0]	.
+foster		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1793,7 +1793,7 @@ foster		<-->	verb+C1[-0]	.
 
 
 
-fraternity		<-->	noun+C2[-0]	.
+fraternity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1805,7 +1805,7 @@ fraternity		<-->	noun+C2[-0]	.
 
 
 
-friend		<-->	noun+A1[-0]	.
+friend		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1817,7 +1817,7 @@ friend		<-->	noun+A1[-0]	.
 
 
 
-friendship		<-->	noun+B1[-0]	.
+friendship		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1829,7 +1829,7 @@ friendship		<-->	noun+B1[-0]	.
 
 
 
-gang		<-->	noun+B2[-0]	.
+gang		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1841,7 +1841,7 @@ gang		<-->	noun+B2[-0]	.
 
 
 
-genealogical		<-->	adjective+C2[-0]	.
+genealogical		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1853,7 +1853,7 @@ genealogical		<-->	adjective+C2[-0]	.
 
 
 
-genealogy		<-->	noun+C2[-0]	.
+genealogy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1865,7 +1865,7 @@ genealogy		<-->	noun+C2[-0]	.
 
 
 
-generation		<-->	noun+B1[-0]	.
+generation		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1877,7 +1877,7 @@ generation		<-->	noun+B1[-0]	.
 
 
 
-get off with		<-->	phrasal verb+C1[-0]	.
+get off with		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1889,7 +1889,7 @@ get off with		<-->	phrasal verb+C1[-0]	.
 
 
 
-get on		<-->	phrasal verb+B1[-0]	.
+get on		<-->	phrasal verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1901,7 +1901,7 @@ get on		<-->	phrasal verb+B1[-0]	.
 
 
 
-get on like a house on fire		<-->	idiom+C1[-0]	.
+get on like a house on fire		<-->	idiom++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1913,7 +1913,7 @@ get on like a house on fire		<-->	idiom+C1[-0]	.
 
 
 
-get on with		<-->	phrasal verb+B1[-0]	.
+get on with		<-->	phrasal verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1925,7 +1925,7 @@ get on with		<-->	phrasal verb+B1[-0]	.
 
 
 
-GF		<-->	abbreviation+C2[-0]	.
+GF		<-->	abbreviation++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1937,7 +1937,7 @@ GF		<-->	abbreviation+C2[-0]	.
 
 
 
-girlfriend		<-->	noun+A1[-0]	.
+girlfriend		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1949,7 +1949,7 @@ girlfriend		<-->	noun+A1[-0]	.
 
 
 
-given name		<-->	noun+C1[-0]	.
+given name		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1961,7 +1961,7 @@ given name		<-->	noun+C1[-0]	.
 
 
 
-godchild		<-->	noun+C2[-0]	.
+godchild		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1973,7 +1973,7 @@ godchild		<-->	noun+C2[-0]	.
 
 
 
-god-daughter		<-->	noun+C2[-0]	.
+god-daughter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1985,7 +1985,7 @@ god-daughter		<-->	noun+C2[-0]	.
 
 
 
-godfather		<-->	noun+C2[-0]	.
+godfather		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1997,7 +1997,7 @@ godfather		<-->	noun+C2[-0]	.
 
 
 
-godmother		<-->	noun+C2[-0]	.
+godmother		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2009,7 +2009,7 @@ godmother		<-->	noun+C2[-0]	.
 
 
 
-godparent		<-->	noun+C2[-0]	.
+godparent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2021,7 +2021,7 @@ godparent		<-->	noun+C2[-0]	.
 
 
 
-godson		<-->	noun+C2[-0]	.
+godson		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2033,7 +2033,7 @@ godson		<-->	noun+C2[-0]	.
 
 
 
-gramps		<-->	noun+C2[-0]	.
+gramps		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2045,7 +2045,7 @@ gramps		<-->	noun+C2[-0]	.
 
 
 
-gran		<-->	noun+B2[-0]	.
+gran		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2057,7 +2057,7 @@ gran		<-->	noun+B2[-0]	.
 
 
 
-grandad		<-->	noun+A1[-0]	.
+grandad		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2069,7 +2069,7 @@ grandad		<-->	noun+A1[-0]	.
 
 
 
-grandchild		<-->	noun+A1[-0]	.
+grandchild		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2081,7 +2081,7 @@ grandchild		<-->	noun+A1[-0]	.
 
 
 
-granddaughter		<-->	noun+A1[-0]	.
+granddaughter		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2093,7 +2093,7 @@ granddaughter		<-->	noun+A1[-0]	.
 
 
 
-grandfather		<-->	noun+A1[-0]	.
+grandfather		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2105,7 +2105,7 @@ grandfather		<-->	noun+A1[-0]	.
 
 
 
-grandkid		<-->	noun+B2[-0]	.
+grandkid		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2117,7 +2117,7 @@ grandkid		<-->	noun+B2[-0]	.
 
 
 
-grandma		<-->	noun+A1[-0]	.
+grandma		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2129,7 +2129,7 @@ grandma		<-->	noun+A1[-0]	.
 
 
 
-grandmother		<-->	noun+A1[-0]	.
+grandmother		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2141,7 +2141,7 @@ grandmother		<-->	noun+A1[-0]	.
 
 
 
-grandpa		<-->	noun+A1[-0]	.
+grandpa		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2153,7 +2153,7 @@ grandpa		<-->	noun+A1[-0]	.
 
 
 
-grandparent		<-->	noun+A1[-0]	.
+grandparent		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2165,7 +2165,7 @@ grandparent		<-->	noun+A1[-0]	.
 
 
 
-grandson		<-->	noun+A1[-0]	.
+grandson		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2177,7 +2177,7 @@ grandson		<-->	noun+A1[-0]	.
 
 
 
-granny		<-->	noun+A2[-0]	.
+granny		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2189,7 +2189,7 @@ granny		<-->	noun+A2[-0]	.
 
 
 
-great		<-->	adjective+C2[-0]	.
+great		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2201,7 +2201,7 @@ great		<-->	adjective+C2[-0]	.
 
 
 
-half-brother		<-->	noun+C1[-0]	.
+half-brother		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2213,7 +2213,7 @@ half-brother		<-->	noun+C1[-0]	.
 
 
 
-half-sister		<-->	noun+C1[-0]	.
+half-sister		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2225,7 +2225,7 @@ half-sister		<-->	noun+C1[-0]	.
 
 
 
-harmonious		<-->	adjective+C2[-0]	.
+harmonious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2237,7 +2237,7 @@ harmonious		<-->	adjective+C2[-0]	.
 
 
 
-heir		<-->	noun+C1[-0]	.
+heir		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2249,7 +2249,7 @@ heir		<-->	noun+C1[-0]	.
 
 
 
-heiress		<-->	noun+C1[-0]	.
+heiress		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2261,7 +2261,7 @@ heiress		<-->	noun+C1[-0]	.
 
 
 
-heirloom		<-->	noun+C2[-0]	.
+heirloom		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2273,7 +2273,7 @@ heirloom		<-->	noun+C2[-0]	.
 
 
 
-heritage		<-->	noun+C1[-0]	.
+heritage		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2285,7 +2285,7 @@ heritage		<-->	noun+C1[-0]	.
 
 
 
-hit it off (with somebody)		<-->	idiom+C1[-0]	.
+hit it off (with somebody)		<-->	idiom++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2297,7 +2297,7 @@ hit it off (with somebody)		<-->	idiom+C1[-0]	.
 
 
 
-home		<-->	noun+A2[-0]	.
+home		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2309,7 +2309,7 @@ home		<-->	noun+A2[-0]	.
 
 
 
-homeboy		<-->	noun+C2[-0]	.
+homeboy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2321,7 +2321,7 @@ homeboy		<-->	noun+C2[-0]	.
 
 
 
-homegirl		<-->	noun+C2[-0]	.
+homegirl		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2333,7 +2333,7 @@ homegirl		<-->	noun+C2[-0]	.
 
 
 
-hook up with		<-->	phrasal verb+C1[-0]	.
+hook up with		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2345,7 +2345,7 @@ hook up with		<-->	phrasal verb+C1[-0]	.
 
 
 
-hospitable		<-->	adjective+C1[-0]	.
+hospitable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2357,7 +2357,7 @@ hospitable		<-->	adjective+C1[-0]	.
 
 
 
-hospitality		<-->	noun+C1[-0]	.
+hospitality		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2369,7 +2369,7 @@ hospitality		<-->	noun+C1[-0]	.
 
 
 
-hug		<-->	verb+B2[-0]	.
+hug		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2381,7 +2381,7 @@ hug		<-->	verb+B2[-0]	.
 
 
 
-hug		<-->	noun+B2[-0]	.
+hug		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2393,7 +2393,7 @@ hug		<-->	noun+B2[-0]	.
 
 
 
-husband		<-->	noun+A1[-0]	.
+husband		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2405,7 +2405,7 @@ husband		<-->	noun+A1[-0]	.
 
 
 
-identical		<-->	adjective+B2[-0]	.
+identical		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2417,7 +2417,7 @@ identical		<-->	adjective+B2[-0]	.
 
 
 
-identical twin		<-->	noun+B2[-0]	.
+identical twin		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2429,7 +2429,7 @@ identical twin		<-->	noun+B2[-0]	.
 
 
 
-illegitimate		<-->	adjective+C2[-0]	.
+illegitimate		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2441,7 +2441,7 @@ illegitimate		<-->	adjective+C2[-0]	.
 
 
 
-infatuated		<-->	adjective+C2[-0]	.
+infatuated		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2453,7 +2453,7 @@ infatuated		<-->	adjective+C2[-0]	.
 
 
 
-infatuation		<-->	noun+C2[-0]	.
+infatuation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2465,7 +2465,7 @@ infatuation		<-->	noun+C2[-0]	.
 
 
 
-inherit		<-->	verb+B2[-0]	.
+inherit		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2477,7 +2477,7 @@ inherit		<-->	verb+B2[-0]	.
 
 
 
-inheritance		<-->	noun+C1[-0]	.
+inheritance		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2489,7 +2489,7 @@ inheritance		<-->	noun+C1[-0]	.
 
 
 
-in-laws		<-->	noun+B2[-0]	.
+in-laws		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2501,7 +2501,7 @@ in-laws		<-->	noun+B2[-0]	.
 
 
 
-intimacy		<-->	noun+C2[-0]	.
+intimacy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2513,7 +2513,7 @@ intimacy		<-->	noun+C2[-0]	.
 
 
 
-intimate		<-->	adjective+C1[-0]	.
+intimate		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2525,7 +2525,7 @@ intimate		<-->	adjective+C1[-0]	.
 
 
 
-intimate		<-->	noun+C2[-0]	.
+intimate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2537,7 +2537,7 @@ intimate		<-->	noun+C2[-0]	.
 
 
 
-jamai		<-->	noun+C2[-0]	.
+jamai		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2549,7 +2549,7 @@ jamai		<-->	noun+C2[-0]	.
 
 
 
-joint family		<-->	noun+C2[-0]	.
+joint family		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2561,7 +2561,7 @@ joint family		<-->	noun+C2[-0]	.
 
 
 
-junior		<-->	adjective+C1[-0]	.
+junior		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2573,7 +2573,7 @@ junior		<-->	adjective+C1[-0]	.
 
 
 
-kid		<-->	adjective+C1[-0]	.
+kid		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2585,7 +2585,7 @@ kid		<-->	adjective+C1[-0]	.
 
 
 
-kin		<-->	noun+C2[-0]	.
+kin		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2597,7 +2597,7 @@ kin		<-->	noun+C2[-0]	.
 
 
 
-kinship		<-->	noun+C2[-0]	.
+kinship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2609,7 +2609,7 @@ kinship		<-->	noun+C2[-0]	.
 
 
 
-kiss		<-->	verb+B1[-0]	.
+kiss		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2621,7 +2621,7 @@ kiss		<-->	verb+B1[-0]	.
 
 
 
-kiss		<-->	noun+B1[-0]	.
+kiss		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2633,7 +2633,7 @@ kiss		<-->	noun+B1[-0]	.
 
 
 
-kith and kin		<-->	idiom+C1[-0]	.
+kith and kin		<-->	idiom++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2645,7 +2645,7 @@ kith and kin		<-->	idiom+C1[-0]	.
 
 
 
-last name		<-->	noun+A2[-0]	.
+last name		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2657,7 +2657,7 @@ last name		<-->	noun+A2[-0]	.
 
 
 
-lead on		<-->	phrasal verb+C1[-0]	.
+lead on		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2669,7 +2669,7 @@ lead on		<-->	phrasal verb+C1[-0]	.
 
 
 
-leave		<-->	verb+A1[-0]	.
+leave		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2681,7 +2681,7 @@ leave		<-->	verb+A1[-0]	.
 
 
 
-legitimate		<-->	adjective+C2[-0]	.
+legitimate		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2693,7 +2693,7 @@ legitimate		<-->	adjective+C2[-0]	.
 
 
 
-liaison		<-->	noun+C2[-0]	.
+liaison		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2705,7 +2705,7 @@ liaison		<-->	noun+C2[-0]	.
 
 
 
-lineal		<-->	adjective+C2[-0]	.
+lineal		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2717,7 +2717,7 @@ lineal		<-->	adjective+C2[-0]	.
 
 
 
-lone-parent family		<-->	noun+C2[-0]	.
+lone-parent family		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2729,7 +2729,7 @@ lone-parent family		<-->	noun+C2[-0]	.
 
 
 
-love		<-->	noun+A1[-0]	.
+love		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2741,7 +2741,7 @@ love		<-->	noun+A1[-0]	.
 
 
 
-love affair		<-->	noun+B2[-0]	.
+love affair		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2753,7 +2753,7 @@ love affair		<-->	noun+B2[-0]	.
 
 
 
-lovebird		<-->	noun+C2[-0]	.
+lovebird		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2765,7 +2765,7 @@ lovebird		<-->	noun+C2[-0]	.
 
 
 
-love-hate relationship		<-->	noun+C2[-0]	.
+love-hate relationship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2777,7 +2777,7 @@ love-hate relationship		<-->	noun+C2[-0]	.
 
 
 
-love letter		<-->	noun+B1[-0]	.
+love letter		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2789,7 +2789,7 @@ love letter		<-->	noun+B1[-0]	.
 
 
 
-love life		<-->	noun+B1[-0]	.
+love life		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2801,7 +2801,7 @@ love life		<-->	noun+B1[-0]	.
 
 
 
-lovelorn		<-->	adjective+C2[-0]	.
+lovelorn		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2813,7 +2813,7 @@ lovelorn		<-->	adjective+C2[-0]	.
 
 
 
-love match		<-->	noun+C2[-0]	.
+love match		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2825,7 +2825,7 @@ love match		<-->	noun+C2[-0]	.
 
 
 
-love nest		<-->	noun+C2[-0]	.
+love nest		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2837,7 +2837,7 @@ love nest		<-->	noun+C2[-0]	.
 
 
 
-lover		<-->	noun+B1[-0]	.
+lover		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2849,7 +2849,7 @@ lover		<-->	noun+B1[-0]	.
 
 
 
-lovesick		<-->	adjective+C2[-0]	.
+lovesick		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2861,7 +2861,7 @@ lovesick		<-->	adjective+C2[-0]	.
 
 
 
-love triangle		<-->	noun+C2[-0]	.
+love triangle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2873,7 +2873,7 @@ love triangle		<-->	noun+C2[-0]	.
 
 
 
-lovey-dovey		<-->	adjective+C2[-0]	.
+lovey-dovey		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2885,7 +2885,7 @@ lovey-dovey		<-->	adjective+C2[-0]	.
 
 
 
-lust		<-->	noun+C2[-0]	.
+lust		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2897,7 +2897,7 @@ lust		<-->	noun+C2[-0]	.
 
 
 
-ma		<-->	noun+C2[-0]	.
+ma		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2909,7 +2909,7 @@ ma		<-->	noun+C2[-0]	.
 
 
 
-maa		<-->	noun+C2[-0]	.
+maa		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2921,7 +2921,7 @@ maa		<-->	noun+C2[-0]	.
 
 
 
-maasi		<-->	noun+C2[-0]	.
+maasi		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2933,7 +2933,7 @@ maasi		<-->	noun+C2[-0]	.
 
 
 
-maiden name		<-->	noun+C1[-0]	.
+maiden name		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2945,7 +2945,7 @@ maiden name		<-->	noun+C1[-0]	.
 
 
 
-main man		<-->	noun+C2[-0]	.
+main man		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2957,7 +2957,7 @@ main man		<-->	noun+C2[-0]	.
 
 
 
-make out		<-->	phrasal verb+C1[-0]	.
+make out		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2969,7 +2969,7 @@ make out		<-->	phrasal verb+C1[-0]	.
 
 
 
-mama		<-->	noun+C2[-0]	.
+mama		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2981,7 +2981,7 @@ mama		<-->	noun+C2[-0]	.
 
 
 
-mama		<-->	noun+C2[-0]	.
+mama		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2993,7 +2993,7 @@ mama		<-->	noun+C2[-0]	.
 
 
 
-mami		<-->	noun+C2[-0]	.
+mami		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3005,7 +3005,7 @@ mami		<-->	noun+C2[-0]	.
 
 
 
-masa		<-->	noun+C2[-0]	.
+masa		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3017,7 +3017,7 @@ masa		<-->	noun+C2[-0]	.
 
 
 
-matchmaker		<-->	noun+C2[-0]	.
+matchmaker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3029,7 +3029,7 @@ matchmaker		<-->	noun+C2[-0]	.
 
 
 
-mate		<-->	noun+B2[-0]	.
+mate		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3041,7 +3041,7 @@ mate		<-->	noun+B2[-0]	.
 
 
 
-maternal		<-->	adjective+C2[-0]	.
+maternal		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3053,7 +3053,7 @@ maternal		<-->	adjective+C2[-0]	.
 
 
 
-matriarch		<-->	noun+C2[-0]	.
+matriarch		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3065,7 +3065,7 @@ matriarch		<-->	noun+C2[-0]	.
 
 
 
-matrilineal		<-->	adjective+C2[-0]	.
+matrilineal		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3077,7 +3077,7 @@ matrilineal		<-->	adjective+C2[-0]	.
 
 
 
-meetup		<-->	noun+C2[-0]	.
+meetup		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3089,7 +3089,7 @@ meetup		<-->	noun+C2[-0]	.
 
 
 
-middle name		<-->	noun+B1[-0]	.
+middle name		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3101,7 +3101,7 @@ middle name		<-->	noun+B1[-0]	.
 
 
 
-mistress		<-->	noun+C2[-0]	.
+mistress		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3113,7 +3113,7 @@ mistress		<-->	noun+C2[-0]	.
 
 
 
-mixed		<-->	adjective+B2[-0]	.
+mixed		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3125,7 +3125,7 @@ mixed		<-->	adjective+B2[-0]	.
 
 
 
-mixed-race		<-->	adjective+C1[-0]	.
+mixed-race		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3137,7 +3137,7 @@ mixed-race		<-->	adjective+C1[-0]	.
 
 
 
-mom		<-->	noun+A1[-0]	.
+mom		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3149,7 +3149,7 @@ mom		<-->	noun+A1[-0]	.
 
 
 
-momma		<-->	noun+A2[-0]	.
+momma		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3161,7 +3161,7 @@ momma		<-->	noun+A2[-0]	.
 
 
 
-mommy		<-->	noun+A2[-0]	.
+mommy		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3173,7 +3173,7 @@ mommy		<-->	noun+A2[-0]	.
 
 
 
-monozygotic twin		<-->	noun+C2[-0]	.
+monozygotic twin		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3185,7 +3185,7 @@ monozygotic twin		<-->	noun+C2[-0]	.
 
 
 
-mother		<-->	noun+A1[-0]	.
+mother		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3197,7 +3197,7 @@ mother		<-->	noun+A1[-0]	.
 
 
 
-mother-in-law		<-->	noun+B1[-0]	.
+mother-in-law		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3209,7 +3209,7 @@ mother-in-law		<-->	noun+B1[-0]	.
 
 
 
-multiracial		<-->	adjective+C2[-0]	.
+multiracial		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3221,7 +3221,7 @@ multiracial		<-->	adjective+C2[-0]	.
 
 
 
-mum		<-->	noun+A1[-0]	.
+mum		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3233,7 +3233,7 @@ mum		<-->	noun+A1[-0]	.
 
 
 
-mummy		<-->	noun+A2[-0]	.
+mummy		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3245,7 +3245,7 @@ mummy		<-->	noun+A2[-0]	.
 
 
 
-name		<-->	noun+A1[-0]	.
+name		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3257,7 +3257,7 @@ name		<-->	noun+A1[-0]	.
 
 
 
-nan		<-->	noun+C2[-0]	.
+nan		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3269,7 +3269,7 @@ nan		<-->	noun+C2[-0]	.
 
 
 
-nana		<-->	noun+C2[-0]	.
+nana		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3281,7 +3281,7 @@ nana		<-->	noun+C2[-0]	.
 
 
 
-nanny		<-->	noun+C2[-0]	.
+nanny		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3293,7 +3293,7 @@ nanny		<-->	noun+C2[-0]	.
 
 
 
-near		<-->	adjective+B2[-0]	.
+near		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3305,7 +3305,7 @@ near		<-->	adjective+B2[-0]	.
 
 
 
-neighbour		<-->	noun+A1[-0]	.
+neighbour		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3317,7 +3317,7 @@ neighbour		<-->	noun+A1[-0]	.
 
 
 
-neighbourly		<-->	adjective+C1[-0]	.
+neighbourly		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3329,7 +3329,7 @@ neighbourly		<-->	adjective+C1[-0]	.
 
 
 
-nephew		<-->	noun+A2[-0]	.
+nephew		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3341,7 +3341,7 @@ nephew		<-->	noun+A2[-0]	.
 
 
 
-next of kin		<-->	noun+C1[-0]	.
+next of kin		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3353,7 +3353,7 @@ next of kin		<-->	noun+C1[-0]	.
 
 
 
-nickname		<-->	noun+B1[-0]	.
+nickname		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3365,7 +3365,7 @@ nickname		<-->	noun+B1[-0]	.
 
 
 
-niece		<-->	noun+A2[-0]	.
+niece		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3377,7 +3377,7 @@ niece		<-->	noun+A2[-0]	.
 
 
 
-nuclear family		<-->	noun+C1[-0]	.
+nuclear family		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3389,7 +3389,7 @@ nuclear family		<-->	noun+C1[-0]	.
 
 
 
-nullity		<-->	noun+C2[-0]	.
+nullity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3401,7 +3401,7 @@ nullity		<-->	noun+C2[-0]	.
 
 
 
-née		<-->	adjective+C2[-0]	.
+née		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3413,7 +3413,7 @@ née		<-->	adjective+C2[-0]	.
 
 
 
-one-parent family		<-->	noun+B2[-0]	.
+one-parent family		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3425,7 +3425,7 @@ one-parent family		<-->	noun+B2[-0]	.
 
 
 
-only child		<-->	noun+B1[-0]	.
+only child		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3437,7 +3437,7 @@ only child		<-->	noun+B1[-0]	.
 
 
 
-open marriage		<-->	noun+C2[-0]	.
+open marriage		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3449,7 +3449,7 @@ open marriage		<-->	noun+C2[-0]	.
 
 
 
-orphan		<-->	noun+C1[-0]	.
+orphan		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3461,7 +3461,7 @@ orphan		<-->	noun+C1[-0]	.
 
 
 
-orphanage		<-->	noun+C1[-0]	.
+orphanage		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3473,7 +3473,7 @@ orphanage		<-->	noun+C1[-0]	.
 
 
 
-pa		<-->	noun+C2[-0]	.
+pa		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3485,7 +3485,7 @@ pa		<-->	noun+C2[-0]	.
 
 
 
-pal		<-->	noun+C2[-0]	.
+pal		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3497,7 +3497,7 @@ pal		<-->	noun+C2[-0]	.
 
 
 
-pal around		<-->	phrasal verb+C1[-0]	.
+pal around		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3509,7 +3509,7 @@ pal around		<-->	phrasal verb+C1[-0]	.
 
 
 
-papa		<-->	noun+B2[-0]	.
+papa		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3521,7 +3521,7 @@ papa		<-->	noun+B2[-0]	.
 
 
 
-parent		<-->	noun+A1[-0]	.
+parent		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3533,7 +3533,7 @@ parent		<-->	noun+A1[-0]	.
 
 
 
-parent		<-->	verb+C1[-0]	.
+parent		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3545,7 +3545,7 @@ parent		<-->	verb+C1[-0]	.
 
 
 
-parenting		<-->	noun+C1[-0]	.
+parenting		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3557,7 +3557,7 @@ parenting		<-->	noun+C1[-0]	.
 
 
 
-parents-in-law		<-->	noun+B1[-0]	.
+parents-in-law		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3569,7 +3569,7 @@ parents-in-law		<-->	noun+B1[-0]	.
 
 
 
-part		<-->	verb+C2[-0]	.
+part		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3581,7 +3581,7 @@ part		<-->	verb+C2[-0]	.
 
 
 
-partner		<-->	noun+A2[-0]	.
+partner		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3593,7 +3593,7 @@ partner		<-->	noun+A2[-0]	.
 
 
 
-party		<-->	noun+A1[-0]	.
+party		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3605,7 +3605,7 @@ party		<-->	noun+A1[-0]	.
 
 
 
-passion		<-->	noun+B1[-0]	.
+passion		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3617,7 +3617,7 @@ passion		<-->	noun+B1[-0]	.
 
 
 
-passionate		<-->	adjective+B2[-0]	.
+passionate		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3629,7 +3629,7 @@ passionate		<-->	adjective+B2[-0]	.
 
 
 
-paterfamilias		<-->	noun+C2[-0]	.
+paterfamilias		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3641,7 +3641,7 @@ paterfamilias		<-->	noun+C2[-0]	.
 
 
 
-paternal		<-->	adjective+C2[-0]	.
+paternal		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3653,7 +3653,7 @@ paternal		<-->	adjective+C2[-0]	.
 
 
 
-patriarch		<-->	noun+C2[-0]	.
+patriarch		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3665,7 +3665,7 @@ patriarch		<-->	noun+C2[-0]	.
 
 
 
-patrilineal		<-->	adjective+C2[-0]	.
+patrilineal		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3677,7 +3677,7 @@ patrilineal		<-->	adjective+C2[-0]	.
 
 
 
-patronymic		<-->	noun+C2[-0]	.
+patronymic		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3689,7 +3689,7 @@ patronymic		<-->	noun+C2[-0]	.
 
 
 
-pedigree		<-->	noun+C2[-0]	.
+pedigree		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3701,7 +3701,7 @@ pedigree		<-->	noun+C2[-0]	.
 
 
 
-pet name		<-->	noun+C2[-0]	.
+pet name		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3713,7 +3713,7 @@ pet name		<-->	noun+C2[-0]	.
 
 
 
-phupha		<-->	noun+C2[-0]	.
+phupha		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3725,7 +3725,7 @@ phupha		<-->	noun+C2[-0]	.
 
 
 
-pick up		<-->	phrasal verb+C1[-0]	.
+pick up		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3737,7 +3737,7 @@ pick up		<-->	phrasal verb+C1[-0]	.
 
 
 
-pickup		<-->	noun+C2[-0]	.
+pickup		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3749,7 +3749,7 @@ pickup		<-->	noun+C2[-0]	.
 
 
 
-platonic		<-->	adjective+C2[-0]	.
+platonic		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3761,7 +3761,7 @@ platonic		<-->	adjective+C2[-0]	.
 
 
 
-playmate		<-->	noun+C1[-0]	.
+playmate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3773,7 +3773,7 @@ playmate		<-->	noun+C1[-0]	.
 
 
 
-plus-one		<-->	noun+C2[-0]	.
+plus-one		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3785,7 +3785,7 @@ plus-one		<-->	noun+C2[-0]	.
 
 
 
-polyamory		<-->	noun+C2[-0]	.
+polyamory		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3797,7 +3797,7 @@ polyamory		<-->	noun+C2[-0]	.
 
 
 
-prefix		<-->	noun+C2[-0]	.
+prefix		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3809,7 +3809,7 @@ prefix		<-->	noun+C2[-0]	.
 
 
 
-related		<-->	adjective+B1[-0]	.
+related		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3821,7 +3821,7 @@ related		<-->	adjective+B1[-0]	.
 
 
 
-relation		<-->	noun+B1[-0]	.
+relation		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3833,7 +3833,7 @@ relation		<-->	noun+B1[-0]	.
 
 
 
-relationship		<-->	noun+B1[-0]	.
+relationship		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3845,7 +3845,7 @@ relationship		<-->	noun+B1[-0]	.
 
 
 
-relative		<-->	noun+B1[-0]	.
+relative		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3857,7 +3857,7 @@ relative		<-->	noun+B1[-0]	.
 
 
 
-romance		<-->	noun+B2[-0]	.
+romance		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3869,7 +3869,7 @@ romance		<-->	noun+B2[-0]	.
 
 
 
-romantic		<-->	adjective+B1[-0]	.
+romantic		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3881,7 +3881,7 @@ romantic		<-->	adjective+B1[-0]	.
 
 
 
-romanticism		<-->	noun+C2[-0]	.
+romanticism		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3893,7 +3893,7 @@ romanticism		<-->	noun+C2[-0]	.
 
 
 
-school friend		<-->	noun+A2[-0]	.
+[-] school friend		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3905,7 +3905,7 @@ school friend		<-->	noun+A2[-0]	.
 
 
 
-second cousin		<-->	noun+C2[-0]	.
+[-] second cousin		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3917,7 +3917,7 @@ second cousin		<-->	noun+C2[-0]	.
 
 
 
-second name		<-->	noun+A2[-0]	.
+[-] second name		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3929,7 +3929,7 @@ second name		<-->	noun+A2[-0]	.
 
 
 
-senior		<-->	adjective+C1[-0]	.
+[-] senior		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3941,7 +3941,7 @@ senior		<-->	adjective+C1[-0]	.
 
 
 
-separate		<-->	verb+B1[-0]	.
+[-] separate		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3953,7 +3953,7 @@ separate		<-->	verb+B1[-0]	.
 
 
 
-separated		<-->	adjective+B1[-0]	.
+[-] separated		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3965,7 +3965,7 @@ separated		<-->	adjective+B1[-0]	.
 
 
 
-separation		<-->	noun+C1[-0]	.
+[-] separation		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3977,7 +3977,7 @@ separation		<-->	noun+C1[-0]	.
 
 
 
-set		<-->	noun+C2[-0]	.
+[-] set		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3989,7 +3989,7 @@ set		<-->	noun+C2[-0]	.
 
 
 
-settlement		<-->	noun+C2[-0]	.
+[-] settlement		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4001,7 +4001,7 @@ settlement		<-->	noun+C2[-0]	.
 
 
 
-shipping		<-->	noun+C2[-0]	.
+[-] shipping		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4013,7 +4013,7 @@ shipping		<-->	noun+C2[-0]	.
 
 
 
-shohar		<-->	noun+C2[-0]	.
+[-] shohar		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4025,7 +4025,7 @@ shohar		<-->	noun+C2[-0]	.
 
 
 
-sibling		<-->	noun+B2[-0]	.
+[-] sibling		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4037,7 +4037,7 @@ sibling		<-->	noun+B2[-0]	.
 
 
 
-sidekick		<-->	noun+C2[-0]	.
+[-] sidekick		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4049,7 +4049,7 @@ sidekick		<-->	noun+C2[-0]	.
 
 
 
-significant other		<-->	noun+C2[-0]	.
+[-] significant other		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4061,7 +4061,7 @@ significant other		<-->	noun+C2[-0]	.
 
 
 
-single-parent family		<-->	noun+B1[-0]	.
+[-] single-parent family		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4073,7 +4073,7 @@ single-parent family		<-->	noun+B1[-0]	.
 
 
 
-sister		<-->	noun+A1[-0]	.
+[-] sister		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4085,7 +4085,7 @@ sister		<-->	noun+A1[-0]	.
 
 
 
-sisterhood		<-->	noun+C1[-0]	.
+[-] sisterhood		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4097,7 +4097,7 @@ sisterhood		<-->	noun+C1[-0]	.
 
 
 
-sister-in-law		<-->	noun+B1[-0]	.
+[-] sister-in-law		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4109,7 +4109,7 @@ sister-in-law		<-->	noun+B1[-0]	.
 
 
 
-sisterly		<-->	adjective+C1[-0]	.
+[-] sisterly		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4121,7 +4121,7 @@ sisterly		<-->	adjective+C1[-0]	.
 
 
 
-smitten		<-->	adjective+C2[-0]	.
+[-] smitten		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4133,7 +4133,7 @@ smitten		<-->	adjective+C2[-0]	.
 
 
 
-sociability		<-->	noun+C1[-0]	.
+[-] sociability		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4145,13 +4145,24 @@ sociability		<-->	noun+C1[-0]	.
 
 
 
-sociable		<-->	adjective+B1   
+[-] sociable		<-->	adjective++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
  
-socialize		<-->	verb+B2    /ˈsəʊʃəlaɪz/-NAmE /ˈsəʊʃəlaɪz/
-	;đi chơi -- ​[intransitive] socialize (with somebody) to meet and spend time with people in a friendly way, in order to enjoy yourself ~ SYNONYM mix
+
+
+
+
+[-] socialize		<-->	verb++B2[-0]	./ˈsəʊʃəlaɪz/-NAmE /ˈsəʊʃəlaɪz/
+	;đi chơi -- ​[intransitive] socialize (with somebody) to meet and spend time with people in a friendly way, in order to enjoy yourself
+		;SYNONYM mix
 		;I enjoy socializing with the other students.
 		
-son		<-->	noun+A1[-0]	.
+
+
+
+[-] son		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4163,10 +4174,16 @@ son		<-->	noun+A1[-0]	.
 
 
 
-son-in-law		<-->	noun+B1    /ˈsʌn ɪn lɔː/-NAmE /ˈsʌn ɪn lɔː/
-	;con rể -- ​the husband of your daughter or son
+[-] son-in-law		<-->	noun++B1[-0]	./ˈsʌn ɪn lɔː/-NAmE /ˈsʌn ɪn lɔː/
+	;con rể -- ​(1) the husband of your daughter or son
 	
-soulmate		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+[-] soulmate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4178,7 +4195,7 @@ soulmate		<-->	noun+C2[-0]	.
 
 
 
-speed dating		<-->	noun+C2[-0]	.
+[-] speed dating		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4190,7 +4207,7 @@ speed dating		<-->	noun+C2[-0]	.
 
 
 
-split		<-->	verb+C2[-0]	.
+[-] split		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4202,7 +4219,7 @@ split		<-->	verb+C2[-0]	.
 
 
 
-step-combining 		<-->	form+B2[-0]	.
+[-] step-combining 		<-->	form++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4214,7 +4231,7 @@ step-combining 		<-->	form+B2[-0]	.
 
 
 
-stepbrother		<-->	noun+B2[-0]	.
+[-] stepbrother		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4226,7 +4243,7 @@ stepbrother		<-->	noun+B2[-0]	.
 
 
 
-stepchild		<-->	noun+B2[-0]	.
+[-] stepchild		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4238,12 +4255,23 @@ stepchild		<-->	noun+B2[-0]	.
 
 
 
-stepdaughter		<-->	noun+B2   
+[-] stepdaughter		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
  
-stepfamily		<-->	noun+B2    /ˈstepfæməli/-NAmE /ˈstepfæməli/ /=\
-	;gia đình mới -- the family that is formed when somebody marries a person who already has children
+
+
+
+
+[-] stepfamily		<-->	noun++B2[-0]	./ˈstepfæməli/-NAmE /ˈstepfæməli/ /=\
+	;gia đình mới -- (1) the family that is formed when somebody marries a person who already has children
 		
-stepfather		<-->	noun+B2[-0]	.
+
+
+
+[-] stepfather		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4255,7 +4283,7 @@ stepfather		<-->	noun+B2[-0]	.
 
 
 
-stepmother		<-->	noun+B2[-0]	.
+[-] stepmother		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4268,16 +4296,32 @@ stepmother		<-->	noun+B2[-0]	.
 
 
 
-step-parent		<-->	noun+B2    /ˈstep peərənt/-NAmE /ˈstep perənt/ /+\
+[-] step-parent		<-->	noun++B2[-0]	./ˈstep peərənt/-NAmE /ˈstep perənt/ /+\
 	;cha/mẹ kế -- ​a stepmother or stepfather
 
-stepsister		<-->	noun+B2   /ˈstepsɪstə(r)/-NAmE /ˈstepsɪstər/ /=\
+
+
+
+
+[-] stepsister		<-->	noun++B2[-0]	./ˈstepsɪstə(r)/-NAmE /ˈstepsɪstər/ /=\
 	;chị/em gái của cha/mẹ kế -- the daughter from an earlier marriage of your stepmother or stepfather
  
-stepson		<-->	noun+B2    /ˈstepsʌn/-NAmE /ˈstepsʌn/ /=\
+
+
+
+
+
+
+[-] stepson		<-->	noun++B2[-0]	./ˈstepsʌn/-NAmE /ˈstepsʌn/ /=\
 	;con riêng vợ/chồng -- a son that your husband or wife has from an earlier marriage to another person
 		
-surname		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+[-] surname		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4289,7 +4333,7 @@ surname		<-->	noun+A2[-0]	.
 
 
 
-surrogate mother		<-->	noun+C2[-0]	.
+[-] surrogate mother		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4301,7 +4345,7 @@ surrogate mother		<-->	noun+C2[-0]	.
 
 
 
-sweetheart		<-->	noun+C1[-0]	.
+[-] sweetheart		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4313,7 +4357,7 @@ sweetheart		<-->	noun+C1[-0]	.
 
 
 
-thick		<-->	adjective+C2[-0]	.
+[-] thick		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4325,12 +4369,20 @@ thick		<-->	adjective+C2[-0]	.
 
 
 
-tie		<-->	noun+B2    /taɪ/-NAmE /taɪ/
+[-] tie		<-->	noun++B2[-0]	./taɪ/-NAmE /taɪ/
 	;sự ràng buộc -- [usually plural] a strong connection between people or organizations
 		;family ties
 		;They severed ties after a dispute.
 		
-tiger mother		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+
+
+[-] tiger mother		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4342,7 +4394,7 @@ tiger mother		<-->	noun+C2[-0]	.
 
 
 
-tight-knit		<-->	adjective+C1[-0]	.
+[-] tight-knit		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4354,7 +4406,7 @@ tight-knit		<-->	adjective+C1[-0]	.
 
 
 
-together		<-->	adverb+A1[-0]	.
+[-] together		<-->	adverb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4366,11 +4418,14 @@ together		<-->	adverb+A1[-0]	.
 
 
 
-trace		<-->	verb+B2    /treɪs/-NAmE /treɪs/
+[-] trace		<-->	verb++B2[-0]	./treɪs/-NAmE /treɪs/
 	;tìm về nguồn cội -- trace something (back) (to something) to find the origin or cause of something
 		;She could trace her family tree back to the 16th century.
 		
-triplet		<-->	noun+C2[-0]	.
+
+
+
+[-] triplet		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4382,7 +4437,7 @@ triplet		<-->	noun+C2[-0]	.
 
 
 
-twin		<-->	noun+A2[-0]	.
+[-] twin		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4394,7 +4449,7 @@ twin		<-->	noun+A2[-0]	.
 
 
 
-uncle		<-->	noun+A1[-0]	.
+uncle		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4406,7 +4461,7 @@ uncle		<-->	noun+A1[-0]	.
 
 
 
-unfaithful		<-->	adjective+C2[-0]	.
+unfaithful		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4418,7 +4473,7 @@ unfaithful		<-->	adjective+C2[-0]	.
 
 
 
-unrequited		<-->	adjective+C2[-0]	.
+unrequited		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4430,7 +4485,7 @@ unrequited		<-->	adjective+C2[-0]	.
 
 
 
-valentine		<-->	noun+C1[-0]	.
+valentine		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4442,7 +4497,7 @@ valentine		<-->	noun+C1[-0]	.
 
 
 
-wife		<-->	noun+A1[-0]	.
+wife		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4454,4 +4509,7 @@ wife		<-->	noun+A1[-0]	.
 
 
 
-young		<-->	adjective+B1    
+young		<-->	adjective++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 

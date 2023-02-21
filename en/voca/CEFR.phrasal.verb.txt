@@ -83,7 +83,7 @@
 
 
 
-[-] take off		<-->	 phrasal verb+A2	[221220][001]	./p/
+[-] take off		<-->	 phrasal verb+A2	[221220][003]	./p/ [230218]
 	;cất cánh -- (1) (of an aircraft, etc.) to leave the ground and begin to fly
 		;The plane took off an hour late.
 		;RELATED NOUN take-off
@@ -509,15 +509,18 @@
 
 
 
-[-] log on		<-->	phrasal verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] log on		<-->	phrasal verb++B1[-0]	./p/
+	;đăng nhập -- (1) [-log in/on (to something)] (computing) to perform the actions that allow you to begin using a computer system, application or online account
+		;You need a password to log on.
+		;I logged in to my Twitter account.
+		;TOPICS ComputersB1
+	;cho phép đăng nhập -- (2) [-log somebody  in/on (to something)] (computing) to allow somebody to begin using a computer system, application or online account
+		;The system is unable to log you on.
+		;TOPICS ComputersB2
 
 
 
-
-[-] break down		<-->	phrasal verb++B1[-0]	.
+[-] break down		<-->	phrasal verb++B1[-0]	./p/
 	; -- (1) [-log in/on (to something)] (computing) to perform the actions that allow you to begin using a computer system, application or online account
 		;You need a password to log on.
 		;I logged in to my Twitter account.
@@ -530,7 +533,7 @@
 
 
 
-[-] switch off		<-->	phrasal verb++B1[-0]	.
+[-] switch off		<-->	phrasal verb++B1[-0]	./p/
 	;bỏ quan tâm, bỏ đi -- (1) (informal) to stop thinking about something or paying attention to something
 		;When I hear the word ‘football’ I switch off (= because I am not interested in it).
 		;The only time he really switches off (= stops thinking about work, etc.) is when we're on vacation.
@@ -546,8 +549,13 @@
 
 
 
-[-] switch on		<-->	phrasal verb++B1[-0]	.
-	; -- (1) 
+[-] switch on		<-->	phrasal verb++B1[-0]	./p/
+	;mở/tắt -- (1) [-switch off/on | switch something  off/on] to turn a light, machine, etc. off/on by pressing a button or switch
+		;Please switch the lights off as you leave.
+		;How do you switch this thing on?
+		;The electricity has been switched off.
+		;We only switched on halfway through the programme.
+		;TOPICS EngineeringB1
 	; -- (2) 
 	; -- (3) 
 
@@ -624,16 +632,21 @@
 
 
 
-[-] get away		<-->	 phrasal verb++B2[-0]	.
-	; -- (1) 
+[-] get away		<-->	 phrasal verb++B2[-0]	./p/
+	;để có một kỳ nghỉ -- (1) to have a holiday
+		;We're hoping to get away for a few days at Easter.
+		;RELATED NOUN getaway
+		;TOPICS HolidaysB2
 	; -- (2) 
 	; -- (3) 
 
 
 
 
-[-] drive off		<-->	 phrasal verb++B2[-0]	.
-	; -- (1) 
+[-] drive off		<-->	 phrasal verb++B2[-0]	./p/
+	;(của người lái xe, ô tô, v.v.) rời đi -- (1) (of a driver, car, etc.) to leave
+		;The robbers drove off in a stolen vehicle.
+		;TOPICS Transport by car or lorryB2
 	; -- (2) 
 	; -- (3) 
 
@@ -1692,7 +1705,7 @@
 
 
 
-[-] take off		<-->	phrasal verb++C1	[221220][001]	./p/
+[-] take off		<-->	phrasal verb++C1	[221220][002]	./p/
 	; -- (1) 
 	; -- (2) 
 	;cất cánh -- (3) (of an idea, a product, etc.) to become successful or popular very quickly or suddenly
@@ -2622,8 +2635,12 @@
 
 
 
-[-] abide by		<-->	 phrasal verb+C2[-0]	.
-	; -- (1) 
+[-] abide by		<-->	 phrasal verb++C2[-0]	./p/
+	;tuân theo -- (1) [-abide by something] (formal) to accept and act according to a law, an agreement, etc.
+		;You'll have to abide by the rules of the club.
+		;We will abide by their decision.
+		;TOPICS Discussion and agreementC2, Law and justiceC2
+		;WORDFINDER NOTE AT law
 	; -- (2) 
 	; -- (3) 
 
@@ -4932,3 +4949,159 @@
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+[-] double down		<-->	p.verb++[--0]	./p/ [bbc]
+	;tăng cường -- (1) to make a stronger commitment to a strategy or course of action, especially one that may be dangerous
+		;The military government decided to double down and escalate the war.
+		;The former president has doubled down on his allegations of election fraud.
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] vvv		<-->	verb++[--0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] vvv		<-->	verb++[--0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] vvv		<-->	verb++[--0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] vvv		<-->	verb++[--0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] vvv		<-->	verb++[--0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] vvv		<-->	verb++[--0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] vvv		<-->	verb++[--0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
