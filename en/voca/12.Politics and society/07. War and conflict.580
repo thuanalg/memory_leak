@@ -388,7 +388,7 @@
 
 
 
-[-] armedadjectiveB2[-0]	.
+[-] armed		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -418,7 +418,7 @@
 
 
 
-[-] armouredadjectiveC2[-0]	.
+[-] armoured		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -608,7 +608,7 @@
 
 
 
-[-] battle-scarredadjectiveC2[-0]	.
+[-] battle-scarred		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -648,7 +648,7 @@
 
 
 
-[-] belligerentadjectiveC2[-0]	.
+[-] belligerent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1088,7 +1088,7 @@
 
 
 
-[-] civilianadjectiveC1[-0]	.
+[-] civilian		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1108,7 +1108,7 @@
 
 
 
-[-] clandestineadjectiveC2[-0]	.
+[-] clandestine		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1208,7 +1208,7 @@
 
 
 
-[-] combativeadjectiveC2[-0]	.
+[-] combative		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1268,7 +1268,7 @@
 
 
 
-[-] commandingadjectiveC1[-0]	.
+[-] commanding		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1598,7 +1598,7 @@
 
 
 
-[-] dangerousadjectiveA1[-0]	.
+[-] dangerous		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1868,7 +1868,7 @@
 
 
 
-[-] embattledadjectiveC2[-0]	.
+[-] embattled		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2018,7 +2018,7 @@
 
 
 
-[-] explosiveadjectiveC1[-0]	.
+[-] explosive		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2038,7 +2038,7 @@
 
 
 
-[-] ex-serviceadjectiveC2[-0]	.
+[-] ex-service		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2068,7 +2068,7 @@
 
 
 
-[-] extremistadjectiveC1[-0]	.
+[-] extremist		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2688,7 +2688,7 @@
 
 
 
-[-] hostileadjectiveC1[-0]	.
+[-] hostile		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2728,7 +2728,7 @@
 
 
 
-[-] incendiaryadjectiveC2[-0]	.
+[-] incendiary		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2788,31 +2788,38 @@
 
 
 
-[-] insurgency		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] insurgency		<-->	noun++C2	[230226][001]	./ɪnˈsɜːdʒənsi/-NAmE /ɪnˈsɜːrdʒənsi/ [uncountable, countable] (plural insurgencies) [voa]
+	;sự nổi dậy cướp quyền cai trị -- (1) an attempt to take control of a country by force
+		;SYNONYM rebellion
+		;<< rebellion, insurgency, >>
+		;The 23-year insurgency had cost an estimated 21 000 lives.
+		;The government faces continuing insurgency in the north-east.
+		;Collocations War and peace
+		;SEE ALSO counter-insurgency
+		;TOPICS War and conflictC2
 
 
 
 
 
-
-[-] insurgentadjectiveC2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
+[-] insurgent		<-->	adjective++C2	[230226][001]	./ɪnˈsɜːdʒənt/-NAmE /ɪnˈsɜːrdʒənt/ (formal) [voa] 
+	;nổi dậy -- (1) fighting against the government or armed forces of their own country
+		;SYNONYM rebellious
+		;<< rebellious, insurgent, >>
+		;insurgent groups/attacks
+		;TOPICS War and conflictC2
 
 
 
-[-] insurgent		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+
+[-] insurgent		<-->	noun++C2	[230226][001]	./ɪnˈsɜːdʒənt/-NAmE /ɪnˈsɜːrdʒənt/ [usually plural] (formal) [voa]
+	;quân nổi dậy -- (1) a person fighting against the government or armed forces of their own country
+		;SYNONYM rebel
+		;<< rebel, insurgent, >>
+		;an attack by armed insurgents
+		;TOPICS War and conflictC2
+		;Word Origin
 
 
 
@@ -2948,7 +2955,7 @@
 
 
 
-[-] legionaryadjectiveC2[-0]	.
+[-] legionary		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3088,7 +3095,7 @@
 
 
 
-[-] maraudingadjectiveC2[-0]	.
+[-] marauding		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3198,7 +3205,7 @@
 
 
 
-[-] militaryadjectiveB2[-0]	.
+[-] military		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3368,7 +3375,7 @@
 
 
 
-[-] navaladjectiveC1[-0]	.
+[-] naval		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3438,7 +3445,7 @@
 
 
 
-[-] neutraladjectiveB2[-0]	.
+[-] neutral		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3468,7 +3475,7 @@
 
 
 
-[-] nuclearadjectiveB1[-0]	.
+[-] nuclear		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3498,7 +3505,7 @@
 
 
 
-[-] occupiedadjectiveB2[-0]	.
+[-] occupied		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3588,7 +3595,7 @@
 
 
 
-[-] oppressedadjectiveC2[-0]	.
+[-] oppressed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3698,7 +3705,7 @@
 
 
 
-[-] paramilitaryadjectiveC2[-0]	.
+[-] paramilitary		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3758,7 +3765,7 @@
 
 
 
-[-] peacekeepingadjectiveC1[-0]	.
+[-] peacekeeping		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3948,7 +3955,7 @@
 
 
 
-[-] premeditatedadjectiveC2[-0]	.
+[-] premeditated		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4458,7 +4465,7 @@
 
 
 
-[-] semi-automaticadjectiveC2[-0]	.
+[-] semi-automatic		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5018,7 +5025,7 @@
 
 
 
-[-] strategicadjectiveC1[-0]	.
+[-] strategic		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5098,7 +5105,7 @@
 
 
 
-[-] subversiveadjectiveC2[-0]	.
+[-] subversive		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5338,7 +5345,7 @@
 
 
 
-[-] troopadjectiveC2[-0]	.
+[-] troop		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5408,7 +5415,7 @@
 
 
 
-[-] undergroundadjectiveC2[-0]	.
+[-] underground		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5618,7 +5625,7 @@
 
 
 
-[-] warringadjectiveC2[-0]	.
+[-] warring		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5648,7 +5655,7 @@
 
 
 
-[-] wartimeadjectiveB2[-0]	.
+[-] wartime		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5658,7 +5665,7 @@
 
 
 
-[-] war-tornadjectiveC2[-0]	.
+[-] war-torn		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
