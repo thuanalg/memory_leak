@@ -1,4 +1,4 @@
-academic		<-->	adjective+B1[-0]	.
+academic		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -10,7 +10,7 @@ academic		<-->	adjective+B1[-0]	.
 
 
 
-accountant		<-->	noun+B2[-0]	.
+accountant		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -22,7 +22,7 @@ accountant		<-->	noun+B2[-0]	.
 
 
 
-acting		<-->	adjective+B2[-0]	.
+acting		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -34,7 +34,7 @@ acting		<-->	adjective+B2[-0]	.
 
 
 
-actor		<-->	noun+A1[-0]	.
+actor		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -46,7 +46,7 @@ actor		<-->	noun+A1[-0]	.
 
 
 
-actress		<-->	noun+A1[-0]	.
+actress		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -58,7 +58,7 @@ actress		<-->	noun+A1[-0]	.
 
 
 
-actuary		<-->	noun+C2	[221028][001]	./ˈæktʃuəri/-NAmE /ˈæktʃueri/ (plural actuaries)
+actuary		<-->	noun++C2	[221028][001]	./ˈæktʃuəri/-NAmE /ˈæktʃueri/ (plural actuaries)
 	;nhà phân tích bảo hiểm -- (1) a person whose job involves calculating insurance risks and payments for insurance companies by studying how frequently accidents, fires, deaths, etc. happen
 		;Wordfinder: actuaryannuitycoverexcessinsuranceno-claims bonuspolicypremiumriskunderwrite
 		;TOPICS JobsC2
@@ -71,7 +71,7 @@ actuary		<-->	noun+C2	[221028][001]	./ˈæktʃuəri/-NAmE /ˈæktʃueri/ (plural
 
 
 
-administrative		<-->	adjective+C1[-0]	.
+administrative		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -83,7 +83,7 @@ administrative		<-->	adjective+C1[-0]	.
 
 
 
-administrator		<-->	noun+C1[-0]	.
+administrator		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -95,7 +95,7 @@ administrator		<-->	noun+C1[-0]	.
 
 
 
-adviser		<-->	noun+B1[-0]	.
+adviser		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -107,7 +107,7 @@ adviser		<-->	noun+B1[-0]	.
 
 
 
-agent		<-->	noun+B1[-0]	.
+agent		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -119,7 +119,7 @@ agent		<-->	noun+B1[-0]	.
 
 
 
-aide		<-->	noun+C1	[221028][001]	./cef/
+aide		<-->	noun++C1	[221028][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -131,7 +131,7 @@ aide		<-->	noun+C1	[221028][001]	./cef/
 
 
 
-air hostess		<-->	noun+C1	[221028][001]	./ˈeə həʊstəs/,  /ˈeə həʊstes/-NAmE /ˈer həʊstəs/ (British English, old-fashioned)
+air hostess		<-->	noun++C1	[221028][001]	./ˈeə həʊstəs/,  /ˈeə həʊstes/-NAmE /ˈer həʊstəs/ (British English, old-fashioned)
 	;nữ tiếp viên hàng không -- (1) ​a female flight attendant
 		;More About gender
 		;TOPICS Transport by airC1, JobsC1
@@ -144,7 +144,7 @@ air hostess		<-->	noun+C1	[221028][001]	./ˈeə həʊstəs/,  /ˈeə həʊstes/-
 
 
 
-air traffic controller		<-->	noun+C1[-0]	.
+air traffic controller		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -156,7 +156,7 @@ air traffic controller		<-->	noun+C1[-0]	.
 
 
 
-ambassador		<-->	noun+C1	[221028][001]	./cef/
+ambassador		<-->	noun++C1	[221028][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -168,7 +168,7 @@ ambassador		<-->	noun+C1	[221028][001]	./cef/
 
 
 
-analyst		<-->	noun+B2[-0]	.
+analyst		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -180,7 +180,7 @@ analyst		<-->	noun+B2[-0]	.
 
 
 
-ancillary		<-->	adjective+C2	[221028][001]	./ænˈsɪləri/-NAmE /ˈænsəleri/
+ancillary		<-->	adjective++C2	[221028][001]	./ænˈsɪləri/-NAmE /ˈænsəleri/
 	;phụ trợ -- (1) ancillary (to something) providing necessary support to the main work or activities of an organization
 		;SYNONYM auxiliary
 		;ancillary staff/services/equipment
@@ -194,7 +194,7 @@ ancillary		<-->	adjective+C2	[221028][001]	./ænˈsɪləri/-NAmE /ˈænsəleri/
 
 
 
-apprentice		<-->	noun+B2	[221028][001]	./əˈprentɪs/-NAmE /əˈprentɪs/
+apprentice		<-->	noun++B2	[221028][001]	./əˈprentɪs/-NAmE /əˈprentɪs/
 	;thợ học việc -- (1) a young person who works for an employer for a fixed period of time in order to learn the particular skills needed in their job
 		;an apprentice electrician/chef
 		;Wordfinder: apprenticecertificatecoachingcollegecourseinternprobationqualifytrainingwork experience
@@ -212,7 +212,7 @@ apprentice		<-->	noun+B2	[221028][001]	./əˈprentɪs/-NAmE /əˈprentɪs/
 
 
 
-apprenticeship		<-->	noun+C1	[221028][001]	./əˈprentɪʃɪp/-NAmE /əˈprentɪʃɪp/ [countable, uncountable]
+apprenticeship		<-->	noun++C1	[221028][001]	./əˈprentɪʃɪp/-NAmE /əˈprentɪʃɪp/ [countable, uncountable]
 	;thời gian học việc -- (1) a period of time working as an apprentice; a job as an apprentice
 		;She was in the second year of her apprenticeship as a carpenter.
 		;He had served his apprenticeship as a plumber.
@@ -228,7 +228,7 @@ apprenticeship		<-->	noun+C1	[221028][001]	./əˈprentɪʃɪp/-NAmE /əˈprentɪ
 
 
 
-archaeologist		<-->	noun+B2	[221028][001]	./ˌɑːkiˈɒlədʒɪst/-NAmE /ˌɑːrkiˈɑːlədʒɪst/ (North American English) (also archaeologist British and North American English)
+archaeologist		<-->	noun++B2	[221028][001]	./ˌɑːkiˈɒlədʒɪst/-NAmE /ˌɑːrkiˈɑːlədʒɪst/ (North American English) (also archaeologist British and North American English)
 	;nhà khoả cổ -- (1) a person who studies archeology
 		;TOPICS HistoryB2, JobsB2
 
@@ -240,7 +240,7 @@ archaeologist		<-->	noun+B2	[221028][001]	./ˌɑːkiˈɒlədʒɪst/-NAmE /ˌɑː
 
 
 
-archeologist		<-->	noun+B2[-0]	.
+archeologist		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -252,7 +252,7 @@ archeologist		<-->	noun+B2[-0]	.
 
 
 
-architect		<-->	noun+A2	[221028][001]	./ˈɑːkɪtekt/-NAmE /ˈɑːrkɪtekt/
+architect		<-->	noun++A2	[221028][001]	./ˈɑːkɪtekt/-NAmE /ˈɑːrkɪtekt/
 	;kiến trúc sư -- (1) a person whose job is designing buildings
 		;The house was designed by architect Louis Kahn.
 		;She's a London-based architect and interior designer.
@@ -276,7 +276,7 @@ architect		<-->	noun+A2	[221028][001]	./ˈɑːkɪtekt/-NAmE /ˈɑːrkɪtekt/
 
 
 
-archivist		<-->	noun+C2	[221028][001]	./ˈɑːkɪvɪst/-NAmE /ˈɑːrkɪvɪst/
+archivist		<-->	noun++C2	[221028][001]	./ˈɑːkɪvɪst/-NAmE /ˈɑːrkɪvɪst/
 	;nhà lưu trữ dữ liệu -- (1) a person whose job is to develop and manage an archive
 		;TOPICS JobsC2
 
@@ -288,7 +288,7 @@ archivist		<-->	noun+C2	[221028][001]	./ˈɑːkɪvɪst/-NAmE /ˈɑːrkɪvɪst/
 
 
 
-artisan		<-->	noun+C2[-0]	.
+artisan		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -300,7 +300,7 @@ artisan		<-->	noun+C2[-0]	.
 
 
 
-artisan		<-->	adjective+C2[-0]	.
+artisan		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -312,7 +312,7 @@ artisan		<-->	adjective+C2[-0]	.
 
 
 
-artist		<-->	noun+A1[-0]	.
+artist		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -324,7 +324,7 @@ artist		<-->	noun+A1[-0]	.
 
 
 
-assistant		<-->	noun+A2[-0]	.
+assistant		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -336,7 +336,7 @@ assistant		<-->	noun+A2[-0]	.
 
 
 
-assistant		<-->	adjective+A2[-0]	.
+assistant		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -348,7 +348,7 @@ assistant		<-->	adjective+A2[-0]	.
 
 
 
-astronaut		<-->	noun+B1[-0]	.
+astronaut		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -360,7 +360,7 @@ astronaut		<-->	noun+B1[-0]	.
 
 
 
-attendant		<-->	noun+B1	[221028][001]	./əˈtendənt/-NAmE /əˈtendənt/-\
+attendant		<-->	noun++B1	[221028][001]	./əˈtendənt/-NAmE /əˈtendənt/-\
 	;nhân viên hỗ trợ công chúng, khách hàng -- (1) a person whose job is to serve or help people in a public place
 		;a cloakroom/parking/museum attendant
 		;Pool attendants kept a constant watch on the swimmers.
@@ -381,7 +381,7 @@ attendant		<-->	noun+B1	[221028][001]	./əˈtendənt/-NAmE /əˈtendənt/-\
 
 
 
-attorney		<-->	noun+C1[-0]	.
+attorney		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -393,7 +393,7 @@ attorney		<-->	noun+C1[-0]	.
 
 
 
-auctioneer		<-->	noun+C2	[221028][001]	./ˌɔːkʃəˈnɪə(r)/,  /ˌɒkʃəˈnɪə(r)/-NAmE /ˌɔːkʃəˈnɪr/
+auctioneer		<-->	noun++C2	[221028][001]	./ˌɔːkʃəˈnɪə(r)/,  /ˌɒkʃəˈnɪə(r)/-NAmE /ˌɔːkʃəˈnɪr/
 	;chủ toạ đấu giá -- (1) ​a person whose job is to direct an auction and sell the goods
 		;‘Yours for £200,’ said the auctioneer.
 		;TOPICS ArtC2, JobsC2
@@ -406,7 +406,7 @@ auctioneer		<-->	noun+C2	[221028][001]	./ˌɔːkʃəˈnɪə(r)/,  /ˌɒkʃəˈn�
 
 
 
-auditor		<-->	noun+C2[-0]	.
+auditor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -418,7 +418,7 @@ auditor		<-->	noun+C2[-0]	.
 
 
 
-au pair		<-->	noun+C1[-0]	.
+au pair		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -430,7 +430,7 @@ au pair		<-->	noun+C1[-0]	.
 
 
 
-babysit		<-->	verb+B2[-0]	.
+babysit		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -442,7 +442,7 @@ babysit		<-->	verb+B2[-0]	.
 
 
 
-bailiff		<-->	noun+C2	[221028][001]	./ˈbeɪlɪf/-NAmE /ˈbeɪlɪf/
+bailiff		<-->	noun++C2	[221028][001]	./ˈbeɪlɪf/-NAmE /ˈbeɪlɪf/
 	;thừa phát lại -- (1) (British English) a law officer whose job is to take the possessions and property of people who cannot pay their debts
 		;The bailiffs seized the car and house.
 		;Their landlord has threatened to send in the bailiffs if they don’t pay their rent.
@@ -467,7 +467,7 @@ bailiff		<-->	noun+C2	[221028][001]	./ˈbeɪlɪf/-NAmE /ˈbeɪlɪf/
 
 
 
-baker		<-->	noun+B1[-0]	.
+baker		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -479,7 +479,7 @@ baker		<-->	noun+B1[-0]	.
 
 
 
-ballerina		<-->	noun+C2	[221028][001]	./ˌbæləˈriːnə/-NAmE /ˌbæləˈriːnə/
+ballerina		<-->	noun++C2	[221028][001]	./ˌbæləˈriːnə/-NAmE /ˌbæləˈriːnə/
 	;nữ vũ công bale -- (1) a female dancer in ballet
 		;SEE ALSO prima ballerina
 		;TOPICS JobsC2
@@ -492,7 +492,7 @@ ballerina		<-->	noun+C2	[221028][001]	./ˌbæləˈriːnə/-NAmE /ˌbæləˈriːn
 
 
 
-banker		<-->	noun+B2[-0]	.
+banker		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -504,7 +504,7 @@ banker		<-->	noun+B2[-0]	.
 
 
 
-barber		<-->	noun+C1[-0]	.
+barber		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -516,7 +516,7 @@ barber		<-->	noun+C1[-0]	.
 
 
 
-barmaid		<-->	noun+C2[-0]	.
+barmaid		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -528,7 +528,7 @@ barmaid		<-->	noun+C2[-0]	.
 
 
 
-barman		<-->	noun+B2[-0]	.
+barman		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -540,7 +540,7 @@ barman		<-->	noun+B2[-0]	.
 
 
 
-barrister		<-->	noun+C2[-0]	.
+barrister		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -552,7 +552,7 @@ barrister		<-->	noun+C2[-0]	.
 
 
 
-bartender		<-->	noun+C2[-0]	.
+bartender		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -564,7 +564,7 @@ bartender		<-->	noun+C2[-0]	.
 
 
 
-beautician		<-->	noun+C1[-0]	.
+beautician		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -576,7 +576,7 @@ beautician		<-->	noun+C1[-0]	.
 
 
 
-bishop		<-->	noun+C1[-0]	.
+bishop		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -588,7 +588,7 @@ bishop		<-->	noun+C1[-0]	.
 
 
 
-blacksmith		<-->	noun+C2[-0]	.
+blacksmith		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -600,7 +600,7 @@ blacksmith		<-->	noun+C2[-0]	.
 
 
 
-bodyguard		<-->	noun+C1[-0]	.
+bodyguard		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -612,7 +612,7 @@ bodyguard		<-->	noun+C1[-0]	.
 
 
 
-bookie		<-->	noun+C2[-0]	.
+bookie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -624,7 +624,7 @@ bookie		<-->	noun+C2[-0]	.
 
 
 
-bookkeeper		<-->	noun+C2[-0]	.
+bookkeeper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -636,7 +636,7 @@ bookkeeper		<-->	noun+C2[-0]	.
 
 
 
-bookkeeping		<-->	noun+C2[-0]	.
+bookkeeping		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -648,7 +648,7 @@ bookkeeping		<-->	noun+C2[-0]	.
 
 
 
-bookmaker		<-->	noun+C2[-0]	.
+bookmaker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -660,7 +660,7 @@ bookmaker		<-->	noun+C2[-0]	.
 
 
 
-bookseller		<-->	noun+B2[-0]	.
+bookseller		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -672,7 +672,7 @@ bookseller		<-->	noun+B2[-0]	.
 
 
 
-boss		<-->	noun+A2[-0]	.
+boss		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -684,7 +684,7 @@ boss		<-->	noun+A2[-0]	.
 
 
 
-bouncer		<-->	noun+C2[-0]	.
+bouncer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -696,7 +696,7 @@ bouncer		<-->	noun+C2[-0]	.
 
 
 
-bricklayer		<-->	noun+C2[-0]	.
+bricklayer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -708,7 +708,7 @@ bricklayer		<-->	noun+C2[-0]	.
 
 
 
-bricklaying		<-->	noun+C2[-0]	.
+bricklaying		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -720,7 +720,7 @@ bricklaying		<-->	noun+C2[-0]	.
 
 
 
-broadcaster		<-->	noun+B2[-0]	.
+broadcaster		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -732,7 +732,7 @@ broadcaster		<-->	noun+B2[-0]	.
 
 
 
-broker		<-->	noun+C2[-0]	.
+broker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -744,7 +744,7 @@ broker		<-->	noun+C2[-0]	.
 
 
 
-builder		<-->	noun+A2[-0]	.
+builder		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -756,7 +756,7 @@ builder		<-->	noun+A2[-0]	.
 
 
 
-bursar		<-->	noun+C2[-0]	.
+bursar		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -768,7 +768,7 @@ bursar		<-->	noun+C2[-0]	.
 
 
 
-businessman		<-->	noun+A2[-0]	.
+businessman		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -780,7 +780,7 @@ businessman		<-->	noun+A2[-0]	.
 
 
 
-business person		<-->	noun+A2[-0]	.
+business person		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -792,7 +792,7 @@ business person		<-->	noun+A2[-0]	.
 
 
 
-businesswoman		<-->	noun+A2[-0]	.
+businesswoman		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -804,7 +804,7 @@ businesswoman		<-->	noun+A2[-0]	.
 
 
 
-butcher		<-->	noun+B2[-0]	.
+butcher		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -816,7 +816,7 @@ butcher		<-->	noun+B2[-0]	.
 
 
 
-butler		<-->	noun+C1[-0]	.
+butler		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -828,7 +828,7 @@ butler		<-->	noun+C1[-0]	.
 
 
 
-buyer		<-->	noun+B2[-0]	.
+buyer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -840,7 +840,7 @@ buyer		<-->	noun+B2[-0]	.
 
 
 
-cab driver		<-->	noun+B2[-0]	.
+cab driver		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -852,7 +852,7 @@ cab driver		<-->	noun+B2[-0]	.
 
 
 
-cabin crew		<-->	noun+B2[-0]	.
+cabin crew		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -864,7 +864,7 @@ cabin crew		<-->	noun+B2[-0]	.
 
 
 
-care assistant		<-->	noun+C1[-0]	.
+care assistant		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -876,7 +876,7 @@ care assistant		<-->	noun+C1[-0]	.
 
 
 
-carer		<-->	noun+B2[-0]	.
+carer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -888,7 +888,7 @@ carer		<-->	noun+B2[-0]	.
 
 
 
-care worker		<-->	noun+C1[-0]	.
+care worker		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -900,7 +900,7 @@ care worker		<-->	noun+C1[-0]	.
 
 
 
-carpenter		<-->	noun+B2[-0]	.
+carpenter		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -912,7 +912,7 @@ carpenter		<-->	noun+B2[-0]	.
 
 
 
-cashier		<-->	noun+B2[-0]	.
+cashier		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -936,7 +936,7 @@ cash in handidiomC2[-0]	.
 
 
 
-casual		<-->	adjective+C1[-0]	.
+casual		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -948,7 +948,7 @@ casual		<-->	adjective+C1[-0]	.
 
 
 
-caterer		<-->	noun+C1[-0]	.
+caterer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -960,7 +960,7 @@ caterer		<-->	noun+C1[-0]	.
 
 
 
-CEO		<-->	noun+B2[-0]	.
+CEO		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -972,7 +972,7 @@ CEO		<-->	noun+B2[-0]	.
 
 
 
-certified financial planner		<-->	noun+C2[-0]	.
+certified financial planner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -984,7 +984,7 @@ certified financial planner		<-->	noun+C2[-0]	.
 
 
 
-CFO		<-->	noun+C1[-0]	.
+CFO		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -996,7 +996,7 @@ CFO		<-->	noun+C1[-0]	.
 
 
 
-chambermaid		<-->	noun+C2[-0]	.
+chambermaid		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1008,7 +1008,7 @@ chambermaid		<-->	noun+C2[-0]	.
 
 
 
-chartered		<-->	adjective+C2[-0]	.
+chartered		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1020,7 +1020,7 @@ chartered		<-->	adjective+C2[-0]	.
 
 
 
-chauffeur		<-->	noun+C1[-0]	.
+chauffeur		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1032,7 +1032,7 @@ chauffeur		<-->	noun+C1[-0]	.
 
 
 
-chef		<-->	noun+A2[-0]	.
+chef		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1044,7 +1044,7 @@ chef		<-->	noun+A2[-0]	.
 
 
 
-chemist		<-->	noun+A2[-0]	.
+chemist		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1056,7 +1056,7 @@ chemist		<-->	noun+A2[-0]	.
 
 
 
-chief		<-->	noun+B2[-0]	.
+chief		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1068,7 +1068,7 @@ chief		<-->	noun+B2[-0]	.
 
 
 
-chief executive		<-->	noun+B2[-0]	.
+chief executive		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1080,7 +1080,7 @@ chief executive		<-->	noun+B2[-0]	.
 
 
 
-chief financial officer		<-->	noun+C1[-0]	.
+chief financial officer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1092,7 +1092,7 @@ chief financial officer		<-->	noun+C1[-0]	.
 
 
 
-chief technology officer		<-->	noun+C1[-0]	.
+chief technology officer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1104,7 +1104,7 @@ chief technology officer		<-->	noun+C1[-0]	.
 
 
 
-childminder		<-->	noun+C1[-0]	.
+childminder		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1116,7 +1116,7 @@ childminder		<-->	noun+C1[-0]	.
 
 
 
-chimney sweep		<-->	noun+C2[-0]	.
+chimney sweep		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1128,7 +1128,7 @@ chimney sweep		<-->	noun+C2[-0]	.
 
 
 
-chiropodist		<-->	noun+C2[-0]	.
+chiropodist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1140,7 +1140,7 @@ chiropodist		<-->	noun+C2[-0]	.
 
 
 
-civil servant		<-->	noun+C1[-0]	.
+civil servant		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1152,7 +1152,7 @@ civil servant		<-->	noun+C1[-0]	.
 
 
 
-cleaner		<-->	noun+A2[-0]	.
+cleaner		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1164,7 +1164,7 @@ cleaner		<-->	noun+A2[-0]	.
 
 
 
-clerical		<-->	adjective+C2[-0]	.
+clerical		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1176,7 +1176,7 @@ clerical		<-->	adjective+C2[-0]	.
 
 
 
-clerk		<-->	noun+B2[-0]	.
+clerk		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1188,7 +1188,7 @@ clerk		<-->	noun+B2[-0]	.
 
 
 
-clown		<-->	noun+B2[-0]	.
+clown		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1200,7 +1200,7 @@ clown		<-->	noun+B2[-0]	.
 
 
 
-coal miner		<-->	noun+B2[-0]	.
+coal miner		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1212,7 +1212,7 @@ coal miner		<-->	noun+B2[-0]	.
 
 
 
-coastguard		<-->	noun+C2[-0]	.
+coastguard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1224,7 +1224,7 @@ coastguard		<-->	noun+C2[-0]	.
 
 
 
-cobbler		<-->	noun+C2[-0]	.
+cobbler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1236,7 +1236,7 @@ cobbler		<-->	noun+C2[-0]	.
 
 
 
-cocktail waiter		<-->	noun+C1[-0]	.
+cocktail waiter		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1248,7 +1248,7 @@ cocktail waiter		<-->	noun+C1[-0]	.
 
 
 
-cocktail waitress		<-->	noun+C1[-0]	.
+cocktail waitress		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1260,7 +1260,7 @@ cocktail waitress		<-->	noun+C1[-0]	.
 
 
 
-comedian		<-->	noun+B2[-0]	.
+comedian		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1272,7 +1272,7 @@ comedian		<-->	noun+B2[-0]	.
 
 
 
-community organizer		<-->	noun+C1[-0]	.
+community organizer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1284,7 +1284,7 @@ community organizer		<-->	noun+C1[-0]	.
 
 
 
-composer		<-->	noun+B2[-0]	.
+composer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1296,7 +1296,7 @@ composer		<-->	noun+B2[-0]	.
 
 
 
-conductor		<-->	noun+C2[-0]	.
+conductor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1308,7 +1308,7 @@ conductor		<-->	noun+C2[-0]	.
 
 
 
-constable		<-->	noun+C2[-0]	.
+constable		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1320,7 +1320,7 @@ constable		<-->	noun+C2[-0]	.
 
 
 
-consul		<-->	noun+C2[-0]	.
+consul		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1332,7 +1332,7 @@ consul		<-->	noun+C2[-0]	.
 
 
 
-consultant		<-->	noun+B2[-0]	.
+consultant		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1344,7 +1344,7 @@ consultant		<-->	noun+B2[-0]	.
 
 
 
-contact tracer		<-->	noun+C2[-0]	.
+contact tracer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1356,7 +1356,7 @@ contact tracer		<-->	noun+C2[-0]	.
 
 
 
-cook		<-->	noun+A2[-0]	.
+cook		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1368,7 +1368,7 @@ cook		<-->	noun+A2[-0]	.
 
 
 
-coroner		<-->	noun+C2[-0]	.
+coroner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1380,7 +1380,7 @@ coroner		<-->	noun+C2[-0]	.
 
 
 
-counsellor		<-->	noun+C1[-0]	.
+counsellor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1392,7 +1392,7 @@ counsellor		<-->	noun+C1[-0]	.
 
 
 
-courier		<-->	noun+C1[-0]	.
+courier		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1404,7 +1404,7 @@ courier		<-->	noun+C1[-0]	.
 
 
 
-court reporter		<-->	noun+C2[-0]	.
+court reporter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1416,7 +1416,7 @@ court reporter		<-->	noun+C2[-0]	.
 
 
 
-cowboy		<-->	noun+B2[-0]	.
+cowboy		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1428,7 +1428,7 @@ cowboy		<-->	noun+B2[-0]	.
 
 
 
-cowpoke		<-->	noun+C2[-0]	.
+cowpoke		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1452,7 +1452,7 @@ CPAabbreviationC2[-0]	.
 
 
 
-craftsman		<-->	noun+C1[-0]	.
+craftsman		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1464,7 +1464,7 @@ craftsman		<-->	noun+C1[-0]	.
 
 
 
-creative		<-->	adjective+A2[-0]	.
+creative		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1476,7 +1476,7 @@ creative		<-->	adjective+A2[-0]	.
 
 
 
-critic		<-->	noun+B2[-0]	.
+critic		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1488,7 +1488,7 @@ critic		<-->	noun+B2[-0]	.
 
 
 
-CTO		<-->	noun+C1[-0]	.
+CTO		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1500,7 +1500,7 @@ CTO		<-->	noun+C1[-0]	.
 
 
 
-curate		<-->	noun+C2[-0]	.
+curate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1512,7 +1512,7 @@ curate		<-->	noun+C2[-0]	.
 
 
 
-curator		<-->	noun+C1[-0]	.
+curator		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1524,7 +1524,7 @@ curator		<-->	noun+C1[-0]	.
 
 
 
-custodian		<-->	noun+C2[-0]	.
+custodian		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1536,7 +1536,7 @@ custodian		<-->	noun+C2[-0]	.
 
 
 
-dancer		<-->	noun+A1[-0]	.
+dancer		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1548,7 +1548,7 @@ dancer		<-->	noun+A1[-0]	.
 
 
 
-day labor		<-->	noun+C1[-0]	.
+day labor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1560,7 +1560,7 @@ day labor		<-->	noun+C1[-0]	.
 
 
 
-day labourer		<-->	noun+C1[-0]	.
+day labourer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1572,7 +1572,7 @@ day labourer		<-->	noun+C1[-0]	.
 
 
 
-dealer		<-->	noun+B2[-0]	.
+dealer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1584,7 +1584,7 @@ dealer		<-->	noun+B2[-0]	.
 
 
 
-debt collector		<-->	noun+C1[-0]	.
+debt collector		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1596,7 +1596,7 @@ debt collector		<-->	noun+C1[-0]	.
 
 
 
-decorator		<-->	noun+C1[-0]	.
+decorator		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1608,7 +1608,7 @@ decorator		<-->	noun+C1[-0]	.
 
 
 
-demote		<-->	verb+C2[-0]	.
+demote		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1620,7 +1620,7 @@ demote		<-->	verb+C2[-0]	.
 
 
 
-dental surgeon		<-->	noun+C1[-0]	.
+dental surgeon		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1632,7 +1632,7 @@ dental surgeon		<-->	noun+C1[-0]	.
 
 
 
-dentist		<-->	noun+A2[-0]	.
+dentist		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1644,7 +1644,7 @@ dentist		<-->	noun+A2[-0]	.
 
 
 
-designer		<-->	noun+A2[-0]	.
+designer		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1656,7 +1656,7 @@ designer		<-->	noun+A2[-0]	.
 
 
 
-detective		<-->	noun+A2[-0]	.
+detective		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1668,7 +1668,7 @@ detective		<-->	noun+A2[-0]	.
 
 
 
-developer		<-->	noun+B2[-0]	.
+developer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1680,7 +1680,7 @@ developer		<-->	noun+B2[-0]	.
 
 
 
-dietician		<-->	noun+C2[-0]	.
+dietician		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1692,7 +1692,7 @@ dietician		<-->	noun+C2[-0]	.
 
 
 
-diplomat		<-->	noun+C1[-0]	.
+diplomat		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1704,7 +1704,7 @@ diplomat		<-->	noun+C1[-0]	.
 
 
 
-diplomatist		<-->	noun+C2[-0]	.
+diplomatist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1716,7 +1716,7 @@ diplomatist		<-->	noun+C2[-0]	.
 
 
 
-director		<-->	noun+A2[-0]	.
+director		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1728,7 +1728,7 @@ director		<-->	noun+A2[-0]	.
 
 
 
-disc jockey		<-->	noun+B2[-0]	.
+disc jockey		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1740,7 +1740,7 @@ disc jockey		<-->	noun+B2[-0]	.
 
 
 
-disk jockey		<-->	noun+B2[-0]	.
+disk jockey		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1752,7 +1752,7 @@ disk jockey		<-->	noun+B2[-0]	.
 
 
 
-dispensing chemist		<-->	noun+C2[-0]	.
+dispensing chemist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1764,7 +1764,7 @@ dispensing chemist		<-->	noun+C2[-0]	.
 
 
 
-dispensing optician		<-->	noun+C2[-0]	.
+dispensing optician		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1776,7 +1776,7 @@ dispensing optician		<-->	noun+C2[-0]	.
 
 
 
-diver		<-->	noun+B1[-0]	.
+diver		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1788,7 +1788,7 @@ diver		<-->	noun+B1[-0]	.
 
 
 
-DJ		<-->	noun+B2[-0]	.
+DJ		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1800,7 +1800,7 @@ DJ		<-->	noun+B2[-0]	.
 
 
 
-doctor		<-->	noun+A1[-0]	.
+doctor		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1812,7 +1812,7 @@ doctor		<-->	noun+A1[-0]	.
 
 
 
-doorman		<-->	noun+C1[-0]	.
+doorman		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1824,7 +1824,7 @@ doorman		<-->	noun+C1[-0]	.
 
 
 
-doorwoman		<-->	noun+C1[-0]	.
+doorwoman		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1836,7 +1836,7 @@ doorwoman		<-->	noun+C1[-0]	.
 
 
 
-draftsman		<-->	noun+C2[-0]	.
+draftsman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1848,7 +1848,7 @@ draftsman		<-->	noun+C2[-0]	.
 
 
 
-driver		<-->	noun+A1[-0]	.
+driver		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1860,7 +1860,7 @@ driver		<-->	noun+A1[-0]	.
 
 
 
-dustman		<-->	noun+C1[-0]	.
+dustman		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1872,7 +1872,7 @@ dustman		<-->	noun+C1[-0]	.
 
 
 
-duty		<-->	noun+B2[-0]	.
+duty		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1884,7 +1884,7 @@ duty		<-->	noun+B2[-0]	.
 
 
 
-economist		<-->	noun+B2[-0]	.
+economist		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1896,7 +1896,7 @@ economist		<-->	noun+B2[-0]	.
 
 
 
-editor		<-->	noun+B1[-0]	.
+editor		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1908,7 +1908,7 @@ editor		<-->	noun+B1[-0]	.
 
 
 
-editor-in-chief		<-->	noun+C2[-0]	.
+editor-in-chief		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1920,7 +1920,7 @@ editor-in-chief		<-->	noun+C2[-0]	.
 
 
 
-electrician		<-->	noun+B2[-0]	.
+electrician		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1932,7 +1932,7 @@ electrician		<-->	noun+B2[-0]	.
 
 
 
-employ		<-->	verb+A2[-0]	.
+employ		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1944,7 +1944,7 @@ employ		<-->	verb+A2[-0]	.
 
 
 
-employment		<-->	noun+B1[-0]	.
+employment		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1956,7 +1956,7 @@ employment		<-->	noun+B1[-0]	.
 
 
 
-engine driver		<-->	noun+B2[-0]	.
+engine driver		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1968,7 +1968,7 @@ engine driver		<-->	noun+B2[-0]	.
 
 
 
-engineer		<-->	noun+A2[-0]	.
+engineer		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1980,7 +1980,7 @@ engineer		<-->	noun+A2[-0]	.
 
 
 
-engineering		<-->	noun+B1[-0]	.
+engineering		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1992,7 +1992,7 @@ engineering		<-->	noun+B1[-0]	.
 
 
 
-entrepreneur		<-->	noun+B2[-0]	.
+entrepreneur		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2004,7 +2004,7 @@ entrepreneur		<-->	noun+B2[-0]	.
 
 
 
-entrepreneurial		<-->	adjective+C2[-0]	.
+entrepreneurial		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2016,7 +2016,7 @@ entrepreneurial		<-->	adjective+C2[-0]	.
 
 
 
-entrepreneurship		<-->	noun+C2[-0]	.
+entrepreneurship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2028,7 +2028,7 @@ entrepreneurship		<-->	noun+C2[-0]	.
 
 
 
-estate agent		<-->	noun+B2[-0]	.
+estate agent		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2040,7 +2040,7 @@ estate agent		<-->	noun+B2[-0]	.
 
 
 
-event manager		<-->	noun+C1[-0]	.
+event manager		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2052,7 +2052,7 @@ event manager		<-->	noun+C1[-0]	.
 
 
 
-executioner		<-->	noun+C2[-0]	.
+executioner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2064,7 +2064,7 @@ executioner		<-->	noun+C2[-0]	.
 
 
 
-executive		<-->	noun+B2[-0]	.
+executive		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2076,7 +2076,7 @@ executive		<-->	noun+B2[-0]	.
 
 
 
-executive		<-->	adjective+B2[-0]	.
+executive		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2088,7 +2088,7 @@ executive		<-->	adjective+B2[-0]	.
 
 
 
-executive director		<-->	noun+C1[-0]	.
+executive director		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2100,7 +2100,7 @@ executive director		<-->	noun+C1[-0]	.
 
 
 
-exterminator		<-->	noun+C2[-0]	.
+exterminator		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2112,7 +2112,7 @@ exterminator		<-->	noun+C2[-0]	.
 
 
 
-farmer		<-->	noun+A1[-0]	.
+farmer		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2124,7 +2124,7 @@ farmer		<-->	noun+A1[-0]	.
 
 
 
-fashion designer		<-->	noun+A2[-0]	.
+fashion designer		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2136,7 +2136,7 @@ fashion designer		<-->	noun+A2[-0]	.
 
 
 
-fire chief		<-->	noun+C1[-0]	.
+fire chief		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2148,7 +2148,7 @@ fire chief		<-->	noun+C1[-0]	.
 
 
 
-firefighter		<-->	noun+B2[-0]	.
+firefighter		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2160,7 +2160,7 @@ firefighter		<-->	noun+B2[-0]	.
 
 
 
-fireman		<-->	noun+B2[-0]	.
+fireman		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2172,7 +2172,7 @@ fireman		<-->	noun+B2[-0]	.
 
 
 
-fisherman		<-->	noun+B2[-0]	.
+fisherman		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2184,7 +2184,7 @@ fisherman		<-->	noun+B2[-0]	.
 
 
 
-fishmonger		<-->	noun+C2[-0]	.
+fishmonger		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2196,7 +2196,7 @@ fishmonger		<-->	noun+C2[-0]	.
 
 
 
-flexitime		<-->	noun+C2[-0]	.
+flexitime		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2208,7 +2208,7 @@ flexitime		<-->	noun+C2[-0]	.
 
 
 
-flight attendant		<-->	noun+B1[-0]	.
+flight attendant		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2220,7 +2220,7 @@ flight attendant		<-->	noun+B1[-0]	.
 
 
 
-florist		<-->	noun+C1[-0]	.
+florist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2232,7 +2232,7 @@ florist		<-->	noun+C1[-0]	.
 
 
 
-flying doctor		<-->	noun+B2[-0]	.
+flying doctor		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2244,7 +2244,7 @@ flying doctor		<-->	noun+B2[-0]	.
 
 
 
-food technologist		<-->	noun+C1[-0]	.
+food technologist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2256,7 +2256,7 @@ food technologist		<-->	noun+C1[-0]	.
 
 
 
-foreman		<-->	noun+C2[-0]	.
+foreman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2268,7 +2268,7 @@ foreman		<-->	noun+C2[-0]	.
 
 
 
-forewoman		<-->	noun+C2[-0]	.
+forewoman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2280,7 +2280,7 @@ forewoman		<-->	noun+C2[-0]	.
 
 
 
-freelance		<-->	adjective+B2[-0]	.
+freelance		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2292,7 +2292,7 @@ freelance		<-->	adjective+B2[-0]	.
 
 
 
-frogman		<-->	noun+C2[-0]	.
+frogman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2304,7 +2304,7 @@ frogman		<-->	noun+C2[-0]	.
 
 
 
-frontline		<-->	adjective+C1[-0]	.
+frontline		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2316,7 +2316,7 @@ frontline		<-->	adjective+C1[-0]	.
 
 
 
-full professor		<-->	noun+C1[-0]	.
+full professor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2328,7 +2328,7 @@ full professor		<-->	noun+C1[-0]	.
 
 
 
-full-time		<-->	adjective+B2[-0]	.
+full-time		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2340,7 +2340,7 @@ full-time		<-->	adjective+B2[-0]	.
 
 
 
-fund manager		<-->	noun+C2[-0]	.
+fund manager		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2352,7 +2352,7 @@ fund manager		<-->	noun+C2[-0]	.
 
 
 
-fundraiser		<-->	noun+C2[-0]	.
+fundraiser		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2364,7 +2364,7 @@ fundraiser		<-->	noun+C2[-0]	.
 
 
 
-funeral director		<-->	noun+C2[-0]	.
+funeral director		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2376,7 +2376,7 @@ funeral director		<-->	noun+C2[-0]	.
 
 
 
-gamekeeper		<-->	noun+C2[-0]	.
+gamekeeper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2388,7 +2388,7 @@ gamekeeper		<-->	noun+C2[-0]	.
 
 
 
-garbage man		<-->	noun+B1[-0]	.
+garbage man		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2400,7 +2400,7 @@ garbage man		<-->	noun+B1[-0]	.
 
 
 
-gardener		<-->	noun+B1[-0]	.
+gardener		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2412,7 +2412,7 @@ gardener		<-->	noun+B1[-0]	.
 
 
 
-general secretary		<-->	noun+B2[-0]	.
+general secretary		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2424,7 +2424,7 @@ general secretary		<-->	noun+B2[-0]	.
 
 
 
-gig economy		<-->	noun+C2[-0]	.
+gig economy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2436,7 +2436,7 @@ gig economy		<-->	noun+C2[-0]	.
 
 
 
-glazier		<-->	noun+C2[-0]	.
+glazier		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2448,7 +2448,7 @@ glazier		<-->	noun+C2[-0]	.
 
 
 
-governor		<-->	noun+C1[-0]	.
+governor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2460,7 +2460,7 @@ governor		<-->	noun+C1[-0]	.
 
 
 
-GP		<-->	noun+C2[-0]	.
+GP		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2472,7 +2472,7 @@ GP		<-->	noun+C2[-0]	.
 
 
 
-graduate assistant		<-->	noun+C1[-0]	.
+graduate assistant		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2484,7 +2484,7 @@ graduate assistant		<-->	noun+C1[-0]	.
 
 
 
-greengrocer		<-->	noun+B2[-0]	.
+greengrocer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2496,7 +2496,7 @@ greengrocer		<-->	noun+B2[-0]	.
 
 
 
-grocer		<-->	noun+B2[-0]	.
+grocer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2508,7 +2508,7 @@ grocer		<-->	noun+B2[-0]	.
 
 
 
-groom		<-->	noun+C2[-0]	.
+groom		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2520,7 +2520,7 @@ groom		<-->	noun+C2[-0]	.
 
 
 
-ground crew		<-->	noun+C2[-0]	.
+ground crew		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2532,7 +2532,7 @@ ground crew		<-->	noun+C2[-0]	.
 
 
 
-guard		<-->	noun+B1[-0]	.
+guard		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2544,7 +2544,7 @@ guard		<-->	noun+B1[-0]	.
 
 
 
-guild		<-->	noun+C2[-0]	.
+guild		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2556,7 +2556,7 @@ guild		<-->	noun+C2[-0]	.
 
 
 
-hairdresser		<-->	noun+A2[-0]	.
+hairdresser		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2568,7 +2568,7 @@ hairdresser		<-->	noun+A2[-0]	.
 
 
 
-hairstylist		<-->	noun+C2[-0]	.
+hairstylist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2580,7 +2580,7 @@ hairstylist		<-->	noun+C2[-0]	.
 
 
 
-handler		<-->	noun+C2[-0]	.
+handler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2592,7 +2592,7 @@ handler		<-->	noun+C2[-0]	.
 
 
 
-handyman		<-->	noun+C1[-0]	.
+handyman		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2604,7 +2604,7 @@ handyman		<-->	noun+C1[-0]	.
 
 
 
-handywoman		<-->	noun+C1[-0]	.
+handywoman		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2616,7 +2616,7 @@ handywoman		<-->	noun+C1[-0]	.
 
 
 
-hangman		<-->	noun+C1[-0]	.
+hangman		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2628,7 +2628,7 @@ hangman		<-->	noun+C1[-0]	.
 
 
 
-head		<-->	noun+A2[-0]	.
+head		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2640,7 +2640,7 @@ head		<-->	noun+A2[-0]	.
 
 
 
-health professional		<-->	noun+B2[-0]	.
+health professional		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2652,7 +2652,7 @@ health professional		<-->	noun+B2[-0]	.
 
 
 
-homeopath		<-->	noun+C2[-0]	.
+homeopath		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2664,7 +2664,7 @@ homeopath		<-->	noun+C2[-0]	.
 
 
 
-hotelier		<-->	noun+C2[-0]	.
+hotelier		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2676,7 +2676,7 @@ hotelier		<-->	noun+C2[-0]	.
 
 
 
-house husband		<-->	noun+B2[-0]	.
+house husband		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2688,7 +2688,7 @@ house husband		<-->	noun+B2[-0]	.
 
 
 
-housekeeper		<-->	noun+C1[-0]	.
+housekeeper		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2700,7 +2700,7 @@ housekeeper		<-->	noun+C1[-0]	.
 
 
 
-housewife		<-->	noun+B1[-0]	.
+housewife		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2712,7 +2712,7 @@ housewife		<-->	noun+B1[-0]	.
 
 
 
-illustrator		<-->	noun+B2[-0]	.
+illustrator		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2724,7 +2724,7 @@ illustrator		<-->	noun+B2[-0]	.
 
 
 
-imam		<-->	noun+C2[-0]	.
+imam		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2736,7 +2736,7 @@ imam		<-->	noun+C2[-0]	.
 
 
 
-industrial		<-->	adjective+B2[-0]	.
+industrial		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2748,7 +2748,7 @@ industrial		<-->	adjective+B2[-0]	.
 
 
 
-influencer		<-->	noun+C1[-0]	.
+influencer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2760,7 +2760,7 @@ influencer		<-->	noun+C1[-0]	.
 
 
 
-inspector		<-->	noun+C1[-0]	.
+inspector		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2772,7 +2772,7 @@ inspector		<-->	noun+C1[-0]	.
 
 
 
-instructor		<-->	noun+A2[-0]	.
+instructor		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2784,7 +2784,7 @@ instructor		<-->	noun+A2[-0]	.
 
 
 
-interior design		<-->	noun+C1[-0]	.
+interior design		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2796,7 +2796,7 @@ interior design		<-->	noun+C1[-0]	.
 
 
 
-internship		<-->	noun+C1[-0]	.
+internship		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2808,7 +2808,7 @@ internship		<-->	noun+C1[-0]	.
 
 
 
-interpreter		<-->	noun+B2[-0]	.
+interpreter		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2820,7 +2820,7 @@ interpreter		<-->	noun+B2[-0]	.
 
 
 
-janitor		<-->	noun+C2[-0]	.
+janitor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2832,7 +2832,7 @@ janitor		<-->	noun+C2[-0]	.
 
 
 
-jeweller		<-->	noun+C1[-0]	.
+jeweller		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2844,7 +2844,7 @@ jeweller		<-->	noun+C1[-0]	.
 
 
 
-job		<-->	noun+A1[-0]	.
+job		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2856,7 +2856,7 @@ job		<-->	noun+A1[-0]	.
 
 
 
-jobber		<-->	noun+C2[-0]	.
+jobber		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2868,7 +2868,7 @@ jobber		<-->	noun+C2[-0]	.
 
 
 
-job-share		<-->	verb+C1[-0]	.
+job-share		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2880,7 +2880,7 @@ job-share		<-->	verb+C1[-0]	.
 
 
 
-job-sharing		<-->	noun+C1[-0]	.
+job-sharing		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2892,7 +2892,7 @@ job-sharing		<-->	noun+C1[-0]	.
 
 
 
-joiner		<-->	noun+C2[-0]	.
+joiner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2904,7 +2904,7 @@ joiner		<-->	noun+C2[-0]	.
 
 
 
-joinery		<-->	noun+C2[-0]	.
+joinery		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2916,7 +2916,7 @@ joinery		<-->	noun+C2[-0]	.
 
 
 
-journalist		<-->	noun+A2[-0]	.
+journalist		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2928,7 +2928,7 @@ journalist		<-->	noun+A2[-0]	.
 
 
 
-judge		<-->	noun+B1[-0]	.
+judge		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2940,7 +2940,7 @@ judge		<-->	noun+B1[-0]	.
 
 
 
-junior		<-->	adjective+B2[-0]	.
+junior		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2952,7 +2952,7 @@ junior		<-->	adjective+B2[-0]	.
 
 
 
-key worker		<-->	noun+C2[-0]	.
+key worker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2964,7 +2964,7 @@ key worker		<-->	noun+C2[-0]	.
 
 
 
-laborer		<-->	noun+C1[-0]	.
+laborer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2976,7 +2976,7 @@ laborer		<-->	noun+C1[-0]	.
 
 
 
-laboring		<-->	noun+C2[-0]	.
+laboring		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2988,7 +2988,7 @@ laboring		<-->	noun+C2[-0]	.
 
 
 
-labourer		<-->	noun+C1[-0]	.
+labourer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3000,7 +3000,7 @@ labourer		<-->	noun+C1[-0]	.
 
 
 
-labouring		<-->	noun+C2[-0]	.
+labouring		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3012,7 +3012,7 @@ labouring		<-->	noun+C2[-0]	.
 
 
 
-landlady		<-->	noun+C1[-0]	.
+landlady		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3024,7 +3024,7 @@ landlady		<-->	noun+C1[-0]	.
 
 
 
-landlord		<-->	noun+C1[-0]	.
+landlord		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3036,7 +3036,7 @@ landlord		<-->	noun+C1[-0]	.
 
 
 
-landscape architect		<-->	noun+C2[-0]	.
+landscape architect		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3048,7 +3048,7 @@ landscape architect		<-->	noun+C2[-0]	.
 
 
 
-landscape architecture		<-->	noun+C2[-0]	.
+landscape architecture		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3060,7 +3060,7 @@ landscape architecture		<-->	noun+C2[-0]	.
 
 
 
-landscape gardener		<-->	noun+C2[-0]	.
+landscape gardener		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3072,7 +3072,7 @@ landscape gardener		<-->	noun+C2[-0]	.
 
 
 
-landscape gardening		<-->	noun+C2[-0]	.
+landscape gardening		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3084,7 +3084,7 @@ landscape gardening		<-->	noun+C2[-0]	.
 
 
 
-launderer		<-->	noun+C2[-0]	.
+launderer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3096,7 +3096,7 @@ launderer		<-->	noun+C2[-0]	.
 
 
 
-lawyer		<-->	noun+A2[-0]	.
+lawyer		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3108,7 +3108,7 @@ lawyer		<-->	noun+A2[-0]	.
 
 
 
-lecturer		<-->	noun+B1[-0]	.
+lecturer		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3120,7 +3120,7 @@ lecturer		<-->	noun+B1[-0]	.
 
 
 
-librarian		<-->	noun+B2[-0]	.
+librarian		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3132,7 +3132,7 @@ librarian		<-->	noun+B2[-0]	.
 
 
 
-librarianship		<-->	noun+C2[-0]	.
+librarianship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3144,7 +3144,7 @@ librarianship		<-->	noun+C2[-0]	.
 
 
 
-life coach		<-->	noun+C2[-0]	.
+life coach		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3156,7 +3156,7 @@ life coach		<-->	noun+C2[-0]	.
 
 
 
-life coaching		<-->	noun+C2[-0]	.
+life coaching		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3168,7 +3168,7 @@ life coaching		<-->	noun+C2[-0]	.
 
 
 
-lifeguard		<-->	noun+C1[-0]	.
+lifeguard		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3180,7 +3180,7 @@ lifeguard		<-->	noun+C1[-0]	.
 
 
 
-live-in		<-->	adjective+C1[-0]	.
+live-in		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3192,7 +3192,7 @@ live-in		<-->	adjective+C1[-0]	.
 
 
 
-lock-keeper		<-->	noun+C2[-0]	.
+lock-keeper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3204,7 +3204,7 @@ lock-keeper		<-->	noun+C2[-0]	.
 
 
 
-locksmith		<-->	noun+C2[-0]	.
+locksmith		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3216,7 +3216,7 @@ locksmith		<-->	noun+C2[-0]	.
 
 
 
-logger		<-->	noun+C2[-0]	.
+logger		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3228,7 +3228,7 @@ logger		<-->	noun+C2[-0]	.
 
 
 
-lucrative		<-->	adjective+C1[-0]	.
+lucrative		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3240,7 +3240,7 @@ lucrative		<-->	adjective+C1[-0]	.
 
 
 
-machinist		<-->	noun+C2[-0]	.
+machinist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3252,7 +3252,7 @@ machinist		<-->	noun+C2[-0]	.
 
 
 
-magistrate		<-->	noun+C1[-0]	.
+magistrate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3264,7 +3264,7 @@ magistrate		<-->	noun+C1[-0]	.
 
 
 
-maid		<-->	noun+C1[-0]	.
+maid		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3276,7 +3276,7 @@ maid		<-->	noun+C1[-0]	.
 
 
 
-mail carrier		<-->	noun+B2[-0]	.
+mail carrier		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3288,7 +3288,7 @@ mail carrier		<-->	noun+B2[-0]	.
 
 
 
-mailman		<-->	noun+B1[-0]	.
+mailman		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3300,7 +3300,7 @@ mailman		<-->	noun+B1[-0]	.
 
 
 
-mailwoman		<-->	noun+B1[-0]	.
+mailwoman		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3312,7 +3312,7 @@ mailwoman		<-->	noun+B1[-0]	.
 
 
 
-management consultant		<-->	noun+C1[-0]	.
+management consultant		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3324,7 +3324,7 @@ management consultant		<-->	noun+C1[-0]	.
 
 
 
-manager		<-->	noun+A2[-0]	.
+manager		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3336,7 +3336,7 @@ manager		<-->	noun+A2[-0]	.
 
 
 
-manageress		<-->	noun+C1[-0]	.
+manageress		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3348,7 +3348,7 @@ manageress		<-->	noun+C1[-0]	.
 
 
 
-managerial		<-->	adjective+C1[-0]	.
+managerial		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3360,7 +3360,7 @@ managerial		<-->	adjective+C1[-0]	.
 
 
 
-managing director		<-->	noun+B2[-0]	.
+managing director		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3372,7 +3372,7 @@ managing director		<-->	noun+B2[-0]	.
 
 
 
-managing editor		<-->	noun+C2[-0]	.
+managing editor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3384,7 +3384,7 @@ managing editor		<-->	noun+C2[-0]	.
 
 
 
-manual		<-->	adjective+C1[-0]	.
+manual		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3396,7 +3396,7 @@ manual		<-->	adjective+C1[-0]	.
 
 
 
-marketing		<-->	noun+B1[-0]	.
+marketing		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3408,7 +3408,7 @@ marketing		<-->	noun+B1[-0]	.
 
 
 
-mason		<-->	noun+C2[-0]	.
+mason		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3420,7 +3420,7 @@ mason		<-->	noun+C2[-0]	.
 
 
 
-masseur		<-->	noun+C2[-0]	.
+masseur		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3432,7 +3432,7 @@ masseur		<-->	noun+C2[-0]	.
 
 
 
-matron		<-->	noun+C2[-0]	.
+matron		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3444,7 +3444,7 @@ matron		<-->	noun+C2[-0]	.
 
 
 
-mechanic		<-->	noun+B2[-0]	.
+mechanic		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3456,7 +3456,7 @@ mechanic		<-->	noun+B2[-0]	.
 
 
 
-medical		<-->	adjective+A2[-0]	.
+medical		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3468,7 +3468,7 @@ medical		<-->	adjective+A2[-0]	.
 
 
 
-Member of Parliament		<-->	noun+B1[-0]	.
+Member of Parliament		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3480,7 +3480,7 @@ Member of Parliament		<-->	noun+B1[-0]	.
 
 
 
-merchant		<-->	noun+C1[-0]	.
+merchant		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3492,7 +3492,7 @@ merchant		<-->	noun+C1[-0]	.
 
 
 
-meteorologist		<-->	noun+C2[-0]	.
+meteorologist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3504,7 +3504,7 @@ meteorologist		<-->	noun+C2[-0]	.
 
 
 
-midwife		<-->	noun+C2[-0]	.
+midwife		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3516,7 +3516,7 @@ midwife		<-->	noun+C2[-0]	.
 
 
 
-midwifery		<-->	noun+C2[-0]	.
+midwifery		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3528,7 +3528,7 @@ midwifery		<-->	noun+C2[-0]	.
 
 
 
-milkman		<-->	noun+C2[-0]	.
+milkman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3540,7 +3540,7 @@ milkman		<-->	noun+C2[-0]	.
 
 
 
-milkwoman		<-->	noun+C2[-0]	.
+milkwoman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3552,7 +3552,7 @@ milkwoman		<-->	noun+C2[-0]	.
 
 
 
-minder		<-->	noun+C2[-0]	.
+minder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3564,7 +3564,7 @@ minder		<-->	noun+C2[-0]	.
 
 
 
-miner		<-->	noun+B2[-0]	.
+miner		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3576,7 +3576,7 @@ miner		<-->	noun+B2[-0]	.
 
 
 
-minister		<-->	noun+B2[-0]	.
+minister		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3588,7 +3588,7 @@ minister		<-->	noun+B2[-0]	.
 
 
 
-missionary		<-->	noun+C1[-0]	.
+missionary		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3600,7 +3600,7 @@ missionary		<-->	noun+C1[-0]	.
 
 
 
-model		<-->	noun+A2[-0]	.
+model		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3612,7 +3612,7 @@ model		<-->	noun+A2[-0]	.
 
 
 
-monitor		<-->	noun+C2[-0]	.
+monitor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3624,7 +3624,7 @@ monitor		<-->	noun+C2[-0]	.
 
 
 
-mortician		<-->	noun+C2[-0]	.
+mortician		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3636,7 +3636,7 @@ mortician		<-->	noun+C2[-0]	.
 
 
 
-MP		<-->	noun+B1[-0]	.
+MP		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3648,7 +3648,7 @@ MP		<-->	noun+B1[-0]	.
 
 
 
-musician		<-->	noun+A2[-0]	.
+musician		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3660,7 +3660,7 @@ musician		<-->	noun+A2[-0]	.
 
 
 
-nanny		<-->	noun+C1[-0]	.
+nanny		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3672,7 +3672,7 @@ nanny		<-->	noun+C1[-0]	.
 
 
 
-newsagent		<-->	noun+B2[-0]	.
+newsagent		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3684,7 +3684,7 @@ newsagent		<-->	noun+B2[-0]	.
 
 
 
-newsreader		<-->	noun+B1[-0]	.
+newsreader		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3696,7 +3696,7 @@ newsreader		<-->	noun+B1[-0]	.
 
 
 
-nightwatchman		<-->	noun+C2[-0]	.
+nightwatchman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3708,7 +3708,7 @@ nightwatchman		<-->	noun+C2[-0]	.
 
 
 
-nurse		<-->	noun+A1[-0]	.
+nurse		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3720,7 +3720,7 @@ nurse		<-->	noun+A1[-0]	.
 
 
 
-occupation		<-->	noun+B2[-0]	.
+occupation		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3732,7 +3732,7 @@ occupation		<-->	noun+B2[-0]	.
 
 
 
-occupational		<-->	adjective+C1[-0]	.
+occupational		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3744,7 +3744,7 @@ occupational		<-->	adjective+C1[-0]	.
 
 
 
-occupationally		<-->	111+C2[-0]	.
+occupationally		<-->	111++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3756,7 +3756,7 @@ occupationally		<-->	111+C2[-0]	.
 
 
 
-officer		<-->	noun+A2[-0]	.
+officer		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3768,7 +3768,7 @@ officer		<-->	noun+A2[-0]	.
 
 
 
-ombudsman		<-->	noun+C2[-0]	.
+ombudsman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3780,7 +3780,7 @@ ombudsman		<-->	noun+C2[-0]	.
 
 
 
-ombudswoman		<-->	noun+C2[-0]	.
+ombudswoman		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3792,7 +3792,7 @@ ombudswoman		<-->	noun+C2[-0]	.
 
 
 
-operator		<-->	noun+B2[-0]	.
+operator		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3804,7 +3804,7 @@ operator		<-->	noun+B2[-0]	.
 
 
 
-ophthalmic optician		<-->	noun+C2[-0]	.
+ophthalmic optician		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3816,7 +3816,7 @@ ophthalmic optician		<-->	noun+C2[-0]	.
 
 
 
-optician		<-->	noun+C1[-0]	.
+optician		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3828,7 +3828,7 @@ optician		<-->	noun+C1[-0]	.
 
 
 
-orderly		<-->	noun+C2[-0]	.
+orderly		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3840,7 +3840,7 @@ orderly		<-->	noun+C2[-0]	.
 
 
 
-organization chart		<-->	noun+C1[-0]	.
+organization chart		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3852,7 +3852,7 @@ organization chart		<-->	noun+C1[-0]	.
 
 
 
-osteopath		<-->	noun+C2[-0]	.
+osteopath		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3864,7 +3864,7 @@ osteopath		<-->	noun+C2[-0]	.
 
 
 
-PA		<-->	noun+C1[-0]	.
+PA		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3876,7 +3876,7 @@ PA		<-->	noun+C1[-0]	.
 
 
 
-painter		<-->	noun+A2[-0]	.
+painter		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3888,7 +3888,7 @@ painter		<-->	noun+A2[-0]	.
 
 
 
-paramedic		<-->	noun+C1[-0]	.
+paramedic		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3900,7 +3900,7 @@ paramedic		<-->	noun+C1[-0]	.
 
 
 
-paramedical		<-->	adjective+C2[-0]	.
+paramedical		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3912,7 +3912,7 @@ paramedical		<-->	adjective+C2[-0]	.
 
 
 
-partner		<-->	noun+B1[-0]	.
+partner		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3924,7 +3924,7 @@ partner		<-->	noun+B1[-0]	.
 
 
 
-part-time		<-->	adjective+B2[-0]	.
+part-time		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3936,7 +3936,7 @@ part-time		<-->	adjective+B2[-0]	.
 
 
 
-pawnbroker		<-->	noun+C2[-0]	.
+pawnbroker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3960,7 +3960,7 @@ PCabbreviationC2[-0]	.
 
 
 
-permanent		<-->	adjective+B2[-0]	.
+permanent		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3972,7 +3972,7 @@ permanent		<-->	adjective+B2[-0]	.
 
 
 
-personnel		<-->	noun+C1[-0]	.
+personnel		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3984,7 +3984,7 @@ personnel		<-->	noun+C1[-0]	.
 
 
 
-pharmacist		<-->	noun+B2[-0]	.
+pharmacist		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3996,7 +3996,7 @@ pharmacist		<-->	noun+B2[-0]	.
 
 
 
-photographer		<-->	noun+B1[-0]	.
+photographer		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4008,7 +4008,7 @@ photographer		<-->	noun+B1[-0]	.
 
 
 
-photojournalist		<-->	noun+B2[-0]	.
+photojournalist		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4020,7 +4020,7 @@ photojournalist		<-->	noun+B2[-0]	.
 
 
 
-physiotherapist		<-->	noun+C1[-0]	.
+physiotherapist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4032,7 +4032,7 @@ physiotherapist		<-->	noun+C1[-0]	.
 
 
 
-pilot		<-->	noun+A2[-0]	.
+pilot		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4044,7 +4044,7 @@ pilot		<-->	noun+A2[-0]	.
 
 
 
-placement		<-->	noun+B2[-0]	.
+placement		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4056,7 +4056,7 @@ placement		<-->	noun+B2[-0]	.
 
 
 
-plasterer		<-->	noun+C2[-0]	.
+plasterer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4068,7 +4068,7 @@ plasterer		<-->	noun+C2[-0]	.
 
 
 
-plumber		<-->	noun+B2[-0]	.
+plumber		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4080,7 +4080,7 @@ plumber		<-->	noun+B2[-0]	.
 
 
 
-podiatrist		<-->	noun+C2[-0]	.
+podiatrist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4092,7 +4092,7 @@ podiatrist		<-->	noun+C2[-0]	.
 
 
 
-police constable		<-->	noun+C2[-0]	.
+police constable		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4104,7 +4104,7 @@ police constable		<-->	noun+C2[-0]	.
 
 
 
-policeman		<-->	noun+A1[-0]	.
+policeman		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4116,7 +4116,7 @@ policeman		<-->	noun+A1[-0]	.
 
 
 
-police officer		<-->	noun+A2[-0]	.
+police officer		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4128,7 +4128,7 @@ police officer		<-->	noun+A2[-0]	.
 
 
 
-policewoman		<-->	noun+A1[-0]	.
+policewoman		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4140,7 +4140,7 @@ policewoman		<-->	noun+A1[-0]	.
 
 
 
-politician		<-->	noun+B1[-0]	.
+politician		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4152,7 +4152,7 @@ politician		<-->	noun+B1[-0]	.
 
 
 
-porter		<-->	noun+C1[-0]	.
+porter		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4164,7 +4164,7 @@ porter		<-->	noun+C1[-0]	.
 
 
 
-postie		<-->	noun+C2[-0]	.
+postie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4176,7 +4176,7 @@ postie		<-->	noun+C2[-0]	.
 
 
 
-postman		<-->	noun+B1[-0]	.
+postman		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4188,7 +4188,7 @@ postman		<-->	noun+B1[-0]	.
 
 
 
-practice		<-->	noun+B2[-0]	.
+practice		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4200,7 +4200,7 @@ practice		<-->	noun+B2[-0]	.
 
 
 
-practise		<-->	verb+B2[-0]	.
+practise		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4212,7 +4212,7 @@ practise		<-->	verb+B2[-0]	.
 
 
 
-practitioner		<-->	noun+C1[-0]	.
+practitioner		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4224,7 +4224,7 @@ practitioner		<-->	noun+C1[-0]	.
 
 
 
-presenter		<-->	noun+B1[-0]	.
+presenter		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4236,7 +4236,7 @@ presenter		<-->	noun+B1[-0]	.
 
 
 
-president		<-->	noun+B1[-0]	.
+president		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4248,7 +4248,7 @@ president		<-->	noun+B1[-0]	.
 
 
 
-principal		<-->	noun+C1[-0]	.
+principal		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4260,7 +4260,7 @@ principal		<-->	noun+C1[-0]	.
 
 
 
-producer		<-->	noun+B1[-0]	.
+producer		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4272,7 +4272,7 @@ producer		<-->	noun+B1[-0]	.
 
 
 
-profession		<-->	noun+B1[-0]	.
+profession		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4284,7 +4284,7 @@ profession		<-->	noun+B1[-0]	.
 
 
 
-professional		<-->	adjective+B1[-0]	.
+professional		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4296,7 +4296,7 @@ professional		<-->	adjective+B1[-0]	.
 
 
 
-professor		<-->	noun+A2[-0]	.
+professor		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4308,7 +4308,7 @@ professor		<-->	noun+A2[-0]	.
 
 
 
-programmer		<-->	noun+B1[-0]	.
+programmer		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4320,7 +4320,7 @@ programmer		<-->	noun+B1[-0]	.
 
 
 
-promote		<-->	verb+B1[-0]	.
+promote		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4332,7 +4332,7 @@ promote		<-->	verb+B1[-0]	.
 
 
 
-promoter		<-->	noun+C1[-0]	.
+promoter		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4344,7 +4344,7 @@ promoter		<-->	noun+C1[-0]	.
 
 
 
-promotion		<-->	noun+B2[-0]	.
+promotion		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4356,7 +4356,7 @@ promotion		<-->	noun+B2[-0]	.
 
 
 
-prostitute		<-->	noun+C2[-0]	.
+prostitute		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4368,7 +4368,7 @@ prostitute		<-->	noun+C2[-0]	.
 
 
 
-psychiatrist		<-->	noun+C1[-0]	.
+psychiatrist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4380,7 +4380,7 @@ psychiatrist		<-->	noun+C1[-0]	.
 
 
 
-psychoanalyst		<-->	noun+C2[-0]	.
+psychoanalyst		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4392,7 +4392,7 @@ psychoanalyst		<-->	noun+C2[-0]	.
 
 
 
-psychologist		<-->	noun+B2[-0]	.
+psychologist		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4404,7 +4404,7 @@ psychologist		<-->	noun+B2[-0]	.
 
 
 
-publican		<-->	noun+C2[-0]	.
+publican		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4416,7 +4416,7 @@ publican		<-->	noun+C2[-0]	.
 
 
 
-publicist		<-->	noun+C2[-0]	.
+publicist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4428,7 +4428,7 @@ publicist		<-->	noun+C2[-0]	.
 
 
 
-public relations		<-->	noun+C1[-0]	.
+public relations		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4440,7 +4440,7 @@ public relations		<-->	noun+C1[-0]	.
 
 
 
-qualified		<-->	adjective+B1[-0]	.
+qualified		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4452,7 +4452,7 @@ qualified		<-->	adjective+B1[-0]	.
 
 
 
-quant		<-->	noun+C2[-0]	.
+quant		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4464,7 +4464,7 @@ quant		<-->	noun+C2[-0]	.
 
 
 
-quantitative analyst		<-->	noun+C2[-0]	.
+quantitative analyst		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4476,7 +4476,7 @@ quantitative analyst		<-->	noun+C2[-0]	.
 
 
 
-rabbi		<-->	noun+C2[-0]	.
+rabbi		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4488,7 +4488,7 @@ rabbi		<-->	noun+C2[-0]	.
 
 
 
-radiographer		<-->	noun+C2[-0]	.
+radiographer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4500,7 +4500,7 @@ radiographer		<-->	noun+C2[-0]	.
 
 
 
-real estate agent		<-->	noun+C1[-0]	.
+real estate agent		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4512,7 +4512,7 @@ real estate agent		<-->	noun+C1[-0]	.
 
 
 
-receptionist		<-->	noun+A2[-0]	.
+receptionist		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4524,7 +4524,7 @@ receptionist		<-->	noun+A2[-0]	.
 
 
 
-registrar		<-->	noun+C2[-0]	.
+registrar		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4536,7 +4536,7 @@ registrar		<-->	noun+C2[-0]	.
 
 
 
-report to		<-->	222+C1[-0]	.
+report to		<-->	222++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4548,7 +4548,7 @@ report to		<-->	222+C1[-0]	.
 
 
 
-representative		<-->	noun+B2[-0]	.
+representative		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4560,7 +4560,7 @@ representative		<-->	noun+B2[-0]	.
 
 
 
-researcher		<-->	noun+A2[-0]	.
+researcher		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4572,7 +4572,7 @@ researcher		<-->	noun+A2[-0]	.
 
 
 
-retire		<-->	verb+B1[-0]	.
+retire		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4584,7 +4584,7 @@ retire		<-->	verb+B1[-0]	.
 
 
 
-retired		<-->	adjective+B1[-0]	.
+retired		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4596,7 +4596,7 @@ retired		<-->	adjective+B1[-0]	.
 
 
 
-retirement		<-->	noun+B2[-0]	.
+retirement		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4608,7 +4608,7 @@ retirement		<-->	noun+B2[-0]	.
 
 
 
-runner		<-->	noun+C2[-0]	.
+runner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4620,7 +4620,7 @@ runner		<-->	noun+C2[-0]	.
 
 
 
-sailor		<-->	noun+B1[-0]	.
+sailor		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4632,7 +4632,7 @@ sailor		<-->	noun+B1[-0]	.
 
 
 
-sales clerk		<-->	noun+C1[-0]	.
+sales clerk		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4644,7 +4644,7 @@ sales clerk		<-->	noun+C1[-0]	.
 
 
 
-salesman		<-->	noun+B2[-0]	.
+salesman		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4656,7 +4656,7 @@ salesman		<-->	noun+B2[-0]	.
 
 
 
-salesperson		<-->	noun+B2[-0]	.
+salesperson		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4668,7 +4668,7 @@ salesperson		<-->	noun+B2[-0]	.
 
 
 
-saleswoman		<-->	noun+B2[-0]	.
+saleswoman		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4680,7 +4680,7 @@ saleswoman		<-->	noun+B2[-0]	.
 
 
 
-scientific		<-->	adjective+B1[-0]	.
+scientific		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4692,7 +4692,7 @@ scientific		<-->	adjective+B1[-0]	.
 
 
 
-scientist		<-->	noun+A1[-0]	.
+scientist		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4704,7 +4704,7 @@ scientist		<-->	noun+A1[-0]	.
 
 
 
-sculptor		<-->	noun+C1[-0]	.
+sculptor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4716,7 +4716,7 @@ sculptor		<-->	noun+C1[-0]	.
 
 
 
-seasonal		<-->	adjective+C1[-0]	.
+seasonal		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4728,7 +4728,7 @@ seasonal		<-->	adjective+C1[-0]	.
 
 
 
-secret agent		<-->	noun+B1[-0]	.
+secret agent		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4740,7 +4740,7 @@ secret agent		<-->	noun+B1[-0]	.
 
 
 
-secretarial		<-->	adjective+C2[-0]	.
+secretarial		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4752,7 +4752,7 @@ secretarial		<-->	adjective+C2[-0]	.
 
 
 
-secretary		<-->	noun+A2[-0]	.
+secretary		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4764,7 +4764,7 @@ secretary		<-->	noun+A2[-0]	.
 
 
 
-security guard		<-->	noun+B2[-0]	.
+security guard		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4776,7 +4776,7 @@ security guard		<-->	noun+B2[-0]	.
 
 
 
-self-employed		<-->	adjective+B2[-0]	.
+self-employed		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4788,7 +4788,7 @@ self-employed		<-->	adjective+B2[-0]	.
 
 
 
-self-employment		<-->	noun+C1[-0]	.
+self-employment		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4800,7 +4800,7 @@ self-employment		<-->	noun+C1[-0]	.
 
 
 
-senior		<-->	adjective+B2[-0]	.
+senior		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4812,7 +4812,7 @@ senior		<-->	adjective+B2[-0]	.
 
 
 
-sergeant		<-->	noun+C2[-0]	.
+sergeant		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4824,7 +4824,7 @@ sergeant		<-->	noun+C2[-0]	.
 
 
 
-servant		<-->	noun+B1[-0]	.
+servant		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4836,7 +4836,7 @@ servant		<-->	noun+B1[-0]	.
 
 
 
-sheepherder		<-->	noun+C2[-0]	.
+sheepherder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4848,7 +4848,7 @@ sheepherder		<-->	noun+C2[-0]	.
 
 
 
-shepherd		<-->	noun+C1[-0]	.
+shepherd		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4860,7 +4860,7 @@ shepherd		<-->	noun+C1[-0]	.
 
 
 
-sheriff		<-->	noun+C1[-0]	.
+sheriff		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4872,7 +4872,7 @@ sheriff		<-->	noun+C1[-0]	.
 
 
 
-shipbuilder		<-->	noun+B2[-0]	.
+shipbuilder		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4884,7 +4884,7 @@ shipbuilder		<-->	noun+B2[-0]	.
 
 
 
-shop assistant		<-->	noun+A2[-0]	.
+shop assistant		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4896,7 +4896,7 @@ shop assistant		<-->	noun+A2[-0]	.
 
 
 
-shopkeeper		<-->	noun+B2[-0]	.
+shopkeeper		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4908,7 +4908,7 @@ shopkeeper		<-->	noun+B2[-0]	.
 
 
 
-side hustle		<-->	noun+C2[-0]	.
+side hustle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4920,7 +4920,7 @@ side hustle		<-->	noun+C2[-0]	.
 
 
 
-singer		<-->	noun+A1[-0]	.
+singer		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4932,7 +4932,7 @@ singer		<-->	noun+A1[-0]	.
 
 
 
-skilled		<-->	adjective+B2[-0]	.
+skilled		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4944,7 +4944,7 @@ skilled		<-->	adjective+B2[-0]	.
 
 
 
-smith		<-->	noun+C2[-0]	.
+smith		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4956,7 +4956,7 @@ smith		<-->	noun+C2[-0]	.
 
 
 
-social worker		<-->	noun+C1[-0]	.
+social worker		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4968,7 +4968,7 @@ social worker		<-->	noun+C1[-0]	.
 
 
 
-soldier		<-->	noun+A2[-0]	.
+soldier		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4980,7 +4980,7 @@ soldier		<-->	noun+A2[-0]	.
 
 
 
-solicitor		<-->	noun+C1[-0]	.
+solicitor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4992,7 +4992,7 @@ solicitor		<-->	noun+C1[-0]	.
 
 
 
-songwriter		<-->	noun+B1[-0]	.
+songwriter		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5004,7 +5004,7 @@ songwriter		<-->	noun+B1[-0]	.
 
 
 
-specialist		<-->	noun+B2[-0]	.
+specialist		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5016,7 +5016,7 @@ specialist		<-->	noun+B2[-0]	.
 
 
 
-spokesman		<-->	noun+B2[-0]	.
+spokesman		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5028,7 +5028,7 @@ spokesman		<-->	noun+B2[-0]	.
 
 
 
-sportsman		<-->	noun+B1[-0]	.
+sportsman		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5040,7 +5040,7 @@ sportsman		<-->	noun+B1[-0]	.
 
 
 
-sportswoman		<-->	noun+B1[-0]	.
+sportswoman		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5052,7 +5052,7 @@ sportswoman		<-->	noun+B1[-0]	.
 
 
 
-spy		<-->	noun+C1[-0]	.
+spy		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5064,7 +5064,7 @@ spy		<-->	noun+C1[-0]	.
 
 
 
-staff writer		<-->	noun+C2[-0]	.
+staff writer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5076,7 +5076,7 @@ staff writer		<-->	noun+C2[-0]	.
 
 
 
-steady		<-->	adjective+B2[-0]	.
+steady		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5088,7 +5088,7 @@ steady		<-->	adjective+B2[-0]	.
 
 
 
-steeplejack		<-->	noun+C2[-0]	.
+steeplejack		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5100,7 +5100,7 @@ steeplejack		<-->	noun+C2[-0]	.
 
 
 
-steward		<-->	noun+C1[-0]	.
+steward		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5112,7 +5112,7 @@ steward		<-->	noun+C1[-0]	.
 
 
 
-stewardess		<-->	noun+C1[-0]	.
+stewardess		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5124,7 +5124,7 @@ stewardess		<-->	noun+C1[-0]	.
 
 
 
-stockbroker		<-->	noun+C2[-0]	.
+stockbroker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5136,7 +5136,7 @@ stockbroker		<-->	noun+C2[-0]	.
 
 
 
-stockjobber		<-->	noun+C2[-0]	.
+stockjobber		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5148,7 +5148,7 @@ stockjobber		<-->	noun+C2[-0]	.
 
 
 
-stonemason		<-->	noun+C2[-0]	.
+stonemason		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5160,7 +5160,7 @@ stonemason		<-->	noun+C2[-0]	.
 
 
 
-storekeeper		<-->	noun+C2[-0]	.
+storekeeper		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5172,7 +5172,7 @@ storekeeper		<-->	noun+C2[-0]	.
 
 
 
-striker		<-->	noun+C2[-0]	.
+striker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5184,7 +5184,7 @@ striker		<-->	noun+C2[-0]	.
 
 
 
-structural engineer		<-->	noun+C1[-0]	.
+structural engineer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5196,7 +5196,7 @@ structural engineer		<-->	noun+C1[-0]	.
 
 
 
-stylist		<-->	noun+C1[-0]	.
+stylist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5208,7 +5208,7 @@ stylist		<-->	noun+C1[-0]	.
 
 
 
-superintendent		<-->	noun+C2[-0]	.
+superintendent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5220,7 +5220,7 @@ superintendent		<-->	noun+C2[-0]	.
 
 
 
-supermodel		<-->	noun+B1[-0]	.
+supermodel		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5232,7 +5232,7 @@ supermodel		<-->	noun+B1[-0]	.
 
 
 
-supervise		<-->	verb+C1[-0]	.
+supervise		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5244,7 +5244,7 @@ supervise		<-->	verb+C1[-0]	.
 
 
 
-supervision		<-->	noun+C1[-0]	.
+supervision		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5256,7 +5256,7 @@ supervision		<-->	noun+C1[-0]	.
 
 
 
-supervisor		<-->	noun+C1[-0]	.
+supervisor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5268,7 +5268,7 @@ supervisor		<-->	noun+C1[-0]	.
 
 
 
-supervisory		<-->	adjective+C2[-0]	.
+supervisory		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5280,7 +5280,7 @@ supervisory		<-->	adjective+C2[-0]	.
 
 
 
-surf lifesaver		<-->	noun+C2[-0]	.
+surf lifesaver		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5292,7 +5292,7 @@ surf lifesaver		<-->	noun+C2[-0]	.
 
 
 
-surgeon		<-->	noun+B2[-0]	.
+surgeon		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5304,7 +5304,7 @@ surgeon		<-->	noun+B2[-0]	.
 
 
 
-surveyor		<-->	noun+C2[-0]	.
+surveyor		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5316,7 +5316,7 @@ surveyor		<-->	noun+C2[-0]	.
 
 
 
-sweep		<-->	noun+C2[-0]	.
+sweep		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5328,7 +5328,7 @@ sweep		<-->	noun+C2[-0]	.
 
 
 
-tailor		<-->	noun+B2[-0]	.
+tailor		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5340,7 +5340,7 @@ tailor		<-->	noun+B2[-0]	.
 
 
 
-teacher		<-->	noun+A1[-0]	.
+teacher		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5352,7 +5352,7 @@ teacher		<-->	noun+A1[-0]	.
 
 
 
-technician		<-->	noun+B2[-0]	.
+technician		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5364,7 +5364,7 @@ technician		<-->	noun+B2[-0]	.
 
 
 
-temp		<-->	noun+C2[-0]	.
+temp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5376,7 +5376,7 @@ temp		<-->	noun+C2[-0]	.
 
 
 
-temporary		<-->	adjective+B2[-0]	.
+temporary		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5388,7 +5388,7 @@ temporary		<-->	adjective+B2[-0]	.
 
 
 
-therapy		<-->	noun+B2[-0]	.
+therapy		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5400,7 +5400,7 @@ therapy		<-->	noun+B2[-0]	.
 
 
 
-title		<-->	noun+B1[-0]	.
+title		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5412,7 +5412,7 @@ title		<-->	noun+B1[-0]	.
 
 
 
-trader		<-->	noun+B1[-0]	.
+trader		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5424,7 +5424,7 @@ trader		<-->	noun+B1[-0]	.
 
 
 
-tradesman		<-->	noun+C1[-0]	.
+tradesman		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5436,7 +5436,7 @@ tradesman		<-->	noun+C1[-0]	.
 
 
 
-tradeswoman		<-->	noun+C1[-0]	.
+tradeswoman		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5448,7 +5448,7 @@ tradeswoman		<-->	noun+C1[-0]	.
 
 
 
-traffic warden		<-->	noun+C2[-0]	.
+traffic warden		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5460,7 +5460,7 @@ traffic warden		<-->	noun+C2[-0]	.
 
 
 
-train		<-->	verb+A2[-0]	.
+train		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5472,7 +5472,7 @@ train		<-->	verb+A2[-0]	.
 
 
 
-trainee		<-->	noun+B2[-0]	.
+trainee		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5484,7 +5484,7 @@ trainee		<-->	noun+B2[-0]	.
 
 
 
-training		<-->	noun+A2[-0]	.
+training		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5496,7 +5496,7 @@ training		<-->	noun+A2[-0]	.
 
 
 
-translator		<-->	noun+B1[-0]	.
+translator		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5508,7 +5508,7 @@ translator		<-->	noun+B1[-0]	.
 
 
 
-travel agent		<-->	noun+B2[-0]	.
+travel agent		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5520,7 +5520,7 @@ travel agent		<-->	noun+B2[-0]	.
 
 
 
-treasurer		<-->	noun+C2[-0]	.
+treasurer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5532,7 +5532,7 @@ treasurer		<-->	noun+C2[-0]	.
 
 
 
-trustee		<-->	noun+C1[-0]	.
+trustee		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5544,7 +5544,7 @@ trustee		<-->	noun+C1[-0]	.
 
 
 
-turf accountant		<-->	noun+C2[-0]	.
+turf accountant		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5556,7 +5556,7 @@ turf accountant		<-->	noun+C2[-0]	.
 
 
 
-tutor		<-->	noun+B1[-0]	.
+tutor		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5568,7 +5568,7 @@ tutor		<-->	noun+B1[-0]	.
 
 
 
-typist		<-->	noun+C2[-0]	.
+typist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5580,7 +5580,7 @@ typist		<-->	noun+C2[-0]	.
 
 
 
-undertaker		<-->	noun+C2[-0]	.
+undertaker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5592,7 +5592,7 @@ undertaker		<-->	noun+C2[-0]	.
 
 
 
-unpaid		<-->	adjective+B2[-0]	.
+unpaid		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5604,7 +5604,7 @@ unpaid		<-->	adjective+B2[-0]	.
 
 
 
-unqualified		<-->	adjective+B1[-0]	.
+unqualified		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5616,7 +5616,7 @@ unqualified		<-->	adjective+B1[-0]	.
 
 
 
-unskilled		<-->	adjective+B1[-0]	.
+unskilled		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5628,7 +5628,7 @@ unskilled		<-->	adjective+B1[-0]	.
 
 
 
-vet		<-->	noun+B2[-0]	.
+vet		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5640,7 +5640,7 @@ vet		<-->	noun+B2[-0]	.
 
 
 
-veterinarian		<-->	noun+C2[-0]	.
+veterinarian		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5652,7 +5652,7 @@ veterinarian		<-->	noun+C2[-0]	.
 
 
 
-veterinary surgeon		<-->	noun+C2[-0]	.
+veterinary surgeon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5664,7 +5664,7 @@ veterinary surgeon		<-->	noun+C2[-0]	.
 
 
 
-vicar		<-->	noun+C1[-0]	.
+vicar		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5688,7 +5688,7 @@ vice-combining formC2[-0]	.
 
 
 
-vice-president		<-->	noun+C2[-0]	.
+vice-president		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5700,7 +5700,7 @@ vice-president		<-->	noun+C2[-0]	.
 
 
 
-vocational		<-->	adjective+C1[-0]	.
+vocational		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5712,7 +5712,7 @@ vocational		<-->	adjective+C1[-0]	.
 
 
 
-voluntary		<-->	adjective+B2[-0]	.
+voluntary		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5724,7 +5724,7 @@ voluntary		<-->	adjective+B2[-0]	.
 
 
 
-wage		<-->	noun+B2[-0]	.
+wage		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5736,7 +5736,7 @@ wage		<-->	noun+B2[-0]	.
 
 
 
-waiter		<-->	noun+A1[-0]	.
+waiter		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5748,7 +5748,7 @@ waiter		<-->	noun+A1[-0]	.
 
 
 
-waitress		<-->	noun+B1[-0]	.
+waitress		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5760,7 +5760,7 @@ waitress		<-->	noun+B1[-0]	.
 
 
 
-warden		<-->	noun+C2[-0]	.
+warden		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5772,7 +5772,7 @@ warden		<-->	noun+C2[-0]	.
 
 
 
-warder		<-->	noun+C2[-0]	.
+warder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5784,7 +5784,7 @@ warder		<-->	noun+C2[-0]	.
 
 
 
-well paid		<-->	adjective+B2[-0]	.
+well paid		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5796,7 +5796,7 @@ well paid		<-->	adjective+B2[-0]	.
 
 
 
-window cleaner		<-->	noun+B1[-0]	.
+window cleaner		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5808,7 +5808,7 @@ window cleaner		<-->	noun+B1[-0]	.
 
 
 
-window washer		<-->	noun+B2[-0]	.
+window washer		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5820,7 +5820,7 @@ window washer		<-->	noun+B2[-0]	.
 
 
 
-work		<-->	verb+A1[-0]	.
+work		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5832,7 +5832,7 @@ work		<-->	verb+A1[-0]	.
 
 
 
-work		<-->	noun+A1[-0]	.
+work		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5844,7 +5844,7 @@ work		<-->	noun+A1[-0]	.
 
 
 
-workaholic		<-->	noun+C2[-0]	.
+workaholic		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5856,7 +5856,7 @@ workaholic		<-->	noun+C2[-0]	.
 
 
 
-working		<-->	adjective+A2[-0]	.
+working		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5868,7 +5868,7 @@ working		<-->	adjective+A2[-0]	.
 
 
 
-workman		<-->	noun+B1[-0]	.
+workman		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5880,7 +5880,7 @@ workman		<-->	noun+B1[-0]	.
 
 
 
-workmate		<-->	noun+C1[-0]	.
+workmate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5892,7 +5892,7 @@ workmate		<-->	noun+C1[-0]	.
 
 
 
-work placement		<-->	noun+B2[-0]	.
+work placement		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5904,7 +5904,7 @@ work placement		<-->	noun+B2[-0]	.
 
 
 
-writer		<-->	noun+A1[-0]	.
+writer		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
