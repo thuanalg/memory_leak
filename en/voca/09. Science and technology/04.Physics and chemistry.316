@@ -11,7 +11,7 @@ absorb		<-->	verb++B2	[221027][001]	./cerf/
 
 
 
-accelerate		<-->	verb++C1	[221027][001]	./cerf/
+[-] accelerate		<-->	verb++C1	[221027][001]	./cerf/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -24,8 +24,7 @@ accelerate		<-->	verb++C1	[221027][001]	./cerf/
 
 
 
-acceleration		<-->	nooun++C1	[221027][001]	./əkˌseləˈreɪʃn/
- /əkˌseləˈreɪʃn/
+[-] acceleration		<-->	noun++C1	[221027][001]	./əkˌseləˈreɪʃn/-NAmE /əkˌseləˈreɪʃn/
 	;sự gia tốc, tăng mạnh -- (1) [uncountable, singular] acceleration (in something) an increase in how fast something happens
 		;an acceleration in the rate of economic growth
 		;Extra Examples:
@@ -57,7 +56,7 @@ acceleration		<-->	nooun++C1	[221027][001]	./əkˌseləˈreɪʃn/
 
 
 
-acid		<-->	nooun++B2[-0]	.
+[-] acid		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -70,7 +69,7 @@ acid		<-->	nooun++B2[-0]	.
 
 
 
-acid		<-->	adjective++C1[-0]	.
+[-] acid		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -83,8 +82,7 @@ acid		<-->	adjective++C1[-0]	.
 
 
 
-acidity		<-->	nooun++C1	[221027][001]	./əˈsɪdəti/
- /əˈsɪdəti/ [uncountable]
+[-] acidity		<-->	noun++C1	[221027][001]	./əˈsɪdəti/-NAmE /əˈsɪdəti/ [uncountable]
 	;độ chua -- (1) the state of having a bitter sharp taste or of containing acid
 		;to test the acidity of soil
 		;TOPICS Physics and chemistryC1
@@ -98,7 +96,7 @@ acidity		<-->	nooun++C1	[221027][001]	./əˈsɪdəti/
 
 
 
-activate		<-->	verb++B2	[221027][001]	./cerf/
+[-] activate		<-->	verb++B2	[221027][001]	./cerf/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -111,7 +109,7 @@ activate		<-->	verb++B2	[221027][001]	./cerf/
 
 
 
-activation		<-->	nooun++C1	[221027][001]	./cerf/
+[-] activation		<-->	noun++C1	[221027][001]	./cerf/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -124,8 +122,7 @@ activation		<-->	nooun++C1	[221027][001]	./cerf/
 
 
 
-aerodynamics		<-->	nooun++C2	[221027][001]	./ˌeərəʊdaɪˈnæmɪks/
- /ˌerəʊdaɪˈnæmɪks/
+[-] aerodynamics		<-->	noun++C2	[221027][001]	./ˌeərəʊdaɪˈnæmɪks/-NAmE /ˌerəʊdaɪˈnæmɪks/
 	;khí động học -- (1) [plural] the qualities of an object that affect the way it moves through the air
 		;Research has focused on improving the car's aerodynamics.
 		;TOPICS Transport by airC2
@@ -141,7 +138,7 @@ aerodynamics		<-->	nooun++C2	[221027][001]	./ˌeərəʊdaɪˈnæmɪks/
 
 
 
-alcohol		<-->	nooun++B1	[221027][001]	./cerf/
+[-] alcohol		<-->	noun++B1	[221027][001]	./cerf/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -154,8 +151,7 @@ alcohol		<-->	nooun++B1	[221027][001]	./cerf/
 
 
 
-alkali		<-->	nooun++C2	[221027][001]	./ˈælkəlaɪ/
- /ˈælkəlaɪ/ [countable, uncountable] (chemistry)
+[-] alkali		<-->	noun++C2	[221027][001]	./ˈælkəlaɪ/-NAmE /ˈælkəlaɪ/ [countable, uncountable] (chemistry)
 	;kiềm -- (1) a chemical substance that reacts with acids to form a salt and gives a solution with a pH of more than seven when it is dissolved (= mixed with a liquid and becoming part of it) in water
 		;COMPARE acid
 		;TOPICS Physics and chemistryC2
@@ -169,8 +165,7 @@ alkali		<-->	nooun++C2	[221027][001]	./ˈælkəlaɪ/
 
 
 
-alloy		<-->	nooun++C2	[221027][001]	./ˈælɔɪ/
- /ˈælɔɪ/ [countable, uncountable]
+[-] alloy		<-->	noun++C2	[221027][001]	./ˈælɔɪ/-NAmE /ˈælɔɪ/ [countable, uncountable]
 	;hợp kim -- (1) a metal that is formed by mixing two types of metal together, or by mixing metal with another substance
 		;Brass is an alloy of copper and zinc.
 		;alloy steel
@@ -191,8 +186,7 @@ alloy		<-->	nooun++C2	[221027][001]	./ˈælɔɪ/
 
 
 
-alpha particle		<-->	nooun++C2	[221027][001]	./ˈælfə pɑːtɪkl/
- /ˈælfə pɑːrtɪkl/ (physics)
+[-] alpha particle		<-->	noun++C2	[221027][001]	./ˈælfə pɑːtɪkl/-NAmE /ˈælfə pɑːrtɪkl/ (physics)
 	;hạt alpha -- (1) a particle with a positive electrical charge that is emitted (= sent out) by some radioactive substances and is identical to (= the same as) the nucleus of a helium atom
 		;TOPICS Physics and chemistryC2
 
@@ -205,8 +199,7 @@ alpha particle		<-->	nooun++C2	[221027][001]	./ˈælfə pɑːtɪkl/
 
 
 
-alpha radiation		<-->	nooun++C2	[221027][001]	./ˈælfə reɪdieɪʃn/
- /ˈælfə reɪdieɪʃn/ [uncountable] (physics)
+[-] alpha radiation		<-->	noun++C2	[221027][001]	./ˈælfə reɪdieɪʃn/-NAmE /ˈælfə reɪdieɪʃn/ [uncountable] (physics)
 	;bức xạ hat alpha -- (1) a type of radiation that comes from some substances when they decay (= start to break down)
 		;COMPARE gamma radiation
 		;TOPICS Physics and chemistryC2
@@ -219,7 +212,7 @@ alpha radiation		<-->	nooun++C2	[221027][001]	./ˈælfə reɪdieɪʃn/
 
 
 
-aluminium		<-->	nooun++C1	[221027][001]	./cefr/
+[-] aluminium		<-->	noun++C1	[221027][001]	./cefr/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -232,8 +225,7 @@ aluminium		<-->	nooun++C1	[221027][001]	./cefr/
 
 
 
-ammonia		<-->	nooun++C2	[221027][001]	./əˈməʊniə/
- /əˈməʊniə/ [uncountable] (symbol NH3)
+[-] ammonia		<-->	noun++C2	[221027][001]	./əˈməʊniə/-NAmE /əˈməʊniə/ [uncountable] (symbol NH3)
 	;khi amoniac -- (1) a gas with a strong smell; a clear liquid containing ammonia, used as a cleaning substance
 		;TOPICS Physics and chemistryC2
 
@@ -246,8 +238,7 @@ ammonia		<-->	nooun++C2	[221027][001]	./əˈməʊniə/
 
 
 
-amphoteric		<-->	adjective++C2	[221027][001]	./ˌæmfəˈterɪk/
- /ˌæmfəˈterɪk/ (chemistry)
+[-] amphoteric		<-->	adjective++C2	[221027][001]	./ˌæmfəˈterɪk/-NAmE /ˌæmfəˈterɪk/ (chemistry)
 	;lưỡng tính axit-bazo -- (1) (of a chemical compound) able to act as an acid or a base
 		;TOPICS Physics and chemistryC2
 
@@ -260,8 +251,7 @@ amphoteric		<-->	adjective++C2	[221027][001]	./ˌæmfəˈterɪk/
 
 
 
-amplitude		<-->	nooun++C2[-0]	./ˈæmplɪtjuːd/
- /ˈæmplɪtuːd/ [uncountable, countable] (physics)
+[-] amplitude		<-->	noun++C2[-0]	./ˈæmplɪtjuːd/-NAmE /ˈæmplɪtuːd/ [uncountable, countable] (physics)
 	;biên độ, cường độ -- (1) the greatest distance that a wave, especially a sound or radio wave, vibrates (= moves up and down)
 		;Wordfinder: amplitudeatomenergyfissionforcefrequencygravitymoleculenuclearphysics
 		;TOPICS Physics and chemistryC2
@@ -275,8 +265,7 @@ amplitude		<-->	nooun++C2[-0]	./ˈæmplɪtjuːd/
 
 
 
-anion		<-->	nooun++C2[-0]	./ˈænaɪən/
- /ˈænaɪən/ (chemistry, physics)
+[-] anion		<-->	noun++C2[-0]	./ˈænaɪən/-NAmE /ˈænaɪən/ (chemistry, physics)
 	;ion âm -- (1) an ion with a negative electrical charge
 		;COMPARE cation
 		;TOPICS Physics and chemistryC2
@@ -290,8 +279,7 @@ anion		<-->	nooun++C2[-0]	./ˈænaɪən/
 
 
 
-antimatter		<-->	nooun++C2[-0]	./ˈæntimætə(r)/
- /ˈæntimætər/,  /ˈæntaɪmætər/ [uncountable] (physics)
+[-] antimatter		<-->	noun++C2[-0]	./ˈæntimætə(r)/-NAmE /ˈæntimætər/,  /ˈæntaɪmætər/ [uncountable] (physics)
 ​	;phản vật chất -- (1) matter that is made up of antiparticles
 		;TOPICS Physics and chemistryC2
 
@@ -304,8 +292,7 @@ antimatter		<-->	nooun++C2[-0]	./ˈæntimætə(r)/
 
 
 
-arsenic		<-->	nooun++C2[-0]	./ˈɑːsnɪk/
- /ˈɑːrsnɪk/ [uncountable] (symbol As)
+[-] arsenic		<-->	noun++C2[-0]	./ˈɑːsnɪk/-NAmE /ˈɑːrsnɪk/ [uncountable] (symbol As)
 	;asen -- (1) a chemical element. Arsenic is a grey metalloid (= has properties of both metals and other solid substances) and is very poisonous, especially in its compound forms.
 		;The doctor found traces of arsenic in his body.
 		;chocolates laced with arsenic
@@ -324,8 +311,7 @@ arsenic		<-->	nooun++C2[-0]	./ˈɑːsnɪk/
 
 
 
-atom		<-->	nooun++B2[-0]	./ˈætəm/
- /ˈætəm/
+[-] atom		<-->	noun++B2[-0]	./ˈætəm/-NAmE /ˈætəm/
 	;nguyên tử -- (1) the smallest particle of a chemical element that can exist
 		;the splitting of the atom
 		;Two atoms of hydrogen combine with one atom of oxygen to form a molecule of water.
@@ -354,8 +340,7 @@ atom		<-->	nooun++B2[-0]	./ˈætəm/
 
 
 
-atomic		<-->	adjective++C1[-0]	./əˈtɒmɪk/
- /əˈtɑːmɪk/ [usually before noun]
+[-] atomic		<-->	adjective++C1[-0]	./əˈtɒmɪk/-NAmE /əˈtɑːmɪk/ [usually before noun]
 	;r. nguyên tử -- (1) relating to atoms or an atom
 		;atomic structure
 		;TOPICS Physics and chemistryC1
@@ -369,8 +354,7 @@ atomic		<-->	adjective++C1[-0]	./əˈtɒmɪk/
 
 
 
-atomic energy		<-->	nooun++C1[-0]	./əˌtɒmɪk ˈenədʒi/
- /əˌtɑːmɪk ˈenərdʒi/ (also atomic power  /əˌtɒmɪk ˈpaʊə(r)/  /əˌtɑːmɪk ˈpaʊər/, nuclear energy, nuclear power) [uncountable]
+[-] atomic energy		<-->	noun++C1[-0]	./əˌtɒmɪk ˈenədʒi/-NAmE /əˌtɑːmɪk ˈenərdʒi/ (also atomic power  /əˌtɒmɪk ˈpaʊə(r)/  /əˌtɑːmɪk ˈpaʊər/, nuclear energy, nuclear power) [uncountable]
 	;năng lượng nguyên tử -- (1) a powerful form of energy produced by changing matter into energy by splitting the nuclei (= central parts) of atoms. It is used to produce electricity.
 		;TOPICS The environmentC1, Physics and chemistryC1
 
@@ -383,8 +367,7 @@ atomic energy		<-->	nooun++C1[-0]	./əˌtɒmɪk ˈenədʒi/
 
 
 
-atomic number		<-->	nooun++C2[-0]	./əˌtɒmɪk ˈnʌmbə(r)/
- /əˌtɑːmɪk ˈnʌmbər/ (chemistry)
+[-] atomic number		<-->	noun++C2[-0]	./əˌtɒmɪk ˈnʌmbə(r)/-NAmE /əˌtɑːmɪk ˈnʌmbər/ (chemistry)
 	;số proton trong nguyên tử -- (1) the number of protons in the nucleus (= centre) of an atom of a particular chemical element. Elements are placed in the periodic table according to their atomic numbers.
 		;TOPICS Physics and chemistryC2
 
@@ -397,7 +380,7 @@ atomic number		<-->	nooun++C2[-0]	./əˌtɒmɪk ˈnʌmbə(r)/
 
 
 
-bend		<-->	verb++B1[-0]	./cef/
+[-] bend		<-->	verb++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -410,7 +393,7 @@ bend		<-->	verb++B1[-0]	./cef/
 
 
 
-block		<-->	nooun++B1[-0]	./cef/
+[-] block		<-->	noun++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -423,8 +406,7 @@ block		<-->	nooun++B1[-0]	./cef/
 
 
 
-boiling point		<-->	nooun++B2[-0]	./ˈbɔɪlɪŋ pɔɪnt/
- /ˈbɔɪlɪŋ pɔɪnt/ [uncountable, countable]
+[-] boiling point		<-->	noun++B2[-0]	./ˈbɔɪlɪŋ pɔɪnt/-NAmE /ˈbɔɪlɪŋ pɔɪnt/ [uncountable, countable]
 	;điểm sôi -- (1) the temperature at which a liquid starts to boil
 		;The boiling point of water is 100°C.
 		;Bring the sauce to boiling point.
@@ -443,7 +425,7 @@ boiling point		<-->	nooun++B2[-0]	./ˈbɔɪlɪŋ pɔɪnt/
 
 
 
-bond		<-->	nooun++C2[-0]	.
+[-] bond		<-->	noun++C2[-0]	.
 	;liên kết -- (1) [countable] the way in which atoms are held together in a chemical compound
 		;TOPICS Physics and chemistryC2
 
@@ -456,8 +438,7 @@ bond		<-->	nooun++C2[-0]	.
 
 
 
-bond		<-->	verb++C1[-0]	./bɒnd/
- /bɑːnd/\
+[-] bond		<-->	verb++C1[-0]	./bɒnd/-NAmE /bɑːnd/\
 	;liên kết chặt -- (1) [-join together] [transitive, intransitive] to join two things strongly together; to join strongly to something else
 		;bond something This new glue bonds a variety of surfaces in seconds.
 		;bond (A) to B It cannot be used to bond wood to metal.
@@ -476,8 +457,7 @@ bond		<-->	verb++C1[-0]	./bɒnd/
 
 
 
-breeze block		<-->	nooun++C2[-0]	./ˈbriːz blɒk/
- /ˈbriːz blɑːk/
+[-] breeze block		<-->	noun++C2[-0]	./ˈbriːz blɒk/-NAmE /ˈbriːz blɑːk/
 	;(British English) (North American English cinder block)
 	;nhà máy nghiền (xi-măng) -- (1) a light building block, made of sand, coal ashes and cement
 		;TOPICS Physics and chemistryC2, BuildingsC2
@@ -491,7 +471,7 @@ breeze block		<-->	nooun++C2[-0]	./ˈbriːz blɒk/
 
 
 
-brick		<-->	nooun++B2[-0]	./cef/
+[-] brick		<-->	noun++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -504,8 +484,7 @@ brick		<-->	nooun++B2[-0]	./cef/
 
 
 
-bronze		<-->	nooun++C1[-0]	./brɒnz/
- /brɑːnz/
+[-] bronze		<-->	noun++C1[-0]	./brɒnz/-NAmE /brɑːnz/
 	;đồng đỏ (pha thiết) -- (1) ​[uncountable] a dark red-brown metal made by mixing copper and tin
 		;a bronze statue
 		;The figure was cast in bronze.
@@ -531,8 +510,7 @@ bronze		<-->	nooun++C1[-0]	./brɒnz/
 
 
 
-calcium		<-->	nooun++B2[-0]	./ˈkælsiəm/
- /ˈkælsiəm/ [uncountable] (symbol Ca)
+[-] calcium		<-->	noun++B2[-0]	./ˈkælsiəm/-NAmE /ˈkælsiəm/ [uncountable] (symbol Ca)
 	;can-xi -- (1) a chemical element. Calcium is a soft silver-white metal that is found in bones, teeth and chalk.
 		;TOPICS Physics and chemistryB2
 				;Oxford Collocations Dictionary
@@ -549,7 +527,7 @@ calcium		<-->	nooun++B2[-0]	./ˈkælsiəm/
 
 
 
-carbon		<-->	nooun++B2[-0]	./cef/
+[-] carbon		<-->	noun++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -562,8 +540,7 @@ carbon		<-->	nooun++B2[-0]	./cef/
 
 
 
-carbon dioxide		<-->	nooun++B2[-0]	./ˌkɑːbən daɪˈɒksaɪd/
- /ˌkɑːrbən daɪˈɑːksaɪd/ [uncountable] (symbol CO2)
+[-] carbon dioxide		<-->	noun++B2[-0]	./ˌkɑːbən daɪˈɒksaɪd/-NAmE /ˌkɑːrbən daɪˈɑːksaɪd/ [uncountable] (symbol CO2)
 	;CO2 -- (1) a gas breathed out by people and animals from the lungs or produced by burning carbon
 		;Coke burns with oxygen to give carbon dioxide.
 		;Trees absorb carbon dioxide and produce oxygen.
@@ -586,8 +563,7 @@ carbon dioxide		<-->	nooun++B2[-0]	./ˌkɑːbən daɪˈɒksaɪd/
 
 
 
-carbon monoxide		<-->	nooun++C1[-0]	./ˌkɑːbən məˈnɒksaɪd/
- /ˌkɑːrbən məˈnɑːksaɪd/ [uncountable] (symbol CO)
+[-] carbon monoxide		<-->	noun++C1[-0]	./ˌkɑːbən məˈnɒksaɪd/-NAmE /ˌkɑːrbən məˈnɑːksaɪd/ [uncountable] (symbol CO)
 	;CO -- (1) a poisonous gas formed when carbon burns partly but not completely. It is produced when petrol is burned in car engines.
 		;TOPICS The environmentC1, Physics and chemistryC1
 				;Oxford Collocations Dictionary
@@ -604,8 +580,7 @@ carbon monoxide		<-->	nooun++C1[-0]	./ˌkɑːbən məˈnɒksaɪd/
 
 
 
-catalyse		<-->	verb++C2[-0]	./ˈkætəlaɪz/
- /ˈkætəlaɪz/ (British English) (North American English catalyze) (chemistry)
+[-] catalyse		<-->	verb++C2[-0]	./ˈkætəlaɪz/-NAmE /ˈkætəlaɪz/ (British English) (North American English catalyze) (chemistry)
 	;xúc tác -- (1) catalyse something to make a chemical reaction happen faster
 		;TOPICS Physics and chemistryC2
 		;Oxford Collocations Dictionary
@@ -622,8 +597,7 @@ catalyse		<-->	verb++C2[-0]	./ˈkætəlaɪz/
 
 
 
-catalysis		<-->	nooun++C2[-0]	./kəˈtæləsɪs/
- /kəˈtæləsɪs/ [uncountable] (chemistry)
+[-] catalysis		<-->	noun++C2[-0]	./kəˈtæləsɪs/-NAmE /kəˈtæləsɪs/ [uncountable] (chemistry)
 	;xúc tác -- (1) an increase in the rate of a chemical reaction that is cause by a substance called a catalyst
 		;the catalysis of organic reactions
 		;TOPICS Physics and chemistryC2
@@ -638,8 +612,7 @@ catalysis		<-->	nooun++C2[-0]	./kəˈtæləsɪs/
 
 
 
-catalyst		<-->	nooun++C2[-0]	./ˈkætəlɪst/
- /ˈkætəlɪst/
+[-] catalyst		<-->	noun++C2[-0]	./ˈkætəlɪst/-NAmE /ˈkætəlɪst/
 	;chất xúc tác -- (1) (chemistry) a substance that makes a chemical reaction happen faster without being changed itself
 		;Chlorine will act as a catalyst.
 		;Wordfinder: acidcatalystchemistrycompoundformulamoleculepHreactsolutionvalency
@@ -655,8 +628,7 @@ catalyst		<-->	nooun++C2[-0]	./ˈkætəlɪst/
 
 
 
-catalytic		<-->	adjective++C2[-0]	./ˌkætəˈlɪtɪk/
- /ˌkætəˈlɪtɪk/ [only before noun] (chemistry)
+[-] catalytic		<-->	adjective++C2[-0]	./ˌkætəˈlɪtɪk/-NAmE /ˌkætəˈlɪtɪk/ [only before noun] (chemistry)
 	;xúc tác -- (1) causing a chemical reaction to happen faster
 		;catalytic processes
 		;TOPICS Physics and chemistryC2
@@ -670,8 +642,7 @@ catalytic		<-->	adjective++C2[-0]	./ˌkætəˈlɪtɪk/
 
 
 
-cation		<-->	nooun++C2[-0]	./ˈkætaɪən/
- /ˈkætaɪən/ (chemistry, physics)
+[-] cation		<-->	noun++C2[-0]	./ˈkætaɪən/-NAmE /ˈkætaɪən/ (chemistry, physics)
 	;ion dương -- (1) ​an ion with a positive electrical charge
 		;COMPARE anion
 		;TOPICS Physics and chemistryC2
@@ -686,8 +657,7 @@ cation		<-->	nooun++C2[-0]	./ˈkætaɪən/
 
 
 
-caustic		<-->	adjective++C2[-0]	./ˈkɔːstɪk/
- /ˈkɔːstɪk/
+[-] caustic		<-->	adjective++C2[-0]	./ˈkɔːstɪk/-NAmE /ˈkɔːstɪk/
 	;ăn mòn -- (1) ​(of a chemical substance) able to destroy or dissolve (= remove or destroy by a chemical process) other substances
 		;SYNONYM corrosive
 		;a caustic cleaning product
@@ -705,8 +675,7 @@ caustic		<-->	adjective++C2[-0]	./ˈkɔːstɪk/
 
 
 
-Celsius		<-->	nooun++B2[-0]	./ˈselsiəs/
- /ˈselsiəs/ (also centigrade) (abbreviation C)
+[-] celsius		<-->	noun++B2[-0]	./ˈselsiəs/-NAmE /ˈselsiəs/ (also centigrade) (abbreviation C)
 	;thang nhiệt bách phân -- (1) of or using a scale of temperature in which water freezes at 0° and boils at 100°
 		;It will be a mild night, around nine degrees Celsius.
 		;the Celsius Scale
@@ -721,8 +690,7 @@ Celsius		<-->	nooun++B2[-0]	./ˈselsiəs/
 
 
 
-cement		<-->	nooun++C1[-0]	./sɪˈment/
- /sɪˈment/ [uncountable]
+[-] cement		<-->	noun++C1[-0]	./sɪˈment/-NAmE /sɪˈment/ [uncountable]
 	;xi-măng -- (1) a grey powder made by burning clay and lime that sets hard when it is mixed with water. Cement is used in building to stick stones and bricks together and to make very hard surfaces.
 		;Use a mixture of one part cement to four parts sand.
 		;Wordfinder: cementconstructionfoundationgirderjoistmasonryplasterrubblescaffoldingsite
@@ -747,8 +715,7 @@ cement		<-->	nooun++C1[-0]	./sɪˈment/
 
 
 
-centigrade		<-->	nooun++C1[-0]	./ˈsentɪɡreɪd/
- /ˈsentɪɡreɪd/ [uncountable]
+[-] centigrade		<-->	noun++C1[-0]	./ˈsentɪɡreɪd/-NAmE /ˈsentɪɡreɪd/ [uncountable]
 	;thang bách phân -- (1) ​a scale of temperature in which water freezes at 0° and boils at 100°
 		;temperatures in centigrade and Fahrenheit
 		;TOPICS WeatherC1, Physics and chemistryC1
@@ -762,8 +729,7 @@ centigrade		<-->	nooun++C1[-0]	./ˈsentɪɡreɪd/
 
 
 
-centre of mass		<-->	nooun++C2[-0]	./ˌsentər əv ˈmæs/
- /ˌsentər əv ˈmæs/
+[-] centre of mass		<-->	noun++C2[-0]	./ˌsentər əv ˈmæs/-NAmE /ˌsentər əv ˈmæs/
 	;(US English center of mass) [usually singular] (plural centres of mass or centers of mass) (physics)
 	;trọng tâm -- (1) a point that represents the middle position of the matter in a body or system
 		;Keeping the centre of mass low improves stability.
@@ -780,8 +746,7 @@ centre of mass		<-->	nooun++C2[-0]	./ˌsentər əv ˈmæs/
 
 
 
-centripetal force		<-->	nooun++C2	[221027][001]	./ˌsentrɪˌpiːtl ˈfɔːs/,  /senˌtrɪpɪtl ˈfɔːs/
- /senˌtrɪpɪtl ˈfɔːrs/ (physics)
+[-] centripetal force		<-->	noun++C2	[221027][001]	./ˌsentrɪˌpiːtl ˈfɔːs/,  /senˌtrɪpɪtl ˈfɔːs/-NAmE /senˌtrɪpɪtl ˈfɔːrs/ (physics)
 	;lực hướng tâm -- (1)a force that acts on an object moving in a circle and that is directed towards the centre of the circle
 		;COMPARE centrifugal force
 		;TOPICS Physics and chemistryC2 
@@ -795,8 +760,7 @@ centripetal force		<-->	nooun++C2	[221027][001]	./ˌsentrɪˌpiːtl ˈfɔːs/,  
 
 
 
-chalk		<-->	nooun++C1[-0]	./tʃɔːk/
- /tʃɔːk/
+[-] chalk		<-->	noun++C1[-0]	./tʃɔːk/-NAmE /tʃɔːk/
 	;đá phấn -- (1) [uncountable] a type of soft white stone
 		;the chalk cliffs of southern England
 		;TOPICS Physics and chemistryC1
@@ -834,7 +798,7 @@ chalk		<-->	nooun++C1[-0]	./tʃɔːk/
 
 
 
-charcoal		<-->	nooun++C2[-0]	.
+[-] charcoal		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -847,7 +811,7 @@ charcoal		<-->	nooun++C2[-0]	.
 
 
 
-charge		<-->	nooun++C1[-0]	.
+[-] charge		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -860,7 +824,7 @@ charge		<-->	nooun++C1[-0]	.
 
 
 
-charge		<-->	verb++B1[-0]	.
+[-] charge		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -873,7 +837,7 @@ charge		<-->	verb++B1[-0]	.
 
 
 
-charged		<-->	adjective++C1[-0]	.
+[-] charged		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -886,7 +850,7 @@ charged		<-->	adjective++C1[-0]	.
 
 
 
-charger		<-->	nooun++B2[-0]	.
+[-] charger		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -899,7 +863,7 @@ charger		<-->	nooun++B2[-0]	.
 
 
 
-chemical		<-->	adjective++B1[-0]	.
+[-] chemical		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -912,7 +876,7 @@ chemical		<-->	adjective++B1[-0]	.
 
 
 
-chemical		<-->	nooun++B1[-0]	.
+[-] chemical		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -925,7 +889,7 @@ chemical		<-->	nooun++B1[-0]	.
 
 
 
-chemist		<-->	nooun++B1[-0]	.
+[-] chemist		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -938,7 +902,7 @@ chemist		<-->	nooun++B1[-0]	.
 
 
 
-chemistry		<-->	nooun++C1[-0]	.
+[-] chemistry		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -951,7 +915,7 @@ chemistry		<-->	nooun++C1[-0]	.
 
 
 
-chlorine		<-->	nooun++C2[-0]	.
+[-] chlorine		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -964,7 +928,7 @@ chlorine		<-->	nooun++C2[-0]	.
 
 
 
-chrome		<-->	nooun++C2[-0]	.
+[-] chrome		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -977,7 +941,7 @@ chrome		<-->	nooun++C2[-0]	.
 
 
 
-circulate		<-->	verb++C1[-0]	.
+[-] circulate		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -990,7 +954,7 @@ circulate		<-->	verb++C1[-0]	.
 
 
 
-cobalt		<-->	nooun++C2[-0]	.
+[-] cobalt		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1003,7 +967,7 @@ cobalt		<-->	nooun++C2[-0]	.
 
 
 
-composition		<-->	nooun++C1[-0]	.
+[-] composition		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1016,7 +980,7 @@ composition		<-->	nooun++C1[-0]	.
 
 
 
-compound		<-->	nooun++B2[-0]	.
+[-] compound		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1029,7 +993,7 @@ compound		<-->	nooun++B2[-0]	.
 
 
 
-compress		<-->	verb++C1[-0]	.
+[-] compress		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1042,7 +1006,7 @@ compress		<-->	verb++C1[-0]	.
 
 
 
-concrete		<-->	adjective++B2[-0]	.
+[-] concrete		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1055,7 +1019,7 @@ concrete		<-->	adjective++B2[-0]	.
 
 
 
-concrete		<-->	nooun++B2[-0]	.
+[-] concrete		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1068,7 +1032,7 @@ concrete		<-->	nooun++B2[-0]	.
 
 
 
-condense		<-->	verb++C2[-0]	.
+[-] condense		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1081,7 +1045,7 @@ condense		<-->	verb++C2[-0]	.
 
 
 
-conductive		<-->	adjective++C2[-0]	.
+[-] conductive		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1094,7 +1058,7 @@ conductive		<-->	adjective++C2[-0]	.
 
 
 
-conductivity		<-->	nooun++C2[-0]	.
+[-] conductivity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1107,7 +1071,7 @@ conductivity		<-->	nooun++C2[-0]	.
 
 
 
-conductor		<-->	nooun++C1[-0]	.
+[-] conductor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1120,7 +1084,7 @@ conductor		<-->	nooun++C1[-0]	.
 
 
 
-contract		<-->	verb++B2[-0]	.
+[-] contract		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1133,7 +1097,7 @@ contract		<-->	verb++B2[-0]	.
 
 
 
-copper		<-->	nooun++C1[-0]	.
+[-] copper		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1146,7 +1110,7 @@ copper		<-->	nooun++C1[-0]	.
 
 
 
-corrode		<-->	verb++C2[-0]	.
+[-] corrode		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1159,7 +1123,7 @@ corrode		<-->	verb++C2[-0]	.
 
 
 
-corrosion		<-->	nooun++C2[-0]	.
+[-] corrosion		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1172,7 +1136,7 @@ corrosion		<-->	nooun++C2[-0]	.
 
 
 
-covalent		<-->	adjective++C2[-0]	.
+[-] covalent		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1185,7 +1149,7 @@ covalent		<-->	adjective++C2[-0]	.
 
 
 
-crack		<-->	verb++B2[-0]	.
+[-] crack		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1198,7 +1162,7 @@ crack		<-->	verb++B2[-0]	.
 
 
 
-crystal		<-->	nooun++C1[-0]	.
+[-] crystal		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1211,7 +1175,7 @@ crystal		<-->	nooun++C1[-0]	.
 
 
 
-dark matter		<-->	nooun++C2[-0]	.
+[-] dark matter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1224,7 +1188,7 @@ dark matter		<-->	nooun++C2[-0]	.
 
 
 
-deactivate		<-->	verb++C2[-0]	.
+[-] deactivate		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1237,7 +1201,7 @@ deactivate		<-->	verb++C2[-0]	.
 
 
 
-decay		<-->	nooun++C2[-0]	.
+[-] decay		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1250,7 +1214,7 @@ decay		<-->	nooun++C2[-0]	.
 
 
 
-density		<-->	nooun++C1[-0]	.
+[-] density		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1263,7 +1227,7 @@ density		<-->	nooun++C1[-0]	.
 
 
 
-depleted uranium		<-->	nooun++C2[-0]	.
+[-] depleted uranium		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1276,7 +1240,7 @@ depleted uranium		<-->	nooun++C2[-0]	.
 
 
 
-detergent		<-->	nooun++C2[-0]	.
+[-] detergent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1289,7 +1253,7 @@ detergent		<-->	nooun++C2[-0]	.
 
 
 
-dissolve		<-->	verb++C1[-0]	.
+[-] dissolve		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1302,7 +1266,7 @@ dissolve		<-->	verb++C1[-0]	.
 
 
 
-distil		<-->	verb++C2[-0]	.
+[-] distil		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1315,7 +1279,7 @@ distil		<-->	verb++C2[-0]	.
 
 
 
-ductile		<-->	adjective++C2[-0]	.
+[-] ductile		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1328,7 +1292,7 @@ ductile		<-->	adjective++C2[-0]	.
 
 
 
-dynamic		<-->	nooun++C2[-0]	.
+[-] dynamic		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1341,7 +1305,7 @@ dynamic		<-->	nooun++C2[-0]	.
 
 
 
-dynamite		<-->	nooun++C1[-0]	.
+[-] dynamite		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1354,7 +1318,7 @@ dynamite		<-->	nooun++C1[-0]	.
 
 
 
-effort		<-->	nooun++C2[-0]	.
+[-] effort		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1367,7 +1331,7 @@ effort		<-->	nooun++C2[-0]	.
 
 
 
-electric		<-->	adjective++A2[-0]	.
+[-] electric		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1380,7 +1344,7 @@ electric		<-->	adjective++A2[-0]	.
 
 
 
-electrical		<-->	adjective++A2[-0]	.
+[-] electrical		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1393,7 +1357,7 @@ electrical		<-->	adjective++A2[-0]	.
 
 
 
-electricity		<-->	nooun++A2[-0]	.
+[-] electricity		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1406,7 +1370,7 @@ electricity		<-->	nooun++A2[-0]	.
 
 
 
-electromagnetic		<-->	adjective++C2[-0]	.
+[-] electromagnetic		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1419,7 +1383,7 @@ electromagnetic		<-->	adjective++C2[-0]	.
 
 
 
-electromagnetism		<-->	nooun++C2[-0]	.
+[-] electromagnetism		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1432,7 +1396,7 @@ electromagnetism		<-->	nooun++C2[-0]	.
 
 
 
-electron		<-->	nooun++C1[-0]	.
+[-] electron		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1445,7 +1409,7 @@ electron		<-->	nooun++C1[-0]	.
 
 
 
-element		<-->	nooun++B2[-0]	.
+[-] element		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1458,7 +1422,7 @@ element		<-->	nooun++B2[-0]	.
 
 
 
-elementary particle		<-->	nooun++C2[-0]	.
+[-] elementary particle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1471,7 +1435,7 @@ elementary particle		<-->	nooun++C2[-0]	.
 
 
 
-emission		<-->	nooun++B2[-0]	.
+[-] emission		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1484,7 +1448,7 @@ emission		<-->	nooun++B2[-0]	.
 
 
 
-emit		<-->	verb++C1[-0]	.
+[-] emit		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1497,7 +1461,7 @@ emit		<-->	verb++C1[-0]	.
 
 
 
-energy		<-->	nooun++C1[-0]	.
+[-] energy		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1510,7 +1474,7 @@ energy		<-->	nooun++C1[-0]	.
 
 
 
-entropy		<-->	nooun++C2[-0]	.
+[-] entropy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1523,7 +1487,7 @@ entropy		<-->	nooun++C2[-0]	.
 
 
 
-evaporate		<-->	verb++C1[-0]	.
+[-] evaporate		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1536,7 +1500,7 @@ evaporate		<-->	verb++C1[-0]	.
 
 
 
-evaporation		<-->	nooun++C1[-0]	.
+[-] evaporation		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1549,7 +1513,7 @@ evaporation		<-->	nooun++C1[-0]	.
 
 
 
-expand		<-->	verb++B1[-0]	.
+[-] expand		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1562,7 +1526,7 @@ expand		<-->	verb++B1[-0]	.
 
 
 
-expansivity		<-->	nooun++C2[-0]	.
+[-] expansivity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1575,7 +1539,7 @@ expansivity		<-->	nooun++C2[-0]	.
 
 
 
-fabric		<-->	nooun++B2[-0]	.
+[-] fabric		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1588,7 +1552,7 @@ fabric		<-->	nooun++B2[-0]	.
 
 
 
-Fahrenheit		<-->	nooun++C1[-0]	.
+[-] fahrenheit		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1601,7 +1565,7 @@ Fahrenheit		<-->	nooun++C1[-0]	.
 
 
 
-fibre		<-->	nooun++C1[-0]	.
+[-] fibre		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1614,7 +1578,7 @@ fibre		<-->	nooun++C1[-0]	.
 
 
 
-fibreboard		<-->	nooun++C2[-0]	.
+[-] fibreboard		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1627,7 +1591,7 @@ fibreboard		<-->	nooun++C2[-0]	.
 
 
 
-fibreglass		<-->	nooun++C2[-0]	.
+[-] fibreglass		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1640,7 +1604,7 @@ fibreglass		<-->	nooun++C2[-0]	.
 
 
 
-field		<-->	nooun++B2[-0]	.
+[-] field		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1653,7 +1617,7 @@ field		<-->	nooun++B2[-0]	.
 
 
 
-filtrate		<-->	nooun++C2[-0]	.
+[-] filtrate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1666,7 +1630,7 @@ filtrate		<-->	nooun++C2[-0]	.
 
 
 
-fissile		<-->	adjective++C2[-0]	.
+[-] fissile		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1679,8 +1643,7 @@ fissile		<-->	adjective++C2[-0]	.
 
 
 
-fission		<-->	nooun++C2	[221027][001]	./ˈfɪʃn/
- /ˈfɪʃn/ [uncountable]
+[-] fission		<-->	noun++C2	[221027][001]	./ˈfɪʃn/-NAmE /ˈfɪʃn/ [uncountable]
 	;sự phân hạch -- (1) ​(also nuclear fission) (physics) the act or process of splitting the nucleus (= central part) of an atom, when a large amount of energy is released
 		;COMPARE fusion
 		;Wordfinder: amplitudeatomenergyfissionforcefrequencygravitymoleculenuclearphysics
@@ -1697,7 +1660,7 @@ fission		<-->	nooun++C2	[221027][001]	./ˈfɪʃn/
 
 
 
-flameproof		<-->	adjective++C2[-0]	.
+[-] flameproof		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1710,7 +1673,7 @@ flameproof		<-->	adjective++C2[-0]	.
 
 
 
-flexible		<-->	adjective++B2[-0]	.
+[-] flexible		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1723,7 +1686,7 @@ flexible		<-->	adjective++B2[-0]	.
 
 
 
-fluoride		<-->	nooun++C2[-0]	.
+[-] fluoride		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1736,7 +1699,7 @@ fluoride		<-->	nooun++C2[-0]	.
 
 
 
-force		<-->	nooun++B1[-0]	.
+[-] force		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1749,7 +1712,7 @@ force		<-->	nooun++B1[-0]	.
 
 
 
-freezing point		<-->	nooun++B2[-0]	.
+[-] freezing point		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1762,7 +1725,7 @@ freezing point		<-->	nooun++B2[-0]	.
 
 
 
-frequency		<-->	nooun++C1[-0]	.
+[-] frequency		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1775,7 +1738,7 @@ frequency		<-->	nooun++C1[-0]	.
 
 
 
-friction		<-->	nooun++C2[-0]	.
+[-] friction		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1788,7 +1751,7 @@ friction		<-->	nooun++C2[-0]	.
 
 
 
-fundamental force		<-->	nooun++C2[-0]	.
+[-] fundamental force		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1801,7 +1764,7 @@ fundamental force		<-->	nooun++C2[-0]	.
 
 
 
-fundamental particle		<-->	nooun++C2[-0]	.
+[-] fundamental particle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1814,7 +1777,7 @@ fundamental particle		<-->	nooun++C2[-0]	.
 
 
 
-fusion		<-->	nooun++C1[-0]	.
+[-] fusion		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1827,7 +1790,7 @@ fusion		<-->	nooun++C1[-0]	.
 
 
 
-gamma radiation		<-->	nooun++C2[-0]	.
+[-] gamma radiation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1840,7 +1803,7 @@ gamma radiation		<-->	nooun++C2[-0]	.
 
 
 
-gas		<-->	nooun++A2[-0]	.
+[-] gas		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1853,7 +1816,7 @@ gas		<-->	nooun++A2[-0]	.
 
 
 
-gelignite		<-->	nooun++C2[-0]	.
+[-] gelignite		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1866,7 +1829,7 @@ gelignite		<-->	nooun++C2[-0]	.
 
 
 
-glucose		<-->	nooun++C1[-0]	.
+[-] glucose		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1879,7 +1842,7 @@ glucose		<-->	nooun++C1[-0]	.
 
 
 
-gold		<-->	nooun++A2[-0]	.
+[-] gold		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1892,7 +1855,7 @@ gold		<-->	nooun++A2[-0]	.
 
 
 
-graphite		<-->	nooun++C1[-0]	.
+[-] graphite		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1905,7 +1868,7 @@ graphite		<-->	nooun++C1[-0]	.
 
 
 
-gravitation		<-->	nooun++C2[-0]	.
+[-] gravitation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1918,7 +1881,7 @@ gravitation		<-->	nooun++C2[-0]	.
 
 
 
-gravitational		<-->	adjective++C2[-0]	.
+[-] gravitational		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1931,7 +1894,7 @@ gravitational		<-->	adjective++C2[-0]	.
 
 
 
-gravitational wave		<-->	nooun++C2[-0]	.
+[-] gravitational wave		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1944,7 +1907,7 @@ gravitational wave		<-->	nooun++C2[-0]	.
 
 
 
-gravity		<-->	nooun++C1[-0]	.
+[-] gravity		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1957,7 +1920,7 @@ gravity		<-->	nooun++C1[-0]	.
 
 
 
-gunpowder		<-->	nooun++C1[-0]	.
+[-] gunpowder		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1970,7 +1933,7 @@ gunpowder		<-->	nooun++C1[-0]	.
 
 
 
-heat		<-->	nooun++A2[-0]	.
+[-] heat		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1983,7 +1946,7 @@ heat		<-->	nooun++A2[-0]	.
 
 
 
-heavy		<-->	adjective++B2[-0]	.
+[-] heavy		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1996,7 +1959,7 @@ heavy		<-->	adjective++B2[-0]	.
 
 
 
-helium		<-->	nooun++C1[-0]	.
+[-] helium		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2009,7 +1972,7 @@ helium		<-->	nooun++C1[-0]	.
 
 
 
-hydroelectric		<-->	adjective++B2[-0]	.
+[-] hydroelectric		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2022,7 +1985,7 @@ hydroelectric		<-->	adjective++B2[-0]	.
 
 
 
-hydrogen		<-->	nooun++C1[-0]	.
+[-] hydrogen		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2035,7 +1998,7 @@ hydrogen		<-->	nooun++C1[-0]	.
 
 
 
-incident		<-->	adjective++C2[-0]	.
+[-] incident		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2048,7 +2011,7 @@ incident		<-->	adjective++C2[-0]	.
 
 
 
-induction		<-->	nooun++C2[-0]	.
+[-] induction		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2061,8 +2024,7 @@ induction		<-->	nooun++C2[-0]	.
 
 
 
-inertia		<-->	nooun++C2	[221027][001]	./ɪˈnɜːʃə/
- /ɪˈnɜːrʃə/ [uncountable]
+[-] inertia		<-->	noun++C2	[221027][001]	./ɪˈnɜːʃə/-NAmE /ɪˈnɜːrʃə/ [uncountable]
 	;quán tính, sức ì -- (1) (usually disapproving) lack of energy; lack of desire or ability to move or change
 		;I can't seem to throw off this feeling of inertia.
 		;the forces of institutional inertia in the school system
@@ -2092,7 +2054,7 @@ inertia		<-->	nooun++C2	[221027][001]	./ɪˈnɜːʃə/
 
 
 
-infrared		<-->	adjective++C2[-0]	.
+[-] infrared		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2105,7 +2067,7 @@ infrared		<-->	adjective++C2[-0]	.
 
 
 
-inorganic		<-->	adjective++C2[-0]	.
+[-] inorganic		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2118,7 +2080,7 @@ inorganic		<-->	adjective++C2[-0]	.
 
 
 
-insoluble		<-->	adjective++C2[-0]	.
+[-] insoluble		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2131,7 +2093,7 @@ insoluble		<-->	adjective++C2[-0]	.
 
 
 
-insulated		<-->	adjective++C1[-0]	.
+[-] insulated		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2144,7 +2106,7 @@ insulated		<-->	adjective++C1[-0]	.
 
 
 
-insulating		<-->	adjective++C2[-0]	.
+[-] insulating		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2157,7 +2119,7 @@ insulating		<-->	adjective++C2[-0]	.
 
 
 
-interference		<-->	nooun++C2[-0]	.
+[-] interference		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2170,7 +2132,7 @@ interference		<-->	nooun++C2[-0]	.
 
 
 
-iodine		<-->	nooun++C2[-0]	.
+[-] iodine		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2183,7 +2145,7 @@ iodine		<-->	nooun++C2[-0]	.
 
 
 
-ion		<-->	nooun++C2[-0]	.
+[-] ion		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2196,7 +2158,7 @@ ion		<-->	nooun++C2[-0]	.
 
 
 
-ionic		<-->	adjective++C2[-0]	.
+[-] ionic		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2209,7 +2171,7 @@ ionic		<-->	adjective++C2[-0]	.
 
 
 
-iron		<-->	nooun++B1[-0]	.
+[-] iron		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2222,7 +2184,7 @@ iron		<-->	nooun++B1[-0]	.
 
 
 
-isotope		<-->	nooun++C2[-0]	.
+[-] isotope		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2235,8 +2197,7 @@ isotope		<-->	nooun++C2[-0]	.
 
 
 
-kinetic		<-->	adjective++C2	[221027][001]	./kɪˈnetɪk/,  /kaɪˈnetɪk/
- /kɪˈnetɪk/,  /kaɪˈnetɪk/ [usually before noun] (specialist)
+kinetic		<-->	adjective++C2	[221027][001]	./kɪˈnetɪk/,  /kaɪˈnetɪk/-NAmE /kɪˈnetɪk/,  /kaɪˈnetɪk/ [usually before noun] (specialist)
 	;động (năng) -- (1) of or produced by movement
 		;kinetic energy
 		;TOPICS Physics and chemistryC2
@@ -2254,7 +2215,7 @@ kinetic		<-->	adjective++C2	[221027][001]	./kɪˈnetɪk/,  /kaɪˈnetɪk/
 
 
 
-laser		<-->	nooun++C1[-0]	.
+laser		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2267,7 +2228,7 @@ laser		<-->	nooun++C1[-0]	.
 
 
 
-lead		<-->	nooun++C1[-0]	.
+lead		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2280,7 +2241,7 @@ lead		<-->	nooun++C1[-0]	.
 
 
 
-light		<-->	nooun++A1[-0]	.
+light		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2319,7 +2280,7 @@ lightweight		<-->	adjective++C1[-0]	.
 
 
 
-liquid		<-->	nooun++B1[-0]	.
+liquid		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2332,7 +2293,7 @@ liquid		<-->	nooun++B1[-0]	.
 
 
 
-lithium		<-->	nooun++C2[-0]	.
+lithium		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2345,7 +2306,7 @@ lithium		<-->	nooun++C2[-0]	.
 
 
 
-magnesium		<-->	nooun++C2[-0]	.
+magnesium		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2358,8 +2319,7 @@ magnesium		<-->	nooun++C2[-0]	.
 
 
 
-magnet		<-->	nooun++C1	[221027][001]	./ˈmæɡnət/
- /ˈmæɡnət/
+magnet		<-->	noun++C1	[221027][001]	./ˈmæɡnət/-NAmE /ˈmæɡnət/
 	;cục nam châm -- (1) a piece of iron that attracts objects made of iron towards it, either naturally or because of an electric current that is passed through it
 		;TOPICS Physics and chemistryC1
 				;Oxford Collocations Dictionary
@@ -2396,7 +2356,7 @@ magnetic		<-->	adjective++C1	[221027][001]	./cefr/
 
 
 
-magnetism		<-->	nooun++C1[-0]	.
+magnetism		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2409,9 +2369,8 @@ magnetism		<-->	nooun++C1[-0]	.
 
 
 
-magnetize		<-->	verb++C2	[221027][001]	./ˈmæɡnətɪzəm/
- /ˈmæɡnətɪzəm/ [uncountable]
-	; -- (1) ​a physical property (= characteristic) of some metals such as iron, produced by electric currents, that causes forces between objects, either pulling them towards each other or pushing them apart
+magnetize		<-->	verb++C2	[221027][002]	./ˈmæɡnətɪzəm/-NAmE /ˈmæɡnətɪzəm/ [uncountable]
+	;từ hoá -- (1) ​a physical property (= characteristic) of some metals such as iron, produced by electric currents, that causes forces between objects, either pulling them towards each other or pushing them apart
 		;The magnetism produced by the battery attracts the metal.
 		;changes in the earth's magnetism
 		;TOPICS Physics and chemistryC1
@@ -2437,7 +2396,7 @@ magnetize		<-->	verb++C2	[221027][001]	./ˈmæɡnətɪzəm/
 
 
 
-mass		<-->	nooun++C1[-0]	.
+mass		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2450,7 +2409,7 @@ mass		<-->	nooun++C1[-0]	.
 
 
 
-material		<-->	nooun++A2[-0]	.
+material		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2463,7 +2422,7 @@ material		<-->	nooun++A2[-0]	.
 
 
 
-matter		<-->	nooun++B2[-0]	.
+matter		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2476,7 +2435,7 @@ matter		<-->	nooun++B2[-0]	.
 
 
 
-mechanic		<-->	nooun++C1[-0]	.
+mechanic		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2502,7 +2461,7 @@ mechanical		<-->	adjective++C1[-0]	.
 
 
 
-melamine		<-->	nooun++C2[-0]	.
+melamine		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2528,7 +2487,7 @@ melt		<-->	verb++B2[-0]	.
 
 
 
-mercury		<-->	nooun++C2[-0]	.
+mercury		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2541,7 +2500,7 @@ mercury		<-->	nooun++C2[-0]	.
 
 
 
-metal		<-->	nooun++A2[-0]	.
+metal		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2567,7 +2526,7 @@ metallic		<-->	adjective++C2[-0]	.
 
 
 
-microwave		<-->	nooun++C1[-0]	.
+microwave		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2580,7 +2539,7 @@ microwave		<-->	nooun++C1[-0]	.
 
 
 
-mineral		<-->	nooun++B2[-0]	.
+mineral		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2593,8 +2552,7 @@ mineral		<-->	nooun++B2[-0]	.
 
 
 
-mole		<-->	nooun++C2	[221027][001]	./məʊl/
- /məʊl/
+mole		<-->	noun++C2	[221027][001]	./məʊl/-NAmE /məʊl/
 	;chuột chuỗi -- (1) a small animal with dark grey fur, that is almost blind and digs tunnels under the ground to live in
 		;SEE ALSO molehill
 		;TOPICS AnimalsC2
@@ -2622,8 +2580,7 @@ mole		<-->	nooun++C2	[221027][001]	./məʊl/
 
 
 
-molecular		<-->	adjective++C1	[221027][001]	./məˈlekjələ(r)/
- /məˈlekjələr/ [only before noun] (chemistry)
+molecular		<-->	adjective++C1	[221027][001]	./məˈlekjələ(r)/-NAmE /məˈlekjələr/ [only before noun] (chemistry)
 	;r. phân tử -- (1) relating to molecules (= groups of atoms that cannot be divided without a change in the chemical nature of the substance they are part of)
 		;molecular structure/biology
 		;TOPICS Physics and chemistryC1
@@ -2637,8 +2594,7 @@ molecular		<-->	adjective++C1	[221027][001]	./məˈlekjələ(r)/
 
 
 
-molecule		<-->	nooun++B2	[221027][001]	./ˈmɒlɪkjuːl/
- /ˈmɑːlɪkjuːl/ (chemistry)
+molecule		<-->	noun++B2	[221027][001]	./ˈmɒlɪkjuːl/-NAmE /ˈmɑːlɪkjuːl/ (chemistry)
 	;phân tử -- (1) a group of atoms that forms the smallest unit that a substance can be divided into without a change in its chemical nature
 		;A molecule of water consists of two atoms of hydrogen and one atom of oxygen.
 		;Wordfinder: acidcatalystchemistrycompoundformulamoleculepHreactsolutionvalency
@@ -2670,7 +2626,7 @@ molecule		<-->	nooun++B2	[221027][001]	./ˈmɒlɪkjuːl/
 
 
 
-momentum		<-->	nooun++C2	[221027][001]	./cefr/
+momentum		<-->	noun++C2	[221027][001]	./cefr/
 
 
 
@@ -2680,7 +2636,7 @@ momentum		<-->	nooun++C2	[221027][001]	./cefr/
 
 
 
-motion		<-->	nooun++B2	[221027][001]	./cefr/
+motion		<-->	noun++B2	[221027][001]	./cefr/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2706,7 +2662,7 @@ nanotechnological		<-->	adjective++C2[-0]	.
 
 
 
-nanotechnology		<-->	nooun++C1[-0]	.
+nanotechnology		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2719,7 +2675,7 @@ nanotechnology		<-->	nooun++C1[-0]	.
 
 
 
-neon		<-->	nooun++C1[-0]	.
+neon		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2732,7 +2688,7 @@ neon		<-->	nooun++C1[-0]	.
 
 
 
-neutron		<-->	nooun++C2[-0]	.
+neutron		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2745,7 +2701,7 @@ neutron		<-->	nooun++C2[-0]	.
 
 
 
-nickel		<-->	nooun++C2[-0]	.
+nickel		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2758,7 +2714,7 @@ nickel		<-->	nooun++C2[-0]	.
 
 
 
-nitrogen		<-->	nooun++C1[-0]	.
+nitrogen		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2784,7 +2740,7 @@ nuclear		<-->	adjective++B1[-0]	.
 
 
 
-nuclear energy		<-->	nooun++B1[-0]	.
+nuclear energy		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2797,7 +2753,7 @@ nuclear energy		<-->	nooun++B1[-0]	.
 
 
 
-nuclear fission		<-->	nooun++C2[-0]	.
+nuclear fission		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2810,7 +2766,7 @@ nuclear fission		<-->	nooun++C2[-0]	.
 
 
 
-nuclear fusion		<-->	nooun++C1[-0]	.
+nuclear fusion		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2823,7 +2779,7 @@ nuclear fusion		<-->	nooun++C1[-0]	.
 
 
 
-nuclear physics		<-->	nooun++B2[-0]	.
+nuclear physics		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2836,7 +2792,7 @@ nuclear physics		<-->	nooun++B2[-0]	.
 
 
 
-nuclear power		<-->	nooun++B1[-0]	.
+nuclear power		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2849,7 +2805,7 @@ nuclear power		<-->	nooun++B1[-0]	.
 
 
 
-nuclear reactor		<-->	nooun++C1[-0]	.
+nuclear reactor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2862,7 +2818,7 @@ nuclear reactor		<-->	nooun++C1[-0]	.
 
 
 
-nucleus		<-->	nooun++C1[-0]	.
+nucleus		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2875,7 +2831,7 @@ nucleus		<-->	nooun++C1[-0]	.
 
 
 
-nylon		<-->	nooun++C1[-0]	.
+nylon		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2888,7 +2844,7 @@ nylon		<-->	nooun++C1[-0]	.
 
 
 
-ore		<-->	nooun++C2[-0]	.
+ore		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2927,7 +2883,7 @@ oscillate		<-->	verb++C2[-0]	.
 
 
 
-oxygen		<-->	nooun++B2[-0]	.
+oxygen		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2940,7 +2896,7 @@ oxygen		<-->	nooun++B2[-0]	.
 
 
 
-ozone		<-->	nooun++C1[-0]	.
+ozone		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2953,7 +2909,7 @@ ozone		<-->	nooun++C1[-0]	.
 
 
 
-particle		<-->	nooun++C1[-0]	.
+particle		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2966,7 +2922,7 @@ particle		<-->	nooun++C1[-0]	.
 
 
 
-paving stone		<-->	nooun++C2[-0]	.
+paving stone		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2979,7 +2935,7 @@ paving stone		<-->	nooun++C2[-0]	.
 
 
 
-Perspex™		<-->	nooun++C2[-0]	.
+Perspex™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2992,7 +2948,7 @@ Perspex™		<-->	nooun++C2[-0]	.
 
 
 
-petrol		<-->	nooun++A2[-0]	.
+petrol		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3005,7 +2961,7 @@ petrol		<-->	nooun++A2[-0]	.
 
 
 
-petroleum		<-->	nooun++C1[-0]	.
+petroleum		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3018,7 +2974,7 @@ petroleum		<-->	nooun++C1[-0]	.
 
 
 
-pH		<-->	nooun++C2[-0]	.
+pH		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3031,7 +2987,7 @@ pH		<-->	nooun++C2[-0]	.
 
 
 
-photon		<-->	nooun++C2[-0]	.
+photon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3057,7 +3013,7 @@ physical		<-->	adjective++B2[-0]	.
 
 
 
-physicist		<-->	nooun++B1[-0]	.
+physicist		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3070,7 +3026,7 @@ physicist		<-->	nooun++B1[-0]	.
 
 
 
-physics		<-->	nooun++A2[-0]	.
+physics		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3083,7 +3039,7 @@ physics		<-->	nooun++A2[-0]	.
 
 
 
-plasma		<-->	nooun++C2[-0]	.
+plasma		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3096,7 +3052,7 @@ plasma		<-->	nooun++C2[-0]	.
 
 
 
-plastic		<-->	nooun++A2[-0]	.
+plastic		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3122,7 +3078,7 @@ plastic		<-->	adjective++A2[-0]	.
 
 
 
-platinum		<-->	nooun++C2[-0]	.
+platinum		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3135,7 +3091,7 @@ platinum		<-->	nooun++C2[-0]	.
 
 
 
-plutonium		<-->	nooun++C2[-0]	.
+plutonium		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3148,7 +3104,7 @@ plutonium		<-->	nooun++C2[-0]	.
 
 
 
-pole		<-->	nooun++C2[-0]	.
+pole		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3161,7 +3117,7 @@ pole		<-->	nooun++C2[-0]	.
 
 
 
-polyester		<-->	nooun++C2[-0]	.
+polyester		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3174,7 +3130,7 @@ polyester		<-->	nooun++C2[-0]	.
 
 
 
-polythene		<-->	nooun++C2[-0]	.
+polythene		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3187,7 +3143,7 @@ polythene		<-->	nooun++C2[-0]	.
 
 
 
-polyurethane		<-->	nooun++C2[-0]	.
+polyurethane		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3200,7 +3156,7 @@ polyurethane		<-->	nooun++C2[-0]	.
 
 
 
-potassium		<-->	nooun++C2[-0]	.
+potassium		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3213,8 +3169,7 @@ potassium		<-->	nooun++C2[-0]	.
 
 
 
-potential energy		<-->	nooun++C2	[221027][001]	./pəˌtenʃl ˈenədʒi/
- /pəˌtenʃl ˈenərdʒi/ [uncountable] (physics)
+potential energy		<-->	noun++C2	[221027][001]	./pəˌtenʃl ˈenədʒi/-NAmE /pəˌtenʃl ˈenərdʒi/ [uncountable] (physics)
 	;thế năng -- (1) the form of energy that an object gains as it is lifted
 		;TOPICS Physics and chemistryC2
 
@@ -3227,7 +3182,7 @@ potential energy		<-->	nooun++C2	[221027][001]	./pəˌtenʃl ˈenədʒi/
 
 
 
-precipitate		<-->	nooun++C2[-0]	.
+precipitate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3240,7 +3195,7 @@ precipitate		<-->	nooun++C2[-0]	.
 
 
 
-pressure		<-->	nooun++B2[-0]	.
+pressure		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3253,7 +3208,7 @@ pressure		<-->	nooun++B2[-0]	.
 
 
 
-product		<-->	nooun++B2[-0]	.
+product		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3279,7 +3234,7 @@ proof		<-->	adjective++B2[-0]	.
 
 
 
-property		<-->	nooun++C1[-0]	.
+property		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3292,7 +3247,7 @@ property		<-->	nooun++C1[-0]	.
 
 
 
-proton		<-->	nooun++C2[-0]	.
+proton		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3305,7 +3260,7 @@ proton		<-->	nooun++C2[-0]	.
 
 
 
-pull		<-->	nooun++B1[-0]	.
+pull		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3318,7 +3273,7 @@ pull		<-->	nooun++B1[-0]	.
 
 
 
-PVC		<-->	nooun++C2[-0]	.
+PVC		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3331,7 +3286,7 @@ PVC		<-->	nooun++C2[-0]	.
 
 
 
-quark		<-->	nooun++C2[-0]	.
+quark		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3357,7 +3312,7 @@ radiate		<-->	verb++C1[-0]	.
 
 
 
-radiation		<-->	nooun++B2[-0]	.
+radiation		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3383,7 +3338,7 @@ radioactive		<-->	adjective++C1[-0]	.
 
 
 
-radioactivity		<-->	nooun++C1[-0]	.
+radioactivity		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3396,7 +3351,7 @@ radioactivity		<-->	nooun++C1[-0]	.
 
 
 
-radium		<-->	nooun++C2[-0]	.
+radium		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3409,7 +3364,7 @@ radium		<-->	nooun++C2[-0]	.
 
 
 
-raw material		<-->	nooun++C1[-0]	.
+raw material		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3422,7 +3377,7 @@ raw material		<-->	nooun++C1[-0]	.
 
 
 
-ray		<-->	nooun++C1[-0]	.
+ray		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3435,7 +3390,7 @@ ray		<-->	nooun++C1[-0]	.
 
 
 
-rayon		<-->	nooun++C2[-0]	.
+rayon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3461,7 +3416,7 @@ react		<-->	verb++B2[-0]	.
 
 
 
-reaction		<-->	nooun++B1[-0]	.
+reaction		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3474,7 +3429,7 @@ reaction		<-->	nooun++B1[-0]	.
 
 
 
-reactor		<-->	nooun++C1[-0]	.
+reactor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3500,7 +3455,7 @@ reflect		<-->	verb++B1[-0]	.
 
 
 
-reflectivity		<-->	nooun++C2[-0]	.
+reflectivity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3526,7 +3481,7 @@ refract		<-->	verb++C2[-0]	.
 
 
 
-refraction		<-->	nooun++C2[-0]	.
+refraction		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3539,7 +3494,7 @@ refraction		<-->	nooun++C2[-0]	.
 
 
 
-refractive index		<-->	nooun++C2[-0]	.
+refractive index		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3578,7 +3533,7 @@ resilient		<-->	adjective++C2[-0]	.
 
 
 
-resin		<-->	nooun++C2[-0]	.
+resin		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3591,7 +3546,7 @@ resin		<-->	nooun++C2[-0]	.
 
 
 
-resistance		<-->	nooun++C2[-0]	.
+resistance		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3617,7 +3572,7 @@ rigid		<-->	adjective++C1[-0]	.
 
 
 
-RNA		<-->	nooun++C2[-0]	.
+RNA		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3630,7 +3585,7 @@ RNA		<-->	nooun++C2[-0]	.
 
 
 
-salt		<-->	nooun++C1[-0]	.
+salt		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3643,7 +3598,7 @@ salt		<-->	nooun++C1[-0]	.
 
 
 
-sand		<-->	nooun++B1[-0]	.
+sand		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3686,7 +3641,7 @@ shatter		<-->	verb++C1	[221027][001]	./ˈʃætə(r)/-NAmE /ˈʃætər/
 
 
  
-sheet		<-->	nooun++B1[-0]	.
+sheet		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3699,7 +3654,7 @@ sheet		<-->	nooun++B1[-0]	.
 
 
 
-silicon		<-->	nooun++C1[-0]	.
+silicon		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3712,7 +3667,7 @@ silicon		<-->	nooun++C1[-0]	.
 
 
 
-silver		<-->	nooun++A2[-0]	.
+silver		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3725,7 +3680,7 @@ silver		<-->	nooun++A2[-0]	.
 
 
 
-sodium		<-->	nooun++C1[-0]	.
+sodium		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3751,7 +3706,7 @@ solar		<-->	adjective++B2[-0]	.
 
 
 
-solid		<-->	nooun++B1[-0]	.
+solid		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3790,8 +3745,7 @@ soluble		<-->	adjective++C2[-0]	.
 
 
 
-solute		<-->	nooun++C2	[221027][001]	./ˈsɒljuːt/,  /sɒˈljuːt/
- /ˈsɑːljuːt/ (chemistry)
+solute		<-->	noun++C2	[221027][001]	./ˈsɒljuːt/,  /sɒˈljuːt/-NAmE /ˈsɑːljuːt/ (chemistry)
 	;chất tan -- == (1) a substance that has been dissolved in a liquid (= made to become part of the liquid) so that together they form a solution
 		;TOPICS Physics and chemistryC2
 
@@ -3802,7 +3756,7 @@ solute		<-->	nooun++C2	[221027][001]	./ˈsɒljuːt/,  /sɒˈljuːt/
 
 
 
-solution		<-->	nooun++B2[-0]	.
+solution		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3815,7 +3769,7 @@ solution		<-->	nooun++B2[-0]	.
 
 
 
-solvent		<-->	nooun++C2[-0]	.
+solvent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3828,7 +3782,7 @@ solvent		<-->	nooun++C2[-0]	.
 
 
 
-spectrum		<-->	nooun++C1[-0]	.
+spectrum		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3854,7 +3808,7 @@ static		<-->	adjective++C2[-0]	.
 
 
 
-static		<-->	nooun++C2[-0]	.
+static		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3867,7 +3821,7 @@ static		<-->	nooun++C2[-0]	.
 
 
 
-the periodic table		<-->	nooun++C2[-0]	.
+the periodic table		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3880,7 +3834,7 @@ the periodic table		<-->	nooun++C2[-0]	.
 
 
 
-steel		<-->	nooun++B2[-0]	.
+steel		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3906,7 +3860,7 @@ stick		<-->	verb++B1[-0]	.
 
 
 
-stone		<-->	nooun++A2[-0]	.
+stone		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3919,7 +3873,7 @@ stone		<-->	nooun++A2[-0]	.
 
 
 
-strain		<-->	nooun++C1[-0]	.
+strain		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3932,7 +3886,7 @@ strain		<-->	nooun++C1[-0]	.
 
 
 
-stress		<-->	nooun++B2[-0]	.
+stress		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3958,7 +3912,7 @@ stretch		<-->	verb++B2[-0]	.
 
 
 
-strong force		<-->	nooun++C2[-0]	.
+strong force		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3971,7 +3925,7 @@ strong force		<-->	nooun++C2[-0]	.
 
 
 
-substance		<-->	nooun++B1[-0]	.
+substance		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3984,7 +3938,7 @@ substance		<-->	nooun++B1[-0]	.
 
 
 
-sulphite		<-->	nooun++C2[-0]	.
+sulphite		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3997,7 +3951,7 @@ sulphite		<-->	nooun++C2[-0]	.
 
 
 
-sulphur		<-->	nooun++C2[-0]	.
+sulphur		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4023,7 +3977,7 @@ sulphurous		<-->	adjective++C2[-0]	.
 
 
 
-sun		<-->	nooun++A1[-0]	.
+sun		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4036,7 +3990,7 @@ sun		<-->	nooun++A1[-0]	.
 
 
 
-suspension		<-->	nooun++C2[-0]	.
+suspension		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4049,7 +4003,7 @@ suspension		<-->	nooun++C2[-0]	.
 
 
 
-synthesis		<-->	nooun++C1[-0]	.
+synthesis		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4101,7 +4055,7 @@ tensile		<-->	adjective++C2[-0]	.
 
 
 
-terminal velocity		<-->	nooun++C2[-0]	.
+terminal velocity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4127,7 +4081,7 @@ thermal		<-->	adjective++C1[-0]	.
 
 
 
-thermoplastic		<-->	nooun++C2[-0]	.
+thermoplastic		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4166,7 +4120,7 @@ thermostatically		<-->	adverb++C2[-0]	.
 
 
 
-tin		<-->	nooun++B2[-0]	.
+tin		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4179,7 +4133,7 @@ tin		<-->	nooun++B2[-0]	.
 
 
 
-titanium		<-->	nooun++C2[-0]	.
+titanium		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4218,7 +4172,7 @@ ultraviolet		<-->	adjective++C2[-0]	.
 
 
 
-uranium		<-->	nooun++C1[-0]	.
+uranium		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4231,7 +4185,7 @@ uranium		<-->	nooun++C1[-0]	.
 
 
 
-vacuum		<-->	nooun++C1[-0]	.
+vacuum		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4244,7 +4198,7 @@ vacuum		<-->	nooun++C1[-0]	.
 
 
 
-vapor		<-->	nooun++C1[-0]	.
+vapor		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4257,7 +4211,7 @@ vapor		<-->	nooun++C1[-0]	.
 
 
 
-vapour		<-->	nooun++C1[-0]	.
+vapour		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4270,7 +4224,7 @@ vapour		<-->	nooun++C1[-0]	.
 
 
 
-vector		<-->	nooun++C2[-0]	.
+vector		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4283,7 +4237,7 @@ vector		<-->	nooun++C2[-0]	.
 
 
 
-velocity		<-->	nooun++C2[-0]	.
+velocity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4322,7 +4276,7 @@ water-repellent		<-->	adjective++C2[-0]	.
 
 
 
-wave		<-->	nooun++B1[-0]	.
+wave		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4335,7 +4289,7 @@ wave		<-->	nooun++B1[-0]	.
 
 
 
-wavelength		<-->	nooun++C1[-0]	.
+wavelength		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4348,7 +4302,7 @@ wavelength		<-->	nooun++C1[-0]	.
 
 
 
-weak force		<-->	nooun++C2[-0]	.
+weak force		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4361,7 +4315,7 @@ weak force		<-->	nooun++C2[-0]	.
 
 
 
-wood		<-->	nooun++A2[-0]	.
+wood		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4374,7 +4328,7 @@ wood		<-->	nooun++A2[-0]	.
 
 
 
-X-ray		<-->	nooun++B2[-0]	.
+X-ray		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4387,7 +4341,7 @@ X-ray		<-->	nooun++B2[-0]	.
 
 
 
-zinc		<-->	nooun++C2[-0]	.
+zinc		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 

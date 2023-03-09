@@ -22,7 +22,7 @@
 
 
 
-[-] abstainverbC2[-0]	.
+[-] abstain		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -550,7 +550,7 @@
 
 
 
-[-] brokerverbC2[-0]	.
+[-] broker		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -694,7 +694,7 @@
 
 
 
-[-] canvassverbC2[-0]	.
+[-] canvass		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1234,7 +1234,7 @@
 
 
 
-[-] constitutionallyadverbC1[-0]	.
+[-] constitutionally		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1270,7 +1270,7 @@
 
 
 
-[-] contestverbB2[-0]	.
+[-] contest		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1414,7 +1414,7 @@
 
 
 
-[-] debateverbB2[-0]	.
+[-] debate		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1522,7 +1522,7 @@
 
 
 
-[-] deselectverbC2[-0]	.
+[-] deselect		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1546,7 +1546,7 @@
 
 
 
-[-] destabilizeverbC2[-0]	.
+[-] destabilize		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1594,7 +1594,7 @@
 
 
 
-[-] devolve onphrasal verbC2[-0]	.
+[-] devolve on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1606,7 +1606,7 @@
 
 
 
-[-] devolve tophrasal verbC2[-0]	.
+[-] devolve to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1618,7 +1618,7 @@
 
 
 
-[-] devolve uponphrasal verbC2[-0]	.
+[-] devolve upon		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1702,7 +1702,7 @@
 
 
 
-[-] diplomaticallyadverbC1[-0]	.
+[-] diplomatically		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1774,7 +1774,7 @@
 
 
 
-[-] disenfranchiseverbC2[-0]	.
+[-] disenfranchise		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1906,7 +1906,7 @@
 
 
 
-[-] electverbB2[-0]	.
+[-] elect		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2026,7 +2026,7 @@
 
 
 
-[-] enfranchiseverbC2[-0]	.
+[-] enfranchise		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2230,7 +2230,7 @@
 
 
 
-[-] fanaticallyadverbC2[-0]	.
+[-] fanatically		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2350,7 +2350,7 @@
 
 
 
-[-] federallyadverbB2[-0]	.
+[-] federally		<-->	adverb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2602,7 +2602,7 @@
 
 
 
-[-] governverbB2[-0]	.
+[-] govern		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2782,7 +2782,7 @@
 
 
 
-[-] ideologicallyadverbC1[-0]	.
+[-] ideologically		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2854,10 +2854,18 @@
 
 
 
-[-] inaugural		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] inaugural		<-->	adjective++C2[-0]	./ɪˈnɔːɡjərəl/-NAmE /ɪˈnɔːɡjərəl/-\ [only before noun] [230301] [voa]
+	;bắt đầu ( nhậm chức) -- (1) (of an official speech, meeting, etc.) first, and marking the beginning of something important, for example the time when a new leader or parliament starts work, when a new organization is formed or when something is used for the first time
+		;the President’s inaugural address
+		;the professor’s inaugural lecture
+		;the inaugural meeting of the geographical society
+		;the inaugural flight of the space shuttle
+		;TOPICS PoliticsC2
+				;Oxford Collocations Dictionary
+				;Inaugural is used with these nouns:
+				;addressceremonyconcert…
+		;See full entry
+		;Word Origin
 
 
 
@@ -2865,12 +2873,10 @@
 
 
 
-
-[-] inaugural		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+[-] inaugural		<-->	noun++C2[-0]	./ɪˈnɔːɡjərəl/-NAmE /ɪˈnɔːɡjərəl/ [usually singular] (especially North American English) [230301] [voa]
+	;diễn văn nhậm chức -- (1) the first official speech, meeting, etc. that marks the beginning of something important, for example the time when a new leader or parliament starts work
+		;the presidential inaugural in January
+		;TOPICS PoliticsC2
 
 
 
@@ -2878,8 +2884,14 @@
 
 
 
-[-] inaugurateverbC2[-0]	.
-	; -- (1) 
+[-] inaugurate		<-->	verb++C2[-0]	./ɪˈnɔːɡjəreɪt/-NAmE /ɪˈnɔːɡjəreɪt/ [230301] [voa]
+	;nhậm chức  -- (1) ​inaugurate somebody (as something) to introduce a new public official or leader at a special ceremony
+		;He will be inaugurated (as) President in January.
+		;TOPICS PoliticsC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;formallyofficially
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -3046,7 +3058,7 @@
 
 
 
-[-] internationallyadverbB1[-0]	.
+[-] internationally		<-->	adverb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3358,7 +3370,7 @@
 
 
 
-[-] legislateverbC1[-0]	.
+[-] legislate		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3526,7 +3538,7 @@
 
 
 
-[-] lobbyverbC1[-0]	.
+[-] lobby		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3970,7 +3982,7 @@
 
 
 
-[-] negotiateverbB2[-0]	.
+[-] negotiate		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4054,7 +4066,7 @@
 
 
 
-[-] nominateverbC1[-0]	.
+[-] nominate		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4426,7 +4438,7 @@
 
 
 
-[-] passverbB2[-0]	.
+[-] pass		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4606,7 +4618,7 @@
 
 
 
-[-] politicallyadverbB1[-0]	.
+[-] politically		<-->	adverb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4954,7 +4966,7 @@
 
 
 
-[-] prorogueverbC2[-0]	.
+[-] prorogue		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5208,7 +5220,7 @@
 
 
 
-[-] reformverbC1[-0]	.
+[-] reform		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5340,7 +5352,7 @@
 
 
 
-[-] repealverbC2[-0]	.
+[-] repeal		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5484,7 +5496,7 @@
 
 
 
-[-] revoltverbC2[-0]	.
+[-] revolt		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5592,7 +5604,7 @@
 
 
 
-[-] ruleverbB1[-0]	.
+[-] rule		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5628,7 +5640,7 @@
 
 
 
-[-] runverbB2[-0]	.
+[-] run		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5784,7 +5796,7 @@
 
 
 
-[-] sitverbC2[-0]	.
+[-] sit		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5808,7 +5820,7 @@
 
 
 
-[-] smearverbC2[-0]	.
+[-] smear		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -5976,7 +5988,7 @@
 
 
 
-[-] standverbB2[-0]	.
+[-] stand		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6456,7 +6468,7 @@
 
 
 
-[-] supportverbA2[-0]	.
+[-] support		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6516,7 +6528,7 @@
 
 
 
-[-] thawverbC2[-0]	.
+[-] thaw		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -6828,7 +6840,7 @@
 
 
 
-[-] voteverbB1[-0]	.
+[-] vote		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 

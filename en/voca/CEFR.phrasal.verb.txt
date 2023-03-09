@@ -1,4 +1,4 @@
-[-] grow up		<-->	 phrasal verb+A1	[221220][001]	./p/
+[-] grow up		<-->	 phrasal verb+A1	[221220][002]	./p/ [230304]
 	;lớn lên -- (1)  (of a person) to develop into an adult
 		;She grew up in Boston (= lived there as a child).
 		;Their children have all grown up and left home now.
@@ -13,7 +13,7 @@
 
 
 
-[-] check out		<-->	 phrasal verb+A2	[221220][001]	./p/
+[-] check out		<-->	 phrasal verb+A2	[221220][002]	./p/ [230304]
 	;khám phá ra -- to be found to be true or acceptable after being examined
 		;The local police found her story didn't check out.
 	;trả tiền phòng -- (2) [-check out (of…)] to pay your bill and leave a hotel, etc.
@@ -37,7 +37,7 @@
 
 
 
-[-] go down		<-->	 phrasal verb+A2	[221220][001]	./p/
+[-] go down		<-->	 phrasal verb+A2	[221220][002]	./p/ [230304]
 	;đi xuống -- (1) if the price of something, the temperature, etc. goes down, it becomes lower
 		;SYNONYM fall
 		;The price of oil is going down.
@@ -53,7 +53,7 @@
 
 
 
-[-] go up		<-->	 phrasal verb+A2	[221220][001]	./p/
+[-] go up		<-->	 phrasal verb+A2	[221220][002]	./p/ [230304]
 	;lên giá -- (1)  if the price of something, the temperature, etc. goes up, it becomes higher
 		;SYNONYM rise
 		;The price of cigarettes is going up.
@@ -68,7 +68,7 @@
 
 
 
-[-] check in		<-->	 phrasal verb+A2	[221220][001]	./p/
+[-] check in		<-->	 phrasal verb+A2	[221220][002]	./p/ [230304]
 	;đăng kí, làm giấy vào -- (1) [-check in (at…)] to go to a desk in a hotel, an airport, etc. and tell an official there that you have arrived
 		;Please check in at least an hour before departure.
 		;We've checked in at the hotel.
@@ -83,7 +83,7 @@
 
 
 
-[-] take off		<-->	 phrasal verb+A2	[221220][003]	./p/ [230218]
+[-] take off		<-->	 phrasal verb+A2	[221220][004]	./p/ [230218] [230304]
 	;cất cánh -- (1) (of an aircraft, etc.) to leave the ground and begin to fly
 		;The plane took off an hour late.
 		;RELATED NOUN take-off
@@ -102,7 +102,7 @@
 
 
 
-[-] eat out		<-->	 phrasal verb++A2	[221220][001]	./p/
+[-] eat out		<-->	 phrasal verb++A2	[221220][002]	./p/ [230304]
 	;đi ăn ngoài, nhà hàng -- (1) to have a meal in a restaurant, etc. rather than at home
 		;Do you feel like eating out tonight?
 		;TOPICS Cooking and eatingA2
@@ -112,7 +112,7 @@
 
 
 
-[-] work out		<-->	phrasal verb+A2	[221220][002]	./p/
+[-] work out		<-->	phrasal verb+A2	[221220][003]	./p/ [230304]
 	;tập thể dục -- (1) to train the body by physical exercise
 		;I work out regularly to keep fit.
 		;RELATED NOUN workout
@@ -140,7 +140,7 @@
 
 
 
-[-] put on		<-->	phrasal verb+A2	[221220][001]	./p/
+[-] put on		<-->	phrasal verb+A2	[221220][002]	./p/ [230304]
 	;mặc st vào  -- (1) [-put something  on] to dress yourself in something
 		;Hurry up! Put your coat on!
 		;OPPOSITE take something  off
@@ -153,7 +153,7 @@
 
 
 
-[-] believe in		<-->	phrasal verb+A2	[221220][001]	./p/
+[-] believe in		<-->	phrasal verb+A2	[221220][002]	./p/ [230304]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -161,7 +161,7 @@
 
 
 
-[-] depend on		<-->	phrasal verb+A2	[221220][001]	./p/
+[-] depend on		<-->	phrasal verb+A2	[221220][002]	./p/ [230304]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -169,7 +169,7 @@
 
 
 
-[-] depend upon		<-->	phrasal verb+A2	[221220][001]	./p/
+[-] depend upon		<-->	phrasal verb+A2	[221220][002]	./p/ [230304]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -177,7 +177,7 @@
 
 
 
-[-] turn off		<-->	phrasal verb+A2	[221220][001]	./p/
+[-] turn off		<-->	phrasal verb+A2	[221220][002]	./p/ [230304]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -185,7 +185,7 @@
 
 
 
-[-] turn on		<-->	phrasal verb+A2	[221220][001]	./p/
+[-] turn on		<-->	phrasal verb+A2	[221220][002]	./p/ [230304]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -206,7 +206,7 @@
 
 
 
-[-] break up		<-->	 phrasal verb+B1	[221220][001]	./p/
+[-] break up		<-->	 phrasal verb+B1	[221220][002]	./p/ [230304]
 	;phân nhỏ -- (1) to separate into smaller pieces
 		;The ship broke up on the rocks.
 	;kết thúc -- (2) to come to an end
@@ -219,7 +219,17 @@
 		;TOPICS Family and relationshipsB1
 
 
-[-] end up		<-->	 phrasal verb+B1	[221220][001]	./p/ [IE-C1-Z02-19]
+[-] come up with		<-->	 phrasal verb+B1	[230301][003]	./p/ [IE-C1-Z04-XX-R-01] [230304]
+	;trả lời, đưa ra câu trả lời; có được, đạt được, đạt tới -- (1) [-come up with something]  [no passive] to find or produce an answer, a sum of money, etc.
+		;She came up with a new idea for increasing sales.
+		;How soon can you come up with the money?
+
+
+
+
+
+
+[-] end up		<-->	 phrasal verb+B1	[221220][002]	./p/ [IE-C1-Z02-19] [-] [230304]
 	;tự mình, kết thúc, kết cục là -- (1) to find yourself in a place or situation at the end of a process or period of time
 		;end up doing something I ended up doing all the work myself.[ap: end up]
 		;+ adv./prep. If you go on like this you'll end up in prison.
@@ -230,7 +240,7 @@
 
 
 
-[-] get on		<-->	 phrasal verb+B1	[221220][001]	./p/
+[-] get on		<-->	 phrasal verb+B1	[221220][002]	./p/ [230304]
 	;thành công, thăng tiến -- (1) to be successful in your career, etc.
 		;Parents are always anxious for their children to get on.
 		;I don't know how he's going to get on in life.
@@ -245,7 +255,7 @@
 
 
 
-[-] get on with		<-->	 phrasal verb+B1	[221220][001]	./p/
+[-] get on with		<-->	 phrasal verb+B1	[221220][002]	./p/ [230304]
 	; -- (1) hoà thuận -- (1) [-get on with somebody | get on (together)] (both British English) (also get along with somebody, get along (together) North American English, British English) to have a friendly relationship with somebody
 		;She's never really got on with her sister.
 		;She and her sister have never really got on.
@@ -257,7 +267,7 @@
 
 
 
-[-] get on		<-->	 phrasal verb+B1	[221220][001]	./p/
+[-] get on		<-->	 phrasal verb+B1	[221220][002]	./p/ [230304]
 	;hoà nhập -- (1) (also get along) used to talk or ask about how well somebody is doing in a particular situation
 		;He's getting on very well at school.
 		;How did you get on at the interview?
@@ -276,7 +286,7 @@
 
 
 
-[-] take out		<-->	 phrasal verb++B1	[221220][001]	./p/
+[-] take out		<-->	 phrasal verb++B1	[221220][002]	./p/ [230304]
 	; -- (1) 
 	;rút tiền -- (2) [-take something  out (of something)] to obtain money by removing it from your bank account
 		;TOPICS MoneyB1
@@ -284,7 +294,7 @@
 
 
 
-[-] take up		<-->	 phrasal verb+B1	[221220][001]	./p/
+[-] take up		<-->	 phrasal verb+B1	[221220][002]	./p/ [230304]
 	;tiếp tục -- (1) to continue, especially starting after somebody/something else has finished
 		;The band's new album takes up where their last one left off.
 	;chiếm chỗ, thời gian -- (2) [-take up something] to fill or use an amount of space or time
@@ -305,7 +315,7 @@
 
 
 
-[-] break down		<-->	 phrasal verb++B1	[221220][001]	./p/
+[-] break down		<-->	 phrasal verb++B1	[221220][002]	./p/ [230304]
 	;hư hỏng -- (1) (of a machine or vehicle) to stop working because of a fault
 		;The telephone system has broken down.
 		;We (= the car) broke down on the freeway.
@@ -325,7 +335,7 @@
 
 
 
-[-] drive away		<-->	 phrasal verb++B1	[221220][001]	./p/
+[-] drive away		<-->	 phrasal verb++B1	[221220][002]	./p/ [230304]
 	;lái đi -- (1) [-drive away | drive somebody/something away] to leave in a vehicle; to take somebody away in a vehicle
 		;We heard him drive away.
 		;Someone drove the car away in the night.
@@ -3881,7 +3891,7 @@
 
 
 
-[-] stand by		<-->	phrasal verb++C2[0]	./p/
+[-] stand by		<-->	phrasal verb++C2	[230301][001]	./p/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4984,7 +4994,7 @@
 
 
 
-[-] stand out		<-->	verb++[0]	./p/
+[-] stand out		<-->	verb++	[230301][001]	./p/
 	;nổi bật -- (1) [-stand out (as something)] to be much better or more important than somebody/something
 		;Four points stand out as being more important than the rest.
 		;SEE ALSO outstanding
