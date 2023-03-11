@@ -1,7 +1,7 @@
-[-] ADD		<-->	abbreviation++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] ADD		<-->	abbreviation++C2[-0]	./ˌeɪ diː ˈdiː/
+ /ˌeɪ diː ˈdiː/
+	;rối loạn thiếu tập trung -- (1) ​attention deficit disorder
+		;TOPICS Mental healthC2
 
 
 
@@ -373,7 +373,7 @@
 
 
 
-[-] come offphrasal verbC2[-0]	.
+[-] come offphrasal 		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -463,7 +463,7 @@
 
 
 
-[-] detoxifyverbC2[-0]	.
+[-] detoxify		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -823,7 +823,7 @@
 
 
 
-[-] mentallyadverbB1[-0]	.
+[-] mentally		<-->	adveerb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1318,7 +1318,7 @@
 
 
 
-[-] quitverbB1[-0]	.
+[-] quit		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1408,7 +1408,7 @@
 
 
 
-[-] sectionverbC2[-0]	.
+[-] section		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
