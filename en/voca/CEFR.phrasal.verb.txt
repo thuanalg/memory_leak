@@ -286,6 +286,30 @@
 
 
 
+
+
+
+
+[-] go on		<-->	 phrasal verb+B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [-] take out		<-->	 phrasal verb++B1	[221220][002]	./p/ [230304]
 	; -- (1) 
 	;rút tiền -- (2) [-take something  out (of something)] to obtain money by removing it from your bank account
@@ -519,7 +543,7 @@
 
 
 
-[-] log on		<-->	phrasal verb++B1[-0]	./p/
+[-] log on		<-->	phrasal verb++B1	[230313][001]	./p/
 	;đăng nhập -- (1) [-log in/on (to something)] (computing) to perform the actions that allow you to begin using a computer system, application or online account
 		;You need a password to log on.
 		;I logged in to my Twitter account.
@@ -530,7 +554,7 @@
 
 
 
-[-] break down		<-->	phrasal verb++B1[-0]	./p/
+[-] break down		<-->	phrasal verb++B1	[230313][001]	./p/
 	; -- (1) [-log in/on (to something)] (computing) to perform the actions that allow you to begin using a computer system, application or online account
 		;You need a password to log on.
 		;I logged in to my Twitter account.
@@ -543,7 +567,7 @@
 
 
 
-[-] switch off		<-->	phrasal verb++B1[-0]	./p/
+[-] switch off		<-->	phrasal verb++B1	[230313][001]	./p/
 	;bỏ quan tâm, bỏ đi -- (1) (informal) to stop thinking about something or paying attention to something
 		;When I hear the word ‘football’ I switch off (= because I am not interested in it).
 		;The only time he really switches off (= stops thinking about work, etc.) is when we're on vacation.
@@ -559,7 +583,7 @@
 
 
 
-[-] switch on		<-->	phrasal verb++B1[-0]	./p/
+[-] switch on		<-->	phrasal verb++B1	[230313][001]	./p/
 	;mở/tắt -- (1) [-switch off/on | switch something  off/on] to turn a light, machine, etc. off/on by pressing a button or switch
 		;Please switch the lights off as you leave.
 		;How do you switch this thing on?
@@ -642,7 +666,7 @@
 
 
 
-[-] get away		<-->	 phrasal verb++B2[-0]	./p/
+[-] get away		<-->	 phrasal verb++B2	[230313][001]	./p/
 	;để có một kỳ nghỉ -- (1) to have a holiday
 		;We're hoping to get away for a few days at Easter.
 		;RELATED NOUN getaway
@@ -653,7 +677,7 @@
 
 
 
-[-] drive off		<-->	 phrasal verb++B2[-0]	./p/
+[-] drive off		<-->	 phrasal verb++B2	[230313][001]	./p/
 	;(của người lái xe, ô tô, v.v.) rời đi -- (1) (of a driver, car, etc.) to leave
 		;The robbers drove off in a stolen vehicle.
 		;TOPICS Transport by car or lorryB2
@@ -727,24 +751,44 @@
 
 
 
-[-] come out		<-->	phrasal verb++B2[-0]	.
-	; -- (1) 
+[-] come out		<-->	phrasal verb++B2	[230313][001]	./p/
+	;xuất hiện -- (1) when the sun, moon or stars come out, they appear
+		;The rain stopped and the sun came out.
+		;TOPICS SpaceB2
 	; -- (2) 
 	; -- (3) 
+	;nói rõ ý kiến -- (7) to say publicly whether you agree or disagree with something
+		;He came out against the plan.
+		;In her speech, the senator came out in favour of a change in the law.
+		;TOPICS Opinion and argumentC2
+	;nói mình là gay -- (8) to tell other people that you are gay
+		;My best friend came out when she was 18.
+		;TOPICS People in societyC2
 
 
 
 
-[-] come up		<-->	phrasal verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] come up		<-->	phrasal verb++B2	[230313][001]	./p/
+	;mọc lên, trồi lên -- (1) (of plants) to appear above the soil
+		;The daffodils are just beginning to come up.
+	;mọc, xuất hiện -- (2) (of the sun) to rise
+		;We watched the sun come up.
+		;TOPICS SpaceB2
+	;xuất hiện -- (3) ​to happen
+		;I'm afraid something urgent has come up.
+		;We'll let you know if any vacancies come up.
+	; -- (4) 
+	; -- (5) 
+	; -- (6) 
+	; -- (7) 
 
 
 
-
-[-] go around		<-->	phrasal verb++B2[-0]	.
-	; -- (1) 
+[-] go around		<-->	phrasal verb++B2	[230313][001]	./p/ go around, 
+(also go round especially in British English)
+	;xoay quanh, đi xung quanh -- (1) to turn round in a circle
+		;to go around in a circle
+		;TOPICS SpaceB2
 	; -- (2) 
 	; -- (3) 
 
@@ -759,7 +803,7 @@
 
 
 
-[-] die out		<-->	phrasal verb++B2[-0]	./p/ [IE-C1-Z05-55]
+[-] die out		<-->	phrasal verb++B2	[230313][001]	./p/ [IE-C1-Z05-55]
 	;tuyệt chủng -- (1) to stop existing
 		;This species has nearly died out because its habitat is being destroyed.
 		;TOPICS AnimalsB2
@@ -1404,10 +1448,11 @@
 
 
 
-[-] go along with		<-->	phrasal verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] go along with		<-->	phrasal verb++C1	[230321][001]	./p/
+	;đồng ý -- (1) to agree with somebody/something
+		;I don't go along with her views on private medicine.
+		;SYNONYMS AT agree
+		;TOPICS Discussion and agreementC1
 
 
 
@@ -1584,10 +1629,16 @@
 
 
 
-[-] hand out		<-->	phrasal verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] hand out		<-->	phrasal verb++C1	[230321][002]	./p/ [230321] [lm.i.x.02] [230323] [lm.i.x.s.6]
+	;phân phát, phân phối, trao cho -- (1) [-hand something  out (to somebody)] ​to give a number of things to the members of a group
+		;SYNONYM distribute
+		;Could you hand these books out, please?
+		;She handed out medals and certificates to the winners.
+		;She handed out the exam papers.
+		;RELATED NOUN handout
+	;đưa lời khuyên hay sự trừng phạt -- (2) (informal) to give advice, a punishment, etc.
+		;He's always handing out advice to people.
+		;TOPICS Suggestions and adviceC1
 
 
 
@@ -1632,8 +1683,11 @@
 
 
 
-[-] stem from		<-->	phrasal verb++C1[-0]	.
-	; -- (1) 
+[-] stem from		<-->	phrasal verb++C1[-0]	./p/ [230328] [news.ap]
+	;là kết quả của, bắt nguồn từ -- (1) [-stem from something] (not used in the progressive tenses) to be the result of something
+		;Most people’s insecurities stem from something that happened in their childhood.
+		;LANGUAGE BANK AT because of
+		;TOPICS Change, cause and effectC1
 	; -- (2) 
 	; -- (3) 
 
@@ -1799,7 +1853,7 @@
 
 
 
-[-] bunk off		<-->	 phrasal verb+C2[-0]	.
+[-] bunk off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1808,7 +1862,7 @@
 
 
 
-[-] bunk off school		<-->	 phrasal verb+C2[-0]	.
+[-] bunk off school		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1817,7 +1871,7 @@
 
 
 
-[-] bunk off work		<-->	 phrasal verb+C2[-0]	.
+[-] bunk off work		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1826,7 +1880,7 @@
 
 
 
-[-] mark down		<-->	 phrasal verb+C2[-0]	.
+[-] mark down		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1835,7 +1889,7 @@
 
 
 
-[-] swot up		<-->	 phrasal verb+C2[-0]	.
+[-] swot up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1844,7 +1898,7 @@
 
 
 
-[-] swot up on		<-->	 phrasal verb+C2[-0]	.
+[-] swot up on		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1853,7 +1907,7 @@
 
 
 
-[-] tell on		<-->	 phrasal verb+C2[-0]	.
+[-] tell on		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1862,7 +1916,7 @@
 
 
 
-[-] fall in with		<-->	 phrasal verb+C2[-0]	.
+[-] fall in with		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1871,7 +1925,7 @@
 
 
 
-[-] get off with		<-->	 phrasal verb+C2[-0]	.
+[-] get off with		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1880,7 +1934,7 @@
 
 
 
-[-] hook up with		<-->	 phrasal verb+C2[-0]	.
+[-] hook up with		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1889,7 +1943,7 @@
 
 
 
-[-] lead on		<-->	 phrasal verb+C2[-0]	.
+[-] lead on		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1898,7 +1952,7 @@
 
 
 
-[-] make out		<-->	 phrasal verb+C2[-0]	.
+[-] make out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1907,7 +1961,7 @@
 
 
 
-[-] pal around		<-->	 phrasal verb+C2[-0]	.
+[-] pal around		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1916,7 +1970,7 @@
 
 
 
-[-] pick up		<-->	 phrasal verb+C2[-0]	.
+[-] pick up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1925,7 +1979,7 @@
 
 
 
-[-] blaze up		<-->	 phrasal verb+C2[-0]	.
+[-] blaze up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1934,7 +1988,7 @@
 
 
 
-[-] blow up		<-->	 phrasal verb+C2[-0]	.
+[-] blow up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1943,7 +1997,7 @@
 
 
 
-[-] boil over		<-->	 phrasal verb+C2[-0]	.
+[-] boil over		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1952,7 +2006,7 @@
 
 
 
-[-] boil up		<-->	 phrasal verb+C2[-0]	.
+[-] boil up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1961,7 +2015,7 @@
 
 
 
-[-] bowl over		<-->	 phrasal verb+C2[-0]	.
+[-] bowl over		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1970,7 +2024,7 @@
 
 
 
-[-] dote on		<-->	 phrasal verb+C2[-0]	.
+[-] dote on		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1979,7 +2033,7 @@
 
 
 
-[-] dote upon		<-->	 phrasal verb+C2[-0]	.
+[-] dote upon		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1988,7 +2042,7 @@
 
 
 
-[-] flare up		<-->	 phrasal verb+C2[-0]	.
+[-] flare up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1997,7 +2051,7 @@
 
 
 
-[-] flinch from		<-->	 phrasal verb+C2[-0]	.
+[-] flinch from		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2006,7 +2060,7 @@
 
 
 
-[-] flinch from doing		<-->	 phrasal verb+C2[-0]	.
+[-] flinch from doing		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2015,7 +2069,7 @@
 
 
 
-[-] gnaw at		<-->	 phrasal verb+C2[-0]	.
+[-] gnaw at		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2024,7 +2078,7 @@
 
 
 
-[-] harp on		<-->	 phrasal verb+C2[-0]	.
+[-] harp on		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2033,7 +2087,7 @@
 
 
 
-[-] kick off		<-->	 phrasal verb+C2[-0]	.
+[-] kick off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2042,7 +2096,7 @@
 
 
 
-[-] moon about		<-->	 phrasal verb+C2[-0]	.
+[-] moon about		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2051,7 +2105,7 @@
 
 
 
-[-] moon around		<-->	 phrasal verb+C2[-0]	.
+[-] moon around		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2060,7 +2114,7 @@
 
 
 
-[-] pump up		<-->	 phrasal verb+C2[-0]	.
+[-] pump up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2069,7 +2123,7 @@
 
 
 
-[-] rip into		<-->	 phrasal verb+C2[-0]	.
+[-] rip into		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2078,7 +2132,7 @@
 
 
 
-[-] stoke up		<-->	 phrasal verb+C2[-0]	.
+[-] stoke up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2087,7 +2141,7 @@
 
 
 
-[-] string along		<-->	 phrasal verb+C2[-0]	.
+[-] string along		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2096,7 +2150,7 @@
 
 
 
-[-] take aback		<-->	 phrasal verb+C2[-0]	.
+[-] take aback		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2105,7 +2159,7 @@
 
 
 
-[-] tee off		<-->	 phrasal verb+C2[-0]	.
+[-] tee off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2114,7 +2168,7 @@
 
 
 
-[-] wear out		<-->	 phrasal verb+C2[-0]	.
+[-] wear out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2123,7 +2177,7 @@
 
 
 
-[-] whip up		<-->	 phrasal verb+C2[-0]	.
+[-] whip up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2132,7 +2186,7 @@
 
 
 
-[-] work off		<-->	 phrasal verb+C2[-0]	.
+[-] work off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2141,7 +2195,7 @@
 
 
 
-[-] give away		<-->	 phrasal verb+C2[-0]	.
+[-] give away		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2150,7 +2204,7 @@
 
 
 
-[-] grow into		<-->	 phrasal verb+C2[-0]	.
+[-] grow into		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2159,7 +2213,7 @@
 
 
 
-[-] pension off		<-->	 phrasal verb+C2[-0]	.
+[-] pension off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2168,7 +2222,7 @@
 
 
 
-[-] chicken out		<-->	 phrasal verb+C2[-0]	.
+[-] chicken out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2177,7 +2231,7 @@
 
 
 
-[-] come out of yourself		<-->	 phrasal verb+C2[-0]	.
+[-] come out of yourself		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2186,7 +2240,7 @@
 
 
 
-[-] invest in		<-->	 phrasal verb+C2[-0]	.
+[-] invest in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2195,7 +2249,7 @@
 
 
 
-[-] lead on		<-->	 phrasal verb+C2[-0]	.
+[-] lead on		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2204,7 +2258,7 @@
 
 
 
-[-] perk up		<-->	 phrasal verb+C2[-0]	.
+[-] perk up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2213,7 +2267,7 @@
 
 
 
-[-] slob around		<-->	 phrasal verb+C2[-0]	.
+[-] slob around		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2222,7 +2276,7 @@
 
 
 
-[-] slob out		<-->	 phrasal verb+C2[-0]	.
+[-] slob out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2231,7 +2285,7 @@
 
 
 
-[-] while away		<-->	 phrasal verb+C2[-0]	.
+[-] while away		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2240,7 +2294,7 @@
 
 
 
-[-] fall through		<-->	 phrasal verb+C2[-0]	.
+[-] fall through		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2249,7 +2303,7 @@
 
 
 
-[-] go under		<-->	 phrasal verb+C2[-0]	.
+[-] go under		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2258,7 +2312,7 @@
 
 
 
-[-] lay off		<-->	 phrasal verb+C2[-0]	.
+[-] lay off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2267,7 +2321,7 @@
 
 
 
-[-] pull out		<-->	 phrasal verb+C2[-0]	.
+[-] pull out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2276,7 +2330,7 @@
 
 
 
-[-] trade in		<-->	 phrasal verb+C2[-0]	.
+[-] trade in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2285,7 +2339,7 @@
 
 
 
-[-] bottom out		<-->	 phrasal verb+C2[-0]	.
+[-] bottom out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2294,7 +2348,7 @@
 
 
 
-[-] bounce back		<-->	 phrasal verb+C2[-0]	.
+[-] bounce back		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2303,7 +2357,7 @@
 
 
 
-[-] cool down		<-->	 phrasal verb+C2[-0]	.
+[-] cool down		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2312,7 +2366,7 @@
 
 
 
-[-] cool off		<-->	 phrasal verb+C2[-0]	.
+[-] cool off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2321,7 +2375,7 @@
 
 
 
-[-] hedge against		<-->	 phrasal verb+C2[-0]	.
+[-] hedge against		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2330,7 +2384,7 @@
 
 
 
-[-] pay up		<-->	 phrasal verb+C2[-0]	.
+[-] pay up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2339,7 +2393,7 @@
 
 
 
-[-] adjourn to		<-->	 phrasal verb+C2[-0]	.
+[-] adjourn to		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2348,7 +2402,7 @@
 
 
 
-[-] clock in		<-->	 phrasal verb+C2[-0]	.
+[-] clock in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2357,7 +2411,7 @@
 
 
 
-[-] clock off		<-->	 phrasal verb+C2[-0]	.
+[-] clock off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2366,7 +2420,7 @@
 
 
 
-[-] clock on		<-->	 phrasal verb+C2[-0]	.
+[-] clock on		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2375,7 +2429,7 @@
 
 
 
-[-] clock out		<-->	 phrasal verb+C2[-0]	.
+[-] clock out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2384,7 +2438,7 @@
 
 
 
-[-] lock out		<-->	 phrasal verb+C2[-0]	.
+[-] lock out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2393,7 +2447,7 @@
 
 
 
-[-] pencil in		<-->	 phrasal verb+C2[-0]	.
+[-] pencil in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2402,7 +2456,7 @@
 
 
 
-[-] pension off		<-->	 phrasal verb+C2[-0]	.
+[-] pension off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2411,7 +2465,7 @@
 
 
 
-[-] bail out		<-->	 phrasal verb+C2[-0]	.
+[-] bail out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2420,7 +2474,7 @@
 
 
 
-[-] block in		<-->	 phrasal verb+C2[-0]	.
+[-] block in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2429,7 +2483,7 @@
 
 
 
-[-] branch off		<-->	 phrasal verb+C2[-0]	.
+[-] branch off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2438,7 +2492,7 @@
 
 
 
-[-] change down		<-->	 phrasal verb+C2[-0]	.
+[-] change down		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2447,7 +2501,7 @@
 
 
 
-[-] change up		<-->	 phrasal verb+C2[-0]	.
+[-] change up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2456,7 +2510,7 @@
 
 
 
-[-] cone off		<-->	 phrasal verb+C2[-0]	.
+[-] cone off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2465,7 +2519,7 @@
 
 
 
-[-] cordon off		<-->	 phrasal verb+C2[-0]	.
+[-] cordon off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2474,7 +2528,7 @@
 
 
 
-[-] cut in		<-->	 phrasal verb+C2[-0]	.
+[-] cut in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2483,7 +2537,7 @@
 
 
 
-[-] cut up		<-->	 phrasal verb+C2[-0]	.
+[-] cut up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2492,7 +2546,7 @@
 
 
 
-[-] jack up		<-->	 phrasal verb+C2[-0]	.
+[-] jack up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2501,7 +2555,7 @@
 
 
 
-[-] plough into		<-->	 phrasal verb+C2[-0]	.
+[-] plough into		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2510,7 +2564,7 @@
 
 
 
-[-] pull off		<-->	 phrasal verb+C2[-0]	.
+[-] pull off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2519,7 +2573,7 @@
 
 
 
-[-] soup up		<-->	 phrasal verb+C2[-0]	.
+[-] soup up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2528,7 +2582,7 @@
 
 
 
-[-] tail back		<-->	 phrasal verb+C2[-0]	.
+[-] tail back		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2537,7 +2591,7 @@
 
 
 
-[-] tank up		<-->	 phrasal verb+C2[-0]	.
+[-] tank up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2546,7 +2600,7 @@
 
 
 
-[-] bail out		<-->	 phrasal verb+C2[-0]	.
+[-] bail out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2555,7 +2609,7 @@
 
 
 
-[-] cast off		<-->	 phrasal verb+C2[-0]	.
+[-] cast off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2564,7 +2618,7 @@
 
 
 
-[-] put in		<-->	 phrasal verb+C2[-0]	.
+[-] put in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2573,7 +2627,7 @@
 
 
 
-[-] put into		<-->	 phrasal verb+C2[-0]	.
+[-] put into		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2582,7 +2636,7 @@
 
 
 
-[-] stow away		<-->	 phrasal verb+C2[-0]	.
+[-] stow away		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2591,7 +2645,7 @@
 
 
 
-[-] bring in		<-->	 phrasal verb+C2[-0]	.
+[-] bring in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2600,7 +2654,7 @@
 
 
 
-[-] front for		<-->	 phrasal verb+C2[-0]	.
+[-] front for		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2609,7 +2663,7 @@
 
 
 
-[-] hold up		<-->	 phrasal verb+C2[-0]	.
+[-] hold up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2618,7 +2672,7 @@
 
 
 
-[-] lock away		<-->	 phrasal verb+C2[-0]	.
+[-] lock away		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2627,7 +2681,7 @@
 
 
 
-[-] stake out		<-->	 phrasal verb+C2[-0]	.
+[-] stake out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2636,7 +2690,7 @@
 
 
 
-[-] tip off		<-->	 phrasal verb+C2[-0]	.
+[-] tip off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2645,7 +2699,7 @@
 
 
 
-[-] abide by		<-->	 phrasal verb++C2[-0]	./p/
+[-] abide by		<-->	 phrasal verb++C2	[230313][001]	./p/
 	;tuân theo -- (1) [-abide by something] (formal) to accept and act according to a law, an agreement, etc.
 		;You'll have to abide by the rules of the club.
 		;We will abide by their decision.
@@ -2658,7 +2712,7 @@
 
 
 
-[-] bail out		<-->	 phrasal verb+C2[-0]	.
+[-] bail out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2667,7 +2721,7 @@
 
 
 
-[-] bring in		<-->	 phrasal verb+C2[-0]	.
+[-] bring in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2676,7 +2730,7 @@
 
 
 
-[-] cordon off		<-->	 phrasal verb+C2[-0]	.
+[-] cordon off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2685,7 +2739,7 @@
 
 
 
-[-] find against		<-->	 phrasal verb+C2[-0]	.
+[-] find against		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2694,7 +2748,7 @@
 
 
 
-[-] find for		<-->	 phrasal verb+C2[-0]	.
+[-] find for		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2703,7 +2757,7 @@
 
 
 
-[-] lock down		<-->	 phrasal verb+C2[-0]	.
+[-] lock down		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2712,7 +2766,7 @@
 
 
 
-[-] vest in		<-->	 phrasal verb+C2[-0]	.
+[-] vest in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2721,7 +2775,7 @@
 
 
 
-[-] come out		<-->	 phrasal verb+C2[-0]	.
+[-] come out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2730,7 +2784,7 @@
 
 
 
-[-] devolve on		<-->	 phrasal verb+C2[-0]	.
+[-] devolve on		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2739,7 +2793,7 @@
 
 
 
-[-] devolve to		<-->	 phrasal verb+C2[-0]	.
+[-] devolve to		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2748,7 +2802,7 @@
 
 
 
-[-] devolve upon		<-->	 phrasal verb+C2[-0]	.
+[-] devolve upon		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2757,7 +2811,7 @@
 
 
 
-[-] jack up		<-->	 phrasal verb+C2[-0]	.
+[-] jack up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2766,7 +2820,7 @@
 
 
 
-[-] lay off		<-->	 phrasal verb+C2[-0]	.
+[-] lay off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2775,7 +2829,7 @@
 
 
 
-[-] sign on		<-->	 phrasal verb+C2[-0]	.
+[-] sign on		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2784,7 +2838,7 @@
 
 
 
-[-] gun down		<-->	 phrasal verb+C2[-0]	.
+[-] gun down		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2793,7 +2847,7 @@
 
 
 
-[-] boil over		<-->	 phrasal verb+C2[-0]	.
+[-] boil over		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2802,7 +2856,7 @@
 
 
 
-[-] dine out		<-->	 phrasal verb+C2[-0]	.
+[-] dine out		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2811,7 +2865,7 @@
 
 
 
-[-] eat in		<-->	 phrasal verb+C2[-0]	.
+[-] eat in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2820,7 +2874,7 @@
 
 
 
-[-] whip up		<-->	 phrasal verb+C2[-0]	.
+[-] whip up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2829,7 +2883,7 @@
 
 
 
-[-] plough back		<-->	 phrasal verb+C2[-0]	.
+[-] plough back		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2838,7 +2892,7 @@
 
 
 
-[-] plough back in		<-->	 phrasal verb+C2[-0]	.
+[-] plough back in		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2847,7 +2901,7 @@
 
 
 
-[-] plough up		<-->	 phrasal verb+C2[-0]	.
+[-] plough up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2856,7 +2910,7 @@
 
 
 
-[-] branch off		<-->	 phrasal verb+C2[-0]	.
+[-] branch off		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2865,7 +2919,7 @@
 
 
 
-[-] get up		<-->	 phrasal verb+C2[-0]	.
+[-] get up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2874,7 +2928,7 @@
 
 
 
-[-] do up		<-->	 phrasal verb+C2[-0]	.
+[-] do up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2883,7 +2937,7 @@
 
 
 
-[-] knock together		<-->	 phrasal verb+C2[-0]	.
+[-] knock together		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2892,7 +2946,7 @@
 
 
 
-[-] shore up		<-->	 phrasal verb+C2[-0]	.
+[-] shore up		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2901,7 +2955,7 @@
 
 
 
-[-] cut back		<-->	 phrasal verb+C2[-0]	.
+[-] cut back		<-->	 phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2910,7 +2964,7 @@
 
 
 
-[-] bubble with		<-->	phrasal verb+C2[-0]	.
+[-] bubble with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2919,7 +2973,7 @@
 
 
 
-[-] lock down		<-->	phrasal verb+C2[-0]	.
+[-] lock down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2928,7 +2982,7 @@
 
 
 
-[-] come down with		<-->	phrasal verb+C2[-0]	.
+[-] come down with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2937,7 +2991,7 @@
 
 
 
-[-] fade away		<-->	phrasal verb+C2[-0]	.
+[-] fade away		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2946,7 +3000,7 @@
 
 
 
-[-] keel over		<-->	phrasal verb+C2[-0]	.
+[-] keel over		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2955,7 +3009,7 @@
 
 
 
-[-] lay up		<-->	phrasal verb+C2[-0]	.
+[-] lay up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2964,7 +3018,7 @@
 
 
 
-[-] pass out		<-->	phrasal verb+C2[-0]	.
+[-] pass out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2973,7 +3027,7 @@
 
 
 
-[-] pull through		<-->	phrasal verb+C2[-0]	.
+[-] pull through		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2982,7 +3036,7 @@
 
 
 
-[-] waste away		<-->	phrasal verb+C2[-0]	.
+[-] waste away		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2991,7 +3045,7 @@
 
 
 
-[-] scrub up		<-->	phrasal verb+C2[-0]	.
+[-] scrub up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3000,7 +3054,7 @@
 
 
 
-[-] come off		<-->	phrasal verb+C2[-0]	.
+[-] come off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3009,7 +3063,7 @@
 
 
 
-[-] blast off		<-->	phrasal verb+C2[-0]	.
+[-] blast off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3018,7 +3072,7 @@
 
 
 
-[-] comb out		<-->	phrasal verb+C2[-0]	.
+[-] comb out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3027,7 +3081,7 @@
 
 
 
-[-] grow back		<-->	phrasal verb+C2[-0]	.
+[-] grow back		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3036,7 +3090,7 @@
 
 
 
-[-] grow out		<-->	phrasal verb+C2[-0]	.
+[-] grow out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3045,7 +3099,7 @@
 
 
 
-[-] dress down		<-->	phrasal verb+C2[-0]	.
+[-] dress down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3054,7 +3108,7 @@
 
 
 
-[-] glam up		<-->	phrasal verb+C2[-0]	.
+[-] glam up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3063,7 +3117,7 @@
 
 
 
-[-] layer up		<-->	phrasal verb+C2[-0]	.
+[-] layer up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3072,7 +3126,7 @@
 
 
 
-[-] brush up		<-->	phrasal verb+C2[-0]	.
+[-] brush up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3081,7 +3135,7 @@
 
 
 
-[-] brush up on		<-->	phrasal verb+C2[-0]	.
+[-] brush up on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3090,7 +3144,7 @@
 
 
 
-[-] copy in		<-->	phrasal verb+C2[-0]	.
+[-] copy in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3099,7 +3153,7 @@
 
 
 
-[-] dial in		<-->	phrasal verb+C2[-0]	.
+[-] dial in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3108,7 +3162,7 @@
 
 
 
-[-] dial into		<-->	phrasal verb+C2[-0]	.
+[-] dial into		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3117,7 +3171,7 @@
 
 
 
-[-] dial up		<-->	phrasal verb+C2[-0]	.
+[-] dial up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3126,7 +3180,7 @@
 
 
 
-[-] hook up		<-->	phrasal verb+C2[-0]	.
+[-] hook up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3135,7 +3189,7 @@
 
 
 
-[-] ring around		<-->	phrasal verb+C2[-0]	.
+[-] ring around		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3144,7 +3198,7 @@
 
 
 
-[-] ring off		<-->	phrasal verb+C2[-0]	.
+[-] ring off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3153,7 +3207,7 @@
 
 
 
-[-] ring round		<-->	phrasal verb+C2[-0]	.
+[-] ring round		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3162,7 +3216,7 @@
 
 
 
-[-] ring through		<-->	phrasal verb+C2[-0]	.
+[-] ring through		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3171,7 +3225,7 @@
 
 
 
-[-] zoom in		<-->	phrasal verb+C2[-0]	.
+[-] zoom in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3180,7 +3234,7 @@
 
 
 
-[-] zoom out		<-->	phrasal verb+C2[-0]	.
+[-] zoom out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3189,7 +3243,7 @@
 
 
 
-[-] tune up		<-->	phrasal verb+C2[-0]	.
+[-] tune up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3198,7 +3252,7 @@
 
 
 
-[-] abide by		<-->	phrasal verb+C2[-0]	.
+[-] abide by		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3207,7 +3261,7 @@
 
 
 
-[-] beat down		<-->	phrasal verb+C2[-0]	.
+[-] beat down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3216,7 +3270,7 @@
 
 
 
-[-] bend to		<-->	phrasal verb+C2[-0]	.
+[-] bend to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3225,7 +3279,7 @@
 
 
 
-[-] bow to		<-->	phrasal verb+C2[-0]	.
+[-] bow to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3234,7 +3288,7 @@
 
 
 
-[-] bring round		<-->	phrasal verb+C2[-0]	.
+[-] bring round		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3243,7 +3297,7 @@
 
 
 
-[-] contract in		<-->	phrasal verb+C2[-0]	.
+[-] contract in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3252,7 +3306,7 @@
 
 
 
-[-] contract out		<-->	phrasal verb+C2[-0]	.
+[-] contract out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3261,7 +3315,7 @@
 
 
 
-[-] defer to		<-->	phrasal verb+C2[-0]	.
+[-] defer to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3270,7 +3324,7 @@
 
 
 
-[-] get around		<-->	phrasal verb+C2[-0]	.
+[-] get around		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3279,7 +3333,7 @@
 
 
 
-[-] get out of		<-->	phrasal verb+C2[-0]	.
+[-] get out of		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3288,7 +3342,7 @@
 
 
 
-[-] get round		<-->	phrasal verb+C2[-0]	.
+[-] get round		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3297,7 +3351,7 @@
 
 
 
-[-] go with		<-->	phrasal verb+C2[-0]	.
+[-] go with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3306,7 +3360,7 @@
 
 
 
-[-] hammer out		<-->	phrasal verb+C2[-0]	.
+[-] hammer out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3315,7 +3369,7 @@
 
 
 
-[-] hash out		<-->	phrasal verb+C2[-0]	.
+[-] hash out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3324,7 +3378,7 @@
 
 
 
-[-] hold out for		<-->	phrasal verb+C2[-0]	.
+[-] hold out for		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3333,7 +3387,7 @@
 
 
 
-[-] hold with		<-->	phrasal verb+C2[-0]	.
+[-] hold with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3342,7 +3396,7 @@
 
 
 
-[-] jolly into		<-->	phrasal verb+C2[-0]	.
+[-] jolly into		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3351,7 +3405,7 @@
 
 
 
-[-] jolly into doing		<-->	phrasal verb+C2[-0]	.
+[-] jolly into doing		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3360,7 +3414,7 @@
 
 
 
-[-] nail down		<-->	phrasal verb+C2[-0]	.
+[-] nail down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3369,7 +3423,7 @@
 
 
 
-[-] patch up		<-->	phrasal verb+C2[-0]	.
+[-] patch up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3378,7 +3432,7 @@
 
 
 
-[-] prevail on to do		<-->	phrasal verb+C2[-0]	.
+[-] prevail on to do		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3387,7 +3441,7 @@
 
 
 
-[-] prevail upon to do		<-->	phrasal verb+C2[-0]	.
+[-] prevail upon to do		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3396,7 +3450,7 @@
 
 
 
-[-] put aside		<-->	phrasal verb+C2[-0]	.
+[-] put aside		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3405,7 +3459,7 @@
 
 
 
-[-] reason with		<-->	phrasal verb+C2[-0]	.
+[-] reason with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3414,7 +3468,7 @@
 
 
 
-[-] sign on		<-->	phrasal verb+C2[-0]	.
+[-] sign on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3423,7 +3477,7 @@
 
 
 
-[-] sign up		<-->	phrasal verb+C2[-0]	.
+[-] sign up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3432,7 +3486,7 @@
 
 
 
-[-] sign up to		<-->	phrasal verb+C2[-0]	.
+[-] sign up to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3441,7 +3495,7 @@
 
 
 
-[-] soften up		<-->	phrasal verb+C2[-0]	.
+[-] soften up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3450,7 +3504,7 @@
 
 
 
-[-] subscribe to		<-->	phrasal verb+C2[-0]	.
+[-] subscribe to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3459,7 +3513,7 @@
 
 
 
-[-] talk round		<-->	phrasal verb+C2[-0]	.
+[-] talk round		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3468,7 +3522,7 @@
 
 
 
-[-] win around		<-->	phrasal verb+C2[-0]	.
+[-] win around		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3477,7 +3531,7 @@
 
 
 
-[-] win over		<-->	phrasal verb+C2[-0]	.
+[-] win over		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3486,7 +3540,7 @@
 
 
 
-[-] win round		<-->	phrasal verb+C2[-0]	.
+[-] win round		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3495,7 +3549,7 @@
 
 
 
-[-] work on		<-->	phrasal verb+C2[-0]	.
+[-] work on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3504,7 +3558,7 @@
 
 
 
-[-] write into		<-->	phrasal verb+C2[-0]	.
+[-] write into		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3513,7 +3567,7 @@
 
 
 
-[-] admit of		<-->	phrasal verb+C2[-0]	.
+[-] admit of		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3522,7 +3576,7 @@
 
 
 
-[-] swear by		<-->	phrasal verb+C2[-0]	.
+[-] swear by		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3531,7 +3585,7 @@
 
 
 
-[-] accord with		<-->	phrasal verb+C2[-0]	.
+[-] accord with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3540,7 +3594,7 @@
 
 
 
-[-] align yourself with		<-->	phrasal verb+C2[-0]	.
+[-] align yourself with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3549,7 +3603,7 @@
 
 
 
-[-] answer for		<-->	phrasal verb+C2[-0]	.
+[-] answer for		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3558,7 +3612,7 @@
 
 
 
-[-] argue with		<-->	phrasal verb+C2[-0]	.
+[-] argue with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3567,7 +3621,7 @@
 
 
 
-[-] bust up		<-->	phrasal verb+C2[-0]	.
+[-] bust up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3576,7 +3630,7 @@
 
 
 
-[-] carry on		<-->	phrasal verb+C2[-0]	.
+[-] carry on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3585,7 +3639,7 @@
 
 
 
-[-] chime with		<-->	phrasal verb+C2[-0]	.
+[-] chime with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3594,7 +3648,7 @@
 
 
 
-[-] climb down		<-->	phrasal verb+C2[-0]	.
+[-] climb down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3603,7 +3657,7 @@
 
 
 
-[-] come around		<-->	phrasal verb+C2[-0]	.
+[-] come around		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3612,7 +3666,7 @@
 
 
 
-[-] come off it		<-->	phrasal verb+C2[-0]	.
+[-] come off it		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3621,7 +3675,7 @@
 
 
 
-[-] come out		<-->	phrasal verb+C2[-0]	.
+[-] come out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3630,7 +3684,7 @@
 
 
 
-[-] come over		<-->	phrasal verb+C2[-0]	.
+[-] come over		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3639,7 +3693,7 @@
 
 
 
-[-] come round		<-->	phrasal verb+C2[-0]	.
+[-] come round		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3648,7 +3702,7 @@
 
 
 
-[-] face off		<-->	phrasal verb+C2[-0]	.
+[-] face off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3657,7 +3711,7 @@
 
 
 
-[-] fall in with		<-->	phrasal verb+C2[-0]	.
+[-] fall in with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3666,7 +3720,7 @@
 
 
 
-[-] feed back		<-->	phrasal verb+C2[-0]	.
+[-] feed back		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3675,7 +3729,7 @@
 
 
 
-[-] flesh out		<-->	phrasal verb+C2[-0]	.
+[-] flesh out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3684,7 +3738,7 @@
 
 
 
-[-] get above yourself		<-->	phrasal verb+C2[-0]	.
+[-] get above yourself		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3693,7 +3747,7 @@
 
 
 
-[-] go by		<-->	phrasal verb+C2[-0]	.
+[-] go by		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3702,7 +3756,7 @@
 
 
 
-[-] go on		<-->	phrasal verb+C2[-0]	.
+[-] go on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3711,7 +3765,7 @@
 
 
 
-[-] have out		<-->	phrasal verb+C2[-0]	.
+[-] have out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3720,7 +3774,7 @@
 
 
 
-[-] hold against		<-->	phrasal verb+C2[-0]	.
+[-] hold against		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3729,7 +3783,7 @@
 
 
 
-[-] hunker down		<-->	phrasal verb+C2[-0]	.
+[-] hunker down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3738,7 +3792,7 @@
 
 
 
-[-] lay out		<-->	phrasal verb+C2[-0]	.
+[-] lay out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3747,7 +3801,7 @@
 
 
 
-[-] lean to		<-->	phrasal verb+C2[-0]	.
+[-] lean to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3756,7 +3810,7 @@
 
 
 
-[-] lean toward		<-->	phrasal verb+C2[-0]	.
+[-] lean toward		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3765,7 +3819,7 @@
 
 
 
-[-] lean towards		<-->	phrasal verb+C2[-0]	.
+[-] lean towards		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3774,7 +3828,7 @@
 
 
 
-[-] play along		<-->	phrasal verb+C2[-0]	.
+[-] play along		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3783,7 +3837,7 @@
 
 
 
-[-] pronounce on		<-->	phrasal verb+C2[-0]	.
+[-] pronounce on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3792,7 +3846,7 @@
 
 
 
-[-] pronounce upon		<-->	phrasal verb+C2[-0]	.
+[-] pronounce upon		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3801,7 +3855,7 @@
 
 
 
-[-] quarrel with		<-->	phrasal verb+C2[-0]	.
+[-] quarrel with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3810,7 +3864,7 @@
 
 
 
-[-] row back		<-->	phrasal verb+C2[-0]	.
+[-] row back		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3819,7 +3873,7 @@
 
 
 
-[-] score off		<-->	phrasal verb+C2[-0]	.
+[-] score off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3828,7 +3882,7 @@
 
 
 
-[-] shoot down		<-->	phrasal verb+C2[-0]	.
+[-] shoot down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3837,7 +3891,7 @@
 
 
 
-[-] side with		<-->	phrasal verb+C2[-0]	.
+[-] side with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3846,7 +3900,7 @@
 
 
 
-[-] size up		<-->	phrasal verb+C2[-0]	.
+[-] size up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3855,7 +3909,7 @@
 
 
 
-[-] sound off		<-->	phrasal verb+C2[-0]	.
+[-] sound off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3864,7 +3918,7 @@
 
 
 
-[-] spark up		<-->	phrasal verb+C2[-0]	.
+[-] spark up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3873,7 +3927,7 @@
 
 
 
-[-] square with		<-->	phrasal verb+C2[-0]	.
+[-] square with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3882,7 +3936,7 @@
 
 
 
-[-] stake out		<-->	phrasal verb+C2[-0]	.
+[-] stake out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3905,7 +3959,7 @@
 
 
 
-[-] stir up		<-->	phrasal verb+C2[-0]	.
+[-] stir up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3914,7 +3968,7 @@
 
 
 
-[-] tangle with		<-->	phrasal verb+C2[-0]	.
+[-] tangle with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3923,7 +3977,7 @@
 
 
 
-[-] tear apart		<-->	phrasal verb+C2[-0]	.
+[-] tear apart		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3932,7 +3986,7 @@
 
 
 
-[-] tie in		<-->	phrasal verb+C2[-0]	.
+[-] tie in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3941,7 +3995,7 @@
 
 
 
-[-] wade in		<-->	phrasal verb+C2[-0]	.
+[-] wade in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3950,7 +4004,7 @@
 
 
 
-[-] wade into		<-->	phrasal verb+C2[-0]	.
+[-] wade into		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3959,7 +4013,7 @@
 
 
 
-[-] weigh in		<-->	phrasal verb+C2[-0]	.
+[-] weigh in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3968,7 +4022,7 @@
 
 
 
-[-] weigh up		<-->	phrasal verb+C2[-0]	.
+[-] weigh up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3977,7 +4031,7 @@
 
 
 
-[-] write in		<-->	phrasal verb+C2[-0]	.
+[-] write in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3986,7 +4040,7 @@
 
 
 
-[-] lay down		<-->	phrasal verb+C2[-0]	.
+[-] lay down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3995,7 +4049,7 @@
 
 
 
-[-] slap on		<-->	phrasal verb+C2[-0]	.
+[-] slap on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4004,7 +4058,7 @@
 
 
 
-[-] find against		<-->	phrasal verb+C2[-0]	.
+[-] find against		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4013,7 +4067,7 @@
 
 
 
-[-] find for		<-->	phrasal verb+C2[-0]	.
+[-] find for		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4022,7 +4076,7 @@
 
 
 
-[-] go before		<-->	phrasal verb+C2[-0]	.
+[-] go before		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4031,7 +4085,7 @@
 
 
 
-[-] go for		<-->	phrasal verb+C2[-0]	.
+[-] go for		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4040,7 +4094,7 @@
 
 
 
-[-] go off		<-->	phrasal verb+C2[-0]	.
+[-] go off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4049,7 +4103,7 @@
 
 
 
-[-] grow on		<-->	phrasal verb+C2[-0]	.
+[-] grow on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4058,7 +4112,7 @@
 
 
 
-[-] hand down		<-->	phrasal verb+C2[-0]	.
+[-] hand down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4067,7 +4121,7 @@
 
 
 
-[-] have against		<-->	phrasal verb+C2[-0]	.
+[-] have against		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4076,7 +4130,7 @@
 
 
 
-[-] lean to		<-->	phrasal verb+C2[-0]	.
+[-] lean to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4085,7 +4139,7 @@
 
 
 
-[-] lean toward		<-->	phrasal verb+C2[-0]	.
+[-] lean toward		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4094,7 +4148,7 @@
 
 
 
-[-] lean towards		<-->	phrasal verb+C2[-0]	.
+[-] lean towards		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4103,7 +4157,7 @@
 
 
 
-[-] nail down		<-->	phrasal verb+C2[-0]	.
+[-] nail down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4112,7 +4166,7 @@
 
 
 
-[-] narrow down		<-->	phrasal verb+C2[-0]	.
+[-] narrow down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4121,7 +4175,7 @@
 
 
 
-[-] remit to		<-->	phrasal verb+C2[-0]	.
+[-] remit to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4130,7 +4184,7 @@
 
 
 
-[-] settle on		<-->	phrasal verb+C2[-0]	.
+[-] settle on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4139,7 +4193,7 @@
 
 
 
-[-] sleep on		<-->	phrasal verb+C2[-0]	.
+[-] sleep on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4148,7 +4202,7 @@
 
 
 
-[-] take against		<-->	phrasal verb+C2[-0]	.
+[-] take against		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4157,7 +4211,7 @@
 
 
 
-[-] take to		<-->	phrasal verb+C2[-0]	.
+[-] take to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4166,7 +4220,7 @@
 
 
 
-[-] warm to		<-->	phrasal verb+C2[-0]	.
+[-] warm to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4175,7 +4229,7 @@
 
 
 
-[-] warm towards		<-->	phrasal verb+C2[-0]	.
+[-] warm towards		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4184,7 +4238,7 @@
 
 
 
-[-] bring forward		<-->	phrasal verb+C2[-0]	.
+[-] bring forward		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4193,7 +4247,7 @@
 
 
 
-[-] point to		<-->	phrasal verb+C2[-0]	.
+[-] point to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4202,7 +4256,7 @@
 
 
 
-[-] warn off		<-->	phrasal verb+C2[-0]	.
+[-] warn off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4211,7 +4265,7 @@
 
 
 
-[-] add up to		<-->	phrasal verb+C2[-0]	.
+[-] add up to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4220,7 +4274,7 @@
 
 
 
-[-] creep up		<-->	phrasal verb+C2[-0]	.
+[-] creep up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4229,7 +4283,7 @@
 
 
 
-[-] drop away		<-->	phrasal verb+C2[-0]	.
+[-] drop away		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4238,7 +4292,7 @@
 
 
 
-[-] drop off		<-->	phrasal verb+C2[-0]	.
+[-] drop off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4247,7 +4301,7 @@
 
 
 
-[-] fall back		<-->	phrasal verb+C2[-0]	.
+[-] fall back		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4256,7 +4310,7 @@
 
 
 
-[-] fall off		<-->	phrasal verb+C2[-0]	.
+[-] fall off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4265,7 +4319,7 @@
 
 
 
-[-] flow from		<-->	phrasal verb+C2[-0]	.
+[-] flow from		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4274,7 +4328,7 @@
 
 
 
-[-] proceed from		<-->	phrasal verb+C2[-0]	.
+[-] proceed from		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4283,7 +4337,7 @@
 
 
 
-[-] set off		<-->	phrasal verb+C2[-0]	.
+[-] set off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4292,7 +4346,7 @@
 
 
 
-[-] spiral down		<-->	phrasal verb+C2[-0]	.
+[-] spiral down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4301,7 +4355,7 @@
 
 
 
-[-] spiral downward		<-->	phrasal verb+C2[-0]	.
+[-] spiral downward		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4310,7 +4364,7 @@
 
 
 
-[-] spiral downwards		<-->	phrasal verb+C2[-0]	.
+[-] spiral downwards		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4319,7 +4373,7 @@
 
 
 
-[-] boil over		<-->	phrasal verb+C2[-0]	.
+[-] boil over		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4328,7 +4382,7 @@
 
 
 
-[-] boil up		<-->	phrasal verb+C2[-0]	.
+[-] boil up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4337,7 +4391,7 @@
 
 
 
-[-] flirt with		<-->	phrasal verb+C2[-0]	.
+[-] flirt with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4346,7 +4400,7 @@
 
 
 
-[-] gamble on		<-->	phrasal verb+C2[-0]	.
+[-] gamble on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4355,7 +4409,7 @@
 
 
 
-[-] gamble on doing		<-->	phrasal verb+C2[-0]	.
+[-] gamble on doing		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4364,7 +4418,7 @@
 
 
 
-[-] hold on		<-->	phrasal verb+C2[-0]	.
+[-] hold on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4373,7 +4427,7 @@
 
 
 
-[-] hold out		<-->	phrasal verb+C2[-0]	.
+[-] hold out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4382,7 +4436,7 @@
 
 
 
-[-] mind out		<-->	phrasal verb+C2[-0]	.
+[-] mind out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4391,7 +4445,7 @@
 
 
 
-[-] boil over		<-->phrasal verb+C2[-0]	.
+[-] boil over		<-->phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4400,7 +4454,7 @@
 
 
 
-[-] boil up		<-->phrasal verb+C2[-0]	.
+[-] boil up		<-->phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4409,7 +4463,7 @@
 
 
 
-[-] flirt with		<-->phrasal verb+C2[-0]	.
+[-] flirt with		<-->phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4418,7 +4472,7 @@
 
 
 
-[-] gamble on		<-->phrasal verb+C2[-0]	.
+[-] gamble on		<-->phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4427,7 +4481,7 @@
 
 
 
-[-] gamble on doing		<-->phrasal verb+C2[-0]	.
+[-] gamble on doing		<-->phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4436,7 +4490,7 @@
 
 
 
-[-] hold on		<-->phrasal verb+C2[-0]	.
+[-] hold on		<-->phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4445,7 +4499,7 @@
 
 
 
-[-] hold out		<-->phrasal verb+C2[-0]	.
+[-] hold out		<-->phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4454,7 +4508,7 @@
 
 
 
-[-] mind out		<-->phrasal verb+C2[-0]	.
+[-] mind out		<-->phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4463,7 +4517,7 @@
 
 
 
-[-] catch up with		<-->	phrasal verb+C2[-0]	.
+[-] catch up with		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4472,7 +4526,7 @@
 
 
 
-[-] come off		<-->	phrasal verb+C2[-0]	.
+[-] come off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4481,7 +4535,7 @@
 
 
 
-[-] faff about		<-->	phrasal verb+C2[-0]	.
+[-] faff about		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4490,7 +4544,7 @@
 
 
 
-[-] faff around		<-->	phrasal verb+C2[-0]	.
+[-] faff around		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4499,7 +4553,7 @@
 
 
 
-[-] fizzle out		<-->	phrasal verb+C2[-0]	.
+[-] fizzle out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4508,8 +4562,11 @@
 
 
 
-[-] get behind		<-->	phrasal verb+C2[-0]	.
-	; -- (1) 
+[-] get behind		<-->	phrasal verb++C2	[230417][001]	./p/
+	;tụt lại phía sau -- (1) [-get behind (with something)] to fail to make enough progress or to produce something at the right time
+		;I'm getting behind with my work.
+		;He got behind with the payments for his car.
+		;TOPICS Difficulty and failureC2
 	; -- (2) 
 	; -- (3) 
 
@@ -4517,7 +4574,7 @@
 
 
 
-[-] muck up		<-->	phrasal verb+C2[-0]	.
+[-] muck up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4526,7 +4583,7 @@
 
 
 
-[-] pike on		<-->	phrasal verb+C2[-0]	.
+[-] pike on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4535,7 +4592,7 @@
 
 
 
-[-] play up		<-->	phrasal verb+C2[-0]	.
+[-] play up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4544,7 +4601,7 @@
 
 
 
-[-] pull down		<-->	phrasal verb+C2[-0]	.
+[-] pull down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4553,7 +4610,7 @@
 
 
 
-[-] put out		<-->	phrasal verb+C2[-0]	.
+[-] put out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4562,7 +4619,7 @@
 
 
 
-[-] put to		<-->	phrasal verb+C2[-0]	.
+[-] put to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4571,7 +4628,7 @@
 
 
 
-[-] run up against		<-->	phrasal verb+C2[-0]	.
+[-] run up against		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4580,7 +4637,7 @@
 
 
 
-[-] strike out		<-->	phrasal verb+C2[-0]	.
+[-] strike out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4589,7 +4646,7 @@
 
 
 
-[-] talk down		<-->	phrasal verb+C2[-0]	.
+[-] talk down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4598,7 +4655,7 @@
 
 
 
-[-] write off		<-->	phrasal verb+C2[-0]	.
+[-] write off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4607,7 +4664,7 @@
 
 
 
-[-] belong to		<-->	phrasal verb+C2[-0]	.
+[-] belong to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4616,7 +4673,7 @@
 
 
 
-[-] bluff your way in		<-->	phrasal verb+C2[-0]	.
+[-] bluff your way in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4625,7 +4682,7 @@
 
 
 
-[-] bluff your way into		<-->	phrasal verb+C2[-0]	.
+[-] bluff your way into		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4634,7 +4691,7 @@
 
 
 
-[-] bluff your way out		<-->	phrasal verb+C2[-0]	.
+[-] bluff your way out		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4643,7 +4700,7 @@
 
 
 
-[-] bluff your way out of		<-->	phrasal verb+C2[-0]	.
+[-] bluff your way out of		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4652,7 +4709,7 @@
 
 
 
-[-] bluff your way through		<-->	phrasal verb+C2[-0]	.
+[-] bluff your way through		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4661,7 +4718,7 @@
 
 
 
-[-] break into		<-->	phrasal verb+C2[-0]	.
+[-] break into		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4670,7 +4727,7 @@
 
 
 
-[-] break through		<-->	phrasal verb+C2[-0]	.
+[-] break through		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4679,7 +4736,7 @@
 
 
 
-[-] breeze through		<-->	phrasal verb+C2[-0]	.
+[-] breeze through		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4688,7 +4745,7 @@
 
 
 
-[-] bring off		<-->	phrasal verb+C2[-0]	.
+[-] bring off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4697,7 +4754,7 @@
 
 
 
-[-] bubble under		<-->	phrasal verb+C2[-0]	.
+[-] bubble under		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4706,7 +4763,7 @@
 
 
 
-[-] carry off		<-->	phrasal verb+C2[-0]	.
+[-] carry off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4715,7 +4772,7 @@
 
 
 
-[-] carry through		<-->	phrasal verb+C2[-0]	.
+[-] carry through		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4724,7 +4781,7 @@
 
 
 
-[-] chalk up		<-->	phrasal verb+C2[-0]	.
+[-] chalk up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4733,34 +4790,45 @@
 
 
 
-[-] come back in		<-->	phrasal verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] come back in		<-->	phrasal verb++C2	[230321][001]	./p/
+	;trở nên thịnh hành, phổ biến -- (1) to become popular or successful again
+		;Long hair for men seems to be coming back in.
+		;TOPICS SuccessC2
 
 
 
 
 
-[-] come off		<-->	phrasal verb+C2[-0]	.
+[-] come off		<-->	phrasal verb++C2	[230321][001]	./p/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;thành công, hoàn thành -- (3) (informal) (of a plan, etc.) to be successful; to have the intended effect or result
+		;They had wanted it to be a surprise but the plan didn't come off.
+		;TOPICS SuccessC2
+	;chiến thắng,thành công, làm tốt -- (4) ​come off well, badly, etc. (especially British English, informal) to be successful/not successful in a fight, contest, etc.
+		;I thought they came off very well in the debate.
+		;TOPICS SuccessC2, Difficulty and failureC2
+	;bỏ thuốc -- (5) [-come off something] [no passive] to stop taking medicine, a drug, alcohol, etc.
+		;I've tried to get him to come off the tranquillizers.
+		;TOPICS Mental healthC2
 
 
 
 
 
-[-] come through		<-->	phrasal verb+C2[-0]	.
+[-] come through		<-->	phrasal verb++C2	[230321][001]	./p/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;hoàn thành, thông qua -- (3) [-come through (with something)]  to successfully do or complete something that you have promised to do
+		;We were worried she wouldn't be able to handle it, but she came through in the end.
+		;The bank finally came through with the money.
+		;TOPICS SuccessC2
 
 
 
 
 
-[-] dial in		<-->	phrasal verb+C2[-0]	.
+[-] dial in		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4769,7 +4837,8 @@
 
 
 
-[-] dial into		<-->	phrasal verb+C2[-0]	.
+
+[-] dial into		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4778,7 +4847,7 @@
 
 
 
-[-] dispose of		<-->	phrasal verb+C2[-0]	.
+[-] dispose of		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4787,16 +4856,28 @@
 
 
 
-[-] get through		<-->	phrasal verb+C2[-0]	.
-	; -- (1) 
+[-] get through		<-->	phrasal verb++C2	[230417][001]	./p/
+	;thu được -- (1) [-get through something] to use up a large amount of something	
+		;We got through a fortune while we were in New York!
 	; -- (2) 
+	;thi đậu, vượt qua -- (3) (British English) to be successful in an exam, etc.
+		;TOPICS SuccessC2
+	;vượt qua -- (4) [-get somebody through something] to help somebody to be successful in an exam
+		;She got all her students through the exam.
+		;TOPICS SuccessC2
+	; -- (5) 
+	; -- (6) 
+	;thử gọi điện -- (7) [-get through (to somebody)] to make contact with somebody by phone
+		;I tried calling you several times but I couldn't get through.
+		;TOPICS Phones, email and the internetC1
+	; -- (3) 
 	; -- (3) 
 
 
 
 
 
-[-] hammer away at		<-->	phrasal verb+C2[-0]	.
+[-] hammer away at		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4805,7 +4886,7 @@
 
 
 
-[-] measure up		<-->	phrasal verb+C2[-0]	.
+[-] measure up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4814,7 +4895,7 @@
 
 
 
-[-] muddle through		<-->	phrasal verb+C2[-0]	.
+[-] muddle through		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4823,7 +4904,7 @@
 
 
 
-[-] parlay into		<-->	phrasal verb+C2[-0]	.
+[-] parlay into		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4832,7 +4913,7 @@
 
 
 
-[-] pull off		<-->	phrasal verb+C2[-0]	.
+[-] pull off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4841,7 +4922,7 @@
 
 
 
-[-] sail through		<-->	phrasal verb+C2[-0]	.
+[-] sail through		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4850,7 +4931,7 @@
 
 
 
-[-] scrape through		<-->	phrasal verb+C2[-0]	.
+[-] scrape through		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4859,7 +4940,7 @@
 
 
 
-[-] shoot for		<-->	phrasal verb+C2[-0]	.
+[-] shoot for		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4868,7 +4949,7 @@
 
 
 
-[-] smile on		<-->	phrasal verb+C2[-0]	.
+[-] smile on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4877,7 +4958,7 @@
 
 
 
-[-] stick at		<-->	phrasal verb+C2[-0]	.
+[-] stick at		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4886,7 +4967,7 @@
 
 
 
-[-] top off		<-->	phrasal verb+C2[-0]	.
+[-] top off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4895,7 +4976,7 @@
 
 
 
-[-] turn around		<-->	phrasal verb+C2[-0]	.
+[-] turn around		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4904,7 +4985,7 @@
 
 
 
-[-] turn round		<-->	phrasal verb+C2[-0]	.
+[-] turn round		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4913,7 +4994,7 @@
 
 
 
-[-] walk into		<-->	phrasal verb+C2[-0]	./p/
+[-] walk into		<-->	phrasal verb++C2	[230313][001]	./p/
 	;can dự, dự vào -- (1) [-walk into something] (informal) to become involved in an unpleasant situation, especially because you were not sensible enough to avoid it
 		;I realized I'd walked into a trap.
 	;bước vào/lấy/nhận dễ dàng -- (2) to succeed in getting a job very easily
@@ -4926,7 +5007,7 @@
 
 
 
-[-] win out		<-->	phrasal verb+C2[-0]	./p/
+[-] win out		<-->	phrasal verb++C2	[230313][001]	./p/
 	;thành công sau khi trãi qua nhiều khó khăn -- (1) [-win out/through] (informal) to be successful despite difficulties
 		;It won't be easy but we'll win through in the end.
 		;TOPICS SuccessC2
@@ -4934,7 +5015,7 @@
 
 
 
-[-] win through		<-->	phrasal verb+C2[-0]	./p/
+[-] win through		<-->	phrasal verb++C2	[230313][001]	./p/
 	;thành công sau khi trãi qua nhiều khó khăn -- (1) [-win out/through] (informal) to be successful despite difficulties
 		;It won't be easy but we'll win through in the end.
 		;TOPICS SuccessC2
@@ -4942,7 +5023,7 @@
 
 
 
-[-] work at		<-->	phrasal verb+C2[-0]	./p/
+[-] work at		<-->	phrasal verb++C2	[230313][001]	./p/
 	;nỗ lực -- (1) [-work at something]to make great efforts to achieve something or do something well
 		;He's working at losing weight.
 		;Learning to play the piano isn't easy. You have to work at it.
@@ -4951,7 +5032,7 @@
 
 
 
-[-] crank up		<-->	phrasal verb+C2[-0]	.
+[-] crank up		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4960,7 +5041,7 @@
 
 
 
-[-] shut off		<-->	phrasal verb+C2[-0]	.
+[-] shut off		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 

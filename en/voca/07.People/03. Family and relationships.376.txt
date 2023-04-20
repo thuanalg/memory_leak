@@ -5,10 +5,43 @@
 
 
 
-[-] acquaintance		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] acquaintance		<-->	noun++B2	[230417][001]	./əˈkweɪntəns/-NAmE /əˈkweɪntəns/
+	;người quen -- (1) ​[countable] a person that you know but who is not a close friend
+		;Claire has a wide circle of friends and acquaintances.
+		;He's just a business acquaintance.
+		;I bumped into an old acquaintance on the train.
+		;Wordfinder: acquaintancebondbuddycompanioncomradefriendmateneighbourplatonicplaymate
+		;Extra Examples:
+		;He was greeted as an old acquaintance.
+		;I bumped into a casual acquaintance in town.
+		;TOPICS Family and relationshipsB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;casualnewclose…
+				;verb + acquaintance
+				;bump intomeetrun into…
+				;phrases
+				;friends and acquaintances
+		;See full entry
+	;sự quen biết -- (2) [uncountable, countable] acquaintance (with somebody) (formal) slight friendship
+		;He hoped their acquaintance would develop further.
+		;a man with whom I had a passing acquaintance
+		;I first met Simon in 2008 and struck up an acquaintance with him
+	;kiến thức về st -- (3) [uncountable, countable] acquaintance with something (formal) knowledge of something
+		;I had little acquaintance with modern poetry.
+		;Extra Examples:
+		;her acquaintance with modern French philosophy
+		;They have little acquaintance with colloquial English.
+				;Oxford Collocations Dictionary
+				;adjective
+				;noddingpassingslight…
+				;verb + acquaintance
+				;make somebody’s/​something’sstrike uprenew…
+				;preposition
+				;of somebody’s acquaintanceacquaintance with
+				;phrases
+				;have an acquaintance withon close acquaintanceon closer acquaintance…
+		;See full entry
 
 
 
@@ -17,7 +50,7 @@
 
 
 
-[-] adopt		<-->	verb++B2[-0]	.
+[-] adopt		<-->	verb++B2	[230417][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -29,10 +62,14 @@
 
 
 
-[-] adoptive		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] adoptive		<-->	adjective++C1	[230417][001]	./əˈdɒptɪv/-NAmE /əˈdɑːptɪv/ [usually before noun]
+	;c. nuôi -- (1) ​(of a parent, child or family) in that relationship as a result of the parent legally adopting the child
+		;his adoptive father
+		;TOPICS Life stagesC1, FAMILY AND RELATIONSHIPSC1
+				;Oxford Collocations Dictionary
+				;Adoptive is used with these nouns:
+				;familyfathermother…
+		;See full entry
 
 
 
@@ -41,10 +78,11 @@
 
 
 
-[-] adulterous		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] adulterous		<-->	adjective++C2	[230417][001]	./əˈdʌltərəs/-NAmE /əˈdʌltərəs/
+	;ngoại tình -- (1) involving sex between a married person and somebody who is not their husband or wife; (of a married person) having sex with somebody who is not their husband or wife
+		;an adulterous relationship
+		;adulterous wives/husbands
+		;TOPICS FAMILY AND RELATIONSHIPSC2
 
 
 
@@ -53,10 +91,16 @@
 
 
 
-[-] adultery		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] adultery		<-->	noun++C2	[230417][001]	./əˈdʌltəri/-NAmE /əˈdʌltəri/ [uncountable]
+	;sự ngoại tình -- (1) sex between a married person and somebody who is not their husband or wife
+		;He was accused of committing adultery.
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;verb + adultery
+				;be guilty ofcommitaccuse somebody of…
+				;preposition
+				;adultery with
+		;See full entry
 
 
 
@@ -65,10 +109,32 @@
 
 
 
-[-] affair		<-->	noun++B2[-0]	.
+[-] affair		<-->	noun++B2	[230417][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;việc sex, ngoại tình -- (3) [-relationship] [countable] a sexual relationship between two people, usually when one or both of them are already in a relationship with somebody else
+		;She was having an affair with a co-worker.
+		;an extramarital affair
+		;It's the story of a secret affair between a married teacher and her teenage student.
+		;SEE ALSO love affair
+		;Wordfinder: affair, date, go out with somebody, jealous, love. marriage, partner, passionate, relationship, romantic,
+		;Extra Examples:
+		;They had a passionate affair for six months.
+		;Their affair did not develop into a lasting relationship.
+		;an affair with a married man
+		;a torrid love affair
+		;How long has the affair been going on?
+		;TOPICS FAMILY AND RELATIONSHIPSB2
+			;Oxford Collocations Dictionary
+			;adjective
+				;briefcasualclandestine…
+			;verb + affair
+				;carry onconducthave…
+				;affair + verb
+				;go on
+			;preposition
+				;affair betweenaffair with
+		;See full entry
 
 
 
@@ -77,10 +143,9 @@
 
 
 
-[-] affaire		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] affaire		<-->	noun++C2	[230417][001]	./əˈfeə(r)/-NAmE /əˈfer/ (from French, literary)
+	;mối tình -- (1) a love affair
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -89,8 +154,32 @@
 
 
 
-[-] affinity		<-->	noun++C2[-0]	.
-	; -- (1) 
+[-] affinity		<-->	noun++C2	[230417][001]	./əˈfɪnəti/-NAmE /əˈfɪnəti/ (plural affinities) (formal)
+	;sự thông giao, thân thiết, người tri kỷ -- (1) [singular] affinity (for/with somebody/something) | affinity (between A and B) a strong feeling that you understand somebody/something and like them or it
+		;SYNONYM rapport
+		;<< rapport, affinity, >>
+		;Sam was born in the country and had a deep affinity with nature.
+		;Humans have a special affinity for dolphins.
+		;Extra Examples:
+		;He has a natural affinity with numbers.
+		;His work shows some affinity with current trends in design.
+		;I felt a great affinity with the people of the Highlands.
+		;Jo feels a great affinity towards Pamela.
+		;Most children will show an affinity for something, whether this is music, numbers or drawing.
+		;She felt an affinity with earlier poets.
+		;It's important that you share an affinity with your husband.
+		;There was a natural affinity between the two women.
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;closegreatreal…
+				;… of affinity
+				;degreelevel
+				;verb + affinity
+				;feelhaveshare…
+				;preposition
+				;affinity betweenaffinity foraffinity towards/​toward…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -101,8 +190,8 @@
 
 
 
-[-] alike		<-->	adjective++C1[-0]	.
-	; -- (1) 
+[-] alike		<-->	adjective++C1	[230417][001]	./cef/
+	;giống, tương tự, như nhau -- (1) very similar
 	; -- (2) 
 	; -- (3) 
 
@@ -113,9 +202,27 @@
 
 
 
-[-] ally		<-->	noun++C1[-0]	.
+[-] ally		<-->	noun++C1	[230417][001]	./cef/
 	; -- (1) 
-	; -- (2) 
+	;người cùng phe -- [countable] a person who helps and supports somebody who is in a difficult situation, especially a politician
+		;a close ally and friend of the prime minister
+		;her most powerful political ally
+		;His sister was his ally against their grandparents.
+		;Extra Examples:
+		;Charles remained a close ally of the French king.
+		;He now had an ally against his boss.
+		;Jane felt that she had an ally.
+		;She had found an ally in her old teacher.		
+		;TOPICS FAMILY AND RELATIONSHIPSC1
+			;Oxford Collocations Dictionary
+			;adjective
+				;greatimportantkey…
+			;verb + ally
+				;havefindgain…
+			;preposition
+				;ally against
+			;phrases
+				;find an ally in somebodyhave an ally in somebodya friend and ally…
 	; -- (3) 
 
 
@@ -125,10 +232,9 @@
 
 
 
-[-] amity		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] amity		<-->	noun++C2	[230417][001]	./ˈæməti/-NAmE /ˈæməti/ [uncountable] (formal)
+	;tình hữu nghị -- (1) a friendly relationship between people or countries
+		;TOPICS FAMILY AND RELATIONSHIPSC2
 
 
 
@@ -137,7 +243,7 @@
 
 
 
-[-] ancestor		<-->	noun++B2[-0]	.
+[-] ancestor		<-->	noun++B2	[230417][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -149,10 +255,27 @@
 
 
 
-[-] ancestry		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] ancestry		<-->	noun++C1	[230417][001]	./ˈænsestri/-NAmE /ˈænsestri/
+[countable, usually singular, uncountable] (plural ancestries)
+	;dòng họ, tổ tiên -- (1) the family or the group of people that you come from
+		;to have Scottish ancestry
+		;He was able to trace his ancestry back over 1 000 years.
+		;people of Japanese ancestry
+		;Extra Examples:
+		;Humans share a common ancestry with chimpanzees.
+		;His eyes owed their startling blueness to his Irish ancestry.
+		;(figurative) The company claims an ancestry going back to 1727.
+		;TOPICS HistoryC1, Family and relationshipsC1, People in societyC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;commonsharedAfrican…
+				;verb + ancestry
+				;claimhaveshare…
+				;ancestry + verb
+				;go back to
+				;phrases
+				;be of Irish, German, etc. ancestry
+		;See full entry
 
 
 
@@ -161,10 +284,15 @@
 
 
 
-[-] annul		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] annul		<-->	verb++C2	[230417][001]	./əˈnʌl/-NAmE /əˈnʌl/
+	;bác bỏ, huỷ bỏ -- (1) annul something to state officially that something is not legally recognized
+		;Their marriage was annulled after just six months.
+		;Amid renewed protests, the regime annulled the elections.
+		;TOPICS FAMILY AND RELATIONSHIPSC2
+				;Oxford Collocations Dictionary
+				;Annul is used with these nouns as the object:
+				;marriage
+		;See full entry
 
 
 
@@ -173,10 +301,11 @@
 
 
 
-[-] annulment		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] annulment		<-->	noun++C2	[230417][001]	./əˈnʌlmənt/-NAmE /əˈnʌlmənt/
+[countable, uncountable]
+	;sự bác bỏ, huỷ bỏ -- (1) the act of stating officially that something, usually a marriage, is not legally recognized
+		;The king sought an annulment of his marriage to Catherine of Aragon.
+		;TOPICS FAMILY AND RELATIONSHIPSC2, Law and justiceC2
 
 
 
@@ -185,9 +314,12 @@
 
 
 
-[-] antecedent		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] antecedent		<-->	noun++C2	[230417][001]	./ˌæntɪˈsiːdnt/-NAmE /ˌæntɪˈsiːdnt/
+	;tiền thân -- (1) [countable] (formal) a thing or an event that exists or comes before another, and may have influenced it
+	;tổ tiên -- (2) ​antecedents [plural] (formal) the people in somebody’s family who lived a long time ago
+		;SYNONYM ancestor, forebear
+		;<< ancestor, forebear, antecedent, >>
+		;TOPICS Family and relationshipsC2
 	; -- (3) 
 
 
@@ -197,7 +329,7 @@
 
 
 
-[-] aunt		<-->	noun++A1[-0]	.
+[-] aunt		<-->	noun++A1	[230417][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -209,10 +341,9 @@
 
 
 
-[-] avuncular		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] avuncular		<-->	adjective++C2	[230417][001]	./əˈvʌŋkjələ(r)/-NAmE /əˈvʌŋkjələr/ (formal)
+	;cưng chiều -- (1) behaving in a kind and friendly way towards young people, similar to the way a kind uncle treats his nieces or nephews
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -221,7 +352,7 @@
 
 
 
-[-] background		<-->	noun++A2[-0]	.
+[-] background		<-->	noun++A2	[230417][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -233,71 +364,87 @@
 
 
 
-[-] band		<-->	noun++B2[-0]	.
+[-] band		<-->	noun++B2	[230417][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
-
+	;nhóm người -- [A1-B2] (3) [-group of people] [countable + singular or plural verb] a group of people who do something together or who have the same ideas, interests or achievements
+		;a band of outlaws/rebels
+		;He persuaded a small band of volunteers to help.
+		;Extra Examples:
+		;They are members of a growing band of enthusiasts.
+		;The two men are part of a dwindling band of veterans.
+		;He is one of a select band of top class players.
+		;The young Irishman joined the elite band of Formula One drivers this week.
+		;TOPICS Family and relationshipsB2
+			;Oxford Collocations Dictionary
+			;adjective
+				;selectsmalldwindling…
+			;verb + band
+				;join
+			;preposition
+				;band of
+		;See full entry
 
 
 
 
 
 
-
-[-] befriend		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+[-] befriend		<-->	verb++C2	[230417][001]	./bɪˈfrend/-NAmE /bɪˈfrend/ [usually passive]
+	;trở thành bạn -- (1) befriend somebody to become a friend of somebody, especially somebody who needs your help
+		;Shortly after my arrival at the school, I was befriended by an older girl.
+		;TOPICS Family and relationshipsC2
 
 
 
 
 
 
-[-] be on good, friendly, bad, etc. terms (with somebody)		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+[-] be on good, friendly, bad, etc. terms (WITH somebody)		<-->	idiom++C1	[230417][001]	./i/
+	;đang ở tình trạng tốt với sb -- (1) to have a good, friendly, etc. relationship with somebody
+		;I had no idea that you and he were on such intimate terms (= were such close friends).
+		;He is still on excellent terms with his ex-wife.
+		;I'm on first-name terms with my boss now (= we call each other by our first names).
+		;TOPICS Family and relationshipsC1
 
 
 
 
 
 
-[-] bestie		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+[-] bestie		<-->	noun++C2	[230417][001]	./ˈbesti/-NAmE /ˈbesti/ (informal)
+	;bạn tốt -- (1) a person's best friend
+		;It was fun hanging out with my bestie.
+		;be besties with somebody Hank is besties with Sarah.
+		;TOPICS Family and relationshipsC2
 
 
 
 
 
 
-[-] bF		<-->	abbreviation++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+[-] BF		<-->	abbreviation++C2	[230417][001]	./ˌbiː ˈef/-NAmE /ˌbiː ˈef/ (also bf) (informal)
+	;bạn trai, bạn tốt -- (1) ​(especially in text messages, on social media, etc.) boyfriend; best friend
+		;TOPICS Phones, email and the internetC2, Family and relationshipsC2
 
 
 
 
 
 
-[-] biracial		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+[-] biracial		<-->	adjective++C1	[230418][001]	./ˌbaɪˈreɪʃl/-NAmE /ˌbaɪˈreɪʃl/ (especially North American English) (also mixed-race British and North American English)
+	;lưỡng tính -- (1) ​involving people of two different races; having parents from two different races
+		;His biracial identity and history are important to him.
+		;TOPICS Family and relationshipsC1, People in societyC1
 
 
 
@@ -305,10 +452,9 @@
 
 
 
-[-] birth father		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] birth father		<-->	noun++C1	[230418][001]	./ˈbɜːθ fɑːðə(r)/-NAmE /ˈbɜːrθ fɑːðər/
+	;cha đẻ -- (1) the biological father of a child who has been adopted
+		;TOPICS Family and relationshipsC1, Life stagesC1
 
 
 
@@ -317,10 +463,9 @@
 
 
 
-[-] birth mother		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] birth mother		<-->	noun++C1	[230418][001]	./ˈbɜːθ mʌðə(r)/-NAmE /ˈbɜːrθ mʌðər/
+	;mẹ đẻ -- (1) the woman who gave birth to a child who has been adopted
+		;TOPICS Family and relationshipsC1, Life stagesC1
 
 
 
@@ -329,10 +474,16 @@
 
 
 
-[-] birthright		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] birthright		<-->	noun++C2	[230418][001]	./ˈbɜːθraɪt/-NAmE /ˈbɜːrθraɪt/ (formal)
+	;quyền thừa kế -- (1) a thing that somebody has a right to because of the family or country they were born in, or because it is a basic right of all humans
+		;The property is the birthright of the eldest child.
+		;Education is every child's birthright.
+		;They believe that success is their birthright.
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;Birthright is used before these nouns:
+				;citizenship
+		;See full entry
 
 
 
@@ -341,10 +492,9 @@
 
 
 
-[-] blended family		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] blended family		<-->	noun++C2	[230418][001]	./ˌblendɪd ˈfæməli/-NAmE /ˌblendɪd ˈfæməli/ (especially North American English)
+	;gia đình nhiều thế hệ, gia đình nhiều phức tạp -- (1) a family that consists of two people and their children from their own relationship and from previous ones
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -353,10 +503,10 @@
 
 
 
-[-] blood		<-->	noun++C2[-0]	.
+[-] blood		<-->	noun++C2	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;dòng máu, huyết thống -- (3) [uncoountable] (formal) family origins
 
 
 
@@ -365,10 +515,9 @@
 
 
 
-[-] blood relation		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] blood relation		<-->	noun++C2	[230418][001]	./ˈblʌd rɪleɪʃn/-NAmE /ˈblʌd rɪleɪʃn/ (also blood relative)
+	;quan hệ quyết thống -- (1) a person related to somebody by birth rather than by marriage
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -377,10 +526,9 @@
 
 
 
-[-] blue blood		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] blue blood		<-->	noun++C2	[230418][001]	./ˌbluː ˈblʌd/-NAmE /ˌbluː ˈblʌd/ [uncountable]
+	;dòng máu quý tộc -- (1) the fact of being from a royal or noble family
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -389,10 +537,9 @@
 
 
 
-[-] blue-blooded		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] blue-blooded		<-->	adjective++C2	[230418][001]	./ˌbluː ˈblʌdɪd/-NAmE /ˌbluː ˈblʌdɪd/
+	;từ dòng máu quý tộc -- (1) from a royal or noble family
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -401,8 +548,29 @@
 
 
 
-[-] bond		<-->	noun++B2[-0]	.
-	; -- (1) 
+[-] bond		<-->	noun++B2	[230418][001]	./cef/
+	;mối liên kết -- (2) [-strong connection] [countable] something that forms a connection between people or groups, such as a feeling of friendship or shared ideas and experiences
+		;the bond that links us
+		;bond between A and B A bond of friendship had been forged between them.
+		;The agreement strengthened the bonds between the two countries.
+		;the special bond between mother and child
+		;Informal language creates a bond between the members of the community.
+		;bond with somebody The students formed strong bonds with each other.
+		;Wordfinder: acquaintance, bond, buddy, companion, comrade, friend, mate, neighbour, platonic, playmate, 
+		;Extra Examples:
+		;She felt a bond of affection for the other girls.
+		;We try to forge bonds between the different communities.
+		;TOPICS Family and relationshipsB2
+			;Oxford Collocations Dictionary
+			;adjective
+				;closestrongcommon…
+			;verb + bond
+				;be linked byfeel, have…
+				;bond + verb
+				;existlink somebody
+			;preposition
+				;bond betweenbond of
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -413,10 +581,11 @@
 
 
 
-[-] bond		<-->	verb++C1[-0]	.
+[-] bond		<-->	verb++C1	[230418][001]	./bɒnd/-NAmE /bɑːnd/
 	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;phát triển tình cảm -- (2) [-develop relationship] [intransitive, transitive] bond (with somebody) to develop or create a relationship of trust with somebody
+		;Mothers who are depressed sometimes fail to bond with their children.
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -425,10 +594,11 @@
 
 
 
-[-] bonding		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bonding		<-->	noun++C2	[230418][001]	./ˈbɒndɪŋ/-NAmE /ˈbɑːndɪŋ/ [uncountable]
+	;mối thâm tình -- (1) the process of forming a special relationship with somebody or with a group of people
+		;mother-child bonding
+		;SEE ALSO male bonding
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -437,10 +607,10 @@
 
 
 
-[-] bonhomie		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bonhomie		<-->	noun++C2	[230418][001]	./ˈbɒnəmi/-NAmE /ˌbɑːnəˈmiː/ [uncountable] (from French, formal)
+	;sự thân thiện -- (1) a feeling of cheerful friendship
+		;There was a casual bonhomie between the actors at rehearsals.
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -449,10 +619,11 @@
 
 
 
-[-] bosom friend		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bosom friend		<-->	noun++C2	[230418][001]	./ˌbʊzəm ˈfrend/-NAmE /ˌbʊzəm ˈfrend/ (North American English also bosom buddy)
+	;bạn thân -- (1) a very close friend
+		;The two girls had become bosom friends.
+		;TOPICS Family and relationshipsC2
+		;Compare: bosom friend , rapport
 
 
 
@@ -461,7 +632,7 @@
 
 
 
-[-] boyfriend		<-->	noun++A1[-0]	.
+[-] boyfriend		<-->	noun++A1	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -473,10 +644,14 @@
 
 
 
-[-] branch		<-->	noun++C1[-0]	.
+[-] branch		<-->	noun++C1	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;nhánh -- [B1-C1] (7) [-of family] a group of members of a family who all have the same ancestors
+		;My uncle's branch of the family emigrated to Canada.
+		;Wordfinder: ancestorbranchdescentdynastyfamily treegenealogygenerationinheritrelationtrace
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -485,8 +660,12 @@
 
 
 
-[-] break-up		<-->	noun++C1[-0]	.
-	; -- (1) 
+[-] break-up		<-->	noun++C1	[230418][001]	./ˈbreɪk ʌp/-NAmE /ˈbreɪk ʌp/
+	;sự kết thúc quan hệ -- (1) [countable, usually singular, uncountable] the ending of a relationship or an association
+		;a marital break-up
+		;the break-up of their marriage
+		;Family break-up increases the risk of childhood depression.
+		;TOPICS Family and relationshipsC1
 	; -- (2) 
 	; -- (3) 
 
@@ -497,10 +676,17 @@
 
 
 
-[-] break up		<-->	phrasal verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] break up		<-->	 phrasal verb+B1	[221220][002]	./p/ [230304]
+	;phân nhỏ -- (1) to separate into smaller pieces
+		;The ship broke up on the rocks.
+	;kết thúc -- (2) to come to an end
+		;Their marriage has broken up.
+		;RELATED NOUN break-up
+		;TOPICS Family and relationshipsB1
+	;kết thúc -- (3) [-break up (with somebody)] to end a relationship with somebody
+		;She's just broken up with her boyfriend.
+		;RELATED NOUN break-up
+		;TOPICS Family and relationshipsB1
 
 
 
@@ -509,10 +695,32 @@
 
 
 
-[-] breeding		<-->	noun++C2[-0]	.
-	; -- (1) 
+[-] breeding		<-->	noun++C2	[230418][001]	./ˈbriːdɪŋ/-NAmE /ˈbriːdɪŋ/ [uncountable]
+	;sự gây giống, nuôi giống -- (1) the keeping of animals in order to breed (= produce young) from them
+		;the breeding of horses
+		;a breeding programme
+		;Extra Examples:
+		;Certain characteristics can be developed through selective breeding.
+		;a campaign to save the condor by captive breeding
+				;Oxford Collocations Dictionary
+				;adjective
+				;animalhorselivestock…
+				;breeding + noun
+				;seasonstockprogramme/​program…
+		;See full entry
 	; -- (2) 
-	; -- (3) 
+	;dòng giống, dòng dõi, tông tộc -- (3) the family or social background that is thought to result in good manners
+		;a sign of good breeding
+		;Extra Examples:
+		;Her good breeding shows in her exquisite manners.
+		;The young man clearly has breeding.
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;good
+				;verb + breeding
+				;have
+		;See full entry
 
 
 
@@ -521,10 +729,14 @@
 
 
 
-[-] broer		<-->	noun++C2[-0]	.
-	; -- (1) 
+[-] broer		<-->	noun++C2	[230418][001]	./ˈbruːə(r)/-NAmE /ˈbruːər/
+ South African English [bruːr] (South African English, informal)
+	;huynh đệ -- (1) a brother
+		;TOPICS Family and relationshipsC2
 	; -- (2) 
-	; -- (3) 
+	;huynh đệ -- (3) a friendly form of address that is used by one boy or man to another
+		;How's it going, my broer?
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -533,10 +745,11 @@
 
 
 
-[-] broken home		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] broken home		<-->	noun++C2	[230418][001]	./ˌbrəʊkən ˈhəʊm/-NAmE /ˌbrəʊkən ˈhəʊm/
+	;sự tan vỡ gia đình -- (1) a family in which the parents are divorced or separated
+		;She comes from a broken home.
+		;children from a broken home
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -545,7 +758,7 @@
 
 
 
-[-] brother		<-->	noun++A1[-0]	.
+[-] brother		<-->	noun++A1	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -557,9 +770,14 @@
 
 
 
-[-] brotherhood		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] brotherhood		<-->	noun++C1	[230418][001]	./ˈbrʌðəhʊd/-NAmE /ˈbrʌðərhʊd/
+	;tình huynh đệ -- (1) [uncountable] friendship and understanding between people
+		;to live in peace and brotherhood
+		;The group tries to promote a spirit of brotherhood among its members.
+		;TOPICS Family and relationshipsC1
+	;hội huynh đệ trong tôn giáo -- (2) [countable + singular or plural verb] an organization formed for a particular purpose, especially a religious society or political organization
+		;a brotherhood of union members
+		;TOPICS Religion and festivalsC2
 	; -- (3) 
 
 
@@ -569,8 +787,10 @@
 
 
 
-[-] brother-in-law		<-->	noun++B1[-0]	.
-	; -- (1) 
+[-] brother-in-law		<-->	noun++B1	[230418][001]	./ˈbrʌðər ɪn lɔː/-NAmE /ˈbrʌðər ɪn lɔː/ (plural brothers-in-law)
+	;anh em khác cha hoặc mẹ -- (1) the brother of your husband or wife; your sister’s or brother's husband; the husband of your husband's or wife’s sister or brother
+		;COMPARE sister-in-law
+		;TOPICS Family and relationshipsB1
 	; -- (2) 
 	; -- (3) 
 
@@ -581,10 +801,15 @@
 
 
 
-[-] brotherly		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] brotherly		<-->	adjective++C1	[230418][001]	./ˈbrʌðəli/-NAmE /ˈbrʌðərli/ [usually before noun]
+	;như anh em -- (1) being kind and showing feelings of love in a way that you would expect a brother to behave
+		;brotherly love/advice
+		;He gave her a brotherly kiss on the cheek.
+		;TOPICS Family and relationshipsC1
+				;Oxford Collocations Dictionary
+				;Brotherly is used with these nouns:
+				;affectionlove
+		;See full entry
 
 
 
@@ -593,10 +818,10 @@
 
 
 
-[-] bua		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bua		<-->	noun++C2	[230418][001]	./ˈbuːɑː/-NAmE /ˈbuːɑː/ (Indian English)
+	;cô -- (1) an aunt who is the sister of your father
+		;COMPARE maasi (1)
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -605,7 +830,7 @@
 
 
 
-[-] buddy		<-->	noun++C1[-0]	.
+[-] buddy		<-->	noun++C1	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -617,10 +842,10 @@
 
 
 
-[-] by marriage		<-->	idiom++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] by marriage		<-->	idiom++B1	[230418][001]	./i/
+	; -- (1) when somebody is related to you by marriage, they are married to somebody in your family, or you are married to somebody in their family
+		;Jane and I are related by marriage.
+		;TOPICS Family and relationshipsB2
 
 
 
@@ -629,10 +854,11 @@
 
 
 
-[-] camaraderie		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] camaraderie		<-->	noun++C2	[230418][001]	./ˌkæməˈrɑːdəri/-NAmE /ˌkɑːməˈrɑːdəri/ [uncountable]
+	;tình tri kỉ -- (1) a feeling of friendship and trust among people who work or spend a lot of time together
+		;the wartime spirit of camaraderie
+		;<< camaraderie, rapport, >>
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -641,7 +867,7 @@
 
 
 
-[-] care		<-->	verb++A2[-0]	.
+[-] care		<-->	verb++A2	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -652,12 +878,16 @@
 
 
 
-
-[-] caress		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+[-] caress		<-->	verb++C2	[230418][002]	./kəˈres/-NAmE /kəˈres/
+	;vuốt ve -- (1) caress somebody/something to touch somebody/something gently, especially in a sexual way or in a way that shows love
+		;His fingers gently caressed her cheek.
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;gentlylightlysoftly…
+		;See full entry
+		;Word Origin
 
 
 
@@ -665,11 +895,15 @@
 
 
 
-[-] caress		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+[-] caress		<-->	noun++C2	[230418][001]	./kəˈres/-NAmE /kəˈres/
+	;sự vuốt ve -- (1) a gentle touch or kiss to show you love somebody
+		;the kisses and caresses of lovers
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;gentlesofttender…
+		;See full entry
 
 
 
@@ -677,11 +911,11 @@
 
 
 
-[-] chacha		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+[-] chacha		<-->	noun++C2	[230418][001]	./ˈtʃɑːtʃɑː/-NAmE /ˈtʃɑːtʃɑː/ (Indian English)
+	;chú bác -- (1) an uncle who is the brother of your father
+		;COMPARE mama2 (1)
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -689,10 +923,10 @@
 
 
 
-[-] chachi		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] chachi		<-->	noun++C2	[230418][001]	./ˈtʃɑːtʃiː/-NAmE /ˈtʃɑːtʃiː/ (Indian English)
+	;thiếm, bác gái -- (1) an aunt who is married to the brother of your father
+		;COMPARE mami
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -701,10 +935,12 @@
 
 
 
-[-] cheat		<-->	verb++C1[-0]	.
+[-] cheat		<-->	verb++C1	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;ngoại tình -- (3) [intraansitive] cheat (on somebody) (of somebody who is married or who has a regular sexual partner) to have a secret sexual relationship with somebody else
+		;He’s cheating on his wife.
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -713,10 +949,19 @@
 
 
 
-[-] chemistry		<-->	noun++C2[-0]	.
+[-] chemistry		<-->	noun++C2	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;mối quan hệ tình cảm-- (3) the relationship between two people, usually a strong sexual attraction
+		;sexual chemistry
+		;The chemistry just wasn't right.
+		;The personal chemistry between the two stars is obvious.
+		;TOPICS Family and relationshipsC2
+			;Oxford Collocations Dictionary
+			;adjective
+				;personalsexual
+			;preposition
+				;chemistry between -- (3) 
 
 
 
@@ -725,10 +970,11 @@
 
 
 
-[-] cherish		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] cherish		<-->	verb++C2	[230418][001]	./ˈtʃerɪʃ/-NAmE /ˈtʃerɪʃ/ (formal)
+	;yêu say đắm -- (1) cherish somebody/something to love somebody/something very much and want to protect them or it
+		;Children need to be cherished.
+		;her most cherished possession
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -737,10 +983,12 @@
 
 
 
-[-] christian name		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] christian name		<-->	noun++C1	[230418][001]	./ˈkrɪstʃən neɪm/-NAmE /ˈkrɪstʃən neɪm/
+	;tên Thánh -- (1) ​(in Western countries) a name given to somebody when they are born or when they are christened; a personal name, not a family name
+		;We're all on Christian-name terms here.
+		;COMPARE first name
+		;Culture names
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -749,10 +997,25 @@
 
 
 
-[-] chuck		<-->	verb++C2[-0]	.
-	; -- (1) 
+[-] chuck		<-->	verb++C2	[230418][001]	./tʃʌk/-NAmE /tʃʌk/
+	;ném, quăng -- (1) (especially British English, informal) to throw something carelessly or without much thought
+		;chuck something (+ adv./prep.) He chucked the paper in a drawer.
+		;chuck somebody something Chuck me the newspaper, would you?
+		;Synonyms throw: toss ▪ hurl ▪ fling ▪ chuck ▪ lob ▪ bowl ▪ pitch, throw
+		;<< throw: toss ▪ hurl ▪ fling ▪ chuck ▪ lob ▪ bowl ▪ pitch, throw, >>
+		;Extra Examples:
+		;He chucked the bags down onto the floor.
+		;He picked up the letter and chucked it into the bin.
+		;The children have been chucking their toys around again.
+		;Chuck me that newspaper, can you?
+		;He chucked the paper into a drawer.
+		;I chucked him the keys.
+		;They were always chucking plates and things at each other.
 	; -- (2) 
-	; -- (3) 
+	;bỏ rơi -- (3) chuck somebody (British English, informal) to leave your boyfriend or girlfriend and stop having a relationship with him or her
+		;Has he chucked her?
+		;TOPICS Family and relationshipsC2
+	; -- (4) 
 
 
 
@@ -761,10 +1024,10 @@
 
 
 
-[-] chum		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] chum		<-->	noun++C2	[230418][001]	./tʃʌm/-NAmE /tʃʌm/ (old-fashioned, informal)
+	;người bạn -- (1) a friend
+		;an old school chum
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -773,10 +1036,10 @@
 
 
 
-[-] civil partner		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] civil partner		<-->	noun++C1	[230418][001]	./ˌsɪvl ˈpɑːtnə(r)/-NAmE /ˌsɪvl ˈpɑːrtnər/
+	;vợ hay chồng -- (1) (in some countries) the person that somebody has a civil partnership with (= a legal relationship between two people of the same sex, with the same legal status as marriage)
+		;Civil partners are taxed in exactly the same way as married couples.
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -785,10 +1048,23 @@
 
 
 
-[-] clan		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] clan		<-->	noun++C1	[230418][001]	./klæn/-NAmE /klæn/
+[countable + singular or plural verb]
+	;thị tộc, dòng họ -- (1) a group of families who are related to each other, especially in Scotland
+		;the Macleod clan
+		;clan warfare
+		;Culture clans
+		;Extra Examples:
+		;He became clan chief after his father's death.
+		;Heavy fighting between rival clans was reported.
+		;His grandfather was a descendant of the Guthrie clan in Scotland.
+		;In past times, it was a meeting place for local clans.
+		;The political allegiances of the Highland clans were complex.
+		;TOPICS Family and relationshipsC1
+	;thị tộc, dòng họ -- (2) (informal, sometimes humorous) a very large family, or a group of people who are connected because of a particular thing
+		;She's one of a growing clan of stars who have left Hollywood.
+		;There's a photo of the whole Kennedy clan on the bookshelf.
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -797,9 +1073,9 @@
 
 
 
-[-] close		<-->	adjective++B1[-0]	.
+[-] close		<-->	adjective++B1	[230418][001]	./cef/
 	; -- (1) 
-	; -- (2) 
+	;thân cận -- (2) [-relationship] knowing somebody very well and liking them very much
 	; -- (3) 
 
 
@@ -809,11 +1085,14 @@
 
 
 
-[-] close-knit		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+[-] close-knit		<-->	adjective++C1	[230418][001]	./ˌkləʊs ˈnɪt/-NAmE /ˌkləʊs ˈnɪt/ (also less frequent closely knit)
+	;gần gũi, thân cận -- (1) (of a group of people) having strong relationships with each other and taking a close, friendly interest in each other’s activities and problems
+		;the close-knit community of a small village
+		;TOPICS Family and relationshipsC1
+				;Oxford Collocations Dictionary
+				;Close-knit is used with these nouns:
+				;communityfamily
+		;See full entry
 
 
 
@@ -821,11 +1100,11 @@
 
 
 
-[-] cobber		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+[-] cobber		<-->	noun++C2	[230418][001]	./ˈkɒbə(r)/-NAmE /ˈkɑːbər/ (Australian English, New Zealand English, informal)
+	;người bạn -- (1) (used especially by a man addressing another man) a friend
+		;TOPICS Family and relationshipsC2
+		;<< cobber, chum, >>
 
 
 
@@ -833,11 +1112,11 @@
 
 
 
-[-] common-law husband		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+[-] common-law husband		<-->	noun++C2	[230418][001]	./ˌkɒmən lɔː ˈhʌzbənd/-NAmE /ˌkɑːmən lɔː ˈhʌzbənd/
+	;chồng không hôn thú -- (1) a man that a person has lived with for a long time and who is recognized (in some countries though not the UK) as a husband, without a formal marriage ceremony
+		;She lives with her common-law husband and their three children.
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -845,10 +1124,9 @@
 
 
 
-[-] common-law wife		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] common-law wife		<-->	noun++C2	[230418][001]	./ˌkɒmən lɔː ˈwaɪf/-NAmE /ˌkɑːmən lɔː ˈwaɪf/
+	;vợ không hôn thú -- (1) a woman that a person has lived with for a long time and who is recognized (in some countries though not the UK) as a wife, without a formal marriage ceremony
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -857,7 +1135,7 @@
 
 
 
-[-] companion		<-->	noun++C1[-0]	.
+[-] companion		<-->	noun++C1	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -869,10 +1147,20 @@
 
 
 
-[-] companionship		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] companionship		<-->	noun++C1	[230418][001]	./kəmˈpænjənʃɪp/-NAmE /kəmˈpænjənʃɪp/ [uncountable]
+	;tình bằng hữu -- (1) the pleasant feeling that you have when you have a friendly relationship with somebody and are not alone
+		;They meet at the club for companionship and advice.
+		;She had only her cat for companionship.
+		;She had never had any close companionship with another woman.
+		;TOPICS Family and relationshipsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;closeconstantfemale…
+				;verb + companionship
+				;needprovide (somebody with)seek…
+				;preposition
+				;for companionshipcompanionship  with
+		;See full entry
 
 
 
@@ -881,10 +1169,32 @@
 
 
 
-[-] compatible		<-->	adjective++C1[-0]	.
-	; -- (1) 
+[-] compatible		<-->	adjective++C1	[230418][001]	./kəmˈpætəbl/-NAmE /kəmˈpætəbl/
+	;tương thích -- (1) compatible (with something) (of machines, especially computers, or software) able to be used together
+		;The new system will be compatible with existing equipment.
+		;three different, yet entirely compatible programs
+		;TOPICS ComputersC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beseem
+				;adverb
+				;highlyveryentirely…
+				;preposition
+				;with
+		;See full entry
 	; -- (2) 
-	; -- (3) 
+	;hợp ý nhau -- (3) compatible (with somebody) if two people are compatible, they can have a good relationship because they have similar ideas, interests, etc.
+		;OPPOSITE incompatible
+		;She found a compatible partner through a computer dating agency.
+		;TOPICS Family and relationshipsC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beseem
+				;adverb
+				;highlyveryentirely…
+				;preposition
+				;with
+		;See full entry
 
 
 
@@ -893,9 +1203,12 @@
 
 
 
-[-] comrade		<-->	noun++C2[-0]	.
+[-] comrade		<-->	noun++C2	[230418][001]	./ˈkɒmreɪd/-NAmE /ˈkɑːmræd/
 	; -- (1) 
-	; -- (2) 
+	;đồng chí -- (2) ​(also comrade-in-arms) (old-fashioned) a friend or other person that you work with, especially as soldiers during a war
+		;They were old army comrades.
+		;Wordfinder: acquaintancebondbuddycompanioncomradefriendmateneighbourplatonicplaymate
+		;TOPICS Family and relationshipsC2
 	; -- (3) 
 
 
@@ -905,10 +1218,10 @@
 
 
 
-[-] consanguinity		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] consanguinity		<-->	noun++C2	[230418][001]	./ˌkɒnsæŋˈɡwɪnəti/-NAmE /ˌkɑːnsæŋˈɡwɪnəti/ [uncountable] (formal)
+	;quan hệ thân tộc, máu mũ -- (1) relationship by birth in the same family
+		;different degrees of consanguinity
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -917,10 +1230,18 @@
 
 
 
-[-] convivial		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] convivial		<-->	adjective++C2	[230418][001]	./kənˈvɪviəl/-NAmE /kənˈvɪviəl/
+	;vui vẻ -- (1) cheerful and friendly in atmosphere or character
+		;SYNONYM sociable
+		;a convivial evening/atmosphere
+		;convivial company
+		;Alan was convivial, affable and engaging.
+		;We passed a convivial evening at the McCabes’ house.
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;Convivial is used with these nouns:
+				;atmosphere
+		;See full entry
 
 
 
@@ -929,10 +1250,11 @@
 
 
 
-[-] conviviality		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] conviviality		<-->	noun++C2	[230418][001]	./kənˌvɪviˈæləti/-NAmE /kənˌvɪviˈæləti/ [uncountable]
+	;sự thân mật -- (1) the quality of being cheerful and friendly in atmosphere or character
+		;SYNONYM sociability
+		;an evening of conviviality
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -941,10 +1263,10 @@
 
 
 
-[-] co-parent		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] co-parent		<-->	noun++C1	[230418][001]	./ˈkəʊ peərənt/-NAmE /ˈkəʊ perənt/
+	;người đồng cha mẹ -- (1) a person who shares the duties of bringing up a child
+		;The former couple remain devoted co-parents to daughter Rose and son Jack.
+		;TOPICS Life stagesC1, Family and relationshipsC1
 
 
 
@@ -953,10 +1275,10 @@
 
 
 
-[-] co-parent		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] co-parent		<-->	verb++C1	[230418][001]	./ˌkəʊ ˈpeərənt/-NAmE /ˌkəʊ ˈperənt/
+	;đồng cha mẹ -- (1) co-parent somebody to share the duties of bringing up a child, especially when a couple are separated or not married
+		;Andrew and I are still very close and are co-parenting the girls.
+		;TOPICS Life stagesC1, Family and relationshipsC1
 
 
 
@@ -965,10 +1287,10 @@
 
 
 
-[-] co-parenting		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] co-parenting		<-->	noun++C1	[230418][001]	./ˌkəʊ ˈpeərəntɪŋ/-NAmE /ˌkəʊ ˈperəntɪŋ/ [uncountable]
+	; -- (1) the act of sharing the duties of bringing up a child, especially when a couple are separated or not married
+		;Co-parenting is working really well for us as we always put the children first.
+		;TOPICS Life stagesC1, Family and relationshipsC1
 
 
 
@@ -977,7 +1299,7 @@
 
 
 
-[-] couple		<-->	noun++A2[-0]	.
+[-] couple		<-->	noun++A2	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -989,10 +1311,27 @@
 
 
 
-[-] court		<-->	verb++C2[-0]	.
-	; -- (1) 
+[-] court		<-->	verb++C2	[230418][001]	./kɔːt/-NAmE /kɔːrt/\
+	;dụ dỗ, quyến rũ -- (1) [-try to please] ​[transitive] court somebody to try to please somebody in order to get something you want, especially the support of a person, an organization, etc.
+		;SYNONYM cultivate
+		;Both candidates have spent the last month courting the media.
+		;Extra Examples:
+		;He spent three months assiduously courting a newspaper editor.
+		;The band has actively courted a young audience.
+				;Oxford Collocations Dictionary
+				;adverb
+				;activelyaggressivelyassiduously…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
+	;hẹn hò, có quan hệ yêu đương -- (4) [-have relationship] [transitive, intransitive] court (somebody) (old-fashioned) to have a romantic relationship with somebody that you hope to marry
+		;He had been courting Jane for six months.
+		;He courted Jane for two years before she finally agreed to marry him.
+		;At that time they had been courting for several years.
+		;Your grandfather and I were still courting at the time.
+		;SEE ALSO courtship
+		;TOPICS Family and relationshipsC2
+	; -- (5) 
 
 
 
@@ -1000,8 +1339,7 @@
 
 
 
-
-[-] cousin		<-->	noun++A1[-0]	.
+[-] cousin		<-->	noun++A1	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1013,10 +1351,10 @@
 
 
 
-[-] crony		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] crony		<-->	noun++C2	[230419][001]	./ˈkrəʊni/-NAmE /ˈkrəʊni/ [usually plural] (plural cronies) (informal, often disapproving)
+	;bạn nối khố -- (1) a person that somebody spends a lot of time with
+		;He was playing cards with his cronies.
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -1025,10 +1363,27 @@
 
 
 
-[-] crush		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] crush		<-->	noun++C2	[230419][001]	./krʌʃ/-NAmE /krʌʃ/\
+	;một đám đông tụ tập -- (1) [countable, usually singular] a crowd of people pressed close together in a small space
+		;There was a big crush in the theatre bar.
+		;I couldn't find a way through the crush.
+		;Extra Examples:
+		;66 fans died in the crush on the steps of the stadium.
+		;There's always a big crush in the bar during the interval.
+	;tình yêu sét đánh -- (2) [countable] crush (on somebody) a strong feeling of love, which usually does not last very long, that a young person has for another person, often older; the person who is the object of this feeling
+		;It's only a schoolgirl crush, it'll pass.
+		;He thought you were flirting with his crush.
+		;I had a huge crush on her.
+		;SEE ALSO girl crush, man crush
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;bighugemajor…
+				;verb + crush
+				;havedevelopget…
+				;preposition
+				;crush on
+		;See full entry
 
 
 
@@ -1037,10 +1392,18 @@
 
 
 
-[-] cuddle		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] cuddle		<-->	verb++C2	[230419][001]	./ˈkʌdl/-NAmE /ˈkʌdl/
+[intransitive, transitive]
+	;bồng bế -- (1) to hold somebody/something close in your arms to show love
+		;SYNONYM hug
+		;<< hug, cuddle, >>
+		;A couple of teenagers were kissing and cuddling on the doorstep.
+		;cuddle something (+ adj.) The little boy cuddled the teddy bear close.
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;Cuddle is used with these nouns as the object:
+				;baby
+		;See full entry
 
 
 
@@ -1049,10 +1412,12 @@
 
 
 
-[-] cupid		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] cupid		<-->	noun++C2	[230419][001]	./ˈkjuːpɪd/-NAmE /ˈkjuːpɪd/
+	;thần tình yêu -- (1) the Roman god of love who is shown as a beautiful baby boy with wings, carrying a bow and arrow
+		;Cupid had at last managed to lodge an arrow in his stony heart.
+		;TOPICS Family and relationshipsC2
+	;bức tượng nhỏ thần tình yêu, tranh ảnh thần tình yêu -- (2) ​cupid [countable] a picture or statue of a baby boy who looks like Cupid
+		;little cupids painted in the clouds on the ceiling
 
 
 
@@ -1061,10 +1426,14 @@
 
 
 
-[-] custodial		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] custodial		<-->	adjective++C2	[230419][001]	./kʌˈstəʊdiəl/-NAmE /kʌˈstəʊdiəl/ [usually before noun] (law)
+	;c. trong tù -- (1) involving sending somebody to prison
+		;The judge gave him a custodial sentence (= sent him to prison).
+		;TOPICS Crime and punishmentC2
+	;c. việc giám hộ -- (2) connected with the right or duty of taking care of somebody; having custody
+		;The mother is usually the custodial parent after a divorce.
+		;TOPICS Family and relationshipsC2
+		;OPPOSITE non-custodial
 
 
 
@@ -1073,7 +1442,7 @@
 
 
 
-[-] custody		<-->	noun++C1[-0]	.
+[-] custody		<-->	noun++C1	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1085,7 +1454,7 @@
 
 
 
-dad		<-->	noun++A1[-0]	.
+[-] dad		<-->	noun++A1	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1097,10 +1466,14 @@ dad		<-->	noun++A1[-0]	.
 
 
 
-dada		<-->	noun++C2[-0]	.
-	; -- (1) 
+[-] dada		<-->	noun++C2	[230419][001]	./ˈdɑːdɑː/-NAmE /ˈdɑːdɑː/ (Indian English)
+	;anh trai, em họ nam -- (1) an older brother or male cousin
+		;TOPICS Family and relationshipsC2
 	; -- (2) 
-	; -- (3) 
+	;ông nội -- (3) the father of your father
+		;COMPARE nana2
+		;TOPICS Family and relationshipsC2
+	; -- (4) 
 
 
 
@@ -1109,10 +1482,13 @@ dada		<-->	noun++C2[-0]	.
 
 
 
-daddy		<-->	noun++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] daddy		<-->	noun++A2	[230419][001]	./ˈdædi/-NAmE /ˈdædi/ (plural daddies)
+	;cha, ba -- (1) used especially by and to young children, and often as a name, to mean ‘father’
+		;What does your daddy look like?
+		;Daddy, where are you?
+		;Come to Daddy.
+		;SEE ALSO big daddy, sugar daddy
+		;TOPICS Family and relationshipsA2
 
 
 
@@ -1121,10 +1497,9 @@ daddy		<-->	noun++A2[-0]	.
 
 
 
-damad		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] damad		<-->	noun++C2	[230419][001]	./dɑːˈmɑːd/-NAmE /dɑːˈmɑːd/ (Indian English)
+	;con rể -- (1) the husband of your daughter
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -1133,10 +1508,14 @@ damad		<-->	noun++C2[-0]	.
 
 
 
-datable		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] datable		<-->	adjective++C1	[230419][001]	./ˈdeɪtəbl/-NAmE /ˈdeɪtəbl/ (also dateable)
+	;được định thời -- (1) that can be dated to a particular time
+		;pottery that is datable to the second century
+		;TOPICS HistoryC1
+	;lãng mạn, thu hút -- (2) (informal) (of a person) attractive in a romantic way; available for a date
+		;She looked highly datable in tight jeans, with a gold chain around her neck.
+		;There wasn't a datable guy in sight.
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -1145,10 +1524,31 @@ datable		<-->	adjective++C1[-0]	.
 
 
 
-date		<-->	noun++A2[-0]	.
+[-] date		<-->	noun++A2	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;cuộc hẹn hò trai gái -- [A1-A2] (5) [-romantic meeting] [countable] a meeting that you have arranged with a boyfriend or girlfriend or with somebody who might become a boyfriend or girlfriend
+		;a date with somebody I've got a date with Lucy tomorrow night.
+		;on a date We agreed to go out on a date.
+		;Do you think I should ask him out on a date?
+		;Paul's not coming. He's got a hot date (= an exciting one).
+		;Collocations Marriage and divorce
+		;SEE ALSO blind date, double date
+		;She's out on a date with her new boyfriend.
+		;I have a date with Camilla on Friday night.
+		;It's a great date movie.
+		;TOPICS Family and relationshipsA2
+			;Oxford Collocations Dictionary
+			;adjective
+				;dinnerlunchblind…
+			;verb + date
+				;havefindmake…
+				;date + noun
+				;movierape
+			;preposition
+				;on a datedate with
+		;See full entry
 
 
 
@@ -1157,10 +1557,15 @@ date		<-->	noun++A2[-0]	.
 
 
 
-date		<-->	verb++B2[-0]	.
+[-] date		<-->	verb++B2	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;hẹn hò -- (5) [-have relationship] [transitive, intraansitive] date (somebody) to have a romantic relationship with somebody
+		;She's been dating Ron for several months.
+		;How long have you two been dating?
+		;SEE ALSO double-date
+		;TOPICS Family and relationshipsB2
 
 
 
@@ -1169,10 +1574,10 @@ date		<-->	verb++B2[-0]	.
 
 
 
-date night		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] date night		<-->	noun++B2	[230419][001]	./ˈdeɪt naɪt/-NAmE /ˈdeɪt naɪt/ (informal)
+	;đêm hẹn hò -- (1) an occasion when an established couple, especially one with children, go for a night out together
+		;They try to make sure they have a date night at least once a month.
+		;TOPICS Family and relationshipsB2
 
 
 
@@ -1181,10 +1586,10 @@ date night		<-->	noun++B2[-0]	.
 
 
 
-dating agency		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] dating agency		<-->	noun++C2	[230419][001]	./ˈdeɪtɪŋ eɪdʒənsi/-NAmE /ˈdeɪtɪŋ eɪdʒənsi/ (also dating service)
+	;công ty hẹn hò -- (1) a service that arranges meetings between single people who want to begin a romantic relationship
+		;The couple met through an online dating agency.
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -1193,7 +1598,7 @@ dating agency		<-->	noun++C2[-0]	.
 
 
 
-daughter		<-->	noun++A1[-0]	.
+[-] daughter		<-->	noun++A1	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1205,10 +1610,10 @@ daughter		<-->	noun++A1[-0]	.
 
 
 
-daughter-in-law		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] daughter-in-law		<-->	noun++B1	[230419][001]	./ˈdɔːtər ɪn lɔː/-NAmE /ˈdɔːtər ɪn lɔː/ (plural daughters-in-law)
+	;con riêng của vợ -- (1) the wife of your son or daughter
+		;COMPARE son-in-law
+		;TOPICS Family and relationshipsB1
 
 
 
@@ -1217,10 +1622,10 @@ daughter-in-law		<-->	noun++B1[-0]	.
 
 
 
-decree absolute		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] decree absolute		<-->	noun++C2	[230419][001]	./dɪˌkriː ˈæbsəluːt/-NAmE /dɪˌkriː ˈæbsəluːt/ [singular] (British English, law)
+	;phán quyết ly hôn -- (1) an order from a court that finally ends a marriage, making the two people divorced
+		;The period between the decree nisi and the decree absolute was six weeks.
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -1229,10 +1634,15 @@ decree absolute		<-->	noun++C2[-0]	.
 
 
 
-descendant		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] descendant		<-->	noun++C1	[230419][001]	./dɪˈsendənt/-NAmE /dɪˈsendənt/
+	;hậu duệ -- (1) a person’s descendants are their children, their children’s children, and all the people who live after them who are related to them
+		;He was an O'Conor and a direct descendant of the last High King of Ireland.
+		;Many of them are descendants of the original settlers.
+		;TOPICS HistoryC1, Family and relationshipsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;directlinealimmediate…
+		;See full entry
 
 
 
@@ -1241,11 +1651,33 @@ descendant		<-->	noun++C1[-0]	.
 
 
 
-descent		<-->	noun++C2[-0]	.
+[-] descent		<-->	noun++C2	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
-
+	;ông/bà tổ -- (3) [uncoountable] a person’s family origins
+		;SYNONYM ancestry
+		;to be of Scottish descent
+		;descent from somebody He traces his line of descent from the Stuart kings.
+		;Wordfinder: ancestorbranchdescentdynastyfamily treegenealogygenerationinheritrelationtrace
+		;Wordfinder: ancestor, branch, descent, dynasty, family tree, genealogy, generation, inherit, relation, trace
+		;Extra Examples:
+		;She claims direct descent from Queen Victoria.
+		;Humans and other apes followed separate lines of descent from a common ancestor.
+		;She is Hungarian by descent.
+		;She is of mixed European and African descent.
+		;groups sharing common descent
+		;people of West Indian descent
+		;Most European languages have a common descent.
+		;TOPICS HistoryC2, Family and relationshipsC2
+			;Oxford Collocations Dictionary
+			;adjective
+				;direct, lineal, common…
+			;verb + descent
+				;claim, have, trace…
+			;preposition
+				;by descent, descent from
+			;phrases
+				;a line of descent, of Mexican, Scottish, etc. descent
 
 
 
@@ -1253,11 +1685,23 @@ descent		<-->	noun++C2[-0]	.
 
 
 
-devoted		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+[-] devoted		<-->	adjective++C1	[230419][001]	./dɪˈvəʊtɪd/-NAmE /dɪˈvəʊtɪd/
+	;tận tuỵ, hết lòng, trung thành -- (1) having great love for somebody/something and supporting them in everything
+		;a devoted son/friend/fan
+		;devoted to somebody/something They are devoted to their children.
+		;They were totally devoted to each other.
+		;Synonyms love: like ▪ be fond of somebody ▪ adore ▪ be devoted to somebody ▪ care for somebody ▪ dote on somebody, love, 
+		;<< love: like ▪ be fond of somebody ▪ adore ▪ be devoted to somebody ▪ care for somebody ▪ dote on somebody, love, >>
+		;TOPICS Family and relationshipsC1, FeelingsC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beseembecome…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;to
+		;See full entry
 
 
 
@@ -1265,10 +1709,25 @@ devoted		<-->	adjective++C1[-0]	.
 
 
 
-devotion		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] devotion		<-->	noun++C1	[230419][001]	./dɪˈvəʊʃn/-NAmE /dɪˈvəʊʃn/
+	;sự tận tuỵ -- (1) [uncountable, singular] devotion (to somebody/something) great love, care and support for somebody/something
+		;His devotion to his wife and family is touching.
+		;Extra Examples:
+		;He was mocked for his dog-like devotion to his boss.
+		;They showed great devotion to each other.
+		;a marriage rooted in mutual devotion and trust
+		;her total devotion to her husband
+		;TOPICS Family and relationshipsC1, FeelingsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;deepgreatfanatical…
+				;verb + devotion
+				;expressshowinspire…
+				;preposition
+				;with devotiondevotion to
+				;phrases
+				;devotion to dutydevotion to the causean object of devotion…
+		;See full entry
 
 
 
@@ -1277,8 +1736,10 @@ devotion		<-->	noun++C1[-0]	.
 
 
 
-didi		<-->	noun++C2[-0]	.
-	; -- (1) 
+[-] didi		<-->	noun++C2	[230419][001]	./ˈdiːdiː/-NAmE /ˈdiːdiː/ (Indian English)
+	;chị gái -- (1) an older sister
+		;Didi taught me how to read.
+		;TOPICS Family and relationshipsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -1289,10 +1750,12 @@ didi		<-->	noun++C2[-0]	.
 
 
 
-disown		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] disown		<-->	verb++C2	[230419][001]	./dɪsˈəʊn/-NAmE /dɪsˈəʊn/
+	;từ chối, phủ nhận -- (1) disown somebody/something to decide that you no longer want to be connected with or responsible for somebody/something
+		;Her family disowned her for marrying a foreigner.
+		;Later he publicly disowned the rebellion.
+		;They have never disowned their humble roots.
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -1301,8 +1764,10 @@ disown		<-->	verb++C2[-0]	.
 
 
 
-dissolution		<-->	noun++C2[-0]	.
-	; -- (1) 
+[-] dissolution		<-->	noun++C2	[230419][001]	./ˌdɪsəˈluːʃn/-NAmE /ˌdɪsəˈluːʃn/ [uncountable] (formal)
+	;sự tan rã, giải tán -- (1) dissolution (of something) the act of officially ending a marriage, a business agreement or a parliament; the act of breaking up an organization, etc.
+		;The company was set up following the dissolution of the Soviet Union.
+		;TOPICS Discussion and agreementC2, Family and relationshipsC2
 	; -- (2) 
 	; -- (3) 
 
@@ -1313,8 +1778,8 @@ dissolution		<-->	noun++C2[-0]	.
 
 
 
-dissolve		<-->	verb++C2[-0]	.
-	; -- (1) 
+[-] dissolve		<-->	verb++C2	[230419][001]	./cef/
+	;tan -- (1) 
 	; -- (2) 
 	; -- (3) 
 
@@ -1325,10 +1790,12 @@ dissolve		<-->	verb++C2[-0]	.
 
 
 
-distant		<-->	adjective++C1[-0]	.
+[-] distant		<-->	adjective++C1	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;xa -- (3) [only before noun] (of a person) related to you but not closely
+		;a distant cousin/aunt/relative
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -1337,7 +1804,7 @@ distant		<-->	adjective++C1[-0]	.
 
 
 
-divorce		<-->	noun++B2[-0]	.
+[-] divorce		<-->	noun++B2	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1349,7 +1816,7 @@ divorce		<-->	noun++B2[-0]	.
 
 
 
-divorce		<-->	verb++B2[-0]	.
+[-] divorce		<-->	verb++B2	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1361,7 +1828,7 @@ divorce		<-->	verb++B2[-0]	.
 
 
 
-divorced		<-->	adjective++A2[-0]	.
+[-] divorced		<-->	adjective++A2	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1373,10 +1840,9 @@ divorced		<-->	adjective++A2[-0]	.
 
 
 
-divorcee		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] divorcee		<-->	noun++C2	[230419][001]	./dɪˌvɔːˈsiː/-NAmE /dɪˌvɔːrˈseɪ/ (British English)
+	;người đã li dị chồng hay vợ -- (1) a person whose marriage has been legally ended, especially a woman
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -1385,10 +1851,23 @@ divorcee		<-->	noun++C2[-0]	.
 
 
 
-divorcé		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] divorcé		<-->	noun++C2	[230419][001]	./dɪˌvɔːˈsiː/-NAmE /dɪˌvɔːrˈseɪ/ (North American English)
+	;người nam đã li dị -- (1) a man whose marriage has been legally ended
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;amicableuncontestedno-fault…
+				;verb + divorce
+				;wantapply forask for…
+				;divorce + verb
+				;come through
+				;divorce + noun
+				;courtcaseproceedings…
+				;preposition
+				;divorce fromdivorce on the grounds of
+				;phrases
+				;grounds for divorce
+		;See full entry
 
 
 
@@ -1397,10 +1876,9 @@ divorcé		<-->	noun++C2[-0]	.
 
 
 
-divorcée		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] divorcée		<-->	noun++C2	[230419][001]	./dɪˌvɔːˈsiː/-NAmE /dɪˌvɔːrˈseɪ/ (North American English)
+	;người nữ đã li dị -- (1) a woman whose marriage has been legally ended
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -1409,10 +1887,13 @@ divorcée		<-->	noun++C2[-0]	.
 
 
 
-double-barrelled		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] double-barrelled		<-->	adjective++C2	[230419][001]	./ˌdʌbl ˈbærəld/-NAmE /ˌdʌbl ˈbærəld/
+(US English double-barreled)
+[usually before noun]
+	;có hai nòng -- (1) ​(of a gun) having two barrels (= places where the bullets come out)
+	;có hai phần -- (2) ​(British English) (of a family name) having two parts, sometimes joined by a hyphen, for example ‘Day-Lewis’
+		;TOPICS Family and relationshipsC2
+	; -- (3) (of a plan, etc.) having two parts, and therefore likely to be effective
 
 
 
@@ -1421,10 +1902,15 @@ double-barrelled		<-->	adjective++C2[-0]	.
 
 
 
-dual heritage		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] dual heritage		<-->	noun++C2	[230419][001]	./ˌdjuːəl ˈherɪtɪdʒ/-NAmE /ˌduːəl ˈherɪtɪdʒ/
+[uncountable] (especially British English)
+	;di sản song song -- (1) ​the fact of having a family background in which your parents come from two different countries, cultures, religions, ethnic groups, etc.
+		;Many young Londoners are of dual heritage.
+		;I'm someone who has dual heritage: I'm Somali and Welsh.
+		;The group represents Irish people with dual heritage.
+		;dual-heritage children
+		;people with a dual-heritage background
+		;TOPICS Family and relationshipsC2, People in societyC2
 
 
 
@@ -1433,10 +1919,13 @@ dual heritage		<-->	noun++C2[-0]	.
 
 
 
-dump		<-->	verb++C1[-0]	.
+[-] dump		<-->	verb++C1	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;kết thúc (mối quan hệ) -- (5) [-end relationship] dump somebody (infoormal): to end a romantic relationship with somebody
+		;Did you hear he's dumped his girlfriend?
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -1445,8 +1934,30 @@ dump		<-->	verb++C1[-0]	.
 
 
 
-dynasty		<-->	noun++C1[-0]	.
-	; -- (1) 
+[-] dynasty		<-->	noun++C1	[230419][001]	./ˈdɪnəsti/-NAmE /ˈdaɪnəsti/
+(plural dynasties)
+	;triều đại -- (1) ​a series of leaders of a country who all belong to the same family
+		;the Nehru-Gandhi dynasty
+		;Wordfinder: ancestorbranchdescentdynastyfamily treegenealogygenerationinheritrelationtrace
+		;Extra Examples:
+		;The civil service was established under the previous dynasty.
+		;the last surviving heir of an ancient dynasty
+		;the rise and fall of the Habsburg dynasty
+		;the ruling dynasties of the Visigoths
+		;Eventually the dynasty was overthrown, and the country became a Republic.
+		;TOPICS Family and relationshipsC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;ancientgreatpolitical…
+				;verb + dynasty
+				;buildestablishfound…
+				;dynasty + verb
+				;begincome to an endend…
+				;preposition
+				;during a/​the dynastyfrom a/​the dynastyunder a/​the dynasty…
+				;phrases
+				;the end of a dynastythe fall of a dynastythe rise of a dynasty…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -1457,10 +1968,19 @@ dynasty		<-->	noun++C1[-0]	.
 
 
 
-elder		<-->	adjective++C1[-0]	.
-	; -- (1) 
+[-] elder		<-->	adjective++C1	[230419][001]	./ˈeldə(r)/-NAmE /ˈeldər/
+	;lớn hơn -- (1) [only before noun] (of people, especially two members of the same family) older
+		;my elder brother
+		;his elder sister
+		;TOPICS Life stagesC1
 	; -- (2) 
-	; -- (3) 
+	;già -- (3) ​the elder (formal) used before or after somebody’s name to show that they are the older of two people who have the same name
+		;the elder Pitt
+		;Pitt the elder
+		;Synonyms old: elderly ▪ aged ▪ long-lived ▪ mature, old
+		;<< old: elderly ▪ aged ▪ long-lived ▪ mature, old, >>
+		;COMPARE the younger
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -1469,8 +1989,10 @@ elder		<-->	adjective++C1[-0]	.
 
 
 
-eldest		<-->	adjective++B2[-0]	.
-	; -- (1) 
+[-] eldest		<-->	adjective++B2	[230419][001]	./ˈeldɪst/-NAmE /ˈeldɪst/
+	;lớn nhất, cả -- (1) (of people, especially of three or more members of the same family) oldest
+		;Tom is my eldest son.
+		;TOPICS Family and relationshipsB2
 	; -- (2) 
 	; -- (3) 
 
@@ -1481,7 +2003,7 @@ eldest		<-->	adjective++B2[-0]	.
 
 
 
-embrace		<-->	verb++B2[-0]	.
+[-] embrace		<-->	verb++B2	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1493,9 +2015,25 @@ embrace		<-->	verb++B2[-0]	.
 
 
 
-estranged		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] estranged		<-->	adjective++C2	[230419][001]	./ɪˈstreɪndʒd/-NAmE /ɪˈstreɪndʒd/
+(formal)
+	;lẻ loi -- (1) [usually before noun] no longer living with your husband, wife or partner
+		;his estranged wife Emma
+		;She is attempting to contact her estranged husband to break the news.
+		;He is being questioned in connection with the death of his estranged wife.
+		;She has been estranged from her husband since 1999.
+	;bị xa lánh -- (2) estranged (from somebody) no longer friendly or in contact with somebody
+		;He became estranged from his family after the argument.
+		;Formerly close friends, they had been estranged from each other for many years.
+		;TOPICS Family and relationshipsC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeelbecome…
+				;adverb
+				;deeplycompletelyincreasingly…
+				;preposition
+				;from
+		;See full entry
 	; -- (3) 
 
 
@@ -1505,10 +2043,12 @@ estranged		<-->	adjective++C2[-0]	.
 
 
 
-ex		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] ex		<-->	noun++C1	[230419][001]	./eks/-NAmE /eks/
+(plural exes)
+(informal)
+	;kế, sau -- (1) a person’s former wife, husband or partner
+		;The children are spending the weekend with my ex and his new wife.
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -1517,8 +2057,11 @@ ex		<-->	noun++C1[-0]	.
 
 
 
-ex-prefixC1[-0]	.
-	; -- (1) 
+[-] ex-		<-->	prefix++C1	[230419][001]	./eks/-NAmE /eks/
+	;cũ, cựu -- (1) (in nouns) former 
+		;ex-wife
+		;ex-president
+		;TOPICS Family and relationshipsC1
 	; -- (2) 
 	; -- (3) 
 
@@ -1529,10 +2072,13 @@ ex-prefixC1[-0]	.
 
 
 
-extended family		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] extended family		<-->	noun++C1	[230419][001]	./ɪkˌstendɪd ˈfæməli/-NAmE /ɪkˌstendɪd ˈfæməli/
+[countable + singular or plural verb]
+	;nhóm các gia đình có cùng gốc gác -- (1) a family group with a close relationship among the members that includes not only parents and children but also uncles, aunts, grandparents, etc.
+		;She grew up surrounded by a large extended family.
+		;It was difficult to maintain contact with members of his extended family.
+		;COMPARE nuclear family
+		;TOPICS Family and relationshipsC1
 
 
 
@@ -1541,9 +2087,16 @@ extended family		<-->	noun++C1[-0]	.
 
 
 
-extraction		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] extraction		<-->	noun++C2	[230419][001]	./ɪkˈstrækʃn/-NAmE /ɪkˈstrækʃn/
+	;sự lấy ra -- (1) [uncountable, countable] the act or process of removing or obtaining something from something else
+		;oil/mineral/coal, etc. extraction
+		;the extraction of salt from the sea
+		;Commercial peat extraction is destroying many threatened habitats.
+		;Methods of extraction vary from mine to mine.
+	;sự có chung nguồn gốc -- (2) ​[uncountable] of… extraction (formal) having a particular family origin
+		;an American of Hungarian extraction
+		;a young American lawyer of Irish extraction
+		;TOPICS Family and relationshipsC2
 	; -- (3) 
 
 
@@ -1553,10 +2106,13 @@ extraction		<-->	noun++C2[-0]	.
 
 
 
-fall in with		<-->	phrasal verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] fall in with		<-->	phrasal verb++C1	[230419][001]	./p/
+	;đồng ý với nhau -- (1) [no passive] (British English) to agree to something
+		;She fell in with my idea at once.
+		;TOPICS Opinion and argumentC2
+	;tình cờ gặp nhau -- (2) to meet a person or group by chance and then become involved with them
+		;He ended up falling in with a crowd of musicians and actors.
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -1565,10 +2121,13 @@ fall in with		<-->	phrasal verb++C1[-0]	.
 
 
 
-fam		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] fam		<-->	noun++C2	[230419][001]	./fæm/
+ /fæm/
+(informal)
+	;thành viên gia đình -- (1) a person's family
+		;So happy for you and your fam!
+		;Had a great time relaxing with friends and fam!
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -1577,7 +2136,7 @@ fam		<-->	noun++C2[-0]	.
 
 
 
-family		<-->	noun++A1[-0]	.
+[-] family		<-->	noun++A1	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1589,7 +2148,7 @@ family		<-->	noun++A1[-0]	.
 
 
 
-family name		<-->	noun++A2[-0]	.
+[-] family name		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1601,7 +2160,7 @@ family name		<-->	noun++A2[-0]	.
 
 
 
-family tree		<-->	noun++B1[-0]	.
+[-] family tree		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1613,7 +2172,7 @@ family tree		<-->	noun++B1[-0]	.
 
 
 
-fancy		<-->	verb++B1[-0]	.
+[-] fancy		<-->	verb++B1	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1625,7 +2184,7 @@ fancy		<-->	verb++B1[-0]	.
 
 
 
-father		<-->	noun++A1[-0]	.
+[-] father		<-->	noun++A1	[230419][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1637,7 +2196,7 @@ father		<-->	noun++A1[-0]	.
 
 
 
-father-in-law		<-->	noun++B1[-0]	.
+[-] father-in-law		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1649,7 +2208,7 @@ father-in-law		<-->	noun++B1[-0]	.
 
 
 
-fellowship		<-->	noun++C2[-0]	.
+[-] fellowship		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1661,7 +2220,7 @@ fellowship		<-->	noun++C2[-0]	.
 
 
 
-first base		<-->	noun++C2[-0]	.
+[-] first base		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1673,7 +2232,7 @@ first base		<-->	noun++C2[-0]	.
 
 
 
-first cousin		<-->	noun++A1[-0]	.
+[-] first cousin		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1685,7 +2244,7 @@ first cousin		<-->	noun++A1[-0]	.
 
 
 
-first name		<-->	noun++A2[-0]	.
+[-] first name		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1697,7 +2256,7 @@ first name		<-->	noun++A2[-0]	.
 
 
 
-fling		<-->	noun++C2[-0]	.
+[-] fling		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1709,7 +2268,7 @@ fling		<-->	noun++C2[-0]	.
 
 
 
-flirt		<-->	verb++C1[-0]	.
+[-] flirt		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1721,7 +2280,7 @@ flirt		<-->	verb++C1[-0]	.
 
 
 
-flirt		<-->	noun++C1[-0]	.
+[-] flirt		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1733,7 +2292,7 @@ flirt		<-->	noun++C1[-0]	.
 
 
 
-flirtation		<-->	noun++C2[-0]	.
+[-] flirtation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1745,7 +2304,7 @@ flirtation		<-->	noun++C2[-0]	.
 
 
 
-forebear		<-->	noun++C2[-0]	.
+[-] forebear		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1757,7 +2316,7 @@ forebear		<-->	noun++C2[-0]	.
 
 
 
-forefather		<-->	noun++C2[-0]	.
+[-] forefather		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1769,7 +2328,7 @@ forefather		<-->	noun++C2[-0]	.
 
 
 
-forename		<-->	noun++C2[-0]	.
+[-] forename		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1781,7 +2340,7 @@ forename		<-->	noun++C2[-0]	.
 
 
 
-foster		<-->	verb++C1[-0]	.
+[-] foster		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1793,7 +2352,7 @@ foster		<-->	verb++C1[-0]	.
 
 
 
-fraternity		<-->	noun++C2[-0]	.
+[-] fraternity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1805,7 +2364,7 @@ fraternity		<-->	noun++C2[-0]	.
 
 
 
-friend		<-->	noun++A1[-0]	.
+[-] friend		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1817,7 +2376,7 @@ friend		<-->	noun++A1[-0]	.
 
 
 
-friendship		<-->	noun++B1[-0]	.
+[-] friendship		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1829,7 +2388,7 @@ friendship		<-->	noun++B1[-0]	.
 
 
 
-gang		<-->	noun++B2[-0]	.
+[-] gang		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1841,7 +2400,7 @@ gang		<-->	noun++B2[-0]	.
 
 
 
-genealogical		<-->	adjective++C2[-0]	.
+[-] genealogical		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1853,7 +2412,7 @@ genealogical		<-->	adjective++C2[-0]	.
 
 
 
-genealogy		<-->	noun++C2[-0]	.
+[-] genealogy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1865,7 +2424,7 @@ genealogy		<-->	noun++C2[-0]	.
 
 
 
-generation		<-->	noun++B1[-0]	.
+[-] generation		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1877,7 +2436,7 @@ generation		<-->	noun++B1[-0]	.
 
 
 
-get off with		<-->	phrasal verb++C1[-0]	.
+[-] get off with		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1889,7 +2448,7 @@ get off with		<-->	phrasal verb++C1[-0]	.
 
 
 
-get on		<-->	phrasal verb++B1[-0]	.
+[-] get on		<-->	phrasal verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1901,7 +2460,7 @@ get on		<-->	phrasal verb++B1[-0]	.
 
 
 
-get on like a house on fire		<-->	idiom++C1[-0]	.
+[-] get on like a house on fire		<-->	idiom++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1913,7 +2472,7 @@ get on like a house on fire		<-->	idiom++C1[-0]	.
 
 
 
-get on with		<-->	phrasal verb++B1[-0]	.
+[-] get on with		<-->	phrasal verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1925,7 +2484,7 @@ get on with		<-->	phrasal verb++B1[-0]	.
 
 
 
-GF		<-->	abbreviation++C2[-0]	.
+[-] gF		<-->	abbreviation++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1937,7 +2496,7 @@ GF		<-->	abbreviation++C2[-0]	.
 
 
 
-girlfriend		<-->	noun++A1[-0]	.
+[-] girlfriend		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1949,7 +2508,7 @@ girlfriend		<-->	noun++A1[-0]	.
 
 
 
-given name		<-->	noun++C1[-0]	.
+[-] given name		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1961,7 +2520,7 @@ given name		<-->	noun++C1[-0]	.
 
 
 
-godchild		<-->	noun++C2[-0]	.
+[-] godchild		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1973,7 +2532,7 @@ godchild		<-->	noun++C2[-0]	.
 
 
 
-god-daughter		<-->	noun++C2[-0]	.
+[-] god-daughter		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1985,7 +2544,7 @@ god-daughter		<-->	noun++C2[-0]	.
 
 
 
-godfather		<-->	noun++C2[-0]	.
+[-] godfather		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1997,7 +2556,7 @@ godfather		<-->	noun++C2[-0]	.
 
 
 
-godmother		<-->	noun++C2[-0]	.
+[-] godmother		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2009,7 +2568,7 @@ godmother		<-->	noun++C2[-0]	.
 
 
 
-godparent		<-->	noun++C2[-0]	.
+[-] godparent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2021,7 +2580,7 @@ godparent		<-->	noun++C2[-0]	.
 
 
 
-godson		<-->	noun++C2[-0]	.
+[-] godson		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2033,7 +2592,7 @@ godson		<-->	noun++C2[-0]	.
 
 
 
-gramps		<-->	noun++C2[-0]	.
+[-] gramps		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2045,7 +2604,7 @@ gramps		<-->	noun++C2[-0]	.
 
 
 
-gran		<-->	noun++B2[-0]	.
+[-] gran		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2057,7 +2616,7 @@ gran		<-->	noun++B2[-0]	.
 
 
 
-grandad		<-->	noun++A1[-0]	.
+[-] grandad		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2069,7 +2628,7 @@ grandad		<-->	noun++A1[-0]	.
 
 
 
-grandchild		<-->	noun++A1[-0]	.
+[-] grandchild		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2081,7 +2640,7 @@ grandchild		<-->	noun++A1[-0]	.
 
 
 
-granddaughter		<-->	noun++A1[-0]	.
+[-] granddaughter		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2093,7 +2652,7 @@ granddaughter		<-->	noun++A1[-0]	.
 
 
 
-grandfather		<-->	noun++A1[-0]	.
+[-] grandfather		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2105,7 +2664,7 @@ grandfather		<-->	noun++A1[-0]	.
 
 
 
-grandkid		<-->	noun++B2[-0]	.
+[-] grandkid		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2117,7 +2676,7 @@ grandkid		<-->	noun++B2[-0]	.
 
 
 
-grandma		<-->	noun++A1[-0]	.
+[-] grandma		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2129,7 +2688,7 @@ grandma		<-->	noun++A1[-0]	.
 
 
 
-grandmother		<-->	noun++A1[-0]	.
+[-] grandmother		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2141,7 +2700,7 @@ grandmother		<-->	noun++A1[-0]	.
 
 
 
-grandpa		<-->	noun++A1[-0]	.
+[-] grandpa		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2153,7 +2712,7 @@ grandpa		<-->	noun++A1[-0]	.
 
 
 
-grandparent		<-->	noun++A1[-0]	.
+[-] grandparent		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2165,7 +2724,7 @@ grandparent		<-->	noun++A1[-0]	.
 
 
 
-grandson		<-->	noun++A1[-0]	.
+[-] grandson		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2177,7 +2736,7 @@ grandson		<-->	noun++A1[-0]	.
 
 
 
-granny		<-->	noun++A2[-0]	.
+[-] granny		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2189,7 +2748,7 @@ granny		<-->	noun++A2[-0]	.
 
 
 
-great		<-->	adjective++C2[-0]	.
+[-] great		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2201,7 +2760,7 @@ great		<-->	adjective++C2[-0]	.
 
 
 
-half-brother		<-->	noun++C1[-0]	.
+[-] half-brother		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2213,7 +2772,7 @@ half-brother		<-->	noun++C1[-0]	.
 
 
 
-half-sister		<-->	noun++C1[-0]	.
+[-] half-sister		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2225,7 +2784,7 @@ half-sister		<-->	noun++C1[-0]	.
 
 
 
-harmonious		<-->	adjective++C2[-0]	.
+[-] harmonious		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2237,7 +2796,7 @@ harmonious		<-->	adjective++C2[-0]	.
 
 
 
-heir		<-->	noun++C1[-0]	.
+[-] heir		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2249,7 +2808,7 @@ heir		<-->	noun++C1[-0]	.
 
 
 
-heiress		<-->	noun++C1[-0]	.
+[-] heiress		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2261,7 +2820,7 @@ heiress		<-->	noun++C1[-0]	.
 
 
 
-heirloom		<-->	noun++C2[-0]	.
+[-] heirloom		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2273,7 +2832,7 @@ heirloom		<-->	noun++C2[-0]	.
 
 
 
-heritage		<-->	noun++C1[-0]	.
+[-] heritage		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2285,7 +2844,7 @@ heritage		<-->	noun++C1[-0]	.
 
 
 
-hit it off (with somebody)		<-->	idiom++C1[-0]	.
+[-] hit it off (with somebody)		<-->	idiom++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2297,7 +2856,7 @@ hit it off (with somebody)		<-->	idiom++C1[-0]	.
 
 
 
-home		<-->	noun++A2[-0]	.
+[-] home		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2309,7 +2868,7 @@ home		<-->	noun++A2[-0]	.
 
 
 
-homeboy		<-->	noun++C2[-0]	.
+[-] homeboy		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2321,7 +2880,7 @@ homeboy		<-->	noun++C2[-0]	.
 
 
 
-homegirl		<-->	noun++C2[-0]	.
+[-] homegirl		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2333,7 +2892,7 @@ homegirl		<-->	noun++C2[-0]	.
 
 
 
-hook up with		<-->	phrasal verb++C1[-0]	.
+[-] hook up with		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2345,7 +2904,7 @@ hook up with		<-->	phrasal verb++C1[-0]	.
 
 
 
-hospitable		<-->	adjective++C1[-0]	.
+[-] hospitable		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2357,7 +2916,7 @@ hospitable		<-->	adjective++C1[-0]	.
 
 
 
-hospitality		<-->	noun++C1[-0]	.
+[-] hospitality		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2369,7 +2928,7 @@ hospitality		<-->	noun++C1[-0]	.
 
 
 
-hug		<-->	verb++B2[-0]	.
+[-] hug		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2381,7 +2940,7 @@ hug		<-->	verb++B2[-0]	.
 
 
 
-hug		<-->	noun++B2[-0]	.
+[-] hug		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2393,7 +2952,7 @@ hug		<-->	noun++B2[-0]	.
 
 
 
-husband		<-->	noun++A1[-0]	.
+[-] husband		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4013,7 +4572,18 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] shohar		<-->	noun++C2[-0]	.
+[-] shohar		<-->	noun++C2	[230418][001]	./ˈʃəʊhə(r)/-NAmE /ˈʃəʊhər/ (Indian English)
+	;chồng -- (1) a woman's husband
+		;TOPICS Family and relationshipsC2
+
+
+
+
+
+
+
+
+[-] sibling		<-->	noun++B2	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4025,10 +4595,12 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] sibling		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] sidekick		<-->	noun++C2	[230418][001]	./ˈsaɪdkɪk/-NAmE /ˈsaɪdkɪk/ (informal)
+	;cộng sự -- (1) a person who helps another more important or more intelligent person
+		;Batman and his young sidekick Robin
+		;Inspector Morse and his trusted sidekick Sergeant Lewis
+		;The show is about a detective and his trusty sidekick.
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -4037,10 +4609,10 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] sidekick		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] significant other		<-->	noun++C2	[230418][001]	./sɪɡˌnɪfɪkənt ˈʌðə(r)/-NAmE /sɪɡˌnɪfɪkənt ˈʌðər/ (often humorous)
+	;nửa kia -- (1) your husband, wife, partner or somebody that you have a special relationship with
+		;Everyone here is with their spouse or their significant other.
+		;TOPICS Family and relationshipsC2
 
 
 
@@ -4049,10 +4621,9 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] significant other		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] single-parent family		<-->	noun++B1	[230418][001]	./ˌsɪŋɡl ˌpeərənt ˈfæməli/-NAmE /ˌsɪŋɡl ˌperənt ˈfæməli/ (British English also lone-parent family, one-parent family)
+	;gia đình đơn thân -- (1) a family in which the children live with one parent rather than two
+		;TOPICS Life stagesB1, Family and relationshipsB1
 
 
 
@@ -4060,20 +4631,7 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-
-[-] single-parent family		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-[-] sister		<-->	noun++A1[-0]	.
+[-] sister		<-->	noun++A1	[230418][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4154,11 +4712,17 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] socialize		<-->	verb++B2[-0]	./ˈsəʊʃəlaɪz/-NAmE /ˈsəʊʃəlaɪz/
-	;đi chơi -- ​[intransitive] socialize (with somebody) to meet and spend time with people in a friendly way, in order to enjoy yourself
+[-] socialize		<-->	verb++B2	[230417][001]	./ˈsəʊʃəlaɪz/-NAmE /ˈsəʊʃəlaɪz/ (British English also socialise)
+	;đi chơi -- (1) [intransitive] socialize (with somebody) to meet and spend time with people in a friendly way, in order to enjoy yourself
 		;SYNONYM mix
 		;I enjoy socializing with the other students.
-		
+		;Maybe you should socialize more.
+		;TOPICS Family and relationshipsB2
+	; -- (2) 
+	; -- (3) 
+
+
+	
 
 
 
@@ -4174,8 +4738,10 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] son-in-law		<-->	noun++B1[-0]	./ˈsʌn ɪn lɔː/-NAmE /ˈsʌn ɪn lɔː/
+[-] son-in-law		<-->	noun++B1	[230417][001]	./ˈsʌn ɪn lɔː/-NAmE /ˈsʌn ɪn lɔː/ (plural sons-in-law)
 	;con rể -- ​(1) the husband of your daughter or son
+		;COMPARE daughter-in-law
+		;TOPICS Family and relationshipsB1
 	
 
 
@@ -4265,8 +4831,10 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] stepfamily		<-->	noun++B2[-0]	./ˈstepfæməli/-NAmE /ˈstepfæməli/ /=\
+[-] stepfamily		<-->	noun++B2	[230417][001]	./ˈstepfæməli/-NAmE /ˈstepfæməli/
 	;gia đình mới -- (1) the family that is formed when somebody marries a person who already has children
+		;Wordfinder: adoptchildfamilygenerationheirin-lawsparentrelationstepfamilysurrogate mother
+		;TOPICS Family and relationshipsB2
 		
 
 
@@ -4296,15 +4864,18 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] step-parent		<-->	noun++B2[-0]	./ˈstep peərənt/-NAmE /ˈstep perənt/ /+\
-	;cha/mẹ kế -- ​a stepmother or stepfather
+[-] step-parent		<-->	noun++B2	[230417][001]	./ˈstep peərənt/-NAmE /ˈstep perənt/ /+\
+	;cha/mẹ kế -- (1) ​a stepmother or stepfather
+		;TOPICS Family and relationshipsB2
 
 
 
 
 
-[-] stepsister		<-->	noun++B2[-0]	./ˈstepsɪstə(r)/-NAmE /ˈstepsɪstər/ /=\
-	;chị/em gái của cha/mẹ kế -- the daughter from an earlier marriage of your stepmother or stepfather
+[-] stepsister		<-->	noun++B2	[230417][001]	./ˈstepsɪstə(r)/-NAmE /ˈstepsɪstər/ /=\
+	;chị/em gái của cha/mẹ kế -- (1) the daughter from an earlier marriage or relationship of your stepmother or stepfather
+		;COMPARE half-sister
+		;TOPICS Family and relationshipsB2
  
 
 
@@ -4312,8 +4883,9 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] stepson		<-->	noun++B2[-0]	./ˈstepsʌn/-NAmE /ˈstepsʌn/ /=\
-	;con riêng vợ/chồng -- a son that your husband or wife has from an earlier marriage to another person
+[-] stepson		<-->	noun++B2	[230417][001]	./ˈstepsʌn/-NAmE /ˈstepsʌn/ /=\
+	;con riêng vợ/chồng -- (1) a son that your husband or wife has from an earlier marriage or relationship with another person
+		;TOPICS Family and relationshipsB2
 		
 
 
@@ -4369,12 +4941,34 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] tie		<-->	noun++B2[-0]	./taɪ/-NAmE /taɪ/
-	;sự ràng buộc -- [usually plural] a strong connection between people or organizations
+[-] tie		<-->	noun++B2	[230417][001]	./taɪ/-NAmE /taɪ/
+	; -- (1) 
+	; -- (2) 
+	;sự ràng buộc -- [A2-B2] (3) [-connection] [usually plural] a strong connection between people or organizations
 		;family ties
+		;diplomatic/economic/bilateral ties
+		;emotional ties
+		;the ties of friendship
+		;tie with somebody/something The firm has close ties with an American corporation.
+		;Although he was raised as a Roman Catholic, he has cut his ties with the Church.
+		;tie between somebody/something There is a strong tie between her and her daughters.
+		;Ties between the two countries remain very strong.
+		;tie to somebody/something giant corporations with close ties to the administration
+		;Both sides agreed to strengthen political ties.
 		;They severed ties after a dispute.
-		
-
+		;Extra Examples:
+		;The community was bound by family ties and a strong church.
+		;ties of kinship
+		;to establish diplomatic ties with China
+		;TOPICS Family and relationshipsB2
+			;Oxford Collocations Dictionary
+			;adjective
+				;closestrongloose…
+			;verb + tie
+				;havedevelopestablish…
+			;preposition
+				;tie betweentie oftie to…
+		;See full entry
 
 
 
@@ -4418,9 +5012,23 @@ romanticism		<-->	noun++C2[-0]	.
 
 
 
-[-] trace		<-->	verb++B2[-0]	./treɪs/-NAmE /treɪs/
-	;tìm về nguồn cội -- trace something (back) (to something) to find the origin or cause of something
+[-] trace		<-->	verb++B2	[230417][001]	./cef/
+	; -- (1) 
+	;truy tìm nguồn gốc -- (2) trace something (back) (to something) to find the origin or cause of something
 		;She could trace her family tree back to the 16th century.
+		;The leak was eventually traced to a broken seal.
+		;The police traced the call (= used special electronic equipment to find out who made the phone call) to her ex-husband's number.
+		;The origins of the custom are difficult to trace.
+		;Words have over the centuries acquired meanings not easily traced in dictionaries.
+		;TOPICS Phones, email and the internetB2, Family and relationshipsB2
+			;Oxford Collocations Dictionary
+			;adverb
+				;carefullyeasily, directly…
+			;verb + trace
+				;canattempt totry to…
+			;preposition
+				;to
+	; -- (3) 
 		
 
 
