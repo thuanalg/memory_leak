@@ -303,7 +303,7 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n, char *sendsig, pid_t *
 				memcpy(tmp + p->used_data, data, n);
 				p->used_data += n;
 				rs = p->used_data;
-				syslog(LOG_INFO,  "func: %s, write data: %d, total: %d\n", 
+				syslog(LOG_INFO,  "func: %s, write data: %d, total size: %d\n", 
 					__FUNCTION__, (int)p->used_data, (int)p->total );
 			}
 			while(0);
@@ -464,7 +464,7 @@ int check_exiit(char increase) {
 
 	do
 	{
-		if(! p->should_exit) {
+		if(!p->should_exit) {
 			break;
 		}
 		if(increase) {
@@ -599,4 +599,30 @@ static int ntt_unlock()
 }
 
 void *ntt_data_shm = 0;
+
+
+void ntt_daemonize(){
+	//http://www.microhowto.info/howto/cause_a_process_to_become_a_daemon_in_c.html
+	pid_t ppid = 0;
+	ppid = fork();
+	if(ppid > 0) {		
+		exit(EXIT_SUCCESS);
+	}
+	setsid();
+	signal(SIGHUP, SIG_IGN);
+
+	ppid = fork();
+	if(ppid > 0) {		
+		exit(EXIT_SUCCESS);
+	}
+	chdir("/");
+	umask(0);
+	close(STDOUT_FILENO);
+	close(STDIN_FILENO);
+	close(STDERR_FILENO);
+	open("/dev/null", O_RDONLY);
+	open("/dev/null", O_WRONLY);
+	open("/dev/null", O_RDWR);
+}
+
 //Endfile

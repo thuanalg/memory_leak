@@ -4,6 +4,8 @@
 #include "shared_data.h"
 #include <signal.h>
 #include <syslog.h>
+#include <sys/stat.h>
+#include <fcntl.h>
 
 #define COUNT_EXIT_READ 1 
 pthread_t read_threadid = 0;
@@ -42,9 +44,9 @@ int reg_user_sig() {
 	}		
 }
 
-
 int main(int argc, char *argv[])
 {
+	ntt_daemonize();
 	setlogmask (LOG_UPTO (LOG_INFO));
 	openlog ("main.read", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
 	ntt_open_shm(LIST_SHARED_DATA_SZ);

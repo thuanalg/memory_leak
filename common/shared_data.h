@@ -80,6 +80,7 @@ int set_read_pid(pid_t pid);
 pid_t get_read_pid();
 pthread_t  ntt_read_thread();
 
+void ntt_daemonize();
 #ifdef __cpluspplus
 }
 #endif
