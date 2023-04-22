@@ -9,6 +9,7 @@
 #include <netinet/in.h>
 #include <signal.h>
 #include <pthread.h>
+#include <time.h>
 #include "gen_list.h"
 	
 #define RECV_POST	 		9090
@@ -16,7 +17,29 @@
 #define MAXLINE 			1024
 #define USER_SIG 			SIGALRM
 
+typedef struct {
+	//0: Tracking message
+	//1: Notifying message
+	//2: Confirm message
+	char type;
+//b1142898-ca9b-425f-ba2e-407a2afe128c
+	char dev_id[64];
+	uint64_t sec;
+	uint64_t nano;
+	unsigned int len;
+} ID_MSG;
 
+//b1142898-ca9b-425f-ba2e-407a2afe128c
+
+int handle_tracking_msg(char*);
+
+//The tracking message is used to update the path ( route) is from server to client. 
+//It includes IP and high client port.
+int handle_tracking_msg(char *buf)
+{
+	//ntthuan need to be done
+	return 0;
+}
 
 #define COUNT_EXIT_READ 1 
 pthread_t read_threadid = 0;
@@ -59,13 +82,13 @@ typedef struct {
 void *sending_routine_thread(void *arg)
 {
 	pthread_t ptid = 0;
-	char *data = 0;
+	char *data = 0, buffer[MAXLINE+1];
 	int rc = 0;
 	struct sockaddr_in servaddr, cliaddr;
 	int sockfd = 0;
 	int n, err;
 
-	if ( (sockfd = socket(AF_INET, SOCK_DGRAM, 0)) < 0 ) {
+	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
 		perror("socket creation failed");
 		exit(EXIT_FAILURE);
 	}
@@ -88,18 +111,42 @@ void *sending_routine_thread(void *arg)
 	
 	while(1)
 	{
-		int rc = get_data_gen_list(gen_list, &data); 
-		fprintf(stdout, "send to client, rc: %d.\t\n", rc);
+		int rc = 0; 
+		int i = 0;
+		int len = 0;
+		memset(&cliaddr, 0, sizeof(cliaddr));
+		memset(buffer, 0, sizeof(buffer));
+		len = sizeof(cliaddr);	
+		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
+					MSG_DONTWAIT, ( struct sockaddr *) &cliaddr,	&len);
+		while(n > 0) {
+			int err = handle_tracking_msg(buffer);
+			if(err) {
+				//LOG err
+				break;
+			}
+			//LOG OK
+
+			if(n>0 && cliaddr.sin_family == AF_INET) {
+				char str[INET_ADDRSTRLEN + 1];
+				str[INET_ADDRSTRLEN] = 0;
+				inet_ntop(AF_INET, &(cliaddr.sin_addr), str, INET_ADDRSTRLEN);
+				fprintf(stdout, "\nline: %d, cli port: %d, \n", __LINE__, (int) cliaddr.sin_port);
+				fprintf(stdout, "\nline: %d, cli IP: %s\n\n", __LINE__, str);
+			}
+			break;
+		}
+		rc = get_data_gen_list(gen_list, &data); 
+		fprintf(stdout, "line: %d, send to client, rc: %d.\t\n", __LINE__, rc);
 		if(!rc) {
-			sleep(60);
+			sleep(10);
 			continue;
 		}
 		n = rc/sizeof(item_feedback);	
-		int i = 0;
 		item_feedback *item = (item_feedback*) data;
-		fprintf(stdout, "send to client.\t\n");
 		for(i = 0; i < n; ++i)
 		{
+			fprintf(stdout, "send to client data: %s.\t\n", (char*)item[i].data);
 			sendto(sockfd, (const char *)item[i].data, item[i].len_buff,
 				MSG_CONFIRM, (const struct sockaddr *) &(item[i].addr), item[i].len_addr);
 		}
@@ -175,7 +222,7 @@ int main(int argc, char *argv[]) {
 		if(n < 1) {
 			continue;
 		}
-
+		fprintf(stdout, "line:%d, recv n: %d\n", __LINE__, n);
 		if(n>0 && cliaddr.sin_family == AF_INET) {
 			char str[INET_ADDRSTRLEN + 1];
 			str[INET_ADDRSTRLEN] = 0;

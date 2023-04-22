@@ -11,6 +11,11 @@
 	
 #define PORT	 9090
 #define MAXLINE 1024
+const char *id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
+typedef struct msg_format {
+	char msg_id[128];
+	char data[512];
+} MSG_FORMAT;
 	
 // Driver code
 int main(int argc, char *argv[]) {
@@ -37,18 +42,27 @@ int main(int argc, char *argv[]) {
 		
 	// Filling server information
 	servaddr.sin_family = AF_INET;
-	servaddr.sin_port = htons(PORT);
 	//servaddr.sin_addr.s_addr = INADDR_ANY;
 	servaddr.sin_addr.s_addr = inet_addr(argv[1]);
-
+	servaddr.sin_port = htons(PORT);
 		
 	int n, len = sizeof(servaddr);
 		
-	sendto(sockfd, (const char *)hello, strlen(hello),
+	n = sendto(sockfd, (const char *)hello, strlen(hello),
 		MSG_CONFIRM, (const struct sockaddr *) &servaddr,
 			sizeof(servaddr));
-	printf("Hello message sent.\n");
+	printf("line: %d, Hello message sent: n: %d.\n", __LINE__, n);
 			
+	
+	servaddr.sin_port = htons(PORT + 1);
+
+
+	n = sendto(sockfd, (const char *)hello, strlen(hello),
+		MSG_CONFIRM, (const struct sockaddr *) &servaddr,
+			sizeof(servaddr));
+	printf("line: %d, Hello message sent: n: %d.\n", __LINE__, n);
+			
+
 	n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 				MSG_WAITALL, (struct sockaddr *) &servaddr,
 				&len);

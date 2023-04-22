@@ -34,8 +34,8 @@ void ntt_daemonize(){
 
 
 
-#define MY_MALLOC(p, n) {p=malloc(n);syslog(LOG_ERR, "line: %d, malloc p: %p, n: %d\n", __LINE__, p, n); }
-#define MY_FREE(p) {free(p);syslog(LOG_ERR, "line: %d, free p: %p\n", __LINE__, p);}
+#define MY_MALLOC(p, n) {p=malloc(n);syslog(LOG_INFO, "line: %d, malloc p: %p, n: %d\n", __LINE__, p, n); }
+#define MY_FREE(p) {free(p);syslog(LOG_INFO, "line: %d, free p: %p\n", __LINE__, p);}
 
 
 int main(int argc, char *argv) {
@@ -47,7 +47,7 @@ int main(int argc, char *argv) {
 	fprintf(stdout, "dssds\n");
 	fprintf(stdout, "dssds\n");
 	fprintf(stdout, "dssds\n");
-	setlogmask (LOG_UPTO (LOG_NOTICE));
+	setlogmask (LOG_UPTO (LOG_DEBUG));
 	openlog ("memory_leak", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
 	MY_MALLOC(str, 10)
 	MY_FREE(str);
