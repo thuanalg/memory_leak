@@ -25,8 +25,16 @@ typedef struct {
 	char data[0];
 } MSG_NOTIFY;
 
-int uint64_2_arr(unsigned char *data, uint64_t , int sz);
-int arr_2_uint64(unsigned char *data, uint64_t *n, int sz);
+int uint64_2_arr(unsigned char *arr, uint64_t , int sz);
+int arr_2_uint64(unsigned char *arr, uint64_t *n, int sz);
+
+
+int uint32_2_arr(unsigned char *arr, uint32_t , int sz);
+int arr_2_uint32(unsigned char *arr, uint32_t *n, int sz);
+
+
+int uint16_2_arr(unsigned char *arr, uint16_t , int sz);
+int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz);
 
 #ifndef __cplusplus
 #endif
