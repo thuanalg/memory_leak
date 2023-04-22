@@ -85,8 +85,7 @@
 
 
 
-[-] refreshment		<-->	n++[--0]	./rɪˈfreʃmənt/
- /rɪˈfreʃmənt/
+[-] refreshment		<-->	n++	[230421][001]	./rɪˈfreʃmənt/-NAmE /rɪˈfreʃmənt/
 	;thức uống hay thức ăn nhẹ -- (1) refreshments [plural] drinks and small amounts of food that are provided or sold to people in a public place or at a public event
 		;Light refreshments will be served during the break.
 		;Tickets include the price of refreshments.
@@ -113,8 +112,7 @@
 
 
 
-[-] javelin		<-->	n++[--0]	./ˈdʒævlɪn/
- /ˈdʒævlɪn/
+[-] javelin		<-->	n++	[230421][001]	./ˈdʒævlɪn/-NAmE /ˈdʒævlɪn/
 	;ngọn lao -- (1) [countable] a light spear (= a long stick with a pointed end) that is thrown in a sporting event
 		;He hurled the javelin almost 100 metres.
 		;TOPICS Sports: other sportsC2
@@ -130,8 +128,7 @@
 
 
 
-[-] hurl		<-->	verb++[--0]	./hɜːl/
- /hɜːrl/
+[-] hurl		<-->	verb++	[230421][001]	./hɜːl/-NAmE /hɜːrl/
 	;phóng -- (1) ​[transitive] hurl something/somebody + adv./prep. to throw something/somebody violently in a particular direction
 		;He hurled a brick through the window.
 		;Someone had hurled a grenade into the building.
@@ -151,8 +148,7 @@
 
 
 
-[-] euphoria		<-->	n++[--0]	./juːˈfɔːriə/
- /juːˈfɔːriə/
+[-] euphoria		<-->	n++	[230421][001]	./juːˈfɔːriə/-NAmE /juːˈfɔːriə/
 [uncountable] [230419] [news.ap]
 	;cảm giác phê thuốc, hưng phấn -- (1) an extremely strong feeling of happiness and excitement that usually lasts only a short time
 		;I was in a state of euphoria all day.
@@ -186,8 +182,7 @@
 
 
 
-[-] submerge		<-->	verb++[--0]	./səbˈmɜːdʒ/
- /səbˈmɜːrdʒ/ [230419] [news.ap]
+[-] submerge		<-->	verb++	[230421][001]	./səbˈmɜːdʒ/-NAmE /səbˈmɜːrdʒ/ [230419] [news.ap]
 	;chìm, chìm xuống; làm chìm xuống -- (1) [intransitive, transitive] to go under the surface of water or liquid; to put something or make something go under the surface of water or liquid
 		;The submarine had had time to submerge before the warship could approach.
 		;be submerged (by something) The fields had been submerged by floodwater.
@@ -204,8 +199,7 @@
 
 
 
-[-] bystander		<-->	n++[--0]	./ˈbaɪstændə(r)/
- /ˈbaɪstændər/ [IE-B1-Z01-XX-V-01]
+[-] bystander		<-->	n++	[230421][001]	./ˈbaɪstændə(r)/-NAmE /ˈbaɪstændər/ [IE-B1-Z01-XX-V-01]
 	;khác giả, người ngoài cuộc -- (1) a person who sees something that is happening but is not involved
 		;SYNONYM onlooker
 		;<< onlooker, bystander, >>
@@ -222,12 +216,10 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] likable		<-->	a++	[230421][001]	./ˈlaɪkəbl/-NAmE /ˈlaɪkəbl/(especially North American English)(also likeable especially in British English) [IE-B1-Z02-XX-R-01]
+	;dễ gần -- (1) pleasant and easy to like
+		;a very likable man
+		;She's warm, friendly and likeable.
 
 
 
@@ -237,12 +229,11 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] liquefy		<-->	verb++	[230421][001]	./ˈlɪkwɪfaɪ/-NAmE /ˈlɪkwɪfaɪ/
+[intransitive, transitive] (formal) [IE-B1-Z02-XX-R-01]
+	;hoá lỏng -- (1) liquefy (something) to become liquid; to make something liquid
+		;Above a certain temperature it is impossible to liquefy a gas.
+		;The cheese had liquefied so we poured it over the bread.
 
 
 
@@ -252,12 +243,10 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+
+[-] parcel		<-->	verb++	[230421][001]	./ˈpɑːsl/-NAmE /ˈpɑːrsl/(especially British English) [230421] [news.ap]
+	;đóng gói -- (1) parcel something (up) to wrap something up and make it into a parcel
+		;She parcelled up the books to send.
 
 
 
@@ -267,12 +256,46 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] parcel		<-->	n++	[230421][001]	./ˈpɑːsl/-NAmE /ˈpɑːrsl/ [230421] [news.ap]
+	;bưu kiện -- (1) ​(especially British English)
+		;(North American English usually package) something that is wrapped in paper or put into a thick envelope so that it can be sent by mail, carried easily or given as a present
+		;There's a parcel and some letters for you.
+		;She was carrying a parcel of books under her arm.
+		;SEE ALSO food parcel
+		;Extra Examples:
+		;He came in laden with parcels for the children.
+		;I sealed up the box with brown parcel tape.
+		;She went to collect her parcel from the depot.
+		;The courier tried to deliver a parcel yesterday but I'd already left.
+		;The waiter had our left-over food made up into a parcel to take home.
+		;This morning a parcel arrived containing a signed copy of his new book.
+		;We left little parcels outside each person's door.
+		;a parcel-delivery business
+				;Oxford Collocations Dictionary
+				;adjective
+				;largelittlesmall…
+				;verb + parcel
+				;postsenddeliver…
+				;parcel + verb
+				;arrivecontain something
+				;parcel + noun
+				;deliverytapebomb…
+				;preposition
+				;in a/​the parcelparcel fromparcel to…
+		;See full entry
+	;mảnh đất -- (2) a piece of land
+		;50 five-acre parcels have already been sold.
+	;gói thức ăn -- (3) (especially British English) a small amount of food that is wrapped in something, usually pastry, before it is cooked
+		;filo pastry parcels
+		;cheese and spinach parcels
+		;Fold up the pastry to form a parcel.
+		;Place the fish on top, tucking any tail ends under to make neat parcels.
+				;Oxford Collocations Dictionary
+				;adjective
+				;neatbakedcrispy…
+				;parcel + verb
+				;be stuffed with something
+		;See full entry
 
 
 
@@ -282,12 +305,15 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] grandiose		<-->	n++	[230421][001]	./ˈɡrændiəʊs/-NAmE /ˈɡrændiəʊs/(disapproving) [230421] [news.ap]
+	;hoành tráng, đại quy mô -- (1) seeming very impressive but too large, complicated, expensive, etc. to be practical or possible
+		;The grandiose scheme for a journey across the desert came to nothing.
+		;a grandiose opera house
+		;He could no longer live the grandiose lifestyle to which he had become accustomed.
+				;Oxford Collocations Dictionary
+				;Grandiose is used with these nouns:
+				;ambitionclaimidea…
+		;See full entry
 
 
 
@@ -297,12 +323,15 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] subsidize		<-->	verb++	[230421][001]	./ˈsʌbsɪdaɪz/-NAmE /ˈsʌbsɪdaɪz/(British English also subsidise) [230421] [news.ap]
+	;trợ cấp -- (1) subsidize somebody/something to give money to somebody or an organization to help pay for something; to give a subsidy
+		;SYNONYM fund
+		;The housing projects are subsidized by the government.
+		;She's not prepared to subsidize his gambling any longer.
+				;Oxford Collocations Dictionary
+				;phrases
+				;heavily subsidizedhighly subsidizedfederally subsidized…
+		;See full entry
 
 
 
