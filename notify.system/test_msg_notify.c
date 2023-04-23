@@ -53,7 +53,7 @@ int main(int argc, char *argv[])
 
 	uint16_2_arr(arr, e, 4);
 	fprintf(stdout, "\narr: \n");
-	for(i = 0; i < 4; ++i)
+	for(i = 0; i < 2; ++i)
 	{
 		int j = 0;
 		for(j = 0; j < i; ++j)
