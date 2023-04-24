@@ -20,10 +20,6 @@
 
 #define HASH_SIZE 10001
 
-typedef struct {
-	int n;
-	void *group;
-} HASH_LIST;
 
 typedef enum {
 	MSG_REG = 0,
@@ -31,6 +27,12 @@ typedef enum {
 	MSG_NOT,
 	MSG_CON,
 } MSG_ENUM;
+
+typedef struct {
+	int n;
+	void *group;
+} HASH_LIST;
+
 
 typedef struct {
 //0: Registering message
@@ -50,10 +52,11 @@ typedef struct {
 } MSG_NOTIFY;
 
 
-typedef struct {
+typedef struct __HASH_ITEM {
 	struct sockaddr_in ipv4;
 	struct sockaddr_in6 ipv6;
-	MSG_NOTIFY msg;
+	MSG_NOTIFY *msg;
+	struct __HASH_ITEM *next;
 } HASH_ITEM;
 
 unsigned int hash_func(char *id, int n);

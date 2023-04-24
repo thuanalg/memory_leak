@@ -22,6 +22,7 @@
 //b1142898-ca9b-425f-ba2e-407a2afe128c
 
 
+int reg_to_table(MSG_REGISTER *msg, int n);
 void dum_msg(MSG_COMMON *);
 int handle_tracking_msg(char*);
 int reg_user_sig();
@@ -126,9 +127,9 @@ void *sending_routine_thread(void *arg)
 			break;
 		}
 		rc = get_data_gen_list(gen_list, &data); 
-		fprintf(stdout, "line: %d, send to client, rc: %d.\t\n", __LINE__, rc);
+		//fprintf(stdout, "line: %d, send to client, rc: %d.\t\n", __LINE__, rc);
 		if(!rc) {
-			sleep(10);
+			usleep(10000);
 			continue;
 		}
 		n = rc/sizeof(item_feedback);	
@@ -220,6 +221,15 @@ int main(int argc, char *argv[]) {
 		}
 		msg = (MSG_COMMON*) buffer;	
 		dum_msg(msg);
+		if(msg->type == MSG_REG) {
+			int res = reg_to_table((MSG_REGISTER*) msg, n);
+			if(res) {
+				fprintf(stdout, "register DONEEEEEEEEE\t");	
+			}
+			else {
+				fprintf(stdout, "register ERRORRRR\t");	
+			}
+		}
 		fprintf(stdout, "line:%d, recv n: %d\n", __LINE__, n);
 		if(n>0 && cliaddr.sin_family == AF_INET) {
 			char str[INET_ADDRSTRLEN + 1];
@@ -281,4 +291,83 @@ int reg_user_sig() {
 	}		
 }
 
+int reg_to_table(MSG_REGISTER *msg, int n)
+{
+	int res = 0;
+	unsigned int hn = 0;
+	HASH_LIST *hi = 0;
+	MSG_COMMON *com = 0;
+	HASH_ITEM *hitem = 0;
+	do {
+		com = &(msg->com);
+		hn = hash_func(com->dev_id, 64);
+		hi = &(list_reg_dev[hn]);
+		if(hi->n)
+		{
+			int j = 0;
+			int check = 1;
+			if(!hi->group) {
+				//ERROR here
+				hi->n = 0;
+				break;
+			}	
+			hitem = hi->group;
+			while(hitem)
+			{
+				int k = strncmp(com->dev_id, hitem->msg->com.dev_id, 64);
+				fprintf(stdout, "\n\nkkkkkkk: %d, id: %s, id_old: %s\n\n", k, com->dev_id, hitem->msg->com.dev_id);
+				if(!k)
+				{
+					check = 0;
+					break;
+				}
+				hitem = hitem->next;
+				++j;
+				if(j >= hi->n) break;
+			}
+			if(!check)
+			{
+				fprintf(stdout, "Already existed!\n");
+				break;
+			}
+//typedef struct {
+//	int n;
+//	void *group;
+//} HASH_LIST;
 
+//typedef struct __HASH_ITEM {
+//	struct sockaddr_in ipv4;
+//	struct sockaddr_in6 ipv6;
+//	MSG_NOTIFY *msg;
+//	struct __HASH_ITEM *next;
+//} HASH_ITEM;
+
+
+			hitem = malloc(sizeof(HASH_ITEM));
+			memset(hitem, 0, sizeof(HASH_ITEM));		
+			hitem->msg = malloc(n);
+			memset(hitem->msg, 0, n);
+			memcpy(hitem->msg, (char*) msg, n);
+			
+			++(hi->n);
+			hitem->next = hi->group;
+			hi->group = hitem;
+			res = 1;
+			break;
+		}
+		else {
+			hitem = malloc(sizeof(HASH_ITEM));
+			memset(hitem, 0, sizeof(HASH_ITEM));		
+			hitem->msg = malloc(n);
+			memset(hitem->msg, 0, n);
+			memcpy(hitem->msg, (char*) msg, n);
+			
+			hi->n = 1;
+			hi->group = hitem;
+			res = 1;
+			break;
+		}	
+	}
+	while(0);
+	return res;
+}
