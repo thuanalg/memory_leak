@@ -97,3 +97,17 @@ int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz)
 	while(0);
 	return 0;
 }
+
+
+unsigned int hash_func(char *id, int n)
+{
+	unsigned int res = 0;
+	int i = 0;
+	for(i = 0; i<n; i++)
+	{
+		n += (id[i] * 97) % HASH_SIZE; 
+	}
+	n = n % HASH_SIZE;
+}
+
+HASH_LIST list_reg_dev[HASH_SIZE + 1];

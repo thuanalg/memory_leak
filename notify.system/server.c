@@ -11,27 +11,20 @@
 #include <pthread.h>
 #include <time.h>
 #include "gen_list.h"
+#include "msg_notify.h"
 	
 #define RECV_POST	 		9090
 #define SEND_POST	 		9091
 #define MAXLINE 			1024
 #define USER_SIG 			SIGALRM
 
-typedef struct {
-	//0: Tracking message
-	//1: Notifying message
-	//2: Confirm message
-	char type;
-//b1142898-ca9b-425f-ba2e-407a2afe128c
-	char dev_id[64];
-	uint64_t sec;
-	uint64_t nano;
-	unsigned int len;
-} ID_MSG;
 
 //b1142898-ca9b-425f-ba2e-407a2afe128c
 
+
+void dum_msg(MSG_COMMON *);
 int handle_tracking_msg(char*);
+int reg_user_sig();
 
 //The tracking message is used to update the path ( route) is from server to client. 
 //It includes IP and high client port.
@@ -40,6 +33,7 @@ int handle_tracking_msg(char *buf)
 	//ntthuan need to be done
 	return 0;
 }
+
 
 #define COUNT_EXIT_READ 1 
 pthread_t read_threadid = 0;
@@ -50,9 +44,7 @@ void *sending_routine_thread(void *arg);
 
 GEN_LIST *gen_list = 0;
 
-int reg_user_sig();
-void
-handler(int signo, siginfo_t *info, void *context)
+void handler(int signo, siginfo_t *info, void *context)
 {
 		if(main_pid != info->si_pid) {
 			pthread_kill(read_threadid, USER_SIG);
@@ -60,17 +52,6 @@ handler(int signo, siginfo_t *info, void *context)
 		fprintf(stdout, "sending pid--------------: %llu\n", (unsigned long long)info->si_pid);
 }
 
-
-int reg_user_sig() {
-	struct sigaction act = { 0 };	
-	
-	act.sa_flags = SA_SIGINFO | SA_ONSTACK;
-	act.sa_sigaction = &handler;
-	if (sigaction(USER_SIG, &act, NULL) == -1) {
-	    perror("sigaction");
-	    exit(EXIT_FAILURE);
-	}		
-}
 
 typedef struct {
 	int len_addr;
@@ -114,17 +95,25 @@ void *sending_routine_thread(void *arg)
 		int rc = 0; 
 		int i = 0;
 		int len = 0;
+		MSG_COMMON *msg = 0;
 		memset(&cliaddr, 0, sizeof(cliaddr));
 		memset(buffer, 0, sizeof(buffer));
 		len = sizeof(cliaddr);	
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 					MSG_DONTWAIT, ( struct sockaddr *) &cliaddr,	&len);
 		while(n > 0) {
+			if(n >= sizeof(MSG_COMMON));
+			{
+				msg = (MSG_COMMON*) buffer;
+				//Here is notifying socket
+				dum_msg(msg);
+			}
 			int err = handle_tracking_msg(buffer);
 			if(err) {
 				//LOG err
 				break;
 			}
+			
 			//LOG OK
 
 			if(n>0 && cliaddr.sin_family == AF_INET) {
@@ -217,11 +206,20 @@ int main(int argc, char *argv[]) {
 	
 	len = sizeof(cliaddr); //len is value/result
 	while(!is_stop_server) {
+		MSG_COMMON *msg = 0;
+		//Register socket, recvfrom
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 					MSG_WAITALL, ( struct sockaddr *) &cliaddr,	&len);
 		if(n < 1) {
+			//Error here
 			continue;
 		}
+		if( n < sizeof(MSG_COMMON)) {
+			//Error here
+			continue;
+		}
+		msg = (MSG_COMMON*) buffer;	
+		dum_msg(msg);
 		fprintf(stdout, "line:%d, recv n: %d\n", __LINE__, n);
 		if(n>0 && cliaddr.sin_family == AF_INET) {
 			char str[INET_ADDRSTRLEN + 1];
@@ -259,3 +257,27 @@ int main(int argc, char *argv[]) {
 	sleep(1);
 	return 0;
 }
+
+void dum_msg(MSG_COMMON *item)
+{
+	const char *text[] = { "Register", "Trace", "Notify", "Confirm", "" };
+	do {
+		unsigned char type = 0;
+		if(!item) break;
+		type = item->type;
+		fprintf(stdout, "-------- Type of message: %s\n", text[type]);
+		fprintf(stdout, "-------- Device ID: %s\n", item->dev_id);
+	} while(0);	
+}
+
+int reg_user_sig() {
+	struct sigaction act = { 0 };	
+	act.sa_flags = SA_SIGINFO | SA_ONSTACK;
+	act.sa_sigaction = &handler;
+	if (sigaction(USER_SIG, &act, NULL) == -1) {
+	    perror("sigaction");
+	    exit(EXIT_FAILURE);
+	}		
+}
+
+
