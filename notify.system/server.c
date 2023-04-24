@@ -267,6 +267,7 @@ void dum_msg(MSG_COMMON *item)
 		type = item->type;
 		fprintf(stdout, "-------- Type of message: %s\n", text[type]);
 		fprintf(stdout, "-------- Device ID: %s\n", item->dev_id);
+		fprintf(stdout, "-------- Hash number: %u\n", hash_func(item->dev_id, 64));
 	} while(0);	
 }
 

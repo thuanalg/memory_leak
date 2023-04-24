@@ -105,9 +105,15 @@ unsigned int hash_func(char *id, int n)
 	int i = 0;
 	for(i = 0; i<n; i++)
 	{
-		n += (id[i] * 97) % HASH_SIZE; 
+		unsigned long long k = 1;
+		for(int j = 0; j < i; ++j) {
+			k *= 71;
+			k %= HASH_SIZE;
+		}
+		res += (id[i] * k) % HASH_SIZE; 
 	}
-	n = n % HASH_SIZE;
+	res = res % HASH_SIZE;
+	return res;
 }
 
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
