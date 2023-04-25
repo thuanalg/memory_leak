@@ -22,7 +22,6 @@
 //b1142898-ca9b-425f-ba2e-407a2afe128c
 
 
-int reg_to_table(MSG_REGISTER *msg, int n);
 void dum_msg(MSG_COMMON *);
 int handle_tracking_msg(char*);
 int reg_user_sig();
@@ -69,12 +68,14 @@ void *sending_routine_thread(void *arg)
 	struct sockaddr_in servaddr, cliaddr;
 	int sockfd = 0;
 	int n, err;
+	int val = 1;
+
 
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
 		perror("socket creation failed");
 		exit(EXIT_FAILURE);
 	}
-		
+	setsockopt(sockfd, IPPROTO_IP, IP_MTU_DISCOVER, &val, sizeof(val));		
 	memset(&servaddr, 0, sizeof(servaddr));
 	memset(&cliaddr, 0, sizeof(cliaddr));
 		
@@ -109,8 +110,9 @@ void *sending_routine_thread(void *arg)
 				//Here is notifying socket
 				dum_msg(msg);
 			}
-			int err = handle_tracking_msg(buffer);
-			if(err) {
+			int err = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr);
+
+			if(!err) {
 				//LOG err
 				break;
 			}
@@ -118,11 +120,7 @@ void *sending_routine_thread(void *arg)
 			//LOG OK
 
 			if(n>0 && cliaddr.sin_family == AF_INET) {
-				char str[INET_ADDRSTRLEN + 1];
-				str[INET_ADDRSTRLEN] = 0;
-				inet_ntop(AF_INET, &(cliaddr.sin_addr), str, INET_ADDRSTRLEN);
-				fprintf(stdout, "\nline: %d, cli port: %d, \n", __LINE__, (int) cliaddr.sin_port);
-				fprintf(stdout, "\nline: %d, cli IP: %s\n\n", __LINE__, str);
+				dum_ipv4(&cliaddr, __LINE__);
 			}
 			break;
 		}
@@ -175,6 +173,7 @@ int main(int argc, char *argv[]) {
 	char buffer[MAXLINE];
 	char *hello = "Hello from server";
 	struct sockaddr_in servaddr, cliaddr;
+	int val = 1;
 
 	main_pid = getpid();
 		
@@ -188,6 +187,8 @@ int main(int argc, char *argv[]) {
 		exit(EXIT_FAILURE);
 	}
 		
+	setsockopt(sockfd, IPPROTO_IP, IP_MTU_DISCOVER, &val, sizeof(val));		
+
 	memset(&servaddr, 0, sizeof(servaddr));
 	memset(&cliaddr, 0, sizeof(cliaddr));
 		
@@ -231,12 +232,8 @@ int main(int argc, char *argv[]) {
 			}
 		}
 		fprintf(stdout, "line:%d, recv n: %d\n", __LINE__, n);
-		if(n>0 && cliaddr.sin_family == AF_INET) {
-			char str[INET_ADDRSTRLEN + 1];
-			str[INET_ADDRSTRLEN] = 0;
-			inet_ntop(AF_INET, &(cliaddr.sin_addr), str, INET_ADDRSTRLEN);
-			fprintf(stdout, "\ncli port: %d, ", (int) cliaddr.sin_port);
-			fprintf(stdout, "cli IP: %s\n\n", str);
+		if(n > 0 && cliaddr.sin_family == AF_INET) {
+			dum_ipv4(&cliaddr, __LINE__);
 		}
 		item_feedback item;
 		memset(&item, 0, sizeof(item));
@@ -291,83 +288,4 @@ int reg_user_sig() {
 	}		
 }
 
-int reg_to_table(MSG_REGISTER *msg, int n)
-{
-	int res = 0;
-	unsigned int hn = 0;
-	HASH_LIST *hi = 0;
-	MSG_COMMON *com = 0;
-	HASH_ITEM *hitem = 0;
-	do {
-		com = &(msg->com);
-		hn = hash_func(com->dev_id, 64);
-		hi = &(list_reg_dev[hn]);
-		if(hi->n)
-		{
-			int j = 0;
-			int check = 1;
-			if(!hi->group) {
-				//ERROR here
-				hi->n = 0;
-				break;
-			}	
-			hitem = hi->group;
-			while(hitem)
-			{
-				int k = strncmp(com->dev_id, hitem->msg->com.dev_id, 64);
-				fprintf(stdout, "\n\nkkkkkkk: %d, id: %s, id_old: %s\n\n", k, com->dev_id, hitem->msg->com.dev_id);
-				if(!k)
-				{
-					check = 0;
-					break;
-				}
-				hitem = hitem->next;
-				++j;
-				if(j >= hi->n) break;
-			}
-			if(!check)
-			{
-				fprintf(stdout, "Already existed!\n");
-				break;
-			}
-//typedef struct {
-//	int n;
-//	void *group;
-//} HASH_LIST;
 
-//typedef struct __HASH_ITEM {
-//	struct sockaddr_in ipv4;
-//	struct sockaddr_in6 ipv6;
-//	MSG_NOTIFY *msg;
-//	struct __HASH_ITEM *next;
-//} HASH_ITEM;
-
-
-			hitem = malloc(sizeof(HASH_ITEM));
-			memset(hitem, 0, sizeof(HASH_ITEM));		
-			hitem->msg = malloc(n);
-			memset(hitem->msg, 0, n);
-			memcpy(hitem->msg, (char*) msg, n);
-			
-			++(hi->n);
-			hitem->next = hi->group;
-			hi->group = hitem;
-			res = 1;
-			break;
-		}
-		else {
-			hitem = malloc(sizeof(HASH_ITEM));
-			memset(hitem, 0, sizeof(HASH_ITEM));		
-			hitem->msg = malloc(n);
-			memset(hitem->msg, 0, n);
-			memcpy(hitem->msg, (char*) msg, n);
-			
-			hi->n = 1;
-			hi->group = hitem;
-			res = 1;
-			break;
-		}	
-	}
-	while(0);
-	return res;
-}

@@ -9,6 +9,7 @@
 #include <sys/socket.h>
 #include <arpa/inet.h>
 #include <netinet/in.h>
+#include <time.h>
 
 
 
@@ -62,6 +63,7 @@ typedef struct __HASH_ITEM {
 unsigned int hash_func(char *id, int n);
 
 #define MSG_REGISTER MSG_NOTIFY
+#define MSG_TRACKING MSG_NOTIFY
 
 int uint64_2_arr(unsigned char *arr, uint64_t , int sz);
 int arr_2_uint64(unsigned char *arr, uint64_t *n, int sz);
@@ -74,8 +76,15 @@ int arr_2_uint32(unsigned char *arr, uint32_t *n, int sz);
 int uint16_2_arr(unsigned char *arr, uint16_t , int sz);
 int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz);
 
+//struct sockaddr_in servaddr, cliaddr;
+void dum_ipv4(struct sockaddr_in *, int line);
+
+int reg_to_table(MSG_REGISTER *msg, int n);
+int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in*);
+
 
 extern HASH_LIST list_reg_dev[HASH_SIZE + 1];
+
 
 #ifndef __cplusplus
 #endif

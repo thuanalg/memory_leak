@@ -132,6 +132,6 @@ int get_data_gen_list(GEN_LIST *p, char **data)
 			break;
 		}
 	} while (0); 
-	fprintf(stdout, "size: %d .\n", n);
+	//fprintf(stdout, "size: %d .\n", n);
 	return n;
 }
