@@ -135,7 +135,7 @@ void dum_ipv4(struct sockaddr_in *addr, int line) {
 }
 
 
-int reg_to_table(MSG_REGISTER *msg, int n)
+int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 {
 	int res = 0;
 	unsigned int hn = 0;
@@ -168,6 +168,7 @@ int reg_to_table(MSG_REGISTER *msg, int n)
 			{
 				int k = strncmp(com->dev_id, hitem->msg->com.dev_id, 64);
 				fprintf(stdout, "\n\nkkkkkkk: %d, id: %s, id_old: %s\n\n", k, com->dev_id, hitem->msg->com.dev_id);
+				put_time_to_msg(com, t);
 				if(!k)
 				{
 					check = 0;
@@ -285,6 +286,64 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr) {
 			dum_ipv4(&(hitem->ipv4), __LINE__);
 			res = 1;
 		}
+	}
+	while(0);
+	rc = pthread_mutex_unlock(&hash_tb_mtx);
+	if(rc) {
+		//LOG FATAL
+	}
+	return res;
+}
+
+#define MAX(a,b) ((a) > (b) ? (a) : (b))
+
+int add_to_notify_list(MSG_NOTIFY *msg, int sz) {
+	fprintf(stdout, "==========Regularly notify\n");
+	int err = 0;
+	int n = 0;
+	int rc = 0;
+	HASH_ITEM *hi = 0;
+
+	do {
+		hi = malloc(sizeof(HASH_ITEM));	
+		if(!hi) {
+			//LOG_FATAL
+			err = 1;
+			break;
+		}
+		n = MAX(sz, sizeof(MSG_NOTIFY));
+		memset(hi, 0, sizeof(HASH_ITEM));
+		hi->msg = malloc(n);
+		if(!hi->msg) {
+			//LOG FATAL
+			break;
+		}
+		memset(hi->msg, 0, n);
+		memcpy(hi->msg, (char*) msg, n);
+
+		rc = pthread_mutex_lock(&hash_tb_mtx);
+		//>>>>>>
+		if(rc) {
+			//LOG FATAL
+		}
+		if(!notified_list) {
+			notified_list = hi;
+		}
+		else {
+			hi->next = (void*)notified_list;
+			notified_list = hi;
+		}
+		//<<<<<<
+		rc = pthread_mutex_unlock(&hash_tb_mtx);
+		if(rc) {
+			//LOG FATAL
+		}
+	}	
+	while(0);
+	fprintf(stdout, "----func: %s, err: %d\n", __FUNCTION__, err);
+	return err;
+}
+
 //typedef struct {
 //	int n;
 //	void *group;
@@ -296,13 +355,104 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr) {
 //	MSG_NOTIFY *msg;
 //	struct __HASH_ITEM *next;
 //} HASH_ITEM;
+
+//typedef struct {
+////0: Registering message
+////1: Tracking msg 
+////2: Notifying msg 
+////3: Confirming msg 
+//	unsigned char type;
+//	char dev_id[LEN_DEVID];
+//	unsigned char second[LEN_U64INT];
+//	unsigned char nano[LEN_U64INT];
+//	unsigned char len[LEN_U32INT];
+//} MSG_COMMON;
+//
+int notify_to_client(int sockfd) {
+	int err = 0;
+	int rc = 0;
+	int index = 0;
+	char *devid = 0;
+	HASH_ITEM *hi = notified_list;
+	HASH_ITEM *gr = 0;
+
+	rc = pthread_mutex_lock(&hash_tb_mtx);
+	if(rc) {
+		//LOG FATAL
+	}
+	//>>>>>>>
+	do {
+		if(!hi) 	
+		{
+			break;	
+		}
+		while(hi)
+		{
+			HASH_ITEM *t = 0;
+			devid = hi->msg->com.dev_id;
+			index = hash_func(devid, 64);		
+			gr = (HASH_ITEM*) list_reg_dev[index].group;
+			if(!gr) {
+				//NOT found in registed list.
+				err=1;
+				//E_NOT_IN_REG
+				break;
+			}
+			while(gr) {
+				if(strncmp(devid, gr->msg->com.dev_id, LEN_DEVID) == 0) {
+					t = gr;
+					break;		
+				}
+				gr = gr->next;
+			}
+			if(!t) {
+				//NOT found in registed list.
+				err = 1;
+				//E_NOT_IN_REG
+				break;
+			}
+			//haha	
+//		Prepare list should be done, that will be better. ntthuan: NOT DONE
+//		sendto(sockfd, (const char *)item[i].data, item[i].len_buff,
+//			MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
+			hi = hi->next;
+		}
 	}
 	while(0);
+	//<<<<<<<
 	rc = pthread_mutex_unlock(&hash_tb_mtx);
 	if(rc) {
 		//LOG FATAL
 	}
-	return res;
+	return err;
+}
+
+
+//2023-04-26
+void put_time_to_msg( MSG_COMMON *msg, struct timespec *t)
+{
+	do {
+		if(!t) {
+			//LOG ERROR
+			break;
+		}
+		if(!msg) {
+			//LOG ERROR
+			break;
+		}
+		memset(msg->second, 0, LEN_U64INT);
+		memset(msg->nano, 0, LEN_U64INT);
+		uint64_2_arr(msg->second, t->tv_sec, LEN_U64INT);	
+		uint64_2_arr(msg->nano, t->tv_nsec, LEN_U64INT);	
+	}
+	while(0);
 }
 
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
+HASH_ITEM *notified_list = 0;
+//After receiving a message, include MSG_REG, except MSG_TRA:
+//1. Get current time
+//2. Put current time to the message
+//3. Update current time into the hash list
+//4. Put the message to the "notified list"
+//5. Send message to a specific device

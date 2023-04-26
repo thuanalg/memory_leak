@@ -69,7 +69,7 @@ int main(int argc, char *argv[]) {
 		{
 			usleep(10000);
 			clock_gettime(CLOCK_REALTIME, &t1);
-			if(t1.tv_sec - t0.tv_sec > 0)
+			if(t1.tv_sec - t0.tv_sec > 1)
 			{
 					t0 = t1;
 					send_msg_resgister(sockfd, &servaddr);
@@ -161,6 +161,7 @@ int send_msg_resgister(int sockfd, struct sockaddr_in* addr)
 	printf("line: %d, Hello message sent: n: %d.\n", __LINE__, n);
 
 	
+	msg.com.type = MSG_TRA;
 	addr->sin_port = htons(PORT + 1);
 	n = sendto(sockfd, buff, sizeof(msg),
 		MSG_CONFIRM, (const struct sockaddr *) addr,

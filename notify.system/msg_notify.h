@@ -4,6 +4,7 @@
 #ifndef _DEFAULT_SOURCE
 	#define _DEFAULT_SOURCE
 #endif
+#include <syslog.h>
 #include <endian.h>
 #include <stdint.h>
 #include <sys/socket.h>
@@ -13,10 +14,10 @@
 
 
 
-#define LEN_DEVID 64
-#define LEN_U64INT 8
-#define LEN_U32INT 4
-#define LEN_U16INT 2
+#define LEN_DEVID 	64
+#define LEN_U64INT 	8
+#define LEN_U32INT 	4
+#define LEN_U16INT 	2
 
 
 #define HASH_SIZE 10001
@@ -50,7 +51,12 @@ typedef struct {
 typedef struct {
 	MSG_COMMON com;
 	char data[0];
-} MSG_NOTIFY;
+} MSG_DATA;
+
+
+#define MSG_NOTIFY			MSG_DATA
+#define MSG_REGISTER 		MSG_DATA
+#define MSG_TRACKING 		MSG_DATA
 
 
 typedef struct __HASH_ITEM {
@@ -60,10 +66,9 @@ typedef struct __HASH_ITEM {
 	struct __HASH_ITEM *next;
 } HASH_ITEM;
 
-unsigned int hash_func(char *id, int n);
 
-#define MSG_REGISTER MSG_NOTIFY
-#define MSG_TRACKING MSG_NOTIFY
+
+unsigned int hash_func(char *id, int n);
 
 int uint64_2_arr(unsigned char *arr, uint64_t , int sz);
 int arr_2_uint64(unsigned char *arr, uint64_t *n, int sz);
@@ -78,13 +83,21 @@ int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz);
 
 //struct sockaddr_in servaddr, cliaddr;
 void dum_ipv4(struct sockaddr_in *, int line);
-
-int reg_to_table(MSG_REGISTER *msg, int n);
+//0: error, 1: done
+int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *);
+//0: error, 1: done
 int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in*);
 
+int add_to_notify_list(MSG_NOTIFY *msg, int sz);
+
+int notify_to_client(int sockfd);
+
+//2023-04-26
+void put_time_to_msg( MSG_COMMON *, struct timespec *t);
 
 extern HASH_LIST list_reg_dev[HASH_SIZE + 1];
 
+extern HASH_ITEM *notified_list;
 
 #ifndef __cplusplus
 #endif

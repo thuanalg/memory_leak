@@ -69,7 +69,8 @@ void *sending_routine_thread(void *arg)
 	int sockfd = 0;
 	int n, err;
 	int val = 1;
-
+	struct timespec t0, t1;
+	clock_gettime(CLOCK_REALTIME, &t0);
 
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
 		perror("socket creation failed");
@@ -110,20 +111,27 @@ void *sending_routine_thread(void *arg)
 				//Here is notifying socket
 				dum_msg(msg);
 			}
-			int err = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr);
-
-			if(!err) {
-				//LOG err
-				break;
+			if(msg->type == MSG_TRA) {
+				int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr);
+				if(!done) {
+					//LOG err
+					break;
+				}
 			}
-			
+			else {
+				//Notify immediately
+				//ntthuan NOT DONE
+			}
 			//LOG OK
-
 			if(n>0 && cliaddr.sin_family == AF_INET) {
 				dum_ipv4(&cliaddr, __LINE__);
 			}
 			break;
 		}
+
+
+
+
 		rc = get_data_gen_list(gen_list, &data); 
 		//fprintf(stdout, "line: %d, send to client, rc: %d.\t\n", __LINE__, rc);
 		if(!rc) {
@@ -141,6 +149,18 @@ void *sending_routine_thread(void *arg)
 		if(data) {
 			free(data);
 		}
+
+		
+		clock_gettime(CLOCK_REALTIME, &t1);
+		//Regularly notify
+		if(t1.tv_sec - t0.tv_sec > 3) {
+			int ret = 0;
+			t0 = t1;
+			ret =  notify_to_client(sockfd);
+		}
+
+
+
 	}
 	err = close(sockfd);
 	if(err)
@@ -165,8 +185,9 @@ pthread_t sending_thread(void *arg)
 	return rc ? 0 : ptid;
 }
 
+void server() {
 
-	
+}	
 // Driver code
 int main(int argc, char *argv[]) {
 	int sockfd;
@@ -174,6 +195,8 @@ int main(int argc, char *argv[]) {
 	char *hello = "Hello from server";
 	struct sockaddr_in servaddr, cliaddr;
 	int val = 1;
+
+	openlog ("server_notify", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
 
 	main_pid = getpid();
 		
@@ -223,13 +246,20 @@ int main(int argc, char *argv[]) {
 		msg = (MSG_COMMON*) buffer;	
 		dum_msg(msg);
 		if(msg->type == MSG_REG) {
-			int res = reg_to_table((MSG_REGISTER*) msg, n);
+			int err = 0;
+			int res = 0; 
+			struct timespec t = { 0 }; 
+			clock_gettime(CLOCK_REALTIME, &t);
+			put_time_to_msg( msg, &t);
+			res = reg_to_table((MSG_REGISTER*) msg, n, &t);
 			if(res) {
 				fprintf(stdout, "register DONEEEEEEEEE\t");	
 			}
 			else {
 				fprintf(stdout, "register ERRORRRR\t");	
 			}
+			//ntthuan: add result at suffix message: NOT DONE
+			err = add_to_notify_list((MSG_NOTIFY*)msg, n);
 		}
 		fprintf(stdout, "line:%d, recv n: %d\n", __LINE__, n);
 		if(n > 0 && cliaddr.sin_family == AF_INET) {
@@ -262,6 +292,7 @@ int main(int argc, char *argv[]) {
 		fprintf(stdout, "close fd error: %d", err);
 	}	
 	sleep(1);
+	closelog ();
 	return 0;
 }
 
