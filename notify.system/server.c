@@ -22,7 +22,6 @@
 //b1142898-ca9b-425f-ba2e-407a2afe128c
 
 
-void dum_msg(MSG_COMMON *);
 int handle_tracking_msg(char*);
 int reg_user_sig();
 
@@ -102,6 +101,7 @@ void *sending_routine_thread(void *arg)
 		memset(&cliaddr, 0, sizeof(cliaddr));
 		memset(buffer, 0, sizeof(buffer));
 		len = sizeof(cliaddr);	
+		memset(buffer, 0, sizeof(buffer));
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 					MSG_DONTWAIT, ( struct sockaddr *) &cliaddr,	&len);
 		while(n > 0) {
@@ -109,58 +109,34 @@ void *sending_routine_thread(void *arg)
 			{
 				msg = (MSG_COMMON*) buffer;
 				//Here is notifying socket
-				dum_msg(msg);
-			}
-			if(msg->type == MSG_TRA) {
-				int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr);
-				if(!done) {
-					//LOG err
-					break;
+				dum_msg(msg, __LINE__);
+				if(msg->type == MSG_TRA) {
+					int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr);
+					if(!done) {
+						//LOG err
+						break;
+					}
 				}
-			}
-			else {
-				//Notify immediately
-				//ntthuan NOT DONE
-			}
-			//LOG OK
-			if(n>0 && cliaddr.sin_family == AF_INET) {
-				dum_ipv4(&cliaddr, __LINE__);
+				else {
+					//Notify immediately
+					//ntthuan NOT DONE
+				}
+				//LOG OK
+				if(n > 0 && cliaddr.sin_family == AF_INET) {
+					dum_ipv4(&cliaddr, __LINE__);
+				}
 			}
 			break;
 		}
-
-
-
-
-		rc = get_data_gen_list(gen_list, &data); 
-		//fprintf(stdout, "line: %d, send to client, rc: %d.\t\n", __LINE__, rc);
-		if(!rc) {
-			usleep(10000);
-			continue;
-		}
-		n = rc/sizeof(item_feedback);	
-		item_feedback *item = (item_feedback*) data;
-		for(i = 0; i < n; ++i)
-		{
-			fprintf(stdout, "send to client data: %s.\t\n", (char*)item[i].data);
-			sendto(sockfd, (const char *)item[i].data, item[i].len_buff,
-				MSG_CONFIRM, (const struct sockaddr *) &(item[i].addr), item[i].len_addr);
-		}
-		if(data) {
-			free(data);
-		}
-
-		
 		clock_gettime(CLOCK_REALTIME, &t1);
 		//Regularly notify
 		if(t1.tv_sec - t0.tv_sec > 3) {
 			int ret = 0;
+			int n = 0;
 			t0 = t1;
-			ret =  notify_to_client(sockfd);
+			ret =  notify_to_client(sockfd, &n);
+			fprintf(stdout, "counTTTTTTTTTTTTTTTTTTTTT: %d\n", n);
 		}
-
-
-
 	}
 	err = close(sockfd);
 	if(err)
@@ -232,7 +208,8 @@ int main(int argc, char *argv[]) {
 	len = sizeof(cliaddr); //len is value/result
 	while(!is_stop_server) {
 		MSG_COMMON *msg = 0;
-		//Register socket, recvfrom
+		//Register socket, 
+		memset(buffer, 0, sizeof(buffer));
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 					MSG_WAITALL, ( struct sockaddr *) &cliaddr,	&len);
 		if(n < 1) {
@@ -244,8 +221,14 @@ int main(int argc, char *argv[]) {
 			continue;
 		}
 		msg = (MSG_COMMON*) buffer;	
-		dum_msg(msg);
-		if(msg->type == MSG_REG) {
+		dum_msg(msg, __LINE__);
+		if(msg->ifback) {
+			fprintf(stdout, "==================clean this msg================\n");
+			dum_msg(msg, __LINE__);
+			rm_msg_sent(msg);
+			continue;
+		}
+		else if(msg->type == MSG_REG) {
 			int err = 0;
 			int res = 0; 
 			struct timespec t = { 0 }; 
@@ -296,18 +279,6 @@ int main(int argc, char *argv[]) {
 	return 0;
 }
 
-void dum_msg(MSG_COMMON *item)
-{
-	const char *text[] = { "Register", "Trace", "Notify", "Confirm", "" };
-	do {
-		unsigned char type = 0;
-		if(!item) break;
-		type = item->type;
-		fprintf(stdout, "-------- Type of message: %s\n", text[type]);
-		fprintf(stdout, "-------- Device ID: %s\n", item->dev_id);
-		fprintf(stdout, "-------- Hash number: %u\n", hash_func(item->dev_id, 64));
-	} while(0);	
-}
 
 int reg_user_sig() {
 	struct sigaction act = { 0 };	

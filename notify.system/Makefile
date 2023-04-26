@@ -6,8 +6,8 @@ INC +=msg_notify.h
 all:
 	rm -f main.server main.client main.save
 	gcc -g -o server_notify ${SRC_SERVER} ${LIBS} ${INC}
-	gcc -g -o main.client ${SRC_CLIENT} ${LIBS} ${INC}
+	gcc -g -o client_device ${SRC_CLIENT} ${LIBS} ${INC}
 	gcc -g -o main.save main.save.bin.c ${LIBS}
 	gcc -g -o test.msg.notify ${SRC_MSG_NOT} ${INC}
 clean:
-	rm -f server_notify main.client main.save test.msg.notify
+	rm -f server_notify client_device main.save test.msg.notify

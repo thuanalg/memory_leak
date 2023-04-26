@@ -42,6 +42,7 @@ typedef struct {
 //2: Notifying msg 
 //3: Confirming msg 
 	unsigned char type;
+	unsigned char ifback;
 	char dev_id[LEN_DEVID];
 	unsigned char second[LEN_U64INT];
 	unsigned char nano[LEN_U64INT];
@@ -81,6 +82,7 @@ int arr_2_uint32(unsigned char *arr, uint32_t *n, int sz);
 int uint16_2_arr(unsigned char *arr, uint16_t , int sz);
 int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz);
 
+void dum_msg(MSG_COMMON *, int);
 //struct sockaddr_in servaddr, cliaddr;
 void dum_ipv4(struct sockaddr_in *, int line);
 //0: error, 1: done
@@ -90,10 +92,11 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in*);
 
 int add_to_notify_list(MSG_NOTIFY *msg, int sz);
 
-int notify_to_client(int sockfd);
+int notify_to_client(int sockfd, int *count);
 
 //2023-04-26
 void put_time_to_msg( MSG_COMMON *, struct timespec *t);
+int rm_msg_sent(MSG_COMMON *msg);
 
 extern HASH_LIST list_reg_dev[HASH_SIZE + 1];
 

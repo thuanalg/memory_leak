@@ -16,7 +16,7 @@ const char *id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
 int send_msg_resgister(int sockfd, struct sockaddr_in* addr);
 int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *);
-
+int send_msg_fb(int sockfd, struct sockaddr_in* addr, MSG_COMMON *msg);
 void client() {
 	
 }
@@ -56,12 +56,13 @@ int main(int argc, char *argv[]) {
 	servaddr.sin_addr.s_addr = inet_addr(argv[1]);
 	servaddr.sin_port = htons(PORT);
 		
-	int n, len = sizeof(servaddr);
+	int n = 0, len = sizeof(servaddr);
 			
 	send_msg_resgister(sockfd, &servaddr);
 
 	while(1) {
 		memset(&fbaddr, 0, sizeof(fbaddr));
+		memset(buffer, 0, sizeof(buffer));
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 					MSG_WAITALL, (struct sockaddr *) &fbaddr,
 					&len);
@@ -69,23 +70,25 @@ int main(int argc, char *argv[]) {
 		{
 			usleep(10000);
 			clock_gettime(CLOCK_REALTIME, &t1);
-			if(t1.tv_sec - t0.tv_sec > 1)
+			if(t1.tv_sec - t0.tv_sec > 5)
 			{
 					t0 = t1;
 					send_msg_resgister(sockfd, &servaddr);
 			}
 			continue;
 		}
-		if(n>0 && fbaddr.sin_family == AF_INET) {
-			char str[INET_ADDRSTRLEN + 1];
-			str[INET_ADDRSTRLEN] = 0;
-			inet_ntop(AF_INET, &(fbaddr.sin_addr), str, INET_ADDRSTRLEN);
-			fprintf(stdout, "---- size: %d, feedback port: %d\n", n, (int) fbaddr.sin_port);
-			fprintf(stdout, "-----size n: %d, feedback IP: %s\n", n, str);
+		if(n >= sizeof(MSG_COMMON) && fbaddr.sin_family == AF_INET) {
+			MSG_COMMON *msg = (MSG_COMMON *) buffer;
+			fprintf(stdout, "\n++++++++++++\n");
+			if(msg->ifback) {
+				continue;
+			}
+			dum_msg(msg, __LINE__); 
+			dum_ipv4(&fbaddr, __LINE__);
+			msg->ifback = 1;
+			send_msg_fb(sockfd, &servaddr, msg);
 		}
-		buffer[n] = '\0';
-		printf("Server : %s\n", buffer);
-		printf("DID REGISTER\n");
+
 		while(1) {
 			usleep(10000);
 			clock_gettime(CLOCK_REALTIME, &t1);
@@ -94,9 +97,25 @@ int main(int argc, char *argv[]) {
 				send_msg_track(sockfd, &servaddr, &t1);
 			}
 			len = sizeof(servaddr);
+			memset(buffer, 0, sizeof(buffer));
 			n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 						MSG_WAITALL, (struct sockaddr *) &servaddr,
 						&len);
+			if(n < 1 ) {
+				continue;
+			}
+			fprintf(stdout, "=========== n receive: %d\n");
+			if(n >= sizeof(MSG_COMMON) && fbaddr.sin_family == AF_INET) {
+				MSG_COMMON *msg = (MSG_COMMON *) buffer;
+				if(msg->ifback) {
+					continue;
+				}
+				fprintf(stdout, "\n++++++++++++\n");
+				dum_msg(msg, __LINE__); 
+				dum_ipv4(&fbaddr, __LINE__);
+				msg->ifback = 1;
+				send_msg_fb(sockfd, &servaddr, msg);
+			}
 		}
 		break;	
 	}
@@ -120,7 +139,6 @@ int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *t) {
 		if(!t) break;
 		if(!addr) break;
 		fprintf(stdout, "\ntv_sec: %llu\n\n", t->tv_sec);
-		(*addr).sin_port = htons(PORT);
 
 		memset(&msg, 0, sizeof(msg));
 		msg.com.type = MSG_TRA;
@@ -140,6 +158,16 @@ int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *t) {
 
 }
 
+int send_msg_fb(int sockfd, struct sockaddr_in* addr, MSG_COMMON *msg) {
+	int n = 0;
+	addr->sin_port = htons(PORT);
+	n = sendto(sockfd, msg, sizeof(MSG_COMMON),
+		MSG_CONFIRM, (const struct sockaddr *) addr,
+			sizeof(*addr));
+	dum_msg(msg, __LINE__);
+	return n;
+}
+
 int send_msg_resgister(int sockfd, struct sockaddr_in* addr)
 {
 	MSG_REGISTER msg;
@@ -148,7 +176,6 @@ int send_msg_resgister(int sockfd, struct sockaddr_in* addr)
 	memset(&msg, 0, sizeof(msg));
 	msg.com.type = MSG_REG;
 	memcpy(msg.com.dev_id, id, LEN_DEVID);
-	msg.com.type = 0;
 	
 	memset(buff, 0, 1501);
 	memcpy(buff, (char*) &msg, sizeof(msg));
@@ -158,15 +185,17 @@ int send_msg_resgister(int sockfd, struct sockaddr_in* addr)
 	n = sendto(sockfd, buff, sizeof(msg),
 		MSG_CONFIRM, (const struct sockaddr *) addr,
 			sizeof(*addr));
-	printf("line: %d, Hello message sent: n: %d.\n", __LINE__, n);
+	dum_msg(&(msg.com), __LINE__);
 
 	
 	msg.com.type = MSG_TRA;
 	addr->sin_port = htons(PORT + 1);
+	memset(buff, 0, 1501);
+	memcpy(buff, (char*) &msg, sizeof(msg));
 	n = sendto(sockfd, buff, sizeof(msg),
 		MSG_CONFIRM, (const struct sockaddr *) addr,
 			sizeof(*addr));
-	printf("line: %d, Hello message sent: n: %d.\n", __LINE__, n);
+	dum_msg(&(msg.com), __LINE__);
 
 	return 0;
 }
