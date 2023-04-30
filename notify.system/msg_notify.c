@@ -5,6 +5,7 @@
 #include <pthread.h>
 
 static pthread_mutex_t hash_tb_mtx = PTHREAD_MUTEX_INITIALIZER; 
+static pthread_mutex_t hash_tb_notifier_mtx = PTHREAD_MUTEX_INITIALIZER; 
 
 int uint64_2_arr(unsigned char *arr, uint64_t n, int sz)
 {
@@ -235,25 +236,43 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 	return res;
 }
 
-int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr) {
+int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 	int res = 0;
 	unsigned int hn = 0;
 	HASH_LIST *hi = 0;
 	MSG_COMMON *com = 0;
 	HASH_ITEM *hitem = 0;
 	int rc = 0;
+	HASH_LIST *hash_table = 0;
+	pthread_mutex_t *mtx = 0;
+	if(type == 0) {
+		mtx = &hash_tb_mtx;
+		hash_table = list_reg_dev;
+	}
+	else if (type == 1) {
+		mtx = &hash_tb_notifier_mtx;
+		hash_table = list_reg_notifier;
+	}
+	else {
+		//LOG ERROR
+		return res;
+	}
 
 	com = &(msg->com);
 	hn = hash_func(com->dev_id, 64);
-	hi = &(list_reg_dev[hn]);
+	hi = &(hash_table[hn]);
 
 	fprintf(stdout, "============ Func: %s, line: %d, Update route path, device id: %s.\n\n", 	
 		__FUNCTION__, __LINE__, msg->com.dev_id);
-	rc = pthread_mutex_lock(&hash_tb_mtx);
+	rc = pthread_mutex_lock(mtx);
 	if(rc) {
 		//LOG FATAL
 	}
 	do {
+		if(!mtx) {
+			//LOG ERROR
+			break;
+		}
 		if(hi->n)
 		{
 			int j = 0;
@@ -290,7 +309,7 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr) {
 		}
 	}
 	while(0);
-	rc = pthread_mutex_unlock(&hash_tb_mtx);
+	rc = pthread_mutex_unlock(mtx);
 	if(rc) {
 		//LOG FATAL
 	}
@@ -549,6 +568,7 @@ int rm_msg_sent(MSG_COMMON *msg)
 }
 
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
+HASH_LIST list_reg_notifier[HASH_SIZE + 1];
 HASH_ITEM *notified_list = 0;
 //After receiving a message, include MSG_REG, except MSG_TRA:
 //1. Get current time

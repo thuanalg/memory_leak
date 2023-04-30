@@ -25,9 +25,12 @@
 
 typedef enum {
 	MSG_REG = 0,
-	MSG_TRA,
-	MSG_NOT,
-	MSG_CON,
+	MSG_TRA, //msg tracing device`
+	MSG_NOT, // msg notification from dev
+	MSG_CON, // msg confirmation
+	MSG_TRA_ER, //msg tracking from notifier 
+	MSG_NOT_ER, //msg notification fron notifier
+	MSG_CON_ER, //msg confirmation fron notifier
 } MSG_ENUM;
 
 typedef struct {
@@ -88,7 +91,7 @@ void dum_ipv4(struct sockaddr_in *, int line);
 //0: error, 1: done
 int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *);
 //0: error, 1: done
-int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in*);
+int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in*, int type);
 
 int add_to_notify_list(MSG_NOTIFY *msg, int sz);
 
@@ -99,8 +102,10 @@ void put_time_to_msg( MSG_COMMON *, struct timespec *t);
 int rm_msg_sent(MSG_COMMON *msg);
 
 extern HASH_LIST list_reg_dev[HASH_SIZE + 1];
+extern HASH_LIST list_reg_notifier[HASH_SIZE + 1];
 
 extern HASH_ITEM *notified_list;
+extern HASH_ITEM *notifier_list;
 
 #ifndef __cplusplus
 #endif

@@ -20,7 +20,58 @@
 
 
 //b1142898-ca9b-425f-ba2e-407a2afe128c
+static pthread_mutex_t iswaiting_mtx = PTHREAD_MUTEX_INITIALIZER; 
+int set_waiting(int w);
+int get_waiting(int *ret);
 
+int g_waiting = 1;
+
+int set_waiting(int w) {
+	int err = 0;
+	int rc = 0;
+
+	rc = pthread_mutex_lock(&iswaiting_mtx);
+	if(rc) {
+		//LOG FATAL
+		err = rc;
+	}
+	//>>>	
+	g_waiting = w ? 1 : 0;
+	//<<<	
+	rc = pthread_mutex_unlock(&iswaiting_mtx);
+	if(rc) {
+		//LOG FATAL
+		err = rc;
+	}
+	return err;
+}
+
+int get_waiting(int *ret) {
+	int err = 0;
+	int rc = 0;
+
+	rc = pthread_mutex_lock(&iswaiting_mtx);
+	if(rc) {
+		//LOG FATAL
+		err = rc;
+	}
+	//>>>	
+	do {
+		if(!ret) {
+			//LOG err
+			err = 1;
+			*ret = g_waiting;
+		}
+		*ret = g_waiting;
+	} while(0);
+	//<<<	
+	rc = pthread_mutex_unlock(&iswaiting_mtx);
+	if(rc) {
+		//LOG FATAL
+		err = rc;
+	}
+	return err;
+}
 
 int handle_tracking_msg(char*);
 int reg_user_sig();
@@ -48,16 +99,17 @@ void handler(int signo, siginfo_t *info, void *context)
 		if(main_pid != info->si_pid) {
 			pthread_kill(read_threadid, USER_SIG);
 		}
+		set_waiting(0);
 		fprintf(stdout, "sending pid--------------: %llu\n", (unsigned long long)info->si_pid);
 }
 
 
-typedef struct {
-	int len_addr;
-	int len_buff;
-	struct sockaddr_in addr;
-	char data[MAXLINE + 1];
-} item_feedback;
+//typedef struct {
+//	int len_addr;
+//	int len_buff;
+//	struct sockaddr_in addr;
+//	char data[MAXLINE + 1];
+//} item_feedback;
 
 void *sending_routine_thread(void *arg)
 {
@@ -97,34 +149,34 @@ void *sending_routine_thread(void *arg)
 		int rc = 0; 
 		int i = 0;
 		int len = 0;
+		int zcom = (int) sizeof(MSG_COMMON);
 		MSG_COMMON *msg = 0;
 		memset(&cliaddr, 0, sizeof(cliaddr));
 		memset(buffer, 0, sizeof(buffer));
 		len = sizeof(cliaddr);	
 		memset(buffer, 0, sizeof(buffer));
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
-					MSG_DONTWAIT, ( struct sockaddr *) &cliaddr,	&len);
-		while(n > 0) {
-			if(n >= sizeof(MSG_COMMON));
-			{
-				msg = (MSG_COMMON*) buffer;
-				//Here is notifying socket
-				dum_msg(msg, __LINE__);
-				if(msg->type == MSG_TRA) {
-					int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr);
-					if(!done) {
-						//LOG err
-						break;
-					}
+			MSG_DONTWAIT, ( struct sockaddr *) &cliaddr,	&len);
+		while(n >= zcom) {
+			msg = (MSG_COMMON*) buffer;
+			//Here is notifying socket
+			dum_msg(msg, __LINE__);
+			if(msg->type == MSG_TRA) {
+				int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr, 0);
+				if(!done) {
+					//LOG err
+					break;
 				}
-				else {
-					//Notify immediately
-					//ntthuan NOT DONE
-				}
-				//LOG OK
-				if(n > 0 && cliaddr.sin_family == AF_INET) {
-					dum_ipv4(&cliaddr, __LINE__);
-				}
+			}
+			else if(msg->type == MSG_TRA_ER) {
+			}
+			else {
+				//Notify immediately
+				//ntthuan NOT DONE
+			}
+			//LOG OK
+			if(n > 0 && cliaddr.sin_family == AF_INET) {
+				dum_ipv4(&cliaddr, __LINE__);
 			}
 			break;
 		}
@@ -137,6 +189,7 @@ void *sending_routine_thread(void *arg)
 			ret =  notify_to_client(sockfd, &n);
 			fprintf(stdout, "counTTTTTTTTTTTTTTTTTTTTT: %d\n", n);
 		}
+		usleep( 10 * 1000);
 	}
 	err = close(sockfd);
 	if(err)
@@ -203,7 +256,7 @@ int main(int argc, char *argv[]) {
 		exit(EXIT_FAILURE);
 	}
 		
-	int len, n, err;
+	int len, n, err, signaling, rc;
 	
 	len = sizeof(cliaddr); //len is value/result
 	while(!is_stop_server) {
@@ -241,31 +294,33 @@ int main(int argc, char *argv[]) {
 			else {
 				fprintf(stdout, "register ERRORRRR\t");	
 			}
-			//ntthuan: add result at suffix message: NOT DONE
+			//ntthuan: add result at suffix message: DONE
 			err = add_to_notify_list((MSG_NOTIFY*)msg, n);
 		}
 		fprintf(stdout, "line:%d, recv n: %d\n", __LINE__, n);
 		if(n > 0 && cliaddr.sin_family == AF_INET) {
 			dum_ipv4(&cliaddr, __LINE__);
 		}
-		item_feedback item;
-		memset(&item, 0, sizeof(item));
-		item.len_addr = len;
-		item.len_buff = n;
-		memcpy(&(item.addr), &cliaddr, len);
-		
-		buffer[n] = '\0';
-		printf("Client : %s\n", buffer);
-		int sig = 0;
-		memcpy(item.data, buffer, n);
-		add_item_gen_list(&gen_list, (char*) &item, sizeof(item), &sig);
+//
+//		item_feedback item;
+//		memset(&item, 0, sizeof(item));
+//		item.len_addr = len;
+//		item.len_buff = n;
+//		memcpy(&(item.addr), &cliaddr, len);
+//		
+//		buffer[n] = '\0';
+//		printf("Client : %s\n", buffer);
+//		int sig = 0;
+//		memcpy(item.data, buffer, n);
+//		add_item_gen_list(&gen_list, (char*) &item, sizeof(item), &sig);
 
-		fprintf(stdout, "Client pid: %llu, sig: %d\n", read_threadid, sig);
-		if(sig) {
+		fprintf(stdout, "Client pid: %llu, sig: %d\n", read_threadid);
+		rc = get_waiting(&signaling);
+		if(!rc && signaling) {
 			int err = pthread_kill( read_threadid, USER_SIG);
 			if(err)
-			{
-
+			{	
+				//LOG ERORR
 			}
 		}
 	}	
