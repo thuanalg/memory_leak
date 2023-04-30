@@ -1,0 +1,25 @@
+After receiving message, include MSG_REG, except MSG_TRA:
+1. Get current time: OK
+1.1 Send feedback to the notifier: 
+2. Put current to the message: OK, put_time_to_msg
+3. Update current time into the hash list: OK
+4. Put the message to the "notified list": OK
+5. Send message to a specific client: notify_to_client: OK
+6. Client confirm: OK
+7. Remove the item off sent list and hash table: rm_msg_sent
+
+====================
+Note: comparative n >= sizeof(MSG_COMMON)
+Create notifier
+
+
+1. Send a notification with a dev_id
+2. server to notifier
+3. server saves to notified-list
+4. send to client-device
+5. wait for feedback
+6. remove off notified-list
+
+
+=====
+Load registered list
