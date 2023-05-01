@@ -184,18 +184,6 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 				fprintf(stdout, "Already existed!\n");
 				break;
 			}
-//typedef struct {
-//	int n;
-//	void *group;
-//} HASH_LIST;
-
-//typedef struct __HASH_ITEM {
-//	struct sockaddr_in ipv4;
-//	struct sockaddr_in6 ipv6;
-//	MSG_NOTIFY *msg;
-//	struct __HASH_ITEM *next;
-//} HASH_ITEM;
-
 
 			hitem = malloc(sizeof(HASH_ITEM));
 			if(!hitem) {
@@ -565,6 +553,69 @@ int rm_msg_sent(MSG_COMMON *msg)
 		free(hi);
 	}		
 	return 0;
+}
+
+
+int load_reg_list() {
+	int ret = 0;
+	FILE *fp = 0;
+	char buf[1024 + 1];
+	size_t len = 0;
+	size_t n = 0;
+	char *data = 0;
+	do {
+		char *pch = 0;
+		fp = fopen("list_dev_id.txt", "r");
+		if(!fp) {
+			//LOG ERROR
+			break;
+		}	
+		fprintf(stdout, "fp: %p\n", fp);
+		fseek(fp, 0, SEEK_END);
+		len = ftell(fp);
+		if(len < 1) {
+			//LOG ERROR
+			break;
+		}
+		data = malloc(len + 1);
+		if(!data) {
+			//LOG ERROR
+			break;
+		}
+		memset(data, 0, len + 1);
+		rewind(fp);
+		len = 0;
+		do {
+			memset(buf, 0, sizeof(buf));
+			n = fread(buf, 1, 1024, fp);
+			if(n < 1) {
+				break;
+			}
+			memcpy(data + len, buf, n);
+			len += n;
+		}
+		while(1);
+		if(!data) {
+			break;
+		}
+		pch = strtok(data, "\r\n");
+		while(pch) {
+			if(strlen(pch) > 30) {
+				MSG_NOTIFY *msg = 0;
+				msg = malloc(sizeof(MSG_NOTIFY));
+			}
+			pch = strtok(0, "\r\n");
+		}
+	}
+	while(0);
+	if(data) {
+		fprintf(stdout, "len: %llu, data: %s\n", len, data);
+		free(data);
+	}
+	if(fp) {
+		fclose(fp);
+	}
+	return ret;
 }
 
 HASH_LIST list_reg_dev[HASH_SIZE + 1];

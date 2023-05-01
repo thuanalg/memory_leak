@@ -65,6 +65,7 @@ typedef struct {
 
 typedef struct __HASH_ITEM {
 	struct sockaddr_in ipv4;
+	struct sockaddr_in ipv4_ntfier;
 	struct sockaddr_in6 ipv6;
 	MSG_NOTIFY *msg;
 	struct __HASH_ITEM *next;
@@ -106,6 +107,8 @@ extern HASH_LIST list_reg_notifier[HASH_SIZE + 1];
 
 extern HASH_ITEM *notified_list;
 extern HASH_ITEM *notifier_list;
+
+int load_reg_list();
 
 #ifndef __cplusplus
 #endif

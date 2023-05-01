@@ -224,12 +224,16 @@ int main(int argc, char *argv[]) {
 	char *hello = "Hello from server";
 	struct sockaddr_in servaddr, cliaddr;
 	int val = 1;
+	int count = 0;
 
 	openlog ("server_notify", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
 
 	main_pid = getpid();
 		
 	reg_user_sig();
+	
+	count = load_reg_list();
+	fprintf(stdout, "count: %d\n", count);
 
 	sending_thread(0);
 
