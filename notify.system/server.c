@@ -290,7 +290,7 @@ int main(int argc, char *argv[]) {
 			int res = 0; 
 			struct timespec t = { 0 }; 
 			clock_gettime(CLOCK_REALTIME, &t);
-			put_time_to_msg( msg, &t);
+			//put_time_to_msg( msg, &t);
 			res = reg_to_table((MSG_REGISTER*) msg, n, &t);
 			if(res) {
 				fprintf(stdout, "register DONEEEEEEEEE\t");	

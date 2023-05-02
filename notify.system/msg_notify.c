@@ -147,6 +147,7 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 
 	com = &(msg->com);
 	hn = hash_func(com->dev_id, 64);
+	fprintf(stdout, "hn: %llu, devid: %s\n", hn, com->dev_id);
 	hi = &(list_reg_dev[hn]);
 	
 	rc = pthread_mutex_lock(&hash_tb_mtx);
@@ -565,6 +566,11 @@ int load_reg_list() {
 	char *data = 0;
 	do {
 		char *pch = 0;
+		MSG_REGISTER msg;
+		struct timespec t = { 0 }; 
+		int ret = 0;
+		int sz = (int) sizeof(MSG_REGISTER);
+
 		fp = fopen("list_dev_id.txt", "r");
 		if(!fp) {
 			//LOG ERROR
@@ -601,8 +607,11 @@ int load_reg_list() {
 		pch = strtok(data, "\r\n");
 		while(pch) {
 			if(strlen(pch) > 30) {
-				MSG_NOTIFY *msg = 0;
-				msg = malloc(sizeof(MSG_NOTIFY));
+				fprintf(stdout, "device_id: %s\n", pch);
+				memset(&msg, 0, sz);
+				memcpy(msg.com.dev_id, pch, LEN_DEVID);
+				clock_gettime(CLOCK_REALTIME, &t);
+				ret = reg_to_table((MSG_REGISTER*) &msg, sz, &t);
 			}
 			pch = strtok(0, "\r\n");
 		}

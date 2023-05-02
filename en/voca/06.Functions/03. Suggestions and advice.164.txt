@@ -1,164 +1,1147 @@
-a counsel of despairidiomC2
-a counsel of perfectionidiomC2
-act onphrasal verbC1
-act uponphrasal verbC1
-admonishverbC2    
-advanceverbC2    
-advicenounA1    
-advice columnnounB1    
-advice columnistnounC1    
-adviseverbB1    
-advisementnounC2    
-advisernounB1    
-advisoryadjectiveC2    
-aftercarenounC2    
-after-sales servicenounC1    
-agony auntnounC2    
-agony columnnounC2    
-agony unclenounC2    
-alternativelyadverbB2    
-alwaysadverbC1    
-assessornounC2    
-at/on somebody’s suggestionidiomC1
-bespeakverbC2    
-betteradverbB1    
-bring forwardphrasal verbC2
-canmodal verbA2    
-carelinenounC2    
-cautionnounC1    
-cautionaryadjectiveC2    
-challengenounB2    
-challengeverbB2    
-commendverbC2    
-connotationnounC1    
-connoteverbC2    
-consultverbB2    
-consultancynounC1    
-consultantnounB2    
-couldmodal verbB1    
-counselnounC2    
-counselverbC2    
-counsellingnounC1    
-counsellornounC1    
-don’t blame meidiomC2
-enjoinverbC2    
-failingprepositionC2    
-feedbacknounB2    
-floatverbC2    
-followverbA2    
-for what it’s worthidiomC2
-guidancenounC1    
-guidenounB2    
-guidingadjectiveC1    
-hand outphrasal verbC1
-have tomodal verbA2    
-hazardverbC2    
-heads-upnounC2    
-heedverbC2    
-helpnounA2    
-helplinenounB2    
-hintnounC1    
-hintverbC1    
-homilynounC2    
-how about…?idiomA1
-how-toadjectiveC1    
-how-tonounC1    
-how/what about…?idiomA1
-hypothesizeverbC2    
-ideanounA1    
-if in doubtidiomC2
-if I was/were in your placeidiomC1
-if I were in your shoesidiomC2
-if I were youidiomB1
-I/I’ll tell you whatidiomC2
-I knowidiomB1    
-implicitadjectiveC1    
-implicitlyadverbC1    
-inadvisableadjectiveC2    
-indicateverbC2    
-indicativeadjectiveC2    
-inferverbC2    
-insinuateverbC2    
-it wouldn’t do somebody any harm (to do something)idiomC2
-letverbA1    
-marriage counsellingnounC2    
-marriage guidancenounC2    
-maybeadverbA1    
-menteenounC2    
-mentornounC1    
-mentoringnounC1    
-mentorshipnounC2    
-mightmodal verbB2    
-mootverbC2    
-moveverbC2    
-mustmodal verbB1    
-nominateverbC1    
-nominationnounC1    
-nomineenounC1    
-now thenidiomC1
-now you’re talkingidiomC2
-opinionnounB1    
-oraclenounC2    
-ought tomodal verbB1    
-perhapsadverbA2    
-pointernounC2    
-point tophrasal verbC2
-positverbC2    
-postulateverbC2    
-preachverbC1    
-preachyadjectiveC2    
-prefigureverbC2    
-profferverbC2    
-promptverbC1    
-proposalnounB2    
-proposeverbB2    
-proposernounC2    
-propositionnounC1    
-propoundverbC2    
-put forwardphrasal verbC1
-put it to somebody that…idiomC2
-put/stick your oar inidiomC2
-put tophrasal verbC1
-ratherexclamationC2  
-receptiveadjectiveC1    
-receptivenessnounC2    
-receptivitynounC2    
-recommendverbA2    
-recommendationnounB1    
-road mapnounC2    
-rulenounB1    
-sawnounC2    
-sayverbB2    
-sayexclamationC2    
-sermonnounC2    
-sermonizeverbC2    
-shallmodal verbA2    
-shouldmodal verbA2    
-slateverbC2    
-steernounC2    
-submitverbC2    
-suggestverbA2    
-sure thingidiomC1
-tacitadjectiveC2    
-tacitlyadverbC2    
-take something on boardidiomC2
-the blind leading the blindidiomC2
-theorizeverbC2    
-theorizingnounC2    
-tipnounA2    
-turn tophrasal verbC1
-urgeverbB2    
-volunteerverbC1    
-voteverbC1    
-wantverbC2    
-warnverbB1    
-warn offphrasal verbC2
-what about…?idiomA1
-what are we waiting for?idiomC1
-what are you, was he, etc. getting at?idiomC2
-whatever you sayidiomC2
-why not?idiomA2
-worthadjectiveB2    
-wouldmodal verbB2    
-you never knowidiomB2
-you said it!idiomC2
+[-] a counsel of despair		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] a counsel of perfection		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] act on		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] act upon		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] admonish		<-->	verb++C2	[230502][001]	./ədˈmɒnɪʃ/
+ /ədˈmɑːnɪʃ/
+(formal)
+	;khiển trách -- (1) ​admonish somebody (for something/for doing something) | + speech to tell somebody strongly and clearly that you do not approve of something that they have done
+		;SYNONYM reprove
+		;She was admonished for chewing gum in class.
+	;nhắc nhở -- (2) ​admonish somebody (to do something) to strongly advise somebody to do something
+		;A warning voice admonished him not to let this happen.
+		;TOPICS SUGGESTIONS AND ADVICEC2
+
+
+
+[-] advance		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] advice		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] advice column		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] advice columnist		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] advise		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] advisement		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] adviser		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] advisory		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] aftercare		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] after-sales service		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] agony aunt		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] agony column		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] agony uncle		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] alternatively		<-->	adverb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] always		<-->	adverb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] assessor		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] at/on somebody’s suggestion		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] bespeak		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] better		<-->	adverb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] bring forward		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] canmodal 		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] careline		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] caution		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cautionary		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] challenge		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] challenge		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] commend		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] connotation		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] connote		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] consult		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] consultancy		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] consultant		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] couldmodal 		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] counsel		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] counsel		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] counselling		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] counsellor		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] don’t blame me		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] enjoin		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] failingprepositionC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] feedback		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] float		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] follow		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] for what it’s worth		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] guidance		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] guide		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] guiding		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hand out		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] have tomodal 		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hazard		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] heads-up		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] heed		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] help		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] helpline		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hint		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hint		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] homily		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] how about…?		<-->	idiom++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] how-to		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] how-to		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] how/what about…?		<-->	idiom++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hypothesize		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] idea		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] if in doubt		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] if I was/were in your place		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] if I were in your shoes		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] if I were you		<-->	idiom++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] I/I’ll tell you what		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] I know		<-->	idiom++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] implicit		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] implicitly		<-->	adverb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] inadvisable		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] indicate		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] indicative		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] infer		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] insinuate		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] it wouldn’t do somebody any harm (to do something)		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] let		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] marriage counselling		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] marriage guidance		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] maybe		<-->	adverb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mentee		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mentor		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mentoring		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mentorship		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mightmodal 		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] moot		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] move		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mustmodal 		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] nominate		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] nomination		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] nominee		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] now then		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] now you’re talking		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] opinion		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] oracle		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] ought tomodal 		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] perhaps		<-->	adverb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] pointer		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] point to		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] posit		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] postulate		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] preach		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] preachy		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] prefigure		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] proffer		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] prompt		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] proposal		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] propose		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] proposer		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] proposition		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] propound		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] put forward		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] put it to somebody that…		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] put/stick your oar in		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] put to		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] rather		<-->	exclamation++C2  
+[-] receptive		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] receptiveness		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] receptivity		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] recommend		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] recommendation		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] road map		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] rule		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] saw		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] say		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] say		<-->	exclamation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] sermon		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] sermonize		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] shallmodal 		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] shouldmodal 		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] slate		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] steer		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] submit		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] suggest		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] sure thing		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] tacit		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] tacitly		<-->	adverb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] take something on board		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] the blind leading the blind		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] theorize		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] theorizing		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] tip		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] turn to		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] urge		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] volunteer		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] vote		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] want		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] warn		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] warn off		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] what about…?		<-->	idiom++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] what are we waiting for?		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] what are you, was he, etc. getting at?		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] whatever you say		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] why not?		<-->	idiom++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] worth		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] wouldmodal 		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] you never know		<-->	idiom++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] you said it!		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
