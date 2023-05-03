@@ -144,6 +144,7 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 	MSG_COMMON *com = 0;
 	HASH_ITEM *hitem = 0;
 	int rc = 0;
+	char *devid;
 
 	com = &(msg->com);
 	hn = hash_func(com->dev_id, 64);
@@ -305,7 +306,58 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 	return res;
 }
 
-#define MAX(a,b) ((a) > (b) ? (a) : (b))
+int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
+{
+	int err = 0;
+	int n = 0;
+	int rc = 0;
+	HASH_ITEM *hi = 0;
+
+	fprintf(stdout, "func: %s, line: %d, hi: %p\n\n", __FUNCTION__, __LINE__, hi);
+	do {
+		if(!l) {
+			err = 1;
+			//LOG ERROR
+			break;
+		}
+		hi = malloc(sizeof(HASH_ITEM));	
+		if(!hi) {
+			//LOG_FATAL
+			err = 1;
+			break;
+		}
+		n = MAX(sz, sizeof(MSG_NOTIFY));
+		memset(hi, 0, sizeof(HASH_ITEM));
+		hi->msg = malloc(n);
+		if(!hi->msg) {
+			//LOG FATAL
+			break;
+		}
+		memset(hi->msg, 0, n);
+		memcpy(hi->msg, (char*) msg, n);
+
+		rc = pthread_mutex_lock(&hash_tb_mtx);
+		//>>>>>>
+		if(rc) {
+			//LOG FATAL
+		}
+		if(!(*l)) {
+			(*l) = hi;
+		}
+		else {
+			hi->next = (void*)(*l);
+			(*l) = hi;
+		}
+		//<<<<<<
+		rc = pthread_mutex_unlock(&hash_tb_mtx);
+		if(rc) {
+			//LOG FATAL
+		}
+	}	
+	while(0);
+	fprintf(stdout, "===========func: %s, line: %d, hi: %p\n\n", __FUNCTION__, __LINE__, hi);
+	return err;
+}
 
 int add_to_notify_list(MSG_NOTIFY *msg, int sz) {
 	int err = 0;
@@ -630,6 +682,14 @@ int load_reg_list() {
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
 HASH_LIST list_reg_notifier[HASH_SIZE + 1];
 HASH_ITEM *notified_list = 0;
+
+HASH_ITEM *imd_fbk_lt = 0;
+HASH_ITEM *imd_fwd_lt = 0;
+
+HASH_ITEM *rgl_fbk_lt = 0;
+HASH_ITEM *rgl_fwd_lt = 0;
+
+
 //After receiving a message, include MSG_REG, except MSG_TRA:
 //1. Get current time
 //2. Put current time to the message

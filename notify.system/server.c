@@ -168,7 +168,7 @@ void *sending_routine_thread(void *arg)
 					break;
 				}
 			}
-			else if(msg->type == MSG_TRA_ER) {
+			else if(msg->type == MSG_TRA) {
 			}
 			else {
 				//Notify immediately
@@ -220,7 +220,7 @@ void server() {
 // Driver code
 int main(int argc, char *argv[]) {
 	int sockfd;
-	char buffer[MAXLINE];
+	char buffer[MAX_MSG + 1];
 	char *hello = "Hello from server";
 	struct sockaddr_in servaddr, cliaddr;
 	int val = 1;
@@ -267,7 +267,7 @@ int main(int argc, char *argv[]) {
 		MSG_COMMON *msg = 0;
 		//Register socket, 
 		memset(buffer, 0, sizeof(buffer));
-		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
+		n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
 					MSG_WAITALL, ( struct sockaddr *) &cliaddr,	&len);
 		if(n < 1) {
 			//Error here
@@ -285,12 +285,34 @@ int main(int argc, char *argv[]) {
 			rm_msg_sent(msg);
 			continue;
 		}
+		else if(msg->type == MSG_NOTIFIER) {
+			uint16_t k = 0;
+			char buf[MAX_MSG + 1];
+			MSG_NOTIFY *p = (MSG_NOTIFY *) msg;
+			memset(buf, 0, sizeof(buf));
+			arr_2_uint16( msg->len, &k, 2);			
+			fprintf(stdout, "file: %s, line: %d, len data: %u\n", __FILE__, __LINE__, k);
+			fprintf(stdout, "file: %s, line: %d, data: %s\n", __FILE__, __LINE__, p->data);
+
+//int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz);
+#define  add_to_imd_fwd 		add_to_item_list
+#define  add_to_imd_fbk 		add_to_item_list
+
+#define  add_to_rgl_fwd 		add_to_item_list
+#define  add_to_rgl_fbk 		add_to_item_list
+			add_to_imd_fwd( p, &imd_fwd_lt, n);
+			add_to_imd_fbk( p, &imd_fbk_lt, n);
+			add_to_rgl_fwd( p, &rgl_fwd_lt, n);
+			add_to_rgl_fbk( p, &rgl_fbk_lt, n);
+			//Add to feedback list
+			//Add to immediate forward list
+			//Add to forward list
+		}
 		else if(msg->type == MSG_REG) {
 			int err = 0;
 			int res = 0; 
 			struct timespec t = { 0 }; 
 			clock_gettime(CLOCK_REALTIME, &t);
-			//put_time_to_msg( msg, &t);
 			res = reg_to_table((MSG_REGISTER*) msg, n, &t);
 			if(res) {
 				fprintf(stdout, "register DONEEEEEEEEE\t");	

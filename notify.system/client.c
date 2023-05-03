@@ -31,6 +31,7 @@ int main(int argc, char *argv[]) {
 	struct sockaddr_in	 servaddr;
 	struct sockaddr_in	 fbaddr;
 	int val = 1;
+	int sz = (int) sizeof(MSG_COMMON);
 	
 	// Creating socket file descriptor
 	clock_gettime(CLOCK_REALTIME, &t0);
@@ -57,67 +58,34 @@ int main(int argc, char *argv[]) {
 	servaddr.sin_port = htons(PORT);
 		
 	int n = 0, len = sizeof(servaddr);
-			
-	send_msg_resgister(sockfd, &servaddr);
-
+	send_msg_track(sockfd, &servaddr, &t0);
 	while(1) {
-		memset(&fbaddr, 0, sizeof(fbaddr));
+		usleep(10 * 1000);
+		clock_gettime(CLOCK_REALTIME, &t1);
+		if(t1.tv_sec - t0.tv_sec > INTER_TRACK) {
+			t0 = t1;
+			send_msg_track(sockfd, &servaddr, &t1);
+		}
+		len = sizeof(servaddr);
 		memset(buffer, 0, sizeof(buffer));
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
-					MSG_WAITALL, (struct sockaddr *) &fbaddr,
+					MSG_WAITALL, (struct sockaddr *) &servaddr,
 					&len);
-		if(n < 1 )
-		{
-			usleep(10000);
-			clock_gettime(CLOCK_REALTIME, &t1);
-			if(t1.tv_sec - t0.tv_sec > 5)
-			{
-					t0 = t1;
-					send_msg_resgister(sockfd, &servaddr);
-			}
+		if(n < 1 ) {
 			continue;
 		}
+		fprintf(stdout, "=========== n receive: %d\n");
 		if(n >= sizeof(MSG_COMMON) && fbaddr.sin_family == AF_INET) {
 			MSG_COMMON *msg = (MSG_COMMON *) buffer;
-			fprintf(stdout, "\n++++++++++++\n");
 			if(msg->ifback) {
 				continue;
 			}
+			fprintf(stdout, "\n++++++++++++\n");
 			dum_msg(msg, __LINE__); 
 			dum_ipv4(&fbaddr, __LINE__);
 			msg->ifback = 1;
 			send_msg_fb(sockfd, &servaddr, msg);
 		}
-
-		while(1) {
-			usleep(10000);
-			clock_gettime(CLOCK_REALTIME, &t1);
-			if(t1.tv_sec - t0.tv_sec > 10) {
-				t0 = t1;
-				send_msg_track(sockfd, &servaddr, &t1);
-			}
-			len = sizeof(servaddr);
-			memset(buffer, 0, sizeof(buffer));
-			n = recvfrom(sockfd, (char *)buffer, MAXLINE,
-						MSG_WAITALL, (struct sockaddr *) &servaddr,
-						&len);
-			if(n < 1 ) {
-				continue;
-			}
-			fprintf(stdout, "=========== n receive: %d\n");
-			if(n >= sizeof(MSG_COMMON) && fbaddr.sin_family == AF_INET) {
-				MSG_COMMON *msg = (MSG_COMMON *) buffer;
-				if(msg->ifback) {
-					continue;
-				}
-				fprintf(stdout, "\n++++++++++++\n");
-				dum_msg(msg, __LINE__); 
-				dum_ipv4(&fbaddr, __LINE__);
-				msg->ifback = 1;
-				send_msg_fb(sockfd, &servaddr, msg);
-			}
-		}
-		break;	
 	}
 /*
 	while(1) {
@@ -181,11 +149,11 @@ int send_msg_resgister(int sockfd, struct sockaddr_in* addr)
 	memcpy(buff, (char*) &msg, sizeof(msg));
 	
 	
-	addr->sin_port = htons(PORT);
-	n = sendto(sockfd, buff, sizeof(msg),
-		MSG_CONFIRM, (const struct sockaddr *) addr,
-			sizeof(*addr));
-	dum_msg(&(msg.com), __LINE__);
+//	addr->sin_port = htons(PORT);
+//	n = sendto(sockfd, buff, sizeof(msg),
+//		MSG_CONFIRM, (const struct sockaddr *) addr,
+//			sizeof(*addr));
+//	dum_msg(&(msg.com), __LINE__);
 
 	
 	msg.com.type = MSG_TRA;
