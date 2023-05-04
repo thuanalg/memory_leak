@@ -36,6 +36,19 @@ typedef enum {
 	MSG_NTF_CFM, //msg confirmation fron notifier
 } MSG_ENUM;
 
+typedef enum {
+	// From a notifier to server
+	G_NTF_SRV,
+	//The server forwards to client
+	G_FWD_CLT,
+	//From the server feedback to a notifier
+	B_SRV_NTF,
+	//From a client to the server in order to confirm
+	B_CLI_SRV,
+	//From the notifier feedback to the server to confirm and clean the list
+	B_NTF_SRV,
+} MSG_ROUTE;
+
 typedef struct {
 	int n;
 	void *group;
@@ -47,9 +60,8 @@ typedef struct {
 //1: Tracking msg 
 //2: Notifying msg 
 //3: Confirming msg 
-	unsigned char type;
-	unsigned char ifback;
-	unsigned char ntf;
+	unsigned char type; //MSG_ENUM
+	unsigned char ifroute;
 	char dev_id[LEN_DEVID];
 	//notifier ID
 	char ntf_id[LEN_DEVID];
@@ -103,6 +115,17 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz);
 
 #define  add_to_rgl_fwd 		add_to_item_list
 #define  add_to_rgl_fbk 		add_to_item_list
+
+//sk: socket
+//l: a linked list
+//c: number sent
+//clear: clear the list
+int send_to_dst(int sk, HASH_ITEM **l, int *c, char clear);
+
+#define send_imd_fwd			send_to_dst 
+#define send_imd_fbk			send_to_dst 
+#define send_rgl_fwd			send_to_dst 
+#define send_rgl_fbk			send_to_dst 
 
 int notify_to_client(int sockfd, int *count);
 

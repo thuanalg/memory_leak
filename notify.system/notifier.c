@@ -38,7 +38,7 @@ void notifier(char *ip, int sockfd) {
 	memset(msg, 0, sz);	
 
 	msg->com.type = MSG_NOTIFIER;
-	msg->com.ntf = 1;
+	msg->com.ifroute = G_NTF_SRV;
 	memcpy(msg->com.dev_id, dev_id, MIN(LEN_DEVID, strlen(dev_id) + 1));
 	memcpy(msg->com.ntf_id, dev_id, MIN(LEN_DEVID, strlen(id) + 1));
 	n = MAX_MSG - sizeof(MSG_COMMON);
@@ -57,6 +57,7 @@ int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz);
 		MSG_CONFIRM, (const struct sockaddr *) &servaddr,
 			sizeof(servaddr));
 	printf("line: %d, Send tracking message: n: %u.\n", __LINE__, n);
+	free(msg);
 }
 // Driver code
 
@@ -114,13 +115,13 @@ int main(int argc, char *argv[]) {
 		fprintf(stdout, "=========== n receive: %d\n");
 		if(n >= sizeof(MSG_COMMON) && fbaddr.sin_family == AF_INET) {
 			MSG_COMMON *msg = (MSG_COMMON *) buffer;
-			if(msg->ifback) {
+			if(msg->ifroute) {
 				continue;
 			}
 			fprintf(stdout, "\n++++++++++++\n");
 			dum_msg(msg, __LINE__); 
 			dum_ipv4(&fbaddr, __LINE__);
-			msg->ifback = 1;
+			msg->ifroute = 1;
 			send_msg_fb(sockfd, &servaddr, msg);
 		}
 	}

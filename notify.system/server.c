@@ -20,6 +20,7 @@
 
 
 //b1142898-ca9b-425f-ba2e-407a2afe128c
+int reg_user_sig();
 static pthread_mutex_t iswaiting_mtx = PTHREAD_MUTEX_INITIALIZER; 
 int set_waiting(int w);
 int get_waiting(int *ret);
@@ -73,17 +74,6 @@ int get_waiting(int *ret) {
 	return err;
 }
 
-int handle_tracking_msg(char*);
-int reg_user_sig();
-
-//The tracking message is used to update the path ( route) is from server to client. 
-//It includes IP and high client port.
-int handle_tracking_msg(char *buf)
-{
-	//ntthuan need to be done
-	return 0;
-}
-
 
 #define COUNT_EXIT_READ 1 
 pthread_t read_threadid = 0;
@@ -120,6 +110,7 @@ void *sending_routine_thread(void *arg)
 	int sockfd = 0;
 	int n, err;
 	int val = 1;
+	int c = 0;
 	struct timespec t0, t1;
 	clock_gettime(CLOCK_REALTIME, &t0);
 
@@ -180,6 +171,7 @@ void *sending_routine_thread(void *arg)
 			}
 			break;
 		}
+
 		clock_gettime(CLOCK_REALTIME, &t1);
 		//Regularly notify
 		if(t1.tv_sec - t0.tv_sec > 3) {
@@ -188,8 +180,18 @@ void *sending_routine_thread(void *arg)
 			t0 = t1;
 			ret =  notify_to_client(sockfd, &n);
 			fprintf(stdout, "counTTTTTTTTTTTTTTTTTTTTT: %d\n", n);
+
+			//Send regular feedback list to a destination
+			send_rgl_fbk(sockfd, &rgl_fbk_lt, &c, 0); 
+			//Send regular forward list to a destination
+			send_rgl_fwd(sockfd, &rgl_fwd_lt, &c, 0); 
 		}
 		usleep( 10 * 1000);
+
+		//Send immediate feedback list to a destination
+		send_imd_fbk(sockfd, &imd_fbk_lt, &c, 1); 
+		//Send immediate feedback list to a destination
+		send_imd_fwd(sockfd, &imd_fwd_lt, &c, 1); 
 	}
 	err = close(sockfd);
 	if(err)
@@ -265,7 +267,7 @@ int main(int argc, char *argv[]) {
 	len = sizeof(cliaddr); //len is value/result
 	while(!is_stop_server) {
 		MSG_COMMON *msg = 0;
-		//Register socket, 
+		//A1 socket 
 		memset(buffer, 0, sizeof(buffer));
 		n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
 					MSG_WAITALL, ( struct sockaddr *) &cliaddr,	&len);
@@ -279,13 +281,33 @@ int main(int argc, char *argv[]) {
 		}
 		msg = (MSG_COMMON*) buffer;	
 		dum_msg(msg, __LINE__);
-		if(msg->ifback) {
+		//A1 socket 
+
+		//typedef enum {
+		//	// From a notifier to server
+		//	G_NTF_SRV,
+		//	//The server forwards to client
+		//	G_FWD_CLT,
+		//	//From the server feedback to a notifier
+		//	B_SRV_NTF,
+		//	//From a client to the server in order to confirm
+		//	B_CLI_SRV,
+		//	//From the notifier feedback to the server to confirm and clean the list
+		//	B_NTF_SRV,
+		//} MSG_ROUTE;
+		if(msg->ifroute == B_CLI_SRV) {
 			fprintf(stdout, "==================clean this msg================\n");
 			dum_msg(msg, __LINE__);
 			rm_msg_sent(msg);
 			continue;
 		}
-		else if(msg->type == MSG_NOTIFIER) {
+		if(msg->ifroute == B_NTF_SRV) {
+			fprintf(stdout, "==================clean this msg================\n");
+			dum_msg(msg, __LINE__);
+			rm_msg_sent(msg);
+			continue;
+		}
+		if(msg->type == MSG_NOTIFIER) {
 			uint16_t k = 0;
 			char buf[MAX_MSG + 1];
 			MSG_NOTIFY *p = (MSG_NOTIFY *) msg;
@@ -294,19 +316,14 @@ int main(int argc, char *argv[]) {
 			fprintf(stdout, "file: %s, line: %d, len data: %u\n", __FILE__, __LINE__, k);
 			fprintf(stdout, "file: %s, line: %d, data: %s\n", __FILE__, __LINE__, p->data);
 
-//int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz);
-#define  add_to_imd_fwd 		add_to_item_list
-#define  add_to_imd_fbk 		add_to_item_list
-
-#define  add_to_rgl_fwd 		add_to_item_list
-#define  add_to_rgl_fbk 		add_to_item_list
-			add_to_imd_fwd( p, &imd_fwd_lt, n);
-			add_to_imd_fbk( p, &imd_fbk_lt, n);
-			add_to_rgl_fwd( p, &rgl_fwd_lt, n);
-			add_to_rgl_fbk( p, &rgl_fbk_lt, n);
-			//Add to feedback list
 			//Add to immediate forward list
-			//Add to forward list
+			add_to_imd_fwd( p, &imd_fwd_lt, n);
+			//Add to immediate feedback list
+			add_to_imd_fbk( p, &imd_fbk_lt, n);
+			//Add to regular forward list
+			add_to_rgl_fwd( p, &rgl_fwd_lt, n);
+			//Add to regular feedback list
+			add_to_rgl_fbk( p, &rgl_fbk_lt, n);
 		}
 		else if(msg->type == MSG_REG) {
 			int err = 0;

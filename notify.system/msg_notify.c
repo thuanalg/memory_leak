@@ -145,9 +145,11 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 	HASH_ITEM *hitem = 0;
 	int rc = 0;
 	char *devid;
+	int len = 0;
 
 	com = &(msg->com);
-	hn = hash_func(com->dev_id, 64);
+	len = MIN(MAX_MSG, strlen(com->dev_id));
+	hn = hash_func(com->dev_id, len);
 	fprintf(stdout, "hn: %llu, devid: %s\n", hn, com->dev_id);
 	hi = &(list_reg_dev[hn]);
 	
@@ -235,21 +237,14 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 	int rc = 0;
 	HASH_LIST *hash_table = 0;
 	pthread_mutex_t *mtx = 0;
-	if(type == 0) {
-		mtx = &hash_tb_mtx;
-		hash_table = list_reg_dev;
-	}
-	else if (type == 1) {
-		mtx = &hash_tb_notifier_mtx;
-		hash_table = list_reg_notifier;
-	}
-	else {
-		//LOG ERROR
-		return res;
-	}
+	int len = 0;
+
+	mtx = &hash_tb_mtx;
+	hash_table = list_reg_dev;
 
 	com = &(msg->com);
-	hn = hash_func(com->dev_id, 64);
+	len = MIN(MAX_MSG, strlen(com->dev_id));
+	hn = hash_func(com->dev_id, len);
 	hi = &(hash_table[hn]);
 
 	fprintf(stdout, "============ Func: %s, line: %d, Update route path, device id: %s.\n\n", 	
@@ -456,8 +451,10 @@ int notify_to_client(int sockfd, int *count) {
 		while(hi)
 		{
 			HASH_ITEM *t = 0;
+			int len = 0;
 			devid = hi->msg->com.dev_id;
-			index = hash_func(devid, 64);		
+			len = MIN(MAX_MSG, strlen(devid));
+			index = hash_func(devid, len);		
 			gr = (HASH_ITEM*) list_reg_dev[index].group;
 
 			fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, devid: %s\n\n\n",
@@ -531,7 +528,7 @@ void dum_msg(MSG_COMMON *item, int line)
 		if(!item) break;
 		type = item->type;
 		fprintf(stdout, "line: %d -------- Type of message: %s\n", line, text[type]);
-		fprintf(stdout, "line: %d -------- Is feedback: %s\n", line, item->ifback ? "YES" : "NO");
+		fprintf(stdout, "line: %d -------- Is feedback: %s\n", line, item->ifroute ? "YES" : "NO");
 		fprintf(stdout, "line: %d -------- Device ID: %s\n", line, item->dev_id);
 		fprintf(stdout, "line: %d -------- Hash number: %u\n", line, hash_func(item->dev_id, 64));
 	} while(0);	
@@ -679,8 +676,95 @@ int load_reg_list() {
 	return ret;
 }
 
+
+int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
+{
+	int err = 0;
+	int rc = 0;
+	int index = 0;
+	char *devid = 0;
+	HASH_ITEM *hi = 0;
+	HASH_ITEM *gr = 0;
+	HASH_ITEM *t = 0;
+
+	rc = pthread_mutex_lock(&hash_tb_mtx);
+	if(rc) {
+		//LOG FATAL
+	}
+	//>>>>>>>
+	do {
+		if(!l) {
+			err = 1;
+			//LOG ERR
+			break;
+		}
+		hi = *l;
+		if(!count) {
+			//LOG ERR
+			break;
+		}
+		*count = 0;
+		if(!hi) 	
+		{
+			break;	
+		}
+		while(hi)
+		{
+			int len = 0;
+			devid = hi->msg->com.dev_id;
+			len = MIN(MAX_MSG, strlen(devid));
+			index = hash_func(devid, len);		
+			gr = (HASH_ITEM*) list_reg_dev[index].group;
+
+			fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, devid: %s\n\n\n",
+				 __FUNCTION__, __LINE__, hi, gr, devid);
+			if(!gr) {
+				//NOT found in registed list.
+				err=1;
+				//E_NOT_IN_REG
+				break;
+			}
+			while(gr) {
+				if(strncmp(devid, gr->msg->com.dev_id, LEN_DEVID) == 0) {
+					t = gr;
+					break;		
+				}
+				gr = gr->next;
+			}
+			if(!t) {
+				//NOT found in registed list.
+				err = 1;
+				//E_NOT_IN_REG
+				break;
+			}
+			fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, t: %p,devid: %s\n\n\n",
+				 __FUNCTION__, __LINE__, hi, gr, t, devid);
+			dum_ipv4(&(t->ipv4), __LINE__);
+			//Prepare list should be done, that will be better. ntthuan: NOT DONE
+			sendto(sockfd, (const char *)hi->msg, sizeof(MSG_COMMON),
+				MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
+			(*count)++;
+			t = hi;
+			hi = hi->next;
+			if(clear) {
+				free(t->msg);
+				free(t);
+				*l = hi;
+			}
+		}
+	}
+	while(0);
+	//<<<<<<<
+	rc = pthread_mutex_unlock(&hash_tb_mtx);
+	if(rc) {
+		//LOG FATAL
+	}
+	return err;
+}
+
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
 HASH_LIST list_reg_notifier[HASH_SIZE + 1];
+
 HASH_ITEM *notified_list = 0;
 
 HASH_ITEM *imd_fbk_lt = 0;

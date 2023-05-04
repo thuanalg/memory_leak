@@ -77,13 +77,13 @@ int main(int argc, char *argv[]) {
 		fprintf(stdout, "=========== n receive: %d\n");
 		if(n >= sizeof(MSG_COMMON) && fbaddr.sin_family == AF_INET) {
 			MSG_COMMON *msg = (MSG_COMMON *) buffer;
-			if(msg->ifback) {
+			if(msg->ifroute) {
 				continue;
 			}
 			fprintf(stdout, "\n++++++++++++\n");
 			dum_msg(msg, __LINE__); 
 			dum_ipv4(&fbaddr, __LINE__);
-			msg->ifback = 1;
+			msg->ifroute = 1;
 			send_msg_fb(sockfd, &servaddr, msg);
 		}
 	}
