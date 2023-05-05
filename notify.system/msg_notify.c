@@ -650,7 +650,7 @@ int load_reg_list() {
 		int ret = 0;
 		int sz = (int) sizeof(MSG_REGISTER);
 
-		fp = fopen("list_dev_id.txt", "r");
+		fp = fopen("list_dev_id.h", "r");
 		if(!fp) {
 			//LOG ERROR
 			break;
@@ -712,7 +712,7 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	int err = 0;
 	int rc = 0;
 	int index = 0;
-	char *devid = 0;
+	char *iid = 0;
 	HASH_ITEM *hi = 0;
 	HASH_ITEM *gr = 0;
 	HASH_ITEM *t = 0;
@@ -741,13 +741,21 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 		while(hi)
 		{
 			int len = 0;
-			devid = hi->msg->com.dev_id;
-			len = MIN(MAX_MSG, strlen(devid));
-			index = hash_func(devid, len);		
+			if(hi->msg->com.ifroute == G_NTF_CLI ) {
+				iid = hi->msg->com.dev_id;
+			}
+			else if(hi->msg->com.ifroute == G_CLI_NTF ) {
+				iid = hi->msg->com.ntf_id;
+			}
+			else {
+				break;
+			}
+			len = MIN(MAX_MSG, strlen(iid));
+			index = hash_func(iid, len);		
 			gr = (HASH_ITEM*) list_reg_dev[index].group;
 
 			fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, devid: %s\n\n\n",
-				 __FUNCTION__, __LINE__, hi, gr, devid);
+				 __FUNCTION__, __LINE__, hi, gr, iid);
 			if(!gr) {
 				//NOT found in registed list.
 				err=1;
@@ -755,7 +763,7 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 				break;
 			}
 			while(gr) {
-				if(strncmp(devid, gr->msg->com.dev_id, LEN_DEVID) == 0) {
+				if(strncmp(iid, gr->msg->com.dev_id, LEN_DEVID) == 0) {
 					t = gr;
 					break;		
 				}
@@ -768,7 +776,7 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 				break;
 			}
 			fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, t: %p,devid: %s\n\n\n",
-				 __FUNCTION__, __LINE__, hi, gr, t, devid);
+				 __FUNCTION__, __LINE__, hi, gr, t, iid);
 			dum_ipv4(&(t->ipv4), __LINE__);
 			//Prepare list should be done, that will be better. ntthuan: NOT DONE
 			sendto(sockfd, (const char *)hi->msg, sizeof(MSG_COMMON),

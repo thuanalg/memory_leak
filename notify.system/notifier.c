@@ -104,16 +104,16 @@ int main(int argc, char *argv[]) {
 		}
 		len = sizeof(servaddr);
 		memset(buffer, 0, sizeof(buffer));
+		notifier(argv[1], sockfd);
+		sleep(3);
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 					MSG_WAITALL, (struct sockaddr *) &servaddr,
 					&len);
 
-		sleep(3);
-		notifier(argv[1], sockfd);
 		if(n < 1 ) {
 			continue;
 		}
-		fprintf(stdout, "=========== n receive: %d\n");
+		fprintf(stdout, "=========== n receive: %d\n", n);
 		if(n >= sizeof(MSG_COMMON) && fbaddr.sin_family == AF_INET) {
 			MSG_COMMON *msg = (MSG_COMMON *) buffer;
 			if(msg->ifroute) {

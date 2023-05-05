@@ -14,7 +14,6 @@
 #define MAXLINE 1024
 const char *id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
-int send_msg_resgister(int sockfd, struct sockaddr_in* addr);
 int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *);
 int send_msg_fb(int sockfd, struct sockaddr_in* addr, MSG_COMMON *msg);
 void client() {
@@ -31,11 +30,11 @@ int main(int argc, char *argv[]) {
 	struct sockaddr_in	 servaddr;
 	struct sockaddr_in	 fbaddr;
 	int val = 1;
+	int err = 0;
 	int sz = (int) sizeof(MSG_COMMON);
 	
 	// Creating socket file descriptor
 	clock_gettime(CLOCK_REALTIME, &t0);
-//	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
 		perror("socket creation failed");
 		exit(EXIT_FAILURE);
@@ -77,29 +76,26 @@ int main(int argc, char *argv[]) {
 		fprintf(stdout, "=========== n receive: %d\n");
 		if(n >= sizeof(MSG_COMMON) && fbaddr.sin_family == AF_INET) {
 			MSG_COMMON *msg = (MSG_COMMON *) buffer;
-			if(msg->ifroute) {
-				continue;
+
+			if(msg->ifroute == G_NTF_CLI) {
+				fprintf(stdout, "\n++++++++++++\n");
+				dum_msg(msg, __LINE__); 
+				dum_ipv4(&fbaddr, __LINE__);
+				msg->ifroute = G_CLI_NTF;
+				memset(msg->len, 0, LEN_U16INT);
+				send_msg_fb(sockfd, &servaddr, msg);
 			}
-			fprintf(stdout, "\n++++++++++++\n");
-			dum_msg(msg, __LINE__); 
-			dum_ipv4(&fbaddr, __LINE__);
-			msg->ifroute = 1;
-			send_msg_fb(sockfd, &servaddr, msg);
 		}
 	}
-/*
-	while(1) {
-
-
+	err = close(sockfd);
+	if(err) {
+		LOG(LOG_ERR, "Close socket err.");
 	}
-*/
-	close(sockfd);
 	return 0;
 }
 
 
 int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *t) {
-
 	MSG_NOTIFY msg;
 	char buff[1501];
 	int n = 0;
@@ -136,35 +132,3 @@ int send_msg_fb(int sockfd, struct sockaddr_in* addr, MSG_COMMON *msg) {
 	return n;
 }
 
-int send_msg_resgister(int sockfd, struct sockaddr_in* addr)
-{
-	MSG_REGISTER msg;
-	char buff[1501];
-	int n = 0;
-	memset(&msg, 0, sizeof(msg));
-	msg.com.type = MSG_REG;
-	memcpy(msg.com.dev_id, id, LEN_DEVID);
-	
-	memset(buff, 0, 1501);
-	memcpy(buff, (char*) &msg, sizeof(msg));
-	
-	
-//	addr->sin_port = htons(PORT);
-//	n = sendto(sockfd, buff, sizeof(msg),
-//		MSG_CONFIRM, (const struct sockaddr *) addr,
-//			sizeof(*addr));
-//	dum_msg(&(msg.com), __LINE__);
-
-	
-	msg.com.type = MSG_TRA;
-	addr->sin_port = htons(PORT + 1);
-	memset(buff, 0, 1501);
-	memcpy(buff, (char*) &msg, sizeof(msg));
-	n = sendto(sockfd, buff, sizeof(msg),
-		MSG_CONFIRM, (const struct sockaddr *) addr,
-			sizeof(*addr));
-	dum_msg(&(msg.com), __LINE__);
-
-	return 0;
-}
-	
