@@ -22,4 +22,46 @@ Create notifier
 
 
 =====
+230504
 Load registered list
+
+0. Send MSG_TRA message:
+	- device: OK
+	- Notifier: OK
+1. msg_notify need to be had source/dest: OK
+	A --> B --> A RTT
+2. From notifier to server:
+
+
+	- Add to immediate list forward: OK
+	- Add to immediate list feedback: OK
+	
+	- Add to regular list forward: OK
+	- Add to regular list feedback: OK
+	imd_fbk_lt
+	imd_fwd_lt
+	rgl_fbk_lt
+	rgl_fwd_lt
+	- Add system log: OK
+3. Server gives feedback to notifier: OK
+4. notifier send confirmed message
+5 Receive confirmation from notifier
+6. Remove feedback list
+	
+7. Server to device:ok
+	- Send fwd to client: ok
+8. Client send confirmation	. 	
+9. Server receive the confirmation 
+10. Server remove fwd message 
+
+=====
+230505
+1. From Notifier to Server
+2. At server:
+	a. Forward now
+3. At client
+	a. Send feedback
+4. At server send feedback
+5. Notifier:
+	a. DONE
+	b. Error

@@ -18,13 +18,14 @@ char *dev_id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 int send_msg_resgister(int sockfd, struct sockaddr_in* addr);
 int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *);
 int send_msg_fb(int sockfd, struct sockaddr_in* addr, MSG_COMMON *msg);
+
 void notifier(char *ip, int sockfd) {
 	int sz = MAX_MSG;
 	struct sockaddr_in	 servaddr;
 	MSG_NOTIFY *msg = 0;
 	uint16_t n = 0;
 	struct timespec t;
-	char buf [128];
+	char buf [2];
 
 	clock_gettime(CLOCK_REALTIME, &t);
 
@@ -33,14 +34,14 @@ void notifier(char *ip, int sockfd) {
 	servaddr.sin_addr.s_addr = inet_addr(ip);
 	servaddr.sin_port = htons(PORT);
 
-	msg = malloc(sz);
+	MY_MALLOC(msg, sz);
 	memset(msg, 0, sz);	
 	memset(msg, 0, sz);	
 
-	msg->com.type = MSG_NOTIFIER;
-	msg->com.ifroute = G_NTF_SRV;
+	msg->com.type = MSG_NTF;
+	msg->com.ifroute = G_NTF_CLI;
 	memcpy(msg->com.dev_id, dev_id, MIN(LEN_DEVID, strlen(dev_id) + 1));
-	memcpy(msg->com.ntf_id, dev_id, MIN(LEN_DEVID, strlen(id) + 1));
+	memcpy(msg->com.ntf_id, id, MIN(LEN_DEVID, strlen(id) + 1));
 	n = MAX_MSG - sizeof(MSG_COMMON);
 	memset(buf, 0, sizeof(buf));
 	uint16_2_arr(buf, n, 2);
@@ -57,7 +58,7 @@ int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz);
 		MSG_CONFIRM, (const struct sockaddr *) &servaddr,
 			sizeof(servaddr));
 	printf("line: %d, Send tracking message: n: %u.\n", __LINE__, n);
-	free(msg);
+	MY_FREE(msg);
 }
 // Driver code
 
@@ -75,7 +76,7 @@ int main(int argc, char *argv[]) {
 	// Creating socket file descriptor
 	clock_gettime(CLOCK_REALTIME, &t0);
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
-		perror("socket creation failed");
+		LOG(LOG_ERR, "Cannot create socket.");
 		exit(EXIT_FAILURE);
 	}
 	setsockopt(sockfd, IPPROTO_IP, IP_MTU_DISCOVER, &val, sizeof(val));		
@@ -107,7 +108,7 @@ int main(int argc, char *argv[]) {
 					MSG_WAITALL, (struct sockaddr *) &servaddr,
 					&len);
 
-		sleep(1);
+		sleep(3);
 		notifier(argv[1], sockfd);
 		if(n < 1 ) {
 			continue;

@@ -1,5 +1,65 @@
 
-[-] abide by		<-->	phrasal verb+C2[-0]	.
+[-] abide by		<-->	phrasal verb+C2	[230505][001]	./p/
+	;tuân thủ, làm theo -- (1) [-abide by something] (formal) to accept and act according to a law, an agreement, etc.
+		;You'll have to abide by the rules of the club.
+		;We will abide by their decision.
+		;TOPICS Discussion and agreementC2, Law and justiceC2
+		;WORDFINDER NOTE AT law
+
+
+
+
+
+
+[-] abrogate		<-->	verb+C2	[230505][001]	./ˈæbrəɡeɪt/
+ /ˈæbrəɡeɪt/
+(formal)
+	;bãi bỏ, hết hiệu lực -- (1) abrogate something to officially end a law, an agreement, etc.
+		;SYNONYM repeal
+		;The rule has been abrogated by mutual consent.
+		;TOPICS Discussion and agreementC2
+		;Oxford Collocations Dictionary
+		;Abrogate is used with these nouns as the object:
+		;treaty
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+[-] abrogation		<-->	noun+C2	[230505][001]	./ˌæbrəˈɡeɪʃn/
+ /ˌæbrəˈɡeɪʃn/
+[uncountable, singular] (formal)
+	;sự bãi bỏ, hết hiệu lực -- (1) ​the fact of officially ending a law, an agreement, etc.
+		;SYNONYM repeal
+		;the abrogation of civil rights in the country
+		;TOPICS Discussion and agreementC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+[-] accede		<-->	verb+C2[-0]	./əkˈsiːd/
+ /əkˈsiːd/
+[intransitive] (formal)
+	;đồng ý -- (1) accede (to something) to agree to a request, proposal, etc.
+		;He acceded to demands for his resignation.
+		;Japan had little choice but to accede.
+		;The Planning Committee has finally acceded to growing pressure.
+		;TOPICS Discussion and agreementC
+
+
+
+
+
+
+[-] accept		<-->	verb+B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -9,47 +69,7 @@
 
 
 
-[-] abrogate		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] abrogation		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] accede		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] accept		<-->	verb+B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] acceptable		<-->	adjective+B2[-0]	.
+[-] acceptable		<-->	adjective+B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -269,7 +289,7 @@
 
 
 
-[-] arbitration		<-->	noun+C2[-0]	./ˌɑːbɪˈtreɪʃn/
+[-] arbitration		<-->	noun+C2	[230505][001]	./ˌɑːbɪˈtreɪʃn/
  /ˌɑːrbɪˈtreɪʃn/ [uncountable] [230307] [voa]
 	;sự phân xử, điều đình chính thức -- (1) the official process of settling an argument or a disagreement by somebody who is not involved
 		;Both sides in the dispute have agreed to go to arbitration.

@@ -11,8 +11,13 @@
 #include <arpa/inet.h>
 #include <netinet/in.h>
 #include <time.h>
+#include <syslog.h>
 
 
+#define MY_MALLOC(p, n) {p=malloc(n);syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d\n", __FILE__, __FUNCTION__, __LINE__, p, (n)); }
+#define MY_FREE(p) {free(p);syslog(LOG_INFO, "- File: %s, func: %s, line: %d, free p: %p\n", __FILE__, __FUNCTION__, __LINE__, p);}
+
+#define LOG 		syslog
 
 #define LEN_DEVID 	(40) 
 #define LEN_U64INT 	(8) 
@@ -24,30 +29,28 @@
 #define MIN(a, b) 	((a) > (b) ? (b) : (a))
 
 #define HASH_SIZE 		(10001)
-#define INTER_TRACK 	(10)
+//Interval sending tracking message
+#define INTER_TRACK 	(30)
 
 
 typedef enum {
 	MSG_REG = 0,
 	MSG_TRA, //msg tracing device`
-	MSG_NOT, // msg notification from dev
-	MSG_CON, // msg confirmation
-	MSG_NOTIFIER, //msg notification fron notifier
-	MSG_NTF_CFM, //msg confirmation fron notifier
+	MSG_NTF, // msg notification from dev
+	MSG_CNF, // msg confirmation
 } MSG_ENUM;
 
 typedef enum {
 	// From a notifier to server
-	G_NTF_SRV,
+	G_NTF_CLI,
 	//The server forwards to client
-	G_FWD_CLT,
+	F_NTF_CLI,
 	//From the server feedback to a notifier
-	B_SRV_NTF,
+	G_CLI_NTF,
 	//From a client to the server in order to confirm
-	B_CLI_SRV,
-	//From the notifier feedback to the server to confirm and clean the list
-	B_NTF_SRV,
+	F_CLI_NTF,
 } MSG_ROUTE;
+
 
 typedef struct {
 	int n;
@@ -140,10 +143,7 @@ extern HASH_ITEM *notified_list;
 
 
 
-extern HASH_ITEM *imd_fbk_lt;
 extern HASH_ITEM *imd_fwd_lt;
-extern HASH_ITEM *rgl_fbk_lt;
-extern HASH_ITEM *rgl_fwd_lt;
 
 int load_reg_list();
 

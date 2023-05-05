@@ -130,9 +130,9 @@ void dum_ipv4(struct sockaddr_in *addr, int line) {
 	memset(buff, 0, sizeof(buff));	
 	str[INET_ADDRSTRLEN] = 0;
 	inet_ntop(AF_INET, &(addr->sin_addr), str, INET_ADDRSTRLEN);
-	sprintf(buff, "\nfunc: %s, line: %d, cli port: %d, IP: %s\n", 
+	sprintf(buff, "func: %s, line: %d, cli port: %d, IP: %s.", 
 		__FUNCTION__, line, (int) addr->sin_port, str);
-	fprintf(stdout, buff);
+	LOG(LOG_INFO, buff);
 }
 
 
@@ -189,12 +189,14 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 				break;
 			}
 
-			hitem = malloc(sizeof(HASH_ITEM));
+			//hitem = malloc(sizeof(HASH_ITEM));
+			MY_MALLOC(hitem, sizeof(HASH_ITEM));
 			if(!hitem) {
 				//LOG FATAL
 			}
 			memset(hitem, 0, sizeof(HASH_ITEM));		
-			hitem->msg = malloc(n);
+			//hitem->msg = malloc(n);
+			MY_MALLOC(hitem->msg ,sizeof(HASH_ITEM));
 			memset(hitem->msg, 0, n);
 			memcpy(hitem->msg, (char*) msg, n);
 			
@@ -205,12 +207,14 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 			break;
 		}
 		else {
-			hitem = malloc(sizeof(HASH_ITEM));
+			//hitem = malloc(sizeof(HASH_ITEM));
+			MY_MALLOC( hitem, sizeof(HASH_ITEM));
 			if(!hitem) {
 				//LOG FATAL
 			}
 			memset(hitem, 0, sizeof(HASH_ITEM));		
-			hitem->msg = malloc(n);
+			//hitem->msg = malloc(n);
+			MY_MALLOC( hitem->msg, n);
 			memset(hitem->msg, 0, n);
 			memcpy(hitem->msg, (char*) msg, n);
 			
@@ -523,15 +527,41 @@ void put_time_to_msg( MSG_COMMON *msg, struct timespec *t)
 void dum_msg(MSG_COMMON *item, int line)
 {
 	const char *text[] = { "Register", "Trace", "Notify", "Confirm", "" };
+	const char *ifr[] = { "From a notifier to server", "The server forwards to client", 
+		"From the server feedback to a notifier", " From a client to the server in order to confirm", 
+		"From the notifier feedback to the server to confirm and clean the list", ""};
+	char buf[2048];
+	int n = 0;
+	int len = 0;
+	int sz = 0;
+	short ldta = 0;
+	memset(buf, 0, sizeof(buf));
 	do {
 		unsigned char type = 0;
+		unsigned char ifro = 0;
 		if(!item) break;
 		type = item->type;
-		fprintf(stdout, "line: %d -------- Type of message: %s\n", line, text[type]);
-		fprintf(stdout, "line: %d -------- Is feedback: %s\n", line, item->ifroute ? "YES" : "NO");
-		fprintf(stdout, "line: %d -------- Device ID: %s\n", line, item->dev_id);
-		fprintf(stdout, "line: %d -------- Hash number: %u\n", line, hash_func(item->dev_id, 64));
+		ifro = item->ifroute;
+		len += n;
+		n = sprintf(buf + len, "line: %d -------- Type of message: %s. ", line, text[type]);
+		len += n;
+		n = sprintf(buf + len, "line: %d -------- Device ID: %s. ", line, item->dev_id);
+		len += n;
+		n = sprintf(buf + len, "line: %d -------- Notifier ID: %s. ", line, item->ntf_id);
+		len += n;
+		sz = MIN(MAX_MSG, strlen(item->dev_id));
+		n = sprintf(buf + len, "line: %d -------- Hash number device id: %u. ", line, hash_func(item->dev_id, sz));
+		len += n;
+		n = sprintf(buf + len, "line: %d -------- Hash number notifier id: %u. ", line, hash_func(item->ntf_id, sz));
+		len += n;
+		n = sprintf(buf + len, "line: %d -------- ifroute: %s. ", line, ifr[ifro]);
+		len += n;
+		
+		arr_2_uint16(item->len, &ldta, 2);
+		n = sprintf(buf + len, "line: %d -------- Len data: %d. ", line, ldta);
+		len += n;
 	} while(0);	
+	LOG(LOG_INFO, buf);	
 }
 
 int rm_msg_sent(MSG_COMMON *msg)
@@ -598,9 +628,9 @@ int rm_msg_sent(MSG_COMMON *msg)
 	}
 	if(found && hi) {
 		if(hi->msg) {
-			free(hi->msg);
+			MY_FREE(hi->msg);
 		}
-		free(hi);
+		MY_FREE(hi);
 	}		
 	return 0;
 }
@@ -767,11 +797,7 @@ HASH_LIST list_reg_notifier[HASH_SIZE + 1];
 
 HASH_ITEM *notified_list = 0;
 
-HASH_ITEM *imd_fbk_lt = 0;
 HASH_ITEM *imd_fwd_lt = 0;
-
-HASH_ITEM *rgl_fbk_lt = 0;
-HASH_ITEM *rgl_fwd_lt = 0;
 
 
 //After receiving a message, include MSG_REG, except MSG_TRA:

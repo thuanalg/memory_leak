@@ -26,6 +26,7 @@ int set_waiting(int w);
 int get_waiting(int *ret);
 
 int g_waiting = 1;
+char g_runnow = 0;
 
 int set_waiting(int w) {
 	int err = 0;
@@ -89,8 +90,11 @@ void handler(int signo, siginfo_t *info, void *context)
 		if(main_pid != info->si_pid) {
 			pthread_kill(read_threadid, USER_SIG);
 		}
-		set_waiting(0);
-		fprintf(stdout, "sending pid--------------: %llu\n", (unsigned long long)info->si_pid);
+		if(pthread_self() == read_threadid) {
+			g_runnow = 1;
+		}
+		//set_waiting(0);
+		LOG(LOG_INFO, "sending pid--------------: %llu\n", (unsigned long long)info->si_pid);
 }
 
 
@@ -148,14 +152,23 @@ void *sending_routine_thread(void *arg)
 		memset(buffer, 0, sizeof(buffer));
 		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
 			MSG_DONTWAIT, ( struct sockaddr *) &cliaddr,	&len);
-		while(n >= zcom) {
+		//S2 socket
+		if(n < 1)
+		{
+			if(!g_runnow) {
+				usleep(1000 * 100);
+			}
+			g_runnow++;
+			g_runnow %= 7;
+		}
+		while( n >= zcom) {
 			msg = (MSG_COMMON*) buffer;
 			//Here is notifying socket
 			dum_msg(msg, __LINE__);
 			if(msg->type == MSG_TRA) {
 				int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr, 0);
 				if(!done) {
-					//LOG err
+					LOG(LOG_ERR, "Handle tracking error.");
 					break;
 				}
 			}
@@ -171,25 +184,6 @@ void *sending_routine_thread(void *arg)
 			}
 			break;
 		}
-
-		clock_gettime(CLOCK_REALTIME, &t1);
-		//Regularly notify
-		if(t1.tv_sec - t0.tv_sec > 3) {
-			int ret = 0;
-			int n = 0;
-			t0 = t1;
-			ret =  notify_to_client(sockfd, &n);
-			fprintf(stdout, "counTTTTTTTTTTTTTTTTTTTTT: %d\n", n);
-
-			//Send regular feedback list to a destination
-			send_rgl_fbk(sockfd, &rgl_fbk_lt, &c, 0); 
-			//Send regular forward list to a destination
-			send_rgl_fwd(sockfd, &rgl_fwd_lt, &c, 0); 
-		}
-		usleep( 10 * 1000);
-
-		//Send immediate feedback list to a destination
-		send_imd_fbk(sockfd, &imd_fbk_lt, &c, 1); 
 		//Send immediate feedback list to a destination
 		send_imd_fwd(sockfd, &imd_fwd_lt, &c, 1); 
 	}
@@ -228,7 +222,8 @@ int main(int argc, char *argv[]) {
 	int val = 1;
 	int count = 0;
 
-	openlog ("server_notify", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
+	setlogmask (LOG_UPTO (LOG_INFO));
+	openlog ("zserver_notify", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
 
 	main_pid = getpid();
 		
@@ -267,7 +262,7 @@ int main(int argc, char *argv[]) {
 	len = sizeof(cliaddr); //len is value/result
 	while(!is_stop_server) {
 		MSG_COMMON *msg = 0;
-		//A1 socket 
+		//S1 socket 
 		memset(buffer, 0, sizeof(buffer));
 		n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
 					MSG_WAITALL, ( struct sockaddr *) &cliaddr,	&len);
@@ -281,90 +276,30 @@ int main(int argc, char *argv[]) {
 		}
 		msg = (MSG_COMMON*) buffer;	
 		dum_msg(msg, __LINE__);
-		//A1 socket 
+		if(msg->ifroute == G_NTF_CLI || msg->ifroute == G_CLI_NTF) {
+			if(msg->type == MSG_NTF) {
+				int err = 0;
+				uint16_t k = 0;
+				char buf[MAX_MSG + 1];
+				MSG_NOTIFY *p = (MSG_NOTIFY *) msg;
+				memset(buf, 0, sizeof(buf));
+				arr_2_uint16( msg->len, &k, 2);			
+				fprintf(stdout, "file: %s, line: %d, len data: %u\n", __FILE__, __LINE__, k);
+				fprintf(stdout, "file: %s, line: %d, data: %s\n", __FILE__, __LINE__, p->data);
 
-		//typedef enum {
-		//	// From a notifier to server
-		//	G_NTF_SRV,
-		//	//The server forwards to client
-		//	G_FWD_CLT,
-		//	//From the server feedback to a notifier
-		//	B_SRV_NTF,
-		//	//From a client to the server in order to confirm
-		//	B_CLI_SRV,
-		//	//From the notifier feedback to the server to confirm and clean the list
-		//	B_NTF_SRV,
-		//} MSG_ROUTE;
-		if(msg->ifroute == B_CLI_SRV) {
-			fprintf(stdout, "==================clean this msg================\n");
-			dum_msg(msg, __LINE__);
-			rm_msg_sent(msg);
-			continue;
+				//Add to immediate forward list
+				add_to_imd_fwd( p, &imd_fwd_lt, n);
+				err = pthread_kill( read_threadid, USER_SIG);
+				if(err)
+				{	
+					LOG(LOG_ERR, "signaling error.");
+				}
+			}
 		}
-		if(msg->ifroute == B_NTF_SRV) {
-			fprintf(stdout, "==================clean this msg================\n");
-			dum_msg(msg, __LINE__);
-			rm_msg_sent(msg);
-			continue;
-		}
-		if(msg->type == MSG_NOTIFIER) {
-			uint16_t k = 0;
-			char buf[MAX_MSG + 1];
-			MSG_NOTIFY *p = (MSG_NOTIFY *) msg;
-			memset(buf, 0, sizeof(buf));
-			arr_2_uint16( msg->len, &k, 2);			
-			fprintf(stdout, "file: %s, line: %d, len data: %u\n", __FILE__, __LINE__, k);
-			fprintf(stdout, "file: %s, line: %d, data: %s\n", __FILE__, __LINE__, p->data);
 
-			//Add to immediate forward list
-			add_to_imd_fwd( p, &imd_fwd_lt, n);
-			//Add to immediate feedback list
-			add_to_imd_fbk( p, &imd_fbk_lt, n);
-			//Add to regular forward list
-			add_to_rgl_fwd( p, &rgl_fwd_lt, n);
-			//Add to regular feedback list
-			add_to_rgl_fbk( p, &rgl_fbk_lt, n);
-		}
-		else if(msg->type == MSG_REG) {
-			int err = 0;
-			int res = 0; 
-			struct timespec t = { 0 }; 
-			clock_gettime(CLOCK_REALTIME, &t);
-			res = reg_to_table((MSG_REGISTER*) msg, n, &t);
-			if(res) {
-				fprintf(stdout, "register DONEEEEEEEEE\t");	
-			}
-			else {
-				fprintf(stdout, "register ERRORRRR\t");	
-			}
-			//ntthuan: add result at suffix message: DONE
-			err = add_to_notify_list((MSG_NOTIFY*)msg, n);
-		}
 		fprintf(stdout, "line:%d, recv n: %d\n", __LINE__, n);
 		if(n > 0 && cliaddr.sin_family == AF_INET) {
 			dum_ipv4(&cliaddr, __LINE__);
-		}
-//
-//		item_feedback item;
-//		memset(&item, 0, sizeof(item));
-//		item.len_addr = len;
-//		item.len_buff = n;
-//		memcpy(&(item.addr), &cliaddr, len);
-//		
-//		buffer[n] = '\0';
-//		printf("Client : %s\n", buffer);
-//		int sig = 0;
-//		memcpy(item.data, buffer, n);
-//		add_item_gen_list(&gen_list, (char*) &item, sizeof(item), &sig);
-
-		fprintf(stdout, "Client pid: %llu, sig: %d\n", read_threadid);
-		rc = get_waiting(&signaling);
-		if(!rc && signaling) {
-			int err = pthread_kill( read_threadid, USER_SIG);
-			if(err)
-			{	
-				//LOG ERORR
-			}
 		}
 	}	
 	err = close(sockfd);
