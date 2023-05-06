@@ -103,7 +103,9 @@ int arr_2_uint32(unsigned char *arr, uint32_t *n, int sz);
 int uint16_2_arr(unsigned char *arr, uint16_t , int sz);
 int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz);
 
-void dum_msg(MSG_COMMON *, int);
+void dum_msg(MSG_COMMON *, const char *, const char *, int);
+#define DUM_MSG(i) dum_msg(i, __FILE__, __FUNCTION__ ,__LINE__)
+
 //struct sockaddr_in servaddr, cliaddr;
 void dum_ipv4(struct sockaddr_in *, int line);
 //0: error, 1: done
@@ -111,14 +113,9 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *);
 //0: error, 1: done
 int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in*, int type);
 
-int add_to_notify_list(MSG_NOTIFY *msg, int sz);
+//int add_to_notify_list(MSG_NOTIFY *msg, int sz);
 int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz);
 #define  add_to_imd_fwd 		add_to_item_list
-#define  add_to_imd_fbk 		add_to_item_list
-
-#define  add_to_rgl_fwd 		add_to_item_list
-#define  add_to_rgl_fbk 		add_to_item_list
-
 //sk: socket
 //l: a linked list
 //c: number sent
@@ -130,11 +127,11 @@ int send_to_dst(int sk, HASH_ITEM **l, int *c, char clear);
 #define send_rgl_fwd			send_to_dst 
 #define send_rgl_fbk			send_to_dst 
 
-int notify_to_client(int sockfd, int *count);
+//int notify_to_client(int sockfd, int *count);
 
 //2023-04-26
 void put_time_to_msg( MSG_COMMON *, struct timespec *t);
-int rm_msg_sent(MSG_COMMON *msg);
+//int rm_msg_sent(MSG_COMMON *msg);
 
 extern HASH_LIST list_reg_dev[HASH_SIZE + 1];
 extern HASH_LIST list_reg_notifier[HASH_SIZE + 1];

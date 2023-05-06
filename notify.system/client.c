@@ -33,6 +33,10 @@ int main(int argc, char *argv[]) {
 	int err = 0;
 	int sz = (int) sizeof(MSG_COMMON);
 	
+
+	setlogmask (LOG_UPTO (LOG_INFO));
+	openlog ("zclient_device", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
+
 	// Creating socket file descriptor
 	clock_gettime(CLOCK_REALTIME, &t0);
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
@@ -79,7 +83,7 @@ int main(int argc, char *argv[]) {
 
 			if(msg->ifroute == G_NTF_CLI) {
 				fprintf(stdout, "\n++++++++++++\n");
-				dum_msg(msg, __LINE__); 
+				DUM_MSG(msg); 
 				dum_ipv4(&fbaddr, __LINE__);
 				msg->ifroute = G_CLI_NTF;
 				memset(msg->len, 0, LEN_U16INT);
@@ -91,6 +95,7 @@ int main(int argc, char *argv[]) {
 	if(err) {
 		LOG(LOG_ERR, "Close socket err.");
 	}
+	closelog();
 	return 0;
 }
 
@@ -124,11 +129,12 @@ int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *t) {
 
 int send_msg_fb(int sockfd, struct sockaddr_in* addr, MSG_COMMON *msg) {
 	int n = 0;
+	int len = sizeof(MSG_COMMON);
 	addr->sin_port = htons(PORT);
-	n = sendto(sockfd, msg, sizeof(MSG_COMMON),
+	n = sendto(sockfd, msg, len,
 		MSG_CONFIRM, (const struct sockaddr *) addr,
 			sizeof(*addr));
-	dum_msg(msg, __LINE__);
+	DUM_MSG(msg);
 	return n;
 }
 

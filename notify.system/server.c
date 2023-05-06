@@ -163,8 +163,7 @@ void *sending_routine_thread(void *arg)
 		}
 		while( n >= zcom) {
 			msg = (MSG_COMMON*) buffer;
-			//Here is notifying socket
-			dum_msg(msg, __LINE__);
+			//S2
 			if(msg->type == MSG_TRA) {
 				int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr, 0);
 				if(!done) {
@@ -275,7 +274,7 @@ int main(int argc, char *argv[]) {
 			continue;
 		}
 		msg = (MSG_COMMON*) buffer;	
-		dum_msg(msg, __LINE__);
+		DUM_MSG(msg);
 		if(msg->ifroute == G_NTF_CLI || msg->ifroute == G_CLI_NTF) {
 			if(msg->type == MSG_NTF) {
 				int err = 0;
