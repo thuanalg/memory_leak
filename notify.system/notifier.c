@@ -56,6 +56,7 @@ int uint16_2_arr(unsigned char *arr, uint16_t , int sz);
 int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz);
 */
 	//len = sizeof(servaddr);
+	DUM_MSG(&(msg->com));
 	n = sendto(sockfd, (char *)msg, MAX_MSG,
 		MSG_CONFIRM, (const struct sockaddr *) &servaddr,
 			sizeof(servaddr));

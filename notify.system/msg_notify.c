@@ -506,6 +506,11 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	HASH_ITEM *hi = 0;
 	HASH_ITEM *gr = 0;
 	HASH_ITEM *t = 0;
+	int len = 0;
+
+	if(count) {
+		*count = 0;
+	}
 
 	rc = pthread_mutex_lock(&hash_tb_mtx);
 	if(rc) {
@@ -519,15 +524,6 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 			break;
 		}
 		hi = *l;
-		if(!count) {
-			//LOG ERR
-			break;
-		}
-		*count = 0;
-		if(!hi) 	
-		{
-			break;	
-		}
 		*l = 0;
 	}
 	while(0);
@@ -536,9 +532,9 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	if(rc) {
 		//LOG FATAL
 	}
+
 	while(hi)
 	{
-		int len = 0;
 		if(hi->msg->com.ifroute == G_NTF_CLI ) {
 			iid = hi->msg->com.dev_id;
 		}
@@ -551,10 +547,6 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 		len = MIN(MAX_MSG, strlen(iid));
 		index = hash_func(iid, len);		
 		gr = (HASH_ITEM*) list_reg_dev[index].group;
-
-		fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, devid: %s\n\n\n",
-			 __FUNCTION__, __LINE__, hi, gr, iid);
-
 		if(!gr) {
 			//NOT found in registed list.
 			err=1;
@@ -577,7 +569,9 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 		DUM_IPV4(&(t->ipv4));
 		sendto(sockfd, (const char *)hi->msg, sizeof(MSG_COMMON),
 			MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
-		(*count)++;
+		if(count) {
+			(*count)++;
+		}
 		t = hi;
 		hi = hi->next;
 		if(clear) {
