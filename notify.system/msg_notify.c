@@ -5,7 +5,6 @@
 #include <pthread.h>
 
 static pthread_mutex_t hash_tb_mtx = PTHREAD_MUTEX_INITIALIZER; 
-static pthread_mutex_t hash_tb_notifier_mtx = PTHREAD_MUTEX_INITIALIZER; 
 
 int uint64_2_arr(unsigned char *arr, uint64_t n, int sz)
 {
@@ -123,15 +122,15 @@ unsigned int hash_func(char *id, int n)
 }
 
 
-void dum_ipv4(struct sockaddr_in *addr, int line) {
+void dum_ipv4(struct sockaddr_in *addr, const char *f, const char *fu, int line) {
 	char buff[1024];
 	char str[INET_ADDRSTRLEN + 1];
 	int n = 0;
 	memset(buff, 0, sizeof(buff));	
 	str[INET_ADDRSTRLEN] = 0;
 	inet_ntop(AF_INET, &(addr->sin_addr), str, INET_ADDRSTRLEN);
-	sprintf(buff, "func: %s, line: %d, cli port: %d, IP: %s.", 
-		__FUNCTION__, line, (int) addr->sin_port, str);
+	sprintf(buff, "File: %s, func: %s, line: %d, cli port: %d, IP: %s.", 
+		f, fu, line, (int) addr->sin_port, str);
 	LOG(LOG_INFO, buff);
 }
 
@@ -189,13 +188,12 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 				break;
 			}
 
-			//hitem = malloc(sizeof(HASH_ITEM));
 			MY_MALLOC(hitem, sizeof(HASH_ITEM));
 			if(!hitem) {
 				//LOG FATAL
+				break;
 			}
 			memset(hitem, 0, sizeof(HASH_ITEM));		
-			//hitem->msg = malloc(n);
 			MY_MALLOC(hitem->msg ,sizeof(HASH_ITEM));
 			memset(hitem->msg, 0, n);
 			memcpy(hitem->msg, (char*) msg, n);
@@ -211,10 +209,15 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 			MY_MALLOC( hitem, sizeof(HASH_ITEM));
 			if(!hitem) {
 				//LOG FATAL
+				break;
 			}
 			memset(hitem, 0, sizeof(HASH_ITEM));		
 			//hitem->msg = malloc(n);
 			MY_MALLOC( hitem->msg, n);
+			if(!hitem->msg) {
+				//LOG FATAL
+				break;
+			}
 			memset(hitem->msg, 0, n);
 			memcpy(hitem->msg, (char*) msg, n);
 			
@@ -293,7 +296,7 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 			//Update route path
 			fprintf(stdout, "============ line: %d, Update route path, device id: %s.\n\n", __LINE__, hitem->msg->com.dev_id);
 			hitem->ipv4 = *addr;
-			dum_ipv4(&(hitem->ipv4), __LINE__);
+			DUM_IPV4(&(hitem->ipv4));
 			res = 1;
 		}
 	}
@@ -312,14 +315,13 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 	int rc = 0;
 	HASH_ITEM *hi = 0;
 
-	fprintf(stdout, "func: %s, line: %d, hi: %p\n\n", __FUNCTION__, __LINE__, hi);
 	do {
 		if(!l) {
 			err = 1;
 			//LOG ERROR
 			break;
 		}
-		hi = malloc(sizeof(HASH_ITEM));	
+		MY_MALLOC(hi, sizeof(HASH_ITEM));
 		if(!hi) {
 			//LOG_FATAL
 			err = 1;
@@ -327,7 +329,8 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 		}
 		n = MAX(sz, sizeof(MSG_NOTIFY));
 		memset(hi, 0, sizeof(HASH_ITEM));
-		hi->msg = malloc(n);
+		//hi->msg = malloc(n);
+		MY_MALLOC(hi->msg, n);
 		if(!hi->msg) {
 			//LOG FATAL
 			break;
@@ -354,154 +357,8 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 		}
 	}	
 	while(0);
-	fprintf(stdout, "===========func: %s, line: %d, hi: %p\n\n", __FUNCTION__, __LINE__, hi);
 	return err;
 }
-
-//int add_to_notify_list(MSG_NOTIFY *msg, int sz) {
-//	int err = 0;
-//	int n = 0;
-//	int rc = 0;
-//	HASH_ITEM *hi = 0;
-//
-//	fprintf(stdout, "func: %s, line: %d, hi: %p\n\n", __FUNCTION__, __LINE__, hi);
-//	do {
-//		hi = malloc(sizeof(HASH_ITEM));	
-//		if(!hi) {
-//			//LOG_FATAL
-//			err = 1;
-//			break;
-//		}
-//		n = MAX(sz, sizeof(MSG_NOTIFY));
-//		memset(hi, 0, sizeof(HASH_ITEM));
-//		hi->msg = malloc(n);
-//		if(!hi->msg) {
-//			//LOG FATAL
-//			break;
-//		}
-//		memset(hi->msg, 0, n);
-//		memcpy(hi->msg, (char*) msg, n);
-//
-//		rc = pthread_mutex_lock(&hash_tb_mtx);
-//		//>>>>>>
-//		if(rc) {
-//			//LOG FATAL
-//		}
-//		if(!notified_list) {
-//			notified_list = hi;
-//		}
-//		else {
-//			hi->next = (void*)notified_list;
-//			notified_list = hi;
-//		}
-//		//<<<<<<
-//		rc = pthread_mutex_unlock(&hash_tb_mtx);
-//		if(rc) {
-//			//LOG FATAL
-//		}
-//	}	
-//	while(0);
-//	fprintf(stdout, "===========func: %s, line: %d, hi: %p\n\n", __FUNCTION__, __LINE__, hi);
-//	return err;
-//}
-
-//typedef struct {
-//	int n;
-//	void *group;
-//} HASH_LIST;
-
-//typedef struct __HASH_ITEM {
-//	struct sockaddr_in ipv4;
-//	struct sockaddr_in6 ipv6;
-//	MSG_NOTIFY *msg;
-//	struct __HASH_ITEM *next;
-//} HASH_ITEM;
-
-//typedef struct {
-////0: Registering message
-////1: Tracking msg 
-////2: Notifying msg 
-////3: Confirming msg 
-//	unsigned char type;
-//	char dev_id[LEN_DEVID];
-//	unsigned char second[LEN_U64INT];
-//	unsigned char nano[LEN_U64INT];
-//	unsigned char len[LEN_U32INT];
-//} MSG_COMMON;
-//
-//int notify_to_client(int sockfd, int *count) {
-//	int err = 0;
-//	int rc = 0;
-//	int index = 0;
-//	char *devid = 0;
-//	HASH_ITEM *hi = 0;
-//	HASH_ITEM *gr = 0;
-//
-//	rc = pthread_mutex_lock(&hash_tb_mtx);
-//	if(rc) {
-//		//LOG FATAL
-//	}
-//	//>>>>>>>
-//	do {
-//		hi = notified_list;
-//		if(!count) {
-//			//LOG ERR
-//			break;
-//		}
-//		if(!hi) 	
-//		{
-//			break;	
-//		}
-//		while(hi)
-//		{
-//			HASH_ITEM *t = 0;
-//			int len = 0;
-//			devid = hi->msg->com.dev_id;
-//			len = MIN(MAX_MSG, strlen(devid));
-//			index = hash_func(devid, len);		
-//			gr = (HASH_ITEM*) list_reg_dev[index].group;
-//
-//			fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, devid: %s\n\n\n",
-//				 __FUNCTION__, __LINE__, hi, gr, devid);
-//			if(!gr) {
-//				//NOT found in registed list.
-//				err=1;
-//				//E_NOT_IN_REG
-//				break;
-//			}
-//			while(gr) {
-//				if(strncmp(devid, gr->msg->com.dev_id, LEN_DEVID) == 0) {
-//					t = gr;
-//					break;		
-//				}
-//				gr = gr->next;
-//			}
-//			if(!t) {
-//				//NOT found in registed list.
-//				err = 1;
-//				//E_NOT_IN_REG
-//				break;
-//			}
-//			fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, t: %p,devid: %s\n\n\n",
-//				 __FUNCTION__, __LINE__, hi, gr, t, devid);
-//			dum_ipv4(&(t->ipv4), __LINE__);
-//			//haha	
-////		Prepare list should be done, that will be better. ntthuan: NOT DONE
-//			sendto(sockfd, (const char *)hi->msg, sizeof(MSG_COMMON),
-//				MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
-//			(*count)++;
-//			hi = hi->next;
-//		}
-//	}
-//	while(0);
-//	//<<<<<<<
-//	rc = pthread_mutex_unlock(&hash_tb_mtx);
-//	if(rc) {
-//		//LOG FATAL
-//	}
-//	return err;
-//}
-
 
 //2023-04-26
 void put_time_to_msg( MSG_COMMON *msg, struct timespec *t)
@@ -522,8 +379,6 @@ void put_time_to_msg( MSG_COMMON *msg, struct timespec *t)
 	}
 	while(0);
 }
-
-#define DUM_MSG(i) dum_msg(i, __FILE__, __FUNCTION__ ,__LINE__)
 
 void dum_msg(MSG_COMMON *item, const char *f, const char *fu, int line)
 {
@@ -572,78 +427,6 @@ void dum_msg(MSG_COMMON *item, const char *f, const char *fu, int line)
 	LOG(LOG_INFO, buf);	
 }
 
-//int rm_msg_sent(MSG_COMMON *msg)
-//{
-//	int err = 0;
-//	HASH_ITEM *hi = 0;
-//	HASH_ITEM *prev = 0;
-//	HASH_ITEM *next = 0;
-//	int i = 0, rc = 0;
-//	int found = 0;
-//
-//	fprintf(stdout, ">>>>>>>>>>: fun: %s, line: %d, left: %s, right: %s\n", __FUNCTION__, __LINE__, "---::w", msg->dev_id);
-//	rc = pthread_mutex_lock(&hash_tb_mtx);
-//	if(rc) {
-//		//LOG FATAL
-//	}
-//	//>>>>>>>
-//	do {
-//	fprintf(stdout, ">>>>>>>>>>: fun: %s, line: %d, left: %s, right: %s\n", __FUNCTION__, __LINE__, "---::w", msg->dev_id);
-//		hi = notified_list;
-//		if(!hi) {
-//			//LOG ERROR
-//			err = 1;
-//			break;
-//		}	
-//	fprintf(stdout, ">>>>>>>>>>: fun: %s, line: %d, left: %s, right: %s\n", __FUNCTION__, __LINE__, "---::w", msg->dev_id);
-//		if(!msg) {
-//			//LOG ERROR
-//			err = 1;
-//			break;
-//		}	
-//	fprintf(stdout, ">>>>>>>>>>: fun: %s, line: %d, left: %s, right: %s\n", __FUNCTION__, __LINE__, "---::w", msg->dev_id);
-//		while(hi) {
-//			int k = 0;
-//			char *devid = 0;
-//			devid = hi->msg->com.dev_id;
-//			fprintf(stdout, ">>>>>>>>>>: fun: %s, line: %d, left: %s, right: %s\n", __FUNCTION__, __LINE__, devid, msg->dev_id);
-//			k = strncmp(devid, msg->dev_id, LEN_DEVID);
-//			if(k == 0) {
-//				next = hi->next;
-//				found = 1;
-//				break;
-//			} 
-//			if(i > 0) {
-//				prev = hi;
-//			}
-//			hi = hi->next;
-//			++i;
-//		}	
-//		if(found) {
-//			if(i == 0) {
-//				notified_list = next;
-//			}
-//			else {
-//				prev->next = next;
-//			}
-//		}
-//	}
-//	while(0);	
-//	//<<<<<<<
-//	rc = pthread_mutex_unlock(&hash_tb_mtx);
-//	if(rc) {
-//		//LOG FATAL
-//	}
-//	if(found && hi) {
-//		if(hi->msg) {
-//			MY_FREE(hi->msg);
-//		}
-//		MY_FREE(hi);
-//	}		
-//	return 0;
-//}
-
-
 int load_reg_list() {
 	int ret = 0;
 	FILE *fp = 0;
@@ -670,7 +453,7 @@ int load_reg_list() {
 			//LOG ERROR
 			break;
 		}
-		data = malloc(len + 1);
+		MY_MALLOC(data, len + 1);
 		if(!data) {
 			//LOG ERROR
 			break;
@@ -705,8 +488,7 @@ int load_reg_list() {
 	}
 	while(0);
 	if(data) {
-		fprintf(stdout, "len: %llu, data: %s\n", len, data);
-		free(data);
+		MY_FREE(data);
 	}
 	if(fp) {
 		fclose(fp);
@@ -746,58 +528,7 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 		{
 			break;	
 		}
-		while(hi)
-		{
-			int len = 0;
-			if(hi->msg->com.ifroute == G_NTF_CLI ) {
-				iid = hi->msg->com.dev_id;
-			}
-			else if(hi->msg->com.ifroute == G_CLI_NTF ) {
-				iid = hi->msg->com.ntf_id;
-			}
-			else {
-				break;
-			}
-			len = MIN(MAX_MSG, strlen(iid));
-			index = hash_func(iid, len);		
-			gr = (HASH_ITEM*) list_reg_dev[index].group;
-
-			fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, devid: %s\n\n\n",
-				 __FUNCTION__, __LINE__, hi, gr, iid);
-			if(!gr) {
-				//NOT found in registed list.
-				err=1;
-				//E_NOT_IN_REG
-				break;
-			}
-			while(gr) {
-				if(strncmp(iid, gr->msg->com.dev_id, LEN_DEVID) == 0) {
-					t = gr;
-					break;		
-				}
-				gr = gr->next;
-			}
-			if(!t) {
-				//NOT found in registed list.
-				err = 1;
-				//E_NOT_IN_REG
-				break;
-			}
-			fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, t: %p,devid: %s\n\n\n",
-				 __FUNCTION__, __LINE__, hi, gr, t, iid);
-			dum_ipv4(&(t->ipv4), __LINE__);
-			//Prepare list should be done, that will be better. ntthuan: NOT DONE
-			sendto(sockfd, (const char *)hi->msg, sizeof(MSG_COMMON),
-				MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
-			(*count)++;
-			t = hi;
-			hi = hi->next;
-			if(clear) {
-				free(t->msg);
-				free(t);
-				*l = hi;
-			}
-		}
+		*l = 0;
 	}
 	while(0);
 	//<<<<<<<
@@ -805,20 +536,59 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	if(rc) {
 		//LOG FATAL
 	}
+	while(hi)
+	{
+		int len = 0;
+		if(hi->msg->com.ifroute == G_NTF_CLI ) {
+			iid = hi->msg->com.dev_id;
+		}
+		else if(hi->msg->com.ifroute == G_CLI_NTF ) {
+			iid = hi->msg->com.ntf_id;
+		}
+		else {
+			break;
+		}
+		len = MIN(MAX_MSG, strlen(iid));
+		index = hash_func(iid, len);		
+		gr = (HASH_ITEM*) list_reg_dev[index].group;
+
+		fprintf(stdout, "===========func: %s, line: %d, hi: %p, gr: %p, devid: %s\n\n\n",
+			 __FUNCTION__, __LINE__, hi, gr, iid);
+
+		if(!gr) {
+			//NOT found in registed list.
+			err=1;
+			//E_NOT_IN_REG
+			break;
+		}
+		while(gr) {
+			if(strncmp(iid, gr->msg->com.dev_id, LEN_DEVID) == 0) {
+				t = gr;
+				break;		
+			}
+			gr = gr->next;
+		}
+		if(!t) {
+			//NOT found in registed list.
+			err = 1;
+			//E_NOT_IN_REG
+			break;
+		}
+		DUM_IPV4(&(t->ipv4));
+		sendto(sockfd, (const char *)hi->msg, sizeof(MSG_COMMON),
+			MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
+		(*count)++;
+		t = hi;
+		hi = hi->next;
+		if(clear) {
+			MY_FREE(t->msg);
+			MY_FREE(t);
+		}
+	}
 	return err;
 }
 
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
-HASH_LIST list_reg_notifier[HASH_SIZE + 1];
-
-//HASH_ITEM *notified_list = 0;
-
 HASH_ITEM *imd_fwd_lt = 0;
 
 
-//After receiving a message, include MSG_REG, except MSG_TRA:
-//1. Get current time
-//2. Put current time to the message
-//3. Update current time into the hash list
-//4. Put the message to the "notified list"
-//5. Send message to a specific device

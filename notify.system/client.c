@@ -16,6 +16,7 @@ const char *id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
 int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *);
 int send_msg_fb(int sockfd, struct sockaddr_in* addr, MSG_COMMON *msg);
+
 void client() {
 	
 }
@@ -84,7 +85,7 @@ int main(int argc, char *argv[]) {
 			if(msg->ifroute == G_NTF_CLI) {
 				fprintf(stdout, "\n++++++++++++\n");
 				DUM_MSG(msg); 
-				dum_ipv4(&fbaddr, __LINE__);
+				DUM_IPV4(&fbaddr);
 				msg->ifroute = G_CLI_NTF;
 				memset(msg->len, 0, LEN_U16INT);
 				send_msg_fb(sockfd, &servaddr, msg);

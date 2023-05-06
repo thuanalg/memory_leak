@@ -179,7 +179,7 @@ void *sending_routine_thread(void *arg)
 			}
 			//LOG OK
 			if(n > 0 && cliaddr.sin_family == AF_INET) {
-				dum_ipv4(&cliaddr, __LINE__);
+				DUM_IPV4(&cliaddr);
 			}
 			break;
 		}
@@ -298,7 +298,7 @@ int main(int argc, char *argv[]) {
 
 		fprintf(stdout, "line:%d, recv n: %d\n", __LINE__, n);
 		if(n > 0 && cliaddr.sin_family == AF_INET) {
-			dum_ipv4(&cliaddr, __LINE__);
+			DUM_IPV4(&cliaddr);
 		}
 	}	
 	err = close(sockfd);
