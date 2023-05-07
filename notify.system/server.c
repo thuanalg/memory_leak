@@ -189,7 +189,7 @@ void *sending_routine_thread(void *arg)
 	err = close(sockfd);
 	if(err)
 	{
-		fprintf(stdout, "close socket error.\n");
+		LOG(LOG_ERR, "close socket error.\n");
 	}
 	return 0;
 }
@@ -202,7 +202,6 @@ pthread_t sending_thread(void *arg)
 	int rc = 0;
 
 	rc = pthread_create(&ptid, 0, sending_routine_thread, arg);
-	fprintf(stdout, "f: %s, rc: %d, ptid: %llu\n", __FUNCTION__, rc, ptid);
 	if(!rc) {
 		read_threadid = ptid;
 	}
@@ -283,9 +282,6 @@ int main(int argc, char *argv[]) {
 				MSG_NOTIFY *p = (MSG_NOTIFY *) msg;
 				memset(buf, 0, sizeof(buf));
 				arr_2_uint16( msg->len, &k, 2);			
-				fprintf(stdout, "file: %s, line: %d, len data: %u\n", __FILE__, __LINE__, k);
-				fprintf(stdout, "file: %s, line: %d, data: %s\n", __FILE__, __LINE__, p->data);
-
 				//Add to immediate forward list
 				add_to_imd_fwd( p, &imd_fwd_lt, n);
 				err = pthread_kill( read_threadid, USER_SIG);
@@ -296,7 +292,6 @@ int main(int argc, char *argv[]) {
 			}
 		}
 
-		fprintf(stdout, "line:%d, recv n: %d\n", __LINE__, n);
 		if(n > 0 && cliaddr.sin_family == AF_INET) {
 			DUM_IPV4(&cliaddr);
 		}
@@ -304,7 +299,7 @@ int main(int argc, char *argv[]) {
 	err = close(sockfd);
 	if(err)
 	{
-		fprintf(stdout, "close fd error: %d", err);
+		LOG(LOG_ERR, "close fd error: %d", err);
 	}	
 	sleep(1);
 	closelog ();

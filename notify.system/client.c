@@ -10,11 +10,9 @@
 #include <arpa/inet.h>
 #include "msg_notify.h"
 	
-#define PORT	 9090
 #define MAXLINE 1024
 const char *id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
-int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *);
 int send_msg_fb(int sockfd, struct sockaddr_in* addr, MSG_COMMON *msg);
 
 void client() {
@@ -62,28 +60,26 @@ int main(int argc, char *argv[]) {
 	servaddr.sin_port = htons(PORT);
 		
 	int n = 0, len = sizeof(servaddr);
-	send_msg_track(sockfd, &servaddr, &t0);
+	send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
 	while(1) {
 		usleep(10 * 1000);
 		clock_gettime(CLOCK_REALTIME, &t1);
 		if(t1.tv_sec - t0.tv_sec > INTER_TRACK) {
 			t0 = t1;
-			send_msg_track(sockfd, &servaddr, &t1);
+			send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
 		}
 		len = sizeof(servaddr);
 		memset(buffer, 0, sizeof(buffer));
-		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
+		n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
 					MSG_WAITALL, (struct sockaddr *) &servaddr,
 					&len);
 		if(n < 1 ) {
 			continue;
 		}
-		fprintf(stdout, "=========== n receive: %d\n");
 		if(n >= sizeof(MSG_COMMON) && fbaddr.sin_family == AF_INET) {
 			MSG_COMMON *msg = (MSG_COMMON *) buffer;
 
 			if(msg->ifroute == G_NTF_CLI) {
-				fprintf(stdout, "\n++++++++++++\n");
 				DUM_MSG(msg); 
 				DUM_IPV4(&fbaddr);
 				msg->ifroute = G_CLI_NTF;
@@ -98,34 +94,6 @@ int main(int argc, char *argv[]) {
 	}
 	closelog();
 	return 0;
-}
-
-
-int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *t) {
-	MSG_NOTIFY msg;
-	char buff[1501];
-	int n = 0;
-	do {
-		if(!t) break;
-		if(!addr) break;
-		fprintf(stdout, "\ntv_sec: %llu\n\n", t->tv_sec);
-
-		memset(&msg, 0, sizeof(msg));
-		msg.com.type = MSG_TRA;
-		memcpy(msg.com.dev_id, id, LEN_DEVID);
-		
-		memset(buff, 0, 1501);
-		memcpy(buff, (char*) &msg, sizeof(msg));
-		
-		addr->sin_port = htons(PORT + 1);
-		n = sendto(sockfd, buff, sizeof(msg),
-			MSG_CONFIRM, (const struct sockaddr *) addr,
-				sizeof(*addr));
-		printf("line: %d, Send tracking message: n: %d.\n", __LINE__, n);
-	}
-	while(0);
-	return 0;
-
 }
 
 int send_msg_fb(int sockfd, struct sockaddr_in* addr, MSG_COMMON *msg) {

@@ -15,7 +15,6 @@
 const char *id = "ed628094-63f3-452a-91c8-3ae24f281dd2";
 char *dev_id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
-int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *);
 
 void notifier(char *ip, int sockfd) {
 	int sz = MAX_MSG;
@@ -26,7 +25,6 @@ void notifier(char *ip, int sockfd) {
 	char buf [2];
 
 	clock_gettime(CLOCK_REALTIME, &t);
-
 	memset(&servaddr, 0, sizeof(servaddr));
 	servaddr.sin_family = AF_INET;
 	servaddr.sin_addr.s_addr = inet_addr(ip);
@@ -48,14 +46,6 @@ void notifier(char *ip, int sockfd) {
 	uint64_2_arr(msg->com.second, t.tv_sec, 8);
 	uint64_2_arr(msg->com.nano, t.tv_nsec, 8);
 
-
-/*	
-int uint32_2_arr(unsigned char *arr, uint32_t , int sz);
-int arr_2_uint32(unsigned char *arr, uint32_t *n, int sz);
-int uint16_2_arr(unsigned char *arr, uint16_t , int sz);
-int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz);
-*/
-	//len = sizeof(servaddr);
 	DUM_MSG(&(msg->com));
 	n = sendto(sockfd, (char *)msg, MAX_MSG,
 		MSG_CONFIRM, (const struct sockaddr *) &servaddr,
@@ -100,7 +90,7 @@ int main(int argc, char *argv[]) {
 	servaddr.sin_port = htons(PORT);
 		
 	int n = 0, len = sizeof(servaddr);
-	send_msg_track(sockfd, &servaddr, &t0);
+	send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
 	notifier(argv[1], sockfd);
 	while(1) {
 		usleep(100 * 1000);
@@ -111,13 +101,13 @@ int main(int argc, char *argv[]) {
 				break;
 			}
 			t0 = t1;
-			send_msg_track(sockfd, &servaddr, &t1);
+			send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
 			notifier(argv[1], sockfd);
 			++count;
 		}
 		len = sizeof(servaddr);
 		memset(buffer, 0, sizeof(buffer));
-		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
+		n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
 					MSG_WAITALL, (struct sockaddr *) &servaddr,
 					&len);
 
@@ -134,34 +124,5 @@ int main(int argc, char *argv[]) {
 	close(sockfd);
 	closelog();
 	return 0;
-}
-
-
-int send_msg_track(int sockfd, struct sockaddr_in* addr, struct timespec *t) {
-
-	MSG_NOTIFY msg;
-	char buff[1501];
-	int n = 0;
-	do {
-		if(!t) break;
-		if(!addr) break;
-		fprintf(stdout, "\ntv_sec: %llu\n\n", t->tv_sec);
-
-		memset(&msg, 0, sizeof(msg));
-		msg.com.type = MSG_TRA;
-		memcpy(msg.com.dev_id, id, LEN_DEVID);
-		
-		memset(buff, 0, 1501);
-		memcpy(buff, (char*) &msg, sizeof(msg));
-		
-		addr->sin_port = htons(PORT + 1);
-		n = sendto(sockfd, buff, sizeof(msg),
-			MSG_CONFIRM, (const struct sockaddr *) addr,
-				sizeof(*addr));
-		printf("line: %d, Send tracking message: n: %d.\n", __LINE__, n);
-	}
-	while(0);
-	return 0;
-
 }
 

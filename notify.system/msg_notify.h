@@ -13,6 +13,7 @@
 #include <time.h>
 #include <syslog.h>
 
+#define PORT	 9090
 
 #define MY_MALLOC(p, n) {p=malloc(n);syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d\n", __FILE__, __FUNCTION__, __LINE__, p, (n)); }
 #define MY_FREE(p) {free(p);syslog(LOG_INFO, "- File: %s, func: %s, line: %d, free p: %p\n", __FILE__, __FUNCTION__, __LINE__, p);}
@@ -63,7 +64,7 @@ typedef struct {
 //1: Tracking msg 
 //2: Notifying msg 
 //3: Confirming msg 
-	unsigned char type; //MSG_ENUM
+	unsigned char type;
 	unsigned char ifroute;
 	char dev_id[LEN_DEVID];
 	//notifier ID
@@ -114,7 +115,6 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *);
 //0: error, 1: done
 int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in*, int type);
 
-//int add_to_notify_list(MSG_NOTIFY *msg, int sz);
 int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz);
 #define  add_to_imd_fwd 		add_to_item_list
 //sk: socket
@@ -133,7 +133,8 @@ extern HASH_LIST list_reg_notifier[HASH_SIZE + 1];
 
 extern HASH_ITEM *notified_list;
 
-
+//20230507
+int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct timespec *t);
 
 extern HASH_ITEM *imd_fwd_lt;
 

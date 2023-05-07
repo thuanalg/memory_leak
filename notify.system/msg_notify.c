@@ -170,8 +170,7 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 			hitem = hi->group;
 			while(hitem)
 			{
-				int k = strncmp(com->dev_id, hitem->msg->com.dev_id, 64);
-				fprintf(stdout, "\n\nkkkkkkk: %d, id: %s, id_old: %s\n\n", k, com->dev_id, hitem->msg->com.dev_id);
+				int k = strncmp(com->dev_id, hitem->msg->com.dev_id, LEN_DEVID);
 				put_time_to_msg(com, t);
 				if(!k)
 				{
@@ -254,8 +253,6 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 	hn = hash_func(com->dev_id, len);
 	hi = &(hash_table[hn]);
 
-	fprintf(stdout, "============ Func: %s, line: %d, Update route path, device id: %s.\n\n", 	
-		__FUNCTION__, __LINE__, msg->com.dev_id);
 	rc = pthread_mutex_lock(mtx);
 	if(rc) {
 		//LOG FATAL
@@ -277,8 +274,7 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 			hitem = hi->group;
 			while(hitem)
 			{
-				int k = strncmp(com->dev_id, hitem->msg->com.dev_id, 64);
-				fprintf(stdout, "\n\nkkkkkkk: %d, id: %s, id_old: %s\n\n", k, com->dev_id, hitem->msg->com.dev_id);
+				int k = strncmp(com->dev_id, hitem->msg->com.dev_id, LEN_DEVID);
 				if(!k)
 				{
 					found = 1;
@@ -290,11 +286,10 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 			}
 			if(!found)
 			{
-				fprintf(stdout, "Not found device!\n");
+				LOG(LOG_ERR, "Not found device ID");
 				break;
 			}
 			//Update route path
-			fprintf(stdout, "============ line: %d, Update route path, device id: %s.\n\n", __LINE__, hitem->msg->com.dev_id);
 			hitem->ipv4 = *addr;
 			DUM_IPV4(&(hitem->ipv4));
 			res = 1;
@@ -446,7 +441,6 @@ int load_reg_list() {
 			//LOG ERROR
 			break;
 		}	
-		fprintf(stdout, "fp: %p\n", fp);
 		fseek(fp, 0, SEEK_END);
 		len = ftell(fp);
 		if(len < 1) {
@@ -477,7 +471,6 @@ int load_reg_list() {
 		pch = strtok(data, "\r\n");
 		while(pch) {
 			if(strlen(pch) > 30) {
-				fprintf(stdout, "device_id: %s\n", pch);
 				memset(&msg, 0, sz);
 				memcpy(msg.com.dev_id, pch, LEN_DEVID);
 				clock_gettime(CLOCK_REALTIME, &t);
@@ -581,6 +574,44 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	}
 	return err;
 }
+
+
+int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct timespec *t) {
+
+	MSG_COMMON msg;
+	struct sockaddr_in addr;
+	int n = 0;
+
+	memset(&addr, 0, sizeof(addr));
+	addr.sin_family = AF_INET;
+	addr.sin_addr.s_addr = inet_addr(ipaddr);
+	addr.sin_port = htons(PORT + 1);
+
+	do {
+		if(!t) {
+			break;
+		}
+		if(!iid) {
+			break;
+		}
+		if(!ipaddr) { 
+			break;
+		}
+		put_time_to_msg( &msg, t);
+		memset(&msg, 0, sizeof(msg));
+		msg.type = MSG_TRA;
+		memcpy(msg.dev_id, iid, LEN_DEVID);
+		addr.sin_port = htons(port);
+
+		n = sendto(sockfd, &msg, sizeof(msg),
+			MSG_CONFIRM, (const struct sockaddr *) &addr,
+				sizeof(addr));
+	}
+	while(0);
+	return n;
+
+}
+
 
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
 HASH_ITEM *imd_fwd_lt = 0;
