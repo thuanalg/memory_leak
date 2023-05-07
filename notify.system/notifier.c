@@ -59,11 +59,8 @@ int main(int argc, char *argv[]) {
 	char buffer[MAXLINE];
 	struct timespec t0 = {0};
 	struct timespec t1 = {0};
-	char *hello = "Hello from client";
 	struct sockaddr_in	 servaddr;
-	struct sockaddr_in	 fbaddr;
 	int val = 1;
-	int sz = (int) sizeof(MSG_COMMON);
 	int count = 0;
 	
 	setlogmask (LOG_UPTO (LOG_INFO));
@@ -114,10 +111,10 @@ int main(int argc, char *argv[]) {
 		if(n < 1 ) {
 			continue;
 		}
-		fprintf(stdout, "=========== n receive: %d, \n", n);
 		if(n >= sizeof(MSG_COMMON)) {
 			MSG_COMMON *msg = (MSG_COMMON *) buffer;
 			DUM_MSG(msg); 
+			fprintf(stdout, "recv: %d\n", n);
 			break;
 		}
 	}

@@ -125,7 +125,6 @@ unsigned int hash_func(char *id, int n)
 void dum_ipv4(struct sockaddr_in *addr, const char *f, const char *fu, int line) {
 	char buff[1024];
 	char str[INET_ADDRSTRLEN + 1];
-	int n = 0;
 	memset(buff, 0, sizeof(buff));	
 	str[INET_ADDRSTRLEN] = 0;
 	inet_ntop(AF_INET, &(addr->sin_addr), str, INET_ADDRSTRLEN);
@@ -143,13 +142,11 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 	MSG_COMMON *com = 0;
 	HASH_ITEM *hitem = 0;
 	int rc = 0;
-	char *devid;
 	int len = 0;
 
 	com = &(msg->com);
 	len = MIN(MAX_MSG, strlen(com->dev_id));
 	hn = hash_func(com->dev_id, len);
-	fprintf(stdout, "hn: %llu, devid: %s\n", hn, com->dev_id);
 	hi = &(list_reg_dev[hn]);
 	
 	rc = pthread_mutex_lock(&hash_tb_mtx);
@@ -431,9 +428,8 @@ int load_reg_list() {
 	char *data = 0;
 	do {
 		char *pch = 0;
-		MSG_REGISTER msg;
+		MSG_DATA msg;
 		struct timespec t = { 0 }; 
-		int ret = 0;
 		int sz = (int) sizeof(MSG_REGISTER);
 
 		fp = fopen("list_dev_id.h", "r");

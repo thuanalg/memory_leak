@@ -25,12 +25,10 @@ int main(int argc, char *argv[]) {
 	char buffer[MAXLINE];
 	struct timespec t0 = {0};
 	struct timespec t1 = {0};
-	char *hello = "Hello from client";
 	struct sockaddr_in	 servaddr;
 	struct sockaddr_in	 fbaddr;
 	int val = 1;
 	int err = 0;
-	int sz = (int) sizeof(MSG_COMMON);
 	
 
 	setlogmask (LOG_UPTO (LOG_INFO));

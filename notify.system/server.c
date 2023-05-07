@@ -107,15 +107,13 @@ void handler(int signo, siginfo_t *info, void *context)
 
 void *sending_routine_thread(void *arg)
 {
-	pthread_t ptid = 0;
-	char *data = 0, buffer[MAXLINE+1];
-	int rc = 0;
+	char  buffer[MAXLINE+1];
 	struct sockaddr_in servaddr, cliaddr;
 	int sockfd = 0;
 	int n, err;
 	int val = 1;
 	int c = 0;
-	struct timespec t0, t1;
+	struct timespec t0;
 	clock_gettime(CLOCK_REALTIME, &t0);
 
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
@@ -141,8 +139,6 @@ void *sending_routine_thread(void *arg)
 	
 	while(1)
 	{
-		int rc = 0; 
-		int i = 0;
 		int len = 0;
 		int zcom = (int) sizeof(MSG_COMMON);
 		MSG_COMMON *msg = 0;
@@ -150,7 +146,7 @@ void *sending_routine_thread(void *arg)
 		memset(buffer, 0, sizeof(buffer));
 		len = sizeof(cliaddr);	
 		memset(buffer, 0, sizeof(buffer));
-		n = recvfrom(sockfd, (char *)buffer, MAXLINE,
+		n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
 			MSG_DONTWAIT, ( struct sockaddr *) &cliaddr,	&len);
 		//S2 socket
 		if(n < 1)
@@ -215,10 +211,10 @@ void server() {
 int main(int argc, char *argv[]) {
 	int sockfd;
 	char buffer[MAX_MSG + 1];
-	char *hello = "Hello from server";
 	struct sockaddr_in servaddr, cliaddr;
 	int val = 1;
 	int count = 0;
+	int len, n, err;
 
 	setlogmask (LOG_UPTO (LOG_INFO));
 	openlog ("zserver_notify", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
@@ -255,7 +251,6 @@ int main(int argc, char *argv[]) {
 		exit(EXIT_FAILURE);
 	}
 		
-	int len, n, err, signaling, rc;
 	
 	len = sizeof(cliaddr); //len is value/result
 	while(!is_stop_server) {
