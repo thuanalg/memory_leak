@@ -50,13 +50,13 @@ int main(int argc, char *argv[]) {
 			exit(EXIT_FAILURE);
 		}	
 		memset(&servaddr, 0, sizeof(servaddr));
-	/*		
+			
 		// Filling server information
 		servaddr.sin_family = AF_INET;
 		//servaddr.sin_addr.s_addr = INADDR_ANY;
 		servaddr.sin_addr.s_addr = inet_addr(argv[1]);
-		servaddr.sin_port = htons(PORT + 1);
-	*/
+		servaddr.sin_port = htons(PORT );
+	
 //		servaddr.sin_family = AF_INET; // IPv4
 //		servaddr.sin_addr.s_addr = INADDR_ANY;
 //		servaddr.sin_port = htons(PORT + 100);
