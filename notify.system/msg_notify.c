@@ -129,7 +129,8 @@ void dum_ipv4(struct sockaddr_in *addr, const char *f, const char *fu, int line)
 	str[INET_ADDRSTRLEN] = 0;
 	inet_ntop(AF_INET, &(addr->sin_addr), str, INET_ADDRSTRLEN);
 	sprintf(buff, "File: %s, func: %s, line: %d, cli port: %d, IP: %s.", 
-		f, fu, line, (int) addr->sin_port, str);
+		f, fu, line, (int) htons(addr->sin_port), str);
+//	fprintf(stdout, "%s\n", buff);
 	LOG(LOG_INFO, buff);
 }
 
@@ -189,9 +190,7 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 				//LOG FATAL
 				break;
 			}
-			memset(hitem, 0, sizeof(HASH_ITEM));		
 			MY_MALLOC(hitem->msg ,sizeof(HASH_ITEM));
-			memset(hitem->msg, 0, n);
 			memcpy(hitem->msg, (char*) msg, n);
 			
 			hi->n += 1;
@@ -201,20 +200,16 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 			break;
 		}
 		else {
-			//hitem = malloc(sizeof(HASH_ITEM));
 			MY_MALLOC( hitem, sizeof(HASH_ITEM));
 			if(!hitem) {
 				//LOG FATAL
 				break;
 			}
-			memset(hitem, 0, sizeof(HASH_ITEM));		
-			//hitem->msg = malloc(n);
 			MY_MALLOC( hitem->msg, n);
 			if(!hitem->msg) {
 				//LOG FATAL
 				break;
 			}
-			memset(hitem->msg, 0, n);
 			memcpy(hitem->msg, (char*) msg, n);
 			
 			hi->n = 1;
@@ -319,16 +314,16 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 			err = 1;
 			break;
 		}
-		n = MAX(sz, sizeof(MSG_NOTIFY));
-		memset(hi, 0, sizeof(HASH_ITEM));
-		//hi->msg = malloc(n);
+		//n = MAX(sz, sizeof(MSG_NOTIFY));
+		n = sz;
 		MY_MALLOC(hi->msg, n);
 		if(!hi->msg) {
 			//LOG FATAL
 			break;
 		}
-		memset(hi->msg, 0, n);
 		memcpy(hi->msg, (char*) msg, n);
+		hi->n_msg = n;
+		fprintf(stdout, "set hi->n_msg: %d\n", hi->n_msg);
 
 		rc = pthread_mutex_lock(&hash_tb_mtx);
 		//>>>>>>
@@ -496,6 +491,7 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	HASH_ITEM *gr = 0;
 	HASH_ITEM *t = 0;
 	int len = 0;
+	int sn = 0;
 
 	if(count) {
 		*count = 0;
@@ -521,9 +517,9 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	if(rc) {
 		//LOG FATAL
 	}
-
 	while(hi)
 	{
+		fprintf(stdout, "error No item\n");
 		if(hi->msg->com.ifroute == G_NTF_CLI ) {
 			iid = hi->msg->com.dev_id;
 		}
@@ -556,8 +552,10 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 			break;
 		}
 		DUM_IPV4(&(t->ipv4));
-		sendto(sockfd, (const char *)hi->msg, sizeof(MSG_COMMON),
+		//fprintf(stdout, "get hi->n_msg: %d, sizeof: %u\n", hi->n_msg, sizeof(MSG_COMMON));
+		sn = sendto(sockfd, (const char *)hi->msg, hi->n_msg,
 			MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
+		fprintf(stdout, "sn: %d\n", sn);
 		if(count) {
 			(*count)++;
 		}
@@ -577,12 +575,25 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 	MSG_COMMON msg;
 	struct sockaddr_in addr;
 	int n = 0;
+	int err = 0;
 
 	memset(&addr, 0, sizeof(addr));
 	addr.sin_family = AF_INET;
 	addr.sin_addr.s_addr = inet_addr(ipaddr);
 	addr.sin_port = htons(PORT + 1);
-
+//
+//	err = connect(sockfd, (const struct sockaddr*)&addr, sizeof(addr));
+//	if(err) {
+//		fprintf(stdout, "connect err: %d, errno: %d, text: %s\n", err, errno, strerror(errno));
+//		
+//	}
+//
+//	int on = 1;
+//	err = setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR , &on, sizeof(int));
+//	if(err) {
+//			perror("setsockopt");
+//			exit(1);
+//	}
 	do {
 		if(!t) {
 			break;
@@ -597,13 +608,17 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 		memset(&msg, 0, sizeof(msg));
 		msg.type = MSG_TRA;
 		memcpy(msg.dev_id, iid, LEN_DEVID);
-		addr.sin_port = htons(port);
 
 		n = sendto(sockfd, &msg, sizeof(msg),
 			MSG_CONFIRM, (const struct sockaddr *) &addr,
 				sizeof(addr));
+		if(n < 0) {
+			fprintf(stdout, "connect err: %d, errno: %d, text: %s\n", n, errno, strerror(errno));
+		}
+		fprintf(stdout, "tracking sent n: %d\n", n);
 	}
 	while(0);
+	//connect err: -1, errno: 88, text: Socket operation on non-socket
 	return n;
 
 }

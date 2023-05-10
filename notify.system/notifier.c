@@ -16,15 +16,20 @@ const char *id = "ed628094-63f3-452a-91c8-3ae24f281dd2";
 char *dev_id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
 
-void notifier(char *ip, int sockfd) {
+void notifier(char *ip) {
 	int sz = MAX_MSG;
 	struct sockaddr_in	 servaddr;
 	MSG_NOTIFY *msg = 0;
 	uint16_t n = 0;
 	struct timespec t;
 	char buf [2];
-
+	int sockfd = 0;
+	int err = 0;
 	clock_gettime(CLOCK_REALTIME, &t);
+	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
+		LOG(LOG_ERR, "Cannot create socket.");
+		exit(EXIT_FAILURE);
+	}
 	memset(&servaddr, 0, sizeof(servaddr));
 	servaddr.sin_family = AF_INET;
 	servaddr.sin_addr.s_addr = inet_addr(ip);
@@ -51,6 +56,10 @@ void notifier(char *ip, int sockfd) {
 		MSG_CONFIRM, (const struct sockaddr *) &servaddr,
 			sizeof(servaddr));
 	MY_FREE(msg);
+	err = close(sockfd);
+	if(err) {
+		LOG(LOG_ERR, "Close socket error.");
+	}
 }
 // Driver code
 
@@ -60,6 +69,7 @@ int main(int argc, char *argv[]) {
 	struct timespec t0 = {0};
 	struct timespec t1 = {0};
 	struct sockaddr_in	 servaddr;
+	struct sockaddr_in	 fbaddr;
 	int val = 1;
 	int count = 0;
 	
@@ -88,24 +98,26 @@ int main(int argc, char *argv[]) {
 		
 	int n = 0, len = sizeof(servaddr);
 	send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
-	notifier(argv[1], sockfd);
+	notifier(argv[1]);
 	while(1) {
 		usleep(100 * 1000);
 		clock_gettime(CLOCK_REALTIME, &t1);
 		if(t1.tv_sec - t0.tv_sec > 2) {
-			if(count > 3) {
+			//if(count > 1) {
+			if(1) {
 				LOG(LOG_ERR, "Cannot notify to CLI");
 				break;
 			}
 			t0 = t1;
 			send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
-			notifier(argv[1], sockfd);
+			notifier(argv[1]);
 			++count;
 		}
-		len = sizeof(servaddr);
+		len = sizeof(fbaddr);
 		memset(buffer, 0, sizeof(buffer));
+		memset(&fbaddr, 0, sizeof(fbaddr));
 		n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
-					MSG_WAITALL, (struct sockaddr *) &servaddr,
+					MSG_DONTWAIT, (struct sockaddr *) &fbaddr,
 					&len);
 
 		if(n < 1 ) {

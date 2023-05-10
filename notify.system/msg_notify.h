@@ -12,10 +12,11 @@
 #include <netinet/in.h>
 #include <time.h>
 #include <syslog.h>
+#include <errno.h>
 
 #define PORT	 9090
 
-#define MY_MALLOC(p, n) {p=malloc(n);syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d\n", __FILE__, __FUNCTION__, __LINE__, p, (n)); }
+#define MY_MALLOC(p, n) {(p)=malloc(n); if(p){memset(p,0,n);}syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d\n", __FILE__, __FUNCTION__, __LINE__, p, (n)); }
 #define MY_FREE(p) {free(p);syslog(LOG_INFO, "- File: %s, func: %s, line: %d, free p: %p\n", __FILE__, __FUNCTION__, __LINE__, p);}
 
 #define LOG 		syslog
@@ -31,7 +32,7 @@
 
 #define HASH_SIZE 		(10001)
 //Interval sending tracking message
-#define INTER_TRACK 	(30)
+#define INTER_TRACK 	(10)
 
 
 typedef enum {
@@ -79,6 +80,10 @@ typedef struct {
 	char data[0];
 } MSG_DATA;
 
+typedef struct {
+	int n;
+	char *crt;
+} MSG_CRT;
 
 #define MSG_NOTIFY			MSG_DATA
 #define MSG_REGISTER 		MSG_DATA
@@ -89,7 +94,9 @@ typedef struct __HASH_ITEM {
 	struct sockaddr_in ipv4;
 	struct sockaddr_in ipv4_ntfier;
 	struct sockaddr_in6 ipv6;
+	size_t n_msg;
 	MSG_NOTIFY *msg;
+	MSG_CRT *crt;
 	struct __HASH_ITEM *next;
 } HASH_ITEM;
 

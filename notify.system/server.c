@@ -117,6 +117,7 @@ void *sending_routine_thread(void *arg)
 	clock_gettime(CLOCK_REALTIME, &t0);
 
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
+	//if ( (sockfd = socket(AF_INET, SOCK_DGRAM , 0)) < 0 ) {
 		perror("socket creation failed");
 		exit(EXIT_FAILURE);
 	}
@@ -129,6 +130,12 @@ void *sending_routine_thread(void *arg)
 	servaddr.sin_addr.s_addr = INADDR_ANY;
 	servaddr.sin_port = htons(SEND_POST);
 		
+	int on = 1;
+	err = setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR, &on, sizeof(int));
+	if(err) {
+			perror("setsockopt");
+			exit(1);
+	}
 	// Bind the socket with the server address
 	if ( bind(sockfd, (const struct sockaddr *)&servaddr, sizeof(servaddr)) < 0 )
 	{
@@ -152,12 +159,13 @@ void *sending_routine_thread(void *arg)
 		if(n < 1)
 		{
 			if(!g_runnow) {
-				usleep(1000 * 100);
+				usleep(1000 * 1000);
+				//sleep(10);
 			}
 			g_runnow++;
-			g_runnow %= 7;
+			g_runnow %= 3;
 		}
-		while( n >= zcom) {
+		do {
 			msg = (MSG_COMMON*) buffer;
 			//S2
 			if(msg->type == MSG_TRA) {
@@ -178,7 +186,7 @@ void *sending_routine_thread(void *arg)
 				DUM_IPV4(&cliaddr);
 			}
 			break;
-		}
+		} while(0);
 		//Send immediate feedback list to a destination
 		send_imd_fwd(sockfd, &imd_fwd_lt, &c, 1); 
 	}
@@ -244,6 +252,12 @@ int main(int argc, char *argv[]) {
 	servaddr.sin_addr.s_addr = INADDR_ANY;
 	servaddr.sin_port = htons(RECV_POST);
 		
+	int on = 1;
+	err = setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR, &on, sizeof(int));
+	if(err) {
+			perror("setsockopt");
+			exit(1);
+	}
 	// Bind the socket with the server address
 	if ( bind(sockfd, (const struct sockaddr *)&servaddr, sizeof(servaddr)) < 0 )
 	{
@@ -258,15 +272,18 @@ int main(int argc, char *argv[]) {
 		//S1 socket 
 		memset(buffer, 0, sizeof(buffer));
 		n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
-					MSG_WAITALL, ( struct sockaddr *) &cliaddr,	&len);
+					MSG_DONTWAIT, ( struct sockaddr *) &cliaddr,	&len);
+
 		if(n < 1) {
 			//Error here
+			usleep(100 * 1000);
 			continue;
 		}
 		if( n < sizeof(MSG_COMMON)) {
 			//Error here
 			continue;
 		}
+		fprintf(stdout, "recv n: %d\n", n);
 		msg = (MSG_COMMON*) buffer;	
 		DUM_MSG(msg);
 		if(msg->ifroute == G_NTF_CLI || msg->ifroute == G_CLI_NTF) {
