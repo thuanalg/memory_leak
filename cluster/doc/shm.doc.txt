@@ -1,0 +1,22 @@
+agents:
+id, max : 4
+07, 09, name, max :32
+09, fixed_extesion, max : 4
+09, vcontext: max : 12
+09, agent_number, max : 5
+
+
+
+auto_dial_detail
+id, max : 9
+09, phone_type, max : 4
+08, application_id,
+08, customer_id,
+08, skill
+
+sip_users
+name,
+
+
+fearture_code
+feature_code

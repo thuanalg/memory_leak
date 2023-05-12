@@ -1,0 +1,134 @@
+diff --git a/A_000007_day/main.c b/A_000007_day/main.c
+index 276dcc5..1ab413c 100644
+--- a/A_000007_day/main.c
++++ b/A_000007_day/main.c
+@@ -39,11 +39,6 @@ static void lcs_hcollect_sum(char *, char *, int *err);
+ static void lcs_dgen_subtask(char *, char *, char *, int *);
+ static void lcs_dgen_config(char*, char*, char *, char*, int *);
+ 
+-static void lcs_create_shmagent(char * key, int, void *, int *);
+-static void lcs_unlink_shmagent(char * key, int *);
+-static void lcs_load_agent(int *, lcs_mmap_agents **, int *);
+-static int  lcs_exec_cb(void* data, int ncols, char** values, char** headers);
+-static int  lcs_exec_count(void* data, int ncols, char** values, char** headers);
+ /***********************************************************************************/
+ static	char 				*lcs_cfg_file = 0;
+ static	unsigned int		 lcs_arr_count[5]; 
+@@ -57,8 +52,6 @@ int main(int argc, char *argv[])
+ 	time_t t0;
+ 	time_t t1;
+ 	int count = 0;
+-	int n = 0;
+-	lcs_mmap_agents *data = 0;
+ 	if(argc < 2)
+ 	{
+ 		return EXIT_FAILURE;
+@@ -66,8 +59,6 @@ int main(int argc, char *argv[])
+ 	time(&t0);
+ 	lcs_cfg_file = argv[1];
+ 	lcs_init_app();
+-	lcs_load_agent(&n, &data, &err);
+-	return 0;
+ 	lcs_comm_subdir_ext(
+ 		lcs_info_cfg.targetpath, &arrdir, &count, &err);
+ 	if(arrdir)
+@@ -241,99 +232,3 @@ void lcs_dgen_config
+ 	fclose(fp);
+ }
+ /***********************************************************************************/
+-void lcs_create_shmagent(char * key, int n, void *datain, int *err)
+-{
+-	int i = 0;
+-	int sz = 0;
+-	int shm = 0;
+-	lcs_mmap_agents *lobj = datain;
+-	lcs_mmap_agents *mdata = 0;
+-	sz = n * sizeof(lcs_mmap_agents);
+-	do
+-	{
+-		shm = shm_open(key, O_CREAT|O_RDWR, LCS_SHM_OPEN_CREATE_MODE);	
+-		if(shm < 0)
+-		{
+-			*err = 1;
+-			break;	
+-		}
+-		ftruncate(shm, sz);
+-		mdata = ( lcs_mmap_agents *)mmap(0,
+-    		sz, PROT_READ | PROT_WRITE, MAP_SHARED, shm, 0);
+-		close(shm);	
+-		memset(mdata, 0, sz);
+-		memcpy(mdata, datain, n * sizeof(lcs_mmap_agents));
+-	}
+-	while(0);
+-	
+-}
+-/***********************************************************************************/
+-void lcs_unlink_shmagent(char * key, int *err)
+-{
+-	*err = shm_unlink(key);	
+-}
+-/***********************************************************************************/
+-void lcs_load_agent(int *n, lcs_mmap_agents **outdata, int *err)
+-{
+-	sqlite3 * conn = 0;
+-	char path[1024];
+-	char *sErrMsg = 0;
+-	char *sql = "select * from agents;";
+-	char *sqlcount = "select count(*) from agents;";
+-	LCS_SELECT_CB cb    = 0;
+-	
+-	memset(path, 0, 1024);
+-	strcat(path, "/home/ntthuan/data-backup/113.61.111.198/asterisk_demo_1day/agent/lcs.d");
+-	do
+-	{
+-		*err = sqlite3_open(path, &conn);
+-		if(*err)
+-		{
+-			fprintf(stdout, "error: %d\n", __LINE__);
+-			break;
+-		}
+-		*err = sqlite3_exec(conn, "BEGIN TRANSACTION", 0, 0, &sErrMsg);
+-		if(*err)
+-		{
+-			fprintf(stdout, "error: %d\n", __LINE__);
+-			break;
+-		}
+-		cb = lcs_exec_count;
+-		*err = sqlite3_exec(conn, sqlcount, cb, n, &sErrMsg);
+-		if(*err)
+-		{
+-			fprintf(stdout, "error: %d, err: %d\n", __LINE__, *err);
+-			break;
+-		}
+-		cb = lcs_exec_cb;
+-		*err = sqlite3_exec(conn, sql, 0, 0, &sErrMsg);
+-		if(*err)
+-		{
+-			fprintf(stdout, "error: %d, err: %d\n", __LINE__, *err);
+-			break;
+-		}
+-		*err = sqlite3_exec(conn, "END TRANSACTION", 0, 0, &sErrMsg);
+-	}
+-	while(0);
+-	if(sErrMsg)
+-	{
+-		fprintf(stdout, "sErrMsg: %s\n", sErrMsg);
+-		sqlite3_free(sErrMsg);
+-	}	
+-	if(conn)
+-	{
+-		sqlite3_close(conn);
+-	}
+-}
+-
+-/***********************************************************************************/
+-int  lcs_exec_cb(void* data, int ncols, char** values, char** headers)
+-{
+-}
+-/***********************************************************************************/
+-int  lcs_exec_count(void* data, int ncols, char** values, char** headers)
+-{
+-	//int *n = data;
+-	//sscanf(values[0], "%d", n);
+-}
+-/***********************************************************************************/
