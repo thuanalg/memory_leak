@@ -1,3 +1,4 @@
 git clone git://git.openssl.org/openssl.git
 https://www.ibm.com/docs/en/linux-on-systems?topic=examples-aes-cbc-mode-example
 https://www.ibm.com/docs/en/linux-on-systems?topic=examples-rsa-example
+https://stackoverflow.com/questions/1753726/load-rsa-keys-from-files
