@@ -65,3 +65,9 @@ Load registered list
 5. Notifier:
 	a. DONE
 	b. Error
+===========
+20230508
+1. Use 1 public key on server and n public key from client
+2. Use private key
+3. Use the fisrt byte to recognize type of decryption and encryption
+4. Have a machinism to reborn symetric key

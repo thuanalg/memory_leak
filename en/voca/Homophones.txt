@@ -11,7 +11,7 @@ cell | sell
 cent | scent | sent
 chews | choose
 coarse | course
-cr-ews | cruise
+crews | cruise
 cue | queue
 days | daze
 dear | deer
@@ -20,7 +20,7 @@ fair | fare
 flour | flower
 flew | flu
 groan | grown
-heal | heel | he'll
+heal | heel | he'll 			|| hill
 hear | here
 higher | hire
 hole | whole
@@ -51,6 +51,7 @@ role | roll
 rose | rows
 sail | sale
 scene | seen
+see | sea
 seas | sees | seize
 serial | cereal
 chute | shoot
@@ -115,13 +116,16 @@ council | counsel
 
 
 
+
 will || we'll
 whip || weep
 walking || working
-their || they're
-pen || pain
+their || they're || There
+pen || pain || paint
 copy || coffee
 sleep || slip
 drawn || drone
 bet || bed
 today || Tuesday || Thursday
+today || Tuesday || Thursday
+she'll || silk || sill

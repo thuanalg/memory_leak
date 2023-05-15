@@ -1,134 +1,143 @@
-acne		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-Adonis		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
 
+[-] acne		<-->	noun++C2	[230513][001]	./ˈækni/-NAmE /ˈækni/ [uncountable]
+	;mụn -- (1) a skin condition, common among young people, that produces many pimples (= spots), especially on the face and neck
+		;to suffer from/have acne
+		;Extra Examples:
+		;A lot of teenagers develop acne.
+		;Acne often clears up by itself.
+		;Acne often clears up with a change in diet.
+		;Doctors can treat acne with creams.
+		;He had terrible acne when he was younger.
+		;TOPICS Health problemsC2, AppearanceC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;badsevereterrible…
+				;verb + acne
+				;havesuffer fromdevelop…
+				;acne + verb
+				;clearclear up
+		;See full entry
 
 
 
 
-Afro		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
+[-] adonis		<-->	noun++C2	[230513][001]	./əˈdəʊnɪs/-NAmE /əˈdəʊnɪs/
+	;cậu bé đẹp trai -- (1) an extremely attractive young man
+		;TOPICS AppearanceC2
 
 
 
-
-Afro		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+[-] afro		<-->	noun++C2	[230513][001]	./ˈæfrəʊ/-NAmE /ˈæfrəʊ/ (also afro) (plural Afros)
+	;người tóc xoắn kiểu châu Phi -- (1) a style for curly hair, especially the naturally curly hair that many black people have, in which it is allowed to grow into a thick, round mass
+		;TOPICS AppearanceC2
 
 
 
-albino		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+[-] afro		<-->	adjective++C2	[230513][001]	./ˈæfrəʊ/-NAmE /ˈæfrəʊ/-\ [usually before noun]
+	;tóc xoắn -- (1) (of hair) naturally curly in the way that many black people's hair is
+		;I learned to do my daughter's afro hair.
+		;Afro hairdressing/haircare
+		;TOPICS AppearanceC2
 
 
 
-allure		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+[-] albino		<-->	noun++C2	[230513][001]	./ælˈbiːnəʊ/-NAmE /ælˈbaɪnəʊ/-\ (plural albinos)
+	;người bạch tạng -- (1) ​a person or an animal that is born with no pigment (= colour) in the hair or skin, which are white, or in the eyes, which are pink
+		;TOPICS AppearanceC2
 
 
 
-alluring		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+[-] allure		<-->	noun++C2	[230513][001]	./əˈlʊə(r)/-NAmE /əˈlʊr/ [uncountable, singular] (formal)
+	;sự quyến rũ -- (1) the quality of being attractive and exciting
+		;sexual allure
+		;the allure of the big city
+		;The country has lost its allure as a destination for foreign investment.
+		;The film has all the nostalgic allure of fifties Paris.
+		;He loved the aristocracy: titles always had an allure for him.
+		;TOPICS AppearanceC2
 
 
 
-angelic		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+[-] alluring		<-->	adjective++C2	[230513][001]	./əˈlʊərɪŋ/-NAmE /əˈlʊrɪŋ/
+	;quyến rũ -- (1) attractive and exciting in a mysterious way
+		;an alluring smile
+		;TOPICS AppearanceC2
 
 
 
-appearance		<-->	noun+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+[-] angelic		<-->	adjective++C2	[230513][001]	./ænˈdʒelɪk/-NAmE /ænˈdʒelɪk/
+	;như thiên thần -- (1) good, kind or beautiful; like an angel
+		;an angelic smile
+		;TOPICS Personal qualitiesC2, AppearanceC2
+				;Oxford Collocations Dictionary
+				;Angelic is used with these nouns:
+				;face
+		;See full entry
 
 
 
-ash blonde		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] ash blonde		<-->	adjective++C2	[230513][001]	./ˌæʃ ˈblɒnd/-NAmE /ˌæʃ ˈblɑːnd/-\ (also ash blond)
+	;vàng hoe -- (1) ​(of hair) very pale blonde in colour
+		;TOPICS AppearanceC2
+	;có màu tóc vàng hoe -- (2) ​(of a person) having ash blonde hair
+		;TOPICS AppearanceC2
 
 
-attractive		<-->	adjective+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
 
-attractiveness		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] attractiveness		<-->	noun++C1	[230513][001]	./əˈtræktɪvnəs/-NAmE /əˈtræktɪvnəs/ [uncountable]
+	;sức quyến rũ -- (1) the quality of being pleasant to look at or experience
+		;her physical attractiveness
+		;TOPICS AppearanceC1
 
 
 
 
 
 
-auburn		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] auburn		<-->	adjective++C2	[230513][001]	./ˈɔːbən/-NAmE /ˈɔːbərn/-\
+	;màu nâu vàng -- (1) ​(of hair) red-brown in colour
+		;Wordfinder: auburnblondedarkfairgingergreyjet blackmousyredheadsandy
+		;TOPICS AppearanceC2, Colours and ShapesC2
+		;Oxford Collocations Dictionary
+		;Auburn is used with these nouns:
+		;curlhair
+		;See full entry
 
 
 
 
 
 
-awkward		<-->	adjective+C1[-0]	.
+[-] awkward		<-->	adjective++C1	[230515][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -138,39 +147,55 @@ awkward		<-->	adjective+C1[-0]	.
 
 
 
-backcomb		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] backcomb		<-->	verb++C2	[230515][001]	./ˈbækkəʊm/-NAmE /ˈbækkəʊm/ (British English) (North American English tease)
+	;chải ngược -- (1) ​backcomb something to comb your hair in the opposite direction to the way it grows so that it looks thicker
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-bald		<-->	adjective+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bald		<-->	adjective++B2	[230515][001]	./bɔːld/-NAmE /bɔːld/
+	;hói -- (1) having little or no hair on the head
+		;He started going bald in his twenties.
+		;young men who go prematurely bald
+		;TOPICS AppearanceB2
+				;Oxford Collocations Dictionary
+				;verbs
+				;bego
+				;adverb
+				;completelyquitetotally…
+		;See full entry
 
 
 
 
 
 
-balding		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] balding		<-->	adjective++C2	[230515][001]	./ˈbɔːldɪŋ/-NAmE /ˈbɔːldɪŋ/
+	;bắt đầu hói -- (1) starting to lose the hair on your head
+		;a short balding man with glasses
+		;He’s in his twenties but already balding.
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;be
+				;adverb
+				;alreadyprematurely
+		;See full entry
 
 
 
 
 
 
-balm		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] balm		<-->	noun++C2	[230515][001]	./bɑːm/-NAmE /bɑːm/ [uncountable, countable, usually singular]
+	;dầu dưỡng da -- (1) ​(also balsam) oil with a pleasant smell that is obtained from some types of trees and plants, used in the past to help heal wounds (= make them better), for example
+	;kem dưỡng da -- (2) a liquid, cream, etc. that has a pleasant smell and is used to make wounds less painful or skin softer
+		;He used a skin balm after shaving.
+		;SEE ALSO lip balm
+		;TOPICS AppearanceC2
 	; -- (3) 
 
 
@@ -178,38 +203,84 @@ balm		<-->	noun+C2[-0]	.
 
 
 
-bang		<-->	noun+C2[-0]	.
-	; -- (1) 
+[-] bang		<-->	noun++C2	[230515][001]	./bæŋ/-NAmE /bæŋ/\
+	;vụ nổ, tiếng nổ -- (1) [countable] a sudden loud noise
+		;The door swung shut with a bang.
+		;Suddenly there was a loud bang and a puff of smoke.
+		;SEE ALSO Big Bang
+		;Extra Examples:
+		;She slammed the door with a loud bang.
+		;The engine let out a bang.
+		;We suddenly heard an almighty bang from the kitchen.
+		;Will the firework make a loud enough bang?
+				;Oxford Collocations Dictionary
+				;adjective
+				;almightybigenormous…
+				;verb + bang
+				;hear
+				;bang + verb
+				;echo
+				;preposition
+				;with a bang
+		;See full entry
 	; -- (2) 
-	; -- (3) 
+	;tóc mái -- (3) bangs [plural] (North American English) (British English fringe) the front part of somebody’s hair that is cut so that it hangs over their forehead
+		;She blew her bangs out of her face.
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;blondbrownetc.…
+				;verb + bang
+				;blowbrushpull back…
+		;See full entry
 
 
 
 
 
 
-barber		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] barber		<-->	noun++C1	[230515][001]	./ˈbɑːbə(r)/-NAmE /ˈbɑːrbər/
+	;thợ hớt tóc -- (1) ​a person whose job is to cut men’s hair and sometimes to shave them
+		;TOPICS AppearanceC1, JobsC1
 
 
 
 
 
 
-beam		<-->	noun+C2[-0]	.
+[-] beam		<-->	noun++C2	[230515][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;nụ cười sảng khoái -- (4) a wide and happy smile
+		;<< grin, beam, >>
+		;a beam of satisfaction
+		;Wordfinder: beamexpressionfrowngrimacegrinleerscowlsmirksneerwince
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-beam		<-->	verb+C2[-0]	.
-	; -- (1) 
+[-] beam		<-->	verb++C2	[230515][001]	./biːm/-NAmE /biːm/
+	;cười lớn -- (1) [intransitive, transitive, no passive] to have a big happy smile on your face
+		;beam (at somebody) He beamed at the journalists.
+		;beam (with something) She was positively beaming with pleasure.
+		;beam something (at somebody) The barman beamed a warm smile at her.
+		;His broad face beamed a hearty welcome.
+		;+ speech ‘I'd love to come,’ she beamed (= said with a large smile).
+		;Extra Examples:
+		;He beamed broadly at them, clearly very pleased to see them.
+		;His face beamed with pleasure.
+		;She beamed happily at Maxim.
+		;She positively beamed with satisfaction.
+		;TOPICS FeelingsC2, AppearanceC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;broadlypositivelybrightly…
+				;preposition
+				;atwith
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -218,228 +289,281 @@ beam		<-->	verb+C2[-0]	.
 
 
 
-beanpole		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
+[-] beanpole		<-->	noun++C2	[230515][001]	./ˈbiːnpəʊl/-NAmE /ˈbiːnpəʊl/ (informal, usually disapproving)
+	;người cao ốm -- (1) a tall thin person
+		;TOPICS AppearanceC2
 
-
-
-
-beard		<-->	noun+A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
+[-] beard		<-->	noun++A2	[230515][001]	./bɪəd/-NAmE /bɪrd/
+[countable, uncountable]
+	;râu -- (1) hair that grows on the chin and sides of somebody's face; similar hair that grows on some animals
+		;He has decided to grow a beard and a moustache.
+		;a week’s growth of beard
+		;a goat’s beard
+		;a false beard
+		;Collocations Physical appearance
+		;COMPARE moustache
+		;Extra Examples:
+		;My beard's grown a lot.
+		;His beard is streaked with grey.
+		;Do you like men with beards?
+		;Jim stroked his beard reflectively.
+		;He sported a neat goatee beard.
+		;He had two days' beard growth across his jowls and chin.
+		;TOPICS AppearanceA2
+				;Oxford Collocations Dictionary
+				;adjective
+				;bushyflowingfull…
+				;verb + beard
+				;growhavesport…
+				;beard + verb
+				;growbe streaked with something
+				;beard + noun
+				;growthstubble
+				;preposition
+				;with a/​the beard
+				;phrases
+				;a three-day, etc. growth of bearda three-day-old, etc. beard
+		;See full entry
 
-beaut		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
+[-] beaut		<-->	noun++C2	[230515][001]	./bjuːt/-NAmE /bjuːt/ (North American English, Australian English, New Zealand English, informal)
+	;người đẹp -- (1) ​an excellent or beautiful person or thing
+		;TOPICS AppearanceC2
 
-beauteous		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
 
-beautiful		<-->	adjective+A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] beauteous		<-->	adjective++C2	[230515][001]	./ˈbjuːtiəs/-NAmE /ˈbjuːtiəs/ (literary)
+	;đẹp -- (1) beautiful
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-beauty		<-->	noun+B2[-0]	.
+[-] beauty		<-->	noun++B2	[230515][001]	./cef/
 	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+	;người đẹp -- (2) [countable] a person or thing that is beautiful
+		;She had been a beauty in her day.
+		;Isn't she a little beauty?
+		;She was known as a great beauty in her time.
+		;She was still a radiant beauty.
+		;She was an exotic beauty with raven hair.
+				;TOPICS AppearanceB2
+			;Oxford Collocations Dictionary
+			;adjective
+				;greatblondedark-haired…
+		;See full entry
 
-
-
-
-
-beauty salon		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
 	; -- (3) 
-
-
-
 
 
 
-beauty school		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
+[-] beauty salon		<-->	noun++C1	[230515][001]	./ˈbjuːti sælɒn/-NAmE /ˈbjuːti səlɑːn/ (also beauty parlour) (US English also beauty shop)
+	;nơi làm đẹp -- (1) a place where you can pay for treatment to your face, hair, nails, etc., which is intended to make you more beautiful
+		;TOPICS AppearanceC1
 
 
-
-beefy		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] beauty school		<-->	noun++C2	[230515][001]	./ˈbjuːti skuːl/-NAmE /ˈbjuːti skuːl/ (North American English)
+	;trường dạy làm đẹp -- (1) a place that trains people to cut hair, take care of nails, etc. as a job
+		;She’s going to beauty school to become a hair stylist.
+		;TOPICS AppearanceC2
 
 
-beehive		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] beefy		<-->	adjective++C2	[230513][001]	./ˈbiːfi/-NAmE /ˈbiːfi/ (comparative beefier, superlative beefiest) (informal)
+	;to và mập -- (1) ​(of a person or their body) big or fat
+		;beefy men/arms/thighs
+		;The doctor was summoned to his bedside.
+		;TOPICS AppearanceC2
 
 
-beer belly		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] beehive		<-->	noun++C2	[230513][001]	./ˈbiːhaɪv/-NAmE /ˈbiːhaɪv/
+	;tổ ong -- (1) ​(also hive) [countable] a structure made for bees to live in
 
 
-belle		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] beer belly		<-->	noun++C2	[230513][001]	./ˈbɪə beli/-NAmE /ˈbɪr beli/ (also beer gut) (informal)
+	;bụng bia -- (1) a very fat stomach, especially one caused by drinking a lot of beer over a long period
+		;He's only twenty but he already has a beer belly.
+		;TOPICS AppearanceC2
 
 
-bewitching		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] belle		<-->	noun++C2	[230513][001]	./bel/-NAmE /bel/ (old-fashioned)
+	;mỹ nhân -- (1) ​a beautiful woman; the most beautiful woman in a particular place
+		;You were the belle of the ball (= the most beautiful woman at a party, etc.).
+		;TOPICS AppearanceC2
 
 
-bingo wings		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] bewitching		<-->	adjective++C2	[230513][001]	./bɪˈwɪtʃɪŋ/-NAmE /bɪˈwɪtʃɪŋ/
+	;mê hoặc -- (1) so beautiful or interesting that you cannot think about anything else
+		;a bewitching girl/smile
+		;a bewitching performance
+		;TOPICS AppearanceC2
 
 
-birthmark		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] bingo wings		<-->	noun++C2	[230513][001]	./ˈbɪŋɡəʊ wɪŋz/-NAmE /ˈbɪŋɡəʊ wɪŋz/
+[plural] (British English, informal, humorous)
+	;???cơ cánh tay -- (1) long folds of loose skin and fat that hang down from the upper arms, especially of older people
+		;The exercises will tone your arm muscles and banish bingo wings.
+		;Wave goodbye to bingo wings.
+		;TOPICS AppearanceC2
 
 
-blackhead		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] birthmark		<-->	noun++C2	[230513][001]	./ˈbɜːθmɑːk/-NAmE /ˈbɜːrθmɑːrk/
+	;vết bớt -- (1) a red or brown mark on a person’s skin that has been there since they were born
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;largesmalldisfiguring…
+				;verb + birthmark
+				;haveremove
+				;birthmark + verb
+				;fade
+		;See full entry
 
 
-blemish		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] blackhead		<-->	noun++C2	[230513][001]	./ˈblækhed/-NAmE /ˈblækhed/
+	;mụn đầu đen, tàn nhang -- (1) a small spot on the skin, often on the face, with a black top
+		;TOPICS AppearanceC2
 
 
-blonde		<-->	adjective+A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
+[-] blemish		<-->	noun++C2	[230513][001]	./ˈblemɪʃ/-NAmE /ˈblemɪʃ/\
+	;vết sẹo -- (1) a mark on the skin or on an object that makes it look less beautiful or perfect
+		;make-up to cover blemishes
+		;(figurative) His reputation is without a blemish.
+		;Extra Examples:
+		;The police say the suspect has a slight blemish on his left cheek.
+		;Her skin didn't have a single blemish.
+		;(figurative) He was pilloried, but she escaped without blemish.
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;minorslightugly…
+				;verb + blemish
+				;havecoverhide…
+				;preposition
+				;without (a) blemishnot a single blemish
+		;See full entry
 
 
-blotch		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
 
-blow-dry		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] blotch		<-->	noun++C2	[230513][001]	./blɒtʃ/-NAmE /blɑːtʃ/
+	;vết bớt -- (1) a mark, usually not regular in shape, on skin, plants, material, etc.
+		;He had come out in (= become covered in) dark red blotches.
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-blow-dry		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] blow-dry		<-->	noun++C2	[230513][001]	./ˈbləʊ draɪ/-NAmE /ˈbləʊ draɪ/\
+	;sự xấy khô -- (1) a beauty treatment in which somebody's hair is dried with a hairdryer and shaped into a particular style
+		;a cut and blow-dry
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-blush		<-->	verb+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] blow-dry		<-->	verb++C2	[230513][001]	./ˈbləʊ draɪ/-NAmE /ˈbləʊ draɪ/
+	;sấy khô -- (1) blow-dry something to dry hair with a hairdryer and shape it into a particular style
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;Blow-dry is used with these nouns as the object:
+				;hair
+		;See full entry
 
 
 
 
 
 
-blush		<-->	noun+C1[-0]	.
-	; -- (1) 
+[-] blush		<-->	verb++C1	[230513][001]	./blʌʃ/-NAmE /blʌʃ/\
+	;trở nên đỏ -- (1) [intransitive] to become red in the face because you are embarrassed or ashamed
+		;SYNONYM go red
+		;blush (with something) (at something) to blush with embarrassment/shame
+		;She blushed furiously at the memory of the conversation.
+		;He looked away, blushing.
+		;+ adj./noun He blushed scarlet at the thought.
+		;[ap: blush]
+		;Extra Examples:
+		;He blushed at the mention of her name.
+		;She blushed more readily when she was a teenager.
+		;Stop teasing him—you're making him blush.
+		;Lia blushed a deep shade of red.
+		;TOPICS AppearanceC1, FeelingsC1
+				;Oxford Collocations Dictionary
+				;adverb
+				;deeplyfuriouslyhotly…
+				;verb + blush
+				;make somebody
+				;preposition
+				;atwith
+				;phrases
+				;blush crimsonblush pinkblush red…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -448,8 +572,27 @@ blush		<-->	noun+C1[-0]	.
 
 
 
-blusher		<-->	noun+C2[-0]	.
-	; -- (1) 
+[-] blush		<-->	noun++C1	[230513][001]	./blʌʃ/-NAmE /blʌʃ/
+	;việc trở nên đỏ -- (1) ​[countable] the red colour that spreads over your face when you are embarrassed or ashamed
+		;She felt a warm blush rise to her cheeks.
+		;He turned away to hide his blushes.
+		;Extra Examples:
+		;His jokes produced blushes from the ladies.
+		;She lowered her eyes with a deep blush.
+		;a blush of embarrassment
+		;TOPICS AppearanceC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;crimsondeepfaint…
+				;verb + blush
+				;hide
+				;blush + verb
+				;deepencolour/​color somebody’s cheekscreep…
+				;preposition
+				;with a blushwithout a blushblush of…
+				;phrases
+				;a blush comes to somebody’s cheeksa blush comes to somebody’s facebring a blush to somebody’s cheeks…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -458,29 +601,43 @@ blusher		<-->	noun+C2[-0]	.
 
 
 
-bob		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] blusher		<-->	noun++C2	[230513][001]	./ˈblʌʃə(r)/-NAmE /ˈblʌʃər/ (North American English also blush) [uncountable, countable]
+	;phấn hồng -- (1) a coloured cream or powder that some people put on their cheeks (= on their faces below the eyes) to give them more colour
+		;Wordfinder: blushercleansereyelinereyeshadowfoundationlipstickmake-upmascaramoisturizernail polish
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-bob		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bob		<-->	verb++C2	[230513][001]	./bɒb/-NAmE /bɑːb/
+	;bồng bềnh, dao động -- (1) ​[intransitive, transitive] to move or make something move quickly up and down, especially in water
+		;a plastic bottle bobbing along in the current
+		;bob up and down Tiny boats bobbed up and down in the harbour.
+		;bob something (up and down) She bobbed her head nervously.
+		;The maid bobbed a curtsy.
+				;Oxford Collocations Dictionary
+				;adverb
+				;gentlyslightlyabout…
+				;phrases
+				;bob up and down
+		;See full entry
+	;cắt tóc kiểu bob -- (2) ​[transitive] bob something to cut somebody’s hair so that it is the same length all the way around
+		;TOPICS AppearanceC2
+		;More Like This Consonant-doubling verbs
 
 
 
 
 
 
-bobbed		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] bob		<-->	noun++C2	[230513][001]	./bɒb/-NAmE /bɑːb/
+	;sự bồng bềnh, dao động -- (1) a quick movement down and up of your head and body
+		;a bob of the head
+	;kiểu tóc bob -- (2) [image] a hairstyle in which the hair is cut at the same fairly short or medium length all the way around
+		;She wears her hair in a bob.
+		;TOPICS AppearanceC2
 	; -- (3) 
 
 
@@ -488,38 +645,48 @@ bobbed		<-->	adjective+C2[-0]	.
 
 
 
-body		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bobbed		<-->	adjective++C2	[230513][001]	./bɒbd/-NAmE /bɑːbd/
+	;có kiểu bob -- (1) ​(of hair) cut so that it hangs loosely to the level of the chin all around the back and sides
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-bonny		<-->	adjective+C2[-0]	.
+[-] body		<-->	noun++C2	[230515][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;vị nặng của rượu, mái tóc dày khoẻ -- [A1-C2] [[*]] (body) (8) [-of drink/hair] [uncoountable] the full strong taste of alcoholic drinks or the thick healthy quality of somebody’s hair
+		;a wine with plenty of body
+		;Regular use of conditioner is supposed to give your hair more body.
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-bony		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bonny		<-->	adjective++C2	[230513][001]	./ˈbɒni/-NAmE /ˈbɑːni/ (also bonnie) (comparative bonnier, superlative bonniest) (dialect, especially Scottish English)
+	;rất đẹp, hấp dẫn -- (1) ​very pretty; attractive
+		;a bonny baby/lass
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;Bonny is used with these nouns:
+				;baby
+		;See full entry
 
 
 
 
 
 
-bottle blonde		<-->	adjective+C2[-0]	.
-	; -- (1) 
+[-] bony		<-->	adjective++C2	[230513][001]	./ˈbəʊni/-NAmE /ˈbəʊni/ (comparative bonier, superlative boniest)
+	;xương xẩu -- (1) (of a person or part of the body) very thin so that the bones can be seen under the skin
+		;a bony hand
+		;a tall bony man
+		;TOPICS AppearanceC2
 	; -- (2) 
 	; -- (3) 
 
@@ -528,49 +695,64 @@ bottle blonde		<-->	adjective+C2[-0]	.
 
 
 
-bouffant		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bottle blonde		<-->	adjective++C2	[230513][001]	./ˌbɒtl ˈblɒnd/-NAmE /ˌbɑːtl ˈblɑːnd/ (also bottle blond) (disapproving)
+	;nhuộm vàng -- (1) (of hair) artificially made to look blonde
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-bounce		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bouffant		<-->	adjective++C2	[230513][001]	./ˈbuːfɒ̃/-NAmE /buːˈfɑːnt/
+	;??? -- (1) ​(of a person’s hair) in a style that raises it up and back from the head in a high round shape
+		;a bouffant hairdo
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-boyish		<-->	adjective+C2[-0]	.
-	; -- (1) 
+[-] bounce		<-->	noun++C2	[230515][001]	./baʊns/-NAmE /baʊns/\
+	;việc bật lên -- (1) [-movement] [countable] the action of bouncing
+		;one bounce of the ball
+		;(North American English) a bounce (= increase) in popularity
 	; -- (2) 
 	; -- (3) 
+	;tính chắc chắn/đàn hồi của tóc -- (4) [-of hair] ​[uncountable] the quality in a person’s hair that shows that it is in good condition and means that it does not lie flat
+		;thin fine hair, lacking in bounce
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-braid		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] boyish		<-->	adjective++C2	[230513][001]	./ˈbɔɪɪʃ/-NAmE /ˈbɔɪɪʃ/ (approving)
+	;như đứa trẻ -- (1) looking or behaving like a boy, in a way that is attractive
+		;boyish charm/enthusiasm
+		;her slim boyish figure
+		;His boyish good looks made him popular with girls.
+		;Jane fell for his boyish charm.
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;Boyish is used with these nouns:
+				;charmenthusiasmfeature…
+		;See full entry
 
 
 
 
 
 
-braid		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] braid		<-->	noun++C2	[230513][001]	./breɪd/-NAmE /breɪd/
+	;bím -- (1) ​[uncountable] thin coloured rope that is used to decorate furniture and military uniforms
+		;The general's uniform was trimmed with gold braid.
+		;The curtains were trimmed with silk braid.
+	;bím tóc -- (2) enlarge image (especially North American English) (British English usually plait) [countable] a long piece of something, especially hair, that is divided into three parts and twisted together
+		;She wears her hair in braids.
+		;TOPICS AppearanceC2
 	; -- (3) 
 
 
@@ -578,38 +760,45 @@ braid		<-->	verb+C2[-0]	.
 
 
 
-brawny		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] braid		<-->	verb++C2	[230513][001]	./breɪd/-NAmE /breɪd/ (especially North American English) (British English usually plait)
+	;tết, tết tóc,  -- (1) braid something (especially North American English) to twist three or more long pieces of hair, rope, etc. together to make one long piece
+		;She'd braided her hair.
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;Braid is used with these nouns as the object:
+				;hair
+		;See full entry
 
 
 
 
 
 
-brilliantine		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] brawny		<-->	adjective++C2	[230513][001]	./ˈbrɔːni/-NAmE /ˈbrɔːni/ (informal)
+	;lực lưỡng -- (1) ​having strong muscles
+		;SYNONYM burly
+		;<< burly, brawny, >>
+		;He was a great brawny brute of a man.
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-bristle		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] brilliantine		<-->	noun++C2	[230513][001]	./ˈbrɪliəntiːn/-NAmE /ˈbrɪliəntiːn/ [uncountable]
+	;chất làm sáng -- (1) oil used in the past to make men’s hair shiny
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-bronzed		<-->	adjective+C2[-0]	.
-	; -- (1) 
+[-] bristle		<-->	noun++C2	[230513][001]	./ˈbrɪsl/-NAmE /ˈbrɪsl/\
+	;lông/tóc cứng -- (1) a short stiff hair
+		;the bristles on his chin
+		;TOPICS AppearanceC2
 	; -- (2) 
 	; -- (3) 
 
@@ -618,19 +807,61 @@ bronzed		<-->	adjective+C2[-0]	.
 
 
 
-brow		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bronzed		<-->	adjective++C2	[230513][001]	./brɒnzd/-NAmE /brɑːnzd/
+	;rám nắng -- (1) having skin that has been turned brown in an attractive way by the sun
+		;SYNONYM tanned
+		;strong bronzed arms
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;Bronzed is used with these nouns:
+				;skin
+		;See full entry
 
 
 
 
 
 
-brunette		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] brow		<-->	noun++C2	[230513][001]	./braʊ/-NAmE /braʊ/
+	;trán -- (1) ​(literary) the part of the face above the eyes and below the hair
+		;SYNONYM forehead
+		;The nurse mopped his fevered brow.
+		;Her brow furrowed in concentration.
+		;Extra Examples:
+		;He stared at the visitors beneath a furrowed brow.
+		;His brow darkened in anger.
+		;His brow furrowed as he racked his brains over the question.
+		;His hair fell over his brow as he turned his head.
+		;His shaggy grey hair fell loosely across his brow.
+		;She brushed back a stray lock of hair from her brow.
+		;She wrinkled her brow thoughtfully.
+		;TOPICS BodyC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;broadwidefurrowed…
+				;verb + brow
+				;mopwipefurrow…
+				;brow + verb
+				;creasefurrowwrinkle…
+				;preposition
+				;across your browfrom your browover your brow…
+		;See full entry
+	;chân mày -- (2) [usually plural] (also eyebrow) the line of hair above the eye
+		;One dark brow rose in surprise.
+		;Extra Examples:
+		;His brows drew together in a worried frown when he heard the remark.
+		;His brows snapped together ferociously when he heard the remark.
+		;She arched a brow when she saw the bill.
+		;She raised a sardonic brow.
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;darkheavybushy…
+				;verb + brow
+				;archliftraise…
+				;brow + verb
+				;liftrisetwitch…
+		;See full entry
 	; -- (3) 
 
 
@@ -638,8 +869,10 @@ brunette		<-->	noun+C2[-0]	.
 
 
 
-brush		<-->	verb+A2[-0]	.
-	; -- (1) 
+[-] brunette		<-->	noun++C2	[230513][001]	./bruːˈnet/-NAmE /bruːˈnet/ (sometimes offensive)
+	;tóc nâu -- (1) a white-skinned woman with dark brown hair
+		;COMPARE blonde, redhead
+		;TOPICS AppearanceC2
 	; -- (2) 
 	; -- (3) 
 
@@ -648,7 +881,7 @@ brush		<-->	verb+A2[-0]	.
 
 
 
-bubble bath		<-->	noun+C2[-0]	.
+[-] brush		<-->	verb++A2	[230515][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -658,8 +891,9 @@ bubble bath		<-->	noun+C2[-0]	.
 
 
 
-buff		<-->	adjective+C2[-0]	.
-	; -- (1) 
+[-] bubble bath		<-->	noun++C2	[230513][001]	./ˈbʌbl bɑːθ/-NAmE /ˈbʌbl bæθ/
+	;sữa tắm -- (1) ​enlarge image[uncountable] a liquid soap that smells pleasant and makes a lot of bubbles when it is added to bath water
+		;TOPICS AppearanceC2
 	; -- (2) 
 	; -- (3) 
 
@@ -668,9 +902,14 @@ buff		<-->	adjective+C2[-0]	.
 
 
 
-bumfluff		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] buff		<-->	adjective++C2	[230513][001]	./bʌf/-NAmE /bʌf/
+	;màu be -- (1) pale yellow-brown in colour
+		;SYNONYM beige
+		;a buff envelope
+		;TOPICS Colours and ShapesC2
+	;cơ bắp, lực lưỡng -- (2) (informal) physically fit and attractive, with big muscles
+		;He was a tall buff guy in his thirties.
+		;TOPICS AppearanceC2
 	; -- (3) 
 
 
@@ -678,199 +917,236 @@ bumfluff		<-->	noun+C2[-0]	.
 
 
 
-bun		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bumfluff		<-->	noun++C2	[230513][001]	./ˈbʌmflʌf/-NAmE /ˈbʌmflʌf/ [uncountable] (informal)
+	;ria mép -- (1) ​the soft hair that grows on the upper lip and chin of a boy, as his beard begins to grow
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-bunch		<-->	noun+C2[-0]	.
-	; -- (1) 
+[-] bun		<-->	noun++C2	[230513][001]	./bʌn/-NAmE /bʌn/
+	;bánh bun -- (1) ​[countable] a small round sweet cake
+		;an iced bun
+		;SEE ALSO hot cross bun
+		;TOPICS FoodC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;freshcinnamoncream…
+				;verb + bun
+				;eathavebake…
+		;See full entry
 	; -- (2) 
-	; -- (3) 
+	;búi tóc -- (3) [countable] long hair that has been twisted into a round shape and is worn on top or at the back of the head
+		;She wore her hair in a bun.
+		;She pulled her hair back into a messy bun.
+		;a woman with her hair in a loose bun
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;neatseveretight…
+				;preposition
+				;in a buninto a bun
+		;See full entry
+	; -- (4) 
 
 
 
 
 
 
-bushy		<-->	adjective+C2[-0]	.
+[-] bunch		<-->	noun++C2	[230515][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;lọn tóc sừng trâu -- (4) enlarge imagebunches [plural] (British English) long hair that is divided in two and tied at each side of the head
+		;She wore her hair in bunches.
+		;TOPICS AppearanceC2
 
 
 
 
 
+[-] bushy		<-->	adjective++C2	[230513][001]	./ˈbʊʃi/-NAmE /ˈbʊʃi/ (comparative bushier, superlative bushiest)
+	;dày đặc, rậm -- (1) (of hair or fur) growing thickly
+		;a bushy beard/tail
+		;He was short and stocky, with thick bushy eyebrows.
+		;He muttered into his bushy beard.
+		;TOPICS AppearanceC2
 
-buxom		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
 
 
-
-buzz cut		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] buxom		<-->	adjective++C2	[230513][001]	./ˈbʌksəm/-NAmE /ˈbʌksəm/
+	;tròn trịa ngực to tròn -- (1) large in an attractive way, and with large breasts
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-cadaverous		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] buzz cut		<-->	noun++C2	[230513][001]	./ˈbʌz kʌt/-NAmE /ˈbʌz kʌt/
+	;kiểu tóc ngắn sát đầu -- (1) a style of cutting the hair in which all the hair is cut very short, close to the skin of the head
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-callus		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] cadaverous		<-->	adjective++C2	[230515][001]	./kəˈdævərəs/-NAmE /kəˈdævərəs/
+(literary)
+	;tái mét -- (1) ​(of a person) extremely pale, thin and looking ill
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-carroty		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] callus		<-->	noun++C2	[230513][001]	./ˈkæləs/-NAmE /ˈkæləs/
+	;chỗ chai sạn -- (1) an area of thick hard skin on a hand or foot, usually caused by rubbing
+		;The calluses on her palm showed how hard she had had to work.
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-chignon		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] carroty		<-->	adjective++C2	[230513][001]	./ˈkærəti/-NAmE /ˈkærəti/ (sometimes disapproving)
+	;màu vàng cam -- (1) ​(of hair) orange in colour
+		;TOPICS AppearanceC2, Colours and ShapesC2
 
 
 
 
 
 
-chubbiness		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] chignon		<-->	noun++C2	[230513][001]	./ˈʃiːnjɒn/-NAmE /ˈʃiːnjɑːn/ (from French)
+	;búi tóc -- (1) ​a hairstyle in which the hair is pulled back and twisted into a smooth knot at the back
+		;long hair worn in a chignon
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-chubby		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] chubbiness		<-->	noun++C2	[230515][001]	./ˈtʃʌbinəs/-NAmE /ˈtʃʌbinəs/
+[uncountable]
+	;sự mũm mĩm -- (1) the quality of being slightly fat in a way that people usually find attractive
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-cleanser		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] chubby		<-->	adjective++C2	[230515][001]	./ˈtʃʌbi/-NAmE /ˈtʃʌbi/
+(comparative chubbier, superlative chubbiest)
+	;mũm mĩm -- (1) slightly fat in a way that people usually find attractive
+		;chubby cheeks/fingers/hands
+		;She was eleven years old and pretty in a chubby sort of way.
+		;worried that he was getting rather chubby
+		;Aah, look at his chubby little hands!
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;Chubby is used with these nouns:
+				;cheekfinger
+		;See full entry
 
 
 
 
 
 
-clean-shaven		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] cleanser		<-->	noun++C2	[230515][001]	./ˈklenzə(r)/-NAmE /ˈklenzər/
+	;sữa rửa mặt -- (1) a liquid or cream for cleaning your face, especially for removing make-up
+		;Wordfinder: blushercleansereyelinereyeshadowfoundationlipstickmake-upmascaramoisturizernail polish
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-close-cropped		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] clean-shaven		<-->	adjective++C2	[230515][001]	./ˌkliːn ˈʃeɪvn/-NAmE /ˌkliːn ˈʃeɪvn/
+	;được cạo sạch -- (1) a man who is clean-shaven does not have a beard or moustache (= hair that has been allowed to grow on the face)
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-clumsy		<-->	adjective+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] close-cropped		<-->	adjective++C2	[230515][001]	./ˌkləʊs ˈkrɒpt/-NAmE /ˌkləʊs ˈkrɑːpt/
+	;hớt sát -- (1) ​(of hair, grass, etc.) cut very short
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-coiffure		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] clumsy		<-->	adjective++C1	[230515][001]	./ˈklʌmzi/-NAmE /ˈklʌmzi/
+(comparative clumsier, superlative clumsiest)
+	;hậu đậu -- (1) (of people and animals) moving or doing things in a way that is not smooth or steady or careful
+		;I spilt your coffee. Sorry—that was clumsy of me.
+		;His clumsy fingers couldn't untie the knot.
+		;TOPICS AppearanceC1
 
 
 
 
 
 
-cold cream		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] coiffure		<-->	noun++C2	[230515][001]	./kwɑːˈfjʊə(r)/-NAmE /kwɑːˈfjʊr/
+(from French, formal or humorous)
+	;nhà tạo mẫu -- (1) the way in which a person’s hair is arranged
+		;SYNONYM hairstyle
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-colorant		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] cold cream		<-->	noun++C2	[230515][001]	./ˈkəʊld kriːm/-NAmE /ˈkəʊld kriːm/
+[uncountable]
+	;sữa/kem rửa mặt -- (1) a thick white cream that people use for cleaning their face or making their skin soft
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-coloring		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] colorant		<-->	noun++C2	[230515][001]	./ˈkʌlərənt/-NAmE /ˈkʌlərənt/
+(US English)
+(British English colourant)
+	;chất nhuộm, thuốc nhuộm -- (1) a substance that is used to put color in something, especially a person’s hair
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-colourant		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] coloring		<-->	noun++C1	[230515][001]	./ˈkʌlərɪŋ/-NAmE /ˈkʌlərɪŋ/
+(US English)
+(British English colouring)
+	;thuốc nhuộm -- (1) ​[uncountable, countable] a substance that is used to give a particular color to food
+		;red food coloring
+		;Contains no artificial coloring or flavoring.
+	;màu -- (2) [uncountable] the color of a person’s skin, eyes and hair
+		;Blue suited her fair coloring.
+		;This face powder will enhance your natural coloring.
+		;TOPICS AppearanceC1
 	; -- (3) 
 
 
@@ -878,19 +1154,37 @@ colourant		<-->	noun+C2[-0]	.
 
 
 
-colouring		<-->	noun+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] colourant		<-->	noun++C2	[230515][001]	./ˈkʌlərənt/-NAmE /ˈkʌlərənt/
+(US English colorant)
+	;thuốc nhuộm -- (1) a substance that is used to put colour in something, especially a person’s hair
+		;natural hair colourants
+		;Medicines also contain colourants, often in large amounts.
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-comb		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] colouring		<-->	noun++C1	[230515][001]	./ˈkʌlərɪŋ/-NAmE /ˈkʌlərɪŋ/
+(US English coloring)
+	;chất tạo màu thức ăn -- (1) [uncountable, countable] a substance that is used to give a particular colour to food
+		;red food colouring
+		;Contains no artificial colouring or flavouring.
+	;màu da, mắt, ... -- (2) [uncountable] the colour of a person’s skin, eyes and hair
+		;Blue suited her fair colouring.
+		;This face powder will enhance your natural colouring.
+		;Extra Examples:
+		;He daughter has very fair colouring.
+		;He had inherited his father's almost-silver hair and fair colouring.
+		;Their colouring was identical: white skin, black hair and very dark eyes.
+		;TOPICS AppearanceC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;naturaldarkhair…
+				;verb + colouring/​coloring
+				;have
+		;See full entry
 	; -- (3) 
 
 
@@ -898,8 +1192,17 @@ comb		<-->	noun+B2[-0]	.
 
 
 
-comb		<-->	verb+B2[-0]	.
-	; -- (1) 
+[-] comb		<-->	noun++B2	[230515][001]	./kəʊm/-NAmE /kəʊm/
+	;cái lược -- (1) enlarge image[countable] a flat piece of plastic or metal with a row of thin teeth along one side, used for making your hair neat; a smaller version of this worn by women in their hair to hold it in place or as a decoration
+		;He just had time to wash his face and drag a comb through his hair before going out.
+		;She ran a comb through her tangled hair.
+		;TOPICS AppearanceB2
+				;Oxford Collocations Dictionary
+				;verb + comb
+				;usedragpull…
+				;phrases
+				;a brush and comb
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -908,8 +1211,11 @@ comb		<-->	verb+B2[-0]	.
 
 
 
-comb out		<-->	222+C2[-0]	.
-	; -- (1) 
+[-] comb		<-->	verb++B2	[230515][001]	./kəʊm/-NAmE /kəʊm/
+	;chải -- (1) [transitive] comb something to pull a comb through your hair in order to make it neat
+		;Don't forget to comb your hair!
+		;Her hair was neatly combed back.
+		;TOPICS AppearanceB2
 	; -- (2) 
 	; -- (3) 
 
@@ -918,8 +1224,9 @@ comb out		<-->	222+C2[-0]	.
 
 
 
-comely		<-->	adjective+C2[-0]	.
-	; -- (1) 
+[-] comb out		<-->	222++C2	[230515][001]	./p/
+	;duỗi ra, chải ra -- (1) [-comb something  out] to pull a comb through hair in order to make it neat or smooth, without any knots
+		;TOPICS AppearanceC2
 	; -- (2) 
 	; -- (3) 
 
@@ -928,18 +1235,87 @@ comely		<-->	adjective+C2[-0]	.
 
 
 
-complexion		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] comely		<-->	adjective++C2	[230515][001]	./ˈkʌmli/-NAmE /ˈkʌmli/
+(literary)
+	;duyên dáng -- (1) ​(most often used of a woman) pleasant to look at
+		;SYNONYM attractive
+		;<< attractive, comely, >>
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-concealer		<-->	noun+C2[-0]	.
-	; -- (1) 
+[-] complexion		<-->	noun++C2	[230515][001]	./kəmˈplekʃn/-NAmE /kəmˈplekʃn/
+	;nước da -- (1) ​the natural colour and condition of the skin on a person’s face
+		;a pale/bad complexion
+		;Collocations Physical appearance:
+		---
+		A person may be described as having:
+		Eyes
+			(bright) blue/​green/(dark/​light) brown/​hazel eyes
+			deep-set/​sunken/​bulging/​protruding eyes
+			small/​beady/​sparkling/​twinkling/(informal) shifty eyes
+			piercing/​penetrating/​steely eyes
+			bloodshot/​watery/​puffy eyes
+			bushy/​thick/​dark/​raised/​arched eyebrows
+			long/​dark/​thick/​curly/​false eyelashes/​lashes
+			Face
+			a flat/​bulbous/​pointed/​sharp/​snub nose
+			a straight/​a hooked/​a Roman/(formal) an aquiline nose
+			full/​thick/​thin/​pouty lips
+			dry/​chapped/​cracked lips
+			flushed/​rosy/​red/​ruddy/​pale cheeks
+			soft/​chubby/​sunken cheeks
+			white/​perfect/​crooked/​protruding teeth
+			a large/​high/​broad/​wide/​sloping forehead
+			a strong/​weak/​pointed/​double chin
+			a long/​full/​bushy/​wispy/​goatee beard
+			a long/​thin/​bushy/​droopy/​handlebar/​pencil moustache
+		Hair and skin:
+			pale/​fair/​olive/​dark/​tanned skin
+			dry/​oily/​smooth/​rough/​leathery/​wrinkled skin
+			a dark/​pale/​light/​sallow/​ruddy/​olive/​swarthy/​clear complexion
+			deep/​fine/​little/​facial wrinkles
+			blonde/​blond/​fair/(light/​dark) brown/(jet-)black/​auburn/​red/(British English) ginger/​grey hair
+			straight/​curly/​wavy/​frizzy/​spiky hair
+			thick/​thin/​fine/​bushy/​thinning hair
+			dyed/​bleached/​soft/​silky/​dry/​greasy/​shiny hair
+			long/​short/​shoulder-length/​cropped hair
+			a bald/​balding/​shaved head
+			a receding hairline
+			a bald patch/​spot
+			a side/​centre(British English) parting
+		Body:
+			a long/​short/​thick/​slender/(disapproving) scrawny neck
+			broad/​narrow/​sloping/​rounded/​hunched shoulders
+			a bare/​broad/​muscular/​small/​large chest
+			a flat/​swollen/​bulging stomach
+			a small/​tiny/​narrow/​slim/​slender/28-inch waist
+			big/​wide/​narrow/​slim hips
+			a straight/​bent/​arched/​broad/​hairy back
+			thin/​slender/​muscular arms
+			big/​large/​small/​manicured/​calloused/​gloved hands
+			long/​short/​fat/​slender/​delicate/​bony fingers
+			long/​muscular/​hairy/​shapely/(both informal, often disapproving) skinny/​spindly legs
+			muscular/​chubby/(informal, disapproving) flabby thighs
+			big/​little/​small/​dainty/​wide/​narrow/​bare feet
+			a good/​a slim/​a slender/​an hourglass figure
+			be of slim/​medium/​average/​large/​athletic/​stocky build
+		---
+		;Extra Examples:
+		;Years of heavy drinking had given Alison a florid complexion.
+		;a young girl with a rosy complexion
+		;Her auburn hair and blue eyes, together with a fine complexion, made her extremely attractive.
+		;a dark/​healthy complexion
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;beautifulclearflawless…
+				;verb + complexion
+				;havegive somebody
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -948,77 +1324,86 @@ concealer		<-->	noun+C2[-0]	.
 
 
 
-condition		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] concealer		<-->	noun++C2	[230515][001]	./kənˈsiːlə(r)/-NAmE /kənˈsiːlər/
+[uncountable, countable]
+	;kem che khuyết điểm -- (1) a skin-coloured cream or powder used to cover spots or marks on the skin or dark circles under the eyes
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-conditioner		<-->	noun+C2[-0]	.
-	; -- (1) 
+[-] condition		<-->	verb++C2	[230515][001]	./kənˈdɪʃn/-NAmE /kənˈdɪʃn/
+	;thích nghi, quen -- (1) [usually passive] to train somebody/something to behave in a particular way or to become used to a particular situation
+		;be conditioned to something Patients can become conditioned to particular forms of treatment.
+		;be conditioned to do something The rats had been conditioned to ring a bell when they wanted food.
+		;the difference between inborn and conditioned reflexes (= reactions that are learned/not natural)
 	; -- (2) 
-	; -- (3) 
+	;nuôi dưỡng tóc da -- (3) condition something to keep something such as your hair or skin healthy
+		;a shampoo that cleans and conditions hair
+		;a polish for conditioning leather
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-cornrows		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] conditioner		<-->	noun++C2	[230515][001]	./kənˈdɪʃənə(r)/-NAmE /kənˈdɪʃənər/
+[countable, uncountable]
+	;kem sữa dưỡng da tóc -- (1) a liquid or cream used to improve the condition of hair after washing
+		;shampoo and conditioner
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-corpulence		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] cornrows		<-->	noun++C2	[230515][001]	./ˈkɔːnrəʊz/-NAmE /ˈkɔːrnrəʊz/
+[plural]
+	;kiểu tóc râu bắp -- (1) [image] a hairstyle in which the hair is put into lines of plaits along the head
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-corpulent		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] corpulence		<-->	noun++C2	[230515][001]	./ˈkɔːpjələns/-NAmE /ˈkɔːrpjələns/
+[uncountable] (formal)
+	;mập -- (1) the fact of being fat. People say ‘corpulence’ to avoid saying ‘ fatness ’.
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-cotton bud		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] corpulent		<-->	adjective++C2	[230515][001]	./ˈkɔːpjələnt/-NAmE /ˈkɔːrpjələnt/
+(formal)
+	;tròn trịa -- (1) ​(of a person) fat. People say ‘corpulent’ to avoid saying ‘fat’.
+		;He is a short, somewhat corpulent, man.
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-cotton wool		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] cotton bud		<-->	noun++C2	[230515][001]	./ˈkɒtn bʌd/-NAmE /ˈkɑːtn bʌd/
+(British English)
+(also cotton swab North American English, Q-tip™ North American English, British English)
+	;cây rái tai có bông gòn -- (1) ​a small stick with cotton wool at each end, used for cleaning inside the ears, etc.
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-countenance		<-->	noun+C2[-0]	.
+[-] cotton wool		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1028,7 +1413,7 @@ countenance		<-->	noun+C2[-0]	.
 
 
 
-cowlick		<-->	noun+C2[-0]	.
+[-] countenance		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1038,7 +1423,7 @@ cowlick		<-->	noun+C2[-0]	.
 
 
 
-crew cut		<-->	noun+C2[-0]	.
+[-] cowlick		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1048,7 +1433,7 @@ crew cut		<-->	noun+C2[-0]	.
 
 
 
-crew-cut		<-->	adjective+C2[-0]	.
+[-] crew cut		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1058,7 +1443,7 @@ crew-cut		<-->	adjective+C2[-0]	.
 
 
 
-crimp		<-->	verb+C2[-0]	.
+[-] crew-cut		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1068,7 +1453,7 @@ crimp		<-->	verb+C2[-0]	.
 
 
 
-crinkly		<-->	adjective+C2[-0]	.
+[-] crimp		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1078,7 +1463,7 @@ crinkly		<-->	adjective+C2[-0]	.
 
 
 
-crop		<-->	noun+C2[-0]	.
+[-] crinkly		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1088,7 +1473,7 @@ crop		<-->	noun+C2[-0]	.
 
 
 
-crop		<-->	verb+C2[-0]	.
+[-] crop		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1098,7 +1483,7 @@ crop		<-->	verb+C2[-0]	.
 
 
 
-crow’s feet		<-->	noun+C2[-0]	.
+[-] crop		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1108,7 +1493,7 @@ crow’s feet		<-->	noun+C2[-0]	.
 
 
 
-curl		<-->	verb+C1[-0]	.
+[-] crow’s feet		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1118,7 +1503,7 @@ curl		<-->	verb+C1[-0]	.
 
 
 
-curl		<-->	noun+C1[-0]	.
+[-] curl		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1128,7 +1513,7 @@ curl		<-->	noun+C1[-0]	.
 
 
 
-curler		<-->	noun+C2[-0]	.
+[-] curl		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1138,7 +1523,7 @@ curler		<-->	noun+C2[-0]	.
 
 
 
-curling tongs		<-->	noun+C2[-0]	.
+[-] curler		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1148,7 +1533,7 @@ curling tongs		<-->	noun+C2[-0]	.
 
 
 
-curly		<-->	adjective+A2[-0]	.
+[-] curling tongs		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1158,7 +1543,7 @@ curly		<-->	adjective+A2[-0]	.
 
 
 
-cut		<-->	noun+B1[-0]	.
+[-] curly		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1168,7 +1553,7 @@ cut		<-->	noun+B1[-0]	.
 
 
 
-cute		<-->	adjective+B2[-0]	.
+[-] cut		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1178,7 +1563,7 @@ cute		<-->	adjective+B2[-0]	.
 
 
 
-cutie		<-->	noun+C2[-0]	.
+[-] cute		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1188,7 +1573,7 @@ cutie		<-->	noun+C2[-0]	.
 
 
 
-dainty		<-->	adjective+C2[-0]	.
+[-] cutie		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1198,28 +1583,42 @@ dainty		<-->	adjective+C2[-0]	.
 
 
 
-dandruff		<-->	noun+C2[-0]	.
-	; -- (1) 
+[-] dainty		<-->	adjective++C2	[230515][001]	./ˈdeɪnti/-NAmE /ˈdeɪnti/
+(comparative daintier, superlative daintiest)
+	;mong manh, tinh tế -- (1) ​(of people and things) small and pretty in a way that people find attractive
+		;SYNONYM delicate
+		;<< delicate, dainty, >>
+		;dainty feet
+		;a dainty porcelain cup
+		;TOPICS AppearanceC2
 	; -- (2) 
 	; -- (3) 
-
 
 
 
 
 
-dark		<-->	adjective+A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+[-] dandruff		<-->	noun++C2	[230515][001]	./ˈdændrʌf/-NAmE /ˈdændrəf/
+[uncountable]
+	;gàu -- (1) very small pieces of dead skin, seen as a white dust in a person’s hair
+		;a dandruff shampoo
+		;TOPICS AppearanceC2
+		;Oxford Collocations Dictionary
+		;Dandruff is used before these nouns:
+		;shampoo
+		;See full entry
 
 
 
 
 
-dashing		<-->	adjective+C2[-0]	.
-	; -- (1) 
+[-] dashing		<-->	adjective++C2	[230515][001]	./ˈdæʃɪŋ/-NAmE /ˈdæʃɪŋ/
+(old-fashioned)
+	;bảnh bao -- (1) ​(usually of a man) attractive and full of confidence
+		;a dashing young officer
+		;his dashing good looks
+		;TOPICS Personal qualitiesC2, AppearanceC2
 	; -- (2) 
 	; -- (3) 
 
@@ -1228,8 +1627,10 @@ dashing		<-->	adjective+C2[-0]	.
 
 
 
-debonair		<-->	adjective+C2[-0]	.
-	; -- (1) 
+[-] debonair		<-->	adjective++C2	[230515][001]	./ˌdebəˈneə(r)/-NAmE /ˌdebəˈner/
+(old-fashioned)
+	;bảnh bao -- (1) ​(usually of men) fashionable and confident
+		;TOPICS Personal qualitiesC2, AppearanceC2
 	; -- (2) 
 	; -- (3) 
 
@@ -1238,8 +1639,12 @@ debonair		<-->	adjective+C2[-0]	.
 
 
 
-deft		<-->	adjective+C2[-0]	.
-	; -- (1) 
+[-] deft		<-->	adjective++C2	[230515][001]	./deft/-NAmE /deft/
+	;khéo léo, nhanh nhẹn -- (1) ​(of a person’s movements) quick and showing skill
+		;deft hands/fingers/footwork
+		;He finished off the painting with a few deft strokes of the brush.
+		;In one deft movement, he had her hand locked behind her back.
+		;TOPICS AppearanceC2
 	; -- (2) 
 	; -- (3) 
 
@@ -1248,17 +1653,17 @@ deft		<-->	adjective+C2[-0]	.
 
 
 
-delouse		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] delouse		<-->	verb++C2[-0]	./ˌdiːˈlaʊs/
+ /ˌdiːˈlaʊs/
+	;bắt chí -- (1) delouse somebody/something to remove lice (= small insects) from somebody’s hair or from an animal’s coat
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-dental floss		<-->	noun+C2[-0]	.
+[-] dental floss		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1268,17 +1673,17 @@ dental floss		<-->	noun+C2[-0]	.
 
 
 
-depilator		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] depilator		<-->	noun++C2[-0]	./ˈdepɪleɪtə(r)/
+ /ˈdepɪleɪtər/
+	;cái tông-đơ -- (1) a device that removes hair from your body by pulling it out
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-depilatory		<-->	noun+C2[-0]	.
+[-] depilatory		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1288,7 +1693,7 @@ depilatory		<-->	noun+C2[-0]	.
 
 
 
-depilatory		<-->	adjective+C2[-0]	.
+[-] depilatory		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1298,8 +1703,12 @@ depilatory		<-->	adjective+C2[-0]	.
 
 
 
-dimple		<-->	noun+C2[-0]	.
-	; -- (1) 
+[-] dimple		<-->	noun++C2[-0]	./ˈdɪmpl/
+ /ˈdɪmpl/
+	;lúm đồng tiền -- (1) a small hollow place in the skin, especially in the face
+		;He has a little round dimple in one cheek.
+		;She had a dimple which appeared when she smiled.
+		;TOPICS BodyC2, AppearanceC2
 	; -- (2) 
 	; -- (3) 
 
@@ -1308,17 +1717,21 @@ dimple		<-->	noun+C2[-0]	.
 
 
 
-dowdy		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] dowdy		<-->	adjective++C2[-0]	./ˈdaʊdi/
+ /ˈdaʊdi/
+	;xênh xang, luộm thuộm -- (1) boring and not attractive or fashionable
+		;I feel dull and dowdy in this outfit.
+		;a dowdy skirt
+		;They lived in a dowdy suburb.
+		;SYNONYM drab
+		;TOPICS AppearanceC2
 
 
 
 
 
 
-down		<-->	noun+C2[-0]	.
+[-] down		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1328,7 +1741,7 @@ down		<-->	noun+C2[-0]	.
 
 
 
-downcast		<-->	adjective+C2[-0]	.
+[-] downcast		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1338,17 +1751,22 @@ downcast		<-->	adjective+C2[-0]	.
 
 
 
-downy		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] downy		<-->	adjective++C2[-0]	./ˈdaʊni/
+ /ˈdaʊni/
+	;mềm mại -- (1) covered in something very soft, especially hair or feathers
+		;SEE ALSO down
+		;TOPICS AppearanceC2
+				;Oxford Collocations Dictionary
+				;Downy is used with these nouns:
+				;feather
+		;See full entry
 
 
 
 
 
 
-dreadlocks		<-->	noun+C2[-0]	.
+[-] dreadlocks		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1358,7 +1776,7 @@ dreadlocks		<-->	noun+C2[-0]	.
 
 
 
-dreamboat		<-->	noun+C2[-0]	.
+[-] dreamboat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1368,7 +1786,7 @@ dreamboat		<-->	noun+C2[-0]	.
 
 
 
-dreamy		<-->	adjective+C2[-0]	.
+[-] dreamy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1378,7 +1796,7 @@ dreamy		<-->	adjective+C2[-0]	.
 
 
 
-dye		<-->	verb+B2[-0]	.
+[-] dye		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1388,7 +1806,7 @@ dye		<-->	verb+B2[-0]	.
 
 
 
-dye		<-->	noun+B2[-0]	.
+[-] dye		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1398,7 +1816,7 @@ dye		<-->	noun+B2[-0]	.
 
 
 
-ectomorph		<-->	noun+C2[-0]	.
+[-] ectomorph		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1408,7 +1826,7 @@ ectomorph		<-->	noun+C2[-0]	.
 
 
 
-electric razor		<-->	noun+B2[-0]	.
+[-] electric razor		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1418,7 +1836,7 @@ electric razor		<-->	noun+B2[-0]	.
 
 
 
-endomorph		<-->	noun+C2[-0]	.
+[-] endomorph		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1428,7 +1846,7 @@ endomorph		<-->	noun+C2[-0]	.
 
 
 
-English rose		<-->	noun+C2[-0]	.
+[-] english rose		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1438,7 +1856,7 @@ English rose		<-->	noun+C2[-0]	.
 
 
 
-erect		<-->	adjective+C2[-0]	.
+[-] erect		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1448,7 +1866,7 @@ erect		<-->	adjective+C2[-0]	.
 
 
 
-expression		<-->	noun+B1[-0]	.
+[-] expression		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1458,7 +1876,7 @@ expression		<-->	noun+B1[-0]	.
 
 
 
-eyebrow		<-->	noun+B2[-0]	.
+[-] eyebrow		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1468,7 +1886,7 @@ eyebrow		<-->	noun+B2[-0]	.
 
 
 
-eyebrow pencil		<-->	noun+C2[-0]	.
+[-] eyebrow pencil		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1478,7 +1896,7 @@ eyebrow pencil		<-->	noun+C2[-0]	.
 
 
 
-eyelash		<-->	noun+C1[-0]	.
+[-] eyelash		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1488,7 +1906,7 @@ eyelash		<-->	noun+C1[-0]	.
 
 
 
-eyeliner		<-->	noun+C2[-0]	.
+[-] eyeliner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1498,7 +1916,7 @@ eyeliner		<-->	noun+C2[-0]	.
 
 
 
-eyeshadow		<-->	noun+C2[-0]	.
+[-] eyeshadow		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1508,7 +1926,7 @@ eyeshadow		<-->	noun+C2[-0]	.
 
 
 
-face cream		<-->	noun+C1[-0]	.
+[-] face cream		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1518,7 +1936,7 @@ face cream		<-->	noun+C1[-0]	.
 
 
 
-face mask		<-->	noun+C2[-0]	.
+[-] face mask		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1528,7 +1946,7 @@ face mask		<-->	noun+C2[-0]	.
 
 
 
-face powder		<-->	noun+C1[-0]	.
+[-] face powder		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1538,7 +1956,7 @@ face powder		<-->	noun+C1[-0]	.
 
 
 
-fair		<-->	adjective+B1[-0]	.
+[-] fair		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1548,7 +1966,7 @@ fair		<-->	adjective+B1[-0]	.
 
 
 
-fair-haired		<-->	adjective+B1[-0]	.
+[-] fair-haired		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1558,7 +1976,7 @@ fair-haired		<-->	adjective+B1[-0]	.
 
 
 
-fairness		<-->	noun+C1[-0]	.
+[-] fairness		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1568,7 +1986,7 @@ fairness		<-->	noun+C1[-0]	.
 
 
 
-fanciable		<-->	adjective+C2[-0]	.
+[-] fanciable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1578,7 +1996,7 @@ fanciable		<-->	adjective+C2[-0]	.
 
 
 
-fat		<-->	adjective+A1[-0]	.
+[-] fat		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1588,7 +2006,7 @@ fat		<-->	adjective+A1[-0]	.
 
 
 
-figure		<-->	noun+B1[-0]	.
+[-] figure		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1598,7 +2016,7 @@ figure		<-->	noun+B1[-0]	.
 
 
 
-fit		<-->	adjective+C2[-0]	.
+[-] fit		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1608,7 +2026,7 @@ fit		<-->	adjective+C2[-0]	.
 
 
 
-fix		<-->	verb+C2[-0]	.
+[-] fix		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1618,7 +2036,7 @@ fix		<-->	verb+C2[-0]	.
 
 
 
-flabby		<-->	adjective+C2[-0]	.
+[-] flabby		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1628,7 +2046,7 @@ flabby		<-->	adjective+C2[-0]	.
 
 
 
-flat-top		<-->	noun+C2[-0]	.
+[-] flat-top		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1638,7 +2056,7 @@ flat-top		<-->	noun+C2[-0]	.
 
 
 
-flaxen		<-->	adjective+C2[-0]	.
+[-] flaxen		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1648,7 +2066,7 @@ flaxen		<-->	adjective+C2[-0]	.
 
 
 
-flyaway		<-->	adjective+C2[-0]	.
+[-] flyaway		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1658,7 +2076,7 @@ flyaway		<-->	adjective+C2[-0]	.
 
 
 
-foundation		<-->	noun+C2[-0]	.
+[-] foundation		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1668,7 +2086,7 @@ foundation		<-->	noun+C2[-0]	.
 
 
 
-freckle		<-->	noun+C2[-0]	.
+[-] freckle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1678,7 +2096,7 @@ freckle		<-->	noun+C2[-0]	.
 
 
 
-freckled		<-->	adjective+C2[-0]	.
+[-] freckled		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1688,7 +2106,7 @@ freckled		<-->	adjective+C2[-0]	.
 
 
 
-French braid		<-->	noun+C2[-0]	.
+[-] french braid		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1698,7 +2116,7 @@ French braid		<-->	noun+C2[-0]	.
 
 
 
-French plait		<-->	noun+C2[-0]	.
+[-] french plait		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1708,7 +2126,7 @@ French plait		<-->	noun+C2[-0]	.
 
 
 
-French pleat		<-->	noun+C2[-0]	.
+[-] french pleat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1718,7 +2136,7 @@ French pleat		<-->	noun+C2[-0]	.
 
 
 
-French twist		<-->	noun+C2[-0]	.
+[-] french twist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1728,7 +2146,7 @@ French twist		<-->	noun+C2[-0]	.
 
 
 
-fringe		<-->	noun+C2[-0]	.
+[-] fringe		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1738,7 +2156,7 @@ fringe		<-->	noun+C2[-0]	.
 
 
 
-frizz		<-->	verb+C2[-0]	.
+[-] frizz		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1748,7 +2166,7 @@ frizz		<-->	verb+C2[-0]	.
 
 
 
-frizz		<-->	noun+C2[-0]	.
+[-] frizz		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1758,7 +2176,7 @@ frizz		<-->	noun+C2[-0]	.
 
 
 
-frizzy		<-->	adjective+C2[-0]	.
+[-] frizzy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1768,7 +2186,7 @@ frizzy		<-->	adjective+C2[-0]	.
 
 
 
-frown		<-->	verb+C1[-0]	.
+[-] frown		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1778,7 +2196,7 @@ frown		<-->	verb+C1[-0]	.
 
 
 
-frown		<-->	noun+C1[-0]	.
+[-] frown		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1788,7 +2206,7 @@ frown		<-->	noun+C1[-0]	.
 
 
 
-fuzz		<-->	noun+C2[-0]	.
+[-] fuzz		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1798,7 +2216,7 @@ fuzz		<-->	noun+C2[-0]	.
 
 
 
-fuzzy		<-->	adjective+C2[-0]	.
+[-] fuzzy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1808,7 +2226,7 @@ fuzzy		<-->	adjective+C2[-0]	.
 
 
 
-gamine		<-->	adjective+C2[-0]	.
+[-] gamine		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1818,7 +2236,7 @@ gamine		<-->	adjective+C2[-0]	.
 
 
 
-gangling		<-->	adjective+C2[-0]	.
+[-] gangling		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1828,7 +2246,7 @@ gangling		<-->	adjective+C2[-0]	.
 
 
 
-gaunt		<-->	adjective+C2[-0]	.
+[-] gaunt		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1838,7 +2256,7 @@ gaunt		<-->	adjective+C2[-0]	.
 
 
 
-gel		<-->	noun+B2[-0]	.
+[-] gel		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1848,7 +2266,7 @@ gel		<-->	noun+B2[-0]	.
 
 
 
-gel		<-->	verb+C2[-0]	.
+[-] gel		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1858,7 +2276,7 @@ gel		<-->	verb+C2[-0]	.
 
 
 
-ginger		<-->	adjective+B2[-0]	.
+[-] ginger		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1868,7 +2286,7 @@ ginger		<-->	adjective+B2[-0]	.
 
 
 
-girn		<-->	verb+C2[-0]	.
+[-] girn		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1878,7 +2296,7 @@ girn		<-->	verb+C2[-0]	.
 
 
 
-glamorous		<-->	adjective+B2[-0]	.
+[-] glamorous		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1888,7 +2306,7 @@ glamorous		<-->	adjective+B2[-0]	.
 
 
 
-glazed		<-->	adjective+C2[-0]	.
+[-] glazed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1898,7 +2316,7 @@ glazed		<-->	adjective+C2[-0]	.
 
 
 
-glossy		<-->	adjective+C2[-0]	.
+[-] glossy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1908,7 +2326,7 @@ glossy		<-->	adjective+C2[-0]	.
 
 
 
-glower		<-->	verb+C2[-0]	.
+[-] glower		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1918,7 +2336,7 @@ glower		<-->	verb+C2[-0]	.
 
 
 
-goatee		<-->	noun+C2[-0]	.
+[-] goatee		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1928,7 +2346,7 @@ goatee		<-->	noun+C2[-0]	.
 
 
 
-good-looking		<-->	adjective+A2[-0]	.
+[-] good-looking		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1938,7 +2356,7 @@ good-looking		<-->	adjective+A2[-0]	.
 
 
 
-gorgeous		<-->	adjective+B2[-0]	.
+[-] gorgeous		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1948,7 +2366,7 @@ gorgeous		<-->	adjective+B2[-0]	.
 
 
 
-grace		<-->	noun+C1[-0]	.
+[-] grace		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1958,7 +2376,7 @@ grace		<-->	noun+C1[-0]	.
 
 
 
-graceful		<-->	adjective+C1[-0]	.
+[-] graceful		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1968,7 +2386,7 @@ graceful		<-->	adjective+C1[-0]	.
 
 
 
-graceless		<-->	adjective+C2[-0]	.
+[-] graceless		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1978,7 +2396,7 @@ graceless		<-->	adjective+C2[-0]	.
 
 
 
-gray		<-->	adjective+A1[-0]	.
+[-] gray		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1988,7 +2406,7 @@ gray		<-->	adjective+A1[-0]	.
 
 
 
-greasy		<-->	adjective+C1[-0]	.
+[-] greasy		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1998,7 +2416,7 @@ greasy		<-->	adjective+C1[-0]	.
 
 
 
-grey		<-->	adjective+A1[-0]	.
+[-] grey		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2008,7 +2426,7 @@ grey		<-->	adjective+A1[-0]	.
 
 
 
-grey-haired		<-->	adjective+B1[-0]	.
+[-] grey-haired		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2018,7 +2436,7 @@ grey-haired		<-->	adjective+B1[-0]	.
 
 
 
-grimace		<-->	verb+C2[-0]	.
+[-] grimace		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2028,7 +2446,7 @@ grimace		<-->	verb+C2[-0]	.
 
 
 
-grimace		<-->	noun+C2[-0]	.
+[-] grimace		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2038,7 +2456,7 @@ grimace		<-->	noun+C2[-0]	.
 
 
 
-grin		<-->	verb+C1[-0]	.
+[-] grin		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2048,7 +2466,7 @@ grin		<-->	verb+C1[-0]	.
 
 
 
-grin		<-->	noun+C1[-0]	.
+[-] grin		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2058,7 +2476,7 @@ grin		<-->	noun+C1[-0]	.
 
 
 
-grizzled		<-->	adjective+C2[-0]	.
+[-] grizzled		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2068,7 +2486,7 @@ grizzled		<-->	adjective+C2[-0]	.
 
 
 
-grooming		<-->	noun+C2[-0]	.
+[-] grooming		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2078,7 +2496,7 @@ grooming		<-->	noun+C2[-0]	.
 
 
 
-grotesque		<-->	adjective+C2[-0]	.
+[-] grotesque		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2088,7 +2506,7 @@ grotesque		<-->	adjective+C2[-0]	.
 
 
 
-grow back		<-->	222+C2[-0]	.
+[-] grow back		<-->	222++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2098,7 +2516,7 @@ grow back		<-->	222+C2[-0]	.
 
 
 
-grow out		<-->	222+C2[-0]	.
+[-] grow out		<-->	222++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2108,7 +2526,7 @@ grow out		<-->	222+C2[-0]	.
 
 
 
-gurn		<-->	verb+C2[-0]	.
+[-] gurn		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2118,7 +2536,7 @@ gurn		<-->	verb+C2[-0]	.
 
 
 
-hair		<-->	noun+A1[-0]	.
+hair		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2128,7 +2546,7 @@ hair		<-->	noun+A1[-0]	.
 
 
 
-hairbrush		<-->	noun+A2[-0]	.
+hairbrush		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2138,7 +2556,7 @@ hairbrush		<-->	noun+A2[-0]	.
 
 
 
-haircut		<-->	noun+B1[-0]	.
+haircut		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2148,7 +2566,7 @@ haircut		<-->	noun+B1[-0]	.
 
 
 
-hairdo		<-->	noun+C2[-0]	.
+hairdo		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2158,7 +2576,7 @@ hairdo		<-->	noun+C2[-0]	.
 
 
 
-hairdresser		<-->	noun+A2[-0]	.
+hairdresser		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2168,7 +2586,7 @@ hairdresser		<-->	noun+A2[-0]	.
 
 
 
-hairdryer		<-->	noun+B1[-0]	.
+hairdryer		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2178,7 +2596,7 @@ hairdryer		<-->	noun+B1[-0]	.
 
 
 
-hair extension		<-->	noun+C2[-0]	.
+hair extension		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2188,7 +2606,7 @@ hair extension		<-->	noun+C2[-0]	.
 
 
 
-hairless		<-->	adjective+C2[-0]	.
+hairless		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2198,7 +2616,7 @@ hairless		<-->	adjective+C2[-0]	.
 
 
 
-hairline		<-->	noun+C2[-0]	.
+hairline		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2208,7 +2626,7 @@ hairline		<-->	noun+C2[-0]	.
 
 
 
-hairpiece		<-->	noun+C2[-0]	.
+hairpiece		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2218,7 +2636,7 @@ hairpiece		<-->	noun+C2[-0]	.
 
 
 
-hairspray		<-->	noun+C2[-0]	.
+hairspray		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2228,7 +2646,7 @@ hairspray		<-->	noun+C2[-0]	.
 
 
 
-hairstyle		<-->	noun+B1[-0]	.
+hairstyle		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2238,7 +2656,7 @@ hairstyle		<-->	noun+B1[-0]	.
 
 
 
-hairstylist		<-->	noun+C2[-0]	.
+hairstylist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2248,7 +2666,7 @@ hairstylist		<-->	noun+C2[-0]	.
 
 
 
-hairy		<-->	adjective+B2[-0]	.
+hairy		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2258,7 +2676,7 @@ hairy		<-->	adjective+B2[-0]	.
 
 
 
-hand cream		<-->	noun+B2[-0]	.
+hand cream		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2268,7 +2686,7 @@ hand cream		<-->	noun+B2[-0]	.
 
 
 
-handsome		<-->	adjective+A2[-0]	.
+handsome		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2278,7 +2696,7 @@ handsome		<-->	adjective+A2[-0]	.
 
 
 
-hangdog		<-->	adjective+C2[-0]	.
+hangdog		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2288,7 +2706,7 @@ hangdog		<-->	adjective+C2[-0]	.
 
 
 
-heart-throb		<-->	noun+C2[-0]	.
+heart-throb		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2298,7 +2716,7 @@ heart-throb		<-->	noun+C2[-0]	.
 
 
 
-heavy		<-->	adjective+A2[-0]	.
+heavy		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2308,7 +2726,7 @@ heavy		<-->	adjective+A2[-0]	.
 
 
 
-height		<-->	noun+A2[-0]	.
+height		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2318,7 +2736,7 @@ height		<-->	noun+A2[-0]	.
 
 
 
-henna		<-->	noun+C2[-0]	.
+henna		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2328,7 +2746,7 @@ henna		<-->	noun+C2[-0]	.
 
 
 
-hideous		<-->	adjective+C1[-0]	.
+hideous		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2338,7 +2756,7 @@ hideous		<-->	adjective+C1[-0]	.
 
 
 
-highlight		<-->	verb+C1[-0]	.
+highlight		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2348,7 +2766,7 @@ highlight		<-->	verb+C1[-0]	.
 
 
 
-highlight		<-->	noun+C1[-0]	.
+highlight		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2358,7 +2776,7 @@ highlight		<-->	noun+C1[-0]	.
 
 
 
-hirsute		<-->	adjective+C2[-0]	.
+hirsute		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2368,7 +2786,7 @@ hirsute		<-->	adjective+C2[-0]	.
 
 
 
-hoary		<-->	adjective+C2[-0]	.
+hoary		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2378,7 +2796,7 @@ hoary		<-->	adjective+C2[-0]	.
 
 
 
-homely		<-->	adjective+C2[-0]	.
+homely		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2388,7 +2806,7 @@ homely		<-->	adjective+C2[-0]	.
 
 
 
-hunch		<-->	verb+C2[-0]	.
+hunch		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2398,7 +2816,7 @@ hunch		<-->	verb+C2[-0]	.
 
 
 
-hydrogen peroxide		<-->	noun+C2[-0]	.
+hydrogen peroxide		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2408,7 +2826,7 @@ hydrogen peroxide		<-->	noun+C2[-0]	.
 
 
 
-knockout		<-->	noun+C2[-0]	.
+knockout		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2418,7 +2836,7 @@ knockout		<-->	noun+C2[-0]	.
 
 
 
-knot		<-->	noun+C2[-0]	.
+knot		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2428,7 +2846,7 @@ knot		<-->	noun+C2[-0]	.
 
 
 
-knot		<-->	verb+C2[-0]	.
+knot		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2438,7 +2856,7 @@ knot		<-->	verb+C2[-0]	.
 
 
 
-lacquer		<-->	noun+C2[-0]	.
+lacquer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2448,7 +2866,7 @@ lacquer		<-->	noun+C2[-0]	.
 
 
 
-lacquer		<-->	verb+C2[-0]	.
+lacquer		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2458,7 +2876,7 @@ lacquer		<-->	verb+C2[-0]	.
 
 
 
-languid		<-->	adjective+C2[-0]	.
+languid		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2468,7 +2886,7 @@ languid		<-->	adjective+C2[-0]	.
 
 
 
-languidly		<-->	111+C2[-0]	.
+languidly		<-->	111++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2478,7 +2896,7 @@ languidly		<-->	111+C2[-0]	.
 
 
 
-lank		<-->	adjective+C2[-0]	.
+lank		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2488,7 +2906,7 @@ lank		<-->	adjective+C2[-0]	.
 
 
 
-lanky		<-->	adjective+C2[-0]	.
+lanky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2498,7 +2916,7 @@ lanky		<-->	adjective+C2[-0]	.
 
 
 
-layer		<-->	verb+C2[-0]	.
+layer		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2508,7 +2926,7 @@ layer		<-->	verb+C2[-0]	.
 
 
 
-lean		<-->	adjective+C2[-0]	.
+lean		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2518,7 +2936,7 @@ lean		<-->	adjective+C2[-0]	.
 
 
 
-leer		<-->	verb+C2[-0]	.
+leer		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2528,7 +2946,7 @@ leer		<-->	verb+C2[-0]	.
 
 
 
-leer		<-->	noun+C2[-0]	.
+leer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2538,7 +2956,7 @@ leer		<-->	noun+C2[-0]	.
 
 
 
-light-footed		<-->	adjective+C2[-0]	.
+light-footed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2548,7 +2966,7 @@ light-footed		<-->	adjective+C2[-0]	.
 
 
 
-liner		<-->	noun+C2[-0]	.
+liner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2558,7 +2976,7 @@ liner		<-->	noun+C2[-0]	.
 
 
 
-lip balm		<-->	noun+C2[-0]	.
+lip balm		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2568,7 +2986,7 @@ lip balm		<-->	noun+C2[-0]	.
 
 
 
-lip gloss		<-->	noun+C2[-0]	.
+lip gloss		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2578,7 +2996,7 @@ lip gloss		<-->	noun+C2[-0]	.
 
 
 
-lip liner		<-->	noun+C2[-0]	.
+lip liner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2588,7 +3006,7 @@ lip liner		<-->	noun+C2[-0]	.
 
 
 
-lipstick		<-->	noun+B2[-0]	.
+lipstick		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2598,7 +3016,7 @@ lipstick		<-->	noun+B2[-0]	.
 
 
 
-lissom		<-->	adjective+C2[-0]	.
+lissom		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2608,7 +3026,7 @@ lissom		<-->	adjective+C2[-0]	.
 
 
 
-lithe		<-->	adjective+C2[-0]	.
+lithe		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2618,7 +3036,7 @@ lithe		<-->	adjective+C2[-0]	.
 
 
 
-lithely		<-->	111+C2[-0]	.
+lithely		<-->	111++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2628,7 +3046,7 @@ lithely		<-->	111+C2[-0]	.
 
 
 
-liver spot		<-->	noun+C2[-0]	.
+liver spot		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2638,7 +3056,7 @@ liver spot		<-->	noun+C2[-0]	.
 
 
 
-lock		<-->	noun+C2[-0]	.
+lock		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2648,7 +3066,7 @@ lock		<-->	noun+C2[-0]	.
 
 
 
-long		<-->	adjective+A1[-0]	.
+long		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2658,7 +3076,7 @@ long		<-->	adjective+A1[-0]	.
 
 
 
-looker		<-->	noun+C2[-0]	.
+looker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2668,7 +3086,7 @@ looker		<-->	noun+C2[-0]	.
 
 
 
-loose-limbed		<-->	adjective+C2[-0]	.
+loose-limbed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2678,7 +3096,7 @@ loose-limbed		<-->	adjective+C2[-0]	.
 
 
 
-love handles		<-->	noun+C2[-0]	.
+love handles		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2688,7 +3106,7 @@ love handles		<-->	noun+C2[-0]	.
 
 
 
-lovely		<-->	adjective+A2[-0]	.
+lovely		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2698,7 +3116,7 @@ lovely		<-->	adjective+A2[-0]	.
 
 
 
-lowlights		<-->	noun+C2[-0]	.
+lowlights		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2708,7 +3126,7 @@ lowlights		<-->	noun+C2[-0]	.
 
 
 
-lumbering		<-->	adjective+C2[-0]	.
+lumbering		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2718,7 +3136,7 @@ lumbering		<-->	adjective+C2[-0]	.
 
 
 
-luxuriant		<-->	adjective+C2[-0]	.
+luxuriant		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2728,7 +3146,7 @@ luxuriant		<-->	adjective+C2[-0]	.
 
 
 
-makeover		<-->	noun+B2[-0]	.
+makeover		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2738,7 +3156,7 @@ makeover		<-->	noun+B2[-0]	.
 
 
 
-make-up		<-->	noun+B2[-0]	.
+make-up		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2748,7 +3166,7 @@ make-up		<-->	noun+B2[-0]	.
 
 
 
-mascara		<-->	noun+C2[-0]	.
+mascara		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2758,7 +3176,7 @@ mascara		<-->	noun+C2[-0]	.
 
 
 
-mask		<-->	noun+C2[-0]	.
+mask		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2768,7 +3186,7 @@ mask		<-->	noun+C2[-0]	.
 
 
 
-matted		<-->	adjective+C2[-0]	.
+matted		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2778,7 +3196,7 @@ matted		<-->	adjective+C2[-0]	.
 
 
 
-mesomorph		<-->	noun+C2[-0]	.
+mesomorph		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2788,7 +3206,7 @@ mesomorph		<-->	noun+C2[-0]	.
 
 
 
-Mohican		<-->	noun+C2[-0]	.
+Mohican		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2798,7 +3216,7 @@ Mohican		<-->	noun+C2[-0]	.
 
 
 
-moisturizer		<-->	noun+C2[-0]	.
+moisturizer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2808,7 +3226,7 @@ moisturizer		<-->	noun+C2[-0]	.
 
 
 
-mole		<-->	noun+C2[-0]	.
+mole		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2818,7 +3236,7 @@ mole		<-->	noun+C2[-0]	.
 
 
 
-mop		<-->	noun+C2[-0]	.
+mop		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2828,7 +3246,7 @@ mop		<-->	noun+C2[-0]	.
 
 
 
-mousey		<-->	adjective+C2[-0]	.
+mousey		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2838,7 +3256,7 @@ mousey		<-->	adjective+C2[-0]	.
 
 
 
-mousse		<-->	noun+C2[-0]	.
+mousse		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2848,7 +3266,7 @@ mousse		<-->	noun+C2[-0]	.
 
 
 
-moustache		<-->	noun+B1[-0]	.
+moustache		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2858,7 +3276,7 @@ moustache		<-->	noun+B1[-0]	.
 
 
 
-mousy		<-->	adjective+C2[-0]	.
+mousy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2868,7 +3286,7 @@ mousy		<-->	adjective+C2[-0]	.
 
 
 
-mouthwash		<-->	noun+C2[-0]	.
+mouthwash		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2878,7 +3296,7 @@ mouthwash		<-->	noun+C2[-0]	.
 
 
 
-mullet		<-->	noun+C2[-0]	.
+mullet		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2888,7 +3306,7 @@ mullet		<-->	noun+C2[-0]	.
 
 
 
-muscular		<-->	adjective+C1[-0]	.
+muscular		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2898,7 +3316,7 @@ muscular		<-->	adjective+C1[-0]	.
 
 
 
-nail clippers		<-->	noun+C2[-0]	.
+nail clippers		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2908,7 +3326,7 @@ nail clippers		<-->	noun+C2[-0]	.
 
 
 
-nail polish		<-->	noun+C2[-0]	.
+nail polish		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2918,7 +3336,7 @@ nail polish		<-->	noun+C2[-0]	.
 
 
 
-nail scissors		<-->	noun+C2[-0]	.
+nail scissors		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2928,7 +3346,7 @@ nail scissors		<-->	noun+C2[-0]	.
 
 
 
-nice-looking		<-->	adjective+C1[-0]	.
+nice-looking		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2938,7 +3356,7 @@ nice-looking		<-->	adjective+C1[-0]	.
 
 
 
-nimble		<-->	adjective+C2[-0]	.
+nimble		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2948,7 +3366,7 @@ nimble		<-->	adjective+C2[-0]	.
 
 
 
-obese		<-->	adjective+B2[-0]	.
+obese		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2958,7 +3376,7 @@ obese		<-->	adjective+B2[-0]	.
 
 
 
-obesity		<-->	noun+B2[-0]	.
+obesity		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2968,7 +3386,7 @@ obesity		<-->	noun+B2[-0]	.
 
 
 
-oil		<-->	noun+A2[-0]	.
+oil		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2978,7 +3396,7 @@ oil		<-->	noun+A2[-0]	.
 
 
 
-overweight		<-->	adjective+B2[-0]	.
+overweight		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2988,7 +3406,7 @@ overweight		<-->	adjective+B2[-0]	.
 
 
 
-pale		<-->	adjective+B1[-0]	.
+pale		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2998,7 +3416,7 @@ pale		<-->	adjective+B1[-0]	.
 
 
 
-part		<-->	verb+C2[-0]	.
+part		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3008,7 +3426,7 @@ part		<-->	verb+C2[-0]	.
 
 
 
-parting		<-->	noun+C2[-0]	.
+parting		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3018,7 +3436,7 @@ parting		<-->	noun+C2[-0]	.
 
 
 
-pate		<-->	noun+C2[-0]	.
+pate		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3028,7 +3446,7 @@ pate		<-->	noun+C2[-0]	.
 
 
 
-pepper-and-salt		<-->	adjective+C2[-0]	.
+pepper-and-salt		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3038,7 +3456,7 @@ pepper-and-salt		<-->	adjective+C2[-0]	.
 
 
 
-perm		<-->	noun+C2[-0]	.
+perm		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3048,7 +3466,7 @@ perm		<-->	noun+C2[-0]	.
 
 
 
-perm		<-->	verb+C2[-0]	.
+perm		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3058,7 +3476,7 @@ perm		<-->	verb+C2[-0]	.
 
 
 
-permatan		<-->	noun+C2[-0]	.
+permatan		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3068,7 +3486,7 @@ permatan		<-->	noun+C2[-0]	.
 
 
 
-peroxide		<-->	noun+C2[-0]	.
+peroxide		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3078,7 +3496,7 @@ peroxide		<-->	noun+C2[-0]	.
 
 
 
-petite		<-->	adjective+C2[-0]	.
+petite		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3088,7 +3506,7 @@ petite		<-->	adjective+C2[-0]	.
 
 
 
-photogenic		<-->	adjective+C2[-0]	.
+photogenic		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3098,7 +3516,7 @@ photogenic		<-->	adjective+C2[-0]	.
 
 
 
-pigtail		<-->	noun+C2[-0]	.
+pigtail		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3108,7 +3526,7 @@ pigtail		<-->	noun+C2[-0]	.
 
 
 
-pimple		<-->	noun+C2[-0]	.
+pimple		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3118,7 +3536,7 @@ pimple		<-->	noun+C2[-0]	.
 
 
 
-pimply		<-->	adjective+C2[-0]	.
+pimply		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3128,7 +3546,7 @@ pimply		<-->	adjective+C2[-0]	.
 
 
 
-plain		<-->	adjective+B2[-0]	.
+plain		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3138,7 +3556,7 @@ plain		<-->	adjective+B2[-0]	.
 
 
 
-plait		<-->	noun+C2[-0]	.
+plait		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3148,7 +3566,7 @@ plait		<-->	noun+C2[-0]	.
 
 
 
-plait		<-->	verb+C2[-0]	.
+plait		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3158,7 +3576,7 @@ plait		<-->	verb+C2[-0]	.
 
 
 
-platinum blonde		<-->	adjective+C2[-0]	.
+platinum blonde		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3168,7 +3586,7 @@ platinum blonde		<-->	adjective+C2[-0]	.
 
 
 
-plump		<-->	adjective+C2[-0]	.
+plump		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3178,7 +3596,7 @@ plump		<-->	adjective+C2[-0]	.
 
 
 
-podgy		<-->	adjective+C2[-0]	.
+podgy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3188,7 +3606,7 @@ podgy		<-->	adjective+C2[-0]	.
 
 
 
-pomade		<-->	noun+C2[-0]	.
+pomade		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3198,7 +3616,7 @@ pomade		<-->	noun+C2[-0]	.
 
 
 
-ponytail		<-->	noun+C2[-0]	.
+ponytail		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3208,7 +3626,7 @@ ponytail		<-->	noun+C2[-0]	.
 
 
 
-pore		<-->	noun+C2[-0]	.
+pore		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3218,7 +3636,7 @@ pore		<-->	noun+C2[-0]	.
 
 
 
-portly		<-->	adjective+C2[-0]	.
+portly		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3228,7 +3646,7 @@ portly		<-->	adjective+C2[-0]	.
 
 
 
-port wine stain		<-->	noun+C2[-0]	.
+port wine stain		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3238,7 +3656,7 @@ port wine stain		<-->	noun+C2[-0]	.
 
 
 
-posture		<-->	noun+C1[-0]	.
+posture		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3248,7 +3666,7 @@ posture		<-->	noun+C1[-0]	.
 
 
 
-pot-bellied		<-->	adjective+C2[-0]	.
+pot-bellied		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3258,7 +3676,7 @@ pot-bellied		<-->	adjective+C2[-0]	.
 
 
 
-powder puff		<-->	noun+C2[-0]	.
+powder puff		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3268,7 +3686,7 @@ powder puff		<-->	noun+C2[-0]	.
 
 
 
-pretty		<-->	adjective+A1[-0]	.
+pretty		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3278,7 +3696,7 @@ pretty		<-->	adjective+A1[-0]	.
 
 
 
-primp		<-->	verb+C2[-0]	.
+primp		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3288,7 +3706,7 @@ primp		<-->	verb+C2[-0]	.
 
 
 
-product		<-->	noun+C1[-0]	.
+product		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3308,7 +3726,7 @@ pull/make faces/a face (at somebody)idiomC2[-0]	.
 
 
 
-pumice		<-->	noun+C2[-0]	.
+pumice		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3318,7 +3736,7 @@ pumice		<-->	noun+C2[-0]	.
 
 
 
-punky		<-->	adjective+C2[-0]	.
+punky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3328,7 +3746,7 @@ punky		<-->	adjective+C2[-0]	.
 
 
 
-quiff		<-->	noun+C2[-0]	.
+quiff		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3338,7 +3756,7 @@ quiff		<-->	noun+C2[-0]	.
 
 
 
-rangy		<-->	adjective+C2[-0]	.
+rangy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3348,7 +3766,7 @@ rangy		<-->	adjective+C2[-0]	.
 
 
 
-raven		<-->	adjective+C2[-0]	.
+raven		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3358,7 +3776,7 @@ raven		<-->	adjective+C2[-0]	.
 
 
 
-ravishing		<-->	adjective+C2[-0]	.
+ravishing		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3368,7 +3786,7 @@ ravishing		<-->	adjective+C2[-0]	.
 
 
 
-razor		<-->	noun+B2[-0]	.
+razor		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3378,7 +3796,7 @@ razor		<-->	noun+B2[-0]	.
 
 
 
-recede		<-->	verb+C2[-0]	.
+recede		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3388,7 +3806,7 @@ recede		<-->	verb+C2[-0]	.
 
 
 
-red		<-->	adjective+A1[-0]	.
+red		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3398,7 +3816,7 @@ red		<-->	adjective+A1[-0]	.
 
 
 
-redhead		<-->	noun+C2[-0]	.
+redhead		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3408,7 +3826,7 @@ redhead		<-->	noun+C2[-0]	.
 
 
 
-red-headed		<-->	adjective+C2[-0]	.
+red-headed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3418,7 +3836,7 @@ red-headed		<-->	adjective+C2[-0]	.
 
 
 
-ringlet		<-->	noun+C2[-0]	.
+ringlet		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3428,7 +3846,7 @@ ringlet		<-->	noun+C2[-0]	.
 
 
 
-rinse		<-->	noun+C2[-0]	.
+rinse		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3438,7 +3856,7 @@ rinse		<-->	noun+C2[-0]	.
 
 
 
-roller		<-->	noun+C2[-0]	.
+roller		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3448,7 +3866,7 @@ roller		<-->	noun+C2[-0]	.
 
 
 
-roly-poly		<-->	adjective+C2[-0]	.
+roly-poly		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3458,7 +3876,7 @@ roly-poly		<-->	adjective+C2[-0]	.
 
 
 
-rosy		<-->	adjective+C2[-0]	.
+rosy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3468,7 +3886,7 @@ rosy		<-->	adjective+C2[-0]	.
 
 
 
-rotund		<-->	adjective+C2[-0]	.
+rotund		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3478,7 +3896,7 @@ rotund		<-->	adjective+C2[-0]	.
 
 
 
-rotundity		<-->	noun+C2[-0]	.
+rotundity		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3488,7 +3906,7 @@ rotundity		<-->	noun+C2[-0]	.
 
 
 
-round-shouldered		<-->	adjective+C2[-0]	.
+round-shouldered		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3498,7 +3916,7 @@ round-shouldered		<-->	adjective+C2[-0]	.
 
 
 
-rugged		<-->	adjective+C2[-0]	.
+rugged		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3508,7 +3926,7 @@ rugged		<-->	adjective+C2[-0]	.
 
 
 
-salon		<-->	noun+B2[-0]	.
+salon		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3518,7 +3936,7 @@ salon		<-->	noun+B2[-0]	.
 
 
 
-salt-and-pepper		<-->	adjective+C2[-0]	.
+salt-and-pepper		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3528,7 +3946,7 @@ salt-and-pepper		<-->	adjective+C2[-0]	.
 
 
 
-sandy		<-->	adjective+C2[-0]	.
+sandy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3538,7 +3956,7 @@ sandy		<-->	adjective+C2[-0]	.
 
 
 
-scissors		<-->	noun+B1[-0]	.
+scissors		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3548,7 +3966,7 @@ scissors		<-->	noun+B1[-0]	.
 
 
 
-scowl		<-->	verb+C2[-0]	.
+scowl		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3558,7 +3976,7 @@ scowl		<-->	verb+C2[-0]	.
 
 
 
-scowl		<-->	noun+C2[-0]	.
+scowl		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3568,7 +3986,7 @@ scowl		<-->	noun+C2[-0]	.
 
 
 
-scrawny		<-->	adjective+C2[-0]	.
+scrawny		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3578,7 +3996,7 @@ scrawny		<-->	adjective+C2[-0]	.
 
 
 
-scruffy		<-->	adjective+C1[-0]	.
+scruffy		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3588,7 +4006,7 @@ scruffy		<-->	adjective+C1[-0]	.
 
 
 
-scrunch		<-->	verb+C2[-0]	.
+scrunch		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3598,7 +4016,7 @@ scrunch		<-->	verb+C2[-0]	.
 
 
 
-scrunch-dry		<-->	verb+C2[-0]	.
+scrunch-dry		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3608,7 +4026,7 @@ scrunch-dry		<-->	verb+C2[-0]	.
 
 
 
-set		<-->	verb+C2[-0]	.
+set		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3618,7 +4036,7 @@ set		<-->	verb+C2[-0]	.
 
 
 
-sex appeal		<-->	noun+C2[-0]	.
+sex appeal		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3628,7 +4046,7 @@ sex appeal		<-->	noun+C2[-0]	.
 
 
 
-sex symbol		<-->	noun+C2[-0]	.
+sex symbol		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3638,7 +4056,7 @@ sex symbol		<-->	noun+C2[-0]	.
 
 
 
-sexy		<-->	adjective+B2[-0]	.
+sexy		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3648,7 +4066,7 @@ sexy		<-->	adjective+B2[-0]	.
 
 
 
-shaggy		<-->	adjective+C2[-0]	.
+shaggy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3658,7 +4076,7 @@ shaggy		<-->	adjective+C2[-0]	.
 
 
 
-shampoo		<-->	noun+B1[-0]	.
+shampoo		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3668,7 +4086,7 @@ shampoo		<-->	noun+B1[-0]	.
 
 
 
-shampoo		<-->	verb+B1[-0]	.
+shampoo		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3678,7 +4096,7 @@ shampoo		<-->	verb+B1[-0]	.
 
 
 
-shapely		<-->	adjective+C2[-0]	.
+shapely		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3688,7 +4106,7 @@ shapely		<-->	adjective+C2[-0]	.
 
 
 
-shave		<-->	verb+B1[-0]	.
+shave		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3698,7 +4116,7 @@ shave		<-->	verb+B1[-0]	.
 
 
 
-shaven		<-->	adjective+C2[-0]	.
+shaven		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3708,7 +4126,7 @@ shaven		<-->	adjective+C2[-0]	.
 
 
 
-shaver		<-->	noun+B1[-0]	.
+shaver		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3718,7 +4136,7 @@ shaver		<-->	noun+B1[-0]	.
 
 
 
-shear		<-->	verb+C2[-0]	.
+shear		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3728,7 +4146,7 @@ shear		<-->	verb+C2[-0]	.
 
 
 
-shiny		<-->	adjective+B1[-0]	.
+shiny		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3738,7 +4156,7 @@ shiny		<-->	adjective+B1[-0]	.
 
 
 
-shock		<-->	noun+C2[-0]	.
+shock		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3748,7 +4166,7 @@ shock		<-->	noun+C2[-0]	.
 
 
 
-shock-headed		<-->	adjective+C2[-0]	.
+shock-headed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3758,7 +4176,7 @@ shock-headed		<-->	adjective+C2[-0]	.
 
 
 
-short		<-->	adjective+A1[-0]	.
+short		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3768,7 +4186,7 @@ short		<-->	adjective+A1[-0]	.
 
 
 
-shoulder-length		<-->	adjective+C1[-0]	.
+shoulder-length		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3778,7 +4196,7 @@ shoulder-length		<-->	adjective+C1[-0]	.
 
 
 
-sideburn		<-->	noun+C2[-0]	.
+sideburn		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3788,7 +4206,7 @@ sideburn		<-->	noun+C2[-0]	.
 
 
 
-side whiskers		<-->	noun+C2[-0]	.
+side whiskers		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3798,7 +4216,7 @@ side whiskers		<-->	noun+C2[-0]	.
 
 
 
-silky		<-->	adjective+C2[-0]	.
+silky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3808,7 +4226,7 @@ silky		<-->	adjective+C2[-0]	.
 
 
 
-sinewy		<-->	adjective+C2[-0]	.
+sinewy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3828,7 +4246,7 @@ sit/stand bolt uprightidiomC2[-0]	.
 
 
 
-skin		<-->	noun+A2[-0]	.
+skin		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3838,7 +4256,7 @@ skin		<-->	noun+A2[-0]	.
 
 
 
-skinhead		<-->	noun+C2[-0]	.
+skinhead		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3848,7 +4266,7 @@ skinhead		<-->	noun+C2[-0]	.
 
 
 
-skinny		<-->	adjective+B2[-0]	.
+skinny		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3858,7 +4276,7 @@ skinny		<-->	adjective+B2[-0]	.
 
 
 
-slaphead		<-->	noun+C2[-0]	.
+slaphead		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3868,7 +4286,7 @@ slaphead		<-->	noun+C2[-0]	.
 
 
 
-sleek		<-->	adjective+C2[-0]	.
+sleek		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3878,7 +4296,7 @@ sleek		<-->	adjective+C2[-0]	.
 
 
 
-slender		<-->	adjective+C1[-0]	.
+slender		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3888,7 +4306,7 @@ slender		<-->	adjective+C1[-0]	.
 
 
 
-slick		<-->	verb+C2[-0]	.
+slick		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3898,7 +4316,7 @@ slick		<-->	verb+C2[-0]	.
 
 
 
-slight		<-->	adjective+C2[-0]	.
+slight		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3908,7 +4326,7 @@ slight		<-->	adjective+C2[-0]	.
 
 
 
-slim		<-->	adjective+A2[-0]	.
+slim		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3918,7 +4336,7 @@ slim		<-->	adjective+A2[-0]	.
 
 
 
-slouch		<-->	verb+C2[-0]	.
+slouch		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3928,7 +4346,7 @@ slouch		<-->	verb+C2[-0]	.
 
 
 
-slouchy		<-->	adjective+C2[-0]	.
+slouchy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3938,7 +4356,7 @@ slouchy		<-->	adjective+C2[-0]	.
 
 
 
-slumped		<-->	adjective+C2[-0]	.
+slumped		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3948,7 +4366,7 @@ slumped		<-->	adjective+C2[-0]	.
 
 
 
-smile		<-->	verb+A2[-0]	.
+smile		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3958,7 +4376,7 @@ smile		<-->	verb+A2[-0]	.
 
 
 
-smile		<-->	noun+A2[-0]	.
+smile		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3968,7 +4386,7 @@ smile		<-->	noun+A2[-0]	.
 
 
 
-smirk		<-->	verb+C2[-0]	.
+smirk		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3978,7 +4396,7 @@ smirk		<-->	verb+C2[-0]	.
 
 
 
-smirk		<-->	noun+C2[-0]	.
+smirk		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3988,7 +4406,7 @@ smirk		<-->	noun+C2[-0]	.
 
 
 
-smize		<-->	verb+C2[-0]	.
+smize		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3998,7 +4416,7 @@ smize		<-->	verb+C2[-0]	.
 
 
 
-smize		<-->	noun+C2[-0]	.
+smize		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4008,7 +4426,7 @@ smize		<-->	noun+C2[-0]	.
 
 
 
-sneer		<-->	verb+C2[-0]	.
+sneer		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4018,7 +4436,7 @@ sneer		<-->	verb+C2[-0]	.
 
 
 
-sneer		<-->	noun+C2[-0]	.
+sneer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4028,7 +4446,7 @@ sneer		<-->	noun+C2[-0]	.
 
 
 
-soap		<-->	noun+A2[-0]	.
+soap		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4048,7 +4466,7 @@ somebody’s face is like thunderidiomC2[-0]	.
 
 
 
-sour-faced		<-->	adjective+C2[-0]	.
+sour-faced		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4058,7 +4476,7 @@ sour-faced		<-->	adjective+C2[-0]	.
 
 
 
-southern belle		<-->	noun+C2[-0]	.
+southern belle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4068,7 +4486,7 @@ southern belle		<-->	noun+C2[-0]	.
 
 
 
-spare tyre		<-->	noun+C2[-0]	.
+spare tyre		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4078,7 +4496,7 @@ spare tyre		<-->	noun+C2[-0]	.
 
 
 
-spiky		<-->	adjective+C2[-0]	.
+spiky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4088,7 +4506,7 @@ spiky		<-->	adjective+C2[-0]	.
 
 
 
-split end		<-->	noun+C2[-0]	.
+split end		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4098,7 +4516,7 @@ split end		<-->	noun+C2[-0]	.
 
 
 
-spot		<-->	noun+B1[-0]	.
+spot		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4108,7 +4526,7 @@ spot		<-->	noun+B1[-0]	.
 
 
 
-squat		<-->	adjective+C2[-0]	.
+squat		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4118,7 +4536,7 @@ squat		<-->	adjective+C2[-0]	.
 
 
 
-squint		<-->	verb+C2[-0]	.
+squint		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4128,7 +4546,7 @@ squint		<-->	verb+C2[-0]	.
 
 
 
-statuesque		<-->	adjective+C2[-0]	.
+statuesque		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4138,7 +4556,7 @@ statuesque		<-->	adjective+C2[-0]	.
 
 
 
-stockily		<-->	111+C2[-0]	.
+stockily		<-->	111++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4148,7 +4566,7 @@ stockily		<-->	111+C2[-0]	.
 
 
 
-stocky		<-->	adjective+C2[-0]	.
+stocky		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4158,7 +4576,7 @@ stocky		<-->	adjective+C2[-0]	.
 
 
 
-stoop		<-->	verb+C2[-0]	.
+stoop		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4168,7 +4586,7 @@ stoop		<-->	verb+C2[-0]	.
 
 
 
-stooped		<-->	adjective+C2[-0]	.
+stooped		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4178,7 +4596,7 @@ stooped		<-->	adjective+C2[-0]	.
 
 
 
-stout		<-->	adjective+C2[-0]	.
+stout		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4188,7 +4606,7 @@ stout		<-->	adjective+C2[-0]	.
 
 
 
-straight		<-->	adjective+A2[-0]	.
+straight		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4198,7 +4616,7 @@ straight		<-->	adjective+A2[-0]	.
 
 
 
-strand		<-->	noun+C1[-0]	.
+strand		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4208,7 +4626,7 @@ strand		<-->	noun+C1[-0]	.
 
 
 
-strawberry blonde		<-->	adjective+C2[-0]	.
+strawberry blonde		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4218,7 +4636,7 @@ strawberry blonde		<-->	adjective+C2[-0]	.
 
 
 
-streak		<-->	noun+C1[-0]	.
+streak		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4228,7 +4646,7 @@ streak		<-->	noun+C1[-0]	.
 
 
 
-striking		<-->	adjective+C1[-0]	.
+striking		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4238,7 +4656,7 @@ striking		<-->	adjective+C1[-0]	.
 
 
 
-stringy		<-->	adjective+C2[-0]	.
+stringy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4248,7 +4666,7 @@ stringy		<-->	adjective+C2[-0]	.
 
 
 
-stubble		<-->	noun+C2[-0]	.
+stubble		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4258,7 +4676,7 @@ stubble		<-->	noun+C2[-0]	.
 
 
 
-stunner		<-->	noun+C2[-0]	.
+stunner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4268,7 +4686,7 @@ stunner		<-->	noun+C2[-0]	.
 
 
 
-stunning		<-->	adjective+B2[-0]	.
+stunning		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4278,7 +4696,7 @@ stunning		<-->	adjective+B2[-0]	.
 
 
 
-styling		<-->	noun+C1[-0]	.
+styling		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4288,7 +4706,7 @@ styling		<-->	noun+C1[-0]	.
 
 
 
-stylist		<-->	noun+C1[-0]	.
+stylist		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4298,7 +4716,7 @@ stylist		<-->	noun+C1[-0]	.
 
 
 
-sullen		<-->	adjective+C2[-0]	.
+sullen		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4308,7 +4726,7 @@ sullen		<-->	adjective+C2[-0]	.
 
 
 
-sunburned		<-->	adjective+B2[-0]	.
+sunburned		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4318,7 +4736,7 @@ sunburned		<-->	adjective+B2[-0]	.
 
 
 
-suntan		<-->	noun+C1[-0]	.
+suntan		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4328,7 +4746,7 @@ suntan		<-->	noun+C1[-0]	.
 
 
 
-suntanned		<-->	adjective+C1[-0]	.
+suntanned		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4338,7 +4756,7 @@ suntanned		<-->	adjective+C1[-0]	.
 
 
 
-supple		<-->	adjective+C2[-0]	.
+supple		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4348,7 +4766,7 @@ supple		<-->	adjective+C2[-0]	.
 
 
 
-svelte		<-->	adjective+C2[-0]	.
+svelte		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4358,7 +4776,7 @@ svelte		<-->	adjective+C2[-0]	.
 
 
 
-swarthy		<-->	adjective+C2[-0]	.
+swarthy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4368,7 +4786,7 @@ swarthy		<-->	adjective+C2[-0]	.
 
 
 
-sweep		<-->	verb+C2[-0]	.
+sweep		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4378,7 +4796,7 @@ sweep		<-->	verb+C2[-0]	.
 
 
 
-swept-back		<-->	adjective+C2[-0]	.
+swept-back		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4388,7 +4806,7 @@ swept-back		<-->	adjective+C2[-0]	.
 
 
 
-sylph		<-->	noun+C2[-0]	.
+sylph		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4398,7 +4816,7 @@ sylph		<-->	noun+C2[-0]	.
 
 
 
-talcum powder		<-->	noun+C2[-0]	.
+talcum powder		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4408,7 +4826,7 @@ talcum powder		<-->	noun+C2[-0]	.
 
 
 
-tall		<-->	adjective+A1[-0]	.
+tall		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4418,7 +4836,7 @@ tall		<-->	adjective+A1[-0]	.
 
 
 
-tan		<-->	verb+C1[-0]	.
+tan		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4428,7 +4846,7 @@ tan		<-->	verb+C1[-0]	.
 
 
 
-tan		<-->	noun+C1[-0]	.
+tan		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4438,7 +4856,7 @@ tan		<-->	noun+C1[-0]	.
 
 
 
-tangle		<-->	noun+C2[-0]	.
+tangle		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4448,7 +4866,7 @@ tangle		<-->	noun+C2[-0]	.
 
 
 
-tanned		<-->	adjective+C1[-0]	.
+tanned		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4458,7 +4876,7 @@ tanned		<-->	adjective+C1[-0]	.
 
 
 
-tattoo		<-->	noun+B2[-0]	.
+tattoo		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4468,7 +4886,7 @@ tattoo		<-->	noun+B2[-0]	.
 
 
 
-tease		<-->	verb+C2[-0]	.
+tease		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4478,7 +4896,7 @@ tease		<-->	verb+C2[-0]	.
 
 
 
-tendril		<-->	noun+C2[-0]	.
+tendril		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4488,7 +4906,7 @@ tendril		<-->	noun+C2[-0]	.
 
 
 
-thatch		<-->	noun+C2[-0]	.
+thatch		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4498,7 +4916,7 @@ thatch		<-->	noun+C2[-0]	.
 
 
 
-thick		<-->	adjective+B1[-0]	.
+thick		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4508,7 +4926,7 @@ thick		<-->	adjective+B1[-0]	.
 
 
 
-thin		<-->	adjective+A2[-0]	.
+thin		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4528,7 +4946,7 @@ thin/bald on topidiomC2[-0]	.
 
 
 
-tint		<-->	noun+C2[-0]	.
+tint		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4538,7 +4956,7 @@ tint		<-->	noun+C2[-0]	.
 
 
 
-tint		<-->	verb+C2[-0]	.
+tint		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4548,7 +4966,7 @@ tint		<-->	verb+C2[-0]	.
 
 
 
-tone		<-->	noun+C2[-0]	.
+tone		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4558,7 +4976,7 @@ tone		<-->	noun+C2[-0]	.
 
 
 
-toner		<-->	noun+C2[-0]	.
+toner		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4568,7 +4986,7 @@ toner		<-->	noun+C2[-0]	.
 
 
 
-tongs		<-->	noun+C2[-0]	.
+tongs		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4578,7 +4996,7 @@ tongs		<-->	noun+C2[-0]	.
 
 
 
-tonic		<-->	noun+C2[-0]	.
+tonic		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4588,7 +5006,7 @@ tonic		<-->	noun+C2[-0]	.
 
 
 
-toothpaste		<-->	noun+B1[-0]	.
+toothpaste		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4598,7 +5016,7 @@ toothpaste		<-->	noun+B1[-0]	.
 
 
 
-topknot		<-->	noun+C2[-0]	.
+topknot		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4608,7 +5026,7 @@ topknot		<-->	noun+C2[-0]	.
 
 
 
-toupee		<-->	noun+C2[-0]	.
+toupee		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4618,7 +5036,7 @@ toupee		<-->	noun+C2[-0]	.
 
 
 
-tousle		<-->	verb+C2[-0]	.
+tousle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4628,7 +5046,7 @@ tousle		<-->	verb+C2[-0]	.
 
 
 
-tousled		<-->	adjective+C2[-0]	.
+tousled		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4638,7 +5056,7 @@ tousled		<-->	adjective+C2[-0]	.
 
 
 
-tresses		<-->	noun+C2[-0]	.
+tresses		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4648,7 +5066,7 @@ tresses		<-->	noun+C2[-0]	.
 
 
 
-trim		<-->	verb+C2[-0]	.
+trim		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4658,7 +5076,7 @@ trim		<-->	verb+C2[-0]	.
 
 
 
-tubby		<-->	adjective+C2[-0]	.
+tubby		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4668,7 +5086,7 @@ tubby		<-->	adjective+C2[-0]	.
 
 
 
-tuft		<-->	noun+C2[-0]	.
+tuft		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4678,7 +5096,7 @@ tuft		<-->	noun+C2[-0]	.
 
 
 
-tweezers		<-->	noun+C2[-0]	.
+tweezers		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4688,7 +5106,7 @@ tweezers		<-->	noun+C2[-0]	.
 
 
 
-ugly		<-->	adjective+B1[-0]	.
+ugly		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4698,7 +5116,7 @@ ugly		<-->	adjective+B1[-0]	.
 
 
 
-unattractive		<-->	adjective+B1[-0]	.
+unattractive		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4708,7 +5126,7 @@ unattractive		<-->	adjective+B1[-0]	.
 
 
 
-uncombed		<-->	adjective+C2[-0]	.
+uncombed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4718,7 +5136,7 @@ uncombed		<-->	adjective+C2[-0]	.
 
 
 
-uncoordinated		<-->	adjective+C2[-0]	.
+uncoordinated		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4728,7 +5146,7 @@ uncoordinated		<-->	adjective+C2[-0]	.
 
 
 
-undercut		<-->	noun+C2[-0]	.
+undercut		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4738,7 +5156,7 @@ undercut		<-->	noun+C2[-0]	.
 
 
 
-underweight		<-->	adjective+B2[-0]	.
+underweight		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4748,7 +5166,7 @@ underweight		<-->	adjective+B2[-0]	.
 
 
 
-ungainly		<-->	adjective+C2[-0]	.
+ungainly		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4758,7 +5176,7 @@ ungainly		<-->	adjective+C2[-0]	.
 
 
 
-unkempt		<-->	adjective+C2[-0]	.
+unkempt		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4768,7 +5186,7 @@ unkempt		<-->	adjective+C2[-0]	.
 
 
 
-unlovely		<-->	adjective+C2[-0]	.
+unlovely		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4778,7 +5196,7 @@ unlovely		<-->	adjective+C2[-0]	.
 
 
 
-untangle		<-->	verb+C2[-0]	.
+untangle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4788,7 +5206,7 @@ untangle		<-->	verb+C2[-0]	.
 
 
 
-upright		<-->	adjective+C1[-0]	.
+upright		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4798,7 +5216,7 @@ upright		<-->	adjective+C1[-0]	.
 
 
 
-volumize		<-->	verb+C2[-0]	.
+volumize		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4808,7 +5226,7 @@ volumize		<-->	verb+C2[-0]	.
 
 
 
-voluptuous		<-->	adjective+C2[-0]	.
+voluptuous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4818,7 +5236,7 @@ voluptuous		<-->	adjective+C2[-0]	.
 
 
 
-wave		<-->	noun+C1[-0]	.
+wave		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4828,7 +5246,7 @@ wave		<-->	noun+C1[-0]	.
 
 
 
-wave		<-->	verb+C1[-0]	.
+wave		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4838,7 +5256,7 @@ wave		<-->	verb+C1[-0]	.
 
 
 
-wavy		<-->	adjective+A2[-0]	.
+wavy		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4848,7 +5266,7 @@ wavy		<-->	adjective+A2[-0]	.
 
 
 
-wear		<-->	verb+C1[-0]	.
+wear		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4858,7 +5276,7 @@ wear		<-->	verb+C1[-0]	.
 
 
 
-weight		<-->	noun+A2[-0]	.
+weight		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4868,7 +5286,7 @@ weight		<-->	noun+A2[-0]	.
 
 
 
-well dressed		<-->	adjective+B1[-0]	.
+well dressed		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4878,7 +5296,7 @@ well dressed		<-->	adjective+B1[-0]	.
 
 
 
-wet look		<-->	noun+C2[-0]	.
+wet look		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4888,7 +5306,7 @@ wet look		<-->	noun+C2[-0]	.
 
 
 
-wet-look		<-->	adjective+C2[-0]	.
+wet-look		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4898,7 +5316,7 @@ wet-look		<-->	adjective+C2[-0]	.
 
 
 
-wig		<-->	noun+C1[-0]	.
+wig		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4908,7 +5326,7 @@ wig		<-->	noun+C1[-0]	.
 
 
 
-wince		<-->	noun+C2[-0]	.
+wince		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4918,7 +5336,7 @@ wince		<-->	noun+C2[-0]	.
 
 
 
-wince		<-->	verb+C2[-0]	.
+wince		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4928,7 +5346,7 @@ wince		<-->	verb+C2[-0]	.
 
 
 
-wind-blown		<-->	adjective+C2[-0]	.
+wind-blown		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4938,7 +5356,7 @@ wind-blown		<-->	adjective+C2[-0]	.
 
 
 
-wink		<-->	verb+C2[-0]	.
+wink		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4948,7 +5366,7 @@ wink		<-->	verb+C2[-0]	.
 
 
 
-wink		<-->	noun+C2[-0]	.
+wink		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4958,7 +5376,7 @@ wink		<-->	noun+C2[-0]	.
 
 
 
-winning		<-->	adjective+C2[-0]	.
+winning		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4968,7 +5386,7 @@ winning		<-->	adjective+C2[-0]	.
 
 
 
-wiry		<-->	adjective+C2[-0]	.
+wiry		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4978,7 +5396,7 @@ wiry		<-->	adjective+C2[-0]	.
 
 
 
-wisp		<-->	noun+C2[-0]	.
+wisp		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4988,7 +5406,7 @@ wisp		<-->	noun+C2[-0]	.
 
 
 
-wrinkle		<-->	noun+C1[-0]	.
+wrinkle		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 

@@ -1,300 +1,2089 @@
-[-] acrenounC1
-[-] acute anglenounC2
-[-] addverbA1
-[-] additionnounB1
-[-] add upphrasal verbB1
-[-] add up tophrasal verbB2
-[-] algebranounC1
-[-] amount tophrasal verbB2
-[-] ampnounC2
-[-] anglenounB2
-[-] arcnounC2
-[-] areanounB2
-[-] arithmeticnounC1
-[-] arraynounC2
-[-] asymmetricadjectiveC2
-[-] asymmetricallyadverbC2
-[-] asymmetrynounC2
-[-] averageadjectiveA2
-[-] averagenounA2
-[-] axisnounC1
-[-] bar chartnounB2
-[-] bar graphnounB2
-[-] billionnumberA2
-[-] binaryadjectiveC2
-[-] bracketnounC1
-[-] breadthnounC2
-[-] CabbreviationC1
-[-] calculateverbB2
-[-] calculationnounC1
-[-] calculatornounB2
-[-] calculusnounC2
-[-] calorienounB1
-[-] caratnounC2
-[-] cardinalnounC2
-[-] catastrophe theorynounC2
-[-] CelsiusadjectiveB2
-[-] centigradeadjectiveC1
-[-] centilitrenounC2
-[-] centimetrenounA2
-[-] chaos theorynounC2
-[-] circumferencenounC2
-[-] clabbreviationC2
-[-] coaxialadjectiveC2
-[-] common denominatornounC2
-[-] common fractionnounC2
-[-] congruencenounC2
-[-] congruentadjectiveC2
-[-] coordinatenounC2
-[-] cosabbreviationC2
-[-] cosinenounC2
-[-] countverbA2
-[-] countnounB1
-[-] cubenounC2
-[-] cubeverbC2
-[-] cube rootnounC2
-[-] cubicadjectiveC2
-[-] cupfulnounB2
-[-] cwtabbreviationC2
-[-] decimalnounC1
-[-] deduceverbC1
-[-] deductionnounB2
-[-] degreenounA2
-[-] denominatornounC2
-[-] depthnounB2
-[-] diameternounC1
-[-] differential calculusnounC2
-[-] digitnounB2
-[-] dimensionnounC1
-[-] divideverbB1
-[-] divisibleadjectiveC2
-[-] divisionnounB2
-[-] divisornounC2
-[-] domainnounC2
-[-] doublepronounA2
-[-] doubleverbA2
-[-] equallinking verbB1
-[-] equals signnounB2
-[-] equationnounC1
-[-] expressverbC1
-[-] exterior anglenounC2
-[-] factornounC1
-[-] factorialnounC2
-[-] FahrenheitnounC1
-[-] figurenounA2
-[-] fl ozabbreviationC2
-[-] fluid ouncenounC2
-[-] footnounA2
-[-] footagenounC2
-[-] formulanounC1
-[-] fpsabbreviationC2
-[-] fractionnounB2
-[-] ftabbreviationC2
-[-] functionnounC1
-[-] gabbreviationA2
-[-] gal.abbreviationC2
-[-] gallonnounC1
-[-] game theorynounC2
-[-] geodesicadjectiveC2
-[-] geometricadjectiveC2
-[-] geometrynounC2
-[-] gradientnounC2
-[-] gramnounB2
-[-] grammenounB2
-[-] graphnounB1
-[-] hectarenounC1
-[-] heightnounA2
-[-] hertznounC2
-[-] horizontaladjectiveB2
-[-] horsepowernounC2
-[-] hundrednumberA1
-[-] hundredthordinal numberA2
-[-] hundredweightnounC2
-[-] hypotenusenounC2
-[-] HzabbreviationC2
-[-] in.abbreviationC2
-[-] inchnounB2
-[-] indexnounC2
-[-] inductionnounC2
-[-] infiniteadjectiveC1
-[-] infinitynounC1
-[-] information theorynounC2
-[-] integral calculusnounC2
-[-] interior anglenounC2
-[-] intoprepositionC1
-[-] irrational numbernounC2
-[-] iterateverbC2
-[-] iterationnounC2
-[-] karatnounC2
-[-] kgabbreviationA2
-[-] kHzabbreviationC2
-[-] kilonounA2
-[-] kilogramnounA2
-[-] kilohertznounC2
-[-] kilometrenounA1
-[-] kilowattnounC2
-[-] kmabbreviationA2
-[-] kmphabbreviationC1
-[-] knotnounC2
-[-] kphabbreviationC1
-[-] kWabbreviationC2
-[-] labbreviationC2
-[-] lbabbreviationC2
-[-] lengthnounB1
-[-] line graphnounB2
-[-] liternounB1
-[-] litrenounB2
-[-] logarithmnounC2
-[-] long divisionnounC2
-[-] mabbreviationA2
-[-] mathematicaladjectiveC1
-[-] mathematicallyadverbB2
-[-] mathematiciannounB2
-[-] mathematicsnounA2
-[-] mathsnounA2
-[-] matrixnounC2
-[-] maximumadjectiveB2
-[-] maximumnounB2
-[-] meanadjectiveC2
-[-] meannounC2
-[-] measureverbB1
-[-] measurenounB2
-[-] measurementnounB2
-[-] measuring tapenounB2
-[-] megahertznounC2
-[-] megawattnounC2
-[-] metrenounA1
-[-] metricadjectiveC1
-[-] metricnounC2
-[-] metric tonnounC1
-[-] mgabbreviationC2
-[-] MHzabbreviationC2
-[-] milenounA1
-[-] milligramnounB1
-[-] millilitrenounB1
-[-] millimetrenounB1
-[-] millionnumberA1
-[-] minimumadjectiveB2
-[-] minimumnounB2
-[-] minusprepositionB1
-[-] minusnounB1
-[-] minutenounC2
-[-] mlabbreviationB1
-[-] mmabbreviationB1
-[-] mphabbreviationC1
-[-] multiplenounB2
-[-] multiplyverbB2
-[-] MWabbreviationC2
-[-] nanometrenounC2
-[-] negativeadjectiveB2
-[-] nilnounC1
-[-] noughtnounC1
-[-] numbernounA1
-[-] numeracynounC2
-[-] numeratornounC2
-[-] numericaladjectiveC1
-[-] obtuse anglenounC2
-[-] operatornounC2
-[-] ordinalnounC1
-[-] ouncenounC1
-[-] ozabbreviationC2
-[-] pacenounC1
-[-] parabolanounC2
-[-] paralleladjectiveB2
-[-] percentagenounB1
-[-] perimeternounC2
-[-] pie chartnounB2
-[-] pintnounC1
-[-] placenounC1
-[-] planenounC2
-[-] plusprepositionB1
-[-] plusnounB2
-[-] pointnounB1
-[-] polynomialadjectiveC2
-[-] positiveadjectiveB2
-[-] poundnounB1
-[-] powernounC2
-[-] prime numbernounC2
-[-] probabilitynounB2
-[-] problemnounB2
-[-] productnounC2
-[-] proofnounC1
-[-] ptabbreviationC2
-[-] qtabbreviationC2
-[-] quadrupleverbC2
-[-] quartnounC2
-[-] radiusnounC1
-[-] rationounC1
-[-] rational numbernounC2
-[-] reflex anglenounC2
-[-] registerverbC2
-[-] right anglenounC1
-[-] right-angledadjectiveC2
-[-] rootnounC2
-[-] round bracketnounC1
-[-] rpmabbreviationC2
-[-] rulernounA2
-[-] scalaradjectiveC2
-[-] scalenounB2
-[-] scorenounC1
-[-] segmentnounC1
-[-] setnounB2
-[-] SIabbreviationC2
-[-] signnounB1
-[-] sinenounC2
-[-] sizenounA2
-[-] solidnounC1
-[-] solutionnounA2
-[-] solveverbA2
-[-] spoonfulnounB2
-[-] squareadjectiveB2
-[-] squarenounC2
-[-] squareverbC2
-[-] squaredadjectiveC2
-[-] square numbernounC2
-[-] square rootnounC2
-[-] stabbreviationC2
-[-] statisticnounB1
-[-] statsnounB1
-[-] stonenounC1
-[-] straight anglenounC2
-[-] subtractverbC1
-[-] subtractionnounC1
-[-] sumnounB2
-[-] symbolnounA2
-[-] symmetricaladjectiveC2
-[-] symmetricallyadverbC2
-[-] symmetrynounC2
-[-] tablespoonnounC1
-[-] tangentnounC2
-[-] tape measurenounC2
-[-] teaspoonnounC1
-[-] theoremnounC2
-[-] thousandnumberA1
-[-] thousandthordinal numberA2
-[-] timesprepositionB1
-[-] tonnounB2
-[-] tonnenounB2
-[-] totalnounB1
-[-] totalverbC1
-[-] trackverbC2
-[-] trebleverbC2
-[-] trigonometrynounC2
-[-] unitnounB2
-[-] VabbreviationC2
-[-] valuenounC1
-[-] variablenounC1
-[-] vectornounC2
-[-] verticaladjectiveB2
-[-] voltnounC2
-[-] volumenounB2
-[-] vulgar fractionnounC2
-[-] WabbreviationC2
-[-] wattnounC2
-[-] weighlinking verbB1
-[-] weightnounA2
-[-] widthnounC1
-[-] yardnounB1
-[-] ydabbreviationC2
+[-] acre		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] acute angle		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] add		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] addition		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] add up		<-->	phrasal verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] add up to		<-->	phrasal verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] algebra		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] amount to		<-->	phrasal verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] amp		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] angle		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] arc		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] area		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] arithmetic		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] array		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] asymmetric		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] asymmetrically		<-->	adverb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] asymmetry		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] average		<-->	adjective++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] average		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] axis		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] bar chart		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] bar graph		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] billion		<-->	number++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] binary		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] bracket		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] breadth		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] C		<-->	abbreviation++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] calculate		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] calculation		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] calculator		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] calculus		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] calorie		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] carat		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cardinal		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] catastrophe theory		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] Celsius		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] centigrade		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] centilitre		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] centimetre		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] chaos theory		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] circumference		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cl		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] coaxial		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] common denominator		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] common fraction		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] congruence		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] congruent		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] coordinate		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cos		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cosine		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] count		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] count		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cube		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cube		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cube root		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cubic		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cupful		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cwt		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] decimal		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] deduce		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] deduction		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] degree		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] denominator		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] depth		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] diameter		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] differential calculus		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] digit		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] dimension		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] divide		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] divisible		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] division		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] divisor		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] domain		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] double		<-->	pronooun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] double		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] equal 		<-->	linking verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] equals sign		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] equation		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] express		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] exterior angle		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] factor		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] factorial		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] Fahrenheit		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] figure		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] fl oz		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] fluid ounce		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] foot		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] footage		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] formula		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] fps		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] fraction		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] ft		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] function		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] g		<-->	abbreviation++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] gal.		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] gallon		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] game theory		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] geodesic		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] geometric		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] geometry		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] gradient		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] gram		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] gramme		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] graph		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hectare		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] height		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hertz		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] horizontal		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] horsepower		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hundred		<-->	number++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hundredth		<-->	ordinal number++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hundredweight		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hypotenuse		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] Hz		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] in.		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] inch		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] index		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] induction		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] infinite		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] infinity		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] information theory		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] integral calculus		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] interior angle		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] into		<-->	preposition++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] irrational number		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] iterate		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] iteration		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] karat		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] kg		<-->	abbreviation++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] kHz		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] kilo		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] kilogram		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] kilohertz		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] kilometre		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] kilowatt		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] km		<-->	abbreviation++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] kmph		<-->	abbreviation++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] knot		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] kph		<-->	abbreviation++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] kW		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] l		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] lb		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] length		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] line graph		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] liter		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] litre		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] logarithm		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] long division		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] m		<-->	abbreviation++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mathematical		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mathematically		<-->	adverb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mathematician		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mathematics		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] maths		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] matrix		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] maximum		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] maximum		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mean		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mean		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] measure		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] measure		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] measurement		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] measuring tape		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] megahertz		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] megawatt		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] metre		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] metric		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] metric		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] metric ton		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mg		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] MHz		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mile		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] milligram		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] millilitre		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] millimetre		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] million		<-->	number++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] minimum		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] minimum		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] minus		<-->	preposition++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] minus		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] minute		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] ml		<-->	abbreviation++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mm		<-->	abbreviation++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] mph		<-->	abbreviation++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] multiple		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] multiply		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] MW		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] nanometre		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] negative		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] nil		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] nought		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] number		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] numeracy		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] numerator		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] numerical		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] obtuse angle		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] operator		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] ordinal		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] ounce		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] oz		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] pace		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] parabola		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] parallel		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] percentage		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] perimeter		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] pie chart		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] pint		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] place		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] plane		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] plus		<-->	preposition++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] plus		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] point		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] polynomial		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] positive		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] pound		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] power		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] prime number		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] probability		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] problem		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] product		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] proof		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] pt		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] qt		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] quadruple		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] quart		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] radius		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] ratio		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] rational number		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] reflex angle		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] register		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] right angle		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] right-angled		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] root		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] round bracket		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] rpm		<-->	abbreviation++C2[-0]	./ˌɑː piː ˈem/
+ /ˌɑːr piː ˈem/
+	;số vòng quay một phút -- (1) revolutions per minute (a measurement of the speed of an engine, a computer hard drive, etc.)
+		;TOPICS Maths and measurementC2
+
+
+
+[-] ruler		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] scalar		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] scale		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] score		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] segment		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] set		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] SI		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] sign		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] sine		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] size		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] solid		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] solution		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] solve		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] spoonful		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] square		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] square		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] square		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] squared		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] square number		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] square root		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] st		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] statistic		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] stats		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] stone		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] straight angle		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] subtract		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] subtraction		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] sum		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] symbol		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] symmetrical		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] symmetrically		<-->	adverb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] symmetry		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] tablespoon		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] tangent		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] tape measure		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] teaspoon		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] theorem		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] thousand		<-->	number++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] thousandth		<-->	ordinal number++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] times		<-->	preposition++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] ton		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] tonne		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] total		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] total		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] track		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] treble		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] trigonometry		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] unit		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] V		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] value		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] variable		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] vector		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] vertical		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] volt		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] volume		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] vulgar fraction		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] W		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] watt		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] weigh 		<-->	linking verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] weight		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] width		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] yard		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] yd		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
 
 
