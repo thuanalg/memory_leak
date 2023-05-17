@@ -10,12 +10,12 @@ int uint64_2_arr(unsigned char *arr, uint64_t n, int sz)
 {
 	int i = 0;
 	do {
-		if(!arr) break;
+		if (!arr) break;
 		for(i = 0; i < sz; ++i) {
 			arr[i] = (n >> (i*8)) & 0xFF;
 		}
 	}
-	while(0);
+	while (0);
 
 	return 0;
 }
@@ -25,8 +25,8 @@ int arr_2_uint64(unsigned char *arr, uint64_t *n, int sz)
 	int i = 0;
 	uint64_t t = 0;
 	do {
-		if(!arr) break;
-		if(!n) break;
+		if (!arr) break;
+		if (!n) break;
 		*n = 0;
 		for(i = 0; i < sz; ++i)
 		{
@@ -34,7 +34,7 @@ int arr_2_uint64(unsigned char *arr, uint64_t *n, int sz)
 			(*n) |= (t << (i*8));
 		}
 	}
-	while(0);
+	while (0);
 	return 0;
 }
 
@@ -43,12 +43,12 @@ int uint32_2_arr(unsigned char *arr, uint32_t n, int sz)
 {
 	int i = 0;
 	do {
-		if(!arr) break;
+		if (!arr) break;
 		for(i = 0; i < sz; ++i) {
 			arr[i] = (n >> (i*8)) & 0xFF;
 		}
 	}
-	while(0);
+	while (0);
 
 	return 0;
 }
@@ -58,8 +58,8 @@ int arr_2_uint32(unsigned char *arr, uint32_t *n, int sz)
 	int i = 0;
 	uint32_t t = 0;
 	do {
-		if(!arr) break;
-		if(!n) break;
+		if (!arr) break;
+		if (!n) break;
 		*n = 0;
 		for(i = 0; i < sz; ++i)
 		{
@@ -67,7 +67,7 @@ int arr_2_uint32(unsigned char *arr, uint32_t *n, int sz)
 			(*n) |= (t << (i*8));
 		}
 	}
-	while(0);
+	while (0);
 	return 0;
 }
 
@@ -75,12 +75,12 @@ int uint16_2_arr(unsigned char *arr, uint16_t n, int sz)
 {
 	int i = 0;
 	do {
-		if(!arr) break;
+		if (!arr) break;
 		for(i = 0; i < sz; ++i) {
 			arr[i] = (n >> (i*8)) & 0xFF;
 		}
 	}
-	while(0);
+	while (0);
 
 	return 0;
 }
@@ -90,8 +90,8 @@ int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz)
 	int i = 0;
 	uint32_t t = 0;
 	do {
-		if(!arr) break;
-		if(!n) break;
+		if (!arr) break;
+		if (!n) break;
 		*n = 0;
 		for(i = 0; i < sz; ++i)
 		{
@@ -99,7 +99,7 @@ int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz)
 			(*n) |= (t << (i*8));
 		}
 	}
-	while(0);
+	while (0);
 	return 0;
 }
 
@@ -151,42 +151,42 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 	hi = &(list_reg_dev[hn]);
 	
 	rc = pthread_mutex_lock(&hash_tb_mtx);
-	if(rc) {
+	if (rc) {
 		//LOG FATAL
 	}
 
 	do {
-		if(hi->n)
+		if (hi->n)
 		{
 			int j = 0;
 			int check = 1;
-			if(!hi->group) {
+			if (!hi->group) {
 				//ERROR here
 				hi->n = 0;
 				break;
 			}	
 			hitem = hi->group;
-			while(hitem)
+			while (hitem)
 			{
 				int k = strncmp(com->dev_id, hitem->msg->com.dev_id, LEN_DEVID);
 				put_time_to_msg(com, t);
-				if(!k)
+				if (!k)
 				{
 					check = 0;
 					break;
 				}
 				hitem = hitem->next;
 				++j;
-				if(j >= hi->n) break;
+				if (j >= hi->n) break;
 			}
-			if(!check)
+			if (!check)
 			{
 				fprintf(stdout, "Already existed!\n");
 				break;
 			}
 
 			MY_MALLOC(hitem, sizeof(HASH_ITEM));
-			if(!hitem) {
+			if (!hitem) {
 				//LOG FATAL
 				break;
 			}
@@ -201,12 +201,12 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 		}
 		else {
 			MY_MALLOC( hitem, sizeof(HASH_ITEM));
-			if(!hitem) {
+			if (!hitem) {
 				//LOG FATAL
 				break;
 			}
 			MY_MALLOC( hitem->msg, n);
-			if(!hitem->msg) {
+			if (!hitem->msg) {
 				//LOG FATAL
 				break;
 			}
@@ -218,9 +218,9 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 			break;
 		}	
 	}
-	while(0);
+	while (0);
 	rc = pthread_mutex_unlock(&hash_tb_mtx);
-	if(rc) {
+	if (rc) {
 		//LOG FATAL
 	}
 	return res;
@@ -246,37 +246,37 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 	hi = &(hash_table[hn]);
 
 	rc = pthread_mutex_lock(mtx);
-	if(rc) {
+	if (rc) {
 		//LOG FATAL
 	}
 	do {
-		if(!mtx) {
+		if (!mtx) {
 			//LOG ERROR
 			break;
 		}
-		if(hi->n)
+		if (hi->n)
 		{
 			int j = 0;
 			int found = 0;
-			if(!hi->group) {
+			if (!hi->group) {
 				//ERROR here
 				hi->n = 0;
 				break;
 			}	
 			hitem = hi->group;
-			while(hitem)
+			while (hitem)
 			{
 				int k = strncmp(com->dev_id, hitem->msg->com.dev_id, LEN_DEVID);
-				if(!k)
+				if (!k)
 				{
 					found = 1;
 					break;
 				}
 				hitem = hitem->next;
 				++j;
-				if(j >= hi->n) break;
+				if (j >= hi->n) break;
 			}
-			if(!found)
+			if (!found)
 			{
 				LOG(LOG_ERR, "Not found device ID");
 				break;
@@ -287,9 +287,9 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 			res = 1;
 		}
 	}
-	while(0);
+	while (0);
 	rc = pthread_mutex_unlock(mtx);
-	if(rc) {
+	if (rc) {
 		//LOG FATAL
 	}
 	return res;
@@ -303,13 +303,13 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 	HASH_ITEM *hi = 0;
 
 	do {
-		if(!l) {
+		if (!l) {
 			err = 1;
 			//LOG ERROR
 			break;
 		}
 		MY_MALLOC(hi, sizeof(HASH_ITEM));
-		if(!hi) {
+		if (!hi) {
 			//LOG_FATAL
 			err = 1;
 			break;
@@ -317,7 +317,7 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 		//n = MAX(sz, sizeof(MSG_NOTIFY));
 		n = sz;
 		MY_MALLOC(hi->msg, n);
-		if(!hi->msg) {
+		if (!hi->msg) {
 			//LOG FATAL
 			break;
 		}
@@ -327,10 +327,10 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 
 		rc = pthread_mutex_lock(&hash_tb_mtx);
 		//>>>>>>
-		if(rc) {
+		if (rc) {
 			//LOG FATAL
 		}
-		if(!(*l)) {
+		if (!(*l)) {
 			(*l) = hi;
 		}
 		else {
@@ -339,11 +339,11 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 		}
 		//<<<<<<
 		rc = pthread_mutex_unlock(&hash_tb_mtx);
-		if(rc) {
+		if (rc) {
 			//LOG FATAL
 		}
 	}	
-	while(0);
+	while (0);
 	return err;
 }
 
@@ -351,11 +351,11 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 void put_time_to_msg( MSG_COMMON *msg, struct timespec *t)
 {
 	do {
-		if(!t) {
+		if (!t) {
 			//LOG ERROR
 			break;
 		}
-		if(!msg) {
+		if (!msg) {
 			//LOG ERROR
 			break;
 		}
@@ -364,7 +364,7 @@ void put_time_to_msg( MSG_COMMON *msg, struct timespec *t)
 		uint64_2_arr(msg->second, t->tv_sec, LEN_U64INT);	
 		uint64_2_arr(msg->nano, t->tv_nsec, LEN_U64INT);	
 	}
-	while(0);
+	while (0);
 }
 
 void dum_msg(MSG_COMMON *item, const char *f, const char *fu, int line)
@@ -383,7 +383,7 @@ void dum_msg(MSG_COMMON *item, const char *f, const char *fu, int line)
 	do {
 		unsigned char type = 0;
 		unsigned char ifro = 0;
-		if(!item) break;
+		if (!item) break;
 		type = item->type;
 		ifro = item->ifroute;
 		len += n;
@@ -410,7 +410,7 @@ void dum_msg(MSG_COMMON *item, const char *f, const char *fu, int line)
 		n = sprintf(buf + len, "-------- (sec, nano) = (%llu, %llu)", sec, nsec);
 		len += n;
 
-	} while(0);	
+	} while (0);	
 	LOG(LOG_INFO, buf);	
 }
 
@@ -428,18 +428,18 @@ int load_reg_list() {
 		int sz = (int) sizeof(MSG_REGISTER);
 
 		fp = fopen("list_dev_id.h", "r");
-		if(!fp) {
+		if (!fp) {
 			//LOG ERROR
 			break;
 		}	
 		fseek(fp, 0, SEEK_END);
 		len = ftell(fp);
-		if(len < 1) {
+		if (len < 1) {
 			//LOG ERROR
 			break;
 		}
 		MY_MALLOC(data, len + 1);
-		if(!data) {
+		if (!data) {
 			//LOG ERROR
 			break;
 		}
@@ -449,19 +449,19 @@ int load_reg_list() {
 		do {
 			memset(buf, 0, sizeof(buf));
 			n = fread(buf, 1, 1024, fp);
-			if(n < 1) {
+			if (n < 1) {
 				break;
 			}
 			memcpy(data + len, buf, n);
 			len += n;
 		}
-		while(1);
-		if(!data) {
+		while (1);
+		if (!data) {
 			break;
 		}
 		pch = strtok(data, "\r\n");
-		while(pch) {
-			if(strlen(pch) > 30) {
+		while (pch) {
+			if (strlen(pch) > 30) {
 				memset(&msg, 0, sz);
 				memcpy(msg.com.dev_id, pch, LEN_DEVID);
 				clock_gettime(CLOCK_REALTIME, &t);
@@ -470,11 +470,11 @@ int load_reg_list() {
 			pch = strtok(0, "\r\n");
 		}
 	}
-	while(0);
-	if(data) {
+	while (0);
+	if (data) {
 		MY_FREE(data);
 	}
-	if(fp) {
+	if (fp) {
 		fclose(fp);
 	}
 	return ret;
@@ -493,17 +493,17 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	int len = 0;
 	int sn = 0;
 
-	if(count) {
+	if (count) {
 		*count = 0;
 	}
 
 	rc = pthread_mutex_lock(&hash_tb_mtx);
-	if(rc) {
+	if (rc) {
 		//LOG FATAL
 	}
 	//>>>>>>>
 	do {
-		if(!l) {
+		if (!l) {
 			err = 1;
 			//LOG ERR
 			break;
@@ -511,19 +511,19 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 		hi = *l;
 		*l = 0;
 	}
-	while(0);
+	while (0);
 	//<<<<<<<
 	rc = pthread_mutex_unlock(&hash_tb_mtx);
-	if(rc) {
+	if (rc) {
 		//LOG FATAL
 	}
-	while(hi)
+	while (hi)
 	{
 		fprintf(stdout, "error No item\n");
-		if(hi->msg->com.ifroute == G_NTF_CLI ) {
+		if (hi->msg->com.ifroute == G_NTF_CLI ) {
 			iid = hi->msg->com.dev_id;
 		}
-		else if(hi->msg->com.ifroute == G_CLI_NTF ) {
+		else if (hi->msg->com.ifroute == G_CLI_NTF ) {
 			iid = hi->msg->com.ntf_id;
 		}
 		else {
@@ -532,20 +532,20 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 		len = MIN(MAX_MSG, strlen(iid));
 		index = hash_func(iid, len);		
 		gr = (HASH_ITEM*) list_reg_dev[index].group;
-		if(!gr) {
+		if (!gr) {
 			//NOT found in registed list.
 			err=1;
 			//E_NOT_IN_REG
 			break;
 		}
-		while(gr) {
-			if(strncmp(iid, gr->msg->com.dev_id, LEN_DEVID) == 0) {
+		while (gr) {
+			if (strncmp(iid, gr->msg->com.dev_id, LEN_DEVID) == 0) {
 				t = gr;
 				break;		
 			}
 			gr = gr->next;
 		}
-		if(!t) {
+		if (!t) {
 			//NOT found in registed list.
 			err = 1;
 			//E_NOT_IN_REG
@@ -556,12 +556,12 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 		sn = sendto(sockfd, (const char *)hi->msg, hi->n_msg,
 			MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
 		fprintf(stdout, "sn: %d\n", sn);
-		if(count) {
+		if (count) {
 			(*count)++;
 		}
 		t = hi;
 		hi = hi->next;
-		if(clear) {
+		if (clear) {
 			MY_FREE(t->msg);
 			MY_FREE(t);
 		}
@@ -575,33 +575,20 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 	MSG_COMMON msg;
 	struct sockaddr_in addr;
 	int n = 0;
-	int err = 0;
 
 	memset(&addr, 0, sizeof(addr));
 	addr.sin_family = AF_INET;
 	addr.sin_addr.s_addr = inet_addr(ipaddr);
 	addr.sin_port = htons(PORT + 1);
-//
-//	err = connect(sockfd, (const struct sockaddr*)&addr, sizeof(addr));
-//	if(err) {
-//		fprintf(stdout, "connect err: %d, errno: %d, text: %s\n", err, errno, strerror(errno));
-//		
-//	}
-//
-//	int on = 1;
-//	err = setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR , &on, sizeof(int));
-//	if(err) {
-//			perror("setsockopt");
-//			exit(1);
-//	}
+
 	do {
-		if(!t) {
+		if (!t) {
 			break;
 		}
-		if(!iid) {
+		if (!iid) {
 			break;
 		}
-		if(!ipaddr) { 
+		if (!ipaddr) { 
 			break;
 		}
 		put_time_to_msg( &msg, t);
@@ -612,23 +599,19 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 		n = sendto(sockfd, &msg, sizeof(msg),
 			MSG_CONFIRM, (const struct sockaddr *) &addr,
 				sizeof(addr));
-		if(n < 0) {
+		if (n < 0) {
 			fprintf(stdout, "connect err: %d, errno: %d, text: %s\n", n, errno, strerror(errno));
 		}
 		fprintf(stdout, "tracking sent n: %d\n", n);
 	}
-	while(0);
+	while (0);
 	//connect err: -1, errno: 88, text: Socket operation on non-socket
 	return n;
 
 }
 
-//in: input
-//out: ouput
-//key: 256 bit = 16 bytes = AES_BLOCK_SIZE bytes
-//ivec: ivec suffix, 256 bits = 16 bytes = AES_BLOCK_SIZE bytes
-//n: total len, MUST BE multiple of 16, AES_BLOCK_SIZE bytes 
-//enc: 1: encrypt, 0: decrypt
+/**************************************************************************************************************/
+
 int ntf_aes_file(uchar *in, uchar *out, uchar* key, uchar* ivec, int enc) {
 	int err = 0;
 	FILE *fin = 0;
@@ -636,7 +619,8 @@ int ntf_aes_file(uchar *in, uchar *out, uchar* key, uchar* ivec, int enc) {
 	uchar bin[AES_BLOCK_SIZE + 1];
 	uchar bout[AES_BLOCK_SIZE + 1];
     AES_KEY wctx;
-	int n = 0, k = 0, l = 0;
+	int k = 0;
+	int l = 0;
 	uchar iv[AES_BLOCK_SIZE + 1];
 
 	memset(&wctx, 0, sizeof(wctx));
@@ -644,42 +628,42 @@ int ntf_aes_file(uchar *in, uchar *out, uchar* key, uchar* ivec, int enc) {
 	do {
 		int i = 0;
 
-		if(!in) {
+		if (!in) {
 			err = 1;
 			//SYSLOG err
 			//LOG_ERR
 			break;
 		}
-		if(!out) {
+		if (!out) {
 			err = 1;
 			//SYSLOG err
 			//LOG_ERR
 			break;
 		}
 		fin = fopen( in, "rb");
-		if(!fin) {
+		if (!fin) {
 			err = 1;
 			//SYSLOG err
 			//LOG_ERR
 			break;
 		}
 		fout = fopen( out, "w+b");
-		if(!fout) {
+		if (!fout) {
 			err = 1;
 			//SYSLOG err
 			//LOG_ERR
 			break;
 		}
 
-		if(enc) {
-    		err = AES_set_encrypt_key(key, 256, &wctx);
-			if(err) {
+		if (enc) {
+    		err = AES_set_encrypt_key(key, AES_BITS, &wctx);
+			if (err) {
 				fprintf(stdout, "error\n");
 				break;
 			}
 		} else {
-    		err = AES_set_decrypt_key(key, 256, &wctx);
-			if(err) {
+    		err = AES_set_decrypt_key(key, AES_BITS, &wctx);
+			if (err) {
 				fprintf(stdout, "error\n");
 				break;
 			}
@@ -692,36 +676,50 @@ int ntf_aes_file(uchar *in, uchar *out, uchar* key, uchar* ivec, int enc) {
 			memcpy(iv, ivec, AES_BLOCK_SIZE);
 
 			k = fread( bin, 1, AES_BLOCK_SIZE, fin);
-			if(k < 1) {
+			if (k < 1) {
 				break;
 			}
 			i = AES_BLOCK_SIZE;
     		AES_cfb128_encrypt( bin, bout, AES_BLOCK_SIZE, &wctx, iv, &i, enc);  
 			l = fwrite(bout, 1, k, fout);
-			if(k < AES_BLOCK_SIZE) {
+			if (l != k) {
+				err = 1;
+				LOG(LOG_ERR, "fwrite error.");
+				break;
+			}
+			if (k < AES_BLOCK_SIZE) {
 				break;
 			}
 
-		} while(1);
+		} while (1);
 
-	} while(0);
+	} while (0);
 
-	if(fin) {
+	if (fin) {
 		err = fclose(fin);
-		if(err) {
+		if (err) {
 			//LOG_ERR
 		}
 	}
 
-	if(fout) {
+	if (fout) {
 		err = fclose(fout);
-		if(err) {
+		if (err) {
 			//LOG_ERR
 		}
 	}
 
 	return err;
 } 
+
+/**************************************************************************************************************/
+
+//in: input
+//out: ouput
+//key: 256 bit = 16 bytes = AES_BLOCK_SIZE bytes
+//ivec: ivec suffix, 256 bits = 16 bytes = AES_BLOCK_SIZE bytes
+//n: total len, MUST BE multiple of 16, AES_BLOCK_SIZE bytes 
+//enc: 1: encrypt, 0: decrypt
 int ntf_aes_encrypt(uchar *in, uchar *out, uchar* key, uchar* ivec, int n, int enc) {
 	int err = 0;
 	int i = 0;
@@ -732,36 +730,254 @@ int ntf_aes_encrypt(uchar *in, uchar *out, uchar* key, uchar* ivec, int n, int e
 	memset(&wctx, 0, sizeof(wctx));
 
 	do {
-		if(n < 1 || (n%AES_BLOCK_SIZE)) {
+		if (n < 1 || (n%AES_BLOCK_SIZE)) {
 			err = 1;
-			//LOG(LOG_ERR, "Length of data must be multiple of %d.", AES_BLOCK_SIZE);
+			LOG(LOG_ERR, "Length of data must be multiple of %d.", AES_BLOCK_SIZE);
 			break;
 		}	
-		if(enc) {
-    		err = AES_set_encrypt_key(key, 256, &wctx);
-			if(err) {
-				fprintf(stdout, "error\n");
+		if (enc) {
+    		err = AES_set_encrypt_key(key, AES_BITS, &wctx);
+			if (err) {
+				LOG(LOG_ERR, " set encrypt key error");
 				break;
 			}
 		} else {
-    		err = AES_set_decrypt_key(key, 256, &wctx);
-			if(err) {
-				fprintf(stdout, "error\n");
+    		err = AES_set_decrypt_key(key, AES_BITS, &wctx);
+			if (err) {
+				LOG(LOG_ERR, " set decrypt key error");
 				break;
 			}
 		}
-		while(k < n) {
+		while (k < n) {
 			i = AES_BLOCK_SIZE;
 			memset(iv, 0, sizeof(iv));
 			memcpy(iv, ivec, AES_BLOCK_SIZE);
     		AES_cfb128_encrypt(in + k, out + k, AES_BLOCK_SIZE, &wctx, iv, &i, enc);  
 			k += AES_BLOCK_SIZE;
 		}
-	} while(0);
+	} while (0);
 
 	return err;
 } 
 
+/**************************************************************************************************************/
+
+int file_2_bytes(const uchar *path, uchar **output)
+{
+    FILE *fp = 0;
+	int err = 0;
+    unsigned int sz = 0, n = 0;
+	do {
+		if (!path) {
+			err = 1;
+			LOG(LOG_ERR, "File path is null.");
+    	    break;
+		}
+		if (!output) {
+			err = 1;
+			LOG(LOG_ERR, "Buffer is null.");
+    	    break;
+		}
+    	fp = fopen(path, "r");
+    	if (!fp) {
+			err = 1;
+			LOG(LOG_ERR, "Cannot open file '%s'.", path);
+    	    break;
+    	}
+    	fseek(fp, 0,SEEK_END);
+    	sz = ftell(fp);
+    	rewind(fp);
+    	//(*output) = malloc(sz + 1);
+    	MY_MALLOC( *output, sz + 1);
+    	//memset(*output, 0, sz + 1);
+    	n = fread(*output, 1, sz, fp);
+		if (n != sz) {
+			err = 1;
+			LOG(LOG_ERR, "Reading file got erroneous.", path);
+			break;
+		}
+	} while (0);
+
+	if (err) {
+		if (*output) {
+			MY_FREE(*output);
+		}
+	}
+	if (fp) {
+    	err = fclose(fp);
+		if (err) {
+			LOG(LOG_ERR, "Cannot close file '%s'.", path);
+		}
+	}
+	return err;
+}
+
+/**************************************************************************************************************/
+
+int file_2_pubrsa(const uchar *path, RSA **output) {
+	int err = 0;
+	BIO *bio = 0;
+	uchar *str = 0;
+	RSA *pubkey = 0;
+	do {
+		if (!output) {
+			err = 1;
+			LOG(LOG_ERR, "RSA output is 'null'.");
+			break;
+		}
+		err = file_2_bytes(path, &str);
+		if (err) {
+			LOG(LOG_ERR, "Read public key error.");
+			break;
+		}
+		bio = BIO_new_mem_buf( (void*)str, -1 ) ; // -1: assume string is null terminated
+		if (!bio) {
+			LOG(LOG_ERR, "Load BIO error.");
+			err = 1;
+			break;
+		}
+		BIO_set_flags (bio, BIO_FLAGS_BASE64_NO_NL ) ; // NO NL
+		pubkey = PEM_read_bio_RSA_PUBKEY( bio, NULL, NULL, NULL ) ;
+  		if (!pubkey) {
+    		LOG (LOG_ERR, "ERROR: Could not load PUBLIC KEY!  PEM_read_bio_RSA_PUBKEY FAILED: %s\n", 
+			ERR_error_string( ERR_get_error(), NULL ) ) ;
+  		}
+		*output = pubkey;
+		//RSA_free(rsa);
+	} while (0);
+
+	if (str) {
+		MY_FREE(str);
+	}
+	if (bio) {
+	  BIO_free( bio);
+	}
+
+	return err;
+}
+
+/**************************************************************************************************************/
+
+int file_2_prvrsa(const uchar *path, RSA **output) {
+	int err = 0;
+	BIO *bio = 0;
+	uchar *str = 0;
+	RSA *prvkey = 0;
+	do {
+		if (!output) {
+			err = 1;
+			LOG(LOG_ERR, "RSA output is 'null'.");
+			break;
+		}
+		err = file_2_bytes(path, &str);
+		if (err) {
+			LOG(LOG_ERR, "Read private key error.");
+			break;
+		}
+		bio = BIO_new_mem_buf( (void*)str, -1 );
+		if(!bio) {
+			err = 1;
+			LOG(LOG_ERR, "BIO buffer error.");
+			break;
+		}
+		prvkey = PEM_read_bio_RSAPrivateKey( bio, NULL, NULL, NULL ) ;
+		if (!prvkey) {
+	  		LOG(LOG_ERR, "ERROR: Could not load PRIVATE KEY!  PEM_read_bio_RSAPrivateKey FAILED: %s\n", 
+	  				ERR_error_string(ERR_get_error(), NULL));
+		}
+		*output = prvkey;
+	} while (0);
+
+	if (str) {
+		MY_FREE(str);
+	}
+	if (bio) {
+	  BIO_free( bio);
+	}
+
+	return err;
+}
+
+/**************************************************************************************************************/
+
+int rsa_enc(RSA *pubkey, const puchar in, puchar *out, int len, int *outlen)
+{
+	int n = 0;
+	int err = 0;
+	int rsalen = 0;
+	puchar buf = 0;
+	do {
+		if (!pubkey) {
+			err = 1;
+			LOG(LOG_ERR, "Have no public key.");
+			break;
+		}
+		if(!out) {
+			err = 1;
+			LOG(LOG_ERR, "Have no output pointer.");
+			break;
+		}
+		rsalen = RSA_size(pubkey);
+		MY_MALLOC(buf, rsalen + 1);
+		n = RSA_public_encrypt(len, in, buf, pubkey, RSA_PKCS1_PADDING ) ; 
+	  	if(n == -1) {
+	    	LOG(LOG_ERR, "ERROR: RSA_public_encrypt: %s\n", ERR_error_string(ERR_get_error(), NULL));
+		}
+		if(!outlen) {
+			*outlen = n;
+		}
+		*out = buf;
+	} while(0);
+  	return err ;
+}
+
+/**************************************************************************************************************/
+
+//Refer openssl/test/rsa_test.c
+unsigned char* rsa_dec( RSA *privKey, const unsigned char* encryptedData, int *resultLen )
+int rsa_dec(RSA *priv, const puchar in, puchar *out, int len, int *outlen)
+{
+	int err = 0;
+	int rsa_len = 0; // That's how many bytes the decrypted data would be
+  
+  unsigned char *decryptedBin = (unsigned char*)calloc( 1, rsaLen ) ;
+  *resultLen = RSA_private_decrypt( RSA_size(privKey), in, buf, priv, RSA_PKCS1_PADDING) ;
+  if( *resultLen == -1 )
+    printf( "ERROR: RSA_private_decrypt: %s\n", ERR_error_string(ERR_get_error(), NULL) ) ;
+    fprintf(stdout, "out decrypt: %s\n", decryptedBin); 
+    fprintf(stdout, "out decrypt len: %d\n", *resultLen); 
+
+	puchar buf = 0;
+	do {
+		int n = 0;
+		if(!priv) {
+			err = 1;
+			LOG(LOG_ERR, "Have no priv key.");
+			break;
+		}
+		if(!in) {
+			err = 1;
+			LOG(LOG_ERR, "Have no input data");
+			break;
+		}
+		if(!out) {
+			err = 1;
+			LOG(LOG_ERR, "Have no output buffer.");
+			break;
+		}
+		rsa_len = RSA_size(priv) ; // That's how many bytes the decrypted data would be
+		MY_MALLOC(buf, rsa_len + 1);
+		n = 
+  		n = RSA_private_decrypt( RSA_size(privKey), in, buf, priv, RSA_PKCS1_PADDING) ;
+	} while(0);
+	return err;
+}
+
+/**************************************************************************************************************/
+void rsb() {
+
+}
+/**************************************************************************************************************/
 
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
 HASH_ITEM *imd_fwd_lt = 0;

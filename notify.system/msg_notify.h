@@ -14,11 +14,14 @@
 #include <syslog.h>
 #include <errno.h>
 #include <openssl/aes.h>
+#include <openssl/rsa.h>
+#include <openssl/err.h>
+#include <openssl/pem.h>
 
 #define PORT	 9090
 
-#define MY_MALLOC(p, n) {(p)=malloc(n); if(p){memset(p,0,n);}syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d\n", __FILE__, __FUNCTION__, __LINE__, p, (n)); }
-#define MY_FREE(p) {free(p);syslog(LOG_INFO, "- File: %s, func: %s, line: %d, free p: %p\n", __FILE__, __FUNCTION__, __LINE__, p);}
+#define MY_MALLOC(p, n) {(p)=malloc(n); if(p){memset(p,0,n); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d", __FILE__, __FUNCTION__, __LINE__, p, (n)); } else { syslog(LOG_INFO, "- File: %s, func: %s, line: %d, Memory Error.", __FILE__, __FUNCTION__, __LINE__); exit(1); } }
+#define MY_FREE(p) {free((p)); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, free p: %p\n", __FILE__, __FUNCTION__, __LINE__, (p)); p = 0;}
 
 #define LOG 		syslog
 
@@ -28,13 +31,17 @@
 #define LEN_U16INT 			(2) 
 #define MAX_MSG 			(1280) 
 #define uchar				unsigned char
+#define puchar				unsigned char*
+#define uint				unsigned int
+#define puint				unsigned int*
+#define AES_BITS			(256)
 
 #define MAX(a, b) 	((a) > (b) ? (a) : (b))
 #define MIN(a, b) 	((a) > (b) ? (b) : (a))
 
 #define HASH_SIZE 		(10001)
 //Interval sending tracking message
-#define INTER_TRACK 	(10)
+#define INTER_TRACK 	(60)
 
 
 typedef enum {
@@ -147,6 +154,9 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 //20230517
 int ntf_aes_encrypt(uchar *in, uchar *out, uchar* key, uchar* ivec, int n, int enc); 
 int ntf_aes_file(uchar *in, uchar *out, uchar* key, uchar* ivec, int enc); 
+int file_2_bytes(const uchar *path, uchar **output);
+int file_2_pubrsa(const uchar *path, RSA **output);
+int file_2_prvrsa(const uchar *path, RSA **output);
 
 extern HASH_ITEM *imd_fwd_lt;
 

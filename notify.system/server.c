@@ -147,7 +147,7 @@ void *sending_routine_thread(void *arg)
 	while(1)
 	{
 		int len = 0;
-		int zcom = (int) sizeof(MSG_COMMON);
+		//int zcom = (int) sizeof(MSG_COMMON);
 		MSG_COMMON *msg = 0;
 		memset(&cliaddr, 0, sizeof(cliaddr));
 		memset(buffer, 0, sizeof(buffer));

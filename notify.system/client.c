@@ -78,7 +78,8 @@ int main(int argc, char *argv[]) {
 	//		fprintf(stdout, "connect err\n");
 	//	}
 		DUM_IPV4(&servaddr);	
-		int n = 0, len = sizeof(servaddr);
+		int n = 0; 
+		//int len = sizeof(servaddr);
 		send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
 		while(1) {
 			usleep(10 * 1000);
@@ -87,7 +88,7 @@ int main(int argc, char *argv[]) {
 				t0 = t1;
 				send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
 			}
-			len = sizeof(fbaddr);
+			//len = sizeof(fbaddr);
 			memset(&fbaddr, 0, sizeof(fbaddr));
 			memset(buffer, 0, sizeof(buffer));
 			n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
