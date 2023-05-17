@@ -13,6 +13,7 @@
 #include <time.h>
 #include <syslog.h>
 #include <errno.h>
+#include <openssl/aes.h>
 
 #define PORT	 9090
 
@@ -21,11 +22,12 @@
 
 #define LOG 		syslog
 
-#define LEN_DEVID 	(40) 
-#define LEN_U64INT 	(8) 
-#define LEN_U32INT 	(4) 
-#define LEN_U16INT 	(2) 
-#define MAX_MSG 	(1200) 
+#define LEN_DEVID 			(40) 
+#define LEN_U64INT 			(8) 
+#define LEN_U32INT 			(4) 
+#define LEN_U16INT 			(2) 
+#define MAX_MSG 			(1280) 
+#define uchar				unsigned char
 
 #define MAX(a, b) 	((a) > (b) ? (a) : (b))
 #define MIN(a, b) 	((a) > (b) ? (b) : (a))
@@ -142,6 +144,9 @@ extern HASH_ITEM *notified_list;
 
 //20230507
 int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct timespec *t);
+//20230517
+int ntf_aes_encrypt(uchar *in, uchar *out, uchar* key, uchar* ivec, int n, int enc); 
+int ntf_aes_file(uchar *in, uchar *out, uchar* key, uchar* ivec, int enc); 
 
 extern HASH_ITEM *imd_fwd_lt;
 

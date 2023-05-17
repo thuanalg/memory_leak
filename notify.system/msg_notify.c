@@ -623,6 +623,145 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 
 }
 
+//in: input
+//out: ouput
+//key: 256 bit = 16 bytes = AES_BLOCK_SIZE bytes
+//ivec: ivec suffix, 256 bits = 16 bytes = AES_BLOCK_SIZE bytes
+//n: total len, MUST BE multiple of 16, AES_BLOCK_SIZE bytes 
+//enc: 1: encrypt, 0: decrypt
+int ntf_aes_file(uchar *in, uchar *out, uchar* key, uchar* ivec, int enc) {
+	int err = 0;
+	FILE *fin = 0;
+	FILE *fout = 0;
+	uchar bin[AES_BLOCK_SIZE + 1];
+	uchar bout[AES_BLOCK_SIZE + 1];
+    AES_KEY wctx;
+	int n = 0, k = 0, l = 0;
+	uchar iv[AES_BLOCK_SIZE + 1];
+
+	memset(&wctx, 0, sizeof(wctx));
+
+	do {
+		int i = 0;
+
+		if(!in) {
+			err = 1;
+			//SYSLOG err
+			//LOG_ERR
+			break;
+		}
+		if(!out) {
+			err = 1;
+			//SYSLOG err
+			//LOG_ERR
+			break;
+		}
+		fin = fopen( in, "rb");
+		if(!fin) {
+			err = 1;
+			//SYSLOG err
+			//LOG_ERR
+			break;
+		}
+		fout = fopen( out, "w+b");
+		if(!fout) {
+			err = 1;
+			//SYSLOG err
+			//LOG_ERR
+			break;
+		}
+
+		if(enc) {
+    		err = AES_set_encrypt_key(key, 256, &wctx);
+			if(err) {
+				fprintf(stdout, "error\n");
+				break;
+			}
+		} else {
+    		err = AES_set_decrypt_key(key, 256, &wctx);
+			if(err) {
+				fprintf(stdout, "error\n");
+				break;
+			}
+		}
+
+		do {
+			memset(bin, 0, sizeof(bin));
+			memset(bout, 0, sizeof(bout));
+			memset(iv, 0, sizeof(iv));
+			memcpy(iv, ivec, AES_BLOCK_SIZE);
+
+			k = fread( bin, 1, AES_BLOCK_SIZE, fin);
+			if(k < 1) {
+				break;
+			}
+			i = AES_BLOCK_SIZE;
+    		AES_cfb128_encrypt( bin, bout, AES_BLOCK_SIZE, &wctx, iv, &i, enc);  
+			l = fwrite(bout, 1, k, fout);
+			if(k < AES_BLOCK_SIZE) {
+				break;
+			}
+
+		} while(1);
+
+	} while(0);
+
+	if(fin) {
+		err = fclose(fin);
+		if(err) {
+			//LOG_ERR
+		}
+	}
+
+	if(fout) {
+		err = fclose(fout);
+		if(err) {
+			//LOG_ERR
+		}
+	}
+
+	return err;
+} 
+int ntf_aes_encrypt(uchar *in, uchar *out, uchar* key, uchar* ivec, int n, int enc) {
+	int err = 0;
+	int i = 0;
+    AES_KEY wctx;
+	int k = 0;
+	uchar iv[AES_BLOCK_SIZE + 1];
+
+	memset(&wctx, 0, sizeof(wctx));
+
+	do {
+		if(n < 1 || (n%AES_BLOCK_SIZE)) {
+			err = 1;
+			//LOG(LOG_ERR, "Length of data must be multiple of %d.", AES_BLOCK_SIZE);
+			break;
+		}	
+		if(enc) {
+    		err = AES_set_encrypt_key(key, 256, &wctx);
+			if(err) {
+				fprintf(stdout, "error\n");
+				break;
+			}
+		} else {
+    		err = AES_set_decrypt_key(key, 256, &wctx);
+			if(err) {
+				fprintf(stdout, "error\n");
+				break;
+			}
+		}
+		while(k < n) {
+			i = AES_BLOCK_SIZE;
+			memset(iv, 0, sizeof(iv));
+			memcpy(iv, ivec, AES_BLOCK_SIZE);
+    		AES_cfb128_encrypt(in + k, out + k, AES_BLOCK_SIZE, &wctx, iv, &i, enc);  
+			k += AES_BLOCK_SIZE;
+		}
+	} while(0);
+
+	return err;
+} 
+
 
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
 HASH_ITEM *imd_fwd_lt = 0;
