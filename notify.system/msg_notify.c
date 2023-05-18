@@ -946,15 +946,15 @@ int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen)
 		if (lenin < 1) {
 			LOG(LOG_ERR, "Length of input must be greater than 0.");
 		}
-		buflen = lenin + (16 - lenin%16) + 256;
+		buflen = lenin + (RSA_BYTES - lenin%RSA_BYTES) + RSA_BYTES;
+		fprintf(stdout, "buflen: %d\n", buflen);
 		MY_MALLOC(buf, buflen);
 		n = RSA_public_encrypt(lenin, in, buf, pubkey, RSA_PKCS1_PADDING ) ; 
 	  	if (n < 1) {
 	    	LOG(LOG_ERR, "ERROR: RSA_public_encrypt: %s\n", ERR_error_string(ERR_get_error(), NULL));
 			break;
 		}
-		fprintf(stdout, "nnnn: %d\n", n);
-		if (!outlen) {
+		if (outlen) {
 			*outlen = n;
 		}
 		*out = buf;
@@ -988,7 +988,7 @@ int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen)
 			LOG(LOG_ERR, "Have no output buffer.");
 			break;
 		}
-		buflen = lenin + (16 - (lenin%16)) + 16;
+		buflen = lenin + (RSA_BYTES - lenin%RSA_BYTES) + RSA_BYTES;
 		MY_MALLOC(buf, buflen);
   		n = RSA_private_decrypt(lenin, in, buf, priv, RSA_PKCS1_PADDING) ;
 		if (n < 1) {
@@ -996,7 +996,6 @@ int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen)
 			err = 1;
 			break;
 		}
-		fprintf(stdout, "nnnn: %d\n");
 		if (outlen) {
 			*outlen = n;
 		}

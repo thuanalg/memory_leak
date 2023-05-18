@@ -35,6 +35,7 @@
 #define uint				unsigned int
 #define puint				unsigned int*
 #define AES_BITS			(256)
+#define RSA_BYTES			(256)
 
 #define MAX(a, b) 	((a) > (b) ? (a) : (b))
 #define MIN(a, b) 	((a) > (b) ? (b) : (a))
