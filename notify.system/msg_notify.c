@@ -6,6 +6,8 @@
 
 static pthread_mutex_t hash_tb_mtx = PTHREAD_MUTEX_INITIALIZER; 
 
+/**************************************************************************************************************/
+
 int uint64_2_arr(unsigned char *arr, uint64_t n, int sz)
 {
 	int i = 0;
@@ -19,6 +21,8 @@ int uint64_2_arr(unsigned char *arr, uint64_t n, int sz)
 
 	return 0;
 }
+
+/**************************************************************************************************************/
 
 int arr_2_uint64(unsigned char *arr, uint64_t *n, int sz)
 {
@@ -38,6 +42,7 @@ int arr_2_uint64(unsigned char *arr, uint64_t *n, int sz)
 	return 0;
 }
 
+/**************************************************************************************************************/
 
 int uint32_2_arr(unsigned char *arr, uint32_t n, int sz)
 {
@@ -52,6 +57,8 @@ int uint32_2_arr(unsigned char *arr, uint32_t n, int sz)
 
 	return 0;
 }
+
+/**************************************************************************************************************/
 
 int arr_2_uint32(unsigned char *arr, uint32_t *n, int sz)
 {
@@ -71,6 +78,8 @@ int arr_2_uint32(unsigned char *arr, uint32_t *n, int sz)
 	return 0;
 }
 
+/**************************************************************************************************************/
+
 int uint16_2_arr(unsigned char *arr, uint16_t n, int sz)
 {
 	int i = 0;
@@ -84,6 +93,8 @@ int uint16_2_arr(unsigned char *arr, uint16_t n, int sz)
 
 	return 0;
 }
+
+/**************************************************************************************************************/
 
 int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz)
 {
@@ -103,6 +114,7 @@ int arr_2_uint16(unsigned char *arr, uint16_t *n, int sz)
 	return 0;
 }
 
+/**************************************************************************************************************/
 
 unsigned int hash_func(char *id, int n)
 {
@@ -121,6 +133,7 @@ unsigned int hash_func(char *id, int n)
 	return res;
 }
 
+/**************************************************************************************************************/
 
 void dum_ipv4(struct sockaddr_in *addr, const char *f, const char *fu, int line) {
 	char buff[1024];
@@ -134,6 +147,7 @@ void dum_ipv4(struct sockaddr_in *addr, const char *f, const char *fu, int line)
 	LOG(LOG_INFO, buff);
 }
 
+/**************************************************************************************************************/
 
 int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 {
@@ -226,6 +240,8 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 	return res;
 }
 
+/**************************************************************************************************************/
+
 int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 	int res = 0;
 	unsigned int hn = 0;
@@ -295,6 +311,8 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 	return res;
 }
 
+/**************************************************************************************************************/
+
 int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 {
 	int err = 0;
@@ -347,6 +365,8 @@ int add_to_item_list(MSG_NOTIFY *msg, HASH_ITEM **l, int sz)
 	return err;
 }
 
+/**************************************************************************************************************/
+
 //2023-04-26
 void put_time_to_msg( MSG_COMMON *msg, struct timespec *t)
 {
@@ -366,6 +386,8 @@ void put_time_to_msg( MSG_COMMON *msg, struct timespec *t)
 	}
 	while (0);
 }
+
+/**************************************************************************************************************/
 
 void dum_msg(MSG_COMMON *item, const char *f, const char *fu, int line)
 {
@@ -413,6 +435,8 @@ void dum_msg(MSG_COMMON *item, const char *f, const char *fu, int line)
 	} while (0);	
 	LOG(LOG_INFO, buf);	
 }
+
+/**************************************************************************************************************/
 
 int load_reg_list() {
 	int ret = 0;
@@ -480,6 +504,7 @@ int load_reg_list() {
 	return ret;
 }
 
+/**************************************************************************************************************/
 
 int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 {
@@ -569,6 +594,7 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	return err;
 }
 
+/**************************************************************************************************************/
 
 int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct timespec *t) {
 
@@ -875,7 +901,7 @@ int file_2_prvrsa(const uchar *path, RSA **output) {
 			break;
 		}
 		bio = BIO_new_mem_buf( (void*)str, -1 );
-		if(!bio) {
+		if (!bio) {
 			err = 1;
 			LOG(LOG_ERR, "BIO buffer error.");
 			break;
@@ -912,7 +938,7 @@ int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen)
 			LOG(LOG_ERR, "Have no public key.");
 			break;
 		}
-		if(!out) {
+		if (!out) {
 			err = 1;
 			LOG(LOG_ERR, "Have no output pointer.");
 			break;
@@ -920,13 +946,15 @@ int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen)
 		if (lenin < 1) {
 			LOG(LOG_ERR, "Length of input must be greater than 0.");
 		}
-		buflen = lenin + (16 - lenin%16) + 16;
+		buflen = lenin + (16 - lenin%16) + 256;
 		MY_MALLOC(buf, buflen);
 		n = RSA_public_encrypt(lenin, in, buf, pubkey, RSA_PKCS1_PADDING ) ; 
-	  	if(n == -1) {
+	  	if (n < 1) {
 	    	LOG(LOG_ERR, "ERROR: RSA_public_encrypt: %s\n", ERR_error_string(ERR_get_error(), NULL));
+			break;
 		}
-		if(!outlen) {
+		fprintf(stdout, "nnnn: %d\n", n);
+		if (!outlen) {
 			*outlen = n;
 		}
 		*out = buf;
@@ -945,29 +973,30 @@ int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen)
 
 	do {
 		int n = 0;
-		if(!priv) {
+		if (!priv) {
 			err = 1;
 			LOG(LOG_ERR, "Have no priv key.");
 			break;
 		}
-		if(!in) {
+		if (!in) {
 			err = 1;
 			LOG(LOG_ERR, "Have no input data");
 			break;
 		}
-		if(!out) {
+		if (!out) {
 			err = 1;
 			LOG(LOG_ERR, "Have no output buffer.");
 			break;
 		}
-		buflen = lenin + (16 - lenin%16) + 16;
+		buflen = lenin + (16 - (lenin%16)) + 16;
 		MY_MALLOC(buf, buflen);
   		n = RSA_private_decrypt(lenin, in, buf, priv, RSA_PKCS1_PADDING) ;
-		if(n < 1) {
+		if (n < 1) {
     		LOG(LOG_ERR, "ERROR: RSA_private_decrypt: %s\n", ERR_error_string(ERR_get_error(), NULL) ) ;
 			err = 1;
 			break;
 		}
+		fprintf(stdout, "nnnn: %d\n");
 		if (outlen) {
 			*outlen = n;
 		}

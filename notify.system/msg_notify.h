@@ -20,7 +20,7 @@
 
 #define PORT	 9090
 
-#define MY_MALLOC(p, n) {(p)=malloc(n); if(p){memset(p,0,n); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d", __FILE__, __FUNCTION__, __LINE__, p, (n)); } else { syslog(LOG_ERR, "- File: %s, func: %s, line: %d, Memory Error.", __FILE__, __FUNCTION__, __LINE__); exit(1); } }
+#define MY_MALLOC(p, n) {(p)=malloc(n); if(p){memset(p,0,n); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d", __FILE__, __FUNCTION__, __LINE__, p, (n)); } else { syslog(LOG_ALERT, "- File: %s, func: %s, line: %d, Memory Error.", __FILE__, __FUNCTION__, __LINE__); exit(1); } }
 #define MY_FREE(p) {free((p)); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, free p: %p\n", __FILE__, __FUNCTION__, __LINE__, (p)); p = 0;}
 
 #define LOG 		syslog
@@ -157,6 +157,8 @@ int ntf_aes_file(uchar *in, uchar *out, uchar* key, uchar* ivec, int enc);
 int file_2_bytes(const uchar *path, uchar **output);
 int file_2_pubrsa(const uchar *path, RSA **output);
 int file_2_prvrsa(const uchar *path, RSA **output);
+int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen);
+int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen);
 
 extern HASH_ITEM *imd_fwd_lt;
 
