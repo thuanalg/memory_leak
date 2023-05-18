@@ -3,6 +3,7 @@ SRC_SERVER=server.c gen_list.* msg_notify.c
 SRC_CLIENT=client.c gen_list.* msg_notify.c
 SRC_NOTIFIER=notifier.c gen_list.* msg_notify.c
 SRC_MSG_NOT=test_msg_notify.c msg_notify.c
+SRC_RSA_UT=rsa.aes.ut.c msg_notify.c
 INC +=msg_notify.h
 CFLAG +=-Wunused
 all:
@@ -12,5 +13,6 @@ all:
 	gcc -g -o znotifier ${SRC_NOTIFIER} ${LIBS} ${INC} ${CFLAG}
 	gcc -g -o zmain.save main.save.bin.c ${LIBS}
 	gcc -g -o ztest.msg.notify ${SRC_MSG_NOT} ${INC} ${LIBS}
+	gcc -g -o zrsa.ase.ut ${SRC_RSA_UT} ${INC} ${LIBS}
 clean:
 	rm -f zserver_notify zclient_device zmain.save ztest.msg.notify znotifier
