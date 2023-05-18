@@ -900,11 +900,11 @@ int file_2_prvrsa(const uchar *path, RSA **output) {
 
 /**************************************************************************************************************/
 
-int rsa_enc(RSA *pubkey, const puchar in, puchar *out, int len, int *outlen)
+int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen)
 {
 	int n = 0;
 	int err = 0;
-	int rsalen = 0;
+	int buflen = 0;
 	puchar buf = 0;
 	do {
 		if (!pubkey) {
@@ -917,9 +917,12 @@ int rsa_enc(RSA *pubkey, const puchar in, puchar *out, int len, int *outlen)
 			LOG(LOG_ERR, "Have no output pointer.");
 			break;
 		}
-		rsalen = RSA_size(pubkey);
-		MY_MALLOC(buf, rsalen + 1);
-		n = RSA_public_encrypt(len, in, buf, pubkey, RSA_PKCS1_PADDING ) ; 
+		if (lenin < 1) {
+			LOG(LOG_ERR, "Length of input must be greater than 0.");
+		}
+		buflen = lenin + (16 - lenin%16) + 16;
+		MY_MALLOC(buf, buflen);
+		n = RSA_public_encrypt(lenin, in, buf, pubkey, RSA_PKCS1_PADDING ) ; 
 	  	if(n == -1) {
 	    	LOG(LOG_ERR, "ERROR: RSA_public_encrypt: %s\n", ERR_error_string(ERR_get_error(), NULL));
 		}
@@ -934,20 +937,12 @@ int rsa_enc(RSA *pubkey, const puchar in, puchar *out, int len, int *outlen)
 /**************************************************************************************************************/
 
 //Refer openssl/test/rsa_test.c
-unsigned char* rsa_dec( RSA *privKey, const unsigned char* encryptedData, int *resultLen )
-int rsa_dec(RSA *priv, const puchar in, puchar *out, int len, int *outlen)
+int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen)
 {
 	int err = 0;
-	int rsa_len = 0; // That's how many bytes the decrypted data would be
-  
-  unsigned char *decryptedBin = (unsigned char*)calloc( 1, rsaLen ) ;
-  *resultLen = RSA_private_decrypt( RSA_size(privKey), in, buf, priv, RSA_PKCS1_PADDING) ;
-  if( *resultLen == -1 )
-    printf( "ERROR: RSA_private_decrypt: %s\n", ERR_error_string(ERR_get_error(), NULL) ) ;
-    fprintf(stdout, "out decrypt: %s\n", decryptedBin); 
-    fprintf(stdout, "out decrypt len: %d\n", *resultLen); 
-
+	int buflen = 0; // That's how many bytes the decrypted data would be
 	puchar buf = 0;
+
 	do {
 		int n = 0;
 		if(!priv) {
@@ -965,11 +960,20 @@ int rsa_dec(RSA *priv, const puchar in, puchar *out, int len, int *outlen)
 			LOG(LOG_ERR, "Have no output buffer.");
 			break;
 		}
-		rsa_len = RSA_size(priv) ; // That's how many bytes the decrypted data would be
-		MY_MALLOC(buf, rsa_len + 1);
-		n = 
-  		n = RSA_private_decrypt( RSA_size(privKey), in, buf, priv, RSA_PKCS1_PADDING) ;
+		buflen = lenin + (16 - lenin%16) + 16;
+		MY_MALLOC(buf, buflen);
+  		n = RSA_private_decrypt(lenin, in, buf, priv, RSA_PKCS1_PADDING) ;
+		if(n < 1) {
+    		LOG(LOG_ERR, "ERROR: RSA_private_decrypt: %s\n", ERR_error_string(ERR_get_error(), NULL) ) ;
+			err = 1;
+			break;
+		}
+		if (outlen) {
+			*outlen = n;
+		}
+		*out = buf;
 	} while(0);
+
 	return err;
 }
 
