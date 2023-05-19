@@ -10,14 +10,13 @@
 #include <arpa/inet.h>
 #include "msg_notify.h"
 	
-#define PORT	 9090
-#define MAXLINE 1024
+#define MAXLINE 	1500
 const char *id = "ed628094-63f3-452a-91c8-3ae24f281dd2";
 char *dev_id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
 
 void notifier(char *ip) {
-	int sz = MAX_MSG;
+	int sz = MAX_MSG + 1;
 	struct sockaddr_in	 servaddr;
 	MSG_NOTIFY *msg = 0;
 	uint16_t n = 0;
@@ -25,6 +24,7 @@ void notifier(char *ip) {
 	char buf [2];
 	int sockfd = 0;
 	int err = 0;
+	uchar *enc = 0;
 	clock_gettime(CLOCK_REALTIME, &t);
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
 		LOG(LOG_ERR, "Cannot create socket.");
@@ -36,8 +36,6 @@ void notifier(char *ip) {
 	servaddr.sin_port = htons(PORT);
 
 	MY_MALLOC(msg, sz);
-	memset(msg, 0, sz);	
-	memset(msg, 0, sz);	
 
 	msg->com.type = MSG_NTF;
 	msg->com.ifroute = G_NTF_CLI;
@@ -52,7 +50,11 @@ void notifier(char *ip) {
 	uint64_2_arr(msg->com.nano, t.tv_nsec, 8);
 
 	DUM_MSG(&(msg->com));
-	n = sendto(sockfd, (char *)msg, MAX_MSG,
+
+	enc = (uchar*) msg;
+	enc[MAX_MSG] = ENCRYPT_NON;
+
+	n = sendto(sockfd, (char *)msg, MAX_MSG + 1,
 		MSG_CONFIRM, (const struct sockaddr *) &servaddr,
 			sizeof(servaddr));
 	MY_FREE(msg);

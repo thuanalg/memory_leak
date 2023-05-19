@@ -5,7 +5,13 @@
 #include <pthread.h>
 
 static pthread_mutex_t hash_tb_mtx = PTHREAD_MUTEX_INITIALIZER; 
-
+uchar aes_key[] = {
+		0xf0, 0xa1, 0xb3, 0xc0, 0xd5, 0x11, 0x13, 0x17,
+		0x70, 0xa2, 0xb5, 0x70, 0xd1, 0x1a, 0x12, 0x87,
+		0x70, 0xa2, 0xb5, 0x70, 0xd1, 0x1a, 0x12, 0x87,
+		0x70, 0xa2, 0xb5, 0x70, 0xd1, 0x1a, 0x12, 0x87,
+	};
+uchar *aes_iv = "!@#$%^&*()(*&^%$#@!@#$%^&*(*&%$#@@@))";
 /**************************************************************************************************************/
 
 int uint64_2_arr(unsigned char *arr, uint64_t n, int sz)
@@ -932,6 +938,8 @@ int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen)
 	int err = 0;
 	int buflen = 0;
 	puchar buf = 0;
+	int rsa_block = 0;
+
 	do {
 		if (!pubkey) {
 			err = 1;
@@ -946,9 +954,21 @@ int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen)
 		if (lenin < 1) {
 			LOG(LOG_ERR, "Length of input must be greater than 0.");
 		}
-		buflen = lenin + (RSA_BYTES - lenin%RSA_BYTES) + RSA_BYTES;
-		fprintf(stdout, "buflen: %d\n", buflen);
+		rsa_block = RSA_size(pubkey);
+		if (rsa_block < 1) {
+			LOG(LOG_ERR, "Get block of RSA error.");
+			break;
+		}
+		if (lenin % rsa_block) {
+			buflen = lenin + (rsa_block - lenin % rsa_block) + 1;
+		} else {
+			buflen = lenin + 1;
+		}
+
+		fprintf(stdout, "+++++++++++++++++++buflen: %d\n", buflen);
+
 		MY_MALLOC(buf, buflen);
+
 		n = RSA_public_encrypt(lenin, in, buf, pubkey, RSA_PKCS1_PADDING ) ; 
 	  	if (n < 1) {
 	    	LOG(LOG_ERR, "ERROR: RSA_public_encrypt: %s\n", ERR_error_string(ERR_get_error(), NULL));
@@ -959,6 +979,7 @@ int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen)
 		}
 		*out = buf;
 	} while(0);
+
   	return err ;
 }
 
@@ -970,6 +991,7 @@ int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen)
 	int err = 0;
 	int buflen = 0; // That's how many bytes the decrypted data would be
 	puchar buf = 0;
+	int rsa_block = 0;
 
 	do {
 		int n = 0;
@@ -988,8 +1010,21 @@ int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen)
 			LOG(LOG_ERR, "Have no output buffer.");
 			break;
 		}
-		buflen = lenin + (RSA_BYTES - lenin%RSA_BYTES) + RSA_BYTES;
+
+		rsa_block = RSA_size(priv);
+		if (rsa_block < 1) {
+			LOG(LOG_ERR, "Get block of RSA error.");
+			break;
+		}
+		if (lenin % rsa_block) {
+			buflen = lenin + (rsa_block - lenin % rsa_block) + 1;
+		} else {
+			buflen = lenin + 1;
+		}
+		fprintf(stdout, "------------buflen: %d\n", buflen);
+
 		MY_MALLOC(buf, buflen);
+
   		n = RSA_private_decrypt(lenin, in, buf, priv, RSA_PKCS1_PADDING) ;
 		if (n < 1) {
     		LOG(LOG_ERR, "ERROR: RSA_private_decrypt: %s\n", ERR_error_string(ERR_get_error(), NULL) ) ;

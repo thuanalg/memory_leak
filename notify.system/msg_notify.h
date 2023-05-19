@@ -17,8 +17,13 @@
 #include <openssl/rsa.h>
 #include <openssl/err.h>
 #include <openssl/pem.h>
+#include <openssl/evp.h>
+//EVP_aes_256_ctr
+//CTR mode was introduced by Whitfield Diffie and Martin Hellman in 1979
 
-#define PORT	 9090
+#define PORT	 		7770
+#define NTF_PORT	 	7700
+#define DEV_PORT	 	7000
 
 #define MY_MALLOC(p, n) {(p)=malloc(n); if(p){memset(p,0,n); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d", __FILE__, __FUNCTION__, __LINE__, p, (n)); } else { syslog(LOG_ALERT, "- File: %s, func: %s, line: %d, Memory Error.", __FILE__, __FUNCTION__, __LINE__); exit(1); } }
 #define MY_FREE(p) {free((p)); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, free p: %p\n", __FILE__, __FUNCTION__, __LINE__, (p)); p = 0;}
@@ -35,7 +40,8 @@
 #define uint				unsigned int
 #define puint				unsigned int*
 #define AES_BITS			(256)
-#define RSA_BYTES			(256)
+#define RSA_BYTES			(512)
+#define	UNIT_BLOCK			(128)
 
 #define MAX(a, b) 	((a) > (b) ? (a) : (b))
 #define MIN(a, b) 	((a) > (b) ? (b) : (a))
@@ -50,6 +56,7 @@ typedef enum {
 	MSG_TRA, //msg tracing device`
 	MSG_NTF, // msg notification from dev
 	MSG_CNF, // msg confirmation
+	MSG_GET_AES, // msg require aes key
 } MSG_ENUM;
 
 typedef enum {
@@ -61,7 +68,19 @@ typedef enum {
 	G_CLI_NTF,
 	//From a client to the server in order to confirm
 	F_CLI_NTF,
+
+	G_CLI_SRV,
+	F_SRV_CLI,
+	G_NTF_SRV,
+	F_SRV_NTF,
 } MSG_ROUTE;
+
+typedef enum {
+	ENCRYPT_NON,
+	ENCRYPT_SRV_PUB,
+	ENCRYPT_CLI_PUB,
+	ENCRYPT_AES,
+} RSA_AES;
 
 
 typedef struct {
@@ -163,7 +182,17 @@ int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen);
 
 extern HASH_ITEM *imd_fwd_lt;
 
-int load_reg_list();
+int load_reg_list();//Edit here
+
+
+
+
+
+
+extern uchar aes_key[];
+extern uchar *aes_iv;
+
+int get_aes_key(char *iid, char *pubfile);
 
 #ifndef __cplusplus
 #endif

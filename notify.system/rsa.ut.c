@@ -7,6 +7,7 @@
 //int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen);
 
 const char *text = "nguyen thai thuan algebra, apple, lllllllllllllll";
+ 
 
 int main(int argc, char *argv[]) {
 	int err = 0;
@@ -28,6 +29,9 @@ int main(int argc, char *argv[]) {
     		fprintf(stdout, "ERROR: RSA_private_decrypt: %s\n", ERR_error_string(ERR_get_error(), NULL) ) ;
 			break;
 		}
+	
+		fprintf(stdout, "size of public key: %d\n", RSA_size(pubkey));
+		fprintf(stdout, "size of private key: %d\n", RSA_size(prvkey));
 
 		err = rsa_enc(pubkey, text, &enc, strlen(text), &n);
 		if (err) {
