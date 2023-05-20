@@ -13,9 +13,9 @@
 #include "gen_list.h"
 #include "msg_notify.h"
 	
-#define RECV_POST	 		9090
-#define SEND_POST	 		9091
-#define MAXLINE 			1024
+#define RECV_POST	 		PORT
+#define SEND_POST	 		(PORT + 1)
+#define MAXLINE 			MAX_MSG
 #define USER_SIG 			SIGALRM
 
 
@@ -107,7 +107,7 @@ void handler(int signo, siginfo_t *info, void *context)
 
 void *sending_routine_thread(void *arg)
 {
-	char  buffer[MAXLINE+1];
+	char  buffer[MAX_MSG+1];
 	struct sockaddr_in servaddr, cliaddr;
 	int sockfd = 0;
 	int n, err;
@@ -166,6 +166,26 @@ void *sending_routine_thread(void *arg)
 			g_runnow %= 3;
 		}
 		do {
+			if(buffer[n-1] == ENCRYPT_SRV_PUB) {
+				int len = 0;
+				uchar *out = 0;
+				RSA *prv = get_srv_prv();
+				if(!prv) {
+					LOG(LOG_ERR, "cannot get server private key.");
+					continue;	
+				}
+				rsa_dec(prv, buffer, &out, n - 1, &len);
+				fprintf(stdout, "LET use RSA dec, rsa private: %p.\n", prv);
+				if(out) {
+					n = len;
+					memset(buffer, 0, sizeof(buffer));
+					fprintf(stdout, "len: %d\n", len);
+					memcpy(buffer, out, len);
+					MY_FREE(out);
+					msg = (MSG_COMMON*) buffer;
+					fprintf(stdout, "devid: %s\n", msg->dev_id);
+				}
+			}
 			msg = (MSG_COMMON*) buffer;
 			//S2
 			if(msg->type == MSG_TRA) {

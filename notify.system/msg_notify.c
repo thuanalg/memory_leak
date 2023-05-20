@@ -604,14 +604,24 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 
 int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct timespec *t) {
 
-	MSG_COMMON msg;
+	MSG_COMMON *msg = 0;
 	struct sockaddr_in addr;
 	int n = 0;
+	int sz = sizeof(MSG_COMMON);;
+	char buf[MAX_MSG+1];
+	uchar *rsa_data = 0;
+	int rsa_len = 0;
+	int err = 0;
+
+
+	memset(buf, 0, sizeof(buf));
+	msg = (MSG_COMMON *)buf;	
 
 	memset(&addr, 0, sizeof(addr));
 	addr.sin_family = AF_INET;
 	addr.sin_addr.s_addr = inet_addr(ipaddr);
 	addr.sin_port = htons(PORT + 1);
+	
 
 	do {
 		if (!t) {
@@ -623,12 +633,26 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 		if (!ipaddr) { 
 			break;
 		}
-		put_time_to_msg( &msg, t);
-		memset(&msg, 0, sizeof(msg));
-		msg.type = MSG_TRA;
-		memcpy(msg.dev_id, iid, LEN_DEVID);
 
-		n = sendto(sockfd, &msg, sizeof(msg),
+		put_time_to_msg(msg, t);
+		msg->type = MSG_TRA;
+		memcpy(msg->dev_id, iid, LEN_DEVID);
+
+		err = rsa_enc(get_srv_pub(), buf, &rsa_data, sz, &rsa_len);
+		if(err) {
+			LOG(LOG_ERR, "rsa encrypt error.");
+			break;
+		}
+		fprintf(stdout, "rsa len: %d\n", rsa_len);
+		if(rsa_len >= MAX_MSG) {
+			LOG(LOG_ERR, "rsa encrypt error --> too big.");
+			break;
+		}
+		memcpy(buf, rsa_data, rsa_len);
+		buf[rsa_len] = ENCRYPT_SRV_PUB; 
+		
+		
+		n = sendto(sockfd, buf, rsa_len + 1,
 			MSG_CONFIRM, (const struct sockaddr *) &addr,
 				sizeof(addr));
 		if (n < 0) {
@@ -637,6 +661,9 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 		fprintf(stdout, "tracking sent n: %d\n", n);
 	}
 	while (0);
+	if(rsa_data) {
+		MY_FREE(rsa_data);
+	}
 	//connect err: -1, errno: 88, text: Socket operation on non-socket
 	return n;
 
@@ -1101,7 +1128,7 @@ RSA * get_srv_prv() {
 	if(p) {
 		return p;
 	}
-	file_2_prvrsa("srv-privare-key.pem", &p);
+	file_2_prvrsa("srv-private-key.pem", &p);
 	return p;
 }
 

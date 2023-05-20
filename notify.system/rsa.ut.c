@@ -6,7 +6,7 @@
 //int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen);
 //int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen);
 
-const char *text = "nguyen thai thuan algebra, apple, lllllllllllllll";
+char text[1024];
  
 
 int main(int argc, char *argv[]) {
@@ -17,14 +17,15 @@ int main(int argc, char *argv[]) {
 	uchar *enc = 0;
 	int n = 0;
 	int k = 0;
+	sprintf(text, "%s", argv[1]);
 	do {
-		err = file_2_pubrsa("public-key.pem", &pubkey);
+		err = file_2_pubrsa("srv-public-key.pem", &pubkey);
 		if (err) {
     		fprintf(stdout, "ERROR: RSA_public_encrypt: %s\n", ERR_error_string(ERR_get_error(), NULL) ) ;
 			break;
 		}
 
-		err = file_2_prvrsa("private-key.pem", &prvkey);
+		err = file_2_prvrsa("srv-private-key.pem", &prvkey);
 		if (err) {
     		fprintf(stdout, "ERROR: RSA_private_decrypt: %s\n", ERR_error_string(ERR_get_error(), NULL) ) ;
 			break;
@@ -45,7 +46,7 @@ int main(int argc, char *argv[]) {
 			fprintf(stdout, "dec error.\n");
 			break;
 		}
-		fprintf(stdout, "inlen: %d, n: %d, \n ------------------- enc: %s\n", n, n, dec);
+		fprintf(stdout, "inlen: %d, outlen: %d, dec: %s, \n ------------------- enc: %s\n", n, k, dec);
 
 	} while(0);
 

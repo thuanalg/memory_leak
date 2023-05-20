@@ -10,7 +10,7 @@
 #include <arpa/inet.h>
 #include "msg_notify.h"
 	
-#define MAXLINE 1024
+#define MAXLINE 	MAX_MSG
 const char *id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
 int send_msg_fb(struct sockaddr_in* addr, MSG_COMMON *msg);
@@ -22,7 +22,7 @@ void client() {
 
 int main(int argc, char *argv[]) {
 	int sockfd;
-	char buffer[MAXLINE];
+	char buffer[MAXLINE + 1];
 	struct timespec t0 = {0};
 	struct timespec t1 = {0};
 	struct sockaddr_in	 servaddr;
