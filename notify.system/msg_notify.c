@@ -164,12 +164,12 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 	HASH_ITEM *hitem = 0;
 	int rc = 0;
 	int len = 0;
+	int sz = n;
 
 	com = &(msg->com);
 	len = MIN(MAX_MSG, strlen(com->dev_id));
 	hn = hash_func(com->dev_id, len);
 	hi = &(list_reg_dev[hn]);
-	
 	rc = pthread_mutex_lock(&hash_tb_mtx);
 	if (rc) {
 		//LOG FATAL
@@ -212,7 +212,7 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 			}
 			MY_MALLOC(hitem->msg ,sizeof(HASH_ITEM));
 			memcpy(hitem->msg, (char*) msg, n);
-			
+			put_pubkey_msg(hitem->msg, &sz);	
 			hi->n += 1;
 			hitem->next = hi->group;
 			hi->group = hitem;
@@ -231,7 +231,7 @@ int reg_to_table(MSG_REGISTER *msg, int n, struct timespec *t)
 				break;
 			}
 			memcpy(hitem->msg, (char*) msg, n);
-			
+			put_pubkey_msg(hitem->msg, &sz);	
 			hi->n = 1;
 			hi->group = hitem;
 			res = 1;
@@ -1041,10 +1041,77 @@ int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen)
 }
 
 /**************************************************************************************************************/
+
+int put_pubkey_msg(MSG_DATA *m, int *n) {
+	int err = 0;
+	char path[MAX_PATH + 1];
+	unsigned short k = 0;
+	RSA *rsa = 0;
+	do {
+		if (!m) {
+			LOG(LOG_ERR, "Pointer is null.");
+			err = 1;
+			break;
+		}
+		memset(path, 0, sizeof(path));
+		snprintf(path, MAX_PATH, "%s.public-key.pem.", m->com.dev_id);
+		err = file_2_pubrsa(path, &rsa);
+		if(err) {
+			LOG(LOG_ERR, "Cannot load RSA public key.");
+			err = 1;
+			break;
+		}		
+		if(!rsa) {
+			LOG(LOG_ERR, "Cannot load RSA public key.");
+			err = 1;
+			break;
+		}
+		k = sizeof(RSA*);
+		m = realloc(m, *n + k);
+		memset(m->data, 0, k);
+		memcpy(m->data, (char*)rsa, k);
+		if(n) {
+			*n += sizeof(RSA*);
+		}
+		uint16_2_arr( (uchar*)(m->com.len), k, 2);
+	} while(0);
+
+	if(err) {
+		if(rsa) {
+			RSA_free(rsa);
+		}
+	}
+	return err;
+}
+/**************************************************************************************************************/
+
+RSA * get_srv_pub() {
+	static RSA *p = 0;
+	if(p) {
+		return p;
+	}
+	file_2_pubrsa("srv-public-key.pem", &p);
+	return p;
+}
+
+/**************************************************************************************************************/
+
+RSA * get_srv_prv() {
+	static RSA *p = 0;
+	if(p) {
+		return p;
+	}
+	file_2_prvrsa("srv-privare-key.pem", &p);
+	return p;
+}
+
+/**************************************************************************************************************/
 void rsb() {
 
 }
+
 /**************************************************************************************************************/
+
 
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
 HASH_ITEM *imd_fwd_lt = 0;

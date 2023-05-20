@@ -21,9 +21,10 @@
 //EVP_aes_256_ctr
 //CTR mode was introduced by Whitfield Diffie and Martin Hellman in 1979
 
-#define PORT	 		7770
-#define NTF_PORT	 	7700
-#define DEV_PORT	 	7000
+#define PORT	 		(7770)
+#define NTF_PORT	 	(7700)
+#define DEV_PORT	 	(7000)
+#define MAX_PATH		(2048)	
 
 #define MY_MALLOC(p, n) {(p)=malloc(n); if(p){memset(p,0,n); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d", __FILE__, __FUNCTION__, __LINE__, p, (n)); } else { syslog(LOG_ALERT, "- File: %s, func: %s, line: %d, Memory Error.", __FILE__, __FUNCTION__, __LINE__); exit(1); } }
 #define MY_FREE(p) {free((p)); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, free p: %p\n", __FILE__, __FUNCTION__, __LINE__, (p)); p = 0;}
@@ -183,7 +184,10 @@ int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen);
 extern HASH_ITEM *imd_fwd_lt;
 
 int load_reg_list();//Edit here
+int put_pubkey_msg(MSG_DATA *, int *);//Edit here
 
+RSA * get_srv_pub();
+RSA * get_srv_prv();
 
 
 
@@ -193,6 +197,8 @@ extern uchar aes_key[];
 extern uchar *aes_iv;
 
 int get_aes_key(char *iid, char *pubfile);
+//Refer: https://wiki.openssl.org/index.php/EVP_Authenticated_Encryption_and_Decryption
+//https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Electronic_Codebook_(ECB)
 
 #ifndef __cplusplus
 #endif
