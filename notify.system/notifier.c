@@ -110,6 +110,7 @@ int main(int argc, char *argv[]) {
 		
 	int n = 0, len = sizeof(servaddr);
 	send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
+	sleep(1);
 	notifier(argv[1]);
 	while(1) {
 		usleep(100 * 1000);

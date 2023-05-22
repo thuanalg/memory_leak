@@ -166,6 +166,9 @@ void *sending_routine_thread(void *arg)
 			g_runnow %= 3;
 		}
 		do {
+			if(n < sizeof(MSG_COMMON)) {
+				break;
+			}
 			if(buffer[n-1] == ENCRYPT_SRV_PUB) {
 				int len = 0;
 				uchar *out = 0;
@@ -209,6 +212,9 @@ void *sending_routine_thread(void *arg)
 				}
 			}
 			msg = (MSG_COMMON*) buffer;
+			if(msg->dev_id[0]) {
+				fprintf(stdout, "devid:================================================= %s\n", msg->dev_id);
+			}
 			//S2
 			if(msg->type == MSG_TRA) {
 				int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr, 0);
