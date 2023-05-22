@@ -14,13 +14,13 @@
 //int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen);
 
 //https://wiki.openssl.org/index.php/EVP_Authenticated_Encryption_and_Decryption
-int gcm_encrypt(unsigned char *plaintext, int plaintext_len,
+int gcm_ev_enc(unsigned char *plaintext, int plaintext_len,
                 unsigned char *aad, int aad_len,
                 unsigned char *key,
                 unsigned char *iv, int iv_len,
                 unsigned char *ciphertext,
                 unsigned char *tag);
-int gcm_decrypt(unsigned char *ciphertext, int ciphertext_len,
+int gcm_ev_dec(unsigned char *ciphertext, int ciphertext_len,
                 unsigned char *aad, int aad_len,
                 unsigned char *tag,
                 unsigned char *key,
@@ -43,7 +43,7 @@ int main(int argc, char *argv[]) {
 	memset(tag, 0, sizeof(tag));
 	sprintf(buffer, "%s", argv[1]);
 	
-	n = gcm_encrypt(buffer, strlen(buffer), 
+	n = gcm_ev_enc(buffer, strlen(buffer), 
 		aes_iv, 16, 
 		aes_key, 
 		aes_iv, 16, 
@@ -51,8 +51,9 @@ int main(int argc, char *argv[]) {
 		tag);
 	fprintf(stdout, "----%s---\n", ciphertext);
 	fprintf(stdout, "----n= %d---\n", n);
-	memset(tag, 0, sizeof(tag));
-	gcm_decrypt(ciphertext, n,
+	fprintf(stdout, "----tag= %s---, taglen: %d\n", tag, strlen(tag));
+	//memset(tag, 0, sizeof(tag));
+	gcm_ev_dec(ciphertext, n,
                 aes_iv, 16,
                 tag,
                 aes_key,
@@ -63,7 +64,7 @@ int main(int argc, char *argv[]) {
 	return EXIT_SUCCESS;
 }
 //https://wiki.openssl.org/index.php/EVP_Authenticated_Encryption_and_Decryption
-int gcm_encrypt(unsigned char *plaintext, int plaintext_len,
+int gcm_ev_enc(unsigned char *plaintext, int plaintext_len,
                 unsigned char *aad, int aad_len,
                 unsigned char *key,
                 unsigned char *iv, int iv_len,
@@ -130,7 +131,7 @@ int gcm_encrypt(unsigned char *plaintext, int plaintext_len,
     return ciphertext_len;
 }
 
-int gcm_decrypt(unsigned char *ciphertext, int ciphertext_len,
+int gcm_ev_dec(unsigned char *ciphertext, int ciphertext_len,
                 unsigned char *aad, int aad_len,
                 unsigned char *tag,
                 unsigned char *key,
@@ -194,6 +195,9 @@ int gcm_decrypt(unsigned char *ciphertext, int ciphertext_len,
     } else {
         /* Verify failed */
 		fprintf(stdout, "plaintoooooooooext_len: %d\n", plaintext_len);
+
+    		fprintf (stdout, "aes: %s\n", 
+			ERR_error_string( ERR_get_error(), NULL ) ) ;
         return -1;
     }
 }

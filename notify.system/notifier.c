@@ -95,8 +95,18 @@ int main(int argc, char *argv[]) {
 	}	
 	memset(&servaddr, 0, sizeof(servaddr));
 	servaddr.sin_family = AF_INET;
-	servaddr.sin_addr.s_addr = inet_addr(argv[1]);
-	servaddr.sin_port = htons(PORT);
+	servaddr.sin_addr.s_addr = INADDR_ANY;
+	//servaddr.sin_addr.s_addr = inet_addr(argv[1]);
+	servaddr.sin_port = htons(NTF_PORT);
+
+	//We MUST bind  this socket to reuse	
+	if ( bind(sockfd, (const struct sockaddr *)&servaddr, sizeof(servaddr)) < 0 )
+	{
+		perror("bind failed");
+		exit(EXIT_FAILURE);
+	}
+	//servaddr.sin_addr.s_addr = inet_addr(argv[1]);
+	//servaddr.sin_port = htons(PORT);
 		
 	int n = 0, len = sizeof(servaddr);
 	send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);

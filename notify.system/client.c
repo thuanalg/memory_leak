@@ -80,6 +80,8 @@ int main(int argc, char *argv[]) {
 				t0 = t1;
 				if(!got_aes) {
 					send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
+				} else {
+					send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, aes256_key, aes256_iv);
 				}
 			}
 			//len = sizeof(fbaddr);

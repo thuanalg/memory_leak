@@ -444,7 +444,8 @@ void dum_msg(MSG_COMMON *item, const char *f, const char *fu, int line)
 		len += n;
 
 	} while (0);	
-	LOG(LOG_INFO, buf);	
+	fprintf(stdout, "buf\n");
+	//LOG(LOG_INFO, buf);	
 }
 
 /**************************************************************************************************************/
@@ -636,7 +637,7 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 /**************************************************************************************************************/
 
 int send_msg_track(const char *iid, int sockfd, char *ipaddr, 
-	int port, struct timespec *t, uchar *key, uchar *iv) {
+	int port, struct timespec *t, uchar *key256, uchar *iv) {
 
 	MSG_COMMON *msg = 0;
 	struct sockaddr_in addr;
@@ -672,29 +673,62 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr,
 		put_time_to_msg(msg, t);
 		msg->type = MSG_TRA;
 		memcpy(msg->dev_id, iid, LEN_DEVID);
-		err = file_2_pubrsa("srv-public-key.pem", &pubkey);
-		if(!pubkey) {
-			err = 1;
-			syslog(LOG_ERR, "Cannot public key.");
-			break;
+////////////////
+		if(!key256) {
+			err = file_2_pubrsa("srv-public-key.pem", &pubkey);
+			if(!pubkey) {
+				err = 1;
+				syslog(LOG_ERR, "Cannot public key.");
+				break;
+			}
+			err = rsa_enc(pubkey, buf, &rsa_data, sz, &rsa_len);
+			if(err) {
+				LOG(LOG_ERR, "rsa encrypt error.");
+				break;
+			}
+			fprintf(stdout, "rsa len: %d\n", rsa_len);
+			if(rsa_len >= MAX_MSG) {
+				LOG(LOG_ERR, "rsa encrypt error --> too big.");
+				break;
+			}
+			memcpy(buf, rsa_data, rsa_len);
+			buf[rsa_len] = ENCRYPT_SRV_PUB; 
+			n = rsa_len + 1;
 		}
-		err = rsa_enc(pubkey, buf, &rsa_data, sz, &rsa_len);
-		if(err) {
-			LOG(LOG_ERR, "rsa encrypt error.");
-			break;
+		else {
+			uchar *out = 0;
+			//int outlen = 0;
+			do {
+				DUM_MSG((MSG_COMMON *)buf);
+				uchar tag[AES_IV_BYTES + 1];
+				memset(tag, 0, sizeof(tag));
+				fprintf(stdout, "enc msg_id: %s\n", msg->dev_id);
+				err = ev_aes_enc(buf, &out, key256, iv, sz, &n, tag);
+				fprintf(stdout, "tag: %s, taglen: %d\n", tag, strlen(tag));
+				if(!out) {
+					break;
+				}
+				memset(buf, 0, sizeof(buf));
+				memcpy(buf, out, n);
+				//snprintf(tag, 10, "%s", "hhhhhhhhhhhkfjdkf");
+				fprintf(stdout, "tag: %s, taglen: %d\n", tag, strlen(tag));
+				memcpy(buf + n, tag, AES_IV_BYTES);
+				fprintf(stdout, "buf + n : %s, len: %d\n", buf + n, strlen(buf + n));
+				n += AES_IV_BYTES;
+				buf[n] = ENCRYPT_AES;
+				++n;
+			} while(0);
+			if(out) {
+				MY_FREE(out);
+			}
+			if(err) {
+				break;
+			}	
 		}
-		fprintf(stdout, "rsa len: %d\n", rsa_len);
-		if(rsa_len >= MAX_MSG) {
-			LOG(LOG_ERR, "rsa encrypt error --> too big.");
-			break;
-		}
-		memcpy(buf, rsa_data, rsa_len);
-		buf[rsa_len] = ENCRYPT_SRV_PUB; 
+////////////////
 		
-		
-		n = sendto(sockfd, buf, rsa_len + 1,
-			MSG_CONFIRM, (const struct sockaddr *) &addr,
-				sizeof(addr));
+		n = sendto(sockfd, buf, n, MSG_CONFIRM, 
+				(const struct sockaddr *) &addr, sizeof(addr));
 		if (n < 0) {
 			fprintf(stdout, "connect err: %d, errno: %d, text: %s\n", n, errno, strerror(errno));
 		}
@@ -1317,12 +1351,265 @@ int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *i
 
 /**************************************************************************************************************/
 
+static void handleErrors() {
+	fprintf(stdout, "aes error\n");
+}
+//https://wiki.openssl.org/index.php/EVP_Authenticated_Encryption_and_Decryption
+int gcm_encrypt(unsigned char *plaintext, int plaintext_len,
+                unsigned char *aad, int aad_len,
+                unsigned char *key,
+                unsigned char *iv, int iv_len,
+                unsigned char *ciphertext,
+                unsigned char *tag)
+{
+    EVP_CIPHER_CTX *ctx;
+
+    int len;
+
+    int ciphertext_len;
+
+
+    /* Create and initialise the context */
+    if(!(ctx = EVP_CIPHER_CTX_new()))
+        handleErrors();
+
+    /* Initialise the encryption operation. */
+    if(1 != EVP_EncryptInit_ex(ctx, EVP_aes_256_gcm(), NULL, NULL, NULL))
+        handleErrors();
+
+    /*
+     * Set IV length if default 12 bytes (96 bits) is not appropriate
+     */
+    if(1 != EVP_CIPHER_CTX_ctrl(ctx, EVP_CTRL_GCM_SET_IVLEN, iv_len, NULL))
+        handleErrors();
+
+    /* Initialise key and IV */
+    if(1 != EVP_EncryptInit_ex(ctx, NULL, NULL, key, iv))
+        handleErrors();
+
+    /*
+     * Provide any AAD data. This can be called zero or more times as
+     * required
+     */
+    if(1 != EVP_EncryptUpdate(ctx, NULL, &len, aad, aad_len))
+        handleErrors();
+
+	fprintf(stdout, "len: %d\n", len);
+    /*
+     * Provide the message to be encrypted, and obtain the encrypted output.
+     * EVP_EncryptUpdate can be called multiple times if necessary
+     */
+    if(1 != EVP_EncryptUpdate(ctx, ciphertext, &len, plaintext, plaintext_len))
+        handleErrors();
+    ciphertext_len = len;
+	fprintf(stdout, "ciphertext: %d\n", ciphertext_len);
+    /*
+     * Finalise the encryption. Normally ciphertext bytes may be written at
+     * this stage, but this does not occur in GCM mode
+     */
+    if(1 != EVP_EncryptFinal_ex(ctx, ciphertext + len, &len))
+        handleErrors();
+    ciphertext_len += len;
+
+	fprintf(stdout, "len: %d\n", len);
+//    /* Get the tag */
+    if(1 != EVP_CIPHER_CTX_ctrl(ctx, EVP_CTRL_GCM_GET_TAG, 16, tag))
+        handleErrors();
+
+    /* Clean up */
+    EVP_CIPHER_CTX_free(ctx);
+
+    return ciphertext_len;
+}
+
+/**************************************************************************************************************/
+
+int gcm_decrypt(unsigned char *ciphertext, int ciphertext_len,
+                unsigned char *aad, int aad_len,
+                unsigned char *tag,
+                unsigned char *key,
+                unsigned char *iv, int iv_len,
+                unsigned char *plaintext)
+{
+    EVP_CIPHER_CTX *ctx;
+    int len;
+    int plaintext_len;
+    int ret;
+
+    /* Create and initialise the context */
+    if(!(ctx = EVP_CIPHER_CTX_new()))
+        handleErrors();
+
+    /* Initialise the decryption operation. */
+    if(!EVP_DecryptInit_ex(ctx, EVP_aes_256_gcm(), NULL, NULL, NULL))
+        handleErrors();
+
+    /* Set IV length. Not necessary if this is 12 bytes (96 bits) */
+    if(!EVP_CIPHER_CTX_ctrl(ctx, EVP_CTRL_GCM_SET_IVLEN, iv_len, NULL))
+        handleErrors();
+
+    /* Initialise key and IV */
+    if(!EVP_DecryptInit_ex(ctx, NULL, NULL, key, iv))
+        handleErrors();
+
+    /*
+     * Provide any AAD data. This can be called zero or more times as
+     * required
+     */
+    if(!EVP_DecryptUpdate(ctx, NULL, &len, aad, aad_len))
+        handleErrors();
+
+    /*
+     * Provide the message to be decrypted, and obtain the plaintext output.
+     * EVP_DecryptUpdate can be called multiple times if necessary
+     */
+    if(!EVP_DecryptUpdate(ctx, plaintext, &len, ciphertext, ciphertext_len))
+        handleErrors();
+    plaintext_len = len;
+
+    /* Set expected tag value. Works in OpenSSL 1.0.1d and later */
+  if(!EVP_CIPHER_CTX_ctrl(ctx, EVP_CTRL_GCM_SET_TAG, 16, tag))
+      handleErrors();
+
+    /*
+     * Finalise the decryption. A positive return value indicates success,
+     * anything else is a failure - the plaintext is not trustworthy.
+     */
+    ret = EVP_DecryptFinal_ex(ctx, plaintext + len, &len);
+
+    /* Clean up */
+    EVP_CIPHER_CTX_free(ctx);
+
+    if(ret > 0) {
+        /* Success */
+        plaintext_len += len;
+		fprintf(stdout, "OKOOOOOOOOOO plaintext_len: %d\n", plaintext_len);
+        return plaintext_len;
+    } else {
+        /* Verify failed */
+		fprintf(stdout, "plaintoooooooooext_len: %d\n", plaintext_len);
+        return -1;
+    }
+}
+
 void rsb() {
 
 }
 
 /**************************************************************************************************************/
 
+//int gcm_encrypt(unsigned char *plaintext, int plaintext_len,
+//                unsigned char *aad, int aad_len,
+//                unsigned char *key,
+//                unsigned char *iv, int iv_len,
+//                unsigned char *ciphertext,
+//                unsigned char *tag)
+int ev_aes_enc(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *outlen, uchar *tag) {
+	int err = 0;
+	int n = 0;
+	//uchar tag[AES_IV_BYTES];
+	uchar buf[MAX_MSG + 1];
+	do {
+		if(!in) {
+			err = 1;
+			//
+			break;
+		}
+		if(!out) {
+			err = 1;
+			//
+			break;
+		}
+		if(!key) {
+			err = 1;
+			//
+			break;
+		}
+		if(!iv) {
+			err = 1;
+			//
+			break;
+		}
+		if(!outlen) {
+			err = 1;
+			//
+			break;
+		}
+		memset(tag, 0, sizeof(tag));
+		memset(buf, 0, sizeof(buf));
+		n = gcm_encrypt(in, lenin, iv, AES_IV_BYTES, 
+			key, iv, AES_IV_BYTES, buf, tag);
+		fprintf(stdout, "n=======:%d\n", n);
+		if(n < 1) {
+			err = 1;
+			break;
+		}
+		MY_MALLOC(*out, n + 1);
+		memcpy(*out, buf, n);
+		*outlen = n;
+	} while(0);
+
+	return err;
+}
+
+/**************************************************************************************************************/
+
+int ev_aes_dec(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *outlen, uchar *tag) {
+	int err = 0;
+	int n = 0;
+	//uchar tag[AES_IV_BYTES];
+	uchar buf[MAX_MSG + 1];
+	do {
+		if(!in) {
+			err = 1;
+			//
+			break;
+		}
+		if(!out) {
+			err = 1;
+			//
+			break;
+		}
+		if(!key) {
+			err = 1;
+			//
+			break;
+		}
+		if(!iv) {
+			err = 1;
+			//
+			break;
+		}
+		if(!outlen) {
+			err = 1;
+			//
+			break;
+		}
+		//memset(tag, 0, sizeof(tag));
+		memset(buf, 0, sizeof(buf));
+//int gcm_decrypt(unsigned char *ciphertext, int ciphertext_len,
+//                unsigned char *aad, int aad_len,
+//                unsigned char *tag,
+//                unsigned char *key,
+//                unsigned char *iv, int iv_len,
+//                unsigned char *plaintext);
+//
+		n = gcm_decrypt(in, lenin, iv, AES_IV_BYTES, tag,
+			key, iv, AES_IV_BYTES, buf);
+		fprintf(stdout, "n dev =======:%d\n", n);
+		if(n < 1) {
+			err = 1;
+			break;
+		}
+		MY_MALLOC(*out, n + 1);
+		memcpy(*out, buf, n);
+		*outlen = n;
+	} while(0);
+
+	return err;
+}
+
+/**************************************************************************************************************/
 
 HASH_LIST list_reg_dev[HASH_SIZE + 1];
 HASH_ITEM *imd_fwd_lt = 0;
