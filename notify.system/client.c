@@ -19,6 +19,8 @@ void client() {
 	
 }
 // Driver code
+uchar aes256_key[AES_BYTES];
+uchar aes256_iv[AES_IV_BYTES];
 
 int main(int argc, char *argv[]) {
 	int sockfd;
@@ -29,6 +31,7 @@ int main(int argc, char *argv[]) {
 	struct sockaddr_in	 fbaddr;
 	int val = 1;
 	int err = 0;
+	char got_aes = 0;
 	
 
 	setlogmask (LOG_UPTO (LOG_INFO));
@@ -53,34 +56,21 @@ int main(int argc, char *argv[]) {
 			
 		// Filling server information
 		servaddr.sin_family = AF_INET;
-		//servaddr.sin_addr.s_addr = INADDR_ANY;
-		servaddr.sin_addr.s_addr = inet_addr(argv[1]);
-		servaddr.sin_port = htons(PORT );
-	
-//		servaddr.sin_family = AF_INET; // IPv4
-//		servaddr.sin_addr.s_addr = INADDR_ANY;
-//		servaddr.sin_port = htons(PORT + 100);
-//			
-//		int on = 1;
-//		err = setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR | SO_REUSEPORT, &on, sizeof(int));
-//		if(err) {
-//				perror("setsockopt");
-//				exit(1);
-//		}
-//		// Bind the socket with the server address
-//		if ( bind(sockfd, (const struct sockaddr *)&servaddr, sizeof(servaddr)) < 0 )
-//		{
-//			perror("bind failed");
-//			exit(EXIT_FAILURE);
-//		}
-	//	err = connect(sockfd, (const struct sockaddr*)&servaddr, sizeof(servaddr));
-	//	if(err) {
-	//		fprintf(stdout, "connect err\n");
-	//	}
+		servaddr.sin_addr.s_addr = INADDR_ANY;
+		//servaddr.sin_addr.s_addr = inet_addr(argv[1]);
+		servaddr.sin_port = htons(DEV_PORT);
+
+		//We MUST bind  this socket to reuse	
+		if ( bind(sockfd, (const struct sockaddr *)&servaddr, sizeof(servaddr)) < 0 )
+		{
+			perror("bind failed");
+			exit(EXIT_FAILURE);
+		}
 		DUM_IPV4(&servaddr);	
 		int n = 0; 
 		//int len = sizeof(servaddr);
 		send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
+		//cmd_2_srv(MSG_GET_AES, G_CLI_SRV, 0, 0, id, argv[1]);
 		while(1) {
 			usleep(10 * 1000);
 			clock_gettime(CLOCK_REALTIME, &t1);
@@ -109,7 +99,7 @@ int main(int argc, char *argv[]) {
 					send_msg_fb(&servaddr, msg);
 				}
 			}
-			break;
+			fprintf(stdout, "Did get a message.\n");
 		}
 		err = close(sockfd);
 		if(err) {

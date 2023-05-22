@@ -3,6 +3,10 @@
 #include <string.h>
 #include <stdlib.h>
 #include <pthread.h>
+#include <sys/socket.h>
+#include <arpa/inet.h>
+#include <netinet/in.h>
+#include <unistd.h>
 
 static pthread_mutex_t hash_tb_mtx = PTHREAD_MUTEX_INITIALIZER; 
 uchar aes_key[] = {
@@ -12,6 +16,7 @@ uchar aes_key[] = {
 		0x70, 0xa2, 0xb5, 0x70, 0xd1, 0x1a, 0x12, 0x87,
 	};
 uchar *aes_iv = "!@#$%^&*()(*&^%$#@!@#$%^&*(*&%$#@@@))";
+
 /**************************************************************************************************************/
 
 int uint64_2_arr(unsigned char *arr, uint64_t n, int sz)
@@ -523,6 +528,7 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	HASH_ITEM *t = 0;
 	int len = 0;
 	int sn = 0;
+	char buffer[MAX_MSG + 1];
 
 	if (count) {
 		*count = 0;
@@ -554,6 +560,9 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 		if (hi->msg->com.ifroute == G_NTF_CLI ) {
 			iid = hi->msg->com.dev_id;
 		}
+		else if (hi->msg->com.ifroute == F_SRV_CLI ) {
+			iid = hi->msg->com.dev_id;
+		}
 		else if (hi->msg->com.ifroute == G_CLI_NTF ) {
 			iid = hi->msg->com.ntf_id;
 		}
@@ -583,10 +592,34 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 			break;
 		}
 		DUM_IPV4(&(t->ipv4));
-		//fprintf(stdout, "get hi->n_msg: %d, sizeof: %u\n", hi->n_msg, sizeof(MSG_COMMON));
-		sn = sendto(sockfd, (const char *)hi->msg, hi->n_msg,
+		memset(buffer, 0, sizeof(buffer));
+		if(hi->msg->com.type == MSG_GET_AES) {
+			uchar *out = 0;
+			fprintf(stdout, "iid: %s\n", iid);
+			RSA *pubkey = get_cli_pub(iid); 
+			if(pubkey) {
+				rsa_enc(pubkey, (char *)hi->msg, &out, hi->n_msg, &sn);	
+				fprintf(stdout, "--------sn: %d\n", sn);
+				if(out) {
+					memcpy(buffer, out, sn);
+					buffer[sn] = ENCRYPT_CLI_PUB;
+					sn++;
+					fprintf(stdout, "--------sn: %d\n", sn);
+					MY_FREE(out);
+				}
+				RSA_free(pubkey);
+			} else {
+				err = 1;
+				fprintf(stdout, " ==== Get public key err\n");
+			}
+		} else {
+			sn = hi->n_msg;
+			memcpy(buffer, (char *)hi->msg, sn);
+		}
+		fprintf(stdout, "get hi->n_msg: %d, sizeof: %u\n", hi->n_msg, sizeof(MSG_COMMON));
+		sn = sendto(sockfd, buffer, sn,
 			MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
-		fprintf(stdout, "sn: %d\n", sn);
+		fprintf(stdout, "seeeeeeeen: %d\n", sn);
 		if (count) {
 			(*count)++;
 		}
@@ -612,6 +645,7 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 	uchar *rsa_data = 0;
 	int rsa_len = 0;
 	int err = 0;
+	RSA *pubkey = 0;
 
 
 	memset(buf, 0, sizeof(buf));
@@ -637,8 +671,13 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 		put_time_to_msg(msg, t);
 		msg->type = MSG_TRA;
 		memcpy(msg->dev_id, iid, LEN_DEVID);
-
-		err = rsa_enc(get_srv_pub(), buf, &rsa_data, sz, &rsa_len);
+		err = file_2_pubrsa("srv-public-key.pem", &pubkey);
+		if(!pubkey) {
+			err = 1;
+			syslog(LOG_ERR, "Cannot public key.");
+			break;
+		}
+		err = rsa_enc(pubkey, buf, &rsa_data, sz, &rsa_len);
 		if(err) {
 			LOG(LOG_ERR, "rsa encrypt error.");
 			break;
@@ -661,6 +700,9 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct t
 		fprintf(stdout, "tracking sent n: %d\n", n);
 	}
 	while (0);
+	if(pubkey) {
+		RSA_free(pubkey);
+	}
 	if(rsa_data) {
 		MY_FREE(rsa_data);
 	}
@@ -1112,14 +1154,14 @@ int put_pubkey_msg(MSG_DATA *m, int *n) {
 }
 /**************************************************************************************************************/
 
-RSA * get_srv_pub() {
-	static RSA *p = 0;
-	if(p) {
-		return p;
-	}
-	file_2_pubrsa("srv-public-key.pem", &p);
-	return p;
-}
+//RSA * get_srv_pub() {
+//	static RSA *p = 0;
+//	if(p) {
+//		return p;
+//	}
+//	file_2_pubrsa("srv-public-key.pem", &p);
+//	return p;
+//}
 
 /**************************************************************************************************************/
 
@@ -1133,6 +1175,147 @@ RSA * get_srv_prv() {
 }
 
 /**************************************************************************************************************/
+
+RSA *get_cli_pub(char *idd) {
+	RSA *p = 0;
+	char path[1024];
+	memset(path, 0, sizeof(path));
+	sprintf(path, "%s.public-key.pem", idd);
+	fprintf(stdout, "path: %s\n", path);
+	file_2_pubrsa(path, &p);
+	return p;
+}
+/**************************************************************************************************************/
+
+RSA *get_cli_prv(char *idd) {
+	RSA *p = 0;
+	char path[1024];
+	memset(path, 0, sizeof(path));
+	sprintf(path, "%s-private-key.pem", idd);
+	file_2_prvrsa(path, &p);
+	return p;
+}
+
+/**************************************************************************************************************/
+
+int get_aes256_key(uchar **key, uchar **iv) {
+	int err = 0;
+	do {
+		if(!key) {
+			err = 1;
+			break;
+		}
+
+		if(!iv) {
+			err = 1;
+			break;
+		}
+
+		MY_MALLOC(*key, 32);
+		MY_MALLOC(*iv, 16);
+		memcpy(*key, aes_key, 32);
+		memcpy(*iv, aes_iv, 16);
+
+	} while(0);	
+	return err;
+}
+
+/**************************************************************************************************************/
+
+int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *ip) {
+	int err = 0;
+	RSA *pubkey = 0;
+	uchar *rsa_data = 0;
+	int rsa_len = 0;
+	//int sz = MAX_MSG + 1;
+	struct sockaddr_in	 servaddr;
+	MSG_NOTIFY *msg = 0;
+	uint16_t n = sizeof(MSG_COMMON);
+	struct timespec t;
+	char data_len [2];
+	int sockfd = 0;
+	char buffer[MAX_MSG + 1];
+
+	do {
+		memset(buffer, 0, sizeof(buffer));
+		clock_gettime(CLOCK_REALTIME, &t);
+		if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
+			LOG(LOG_ERR, "Cannot create socket.");
+			err = 1;
+			break;
+		}
+		memset(&servaddr, 0, sizeof(servaddr));
+		servaddr.sin_family = AF_INET;
+		servaddr.sin_addr.s_addr = inet_addr(ip);
+		servaddr.sin_port = htons(PORT);
+	
+		msg = (MSG_DATA *)buffer;
+	
+		msg->com.type = cmd;
+		msg->com.ifroute = r;
+		memcpy(msg->com.dev_id, idd, MIN(LEN_DEVID, strlen(idd) + 1));
+		//memcpy(msg->com.ntf_id, id, MIN(LEN_DEVID, strlen(id) + 1));
+		//n = MAX_MSG - sizeof(MSG_COMMON);
+		if(data) {
+			memcpy(msg->data, data, len);
+			n += len;
+			memset(data_len, 0, sizeof(data_len));
+			uint16_2_arr(data_len, len, 2);
+			memcpy(msg->com.len, data_len, 2);
+		}
+
+
+		uint64_2_arr(msg->com.second, t.tv_sec, 8);
+		uint64_2_arr(msg->com.nano, t.tv_nsec, 8);
+	
+		DUM_MSG(&(msg->com));
+/////
+		err = file_2_pubrsa("srv-public-key.pem", &pubkey);
+		if(!pubkey) {
+			err = 1;
+			syslog(LOG_ERR, "Cannot public key.");
+		}
+		fprintf(stdout, "n: %d, rsa_len: %d\n", n, rsa_len);
+		err = rsa_enc(pubkey, buffer, &rsa_data, n, &rsa_len);
+		if(err) {
+			LOG(LOG_ERR, "rsa encrypt error.");
+			break;
+		}
+		fprintf(stdout, "n: %d, rsa_len: %di\n", n, rsa_len);
+		fprintf(stdout, "rsa len: %d\n", rsa_len);
+		if(rsa_len >= MAX_MSG) {
+			LOG(LOG_ERR, "rsa encrypt error --> too big.");
+			break;
+		}
+		memcpy(buffer, rsa_data, rsa_len);
+		buffer[rsa_len] = ENCRYPT_SRV_PUB; 
+	/////////
+		n = sendto(sockfd, buffer, rsa_len + 1,
+			MSG_CONFIRM, (const struct sockaddr *) &servaddr,
+				sizeof(servaddr));
+		fprintf(stdout, "send get_aes: %d\n", n);
+		if(err) {
+			LOG(LOG_ERR, "Close socket error.");
+		}
+	} while(0);
+
+	if(pubkey) {
+		RSA_free(pubkey);
+	}
+	if(rsa_data) {
+		MY_FREE(rsa_data);
+	}
+	if(sockfd > 0) {
+		err = close(sockfd);
+		if(err) {
+			LOG(LOG_ERR, "Close socket error.");
+		}
+	}
+	return err;
+}
+
+/**************************************************************************************************************/
+
 void rsb() {
 
 }

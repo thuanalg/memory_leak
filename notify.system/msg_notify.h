@@ -37,12 +37,16 @@
 #define LEN_U16INT 			(2) 
 #define MAX_MSG 			(1280) 
 #define uchar				unsigned char
+#define cchar				const char
+#define cuchar				const unsigned char
 #define puchar				unsigned char*
 #define uint				unsigned int
 #define puint				unsigned int*
 #define AES_BITS			(256)
 #define RSA_BYTES			(512)
 #define	UNIT_BLOCK			(128)
+#define AES_BYTES			(32)
+#define AES_IV_BYTES		AES_BLOCK_SIZE
 
 #define MAX(a, b) 	((a) > (b) ? (a) : (b))
 #define MIN(a, b) 	((a) > (b) ? (b) : (a))
@@ -59,6 +63,7 @@ typedef enum {
 	MSG_CNF, // msg confirmation
 	MSG_GET_AES, // msg require aes key
 } MSG_ENUM;
+#define CMD_ENUM MSG_ENUM
 
 typedef enum {
 	// From a notifier to server
@@ -186,8 +191,11 @@ extern HASH_ITEM *imd_fwd_lt;
 int load_reg_list();//Edit here
 int put_pubkey_msg(MSG_DATA *, int *);//Edit here
 
-RSA * get_srv_pub();
-RSA * get_srv_prv();
+//RSA *get_srv_pub();
+RSA *get_srv_prv();
+
+RSA *get_cli_pub(char *idd);
+RSA *get_cli_prv(char *idd);
 
 
 
@@ -196,9 +204,11 @@ RSA * get_srv_prv();
 extern uchar aes_key[];
 extern uchar *aes_iv;
 
-int get_aes_key(char *iid, char *pubfile);
+int get_aes256_key(uchar **key, uchar **iv);
 //Refer: https://wiki.openssl.org/index.php/EVP_Authenticated_Encryption_and_Decryption
 //https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Electronic_Codebook_(ECB)
+
+int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *ip);
 
 #ifndef __cplusplus
 #endif

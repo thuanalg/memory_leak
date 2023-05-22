@@ -175,15 +175,12 @@ void *sending_routine_thread(void *arg)
 					continue;	
 				}
 				rsa_dec(prv, buffer, &out, n - 1, &len);
-				fprintf(stdout, "LET use RSA dec, rsa private: %p.\n", prv);
 				if(out) {
 					n = len;
 					memset(buffer, 0, sizeof(buffer));
-					fprintf(stdout, "len: %d\n", len);
 					memcpy(buffer, out, len);
 					MY_FREE(out);
 					msg = (MSG_COMMON*) buffer;
-					fprintf(stdout, "devid: %s\n", msg->dev_id);
 				}
 			}
 			msg = (MSG_COMMON*) buffer;
@@ -291,7 +288,7 @@ int main(int argc, char *argv[]) {
 		MSG_COMMON *msg = 0;
 		//S1 socket 
 		memset(buffer, 0, sizeof(buffer));
-		n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
+		n = recvfrom(sockfd, (char *)buffer, MAX_MSG + 1,
 					MSG_DONTWAIT, ( struct sockaddr *) &cliaddr,	&len);
 
 		if(n < 1) {
@@ -303,27 +300,68 @@ int main(int argc, char *argv[]) {
 			//Error here
 			continue;
 		}
-		fprintf(stdout, "recv n: %d\n", n);
+		fprintf(stdout, "+++++++++n: %d, has encrypt: %s\n", n, buffer[n-1] ? "YES" : "NO");
+		if(buffer[n-1] == ENCRYPT_SRV_PUB) {
+			int len = 0;
+			uchar *out = 0;
+			RSA *prv = get_srv_prv();
+			if(!prv) {
+				LOG(LOG_ERR, "S1 cannot get server private key.");
+				continue;	
+			}
+			rsa_dec(prv, buffer, &out, n - 1, &len);
+			fprintf(stdout, "S1 LET use RSA dec, rsa private: %p.\n", prv);
+			if(out) {
+				n = len;
+				memset(buffer, 0, sizeof(buffer));
+				fprintf(stdout, "len: %d\n", len);
+				memcpy(buffer, out, len);
+				MY_FREE(out);
+				msg = (MSG_COMMON*) buffer;
+				fprintf(stdout, "S1 devid: %s\n", msg->dev_id);
+			}
+		}
 		msg = (MSG_COMMON*) buffer;	
+		{
+			int type = msg->type;
+			fprintf(stdout, "recv n: %d, type : %d\n", n, type);
+		}
 		DUM_MSG(msg);
 		if(msg->ifroute == G_NTF_CLI || msg->ifroute == G_CLI_NTF) {
 			if(msg->type == MSG_NTF) {
 				int err = 0;
-				uint16_t k = 0;
-				char buf[MAX_MSG + 1];
+				//uint16_t k = 0;
+				//char buf[MAX_MSG + 1];
 				MSG_NOTIFY *p = (MSG_NOTIFY *) msg;
-				memset(buf, 0, sizeof(buf));
-				arr_2_uint16( msg->len, &k, 2);			
+				//memset(buf, 0, sizeof(buf));
+				//arr_2_uint16( msg->len, &k, 2);			
 				//Add to immediate forward list
 				add_to_imd_fwd( p, &imd_fwd_lt, n);
 				err = pthread_kill( read_threadid, USER_SIG);
-				if(err)
-				{	
+				if(err) {	
 					LOG(LOG_ERR, "signaling error.");
 				}
 			}
+			
+		} else if(msg->ifroute == G_CLI_SRV) {
+			int err = 0;
+			//uint16_t k = 0;
+			//char buf[MAX_MSG + 1];
+			MSG_NOTIFY *p = (MSG_NOTIFY *) msg;
+			p->com.ifroute = F_SRV_CLI;
+			//memset(buf, 0, sizeof(buf));
+			uint16_2_arr( msg->len, AES_BYTES + AES_IV_BYTES, 2);			
+			//Add to immediate forward list
+			memcpy(buffer + n, aes_key, AES_BYTES); 
+			memcpy(buffer + n + AES_BYTES, aes_iv, AES_IV_BYTES); 
+			n += AES_BYTES + AES_IV_BYTES;
+			fprintf(stdout, "ADDD to list FW______: %s, n: %d\n", msg->dev_id, n);
+			add_to_imd_fwd( p, &imd_fwd_lt, n);
+			err = pthread_kill( read_threadid, USER_SIG);
+			if(err) {	
+				LOG(LOG_ERR, "signaling error.");
+			}
 		}
-
 		if(n > 0 && cliaddr.sin_family == AF_INET) {
 			DUM_IPV4(&cliaddr);
 		}
