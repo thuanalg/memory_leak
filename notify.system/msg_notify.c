@@ -635,7 +635,8 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 
 /**************************************************************************************************************/
 
-int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct timespec *t) {
+int send_msg_track(const char *iid, int sockfd, char *ipaddr, 
+	int port, struct timespec *t, uchar *key, uchar *iv) {
 
 	MSG_COMMON *msg = 0;
 	struct sockaddr_in addr;
@@ -1191,7 +1192,7 @@ RSA *get_cli_prv(char *idd) {
 	RSA *p = 0;
 	char path[1024];
 	memset(path, 0, sizeof(path));
-	sprintf(path, "%s-private-key.pem", idd);
+	sprintf(path, "%s.private-key.pem", idd);
 	file_2_prvrsa(path, &p);
 	return p;
 }

@@ -32,6 +32,7 @@ int main(int argc, char *argv[]) {
 	int val = 1;
 	int err = 0;
 	char got_aes = 0;
+	MSG_DATA *dt = 0;
 	
 
 	setlogmask (LOG_UPTO (LOG_INFO));
@@ -69,14 +70,17 @@ int main(int argc, char *argv[]) {
 		DUM_IPV4(&servaddr);	
 		int n = 0; 
 		//int len = sizeof(servaddr);
-		send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
-		//cmd_2_srv(MSG_GET_AES, G_CLI_SRV, 0, 0, id, argv[1]);
+		send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
+		sleep(1);
+		cmd_2_srv(MSG_GET_AES, G_CLI_SRV, 0, 0, (char*) id, argv[1]);
 		while(1) {
 			usleep(10 * 1000);
 			clock_gettime(CLOCK_REALTIME, &t1);
 			if(t1.tv_sec - t0.tv_sec > INTER_TRACK) {
 				t0 = t1;
-				send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
+				if(!got_aes) {
+					send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
+				}
 			}
 			//len = sizeof(fbaddr);
 			memset(&fbaddr, 0, sizeof(fbaddr));
@@ -86,20 +90,58 @@ int main(int argc, char *argv[]) {
 			if(n < 1 ) {
 				continue;
 			}
-			if(n >= sizeof(MSG_COMMON) ) {
-				MSG_COMMON *msg = (MSG_COMMON *) buffer;
-	
-				if(msg->ifroute == G_NTF_CLI) {
-					MSG_DATA *dt = (MSG_DATA *)buffer;
-					fprintf(stdout, "n: %d, data: %s\n", n, dt->data);
-					DUM_MSG(msg); 
-					DUM_IPV4(&fbaddr);
-					msg->ifroute = G_CLI_NTF;
-					memset(msg->len, 0, LEN_U16INT);
-					send_msg_fb(&servaddr, msg);
+			if(n < sizeof(MSG_COMMON)) {
+				continue;
+			}
+			MSG_COMMON *msg = (MSG_COMMON *) buffer;
+			if(buffer[n - 1] == ENCRYPT_CLI_PUB) {
+				uchar *out = 0;
+				int outlen = 0;
+				RSA *key = 0;
+				do {
+					key = get_cli_prv((char*)id);				
+					rsa_dec(key, buffer, &out, n-1, &outlen);
+					if(!out) {
+						break;
+					}
+					memset(buffer, 0, sizeof(buffer));
+					memcpy(buffer, out, outlen);
+					n = outlen;
+				} while(0);
+				if(key) {
+					RSA_free(key);
+				}
+				if(out) {
+					MY_FREE(out);
 				}
 			}
-			fprintf(stdout, "Did get a message.\n");
+			dt = (MSG_DATA *)buffer;
+			if(msg->ifroute == G_NTF_CLI) {
+				fprintf(stdout, "n: %d, data: %s\n", n, dt->data);
+				DUM_MSG(msg); 
+				DUM_IPV4(&fbaddr);
+				msg->ifroute = G_CLI_NTF;
+				memset(msg->len, 0, LEN_U16INT);
+				send_msg_fb(&servaddr, msg);
+			}
+			else if(msg->ifroute == F_SRV_CLI) {
+				if(msg->type == MSG_GET_AES) {
+					do {
+						uchar *p = dt->data;
+						uint16_t sz = 0;
+						arr_2_uint16(msg->len, &sz, 2);
+						fprintf(stdout, "data size: %d\n");
+						if(sz != (AES_BYTES + AES_IV_BYTES) ) {
+							break;
+						}
+						fprintf(stdout, "did get AES key\n");
+						memcpy(aes256_key, p, AES_BYTES); 
+						memcpy(aes256_iv, p + AES_BYTES, AES_IV_BYTES); 
+						got_aes = 1;
+					} while(0);
+				}	
+			}
+			fprintf(stdout, "Did get a message devid: %s, n: %d\n.\n", msg->dev_id, n);
 		}
 		err = close(sockfd);
 		if(err) {

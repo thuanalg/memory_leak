@@ -99,7 +99,7 @@ int main(int argc, char *argv[]) {
 	servaddr.sin_port = htons(PORT);
 		
 	int n = 0, len = sizeof(servaddr);
-	send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
+	send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
 	notifier(argv[1]);
 	while(1) {
 		usleep(100 * 1000);
@@ -111,7 +111,7 @@ int main(int argc, char *argv[]) {
 				break;
 			}
 			t0 = t1;
-			send_msg_track(id, sockfd, argv[1], PORT + 1, &t0);
+			send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
 			notifier(argv[1]);
 			++count;
 		}

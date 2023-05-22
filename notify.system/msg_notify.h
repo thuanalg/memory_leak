@@ -176,7 +176,8 @@ extern HASH_LIST list_reg_notifier[HASH_SIZE + 1];
 extern HASH_ITEM *notified_list;
 
 //20230507
-int send_msg_track(const char *iid, int sockfd, char *ipaddr, int port, struct timespec *t);
+int send_msg_track(const char *iid, int sockfd, 
+	char *ipaddr, int port, struct timespec *t, uchar *key, uchar *iv);
 //20230517
 int ntf_aes_encrypt(uchar *in, uchar *out, uchar* key, uchar* ivec, int n, int enc); 
 int ntf_aes_file(uchar *in, uchar *out, uchar* key, uchar* ivec, int enc); 
