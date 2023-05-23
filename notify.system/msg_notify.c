@@ -534,7 +534,6 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	if (count) {
 		*count = 0;
 	}
-
 	rc = pthread_mutex_lock(&hash_tb_mtx);
 	if (rc) {
 		//LOG FATAL
@@ -557,11 +556,18 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	}
 	while (hi)
 	{
+		fprintf(stdout, "%s:%s:%d, ================\n", __FILE__, __FUNCTION__, __LINE__);
 		fprintf(stdout, "error No item\n");
 		if (hi->msg->com.ifroute == G_NTF_CLI ) {
 			iid = hi->msg->com.dev_id;
 		}
 		else if (hi->msg->com.ifroute == F_SRV_CLI ) {
+			iid = hi->msg->com.dev_id;
+		}
+//		else if (hi->msg->com.ifroute == G_NTF_SRV ) {
+//			iid = hi->msg->com.dev_id;
+//		}
+		else if (hi->msg->com.ifroute == F_SRV_NTF) {
 			iid = hi->msg->com.dev_id;
 		}
 		else if (hi->msg->com.ifroute == G_CLI_NTF ) {
@@ -593,6 +599,7 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 			break;
 		}
 		DUM_IPV4(&(t->ipv4));
+/////////////////////////
 		memset(buffer, 0, sizeof(buffer));
 		if(hi->msg->com.type == MSG_GET_AES) {
 			uchar *out = 0;
@@ -617,7 +624,8 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 			sn = hi->n_msg;
 			memcpy(buffer, (char *)hi->msg, sn);
 		}
-		fprintf(stdout, "get hi->n_msg: %d, sizeof: %u\n", hi->n_msg, sizeof(MSG_COMMON));
+/////////////////////////
+		fprintf(stdout, "==============get hi->n_msg: %d, sizeof: %u\n", hi->n_msg, sizeof(MSG_COMMON));
 		sn = sendto(sockfd, buffer, sn,
 			MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
 		fprintf(stdout, "seeeeeeeen: %d\n", sn);
@@ -1310,7 +1318,6 @@ int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *i
 			err = 1;
 			syslog(LOG_ERR, "Cannot public key.");
 		}
-		fprintf(stdout, "n: %d, rsa_len: %d\n", n, rsa_len);
 		err = rsa_enc(pubkey, buffer, &rsa_data, n, &rsa_len);
 		if(err) {
 			LOG(LOG_ERR, "rsa encrypt error.");
@@ -1325,6 +1332,7 @@ int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *i
 		memcpy(buffer, rsa_data, rsa_len);
 		buffer[rsa_len] = ENCRYPT_SRV_PUB; 
 	/////////
+		fprintf(stdout, "File: %s, func: %s, n: %d, rsa_len: %d\n", __FILE__, __FUNCTION__, n, rsa_len);
 		n = sendto(sockfd, buffer, rsa_len + 1,
 			MSG_CONFIRM, (const struct sockaddr *) &servaddr,
 				sizeof(servaddr));

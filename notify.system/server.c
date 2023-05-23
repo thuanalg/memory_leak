@@ -212,9 +212,6 @@ void *sending_routine_thread(void *arg)
 				}
 			}
 			msg = (MSG_COMMON*) buffer;
-			if(msg->dev_id[0]) {
-				fprintf(stdout, "devid:================================================= %s\n", msg->dev_id);
-			}
 			//S2
 			if(msg->type == MSG_TRA) {
 				int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr, 0);
@@ -317,6 +314,7 @@ int main(int argc, char *argv[]) {
 	len = sizeof(cliaddr); //len is value/result
 	while(!is_stop_server) {
 		MSG_COMMON *msg = 0;
+		uchar enc = 0;
 		//S1 socket 
 		memset(buffer, 0, sizeof(buffer));
 		n = recvfrom(sockfd, (char *)buffer, MAX_MSG + 1,
@@ -331,8 +329,9 @@ int main(int argc, char *argv[]) {
 			//Error here
 			continue;
 		}
+		enc = buffer[n-1];
 		fprintf(stdout, "+++++++++n: %d, has encrypt: %s\n", n, buffer[n-1] ? "YES" : "NO");
-		if(buffer[n-1] == ENCRYPT_SRV_PUB) {
+		if(enc == ENCRYPT_SRV_PUB) {
 			int len = 0;
 			uchar *out = 0;
 			RSA *prv = get_srv_prv();
@@ -341,7 +340,7 @@ int main(int argc, char *argv[]) {
 				continue;	
 			}
 			rsa_dec(prv, buffer, &out, n - 1, &len);
-			fprintf(stdout, "S1 LET use RSA dec, rsa private: %p.\n", prv);
+			fprintf(stdout, "S1 LET use RSA dec, rsa private------: %p.\n", prv);
 			if(out) {
 				n = len;
 				memset(buffer, 0, sizeof(buffer));
@@ -350,6 +349,31 @@ int main(int argc, char *argv[]) {
 				MY_FREE(out);
 				msg = (MSG_COMMON*) buffer;
 				fprintf(stdout, "S1 devid: %s\n", msg->dev_id);
+			}
+		} else if(enc == ENCRYPT_AES) {
+			uchar *out = 0;
+			int outlen = 0;
+			int err = 0;
+			fprintf(stdout, "AES_ENCRYPT n = %d.\n", n);
+			do {
+				uchar tag[AES_IV_BYTES + 1];
+				memset(tag, 0, sizeof(tag));
+				memcpy(tag, buffer + n - 1 - AES_IV_BYTES, AES_IV_BYTES);
+				fprintf(stdout, "tag: %s, taglen: %d\n", tag, strlen(tag));
+				err = ev_aes_dec(buffer, &out, aes_key, aes_iv, n - 1 - AES_IV_BYTES, &outlen, tag);
+				fprintf(stdout, "dec err: %d, outlen: %d\n", err, outlen);
+				if(!out) {
+					fprintf(stdout, "i====AES_ENCRYPT.\n");
+					break;
+				}
+				memset(buffer, 0, sizeof(buffer));
+				memcpy(buffer, out, outlen);
+				n = outlen;
+				msg = (MSG_COMMON*) out;
+				fprintf(stdout, "devid oooooooooooooooaes: %s\n", msg->dev_id);
+			} while(0);
+			if(out) {
+				MY_FREE(out);
 			}
 		}
 		msg = (MSG_COMMON*) buffer;	
@@ -387,6 +411,24 @@ int main(int argc, char *argv[]) {
 			memcpy(buffer + n + AES_BYTES, aes_iv, AES_IV_BYTES); 
 			n += AES_BYTES + AES_IV_BYTES;
 			fprintf(stdout, "ADDD to list FW______: %s, n: %d\n", msg->dev_id, n);
+			add_to_imd_fwd( p, &imd_fwd_lt, n);
+			err = pthread_kill( read_threadid, USER_SIG);
+			if(err) {	
+				LOG(LOG_ERR, "signaling error.");
+			}
+		} else if(msg->ifroute == G_NTF_SRV) {
+			int err = 0;
+			//uint16_t k = 0;
+			//char buf[MAX_MSG + 1];
+			MSG_NOTIFY *p = (MSG_NOTIFY *) msg;
+			p->com.ifroute = F_SRV_NTF;
+			//memset(buf, 0, sizeof(buf));
+			uint16_2_arr( msg->len, AES_BYTES + AES_IV_BYTES, 2);			
+			//Add to immediate forward list
+			memcpy(buffer + n, aes_key, AES_BYTES); 
+			memcpy(buffer + n + AES_BYTES, aes_iv, AES_IV_BYTES); 
+			n += AES_BYTES + AES_IV_BYTES;
+			fprintf(stdout, "ADDD to list FW_____ fROM NTF to SRV_: %s, n: %d\n", msg->dev_id, n);
 			add_to_imd_fwd( p, &imd_fwd_lt, n);
 			err = pthread_kill( read_threadid, USER_SIG);
 			if(err) {	

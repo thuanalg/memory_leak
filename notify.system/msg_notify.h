@@ -47,6 +47,7 @@
 #define	UNIT_BLOCK			(128)
 #define AES_BYTES			(32)
 #define AES_IV_BYTES		AES_BLOCK_SIZE
+#define MAX_DATA			(MAX_MSG - 1 - AES_IV_BYTES)
 
 #define MAX(a, b) 	((a) > (b) ? (a) : (b))
 #define MIN(a, b) 	((a) > (b) ? (b) : (a))
@@ -227,3 +228,4 @@ int ev_aes_enc(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *le
 int ev_aes_dec(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *lenout, uchar *tag);
 #ifndef __cplusplus
 #endif
+//https://www.youtube.com/watch?v=BOKSEaWfnjw
