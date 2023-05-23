@@ -353,14 +353,16 @@ int main(int argc, char *argv[]) {
 		} else if(enc == ENCRYPT_AES) {
 			uchar *out = 0;
 			int outlen = 0;
+			int inlen = 0;
 			int err = 0;
 			fprintf(stdout, "AES_ENCRYPT n = %d.\n", n);
 			do {
+				inlen = n - 1 - AES_IV_BYTES;
 				uchar tag[AES_IV_BYTES + 1];
 				memset(tag, 0, sizeof(tag));
-				memcpy(tag, buffer + n - 1 - AES_IV_BYTES, AES_IV_BYTES);
-				fprintf(stdout, "tag: %s, taglen: %d\n", tag, strlen(tag));
-				err = ev_aes_dec(buffer, &out, aes_key, aes_iv, n - 1 - AES_IV_BYTES, &outlen, tag);
+				memcpy(tag, buffer + inlen, AES_IV_BYTES);
+				fprintf(stdout, "tag: %s, taglen: %d, inlen: %d\n", tag, strlen(tag),  inlen);
+				err = ev_aes_dec(buffer, &out, aes_key, aes_iv, inlen, &outlen, tag);
 				fprintf(stdout, "dec err: %d, outlen: %d\n", err, outlen);
 				if(!out) {
 					fprintf(stdout, "i====AES_ENCRYPT.\n");

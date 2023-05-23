@@ -74,6 +74,7 @@ int main(int argc, char *argv[]) {
 		sleep(1);
 		cmd_2_srv(MSG_GET_AES, G_CLI_SRV, 0, 0, (char*) id, argv[1]);
 		while(1) {
+			int enc = 0;
 			usleep(10 * 1000);
 			clock_gettime(CLOCK_REALTIME, &t1);
 			if(t1.tv_sec - t0.tv_sec > INTER_TRACK) {
@@ -87,7 +88,7 @@ int main(int argc, char *argv[]) {
 			//len = sizeof(fbaddr);
 			memset(&fbaddr, 0, sizeof(fbaddr));
 			memset(buffer, 0, sizeof(buffer));
-			n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
+			n = recvfrom(sockfd, (char *)buffer, sizeof(buffer),
 						0, 0, 0);
 			if(n < 1 ) {
 				continue;
@@ -95,8 +96,9 @@ int main(int argc, char *argv[]) {
 			if(n < sizeof(MSG_COMMON)) {
 				continue;
 			}
+			enc = buffer[n-1];
 			MSG_COMMON *msg = (MSG_COMMON *) buffer;
-			if(buffer[n - 1] == ENCRYPT_CLI_PUB) {
+			if(enc == ENCRYPT_CLI_PUB) {
 				uchar *out = 0;
 				int outlen = 0;
 				RSA *key = 0;
@@ -116,10 +118,45 @@ int main(int argc, char *argv[]) {
 				if(out) {
 					MY_FREE(out);
 				}
+			} else if(enc == ENCRYPT_AES) {
+				fprintf(stdout, "\n\nMUST use AES+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.\n\n");
+				uchar *out = 0;
+				int outlen = 0;
+				int inlen = 0;
+				int err = 0;
+				fprintf(stdout, "AES_ENCRYPT n = %d.\n", n);
+				do {
+					inlen = n - 1 - AES_IV_BYTES;
+					uchar tag[AES_IV_BYTES + 1];
+					memset(tag, 0, sizeof(tag));
+					memcpy(tag, buffer + inlen, AES_IV_BYTES);
+					fprintf(stdout, "tag: %s, taglen: %d, inlen: %d\n", tag, strlen(tag), inlen);
+					err = ev_aes_dec(buffer, &out, aes256_key, aes256_iv, inlen, &outlen, tag);
+					fprintf(stdout, "dec err: %d, outlen: %d\n", err, outlen);
+					if(err) {
+						break;
+					}
+					if(!out) {
+						break;
+					}
+					msg = (MSG_COMMON*) out;
+					memset(buffer, 0, sizeof(buffer));
+					memcpy(buffer, out, outlen);
+					n = outlen;
+					fprintf(stdout, "devid oooooooooooooooaes: %s\n", msg->dev_id);
+				} while(0);
+				if(out) {
+					MY_FREE(out);
+				}
+			} else if( enc == 0) {
+				fprintf(stdout, "HAVE NO ENC=================.\n");
 			}
+
 			dt = (MSG_DATA *)buffer;
+			msg = (MSG_COMMON*) buffer;
+
+			fprintf(stdout, "\n===========\nn: %d, ifroute: %d\n=================\n", n, msg->ifroute);
 			if(msg->ifroute == G_NTF_CLI) {
-				fprintf(stdout, "n: %d, data: %s\n", n, dt->data);
 				DUM_MSG(msg); 
 				DUM_IPV4(&fbaddr);
 				msg->ifroute = G_CLI_NTF;
@@ -159,15 +196,48 @@ int send_msg_fb(struct sockaddr_in* addr, MSG_COMMON *msg) {
 	int len = sizeof(MSG_COMMON);
 	int sk = 0;
 	int err = 0;
+	uchar buffer[MAX_MSG + 1];
+	memset(buffer, 0, sizeof(buffer));
 	if ( (sk = socket(AF_INET, SOCK_DGRAM, 0)) < 0 ) {
 		perror("socket creation failed");
 		exit(EXIT_FAILURE);
 	}
 	addr->sin_port = htons(PORT);
 	DUM_IPV4(addr);
-	n = sendto(sk, msg, len,
+	do {
+		uchar *out = 0;
+		int outlen = 0;
+		do {
+			uchar tag[AES_IV_BYTES + 1];
+			memset(tag, 0, sizeof(tag));
+			err = ev_aes_enc((char*)msg, &out, aes256_key, aes256_iv, len, &outlen, tag);
+			if(err) {
+				fprintf(stdout, "\n\n\nenc AES256 error: \n\n\n");
+				break;
+			}
+			if(!out) {
+				break;
+			}
+			memset(buffer, 0, sizeof(buffer));
+			memcpy(buffer, out, outlen);
+			memcpy(buffer + outlen, tag, AES_IV_BYTES);
+			outlen += AES_IV_BYTES;
+			buffer[outlen] = ENCRYPT_AES;
+			++outlen;
+			len = outlen;
+		} while(0);
+		if(out) {
+			MY_FREE(out);
+		}
+		if(err) {
+			//LOG(LOG_ERR
+		}	
+	} while(0);
+	n = sendto(sk, buffer, len,
 		MSG_CONFIRM, (const struct sockaddr *) addr,
 			sizeof(*addr));
+	fprintf(stdout, "senttttttttt: %d\n", n);
+	fprintf(stdout, "\n\nMUST use AES+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.\n\n");
 	if(n < len) {
 		LOG(LOG_ERR, "close socket err.");
 	}

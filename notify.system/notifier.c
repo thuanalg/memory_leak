@@ -73,8 +73,6 @@ void notifier(char *ip) {
 			if(err) {
 				break;
 			}
-			fprintf(stdout, "====================outlen: %d\n", outlen);
-			fprintf(stdout, "===================out: %s\n", out);
 			memcpy(buffer, out, outlen);
 			memcpy(buffer + outlen , tag, AES_IV_BYTES);
 		} while(0);
@@ -184,7 +182,7 @@ int main(int argc, char *argv[]) {
 			MSG_COMMON *msg = 0;
 			uchar enc = 0;
 			enc = buffer[n-1];
-			fprintf(stdout, "recv -------: %d\n", n);
+			fprintf(stdout, "recv -------: %d, enc: %d\n", n, enc);
 			if(enc) {
 				if(enc == ENCRYPT_CLI_PUB) {
 					fprintf(stdout, "MUST dec by rsa private key.\n");		
@@ -207,7 +205,40 @@ int main(int argc, char *argv[]) {
 					if(out) {
 						MY_FREE(out);
 					}
+				} else if (enc == ENCRYPT_AES) {
+					fprintf(stdout, "\n\nMUST use AES+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.\n\n");
+					uchar *out = 0;
+					int outlen = 0;
+					int inlen = 0;
+					int err = 0;
+					fprintf(stdout, "AES_ENCRYPT n = %d.\n", n);
+					do {
+						inlen = n - 1 - AES_IV_BYTES;
+						uchar tag[AES_IV_BYTES + 1];
+						memset(tag, 0, sizeof(tag));
+						memcpy(tag, buffer + inlen, AES_IV_BYTES);
+						fprintf(stdout, "tag: %s, taglen: %d, inlen: %d\n", tag, strlen(tag), inlen);
+						err = ev_aes_dec(buffer, &out, aes256_key, aes256_iv, inlen, &outlen, tag);
+						fprintf(stdout, "dec err: %d, outlen: %d\n", err, outlen);
+						if(err) {
+							break;
+						}
+						if(!out) {
+							break;
+						}
+						msg = (MSG_COMMON*) out;
+						memset(buffer, 0, sizeof(buffer));
+						memcpy(buffer, out, outlen);
+						n = outlen;
+						fprintf(stdout, "devid oooooooooooooooaes: %s\n", msg->dev_id);
+						fprintf(stdout, "ntf oooooooooooooooaes: %s\n", msg->ntf_id);
+					} while(0);
+					if(out) {
+						MY_FREE(out);
+					}
 				}	
+			} else {
+				fprintf(stdout, "\n----NON BE encrypted----------\n");
 			}
 			dt = (MSG_DATA *) buffer;
 			msg = (MSG_COMMON *) &(dt->com);

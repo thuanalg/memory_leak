@@ -620,12 +620,47 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 				err = 1;
 				fprintf(stdout, " ==== Get public key err\n");
 			}
-		} else {
+		} else if (hi->msg->com.type == MSG_NTF) {
+			uchar *out = 0;
+			int outlen = 0;
+			do {
+				uchar tag[AES_IV_BYTES + 1];
+				memset(tag, 0, sizeof(tag));
+				fprintf(stdout, "\ndevid, :%s =============++++++++++++++++++outlen: \n", hi->msg->com.dev_id);
+				fprintf(stdout, "ntf, :%s =============++++++++++++++++++outlen: \n", hi->msg->com.ntf_id);
+				fprintf(stdout, "data, :%s =============++++++++++++++++++outlen: \n", hi->msg->data);
+				err = ev_aes_enc((char*)hi->msg, &out, aes_key, aes_iv, hi->n_msg, &outlen, tag);
+				if(err) {
+					fprintf(stdout, "\n\n\nenc AES256 error: \n\n\n");
+					break;
+				}
+				if(!out) {
+					break;
+				}
+				memset(buffer, 0, sizeof(buffer));
+				memcpy(buffer, out, outlen);
+				memcpy(buffer + outlen, tag, AES_IV_BYTES);
+				outlen += AES_IV_BYTES;
+				buffer[outlen] = ENCRYPT_AES;
+				++outlen;
+				sn = outlen;
+			} while(0);
+			if(out) {
+				MY_FREE(out);
+			}
+			if(err) {
+				//break;
+				//LOG(LOG_ERR
+			}	
+		}
+////////////////
+		else {
 			sn = hi->n_msg;
 			memcpy(buffer, (char *)hi->msg, sn);
 		}
 /////////////////////////
-		fprintf(stdout, "==============get hi->n_msg: %d, sizeof: %u\n", hi->n_msg, sizeof(MSG_COMMON));
+		fprintf(stdout, "==============get hi->n_msg: %d, sizeof: %u, sn: %d\n", 
+			hi->n_msg, sizeof(MSG_COMMON), sn);
 		sn = sendto(sockfd, buffer, sn,
 			MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
 		fprintf(stdout, "seeeeeeeen: %d\n", sn);
@@ -1491,7 +1526,7 @@ int gcm_decrypt(unsigned char *ciphertext, int ciphertext_len,
     if(ret > 0) {
         /* Success */
         plaintext_len += len;
-		fprintf(stdout, "OKOOOOOOOOOO plaintext_len: %d\n", plaintext_len);
+		fprintf(stdout, "OK --- plaintext_len: %d\n", plaintext_len);
         return plaintext_len;
     } else {
         /* Verify failed */
@@ -1547,7 +1582,6 @@ int ev_aes_enc(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *ou
 		memset(buf, 0, sizeof(buf));
 		n = gcm_encrypt(in, lenin, iv, AES_IV_BYTES, 
 			key, iv, AES_IV_BYTES, buf, tag);
-		fprintf(stdout, "n=======:%d\n", n);
 		if(n < 1) {
 			err = 1;
 			break;
