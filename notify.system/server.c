@@ -250,6 +250,8 @@ void server() {
 int main(int argc, char *argv[]) {
 	int sockfd;
 	char buffer[MAX_MSG + 1];
+	char bufout[MAX_MSG + 1];
+	char *pglobal = 0;
 	struct sockaddr_in servaddr, cliaddr;
 	int val = 1;
 	int count = 0;
@@ -315,6 +317,7 @@ int main(int argc, char *argv[]) {
 			//Error here
 			continue;
 		}
+		pglobal = buffer;
 		enc = buffer[n-1];
 		fprintf(stdout, "+++++++++n: %d, has encrypt: %s\n", n, buffer[n-1] ? "YES" : "NO");
 		if(enc == ENCRYPT_SRV_PUB) {
@@ -337,38 +340,15 @@ int main(int argc, char *argv[]) {
 				fprintf(stdout, "S1 devid: %s\n", msg->dev_id);
 			}
 		} else if(enc == ENCRYPT_AES) {
-			uchar *out = 0;
-			int outlen = 0;
-			int inlen = 0;
-			int err = 0;
-			fprintf(stdout, "AES_ENCRYPT n = %d.\n", n);
-			do {
-				inlen = n - 1 - AES_IV_BYTES;
-				uchar tag[AES_IV_BYTES + 1];
-				memset(tag, 0, sizeof(tag));
-				memcpy(tag, buffer + inlen, AES_IV_BYTES);
-				fprintf(stdout, "tag: %s, taglen: %d, inlen: %d\n", tag, strlen(tag),  inlen);
-				err = ev_aes_dec(buffer, &out, aes_key, aes_iv, inlen, &outlen, tag);
-				fprintf(stdout, "dec err: %d, outlen: %d\n", err, outlen);
-				if(!out) {
-					fprintf(stdout, "i====AES_ENCRYPT.\n");
-					break;
-				}
-				memset(buffer, 0, sizeof(buffer));
-				memcpy(buffer, out, outlen);
-				n = outlen;
-				msg = (MSG_COMMON*) out;
-				fprintf(stdout, "devid oooooooooooooooaes: %s\n", msg->dev_id);
-			} while(0);
-			if(out) {
-				MY_FREE(out);
+			err = msg_aes_dec(buffer, bufout, 
+					aes_key, aes_iv, n, &n, MAX_MSG + 1); 
+			if(err) {
+				n = 0;
+				continue;
 			}
+			pglobal = bufout;
 		}
-		msg = (MSG_COMMON*) buffer;	
-		{
-			int type = msg->type;
-			fprintf(stdout, "recv n: %d, type : %d\n", n, type);
-		}
+		msg = (MSG_COMMON*) pglobal;	
 		DUM_MSG(msg);
 		if(msg->ifroute == G_NTF_CLI || msg->ifroute == G_CLI_NTF) {
 			if(msg->type == MSG_NTF) {
@@ -395,8 +375,8 @@ int main(int argc, char *argv[]) {
 			//memset(buf, 0, sizeof(buf));
 			uint16_2_arr( msg->len, AES_BYTES + AES_IV_BYTES, 2);			
 			//Add to immediate forward list
-			memcpy(buffer + n, aes_key, AES_BYTES); 
-			memcpy(buffer + n + AES_BYTES, aes_iv, AES_IV_BYTES); 
+			memcpy(pglobal + n, aes_key, AES_BYTES); 
+			memcpy(pglobal + n + AES_BYTES, aes_iv, AES_IV_BYTES); 
 			n += AES_BYTES + AES_IV_BYTES;
 			fprintf(stdout, "ADDD to list FW______: %s, n: %d\n", msg->dev_id, n);
 			add_to_imd_fwd( p, &imd_fwd_lt, n);
@@ -413,8 +393,8 @@ int main(int argc, char *argv[]) {
 			//memset(buf, 0, sizeof(buf));
 			uint16_2_arr( msg->len, AES_BYTES + AES_IV_BYTES, 2);			
 			//Add to immediate forward list
-			memcpy(buffer + n, aes_key, AES_BYTES); 
-			memcpy(buffer + n + AES_BYTES, aes_iv, AES_IV_BYTES); 
+			memcpy(pglobal + n, aes_key, AES_BYTES); 
+			memcpy(pglobal + n + AES_BYTES, aes_iv, AES_IV_BYTES); 
 			n += AES_BYTES + AES_IV_BYTES;
 			fprintf(stdout, "ADDD to list FW_____ fROM NTF to SRV_: %s, n: %d\n", msg->dev_id, n);
 			add_to_imd_fwd( p, &imd_fwd_lt, n);
