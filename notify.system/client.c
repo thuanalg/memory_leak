@@ -192,59 +192,45 @@ int main(int argc, char *argv[]) {
 }
 
 int send_msg_fb(struct sockaddr_in* addr, MSG_COMMON *msg) {
+//			err = msg_aes_enc(buf, bufout, key256, iv, sz, &n, MAX_MSG + 1);  
+//			if(err) {
+//				break;
+//			}
+//			p = bufout;
 	int n = 0;
 	int len = sizeof(MSG_COMMON);
 	int sk = 0;
 	int err = 0;
 	uchar buffer[MAX_MSG + 1];
-	memset(buffer, 0, sizeof(buffer));
-	if ( (sk = socket(AF_INET, SOCK_DGRAM, 0)) < 0 ) {
-		perror("socket creation failed");
-		exit(EXIT_FAILURE);
-	}
-	addr->sin_port = htons(PORT);
-	DUM_IPV4(addr);
+
 	do {
-		uchar *out = 0;
-		int outlen = 0;
-		do {
-			uchar tag[AES_IV_BYTES + 1];
-			memset(tag, 0, sizeof(tag));
-			err = ev_aes_enc((char*)msg, &out, aes256_key, aes256_iv, len, &outlen, tag);
-			if(err) {
-				fprintf(stdout, "\n\n\nenc AES256 error: \n\n\n");
-				break;
-			}
-			if(!out) {
-				break;
-			}
-			memset(buffer, 0, sizeof(buffer));
-			memcpy(buffer, out, outlen);
-			memcpy(buffer + outlen, tag, AES_IV_BYTES);
-			outlen += AES_IV_BYTES;
-			buffer[outlen] = ENCRYPT_AES;
-			++outlen;
-			len = outlen;
-		} while(0);
-		if(out) {
-			MY_FREE(out);
+
+		memset(buffer, 0, sizeof(buffer));
+		if ( (sk = socket(AF_INET, SOCK_DGRAM, 0)) < 0 ) {
+			perror("socket creation failed");
+			break;
 		}
+		addr->sin_port = htons(PORT);
+		DUM_IPV4(addr);
+		//nttthuan
+		err = msg_aes_enc((char *)msg, buffer, aes256_key, aes256_iv, len, &n, MAX_MSG + 1);  
 		if(err) {
-			//LOG(LOG_ERR
-		}	
+			break;
+		}
+		len = n;
+		n = sendto(sk, buffer, len,
+			MSG_CONFIRM, (const struct sockaddr *) addr,
+				sizeof(*addr));
+		if(n < len) {
+			LOG(LOG_ERR, "close socket err.");
+		}
 	} while(0);
-	n = sendto(sk, buffer, len,
-		MSG_CONFIRM, (const struct sockaddr *) addr,
-			sizeof(*addr));
-	fprintf(stdout, "senttttttttt: %d\n", n);
-	fprintf(stdout, "\n\nMUST use AES+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.\n\n");
-	if(n < len) {
-		LOG(LOG_ERR, "close socket err.");
-	}
-	DUM_MSG(msg);
-	err = close(sk);
-	if(err) {
-		LOG(LOG_ERR, "close socket err.");
+
+	if(sk) {
+		err = close(sk);
+		if(err) {
+			LOG(LOG_ERR, "close socket err.");
+		}
 	}
 	return n;
 }

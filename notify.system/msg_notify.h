@@ -226,8 +226,8 @@ int gcm_decrypt(unsigned char *ciphertext, int ciphertext_len,
                 unsigned char *plaintext);
 int ev_aes_enc(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *lenout, uchar *tag);
 int ev_aes_dec(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *lenout, uchar *tag);
-int msg_aes_enc(uchar *in, uchar *buf, uchar *key, uchar *iv, int lenin, int *lenout);
-int msg_aes_dec(uchar *in, uchar *buf, uchar *key, uchar *iv, int lenin, int *lenout);
+int msg_aes_enc(uchar *in, uchar *buf, uchar *key, uchar *iv, int lenin, int *lenout, int lim);
+int msg_aes_dec(uchar *in, uchar *buf, uchar *key, uchar *iv, int lenin, int *lenout, int lim);
 #ifndef __cplusplus
 #endif
 //https://www.youtube.com/watch?v=BOKSEaWfnjw

@@ -621,39 +621,13 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 				fprintf(stdout, " ==== Get public key err\n");
 			}
 		} else if (hi->msg->com.type == MSG_NTF) {
-			uchar *out = 0;
-			int outlen = 0;
-			do {
-				uchar tag[AES_IV_BYTES + 1];
-				memset(tag, 0, sizeof(tag));
-				fprintf(stdout, "\ndevid, :%s =============++++++++++++++++++outlen: \n", hi->msg->com.dev_id);
-				fprintf(stdout, "ntf, :%s =============++++++++++++++++++outlen: \n", hi->msg->com.ntf_id);
-				fprintf(stdout, "data, :%s =============++++++++++++++++++outlen: \n", hi->msg->data);
-				err = ev_aes_enc((char*)hi->msg, &out, aes_key, aes_iv, hi->n_msg, &outlen, tag);
-				if(err) {
-					fprintf(stdout, "\n\n\nenc AES256 error: \n\n\n");
-					break;
-				}
-				if(!out) {
-					break;
-				}
-				memset(buffer, 0, sizeof(buffer));
-				memcpy(buffer, out, outlen);
-				memcpy(buffer + outlen, tag, AES_IV_BYTES);
-				outlen += AES_IV_BYTES;
-				buffer[outlen] = ENCRYPT_AES;
-				++outlen;
-				sn = outlen;
-			} while(0);
-			if(out) {
-				MY_FREE(out);
-			}
+			err = msg_aes_enc((char *)hi->msg, buffer, 
+					aes_key, aes_iv, hi->n_msg, &sn, MAX_MSG + 1);  
 			if(err) {
-				//break;
-				//LOG(LOG_ERR
-			}	
+				sn = 0;
+				break;
+			}
 		}
-////////////////
 		else {
 			sn = hi->n_msg;
 			memcpy(buffer, (char *)hi->msg, sn);
@@ -687,6 +661,8 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr,
 	int n = 0;
 	int sz = sizeof(MSG_COMMON);;
 	char buf[MAX_MSG+1];
+	char bufout[MAX_MSG+1];
+	char *p = 0;
 	uchar *rsa_data = 0;
 	int rsa_len = 0;
 	int err = 0;
@@ -737,40 +713,17 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr,
 			memcpy(buf, rsa_data, rsa_len);
 			buf[rsa_len] = ENCRYPT_SRV_PUB; 
 			n = rsa_len + 1;
+			p = buf;
 		}
 		else {
-			uchar *out = 0;
-			//int outlen = 0;
-			do {
-				DUM_MSG((MSG_COMMON *)buf);
-				uchar tag[AES_IV_BYTES + 1];
-				memset(tag, 0, sizeof(tag));
-				fprintf(stdout, "enc msg_id: %s\n", msg->dev_id);
-				err = ev_aes_enc(buf, &out, key256, iv, sz, &n, tag);
-				fprintf(stdout, "tag: %s, taglen: %d\n", tag, strlen(tag));
-				if(!out) {
-					break;
-				}
-				memset(buf, 0, sizeof(buf));
-				memcpy(buf, out, n);
-				//snprintf(tag, 10, "%s", "hhhhhhhhhhhkfjdkf");
-				fprintf(stdout, "tag: %s, taglen: %d\n", tag, strlen(tag));
-				memcpy(buf + n, tag, AES_IV_BYTES);
-				fprintf(stdout, "buf + n : %s, len: %d\n", buf + n, strlen(buf + n));
-				n += AES_IV_BYTES;
-				buf[n] = ENCRYPT_AES;
-				++n;
-			} while(0);
-			if(out) {
-				MY_FREE(out);
-			}
+			err = msg_aes_enc(buf, bufout, key256, iv, sz, &n, MAX_MSG + 1);  
 			if(err) {
 				break;
-			}	
+			}
+			p = bufout;
 		}
 ////////////////
-		
-		n = sendto(sockfd, buf, n, MSG_CONFIRM, 
+		n = sendto(sockfd, p, n, MSG_CONFIRM, 
 				(const struct sockaddr *) &addr, sizeof(addr));
 		if (n < 0) {
 			fprintf(stdout, "connect err: %d, errno: %d, text: %s\n", n, errno, strerror(errno));
@@ -1647,6 +1600,68 @@ int ev_aes_dec(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *ou
 		memcpy(*out, buf, n);
 		*outlen = n;
 	} while(0);
+
+	return err;
+}
+
+/**************************************************************************************************************/
+
+int msg_aes_enc(uchar *in, uchar *buffer, uchar *key, uchar *iv, int lenin, int *lenout, int lim) {
+	int err = 0;
+	int len = 0;
+	uchar tag[AES_IV_BYTES + 1];
+	do {
+		if(!in) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(!buffer) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(!key) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(!iv) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(!lenout) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(lim < (lenin + 1 + AES_IV_BYTES)) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		memset(tag, 0, sizeof(tag));
+		len = gcm_encrypt(in, lenin, iv, AES_IV_BYTES, 
+			key, iv, AES_IV_BYTES, buffer, tag);
+		if(len < 0) {
+			err = 1;
+			break;
+		}
+		memcpy(buffer + len, tag, AES_IV_BYTES);
+		len += AES_IV_BYTES;
+		buffer[len] = ENCRYPT_AES;
+		++len;
+		*lenout = len;
+	} while(0);
+
+	return err;
+}
+
+/**************************************************************************************************************/
+
+int msg_aes_dec(uchar *in, uchar *buf, uchar *key, uchar *iv, int lenin, int *lenout, int lim) {
+	int err = 0;
 
 	return err;
 }

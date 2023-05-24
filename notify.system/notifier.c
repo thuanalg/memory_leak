@@ -27,67 +27,61 @@ void notifier(char *ip) {
 	struct sockaddr_in	 servaddr;
 	//char data[MAX_DATA]
 	MSG_NOTIFY *msg = 0;
-	uint16_t n = 0;
+	int n = 0;
 	struct timespec t;
 	char buf [2];
 	int sockfd = 0;
 	int err = 0;
-	char *buffer = 0;
-	uchar *enc = 0;
-	clock_gettime(CLOCK_REALTIME, &t);
-	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
-		LOG(LOG_ERR, "Cannot create socket.");
-		exit(EXIT_FAILURE);
-	}
-	memset(&servaddr, 0, sizeof(servaddr));
-	servaddr.sin_family = AF_INET;
-	servaddr.sin_addr.s_addr = inet_addr(ip);
-	servaddr.sin_port = htons(PORT);
-
-	MY_MALLOC(msg, sz);
-	buffer = (char*) msg;
-
-	msg->com.type = MSG_NTF;
-	msg->com.ifroute = G_NTF_CLI;
-	memcpy(msg->com.dev_id, dev_id, MIN(LEN_DEVID, strlen(dev_id) + 1));
-	memcpy(msg->com.ntf_id, id, MIN(LEN_DEVID, strlen(id) + 1));
-	n = MAX_MSG - sizeof(MSG_COMMON) - 1 - AES_IV_BYTES;
-	memset(buf, 0, sizeof(buf));
-	uint16_2_arr(buf, n, 2);
-	memcpy(msg->com.len, buf, 2);
-	snprintf(msg->data, n, "%s", "fdjhfjhfj fdkfldfd kkjtjtk Nguyen Thai Thuan, Thanh Hong, Thanh Tam.");
-	uint64_2_arr(msg->com.second, t.tv_sec, 8);
-	uint64_2_arr(msg->com.nano, t.tv_nsec, 8);
-
-	DUM_MSG(&(msg->com));
-
-	enc = (uchar*) msg;
-	if(got_aes) {
-		int err = 0;
-		int outlen = 0;
-		uchar tag[AES_IV_BYTES + 1];
-		uchar *out = 0;	
-		do {
-			err = ev_aes_enc(buffer, &out, aes256_key, 
-				aes256_iv, sz - 1 - AES_IV_BYTES, &outlen, tag);
+	char buffer[MAX_MSG + 1];
+	char bufout[MAX_MSG + 1];
+	uchar *p = 0;
+	do {
+		memset(buffer, 0, sizeof(buffer));
+		memset(bufout, 0, sizeof(bufout));
+		clock_gettime(CLOCK_REALTIME, &t);
+		if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
+			LOG(LOG_ERR, "Cannot create socket.");
+			exit(EXIT_FAILURE);
+		}
+		memset(&servaddr, 0, sizeof(servaddr));
+		servaddr.sin_family = AF_INET;
+		servaddr.sin_addr.s_addr = inet_addr(ip);
+		servaddr.sin_port = htons(PORT);
+	
+		msg = (MSG_NOTIFY *) buffer;
+	
+		msg->com.type = MSG_NTF;
+		msg->com.ifroute = G_NTF_CLI;
+		memcpy(msg->com.dev_id, dev_id, MIN(LEN_DEVID, strlen(dev_id) + 1));
+		memcpy(msg->com.ntf_id, id, MIN(LEN_DEVID, strlen(id) + 1));
+		n = MAX_MSG - sizeof(MSG_COMMON) - 1 - AES_IV_BYTES;
+		memset(buf, 0, sizeof(buf));
+		uint16_2_arr(buf, n, 2);
+		memcpy(msg->com.len, buf, 2);
+		snprintf(msg->data, n, "%s", "fdjhfjhfj fdkfldfd kkjtjtk Nguyen Thai Thuan, Thanh Hong, Thanh Tam.");
+		uint64_2_arr(msg->com.second, t.tv_sec, 8);
+		uint64_2_arr(msg->com.nano, t.tv_nsec, 8);
+	
+		DUM_MSG(&(msg->com));
+	
+		p = (uchar*) msg;
+		if(got_aes) {
+			//nttthuan
+			err = msg_aes_enc(buffer, bufout, aes256_key, aes256_iv, 
+					MAX_MSG - AES_IV_BYTES, &n, MAX_MSG + 1);  
 			if(err) {
 				break;
 			}
-			memcpy(buffer, out, outlen);
-			memcpy(buffer + outlen , tag, AES_IV_BYTES);
-		} while(0);
-		if(out) {
-			MY_FREE(out);
+			p = bufout;
+			sz = n;
+		} else {
+			p[MAX_MSG] = ENCRYPT_NON;
 		}
-		enc[MAX_MSG] = ENCRYPT_AES;
-	} else {
-		enc[MAX_MSG] = ENCRYPT_NON;
-	}
-
-	n = sendto(sockfd, buffer, MAX_MSG + 1,
-		MSG_CONFIRM, (const struct sockaddr *) &servaddr,
-			sizeof(servaddr));
-	MY_FREE(msg);
+	
+		n = sendto(sockfd, p, sz,
+			MSG_CONFIRM, (const struct sockaddr *) &servaddr,
+				sizeof(servaddr));
+	} while(0);
 	err = close(sockfd);
 	if(err) {
 		LOG(LOG_ERR, "Close socket error.");
