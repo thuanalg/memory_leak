@@ -92,13 +92,16 @@ void notifier(char *ip) {
 
 int main(int argc, char *argv[]) {
 	int sockfd;
-	char buffer[MAXLINE];
+	char buffer[MAXLINE + 1];
+	char bufout[MAXLINE + 1];
+	char *p = 0;
 	struct timespec t0 = {0};
 	struct timespec t1 = {0};
 	struct sockaddr_in	 servaddr;
 	struct sockaddr_in	 fbaddr;
 	int val = 1;
 	int count = 0;
+	int err = 0;
 	
 	setlogmask (LOG_UPTO (LOG_INFO));
 	openlog ("znotifier", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
@@ -161,7 +164,7 @@ int main(int argc, char *argv[]) {
 		len = sizeof(fbaddr);
 		memset(buffer, 0, sizeof(buffer));
 		memset(&fbaddr, 0, sizeof(fbaddr));
-		n = recvfrom(sockfd, (char *)buffer, MAX_MSG,
+		n = recvfrom(sockfd, (char *)buffer, sizeof(buffer),
 					MSG_DONTWAIT, (struct sockaddr *) &fbaddr,
 					&len);
 
@@ -171,7 +174,7 @@ int main(int argc, char *argv[]) {
 		if(n < sizeof(MSG_COMMON)) {
 			continue;
 		}
-
+		p = buffer;
 		do {
 			MSG_COMMON *msg = 0;
 			uchar enc = 0;
@@ -200,42 +203,20 @@ int main(int argc, char *argv[]) {
 						MY_FREE(out);
 					}
 				} else if (enc == ENCRYPT_AES) {
-					fprintf(stdout, "\n\nMUST use AES+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.\n\n");
-					uchar *out = 0;
-					int outlen = 0;
-					int inlen = 0;
-					int err = 0;
-					fprintf(stdout, "AES_ENCRYPT n = %d.\n", n);
-					do {
-						inlen = n - 1 - AES_IV_BYTES;
-						uchar tag[AES_IV_BYTES + 1];
-						memset(tag, 0, sizeof(tag));
-						memcpy(tag, buffer + inlen, AES_IV_BYTES);
-						fprintf(stdout, "tag: %s, taglen: %d, inlen: %d\n", tag, strlen(tag), inlen);
-						err = ev_aes_dec(buffer, &out, aes256_key, aes256_iv, inlen, &outlen, tag);
-						fprintf(stdout, "dec err: %d, outlen: %d\n", err, outlen);
-						if(err) {
-							break;
-						}
-						if(!out) {
-							break;
-						}
-						msg = (MSG_COMMON*) out;
-						memset(buffer, 0, sizeof(buffer));
-						memcpy(buffer, out, outlen);
-						n = outlen;
-						fprintf(stdout, "devid oooooooooooooooaes: %s\n", msg->dev_id);
-						fprintf(stdout, "ntf oooooooooooooooaes: %s\n", msg->ntf_id);
-					} while(0);
-					if(out) {
-						MY_FREE(out);
+					err = msg_aes_dec(buffer, bufout, aes256_key, aes256_iv, n, &n, MAX_MSG + 1); 
+					if(err) {
+						n = 0;
+						continue;
 					}
+					p = bufout;
 				}	
 			} else {
 				fprintf(stdout, "\n----NON BE encrypted----------\n");
 			}
-			dt = (MSG_DATA *) buffer;
-			msg = (MSG_COMMON *) &(dt->com);
+			dt = (MSG_DATA *) p;
+			msg = (MSG_COMMON*) p;
+			fprintf(stdout, "devid oooooooooooooooaes: %s\n", msg->dev_id);
+			fprintf(stdout, "ntf oooooooooooooooaes: %s\n", msg->ntf_id);
 			if(msg->ifroute == F_SRV_NTF) {
 				if(msg->type == MSG_GET_AES) {
 					do {

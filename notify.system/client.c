@@ -122,6 +122,7 @@ int main(int argc, char *argv[]) {
 					MY_FREE(out);
 				}
 			} else if(enc == ENCRYPT_AES) {
+				//thuannt 02
 				err = msg_aes_dec(buffer, bufout, aes256_key, aes256_iv, n, &n, MAX_MSG + 1); 
 				if(err) {
 					n = 0;

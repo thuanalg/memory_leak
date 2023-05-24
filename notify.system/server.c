@@ -108,6 +108,8 @@ void handler(int signo, siginfo_t *info, void *context)
 void *sending_routine_thread(void *arg)
 {
 	char  buffer[MAX_MSG+1];
+	char  bufout[MAX_MSG+1];
+	char *p = 0;
 	struct sockaddr_in servaddr, cliaddr;
 	int sockfd = 0;
 	int n, err;
@@ -169,6 +171,7 @@ void *sending_routine_thread(void *arg)
 			if(n < sizeof(MSG_COMMON)) {
 				break;
 			}
+			p = buffer;
 			if(buffer[n-1] == ENCRYPT_SRV_PUB) {
 				int len = 0;
 				uchar *out = 0;
@@ -186,32 +189,15 @@ void *sending_routine_thread(void *arg)
 					msg = (MSG_COMMON*) buffer;
 				}
 			} else if(buffer[n-1] == ENCRYPT_AES) {
-				uchar *out = 0;
-				int outlen = 0;
-				int err = 0;
-				fprintf(stdout, "AES_ENCRYPT n = %d.\n", n);
-				do {
-					uchar tag[AES_IV_BYTES + 1];
-					memset(tag, 0, sizeof(tag));
-					memcpy(tag, buffer + n - 1 - AES_IV_BYTES, AES_IV_BYTES);
-					fprintf(stdout, "tag: %s, taglen: %d\n", tag, strlen(tag));
-					err = ev_aes_dec(buffer, &out, aes_key, aes_iv, n - 1 - AES_IV_BYTES, &outlen, tag);
-					fprintf(stdout, "dec err: %d, outlen: %d\n", err, outlen);
-					if(!out) {
-						fprintf(stdout, "i====AES_ENCRYPT.\n");
-						break;
-					}
-					memset(buffer, 0, sizeof(buffer));
-					memcpy(buffer, out, outlen);
-					n = outlen;
-					msg = (MSG_COMMON*) out;
-					fprintf(stdout, "devid oooooooooooooooaes: %s\n", msg->dev_id);
-				} while(0);
-				if(out) {
-					MY_FREE(out);
+				//thuannt 03
+				err = msg_aes_dec(buffer, bufout, aes_key, aes_iv, n, &n, MAX_MSG + 1); 
+				if(err) {
+					n = 0;
+					continue;
 				}
+				p = bufout;
 			}
-			msg = (MSG_COMMON*) buffer;
+			msg = (MSG_COMMON*) p;
 			//S2
 			if(msg->type == MSG_TRA) {
 				int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr, 0);
