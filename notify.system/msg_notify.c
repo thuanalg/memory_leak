@@ -8,13 +8,30 @@
 #include <netinet/in.h>
 #include <unistd.h>
 
+
+//https://wiki.openssl.org/index.php/EVP_Authenticated_Encryption_and_Decryption
+static int gcm_encrypt(unsigned char *plaintext, int plaintext_len,
+                unsigned char *aad, int aad_len,
+                unsigned char *key,
+                unsigned char *iv, int iv_len,
+                unsigned char *ciphertext,
+                unsigned char *tag);
+static int gcm_decrypt(unsigned char *ciphertext, int ciphertext_len,
+                unsigned char *aad, int aad_len,
+                unsigned char *tag,
+                unsigned char *key,
+                unsigned char *iv, int iv_len,
+                unsigned char *plaintext);
+
 static pthread_mutex_t hash_tb_mtx = PTHREAD_MUTEX_INITIALIZER; 
+
 uchar aes_key[] = {
 		0xf0, 0xa1, 0xb3, 0xc0, 0xd5, 0x11, 0x13, 0x17,
 		0x70, 0xa2, 0xb5, 0x70, 0xd1, 0x1a, 0x12, 0x87,
 		0x70, 0xa2, 0xb5, 0x70, 0xd1, 0x1a, 0x12, 0x87,
 		0x70, 0xa2, 0xb5, 0x70, 0xd1, 0x1a, 0x12, 0x87,
 	};
+
 uchar *aes_iv = "!@#$%^&*()(*&^%$#@!@#$%^&*(*&%$#@@@))";
 
 /**************************************************************************************************************/
@@ -1479,7 +1496,7 @@ int gcm_decrypt(unsigned char *ciphertext, int ciphertext_len,
     if(ret > 0) {
         /* Success */
         plaintext_len += len;
-		fprintf(stdout, "OK --- plaintext_len: %d\n", plaintext_len);
+		fprintf(stdout, "OK )))))))))--- plaintext_len: %d\n", plaintext_len);
         return plaintext_len;
     } else {
         /* Verify failed */
@@ -1659,9 +1676,64 @@ int msg_aes_enc(uchar *in, uchar *buffer, uchar *key, uchar *iv, int lenin, int 
 }
 
 /**************************************************************************************************************/
-
+// thuannt 1
 int msg_aes_dec(uchar *in, uchar *buf, uchar *key, uchar *iv, int lenin, int *lenout, int lim) {
+	int len = 0;
 	int err = 0;
+	uchar tag[AES_IV_BYTES + 1];
+	do {
+		if(!in) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(!buf) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(!key) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(!iv) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(!lenout) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(lenin > MAX_MSG + 1) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(lenin < AES_IV_BYTES + 1) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		if(lim < (lenin - 1 - AES_IV_BYTES)) {
+			err = 1;
+			//LOG(LOG_ERR
+			break;
+		}
+		memset(tag, 0, sizeof(tag));
+		memcpy(tag, in + lenin - 1 - AES_IV_BYTES, AES_IV_BYTES);
+		len = gcm_decrypt(in, lenin - 1 - AES_IV_BYTES, iv, AES_IV_BYTES, tag,
+			key, iv, AES_IV_BYTES, buf);
+		if(len < 0) {
+			err = 1;
+			*lenout = 0;
+			break;
+		}
+		*lenout = len;
+
+	} while(0);
 
 	return err;
 }

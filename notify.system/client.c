@@ -25,6 +25,7 @@ uchar aes256_iv[AES_IV_BYTES];
 int main(int argc, char *argv[]) {
 	int sockfd;
 	char buffer[MAXLINE + 1];
+	char bufout[MAXLINE + 1];
 	struct timespec t0 = {0};
 	struct timespec t1 = {0};
 	struct sockaddr_in	 servaddr;
@@ -33,6 +34,7 @@ int main(int argc, char *argv[]) {
 	int err = 0;
 	char got_aes = 0;
 	MSG_DATA *dt = 0;
+	char *p = 0;
 	
 
 	setlogmask (LOG_UPTO (LOG_INFO));
@@ -97,6 +99,7 @@ int main(int argc, char *argv[]) {
 				continue;
 			}
 			enc = buffer[n-1];
+			p = buffer;
 			MSG_COMMON *msg = (MSG_COMMON *) buffer;
 			if(enc == ENCRYPT_CLI_PUB) {
 				uchar *out = 0;
@@ -119,43 +122,20 @@ int main(int argc, char *argv[]) {
 					MY_FREE(out);
 				}
 			} else if(enc == ENCRYPT_AES) {
-				fprintf(stdout, "\n\nMUST use AES+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.\n\n");
-				uchar *out = 0;
-				int outlen = 0;
-				int inlen = 0;
-				int err = 0;
-				fprintf(stdout, "AES_ENCRYPT n = %d.\n", n);
-				do {
-					inlen = n - 1 - AES_IV_BYTES;
-					uchar tag[AES_IV_BYTES + 1];
-					memset(tag, 0, sizeof(tag));
-					memcpy(tag, buffer + inlen, AES_IV_BYTES);
-					fprintf(stdout, "tag: %s, taglen: %d, inlen: %d\n", tag, strlen(tag), inlen);
-					err = ev_aes_dec(buffer, &out, aes256_key, aes256_iv, inlen, &outlen, tag);
-					fprintf(stdout, "dec err: %d, outlen: %d\n", err, outlen);
-					if(err) {
-						break;
-					}
-					if(!out) {
-						break;
-					}
-					msg = (MSG_COMMON*) out;
-					memset(buffer, 0, sizeof(buffer));
-					memcpy(buffer, out, outlen);
-					n = outlen;
-					fprintf(stdout, "devid oooooooooooooooaes: %s\n", msg->dev_id);
-				} while(0);
-				if(out) {
-					MY_FREE(out);
+				err = msg_aes_dec(buffer, bufout, aes256_key, aes256_iv, n, &n, MAX_MSG + 1); 
+				if(err) {
+					n = 0;
+					continue;
 				}
+				p = bufout;
 			} else if( enc == 0) {
 				fprintf(stdout, "HAVE NO ENC=================.\n");
 			}
-
-			dt = (MSG_DATA *)buffer;
-			msg = (MSG_COMMON*) buffer;
+			dt = (MSG_DATA *)p;
+			msg = (MSG_COMMON*) p;
 
 			fprintf(stdout, "\n===========\nn: %d, ifroute: %d\n=================\n", n, msg->ifroute);
+			fprintf(stdout, "\n===========\nn: %d, data: \n%s\n=================\n", n, dt->data);
 			if(msg->ifroute == G_NTF_CLI) {
 				DUM_MSG(msg); 
 				DUM_IPV4(&fbaddr);

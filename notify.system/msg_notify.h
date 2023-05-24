@@ -211,19 +211,6 @@ int get_aes256_key(uchar **key, uchar **iv);
 //https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Electronic_Codebook_(ECB)
 
 int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *ip);
-//https://wiki.openssl.org/index.php/EVP_Authenticated_Encryption_and_Decryption
-int gcm_encrypt(unsigned char *plaintext, int plaintext_len,
-                unsigned char *aad, int aad_len,
-                unsigned char *key,
-                unsigned char *iv, int iv_len,
-                unsigned char *ciphertext,
-                unsigned char *tag);
-int gcm_decrypt(unsigned char *ciphertext, int ciphertext_len,
-                unsigned char *aad, int aad_len,
-                unsigned char *tag,
-                unsigned char *key,
-                unsigned char *iv, int iv_len,
-                unsigned char *plaintext);
 int ev_aes_enc(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *lenout, uchar *tag);
 int ev_aes_dec(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *lenout, uchar *tag);
 int msg_aes_enc(uchar *in, uchar *buf, uchar *key, uchar *iv, int lenin, int *lenout, int lim);
