@@ -13,7 +13,7 @@
 #define MAXLINE 	MAX_MSG
 const char *id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
-int send_msg_fb(struct sockaddr_in* addr, MSG_COMMON *msg);
+int send_msg_fb( MSG_COMMON *msg, char *ip);
 
 void client() {
 	
@@ -144,7 +144,7 @@ int main(int argc, char *argv[]) {
 				DUM_IPV4(&fbaddr);
 				msg->ifroute = G_CLI_NTF;
 				memset(msg->len, 0, LEN_U16INT);
-				send_msg_fb(&servaddr, msg);
+				send_msg_fb(msg, argv[1]);
 			}
 			else if(msg->ifroute == F_SRV_CLI) {
 				if(msg->type == MSG_GET_AES) {
@@ -175,27 +175,28 @@ int main(int argc, char *argv[]) {
 	return 0;
 }
 
-int send_msg_fb(struct sockaddr_in* addr, MSG_COMMON *msg) {
-//			err = msg_aes_enc(buf, bufout, key256, iv, sz, &n, MAX_MSG + 1);  
-//			if(err) {
-//				break;
-//			}
-//			p = bufout;
+int send_msg_fb( MSG_COMMON *msg, char *ip) {
 	int n = 0;
 	int len = sizeof(MSG_COMMON);
 	int sk = 0;
 	int err = 0;
 	uchar buffer[MAX_MSG + 1];
+	struct sockaddr_in	 addr;
 
 	do {
+		memset(&addr, 0, sizeof(addr));
+		addr.sin_family = AF_INET;
+		//servaddr.sin_addr.s_addr = INADDR_ANY;
+		addr.sin_addr.s_addr = inet_addr(ip);
+		addr.sin_port = htons(PORT);
 
 		memset(buffer, 0, sizeof(buffer));
 		if ( (sk = socket(AF_INET, SOCK_DGRAM, 0)) < 0 ) {
 			perror("socket creation failed");
 			break;
 		}
-		addr->sin_port = htons(PORT);
-		DUM_IPV4(addr);
+		//addr->sin_port = htons(PORT);
+		DUM_IPV4(&addr);
 		//nttthuan
 		err = msg_aes_enc((char *)msg, buffer, aes256_key, aes256_iv, len, &n, MAX_MSG + 1);  
 		if(err) {
@@ -203,8 +204,8 @@ int send_msg_fb(struct sockaddr_in* addr, MSG_COMMON *msg) {
 		}
 		len = n;
 		n = sendto(sk, buffer, len,
-			MSG_CONFIRM, (const struct sockaddr *) addr,
-				sizeof(*addr));
+			MSG_CONFIRM, (const struct sockaddr *) &addr,
+				sizeof(addr));
 		if(n < len) {
 			LOG(LOG_ERR, "close socket err.");
 		}

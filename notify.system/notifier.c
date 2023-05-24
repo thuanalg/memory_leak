@@ -227,7 +227,7 @@ int main(int argc, char *argv[]) {
 						if(sz != (AES_BYTES + AES_IV_BYTES) ) {
 							break;
 						}
-						fprintf(stdout, "did get AES key\n");
+						fprintf(stdout, "============================================did get AES key\n");
 						memcpy(aes256_key, p, AES_BYTES); 
 						memcpy(aes256_iv, p + AES_BYTES, AES_IV_BYTES); 
 						got_aes = 1;
@@ -235,7 +235,7 @@ int main(int argc, char *argv[]) {
 					} while(0);
 				}	
 			}
-			fprintf(stdout, "Did get a message devid: %s, n: %d\n.\n", msg->dev_id, n);
+			fprintf(stdout, "Did get  n: %d============\n.\n", n);
 		} while(0);
 	}
 	close(sockfd);
