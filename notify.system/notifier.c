@@ -140,14 +140,13 @@ int main(int argc, char *argv[]) {
 	send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
 	sleep(1);
 	cmd_2_srv(MSG_GET_AES, G_NTF_SRV, 0, 0, (char*) id, argv[1]);
-	sleep(1);
 	//notifier(argv[1]);
 	while(1) {
 		MSG_DATA *dt = 0;
 		usleep(100 * 1000);
 		clock_gettime(CLOCK_REALTIME, &t1);
 		if(t1.tv_sec - t0.tv_sec > 3) {
-			if(count > 1) {
+			if(count > 1 && got_aes) {
 			//if(1) {
 				LOG(LOG_ERR, "Cannot notify to CLI");
 				break;
@@ -155,10 +154,11 @@ int main(int argc, char *argv[]) {
 			t0 = t1;
 			if(got_aes) {
 				send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, aes256_key, aes256_iv);
+				notifier(argv[1]);
 			} else {
 				send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
+				cmd_2_srv(MSG_GET_AES, G_NTF_SRV, 0, 0, (char*) id, argv[1]);
 			}
-			//notifier(argv[1]);
 			++count;
 		}
 		len = sizeof(fbaddr);

@@ -35,7 +35,7 @@
 #define LEN_U64INT 			(8) 
 #define LEN_U32INT 			(4) 
 #define LEN_U16INT 			(2) 
-#define MAX_MSG 			(1280) 
+#define MAX_MSG 			(1200) 
 #define uchar				unsigned char
 #define cchar				const char
 #define cuchar				const unsigned char

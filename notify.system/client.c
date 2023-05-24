@@ -35,6 +35,7 @@ int main(int argc, char *argv[]) {
 	char got_aes = 0;
 	MSG_DATA *dt = 0;
 	char *p = 0;
+	int interval = 3;
 	
 
 	setlogmask (LOG_UPTO (LOG_INFO));
@@ -79,10 +80,11 @@ int main(int argc, char *argv[]) {
 			int enc = 0;
 			usleep(10 * 1000);
 			clock_gettime(CLOCK_REALTIME, &t1);
-			if(t1.tv_sec - t0.tv_sec > INTER_TRACK) {
+			if(t1.tv_sec - t0.tv_sec > interval) {
 				t0 = t1;
 				if(!got_aes) {
 					send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
+					cmd_2_srv(MSG_GET_AES, G_CLI_SRV, 0, 0, (char*) id, argv[1]);
 				} else {
 					send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, aes256_key, aes256_iv);
 				}
@@ -158,6 +160,7 @@ int main(int argc, char *argv[]) {
 						memcpy(aes256_key, p, AES_BYTES); 
 						memcpy(aes256_iv, p + AES_BYTES, AES_IV_BYTES); 
 						got_aes = 1;
+						interval = INTER_TRACK;
 					} while(0);
 				}	
 			}

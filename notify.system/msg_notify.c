@@ -171,8 +171,8 @@ void dum_ipv4(struct sockaddr_in *addr, const char *f, const char *fu, int line)
 	inet_ntop(AF_INET, &(addr->sin_addr), str, INET_ADDRSTRLEN);
 	sprintf(buff, "File: %s, func: %s, line: %d, cli port: %d, IP: %s.", 
 		f, fu, line, (int) htons(addr->sin_port), str);
-//	fprintf(stdout, "%s\n", buff);
-	LOG(LOG_INFO, buff);
+	fprintf(stdout, "%s\n", buff);
+	//LOG(LOG_INFO, buff);
 }
 
 /**************************************************************************************************************/
@@ -574,16 +574,15 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 	while (hi)
 	{
 		fprintf(stdout, "%s:%s:%d, ================\n", __FILE__, __FUNCTION__, __LINE__);
-		fprintf(stdout, "error No item\n");
 		if (hi->msg->com.ifroute == G_NTF_CLI ) {
 			iid = hi->msg->com.dev_id;
 		}
 		else if (hi->msg->com.ifroute == F_SRV_CLI ) {
 			iid = hi->msg->com.dev_id;
 		}
-//		else if (hi->msg->com.ifroute == G_NTF_SRV ) {
-//			iid = hi->msg->com.dev_id;
-//		}
+		else if (hi->msg->com.ifroute == G_NTF_SRV ) {
+			iid = hi->msg->com.dev_id;
+		}
 		else if (hi->msg->com.ifroute == F_SRV_NTF) {
 			iid = hi->msg->com.dev_id;
 		}
@@ -652,6 +651,7 @@ int send_to_dst(int sockfd, HASH_ITEM **l, int *count, char clear)
 /////////////////////////
 		fprintf(stdout, "==============get hi->n_msg: %d, sizeof: %u, sn: %d\n", 
 			hi->n_msg, sizeof(MSG_COMMON), sn);
+		DUM_IPV4(&(t->ipv4));
 		sn = sendto(sockfd, buffer, sn,
 			MSG_CONFIRM, (const struct sockaddr *) &(t->ipv4), sizeof(t->ipv4));
 		fprintf(stdout, "seeeeeeeen: %d\n", sn);
