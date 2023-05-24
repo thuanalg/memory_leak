@@ -146,7 +146,7 @@ int main(int argc, char *argv[]) {
 		usleep(100 * 1000);
 		clock_gettime(CLOCK_REALTIME, &t1);
 		if(t1.tv_sec - t0.tv_sec > 3) {
-			if(count > 1 && got_aes) {
+			if(count > 30 && got_aes) {
 			//if(1) {
 				LOG(LOG_ERR, "Cannot notify to CLI");
 				break;
