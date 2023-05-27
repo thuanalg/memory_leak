@@ -21,8 +21,8 @@
 //EVP_aes_256_ctr
 //CTR mode was introduced by Whitfield Diffie and Martin Hellman in 1979
 
-#define PORT	 		(7770)
-#define NTF_PORT	 	(7700)
+#define PORT	 			(7770)
+#define NTF_PORT	 	(8700)
 #define DEV_PORT	 	(7000)
 #define MAX_PATH		(2048)	
 

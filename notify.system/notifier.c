@@ -1,5 +1,6 @@
 // Client side implementation of UDP client-server model
 #include <stdio.h>
+#include <string.h>
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
@@ -11,7 +12,7 @@
 #include "msg_notify.h"
 	
 #define MAXLINE 	MAX_MSG
-const char *id = "ed628094-63f3-452a-91c8-3ae24f281dd2";
+char *id = "ed628094-63f3-452a-91c8-3ae24f281dd2";
 char *dev_id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
 int got_aes = 0;
@@ -22,72 +23,17 @@ void fier() {
 
 }
 
-void notifier(char *ip) {
-	int sz = MAX_MSG + 1;
-	struct sockaddr_in	 servaddr;
-	//char data[MAX_DATA]
-	MSG_NOTIFY *msg = 0;
-	int n = 0;
-	struct timespec t;
-	char buf [2];
-	int sockfd = 0;
-	int err = 0;
-	char buffer[MAX_MSG + 1];
-	char bufout[MAX_MSG + 1];
-	uchar *p = 0;
-	do {
-		memset(buffer, 0, sizeof(buffer));
-		memset(bufout, 0, sizeof(bufout));
-		clock_gettime(CLOCK_REALTIME, &t);
-		if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
-			LOG(LOG_ERR, "Cannot create socket.");
-			exit(EXIT_FAILURE);
-		}
-		memset(&servaddr, 0, sizeof(servaddr));
-		servaddr.sin_family = AF_INET;
-		servaddr.sin_addr.s_addr = inet_addr(ip);
-		servaddr.sin_port = htons(PORT);
-	
-		msg = (MSG_NOTIFY *) buffer;
-	
-		msg->com.type = MSG_NTF;
-		msg->com.ifroute = G_NTF_CLI;
-		memcpy(msg->com.dev_id, dev_id, MIN(LEN_DEVID, strlen(dev_id) + 1));
-		memcpy(msg->com.ntf_id, id, MIN(LEN_DEVID, strlen(id) + 1));
-		n = MAX_MSG - sizeof(MSG_COMMON) - 1 - AES_IV_BYTES;
-		memset(buf, 0, sizeof(buf));
-		uint16_2_arr(buf, n, 2);
-		memcpy(msg->com.len, buf, 2);
-		snprintf(msg->data, n, "%s", "fdjhfjhfj fdkfldfd kkjtjtk Nguyen Thai Thuan, Thanh Hong, Thanh Tam.");
-		uint64_2_arr(msg->com.second, t.tv_sec, 8);
-		uint64_2_arr(msg->com.nano, t.tv_nsec, 8);
-	
-		DUM_MSG(&(msg->com));
-	
-		p = (uchar*) msg;
-		if(got_aes) {
-			//nttthuan
-			err = msg_aes_enc(buffer, bufout, aes256_key, aes256_iv, 
-					MAX_MSG - AES_IV_BYTES, &n, MAX_MSG + 1);  
-			if(err) {
-				break;
-			}
-			p = bufout;
-			sz = n;
-		} else {
-			p[MAX_MSG] = ENCRYPT_NON;
-		}
-	
-		n = sendto(sockfd, p, sz,
-			MSG_CONFIRM, (const struct sockaddr *) &servaddr,
-				sizeof(servaddr));
-	} while(0);
-	err = close(sockfd);
-	if(err) {
-		LOG(LOG_ERR, "Close socket error.");
-	}
-}
-// Driver code
+#define _IP					"--target="	
+#define _DEV_ID			"--dev_id="	
+#define _NTF_ID			"--ntf_id="	
+#define _PORT_ID		"--addport="	
+
+char iip[20];
+char dev_iid[40];
+char ntf_iid[40];
+int add_port;
+
+void notifier(char *ip);
 
 
 int main(int argc, char *argv[]) {
@@ -102,7 +48,31 @@ int main(int argc, char *argv[]) {
 	int val = 1;
 	int count = 0;
 	int err = 0;
-	
+	if(argc < 5 ) {
+		fprintf(stdout, "add command line arguments: --target=127.0.0.1 --dev_id=b7bb3690-ebcb-4bf9-88b0-31c130ec44a2 --ntf_id=ed628094-63f3-452a-91c8-3ae24f281dd2 --addport=1\n");
+		exit(EXIT_SUCCESS);
+	}
+
+	if(strlen(argv[1]) > strlen(_IP)) {
+		memcpy(iip, argv[1] + strlen(_IP), strlen(argv[1]) - strlen(_IP));
+		fprintf(stdout, "ip: %s\n", iip);
+	}
+
+	if(strlen(argv[2]) > strlen(_DEV_ID)) {
+		memcpy(dev_iid, argv[2] + strlen(_DEV_ID), strlen(argv[2]) - strlen(_DEV_ID));
+		fprintf(stdout, "dev_id: %s\n", dev_iid);
+	}
+
+	if(strlen(argv[3]) > strlen(_NTF_ID)) {
+		memcpy(ntf_iid, argv[3] + strlen(_NTF_ID), strlen(argv[3]) - strlen(_NTF_ID));
+		fprintf(stdout, "ntf_id: %s\n", ntf_iid);
+	}
+
+	if(strlen(argv[4]) > strlen(_PORT_ID)) {
+		sscanf(argv[4] + strlen(_PORT_ID), "%d", &add_port);
+		fprintf(stdout, "add_port: %d\n", add_port);
+	}
+
 	setlogmask (LOG_UPTO (LOG_INFO));
 	openlog ("znotifier", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
 
@@ -113,19 +83,19 @@ int main(int argc, char *argv[]) {
 		exit(EXIT_FAILURE);
 	}
 	setsockopt(sockfd, IPPROTO_IP, IP_MTU_DISCOVER, &val, sizeof(val));		
-	if (!argv[1]) {
-		fprintf(stdout, "Address need entering as argv[1].\n");
+	if (!iip) {
+		fprintf(stdout, "Address need entering as iip.\n");
 		exit(EXIT_FAILURE);
 	}
-	if(INADDR_NONE == inet_addr(argv[1])) {
-		fprintf(stdout, "Address need entering as argv[1].\n");
+	if(INADDR_NONE == inet_addr(iip)) {
+		fprintf(stdout, "Address need entering as iip.\n");
 		exit(EXIT_FAILURE);
 	}	
 	memset(&servaddr, 0, sizeof(servaddr));
 	servaddr.sin_family = AF_INET;
 	servaddr.sin_addr.s_addr = INADDR_ANY;
-	//servaddr.sin_addr.s_addr = inet_addr(argv[1]);
-	servaddr.sin_port = htons(NTF_PORT);
+	//servaddr.sin_addr.s_addr = inet_addr(iip);
+	servaddr.sin_port = htons(NTF_PORT + add_port);
 
 	//We MUST bind  this socket to reuse	
 	if ( bind(sockfd, (const struct sockaddr *)&servaddr, sizeof(servaddr)) < 0 )
@@ -133,14 +103,14 @@ int main(int argc, char *argv[]) {
 		perror("bind failed");
 		exit(EXIT_FAILURE);
 	}
-	//servaddr.sin_addr.s_addr = inet_addr(argv[1]);
+	//servaddr.sin_addr.s_addr = inet_addr(iip);
 	//servaddr.sin_port = htons(PORT);
 		
 	int n = 0, len = sizeof(servaddr);
-	send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
+	send_msg_track(id, sockfd, iip, PORT + 1, &t0, 0, 0);
 	sleep(1);
-	cmd_2_srv(MSG_GET_AES, G_NTF_SRV, 0, 0, (char*) id, argv[1]);
-	//notifier(argv[1]);
+	cmd_2_srv(MSG_GET_AES, G_NTF_SRV, 0, 0, (char*) id, iip);
+	//notifier(iip);
 	while(1) {
 		MSG_DATA *dt = 0;
 		usleep(100 * 1000);
@@ -153,11 +123,11 @@ int main(int argc, char *argv[]) {
 			}
 			t0 = t1;
 			if(got_aes) {
-				send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, aes256_key, aes256_iv);
-				notifier(argv[1]);
+				send_msg_track(id, sockfd, iip, PORT + 1, &t0, aes256_key, aes256_iv);
+				notifier(iip);
 			} else {
-				send_msg_track(id, sockfd, argv[1], PORT + 1, &t0, 0, 0);
-				cmd_2_srv(MSG_GET_AES, G_NTF_SRV, 0, 0, (char*) id, argv[1]);
+				send_msg_track(id, sockfd, iip, PORT + 1, &t0, 0, 0);
+				cmd_2_srv(MSG_GET_AES, G_NTF_SRV, 0, 0, (char*) id, iip);
 			}
 			++count;
 		}
@@ -231,7 +201,7 @@ int main(int argc, char *argv[]) {
 						memcpy(aes256_key, p, AES_BYTES); 
 						memcpy(aes256_iv, p + AES_BYTES, AES_IV_BYTES); 
 						got_aes = 1;
-						notifier(argv[1]);
+						notifier(iip);
 					} while(0);
 				}	
 			}
@@ -242,4 +212,71 @@ int main(int argc, char *argv[]) {
 	closelog();
 	return 0;
 }
+
+void notifier(char *ip) {
+	int sz = MAX_MSG + 1;
+	struct sockaddr_in	 servaddr;
+	//char data[MAX_DATA]
+	MSG_NOTIFY *msg = 0;
+	int n = 0;
+	struct timespec t;
+	char buf [2];
+	int sockfd = 0;
+	int err = 0;
+	char buffer[MAX_MSG + 1];
+	char bufout[MAX_MSG + 1];
+	uchar *p = 0;
+	do {
+		memset(buffer, 0, sizeof(buffer));
+		memset(bufout, 0, sizeof(bufout));
+		clock_gettime(CLOCK_REALTIME, &t);
+		if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
+			LOG(LOG_ERR, "Cannot create socket.");
+			exit(EXIT_FAILURE);
+		}
+		memset(&servaddr, 0, sizeof(servaddr));
+		servaddr.sin_family = AF_INET;
+		servaddr.sin_addr.s_addr = inet_addr(ip);
+		servaddr.sin_port = htons(PORT);
+	
+		msg = (MSG_NOTIFY *) buffer;
+	
+		msg->com.type = MSG_NTF;
+		msg->com.ifroute = G_NTF_CLI;
+		memcpy(msg->com.dev_id, dev_id, MIN(LEN_DEVID, strlen(dev_id) + 1));
+		memcpy(msg->com.ntf_id, id, MIN(LEN_DEVID, strlen(id) + 1));
+		n = MAX_MSG - sizeof(MSG_COMMON) - 1 - AES_IV_BYTES;
+		memset(buf, 0, sizeof(buf));
+		uint16_2_arr(buf, n, 2);
+		memcpy(msg->com.len, buf, 2);
+		snprintf(msg->data, n, "%s", "fdjhfjhfj fdkfldfd kkjtjtk Nguyen Thai Thuan, Thanh Hong, Thanh Tam.");
+		uint64_2_arr(msg->com.second, t.tv_sec, 8);
+		uint64_2_arr(msg->com.nano, t.tv_nsec, 8);
+	
+		DUM_MSG(&(msg->com));
+	
+		p = (uchar*) msg;
+		if(got_aes) {
+			//nttthuan
+			err = msg_aes_enc(buffer, bufout, aes256_key, aes256_iv, 
+					MAX_MSG - AES_IV_BYTES, &n, MAX_MSG + 1);  
+			if(err) {
+				break;
+			}
+			p = bufout;
+			sz = n;
+		} else {
+			p[MAX_MSG] = ENCRYPT_NON;
+		}
+	
+		n = sendto(sockfd, p, sz,
+			MSG_CONFIRM, (const struct sockaddr *) &servaddr,
+				sizeof(servaddr));
+	} while(0);
+	err = close(sockfd);
+	if(err) {
+		LOG(LOG_ERR, "Close socket error.");
+	}
+}
+// Driver code
 
