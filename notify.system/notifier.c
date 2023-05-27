@@ -12,8 +12,8 @@
 #include "msg_notify.h"
 	
 #define MAXLINE 	MAX_MSG
-char *id = "ed628094-63f3-452a-91c8-3ae24f281dd2";
-char *dev_id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
+//char *id = "ed628094-63f3-452a-91c8-3ae24f281dd2";
+//char *dev_id = "b7bb3690-ebcb-4bf9-88b0-31c130ec44a2";
 
 int got_aes = 0;
 uchar aes256_key[AES_BYTES];
@@ -107,9 +107,9 @@ int main(int argc, char *argv[]) {
 	//servaddr.sin_port = htons(PORT);
 		
 	int n = 0, len = sizeof(servaddr);
-	send_msg_track(id, sockfd, iip, PORT + 1, &t0, 0, 0);
+	send_msg_track(ntf_iid, sockfd, iip, PORT + 1, &t0, 0, 0);
 	sleep(1);
-	cmd_2_srv(MSG_GET_AES, G_NTF_SRV, 0, 0, (char*) id, iip);
+	cmd_2_srv(MSG_GET_AES, G_NTF_SRV, 0, 0, (char*) ntf_iid, iip);
 	//notifier(iip);
 	while(1) {
 		MSG_DATA *dt = 0;
@@ -123,11 +123,11 @@ int main(int argc, char *argv[]) {
 			}
 			t0 = t1;
 			if(got_aes) {
-				send_msg_track(id, sockfd, iip, PORT + 1, &t0, aes256_key, aes256_iv);
+				send_msg_track(ntf_iid, sockfd, iip, PORT + 1, &t0, aes256_key, aes256_iv);
 				notifier(iip);
 			} else {
-				send_msg_track(id, sockfd, iip, PORT + 1, &t0, 0, 0);
-				cmd_2_srv(MSG_GET_AES, G_NTF_SRV, 0, 0, (char*) id, iip);
+				send_msg_track(ntf_iid, sockfd, iip, PORT + 1, &t0, 0, 0);
+				cmd_2_srv(MSG_GET_AES, G_NTF_SRV, 0, 0, (char*) ntf_iid, iip);
 			}
 			++count;
 		}
@@ -157,7 +157,7 @@ int main(int argc, char *argv[]) {
 					int outlen = 0;
 					RSA *key = 0;
 					do {
-						key = get_cli_prv((char*)id);				
+						key = get_cli_prv((char*)ntf_iid);				
 						rsa_dec(key, buffer, &out, n-1, &outlen);
 						if(!out) {
 							break;
@@ -243,8 +243,8 @@ void notifier(char *ip) {
 	
 		msg->com.type = MSG_NTF;
 		msg->com.ifroute = G_NTF_CLI;
-		memcpy(msg->com.dev_id, dev_id, MIN(LEN_DEVID, strlen(dev_id) + 1));
-		memcpy(msg->com.ntf_id, id, MIN(LEN_DEVID, strlen(id) + 1));
+		memcpy(msg->com.dev_id, dev_iid, MIN(LEN_DEVID, strlen(dev_iid) + 1));
+		memcpy(msg->com.ntf_id, ntf_iid, MIN(LEN_DEVID, strlen(ntf_iid) + 1));
 		n = MAX_MSG - sizeof(MSG_COMMON) - 1 - AES_IV_BYTES;
 		memset(buf, 0, sizeof(buf));
 		uint16_2_arr(buf, n, 2);
