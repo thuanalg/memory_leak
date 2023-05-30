@@ -191,8 +191,7 @@
 
 
 
-[-] speckled		<-->	a++[--0]	./ˈspekld/
- /ˈspekld/
+[-] speckled		<-->	a++[--0]	./ˈspekld/-NAmE /ˈspekld/
 	;có tàn nhang -- (1) covered with small marks or spots
 		;SYNONYM flecked
 		;<< flecked, speckled, >>
@@ -209,8 +208,7 @@
 
 
 
-[-] swine		<-->	n++[--0]	./swaɪn/
- /swaɪn/
+[-] swine		<-->	n++[--0]	./swaɪn/-NAmE /swaɪn/
 (plural swines, swine)
 	;kẻ khó ưu -- (1) [countable] (informal) an unpleasant person
 		;He's an arrogant little swine!
@@ -232,8 +230,7 @@
 
 
 
-[-] sling		<-->	verb++[--0]	./slɪŋ/
- /slɪŋ/ [230516] [orw.227]
+[-] sling		<-->	verb++[--0]	./slɪŋ/-NAmE /slɪŋ/ [230516] [orw.227]
 	;liệng, ném -- (1) ​(especially British English, informal) to throw something somewhere in a careless way
 		;SYNONYM chuck
 		;<< chuck, sling, >>
@@ -267,8 +264,7 @@
 
 
 
-[-] sill		<-->	n++[--0]	./sɪl/
- /sɪl/
+[-] sill		<-->	n++[--0]	./sɪl/-NAmE /sɪl/
 	;ngưỡng cữa -- (1) (also windowsill, window ledge) a narrow shelf below a window, either inside or outside
 	;ngưỡng cữa -- (2) a piece of metal that forms part of the frame of a vehicle below the doors
 
@@ -284,8 +280,12 @@
 
 
 
-[-] chanting		<-->	n++[--0]	.[230523] [orw.231]
-	; -- (1) 
+[-] chanting		<-->	n++[--0]	./ˈtʃɑːntɪŋ/-NAmE /ˈtʃæntɪŋ/
+[uncountable] [230523] [orw.231]
+	;tụng kinh -- (1) ​the activity of shouting or singing the same words or phrases many times
+		;The chanting rose in volume.
+		;Racist chanting will not be tolerated.
+		;SEE ALSO monkey chanting
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -303,12 +303,32 @@
 
 
 
-[-] dim		<-->	a++[--0]	.[230523] [orw.231]
-	; -- (1) 
-	; -- (2) 
+[-] dim		<-->	a++[--0]	./dɪm/-NAmE /dɪm/
+(comparative dimmer, superlative dimmest) [230523] [orw.231]
+	;mờ tối -- (1) [-light] not bright
+		;the dim glow of the fire in the grate
+		;This light is too dim to read by.
+		;Extra Examples:
+		;A dim lamp swung in the entrance.
+		;It was hard to see in the dim glow of the streetlights.
+		;Owls' eyesight is good in dim light.
+	;mờ tối -- (2) [-place] where you cannot see well because there is not much light
+		;a dim room/street
+		;Extra Examples:
+		;The living room looked dim and shadowy.
+		;The room was dim because the curtains were half drawn.
+		;The room was very dim with a murky greenish light.
+		;They stepped into the dim and cluttered little shop.
+		;A voice came from the dim interior.
 	; -- (3) 
 	; -- (4) 
-	; -- (5) 
+	;lờ mờ -- (5) [-memories] that you cannot remember or imagine clearly
+		;SYNONYM vague
+		;dim memories
+		;She had a dim recollection of the visit.
+		;(humorous) in the dim and distant past
+	; -- (6) 
+	; -- (7) 
 
 
 
@@ -322,12 +342,16 @@
 
 
 
-[-] dim		<-->	verb++[--0]	.[230523] [orw.231]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] dim		<-->	verb++[--0]	./dɪm/-NAmE /dɪm/ [230523] [orw.231]
+	;mờ dần -- (1) [-light] ​[intransitive, transitive] dim (something) if a light dims or if you dim it, it becomes or you make it less bright
+		;The lights in the theatre dimmed as the curtain rose.
+		;Extra Examples:
+		;The electric light flickered and dimmed slightly.
+		;We dimmed the lights in the room.
+		;Dim the lights to create some atmosphere.
+	;yếu dần -- (2) [-feeling/quality] ​[intransitive, transitive] dim (something) if a feeling or quality dims, or if something dims it, it becomes less strong
+		;Her passion for dancing never dimmed over the years.
+		;Word Origin
 
 
 
@@ -341,12 +365,18 @@
 
 
 
-[-] invincible		<-->	a++[--0]	.[230523] [orw.231]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] invincible		<-->	a++[--0]	./ɪnˈvɪnsəbl/-NAmE /ɪnˈvɪnsəbl/ [230523] [orw.231]
+	;bất khả chiến bại -- (1) ​too strong to be defeated or changed
+		;SYNONYM unconquerable
+		;The team seemed invincible.
+		;an invincible belief in his own ability
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;almostnearlypractically…
+		;See full entry
+		;Word Origin
 
 
 
@@ -360,12 +390,13 @@
 
 
 
-[-] falsehood		<-->	n++[--0]	.[230523] [orw.231]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] falsehood		<-->	n++[--0]	./ˈfɔːlshʊd/-NAmE /ˈfɔːlshʊd/
+(formal) [230523] [orw.231]
+	;sự giả dối -- (1) ​[uncountable] the state of not being true; the act of telling a lie
+		;to test the truth or falsehood of her claims
+	;sự giả dối, nói láo -- (2) ​[countable] a statement that is not true
+		;SYNONYM lie2
+		;It is an offence to deliberately publish a serious falsehood.
 
 
 
