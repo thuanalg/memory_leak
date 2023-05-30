@@ -1,0 +1,12 @@
+# generate a private key with the correct length
+openssl genrsa -out private-key.pem [1024, 2048, 4096]
+
+# generate corresponding public key
+openssl rsa -in private-key.pem -pubout -out public-key.pem
+
+
+AES-256: https://stackoverflow.com/questions/38342326/aes-256-encryption-with-openssl-library-using-ecb-mode-of-operation?rq=1
+https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Electronic_Codebook_(ECB)
+https://linux.die.net/man/3/evp_cipher_type
+EVP_aes_256_ctr
+httpt://wiki.openssl.org/index.php/EVP_Authenticated_Encryption_and_Decryption

@@ -1,0 +1,7 @@
+server:192.168.115.208
+user:lcs01
+password:Lcs@123
+db:asterisk
+path:/home/ntthuan/data-backup
+starttime:2017-10-19-00-00
+step:10

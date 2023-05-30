@@ -1,0 +1,8 @@
+assist		<-->	verb+B1  
+consist		<-->	verb+B1  
+insist		<-->	verb+B2  
+persist		<-->	verb+C1  
+resist		<-->	verb+B2 
+cease-and-desist		<-->	 adjeective+C2       
+assist		<-->	noun+C2    
+bassist		<-->	noun+C2 

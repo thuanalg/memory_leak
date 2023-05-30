@@ -1,1 +1,6 @@
-Test git
+1. How to build
+	- Just run 'make' command.
+2. How to run:
+	- Start sample by "z.start.sh", and reading data.
+	- Stop sample "z.stop.sh"
+	- Write data to share memory.

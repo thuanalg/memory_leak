@@ -1,0 +1,73 @@
+After receiving message, include MSG_REG, except MSG_TRA:
+1. Get current time: OK
+1.1 Send feedback to the notifier: 
+2. Put current to the message: OK, put_time_to_msg
+3. Update current time into the hash list: OK
+4. Put the message to the "notified list": OK
+5. Send message to a specific client: notify_to_client: OK
+6. Client confirm: OK
+7. Remove the item off sent list and hash table: rm_msg_sent
+
+====================
+Note: comparative n >= sizeof(MSG_COMMON)
+Create notifier
+
+
+1. Send a notification with a dev_id
+2. server to notifier
+3. server saves to notified-list
+4. send to client-device
+5. wait for feedback
+6. remove off notified-list
+
+
+=====
+230504
+Load registered list
+
+0. Send MSG_TRA message:
+	- device: OK
+	- Notifier: OK
+1. msg_notify need to be had source/dest: OK
+	A --> B --> A RTT
+2. From notifier to server:
+
+
+	- Add to immediate list forward: OK
+	- Add to immediate list feedback: OK
+	
+	- Add to regular list forward: OK
+	- Add to regular list feedback: OK
+	imd_fbk_lt
+	imd_fwd_lt
+	rgl_fbk_lt
+	rgl_fwd_lt
+	- Add system log: OK
+3. Server gives feedback to notifier: OK
+4. notifier send confirmed message
+5 Receive confirmation from notifier
+6. Remove feedback list
+	
+7. Server to device:ok
+	- Send fwd to client: ok
+8. Client send confirmation	. 	
+9. Server receive the confirmation 
+10. Server remove fwd message 
+
+=====
+230505
+1. From Notifier to Server
+2. At server:
+	a. Forward now
+3. At client
+	a. Send feedback
+4. At server send feedback
+5. Notifier:
+	a. DONE
+	b. Error
+===========
+20230508
+1. Use 1 public key on server and n public key from client
+2. Use private key
+3. Use the fisrt byte to recognize type of decryption and encryption
+4. Have a machinism to reborn symetric key

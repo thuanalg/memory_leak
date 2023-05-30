@@ -1,0 +1,442 @@
+abseil		<-->	nooun+C2[-0]	.
+abseil		<-->	veerb+C2[-0]	.
+abseiling		<-->	nooun+C2[-0]	.
+aerobics		<-->	nooun+B2[-0]	.
+aikido		<-->	nooun+C2[-0]	.
+all-in wrestling		<-->	nooun+C2[-0]	.
+also-ran		<-->	nooun+C2[-0]	.
+archer		<-->	nooun+C2[-0]	.
+archery		<-->	nooun+C2[-0]	.
+arena		<-->	nooun+C1[-0]	.
+arrow		<-->	nooun+B2[-0]	.
+athlete		<-->	nooun+A2[-0]	.
+athletic		<-->	adjeective+B1[-0]	.
+athletics		<-->	nooun+B1[-0]	.
+auto racing		<-->	nooun+C1[-0]	.
+back		<-->	veerb+C1[-0]	.
+backmarker		<-->	nooun+C2[-0]	.
+baize		<-->	nooun+C2[-0]	.
+bantamweight		<-->	nooun+C2[-0]	.
+base jumping		<-->	nooun+C2[-0]	.
+baton		<-->	nooun+C2[-0]	.
+biathlon		<-->	nooun+C2[-0]	.
+bicycle		<-->	nooun+A1[-0]	.
+bicycle		<-->	veerb+B1[-0]	.
+big air		<-->	nooun+C2[-0]	.
+bike		<-->	nooun+A1[-0]	.
+bike		<-->	veerb+B1[-0]	.
+biker		<-->	nooun+B2[-0]	.
+biking		<-->	nooun+B2[-0]	.
+billiard		<-->	adjeective+C2[-0]	.
+billiards		<-->	nooun+C2[-0]	.
+black belt		<-->	nooun+C1[-0]	.
+blood sport		<-->	nooun+C1[-0]	.
+BMX		<-->	nooun+C1[-0]	.
+bobsleigh		<-->	nooun+C2[-0]	.
+bodybuilder		<-->	nooun+C1[-0]	.
+bodybuilding		<-->	nooun+C1[-0]	.
+bout		<-->	nooun+C2[-0]	.
+bow		<-->	nooun+C1[-0]	.
+bowling		<-->	nooun+B2[-0]	.
+box		<-->	veerb+B2[-0]	.
+boxer		<-->	nooun+B2[-0]	.
+boxing		<-->	nooun+B2[-0]	.
+break		<-->	nooun+C2[-0]	.
+broad jump		<-->	nooun+C2[-0]	.
+bronco		<-->	nooun+C2[-0]	.
+bronze		<-->	nooun+C1[-0]	.
+bronze medal		<-->	nooun+C1[-0]	.
+bronze medallist		<-->	nooun+C1[-0]	.
+bungee jump		<-->	nooun+B2[-0]	.
+bungee jumping		<-->	nooun+B2[-0]	.
+cable car		<-->	nooun+C1[-0]	.
+cage fighting		<-->	nooun+C2[-0]	.
+canyoning		<-->	nooun+C2[-0]	.
+card		<-->	nooun+C2[-0]	.
+cartwheel		<-->	nooun+C2[-0]	.
+chairlift		<-->	nooun+C1[-0]	.
+challenger		<-->	nooun+C1[-0]	.
+champion		<-->	nooun+B1[-0]	.
+championship		<-->	nooun+B2[-0]	.
+chaser		<-->	nooun+C2[-0]	.
+circuit		<-->	nooun+C2[-0]	.
+circuit training		<-->	nooun+C2[-0]	.
+climb		<-->	veerb+A2[-0]	.
+climber		<-->	nooun+B1[-0]	.
+climbing		<-->	nooun+A2[-0]	.
+coach		<-->	nooun+A2[-0]	.
+coach		<-->	veerb+B1[-0]	.
+coasteering		<-->	nooun+C2[-0]	.
+co-driver		<-->	nooun+C2[-0]	.
+colt		<-->	nooun+C2[-0]	.
+commentary		<-->	nooun+C1[-0]	.
+commentator		<-->	nooun+C1[-0]	.
+compete		<-->	veerb+A2[-0]	.
+competition		<-->	nooun+A2[-0]	.
+competitive		<-->	adjeective+B1[-0]	.
+competitor		<-->	nooun+B1[-0]	.
+criterium		<-->	nooun+C2[-0]	.
+croquet		<-->	nooun+C2[-0]	.
+cross-country		<-->	nooun+C1[-0]	.
+cross-country skiing		<-->	nooun+C1[-0]	.
+cruiserweight		<-->	nooun+C2[-0]	.
+cue		<-->	nooun+C2[-0]	.
+cue ball		<-->	nooun+C2[-0]	.
+cushion		<-->	nooun+C2[-0]	.
+cycle		<-->	nooun+A2[-0]	.
+cycle		<-->	veerb+A2[-0]	.
+cycling		<-->	nooun+A2[-0]	.
+cyclist		<-->	nooun+B1[-0]	.
+cyclo-cross		<-->	nooun+C2[-0]	.
+dan		<-->	nooun+C2[-0]	.
+dart		<-->	nooun+C1[-0]	.
+dash		<-->	nooun+C2[-0]	.
+dead heat		<-->	nooun+C2[-0]	.
+decathlon		<-->	nooun+C2[-0]	.
+defeat		<-->	veerb+B2[-0]	.
+defeat		<-->	nooun+B2[-0]	.
+derby		<-->	nooun+C2[-0]	.
+discus		<-->	nooun+C2[-0]	.
+dockless bike		<-->	nooun+C2[-0]	.
+dojo		<-->	nooun+C2[-0]	.
+dope		<-->	nooun+C1[-0]	.
+dope		<-->	veerb+C1[-0]	.
+doping		<-->	nooun+C1[-0]	.
+drag race		<-->	nooun+C2[-0]	.
+drag racing		<-->	nooun+C2[-0]	.
+dragster		<-->	nooun+C2[-0]	.
+dressage		<-->	nooun+C2[-0]	.
+dry slope		<-->	nooun+C2[-0]	.
+each way		<-->	adveerb+C2[-0]	.
+enter		<-->	veerb+B1[-0]	.
+equestrian		<-->	adjeective+C2[-0]	.
+equestrianism		<-->	nooun+C2[-0]	.
+equine		<-->	adjeective+C2[-0]	.
+e-sport		<-->	nooun+C2[-0]	.
+event		<-->	nooun+B1[-0]	.
+eventing		<-->	nooun+C2[-0]	.
+exercise		<-->	nooun+A1[-0]	.
+exercise		<-->	veerb+A1[-0]	.
+extreme fighting		<-->	nooun+C2[-0]	.
+extreme sport		<-->	nooun+B1[-0]	.
+fakie		<-->	nooun+C2[-0]	.
+featherweight		<-->	nooun+C2[-0]	.
+fence		<-->	veerb+C2[-0]	.
+fencer		<-->	nooun+C2[-0]	.
+fencing		<-->	nooun+C2[-0]	.
+field event		<-->	nooun+B2[-0]	.
+fight		<-->	veerb+A2[-0]	.
+fight		<-->	nooun+A2[-0]	.
+figure skating		<-->	nooun+C2[-0]	.
+filly		<-->	nooun+C2[-0]	.
+final		<-->	nooun+A2[-0]	.
+finalist		<-->	nooun+B2[-0]	.
+finish		<-->	veerb+A1[-0]	.
+finisher		<-->	nooun+C2[-0]	.
+finishing line		<-->	nooun+B2[-0]	.
+flat racing		<-->	nooun+C2[-0]	.
+flyweight		<-->	nooun+C2[-0]	.
+foil		<-->	nooun+C2[-0]	.
+frame		<-->	nooun+C2[-0]	.
+free running		<-->	nooun+C2[-0]	.
+freewheel		<-->	veerb+C2[-0]	.
+front runner		<-->	nooun+C2[-0]	.
+gallop		<-->	veerb+C1[-0]	.
+gallop		<-->	nooun+C1[-0]	.
+gamble		<-->	veerb+C1[-0]	.
+gliding		<-->	nooun+C2[-0]	.
+go-cart		<-->	nooun+C1[-0]	.
+goggles		<-->	nooun+C1[-0]	.
+go-kart		<-->	nooun+C1[-0]	.
+gold		<-->	nooun+A2[-0]	.
+gold medal		<-->	nooun+B1[-0]	.
+gold medallist		<-->	nooun+C1[-0]	.
+Graeco-Roman wrestling		<-->	nooun+C2[-0]	.
+grandstand finish		<-->	nooun+C2[-0]	.
+guard		<-->	nooun+C2[-0]	.
+gun		<-->	nooun+C1[-0]	.
+gym		<-->	nooun+A1[-0]	.
+gymkhana		<-->	nooun+C2[-0]	.
+gymnast		<-->	nooun+C1[-0]	.
+gymnastics		<-->	nooun+B1[-0]	.
+half-marathon		<-->	nooun+C1[-0]	.
+hammer		<-->	nooun+C2[-0]	.
+handlebar		<-->	nooun+C2[-0]	.
+hang-glider		<-->	nooun+C2[-0]	.
+hang-gliding		<-->	nooun+C2[-0]	.
+heat		<-->	nooun+C2[-0]	.
+heavyweight		<-->	nooun+C1[-0]	.
+heli-skiing		<-->	nooun+C2[-0]	.
+heptathlon		<-->	nooun+C2[-0]	.
+high jump		<-->	nooun+B1[-0]	.
+hockey		<-->	nooun+A2[-0]	.
+hold		<-->	nooun+B2[-0]	.
+horse		<-->	nooun+A1[-0]	.
+horseback riding		<-->	nooun+B1[-0]	.
+horse racing		<-->	nooun+B1[-0]	.
+horse riding		<-->	nooun+B1[-0]	.
+hot dog		<-->	nooun+C2[-0]	.
+hot-dog		<-->	veerb+C2[-0]	.
+hunt		<-->	veerb+B1[-0]	.
+hunting		<-->	nooun+B2[-0]	.
+hurdle		<-->	nooun+C2[-0]	.
+hurdler		<-->	nooun+C2[-0]	.
+hydrospeed		<-->	nooun+C2[-0]	.
+ice hockey		<-->	nooun+A2[-0]	.
+ice rink		<-->	nooun+C1[-0]	.
+ice skate		<-->	nooun+B1[-0]	.
+ice-skate		<-->	veerb+B1[-0]	.
+ice skating		<-->	nooun+B1[-0]	.
+interval		<-->	nooun+C2[-0]	.
+interval training		<-->	nooun+C2[-0]	.
+Ironman™		<-->	nooun+C2[-0]	.
+javelin		<-->	nooun+C2[-0]	.
+jiu-jitsu		<-->	nooun+C2[-0]	.
+jockey		<-->	nooun+C2[-0]	.
+judo		<-->	nooun+B2[-0]	.
+ju-jitsu		<-->	nooun+C2[-0]	.
+jump		<-->	veerb+A2[-0]	.
+jump		<-->	nooun+A2[-0]	.
+jump-off		<-->	nooun+C2[-0]	.
+junior		<-->	adjeective+B2[-0]	.
+karate		<-->	nooun+B1[-0]	.
+karting		<-->	nooun+C1[-0]	.
+kendo		<-->	nooun+C2[-0]	.
+kick-boxing		<-->	nooun+C1[-0]	.
+kitesurfing		<-->	nooun+C2[-0]	.
+knockout		<-->	nooun+C2[-0]	.
+knockout		<-->	adjeective+C2[-0]	.
+kung fu		<-->	nooun+C2[-0]	.
+lane		<-->	nooun+C1[-0]	.
+lap		<-->	nooun+C2[-0]	.
+lead		<-->	nooun+B1[-0]	.
+leader		<-->	nooun+B1[-0]	.
+leg		<-->	nooun+C2[-0]	.
+length		<-->	nooun+C2[-0]	.
+light heavyweight		<-->	nooun+C2[-0]	.
+lightweight		<-->	nooun+C1[-0]	.
+long jump		<-->	nooun+B1[-0]	.
+luge		<-->	nooun+C2[-0]	.
+madison		<-->	nooun+C2[-0]	.
+marathon		<-->	nooun+B2[-0]	.
+marathoner		<-->	nooun+C2[-0]	.
+martial art		<-->	nooun+B2[-0]	.
+medal		<-->	nooun+B2[-0]	.
+medal		<-->	veerb+C1[-0]	.
+medallist		<-->	nooun+C1[-0]	.
+meet		<-->	nooun+C2[-0]	.
+meeting		<-->	nooun+C2[-0]	.
+middle-distance		<-->	adjeective+B2[-0]	.
+middleweight		<-->	nooun+C2[-0]	.
+mixed martial arts		<-->	nooun+C2[-0]	.
+MMA		<-->	abbreeviation+C2[-0]	.
+motorbike		<-->	nooun+A2[-0]	.
+motor racing		<-->	nooun+B2[-0]	.
+mountain bike		<-->	nooun+B2[-0]	.
+mountain biking		<-->	nooun+B2[-0]	.
+mountain climber		<-->	nooun+B1[-0]	.
+mountaineer		<-->	nooun+C1[-0]	.
+mountaineering		<-->	nooun+C1[-0]	.
+NASCARC2[-0]	.
+netminder		<-->	nooun+C2[-0]	.
+Nordic skiing		<-->	nooun+C2[-0]	.
+novice		<-->	nooun+C2[-0]	.
+nursery slope		<-->	nooun+C2[-0]	.
+obstacle		<-->	nooun+B2[-0]	.
+Olympic		<-->	adjeective+B1[-0]	.
+outsider		<-->	nooun+C2[-0]	.
+outstrip		<-->	veerb+C2[-0]	.
+pace		<-->	nooun+B2[-0]	.
+pace		<-->	veerb+C1[-0]	.
+pacemaker		<-->	nooun+C2[-0]	.
+pacesetter		<-->	nooun+C2[-0]	.
+pack		<-->	nooun+C1[-0]	.
+paddock		<-->	nooun+C2[-0]	.
+parachute		<-->	nooun+B2[-0]	.
+parachute		<-->	veerb+B2[-0]	.
+parachutist		<-->	nooun+C1[-0]	.
+paraglider		<-->	nooun+C2[-0]	.
+paragliding		<-->	nooun+C2[-0]	.
+Paralympian		<-->	nooun+C2[-0]	.
+Paralympian		<-->	adjeective+C2[-0]	.
+pedal		<-->	veerb+C1[-0]	.
+pentathlon		<-->	nooun+C2[-0]	.
+performance-enhancing		<-->	adjeective+C1[-0]	.
+personal best		<-->	nooun+C1[-0]	.
+photo finish		<-->	nooun+C2[-0]	.
+pip		<-->	veerb+C2[-0]	.
+pocket		<-->	nooun+C2[-0]	.
+podium		<-->	nooun+C1[-0]	.
+point-to-point		<-->	nooun+C2[-0]	.
+pole-vaulting		<-->	nooun+C2[-0]	.
+polo		<-->	nooun+C2[-0]	.
+pool		<-->	nooun+C1[-0]	.
+poolroom		<-->	nooun+C1[-0]	.
+post		<-->	nooun+C1[-0]	.
+pot		<-->	nooun+C2[-0]	.
+pot		<-->	veerb+C2[-0]	.
+potholing		<-->	nooun+C2[-0]	.
+powder snow		<-->	nooun+C1[-0]	.
+prelim		<-->	nooun+C2[-0]	.
+price		<-->	nooun+C2[-0]	.
+prizefight		<-->	nooun+C1[-0]	.
+puissance		<-->	nooun+C2[-0]	.
+punter		<-->	nooun+C2[-0]	.
+purse		<-->	nooun+C2[-0]	.
+put your money on somebody/somethingidiomC2[-0]	.
+Queensberry Rules		<-->	nooun+C2[-0]	.
+race		<-->	nooun+A2[-0]	.
+race		<-->	veerb+A2[-0]	.
+racecard		<-->	nooun+C1[-0]	.
+racecourse		<-->	nooun+B2[-0]	.
+racegoer		<-->	nooun+C2[-0]	.
+racehorse		<-->	nooun+B1[-0]	.
+race meeting		<-->	nooun+C1[-0]	.
+racetrack		<-->	nooun+B2[-0]	.
+raceway		<-->	nooun+C2[-0]	.
+racing		<-->	nooun+B1[-0]	.
+ranking		<-->	nooun+C1[-0]	.
+rappel		<-->	nooun+C2[-0]	.
+rappel		<-->	veerb+C2[-0]	.
+record		<-->	nooun+A2[-0]	.
+record holder		<-->	nooun+B1[-0]	.
+relay		<-->	nooun+C1[-0]	.
+ride		<-->	veerb+A1[-0]	.
+ride		<-->	nooun+A2[-0]	.
+ride-off		<-->	nooun+C2[-0]	.
+rider		<-->	nooun+B1[-0]	.
+riding		<-->	nooun+B1[-0]	.
+ring		<-->	nooun+C1[-0]	.
+ringer		<-->	nooun+C2[-0]	.
+ringside		<-->	nooun+C1[-0]	.
+rink		<-->	nooun+C1[-0]	.
+roar, romp, sweep, etc. to victoryidiomC2[-0]	.
+rock climbing		<-->	nooun+B1[-0]	.
+rodeo		<-->	nooun+C2[-0]	.
+rope		<-->	nooun+C2[-0]	.
+round		<-->	nooun+C2[-0]	.
+roundhouse kick		<-->	nooun+C2[-0]	.
+run		<-->	nooun+C1[-0]	.
+runner		<-->	nooun+A2[-0]	.
+runner-up		<-->	nooun+C1[-0]	.
+running		<-->	nooun+A2[-0]	.
+saber		<-->	nooun+C2[-0]	.
+sabre		<-->	nooun+C2[-0]	.
+scoreboard		<-->	nooun+B2[-0]	.
+semi-final		<-->	nooun+B2[-0]	.
+senior		<-->	adjeective+B2[-0]	.
+senior		<-->	nooun+C1[-0]	.
+shot		<-->	nooun+C2[-0]	.
+Shotokan		<-->	nooun+C2[-0]	.
+shot-put		<-->	nooun+C2[-0]	.
+showjumping		<-->	nooun+C2[-0]	.
+silver		<-->	nooun+B2[-0]	.
+silver medal		<-->	nooun+B1[-0]	.
+silver medallist		<-->	nooun+C1[-0]	.
+sink		<-->	veerb+C2[-0]	.
+skate		<-->	veerb+B1[-0]	.
+skateboarding		<-->	nooun+B1[-0]	.
+skating		<-->	nooun+B1[-0]	.
+ski		<-->	nooun+A2[-0]	.
+ski		<-->	adjeective+A2[-0]	.
+ski		<-->	veerb+A2[-0]	.
+ski-bob		<-->	nooun+C2[-0]	.
+ski-bobbing		<-->	nooun+C2[-0]	.
+skier		<-->	nooun+B1[-0]	.
+skiing		<-->	nooun+A2[-0]	.
+ski jump		<-->	nooun+B2[-0]	.
+ski jumping		<-->	nooun+B2[-0]	.
+ski lift		<-->	nooun+C1[-0]	.
+ski pole		<-->	nooun+C1[-0]	.
+ski run		<-->	nooun+C1[-0]	.
+ski tow		<-->	nooun+C2[-0]	.
+skydiving		<-->	nooun+C1[-0]	.
+slalom		<-->	nooun+C2[-0]	.
+sledge		<-->	nooun+C2[-0]	.
+sledge		<-->	veerb+C2[-0]	.
+sleigh		<-->	nooun+C2[-0]	.
+slope		<-->	nooun+B2[-0]	.
+snooker		<-->	nooun+C2[-0]	.
+snooker		<-->	veerb+C2[-0]	.
+snowboard		<-->	nooun+B2[-0]	.
+snowboarding		<-->	nooun+B1[-0]	.
+somersault		<-->	nooun+C2[-0]	.
+southpaw		<-->	nooun+C2[-0]	.
+spar		<-->	veerb+C2[-0]	.
+spectator		<-->	nooun+B2[-0]	.
+speed		<-->	nooun+C2[-0]	.
+speed skating		<-->	nooun+B2[-0]	.
+speedway		<-->	nooun+C2[-0]	.
+sport		<-->	nooun+A1[-0]	.
+sportsman		<-->	nooun+B1[-0]	.
+sportsmanlike		<-->	adjeective+C1[-0]	.
+sportsmanship		<-->	nooun+C1[-0]	.
+sportswoman		<-->	nooun+B1[-0]	.
+sprint		<-->	veerb+C1[-0]	.
+sprint		<-->	nooun+C1[-0]	.
+stable		<-->	nooun+C2[-0]	.
+stablemate		<-->	nooun+C2[-0]	.
+stake		<-->	nooun+C2[-0]	.
+starter		<-->	nooun+C2[-0]	.
+starting blocks		<-->	nooun+C1[-0]	.
+starting gate		<-->	nooun+C1[-0]	.
+starting pistol		<-->	nooun+C1[-0]	.
+starting price		<-->	nooun+C2[-0]	.
+stayer		<-->	nooun+C2[-0]	.
+the chequered flag		<-->	nooun+C2[-0]	.
+the Olympic Games		<-->	nooun+B1[-0]	.
+the Paralympics		<-->	nooun+C1[-0]	.
+the peloton		<-->	nooun+C2[-0]	.
+the pole vault		<-->	nooun+C2[-0]	.
+the triple jump		<-->	nooun+C2[-0]	.
+steeplechase		<-->	nooun+C2[-0]	.
+steeplechaser		<-->	nooun+C2[-0]	.
+stopwatch		<-->	nooun+C1[-0]	.
+straggler		<-->	nooun+C2[-0]	.
+sumo		<-->	nooun+C1[-0]	.
+superheavyweight		<-->	nooun+C2[-0]	.
+swordplay		<-->	nooun+C2[-0]	.
+tae kwon do		<-->	nooun+C1[-0]	.
+tandem		<-->	nooun+C2[-0]	.
+technical knockout		<-->	nooun+C2[-0]	.
+tetrathlon		<-->	nooun+C2[-0]	.
+three-day eventing		<-->	nooun+C2[-0]	.
+time trial		<-->	nooun+C2[-0]	.
+tip		<-->	nooun+C1[-0]	.
+tipster		<-->	nooun+C2[-0]	.
+tire		<-->	nooun+B1[-0]	.
+titlist		<-->	nooun+C2[-0]	.
+toboggan		<-->	nooun+C2[-0]	.
+toboggan		<-->	veerb+C2[-0]	.
+tobogganing		<-->	nooun+C2[-0]	.
+tombstoning		<-->	nooun+C2[-0]	.
+tote		<-->	nooun+C2[-0]	.
+track		<-->	nooun+B1[-0]	.
+track and field		<-->	nooun+B2[-0]	.
+track event		<-->	nooun+B2[-0]	.
+train		<-->	veerb+A2[-0]	.
+trainer		<-->	nooun+B1[-0]	.
+training		<-->	nooun+A2[-0]	.
+trampoline		<-->	nooun+C2[-0]	.
+triathlon		<-->	nooun+C1[-0]	.
+trophy		<-->	nooun+C1[-0]	.
+trotter		<-->	nooun+C2[-0]	.
+turf		<-->	nooun+C2[-0]	.
+tyre		<-->	nooun+B1[-0]	.
+Ultimate Fighting™		<-->	nooun+C2[-0]	.
+Ultimate Frisbee		<-->	nooun+C2[-0]	.
+ultramarathon		<-->	nooun+C1[-0]	.
+unbeaten		<-->	adjeective+C1[-0]	.
+underdog		<-->	nooun+C1[-0]	.
+unplaced		<-->	adjeective+C2[-0]	.
+velodrome		<-->	nooun+C1[-0]	.
+versusprepositionC1[-0]	.
+victory		<-->	nooun+B2[-0]	.
+water jump		<-->	nooun+B1[-0]	.
+weightlifting		<-->	nooun+B2[-0]	.
+welterweight		<-->	nooun+C2[-0]	.
+winter sports		<-->	nooun+A2[-0]	.
+wrestle		<-->	veerb+C1[-0]	.
+wrestler		<-->	nooun+C1[-0]	.
+wrestling		<-->	nooun+C1[-0]	.
+yearling		<-->	nooun+C2	.

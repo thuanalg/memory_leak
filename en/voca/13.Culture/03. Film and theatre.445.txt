@@ -1,0 +1,3115 @@
+18		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+act		<-->	verb+A2[-0]	.
+
+
+
+
+
+
+act		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+acting		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+action		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+actioner		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+action film		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+action movie		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+actor		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+actor-manager		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+actress		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+adapt		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+adaptation		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+ad lib		<-->	adverb+C2[-0]	.
+
+
+
+
+
+
+ad lib		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+ad-lib		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+ad-lib		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+agent		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+aisle		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+allegory		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+amateur dramatics		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+animate		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+animated		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+animation		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+anime		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+appear		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+art director		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+artistic director		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+aside		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+audience		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+audition		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+auditorium		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+backcloth		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+backdrop		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+backlot		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+backstage		<-->	adverb+C2[-0]	.
+
+
+
+
+
+
+backstory		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+baddy		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+balcony		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+ballet		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+be in the can		<-->	idiom+C2[-0]	.
+
+
+
+
+
+
+benefit		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+bill		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+biopic		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+bit part		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+bit player		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+black and white		<-->	idiom+A1[-0]	.
+
+
+
+
+
+
+blockbuster		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+blockbusting		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+Blu-ray		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+Blu-ray Disc™		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+B-movie		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+bodice-ripper		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+body double		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+Bollywood		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+booking		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+booking office		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+box office		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+B-picture		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+Broadway		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+buddy movie		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+buff		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+cameo		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+camera		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+cameraman		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+camerawoman		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+camerawork		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+canister		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+cartoon		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+cast		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+cast		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+casting		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+castmate		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+celluloid		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+CGI		<-->	abbreviation+C2[-0]	.
+
+
+
+
+
+
+character		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+character actor		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+chick flick		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+chorus		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+chorus line		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+cinema		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+cinemagoer		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+cinematography		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+circle		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+clapperboard		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+classic		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+cliffhanger		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+climax		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+clip		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+close-up		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+colorize		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+colourize		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+comedy		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+comedy of manners		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+community theater		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+continuity		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+co-star		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+costume		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+costume drama		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+costumier		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+coup de théâtre		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+credit		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+critic		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+cue		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+curtain		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+curtain call		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+curtain-up		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+cut		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+cut		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+debutant		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+debutante		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+denouement		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+detective story		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+dialogue		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+direct		<-->	verb+B1[-0]	.
+
+
+
+
+
+
+direction		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+director		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+director’s chair		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+director’s cut		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+dolly		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+doorman		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+doorwoman		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+double		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+downstage		<-->	adverb+C2[-0]	.
+
+
+
+
+
+
+drama		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+dramatic		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+dramatic irony		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+dramatis personae		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+dramatist		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+dramatize		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+dresser		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+dressing room		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+dress rehearsal		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+drive-in		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+drop curtain		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+dub		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+DVD		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+edit		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+editor		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+enact		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+ending		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+entr’acte		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+epic		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+epilogue		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+exit		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+extra		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+fade-in		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+fade-out		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+farce		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+feature		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+feature film		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+feature-length		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+fictionalize		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+film		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+film		<-->	verb+A2[-0]	.
+
+
+
+
+
+
+filmgoer		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+film-maker		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+film noir		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+film star		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+filmstrip		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+first night		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+flashback		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+flash-forward		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+fleapit		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+floodlight		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+flop		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+flop		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+footage		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+footlights		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+fourth wall		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+foyer		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+fps		<-->	abbreviation+C2[-0]	.
+
+
+
+
+
+
+frame		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+franchise		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+freeze		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+freeze-frame		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+fringe theatre		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+front of house		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+gaffer		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+gallery		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+gangway		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+genre		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+god		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+goodie		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+goody		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+green room		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+grip		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+ham		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+HD		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+heart-throb		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+hero		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+heroine		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+Hollywood		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+Hollywood ending		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+home cinema		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+home theater		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+horror		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+house		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+intercut		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+interlude		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+intermission		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+interpretation		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+interval		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+kabuki		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+key grip		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+Kollywood		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+lead		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+leading lady		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+lighting engineer		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+line		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+location		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+love interest		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+M		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+make-up		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+manager		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+masque		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+master		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+masterpiece		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+masterwork		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+matinee		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+matinee idol		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+megastar		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+melodrama		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+merchandising		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+meta		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+method acting		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+mezzanine		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+mime		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+miscast		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+mixer		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+monologue		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+montage		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+morality play		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+motion picture		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+movie		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+moviegoer		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+movie star		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+movie theater		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+multiplex		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+musical		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+music hall		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+mystery play		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+narrate		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+nativity play		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+new wave		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+off-Broadway		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+offstage		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+offstage		<-->	adverb+C2[-0]	.
+
+
+
+
+
+
+onstage		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+onstage		<-->	adverb+C2[-0]	.
+
+
+
+
+
+
+opening		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+opening night		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+orchestra		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+orchestra pit		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+out-take		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+ovation		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+overact		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+pantomime		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+part		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+perform		<-->	verb+A2[-0]	.
+
+
+
+
+
+
+performance		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+performer		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+period piece		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+PG		<-->	abbreviation+C2[-0]	.
+
+
+
+
+
+
+play		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+playbill		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+player		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+playgoer		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+playwright		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+plot		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+plug		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+portray		<-->	verb+C1[-0]	.
+
+
+
+
+
+
+potboiler		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+premiere		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+pre-production		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+pre-production		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+prequel		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+press agent		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+preview		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+preview		<-->	verb+B1[-0]	.
+
+
+
+
+
+
+prima donna		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+produce		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+producer		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+production		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+production number		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+production values		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+projector		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+prologue		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+promoter		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+prompt		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+prompt		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+prompter		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+prop		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+proscenium		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+protagonist		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+psychodrama		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+publicist		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+put on		<-->	phrasal verb+C1[-0]	.
+
+
+
+
+
+
+R		<-->	abbreviation+C2[-0]	.
+
+
+
+
+
+
+rating		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+rave review		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+read-through		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+reel		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+rehearsal		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+rehearse		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+release		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+release		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+remake		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+review		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+review		<-->	verb+A2[-0]	.
+
+
+
+
+
+
+revival		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+revue		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+road movie		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+role		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+romcom		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+rough cut		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+routine		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+running time		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+run-through		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+safety curtain		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+scenario		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+scene		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+scenery		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+scene-shifter		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+scene-shifting		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+science fiction		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+sci-fi		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+score		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+screen		<-->	noun+A2[-0]	.
+
+
+
+
+
+
+screen		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+screening		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+screenplay		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+screen test		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+screenwriter		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+script		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+season		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+sell-out		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+sequel		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+sequence		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+set		<-->	verb+B1[-0]	.
+
+
+
+
+
+
+set		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+set piece		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+setting		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+SFX		<-->	abbreviation+C2[-0]	.
+
+
+
+
+
+
+shoot		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+shooting		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+short		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+shot		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+show business		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+showing		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+silent		<-->	adjective+B2[-0]	.
+
+
+
+
+
+
+sketch		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+slasher		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+sleeper		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+smash		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+soliloquy		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+sound		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+sound effect		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+sound stage		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+soundtrack		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+spaghetti western		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+special effects		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+speech		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+spin-off		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+spoiler		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+spoiler alert		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+spoof		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+spotlight		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+stage		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+stage		<-->	verb+B2[-0]	.
+
+
+
+
+
+
+stagecraft		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+stage direction		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+stage door		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+stagehand		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+stage left		<-->	adverb+C2[-0]	.
+
+
+
+
+
+
+stage manager		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+stage right		<-->	adverb+C2[-0]	.
+
+
+
+
+
+
+stage-struck		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+stage whisper		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+stall		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+stand-in		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+star		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+starlet		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+the big screen		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+the performing arts		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+the silver screen		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+still		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+storyboard		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+storyboard		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+storyboarding		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+story editor		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+storyline		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+studio		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+stunt		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+stuntman		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+stuntwoman		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+subplot		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+subtitle		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+superhero		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+superstar		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+supporting		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+surtitles		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+suspenseful		<-->	adjective+C2[-0]	.
+
+
+
+
+
+
+take		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+takings		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+talkie		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+tear-jerker		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+telefilm		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+tension		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+theatre		<-->	noun+A1[-0]	.
+
+
+
+
+
+
+theatregoer		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+theatre-going		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+theatrical		<-->	adjective+C1[-0]	.
+
+
+
+
+
+
+theme music		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+thriller		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+tout		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+tragedian		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+tragedy		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+tragicomedy		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+trailer		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+trouper		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+twist		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+two-hander		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+typecast		<-->	verb+C2[-0]	.
+
+
+
+
+
+
+U		<-->	abbreviation+C2[-0]	.
+
+
+
+
+
+
+understudy		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+upper circle		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+upstage		<-->	adverb+C2[-0]	.
+
+
+
+
+
+
+usher		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+usherette		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+variety		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+vaudeville		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+villain		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+voice-over		<-->	noun+C1[-0]	.
+
+
+
+
+
+
+wardrobe		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+wardrobe master		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+wardrobe mistress		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+weepy		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+western		<-->	noun+B1[-0]	.
+
+
+
+
+
+
+whodunnit		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+wind machine		<-->	noun+B2[-0]	.
+
+
+
+
+
+
+wing		<-->	noun+C2[-0]	.
+
+
+
+
+
+
+young adult		<-->	adjective+B1[-0]	.
+
+
+
+
+
+
+zoom in		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+
+zoom out		<-->	phrasal verb+C2[-0]	.
+
+
+
+
+
+

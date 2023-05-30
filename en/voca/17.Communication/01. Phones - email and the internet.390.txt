@@ -1,0 +1,5893 @@
+	Fri, 2022-07-01
+
+access provider		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+account		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ad blocker		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+address		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+address bar		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+address book		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ADSL		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+AFAIC		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+AFAIK		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+alarm call		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+anonymize		<-->	verb++C2	[230127][001]	./əˈnɒnɪmaɪz/-NAmE /əˈnɑːnɪmaɪz/
+	;ẩn danh hoá -- anonymize something (computing): if you anonymize data that is sent or received over the internet, you remove any information that identifies which particular computer that data originally came from
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+answering machine		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+answerphone		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+area code		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+at		<-->	preposition++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+attach		<-->	verb++B1	[230127][001]	./əˈtætʃ/-NAmE /əˈtætʃ/
+	;đính kém --  [transitive] to fasten or join one thing to another
+		;attach something I attach a copy of my notes for your information.
+		;A copy of his document is attached as Appendix 3 at the end of this book.
+		;attach something to something Attach the coupon to the front of your letter.
+		;(figurative) They have attached a number of conditions to the agreement (= said that the conditions must be part of the agreement)
+		;COMPARE detach
+		;TOPICS Phones, email and the internetB1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;Oxford Collocations Dictionary
+		;adverb
+		;firmly, securely, loosely…
+		;preposition
+		;to
+
+
+
+
+
+attachment		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+bandwidth		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+banner ad		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+battery		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+beep		<-->	verb++C2	[230127][001]	./biːp/-NAmE /biːp/
+	;gọi điện thoại -- (North American English) (British English bleep) [transitive] beep somebody: to call somebody on their beeper
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+beeper		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+be on the phone		<-->	idiom++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+be on the telephone		<-->	idiom++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+BF		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+BFF		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+bleep		<-->	verb++C2	[230127][001]	./bliːp/-NAmE /bliːp/
+	;gọi điện thoại -- ​(British English) (North American English beep) [transitive] bleep somebody: to call somebody on their bleeper
+		;Please bleep the doctor on duty immediately.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+bleeper		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+blog		<-->	noun++A1	[230127][001]	./blɒɡ/-NAmE /blɑːɡ/
+	;nơi viết ý kiến cá nhân -- (also less frequent weblog) ​a website where an individual person, or people representing an organization, write regularly about recent events or topics that interest them, usually with photos and links to other websites that they find interesting
+		;This is a link to the museum's blog.
+		;You can post a comment on my blog here.
+		;in a blog You can read about my trip in my blog.
+		;blog about something He writes a blog about living with diabetes.
+		;Wordfinder: access, blog, browse, chat, google, navigate, search engine, unsubscribe, visit, the Web
+		;Wordfinder: access, blog, browse, chat, google, navigate, search engine, unsubscribe, visit, the Web
+		;Collocations Email and the internet:
+			---
+			;Email and the internet
+			;Email
+				;receive/​get/​open an email
+				;write/​send/​answer/​forward/​delete an email
+				;check/​read/​access your email
+				;block/​filter (out) junk/​spam/​unsolicited email
+				;exchange email addresses
+				;open/​check your inbox
+				;junk mail fills/​floods/​clogs your inbox
+				;have/​set up an email account
+				;open/​send/​contain an attachment
+				;sign up for/​receive email alerts
+				;Connecting to the internet
+				;use/​access/​log onto the internet/​the Web
+				;go online/​on the internet
+				;have a high-speed/​broadband/​wireless (internet) connection
+				;access/​connect to/​locate the server
+				;use/​open/​close/​launch a/​your web browser
+				;browse/​surf/​search/​scour the internet/​the Web
+				;send/​contain/​spread/​detect a(n) (computer/​email) virus
+				;update your anti-virus software
+				;install/​use/​configure a firewall
+				;accept/​enable/​block/​delete cookies
+			;Using the internet
+				;visit/​check a website/​an internet site/​somebody’s blog
+				;create/​design/​launch a website/​social networking site
+				;start/​write/​post/​read a blog
+				;update your blog/​a website
+				;be in/​meet somebody in/​go into/​enter an internet chat room
+				;download/​upload music/​software/​a song/​a podcast/​a file/​a copy of something
+				;share information/​data/​files
+				;post a comment/​message on a(n) website/​online message board/​web forum/​internet chat room
+				;stream video/​audio/​music/​content over the internet
+				;join/​participate in/​visit/​provide a(n) (web-based/​web/​online/​internet/​discussion) forum
+				;generate/​increase/​monitor internet traffic
+			---
+		;Oxford Collocations Dictionary
+		;adjective
+		;favourite/​favorite, popular, group…
+		;verb + blog
+		;read, visit, post…
+		;blog + noun
+		;entrypostreader…
+		;preposition
+		;blog  about, in a/​the blog, on a/​the blog…
+
+
+
+
+
+blog		<-->	verb++B1	[230127][001]	./blɒɡ/-NAmE /blɑːɡ/
+	;giữ blog, viết blog -- [intransitive, transitive] (Veerb Forms) ​to keep a blog; to write something in a blog
+		;I will be blogging from the convention all week.
+		;Here are some reactions to the story I blogged this morning.
+		;He blogged that there wasn't much happening.
+		;Make sure that the facts you blog about are accurate.
+		;TOPICS Phones, email and the internetB1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;More Like This Consonant-doubling verbs
+
+
+
+
+
+blogger		<-->	noun++B1	[230127][001]	./ˈblɒɡə(r)/-NAmE /ˈblɑːɡər/
+​	;người viết blog -- a person who writes a blog
+		;TOPICS Phones, email and the internetB1, Literature and writingB1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+blogging		<-->	noun++B1	[230127][001]	./ˈblɒɡɪŋ/-NAmE /ˈblɑːɡɪŋ/
+	;hoạt động viết blog -- [uncountable] ​the activity of writing a blog
+		;TOPICS Phones, email and the internetB1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+blogosphere		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+blog post		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+blogroll		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+blue pages		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+bookmark		<-->	noun++C1	[230127][001]	./ˈbʊkmɑːk/-NAmE /ˈbʊkmɑːrk/
+	;dấu trang -- ​(computing) a record of the address of a file, a page on the internet, etc. that enables you to find it quickly
+		;COMPARE favourite (3)
+		;Wordfinder: bookmark, cookie, domain, home page, hyperlink, landing pageon, line, social media, URL, website
+		;Wordfinder: bookmark, cookie, domain, home page, hyperlink, landing pageon, line, social media, URL, website
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+bookmark		<-->	verb++C1	[230127][001]	./ˈbʊkmɑːk/-NAmE /ˈbʊkmɑːrk/
+	;đáng dấu trang -- (computing) (Veerb Forms) ​bookmark something to record of the address of a file, a page on the internet, etc. so that you can find it quickly
+		;Do you want to bookmark this site?
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+bounce		<-->	verb++C2	[230127][001]	./baʊns/-NAmE /baʊns/
+	;phản hồi không thành công khi gởi mail -- (computing) ​[intransitive, transitive] bounce (something) (back) if an email bounces or the system bounces it, it returns to the person who sent it because the system cannot deliver it
+		;I tried to send her an email but it bounced.
+		;The system automatically bounces emails which contain attachments.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+BRB		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+broadband		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+browse		<-->	verb++C1	[230127][001]	./braʊz/-NAmE /braʊz/
+	;duyệt -- ​[intransitive, transitive] to look through a book, newspaper, website, etc. without reading everything
+		;I spent the whole evening just browsing on the internet.
+		;browse through something I found the article while I was browsing through some old magazines.
+		;to browse through the catalogue
+		;browse something I browsed the website for information about the event but didn’t find anything useful.
+		;Wordfinder: access, blog, browse, chat, google, navigate, search engine, unsubscribe, visit, the Web
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+browser		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+bulletin board		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+call		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+call		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+call back		<-->	phrasal verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+callback		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+call box		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+caller		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+caller ID		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+call-in		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+call in		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+call up		<-->	phrasal verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+call waiting		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cardphone		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+careline		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+carpet-bomb		<-->	verb++C2	[230127][001]	./ˈkɑːpɪt bɒm/-NAmE /ˈkɑːrpɪt bɑːm/
+	;gởi bom mail quảng cáo -- carpet-bomb somebody (business) to send an advertisement to a very large number of people, especially by email
+		;They carpet-bombed the public with commercials for their product.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+car phone		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+carrier		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cc		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cc		<-->	verb++C2	[230127][001]	./ˌsiː ˈsiː/-NAmE /ˌsiː ˈsiː/
+	;cm khối -- cubic centimetre(s)
+		;an 850cc engine
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+cell phone		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cellular		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+chat		<-->	verb++A2	[230127][001]	./tʃæt/-NAmE /tʃæt/
+	;tán ngẫu --  [intransitive] to exchange messages with somebody on the internet, when you can see and reply to messages immediately and have a written conversation
+		;chat (to/with somebody) I've been chatting online with my best friend.
+		;chat about something/somebody I use social media to chat about stuff as well.
+		;Wordfinder: access, blog, browse, chat, google, navigate, search engine, unsubscribe, visit, the Web
+		;TOPICS Phones, email and the internetA2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;Oxford Collocations Dictionary:
+		;adverb
+		;brieflyamiablyamicably…
+		;preposition
+		;abouttowith…
+		;More Like This Consonant-doubling verbs
+		;Consonant-doubling verbs:
+			;bobclubdubgrabrubsobthrob
+			;kidnodpadplodprodshredskidthud
+			;begblogbugdragdrugflaghugjoglogmugnagplug
+			;barconferinferoccurpreferreferstarstirtransfer
+			;acquitadmitallotchatclotcommitjutknitpatregretrotspotsubmit
+			;appalcancelchannelcontrolcounselenrolequalexcelfuelfulfillabellevelmarvelmodelpedalquarrelsignaltravel
+
+
+
+
+
+
+
+chat		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+chatline		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+chat room		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+citizen journalism		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+clickjacking		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+clickstream		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+CMC		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cold-calling		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+communication		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+conference call		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+connect		<-->	verb++A2	[230127][001]	./kəˈnekt/-NAmE /kəˈnekt/
+	;kết nối -- (internet)​  [intransitive, transitive] to join a computer or a mobile device to the internet or to a computer network
+		;The device can be hooked up to a mobile phone to connect wirelessly.
+		;connect to something Click ‘Continue’ to connect to the internet.
+		;laptops that connect wirelessly to the Net
+		;connect something The system harnesses the processing power of many computers connected by a high-speed network.
+		;connect something to something Simply connect your device to the camera's Wi-Fi signal.
+		;Many guests leave their laptops connected to the hotel network when they're not in their rooms.
+		;OPPOSITE disconnect
+		;Wordfinder: command, connect, desktop, drag, enter, insert, refresh, scroll, select, toggle
+		;TOPICS Phones, email and the internetA2, ComputersA2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;Oxford Collocations Dictionary
+		;adverb
+		;directly, physically, remotely…
+		;preposition
+		;to, with
+
+
+
+
+
+connection		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+contact		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cookie		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+copy in		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+courtesy call		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cradle		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cut off		<-->	phrasal verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cyber-combining formB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cybercafe		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cybernaut		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+cybersex		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+DD		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+deepfake		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+delete		<-->	verb++B2	[230127][001]	./dɪˈliːt/-NAmE /dɪˈliːt/
+	;xoá -- ​delete something (from something) to remove something that has been written or printed, or that has been stored on a computer
+		;Your name has been deleted from the list.
+		;This command deletes files from the directory.
+		;(British English) Mr/Mrs/Ms (delete as appropriate)
+		;Delete the word ‘it’ and insert ‘them’.
+		;Wordfinder: copy, data, delete, file, folder, icon, menu, open, password, print
+		;Collocations Email and the internet
+		;Extra Examples
+		;TOPICS ComputersB2, Phones, email and the internetB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;Oxford Collocations Dictionary
+		;adverb
+		;accidentally, inadvertently, automatically…
+		;preposition
+		;from
+		;phrases
+		;delete as appropriate
+
+
+
+
+
+dial		<-->	verb++C1	[230127][001]	./ˈdaɪəl/-NAmE /ˈdaɪəl/
+	;quay  số gọi  -- dial (something) to use a phone by pushing buttons or turning the dial to call a number
+		;He dialled the number and waited.
+		;Dial 0033 for France.
+		;Wordfinder: area code, call, dial, engaged, hold, line, message, phone, ring off, voicemail
+		;Wordfinder: area code, call, dial, engaged, hold, line, message, phone, ring off, voicemail
+		;Collocations Phones:
+			---
+			;Phones
+				;Making and receiving phone calls
+				;the phone/​telephone rings
+				;answer/​pick up/​hang up the phone/​telephone
+				;lift/​pick up/​hold/​replace the receiver
+				;dial a (phone/​extension/​wrong) number/​an area code
+				;call somebody/​talk (to somebody)/speak (to somebody) on the phone/​telephone; from home/​work/​the office
+				;make/​get/​receive a phone call
+				;take the phone off the hook (= remove the receiver so that the phone does not ring)
+				;the line is (British English) engaged/ (especially North American English) busy
+				;the phones have been (North American English) ringing off the hook (= ringing frequently)
+				;put somebody through/​get through to the person you want to speak to
+				;put somebody on hold (= so that they must wait for the person they want to speak to)
+				;call from/​use a landline
+			;Mobile/​cell phones
+				;be/​talk on a (both British English) mobile phone/​mobile/(especially North American English) cell phone/(informal, especially North American English) cell
+				;use/​answer/​call (somebody on)/get a message on your mobile phone/​mobile/​cell phone/​cell
+				;switch/​turn on/​off your mobile phone/​mobile/​cell phone/​cell
+				;charge/​recharge your mobile phone/​mobile/​cell phone/​cell
+				;a mobile/​cell phone is on/​is off/​rings/​goes off
+				;(British English) top up your mobile/​cell (phone)
+				;send/​receive a text (message)/an SMS (message)/a fax
+				;insert/​remove/​change a SIM card
+			---
+		;Extra Examples
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+dial in		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+dial into		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+dialling code		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+dial-up		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+dial up		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+	;kết nối internet bằng điện thoại -- (dial up | dial something  up) to connect to a computer system using a phone line
+		;Back then, you still had to dial up to the internet at 5p a minute.
+		;I tried to dial up a connection.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;SEE ALSO dial-up
+
+
+
+
+
+
+direct dialling		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+direct marketing		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+directory		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+directory enquiries		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+disconnect		<-->	verb++C1	[230127][001]	./ˌdɪskəˈnekt/-NAmE /ˌdɪskəˈnekt/
+	;gác máy -- [transitive] [usually passive] to break the contact between two people who are talking on the phone
+		;be disconnected We were suddenly disconnected.
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+	;ngắt kết nối internet -- [transitive, often passive, intransitive] to end a connection to the internet
+		;be/get disconnected (from something) I keep getting disconnected when I'm online.
+		;disconnect (from something) My computer crashes every time I disconnect from the internet.
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+discussion forum		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+distance learning		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+DM		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+DM		<-->	verb++C2	[230127][001]	./ˌdiː ˈem/-NAmE /ˌdiː ˈem/
+	;gởi message trực tiếp  -- [transitive, intransitive] (informal),(Veerb Forms),​to send somebody a direct message (a private message that you send on Twitter™ that will only be seen by the person you send it to)
+		;DM somebody (something) I DM'd him my email address.
+		;DM (something) (to somebody) I'll DM the link to you.
+		;DM + adv./prep. She DM'd back right away.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+DOI		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+domain		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+domain name		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+dot-com		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+draft		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+draft		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+DW		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+earpiece		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+eBay		<-->	verb++C2	[230127][001]	./ˈiːbeɪ/-NAmE /ˈiːbeɪ/
+	;mua hàng trên eBay -- (Veerb Forms) ​eBay something to buy or sell goods on the website called eBay
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+eBay™		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ego-surfing		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+email		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+emoji		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+emoticon		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+EMS		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+engaged		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ex-directory		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+extension		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+e-zine		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+Facebook™		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+favourite		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+fax		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+fax		<-->	verb++C1	[230127][001]	./fæks/-NAmE /fæks/
+	;gởi fax  -- (Veerb Forms) ​to send somebody a document, message, etc. by fax
+		;fax somebody something Could you fax me the latest version?
+		;fax something to somebody Could you fax it to me?
+		;fax something I faxed the list of hotels through to them.
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+feed		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+feed reader		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+filter		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+fixed-line		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+flame		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+flame		<-->	verb++C2	[230127][001]	./fleɪm/-NAmE /fleɪm/
+	;gởi message hung hăng -- [transitive] flame somebody (informal) to send somebody an angry or offensive message by email or on the internet
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+flash mob		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+flash mobbing		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+follow		<-->	verb++B2	[230127][001]	./ˈfɒləʊ/-NAmE /ˈfɑːləʊ/
+	;theo dõi -- [transitive] follow somebody to choose to regularly receive messages from a person, company, etc. using a social media service
+		;I don’t follow many celebrities on Twitter any more.
+		;TOPICS Phones, email and the internetB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+followee		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+follower		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+forward		<-->	verb++C1	[230127][001]	./ˈfɔːwəd/-NAmE /ˈfɔːrwərd/-\
+	;gởi tiếp cho ai đó -- (Veerb Forms) (formal) to send or pass goods or information to somebody
+		;forward something to somebody We will be forwarding our new catalogue to you next week.
+		;forward somebody something We will be forwarding you our new catalogue next week.
+		;I’m forwarding you this email that I had from Jeff.
+		;forward something to forward a request/complaint/proposal
+		;Wordfinder: address, attachment, compose, draft, email, emoticon, forward, inbox, message, re
+		;Wordfinder: address, attachment, compose, draft, email, emoticon, forward, inbox, message, re
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+Freephone		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+friend		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+friend		<-->	verb++B2	[230127][001]	./frend/-NAmE /frend/
+	;kết bạn -- (Veerb Forms) ​friend somebody to add somebody to your list of contacts on a social media website
+		;The chat system only allows you to communicate with those you have friended on the site.
+		;TOPICS Phones, email and the internetB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+friend request		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+get hold of somebody		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+get through		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+GF		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+give somebody a bell		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+give somebody a buzz		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+give somebody a ring		<-->	idiom++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+google		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+Google™A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+groom		<-->	verb++C2	[230127][001]	./ɡruːm/-NAmE /ɡruːm/
+	;chuẩn bị hình ảnh ấu dâm -- ​groom somebody (of a person who is sexually attracted to children) to prepare a child for a meeting, especially using social media, with the intention of performing an illegal sexual act
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+handle		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+handset		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+hashtag		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+hate mail		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+hat tip		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+helpline		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+history		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+hold		<-->	verb++B2	[230127][001]	./həʊld/-NAmE /həʊld/
+	;dừng lại đợi xíu -- (on phone) ​[intransitive, transitive] to wait until you can speak to the person you have phoned
+		;That extension is busy right now. Can you hold?
+		;hold the line She asked me to hold the line.
+		;Wordfinder: area code, call, dial, engaged, hold, line, message, phone, ring off, voicemail
+		;TOPICS Phones, email and the internetB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+home page		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+hook up		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+hotline		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+hotlink		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+hotspot		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+HTML		<-->	abbreviation++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+HTTP		<-->	abbreviation++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+hyperlink		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+hypertext		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+IDK		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+inbox		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+influencer		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+Instagram™		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+instant message		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+instant-message		<-->	verb++B2	[230127][001]	./ˌɪnstənt ˈmesɪdʒ/-NAmE /ˌɪnstənt ˈmesɪdʒ/
+	;gởi message ngay -- (also IM) [intransitive, transitive] to send a written message using a system on the internet that allows people to communicate with each other very quickly
+		;She spent most of the evening instant-messaging.
+		;instant-message somebody He instant-messaged me last night.
+		;instant-message somebody something Can you instant-message me the news?
+		;TOPICS Phones, email and the internetB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+instant messaging		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+intercom		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+internet		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+internet of things		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+IoT		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+IP address		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ISP		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+keypad		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+kiosk		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+landing page		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+landline		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+like		<-->	verb++B1	[230127][001]	./laɪk/-NAmE /laɪk/
+	;thích, đồng ý -- like something if you like something on social media, a news website, a blog, etc. you show that you agree with it or that you think it is good by clicking a special button
+		;By the next morning, over twenty of my friends had liked my new profile picture.
+		;Over seven hundred Facebook users have already liked the company’s website.
+		;TOPICS Opinion and argumentB1, Preferences and decisionsB1, Phones, email and the internetB1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+like		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+line		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+link		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+live		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+live-blog		<-->	verb++C1	[230127][001]	./ˈlaɪv blɒɡ/-NAmE /ˈlaɪv blɑːɡ/
+	;viết blog đang hoạt động -- [transitive, intransitive], (Veerb Forms) ​to write about an experience and publish it on a blog while it is happening
+		;He live-blogged from the top of the mountain.
+		;live-blog something to live-blog an event/an election/a debate
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+live blog		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+live-tweet		<-->	verb++B2	[230127][001]	./ˈlaɪv twiːt/-NAmE /ˈlaɪv twiːt/
+	;gởi message bằng Twitter -- (Veerb Forms) live-tweet something to send messages about an event using the Twitter social media service while the event is happening
+		;Those of you who follow me on Twitter have probably noticed that I live-tweet the conferences I go to.
+		;TOPICS Phones, email and the internetB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+local call		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+LOL		<-->	exclamation++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+lolz		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+lolz		<-->	exclamation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+lulz		<-->	exclamation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+lulz		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+lurk		<-->	verb++C2	[230127][001]	./lɜːk/-NAmE /lɜːrk/
+	;đọc ẩn danh -- [intransitive] (computing) to read a discussion in a chat room, etc. on the internet, without taking part in it yourself
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+mail		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+mail		<-->	verb++A2	[230127][001]	./meɪl/-NAmE /meɪl/
+	;gởi mail --  to send a message to somebody by email
+		;mail somebody Please mail us at the following email address.
+		;mail something (to somebody/something) The virus mails itself forward to everyone in your address book.
+		;mail somebody something Can you mail me that document you mentioned?
+		;TOPICS Phones, email and the internetA2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;Oxford Collocations Dictionary
+		;adverb
+		;direct, directly, back…
+		;preposition
+		;to
+
+
+
+
+
+mailing list		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+message		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+message		<-->	verb++B1	[230127][001]	./ˈmesɪdʒ/-NAmE /ˈmesɪdʒ/
+	;gởi message -- (Veerb Forms) ​to send a text message, or a message through an instant messaging service, etc. to somebody
+		;message somebody Fiona just messaged me.
+		;message somebody something Brian messaged me the news.
+		;SEE ALSO DM, text-message
+		;TOPICS Phones, email and the internetB1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+message board		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+microblog		<-->	verb++C2	[230127][001]	./ˈmaɪkrəʊblɒɡ/-NAmE /ˈmaɪkrəʊblɑːɡ/
+	;giữ microblog -- [intransitive] (Veerb Forms) ​to keep a microblog
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+microblog		<-->	noun++C2	[230127][001]	./ˈmaɪkrəʊblɒɡ/-NAmE /ˈmaɪkrəʊblɑːɡ/
+	;blog ngắn -- a blog where you regularly post short messages, photos or videos either to a selected group of people, or so that they can be viewed by anyone, as a means of keeping people informed about your activities and thoughts
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+microblogging		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+mirror site		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+misdial		<-->	verb++C2	[230127][001]	./ˌmɪsˈdaɪəl/-NAmE /ˌmɪsˈdaɪəl/
+	;gọi sai số -- [intransitive, transitive] (Veerb Forms) ​misdial (something) to call the wrong phone number by mistake
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+MMS		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+mobile		<-->	adjective++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+mobile		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+mobile phone		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+mouthpiece		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+mute		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+mute		<-->	verb++C2	[230127][001]	./mjuːt/-NAmE /mjuːt/
+	;tắt tiếng -- (Veerb Forms) to turn off the sound on a phone, television, etc.
+		;mute something A button on the speaker mutes the microphone.
+		;mute somebody/yourself In online meetings it is often best to mute yourself when you are not speaking.
+		;OPPOSITE unmute
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+mute button		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+MYOB		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+Myspace™		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+navigate		<-->	verb++C1	[230127][001]	./ˈnævɪɡeɪt/-NAmE /ˈnævɪɡeɪt/
+	;tìm đường, định tuyến -- ​[intransitive, transitive] (computing) to find your way around on the internet or on a particular website
+		;Customers will be able to navigate easily throughout the site.
+		;navigate (through) something Lots of these sites are hard to navigate through.
+		;Wordfinder: access, blog, browse, chat, google, navigate, search engine, unsubscribe, visit, the Web
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;Oxford Collocations Dictionary
+		;adverb
+		;safely, carefully, successfully…
+		;preposition
+		;by, across, through…
+		;phrases
+		;navigate your way
+
+
+
+
+
+
+
+netiquette		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+netizen		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+net surfer		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+newsgroup		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+newswire		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+number		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+obv		<-->	adverb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+obvs		<-->	adverb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+offline		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+offline		<-->	adverb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+off the hook		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+OMG		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+on hold		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+online		<-->	adjective++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+operator		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+outbox		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+page		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+page		<-->	verb++C2	[230127][001]	./peɪdʒ/-NAmE /peɪdʒ/\
+	;contact, tiếp xúc -- page somebody: to contact somebody by sending a message to their pager
+		;Page Dr Green immediately.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+pager		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+payphone		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+person-to-person		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+phone		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+phone		<-->	verb++A1	[230127][001]	./fəʊn/-NAmE /fəʊn/
+	;gọi điện thoại -- /fəʊn/-NAmE /fəʊn/ (especially British English) (British English also phone up) [intransitive, transitive] (Veerb Forms) (Phrasal Veerbs) ​to make a phone call to somebody
+		;SYNONYM call
+		;I was just phoning up for a chat.
+		;He phoned to invite me out for dinner.
+		;phone for something Someone phone for an ambulance!
+		;phone about something I’m phoning about your ad in the paper.
+		;phone back Could you phone back later?
+		;phone home He phoned home, but there was no reply.
+		;phone somebody/something Don't forget to phone New York.
+		;For reservations, phone 020 281 3964.
+		;Someone phoned the police.
+		;Phone them up and find out when they are coming.
+		;British/American phone / call / ring
+		;Wordfinder: area code, call, dial, engaged, hold, line, message, phone, ring off, voicemail
+		;Extra Examples
+		;TOPICS Phones, email and the internetA1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+phone booth		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+phone box		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+phone call		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+phone number		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+picture messaging		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ping		<-->	verb++C2	[230127][001]	./pɪŋ/-NAmE /pɪŋ/\
+	;Kiểm tra internet -- [transitive] ping something: to test whether an internet connection is working by sending a signal to a computer and waiting for a reply
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+PM		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+PM		<-->	verb++C2	[230127][001]	./ˌpiː ˈem/-NAmE /ˌpiː ˈem/
+	;gởi message cá nhân -- [transitive, intransitive] (informal) ​to send somebody a private message (= one that only the person who wrote it and the person who they sent it to can read) on social media or an online forum
+		;PM somebody (something) You should PM me your address.
+		;PM something (to somebody) I'll PM my address to you.
+		;+ adv./prep. She PM'd back right away,
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+podcast		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+podcaster		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+podcasting		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+portal		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+predictive		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+profile		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+publish		<-->	verb++A2	[230127][001]	./ˈpʌblɪʃ/-NAmE /ˈpʌblɪʃ/
+	; -- 
+
+
+
+
+
+push alert		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+push technology		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+put through		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+raise		<-->	verb++C2	[230127][001]	./reɪz/-NAmE /reɪz/
+	;gọi điện, tiếp xúc -- (on radio/phone) raise somebody: to contact somebody and speak to them by radio or phone
+		;We managed to raise him on his mobile phone.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+re		<-->	preposition++C2	[230127][001]	./riː/-NAmE /riː/
+	;chữ "reply" -- used at the beginning of a business letter, etc. to introduce the subject that it is about; used on an email that you are sending as a reply
+		;Re your letter of 1 September…
+		;Re: travel expenses
+		;Wordfinder: address, attachment, compose, draft, email, emoticon, forward, inbox, message, re
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+reach		<-->	verb++C1	[230127][001]	./riːtʃ/-NAmE /riːtʃ/
+	;tiếp xúc, tương tác -- (contact somebody) ​[transitive] reach somebody to communicate with somebody, especially by phone
+		;Do you know where I can reach him?
+		;You can reach me at this number.
+		;No one at the company could be reached for comment.
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+receiver		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+redial		<-->	verb++C2	[230127][001]	./ˌriːˈdaɪəl/-NAmE /ˌriːˈdaɪəl/\
+	;gọi lại lần nữa -- (Veerb Forms) ​[intransitive, transitive] redial (something) to call a phone number again by pressing all of the individual numbers again
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+redial		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+remote learning		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+retweet		<-->	verb++C2	[230127][001]	./ˌriːˈtwiːt/-NAmE /ˌriːˈtwiːt/\
+	;trích dẫn lại một tweet của ai đó -- (Veerb Forms) ​if you retweet a message written by another user on the Twitter social media service, the message can be seen by all of the people who regularly receive messages from you
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+retweet		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+reverse		<-->	verb++C2	[230127][001]	./ˈriːtwiːt/-NAmE /ˈriːtwiːt/
+	;trích dẫn để mọi người khác đọc bình thường -- a message written by another user on the Twitter social media service that you have retweeted so that it can be seen by all the people who regularly read messages written by you
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+reverse-charge		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+reverse-charge		<-->	adverb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ring		<-->	verb++A2	[230127][001]	./rɪŋ/-NAmE /rɪŋ/
+	;gọi điện -- (telephone)​  (British English) (also call North American English, British English) [transitive, intransitive] to phone somebody/something
+		;ring somebody/something up I'll ring you up later.
+		;He rang up the police station.
+		;ring somebody/something When is the best time to ring New York?
+		;I'll ring you later.
+		;Concerned residents can write or ring my office.
+		;ring (up) David rang up while you were out.
+		;He said he was ringing from London.
+		;I'm ringing about your advertisement in the paper.
+		;She rang to say she'd be late.
+		;ring for something Could you ring for a cab?
+		;We rang for an ambulance and he was taken to hospital.
+		;British/American phone / call / ring
+		;TOPICS Phones, email and the internetA2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+ring around		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ring back		<-->	phrasal verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ringback		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ring in		<-->	phrasal verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ring off		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ring round		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+ring through		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+scrambler		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+search engine		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+Second Life™		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+send		<-->	verb++A1	[230127][001]	./send/-NAmE /send/
+	;gởi -- (by mail/radio)​  to make something go or be taken to a place, especially by post, email, radio, etc.
+		;send something She sent a letter of support.
+		;Let me just send this email.
+		;(British English) to send something by post
+		;(North American English) to send something by mail
+		;I sent the package by airmail.
+		;Users were unable to send or receive emails for two days.
+		;send something to somebody/something Have you sent a Christmas card to your mother yet?
+		;A radio signal was sent to the spacecraft.
+		;send somebody something Have you sent your mother a Christmas card yet?
+		;I'll send you a text message.
+		;Can you send me a link to the website?
+		;He sent me a copy of his new book.
+		;send something back The laptop was faulty so I sent it back to the manufacturers.
+		;Homophones cent | scent | sent
+		;TOPICS Phones, email and the internetA1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+service provider		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+share		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+silver surfer		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+site		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+skin		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+Skype™		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+Skype™		<-->	verb++B2	[230127][001]	./skaɪp/-NAmE /skaɪp/
+	;nói, gởi message bằng Skype -- [transitive, intransitive] (Veerb Forms) ​to speak (with somebody) using Skype
+		;Skype somebody I'll Skype you later.
+		;Skype (with somebody) She Skypes with her grandchildren.
+		;TOPICS Phones, email and the internetB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+smartphone		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+smiley		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+SMS		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+SMS		<-->	verb++C2	[230127][001]	./ˌes em ˈes/-NAmE /ˌes em ˈes/
+	;gởi message -- [transitive, intransitive] (Veerb Forms) SMS (somebody) to send a message to somebody by SMS
+		;SYNONYM text, text message
+		;He SMSed me every day.
+		;If you have any comments, just email or SMS.
+		;She spends her time chatting and SMSing.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+Snapchat™		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+social		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+social bookmarking		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+social media		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+social networking		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+sock puppet		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+sock puppetry		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+spam		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+spam		<-->	verb++B2	[230127][001]	./spæm/-NAmE /spæm/
+	;gởi mail khắp cả -- (Veerb Forms) ​spam somebody/something to send the same message to large numbers of internet users who have not requested the information
+		;Some companies will keep spamming you until you change your email address.
+		;Some idiot has been spamming my blog with comments.
+		;TOPICS Phones, email and the internetB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+spammer		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+spamming		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+spammy		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+speakerphone		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+speed dial		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+spoof		<-->	verb++C2	[230127][001]	./spuːf/-NAmE /spuːf/
+	;forward, chuyển tiếp mail -- spoof something: to send an email that appears to come from somebody else’s email address
+		;Someone has been spoofing my address.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+spoofing		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+the white pages		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+storefront		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+subject line		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+surf		<-->	verb++B1	[230127][001]	./sɜːf/-NAmE /sɜːrf/
+	;sử dụng internet -- [transitive] surf the Net/internet to use the internet
+		;I was surfing the Net looking for information on Indian music.
+		;TOPICS Phones, email and the internetB1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+surfer		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+surfing		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+switchboard		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+system operator		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telebanking		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+teleconference		<-->	verb++C1	[230127][001]	./ˈtelikɒnfrəns/-NAmE /ˈtelikɑːnfrəns/
+	;tham dự gọi nhóm -- [intransitive] (Veerb Forms) ​to attend a conference or discussion at which members are in different places and speak to each other using phone and video connections
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+teleconference		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+teleconferencing		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telegraph		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telegraph		<-->	verb++C1	[230127][001]	./ˈtelɪɡrɑːf/-NAmE /ˈtelɪɡræf/
+	;điện tín -- [uncountable] ​a method of sending messages over long distances, using wires that carry electrical signals
+		;telegraph wires
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;Oxford Collocations Dictionary
+		;Telegraph is used before these nouns:
+		;wire
+
+
+
+
+
+
+telegraph pole		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telephone		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telephone		<-->	verb++A1	[230127][001]	./ˈtelɪfəʊn/-NAmE /ˈtelɪfəʊn/
+	;gọi điện -- (especially British English, formal) (also phone especially in British English) (also call British and North American English) [intransitive, transitive] (Veerb Forms) ​to speak to somebody by phone
+		;Please write or telephone for details.
+		;He telephoned to say he'd be late.
+		;telephone somebody/something I was about to telephone the police.
+		;You can telephone your order 24 hours a day.
+		;telephone (somebody/something) on/at something For tickets telephone the box office on 4121211.
+		;British/American phone / call / ring
+		;TOPICS Phones, email and the internetA1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telephone banking		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telephone booth		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telephone box		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telephone call		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telephone kiosk		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telephone number		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telephonist		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+teleprinter		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telesales		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+teleshopping		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+teletypewriter		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telex		<-->	noun++C2	[230127][001]	./ˈteleks/-NAmE /ˈteleks/\
+	;hệ thống telex -- [uncountable] an international system of communication in which messages are typed on a special machine and sent by the phone system
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+telex		<-->	verb++C2	[230127][001]	./ˈteleks/-NAmE /ˈteleks/
+	;giao tiếp bằng hệ thống telex -- [intransitive, transitive] (Veerb Forms)
+​		;telex (something) to send a message by telex
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+text		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+text		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+text message		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+text-message		<-->	verb++B1	[230127][001]	./ˈtekst mesɪdʒ/-NAmE /ˈtekst mesɪdʒ/
+	;gởi message -- (also more frequent text) [transitive, intransitive] (Veerb Forms) ​text-message (somebody) (something) to send somebody a written message using a mobile phone
+		;I text-messaged him to say we were waiting in the pub.
+		;TOPICS Phones, email and the internetB1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+text-messaging		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+thread		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+timeline		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+TL;DR		<-->	abbreviation++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+toll		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+trace		<-->	verb++B2	[230127][001]	./treɪs/-NAmE /treɪs/
+	;truy vết -- trace something (back) (to something) to find the origin or cause of something
+		;She could trace her family tree back to the 16th century.
+		;The leak was eventually traced to a broken seal.
+		;The police traced the call (= used special electronic equipment to find out who made the phone call) to her ex-husband's number.
+		;Extra Examples
+		;TOPICS Phones, email and the internetB2, Family and relationshipsB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;Oxford Collocations Dictionary
+		;adverb
+		;carefully, easily, directly…
+		;verb + trace
+		;can, attempt to, try to…
+		;preposition
+		;to
+
+
+
+
+
+troll		<-->	noun++C2	[230127][001]	./trɒl/,  /trəʊl/-NAmE /trəʊl/
+	;sự phá đám -- (informal) a message to a discussion group on the internet that somebody deliberately sends to make other people angry; a person who sends a message like this
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+troll		<-->	verb++C2	[230127][001]	./trɒl/,  /trəʊl/-NAmE /trəʊl/
+	;phá đám nhóm -- ​[intransitive, transitive] troll (somebody/something) to write false or offensive messages on the internet in order to make other people angry
+		;Someone keeps posting snide comments on the forum, trolling for a reaction.
+		;Someone trolled me every day this week, each time posting the same obnoxious message on my blog.
+		;It looks like kids are intentionally trolling these blogs and trying to get a reaction from the adults who write them.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+tweet		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+tweet		<-->	verb++B1	[230127][001]	./twiːt/-NAmE /twiːt/
+​	; -- a message sent using the Twitter social media service
+		;He started posting tweets via his cell phone to keep friends and family updated on his progress.
+		;TOPICS Phones, email and the internetB1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+twitter		<-->	verb++B2	[230127][001]	./ˈtwɪtə(r)/-NAmE /ˈtwɪtər/
+	;viết message trên switter -- ​(also more frequent tweet) [intransitive, transitive] twitter (something) to send a message or picture using the Twitter social media service
+		;Some members of Congress twittered through the President’s big speech.
+		;TOPICS Phones, email and the internetB2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+Twitter™		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+unblock		<-->	verb++C1	[230127][001]	./ˌʌnˈblɒk/-NAmE /ˌʌnˈblɑːk/
+	;mở màn hình​ -- unblock something: to make it possible to use a mobile phone again after it has been stopped from working as a security measure
+		;Does anyone know how I can get my phone unblocked?
+		;You will need a code to unblock your phone.
+		;COMPARE unlock (3)
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+unboxing		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+unlisted		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+unlock		<-->	verb++C2	[230127][001]	./ˌʌnˈlɒk/-NAmE /ˌʌnˈlɑːk/
+	;mở điện thoại để có thể dùng một nhà mạng nào đó  -- unlock something to enable a mobile phone to use any network rather than only one particular one
+		;Have an old phone lying around? Unlock it and keep it as a spare.
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+unmute		<-->	verb++C2	[230127][001]	./ˌʌnˈmjuːt/-NAmE /ˌʌnˈmjuːt/
+	;mở tiếng -- [transitive, intransitive] (Veerb Forms) ​to turn on the sound on a phone, television, etc.
+		;unmute something I forgot to unmute the microphone.
+		;unmute (somebody/yourself) Remember to unmute yourself when it is your turn to speak.
+		;If you are on mute, please unmute.
+		;OPPOSITE mute (1)
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+unsubscribe		<-->	verb++C2	[230127][001]	./ˌʌnsəbˈskraɪb/-NAmE /ˌʌnsəbˈskraɪb/
+	;bỏ đăng kí -- [intransitive, transitive] (computing) (Veerb Forms) ​unsubscribe (from something) | unsubscribe somebody/something: to remove your/somebody's email address from an internet mailing list
+		;Wordfinder: access, blog, browse, chat, google, navigate, search engine, unsubscribe, visit, the Web
+		;TOPICS Phones, email and the internetC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+Usenet		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+user group		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+videophone		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+videotelephony		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+viral marketing		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+visit		<-->	verb++A1	[230127][001]	./ˈvɪzɪt/-NAmE /ˈvɪzɪt/
+	;xem một web site --   [transitive] visit something (computing) to go to a website on the internet
+		;For more information, visit our website.
+		;to visit a site/page
+		;Wordfinder: access, blog, browse, chat, google, navigate, search engine, unsubscribe, visit, the Web
+		;TOPICS Phones, email and the internetA1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+		;Oxford Collocations Dictionary
+		;adverb
+		;frequently, often, regularly…
+		;verb + visit
+		;come togo to, decide to…
+		;preposition
+		;with
+
+
+
+
+
+
+visit		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+VLE		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+vlog		<-->	verb++C1	[230127][001]	./vlɒɡ/-NAmE /vlɑːɡ/
+	;giữ một vlog, thêm một vlog -- [intransitive, transitive] (Veerb Forms)
+​		;to keep a vlog (= a video blog); to add something to a vlog
+		;vlog about something Olive has a channel with her fiancé, where they vlog about their daily lives as a couple.
+		;vlog something I'm going to try and vlog my trip to Daegu this weekend.
+		;TOPICS Phones, email and the internetC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+vlog		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+vlogger		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+vlogging		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+voicemail		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+voice message		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+webcast		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+web chat		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+weblog		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+website		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+wrap		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+Yellow Pages™		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+YouTuber		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+YouTube™		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+

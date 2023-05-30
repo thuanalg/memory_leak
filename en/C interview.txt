@@ -1,0 +1,13 @@
+1.	C Interview
+	- https://www.geeksforgeeks.org/c-interview-questions/ X
+	- https://www.guru99.com/c-programming-interview-questions.html X
+1.	C++ Interview
+	- https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-interview-questions X
+		+ 45. How to write a program to check if a number is a palindrome or not?
+	- https://www.tutorialspoint.com/cplusplus/cpp_interview_questions.htm
+	- https://www.geeksforgeeks.org/cpp-interview-questions/
+	- https://www.geeksforgeeks.org/cpp-interview-questions/
+	
+	https://wiki.archlinux.org/title/Core_dump#:~:text=By%20default%2C%20all%20core%20dumps,the%20storage%20can%20be%20configured.
+	Vim hot key: https://monovm.com/blog/vim-shortcuts/
+	Vim cscope: https://gist.github.com/cyeong/3862602

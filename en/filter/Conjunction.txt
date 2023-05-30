@@ -1,0 +1,136 @@
+after		<-->	conjunction+A2  
+after		<-->	preposition+A2  
+after		<-->	adverb+A2 
+ 
+albeit		<-->	conjunction+C1  
+although		<-->	conjunction+A2  
+and		<-->	conjunction+A1 
+ 
+as		<-->	conjunction+A2  
+as		<-->	preposition+A2  
+as		<-->	adverb+A2 
+ 
+because		<-->	conjunction+A1  
+
+before		<-->	conjunction+A2  
+before		<-->	preposition+A2  
+before		<-->	adverb+A2  
+
+but		<-->	conjunction+A1  
+but		<-->	preposition+A1  
+but		<-->	adverb+A1  
+but		<-->	noun+A1  
+
+except		<-->	conjunction+B1  
+except		<-->	preposition+B1  
+except		<-->	adverb+B1  
+
+if		<-->	conjunction+A1  
+if		<-->	noun+A1  
+
+nor		<-->	conjunction+B1  
+nor		<-->	adverb+B1  
+
+now		<-->	conjunction+B1  
+now		<-->	adverb+B1  
+
+once		<-->	conjunction+B1  
+once		<-->	adverb+B1  
+
+or		<-->	conjunction+A1  
+
+plus		<-->	conjunction+B2  
+plus		<-->	noun+B2  
+plus		<-->	adjective+B2  
+plus		<-->	preposition+B2  
+
+since		<-->	conjunction+A2  
+since		<-->	preposition+A2  
+since		<-->	adverb+A2  
+
+so		<-->	conjunction+A1  
+so		<-->	noun+A1  
+so		<-->	adverb+A1  
+
+than		<-->	conjunction+A1  
+than		<-->	preposition+A1  
+
+that		<-->	conjunction+A1  
+that		<-->	pronoun+A1  
+that		<-->	adverb+A1  
+that		<-->	determine+A1  
+
+
+though		<-->	conjunction+B1  
+though		<-->	adverb+B1  
+
+
+till		<-->	conjunction+B1  
+till		<-->	preposition+B1  
+till		<-->	noun+B1  
+till		<-->	verb+B1  
+
+unless		<-->	conjunction+B1  
+
+until		<-->	conjunction+preposition+A1  
+
+
+when		<-->	conjunction+A1  
+when		<-->	adverb+A1  
+when		<-->	pronoun+A1  
+
+whenever		<-->	conjunction+B1  
+whenever		<-->	after+B1  
+
+where		<-->	conjunction+A1  
+where		<-->	adverb+A1  
+
+whereas		<-->	conjunction+B2  
+
+wherever		<-->	conjunction+B2  
+wherever		<-->	adverb+B2  
+
+whether		<-->	conjunction+B1  
+
+while		<-->	conjunction+A2  
+while		<-->	noun+A2  
+
+
+whilst		<-->	conjunction+C1  
+
+yet		<-->	conjunction+B2  
+
+====================
+according to		<-->	preposition+A2  
+	;as stated or reported by somebody/something
+		;According to Mick, it's a great movie.
+		;You've been absent six times according to our records.
+	;following, agreeing with or depending on something
+		;The work was done according to her instructions.
+		;Everything went according to plan.
+		;The salary will be fixed according to qualifications and experience.
+
+during		<-->	preposition+A1  
+	;all through a period of time
+		;during the 1990s
+		;There are extra flights to Colorado during the winter.
+		;Please remain seated during the performance.
+	;at some point in a period of time
+		;He was taken to the hospital during the night.
+		;I only saw her once during my stay in Rome.
+
+following		<-->	preposition+B2  
+	;after or as a result of a particular event
+		;He took charge of the family business following his father's death.
+		;TOPICS Change, cause and effectB2
+
+including		<-->	preposition+A2  
+	;having something as part of a group or set
+		;I've got three days' holiday including New Year's Day.
+		;Six people were killed in the riot, including a policeman.
+		;It's £7.50, not including tax.
+
+regarding		<-->	preposition+A2  
+	;relating to somebody/something; about somebody/something
+		;She has said nothing regarding your request.
+		;Call me if you have any problems regarding your work.

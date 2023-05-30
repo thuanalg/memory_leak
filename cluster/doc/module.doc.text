@@ -1,0 +1,15 @@
+Reviewed:
+--error handle, code style, dependency libary, header --
+--err=__LINE__ for consistency --
+--note for exit_failure, exit_success--
+shmcreate
+shmcreate_audd
+A_000009_05m
+A_000009_hour
+A_000009_day
+A_000007_05m
+A_000007_hour
+A_000007_day
+insert_sqlite3
+gentemplate
+gethistory
