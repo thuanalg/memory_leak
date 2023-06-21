@@ -1,4 +1,4 @@
-[-] activity		<-->	noun++A1[-0]	.
+[-] activity		<-->	noun++A1	[230621][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -8,7 +8,44 @@
 
 
 
-[-] amateur dramatics		<-->	noun++C2[-0]	.
+[-] amateur dramatics		<-->	noun++C2	[230621][001]	./ˌæmətə drəˈmætɪks/,  /ˌæmətʃə drəˈmætɪks/
+ /ˌæmətər drəˈmætɪks/,  /ˌæmətʃər drəˈmætɪks/
+(British English)
+(North American English community theater)
+[uncountable]
+	;kịch nghiệp dư -- (1) the activity of producing and acting in plays for the theatre, by people who do it for pleasure, not as a job
+		;Culture
+		;TOPICS Film and theatreC2, HobbiesC2
+
+
+
+
+
+
+[-] angler		<-->	noun++C2	[230621][001]	./ˈæŋɡlə(r)/
+ /ˈæŋɡlər/
+	;người câu cá -- (1) a person who catches fish (= goes angling) as a hobby
+		;COMPARE fisherman
+		;TOPICS HobbiesC2
+
+
+
+
+
+
+[-] angling		<-->	noun++C2	[230621][001]	./ˈæŋɡlɪŋ/
+ /ˈæŋɡlɪŋ/
+[uncountable]
+	;môn câu cá -- (1) ​the art or sport of catching fish with a fishing rod
+		;Culture field sports
+		;TOPICS HobbiesC2
+
+
+
+
+
+
+[-] art		<-->	noun++A1	[230621][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -18,90 +55,77 @@
 
 
 
-[-] angler		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] astrology		<-->	noun++C2	[230621][001]	./əˈstrɒlədʒi/
+ /əˈstrɑːlədʒi/
+[uncountable]
+	;chiêm tinh học -- (1) the study of the positions of the stars and the movements of the planets in the belief that they influence human affairs
+		;I read the horoscopes for fun but I don’t really believe in astrology.
+		;TOPICS HobbiesC2
 
 
 
 
 
 
-[-] angling		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] ballroom dancing		<-->	noun++C1	[230621][001]	./ˌbɔːlruːm ˈdɑːnsɪŋ/,  /ˌbɔːlrʊm ˈdɑːnsɪŋ/
+ /ˌbɔːlruːm ˈdænsɪŋ/,  /ˌbɔːlrʊm ˈdænsɪŋ/
+[uncountable]
+	;nhảy đầm -- (1) a type of dancing done with a partner and using particular fixed steps and movements to particular types of music such as the waltz
+		;TOPICS HobbiesC1
 
 
 
 
 
 
-[-] art		<-->	noun++A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] basketry		<-->	noun++C2	[230621][001]	./ˈbɑːskɪtri/
+ /ˈbæskɪtri/
+(especially North American English)
+(British English usually basketwork)
+[uncountable]
+	;rổ rá -- (1) material twisted together in the style of a basket
+	;nghề đan lát -- (2) ​the skill of using your hands to make baskets, etc.
+		;TOPICS HobbiesC2
 
 
 
 
 
 
-[-] astrology		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] basketwork		<-->	noun++C2	[230621][001]	./ˈbɑːskɪtwɜːk/
+ /ˈbæskɪtwɜːrk/
+(British English)
+(also basketry especially in North American English)
+[uncountable]
+	;rổ rá -- (1) material twisted together in the style of a basket
+	;nghề đan lát -- (2) ​the skill of using your hands to make baskets, etc.
+		;TOPICS HobbiesC2
+
+
+
+
+
+[-] birder		<-->	noun++C2	[230621][001]	./ˈbɜːdə(r)/
+ /ˈbɜːrdər/
+(informal)
+	;người yêu thích chim trong tự nhiên -- (1) ​a birdwatcher (= a person who watches birds in their natural environment and identifies different species as a hobby)
+		;The data was collected by thousands of birders.
+		;The island is a popular spot for birders.
+		;TOPICS HobbiesC2
 
 
 
 
 
 
-[-] ballroom dancing		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] basketry		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] basketwork		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] birder		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] birding		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] birding		<-->	noun++C2	[230621][001]	./ˈbɜːdɪŋ/
+ /ˈbɜːrdɪŋ/
+[uncountable] (informal)
+	;sự yêu thích chim trong tự nhiên -- (1) birdwatching (= the hobby or activity of watching birds in their natural environment and identifying different species)
+		;birding vacations in the National Park
+		;a week’s birding
+		;the top birding spots on the island
+		;TOPICS HobbiesC2
 
 
 
