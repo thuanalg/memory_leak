@@ -1,4 +1,4 @@
-[-] ADD		<-->	abbreviation++C2[-0]	./ˌeɪ diː ˈdiː/
+[-] ADD		<-->	abbreviation++C2	[230622][001]	./ˌeɪ diː ˈdiː/
  /ˌeɪ diː ˈdiː/
 	;rối loạn thiếu tập trung -- (1) ​attention deficit disorder
 		;TOPICS Mental healthC2
@@ -1003,10 +1003,18 @@
 
 
 
-[-] paranoid		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] paranoid		<-->	adjective++C2	[230622][001]	./ˈpærənɔɪd/
+ /ˈpærənɔɪd/
+(also less frequent paranoiac  /ˌpærəˈnɔɪæk/  /ˌpærəˈnɔɪɪk/)
+	;sợ hãi -- (1) ​believing that other people dislike you or want to harm you, when there is no reason or evidence for this
+		;She's getting really paranoid about what other people say about her.
+		;You're just being paranoid.
+		;Synonyms afraid
+	;hoang tưởng -- (2) ​(psychology) having false beliefs because of a mental illness, especially the belief that people are trying or planning to harm you
+		;paranoid delusions
+		;paranoid schizophrenia
+		;a paranoid schizophrenic
+		;TOPICS Mental healthC2
 
 
 
@@ -1018,10 +1026,11 @@
 
 
 
-[-] paranoid		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] paranoid		<-->	noun++C2	[230622][001]	./ˈpærənɔɪd/
+ /ˈpærənɔɪd/
+(also paranoiac  /ˌpærəˈnɔɪæk/  /ˌpærəˈnɔɪɪk/)
+	;người mắc chứng hoang tưởng -- (1) a person who is paranoid
+		;TOPICS Mental healthC2
 
 
 
