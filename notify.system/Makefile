@@ -19,4 +19,4 @@ all:
 	gcc -g -o zrsa.ut ${SRC_RSA_UT} ${INC} ${LIBS}
 	gcc -g -o zev.aes.256.ut ${SRC_AES_UT} ${INC} ${LIBS} ${INCLUDE}
 clean:
-	rm -f zserver_notify zclient_device zmain.save ztest.msg.notify znotifier zrsa.ut z.ev.aes.256.ut
+	rm -f zserver_notify zclient_device zmain.save ztest.msg.notify znotifier zrsa.ut zev.aes.256.ut
