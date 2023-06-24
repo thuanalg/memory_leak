@@ -36,17 +36,22 @@ int main(int argc, char *argv[]) {
 	MSG_DATA *dt = 0;
 	char *p = 0;
 	int interval = 3;
-	
+    struct timeval timeout;      
+    timeout.tv_sec = 10;
+    timeout.tv_usec = 0;	
 
 	setlogmask (LOG_UPTO (LOG_INFO));
 	openlog ("zclient_device", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
 	do {
 		// Creating socket file descriptor
 		clock_gettime(CLOCK_REALTIME, &t0);
-		if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
+		if ( (sockfd = socket(AF_INET, SOCK_DGRAM, 0)) < 0 ) {
 			perror("socket creation failed");
 			exit(EXIT_FAILURE);
 		}
+    	if (setsockopt (sockfd, SOL_SOCKET, SO_RCVTIMEO, &timeout,
+                sizeof timeout) < 0)
+        	perror("setsockopt failed\n");
 		setsockopt(sockfd, IPPROTO_IP, IP_MTU_DISCOVER, &val, sizeof(val));		
 		if (!argv[1]) {
 			fprintf(stdout, "Address need entering as argv[1].\n");
@@ -77,6 +82,7 @@ int main(int argc, char *argv[]) {
 		sleep(1);
 		cmd_2_srv(MSG_GET_AES, G_CLI_SRV, 0, 0, (char*) id, argv[1]);
 		while(1) {
+			llog(LOG_INFO, "----thuan-nguyen. dfhjdfhdj: %s", "kkdfkd --");
 			int enc = 0;
 			usleep(10 * 1000);
 			clock_gettime(CLOCK_REALTIME, &t1);
@@ -168,7 +174,7 @@ int main(int argc, char *argv[]) {
 		}
 		err = close(sockfd);
 		if(err) {
-			LOG(LOG_ERR, "Close socket err.");
+			llog(LOG_ERR, "%s", "Close socket err.");
 		}
 	} while(1);
 	closelog();
@@ -207,14 +213,14 @@ int send_msg_fb( MSG_COMMON *msg, char *ip) {
 			MSG_CONFIRM, (const struct sockaddr *) &addr,
 				sizeof(addr));
 		if(n < len) {
-			LOG(LOG_ERR, "close socket err.");
+			llog(LOG_ERR, "%s", "close socket err.");
 		}
 	} while(0);
 
 	if(sk) {
 		err = close(sk);
 		if(err) {
-			LOG(LOG_ERR, "close socket err.");
+			llog(LOG_ERR, "%s", "close socket err.");
 		}
 	}
 	return n;

@@ -322,7 +322,7 @@ int hl_track_msg(MSG_TRACKING *msg, int n, struct sockaddr_in *addr, int type) {
 			}
 			if (!found)
 			{
-				LOG(LOG_ERR, "Not found device ID");
+				llog(LOG_ERR, "%s", "Not found device ID");
 				break;
 			}
 			//Update route path
@@ -714,17 +714,17 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr,
 			err = file_2_pubrsa("srv-public-key.pem", &pubkey);
 			if(!pubkey) {
 				err = 1;
-				syslog(LOG_ERR, "Cannot public key.");
+				syslog(LOG_ERR, "%s", "Cannot public key.");
 				break;
 			}
 			err = rsa_enc(pubkey, buf, &rsa_data, sz, &rsa_len);
 			if(err) {
-				LOG(LOG_ERR, "rsa encrypt error.");
+				llog(LOG_ERR, "%s", "rsa encrypt error.");
 				break;
 			}
 			fprintf(stdout, "rsa len: %d\n", rsa_len);
 			if(rsa_len >= MAX_MSG) {
-				LOG(LOG_ERR, "rsa encrypt error --> too big.");
+				llog(LOG_ERR, "%s", "rsa encrypt error --> too big.");
 				break;
 			}
 			memcpy(buf, rsa_data, rsa_len);
@@ -833,7 +833,7 @@ int ntf_aes_file(uchar *in, uchar *out, uchar* key, uchar* ivec, int enc) {
 			l = fwrite(bout, 1, k, fout);
 			if (l != k) {
 				err = 1;
-				LOG(LOG_ERR, "fwrite error.");
+				llog(LOG_ERR, "%s", "fwrite error.");
 				break;
 			}
 			if (k < AES_BLOCK_SIZE) {
@@ -881,19 +881,19 @@ int ntf_aes_encrypt(uchar *in, uchar *out, uchar* key, uchar* ivec, int n, int e
 	do {
 		if (n < 1 || (n%AES_BLOCK_SIZE)) {
 			err = 1;
-			LOG(LOG_ERR, "Length of data must be multiple of %d.", AES_BLOCK_SIZE);
+			llog(LOG_ERR, "Length of data must be multiple of %d.", AES_BLOCK_SIZE);
 			break;
 		}	
 		if (enc) {
     		err = AES_set_encrypt_key(key, AES_BITS, &wctx);
 			if (err) {
-				LOG(LOG_ERR, " set encrypt key error");
+				llog(LOG_ERR, "%s", "set encrypt key error");
 				break;
 			}
 		} else {
     		err = AES_set_decrypt_key(key, AES_BITS, &wctx);
 			if (err) {
-				LOG(LOG_ERR, " set decrypt key error");
+				llog(LOG_ERR, "%s", "set decrypt key error");
 				break;
 			}
 		}
@@ -919,18 +919,18 @@ int file_2_bytes(const uchar *path, uchar **output)
 	do {
 		if (!path) {
 			err = 1;
-			LOG(LOG_ERR, "File path is null.");
+			llog(LOG_ERR, "%s", "File path is null.");
     	    break;
 		}
 		if (!output) {
 			err = 1;
-			LOG(LOG_ERR, "Buffer is null.");
+			llog(LOG_ERR, "%s", "Buffer is null.");
     	    break;
 		}
     	fp = fopen(path, "r");
     	if (!fp) {
 			err = 1;
-			LOG(LOG_ERR, "Cannot open file '%s'.", path);
+			llog(LOG_ERR, "Cannot open file '%s'.", path);
     	    break;
     	}
     	fseek(fp, 0,SEEK_END);
@@ -942,7 +942,7 @@ int file_2_bytes(const uchar *path, uchar **output)
     	n = fread(*output, 1, sz, fp);
 		if (n != sz) {
 			err = 1;
-			LOG(LOG_ERR, "Reading file got erroneous.", path);
+			llog(LOG_ERR, "Reading file got erroneous, path: %s.", path);
 			break;
 		}
 	} while (0);
@@ -955,7 +955,7 @@ int file_2_bytes(const uchar *path, uchar **output)
 	if (fp) {
     	err = fclose(fp);
 		if (err) {
-			LOG(LOG_ERR, "Cannot close file '%s'.", path);
+			llog(LOG_ERR, "Cannot close file '%s'.", path);
 		}
 	}
 	return err;
@@ -971,17 +971,17 @@ int file_2_pubrsa(const uchar *path, RSA **output) {
 	do {
 		if (!output) {
 			err = 1;
-			LOG(LOG_ERR, "RSA output is 'null'.");
+			llog(LOG_ERR, "%s", "RSA output is 'null'.");
 			break;
 		}
 		err = file_2_bytes(path, &str);
 		if (err) {
-			LOG(LOG_ERR, "Read public key error.");
+			llog(LOG_ERR, "%s", "Read public key error.");
 			break;
 		}
 		bio = BIO_new_mem_buf( (void*)str, -1 ) ; // -1: assume string is null terminated
 		if (!bio) {
-			LOG(LOG_ERR, "Load BIO error.");
+			llog(LOG_ERR, "%s", "Load BIO error.");
 			err = 1;
 			break;
 		}
@@ -1015,23 +1015,23 @@ int file_2_prvrsa(const uchar *path, RSA **output) {
 	do {
 		if (!output) {
 			err = 1;
-			LOG(LOG_ERR, "RSA output is 'null'.");
+			llog(LOG_ERR, "%s", "RSA output is 'null'.");
 			break;
 		}
 		err = file_2_bytes(path, &str);
 		if (err) {
-			LOG(LOG_ERR, "Read private key error.");
+			llog(LOG_ERR, "%s", "Read private key error.");
 			break;
 		}
 		bio = BIO_new_mem_buf( (void*)str, -1 );
 		if (!bio) {
 			err = 1;
-			LOG(LOG_ERR, "BIO buffer error.");
+			llog(LOG_ERR, "%s", "BIO buffer error.");
 			break;
 		}
 		prvkey = PEM_read_bio_RSAPrivateKey( bio, NULL, NULL, NULL ) ;
 		if (!prvkey) {
-	  		LOG(LOG_ERR, "ERROR: Could not load PRIVATE KEY!  PEM_read_bio_RSAPrivateKey FAILED: %s\n", 
+	  		llog(LOG_ERR, "ERROR: Could not load PRIVATE KEY!  PEM_read_bio_RSAPrivateKey FAILED: %s\n", 
 	  				ERR_error_string(ERR_get_error(), NULL));
 		}
 		*output = prvkey;
@@ -1060,20 +1060,20 @@ int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen)
 	do {
 		if (!pubkey) {
 			err = 1;
-			LOG(LOG_ERR, "Have no public key.");
+			llog(LOG_ERR, "%s", "Have no public key.");
 			break;
 		}
 		if (!out) {
 			err = 1;
-			LOG(LOG_ERR, "Have no output pointer.");
+			llog(LOG_ERR, "%s", "Have no output pointer.");
 			break;
 		}
 		if (lenin < 1) {
-			LOG(LOG_ERR, "Length of input must be greater than 0.");
+			llog(LOG_ERR, "%s", "Length of input must be greater than 0.");
 		}
 		rsa_block = RSA_size(pubkey);
 		if (rsa_block < 1) {
-			LOG(LOG_ERR, "Get block of RSA error.");
+			llog(LOG_ERR, "%s", "Get block of RSA error.");
 			break;
 		}
 		if (lenin % rsa_block) {
@@ -1088,7 +1088,7 @@ int rsa_enc(RSA *pubkey, const uchar *in, uchar **out, int lenin, int *outlen)
 
 		n = RSA_public_encrypt(lenin, in, buf, pubkey, RSA_PKCS1_PADDING ) ; 
 	  	if (n < 1) {
-	    	LOG(LOG_ERR, "ERROR: RSA_public_encrypt: %s\n", ERR_error_string(ERR_get_error(), NULL));
+	    	llog(LOG_ERR, "ERROR: RSA_public_encrypt: %s\n", ERR_error_string(ERR_get_error(), NULL));
 			break;
 		}
 		if (outlen) {
@@ -1114,23 +1114,23 @@ int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen)
 		int n = 0;
 		if (!priv) {
 			err = 1;
-			LOG(LOG_ERR, "Have no priv key.");
+			llog(LOG_ERR, "%s", "Have no priv key.");
 			break;
 		}
 		if (!in) {
 			err = 1;
-			LOG(LOG_ERR, "Have no input data");
+			llog(LOG_ERR, "%s", "Have no input data");
 			break;
 		}
 		if (!out) {
 			err = 1;
-			LOG(LOG_ERR, "Have no output buffer.");
+			llog(LOG_ERR, "%s", "Have no output buffer.");
 			break;
 		}
 
 		rsa_block = RSA_size(priv);
 		if (rsa_block < 1) {
-			LOG(LOG_ERR, "Get block of RSA error.");
+			llog(LOG_ERR, "%s", "Get block of RSA error.");
 			break;
 		}
 		if (lenin % rsa_block) {
@@ -1144,7 +1144,7 @@ int rsa_dec(RSA *priv, const uchar *in, uchar **out, int lenin, int *outlen)
 
   		n = RSA_private_decrypt(lenin, in, buf, priv, RSA_PKCS1_PADDING) ;
 		if (n < 1) {
-    		LOG(LOG_ERR, "ERROR: RSA_private_decrypt: %s\n", ERR_error_string(ERR_get_error(), NULL) ) ;
+    		llog(LOG_ERR, "ERROR: RSA_private_decrypt: %s\n", ERR_error_string(ERR_get_error(), NULL) ) ;
 			err = 1;
 			break;
 		}
@@ -1166,7 +1166,7 @@ int put_pubkey_msg(MSG_DATA *m, int *n) {
 	RSA *rsa = 0;
 	do {
 		if (!m) {
-			LOG(LOG_ERR, "Pointer is null.");
+			llog(LOG_ERR, "%s", "Pointer is null.");
 			err = 1;
 			break;
 		}
@@ -1174,12 +1174,12 @@ int put_pubkey_msg(MSG_DATA *m, int *n) {
 		snprintf(path, MAX_PATH, "%s.public-key.pem.", m->com.dev_id);
 		err = file_2_pubrsa(path, &rsa);
 		if(err) {
-			LOG(LOG_ERR, "Cannot load RSA public key.");
+			llog(LOG_ERR, "%s", "Cannot load RSA public key.");
 			err = 1;
 			break;
 		}		
 		if(!rsa) {
-			LOG(LOG_ERR, "Cannot load RSA public key.");
+			llog(LOG_ERR, "%s", "Cannot load RSA public key.");
 			err = 1;
 			break;
 		}
@@ -1288,7 +1288,7 @@ int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *i
 		memset(buffer, 0, sizeof(buffer));
 		clock_gettime(CLOCK_REALTIME, &t);
 		if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
-			LOG(LOG_ERR, "Cannot create socket.");
+			llog(LOG_ERR, "%s", "Cannot create socket.");
 			err = 1;
 			break;
 		}
@@ -1321,17 +1321,17 @@ int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *i
 		err = file_2_pubrsa("srv-public-key.pem", &pubkey);
 		if(!pubkey) {
 			err = 1;
-			syslog(LOG_ERR, "Cannot public key.");
+			syslog(LOG_ERR, "%s", "Cannot public key.");
 		}
 		err = rsa_enc(pubkey, buffer, &rsa_data, n, &rsa_len);
 		if(err) {
-			LOG(LOG_ERR, "rsa encrypt error.");
+			llog(LOG_ERR, "%s", "rsa encrypt error.");
 			break;
 		}
 		fprintf(stdout, "n: %d, rsa_len: %di\n", n, rsa_len);
 		fprintf(stdout, "rsa len: %d\n", rsa_len);
 		if(rsa_len >= MAX_MSG) {
-			LOG(LOG_ERR, "rsa encrypt error --> too big.");
+			llog(LOG_ERR, "%s", "rsa encrypt error --> too big.");
 			break;
 		}
 		memcpy(buffer, rsa_data, rsa_len);
@@ -1343,7 +1343,7 @@ int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *i
 				sizeof(servaddr));
 		fprintf(stdout, "send get_aes: %d\n", n);
 		if(err) {
-			LOG(LOG_ERR, "Close socket error.");
+			llog(LOG_ERR, "%s", "Close socket error.");
 		}
 	} while(0);
 
@@ -1356,7 +1356,7 @@ int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *i
 	if(sockfd > 0) {
 		err = close(sockfd);
 		if(err) {
-			LOG(LOG_ERR, "Close socket error.");
+			llog(LOG_ERR, "%s", "Close socket error.");
 		}
 	}
 	return err;
@@ -1630,32 +1630,32 @@ int msg_aes_enc(uchar *in, uchar *buffer, uchar *key, uchar *iv, int lenin, int 
 	do {
 		if(!in) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(!buffer) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(!key) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(!iv) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(!lenout) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(lim < (lenin + 1 + AES_IV_BYTES)) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		memset(tag, 0, sizeof(tag));
@@ -1684,42 +1684,42 @@ int msg_aes_dec(uchar *in, uchar *buf, uchar *key, uchar *iv, int lenin, int *le
 	do {
 		if(!in) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(!buf) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(!key) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(!iv) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(!lenout) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(lenin > MAX_MSG + 1) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(lenin < AES_IV_BYTES + 1) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		if(lim < (lenin - 1 - AES_IV_BYTES)) {
 			err = 1;
-			//LOG(LOG_ERR
+			//llog(LOG_ERR
 			break;
 		}
 		memset(tag, 0, sizeof(tag));
