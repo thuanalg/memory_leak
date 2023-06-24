@@ -94,7 +94,7 @@ void handler(int signo, siginfo_t *info, void *context)
 			g_runnow = 1;
 		}
 		//set_waiting(0);
-		LOG(LOG_INFO, "sending pid--------------: %llu\n", (unsigned long long)info->si_pid);
+		llog(LOG_INFO, "sending pid--------------: %llu\n", (unsigned long long)info->si_pid);
 }
 
 
@@ -177,7 +177,7 @@ void *sending_routine_thread(void *arg)
 				uchar *out = 0;
 				RSA *prv = get_srv_prv();
 				if(!prv) {
-					LOG(LOG_ERR, "cannot get server private key.");
+					llog(LOG_ERR, "%s", "cannot get server private key.");
 					continue;	
 				}
 				rsa_dec(prv, buffer, &out, n - 1, &len);
@@ -202,7 +202,7 @@ void *sending_routine_thread(void *arg)
 			if(msg->type == MSG_TRA) {
 				int done = hl_track_msg((MSG_TRACKING *)msg, n, &cliaddr, 0);
 				if(!done) {
-					LOG(LOG_ERR, "Handle tracking error.");
+					llog(LOG_ERR, "%s", "Handle tracking error.");
 					break;
 				}
 			}
@@ -224,7 +224,7 @@ void *sending_routine_thread(void *arg)
 	err = close(sockfd);
 	if(err)
 	{
-		LOG(LOG_ERR, "close socket error.\n");
+		llog(LOG_ERR, "%s", "close socket error.\n");
 	}
 	return 0;
 }
@@ -325,7 +325,7 @@ int main(int argc, char *argv[]) {
 			uchar *out = 0;
 			RSA *prv = get_srv_prv();
 			if(!prv) {
-				LOG(LOG_ERR, "S1 cannot get server private key.");
+				llog(LOG_ERR, "%s", "S1 cannot get server private key.");
 				continue;	
 			}
 			rsa_dec(prv, buffer, &out, n - 1, &len);
@@ -362,7 +362,7 @@ int main(int argc, char *argv[]) {
 				add_to_imd_fwd( p, &imd_fwd_lt, n);
 				err = pthread_kill( read_threadid, USER_SIG);
 				if(err) {	
-					LOG(LOG_ERR, "signaling error.");
+					llog(LOG_ERR, "%s", "signaling error.");
 				}
 			}
 			
@@ -382,7 +382,7 @@ int main(int argc, char *argv[]) {
 			add_to_imd_fwd( p, &imd_fwd_lt, n);
 			err = pthread_kill( read_threadid, USER_SIG);
 			if(err) {	
-				LOG(LOG_ERR, "signaling error.");
+				llog(LOG_ERR, "%s", "signaling error.");
 			}
 		} else if(msg->ifroute == G_NTF_SRV) {
 			int err = 0;
@@ -400,7 +400,7 @@ int main(int argc, char *argv[]) {
 			add_to_imd_fwd( p, &imd_fwd_lt, n);
 			err = pthread_kill( read_threadid, USER_SIG);
 			if(err) {	
-				LOG(LOG_ERR, "signaling error.");
+				llog(LOG_ERR, "%s", "signaling error.");
 			}
 		}
 		if(n > 0 && cliaddr.sin_family == AF_INET) {
@@ -410,7 +410,7 @@ int main(int argc, char *argv[]) {
 	err = close(sockfd);
 	if(err)
 	{
-		LOG(LOG_ERR, "close fd error: %d", err);
+		llog(LOG_ERR, "close fd error: %d", err);
 	}	
 	sleep(1);
 	closelog ();
