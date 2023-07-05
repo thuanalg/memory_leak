@@ -214,7 +214,7 @@
 
 
 
-[-] crave		<-->	verb++[0]	./kreɪv/
+[-] crave		<-->	verb++	[230704][001]	./kreɪv/
  /kreɪv/
 	;khao khát -- (1) [transitive, intransitive] to have a very strong desire for something
 		;SYNONYM long for
@@ -236,9 +236,27 @@
 
 
 
-[-] crust		<-->	n++[--0]	.[orw.304] [230630]
-	; -- (1) 
-	; -- (2) 
+[-] crust		<-->	n++	[230704][001]	./krʌst/
+ /krʌst/
+[countable, uncountable] [orw.304] [230630]
+	;lớp vỏ banh mì -- (1) the hard outer surface of bread
+		;sandwiches with the crusts cut off
+		;We saved a few crusts of bread for the birds.
+				;Oxford Collocations Dictionary
+				;adjective
+				;thickthinflaky…
+				;phrases
+				;a crust of bread
+		;See full entry
+	;lớp vỏ bánh -- (2) a layer of pastry, especially on top of a pie
+		;Bake until the crust is golden.
+		;SEE ALSO pie crust
+				;Oxford Collocations Dictionary
+				;adjective
+				;thickthinflaky…
+				;phrases
+				;a crust of bread
+		;See full entry
 	; -- (3) 
 	; -- (4) 
 	; -- (5) 
@@ -246,12 +264,13 @@
 
 
 
-[-] crust		<-->	verb++[--0]	.[orw.304] [230630]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] crust		<-->	verb++	[230704][001]	./krʌst/
+ /krʌst/
+[intransitive, transitive] [orw.304] [230630]
+	;bọc vỏ, bao phủ -- (1) to form a hard layer; to cover something with a hard layer
+		; crust over with something Water was beginning to crust over with ice as temperatures dropped.
+		; crust over Once the blisters have crusted over, the disease is not likely to spread.
+		; crust something Dirt crusted her cheek.
 
 
 
@@ -260,12 +279,18 @@
 
 
 
-[-] spatial		<-->	a++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] spatial		<-->	a++	[230704][001]	./ˈspeɪʃl/
+ /ˈspeɪʃl/
+(also spacial)
+(formal or specialist) [w]
+	;t. không gian -- (1) relating to space and the position, size, shape, etc. of things in it
+		;changes taking place in the spatial distribution of the population
+		;the development of a child’s spatial awareness (= the ability to judge the positions and sizes of objects)
+				;Oxford Collocations Dictionary
+				;Spatial is used with these nouns:
+				;arrangementawarenessdimension…
+		;See full entry
+		;Word Origin
 
 
 
@@ -279,12 +304,12 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] bankrupt		<-->	verb++	[230704][001]	./ˈbæŋkrʌpt/
+ /ˈbæŋkrʌpt/
+	;làm sb phá sản -- (1) bankrupt somebody to make somebody bankrupt
+		;The company was almost bankrupted by legal costs.
+		;The legal fees almost bankrupted us.
+		;Word Origin
 
 
 
@@ -298,12 +323,12 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] bankrupt		<-->	n++	[230704][001]	./ˈbæŋkrʌpt/
+ /ˈbæŋkrʌpt/
+(law)
+	;người phá sản -- (1) a person who has been judged by a court to be unable to pay his or her debts
+		;He later became Britain’s biggest bankrupt.
+		;Word Origin
 
 
 
@@ -317,12 +342,11 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] demonize		<-->	verb++	[230704][001]	./ˈdiːmənaɪz/
+ /ˈdiːmənaɪz/
+(British English also demonise)
+	;phù phép, bỏ bùa, làm cho mê muội - bị quỷ ám -- (1) demonize somebody/something to describe somebody/something in a way that is intended to make other people think of them/it as evil or dangerous
+		;He was demonized by sections of the press.
 
 
 
@@ -336,12 +360,19 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] overstate		<-->	verb++	[230704][001]	./ˌəʊvəˈsteɪt/
+ /ˌəʊvərˈsteɪt/
+	;phóng đại -- (1) overstate something to say something in a way that makes it seem more important than it really is
+		;SYNONYM exaggerate
+		;<<exaggerate, overstate, >>
+		;He tends to overstate his case when talking politics.
+		;The seriousness of the crime cannot be overstated.
+		;Her musical talent has been a little overstated.
+		;OPPOSITE understate
+				;Oxford Collocations Dictionary
+				;Overstate is used with these nouns as the object:
+				;caseextentimportance…
+		;See full entry
 
 
 
@@ -355,12 +386,13 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] demarcate		<-->	verb++	[230704][001]	./ˈdiːmɑːkeɪt/
+ /ˈdiːmɑːrkeɪt/
+(formal)
+	;phân chia, phân khu, phân định -- (1) demarcate something to mark or establish the limits of something
+		;Plots of land have been demarcated by barbed wire.
+		;The police demarcated the city into eighteen geographical divisions.
+		;Word Origin
 
 
 
