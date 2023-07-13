@@ -10,6 +10,7 @@ main(int argc, char **argv)
 	uint_t	prio;
 	void	*buff;
 	struct mymq_attr	attr;
+	//ntthuan
 
 	flags = O_RDONLY;
 	while ( (c = Getopt(argc, argv, "n")) != -1) {

@@ -4,6 +4,7 @@
 int
 main(int argc, char **argv)
 {
+	//ntthuan
 	mqd_t	mqd;
 	void	*ptr;
 	size_t	len;
