@@ -1,3 +1,6 @@
 1. Convert to mp4
 2. Extract audio from video
+    - ./ffmpeg -i transcodes.mp4 -vn -ac 2 zout.mp3
 3. Delete audio from video
+    ./ffmpeg -i transcodes.mp4 -c copy -an onlyVideotranscodes.mp4
+4. Merge audio and video
