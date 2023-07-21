@@ -6,7 +6,7 @@
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
 #include <iostream>
-
+//https://www.geeksforgeeks.org/opencv-c-program-face-detection/
 using namespace std;
 using namespace cv;
 

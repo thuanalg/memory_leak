@@ -14,8 +14,9 @@ main(int argc, char **argv)
 		err_quit("usage: mqnotifysig1 <name>");
 
 		/* 4open queue, get attributes, allocate read buffer */
-	mqd = Mq_open(argv[1], O_RDONLY);
+	mqd = Mq_open(argv[1], O_RDONLY | O_CREAT);
 	Mq_getattr(mqd, &attr);
+	fprintf(stdout, "size: %llu\n", (unsigned long long) attr.mq_msgsize);
 	buff = Malloc(attr.mq_msgsize);
 
 		/* 4establish signal handler, enable notification */
