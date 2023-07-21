@@ -21,14 +21,16 @@ handler(int signo, siginfo_t *info, void *context)
 		union  sigval val;
 		val = info->si_value;
 		sval = val.sival_int;
-		fprintf(stdout, "si_value: %d.\n", sval);
+		//llog(LOG_INFO, "si_value: %d.\n", sval);
 		//sval = 0: stop
 		//sval = 1; read
 		//sval = 2; local wake up
 		if(main_pid != info->si_pid) {
 			pthread_kill(read_threadid, USER_SIG);
+			llog(LOG_INFO, "sending pid: %llu, si_value: %d.\n\n", 
+				(unsigned long long)info->si_pid, sval);
 		}
-		fprintf(stdout, "sending pid: %llu\n", (unsigned long long)info->si_pid);
+		//llog(LOG_INFO, "sending pid: %llu\n", (unsigned long long)info->si_pid);
 }
 
 
@@ -41,7 +43,8 @@ int reg_user_sig() {
 	if (sigaction(USER_SIG, &act, NULL) == -1) {
 	    perror("sigaction");
 	    exit(EXIT_FAILURE);
-	}		
+	}
+	return 0;	
 }
 
 int main(int argc, char *argv[])
@@ -53,6 +56,7 @@ int main(int argc, char *argv[])
 	main_pid = getpid();
 	read_threadid = ntt_read_thread();
 	reg_user_sig();
+	
 	if(!read_threadid) {
 		return EXIT_FAILURE;
 	}
@@ -64,7 +68,7 @@ int main(int argc, char *argv[])
 		if(n >= COUNT_EXIT_READ) break;	
 	}
 
-	sleep(60);
+	sleep(3);
 	set_read_pid(0);
 	ntt_unlink_shm(LIST_SHARED_DATA_SZ);
 	closelog();
