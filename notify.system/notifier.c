@@ -79,7 +79,7 @@ int main(int argc, char *argv[]) {
 	// Creating socket file descriptor
 	clock_gettime(CLOCK_REALTIME, &t0);
 	if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
-		LOG(LOG_ERR, "Cannot create socket.");
+		llog(LOG_ERR, "%s", "Cannot create socket.");
 		exit(EXIT_FAILURE);
 	}
 	setsockopt(sockfd, IPPROTO_IP, IP_MTU_DISCOVER, &val, sizeof(val));		
@@ -118,7 +118,7 @@ int main(int argc, char *argv[]) {
 		if(t1.tv_sec - t0.tv_sec > 3) {
 			if(count > 30 && got_aes) {
 			//if(1) {
-				LOG(LOG_ERR, "Cannot notify to CLI");
+				llog(LOG_ERR, "%s", "Cannot notify to CLI");
 				break;
 			}
 			t0 = t1;
@@ -231,7 +231,7 @@ void notifier(char *ip) {
 		memset(bufout, 0, sizeof(bufout));
 		clock_gettime(CLOCK_REALTIME, &t);
 		if ( (sockfd = socket(AF_INET, SOCK_DGRAM | SOCK_NONBLOCK, 0)) < 0 ) {
-			LOG(LOG_ERR, "Cannot create socket.");
+			llog(LOG_ERR, "%s", "Cannot create socket.");
 			exit(EXIT_FAILURE);
 		}
 		memset(&servaddr, 0, sizeof(servaddr));
@@ -249,7 +249,7 @@ void notifier(char *ip) {
 		memset(buf, 0, sizeof(buf));
 		uint16_2_arr(buf, n, 2);
 		memcpy(msg->com.len, buf, 2);
-		snprintf(msg->data, n, "%s", "fdjhfjhfj fdkfldfd kkjtjtk Nguyen Thai Thuan, Thanh Hong, Thanh Tam.");
+		snprintf(msg->data, n, "%s", "Nguyen Thai Thuan, Thanh Hong, Thanh Tam.");
 		uint64_2_arr(msg->com.second, t.tv_sec, 8);
 		uint64_2_arr(msg->com.nano, t.tv_nsec, 8);
 	
@@ -275,7 +275,7 @@ void notifier(char *ip) {
 	} while(0);
 	err = close(sockfd);
 	if(err) {
-		LOG(LOG_ERR, "Close socket error.");
+		llog(LOG_ERR, "%s", "Close socket error.");
 	}
 }
 // Driver code
