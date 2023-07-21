@@ -28,8 +28,9 @@
 #define NTF_PORT	 	(8700)
 #define DEV_PORT	 	(7000)
 #define MAX_PATH		(2048)	
-
-#define llog(p, fmt, ...) syslog(p, "%s:%d"fmt, __FILE__, __LINE__, __VA_ARGS__)
+#ifndef llog
+	#define llog(p, fmt, ... ) syslog(p, "%s:%d <<<>>> "fmt, __FILE__, __LINE__, __VA_ARGS__)
+#endif
 //#define llog(p, fmt) syslog(p, "%s:%d"fmt, __FILE__, __LINE__)
 
 #define MY_MALLOC(p, n) {(p)=malloc(n); if(p){memset(p,0,n); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d", __FILE__, __FUNCTION__, __LINE__, p, (n)); } else { syslog(LOG_ALERT, "- File: %s, func: %s, line: %d, Memory Error.", __FILE__, __FUNCTION__, __LINE__); exit(1); } }

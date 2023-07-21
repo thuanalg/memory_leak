@@ -23,44 +23,47 @@
 	// "Using SEMAPHORE"
 #elif defined(USING_RWLOCK) 
 	// "Using SEMAPHORE"
+#elif defined(USING_SPIN_LOCK) 
+	// "Using USING_SPIN_LOCK"
 #else
-	#error "Choose MUTEX OR SEMAPHORE"
+	#error "Choose USING_MUTEX | USING_SEMAPHORE| USING_SPIN_LOCK | USING_RWLOCK"
 #endif
 
 #define _X(u) AAA_##u
 
 #define NTT_PATH  											"/77b5ea39-1dc2-4875-8b4c-8700972db7ff_"
-#define NTT_SHARED_MODE      						(S_IRUSR | S_IWUSR | S_IRGRP | S_IROTH)
-#define SHARED_DATA_STEP 								(100 *1024) 
+#define NTT_SHARED_MODE      								(S_IRUSR | S_IWUSR | S_IRGRP | S_IROTH)
+#define SHARED_DATA_STEP 									(100 *1024) 
 
 
-static int _X(init_service)(char *path, void **, int);
-static int _X(init_shm_mtx)(pthread_mutex_t *);
-static int _X(init_rwlock)(pthread_rwlock_t *);
+int _X(init_service)(char *path, void **, int);
+int _X(init_shm_mtx)(pthread_mutex_t *);
+int _X(init_rwlock)(pthread_rwlock_t *);
+int _X(init_spin_lock)(pthread_spinlock_t *);
 void *read_body_thread(void *data);
 void *write_body_thread(void *data);
 
-static int ntt_lock();
-static int ntt_unlock();
+int ntt_lock();
+int ntt_unlock();
 
 int ntt_unlink_shm(int n)
 {
-  int err = 0;
+  	int err = 0;
 	char *path = (char *)NTT_PATH;
-  do
-  {
-    if(ntt_data_shm)
-    {
-      err = munmap(ntt_data_shm, n);
-    }
+  	do
+  	{
+  	  	if(ntt_data_shm)
+  	  	{
+  	  	  	err = munmap(ntt_data_shm, n);
+  	  	}
 
-    if(!path)
-    {
-      err = shm_unlink(path);
-    }
-  }
-  while(0);
-	syslog(LOG_INFO, "Finish -  %s: %d\n", __FUNCTION__, err);
+  	  	if(!path)
+  	  	{
+  	  	  	err = shm_unlink(path);
+  	  	}
+  	}
+  	while(0);
+	llog(LOG_INFO, "Finish -  %s: %d\n", __FUNCTION__, err);
   return err;
 }
 
@@ -74,7 +77,7 @@ void *ntt_open_shm(int n)
   }
   while(0);
 	if(!err){
-		syslog(LOG_NOTICE, "Creating shared memory is done in success, pid: %llu.\n", (LLU) getpid());
+		llog(LOG_NOTICE, "Creating shared memory is done in success, pid: %llu.\n", (LLU) getpid());
 		return ntt_data_shm;	
 	}
 
@@ -91,19 +94,18 @@ int _X(init_service)(char *path, void **out, int sz)
   void *data = 0;
   do {
 		if(!out) {
-	      err = __LINE__;
-	      break;
+	      	err = __LINE__;
+	      	break;
 		}
 	
-	  shm = shm_open(key, O_CREAT | O_RDWR | O_EXCL, NTT_SHARED_MODE);  
-	  if(shm >= 0)
-	  {
-	    create = 1;
-	  }
-	  else
-	  {
-	  	shm = shm_open(key, O_RDWR | O_EXCL, NTT_SHARED_MODE);  
-	  }
+	  	shm = shm_open(key, O_CREAT | O_RDWR | O_EXCL, NTT_SHARED_MODE);  
+	  	if(shm >= 0)
+	  	{
+	  	  	create = 1;
+	  	}
+	  	else {
+	  		shm = shm_open(key, O_RDWR | O_EXCL, NTT_SHARED_MODE);  
+	  	}
 	
 		if(shm < 0)
 		{
@@ -118,45 +120,47 @@ int _X(init_service)(char *path, void **out, int sz)
 	
 		if(data == MAP_FAILED)
 		{
-	  	err = __LINE__;
+	  		err = __LINE__;
 			break;
 		}	
 
-	  if(!data)
-	  {
-	    err = __LINE__;
-	    break;
-	  }
+	  	if(!data)
+	  	{
+	  	  	err = __LINE__;
+	  	  	break;
+	  	}
 		*out = data;
-	  if(!create)
-	  {
-	    break;
-	  }
+	  	if(!create)
+	  	{
+	  	  	break;
+	  	}
 		//Must initial data
-	  memset(data, 0, sz);
+	  	memset(data, 0, sz);
 		do {
-				LIST_SHARED_DATA *p = (LIST_SHARED_DATA *)data;
+			LIST_SHARED_DATA *p = (LIST_SHARED_DATA *)data;
 			#ifdef USING_MUTEX
 				pthread_mutex_t *mtx = &(p->frame_mtx);
 				p->total = sz;
-		    err  = _X(init_shm_mtx)(mtx);
+		    	err  = _X(init_shm_mtx)(mtx);
 				if(err) {
+					llog(LOG_ERR, "Error: %d\n, line: %d", err, __LINE__);
 					break;
 				}
 				mtx = &(p->exit_mtx);
-		    err  = _X(init_shm_mtx)(mtx);
+		    	err  = _X(init_shm_mtx)(mtx);
 				if(err) {
+					llog(LOG_ERR, "Error: %d\n, line: %d", err, __LINE__);
 					break;
 				}
 			#elif defined(USING_RWLOCK) 
 				pthread_rwlock_t *mtx = &(p->frame_rwlock);
 				p->total = sz;
-		    err  = _X(init_rwlock)(mtx);
+		    	err  = _X(init_rwlock)(mtx);
 				if(err) {
 					break;
 				}
 				mtx = &(p->exit_rwlock);
-		    err  = _X(init_rwlock)(mtx);
+		    	err  = _X(init_rwlock)(mtx);
 				if(err) {
 					break;
 				}
@@ -172,7 +176,19 @@ int _X(init_service)(char *path, void **out, int sz)
 				if(err) {
 					break;
 				}
-				syslog(LOG_INFO, "used_data: %d, total: %d\n", p->used_data, p->total);
+				//llog(LOG_INFO, "used_data: %d, total: %d\n", p->used_data, p->total);
+			#elif defined(USING_SPIN_LOCK)
+				pthread_spinlock_t *mtx = &(p->frame_spin_lock);
+				p->total = sz;
+		    	err  = _X(init_spin_lock)(mtx);
+				if(err) {
+					break;
+				}
+				mtx = &(p->exit_spin_lock);
+		    	err  = _X(init_spin_lock)(mtx);
+				if(err) {
+					break;
+				}
 			#else
 				#error "Must use MUTEX or SEMAPHORE"	
 			#endif
@@ -181,14 +197,14 @@ int _X(init_service)(char *path, void **out, int sz)
   while(0);
 
   if(err) {
-		syslog(LOG_ERR, "Error: %d\n, line: %d", err, __LINE__);
+		llog(LOG_ERR, "Error: %d, line: %d", err, __LINE__);
   }
   if(shm > -1)
   {
 		int err = 0;
-  	err = close(shm); 
+  		err = close(shm); 
 		if(err) {
-			syslog(LOG_ERR, "close fd shm error: %d\n, line: %d", (int)err , __LINE__);
+			llog(LOG_ERR, "close fd shm error: %d\n, line: %d", (int)err , __LINE__);
 			//IPC.V2, page 328, 330, 335
 		}
   }
@@ -217,38 +233,57 @@ int _X(init_shm_mtx)(pthread_mutex_t *shm_mtx)
     }
   }
   while(0);
-	syslog(LOG_INFO, "err - %s: %d\n", __FUNCTION__, err);
+	llog(LOG_INFO, "err - %s: %d\n", __FUNCTION__, err);
   return err;
 }
 
 
 int _X(init_rwlock)(pthread_rwlock_t *shm_rwmtx)
 {
-  int err = 0;
-  do
-  {
-    if(!shm_rwmtx)
-    {
-      err = __LINE__;
-      break;
-    }
-
-    pthread_rwlockattr_t psharedm;
-    pthread_rwlockattr_init(&psharedm);
-    pthread_rwlockattr_setpshared(&psharedm, PTHREAD_PROCESS_SHARED);
-    err = pthread_rwlock_init(shm_rwmtx, &psharedm);                                                           
-    if(err)
-    {
-      err = __LINE__;
-      break;
-    }
-  }
-  while(0);
-	syslog(LOG_INFO, "err - %s: %d\n", __FUNCTION__, err);
-  return err;
+  	int err = 0;
+  	do
+  	{
+  	  	if(!shm_rwmtx)
+  	  	{
+  	  	  err = __LINE__;
+  	  	  break;
+  	  	}
+  	  	pthread_rwlockattr_t psharedm;
+  	  	pthread_rwlockattr_init(&psharedm);
+  	  	pthread_rwlockattr_setpshared(&psharedm, PTHREAD_PROCESS_SHARED);
+  	  	err = pthread_rwlock_init(shm_rwmtx, &psharedm);                                                           
+  	  	if(err)
+  	  	{
+  	  	  err = __LINE__;
+  	  	  break;
+  	  	}
+  	}
+  	while(0);
+	llog(LOG_INFO, "err - %s: %d\n", __FUNCTION__, err);
+  	return err;
 }
 
-
+int _X(init_spin_lock)(pthread_spinlock_t *lock)
+{
+  	int err = 0;
+  	do
+  	{
+  	  	if(!lock)
+  	  	{
+  	  		err = __LINE__;
+  	  		break;
+  	  	}
+  	  	err = pthread_spin_init(lock, PTHREAD_PROCESS_SHARED);                                                         
+  	  	if(err)
+  	  	{
+  	  		err = __LINE__;
+  	  		break;
+  	  	}
+  	}
+  	while(0);
+	llog(LOG_INFO, "err - %s: %d\n", __FUNCTION__, err);
+	return err;
+}
 
 int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n, char *sendsig, pid_t *pcid)
 {
@@ -282,6 +317,8 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n, char *sendsig, pid_t *
 		errx = pthread_rwlock_wrlock(&(p->frame_rwlock));
 #elif defined(USING_SEMAPHORE) 
 		errx = sem_wait(&(p->frame_sem));
+#elif defined(USING_SPIN_LOCK) 
+	errx = pthread_spin_lock(&(p->frame_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
@@ -289,7 +326,8 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n, char *sendsig, pid_t *
 				if(errx) {
 					break;	
 				}		
-				send_signal = (p->used_data == 0);
+				//send_signal = (p->used_data == 0);
+				send_signal = p->sleeping;
 				if(send_signal && sendsig && pcid) {
 					*sendsig = send_signal;
 					*pcid = p->read_pid;
@@ -298,14 +336,15 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n, char *sendsig, pid_t *
 				{
 					p->used_data = 0;	
 					//Call backup here
+					llog(LOG_INFO, "%s", "Call backup here.");
 				}
 
 				memcpy(tmp + p->used_data, data, n);
 				p->used_data += n;
 				rs = p->used_data;
-				syslog(LOG_INFO,  "func: %s, write data: %d, total size: %d\n", 
-					__FUNCTION__, (int)p->used_data, (int)p->total );
-			}
+				//llog(LOG_INFO,  "func: %s, wrote data: %d, total size: %d\n", 
+				//	__FUNCTION__, (int)p->used_data, (int)p->total );
+			}//
 			while(0);
 
 		if(!errx){
@@ -315,6 +354,8 @@ int ntt_write_shm(LIST_SHARED_DATA *p, char *data, int n, char *sendsig, pid_t *
 			errx = pthread_rwlock_unlock(&(p->frame_rwlock));
 #elif defined(USING_SEMAPHORE) 
 			errx = sem_post(&(p->frame_sem));
+#elif defined(USING_SPIN_LOCK) 
+			errx = pthread_spin_unlock(&(p->frame_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE"
 #endif
@@ -350,6 +391,8 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 		errx = sem_wait(&(p->frame_sem));
 #elif defined(USING_RWLOCK) 
 		errx = pthread_rwlock_wrlock(&(p->frame_rwlock));
+#elif defined(USING_SPIN_LOCK) 
+		errx = pthread_spin_lock(&(p->frame_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
@@ -366,6 +409,7 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 			n = p->used_data;
 			if( n < 1)
 			{
+				p->sleeping = 1;
 				break;	
 			}
 			tmp = (char *)malloc(n + 1);
@@ -378,6 +422,7 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 			p->used_data = 0;
 			p->data[0] = 0;
 			rs = n;
+			p->sleeping = 0;
 		}
 		while(0);
 
@@ -388,6 +433,8 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 			errx = sem_post(&(p->frame_sem));
 #elif defined(USING_RWLOCK) 
 			errx = pthread_rwlock_unlock(&(p->frame_rwlock));
+#elif defined(USING_SPIN_LOCK) 
+			errx = pthread_spin_unlock(&(p->frame_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
@@ -404,7 +451,7 @@ pthread_t ntt_read_thread()
 	int rc = 0;
 	pthread_t ptid = 0;
 	rc = pthread_create(&ptid, 0, read_body_thread, 0);
-	syslog(LOG_INFO, "f: %s, rc: %d, ptid: %llu\n", __FUNCTION__, rc, (LLU) ptid);
+	llog(LOG_INFO, "f: %s, rc: %d, ptid: %llu\n", __FUNCTION__, rc, (LLU) ptid);
 	return ptid;
 }
 
@@ -414,30 +461,37 @@ void ntt_write_thread()
 }
 
 void *read_body_thread(void *data) {
+	pthread_detach(pthread_self());
 	while(1)
 	{
 		char *dta = 0;
 		LIST_SHARED_DATA *p = (LIST_SHARED_DATA*) ntt_data_shm;
 		int n = check_exiit(1);
-		if(n) break;
+		if(n) {
+			break;
+		}
 		n = ntt_read_shm(p, &dta, 1);
 		if(!n){
-			fprintf(stdout, "Sleeping bacause of no data. Func: %s\n", __FUNCTION__);
-			sleep(3);
+			llog(LOG_INFO, "Sleeping bacause of no data. Func: %s\n", __FUNCTION__);
+			sleep(1);
 		}
 		else {
-			fprintf(stdout, "Have data size: %d\n", n);
+			llog(LOG_INFO, "Have data size: %d\n", n);
 			free(dta);
 			dta = 0;
 		}
 	}
-	syslog(LOG_INFO, "line: %d, Finish reading thread.\n", __LINE__ );
-	
-	int err = 0;
-	union sigval sv;
-	sv.sival_int = 2;
-	err =	sigqueue(getpid(), SIGALRM, sv);
-	syslog(LOG_INFO, "line: %d, Finish reading thread, signal err: %d.\n", __LINE__, err);
+	llog(LOG_INFO, "line: %d, Finish reading thread.\n", __LINE__ );
+
+	do
+	{
+		int err = 0;
+		union sigval sv;
+		sv.sival_int = 2;
+		err =	sigqueue(getpid(), SIGALRM, sv);
+		llog(LOG_INFO, "line: %d, Finish reading thread, signal err: %d.\n", __LINE__, err);
+	} while(0);
+
 	return 0;
 }
 
@@ -458,6 +512,8 @@ int check_exiit(char increase) {
 #elif defined(USING_SEMAPHORE) 
 	sem_t *t = &(p->exit_sem);
 	sem_wait(t);
+#elif defined(USING_SPIN_LOCK) 
+	pthread_spin_lock(&(p->exit_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
@@ -475,12 +531,16 @@ int check_exiit(char increase) {
 		if(!count_should_exit) count_should_exit++;
 		rs = count_should_exit;
 	} while(0);
+
+
 #ifdef USING_MUTEX
 	pthread_mutex_unlock(mtx);
 #elif defined(USING_RWLOCK) 
 	pthread_rwlock_unlock(mtx);
 #elif defined(USING_SEMAPHORE) 
 	sem_post(t);
+#elif defined(USING_SPIN_LOCK) 
+	pthread_spin_unlock(&(p->exit_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
@@ -503,6 +563,10 @@ int set_exit_group(char val) {
 	sem_wait(&(p->exit_sem));
 		p->should_exit = val;
 	sem_post(&(p->exit_sem));
+#elif defined(USING_SPIN_LOCK) 
+	pthread_spin_lock(&(p->exit_spin_lock));
+		p->should_exit = val;
+	pthread_spin_unlock(&(p->exit_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
@@ -523,6 +587,8 @@ pid_t get_read_pid()
 		errx = sem_wait(&(p->frame_sem));
 #elif defined(USING_RWLOCK) 
 		errx = pthread_rwlock_wrlock(&(p->frame_rwlock));
+#elif defined(USING_SPIN_LOCK) 
+		errx = pthread_spin_lock(&(p->frame_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
@@ -535,6 +601,8 @@ pid_t get_read_pid()
 			errx = sem_post(&(p->frame_sem));
 #elif defined(USING_RWLOCK) 
 			errx = pthread_rwlock_unlock(&(p->frame_rwlock));
+#elif defined(USING_SPIN_LOCK) 
+		errx = pthread_spin_unlock(&(p->frame_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
@@ -548,7 +616,7 @@ int set_read_pid(pid_t pid)
 {
 	LIST_SHARED_DATA *p = 0;
 	p = (LIST_SHARED_DATA *) ntt_data_shm;
-	pid_t readpid = 0;
+	//pid_t readpid = 0;
 	int errx = -1;
 	do {
 		if(!p) 
@@ -565,7 +633,7 @@ int set_read_pid(pid_t pid)
 }
 
 
-static int ntt_lock() {
+int ntt_lock() {
 	int errx = 0;
 	LIST_SHARED_DATA *p = 0;
 	p = (LIST_SHARED_DATA *) ntt_data_shm;
@@ -575,13 +643,15 @@ static int ntt_lock() {
 			errx = sem_wait(&(p->frame_sem));
 #elif defined(USING_RWLOCK) 
 			errx = pthread_rwlock_wrlock(&(p->frame_rwlock));
+#elif defined(USING_SPIN_LOCK) 
+		errx = pthread_spin_lock(&(p->frame_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif
 	return errx;
 }
 
-static int ntt_unlock()
+int ntt_unlock()
 {
 	int errx = 0;
 	LIST_SHARED_DATA *p = 0;
@@ -592,6 +662,8 @@ static int ntt_unlock()
 			errx = sem_post(&(p->frame_sem));
 #elif defined(USING_RWLOCK) 
 			errx = pthread_rwlock_unlock(&(p->frame_rwlock));
+#elif defined(USING_SPIN_LOCK) 
+		errx = pthread_spin_unlock(&(p->frame_spin_lock));
 #else
 	#error "Choose MUTEX OR SEMAPHORE, RWLOCK"
 #endif

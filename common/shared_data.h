@@ -10,8 +10,11 @@
 #include <unistd.h>
 #include <syslog.h>
 
+#ifndef llog
+	#define llog(p, fmt, ... ) syslog(p, "%s:%d <<<>>> "fmt, __FILE__, __LINE__, __VA_ARGS__)
+#endif
 
-#define LIST_SHARED_DATA_SZ        			(1 * 1024 * 1024)
+#define LIST_SHARED_DATA_SZ        									(2 * 1024 * 1024)
 #define LLU 														unsigned long long
 
 #ifdef __cpluspplus
@@ -32,6 +35,15 @@ typedef struct {
 	pthread_mutex_t exit_mtx;
 	
 
+	//Mutex with used case: USING_SPIN_LOCK macro
+	//To access critical region
+	pthread_spinlock_t frame_spin_lock;
+	//To stop working a group of processes
+	pthread_spinlock_t exit_spin_lock;
+
+
+
+
 	//Mutex with used case: USING_SEMAPORE macro
 	//To access critical region	
 	sem_t frame_sem;
@@ -48,11 +60,14 @@ typedef struct {
 	
 
 	pid_t read_pid;
-	pid_t write_pid;
+	//pid_t write_pid;
 
 
 	//Check group exit, you can ignore
 	char should_exit;
+
+	//Check sleeping, you can ignore
+	char sleeping;
 	
 	//to occupy data
 	char data[0];
@@ -76,6 +91,7 @@ int   ntt_read_shm(LIST_SHARED_DATA *p, char **data, char only_read);
 int set_exit_group(char val);
 int check_exiit(char increase);
 int set_read_pid(pid_t pid);
+
 
 pid_t get_read_pid();
 pthread_t  ntt_read_thread();
