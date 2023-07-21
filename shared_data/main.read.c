@@ -56,7 +56,7 @@ int main(int argc, char *argv[])
 	main_pid = getpid();
 	read_threadid = ntt_read_thread();
 	reg_user_sig();
-	
+
 	if(!read_threadid) {
 		return EXIT_FAILURE;
 	}
@@ -68,9 +68,10 @@ int main(int argc, char *argv[])
 		if(n >= COUNT_EXIT_READ) break;	
 	}
 
-	sleep(3);
+	sleep(30);
 	set_read_pid(0);
 	ntt_unlink_shm(LIST_SHARED_DATA_SZ);
+	llog(LOG_INFO, "%s", "------ Exit read process. --------");
 	closelog();
 	return 0;
 }
