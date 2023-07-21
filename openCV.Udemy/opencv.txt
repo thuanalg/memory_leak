@@ -1,0 +1,12 @@
+https://www.geeksforgeeks.org/opencv-c-program-face-detection/
+    Understanding OpenCV and Setting Up Environment
+    Handling Files, Cameras, and GUIs
+    Processing Images with OpenCV
+    Depth Estimation and Segmentation
+    Detecting and Recognizing Faces -->> https://www.geeksforgeeks.org/opencv-c-program-face-detection/
+    Retrieving Images and Searching Using Image Descriptors
+    Building Custom Object Detectors
+    Tracking Objects
+    Camera Models and Augmented Reality
+    Neural Networks with OpenCV - An Introduction: https://docs.opencv.org/4.x/d5/de7/tutorial_dnn_googlenet.html
+    Appendix 1: Bending Color Space with a Curves Filter: https://docs.opencv.org/4.x/d5/de7/tutorial_dnn_googlenet.html
