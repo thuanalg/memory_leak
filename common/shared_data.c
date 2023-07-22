@@ -412,12 +412,12 @@ int ntt_read_shm(LIST_SHARED_DATA *p, char **data, char clean)
 				p->sleeping = 1;
 				break;	
 			}
-			tmp = (char *)malloc(n + 1);
-			if(!tmp)
-			{
-				break;	
-			}
-			memset(tmp, 0,n + 1);
+			//tmp = (char *)malloc(n + 1);
+			MY_MALLOC(tmp, n + 1);
+			//if(!tmp) {
+			//	break;	
+			//}
+			//memset(tmp, 0,n + 1);
 			memcpy(tmp , p->data, n);
 			p->used_data = 0;
 			p->data[0] = 0;

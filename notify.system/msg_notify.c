@@ -714,7 +714,7 @@ int send_msg_track(const char *iid, int sockfd, char *ipaddr,
 			err = file_2_pubrsa("srv-public-key.pem", &pubkey);
 			if(!pubkey) {
 				err = 1;
-				syslog(LOG_ERR, "%s", "Cannot public key.");
+				llog(LOG_ERR, "%s", "Cannot public key.");
 				break;
 			}
 			err = rsa_enc(pubkey, buf, &rsa_data, sz, &rsa_len);
@@ -1321,7 +1321,7 @@ int cmd_2_srv(CMD_ENUM cmd, MSG_ROUTE r, char *data, int len, char *idd, char *i
 		err = file_2_pubrsa("srv-public-key.pem", &pubkey);
 		if(!pubkey) {
 			err = 1;
-			syslog(LOG_ERR, "%s", "Cannot public key.");
+			llog(LOG_ERR, "%s", "Cannot public key.");
 		}
 		err = rsa_enc(pubkey, buffer, &rsa_data, n, &rsa_len);
 		if(err) {

@@ -71,7 +71,7 @@ int main(int argc, char *argv[])
 	sleep(3);
 	set_read_pid(0);
 	ntt_unlink_shm(LIST_SHARED_DATA_SZ);
-	llog(LOG_INFO, "%s", "------ Exit read process. --------");
+	llog(LOG_INFO, "------ Exit read process. --------");
 	closelog();
 	return 0;
 }

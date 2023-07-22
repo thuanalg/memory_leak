@@ -1,5 +1,7 @@
 ./main.stop 1
-sleep 2
+sleep 1
+./main.stop 1
+sleep 1
 ./main.stop 0
 sleep 1
 ./main.read

@@ -11,15 +11,15 @@
 #include <syslog.h>
 
 #ifndef llog
-	#define llog(p, fmt, ... ) syslog(p, "%s:%d <<<>>> "fmt, __FILE__, __LINE__, __VA_ARGS__)
+	#define llog(p, fmt, ... ) syslog(p, "%s:%d <<<>>> "fmt, __FILE__, __LINE__, ##__VA_ARGS__)
 #endif
 
 #ifndef MY_MALLOC
-	#define MY_MALLOC(p, n) {(p)=malloc(n); if(p){memset(p,0,n); syslog(LOG_INFO, "- File: %s, func: %s, line: %d, malloc p: %p, n: %d", __FILE__, __FUNCTION__, __LINE__, p, (n)); } else { syslog(LOG_ALERT, "- File: %s, func: %s, line: %d, Memory Error.", __FILE__, __FUNCTION__, __LINE__); exit(1); } }
+	#define MY_MALLOC(p, n) {(p)=malloc(n); if(p){ memset(p,0,n); llog(LOG_DEBUG, "malloc p: %p, n: %d", p, (n)); } else { llog(LOG_ALERT, "%s", "Memory error."); exit(1); } }
 #endif
 
 #ifndef MY_FREE
-	#define MY_FREE(p) {free((p)); llog(LOG_INFO, " Free p: %p\n", (p)); p = 0;}
+	#define MY_FREE(p) {free((p)); llog(LOG_DEBUG, " Free p: %p\n", (p)); p = 0;}
 #endif
 
 #define LIST_SHARED_DATA_SZ        									(2 * 1024 * 1024)
