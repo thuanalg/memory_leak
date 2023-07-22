@@ -36,8 +36,10 @@ int main(int argc, char *argv[])
 			ntt_write_shm(p, (char*)&t, sizeof(t), &sendsig, &read_pid);
 			//syslog(LOG_INFO, "sendsig: %d, read_pid: %llu\n", (int) sendsig, (unsigned long long)read_pid);
 		}
+		
 		llog(LOG_INFO, "sendsig: %d, read_pid: %llu, i = %d\n", 
 			(int) sendsig, (unsigned long long)read_pid, i);
+
 		if(sendsig && read_pid)
 		{
 			union sigval sv;

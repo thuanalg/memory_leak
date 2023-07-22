@@ -477,7 +477,7 @@ void *read_body_thread(void *data) {
 		}
 		else {
 			llog(LOG_INFO, "Have data size: %d\n", n);
-			free(dta);
+			MY_FREE(dta);
 			dta = 0;
 		}
 	}
