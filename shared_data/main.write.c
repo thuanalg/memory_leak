@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 	while(1) {
 		int n = 0;
 
-		for(i = 0; i < 1000; ++i) {
+		for(i = 0; i < 10000; ++i) {
 			char tmp1 = 0;
 			pid_t tmp2 = 0;
 			sendsig = 0;
