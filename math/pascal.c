@@ -8,6 +8,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
+//https://www.geeksforgeeks.org/pascal-triangle/
 void printPascal(int n)
 {
 
