@@ -120,6 +120,7 @@ void pascal_triangle(int n, ULL **out) {
         (*out)[0] = 1;
         (*out)[1] = 2;
         (*out)[2] = 1;
+        (*out)[3] = 0;
     } 
     else {
         ULL *arrB = 0;
