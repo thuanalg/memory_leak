@@ -51,7 +51,7 @@ void fprbinomial(int degg, std::string& str) {
             break;
         }
         else {
-            char tmp[128];
+            char tmp[512];
             int i = 0;
             char *fdega;
             char *fdegb;
@@ -165,8 +165,9 @@ int main(int argc, char *argv[]) {
     fprintf(stdout, "combination(%d, %d) = %d\n", n, k, combination(n,k));
     str = formula(deg);
     fprintf(stdout, "---%s---\n\n", str.c_str());
+    deg = deg > 0 ? deg : -deg;
     pascal_triangle(deg, &pascal);
-    for(int i = 0; i <= 2*n + 1 || pascal[i] > 0; ++i) {
+    for(int i = 0; 2*i <= n + 1 || pascal[i] > 0; ++i) {
         if(!pascal[i]) break;
         fprintf(stdout, "%llu ", pascal[i]);
     }

@@ -3,6 +3,6 @@ all:
 	mv main ./bin/
 	g++ -g -o main_combine main_combine.cpp
 	mv main_combine ./bin/	
-	./bin/main_combine 3 1 50
+	./bin/main_combine 3 1 -10
 clean:
 	rm ./bin/*
