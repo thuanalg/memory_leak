@@ -30,15 +30,15 @@
 #define MAX_PATH				(2048)	
 
 #ifndef llog
-	#define llog(p, fmt, ... ) syslog(p, "%s:%d <<<>>> "fmt, __FILE__, __LINE__, ##__VA_ARGS__)
+	#define llog(p, fmt, ... ) syslog(p, "%s:%s:%d <<<>>> "fmt, __FILE__, __FUNCTION__, __LINE__, ##__VA_ARGS__)
 #endif
 
 #ifndef MY_MALLOC
-	#define MY_MALLOC(p, n) {(p)=malloc(n); if(p){ memset(p,0,n); llog(LOG_DEBUG, "malloc p: %p, n: %d", p, (n)); } else { llog(LOG_ALERT, "%s", "Memory error."); exit(1); } }
+	#define MY_MALLOC(p, n) {(p)=malloc(n); if(p){ memset(p,0,n); llog(LOG_DEBUG, "malloc __p: %p, n: %d", p, (n)); } else { llog(LOG_ALERT, "%s", "Memory error."); exit(1); } }
 #endif
 
 #ifndef MY_FREE
-	#define MY_FREE(p) {free((p)); llog(LOG_DEBUG, " Free p: %p\n", (p)); p = 0;}
+	#define MY_FREE(p) {free((p)); llog(LOG_DEBUG, " Free __p: %p\n", (p)); p = 0;}
 #endif
 
 #define LOG 		syslog
