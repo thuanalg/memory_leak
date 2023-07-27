@@ -123,8 +123,8 @@ void pascal_triangle(int n, ULL **out) {
     else {
         ULL *arrB = 0;
         pascal_triangle(n - 1, &arrB);
-        *out = (ULL *) malloc( (n * 2) * sizeof(ULL));
-        memset(*out, 0, (n * 2) * sizeof(ULL));
+        *out = (ULL *) malloc( (n + 2) * sizeof(ULL));
+        memset(*out, 0, (n + 2) * sizeof(ULL));
         (*out)[0] = 1;
         (*out)[n] = 1;
         if(n % 2) {//3, 5, 7, 9
@@ -167,10 +167,11 @@ int main(int argc, char *argv[]) {
     fprintf(stdout, "---%s---\n\n", str.c_str());
     deg = deg > 0 ? deg : -deg;
     pascal_triangle(deg, &pascal);
-    for(int i = 0; 2*i <= n + 1 || pascal[i] > 0; ++i) {
+    for(int i = 0; i <= deg + 1 ; ++i) {
         if(!pascal[i]) break;
         fprintf(stdout, "%llu ", pascal[i]);
     }
     free(pascal);
+    fprintf(stdout, "\n ");
     return 0;
 }
