@@ -110,9 +110,10 @@ void fdeg(int n, char *c, char *out){
 
 void pascal_triangle(int n, ULL **out) {
     if(n == 0 || n == 1) {
-        *out = (ULL *) malloc(2 * sizeof(ULL));
+        *out = (ULL *) malloc(3 * sizeof(ULL));
         (*out)[0] = 1;
         (*out)[1] = 1;
+        (*out)[2] = 0;
     }
     else if (n == 2) {
         *out = (ULL *) malloc(4 * sizeof(ULL));
