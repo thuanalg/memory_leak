@@ -10,8 +10,12 @@ void singleplain(char *in, int len, char **out, int *outlen);
 int duplex(char *str);
 int main(int argc, char *argv[]) {
     ull n = 0;
+    char *out = 0;
+    int outlen = 0;
     sscanf(argv[1], "[%llu]", &n);
     fprintf(stdout, "n: %llu\n", n);
+    singleplain(argv[1], strlen(argv[1]), &out, &outlen);
+    fprintf(stdout, "out: \"%s\"\noutlen: %d\n", out, outlen);
     return 0;
 }
 int duplex(char *str)
@@ -25,7 +29,7 @@ void singleplain(char *in, int len, char **out, int *outlen)
     int j = 0;
     int err = 0;
     ull sz = 0;
-
+    fprintf(stdout, "string len: %d\n", len);
     do {
         if(!in)  { 
             break;
@@ -39,28 +43,48 @@ void singleplain(char *in, int len, char **out, int *outlen)
         *outlen = 0;
         sscanf(in, "[%llu]", &n);
         i = 0;
-        while(i < len {
-            if(in[i] >= 'A' && in[i] <= 'z') {
+        while(i < len) {
+            if(in[i] >= 'A' && in[i] <= 'Z') {
+                break;
+            }
+            if(in[i] >= 'a' && in[i] <= 'z') {
                 break;
             }
             ++i;
         }
+        fprintf(stdout, "i: %d\n", i);
         if(i >= len) {
             err = 1;
             break;
         }
         j = i;
         while(j < len) {
-            if(in[j] < 'A' && in[j] > 'z') {
+            if(in[j] < 'A') {
+                j--;
+                break;
+            }
+            if(in[j] > 'z') {
+                j--;
+                break;
+            }
+            if(in[j] > 'Z' && in[j] < 'a') {
+                j--;
                 break;
             }
             ++j;
         }
+        fprintf(stdout, "j: %d\n", j);
         if(j >= len) {
             err = 1;
             break;
         }
-        sz = 
+        sz = n * (j - i + 1);
+        *out = malloc(sz + 1);
+        memset(*out, 0, sz + 1);
+        for(int k = 0; k < n; ++k) {
+            memcpy(*out + k * (j -i + 1), in + i, (j - i + 1));
+            *outlen += (j - i + 1);
+        }
     } while(0);
 }
 //https://edabit.com/challenge/su4fC3zugSBmS5bfq
