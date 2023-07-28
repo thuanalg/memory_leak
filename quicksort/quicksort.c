@@ -50,16 +50,16 @@ int partition (void **arr, int low, int hi) {
 	j = hi;
 	while (i < j)
 	{
-    while( i <  j)
-    {
-      if (pivot > data[j]) break;
-      j--;
-    }
-    while( i < j)
-    {
-      if(data[i] > pivot) break;
-      i++;
-    }
+		while( i <  j)
+		{
+			if (pivot > data[j]) break;
+			j--;
+		}
+		while( i < j)
+		{
+			if(data[i] > pivot) break;
+			i++;
+		}
 		if (i < j) {
 			//Swap
 			tmp = data[i];
@@ -70,18 +70,19 @@ int partition (void **arr, int low, int hi) {
 		}
 	}
 	
-  if(i == j)
-  {
-    if(data[low] > data[j])
-    {
-      //Swap
-      tmp = data[low];
-      data[low] = data[j];
-      data[j] = tmp;
-    }
-    else if( data[low] < data[j])
-    {
-      j--;
+	if(i == j)
+	{
+		if(data[low] > data[j])
+		{
+			//Swap
+			tmp = data[low];
+			data[low] = data[j];
+			data[j] = tmp;
+			j--;
+		}
+		else if( data[low] < data[j])
+		{
+			j--;
 			if(data[low] > data[j])
 			{
 				//Swap
@@ -89,31 +90,16 @@ int partition (void **arr, int low, int hi) {
 				data[low] = data[j];
 				data[j] = tmp;
 			}
-//
-//      if( j > low )
-//      {
-//        tmp = data[low];
-//        data[low] = data[j];
-//        data[j] = tmp;
-//      }
-//      else {
-//				if(data[low] > data[i])
-//				{
-//        	//Swap
-//					tmp = data[low];
-//					data[low] = data[j];
-//					data[j] = tmp;
-//				}
-//      }
-    }
-  }
-  else if ( i > j)
-  {
+		}
+	}
+	else if ( i > j)
+	{
 		//Swap
 		tmp = data[low];
 		data[low] = data[j];
 		data[j] = tmp;
-  }
+		j--;
+	}
 	
 	return j;
 }
