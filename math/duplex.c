@@ -5,8 +5,17 @@
 #include <unistd.h>
 #include <string.h>
 //"AB[2CFD]" -->> "ABCFDCFD"
+
 #define ull unsigned long long
+typedef struct __lklist__ {
+    struct __lklist__ *next;
+    int index;
+} lklist ;
+
+lklist *lkidx = 0;
+
 void singleplain(char *in, int len, char **out, int *outlen);
+void gen_lkidx(char *str, int len);
 int duplex(char *str);
 int main(int argc, char *argv[]) {
     ull n = 0;
@@ -14,8 +23,9 @@ int main(int argc, char *argv[]) {
     int outlen = 0;
     sscanf(argv[1], "[%llu]", &n);
     fprintf(stdout, "n: %llu\n", n);
-    singleplain(argv[1], strlen(argv[1]), &out, &outlen);
-    fprintf(stdout, "out: \"%s\"\noutlen: %d\n", out, outlen);
+    gen_lkidx(argv[1], strlen(argv[1]));
+    //singleplain(argv[1], strlen(argv[1]), &out, &outlen);
+    //fprintf(stdout, "out: \"%s\"\noutlen: %d\n", out, outlen);
     return 0;
 }
 int duplex(char *str)
@@ -86,6 +96,34 @@ void singleplain(char *in, int len, char **out, int *outlen)
             *outlen += (j - i + 1);
         }
     } while(0);
+}
+void gen_lkidx(char *str, int len) {
+    lklist *tmp = 0;
+    char *p = 0;
+    do {
+        if(!str) {
+            break;
+        }
+        p = str;
+        do {
+            p = strstr(p, "[");
+            if(!p) {
+                break;
+            }
+            tmp = (lklist*) malloc(sizeof(lklist));
+            memset(tmp, 0, sizeof(lklist));
+            tmp->index = p - str;
+            tmp->next = lkidx;
+            lkidx = tmp;            
+            ++p;
+        } while(1);
+
+    } while(0);
+    tmp = lkidx;
+    while(tmp) {
+        fprintf(stdout, "---index: %d\n", tmp->index);
+        tmp = tmp->next;
+    }
 }
 //https://edabit.com/challenge/su4fC3zugSBmS5bfq
 //https://edabit.com/challenge/Fe9X2DxpSCMun6t5D
