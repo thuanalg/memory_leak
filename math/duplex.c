@@ -20,7 +20,48 @@ int duplex(char *str)
 }
 void singleplain(char *in, int len, char **out, int *outlen)
 {
+    ull n = 0;
+    int i = 0;
+    int j = 0;
+    int err = 0;
+    ull sz = 0;
 
+    do {
+        if(!in)  { 
+            break;
+        }
+        if(!out)  { 
+            break;
+        }
+        if(!outlen)  { 
+            break;
+        }
+        *outlen = 0;
+        sscanf(in, "[%llu]", &n);
+        i = 0;
+        while(i < len {
+            if(in[i] >= 'A' && in[i] <= 'z') {
+                break;
+            }
+            ++i;
+        }
+        if(i >= len) {
+            err = 1;
+            break;
+        }
+        j = i;
+        while(j < len) {
+            if(in[j] < 'A' && in[j] > 'z') {
+                break;
+            }
+            ++j;
+        }
+        if(j >= len) {
+            err = 1;
+            break;
+        }
+        sz = 
+    } while(0);
 }
 //https://edabit.com/challenge/su4fC3zugSBmS5bfq
 //https://edabit.com/challenge/Fe9X2DxpSCMun6t5D
