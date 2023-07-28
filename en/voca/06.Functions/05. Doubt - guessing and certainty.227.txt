@@ -58,80 +58,125 @@
 
 
 
-[-] anybody’s/anyone’s guess		<-->	idiom++C2[-0]	.
+[-] anybody’s/anyone’s guess		<-->	idiom++C2	[230715][001]	./i/
+	;điều phán đoán -- (1) (informal) something that nobody can be certain about
+		;What will happen next is anybody's guess.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] apocryphal		<-->	adjective++C2	[230715][001]	./əˈpɒkrɪfl/
+ /əˈpɑːkrɪfl/
+	;ngụy tạo -- (1) ​(of a story) well known, but probably not true
+		;Most of the stories about him are apocryphal.
+		;TOPICS Doubt, guessing and certaintyC2
+				;Oxford Collocations Dictionary
+				;Apocryphal is used with these nouns:
+				;gospelstory
+		;See full entry
+		;Word Origin
+
+
+
+[-] a priori		<-->	adjective++C2	[230715][001]	./ˌeɪ praɪˈɔːraɪ/
+ /ˌɑː priˈɔːri/
+(from Latin, formal)
+	;??? -- (1) ​using facts or principles that are known to be true in order to decide what the likely effects or results of something will be, for example saying ‘They haven’t eaten anything all day so they must be hungry.’
+		;an a priori assumption
+		;COMPARE a posteriori
+		;TOPICS Doubt, guessing and certaintyC2
+		;Word Origin
+
+
+[-] a priori		<-->	adverb++C2	[230715][001]	./ˌeɪ praɪˈɔːraɪ/
+ /ˌɑː priˈɔːri/
+(from Latin, formal)
+	;??? -- (1) ​using facts or principles that are known to be true in order to decide what the likely effects or results of something will be, for example saying ‘They haven’t eaten anything all day so they must be hungry.’
+		;an a priori assumption
+		;COMPARE a posteriori
+		;TOPICS Doubt, guessing and certaintyC2
+		;Word Origin
+
+
+
+[-] a question mark over/against something		<-->	idiom++C2	[230715][001]	./i/
+	;một dấu hỏi về -- (1) used to say that something is not certain
+		;There's still a big question mark hanging over his future with the team.
+		;Extra Examples:
+		;A slight question mark against her character remains.
+		;There is now a serious question mark over his leadership ability.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] arguable		<-->	adjective++C2	[230715][001]	./ˈɑːɡjuəbl/
+ /ˈɑːrɡjuəbl/
+(formal)
+	;đáng để nói -- (1) that you can give good reasons for
+		;He had a good arguable case.
+		; it is arguable that… It is arguable that giving too much detail may actually be confusing.
+		;TOPICS Opinion and argumentC1
+
+
+
+[-] as far as I know		<-->	idiom++C1	[230715][001]	./i/
+	;như tôi biết -- (1) as far as I know (= used in text messages, on social media, etc.)
+		;TOPICS Phones, email and the internetC2
+
+
+
+[-] a shot/stab in the dark		<-->	idiom++C2	[230715][001]	./i/
+	;làm thí đại, một phán đoán -- (1) a guess; something you do without knowing what the result will be
+		;The figure he came up with was really just a shot in the dark.
+		;It was only a stab in the dark, but I hoped I could learn something.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] (as) like as not		<-->	idiom++C2	[230715][001]	./i/
+	;hoàn toàn có khả năng -- (1) [like enough] (old-fashioned) quite probably
+		;She would be in bed by now, like enough.
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] as likely as not		<-->	idiom++B1	[230715][001]	./i/
+	;rất có khả năng -- (1) very probably
+		;As likely as not she's forgotten all about it.
+		;The illness was caused, most likely, by a virus.
+		;Grammar Point likely
+		;TOPICS Doubt, guessing and certaintyB1
+
+
+
+[-] assure		<-->	verb++C1	[230715][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] apocryphal		<-->	adjective++C2[-0]	.
+[-] assured		<-->	adjective++C1	[230715][001]	./əˈʃʊəd/,  /əˈʃɔːd/
+ /əˈʃʊrd/
 	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] a priori		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] a question mark over/against something		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] arguable		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] as far as I know		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] a shot/stab in the dark		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] (as) like as not		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] as likely as not		<-->	idiom++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] assure		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] assured		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;chắc chắn, đảm bảo -- (2) certain to happen
+		;SYNONYM guaranteed
+		;Success seemed assured.
+		;TOPICS Doubt, guessing and certaintyC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;belookseem…
+				;adverb
+				;virtually
+		;See full entry	
+	;chắc chắn, đảm bảo -- (3) assured of something (of a person) certain to get something
+		;You are assured of a warm welcome at this hotel.
+		;Extra Examples:
+		;The French team are now assured of a place in the final.
+		;They were assured of victory.
+		;You'll be assured of the best care possible.
+		;TOPICS Doubt, guessing and certaintyC1
 
 
 
@@ -163,7 +208,7 @@
 
 
 
-[-] believe		<-->	verb++A1[-0]	.
+[-] believe		<-->	verb++A1	[230715][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -198,17 +243,19 @@
 
 
 
-[-] bet		<-->	verb++B2[-0]	.
+[-] bet		<-->	verb++B2	[230715][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] beyond (any) doubt		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] beyond (any) doubt		<-->	idiom++C1	[230715][001]	./i/
+	;chắc chắn -- (1) in a way that shows that something is completely certain
+		;The research showed beyond doubt that smoking contributes to heart disease.
+		; (law) The prosecution was able to establish beyond reasonable doubt that the woman had been lying.
+		;The evidence proves beyond doubt that he is innocent.
+		;TOPICS Doubt, guessing and certaintyC1
 
 
 

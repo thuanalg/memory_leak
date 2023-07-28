@@ -1,0 +1,20 @@
+1. Convert to mp4
+2. Extract audio from video
+    - ./ffmpeg -i transcodes.mp4 -vn -ac 2 zout.mp3
+3. Delete audio from video
+    ./ffmpeg -i transcodes.mp4 -c copy -an onlyVideotranscodes.mp4
+4. Merge audio and video
+
+
+
+        Convert from one format to another e.g. video-to-video, video-to-audio, video-to-image, image-to-video, video-to-animation, animation-to-video, text-to-audio, text-to-video
+
+        Edit video files by cutting them with and without re-encoding, appending, resizing, changing frame rate and aspect ratio, mixing in audio
+
+        Use filters to rotate, flip, crop, overlay (side-by-side or inset), remove logos, blur, smooth and sharpen, apply transitions as well as speed up or down playback
+
+        Edit audio files by changing, normalizing or compressing volume, mixing and splitting channels and detecting silence. Also, learn to generate waveforms as video or images
+
+        Add subtitles, place them anywhere on the screen, use custom fonts and colors, and use different languages
+
+        Learn how to import, export and remove metadata, add MP3 tags (including album art), set global and stream-specific metadata, export and remove metadata

@@ -3,9 +3,10 @@ SRC_02=../common/share*.c main.read.c
 SRC_03=../common/share*.c main.write.c
 SRC_04=../common/share*.c main.stop.c
 LIBS= -lpthread -lrt
-#FLAGS= -DUSING_MUTEX
+FLAGS= -DUSING_MUTEX
 #FLAGS= -DUSING_SEMAPHORE
-FLAGS= -DUSING_RWLOCK -Wall
+#FLAGS= -DUSING_RWLOCK -Wall
+#FLAGS= -DUSING_SPIN_LOCK -Wall
 INC=-I../common/
 all:
 	rm -f main.read main.write main.stop

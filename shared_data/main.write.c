@@ -23,15 +23,23 @@ int main(int argc, char *argv[])
 	openlog ("main.write", LOG_CONS | LOG_PID | LOG_NDELAY, LOG_LOCAL1);
 	ntt_open_shm(LIST_SHARED_DATA_SZ);
 	p = ntt_data_shm;
-	while(1){
+	while(1) {
 		int n = 0;
-		for(i = 0; i<10; ++i) {
+
+		for(i = 0; i < 10000; ++i) {
+			char tmp1 = 0;
+			pid_t tmp2 = 0;
+			sendsig = 0;
+			read_pid = 0;
 			memset(&t, 0, sizeof(t));
 			clock_gettime( CLOCK_REALTIME, &(t.timee));
 			ntt_write_shm(p, (char*)&t, sizeof(t), &sendsig, &read_pid);
-			syslog(LOG_INFO, "sendsig: %d, read_pid: %llu\n", (int) sendsig, (unsigned long long)read_pid);
+			//syslog(LOG_INFO, "sendsig: %d, read_pid: %llu\n", (int) sendsig, (unsigned long long)read_pid);
 		}
-	
+		
+		llog(LOG_INFO, "sendsig: %d, read_pid: %llu, i = %d\n", 
+			(int) sendsig, (unsigned long long)read_pid, i);
+
 		if(sendsig && read_pid)
 		{
 			union sigval sv;
@@ -41,10 +49,13 @@ int main(int argc, char *argv[])
 		}
 
 		n = check_exiit(0);
-		if(n >= COUNT_EXIT_READ) break;	
-		sleep(1);
-		
+		if(n >= COUNT_EXIT_READ) { 
+			break;			
+		}
+		usleep(100000);
+		//sleep(1);
 	}
+	llog(LOG_INFO, "%s", "Exit write process.");
 	ntt_unlink_shm(LIST_SHARED_DATA_SZ);
 	closelog();
 	return 0;
