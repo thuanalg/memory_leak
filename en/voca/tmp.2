@@ -59,7 +59,7 @@ Tạo Nghiệp Phải Ăn Phân Để Sống | Tích Truyện Pháp Cú – ph�
 5	Check memorization	
 
 
-[orw.304] [2307028]
+[orw.304] [2307029]
 
 [orw.ix] [230723]
 
@@ -123,4 +123,13 @@ Automate your FFmpeg tasks
 https://edabit.com/challenge/su4fC3zugSBmS5bfq
 https://edabit.com/challenges
 
-yreuyreu - uiyvbvc
+Describe(spaceMessage_) {
+	It(test1){Assert::That(spaceMessage("ABCD"), Equals("ABCD"));}
+	It(test2){Assert::That(spaceMessage("AB[3CD]"), Equals("ABCDCDCD"));}
+	It(test3){Assert::That(spaceMessage("AB[2[3CD]]"), Equals("ABCDCDCDCDCDCD"));}
+	It(test4){Assert::That(spaceMessage("IF[2E]LG[5O]D"), Equals("IFEELGOOOOOD"));}
+	It(test5){Assert::That(spaceMessage("AB[2C[2EF]G]"), Equals("ABCEFEFGCEFEFG"));}
+	It(test6){Assert::That(spaceMessage("MU[2B][2A][2S][2H][2I]RISN[4O]TAMA[4Z]ING"), Equals("MUBBAASSHHIIRISNOOOOTAMAZZZZING"));}
+};
+
+// Mubashir

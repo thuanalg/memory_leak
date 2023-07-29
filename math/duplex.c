@@ -14,88 +14,155 @@ typedef struct __lklist__ {
 
 lklist *lkidx = 0;
 
-void singleplain(char *in, int len, char **out, int *outlen);
+void singleplain(char **out, int index, int *outlen);
+void MessagefromSpace(char **out, int *len);
 void gen_lkidx(char *str, int len);
 int duplex(char *str);
+/////////////////////////
 int main(int argc, char *argv[]) {
     ull n = 0;
     char *out = 0;
     int outlen = 0;
+    int len = 0;
     sscanf(argv[1], "[%llu]", &n);
     fprintf(stdout, "n: %llu\n", n);
-    gen_lkidx(argv[1], strlen(argv[1]));
+    gen_lkidx(argv[1], len = strlen(argv[1]));
+
+
+    out = malloc(len + 1);
+    memset(out, 0, len + 1);
+    memcpy(out, argv[1], len);
+    MessagefromSpace(&out, &len);
     //singleplain(argv[1], strlen(argv[1]), &out, &outlen);
-    //fprintf(stdout, "out: \"%s\"\noutlen: %d\n", out, outlen);
+    fprintf(stdout, "out: \"%s\"\noutlen: %d\n", out, len);
     return 0;
 }
 int duplex(char *str)
 {
     return 0;
 }
-void singleplain(char *in, int len, char **out, int *outlen)
+void MessagefromSpace(char **out, int *len) {
+    int j = 0;
+    char *p = 0;
+    //int outlen = 0;
+    do {
+        if(!len) {
+            break;
+        }
+        if(*len < 1) {
+            break;
+        }
+        while(lkidx) {
+            //outlen = strlen(*out);
+            lklist *tmp = lkidx;
+            singleplain(out, tmp->index, len);
+            lkidx = lkidx->next;                        
+            free(tmp);
+        }
+    } while(0);
+}
+void singleplain(char **out, int index, int *outlen)
 {
     ull n = 0;
     int i = 0;
     int j = 0;
     int err = 0;
     ull sz = 0;
-    fprintf(stdout, "string len: %d\n", len);
+    int len = 0;
+    char *p = 0;
+    int delta = 0;
+    char *buf = 0;
+    //fprintf(stdout, "string len: %d\n", len);
     do {
-        if(!in)  { 
-            break;
-        }
         if(!out)  { 
             break;
         }
+        if(!(*out))  { 
+            break;
+        }        
         if(!outlen)  { 
             break;
         }
-        *outlen = 0;
-        sscanf(in, "[%llu]", &n);
+        p = strstr(*out + index, "]");
+        if(!p) {
+            break;
+        }
+        sscanf(*out + index, "[%llu]", &n);
+        if(n < 2) {
+            fprintf(stderr, "Must >= 2.\n");
+            break;
+        }
+        len = p - (*out + index) + 1;        
         i = 0;
         while(i < len) {
-            if(in[i] >= 'A' && in[i] <= 'Z') {
+            if((*out + index)[i] >= 'A' && (*out + index)[i] <= 'Z') {
                 break;
             }
-            if(in[i] >= 'a' && in[i] <= 'z') {
+            if((*out + index)[i] >= 'a' && (*out + index)[i] <= 'z') {
                 break;
             }
             ++i;
         }
-        fprintf(stdout, "i: %d\n", i);
+        fprintf(stdout, "----i: %d\n", i);
         if(i >= len) {
             err = 1;
             break;
         }
-        j = i;
+        j = i + 1;
         while(j < len) {
-            if(in[j] < 'A') {
+            if((*out + index)[j] < 'A') {
                 j--;
                 break;
             }
-            if(in[j] > 'z') {
+            if((*out + index)[j] > 'z') {
                 j--;
                 break;
             }
-            if(in[j] > 'Z' && in[j] < 'a') {
+            if((*out + index)[j] > 'Z' && (*out + index)[j] < 'a') {
                 j--;
                 break;
             }
             ++j;
         }
-        fprintf(stdout, "j: %d\n", j);
+        
+        fprintf(stdout, "----j: %d\n", j);
         if(j >= len) {
             err = 1;
             break;
         }
-        sz = n * (j - i + 1);
-        *out = malloc(sz + 1);
-        memset(*out, 0, sz + 1);
-        for(int k = 0; k < n; ++k) {
-            memcpy(*out + k * (j -i + 1), in + i, (j - i + 1));
-            *outlen += (j - i + 1);
+
+        if(j - i + 1 < 1) {
+            break;
         }
+
+        buf = malloc(j - i + 1 + 1);
+        memset(buf, 0, j - i + 1 + 1);
+        memcpy(buf, *out + i, j - i + 1);
+        fprintf(stdout, "buf: %s\n", buf);
+
+        //sz = *outlen + (n - 1) * (j - i + 1);
+        delta = n * (j - i + 1) - (j - index + 1);
+        if(delta > 0) {
+            sz = *outlen + delta;
+            //aaa|bb
+            *out = realloc( *out, sz + 1);
+            memset(*out + *outlen, 0, delta + 1);
+        }
+        if(*(*out + j + 2) && delta > 0) {
+            memmove(*out + j + 1, *out + j + 1 + delta, (*outlen - j -1));
+        }
+        //[2kk]aaa, j = 3, len = 7, i = 2, 
+        for(int k = 0; k < n; ++k) {
+            memcpy(*out + index + k * (j -i + 1), buf, (j - i + 1));
+        }
+        *outlen += delta;
+        (*out)[*outlen] = 0;
     } while(0);
+
+    if(buf)
+    {
+        free(buf);
+    }
 }
 void gen_lkidx(char *str, int len) {
     lklist *tmp = 0;
