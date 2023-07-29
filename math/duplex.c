@@ -83,6 +83,9 @@ void singleplain(char **out, int index, int *outlen)
         if(!outlen)  { 
             break;
         }
+        fprintf(stdout, "*out: %s\n", *out);
+        fprintf(stdout, "*outlen: %d\n", *outlen);
+        fprintf(stdout, "index: %d\n\n\n", index);
         p = strstr(*out + index, "]");
         if(!p) {
             break;
@@ -137,11 +140,14 @@ void singleplain(char **out, int index, int *outlen)
 
         buf = malloc(j - i + 1 + 1);
         memset(buf, 0, j - i + 1 + 1);
-        memcpy(buf, *out + i, j - i + 1);
-        fprintf(stdout, "buf: %s\n", buf);
+        memcpy(buf, *out + index + i, j - i + 1);
+        fprintf(stdout, "buf: %s, lenbuf: %d\n", buf, j - i + 1);
 
-        //sz = *outlen + (n - 1) * (j - i + 1);
-        delta = n * (j - i + 1) - (j - index + 1);
+        //[2A]
+        //j = 1, i = 1, n = 2
+        
+        delta = n * (j - i + 1) - (j - index + 2);
+        fprintf(stdout, "delta: %d\n", delta);
         if(delta > 0) {
             sz = *outlen + delta;
             //aaa|bb
@@ -155,7 +161,7 @@ void singleplain(char **out, int index, int *outlen)
         for(int k = 0; k < n; ++k) {
             memcpy(*out + index + k * (j -i + 1), buf, (j - i + 1));
         }
-        *outlen += delta;
+        (*outlen) += delta;
         (*out)[*outlen] = 0;
     } while(0);
 
