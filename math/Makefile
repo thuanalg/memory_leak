@@ -5,7 +5,7 @@ all:
 	mv main_combine ./bin/	
 	gcc -g -o pascalg pascal.c
 	mv pascalg ./bin/	 
-	gcc -g -o duplex duplex.c -lrt
+	g++ -g -o duplex duplex.cpp -lrt
 	mv duplex ./bin/
 clean:
 	rm ./bin/*
