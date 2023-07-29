@@ -97,11 +97,12 @@ void singleplain(char **out, int index, int *outlen)
         }
         len = p - (*out + index) + 1;        
         i = 0;
+        p = *out + index;
         while(i < len) {
-            if((*out + index)[i] >= 'A' && (*out + index)[i] <= 'Z') {
+            if(p[i] >= 'A' && p[i] <= 'Z') {
                 break;
             }
-            if((*out + index)[i] >= 'a' && (*out + index)[i] <= 'z') {
+            if(p[i] >= 'a' && p[i] <= 'z') {
                 break;
             }
             ++i;
@@ -111,17 +112,18 @@ void singleplain(char **out, int index, int *outlen)
             err = 1;
             break;
         }
-        j = i + 1;
-        while(j < len) {
-            if((*out + index)[j] < 'A') {
+        j = i;
+        p = *out + index;
+        while(j < len) {  
+            if(p[j] < 'A') {
                 j--;
                 break;
             }
-            if((*out + index)[j] > 'z') {
+            if(p[j] > 'z') {
                 j--;
                 break;
             }
-            if((*out + index)[j] > 'Z' && (*out + index)[j] < 'a') {
+            if(p[j] > 'Z' && p[j] < 'a') {
                 j--;
                 break;
             }
@@ -135,6 +137,7 @@ void singleplain(char **out, int index, int *outlen)
         }
 
         if(j - i + 1 < 1) {
+            fprintf(stdout, "ERRRRR\n");
             break;
         }
 
@@ -145,19 +148,21 @@ void singleplain(char **out, int index, int *outlen)
 
         //[2A]
         //j = 1, i = 1, n = 2
-        
-        delta = n * (j - i + 1) - (j - index + 2);
+        p = strstr(*out + index, "]");
+        delta = n * (j - i + 1) - ((p - (*out + index) + 1));
         fprintf(stdout, "delta: %d\n", delta);
         if(delta > 0) {
             sz = *outlen + delta;
             //aaa|bb
-            *out = realloc( *out, sz + 1);
-            memset(*out + *outlen, 0, delta + 1);
+            *out = realloc( *out, sz + 2);
+            fprintf(stdout, "*out===: %s\n", *out);
+            (*out)[sz + 1] = 0;
+            memset(*out + *outlen, 0, delta);
+            fprintf(stdout, "*out===++: %s\n", *out);
         }
-        if(*(*out + j + 2) && delta > 0) {
-            memmove(*out + j + 1, *out + j + 1 + delta, (*outlen - j -1));
-        }
-        //[2kk]aaa, j = 3, len = 7, i = 2, 
+
+        memcpy(p + 1 + delta, p + 1, (*out + *outlen) - (p+1));
+
         for(int k = 0; k < n; ++k) {
             memcpy(*out + index + k * (j -i + 1), buf, (j - i + 1));
         }
@@ -169,6 +174,7 @@ void singleplain(char **out, int index, int *outlen)
     {
         free(buf);
     }
+    fprintf(stdout, "-------------------------------\n\n");
 }
 void gen_lkidx(char *str, int len) {
     lklist *tmp = 0;
