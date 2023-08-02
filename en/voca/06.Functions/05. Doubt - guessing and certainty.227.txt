@@ -314,7 +314,7 @@
 
 
 
-[-] calculate		<-->	verb++C1[-0]	.
+[-] calculate		<-->	verb++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -322,49 +322,70 @@
 
 
 
-[-] cast-iron		<-->	adjective++C2[-0]	.
+[-] cast-iron		<-->	adjective++C2[0]	./ˌkɑːst ˈaɪən/
+ /ˌkæst ˈaɪərn/-\
+	; -- (1) 
+	;như sắt đá -- (2) (British English) very strong or certain; that cannot be broken or fail
+		;a cast-iron guarantee/promise
+		;a cast-iron excuse/alibi
+		;COMPARE ironclad
+		;TOPICS SuccessC2, Doubt, guessing and certaintyC2
+
+
+[-] categorical		<-->	adjective++C2[0]	./ˌkætəˈɡɒrɪkl/
+ /ˌkætəˈɡɔːrɪkl/
+[usually before noun] (formal)
+	;rõ ràng, mạch lạc, rành mạch -- (1) expressed clearly and in a way that shows that you are very sure about what you are saying
+		;to make a categorical statement
+		;to give a categorical assurance
+		;They gave him a categorical assurance that he would not be hurt.
+		;TOPICS Doubt, guessing and certaintyC2
+				;Oxford Collocations Dictionary
+				;Categorical is used with these nouns:
+				;assurancedistinction
+		;See full entry
+		;Word Origin
+
+
+
+[-] cert		<-->	noun++C2[0]	./sɜːt/
+ /sɜːrt/
+(British English, informal)
+	;sự chắc chắn -- (1) a thing that is sure to happen or be successful
+		;SYNONYM certainty
+		;That horse is a dead cert for (= is sure to win) the next race.
+		;TOPICS Doubt, guessing and certaintyC2, SuccessC2
+		;Word Origin
+
+
+
+
+
+
+
+[-] certitude		<-->	noun++C2[0]	./ˈsɜːtɪtjuːd/
+ /ˈsɜːrtɪtuːd/
+[uncountable, countable] (formal)
+	;niềm tin -- (1) a feeling of being certain; a thing about which you are certain
+		;‘You will like Rome,’ he said, with absolute certitude.
+		;the collapse of moral certitudes
+		;TOPICS Doubt, guessing and certaintyC2
+		;Word Origin
+		;<< conviction, certitude, trust, belief, faith, >>
+
+
+
+[-] check		<-->	noun++A2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] categorical		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] cert		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-[-] certitude		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] check		<-->	noun++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] check on		<-->	phrasal veerb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] check on		<-->	phrasal veerb++C1[0]	./p/
+	;kiểm tra -- (1) [-check on somebody/something] to make sure that there is nothing wrong with somebody/something
+		;I'll just go and check on the children.
+		;TOPICS Doubt, guessing and certaintyC1
 
 
 
