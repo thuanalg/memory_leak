@@ -180,31 +180,38 @@
 
 
 
-[-] be close to/near the mark		<-->	idiom++C2[-0]	.
-	; -- (1) 
+[-] be close to/near the mark		<-->	idiom++C2[0]	./i/
+	;như đã dự đoán -- (1) to be fairly accurate in a guess, statement, etc.
+		;Such guesses are thought to be close to the mark.
+		;‘The Times’ was nearer the mark when it said…
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] be guaranteed to do something		<-->	idiom++C1[0]	./i/
+	;chắc chắn -- (1) to be certain to have a particular result
+		;If we try to keep it a secret, she's guaranteed to find out.
+		;That kind of behaviour is guaranteed to make him angry.
+		;The film is virtually guaranteed to do well at the box office.
+		;Synonyms certain
+		;TOPICS Change, cause and effectC1, Doubt, guessing and certaintyC1
+
+
+
+[-] be in the bag		<-->	idiom++C2[0]	./i/
+	;như vật trong túi -- (1) (informal) if something is in the bag, it is almost certain to be won or achieved
+		;TOPICS Doubt, guessing and certaintyC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] be guaranteed to do something		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] be in the bag		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] be in with a chance (of doing something)		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] be in with a chance (of doing something)		<-->	idiom++C2[0]	./i/
+	;đáng có cơ hội -- (1) (British English, informal) to have the possibility of succeeding or achieving something
+		;‘Do you think we'll win?’ ‘I think we're in with a chance.’
+		;He's in with a good chance of passing the exam.
+		;After a poor start, they are now in with a chance of winning the league.
+		;TOPICS Doubt, guessing and certaintyC2
 
 
 
@@ -215,30 +222,31 @@
 
 
 
-[-] believe in		<-->	phrasal veerb++A2[-0]	.
+[-] believe in		<-->	phrasal veerb++A2[0]	./p/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] be no contest		<-->	idiom++C2[-0]	.
+[-] be no contest		<-->	idiom++C2[0]	./i/
+	;không có cạnh tranh tương xứng -- (1) used to say that one side in a competition is so much stronger or better than the other that it is sure to win easily
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] be off the mark		<-->	idiom++C2[0]	./i/
+	;sai với dự tính, không chính xác -- (1) ​not to be accurate in a guess, statement, etc.
+		;No, you're way off the mark.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] be staring somebody in the face		<-->	idiom++C2[0]	./i/
 	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] be off the mark		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] be staring somebody in the face		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+	;chắc chắn, rõ ràng -- (2) to be certain to happen
+		;Defeat was staring them in the face.
+		;TOPICS Doubt, guessing and certaintyC2
 	; -- (3) 
 
 

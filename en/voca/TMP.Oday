@@ -157,8 +157,8 @@
 
 
 
-[-] Integrality		<-->	n++[--0]	.
-	; -- (1) 
+[-] Integrality		<-->	n++[--0]	.//
+	;tính toàn vẹn -- (1) 
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -176,12 +176,16 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] disclaim		<-->	verb++[--0]	./dɪsˈkleɪm/
+ /dɪsˈkleɪm/
+(formal)
+	;từ chối, từ bỏ, phủ nhận -- (1) ​disclaim something to state publicly that you have no knowledge of something, or that you are not responsible for something
+		;SYNONYM deny
+		;She disclaimed any knowledge of her husband's whereabouts.
+		;The rebels disclaimed all responsibility for the explosion.
+	;từ chối, từ bỏ, phủ nhận -- (2) disclaim something to give up your right to something, such as property or a title
+		;SYNONYM renounce
+		;Word Origin
 
 
 
