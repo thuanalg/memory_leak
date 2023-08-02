@@ -32,11 +32,11 @@
 //
 //https://stackoverflow.com/questions/34302445/libiptc-adding-nat-rule-with-mark-based-match
 
-int addChainToBuiltin(const char *_pChain, const char *_pTarget);
+int addChainToBuiltin(const char *_pChain, const char *_pTarget, char *);
 
 int main(int argc, char *argv[])
 {
-  addChainToBuiltin("PREROUTING", "DROP");
+  addChainToBuiltin("PREROUTING", "DROP", argv[1]);
   //addChainToBuiltin("PREROUTING", "MARK");
   return EXIT_SUCCESS;
 }
@@ -57,12 +57,12 @@ int main(int argc, char *argv[])
 //    return match;
 //}
 
-int addChainToBuiltin(const char *_pChain, const char *_pTarget)
+int addChainToBuiltin(const char *_pChain, const char *_pTarget, char *pTable)
 {
     /*iptables -A OUTPUT  -j <chain>*/
     int res = 0;
     int i = 0;
-    const char *pTable    = "raw";
+    //const char *pTable    = "raw";
     struct ipt_tcp *info = 0;
     struct ipt_entry_match *match_limit = 0;
     //struct ipt_tcp *info = (struct ipt_tcp *) match_limit->data;
@@ -78,12 +78,13 @@ int addChainToBuiltin(const char *_pChain, const char *_pTarget)
     size_t entrySize  = (sizeof(struct ipt_entry));
     size_t targetSize = (sizeof(struct xt_standard_target));
     pHandle = iptc_init(pTable);
-    if (! pHandle)
-    {
+    if (!pHandle) {
+        //grep -i iptables /boot/config-`uname -r`
+        //
+        fprintf(stdout, "err: %d, str: %s\n", errno, iptc_strerror(errno));
         return errno;
     }
-    do
-    {
+    do {
       //pEntry  = calloc(1, entrySize + targetSize);
       pEntry  = calloc(1, 216);
       if(!pEntry)
@@ -130,7 +131,7 @@ int addChainToBuiltin(const char *_pChain, const char *_pTarget)
       //res = iptc_append_entry(_pChain, pEntry, pHandle);
       res = iptc_append_entry("OUTPUT", pEntry, pHandle);
       //res = iptc_insert_entry(_pChain, pEntry, 0,pHandle);
-        fprintf(stdout, "iptc_append_entry: %d\n", res);
+      fprintf(stdout, "iptc_append_entry: %d\n", res);
       if(res != 1)
       {
         fprintf(stdout, "iptc_append_entry: %d\n", res);
