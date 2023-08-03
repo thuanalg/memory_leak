@@ -65,8 +65,7 @@
 
 
 
-[-] apocryphal		<-->	adjective++C2	[230715][001]	./əˈpɒkrɪfl/
- /əˈpɑːkrɪfl/
+[-] apocryphal		<-->	adjective++C2	[230715][001]	./əˈpɒkrɪfl/-NAmE /əˈpɑːkrɪfl/
 	;ngụy tạo -- (1) ​(of a story) well known, but probably not true
 		;Most of the stories about him are apocryphal.
 		;TOPICS Doubt, guessing and certaintyC2
@@ -78,8 +77,7 @@
 
 
 
-[-] a priori		<-->	adjective++C2	[230715][001]	./ˌeɪ praɪˈɔːraɪ/
- /ˌɑː priˈɔːri/
+[-] a priori		<-->	adjective++C2	[230715][001]	./ˌeɪ praɪˈɔːraɪ/-NAmE /ˌɑː priˈɔːri/
 (from Latin, formal)
 	;??? -- (1) ​using facts or principles that are known to be true in order to decide what the likely effects or results of something will be, for example saying ‘They haven’t eaten anything all day so they must be hungry.’
 		;an a priori assumption
@@ -88,8 +86,7 @@
 		;Word Origin
 
 
-[-] a priori		<-->	adverb++C2	[230715][001]	./ˌeɪ praɪˈɔːraɪ/
- /ˌɑː priˈɔːri/
+[-] a priori		<-->	adverb++C2	[230715][001]	./ˌeɪ praɪˈɔːraɪ/-NAmE /ˌɑː priˈɔːri/
 (from Latin, formal)
 	;??? -- (1) ​using facts or principles that are known to be true in order to decide what the likely effects or results of something will be, for example saying ‘They haven’t eaten anything all day so they must be hungry.’
 		;an a priori assumption
@@ -109,8 +106,7 @@
 
 
 
-[-] arguable		<-->	adjective++C2	[230715][001]	./ˈɑːɡjuəbl/
- /ˈɑːrɡjuəbl/
+[-] arguable		<-->	adjective++C2	[230715][001]	./ˈɑːɡjuəbl/-NAmE /ˈɑːrɡjuəbl/
 (formal)
 	;đáng để nói -- (1) that you can give good reasons for
 		;He had a good arguable case.
@@ -157,8 +153,7 @@
 
 
 
-[-] assured		<-->	adjective++C1	[230715][001]	./əˈʃʊəd/,  /əˈʃɔːd/
- /əˈʃʊrd/
+[-] assured		<-->	adjective++C1	[230715][001]	./əˈʃʊəd/,  /əˈʃɔːd/-NAmE /əˈʃʊrd/
 	; -- (1) 
 	;chắc chắn, đảm bảo -- (2) certain to happen
 		;SYNONYM guaranteed
@@ -322,8 +317,7 @@
 
 
 
-[-] cast-iron		<-->	adjective++C2	[230803][001]	./ˌkɑːst ˈaɪən/
- /ˌkæst ˈaɪərn/-\
+[-] cast-iron		<-->	adjective++C2	[230803][001]	./ˌkɑːst ˈaɪən/-NAmE /ˌkæst ˈaɪərn/-\
 	; -- (1) 
 	;như sắt đá -- (2) (British English) very strong or certain; that cannot be broken or fail
 		;a cast-iron guarantee/promise
@@ -332,8 +326,7 @@
 		;TOPICS SuccessC2, Doubt, guessing and certaintyC2
 
 
-[-] categorical		<-->	adjective++C2	[230803][001]	./ˌkætəˈɡɒrɪkl/
- /ˌkætəˈɡɔːrɪkl/
+[-] categorical		<-->	adjective++C2	[230803][001]	./ˌkætəˈɡɒrɪkl/-NAmE /ˌkætəˈɡɔːrɪkl/
 [usually before noun] (formal)
 	;rõ ràng, mạch lạc, rành mạch -- (1) expressed clearly and in a way that shows that you are very sure about what you are saying
 		;to make a categorical statement
@@ -348,8 +341,7 @@
 
 
 
-[-] cert		<-->	noun++C2	[230803][001]	./sɜːt/
- /sɜːrt/
+[-] cert		<-->	noun++C2	[230803][001]	./sɜːt/-NAmE /sɜːrt/
 (British English, informal)
 	;sự chắc chắn -- (1) a thing that is sure to happen or be successful
 		;SYNONYM certainty
@@ -363,8 +355,7 @@
 
 
 
-[-] certitude		<-->	noun++C2	[230803][001]	./ˈsɜːtɪtjuːd/
- /ˈsɜːrtɪtuːd/
+[-] certitude		<-->	noun++C2	[230803][001]	./ˈsɜːtɪtjuːd/-NAmE /ˈsɜːrtɪtuːd/
 [uncountable, countable] (formal)
 	;niềm tin -- (1) a feeling of being certain; a thing about which you are certain
 		;‘You will like Rome,’ he said, with absolute certitude.
@@ -405,8 +396,7 @@
 
 
 
-[-] check-up		<-->	noun++B2	[230803][001]	./ˈtʃek ʌp/
- /ˈtʃek ʌp/
+[-] check-up		<-->	noun++B2	[230803][001]	./ˈtʃek ʌp/-NAmE /ˈtʃek ʌp/
 	;kiểm tra định kỳ -- (1) an examination of somebody/something, especially a medical one to make sure that you are healthy
 		;to go for/to have a check-up
 		;a medical/dental/routine/thorough check-up
@@ -425,7 +415,7 @@
 
 
 
-[-] check up on		<-->	phrasal veerb++C1[-0]	.
+[-] check up on		<-->	phrasal veerb++C1[-0]	./p/
 	;kiểm tra chặt chẽ -- (1) [-check up on somebody] ​to make sure that somebody is doing what they should be doing
 		;My parents are always checking up on me.
 		;TOPICS Doubt, guessing and certaintyC1
@@ -434,8 +424,7 @@
 
 
 
-[-] cinch		<-->	noun++C2	[230803][001]	./sɪntʃ/
- /sɪntʃ/
+[-] cinch		<-->	noun++C2	[230803][001]	./sɪntʃ/-NAmE /sɪntʃ/
 [singular] (informal)
 	;điều hiển nhiên -- (1) something that is very easy
 		;SYNONYM doddle
@@ -447,8 +436,7 @@
 
 
 
-[-] cinch		<-->	verb++C2	[230803][001]	./sɪntʃ/
- /sɪntʃ/
+[-] cinch		<-->	verb++C2	[230803][001]	./sɪntʃ/-NAmE /sɪntʃ/
 	;buộc chặt -- (1) cinch something (especially North American English) to fasten something tightly around the middle part of your body; to be fastened around the middle part of somebody’s body
 	; -- (2) 
 	;lảm cho hiển nhiên -- (3) ​cinch something (North American English, informal) to make something certain
@@ -456,8 +444,7 @@
 
 
 
-[-] cliffhanger		<-->	noun++C2	[230803][001]	./ˈklɪfhæŋə(r)/
- /ˈklɪfhæŋər/
+[-] cliffhanger		<-->	noun++C2	[230803][001]	./ˈklɪfhæŋə(r)/-NAmE /ˈklɪfhæŋər/
 	;tình huống hồi hộp, hấp dẫn, khó đoán -- (1) a situation in a story, film, competition, etc. that is very exciting because you cannot guess what will happen next, or you do not find out immediately what happens next
 		;The first part of the serial ended with a real cliffhanger.
 		;Tonight’s vote on European policy threatens to be a cliffhanger.
@@ -465,8 +452,7 @@
 
 
 
-[-] cliffhanging		<-->	adjective++C2	[230803][001]	./ˈklɪfhæŋɪŋ/
- /ˈklɪfhæŋɪŋ/	
+[-] cliffhanging		<-->	adjective++C2	[230803][001]	./ˈklɪfhæŋɪŋ/-NAmE /ˈklɪfhæŋɪŋ/	
 	;hồi hộp, hấp dẫn, khó đoán -- (1) connected with a situation in a story, film, competition, etc. that is very exciting because you cannot guess what will happen next, or you do not find out immediately what happens next
 		;TOPICS Doubt, guessing and certaintyC2
 
@@ -500,8 +486,7 @@
 
 
 
-[-] concretely		<-->	adveerb++C1	[230803][001]	./ˈkɒŋkriːtli/
- /kɑːnˈkriːtli/
+[-] concretely		<-->	adveerb++C1	[230803][001]	./ˈkɒŋkriːtli/-NAmE /kɑːnˈkriːtli/
 	;chắc chắn, vững chắc -- (1) in a way that is based on facts, not on ideas or guesses
 		;People started to think more concretely about political questions.
 		;COMPARE abstractly
@@ -525,8 +510,7 @@
 
 
 
-[-] confidently		<-->	adveerb++B1	[230803][001]	./ˈkɒnfɪdəntli/
- /ˈkɑːnfɪdəntli/
+[-] confidently		<-->	adveerb++B1	[230803][001]	./ˈkɒnfɪdəntli/-NAmE /ˈkɑːnfɪdəntli/
 	;tự tin -- (1) ​in a way that shows that you feel sure about your own ability to do things and be successful
 		;Carla smiled confidently at the cameras.
 		;TOPICS Doubt, guessing and certaintyB1
@@ -543,8 +527,7 @@
 
 
 
-[-] conjectural		<-->	adjective++C2	[230803][001]	./kənˈdʒektʃərəl/
- /kənˈdʒektʃərəl/
+[-] conjectural		<-->	adjective++C2	[230803][001]	./kənˈdʒektʃərəl/-NAmE /kənˈdʒektʃərəl/
 (formal)
 	;phỏng đoán -- (1) (of an opinion or idea) not based on definite knowledge; formed by guessing
 		;Some of the stages of the earth’s development are purely conjectural.
@@ -552,8 +535,7 @@
 
 
 
-[-] conjecture		<-->	noun++C2	[230803][001]	./kənˈdʒektʃə(r)/
- /kənˈdʒektʃər/
+[-] conjecture		<-->	noun++C2	[230803][001]	./kənˈdʒektʃə(r)/-NAmE /kənˈdʒektʃər/
 (formal)
 	;một giả định, phỏng đoán -- (1) [countable] an opinion or idea that is not based on definite knowledge and is formed by guessing
 		;SYNONYM guess
