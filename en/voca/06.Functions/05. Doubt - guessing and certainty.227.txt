@@ -180,7 +180,7 @@
 
 
 
-[-] be close to/near the mark		<-->	idiom++C2[0]	./i/
+[-] be close to/near the mark		<-->	idiom++C2	[230803][001]	./i/
 	;như đã dự đoán -- (1) to be fairly accurate in a guess, statement, etc.
 		;Such guesses are thought to be close to the mark.
 		;‘The Times’ was nearer the mark when it said…
@@ -188,7 +188,7 @@
 
 
 
-[-] be guaranteed to do something		<-->	idiom++C1[0]	./i/
+[-] be guaranteed to do something		<-->	idiom++C1	[230803][001]	./i/
 	;chắc chắn -- (1) to be certain to have a particular result
 		;If we try to keep it a secret, she's guaranteed to find out.
 		;That kind of behaviour is guaranteed to make him angry.
@@ -198,7 +198,7 @@
 
 
 
-[-] be in the bag		<-->	idiom++C2[0]	./i/
+[-] be in the bag		<-->	idiom++C2	[230803][001]	./i/
 	;như vật trong túi -- (1) (informal) if something is in the bag, it is almost certain to be won or achieved
 		;TOPICS Doubt, guessing and certaintyC2
 	; -- (2) 
@@ -206,7 +206,7 @@
 
 
 
-[-] be in with a chance (of doing something)		<-->	idiom++C2[0]	./i/
+[-] be in with a chance (of doing something)		<-->	idiom++C2	[230803][001]	./i/
 	;đáng có cơ hội -- (1) (British English, informal) to have the possibility of succeeding or achieving something
 		;‘Do you think we'll win?’ ‘I think we're in with a chance.’
 		;He's in with a good chance of passing the exam.
@@ -222,27 +222,27 @@
 
 
 
-[-] believe in		<-->	phrasal veerb++A2[0]	./p/
+[-] believe in		<-->	phrasal veerb++A2	[230803][001]	./p/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] be no contest		<-->	idiom++C2[0]	./i/
+[-] be no contest		<-->	idiom++C2	[230803][001]	./i/
 	;không có cạnh tranh tương xứng -- (1) used to say that one side in a competition is so much stronger or better than the other that it is sure to win easily
 		;TOPICS Doubt, guessing and certaintyC2
 
 
 
-[-] be off the mark		<-->	idiom++C2[0]	./i/
+[-] be off the mark		<-->	idiom++C2	[230803][001]	./i/
 	;sai với dự tính, không chính xác -- (1) ​not to be accurate in a guess, statement, etc.
 		;No, you're way off the mark.
 		;TOPICS Doubt, guessing and certaintyC2
 
 
 
-[-] be staring somebody in the face		<-->	idiom++C2[0]	./i/
+[-] be staring somebody in the face		<-->	idiom++C2	[230803][001]	./i/
 	; -- (1) 
 	;chắc chắn, rõ ràng -- (2) to be certain to happen
 		;Defeat was staring them in the face.
@@ -314,7 +314,7 @@
 
 
 
-[-] calculate		<-->	verb++C1[0]	./cef/
+[-] calculate		<-->	verb++C1	[230803][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -322,7 +322,7 @@
 
 
 
-[-] cast-iron		<-->	adjective++C2[0]	./ˌkɑːst ˈaɪən/
+[-] cast-iron		<-->	adjective++C2	[230803][001]	./ˌkɑːst ˈaɪən/
  /ˌkæst ˈaɪərn/-\
 	; -- (1) 
 	;như sắt đá -- (2) (British English) very strong or certain; that cannot be broken or fail
@@ -332,7 +332,7 @@
 		;TOPICS SuccessC2, Doubt, guessing and certaintyC2
 
 
-[-] categorical		<-->	adjective++C2[0]	./ˌkætəˈɡɒrɪkl/
+[-] categorical		<-->	adjective++C2	[230803][001]	./ˌkætəˈɡɒrɪkl/
  /ˌkætəˈɡɔːrɪkl/
 [usually before noun] (formal)
 	;rõ ràng, mạch lạc, rành mạch -- (1) expressed clearly and in a way that shows that you are very sure about what you are saying
@@ -348,7 +348,7 @@
 
 
 
-[-] cert		<-->	noun++C2[0]	./sɜːt/
+[-] cert		<-->	noun++C2	[230803][001]	./sɜːt/
  /sɜːrt/
 (British English, informal)
 	;sự chắc chắn -- (1) a thing that is sure to happen or be successful
@@ -363,7 +363,7 @@
 
 
 
-[-] certitude		<-->	noun++C2[0]	./ˈsɜːtɪtjuːd/
+[-] certitude		<-->	noun++C2	[230803][001]	./ˈsɜːtɪtjuːd/
  /ˈsɜːrtɪtuːd/
 [uncountable, countable] (formal)
 	;niềm tin -- (1) a feeling of being certain; a thing about which you are certain
@@ -375,147 +375,215 @@
 
 
 
-[-] check		<-->	noun++A2[0]	./cef/
+[-] check		<-->	noun++A2	[230803][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] check on		<-->	phrasal veerb++C1[0]	./p/
+[-] check on		<-->	phrasal veerb++C1	[230803][001]	./p/
 	;kiểm tra -- (1) [-check on somebody/something] to make sure that there is nothing wrong with somebody/something
 		;I'll just go and check on the children.
 		;TOPICS Doubt, guessing and certaintyC1
 
 
 
-[-] check over		<-->	phrasal veerb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] check over		<-->	phrasal veerb++C1	[230803][001]	./p/
+	;kiểm tra kỹ -- (1) [-check over/through  something] ​to examine something carefully to make sure that it is correct or acceptable
+		;Check over your work for mistakes.
+		;We checked through the photographs to make sure there were none missing.
+		;TOPICS Doubt, guessing and certaintyC1
 
 
 
-[-] check through		<-->	phrasal veerb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] check through		<-->	phrasal veerb++C1	[230803][001]	./p/
+	;kiểm tra kỹ -- (1) [-check over/through  something] ​to examine something carefully to make sure that it is correct or acceptable
+		;Check over your work for mistakes.
+		;We checked through the photographs to make sure there were none missing.
+		;TOPICS Doubt, guessing and certaintyC1
 
 
 
-[-] check-up		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] check-up		<-->	noun++B2	[230803][001]	./ˈtʃek ʌp/
+ /ˈtʃek ʌp/
+	;kiểm tra định kỳ -- (1) an examination of somebody/something, especially a medical one to make sure that you are healthy
+		;to go for/to have a check-up
+		;a medical/dental/routine/thorough check-up
+		;Wordfinder: anaestheticcavitycheck-upcrowndentistdenturesdrillextractfillinghygienist
+		;Extra Examples:
+		;At your age, you should have regular check-ups.
+		;The company doctor does check-ups on Wednesdays.
+		;I went for my regular check-up.
+		;TOPICS Doubt, guessing and certaintyB2, HealthcareB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;thoroughregularannual…
+				;verb + check-up
+				;getgo forhave…
+		;See full entry
 
 
 
 [-] check up on		<-->	phrasal veerb++C1[-0]	.
+	;kiểm tra chặt chẽ -- (1) [-check up on somebody] ​to make sure that somebody is doing what they should be doing
+		;My parents are always checking up on me.
+		;TOPICS Doubt, guessing and certaintyC1
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] cinch		<-->	noun++C2	[230803][001]	./sɪntʃ/
+ /sɪntʃ/
+[singular] (informal)
+	;điều hiển nhiên -- (1) something that is very easy
+		;SYNONYM doddle
+		;The first question is a cinch.
+	; -- (2) 
+	;điều hiển nhiên -- (3) ​(especially North American English) a thing that is certain to happen; a person who is certain to do something
+		;He's a cinch to win the race.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] cinch		<-->	verb++C2	[230803][001]	./sɪntʃ/
+ /sɪntʃ/
+	;buộc chặt -- (1) cinch something (especially North American English) to fasten something tightly around the middle part of your body; to be fastened around the middle part of somebody’s body
+	; -- (2) 
+	;lảm cho hiển nhiên -- (3) ​cinch something (North American English, informal) to make something certain
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] cliffhanger		<-->	noun++C2	[230803][001]	./ˈklɪfhæŋə(r)/
+ /ˈklɪfhæŋər/
+	;tình huống hồi hộp, hấp dẫn, khó đoán -- (1) a situation in a story, film, competition, etc. that is very exciting because you cannot guess what will happen next, or you do not find out immediately what happens next
+		;The first part of the serial ended with a real cliffhanger.
+		;Tonight’s vote on European policy threatens to be a cliffhanger.
+		;TOPICS Doubt, guessing and certaintyC2, Film and theatreC2
+
+
+
+[-] cliffhanging		<-->	adjective++C2	[230803][001]	./ˈklɪfhæŋɪŋ/
+ /ˈklɪfhæŋɪŋ/	
+	;hồi hộp, hấp dẫn, khó đoán -- (1) connected with a situation in a story, film, competition, etc. that is very exciting because you cannot guess what will happen next, or you do not find out immediately what happens next
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] close, but no cigar		<-->	idiom++C2	[230803][001]	./i/
+	;một nỗ lực nhưng không chắc thành công -- (1) (informal) used to tell somebody that their attempt or guess was almost but not quite successful
+		;TOPICS Doubt, guessing and certaintyC2, Difficulty and failureC2
+
+
+
+[-] cold		<-->	adjective++C2	[230803][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (6) [-in games] used in children’s games to say that the person playing is not close to finding a person or thing, or to guessing the correct answer
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] concrete		<-->	adjective++C1	[230803][001]	./cef/
+	; -- (1) 
+	;chắc chắn, vững chắc -- (2) /ˈkɒŋkriːt/-NAmE /kɑːnˈkriːt/ based on facts, not on ideas or guesses
+		;concrete evidence/proposals/proof
+		;‘It's only a suspicion,’ she said, ‘nothing concrete.’
+		;It is easier to think in concrete terms rather than in the abstract.
+		;COMPARE abstract
+		;By the end of the meeting some fairly concrete proposals had been put forward.
+		;This is an urban tragedy that needs concrete action, not just concern.
+		;TOPICS Doubt, guessing and certaintyC1	
+	; -- (3) 
+
+
+
+[-] concretely		<-->	adveerb++C1	[230803][001]	./ˈkɒŋkriːtli/
+ /kɑːnˈkriːtli/
+	;chắc chắn, vững chắc -- (1) in a way that is based on facts, not on ideas or guesses
+		;People started to think more concretely about political questions.
+		;COMPARE abstractly
+		;TOPICS Doubt, guessing and certaintyC1
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] confidence		<-->	noun++B2	[230803][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] cinch		<-->	noun++C2[-0]	.
+[-] confident		<-->	adjective++B1	[230803][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] cinch		<-->	verb++C2[-0]	.
+[-] confidently		<-->	adveerb++B1	[230803][001]	./ˈkɒnfɪdəntli/
+ /ˈkɑːnfɪdəntli/
+	;tự tin -- (1) ​in a way that shows that you feel sure about your own ability to do things and be successful
+		;Carla smiled confidently at the cameras.
+		;TOPICS Doubt, guessing and certaintyB1
+	;tự tin -- (2) ​in a way that shows you feel certain that something will happen in the way that you want or expect
+		;Investors can confidently expect to make an average of 5% a year.
+		;TOPICS Doubt, guessing and certaintyB1
+
+
+
+[-] confusion		<-->	noun++B2	[230803][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] cliffhanger		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] conjectural		<-->	adjective++C2	[230803][001]	./kənˈdʒektʃərəl/
+ /kənˈdʒektʃərəl/
+(formal)
+	;phỏng đoán -- (1) (of an opinion or idea) not based on definite knowledge; formed by guessing
+		;Some of the stages of the earth’s development are purely conjectural.
+		;TOPICS Doubt, guessing and certaintyC2
 
 
 
-[-] cliffhanging		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] conjecture		<-->	noun++C2	[230803][001]	./kənˈdʒektʃə(r)/
+ /kənˈdʒektʃər/
+(formal)
+	;một giả định, phỏng đoán -- (1) [countable] an opinion or idea that is not based on definite knowledge and is formed by guessing
+		;SYNONYM guess
+		;The truth of his conjecture was confirmed by the newspaper report.
+		;TOPICS Opinion and argumentC2, Doubt, guessing and certaintyC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;purejustmere…
+				;preposition
+				;conjecture aboutconjecture as to
+				;phrases
+				;a matter for conjectureopen to conjecture
+		;See full entry
+	;sự giả định, phỏng đoán -- (2) [uncountable] the act of forming an opinion or idea that is not based on definite knowledge
+		;What was going through the killer's mind is a matter for conjecture.
+		;SEE ALSO guesswork
+		;TOPICS Opinion and argumentC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;purejustmere…
+				;preposition
+				;conjecture aboutconjecture as to
+				;phrases
+				;a matter for conjectureopen to conjecture
+		;See full entry
+		;Word Origin
 
 
 
-[-] close, but no cigar		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] cold		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] concrete		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] concretely		<-->	adveerb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] confidence		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] confident		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] confidently		<-->	adveerb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] confusion		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] conjectural		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] conjecture		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] conviction		<-->	noun++C1[-0]	.
+[-] conviction		<-->	noun++C1	[230803][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -527,12 +595,6 @@
 	; -- (2) 
 	; -- (3) 
 
-
-
-[-] couldmodal 		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
