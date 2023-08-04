@@ -199,7 +199,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] gnomon		<-->	n++[--0]	.[JJOY-0011]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -218,7 +218,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] simony		<-->	verb++[--0]	.[JJOY-0011]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -237,7 +237,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] maleficent		<-->	verb++[--0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -256,7 +256,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] ladle		<-->	verb++[--0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -275,7 +275,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] stirabout		<-->	verb++[--0]	.[JJOY-0011]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -294,7 +294,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] puff		<-->	verb++[--0]	.[JJOY-0011]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -313,12 +313,17 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] fancy		<-->	noun++[--0]	./ˈfænsi/
+ /ˈfænsi/
+(plural fancies)
+	;vật tưởng tượng -- (1) [countable, uncountable] something that you imagine; your imagination
+		;SYNONYM fantasy
+		;night-time fancies that disappear in the morning
+		;a child’s wild flights of fancy
+	;sự tưởng tượng -- (2) ​[singular] a feeling that you would like to have or to do something
+		;SYNONYM whim
+		;She said she wanted a dog but it was only a passing fancy.
+	; -- (3) ​[countable, usually plural] (British English) a small decorated cake
 
 
 
@@ -332,12 +337,23 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+
+[-] chap		<-->	n++[--0]	./tʃæp/
+ /tʃæp/
+(British English, informal, old-fashioned) [JJOY-0011]
+	;anh bạn -- (1) used to talk about a man in a friendly way
+		;He isn't such a bad chap really.
+		;Come on, chaps, let’s go for a drink!
+		;Extra Examples
+		;He's a decent sort of chap.
+		;The poor old chap was very shaken by the experience.
+				;Oxford Collocations Dictionary
+				;adjective
+				;cleverdecentgood…
+				;phrases
+				;not (such) a bad chapsort of chap
+		;See full entry
+		;Word Origin
 
 
 
