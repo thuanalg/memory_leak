@@ -580,126 +580,211 @@
 
 
 
-[-] count on		<-->	phrasal veerb++C1[-0]	.
+[-] count on		<-->	phrasal veerb++C1[-0]	./p/
+	;tin vào -- (1) [-count on somebody/something] to trust somebody to do something or to be sure that something will happen
+		;SYNONYM bank on
+		;‘I'm sure he'll help.’ ‘Don't count on it.’
+		; count on somebody/something to do something I'm counting on you to help me.
+		; count on doing something Few people can count on having a job for life.
+		; count on somebody/something doing something We can't count on this warm weather lasting.
+		;SYNONYMS AT trust
+		;TOPICS Doubt, guessing and certaintyC1
+
+
+
+[-] cross-check		<-->	verb++C2[-0]	./ˌkrɒs ˈtʃek/
+ /ˌkrɔːs ˈtʃek/
+	;kiểm tra chéo -- (1) to make sure that information, figures, etc. are correct by using a different method or system to check them
+		;cross-check something Cross-check your answers with a calculator.
+		;cross-check something against something Baggage should be cross-checked against the names of individual passengers.
+		;OPICS Doubt, guessing and certaintyC2
+
+
+
+[-] cross-check		<-->	noun++C2[-0]	./ˈkrɒs tʃek/
+ /ˈkrɔːs tʃek/
+	;sự kiểm tra chéo -- (1) an act of making sure that information, figures, etc. are correct by using a different method or system to check them
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] debatable		<-->	adjective++C1[-0]	./dɪˈbeɪtəbl/
+ /dɪˈbeɪtəbl/
+	;gây tranh cãi -- (1) not certain because people can have different ideas and opinions about the thing being discussed
+		;SYNONYM arguable, questionable
+		;<< arguable, questionable, debatable, >>
+		;a debatable point
+		; it is debatable whether… It is highly debatable whether conditions have improved for low-income families.
+		;TOPICS Doubt, guessing and certaintyC1, Opinion and argumentC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beremain
+				;adverb
+				;highlyverysomewhat…
+		;See full entry
+
+
+
+[-] decidedly		<-->	adveerb++C2[-0]	./dɪˈsaɪdɪdli/
+ /dɪˈsaɪdɪdli/
+	;quả quyết -- (1) (used with an adjective or adverb) definitely and in an obvious way
+		;Amy was looking decidedly worried.
+		;Their relationship is beginning to look decidedly shaky.
+	;quả quyết	 -- (2) in a way that shows that you are sure and determined about something
+		;‘I won't go,’ she said decidedly.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] definite		<-->	adjective++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] cross-check		<-->	verb++C2[-0]	.
+[-] definite		<-->	noun++B2[-0]	./ˈdefɪnət/
+ /ˈdefɪnət/
+[singular] (informal)
+	;một điều rõ ràng -- (1) ​something that you are certain about or that you know will happen; somebody who is sure to do something
+		;‘We're moving our office to Glasgow.’ ‘That's a definite, is it?’
+		;‘Is Sarah coming to the party?’ ‘Yes, she's a definite.’
+		;TOPICS Doubt, guessing and certaintyB2
+		;Word Origin
+
+
+
+[-] definitely		<-->	adveerb++A2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] cross-check		<-->	noun++C2[-0]	.
+[-] depend on		<-->	phrasal veerb+A2[-0]	./p/
+	;tin vào -- (1) [-depend on/upon somebody/something]  to rely on somebody/something and be able to trust them
+		;He was the sort of person you could depend on.
+		; depend on/upon somebody/something to do something He knew he could depend upon her to deal with the situation.
+		;SYNONYMS AT trust
+	;tin vào -- (2) ​to be sure or expect that something will happen
+		;SYNONYM count on somebody/something
+		;Depend upon it (= you can be sure) we won't give up.
+		; depend on/upon somebody/something doing something Can we depend on you coming in on Sunday?
+		; (formal) You can depend on his coming in on Sunday.
+		;depend on/upon somebody/something to do something
+		; (ironic) You can depend on her to be (= she always is) late.
+		;TOPICS Doubt, guessing and certaintyA2
+	;tùy vào -- (3) (not used in the progressive tenses) to be affected or decided by something
+		;Does the quality of teaching depend on class size?
+		;It would depend on the circumstances.
+		; depend on/upon how, what, etc… Whether we need more food depends on how many people turn up.
+		;Grammar Point depend on
+		;Extra Examples:
+		;The future of the company will depend crucially on how consumers respond.
+		;The outcome seems to depend on the type of soil used.
+		;Whether or not we can go ultimately depends on the weather.
+
+
+[-] depend upon		<-->	phrasal veerb+A2[-0]	./p/
+	;tin vào -- (1) [-depend on/upon somebody/something]  to rely on somebody/something and be able to trust them
+		;He was the sort of person you could depend on.
+		; depend on/upon somebody/something to do something He knew he could depend upon her to deal with the situation.
+		;SYNONYMS AT trust
+	;tin vào -- (2) ​to be sure or expect that something will happen
+		;SYNONYM count on somebody/something
+		;Depend upon it (= you can be sure) we won't give up.
+		; depend on/upon somebody/something doing something Can we depend on you coming in on Sunday?
+		; (formal) You can depend on his coming in on Sunday.
+		;depend on/upon somebody/something to do something
+		; (ironic) You can depend on her to be (= she always is) late.
+		;TOPICS Doubt, guessing and certaintyA2
+	;tùy vào -- (3) (not used in the progressive tenses) to be affected or decided by something
+		;Does the quality of teaching depend on class size?
+		;It would depend on the circumstances.
+		; depend on/upon how, what, etc… Whether we need more food depends on how many people turn up.
+		;Grammar Point depend on
+		;Extra Examples:
+		;The future of the company will depend crucially on how consumers respond.
+		;The outcome seems to depend on the type of soil used.
+		;Whether or not we can go ultimately depends on the weather.
+
+
+[-] divine		<-->	verb++C2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] debatable		<-->	adjective++C1[-0]	.
+[-] dogmatic		<-->	adjective++C2[-0]	./dɒɡˈmætɪk/
+ /dɔːɡˈmætɪk/
+(disapproving)	
+	;giáo điều, bảo thủ -- (1) ​being certain that your beliefs are right and that others should accept them, without paying attention to evidence or other opinions
+		;a dogmatic approach
+		;There is a danger of becoming too dogmatic about teaching methods.
+		;He was strident and dogmatic in giving his opinions.
+		;TOPICS Doubt, guessing and certaintyC2, Opinion and argumentC2
+				;Oxford Collocations Dictionary
+				;Dogmatic is used with these nouns:
+				;assertioninsistencetheology…
+		;See full entry
+		;Word Origin
+
+
+
+[-] dogmatically		<-->	adveerb++C2[-0]	./dɒɡˈmætɪkli/
+ /dɔːɡˈmætɪkli/
+(disapproving)
+	;giáo điều, bảo thủ -- (1) ​in a way that shows you are certain that your beliefs are right and that others should accept them, without paying attention to evidence or other opinions
+		;Nowhere in the report does she provide evidence for these assertions: they are merely dogmatically stated as fact.
+		;TOPICS Doubt, guessing and certaintyC2, Opinion and argumentC2
+
+
+
+[-] don’t tell me		<-->	idiom++C2[-0]	./i/
+	;chớ có nói là -- (1) (informal) used to say that you know or can guess what somebody is going to say, especially because it is typical of them
+		;Don't tell me you were late again!
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] doubt		<-->	noun++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] decidedly		<-->	adveerb++C2[-0]	.
+[-] doubt		<-->	verb++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] definite		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] doubtful		<-->	adjective++C1[-0]	./ˈdaʊtfl/
+ /ˈdaʊtfl/
+	;đáng ngờ, rất nghi ngại -- (1) (of a person) not sure; uncertain and feeling doubt
+		;SYNONYM dubious
+		;<< doubtful, dubious, suspicious, >> 
+		; doubtful (about something) Rose was doubtful about the whole idea.
+		; doubtful (about doing something) He was doubtful about accepting extra work.
+		;Extra Examples:
+		;She was rather doubtful about the wisdom of eating the seafood.
+		;A doubtful look crossed her face.
+		;TOPICS Doubt, guessing and certaintyC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;about
+		;See full entry
 
 
 
-[-] definite		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] definitely		<-->	adveerb++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] depend on		<-->	phrasal veerb++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] depend upon		<-->	phrasal veerb++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] divine		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] dogmatic		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] dogmatically		<-->	adveerb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] don’t tell me		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] doubt		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] doubt		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] doubtful		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] dubious		<-->	adjective++C1[-0]	.
+[-] dubious		<-->	adjective++C1[-0]	./d/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
