@@ -1,5 +1,5 @@
 
-[-] admit of		<-->	phrasal veerb++C2	[230510][001]	./p/
+[-] admit of		<-->	phrasal verb++C2	[230510][001]	./p/
 	;chấp nhận, công nhận -- (1) [-admit of something] (formal) to show that something is possible or likely as a solution, an explanation, etc.
 		;TOPICS Doubt, guessing and certaintyC2
 	; -- (2) 
@@ -217,7 +217,7 @@
 
 
 
-[-] believe in		<-->	phrasal veerb++A2	[230803][001]	./p/
+[-] believe in		<-->	phrasal verb++A2	[230803][001]	./p/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -373,14 +373,14 @@
 
 
 
-[-] check on		<-->	phrasal veerb++C1	[230803][001]	./p/
+[-] check on		<-->	phrasal verb++C1	[230803][001]	./p/
 	;kiểm tra -- (1) [-check on somebody/something] to make sure that there is nothing wrong with somebody/something
 		;I'll just go and check on the children.
 		;TOPICS Doubt, guessing and certaintyC1
 
 
 
-[-] check over		<-->	phrasal veerb++C1	[230803][001]	./p/
+[-] check over		<-->	phrasal verb++C1	[230803][001]	./p/
 	;kiểm tra kỹ -- (1) [-check over/through  something] ​to examine something carefully to make sure that it is correct or acceptable
 		;Check over your work for mistakes.
 		;We checked through the photographs to make sure there were none missing.
@@ -388,7 +388,7 @@
 
 
 
-[-] check through		<-->	phrasal veerb++C1	[230803][001]	./p/
+[-] check through		<-->	phrasal verb++C1	[230803][001]	./p/
 	;kiểm tra kỹ -- (1) [-check over/through  something] ​to examine something carefully to make sure that it is correct or acceptable
 		;Check over your work for mistakes.
 		;We checked through the photographs to make sure there were none missing.
@@ -415,7 +415,7 @@
 
 
 
-[-] check up on		<-->	phrasal veerb++C1[-0]	./p/
+[-] check up on		<-->	phrasal verb++C1	[230806][001]	./p/
 	;kiểm tra chặt chẽ -- (1) [-check up on somebody] ​to make sure that somebody is doing what they should be doing
 		;My parents are always checking up on me.
 		;TOPICS Doubt, guessing and certaintyC1
@@ -486,7 +486,7 @@
 
 
 
-[-] concretely		<-->	adveerb++C1	[230803][001]	./ˈkɒŋkriːtli/-NAmE /kɑːnˈkriːtli/
+[-] concretely		<-->	adverb++C1	[230803][001]	./ˈkɒŋkriːtli/-NAmE /kɑːnˈkriːtli/
 	;chắc chắn, vững chắc -- (1) in a way that is based on facts, not on ideas or guesses
 		;People started to think more concretely about political questions.
 		;COMPARE abstractly
@@ -510,7 +510,7 @@
 
 
 
-[-] confidently		<-->	adveerb++B1	[230803][001]	./ˈkɒnfɪdəntli/-NAmE /ˈkɑːnfɪdəntli/
+[-] confidently		<-->	adverb++B1	[230803][001]	./ˈkɒnfɪdəntli/-NAmE /ˈkɑːnfɪdəntli/
 	;tự tin -- (1) ​in a way that shows that you feel sure about your own ability to do things and be successful
 		;Carla smiled confidently at the cameras.
 		;TOPICS Doubt, guessing and certaintyB1
@@ -580,7 +580,7 @@
 
 
 
-[-] count on		<-->	phrasal veerb++C1[-0]	./p/
+[-] count on		<-->	phrasal verb++C1	[230806][001]	./p/
 	;tin vào -- (1) [-count on somebody/something] to trust somebody to do something or to be sure that something will happen
 		;SYNONYM bank on
 		;‘I'm sure he'll help.’ ‘Don't count on it.’
@@ -592,7 +592,7 @@
 
 
 
-[-] cross-check		<-->	verb++C2[-0]	./ˌkrɒs ˈtʃek/
+[-] cross-check		<-->	verb++C2	[230806][001]	./ˌkrɒs ˈtʃek/
  /ˌkrɔːs ˈtʃek/
 	;kiểm tra chéo -- (1) to make sure that information, figures, etc. are correct by using a different method or system to check them
 		;cross-check something Cross-check your answers with a calculator.
@@ -601,14 +601,14 @@
 
 
 
-[-] cross-check		<-->	noun++C2[-0]	./ˈkrɒs tʃek/
+[-] cross-check		<-->	noun++C2	[230806][001]	./ˈkrɒs tʃek/
  /ˈkrɔːs tʃek/
 	;sự kiểm tra chéo -- (1) an act of making sure that information, figures, etc. are correct by using a different method or system to check them
 		;TOPICS Doubt, guessing and certaintyC2
 
 
 
-[-] debatable		<-->	adjective++C1[-0]	./dɪˈbeɪtəbl/
+[-] debatable		<-->	adjective++C1	[230806][001]	./dɪˈbeɪtəbl/
  /dɪˈbeɪtəbl/
 	;gây tranh cãi -- (1) not certain because people can have different ideas and opinions about the thing being discussed
 		;SYNONYM arguable, questionable
@@ -625,7 +625,7 @@
 
 
 
-[-] decidedly		<-->	adveerb++C2[-0]	./dɪˈsaɪdɪdli/
+[-] decidedly		<-->	adverb++C2	[230806][001]	./dɪˈsaɪdɪdli/
  /dɪˈsaɪdɪdli/
 	;quả quyết -- (1) (used with an adjective or adverb) definitely and in an obvious way
 		;Amy was looking decidedly worried.
@@ -636,14 +636,14 @@
 
 
 
-[-] definite		<-->	adjective++B1[-0]	./cef/
+[-] definite		<-->	adjective++B1	[230806][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] definite		<-->	noun++B2[-0]	./ˈdefɪnət/
+[-] definite		<-->	noun++B2	[230806][001]	./ˈdefɪnət/
  /ˈdefɪnət/
 [singular] (informal)
 	;một điều rõ ràng -- (1) ​something that you are certain about or that you know will happen; somebody who is sure to do something
@@ -654,14 +654,14 @@
 
 
 
-[-] definitely		<-->	adveerb++A2[-0]	./cef/
+[-] definitely		<-->	adverb++A2	[230806][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] depend on		<-->	phrasal veerb+A2[-0]	./p/
+[-] depend on		<-->	phrasal veerb+A2	[230806][001]	./p/
 	;tin vào -- (1) [-depend on/upon somebody/something]  to rely on somebody/something and be able to trust them
 		;He was the sort of person you could depend on.
 		; depend on/upon somebody/something to do something He knew he could depend upon her to deal with the situation.
@@ -685,7 +685,7 @@
 		;Whether or not we can go ultimately depends on the weather.
 
 
-[-] depend upon		<-->	phrasal veerb+A2[-0]	./p/
+[-] depend upon		<-->	phrasal veerb+A2	[230806][001]	./p/
 	;tin vào -- (1) [-depend on/upon somebody/something]  to rely on somebody/something and be able to trust them
 		;He was the sort of person you could depend on.
 		; depend on/upon somebody/something to do something He knew he could depend upon her to deal with the situation.
@@ -709,14 +709,14 @@
 		;Whether or not we can go ultimately depends on the weather.
 
 
-[-] divine		<-->	verb++C2[-0]	./cef/
+[-] divine		<-->	verb++C2	[230806][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] dogmatic		<-->	adjective++C2[-0]	./dɒɡˈmætɪk/
+[-] dogmatic		<-->	adjective++C2	[230806][001]	./dɒɡˈmætɪk/
  /dɔːɡˈmætɪk/
 (disapproving)	
 	;giáo điều, bảo thủ -- (1) ​being certain that your beliefs are right and that others should accept them, without paying attention to evidence or other opinions
@@ -732,7 +732,7 @@
 
 
 
-[-] dogmatically		<-->	adveerb++C2[-0]	./dɒɡˈmætɪkli/
+[-] dogmatically		<-->	adverb++C2	[230806][001]	./dɒɡˈmætɪkli/
  /dɔːɡˈmætɪkli/
 (disapproving)
 	;giáo điều, bảo thủ -- (1) ​in a way that shows you are certain that your beliefs are right and that others should accept them, without paying attention to evidence or other opinions
@@ -741,28 +741,28 @@
 
 
 
-[-] don’t tell me		<-->	idiom++C2[-0]	./i/
+[-] don’t tell me		<-->	idiom++C2	[230806][001]	./i/
 	;chớ có nói là -- (1) (informal) used to say that you know or can guess what somebody is going to say, especially because it is typical of them
 		;Don't tell me you were late again!
 		;TOPICS Doubt, guessing and certaintyC2
 
 
 
-[-] doubt		<-->	noun++B1[-0]	./cef/
+[-] doubt		<-->	noun++B1	[230806][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] doubt		<-->	verb++B1[-0]	./cef/
+[-] doubt		<-->	verb++B1	[230806][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] doubtful		<-->	adjective++C1[-0]	./ˈdaʊtfl/
+[-] doubtful		<-->	adjective++C1	[230806][001]	./ˈdaʊtfl/
  /ˈdaʊtfl/
 	;đáng ngờ, rất nghi ngại -- (1) (of a person) not sure; uncertain and feeling doubt
 		;SYNONYM dubious
@@ -784,63 +784,64 @@
 
 
 
-[-] dubious		<-->	adjective++C1[-0]	./d/
+[-] dubious		<-->	adjective++C1	[230806][001]	./d/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] easily		<-->	adveerb++C1[-0]	.
+[-] easily		<-->	adverb++C1	[230806][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] ensure		<-->	verb++B2[-0]	.
+[-] ensure		<-->	verb++B2	[230806][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] expect		<-->	verb++B2[-0]	.
+[-] expect		<-->	verb++B2	[230806][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] expected		<-->	adjective++B1[-0]	.
+[-] expected		<-->	adjective++B1	[230806][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] feel (it) in your bones (that…)		<-->	idiom++C2[-0]	.
+[-] feel (it) in your bones (that…)		<-->	idiom++C2	[230806][001]	./i/
+	;từ tận xương tủy -- (1) (informal) to be certain about something even though you do not have any direct proof and cannot explain why you are certain
+		;I know I'm going to fail this exam—I can feel it in my bones.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] finger in the air		<-->	idiom++C2	[230806][001]	./i/
+	;chỉ chém gió, suy  đoán hảo huyền -- (1) ​(informal) used to refer to an estimate or method of doing something that is not very accurate or scientific and partly based on guessing
+		;It isn’t an exact science—it’s a kind of finger in the air thing.
+		;‘It’s all a bit finger in the air,’ admitted a spokesman.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] forecast		<-->	noun++B2	[230806][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] finger in the air		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] forecast		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] forecast		<-->	verb++B2[-0]	.
+[-] forecast		<-->	verb++B2	[230806][001]	./d/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -938,7 +939,7 @@
 
 
 
-[-] haltingly		<-->	adveerb++C2[-0]	.
+[-] haltingly		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1057,7 +1058,7 @@
 
 
 
-[-] inevitably		<-->	adveerb++B2[-0]	.
+[-] inevitably		<-->	adverb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1148,7 +1149,7 @@
 
 
 
-[-] maybe		<-->	adveerb++A1[-0]	.
+[-] maybe		<-->	adverb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1246,7 +1247,7 @@
 
 
 
-[-] perhaps		<-->	adveerb++A2[-0]	.
+[-] perhaps		<-->	adverb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1274,7 +1275,7 @@
 
 
 
-[-] possibly		<-->	adveerb++B1[-0]	.
+[-] possibly		<-->	adverb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1295,7 +1296,7 @@
 
 
 
-[-] presumably		<-->	adveerb++C1[-0]	.
+[-] presumably		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1330,7 +1331,7 @@
 
 
 
-[-] probably		<-->	adveerb++A1[-0]	.
+[-] probably		<-->	adverb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1365,7 +1366,7 @@
 
 
 
-[-] re		<-->	adveerb++B2[-0]	.
+[-] re		<-->	adverb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1386,7 +1387,7 @@
 
 
 
-[-] reputedly		<-->	adveerb++C2[-0]	.
+[-] reputedly		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1400,7 +1401,7 @@
 
 
 
-[-] robustly		<-->	adveerb++C1[-0]	.
+[-] robustly		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1456,14 +1457,14 @@
 
 
 
-[-] somehow		<-->	adveerb++B2[-0]	.
+[-] somehow		<-->	adverb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] someway		<-->	adveerb++C2[-0]	.
+[-] someway		<-->	adverb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1491,7 +1492,7 @@
 
 
 
-[-] speculatively		<-->	adveerb++C1[-0]	.
+[-] speculatively		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1505,7 +1506,7 @@
 
 
 
-[-] supposedly		<-->	adveerb++C1[-0]	.
+[-] supposedly		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1526,7 +1527,7 @@
 
 
 
-[-] surely		<-->	adveerb++B1[-0]	.
+[-] surely		<-->	adverb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1561,7 +1562,7 @@
 
 
 
-[-] swear by		<-->	phrasal veerb++C2[-0]	.
+[-] swear by		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1589,7 +1590,7 @@
 
 
 
-[-] tentatively		<-->	adveerb++C1[-0]	.
+[-] tentatively		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1708,7 +1709,7 @@
 
 
 
-[-] undeniably		<-->	adveerb++C1[-0]	.
+[-] undeniably		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1750,7 +1751,7 @@
 
 
 
-[-] well		<-->	adveerb++C1[-0]	.
+[-] well		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
