@@ -516,7 +516,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] jeopardize		<-->	verb++[--0]	.[voa]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -535,7 +535,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] meddle		<-->	verb++[--0]	.[voa]	
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -554,7 +554,41 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] dent		<-->	verb++[--0]	./dent/
+ /dent/\ [voa]
+	;làm sứt mẻ -- (1) ​dent something to make a hollow place in a hard surface, usually by hitting it
+		;The back of the car was badly dented in the collision.
+		;The car was quite badly dented on one side.
+				;Oxford Collocations Dictionary
+				;adverb
+				;badlyslightly
+		;See full entry
+	;làm sứt mẻ -- (2) dent something to damage somebody’s confidence, reputation, etc.
+		;It seemed that nothing could dent his confidence.
+		;Extra Examples:
+		;The experience failed to dent her confidence.
+		;Being turned down for the job dented his pride quite badly.
+		;Cheap goods from overseas could severely dent the company's sales.
+				;Oxford Collocations Dictionary
+				;adverb
+				;badlyseriouslyseverely…
+				;verb + dent
+				;fail to
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+
+
+
+[-] dent		<-->	n++[--0]	.[voa]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -573,7 +607,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] hush		<-->	verb++[--0]	.[voa]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -592,26 +626,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
+[-] hush		<-->	n++[--0]	.[voa]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 

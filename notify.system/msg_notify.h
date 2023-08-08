@@ -1,5 +1,6 @@
 
-#ifndef __cplusplus
+#ifdef __cplusplus
+	extern "C" {
 #endif
 #ifndef _DEFAULT_SOURCE
 	#define _DEFAULT_SOURCE
@@ -230,6 +231,7 @@ int ev_aes_enc(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *le
 int ev_aes_dec(uchar *in, uchar **out, uchar *key, uchar *iv, int lenin, int *lenout, uchar *tag);
 int msg_aes_enc(uchar *in, uchar *buf, uchar *key, uchar *iv, int lenin, int *lenout, int lim);
 int msg_aes_dec(uchar *in, uchar *buf, uchar *key, uchar *iv, int lenin, int *lenout, int lim);
-#ifndef __cplusplus
+#ifdef __cplusplus
+	}
 #endif
 //https://www.youtube.com/watch?v=BOKSEaWfnjw
