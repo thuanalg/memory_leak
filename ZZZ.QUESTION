@@ -1,0 +1,10 @@
+1. Thread vs fork
+  - We see man advantages of thread against "process", but in TCP server model, using "fork" is more popular?
+  - Someone says that thread may be faster process, how do you think and why?
+2. Can we share a linked-list beween processes?
+3. Can we have another datastrure is better linked-list, so-called "vector/list" in C?
+4. Can we we shared so-called “vector” in C?
+5. Mutex - Semaphore
+6. In C++, can we share a class, a vector/list, ... between multi-processes?
+  - How about with poiter member?
+7. Except data/text/stack/heap area of memories, can we have another area? 
