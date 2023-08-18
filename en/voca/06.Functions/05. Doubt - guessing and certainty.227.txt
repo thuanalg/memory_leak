@@ -848,252 +848,346 @@
 
 
 
-[-] get something in one		<-->	idiom++C2[-0]	.
+[-] get something in one		<-->	idiom++C2	[230818][001]	./i/
+	;hiểu ngay -- (1) to understand or guess something immediately
+		;‘Oh, so she’s his sister!’ ‘Got it in one!’
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] get something straight		<-->	idiom++C2	[230818][001]	./i/
+	;làm rõ -- (1) to make a situation clear; to make sure that you or somebody else understands the situation
+		;Let's get this straight—you really had no idea where he was?
+		;Let's get this absolutely straight.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] giveaway		<-->	noun++C2	[230818][001]	./ˈɡɪvəweɪ/
+ /ˈɡɪvəweɪ/-\
+(informal)
+	;quà tặng -- (1) something that a company gives free, usually with something else that is for sale
+		;There's lots of amazing giveaways, from cinema tickets to film posters.
+		;TOPICS BusinessC2
+	;tín hiệu, dấu hiệu, sự lộ ra ngoài -- (2) ​something that makes you guess the real truth about something/somebody
+		;She pretended she wasn't excited but the expression on her face was a dead (= obvious) giveaway.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] guarantee		<-->	verb++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] get something straight		<-->	idiom++C2[-0]	.
+[-] guarantee		<-->	noun++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] giveaway		<-->	noun++C2[-0]	.
+[-] guarantor		<-->	noun++C2	[230818][001]	./ˌɡærənˈtɔː(r)/
+ /ˌɡærənˈtɔːr/
+(formal or law)
+	;người bảo lãnh -- (1) a person who agrees to be responsible for somebody or for making sure that something happens or is done
+		;The United Nations will act as guarantor of the peace settlement.
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] guess		<-->	verb++A1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] guarantee		<-->	verb++B2[-0]	.
+[-] guess		<-->	noun++A1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] guarantee		<-->	noun++B2[-0]	.
+[-] guessing game		<-->	noun++B2	[230818][001]	./ˈɡesɪŋ ɡeɪm/
+ /ˈɡesɪŋ ɡeɪm/
+	;trò chơi đoán -- (1) ​a game in which you have to guess the answers to questions
+		;TOPICS Games and toysB2, Doubt, guessing and certaintyB2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] guesstimate		<-->	noun++C2	[230818][001]	./ˈɡestɪmət/
+ /ˈɡestɪmət/
+(also guestimate)
+(informal)
+	;một ước lượng -- (1) an attempt to calculate something that is based more on guessing than on information
+		;TOPICS Doubt, guessing and certaintyC2
+		;More Like This Blended or portmanteau words
+		;Word Origin
+
+
+
+[-] guesswork		<-->	noun++C1	[230818][001]	./ˈɡeswɜːk/
+ /ˈɡeswɜːrk/
+[uncountable]
+	;sự phán đoán, công việc ước lượng -- (1) ​the process of trying to find an answer by guessing when you do not have enough information to be sure
+		;It was pure guesswork on our part.
+		;SEE ALSO conjecture
+		;Extra Examples:
+		;Their price estimates are based on pure guesswork.
+		;Their results owe more to educated guesswork than to actual knowledge.
+		;weekly shopping lists that take the guesswork out of meal planning
+		;A combination of guesswork and luck led them to the right address.
+		;There's a fair amount of guesswork involved in the process.
+		;TOPICS Doubt, guessing and certaintyC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;pureeducated
+				;verb + guesswork
+				;be based oninvolveeliminate…
+				;phrases
+				;a matter of guessworktake the guesswork out of something
+		;See full entry
+
+
+
+[-] guestimate		<-->	noun++C2	[230818][001]	./ˈɡestɪmət/
+ /ˈɡestɪmət/
+(also guestimate)
+(informal)
+	;một ước lượng -- (1) an attempt to calculate something that is based more on guessing than on information
+		;TOPICS Doubt, guessing and certaintyC2
+		;More Like This Blended or portmanteau words
+		;Word Origin
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] guarantor		<-->	noun++C2[-0]	.
+[-] halting		<-->	adjective++C2[-0]	. /ˈhɔːltɪŋ/,  /ˈhɒltɪŋ/
+ /ˈhɔːltɪŋ/
+[usually before noun]
+	;tạm dừng -- (1) ​(especially of speech or movement) stopping and starting often, especially because you are not certain or are not very confident
+		;SYNONYM hesitant
+		;We carried on a halting conversation.
+		;a toddler’s first few halting steps
+		;Europe’s halting progress towards greater unity
+		;Extra Examples:
+		;The driver spoke only very halting English.
+				;TOPICS Doubt, guessing and certaintyC2
+				;Oxford Collocations Dictionary
+				;Halting is used with these nouns:
+				;conversation
+		;See full entry
+
+
+
+[-] haltingly		<-->	adverb++C2	[230818][001]	./ˈhɔːltɪŋli/,  /ˈhɒltɪŋli/
+ /ˈhɔːltɪŋli/
+	;tạm dừng -- (1) ​if you speak or move haltingly, you stop and start often, especially because you are not certain or are not very confident
+		;SYNONYM hesitantly
+		;‘Well…’ she began haltingly.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] have a good mind to do something		<-->	idiom++C2	[230818][001]	./i/
+	;lạc quan về st -- (1) ​used to say that you think you will do something, although you are not sure
+		;I've half a mind to come with you tomorrow.
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] have something in your pocket		<-->	idiom++C2	[230818][001]	./i/
+	;đã bỏ túi -- (1) to be certain to win something
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hazard		<-->	verb++C2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] guess		<-->	verb++A1[-0]	.
+[-] hesitate		<-->	verb++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] guess		<-->	noun++A1[-0]	.
+[-] hesitation		<-->	noun++C1	[230818][001]	./ˌhezɪˈteɪʃn/
+ /ˌhezɪˈteɪʃn/
+	; -- (1) ​[uncountable, countable] the act of being slow to speak or act because you feel uncertain or nervous
+		;She agreed without the slightest hesitation.
+		;He spoke fluently and without unnecessary hesitations.
+	;sự do dự -- (2) ​[uncountable] the fact of being worried about doing something, especially because you are not sure that it is right or appropriate
+		;I have no hesitation in recommending her for the job.
+		;TOPICS Doubt, guessing and certaintyC1
+
+
+
+[-] hit/miss the mark		<-->	idiom++C2	[230818][001]	./i/
+	;đoán đúng/sai -- (1) ​to succeed/fail in achieving or guessing something
+		;He blushed furiously and Robyn knew she had hit the mark.
+		;The film misses the mark because it just isn't believable.
+		;TOPICS SuccessC2, Doubt, guessing and certaintyC2, Difficulty and failureC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] hot		<-->	adjective++C2	[230818][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;gần tới đích -- (17) [-in children’s games] [not before noun] used in children’s games to say that the person playing is very close to finding a person or thing, or to guessing the correct answer
+		;You're getting hot!
+		;TOPICS Doubt, guessing and certaintyC2
+		;More Like This Consonant-doubling adjectives
+
+
+[-] hypothesis		<-->	noun++C1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] guessing game		<-->	noun++B2[-0]	.
+[-] I dare say		<-->	idiom++C2	[230818][001]	./i/ (also I daresay especially in British English)
+	;dám nói rằng -- (1) used when you are saying that something is likely
+		;I dare say you know about it already.
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] if		<-->	noun++C2	[230818][001]	./ɪf/
+ /ɪf/
+(informal)
+	;tình huống chưa rõ ràng -- (1) a situation that is not certain
+		;If he wins—and it's a big if—he'll be the first Englishman to win for fifty years.
+		;There are still a lot of ifs and buts before everything's settled.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] iffy		<-->	adjective++C2	[230818][001]	./ˈɪfi/
+ /ˈɪfi/
+(informal)
+	;hơi tệ -- (1) ​(especially British English) not in perfect condition; bad in some way
+		;That meat smells a bit iffy to me.
+	;chưa rõ ràng, chắc chắn -- (2) not certain
+		;The weather looks slightly iffy.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] I/I’ll warrant (you)		<-->	idiom++C2	[230818][001]	./i/
+	;tôi bảo đảm -- (1) (old-fashioned) used to tell somebody that you are sure of something and that they can be sure of it too
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] imagine		<-->	verb++B1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] guesstimate		<-->	noun++C2[-0]	.
+[-] impossible		<-->	adjective++A2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] guesswork		<-->	noun++C1[-0]	.
+[-] inconclusive		<-->	adjective++C1	[230818][001]	./ˌɪnkənˈkluːsɪv/
+ /ˌɪnkənˈkluːsɪv/
+	;bất phân thắng bại -- (1) not leading to a definite decision or result
+		;inconclusive evidence/results/tests
+		;inconclusive discussions
+		;A coalition government was formed following an inconclusive general election.
+		;The volume ends on a somewhat inconclusive note.
+		;the curiously inconclusive finish to the symphony
+		;OPPOSITE conclusive
+		;TOPICS Preferences and decisionsC1, Doubt, guessing and certaintyC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beproveremain…
+				;adverb
+				;largelyrathersomewhat…
+		;See full entry
+
+
+
+[-] inevitable		<-->	noun++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] guestimate		<-->	noun++C2[-0]	.
+[-] inevitably		<-->	adverb++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] halting		<-->	adjective++C2[-0]	.
+[-] it’s early days (yet)		<-->	idiom++C2	[230818][001]	./i/
+	;còn quá sớm -- (1) (British English) used to say that it is too soon to be sure how a situation will develop
+		;It’s early days yet. We don’t know if the play will be a success.
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] it’s just/only a matter of time (before…)		<-->	idiom++C1	[230818][001]	./i/
+	;đó chỉ là vấn đề thời gian -- (1) ​used to say that something will definitely happen, although you are not sure when
+		;It's only a matter of time before they bring out their own version of the software.
+		;TOPICS Doubt, guessing and certaintyC1
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] I’ll be bound		<-->	idiom++C2	[230818][001]	./i/
+	;tôi chắc rằng -- (1) ​(old-fashioned, British English, informal) I feel sure
+		;They’re up to some mischief, I’ll be bound!
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] judge		<-->	verb++B1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] haltingly		<-->	adverb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] have a good mind to do something		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] have something in your pocket		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] hazard		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] hesitate		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] hesitation		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] hit/miss the mark		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] hot		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] hypothesis		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] I dare say		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] if		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] iffy		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] I/I’ll warrant (you)		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] imagine		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] impossible		<-->	adjective++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] inconclusive		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] inevitable		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] inevitably		<-->	adverb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] it’s early days (yet)		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] it’s just/only a matter of time (before…)		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] I’ll be bound		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] judge		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] know		<-->	verb++A1[-0]	.
+[-] know		<-->	verb++A1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
