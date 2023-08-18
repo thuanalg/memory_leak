@@ -572,7 +572,7 @@
 
 
 
-[-] convinced		<-->	adjective++B2[-0]	.
+[-] convinced		<-->	adjective++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -592,8 +592,7 @@
 
 
 
-[-] cross-check		<-->	verb++C2	[230806][001]	./ˌkrɒs ˈtʃek/
- /ˌkrɔːs ˈtʃek/
+[-] cross-check		<-->	verb++C2	[230806][001]	./ˌkrɒs ˈtʃek/-NAmE /ˌkrɔːs ˈtʃek/
 	;kiểm tra chéo -- (1) to make sure that information, figures, etc. are correct by using a different method or system to check them
 		;cross-check something Cross-check your answers with a calculator.
 		;cross-check something against something Baggage should be cross-checked against the names of individual passengers.
@@ -601,15 +600,13 @@
 
 
 
-[-] cross-check		<-->	noun++C2	[230806][001]	./ˈkrɒs tʃek/
- /ˈkrɔːs tʃek/
+[-] cross-check		<-->	noun++C2	[230806][001]	./ˈkrɒs tʃek/-NAmE /ˈkrɔːs tʃek/
 	;sự kiểm tra chéo -- (1) an act of making sure that information, figures, etc. are correct by using a different method or system to check them
 		;TOPICS Doubt, guessing and certaintyC2
 
 
 
-[-] debatable		<-->	adjective++C1	[230806][001]	./dɪˈbeɪtəbl/
- /dɪˈbeɪtəbl/
+[-] debatable		<-->	adjective++C1	[230806][001]	./dɪˈbeɪtəbl/-NAmE /dɪˈbeɪtəbl/
 	;gây tranh cãi -- (1) not certain because people can have different ideas and opinions about the thing being discussed
 		;SYNONYM arguable, questionable
 		;<< arguable, questionable, debatable, >>
@@ -625,8 +622,7 @@
 
 
 
-[-] decidedly		<-->	adverb++C2	[230806][001]	./dɪˈsaɪdɪdli/
- /dɪˈsaɪdɪdli/
+[-] decidedly		<-->	adverb++C2	[230806][001]	./dɪˈsaɪdɪdli/-NAmE /dɪˈsaɪdɪdli/
 	;quả quyết -- (1) (used with an adjective or adverb) definitely and in an obvious way
 		;Amy was looking decidedly worried.
 		;Their relationship is beginning to look decidedly shaky.
@@ -643,8 +639,7 @@
 
 
 
-[-] definite		<-->	noun++B2	[230806][001]	./ˈdefɪnət/
- /ˈdefɪnət/
+[-] definite		<-->	noun++B2	[230806][001]	./ˈdefɪnət/-NAmE /ˈdefɪnət/
 [singular] (informal)
 	;một điều rõ ràng -- (1) ​something that you are certain about or that you know will happen; somebody who is sure to do something
 		;‘We're moving our office to Glasgow.’ ‘That's a definite, is it?’
@@ -716,8 +711,7 @@
 
 
 
-[-] dogmatic		<-->	adjective++C2	[230806][001]	./dɒɡˈmætɪk/
- /dɔːɡˈmætɪk/
+[-] dogmatic		<-->	adjective++C2	[230806][001]	./dɒɡˈmætɪk/-NAmE /dɔːɡˈmætɪk/
 (disapproving)	
 	;giáo điều, bảo thủ -- (1) ​being certain that your beliefs are right and that others should accept them, without paying attention to evidence or other opinions
 		;a dogmatic approach
@@ -732,8 +726,7 @@
 
 
 
-[-] dogmatically		<-->	adverb++C2	[230806][001]	./dɒɡˈmætɪkli/
- /dɔːɡˈmætɪkli/
+[-] dogmatically		<-->	adverb++C2	[230806][001]	./dɒɡˈmætɪkli/-NAmE /dɔːɡˈmætɪkli/
 (disapproving)
 	;giáo điều, bảo thủ -- (1) ​in a way that shows you are certain that your beliefs are right and that others should accept them, without paying attention to evidence or other opinions
 		;Nowhere in the report does she provide evidence for these assertions: they are merely dogmatically stated as fact.
@@ -762,8 +755,7 @@
 
 
 
-[-] doubtful		<-->	adjective++C1	[230806][001]	./ˈdaʊtfl/
- /ˈdaʊtfl/
+[-] doubtful		<-->	adjective++C1	[230806][001]	./ˈdaʊtfl/-NAmE /ˈdaʊtfl/
 	;đáng ngờ, rất nghi ngại -- (1) (of a person) not sure; uncertain and feeling doubt
 		;SYNONYM dubious
 		;<< doubtful, dubious, suspicious, >> 
@@ -865,8 +857,7 @@
 
 
 
-[-] giveaway		<-->	noun++C2	[230818][001]	./ˈɡɪvəweɪ/
- /ˈɡɪvəweɪ/-\
+[-] giveaway		<-->	noun++C2	[230818][001]	./ˈɡɪvəweɪ/-NAmE /ˈɡɪvəweɪ/-\
 (informal)
 	;quà tặng -- (1) something that a company gives free, usually with something else that is for sale
 		;There's lots of amazing giveaways, from cinema tickets to film posters.
@@ -891,8 +882,7 @@
 
 
 
-[-] guarantor		<-->	noun++C2	[230818][001]	./ˌɡærənˈtɔː(r)/
- /ˌɡærənˈtɔːr/
+[-] guarantor		<-->	noun++C2	[230818][001]	./ˌɡærənˈtɔː(r)/-NAmE /ˌɡærənˈtɔːr/
 (formal or law)
 	;người bảo lãnh -- (1) a person who agrees to be responsible for somebody or for making sure that something happens or is done
 		;The United Nations will act as guarantor of the peace settlement.
@@ -916,8 +906,7 @@
 
 
 
-[-] guessing game		<-->	noun++B2	[230818][001]	./ˈɡesɪŋ ɡeɪm/
- /ˈɡesɪŋ ɡeɪm/
+[-] guessing game		<-->	noun++B2	[230818][001]	./ˈɡesɪŋ ɡeɪm/-NAmE /ˈɡesɪŋ ɡeɪm/
 	;trò chơi đoán -- (1) ​a game in which you have to guess the answers to questions
 		;TOPICS Games and toysB2, Doubt, guessing and certaintyB2
 	; -- (2) 
@@ -925,8 +914,7 @@
 
 
 
-[-] guesstimate		<-->	noun++C2	[230818][001]	./ˈɡestɪmət/
- /ˈɡestɪmət/
+[-] guesstimate		<-->	noun++C2	[230818][001]	./ˈɡestɪmət/-NAmE /ˈɡestɪmət/
 (also guestimate)
 (informal)
 	;một ước lượng -- (1) an attempt to calculate something that is based more on guessing than on information
@@ -936,8 +924,7 @@
 
 
 
-[-] guesswork		<-->	noun++C1	[230818][001]	./ˈɡeswɜːk/
- /ˈɡeswɜːrk/
+[-] guesswork		<-->	noun++C1	[230818][001]	./ˈɡeswɜːk/-NAmE /ˈɡeswɜːrk/
 [uncountable]
 	;sự phán đoán, công việc ước lượng -- (1) ​the process of trying to find an answer by guessing when you do not have enough information to be sure
 		;It was pure guesswork on our part.
@@ -960,8 +947,7 @@
 
 
 
-[-] guestimate		<-->	noun++C2	[230818][001]	./ˈɡestɪmət/
- /ˈɡestɪmət/
+[-] guestimate		<-->	noun++C2	[230818][001]	./ˈɡestɪmət/-NAmE /ˈɡestɪmət/
 (also guestimate)
 (informal)
 	;một ước lượng -- (1) an attempt to calculate something that is based more on guessing than on information
@@ -974,8 +960,7 @@
 
 
 
-[-] halting		<-->	adjective++C2[-0]	. /ˈhɔːltɪŋ/,  /ˈhɒltɪŋ/
- /ˈhɔːltɪŋ/
+[-] halting		<-->	adjective++C2	[230818][001]	./ˈhɔːltɪŋ/,  /ˈhɒltɪŋ/-NAmE /ˈhɔːltɪŋ/
 [usually before noun]
 	;tạm dừng -- (1) ​(especially of speech or movement) stopping and starting often, especially because you are not certain or are not very confident
 		;SYNONYM hesitant
@@ -992,8 +977,7 @@
 
 
 
-[-] haltingly		<-->	adverb++C2	[230818][001]	./ˈhɔːltɪŋli/,  /ˈhɒltɪŋli/
- /ˈhɔːltɪŋli/
+[-] haltingly		<-->	adverb++C2	[230818][001]	./ˈhɔːltɪŋli/,  /ˈhɒltɪŋli/-NAmE /ˈhɔːltɪŋli/
 	;tạm dừng -- (1) ​if you speak or move haltingly, you stop and start often, especially because you are not certain or are not very confident
 		;SYNONYM hesitantly
 		;‘Well…’ she began haltingly.
@@ -1032,8 +1016,7 @@
 
 
 
-[-] hesitation		<-->	noun++C1	[230818][001]	./ˌhezɪˈteɪʃn/
- /ˌhezɪˈteɪʃn/
+[-] hesitation		<-->	noun++C1	[230818][001]	./ˌhezɪˈteɪʃn/-NAmE /ˌhezɪˈteɪʃn/
 	; -- (1) ​[uncountable, countable] the act of being slow to speak or act because you feel uncertain or nervous
 		;She agreed without the slightest hesitation.
 		;He spoke fluently and without unnecessary hesitations.
@@ -1079,8 +1062,7 @@
 
 
 
-[-] if		<-->	noun++C2	[230818][001]	./ɪf/
- /ɪf/
+[-] if		<-->	noun++C2	[230818][001]	./ɪf/-NAmE /ɪf/
 (informal)
 	;tình huống chưa rõ ràng -- (1) a situation that is not certain
 		;If he wins—and it's a big if—he'll be the first Englishman to win for fifty years.
@@ -1089,8 +1071,7 @@
 
 
 
-[-] iffy		<-->	adjective++C2	[230818][001]	./ˈɪfi/
- /ˈɪfi/
+[-] iffy		<-->	adjective++C2	[230818][001]	./ˈɪfi/-NAmE /ˈɪfi/
 (informal)
 	;hơi tệ -- (1) ​(especially British English) not in perfect condition; bad in some way
 		;That meat smells a bit iffy to me.
@@ -1120,8 +1101,7 @@
 
 
 
-[-] inconclusive		<-->	adjective++C1	[230818][001]	./ˌɪnkənˈkluːsɪv/
- /ˌɪnkənˈkluːsɪv/
+[-] inconclusive		<-->	adjective++C1	[230818][001]	./ˌɪnkənˈkluːsɪv/-NAmE /ˌɪnkənˈkluːsɪv/
 	;bất phân thắng bại -- (1) not leading to a definite decision or result
 		;inconclusive evidence/results/tests
 		;inconclusive discussions
@@ -1194,290 +1174,348 @@
 
 
 
-[-] lend colour to something		<-->	idiom++C2[-0]	.
+[-] lend colour to something		<-->	idiom++C2	[230818][001]	./i/
+	;tô hồng -- (1) (British English, formal) to make something seem true or likely
+		;Most of the available evidence lends colour to this view.
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] let the dust settle		<-->	idiom++C2	[230818][001]	./i/
+	;để bụi lắng xuống -- (1) to wait for a situation to become clear or certain
+		;He waited for the dust to settle after the election before making any new decisions.
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] likely		<-->	adjective++A2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] let the dust settle		<-->	idiom++C2[-0]	.
+[-] look		<-->	verb++B1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] likely		<-->	adjective++A2[-0]	.
+[-] make certain of something/of doing something		<-->	idiom++C1	[230818][001]	./i/
+	;đảm bảo cho st -- (1) to do something in order to be sure that something else will happen
+		;You'll have to leave soon to make certain of getting there on time.
+		;TOPICS Doubt, guessing and certaintyC1
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] make sure (of something/that…)		<-->	idiom+A2	[230818][001]	./i/
+	;đảm bảo -- (1) to do something in order to be certain that something else happens
+		;Make sure (that) no one finds out about this.
+		;They scored another goal and made sure of victory.
+		;Our staff will do their best to make sure you enjoy your visit.
+		;To make doubly sure they would not be disturbed she turned the key in the lock.
+		;TOPICS Doubt, guessing and certaintyA2
+
+
+
+
+
+
+
+
+
+
+[-] nailed on		<-->	adjective++C2	[230818][001]	./ˌneɪld ˈɒn/-NAmE /ˌneɪld ˈɑːn/
+(British English, informal)
+	;như đinh dóng cột -- (1) certain or definite
+		;The referee refused to award a nailed-on penalty.
+		; be nailed on for something He thought he was nailed on for the England job.
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] no doubt		<-->	idiom+B2	[230818][001]	./i/
+	;không nghi ngờ gì -- (1)  used when you are saying that something is likely
+		;No doubt she'll call us when she gets there.
+		;TOPICS Doubt, guessing and certaintyB2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] notional		<-->	adjective++C2	[230818][001]	./ˈnəʊʃənl/-NAmE /ˈnəʊʃənl/
+(formal)
+	;đáng chú ý -- (1) based on a guess, estimate or theory; not existing in reality
+		;My calculation is based on notional figures, since the actual figures are not yet available.
+		;TOPICS Doubt, guessing and certaintyC2
+		;Word Origin
+
+
+
+[-] not necessarily		<-->	idiom++B1	[230818][001]	./i/
+	;không nhất thiết -- (1) used to say that something is possibly true but not definitely or always true
+		;Biggest doesn't necessarily mean best.
+		;It isn't necessarily true that sugar is bad for you.
+		;The more expensive articles are not necessarily better.
+		;‘We're going to lose.’ ‘Not necessarily.’
+		;The views in this article do not necessarily reflect those of the college.
+		;TOPICS Doubt, guessing and certaintyB1
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] off the top of your head		<-->	idiom++C2	[230818][001]	./i/
+	;chỉ đoán mò -- (1) (informal) just guessing or using your memory, without taking time to think carefully or check the facts
+		;I can't remember the name off the top of my head, but I can look it up for you.
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] on spec		<-->	idiom++C2	[230818][001]	./i/
+	;có sẵn -- (1) ​(informal) when you do something on spec, you are trying to achieve something without organizing it in advance, but hoping you will be lucky
+		;A lot of young people apply for jobs on spec (= not in reply to an advertisement, but hoping that a job might 		;be available).
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] or somebody/something/somewhere		<-->	idiom+B1	[230818][001]	./i/
+	;cũng như st ... -- (1) ​(informal) used when you are not exactly sure about a person, thing or place
+		;He's a factory supervisor or something.
+		;‘Who said so?’ ‘Oh, somebody or other. I can't remember who it was.’
+		;TOPICS Doubt, guessing and certaintyB1
+
+
+
+[-] or what		<-->	idiom++C1	[230818][001]	./i/ (informal)
+	;hay cái gì -- (1) used to emphasize your opinion
+		;Is he stupid or what?
+		;TOPICS Opinion and argumentC1
+	;hay cái gì -- (2) used when you are not sure about something
+		;I don't know if he's a teacher or what.
+		;Are we going now or what?
+		;TOPICS Doubt, guessing and certaintyC1	
+	; -- (3) 
+
+
+
+
+
+
+[-] outlook		<-->	noun++C1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] look		<-->	verb++B1[-0]	.
+[-] paradox		<-->	noun++C1	[230818][001]	./ˈpærədɒks/-NAmE /ˈpærədɑːks/
+	;một người nghịch lý -- (1) [countable] a person, thing or situation that has two opposite features and therefore seems strange
+		;He was a paradox—a loner who loved to chat to strangers.
+		;It is a curious paradox that professional comedians often have unhappy personal lives.
+		;Extra Examples:
+		;The author tackles one of the deepest paradoxes of life.
+		;The facts pose something of a paradox.
+		;the paradox in the relationship between creativity and psychosis
+		;The paradox about time is that it seems to go faster as we become older and less active.
+				;Oxford Collocations Dictionary
+				;adjective
+				;apparentseeminggreat…
+				;verb + paradox
+				;createposepresent…
+				;preposition
+				;paradox aboutparadox betweenparadox in…
+				;phrases
+				;by a curious paradox
+		;See full entry
+	;một nghịch lý -- (2) [countable, uncountable] a statement containing two opposite ideas that make it seem impossible or unlikely, although it is probably true; the use of this in writing
+		;‘More haste, less speed’ is a well-known paradox.
+		;It's a work full of paradox and ambiguity.
+		;Wordfinder: alliterationeuphemismfigure of speechhyperboleimagelitotesmetaphormetonymyonomatopoeiaparadox
+		;TOPICS Doubt, guessing and certaintyC1, LanguageC1
+		;Word Origin
+
+
+
+[-] paradoxical		<-->	adjective++C1	[230818][001]	./ˌpærəˈdɒksɪkl/-NAmE /ˌpærəˈdɑːksɪkl/
+	;nghịch lý -- (1) (of a person, thing or situation) having two opposite features and therefore seeming strange
+		;It is paradoxical that some of the poorest people live in some of the richest areas of the country.
+	;nghịch lý -- (2) (of a statement) containing two opposite ideas that make it seem impossible or unlikely, although it is probably true
+		;These seemingly paradoxical statements need to be looked at a little further to get the true picture.
+		;TOPICS Doubt, guessing and certaintyC1
+
+
+[-] perhaps		<-->	adverb++A2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] make certain of something/of doing something		<-->	idiom++C1[-0]	.
+[-] positive		<-->	adjective++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] make sure (of something/that…)		<-->	idiom++A2[-0]	.
+[-] possibility		<-->	noun++A2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] maymodal 		<-->	verb++A2[-0]	.
+[-] possible		<-->	adjective++A1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] maybe		<-->	adverb++A1[-0]	.
+[-] possibly		<-->	adverb++B1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] mightmodal 		<-->	verb++A2[-0]	.
+[-] predict		<-->	verb++A2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] nailed on		<-->	adjective++C2[-0]	.
+[-] prediction		<-->	noun++B1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] no doubt		<-->	idiom++B2[-0]	.
+[-] presumably		<-->	adverb++C1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] notional		<-->	adjective++C2[-0]	.
+[-] presumption		<-->	noun++C2	[230818][001]	./d/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] not necessarily		<-->	idiom++B1[-0]	.
+[-] probabilistic		<-->	adjective++C2	[230818][001]	./d/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] off the top of your head		<-->	idiom++C2[-0]	.
+[-] probability		<-->	noun++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] on spec		<-->	idiom++C2[-0]	.
+[-] probable		<-->	adjective++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] or somebody/something/somewhere		<-->	idiom++B1[-0]	.
+[-] probably		<-->	adverb++A1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] or what		<-->	idiom++C1[-0]	.
-	; -- (1) 
+[-] put/set somebody straight (about/on something)		<-->	idiom++C2	[230818][001]	./i/
+	;chỉnh sửa -- (1) ​to correct somebody’s mistake; to make sure that somebody knows the correct facts when they have had the wrong idea or impression
+		;She soon set me straight about what had happened.
+		;TOPICS Doubt, guessing and certaintyC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] ought tomodal 		<-->	verb++B2[-0]	.
-	; -- (1) 
+[-] put two and two together		<-->	idiom++C2	[230818][001]	./i/
+	;có xu hướng -- (1) to guess the truth from what you see, hear, etc.
+		;He's inclined to put two and two together and make five (= reaches the wrong conclusion from what he sees, 		;hears, etc.).
+		;TOPICS Doubt, guessing and certaintyC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] outlook		<-->	noun++C1[-0]	.
-	; -- (1) 
+[-] put your money on somebody/something		<-->	idiom++C2	[230818][001]	./i/
+	;đặt cược vào -- (1) to feel very sure that something is true or that somebody will succeed
+		;He'll be there tonight. I'd put money on it.
+		;TOPICS Doubt, guessing and certaintyC2, SuccessC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] paradox		<-->	noun++C1[-0]	.
-	; -- (1) 
+[-] racing certainty		<-->	noun++C2	[230818][001]	./ˌreɪsɪŋ ˈsɜːtnti/-NAmE /ˌreɪsɪŋ ˈsɜːrtnti/
+(British English, informal)
+	;điều chắc chắn -- (1) a thing that is certain to happen
+		;It's a racing certainty that the vote will go against him.
+		;Success for the project seems a racing certainty.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] re		<-->	preposition++B2[-0]	./riː/ (2) 
+ /riː/
+	;gởi lại -- (1) ​used at the beginning of a business letter, etc. to introduce the subject that it is about; used on an email that you are sending as a reply
+		;Re your letter of 1 September…
+		;Re: travel expenses
+		;Wordfinder: addressattachmentcomposedraftemailemoticonforwardinboxmessagere
+		;TOPICS Phones, email and the internetC2
+
+
+
+[-] red-hot		<-->	adjective++C2[-0]	./ˌred ˈhɒt/
+ /ˌred ˈhɑːt/
+	; -- (1) (of metal or something burning) so hot that it looks red
+		;Red-hot coals glowed in the fire.
+		;They heated up the pokers until they were red-hot.
 	; -- (2) 
-	; -- (3) 
+	;hạt giống -- (4) used to describe the person, animal or team that is considered almost certain to win a race, etc.
+		;The race was won by the red-hot favourite.
+		;TOPICS Doubt, guessing and certaintyC2
 
 
 
-[-] paradoxical		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] perhaps		<-->	adverb++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] positive		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] possibility		<-->	noun++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] possible		<-->	adjective++A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] possibly		<-->	adverb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] predict		<-->	verb++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] prediction		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] presumably		<-->	adverb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] presumption		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] probabilistic		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] probability		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] probable		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] probably		<-->	adverb++A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] put/set somebody straight (about/on something)		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] put two and two together		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] put your money on somebody/something		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] racing certainty		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] re		<-->	adverb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] red-hot		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] reputed		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] reputed		<-->	adjective++C2[-0]	./rɪˈpjuːtɪd/
+ /rɪˈpjuːtɪd/
+[not usually before noun]
+	;nổi tiếng -- (1) generally thought to be something or to have done something, although this is not certain
+		;SYNONYM rumoured
+		; reputed (to be something) He is reputed to be the best heart surgeon in the country.
+		; reputed (to have done something) The house is wrongly reputed to have been the poet's birthplace.
+		;She sold her share of the company for a reputed £7 million.
+		;TOPICS Doubt, guessing and certaintyC2, Opinion and argumentC2
 
 
 
@@ -1488,107 +1526,205 @@
 
 
 
-[-] robust		<-->	adjective++C1[-0]	.
+[-] robust		<-->	adjective++C1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] robustly		<-->	adverb++C1[-0]	.
+[-] robustly		<-->	adverb++C1[-0]	./rəʊˈbʌstli/
+ /rəʊˈbʌstli/
+	; -- (1) in a strong and healthy way
+		;The plants grew robustly.
+	; -- (2) 
+	;mạnh mẽ -- (3) in a strong or determined way that shows you are sure about what you are doing or saying
+		;They defended their policies robustly.
+		;TOPICS Doubt, guessing and certaintyC1
+
+
+
+[-] robustness		<-->	noun++C1[-0]	./rəʊˈbʌstnəs/
+ /rəʊˈbʌstnəs/
+[uncountable]
+	;sự mạnh mẽ -- (1) the state of being strong and healthy
+		;SYNONYM strength (1)
+		;His mental robustness helped him to cope in the aftermath of the trial.
+	; -- (2) 
+	;sự mạnh mẽ -- (4) the quality of being strong and determined because you are sure about what you are doing or saying
+		;She confronted her critics with typical robustness.
+		;TOPICS Doubt, guessing and certaintyC1
+
+
+
+[-] second-guess		<-->	verb++C2[-0]	./ˌsekənd ˈɡes/
+ /ˌsekənd ˈɡes/
+	;đoán được -- (1) ​[transitive] second-guess somebody/something/yourself to guess what somebody will do before they do it; to guess how you will feel in the future
+		;It was impossible to second-guess the decision of the jury.
+		;It's one of the toughest decisions you'll ever make and you may still be second-guessing yourself .
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] set		<-->	adjective++C1[-0]	./set/
+ /set/
+	;ở vị trí cụ thể -- (1) in a particular position
+		;a house set in 40 acres of parkland
+		;He had close-set eyes.
+		;Extra Examples:
+		;The holiday homes are set in pleasant grounds.
+		;Their house was set back from the road.
+	; -- (2) 
+	;sẵn sàng -- (5) [-likely/ready] likely to do something; ready for something or to do something
+		; set for something The team looks set for victory.
+		; set to do something Interest rates look set to rise again.
+		;Be set to leave by 10 o'clock.
+		;Get set… Go!
+		;Language Bank expect
+		;TOPICS Doubt, guessing and certaintyC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;belookseem…
+				;adverb
+				;all
+				;preposition
+				;for
+		;See full entry
+
+
+
+[-] shake		<-->	verb++C2[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;lay chuyển -- [A2-C2] (9) [-belief/idea] [transitive] shake something to make a belief or an idea less certain
+		;The incident had shaken her faith in him.
+		;This announcement is bound to shake the confidence of the industry.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+
+[-] shaky		<-->	adjective++C2[-0]	./ˈʃeɪki/
+ /ˈʃeɪki/
+(comparative shakier, superlative shakiest)
+	;không vững vàng -- (1) shaking and feeling weak, for example because you are ill or feel emotional
+		;SYNONYM unsteady
+		;Her voice sounded shaky on the phone.
+		;The virus left him shaky on his feet.
+		;My legs still felt quite shaky.
+		;Extra Examples:
+		;The experience had left him rather shaky.
+		;You've gone all shaky!
+		;TOPICS Health problemsC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeelseem…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;with
+		;See full entry
+	;không vững vàng -- (2) not stable, steady or safe; not certain
+		;That ladder looks a little shaky.
+		; (figurative) Her memories of the accident are a little shaky.
+		; (figurative) The protesters are on shaky ground (= it is not certain that their claims are valid).
+		;TOPICS Doubt, guessing and certaintyC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;extremelyfairlyvery…
+		;See full entry
+	;không chắc chắn -- (3) not seeming very successful; likely to fail
+		;SYNONYM uncertain
+		;Business is looking shaky at the moment.
+		;After a shaky start, they fought back to win 3–2.
+		;The future looks shaky for the present government.
+		;TOPICS Difficulty and failureC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;extremelyfairlyvery…
+		;See full entry
+
+
+
+
+
+
+
+[-] slam dunk		<-->	noun++C2[-0]	./ˈslæm dʌŋk/
+ /ˈslæm dʌŋk/
+	; -- (1) ​(in basketball) the act of jumping up and putting the ball through the net with a lot of force
+		;TOPICS Sports: ball and racket sportsC2
+	;vang dội -- (2) ​(North American English, informal) something that is certain to be successful
+		;Politically, this issue is a slam dunk for the party.
+		;The movie is sure to be a slam-dunk hit.
+		;TOPICS Doubt, guessing and certaintyC2, SuccessC2
+
+
+
+[-] somehow		<-->	adverb++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] robustness		<-->	noun++C1[-0]	.
+[-] someway		<-->	adverb++C2[-0]	./ˈsʌmweɪ/
+ /ˈsʌmweɪ/
+(also someways  /ˈsʌmweɪz/  /ˈsʌmweɪz/)
+(both North American English, informal)
+(also somehow British and North American English)
+	;bằng cách nào đó -- (1) in a way that is not known or certain
+		;We need to make this work someway.
+		;Somehow, someway, the impossible happened.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] speculate		<-->	verb++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] second-guess		<-->	verb++C2[-0]	.
+[-] speculation		<-->	noun++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] set		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] speculative		<-->	adjective++C1[-0]	./ˈspekjələtɪv/
+ /ˈspekjələtɪv/,  /ˈspekjəleɪtɪv/
+	;dò xét -- (1) based on guessing or on opinions that have been formed without knowing all the facts
+		;The report is highly speculative and should be ignored.
+		;TOPICS Opinion and argumentC1, Doubt, guessing and certaintyC1
+	;dò xét -- (2) ​showing that you are trying to guess something
+		;She cast a speculative look at Kate.
+		;TOPICS Doubt, guessing and certaintyC1
 	; -- (3) 
 
 
 
-[-] shake		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] shaky		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] shouldmodal 		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] slam dunk		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] somehow		<-->	adverb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] someway		<-->	adverb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] speculate		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] speculation		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] speculative		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] speculatively		<-->	adverb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] speculatively		<-->	adverb++C1[-0]	./ˈspekjələtɪvli/
+ /ˈspekjələtɪvli/
+	;dò xét -- (1) in a way that is based on guessing or on opinions that have been formed without knowing all the facts
+		;We do not know the answer to this question, and it can only be answered speculatively.
+		;TOPICS Opinion and argumentC1, Doubt, guessing and certaintyC1
+	;dò xét -- (2) in a way that shows that you are trying to guess something
+		;She paused and looked speculatively at Angelo.
+		;TOPICS Doubt, guessing and certaintyC1
+				;Oxford Collocations Dictionary
+				;Speculatively is used with these verbs:
+				;eyelook
+		;See full entry
 	; -- (3) 
 
 
@@ -1852,10 +1988,6 @@
 
 
 
-[-] willmodal 		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
@@ -1866,10 +1998,6 @@
 
 
 
-[-] wouldmodal 		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
