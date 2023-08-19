@@ -1485,7 +1485,7 @@
 
 
 
-[-] re		<-->	preposition++B2[-0]	./riː/ (2) 
+[-] re		<-->	preposition++B2	[230818][001]	./riː/ (2) 
  /riː/
 	;gởi lại -- (1) ​used at the beginning of a business letter, etc. to introduce the subject that it is about; used on an email that you are sending as a reply
 		;Re your letter of 1 September…
@@ -1495,7 +1495,7 @@
 
 
 
-[-] red-hot		<-->	adjective++C2[-0]	./ˌred ˈhɒt/
+[-] red-hot		<-->	adjective++C2	[230818][001]	./ˌred ˈhɒt/
  /ˌred ˈhɑːt/
 	; -- (1) (of metal or something burning) so hot that it looks red
 		;Red-hot coals glowed in the fire.
@@ -1507,7 +1507,7 @@
 
 
 
-[-] reputed		<-->	adjective++C2[-0]	./rɪˈpjuːtɪd/
+[-] reputed		<-->	adjective++C2	[230818][001]	./rɪˈpjuːtɪd/
  /rɪˈpjuːtɪd/
 [not usually before noun]
 	;nổi tiếng -- (1) generally thought to be something or to have done something, although this is not certain
@@ -1526,14 +1526,14 @@
 
 
 
-[-] robust		<-->	adjective++C1[-0]	./cef/
+[-] robust		<-->	adjective++C1	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] robustly		<-->	adverb++C1[-0]	./rəʊˈbʌstli/
+[-] robustly		<-->	adverb++C1	[230818][001]	./rəʊˈbʌstli/
  /rəʊˈbʌstli/
 	; -- (1) in a strong and healthy way
 		;The plants grew robustly.
@@ -1544,7 +1544,7 @@
 
 
 
-[-] robustness		<-->	noun++C1[-0]	./rəʊˈbʌstnəs/
+[-] robustness		<-->	noun++C1	[230818][001]	./rəʊˈbʌstnəs/
  /rəʊˈbʌstnəs/
 [uncountable]
 	;sự mạnh mẽ -- (1) the state of being strong and healthy
@@ -1557,7 +1557,7 @@
 
 
 
-[-] second-guess		<-->	verb++C2[-0]	./ˌsekənd ˈɡes/
+[-] second-guess		<-->	verb++C2	[230818][001]	./ˌsekənd ˈɡes/
  /ˌsekənd ˈɡes/
 	;đoán được -- (1) ​[transitive] second-guess somebody/something/yourself to guess what somebody will do before they do it; to guess how you will feel in the future
 		;It was impossible to second-guess the decision of the jury.
@@ -1568,7 +1568,7 @@
 
 
 
-[-] set		<-->	adjective++C1[-0]	./set/
+[-] set		<-->	adjective++C1	[230818][001]	./set/
  /set/
 	;ở vị trí cụ thể -- (1) in a particular position
 		;a house set in 40 acres of parkland
@@ -1595,7 +1595,7 @@
 
 
 
-[-] shake		<-->	verb++C2[-0]	./cef/
+[-] shake		<-->	verb++C2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1607,7 +1607,7 @@
 
 
 
-[-] shaky		<-->	adjective++C2[-0]	./ˈʃeɪki/
+[-] shaky		<-->	adjective++C2	[230818][001]	./ˈʃeɪki/
  /ˈʃeɪki/
 (comparative shakier, superlative shakiest)
 	;không vững vàng -- (1) shaking and feeling weak, for example because you are ill or feel emotional
@@ -1657,7 +1657,7 @@
 
 
 
-[-] slam dunk		<-->	noun++C2[-0]	./ˈslæm dʌŋk/
+[-] slam dunk		<-->	noun++C2	[230818][001]	./ˈslæm dʌŋk/
  /ˈslæm dʌŋk/
 	; -- (1) ​(in basketball) the act of jumping up and putting the ball through the net with a lot of force
 		;TOPICS Sports: ball and racket sportsC2
@@ -1668,14 +1668,14 @@
 
 
 
-[-] somehow		<-->	adverb++B2[-0]	./cef/
+[-] somehow		<-->	adverb++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] someway		<-->	adverb++C2[-0]	./ˈsʌmweɪ/
+[-] someway		<-->	adverb++C2	[230818][001]	./ˈsʌmweɪ/
  /ˈsʌmweɪ/
 (also someways  /ˈsʌmweɪz/  /ˈsʌmweɪz/)
 (both North American English, informal)
@@ -1687,21 +1687,21 @@
 
 
 
-[-] speculate		<-->	verb++B2[-0]	./cef/
+[-] speculate		<-->	verb++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] speculation		<-->	noun++B2[-0]	./cef/
+[-] speculation		<-->	noun++B2	[230818][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] speculative		<-->	adjective++C1[-0]	./ˈspekjələtɪv/
+[-] speculative		<-->	adjective++C1	[230818][001]	./ˈspekjələtɪv/
  /ˈspekjələtɪv/,  /ˈspekjəleɪtɪv/
 	;dò xét -- (1) based on guessing or on opinions that have been formed without knowing all the facts
 		;The report is highly speculative and should be ignored.
@@ -1713,7 +1713,7 @@
 
 
 
-[-] speculatively		<-->	adverb++C1[-0]	./ˈspekjələtɪvli/
+[-] speculatively		<-->	adverb++C1	[230818][001]	./ˈspekjələtɪvli/
  /ˈspekjələtɪvli/
 	;dò xét -- (1) in a way that is based on guessing or on opinions that have been formed without knowing all the facts
 		;We do not know the answer to this question, and it can only be answered speculatively.

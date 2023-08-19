@@ -5,8 +5,9 @@ extern "C" {
 #endif
 
 typedef struct {
-	unsigned long long total;
-	unsigned long long used_data;
+	unsigned long long total; // current size
+	unsigned long long used_data; 
+
 	int sz_item;
 	
 	char data[0];

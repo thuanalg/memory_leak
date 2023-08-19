@@ -76,8 +76,7 @@ int main(int argc, char **argv)
             }
             count++;
         }
-    }else
-    { 
+    } else { 
         Image imageIn = readImage(argv[2]);
         if (strcmp(argv[1], "linearContrastSaturation") == 0)
         {  
