@@ -1729,45 +1729,65 @@
 
 
 
-[-] stand a chance (of doing something)		<-->	idiom++C1[-0]	.
+[-] stand a chance (of doing something)		<-->	idiom++C1[0]	./i/
+	; -- (1) 
+	;có cơ hội -- (2) to have the possibility of succeeding or achieving something
+		;The driver didn't stand a chance of stopping in time.
+		;He doesn't stand a chance of winning against such an experienced player.
+		;TOPICS Doubt, guessing and certaintyC1
+	; -- (3) 
+
+
+
+[-] supposedly		<-->	adverb++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] supposedly		<-->	adverb++C1[-0]	.
+[-] sure		<-->	adjective++B1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] sure		<-->	adjective++B1[-0]	.
+[-] sure-fire		<-->	adjective++C2[0]	./ˈʃʊə faɪə(r)/,  /ˈʃɔː faɪə(r)/
+ /ˈʃʊr faɪər/
+[only before noun] (informal)
+	;chắc chắn -- (1) certain to be successful or to happen as you expect
+		;a sure-fire success
+		;Bad behaviour is a sure-fire way of getting people’s attention.
+		;TOPICS Doubt, guessing and certaintyC2, SuccessC2
+		;Oxford Collocations Dictionary
+		;Sure-fire is used with these nouns:
+		;recipeway
+		;See full entry
+
+
+
+[-] surely		<-->	adverb++B1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] sure-fire		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] surely		<-->	adverb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] surmise		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] surmise		<-->	verb++C2[0]	./səˈmaɪz/
+ /sərˈmaɪz/
+(formal)
+	;phỏng đoán -- (1) ​to guess or suppose something using the evidence you have, without definitely knowing
+		;SYNONYM conjecture
+		; surmise (that)… From the looks on their faces, I surmised that they had had an argument.
+		; surmise what, where, etc… It is difficult to surmise where she might have been staying.
+		; surmise something I can only surmise his reasons for acting as he did.
+		; + speech ‘They must have been here first,’ Julie surmised.
+		;Extra Examples:
+		;Both men rightly surmised that he had left the building.
+		;What he had done with the money can only be surmised.
+		;TOPICS Doubt, guessing and certaintyC2
+		;Word Origin
 
 
 

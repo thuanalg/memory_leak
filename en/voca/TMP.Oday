@@ -953,7 +953,7 @@
 
 
 
-[-] spinney		<-->	n++[--0]	.[orw.047] [230822]
+[-] spinney		<-->	n++[--0]	.[orw.047] [230822] [orw.052]
 	;rừng nhỏ -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1043,7 +1043,7 @@
 
 
 
-[-] lurk		<-->	verb++[--0]	.[orw.049] [230822]
+[-] lurk		<-->	verb++[--0]	.[orw.050] [230822]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1061,7 +1061,7 @@
 
 
 
-[-] slink		<-->	verb++[--0]	.[orw.049] [230822]
+[-] slink		<-->	verb++[--0]	.[orw.050] [230822]
 	;lỉnh đi -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1079,7 +1079,7 @@
 
 
 
-[-] tumult		<-->	n++[--0]	.[orw.049] [230822]
+[-] tumult		<-->	n++[--0]	.[orw.050] [230822]
 	;sự hỗn loạn -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1097,7 +1097,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] incite		<-->	verb++[--0]	.[orw.051] [230822]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1115,7 +1115,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] slay		<-->	verb++[--0]	.[orw.051] [230822]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1133,7 +1133,43 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] on the spot		<-->	p.verb+B2[--0]	.[orw.051] [230822]
+	;ngay tại chỗ -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] in place		<-->	p.verb+B2[--0]	.[orw.051] [230822]
+	;ngay tại chỗ  -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] league		<-->	verb++[--0]	.[orw.051] [230822]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1151,7 +1187,41 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] huddle		<-->	verb++[--0]	./ˈhʌdl/
+ /ˈhʌdl/\ [orw.052] [230822]
+	;túm tụm -- (1) [intransitive] huddle (up/together) (+ adv./prep.) (of people or animals) to gather closely together, usually because of cold or fear
+		;We huddled together for warmth.
+		;They all huddled around the fire.
+		;People huddled up close to each other.
+	;co ro -- (2) [intransitive] huddle (up) (+ adv./prep.) to hold your arms and legs close to your body, usually because you are cold or frightened
+		;I huddled under a blanket on the floor.
+		;Extra Examples:
+		;Felipe sat huddled in his chair.
+		;He slept, huddled in an armchair.
+		;Karen was huddled against the wall.
+		;She found him huddled in a corner, shaking violently.
+		;She lay huddled under the blankets.
+		;Word Origin
+
+
+
+
+
+
+[-] huddle		<-->	n++[--0]	.[orw.052] [230822]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+[-] huddled		<-->	a++[--0]	.[orw.052] [230822]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1169,7 +1239,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] gild		<-->	verb++[--0]	.[orw.052] [230822]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1187,7 +1257,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] shalt		<-->	verb++[--0]	.[orw.054] [230822]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1205,8 +1275,8 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
+[-] hoist		<-->	verb++[--0]	.[orw.054] [230822]
+	;kéo lên -- (1) 
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -1223,61 +1293,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
+[-] hoist		<-->	n++[--0]	.[orw.054] [230822]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
