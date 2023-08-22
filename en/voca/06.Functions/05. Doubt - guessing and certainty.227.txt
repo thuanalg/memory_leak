@@ -1495,8 +1495,7 @@
 
 
 
-[-] red-hot		<-->	adjective++C2	[230818][001]	./ˌred ˈhɒt/
- /ˌred ˈhɑːt/
+[-] red-hot		<-->	adjective++C2	[230818][001]	./ˌred ˈhɒt/-NAmE /ˌred ˈhɑːt/
 	; -- (1) (of metal or something burning) so hot that it looks red
 		;Red-hot coals glowed in the fire.
 		;They heated up the pokers until they were red-hot.
@@ -1507,8 +1506,7 @@
 
 
 
-[-] reputed		<-->	adjective++C2	[230818][001]	./rɪˈpjuːtɪd/
- /rɪˈpjuːtɪd/
+[-] reputed		<-->	adjective++C2	[230818][001]	./rɪˈpjuːtɪd/-NAmE /rɪˈpjuːtɪd/
 [not usually before noun]
 	;nổi tiếng -- (1) generally thought to be something or to have done something, although this is not certain
 		;SYNONYM rumoured
@@ -1519,10 +1517,13 @@
 
 
 
-[-] reputedly		<-->	adverb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] reputedly		<-->	adverb++C2	[230822][001]	./rɪˈpjuːtɪdli/-NAmE /rɪˈpjuːtɪdli/
+	;có uy tín -- (1) used to say that something is generally thought to be true, although this is not certain
+		;SYNONYM purportedly
+		;<< purportedly, reputedly, >>
+		;He was reputedly a millionaire.
+		;It is reputedly the best hotel in the country.
+		;TOPICS Doubt, guessing and certaintyC2, Opinion and argumentC2
 
 
 
@@ -1533,8 +1534,7 @@
 
 
 
-[-] robustly		<-->	adverb++C1	[230818][001]	./rəʊˈbʌstli/
- /rəʊˈbʌstli/
+[-] robustly		<-->	adverb++C1	[230818][001]	./rəʊˈbʌstli/-NAmE /rəʊˈbʌstli/
 	; -- (1) in a strong and healthy way
 		;The plants grew robustly.
 	; -- (2) 
@@ -1544,8 +1544,7 @@
 
 
 
-[-] robustness		<-->	noun++C1	[230818][001]	./rəʊˈbʌstnəs/
- /rəʊˈbʌstnəs/
+[-] robustness		<-->	noun++C1	[230818][001]	./rəʊˈbʌstnəs/-NAmE /rəʊˈbʌstnəs/
 [uncountable]
 	;sự mạnh mẽ -- (1) the state of being strong and healthy
 		;SYNONYM strength (1)
@@ -1557,8 +1556,7 @@
 
 
 
-[-] second-guess		<-->	verb++C2	[230818][001]	./ˌsekənd ˈɡes/
- /ˌsekənd ˈɡes/
+[-] second-guess		<-->	verb++C2	[230818][001]	./ˌsekənd ˈɡes/-NAmE /ˌsekənd ˈɡes/
 	;đoán được -- (1) ​[transitive] second-guess somebody/something/yourself to guess what somebody will do before they do it; to guess how you will feel in the future
 		;It was impossible to second-guess the decision of the jury.
 		;It's one of the toughest decisions you'll ever make and you may still be second-guessing yourself .
@@ -1568,8 +1566,7 @@
 
 
 
-[-] set		<-->	adjective++C1	[230818][001]	./set/
- /set/
+[-] set		<-->	adjective++C1	[230818][001]	./set/-NAmE /set/
 	;ở vị trí cụ thể -- (1) in a particular position
 		;a house set in 40 acres of parkland
 		;He had close-set eyes.
@@ -1607,8 +1604,7 @@
 
 
 
-[-] shaky		<-->	adjective++C2	[230818][001]	./ˈʃeɪki/
- /ˈʃeɪki/
+[-] shaky		<-->	adjective++C2	[230818][001]	./ˈʃeɪki/-NAmE /ˈʃeɪki/
 (comparative shakier, superlative shakiest)
 	;không vững vàng -- (1) shaking and feeling weak, for example because you are ill or feel emotional
 		;SYNONYM unsteady
@@ -1657,8 +1653,7 @@
 
 
 
-[-] slam dunk		<-->	noun++C2	[230818][001]	./ˈslæm dʌŋk/
- /ˈslæm dʌŋk/
+[-] slam dunk		<-->	noun++C2	[230818][001]	./ˈslæm dʌŋk/-NAmE /ˈslæm dʌŋk/
 	; -- (1) ​(in basketball) the act of jumping up and putting the ball through the net with a lot of force
 		;TOPICS Sports: ball and racket sportsC2
 	;vang dội -- (2) ​(North American English, informal) something that is certain to be successful
@@ -1675,8 +1670,7 @@
 
 
 
-[-] someway		<-->	adverb++C2	[230818][001]	./ˈsʌmweɪ/
- /ˈsʌmweɪ/
+[-] someway		<-->	adverb++C2	[230818][001]	./ˈsʌmweɪ/-NAmE /ˈsʌmweɪ/
 (also someways  /ˈsʌmweɪz/  /ˈsʌmweɪz/)
 (both North American English, informal)
 (also somehow British and North American English)
@@ -1701,8 +1695,7 @@
 
 
 
-[-] speculative		<-->	adjective++C1	[230818][001]	./ˈspekjələtɪv/
- /ˈspekjələtɪv/,  /ˈspekjəleɪtɪv/
+[-] speculative		<-->	adjective++C1	[230818][001]	./ˈspekjələtɪv/-NAmE /ˈspekjələtɪv/,  /ˈspekjəleɪtɪv/
 	;dò xét -- (1) based on guessing or on opinions that have been formed without knowing all the facts
 		;The report is highly speculative and should be ignored.
 		;TOPICS Opinion and argumentC1, Doubt, guessing and certaintyC1
@@ -1713,8 +1706,7 @@
 
 
 
-[-] speculatively		<-->	adverb++C1	[230818][001]	./ˈspekjələtɪvli/
- /ˈspekjələtɪvli/
+[-] speculatively		<-->	adverb++C1	[230818][001]	./ˈspekjələtɪvli/-NAmE /ˈspekjələtɪvli/
 	;dò xét -- (1) in a way that is based on guessing or on opinions that have been formed without knowing all the facts
 		;We do not know the answer to this question, and it can only be answered speculatively.
 		;TOPICS Opinion and argumentC1, Doubt, guessing and certaintyC1
@@ -1729,7 +1721,7 @@
 
 
 
-[-] stand a chance (of doing something)		<-->	idiom++C1[0]	./i/
+[-] stand a chance (of doing something)		<-->	idiom++C1	[230822][001]	./i/
 	; -- (1) 
 	;có cơ hội -- (2) to have the possibility of succeeding or achieving something
 		;The driver didn't stand a chance of stopping in time.
@@ -1739,22 +1731,21 @@
 
 
 
-[-] supposedly		<-->	adverb++C1[0]	./cef/
+[-] supposedly		<-->	adverb++C1	[230822][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] sure		<-->	adjective++B1[0]	./cef/
+[-] sure		<-->	adjective++B1	[230822][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] sure-fire		<-->	adjective++C2[0]	./ˈʃʊə faɪə(r)/,  /ˈʃɔː faɪə(r)/
- /ˈʃʊr faɪər/
+[-] sure-fire		<-->	adjective++C2	[230822][001]	./ˈʃʊə faɪə(r)/,  /ˈʃɔː faɪə(r)/-NAmE /ˈʃʊr faɪər/
 [only before noun] (informal)
 	;chắc chắn -- (1) certain to be successful or to happen as you expect
 		;a sure-fire success
@@ -1767,15 +1758,14 @@
 
 
 
-[-] surely		<-->	adverb++B1[0]	./cef/
+[-] surely		<-->	adverb++B1	[230822][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] surmise		<-->	verb++C2[0]	./səˈmaɪz/
- /sərˈmaɪz/
+[-] surmise		<-->	verb++C2	[230822][001]	./səˈmaɪz/-NAmE /sərˈmaɪz/
 (formal)
 	;phỏng đoán -- (1) ​to guess or suppose something using the evidence you have, without definitely knowing
 		;SYNONYM conjecture
@@ -1791,217 +1781,154 @@
 
 
 
-[-] surmise		<-->	noun++C2[-0]	.
+[-] surmise		<-->	noun++C2	[230822][001]	./ˈsɜːmaɪz/-NAmE /ˈsɜːrmaɪz/
+[uncountable, countable, usually singular] (formal)
+	;sự phỏng đoán -- (1) a guess based on some facts that you know already
+		;This is pure surmise on my part.
+		;He was glad to have his surmise confirmed.
+		;TOPICS Doubt, guessing and certaintyC2
+		;Word Origin
+
+
+[-] suspect		<-->	verb++B2	[230822][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] suspect		<-->	verb++B2[-0]	.
+[-] suspected		<-->	adjective++C1	[230822][001]	./səˈspektɪd/-NAmE /səˈspektɪd/
+	;Word Family
+		suspect verb
+		suspected adjective
+		suspicion noun
+		suspicious adjective
+		suspiciously adverb
+		suspect noun adjective
+	;nghi -- (1) (especially of something bad) believed to have probably happened, although there is no definite proof
+		;a suspected broken arm
+		;suspected tax evasion
+		;TOPICS Doubt, guessing and certaintyC1
+	; -- (3) 
+
+
+
+[-] swear by		<-->	phrasal verb++C2	[230822][001]	./p/
 	; -- (1) 
+	;thề rằng -- (2) [-swear by somebody/something] (not used in the progressive tenses) to be certain that something is good or useful
+		;She swears by meditation as a way of relieving stress.
+		;TOPICS Doubt, guessing and certaintyC2
+	; -- (3) 
+
+
+
+[-] take it for granted (that…)		<-->	idiom++C2	[230822][001]	./i/
+	; -- (1) to believe something is true without first making sure that it is
+I just took it for granted that he'd always be around.
+She seemed to take it for granted that I would go with her to New York.
+TOPICS Doubt, guessing and certaintyC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] suspected		<-->	adjective++C1[-0]	.
-	; -- (1) 
+[-] ten out of ten (for something)		<-->	idiom++B2	[230822][001]	./i/
+	;100% -- (1) (British English, often ironic) used to say that somebody has guessed something correctly or done something very well
+		;Not brilliant, Robyn, but I'll give you ten out of ten for effort.
+		;TOPICS Doubt, guessing and certaintyB2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] swear by		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
+[-] tentative		<-->	adjective++C1	[230822][001]	./ˈtentətɪv/-NAmE /ˈtentətɪv/
+	;mang tính thăm dò -- (1) ​(of an arrangement, agreement, etc.) not definite or certain because you may want to change it later
+		;We made a tentative arrangement to meet on Friday.
+		;tentative conclusions
+		;TOPICS Doubt, guessing and certaintyC1
+
+
+
+[-] tentatively		<-->	adverb++C1	[230822][001]	./ˈtentətɪvli/-NAmE /ˈtentətɪvli/
+	;ngập ngừng, mang tính thăm dò -- (1) in a way that is not definite or certain because you may want to change it later
+		;They have tentatively agreed to our proposal.
+		;TOPICS Doubt, guessing and certaintyC1
+
+
+
+[-] ten to one		<-->	idiom++C2	[230822][001]	./i/
+	;mười lần như một -- (1) ​(informal) very probably
+		;Ten to one he'll be late.
+		;TOPICS Doubt, guessing and certaintyC2
+
+
+
+[-] that depends		<-->	idiom+A2	[230822][001]	./i/
+	;còn tùy -- (1) ​used to say that you are not certain about something because other things have to be considered
+		;‘Is he coming?’ ‘That depends. He may not have the time.’
+		;I don't know if we can help—it all depends.
+		;I might not go. It depends how tired I am.
+		;‘Your job sounds fun.’ ‘It depends what you mean by “fun”.’
+		;I shouldn't be too late. But it depends if the traffic's bad.
+		;TOPICS Doubt, guessing and certaintyA2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] take it for granted (that…)		<-->	idiom++C2[-0]	.
-	; -- (1) 
+[-] the jury is (still) out on something		<-->	idiom++C2	[230822][001]	./i/
+	;không chắc lắm -- (1) used when you are saying that something is still not certain
+		;The jury is still out on whether wine can be good for you.
+		;TOPICS Doubt, guessing and certaintyC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] ten out of ten (for something)		<-->	idiom++B2[-0]	.
-	; -- (1) 
+[-] (there are) no two ways about it		<-->	idiom++C2	[230822][001]	./i/
+	;không có cnon đường khác -- (1) (saying) used to show that you are certain about something
+		;It was the wrong decision—there are no two ways about it.
+		;TOPICS Doubt, guessing and certaintyC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] tentative		<-->	adjective++C1[-0]	.
-	; -- (1) 
+[-] (there is) no way		<-->	idiom+A2	[230822][001]	./i/
+	;thôi bỏ đi -- (1) (informal) used to say that there is no possibility that you will do something or that something will happen
+		;‘Do you want to help?’ ‘No way!’
+		;No way am I going to drive them there.
+		;There's no way we could afford that sort of money.
+		;TOPICS Doubt, guessing and certaintyA2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] tentatively		<-->	adverb++C1[-0]	.
-	; -- (1) 
+[-] there is/was no question of something happening/of somebody doing something		<-->	idiom++C1	[230822][001]	./i/
+	;không có chuyện -- (1) there is/was no possibility of something
+		;There was no question of his/him cancelling the trip so near the departure date.
+		;TOPICS Doubt, guessing and certaintyC1
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] ten to one		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] there’s many a slip ’twixt cup and lip		<-->	idiom++C2	[230822][001]	./i/
+	;không gì là hoàn toàn chắc chắn -- (1) ​(saying) nothing is completely certain until it really happens because things can easily go wrong
+		;TOPICS Doubt, guessing and certaintyC2
 
 
 
-[-] that depends		<-->	idiom++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] thumbsuck		<-->	noun++C2	[230822][001]	./ˈθʌmsʌk/-NAmE /ˈθʌmsʌk/
+[countable, usually singular, uncountable] (South African English, informal, often disapproving)
+	; -- (1) a guess or an estimate
+		;Their sales projections are a total thumbsuck.
+		;TOPICS Doubt, guessing and certaintyC2
 
 
 
-[-] the jury is (still) out on something		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] (there are) no two ways about it		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] (there is) no way		<-->	idiom++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] there is/was no question of something happening/of somebody doing something		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] there’s many a slip ’twixt cup and lip		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] thumbsuck		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] toss		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] true		<-->	adjective++A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] truth		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] uncertain		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] uncertainty		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] unclear		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] unconvinced		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] undeniable		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] undeniably		<-->	adverb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] underestimate		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] unlikely		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] unsure		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] warm		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] weaken		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] well		<-->	adverb++C1[-0]	.
+[-] toss		<-->	verb++C1	[230822][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2011,7 +1938,81 @@
 
 
 
-[-] without/beyond (a) doubt		<-->	idiom++C1[-0]	.
+
+
+
+
+
+[-] undeniable		<-->	adjective++C1	[230822][001]	./ˌʌndɪˈnaɪəbl/-NAmE /ˌʌndɪˈnaɪəbl/
+	;Word Family
+		deny verb
+		denial noun
+		undeniable adjective
+		undeniably adverb
+	;không thể phủ nhận -- (1) true or certain; that cannot be denied
+		;SYNONYM indisputable
+		;<< indisputable, undeniable, >>
+		;He had undeniable charm.
+		;It is an undeniable fact that crime is increasing.
+		;The link between poverty and bad health is undeniable.
+		;OPPOSITE deniable
+		;TOPICS Doubt, guessing and certaintyC1
+				;Oxford Collocations Dictionary
+				;Undeniable is used with these nouns:
+				;facttruth
+		;See full entry
+
+
+
+[-] undeniably		<-->	adverb++C1	[230822][001]	./ˌʌndɪˈnaɪəbli/-NAmE /ˌʌndɪˈnaɪəbli/
+	;không thể phủ nhận -- (1) ​in a way that is true or certain and cannot be denied
+		;SYNONYM indisputably
+		;<< indisputably, undeniably, >>
+		;undeniably impressive
+		;He is, undeniably, an excellent player.
+		;TOPICS Doubt, guessing and certaintyC1
+
+
+
+[-] underestimate		<-->	verb++C1	[230822][001]	./ˌʌndərˈestɪmeɪt/-NAmE /ˌʌndərˈestɪmeɪt/
+	;đánh giá quá thấp -- (1) ​to think or guess that the amount, cost or size of something is smaller than it really is
+		; underestimate something to underestimate the cost of the project
+		;We underestimated the time it would take to get there.
+		;The statistics seriously underestimate the number of people affected.
+		; underestimate what, how, etc… We underestimated how long it would take.
+		;TOPICS Doubt, guessing and certaintyC1
+				;Oxford Collocations Dictionary
+				;adverb
+				;badlyconsiderablygreatly…
+				;verb + underestimate
+				;tend to
+				;phrases
+				;something should not be underestimated
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+[-] warm		<-->	adjective++C2	[230822][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] weaken		<-->	verb++C1	[230822][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] well		<-->	adverb++C1	[230822][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2021,45 +2022,51 @@
 
 
 
-[-] you bet!		<-->	idiom++B2[-0]	.
-	; -- (1) 
+[-] without/beyond (a) doubt		<-->	idiom++C1	[230822][001]	./i/
+	;chắc chắn -- (1) used when you are giving your opinion and emphasizing the point that you are making
+		;This meeting has been, without doubt, one of the most useful we have had so far.
+		;Without the slightest doubt this is a remarkable exhibition.
+		;She is without a doubt the best player I know.
+		;TOPICS Doubt, guessing and certaintyC1, Opinion and argumentC1
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] you can bet your life/your bottom dollar (on something/(that)…)		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
 
 
-[-] you can bet your life/your bottom dollar (on something/(that)…)		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] you bet!		<-->	idiom++B2	[230822][001]	./i/
+	;Bạn cá là vậy -- (1) (informal) used instead of ‘yes’ to emphasize that somebody has guessed something correctly or made a good suggestion
+		;‘Are you nervous?’ ‘You bet!’
+		;TOPICS Doubt, guessing and certaintyB2
 
 
 
-[-] you can never tell		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] you can bet your life/your bottom dollar (on something/(that)…)		<-->	idiom++C2	[230822][001]	./i/
+	;bạn cá tới đồng cuối cùng -- (1) (informal) used to say that you are certain that something will happen
+		;You can bet your bottom dollar that he'll be late.
+		;TOPICS Doubt, guessing and certaintyC2
 
 
 
-[-] you never know		<-->	idiom++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+
+[-] you can never tell		<-->	idiom++C1	[230822][001]	./i/
+	;tôi không nói -- (1) (saying) you can never be sure, for example because things are not always what they appear to be
+		;TOPICS Doubt, guessing and certaintyC1
 
 
 
-[-] you’ll be lucky		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] you never know		<-->	idiom++B2	[230822][001]	./i/
+	;khồng chắc điều gì ở tương lai -- (1) ​(informal) used to say that you can never be certain about what will happen in the future, especially when you are suggesting that something good might happen
+		;TOPICS Doubt, guessing and certaintyB2, Suggestions and adviceB2
+
+
+
+[-] you’ll be lucky		<-->	idiom++C1	[230822][001]	./i/
+	;Bạn sẽ gặp may -- (1) (informal) used to tell somebody that something that they are expecting probably will not happen
+		;‘I was hoping to get a ticket for Saturday.’ ‘You'll be lucky.’
+		;TOPICS Doubt, guessing and certaintyC1
 
 
 
