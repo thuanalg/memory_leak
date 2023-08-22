@@ -14,5 +14,5 @@
 7. Except data/text/stack/heap area of memories, can we have another area? 
 8. Can we send 1000 messages a second with msg_queue? How can we do with 1000 messages a second?
 9. Can we create a so-called "vector" which contain any data structure? Think about UTF-8 by Ken Thompson
-10. Garbage collection is very important feature of Java/C#, how do you manipulate this problem in C/C++?
+10. Garbage collection is very important feature of Java/C#/..., how do you manipulate this problem in C/C++?
 
