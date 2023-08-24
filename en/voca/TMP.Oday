@@ -209,7 +209,7 @@
 
 
 
-[-] restroom		<-->	n++[0]	./ˈrestruːm/,  /ˈrestrʊm/-NAmE /ˈrestruːm/,  /ˈrestrʊm/
+[-] restroom		<-->	n++	[230824][001]	./ˈrestruːm/,  /ˈrestrʊm/-NAmE /ˈrestruːm/,  /ˈrestrʊm/
 (North American English)
 	;nhà vệ sinh -- (1) a room with a toilet in a public place, such as a theatre or restaurant
 		;Do you need to use the restroom?
@@ -274,7 +274,7 @@
 
 
 
-[-] coming		<-->	a++[0]	./ˈkʌmɪŋ/-NAmE /ˈkʌmɪŋ/-\
+[-] coming		<-->	a++	[230824][001]	./ˈkʌmɪŋ/-NAmE /ˈkʌmɪŋ/-\
 [only before noun]
 	;sắp tới -- (1) happening soon; next
 		;in the coming months
@@ -296,7 +296,7 @@
 
 
 
-[-] coming		<-->	n++[0]	./ˈkʌmɪŋ/-NAmE /ˈkʌmɪŋ/
+[-] coming		<-->	n++	[230824][001]	./ˈkʌmɪŋ/-NAmE /ˈkʌmɪŋ/
 [singular]
 	;sự xuất hiện -- (1) the coming of something/somebody the time when something new begins or somebody arrives
 		;With the coming of modern technology, many jobs were lost.
@@ -319,7 +319,7 @@
 
 
 
-[-] going		<-->	n++[0]	./ˈɡəʊɪŋ/-NAmE /ˈɡəʊɪŋ/
+[-] going		<-->	n++	[230824][001]	./ˈɡəʊɪŋ/-NAmE /ˈɡəʊɪŋ/
 	;sự ra đi -- (1) ​[singular] (formal) an act of leaving a place
 		;SYNONYM departure
 		;We were all sad at her going.
@@ -344,7 +344,7 @@
 
 
 
-[-] going		<-->	a++[0]	./ˈɡəʊɪŋ/-NAmE /ˈɡəʊɪŋ/
+[-] going		<-->	a++	[230824][001]	./ˈɡəʊɪŋ/-NAmE /ˈɡəʊɪŋ/
 	;việc làm gì đó -- (1) ​-going
 (in compounds) going regularly to the place or event mentioned
 		;the theatre-going public
@@ -389,7 +389,7 @@
 
 
 
-[-] dispatch		<-->	verb++[0]	./dɪˈspætʃ/-NAmE /dɪˈspætʃ/\
+[-] dispatch		<-->	verb++	[230824][001]	./dɪˈspætʃ/-NAmE /dɪˈspætʃ/\
 (British English also despatch)
 	;triển khai -- (1) dispatch somebody/something (to…) (formal) to send somebody/something somewhere, especially for a special purpose
 		;Troops have been dispatched to the area.
@@ -605,8 +605,9 @@
 
 
 
-[-] warp		<-->	verb++[--0]	.[cv.0299]
-	; -- (1) 
+[-] warp		<-->	verb++	[230824][001]	./wɔːp/-NAmE /wɔːrp/ [cv.0299]
+	;cong vênh -- (1) [intransitive, transitive] warp (something) to become, or make something become twisted, or bent out of its natural shape, for example because it has become too hot, too wet, etc.
+		;The window frames had begun to warp.
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -623,12 +624,16 @@
 
 
 
-[-] warp		<-->	n++[--0]	.[cv.0299]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] warp		<-->	n++	[230824][001]	./wɔːp/-NAmE /wɔːrp/
+the warp [singular] (specialist) [cv.0299]
+	;các sợi chỉ trên khung cửi -- (1) the threads on a loom (= a machine used for making cloth) that other threads are passed over and under in order to make cloth
+		;COMPARE weft
+		;SEE ALSO time warp
+				;Oxford Collocations Dictionary
+				;Warp is used before these nouns:
+				;speedthread
+		;See full entry
+		;Word Origin
 
 
 
@@ -641,7 +646,7 @@
 
 
 
-[-] convolution		<-->	n++[0]	./ˌkɒnvəˈluːʃn/-NAmE /ˌkɑːnvəˈluːʃn/
+[-] convolution		<-->	n++	[230824][001]	./ˌkɒnvəˈluːʃn/-NAmE /ˌkɑːnvəˈluːʃn/
 [usually plural] (formal) [cv.0290]
 	;tích chập -- (1) a thing that is very complicated and difficult to follow
 		;the bizarre convolutions of the story
@@ -659,7 +664,7 @@
 
 
 
-[-] morphology		<-->	verb++[0]	./mɔːˈfɒlədʒi/-NAmE /mɔːrˈfɑːlədʒi/
+[-] morphology		<-->	verb++	[230824][001]	./mɔːˈfɒlədʒi/-NAmE /mɔːrˈfɑːlədʒi/
 [uncountable] [cv.0275]
 	;hình thái học -- (1) ​(biology) the form and structure of animals and plants, studied as a science
 	; -- (2) ​(linguistics) the forms of words, studied as a branch of linguistics
@@ -686,7 +691,7 @@
 
 
 
-[-] envious		<-->	a++[0]	./ˈenviəs/-NAmE /ˈenviəs/ [orw.044] [230822]
+[-] envious		<-->	a++	[230824][001]	./ˈenviəs/-NAmE /ˈenviəs/ [orw.044] [230822]
 	;ghen tị -- (1) ​envious (of somebody/something) wanting to be in the same situation as somebody else; wanting something that somebody else has
 		;Everyone is so envious of her.
 		;They were envious of his success.
@@ -717,7 +722,7 @@
 
 
 
-[-] frosted		<-->	a++[0]	./ˈfrɒstɪd/-NAmE /ˈfrɔːstɪd/ [orw.045] [230823]
+[-] frosted		<-->	a++	[230824][001]	./ˈfrɒstɪd/-NAmE /ˈfrɔːstɪd/ [orw.045] [230823]
 	; -- (1) [only before noun] (of glass) that has been given a rough surface, so that it is difficult to see through
 	; -- (2) ​(especially North American English) (of cakes, etc.) covered with frosting
 	;phủ sương -- (3) covered with frost
@@ -736,7 +741,7 @@
 
 
 
-[-] edible		<-->	a++[0]	./ˈedəbl/-NAmE /ˈedəbl/
+[-] edible		<-->	a++	[230824][001]	./ˈedəbl/-NAmE /ˈedəbl/
  [orw.045] [230823]
 	;ăn được -- (1) fit or suitable to be eaten; not poisonous
 		;The food at the hotel was barely edible.
@@ -759,7 +764,7 @@
 
 
 
-[-] mangle		<-->	verb++[0]	./ˈmæŋɡl/-NAmE /ˈmæŋɡl/ [orw.045] [230823]
+[-] mangle		<-->	verb++	[230824][001]	./ˈmæŋɡl/-NAmE /ˈmæŋɡl/ [orw.045] [230823]
 	;cắn xé -- (1) [usually passive] to tear or twist something so that it is badly damaged
 		;be mangled His hand was mangled in the machine.
 	;tàn lụi -- (2) mangle something to change something good into something bad, for example a language or a piece of music, by saying it wrongly or playing it badly
@@ -777,7 +782,7 @@
 
 
 
-[-] mangle		<-->	n++[0]	./ˈmæŋɡl/-NAmE /ˈmæŋɡl/
+[-] mangle		<-->	n++	[230824][001]	./ˈmæŋɡl/-NAmE /ˈmæŋɡl/
 (also wringer) [orw.045] [230823]
 	;máy vắt nước -- (1) a machine with two rollers used especially in the past for pressing the water out of clothes that had been washed
 		;Word Origin
@@ -793,7 +798,7 @@
 
 
 
-[-] embolden		<-->	verb++[0]	./ɪmˈbəʊldən/-NAmE /ɪmˈbəʊldən/ [orw.045] [230823]
+[-] embolden		<-->	verb++	[230824][001]	./ɪmˈbəʊldən/-NAmE /ɪmˈbəʊldən/ [orw.045] [230823]
 	;khuyến khích, cổ vũ -- (1) [usually passive] (formal) to make somebody feel braver or more confident
 		;(be) emboldened by something Emboldened by her friendly smile, he went over to talk to her.
 		;be emboldened to do something With such a majority, the administration was emboldened to introduce radical new policies.
@@ -810,7 +815,7 @@
 
 
 
-[-] cannibalism		<-->	n++[0]	./ˈkænɪbəlɪzəm/-NAmE /ˈkænɪbəlɪzəm/
+[-] cannibalism		<-->	n++	[230824][001]	./ˈkænɪbəlɪzəm/-NAmE /ˈkænɪbəlɪzəm/
 [uncountable] [orw.045] [230823]
 	;tục ăn thịt người -- (1) the practice of eating other people
 		;to practise cannibalism
@@ -828,7 +833,7 @@
 
 
 
-[-] prim		<-->	a++[0]	./prɪm/-NAmE /prɪm/
+[-] prim		<-->	a++	[230824][001]	./prɪm/-NAmE /prɪm/
 (comparative primmer, superlative primmest) [orw.045] [230823]
 	;nghiêm khắc -- (1) ​(disapproving) (of a person) always behaving in a careful and formal way, and easily shocked by anything that is rude
 		;You can't tell her that joke—she's much too prim and proper.
@@ -847,7 +852,7 @@
 
 
 
-[-] glimpse		<-->	verb++[0]	./ɡlɪmps/-NAmE /ɡlɪmps/ [orw.045] [230823]
+[-] glimpse		<-->	verb++	[230824][001]	./ɡlɪmps/-NAmE /ɡlɪmps/ [orw.045] [230823]
 	;liếc qua -- (1) glimpse somebody/something to see somebody/something for a moment, but not very clearly
 		;SYNONYM catch (8), spot
 		;He'd glimpsed her through the window as he passed.
@@ -869,7 +874,7 @@
 
 
 
-[-] clutch		<-->	a++[0]	./klʌtʃ/-NAmE /klʌtʃ/
+[-] clutch		<-->	a++	[230824][001]	./klʌtʃ/-NAmE /klʌtʃ/
 (North American English, informal, sport) [orw.046] [230822]
 	;ly hợp -- (1) referring to or performing at an important moment that will decide the result of a game or competition
 		;Miami succeeds in clutch situations better than any other team.
@@ -887,7 +892,7 @@
 
 
 
-[-] rafter		<-->	n++[0]	./ˈrɑːftə(r)/-NAmE /ˈræftər/
+[-] rafter		<-->	n++	[230824][001]	./ˈrɑːftə(r)/-NAmE /ˈræftər/
 [countable, usually plural] [orw.046] [230822]
 	;xà nhà -- (1) one of the sloping pieces of wood that support a roof
 		;He could hear something moving about under the rafters.
@@ -911,7 +916,7 @@
 
 
 
-[-] pullet		<-->	n++[0]	./ˈpʊlɪt/-NAmE /ˈpʊlɪt/
+[-] pullet		<-->	n++	[230824][001]	./ˈpʊlɪt/-NAmE /ˈpʊlɪt/
  [orw.046] [230822]
 	;gà tơ -- (1) a young chicken, especially one that is less than one year old
 		;Word Origin
@@ -927,7 +932,7 @@
 
 
 
-[-] duly		<-->	adverb++[0]	./ˈdjuːli/-NAmE /ˈduːli/ [orw.046] [230822]
+[-] duly		<-->	adverb++	[230824][001]	./ˈdjuːli/-NAmE /ˈduːli/ [orw.046] [230822]
 	;đúng cách -- (1) ​(formal) in the correct or expected manner
 		;The document was duly signed by the inspector.
 	;đúng lúc -- (2) at the expected and correct time
@@ -945,7 +950,7 @@
 
 
 
-[-] spinney		<-->	n++[0]	./ˈspɪni/-NAmE /ˈspɪni/
+[-] spinney		<-->	n++	[230824][001]	./ˈspɪni/-NAmE /ˈspɪni/
 (British English) [orw.047] [230822] [orw.052]
 	;rừng nhỏ -- (1) a small area of trees
 		;SYNONYM copse
@@ -963,7 +968,7 @@
 
 
 
-[-] sack		<-->	n++[0]	./sæk/-NAmE /sæk/\ [orw.047] [230822]
+[-] sack		<-->	n++	[230824][001]	./sæk/-NAmE /sæk/\ [orw.047] [230822]
 	;cái túi nhỏ -- (1) [countable] a large bag with no handles, made of strong rough material or strong paper or plastic, used for storing and carrying, for example flour, coal, etc.
 		;They filled the sacks with potatoes.
 		;bulging sacks of toys
@@ -1007,7 +1012,7 @@
 
 
 
-[-] pellet		<-->	n++[0]	./ˈpelɪt/-NAmE /ˈpelɪt/ [orw.048] [230822]
+[-] pellet		<-->	n++	[230824][001]	./ˈpelɪt/-NAmE /ˈpelɪt/ [orw.048] [230822]
 	;viên nhỏ -- (1) ​a small hard ball of any substance, often of soft material that has become hard
 		;food pellets for chickens
 		;owl pellets (= the dried waste material from owls)
@@ -1024,7 +1029,7 @@
 
 
 
-[-] exclaim		<-->	verb++[0]	./ɪkˈskleɪm/-NAmE /ɪkˈskleɪm/
+[-] exclaim		<-->	verb++	[230824][001]	./ɪkˈskleɪm/-NAmE /ɪkˈskleɪm/
 [intransitive, transitive] [orw.049] [230822]
 	;kêu lên -- (1) to say something suddenly and loudly, especially because of strong emotion or pain
 		;She opened her eyes and exclaimed in delight at the scene.
@@ -1055,7 +1060,7 @@
 
 
 
-[-] frisk		<-->	verb++[0]	./frɪsk/-NAmE /frɪsk/ [orw.049] [230822]
+[-] frisk		<-->	verb++	[230824][001]	./frɪsk/-NAmE /frɪsk/ [orw.049] [230822]
 	;lục xoát -- (1) ​[transitive] frisk somebody to pass your hands over somebody’s body to search them for hidden weapons, drugs, etc.
 	;chạy nhảy -- (2) [intransitive] frisk (around) (of animals) to run and jump in a lively and happy way
 		;SYNONYM gambol, skip
@@ -1073,7 +1078,7 @@
 
 
 
-[-] lurk		<-->	verb++[0]	./lɜːk/-NAmE /lɜːrk/ [orw.050] [230822]
+[-] lurk		<-->	verb++	[230824][001]	./lɜːk/-NAmE /lɜːrk/ [orw.050] [230822]
 	;ẩn nấp -- (1) [intransitive] (+ adv./prep.) to wait somewhere secretly, especially because you are going to do something bad or illegal
 		;SYNONYM skulk
 		;Why are you lurking around outside my house?
@@ -1101,7 +1106,7 @@
 
 
 
-[-] slink		<-->	verb++[0]	./slɪŋk/-NAmE /slɪŋk/
+[-] slink		<-->	verb++	[230824][001]	./slɪŋk/-NAmE /slɪŋk/
 [intransitive] [orw.050] [230822]
 	;lỉnh đi -- (1) + adv./prep. to move somewhere very quietly and slowly, especially because you are ashamed or do not want to be seen
 		;SYNONYM creep
@@ -1125,7 +1130,7 @@
 
 
 
-[-] tumult		<-->	n++[0]	./ˈtjuːmʌlt/-NAmE /ˈtuːmʌlt/
+[-] tumult		<-->	n++	[230824][001]	./ˈtjuːmʌlt/-NAmE /ˈtuːmʌlt/
 [uncountable, countable, usually singular] (formal) [orw.050] [230822]
 	;sự hỗn loạn -- (1) a confused situation in which there is usually a lot of noise and excitement, often involving large numbers of people
 		;the tumult of war
@@ -1147,7 +1152,7 @@
 
 
 
-[-] incite		<-->	verb++[0]	./ɪnˈsaɪt/-NAmE /ɪnˈsaɪt/ [orw.051] [230822]
+[-] incite		<-->	verb++	[230824][001]	./ɪnˈsaɪt/-NAmE /ɪnˈsaɪt/ [orw.051] [230822]
 	;xúi giục -- (1) ​to encourage somebody to do something violent, illegal or unpleasant, especially by making them angry or excited
 		; incite something to incite crime/racial hatred/violence
 		; incite somebody (to something) They were accused of inciting the crowd to violence.
@@ -1174,7 +1179,7 @@
 
 
 
-[-] slay		<-->	verb++[0]	./sleɪ/-NAmE /sleɪ/ [orw.051] [230822]
+[-] slay		<-->	verb++	[230824][001]	./sleɪ/-NAmE /sleɪ/ [orw.051] [230822]
 	;giết -- (1) ​slay somebody/something (old-fashioned or literary) to kill somebody/something in a war or a fight
 		;St George slew the dragon.
 	;giết -- (2) slay somebody (especially North American English)
@@ -1195,7 +1200,7 @@
 
 
 
-[-] on the spot		<-->	p.verb+B2[0]	./p/ [orw.051] [230822]
+[-] on the spot		<-->	p.verb+B2	[230824][001]	./p/ [orw.051] [230822]
 	;ngay tại chỗ -- (1) ​(North American English)
 (also on the spot British and North American English) in one exact place, without moving in any direction
 		;Running in place is good exercise.
@@ -1215,7 +1220,7 @@
 
 
 
-[-] in place		<-->	p.verb+B2[0]	./p/ [orw.051] [230822]
+[-] in place		<-->	p.verb+B2	[230824][001]	./p/ [orw.051] [230822]
 	;ngay tại chỗ  -- (1) (also into place)
 		;in the correct position; ready for something
 		;Carefully lay each slab in place.
@@ -1245,7 +1250,7 @@
 
 
 
-[-] huddle		<-->	verb++[0]	./ˈhʌdl/-NAmE /ˈhʌdl/\ [orw.052] [230822]
+[-] huddle		<-->	verb++	[230824][001]	./ˈhʌdl/-NAmE /ˈhʌdl/\ [orw.052] [230822]
 	;túm tụm -- (1) [intransitive] huddle (up/together) (+ adv./prep.) (of people or animals) to gather closely together, usually because of cold or fear
 		;We huddled together for warmth.
 		;They all huddled around the fire.
@@ -1265,7 +1270,7 @@
 
 
 
-[-] huddle		<-->	n++[0]	./ˈhʌdl/-NAmE /ˈhʌdl/ [orw.052] [230822]
+[-] huddle		<-->	n++	[230824][001]	./ˈhʌdl/-NAmE /ˈhʌdl/ [orw.052] [230822]
 	;rúc vào -- (1) [intransitive] huddle (up/together) (+ adv./prep.) (of people or animals) to gather closely together, usually because of cold or fear
 		;We huddled together for warmth.
 		;They all huddled around the fire.
@@ -1286,7 +1291,7 @@
 
 
 
-[-] huddled		<-->	a++[0]	./ˈhʌdld/-NAmE /ˈhʌdld/ [orw.052] [230822]
+[-] huddled		<-->	a++	[230824][001]	./ˈhʌdld/-NAmE /ˈhʌdld/ [orw.052] [230822]
 	;rúc vào nhau -- (1) ​(of people or animals) gathered closely together, usually because of cold or fear
 		;People were huddled together around the fire.
 	; -- (2) holding your arms and legs close to your body, usually because you are cold or frightened
@@ -1305,7 +1310,7 @@
 
 
 
-[-] gild		<-->	verb++[0]	./ɡɪld/-NAmE /ɡɪld/ [orw.052] [230822]
+[-] gild		<-->	verb++	[230824][001]	./ɡɪld/-NAmE /ɡɪld/ [orw.052] [230822]
 	;mạ kim -- (1) gild something (literary) to make something look bright, as if covered with gold
 		;The golden light gilded the sea.
 	;mạ vàng -- (2) gild something to cover something with a thin layer of gold or gold paint
@@ -1321,7 +1326,7 @@
 
 
 
-[-] shalt		<-->	verb++[0]	./ʃælt/-NAmE /ʃælt/
+[-] shalt		<-->	verb++	[230824][001]	./ʃælt/-NAmE /ʃælt/
 thou shalt (old use) [orw.054] [230822]
 	;bạn sẽ -- (1) ​used to mean ‘you shall’, when talking to one person
 
@@ -1336,7 +1341,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] hoist		<-->	verb++[0]	./hɔɪst/-NAmE /hɔɪst/ [orw.054] [230822]
+[-] hoist		<-->	verb++	[230824][001]	./hɔɪst/-NAmE /hɔɪst/ [orw.054] [230822]
 	;kéo lên, cẩu lên	 -- (1) to raise or pull something up to a higher position, often using ropes or special equipment
 		; hoist something/somebody/yourself + adv./prep. He hoisted himself onto a high stool.
 		;The cargo was hoisted aboard by crane.
@@ -1362,7 +1367,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] hoist		<-->	n++[0]	./hɔɪst/-NAmE /hɔɪst/ [orw.054] [230822]
+[-] hoist		<-->	n++	[230824][001]	./hɔɪst/-NAmE /hɔɪst/ [orw.054] [230822]
 	;cái cẩu -- (1) a piece of equipment used for lifting heavy things, or for lifting people who cannot stand or walk
 		;Word Origin
 
@@ -1377,7 +1382,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] advent		<-->	n++[0]	./ˈædvent/-NAmE /ˈædvent/
+[-] advent		<-->	n++	[230824][001]	./ˈædvent/-NAmE /ˈædvent/
 	;sự xuất hiện -- (1) [singular] the advent of something/somebody the coming of an important event, person, invention, etc.
 		;the advent of new technology
 		;Extra Examples:
@@ -1404,7 +1409,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] thieving		<-->	n++[0]	./ˈθiːvɪŋ/-NAmE /ˈθiːvɪŋ/
+[-] thieving		<-->	n++	[230824][001]	./ˈθiːvɪŋ/-NAmE /ˈθiːvɪŋ/
 [uncountable] (informal) [orw.037] [230823]
 	;sự trộm cắp -- (1) ​the act of stealing things
 
@@ -1422,7 +1427,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] grudge		<-->	verb++[0]	./ɡrʌdʒ/-NAmE /ɡrʌdʒ/ [orw.037] [230823]
+[-] grudge		<-->	verb++	[230824][001]	./ɡrʌdʒ/-NAmE /ɡrʌdʒ/ [orw.037] [230823]
 	;ghen ghét, oán giận -- (1) to do or give something unwillingly
 		;SYNONYM begrudge
 		;<<begrudge, grudge, envy, >> 
@@ -1446,7 +1451,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] crowbar		<-->	n++[0]	./ˈkrəʊbɑː(r)/-NAmE /ˈkrəʊbɑːr/ [orw.037] [230823]
+[-] crowbar		<-->	n++	[230824][001]	./ˈkrəʊbɑː(r)/-NAmE /ˈkrəʊbɑːr/ [orw.037] [230823]
 	;xà beng -- (1) a straight iron bar, usually with a curved end, used for forcing open boxes and moving heavy objects
 
 
@@ -1460,7 +1465,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] yoke		<-->	n++[0]	./jəʊk/-NAmE /jəʊk/ [orw.038] [230823]
+[-] yoke		<-->	n++	[230824][001]	./jəʊk/-NAmE /jəʊk/ [orw.038] [230823]
 	;cái ách -- (1) [countable] a long piece of wood that is fastened across the necks of two animals, especially oxen, so that they can pull heavy loads
 	; -- (2) 
 	; -- (3) 
@@ -1478,7 +1483,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] yoke		<-->	verb++[0]	./jəʊk/-NAmE /jəʊk/ [usually passive] [orw.038] [230823]
+[-] yoke		<-->	verb++	[230824][001]	./jəʊk/-NAmE /jəʊk/ [usually passive] [orw.038] [230823]
 	;ghép ách chung -- (1) to join two animals together with a yoke; to attach an animal to something with a yoke
 		;(be) yoked together A pair of oxen, yoked together, was used.
 		;(be) yoked to something an ox yoked to a plough
@@ -1508,7 +1513,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] impetus		<-->	n++[0]	./ˈɪmpɪtəs/-NAmE /ˈɪmpɪtəs/ [bbc]
+[-] impetus		<-->	n++	[230824][001]	./ˈɪmpɪtəs/-NAmE /ˈɪmpɪtəs/ [bbc]
 	;nguồn kích thích, sự kích thích -- (1) [uncountable, singular] something that encourages a process or activity to develop more quickly
 		;SYNONYM stimulus
 		;The debate seems to have lost much of its initial impetus.
@@ -1544,7 +1549,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] expletive		<-->	n++[0]	./ɪkˈspliːtɪv/-NAmE /ˈeksplətɪv/
+[-] expletive		<-->	n++	[230824][001]	./ɪkˈspliːtɪv/-NAmE /ˈeksplətɪv/
 (formal) [bbc]
 	;tục tĩu -- (1) a word, especially a rude word, that you use when you are angry, or in pain
 		;SYNONYM swear word
@@ -1563,7 +1568,7 @@ thou shalt (old use) [orw.054] [230822]
 
 
 
-[-] raging		<-->	a++[0]	./ˈreɪdʒɪŋ/-NAmE /ˈreɪdʒɪŋ/
+[-] raging		<-->	a++	[230824][001]	./ˈreɪdʒɪŋ/-NAmE /ˈreɪdʒɪŋ/
 [only before noun] [orw.043] [230824]
 	;cực kỳ -- (1) (of feelings or emotions) very strong
 		;a raging appetite/thirst
