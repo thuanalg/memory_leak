@@ -209,8 +209,7 @@
 
 
 
-[-] restroom		<-->	n++[--0]	./ˈrestruːm/,  /ˈrestrʊm/
- /ˈrestruːm/,  /ˈrestrʊm/
+[-] restroom		<-->	n++[0]	./ˈrestruːm/,  /ˈrestrʊm/-NAmE /ˈrestruːm/,  /ˈrestrʊm/
 (North American English)
 	;nhà vệ sinh -- (1) a room with a toilet in a public place, such as a theatre or restaurant
 		;Do you need to use the restroom?
@@ -275,8 +274,7 @@
 
 
 
-[-] coming		<-->	a++[--0]	./ˈkʌmɪŋ/
- /ˈkʌmɪŋ/-\
+[-] coming		<-->	a++[0]	./ˈkʌmɪŋ/-NAmE /ˈkʌmɪŋ/-\
 [only before noun]
 	;sắp tới -- (1) happening soon; next
 		;in the coming months
@@ -298,8 +296,7 @@
 
 
 
-[-] coming		<-->	n++[--0]	./ˈkʌmɪŋ/
- /ˈkʌmɪŋ/
+[-] coming		<-->	n++[0]	./ˈkʌmɪŋ/-NAmE /ˈkʌmɪŋ/
 [singular]
 	;sự xuất hiện -- (1) the coming of something/somebody the time when something new begins or somebody arrives
 		;With the coming of modern technology, many jobs were lost.
@@ -322,8 +319,7 @@
 
 
 
-[-] going		<-->	n++[--0]	./ˈɡəʊɪŋ/
- /ˈɡəʊɪŋ/
+[-] going		<-->	n++[0]	./ˈɡəʊɪŋ/-NAmE /ˈɡəʊɪŋ/
 	;sự ra đi -- (1) ​[singular] (formal) an act of leaving a place
 		;SYNONYM departure
 		;We were all sad at her going.
@@ -348,8 +344,7 @@
 
 
 
-[-] going		<-->	a++[--0]	./ˈɡəʊɪŋ/
- /ˈɡəʊɪŋ/
+[-] going		<-->	a++[0]	./ˈɡəʊɪŋ/-NAmE /ˈɡəʊɪŋ/
 	;việc làm gì đó -- (1) ​-going
 (in compounds) going regularly to the place or event mentioned
 		;the theatre-going public
@@ -394,8 +389,7 @@
 
 
 
-[-] dispatch		<-->	verb++[--0]	./dɪˈspætʃ/
- /dɪˈspætʃ/\
+[-] dispatch		<-->	verb++[0]	./dɪˈspætʃ/-NAmE /dɪˈspætʃ/\
 (British English also despatch)
 	;triển khai -- (1) dispatch somebody/something (to…) (formal) to send somebody/something somewhere, especially for a special purpose
 		;Troops have been dispatched to the area.
@@ -647,12 +641,12 @@
 
 
 
-[-] convolution		<-->	n++[--0]	.[cv.0290]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] convolution		<-->	n++[0]	./ˌkɒnvəˈluːʃn/-NAmE /ˌkɑːnvəˈluːʃn/
+[usually plural] (formal) [cv.0290]
+	;tích chập -- (1) a thing that is very complicated and difficult to follow
+		;the bizarre convolutions of the story
+	; -- (2) a twist or curve, especially one of many
+		;the convolutions of the brain
 
 
 
@@ -665,12 +659,12 @@
 
 
 
-[-] morphology		<-->	verb++[--0]	.[cv.0275]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] morphology		<-->	verb++[0]	./mɔːˈfɒlədʒi/-NAmE /mɔːrˈfɑːlədʒi/
+[uncountable] [cv.0275]
+	;hình thái học -- (1) ​(biology) the form and structure of animals and plants, studied as a science
+	; -- (2) ​(linguistics) the forms of words, studied as a branch of linguistics
+		;COMPARE grammar, syntax
+		;Word Origin
 
 
 
@@ -683,12 +677,6 @@
 
 
 
-[-] derivative		<-->	n++[--0]	.[cv.0269]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -698,15 +686,28 @@
 
 
 
+[-] envious		<-->	a++[0]	./ˈenviəs/-NAmE /ˈenviəs/ [orw.044] [230822]
+	;ghen tị -- (1) ​envious (of somebody/something) wanting to be in the same situation as somebody else; wanting something that somebody else has
+		;Everyone is so envious of her.
+		;They were envious of his success.
+		;He saw the envious look in the other boy's eyes.
+		;RELATED NOUN envy
+		;Extra Examples:
+		;He had always felt envious of his brother.
+		;She tried not to appear envious.
+		;Everyone is so envious of her having the chance to study abroad.
+				;Oxford Collocations Dictionary
+				;verbs
+				;appearbefeel…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;of
+		;See full entry
+		;Word Origin
 
 
 
-[-] gradient		<-->	verb++[--0]	.[cv.0269]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -716,15 +717,16 @@
 
 
 
+[-] frosted		<-->	a++[0]	./ˈfrɒstɪd/-NAmE /ˈfrɔːstɪd/ [orw.045] [230823]
+	; -- (1) [only before noun] (of glass) that has been given a rough surface, so that it is difficult to see through
+	; -- (2) ​(especially North American English) (of cakes, etc.) covered with frosting
+	;phủ sương -- (3) covered with frost
+		;the frosted garden
+	; -- (4) ​containing very small shiny pieces
+		;frosted eyeshadow
 
 
 
-[-] envious		<-->	a++[--0]	.[orw.044] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -734,15 +736,20 @@
 
 
 
+[-] edible		<-->	a++[0]	./ˈedəbl/-NAmE /ˈedəbl/
+ [orw.045] [230823]
+	;ăn được -- (1) fit or suitable to be eaten; not poisonous
+		;The food at the hotel was barely edible.
+		;edible fungi/snails/flowers
+		;The vegetables were old but still looked edible.
+				;Oxford Collocations Dictionary
+				;Edible is used with these nouns:
+				;mushroomsnail
+		;See full entry
+		;Word Origin
 
 
 
-[-] frosted		<-->	a++[--0]	.[orw.045] [230823]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -752,15 +759,15 @@
 
 
 
+[-] mangle		<-->	verb++[0]	./ˈmæŋɡl/-NAmE /ˈmæŋɡl/ [orw.045] [230823]
+	;cắn xé -- (1) [usually passive] to tear or twist something so that it is badly damaged
+		;be mangled His hand was mangled in the machine.
+	;tàn lụi -- (2) mangle something to change something good into something bad, for example a language or a piece of music, by saying it wrongly or playing it badly
+		;SYNONYM ruin
+		;I find it strange the way he mangles the English language.
 
 
 
-[-] edible		<-->	a++[--0]	.[orw.045] [230823]
-	;ăn được -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -770,15 +777,13 @@
 
 
 
+[-] mangle		<-->	n++[0]	./ˈmæŋɡl/-NAmE /ˈmæŋɡl/
+(also wringer) [orw.045] [230823]
+	;máy vắt nước -- (1) a machine with two rollers used especially in the past for pressing the water out of clothes that had been washed
+		;Word Origin
 
 
 
-[-] mangle		<-->	verb++[--0]	.[orw.045] [230823]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -788,15 +793,14 @@
 
 
 
+[-] embolden		<-->	verb++[0]	./ɪmˈbəʊldən/-NAmE /ɪmˈbəʊldən/ [orw.045] [230823]
+	;khuyến khích, cổ vũ -- (1) [usually passive] (formal) to make somebody feel braver or more confident
+		;(be) emboldened by something Emboldened by her friendly smile, he went over to talk to her.
+		;be emboldened to do something With such a majority, the administration was emboldened to introduce radical new policies.
+	; -- (2) ​embolden something (specialist) to make a piece of text appear in bold print
 
 
 
-[-] mangle		<-->	n++[--0]	.[orw.045] [230823]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -806,15 +810,15 @@
 
 
 
+[-] cannibalism		<-->	n++[0]	./ˈkænɪbəlɪzəm/-NAmE /ˈkænɪbəlɪzəm/
+[uncountable] [orw.045] [230823]
+	;tục ăn thịt người -- (1) the practice of eating other people
+		;to practise cannibalism
+	; -- (2) (among animals) the fact of eating other animals of the same type
+		;Check pronunciation: cannibalism
 
 
 
-[-] embolden		<-->	verb++[--0]	.[orw.045] [230823]
-	;khuyến khích, cổ vũ -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -824,15 +828,16 @@
 
 
 
+[-] prim		<-->	a++[0]	./prɪm/-NAmE /prɪm/
+(comparative primmer, superlative primmest) [orw.045] [230823]
+	;nghiêm khắc -- (1) ​(disapproving) (of a person) always behaving in a careful and formal way, and easily shocked by anything that is rude
+		;You can't tell her that joke—she's much too prim and proper.
+		;Extra Examples:
+		;He had rather prim ideas about what things were suitable for the children.
+		;She knew she sounded prim.
 
 
 
-[-] cannibalism		<-->	n++[--0]	.[orw.045] [230823]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -842,29 +847,11 @@
 
 
 
-
-
-
-[-] prim		<-->	a++[--0]	.[orw.045] [230823]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] glimpse		<-->	verb++[--0]	.[orw.045] [230823]
-	; -- (1) 
+[-] glimpse		<-->	verb++[0]	./ɡlɪmps/-NAmE /ɡlɪmps/ [orw.045] [230823]
+	;liếc qua -- (1) glimpse somebody/something to see somebody/something for a moment, but not very clearly
+		;SYNONYM catch (8), spot
+		;He'd glimpsed her through the window as he passed.
+		;Anne is glimpsed briefly at the beginning of the film.
 		;;<< glance, glimpse, dart,  catch (8), spot, >>
 	; -- (2) 
 	; -- (3) 
@@ -882,12 +869,12 @@
 
 
 
-[-] clutch		<-->	a++[--0]	.[orw.046] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] clutch		<-->	a++[0]	./klʌtʃ/-NAmE /klʌtʃ/
+(North American English, informal, sport) [orw.046] [230822]
+	;ly hợp -- (1) referring to or performing at an important moment that will decide the result of a game or competition
+		;Miami succeeds in clutch situations better than any other team.
+		;He is one of the league's clutch performers.
+		;TOPICS Sports: ball and racket sportsC2
 
 
 
@@ -900,12 +887,18 @@
 
 
 
-[-] rafter		<-->	n++[--0]	.[orw.046] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] rafter		<-->	n++[0]	./ˈrɑːftə(r)/-NAmE /ˈræftər/
+[countable, usually plural] [orw.046] [230822]
+	;xà nhà -- (1) one of the sloping pieces of wood that support a roof
+		;He could hear something moving about under the rafters.
+		;Extra Examples:
+		;Ropes of onions and garlic hung from the ancient rafters.
+		;The insulating material can be secured to the sides of the rafters.
+				;Oxford Collocations Dictionary
+				;Rafter is used after these nouns:
+				;roof
+		;See full entry
+		;Word Origin
 
 
 
@@ -918,8 +911,7 @@
 
 
 
-[-] pullet		<-->	n++[--0]	./ˈpʊlɪt/
- /ˈpʊlɪt/
+[-] pullet		<-->	n++[0]	./ˈpʊlɪt/-NAmE /ˈpʊlɪt/
  [orw.046] [230822]
 	;gà tơ -- (1) a young chicken, especially one that is less than one year old
 		;Word Origin
@@ -935,8 +927,278 @@
 
 
 
-[-] duly		<-->	adverb++[--0]	.[orw.046] [230822]
-	; -- (1) 
+[-] duly		<-->	adverb++[0]	./ˈdjuːli/-NAmE /ˈduːli/ [orw.046] [230822]
+	;đúng cách -- (1) ​(formal) in the correct or expected manner
+		;The document was duly signed by the inspector.
+	;đúng lúc -- (2) at the expected and correct time
+		;They duly arrived at 9.30 in spite of torrential rain.
+		;COMPARE unduly
+
+
+
+
+
+
+
+
+
+
+
+
+[-] spinney		<-->	n++[0]	./ˈspɪni/-NAmE /ˈspɪni/
+(British English) [orw.047] [230822] [orw.052]
+	;rừng nhỏ -- (1) a small area of trees
+		;SYNONYM copse
+		;<< copse, spinney>> 
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+
+[-] sack		<-->	n++[0]	./sæk/-NAmE /sæk/\ [orw.047] [230822]
+	;cái túi nhỏ -- (1) [countable] a large bag with no handles, made of strong rough material or strong paper or plastic, used for storing and carrying, for example flour, coal, etc.
+		;They filled the sacks with potatoes.
+		;bulging sacks of toys
+				;Oxford Collocations Dictionary
+				;adjective
+				;bulgingheavyburlap…
+				;verb + sack
+				;emptyfillcarry…
+				;sack + verb
+				;be filled with somethingbe full of something
+				;sack + noun
+				;lunchrace
+				;preposition
+				;in a/​the sacksack of
+		;See full entry
+	; -- (2) [countable] (North American English) a strong paper bag for carrying shopping
+			;Oxford Collocations Dictionary
+			;adjective
+				;bulgingheavyburlap…
+				;verb + sack
+				;emptyfillcarry…
+				;sack + verb
+				;be filled with somethingbe full of something
+				;sack + noun
+				;lunchrace
+				;preposition
+				;in a/​the sacksack of
+		;See full entry
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] pellet		<-->	n++[0]	./ˈpelɪt/-NAmE /ˈpelɪt/ [orw.048] [230822]
+	;viên nhỏ -- (1) ​a small hard ball of any substance, often of soft material that has become hard
+		;food pellets for chickens
+		;owl pellets (= the dried waste material from owls)
+		;slug pellets (= to kill slugs)
+
+
+
+
+
+
+
+
+
+
+
+
+[-] exclaim		<-->	verb++[0]	./ɪkˈskleɪm/-NAmE /ɪkˈskleɪm/
+[intransitive, transitive] [orw.049] [230822]
+	;kêu lên -- (1) to say something suddenly and loudly, especially because of strong emotion or pain
+		;She opened her eyes and exclaimed in delight at the scene.
+		; + speech ‘It isn't fair!’, he exclaimed angrily.
+		; exclaim that… She exclaimed that it was useless.
+		;Synonyms call: cry out ▪ exclaim ▪ blurt ▪ burst out
+		;<< call, cry out ▪ exclaim ▪ blurt ▪ burst out, >>
+		;Extra Examples:
+		;They all exclaimed over her beautiful clothes.
+		;‘You can't do that!’ she exclaimed in horror.
+		;The visitors were led through the gardens, all of them exclaiming with delight.
+				;Oxford Collocations Dictionary
+				;adverb
+				;loudlysoftlyangrily…
+				;preposition
+				;atoverin…
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+
+[-] frisk		<-->	verb++[0]	./frɪsk/-NAmE /frɪsk/ [orw.049] [230822]
+	;lục xoát -- (1) ​[transitive] frisk somebody to pass your hands over somebody’s body to search them for hidden weapons, drugs, etc.
+	;chạy nhảy -- (2) [intransitive] frisk (around) (of animals) to run and jump in a lively and happy way
+		;SYNONYM gambol, skip
+		;Lambs frisked in the fields.
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+
+[-] lurk		<-->	verb++[0]	./lɜːk/-NAmE /lɜːrk/ [orw.050] [230822]
+	;ẩn nấp -- (1) [intransitive] (+ adv./prep.) to wait somewhere secretly, especially because you are going to do something bad or illegal
+		;SYNONYM skulk
+		;Why are you lurking around outside my house?
+		;A crocodile was lurking just below the surface.
+		;Extra Examples:
+		;I felt sure that someone was lurking among the trees.
+		;I saw a man lurking in the shadows.
+	;rình rập -- (2) [intransitive] (+ adv./prep.) when something unpleasant or dangerous lurks, it is present but not in an obvious way
+		;At night, danger lurks in these streets.
+		;Extra Examples:
+		;the darker emotions that lurk beneath the surface
+		;the fears still lurking in our minds
+		;TOPICS DangerC2
+	; -- (3) ​[intransitive] (computing) to read a discussion in a chat room, etc. on the internet, without taking part in it yourself
+		;TOPICS Phones, email and the internetC2
+
+
+
+
+
+
+
+
+
+
+
+
+[-] slink		<-->	verb++[0]	./slɪŋk/-NAmE /slɪŋk/
+[intransitive] [orw.050] [230822]
+	;lỉnh đi -- (1) + adv./prep. to move somewhere very quietly and slowly, especially because you are ashamed or do not want to be seen
+		;SYNONYM creep
+		;John was trying to slink into the house by the back door.
+		;The dog howled and slunk away.
+		;She slunk out of the room, feeling like a criminal.
+				;Oxford Collocations Dictionary
+				;Slink is used with these nouns as the subject:
+				;cat
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+
+[-] tumult		<-->	n++[0]	./ˈtjuːmʌlt/-NAmE /ˈtuːmʌlt/
+[uncountable, countable, usually singular] (formal) [orw.050] [230822]
+	;sự hỗn loạn -- (1) a confused situation in which there is usually a lot of noise and excitement, often involving large numbers of people
+		;the tumult of war
+		;A tumult of shouting and screaming came from within the house.
+		;They waited for the tumult to die down.
+		; in tumult Soon all was in tumult.
+	; -- (2) a state in which your thoughts or feelings are confused
+		;He was shaken by the tumult of his feelings.
+		; in tumult a troubled mind in tumult
+
+
+
+
+
+
+
+
+
+
+
+
+[-] incite		<-->	verb++[0]	./ɪnˈsaɪt/-NAmE /ɪnˈsaɪt/ [orw.051] [230822]
+	;xúi giục -- (1) ​to encourage somebody to do something violent, illegal or unpleasant, especially by making them angry or excited
+		; incite something to incite crime/racial hatred/violence
+		; incite somebody (to something) They were accused of inciting the crowd to violence.
+		; incite somebody to do something He incited the workforce to come out on strike.
+		;Extra Examples:
+		;The governor blamed foreign groups for inciting the violence.
+		;There is legislation to ban material that incites racial hatred.
+				;Oxford Collocations Dictionary
+				;adverb
+				;deliberately
+				;preposition
+				;to
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+
+[-] slay		<-->	verb++[0]	./sleɪ/-NAmE /sleɪ/ [orw.051] [230822]
+	;giết -- (1) ​slay somebody/something (old-fashioned or literary) to kill somebody/something in a war or a fight
+		;St George slew the dragon.
+	;giết -- (2) slay somebody (especially North American English)
+(used especially in newspapers) to murder somebody
+		;Two passengers were slain by the hijackers.
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+
+
+
+
+[-] on the spot		<-->	p.verb+B2[0]	./p/ [orw.051] [230822]
+	;ngay tại chỗ -- (1) ​(North American English)
+(also on the spot British and North American English) in one exact place, without moving in any direction
+		;Running in place is good exercise.
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -953,8 +1215,11 @@
 
 
 
-[-] spinney		<-->	n++[--0]	.[orw.047] [230822] [orw.052]
-	;rừng nhỏ -- (1) 
+[-] in place		<-->	p.verb+B2[0]	./p/ [orw.051] [230822]
+	;ngay tại chỗ  -- (1) (also into place)
+		;in the correct position; ready for something
+		;Carefully lay each slab in place.
+		;The receiver had already clicked into place.
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -971,12 +1236,6 @@
 
 
 
-[-] sack		<-->	n++[--0]	.\ [orw.047] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -986,209 +1245,7 @@
 
 
 
-
-
-
-[-] pellet		<-->	n++[--0]	.[orw.048] [230822]
-	;viên nhỏ -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] exclaim		<-->	verb++[--0]	.[orw.049] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] frisk		<-->	verb++[--0]	.[orw.049] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] lurk		<-->	verb++[--0]	.[orw.050] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] slink		<-->	verb++[--0]	.[orw.050] [230822]
-	;lỉnh đi -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] tumult		<-->	n++[--0]	.[orw.050] [230822]
-	;sự hỗn loạn -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] incite		<-->	verb++[--0]	.[orw.051] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] slay		<-->	verb++[--0]	.[orw.051] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] on the spot		<-->	p.verb+B2[--0]	.[orw.051] [230822]
-	;ngay tại chỗ -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] in place		<-->	p.verb+B2[--0]	.[orw.051] [230822]
-	;ngay tại chỗ  -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] league		<-->	verb++[--0]	.[orw.051] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] huddle		<-->	verb++[--0]	./ˈhʌdl/
- /ˈhʌdl/\ [orw.052] [230822]
+[-] huddle		<-->	verb++[0]	./ˈhʌdl/-NAmE /ˈhʌdl/\ [orw.052] [230822]
 	;túm tụm -- (1) [intransitive] huddle (up/together) (+ adv./prep.) (of people or animals) to gather closely together, usually because of cold or fear
 		;We huddled together for warmth.
 		;They all huddled around the fire.
@@ -1208,12 +1265,20 @@
 
 
 
-[-] huddle		<-->	n++[--0]	.[orw.052] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] huddle		<-->	n++[0]	./ˈhʌdl/-NAmE /ˈhʌdl/ [orw.052] [230822]
+	;rúc vào -- (1) [intransitive] huddle (up/together) (+ adv./prep.) (of people or animals) to gather closely together, usually because of cold or fear
+		;We huddled together for warmth.
+		;They all huddled around the fire.
+		;People huddled up close to each other.
+	; -- (2) [intransitive] huddle (up) (+ adv./prep.) to hold your arms and legs close to your body, usually because you are cold or frightened
+		;I huddled under a blanket on the floor.
+		;Extra Examples:
+		;Felipe sat huddled in his chair.
+		;He slept, huddled in an armchair.
+		;Karen was huddled against the wall.
+		;She found him huddled in a corner, shaking violently.
+		;She lay huddled under the blankets.
+		;Word Origin
 
 
 
@@ -1221,12 +1286,13 @@
 
 
 
-[-] huddled		<-->	a++[--0]	.[orw.052] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] huddled		<-->	a++[0]	./ˈhʌdld/-NAmE /ˈhʌdld/ [orw.052] [230822]
+	;rúc vào nhau -- (1) ​(of people or animals) gathered closely together, usually because of cold or fear
+		;People were huddled together around the fire.
+	; -- (2) holding your arms and legs close to your body, usually because you are cold or frightened
+		;huddled figures in shop doorways
+		;We found him huddled on the floor.
+		;Check pronunciation: huddled
 
 
 
@@ -1239,12 +1305,11 @@
 
 
 
-[-] gild		<-->	verb++[--0]	.[orw.052] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] gild		<-->	verb++[0]	./ɡɪld/-NAmE /ɡɪld/ [orw.052] [230822]
+	;mạ kim -- (1) gild something (literary) to make something look bright, as if covered with gold
+		;The golden light gilded the sea.
+	;mạ vàng -- (2) gild something to cover something with a thin layer of gold or gold paint
+		;TOPICS ArtC2
 
 
 
@@ -1256,13 +1321,10 @@
 
 
 
+[-] shalt		<-->	verb++[0]	./ʃælt/-NAmE /ʃælt/
+thou shalt (old use) [orw.054] [230822]
+	;bạn sẽ -- (1) ​used to mean ‘you shall’, when talking to one person
 
-[-] shalt		<-->	verb++[--0]	.[orw.054] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -1274,13 +1336,21 @@
 
 
 
+[-] hoist		<-->	verb++[0]	./hɔɪst/-NAmE /hɔɪst/ [orw.054] [230822]
+	;kéo lên, cẩu lên	 -- (1) to raise or pull something up to a higher position, often using ropes or special equipment
+		; hoist something/somebody/yourself + adv./prep. He hoisted himself onto a high stool.
+		;The cargo was hoisted aboard by crane.
+		; hoist something to hoist a flag/sail
+		;Extra Examples:
+		;He was hoisted into the air.
+		;The animals were hoisted aloft in their metal cage.
+		;We hoisted her up out of the water.
+				;Oxford Collocations Dictionary
+				;Hoist is used with these nouns as the object:
+				;backpackbagbanner…
+		;See full entry
+		;Word Origin
 
-[-] hoist		<-->	verb++[--0]	.[orw.054] [230822]
-	;kéo lên -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -1292,13 +1362,10 @@
 
 
 
+[-] hoist		<-->	n++[0]	./hɔɪst/-NAmE /hɔɪst/ [orw.054] [230822]
+	;cái cẩu -- (1) a piece of equipment used for lifting heavy things, or for lifting people who cannot stand or walk
+		;Word Origin
 
-[-] hoist		<-->	n++[--0]	.[orw.054] [230822]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -1310,45 +1377,17 @@
 
 
 
-
-[-] advent		<-->	n++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] thieving		<-->	n++[--0]	.[orw.037] [230823]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] grudge		<-->	verb++[--0]	.[orw.037] [230823]
-	; -- (1) 
+[-] advent		<-->	n++[0]	./ˈædvent/-NAmE /ˈædvent/
+	;sự xuất hiện -- (1) [singular] the advent of something/somebody the coming of an important event, person, invention, etc.
+		;the advent of new technology
+		;Extra Examples:
+		;Before the advent of the railways, communications were slow and difficult.
+		;She succeeded in a profession which, until her advent, had been entirely male.
+		;The advent of the child had caused problems in their relationship.
+		;The advent of the new government resulted in many changes.
+		;The advent of the new regime led to a marked decline in women's rights.
+		;The fighting continued until the advent of winter.
+		;With the advent of John Hume came a change of direction.
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -1365,8 +1404,64 @@
 
 
 
-[-] crowbar		<-->	n++[--0]	.[orw.037] [230823]
-	; -- (1) 
+[-] thieving		<-->	n++[0]	./ˈθiːvɪŋ/-NAmE /ˈθiːvɪŋ/
+[uncountable] (informal) [orw.037] [230823]
+	;sự trộm cắp -- (1) ​the act of stealing things
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[-] grudge		<-->	verb++[0]	./ɡrʌdʒ/-NAmE /ɡrʌdʒ/ [orw.037] [230823]
+	;ghen ghét, oán giận -- (1) to do or give something unwillingly
+		;SYNONYM begrudge
+		;<<begrudge, grudge, envy, >> 
+		; grudge doing something I grudge having to pay so much tax.
+		; grudge something He grudges the time he spends travelling to work.
+	; -- (2) grudge somebody something to think that somebody does not deserve to have something
+		;SYNONYM begrudge
+		;You surely don't grudge her her success?
+		;Extra Examples:
+		;I do not grudge you your victory.
+		;She was well aware that Russell grudged her every penny.
+		;Word Origin
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+
+
+
+
+
+[-] crowbar		<-->	n++[0]	./ˈkrəʊbɑː(r)/-NAmE /ˈkrəʊbɑːr/ [orw.037] [230823]
+	;xà beng -- (1) a straight iron bar, usually with a curved end, used for forcing open boxes and moving heavy objects
+
+
+
+
+
+
+
+
+
+
+
+
+[-] yoke		<-->	n++[0]	./jəʊk/-NAmE /jəʊk/ [orw.038] [230823]
+	;cái ách -- (1) [countable] a long piece of wood that is fastened across the necks of two animals, especially oxen, so that they can pull heavy loads
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -1383,9 +1478,13 @@
 
 
 
-[-] yoke		<-->	n++[--0]	.[orw.038] [230823]
-	; -- (1) 
-	; -- (2) 
+[-] yoke		<-->	verb++[0]	./jəʊk/-NAmE /jəʊk/ [usually passive] [orw.038] [230823]
+	;ghép ách chung -- (1) to join two animals together with a yoke; to attach an animal to something with a yoke
+		;(be) yoked together A pair of oxen, yoked together, was used.
+		;(be) yoked to something an ox yoked to a plough
+	;gắn với -- (2) ​(formal) to bring two people, countries, ideas, etc. together so that they are forced into a close relationship
+		; be yoked to something The Hong Kong dollar was yoked to the American dollar for many years.
+		; be yoked together In these languages, short words are yoked together to create new words.
 	; -- (3) 
 	; -- (4) 
 	; -- (5) 
@@ -1401,12 +1500,6 @@
 
 
 
-[-] yoke		<-->	verb++[--0]	.[orw.038] [230823]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -1415,6 +1508,30 @@
 
 
 
+[-] impetus		<-->	n++[0]	./ˈɪmpɪtəs/-NAmE /ˈɪmpɪtəs/ [bbc]
+	;nguồn kích thích, sự kích thích -- (1) [uncountable, singular] something that encourages a process or activity to develop more quickly
+		;SYNONYM stimulus
+		;The debate seems to have lost much of its initial impetus.
+		; impetus to something/to do something to give (a) new/fresh impetus to something
+		;The Prime Minister’s support will give (an) added impetus to the campaign against crime.
+		; impetus for something His articles provided the main impetus for change.
+		;Extra Examples:
+		;Each new rumour added fresh impetus to the smear campaign.
+		;His disappointment in the World Championships provided the necessary impetus to give everything for this 		;final race.
+		;The movement is steadily gaining impetus.
+		;The riots lent impetus to attempts to improve conditions for prisoners.
+				;Oxford Collocations Dictionary
+				;adjective
+				;considerablegreatpowerful…
+				;verb + impetus
+				;addgive somebody/​somethinglend something…
+				;impetus + verb
+				;come from something
+				;preposition
+				;impetus behind somebody/​somethingimpetus forimpetus towards/​toward…
+		;See full entry
+	;động lực -- (2) ​[uncountable] (specialist) the force or energy with which something moves
+		;The slope added impetus to his speed.
 
 
 
@@ -1427,12 +1544,13 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] expletive		<-->	n++[0]	./ɪkˈspliːtɪv/-NAmE /ˈeksplətɪv/
+(formal) [bbc]
+	;tục tĩu -- (1) a word, especially a rude word, that you use when you are angry, or in pain
+		;SYNONYM swear word
+		;<< expletive, swear word, >> 
+		;He dropped the book on his foot and muttered several expletives under his breath.
+		;‘Why don't you just [expletive deleted] (= used when you edit out a rude word when reporting what somebody has said)?’
 
 
 
@@ -1445,12 +1563,20 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] raging		<-->	a++[0]	./ˈreɪdʒɪŋ/-NAmE /ˈreɪdʒɪŋ/
+[only before noun] [orw.043] [230824]
+	;cực kỳ -- (1) (of feelings or emotions) very strong
+		;a raging appetite/thirst
+		;raging jealousy
+	;rất mạnh -- (2) (of natural forces) very powerful
+		;a raging storm
+		;The stream had become a raging torrent.
+		;The building was now a raging inferno.
+	; -- (3) (of a pain or an illness) very strong or painful
+		;a raging headache
+		;He had a raging fever all night.
+	;dữ dội -- (4) very serious, causing strong feelings and continuing over a period of time
+		;His speech has provoked a raging debate.
 
 
 
@@ -1463,12 +1589,12 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] end up		<-->	p.verb+B1[--0]	.
+	;có trong, xuất hiện, hiện diện -- (1) to find yourself in a place or situation at the end of a process or period of time
+		; end up doing something I ended up doing all the work myself.
+		; + adv./prep. If you go on like this you'll end up in prison.
+		;We moved around a lot when I was young but we ended up in London.
+		; + adj. If he carries on driving like that, he'll end up dead.
 
 
 
@@ -1481,12 +1607,6 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
 
 
 
@@ -1498,26 +1618,7 @@
 
 
 
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
+[-] seismologist		<-->	n++[--0]	.[lm.p.s.18] [230824]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
