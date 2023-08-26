@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 #define BUFF_SIZE 8  //A segment
-#define MAX_BLOCK 20    //Maximum of pointers are allocated.
+#define MAX_BLOCK 20    //Maximum of number of pointers are allocated.
 #define CAST_PCHAR(p)   ((char*)(p))
 #define myfprintf(fm, ...) fprintf(stdout, "\nline: %d, "fm"\n", __LINE__, ##__VA_ARGS__)
 
-typedef struct {
+typedef struct __mmu_list__ {
     int total;
     int used;
     char data[0];
@@ -14,7 +14,7 @@ typedef struct {
 
 
 
-typedef struct {
+typedef struct __item_block__ {
     int n;
     void *p;
 } item_block;
@@ -27,6 +27,7 @@ char mysegment[BUFF_SIZE];//Auto set zero, bss data
 char mymmu[MMU_SIZE];//Auto set zero, bss data
 mmu_list *stack = (mmu_list *)mymmu;
 void dump_list();
+void try_clear();
 
 void *mymalloc(int n);
 void myfree(void *p);
@@ -80,6 +81,7 @@ int main(int argc, char *argv[]) {
     myfree(p1);
     dump_list();
 
+    try_clear();
     return 0;
 }
 void *mymalloc(int n) {
@@ -87,22 +89,20 @@ void *mymalloc(int n) {
     void *p = 0;
     item_block mem;
     int k = 0;
-    char valid = 0;
     int m = STACK_ITEMS(stack);
     item_block *t = (item_block *)stack->data;   
-    mem.n = 0;
-    mem.p = 0;    
+   
     do {
         if(n < 1) break;
+        
         if(n > BUFF_SIZE) break;
+
         if(!STACK_REMAIN(stack)) {
             break;
         }   
+
         if(m < 1) {
-            valid = 1;
-            mem.n = n;
-            mem.p = mysegment;
-            p = mem.p;
+            p = mysegment;
             myfprintf("--- option 0") ;  
             break;
         } 
@@ -110,10 +110,7 @@ void *mymalloc(int n) {
         do {
             //myfprintf("range: %d", CAST_PCHAR(t[0].p) -  CAST_PCHAR(mysegment));
             if (CAST_PCHAR(t[0].p) -  CAST_PCHAR(mysegment) >= n) {
-                valid = 1;
-                mem.n = n;
-                mem.p = mysegment;
-                p = mem.p;
+                p = mysegment;
                 //k = 0;  
                 myfprintf("--- option 1") ;  
                 break;          
@@ -121,10 +118,7 @@ void *mymalloc(int n) {
 
             while (k < (m -1)) {
                 if(CAST_PCHAR(t[k + 1].p) -  (CAST_PCHAR(t[k].p) + t[k].n) >= (n)) {
-                    valid = 1;
-                    mem.n = n;
-                    mem.p = CAST_PCHAR(t[k].p) + t[k].n;
-                    p = mem.p;
+                    p = CAST_PCHAR(t[k].p) + t[k].n;
                     myfprintf("--- option 2") ;  
                     ++k;
                     break;
@@ -134,10 +128,7 @@ void *mymalloc(int n) {
         
             if ((CAST_PCHAR(mysegment) + BUFF_SIZE) - (CAST_PCHAR(t[m-1].p) + t[m-1].n) >= n) 
             {
-                valid = 1;
-                mem.n = n;
-                mem.p = CAST_PCHAR(t[m-1].p) + t[m-1].n;
-                p = mem.p;
+                p = CAST_PCHAR(t[m-1].p) + t[m-1].n;
                 k = m;         
                 myfprintf("--- option 3") ;  
                 break;          
@@ -145,8 +136,10 @@ void *mymalloc(int n) {
         }
         while(0);    
     } while(0);
-    if(valid) {
+    if(p) {
         //insert  INTO MMU STACK AT k position
+        mem.n = n;
+        mem.p = p;
         myinsert(stack, CAST_PCHAR(&mem), k);
     } 
     return p;
@@ -194,4 +187,17 @@ void dump_list() {
     for(i = 0; i < n; ++i) {
         myfprintf("---->>>> i: %d, sz:%d, p: %p", i, t[i].n, t[i].p);
     }   
+}
+void try_clear() {
+    item_block *t = (item_block *)stack->data; 
+    int n = STACK_ITEMS(stack);
+    while(n) {
+        if(n > 1) {
+            myfree(t[n/2].p);
+        } else {
+            myfree(t[0].p);
+        }
+        n = STACK_ITEMS(stack);
+        dump_list();
+    }
 }
