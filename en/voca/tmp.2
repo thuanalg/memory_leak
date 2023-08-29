@@ -191,42 +191,79 @@ High Card – Mậu thầu
 
 artery, 	
 
-[lm.a.s.39] [230826] gel, artery, 
-[lm.a.s.40] [230826] propane
+[lm.a.s.39] [230829] gel, artery, 
+[lm.a.s.40] [230829] propane
 
-Hi All,
-	My name's Thuan, a senior C/C++ prgrammer. I like to work with networking programming, so I am familiar with OSI layer, especially transport layer UDP/TCP, and IPC-Interprocess Communication, POSIX-API, Win32 API.
 
-	And I can also work with Winform, database, ... so on. I hope to fit in with your requirements. 
 
-	Then Nice to meet you.
 
-[230826] [STV-0044]
-[230826] [JJOY-0023]
-[lm.a.s.28] [230826]
-[lm.a.s.29] [230826]
-[lm.p.16] [230826]
+[orw.076] [230829]
 
-[orw.076] [230826]
+[orw.077] [230829]
 
-[orw.077] [230826]
-
-[orw.084] [230826]
+[orw.084] [230829]
 
 https://www.youtube.com/watch?v=y0OuETCKowE
 
 [lm.p.16] 
-[lm.p.17] [230826]
-[lm.p.s.18] [230826]
-[lm.p.26] [230826][001]
+[lm.p.17] 	
+[lm.p.s.18] [230829]
+[lm.p.26] [230829][001]
 
 
 [cv.0071]
 
 dubious(71), raster(72), sparse(90), 
 
-[orw.037] [230826][001]
-[orw.043] [230826]
-[orw.034] [230826]
-	[230826][001]
-cmake -DgRPC_INSTALL=ON -DgRPC_BUILD_TESTS=OFF  -DCMAKE_INSTALL_PREFIX=$MY_INSTALL_DIR  ../..
+
+
+grpc/BUILDING.md
+git submodule update --init
+ll
+mkdir -p cmake/build
+cd cmake/build
+cmake ../..
+ll
+make &> z.make
+vim z.make 
+/home/thuannguyen/ztmp/grpc/examples/cpp 
+ 72 ```sh
+ 73  $ git clone -b RELEASE_TAG_HERE https://github.com/grpc/grpc
+ 74  $ cd grpc
+ 75  $ git submodule update --init
+build-essential: 
+ 1003  yum install autoconf libtool pkg-config
+ 1004  yum list | grep absl
+ 1005  yum install gcc gcc-c++ kernel-devel make
+ 1006  yum groupinstall "Development Tools"
+ 1007  dnf install c-ares-devel
+
+dnf install c-ares-devel
+ https://howtoprogram.xyz/2016/06/28/install-build-essentials-for-centos-rhel-and-ubuntu/
+https://abseil.io/docs/cpp/tools/cmake-installs
+
+cmake  ../.. -DgRPC_INSTALL=ON -DCMAKE_BUILD_TYPE=Release  -DgRPC_ABSL_PROVIDER=package   -DgRPC_CARES_PROVIDER=package -DgRPC_PROTOBUF_PROVIDER=package  -DgRPC_RE2_PROVIDER=package  -DgRPC_SSL_PROVIDER=package  -DgRPC_ZLIB_PROVIDER=package
+
+include could not find requested file: cmake/abseil-cpp.cmake
+cmake from source
+ 1006  yum install protobuf
+ 1007  protoc --version
+ 1008  yum install protoc
+ 1009  yum install -y protobuf-compiler
+ git clone --recursive https://github.com/grpc/grpc
+
+ [orw.037] [230829][001]
+[orw.043] [230829]
+
+	[230829][001]
+
+[230829] [STV-0044]
+
+[lm.a.s.28] [230829]
+[lm.a.s.29] [230829]
+[lm.p.16] [2308]
+
+[230829] [JJOY-0030]
+  BREW VS POUR COFFEE
+
+[orw.030] [230829]
