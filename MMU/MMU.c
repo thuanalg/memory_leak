@@ -117,7 +117,7 @@ void *mymalloc(int n) {
         
         do {
             //myfprintf("range: %d", CAST_PCHAR(t[0].p) -  CAST_PCHAR(mysegment));
-            if (CAST_PCHAR(t[0].p) -  CAST_PCHAR(mysegment) >= n) {
+            if (CAST_PCHAR(t[0].p) >= CAST_PCHAR(mysegment) + n) {
                 p = mysegment;
                 //k = 0;  
                 myfprintf("--- option 1 insert at the first") ;  
@@ -125,7 +125,7 @@ void *mymalloc(int n) {
             }
 
             while (k < (m -1)) {
-                if(CAST_PCHAR(t[k + 1].p) -  (CAST_PCHAR(t[k].p) + t[k].n) >= (n)) {
+                if(CAST_PCHAR(t[k + 1].p)  >= (CAST_PCHAR(t[k].p) + t[k].n) + n) {
                     p = CAST_PCHAR(t[k].p) + t[k].n;
                     myfprintf("--- option 2 insert at middle") ;  
                     ++k;
@@ -134,7 +134,7 @@ void *mymalloc(int n) {
                 ++k;
             }
         
-            if ((CAST_PCHAR(mysegment) + BUFF_SIZE) - (CAST_PCHAR(t[m-1].p) + t[m-1].n) >= n) 
+            if ((CAST_PCHAR(mysegment) + BUFF_SIZE) >= (CAST_PCHAR(t[m-1].p) + t[m-1].n) + n) 
             {
                 p = CAST_PCHAR(t[m-1].p) + t[m-1].n;
                 k = m;         
