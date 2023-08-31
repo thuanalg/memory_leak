@@ -19,7 +19,7 @@ typedef struct __item_block__ {
     void *p;
 } item_block;
 
-#define STACK_REMAIN(k)    (((k)->total - (k)->used - sizeof(mmu_list)) >= sizeof(item_block))
+#define STACK_REMAIN(k)     ((k)->total >= sizeof(item_block) + (k)->used + sizeof(mmu_list))
 #define MMU_SIZE            (MAX_BLOCK * sizeof(item_block) + sizeof(mmu_list))
 #define STACK_ITEMS(k)      (((k)->used)/sizeof(item_block))
 
