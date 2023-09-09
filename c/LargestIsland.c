@@ -53,9 +53,21 @@ int main(int argc, char *argv[]) {
     short val = 0;
     char act = 0;
     int m = 1, n = 1;
-    
+
+    if(argc < 3) {
+        return EXIT_FAILURE;
+    }
+
     sscanf(argv[1], "%d", &m);
     sscanf(argv[2], "%d", &n);
+    
+    if(m < 1) {
+        return EXIT_FAILURE;
+    }  
+    if(n < 1) {
+        return EXIT_FAILURE;
+    } 
+    
     MATRIX(mtx, MYTYPE, m, n);
 
 
@@ -73,7 +85,7 @@ int main(int argc, char *argv[]) {
         }
 
     }
-    fprintf(stdout, "\n(row, col) = (%d, %d)\n\n", mtx->row, mtx->col);
+    fprintf(stdout, "\n\n(row, col) = (%d, %d)\n\n", mtx->row, mtx->col);
     //doact(mtx, mtx->row, mtx->col);
     doact(mtx);
     for(int i = 0; i <  mtx->row; ++i) {
