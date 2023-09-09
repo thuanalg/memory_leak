@@ -52,7 +52,11 @@ int main(int argc, char *argv[]) {
     matrix *mtx = 0;
     short val = 0;
     char act = 0;
-    MATRIX(mtx, MYTYPE, 11, 10);
+    int m = 1, n = 1;
+    
+    sscanf(argv[1], "%d", &m);
+    sscanf(argv[2], "%d", &n);
+    MATRIX(mtx, MYTYPE, m, n);
 
 
     for(int i = 0; i <  mtx->row; ++i)
