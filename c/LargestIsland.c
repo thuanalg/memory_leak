@@ -47,7 +47,7 @@ typedef struct __MYNODE__ {
 void doact(matrix *mtx);
 void do_recursive(matrix *mtx, int i, int j, tracker *tr);
 
-
+//  Run command ./LargestIsland 8 7
 int main(int argc, char *argv[]) {
     matrix *mtx = 0;
     short val = 0;
@@ -67,7 +67,7 @@ int main(int argc, char *argv[]) {
     if(n < 1) {
         return EXIT_FAILURE;
     } 
-    
+
     MATRIX(mtx, MYTYPE, m, n);
 
 
