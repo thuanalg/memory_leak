@@ -1,4 +1,4 @@
-[-] able-bodied		<-->	adjective+C2[-0]	./ˌeɪbl ˈbɒdid/
+[-] able-bodied		<-->	adjective++C2	[230910][001]	./ˌeɪbl ˈbɒdid/
  /ˌeɪbl ˈbɑːdid/
 	;khỏe mạnh và lành lặn -- (1) physically healthy, fit and strong in contrast to somebody who has a health condition or disability
 		;Military service is compulsory for every able-bodied male between 18 and 27.
@@ -13,7 +13,7 @@
 
 
 
-[-] a breath of (fresh) air		<-->	idiom+C2[-0]	./i/
+[-] a breath of (fresh) air		<-->	idiom++C2	[230910][001]	./i/
 	;bầu không khí trong lành -- (1) clean air breathed in after being indoors or in a dirty atmosphere
 		;We'll get a breath of fresh air at lunchtime.
 		;I'm going outside for a breath of fresh air.
@@ -24,7 +24,7 @@
 
 
 
-[-] activity tracker		<-->	noun+C2[-0]	./i/ /ækˈtɪvəti trækə(r)/
+[-] activity tracker		<-->	noun++C2	[230910][001]	./i/ /ækˈtɪvəti trækə(r)/
  /ækˈtɪvəti trækər/
 (also fitness tracker)
 	;máy track thể chất -- (1) a device that you can wear that records your daily physical activity, as well as other information about your health, such as your heart rate
@@ -33,47 +33,65 @@
 
 
 
-[-] aerobic		<-->	adjective+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+[-] aerobic		<-->	adjective++C1	[230910][001]	./eəˈrəʊbɪk/
+ /eˈrəʊbɪk/
+	; -- (1) ​(biology) needing oxygen
+		;aerobic bacteria
+	;c. thể dục nhịp điệu -- (2) ​(of physical exercise) especially designed to improve the function of the heart and lungs
+		;aerobic exercise
+		;TOPICS Health and FitnessC1
+		;OPPOSITE anaerobic
+		;Word Origin
 
 
 
-[-] aerobics		<-->	noun+B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
+[-] aerobics		<-->	noun++B2	[230910][001]	./eəˈrəʊbɪks/
+ /eˈrəʊbɪks/
+[uncountable]
+	;thể dục nhịp điệu -- (1) physical exercises intended to make the heart and lungs stronger, often done in classes, with music
+		;to do aerobics
+		;I go to aerobics every Monday.
+		;TOPICS Sports: other sportsB2, Health and FitnessB2
 
 
 
-[-] alive and kicking		<-->	idiom+C2[-0]	.
-	; -- (1) 
+[-] alive and kicking		<-->	idiom++C2	[230910][001]	./i/
+	;rất năng động, khỏe mạnh -- (1) very active, healthy or popular
+		;My mother is still alive and kicking.
+		;TOPICS Health and FitnessC2
 	; -- (2) 
 	; -- (3) 
 
 
 
 
-[-] anaerobic		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] anaerobic		<-->	adjective++C2	[230910][001]	./ˌænəˈrəʊbɪk/
+ /ˌænəˈrəʊbɪk/
+	;kỵ khí -- (1) ​(biology) not needing oxygen
+		;anaerobic bacteria
+		;TOPICS BiologyC2
+	;thể dục nhịp điệu -- (2) (of physical exercise) not especially designed to improve the function of the heart and lungs
+		;TOPICS Health and FitnessC2
+		;OPPOSITE aerobic
 
 
 
 
-[-] a/one hundred per cent		<-->	idiom+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] a/one hundred per cent		<-->	idiom++C2	[230910][001]	./i/
+	; -- (1) in every way
+		;SYNONYM completely
+		;I'm not a hundred per cent sure.
+		;My family supports me one hundred per cent.
+	;khỏe mạnh -- (2) completely fit and healthy
+		;I still don't feel a hundred per cent.
+		;TOPICS Health and FitnessC2
 	; -- (3) 
 
 
 
 
-[-] athlete		<-->	noun+B1[-0]	.
+[-] athlete		<-->	noun++B1	[230910][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -81,15 +99,19 @@
 
 
 
-[-] athletic		<-->	adjective+B2[-0]	.
-	; -- (1) 
+[-] athletic		<-->	adjective++B2	[230910][001]	./æθˈletɪk/
+ /æθˈletɪk/
+	;khỏe mạnh, cường tráng -- (1) ​physically strong, fit and active
+		;an athletic figure/build
+		;a tall, slim athletic girl
+		;TOPICS Health and FitnessB2
 	; -- (2) 
 	; -- (3) 
 
 
 
 
-[-] beauty sleep		<-->	noun+C2[-0]	.
+[-] beauty sleep		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -97,55 +119,105 @@
 
 
 
-[-] bloom		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] bloom		<-->	noun++C2	[230910][001]	./bluːm/
+ /bluːm/\
+	; -- (1) ​(formal or specialist) [countable] a flower (usually one on a plant that people admire for its flowers)
+		;the exotic blooms of the orchid
+		;The plant produced a single white bloom.
+		;Extra Examples:
+		;The small pink blooms appear in May.
+		;a tree with exquisite blooms
+		;TOPICS Plants and treesC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;beautifulgloriousperfect…
+				;verb + bloom
+				;bearhaveproduce…
+				;bloom + verb
+				;appearfade
+				;preposition
+				;in bloom
+				;phrases
+				;in full bloomburst into bloomcome into bloom…
+		;See full entry
+	;trẻ trung -- (2) [singular, uncountable] a healthy fresh appearance
+		;the bloom in her cheeks
+		;the bloom of youth
+		;TOPICS Health and FitnessC2
 	; -- (3) 
 
 
 
 
-[-] bloom		<-->	verb+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] bloom		<-->	verb++C2	[230910][001]	./bluːm/
+ /bluːm/
+	; -- (1) [intransitive] to produce flowers
+		;SYNONYM flower
+		;Most roses will begin to bloom from late May.
+		;Tulips were blooming as far as the eye could see.
+		;TOPICS Plants and treesC2
+	;nở hoa -- (2) ​[intransitive] to become healthy, happy or confident
+		;SYNONYM blossom
+		;The children had bloomed during their stay on the farm.
+		;She was blooming with good health.
+		;TOPICS FeelingsC2, Health and FitnessC2
 	; -- (3) 
 
 
 
 
-[-] blossom		<-->	verb+C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] blossom		<-->	verb++C1	[230910][001]	./ˈblɒsəm/
+ /ˈblɑːsəm/
+	; -- (1) ​[intransitive] (of a tree or bush) to produce blossom
+		;The cherry trees blossomed early this year.
+		;TOPICS Plants and treesC1
+	;nở hoa -- (2) [intransitive] to become more healthy, confident or successful
+		;She has visibly blossomed over the last few months.
+		; blossom into something Their friendship blossomed into love.
+		;Extra Examples:
+		;As the romance blossomed, he moved to be closer to her.
+		;It was after his move to Barcelona that his career really blossomed.
+		;TOPICS SuccessC1, Health and FitnessC1
+		;Word Origin
 
 
 
 
-[-] bouncing		<-->	adjective+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] bouncing		<-->	adjective++C2	[230910][001]	./ˈbaʊnsɪŋ/
+ /ˈbaʊnsɪŋ/
+	;phồng lên -- (1) bouncing (with something) healthy and full of energy
+		;a bouncing baby boy
+		;TOPICS Health and FitnessC2, Personal qualitiesC2
+		;Oxford Collocations Dictionary
+		;Bouncing is used with these nouns:
+		;babybomb
+		;See full entry
 
 
 
 
-[-] bubble		<-->	noun+C2[-0]	.
+[-] bubble		<-->	noun++C2	[230910][001]	./cef/\
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;??? -- (5) (also social bubble) a small group of people with whom you are allowed to have physical contact during a period when social distancing is otherwise required
+		;He's been staying with his sister and her husband at weekends since he chose to form a bubble with them.
+		;COMPARE support bubble
+		;TOPICS Health and FitnessC2
 
 
 
 
-[-] bubble with		<-->	phrasal veerb+C2[-0]	.
-	; -- (1) 
+[-] bubble with		<-->	phrasal veerb++C2	[230910][001]	./p/
+	;??? -- (1) [-bubble with somebody/something] (in the UK) to form a support bubble with another household
+		;The rules only allow you to bubble with one other household.
+		;TOPICS Health and FitnessC2
 	; -- (2) 
 	; -- (3) 
 
 
 
 
-[-] burn		<-->	noun+C2[-0]	.
+[-] burn		<-->	noun++C2	[230910][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -153,23 +225,33 @@
 
 
 
-[-] burpee		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] burpee		<-->	noun++C2	[230910][001]	./ˈbɜːpi/,  /ˌbɜːˈpi/
+ /ˈbɜːrpi/
+	;??? -- (1) ​an exercise in which you start standing up, do a squat thrust, then jump back up again
+		;Burpees are great for building endurance.
+		;TOPICS Health and FitnessC2
 
 
 
 
-[-] cardio		<-->	noun+C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+
+[-] cardio		<-->	noun++C2	[230910][001]	./ˈkɑːdiəʊ/
+ /ˈkɑːrdiəʊ/
+[uncountable] (informal)
+	;??? -- (1) exercises to make your heart work harder that you do to keep yourself fit
+		;Cardio is the answer if you want to lose weight.
+		;cardio exercise/workouts
+		;SEE ALSO cardiovascular
+		;TOPICS Health and FitnessC2
+				;Oxford Collocations Dictionary
+				;Cardio is used after these nouns:
+				;workout
+		;See full entry
 
 
 
 
-[-] circuit		<-->	noun+C2[-0]	.
+[-] circuit		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -177,7 +259,7 @@
 
 
 
-[-] circuit breaker		<-->	noun+C2[-0]	.
+[-] circuit breaker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -185,7 +267,7 @@
 
 
 
-[-] circuit training		<-->	noun+C2[-0]	.
+[-] circuit training		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -193,7 +275,7 @@
 
 
 
-[-] circulation		<-->	noun+C1[-0]	.
+[-] circulation		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -201,7 +283,7 @@
 
 
 
-[-] clean-living		<-->	adjective+C2[-0]	.
+[-] clean-living		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -209,7 +291,7 @@
 
 
 
-[-] CrossFit™		<-->	noun+C2[-0]	.
+[-] CrossFit™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -217,7 +299,7 @@
 
 
 
-[-] cross trainer		<-->	noun+C2[-0]	.
+[-] cross trainer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -225,7 +307,7 @@
 
 
 
-[-] cross-training		<-->	noun+C2[-0]	.
+[-] cross-training		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -233,7 +315,7 @@
 
 
 
-[-] elbow bump		<-->	noun+C2[-0]	.
+[-] elbow bump		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -241,7 +323,7 @@
 
 
 
-[-] elbump		<-->	noun+C2[-0]	.
+[-] elbump		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -249,7 +331,7 @@
 
 
 
-[-] energy		<-->	noun+A2[-0]	.
+[-] energy		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -257,7 +339,7 @@
 
 
 
-[-] exercise		<-->	noun+A1[-0]	.
+[-] exercise		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -265,7 +347,7 @@
 
 
 
-[-] exercise		<-->	verb+A1[-0]	.
+[-] exercise		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -273,7 +355,7 @@
 
 
 
-[-] exercise bike		<-->	noun+B1[-0]	.
+[-] exercise bike		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -281,7 +363,7 @@
 
 
 
-[-] fine		<-->	adjective+A1[-0]	.
+[-] fine		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -289,7 +371,7 @@
 
 
 
-[-] fit		<-->	adjective+A2[-0]	.
+[-] fit		<-->	adjective++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -297,7 +379,7 @@
 
 
 
-[-] fitness		<-->	noun+B1[-0]	.
+[-] fitness		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -305,7 +387,7 @@
 
 
 
-[-] fitness centre		<-->	noun+B2[-0]	.
+[-] fitness centre		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -313,7 +395,7 @@
 
 
 
-[-] fitness tracker		<-->	noun+C2[-0]	.
+[-] fitness tracker		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -321,7 +403,7 @@
 
 
 
-[-] flourish		<-->	verb+C1[-0]	.
+[-] flourish		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -329,7 +411,7 @@
 
 
 
-[-] foam roller		<-->	noun+C2[-0]	.
+[-] foam roller		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -337,7 +419,7 @@
 
 
 
-[-] form		<-->	noun+C1[-0]	.
+[-] form		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -345,7 +427,7 @@
 
 
 
-[-] fresh-faced		<-->	adjective+C2[-0]	.
+[-] fresh-faced		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -353,7 +435,7 @@
 
 
 
-[-] get (yourself) into shape		<-->	idiom+C2[-0]	.
+[-] get (yourself) into shape		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -361,7 +443,7 @@
 
 
 
-[-] glow		<-->	verb+C2[-0]	.
+[-] glow		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -369,7 +451,7 @@
 
 
 
-[-] good		<-->	adjective+A1[-0]	.
+[-] good		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -377,7 +459,7 @@
 
 
 
-[-] gym		<-->	noun+A1[-0]	.
+[-] gym		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -385,7 +467,7 @@
 
 
 
-[-] gymnasium		<-->	noun+C1[-0]	.
+[-] gymnasium		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -393,7 +475,7 @@
 
 
 
-[-] health		<-->	noun+A1[-0]	.
+[-] health		<-->	noun++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -401,7 +483,7 @@
 
 
 
-[-] health club		<-->	noun+B1[-0]	.
+[-] health club		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -409,7 +491,7 @@
 
 
 
-[-] health spa		<-->	noun+C2[-0]	.
+[-] health spa		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -417,7 +499,7 @@
 
 
 
-[-] healthy		<-->	adjective+A1[-0]	.
+[-] healthy		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -425,7 +507,7 @@
 
 
 
-[-] heartbeat		<-->	noun+B2[-0]	.
+[-] heartbeat		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -433,7 +515,7 @@
 
 
 
-[-] heart rate		<-->	noun+B1[-0]	.
+[-] heart rate		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -441,7 +523,7 @@
 
 
 
-[-] high-intensity interval training		<-->	noun+C2[-0]	.
+[-] high-intensity interval training		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -449,7 +531,7 @@
 
 
 
-[-] HIIT		<-->	noun+C2[-0]	.
+[-] HIIT		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -457,7 +539,7 @@
 
 
 
-[-] immune		<-->	adjective+B2[-0]	.
+[-] immune		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -465,7 +547,7 @@
 
 
 
-[-] immunity		<-->	noun+C1[-0]	.
+[-] immunity		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -473,7 +555,7 @@
 
 
 
-[-] interval		<-->	noun+C2[-0]	.
+[-] interval		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -481,7 +563,7 @@
 
 
 
-[-] interval training		<-->	noun+C2[-0]	.
+[-] interval training		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -489,7 +571,7 @@
 
 
 
-[-] jog		<-->	verb+A2[-0]	.
+[-] jog		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -497,7 +579,7 @@
 
 
 
-[-] jog		<-->	noun+A2[-0]	.
+[-] jog		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -505,7 +587,7 @@
 
 
 
-[-] jogger		<-->	noun+B1[-0]	.
+[-] jogger		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -513,7 +595,7 @@
 
 
 
-[-] jogging		<-->	noun+A2[-0]	.
+[-] jogging		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -521,7 +603,7 @@
 
 
 
-[-] jumping jack		<-->	noun+C2[-0]	.
+[-] jumping jack		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -529,7 +611,7 @@
 
 
 
-[-] keep-fit		<-->	noun+C1[-0]	.
+[-] keep-fit		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -537,7 +619,7 @@
 
 
 
-[-] kettlebell		<-->	noun+C2[-0]	.
+[-] kettlebell		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -545,7 +627,7 @@
 
 
 
-[-] lock down		<-->	phrasal veerb+C2[-0]	.
+[-] lock down		<-->	phrasal veerb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -553,7 +635,7 @@
 
 
 
-[-] mountain climber		<-->	noun+C2[-0]	.
+[-] mountain climber		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -561,7 +643,7 @@
 
 
 
-[-] non-disabled		<-->	adjective+B2[-0]	.
+[-] non-disabled		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -569,7 +651,7 @@
 
 
 
-[-] pant		<-->	verb+C2[-0]	.
+[-] pant		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -577,7 +659,7 @@
 
 
 
-[-] pant		<-->	noun+C2[-0]	.
+[-] pant		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -585,7 +667,7 @@
 
 
 
-[-] PE		<-->	noun+B1[-0]	.
+[-] PE		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -593,7 +675,7 @@
 
 
 
-[-] personal trainer		<-->	noun+C1[-0]	.
+[-] personal trainer		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -601,7 +683,7 @@
 
 
 
-[-] physical distancing		<-->	noun+C2[-0]	.
+[-] physical distancing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -609,7 +691,7 @@
 
 
 
-[-] physical education		<-->	noun+B1[-0]	.
+[-] physical education		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -617,7 +699,7 @@
 
 
 
-[-] physically distanced		<-->	adjective+C2[-0]	.
+[-] physically distanced		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -625,7 +707,7 @@
 
 
 
-[-] plank		<-->	noun+C2[-0]	.
+[-] plank		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -633,7 +715,7 @@
 
 
 
-[-] power walking		<-->	noun+C2[-0]	.
+[-] power walking		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -641,7 +723,7 @@
 
 
 
-[-] press-up		<-->	noun+C1[-0]	.
+[-] press-up		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -649,7 +731,7 @@
 
 
 
-[-] puffed		<-->	adjective+C2[-0]	.
+[-] puffed		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -657,7 +739,7 @@
 
 
 
-[-] pump iron		<-->	idiom+C2[-0]	.
+[-] pump iron		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -665,7 +747,7 @@
 
 
 
-[-] punchbag		<-->	noun+C2[-0]	.
+[-] punchbag		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -673,7 +755,7 @@
 
 
 
-[-] punching bag		<-->	noun+C2[-0]	.
+[-] punching bag		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -681,7 +763,7 @@
 
 
 
-[-] push-up		<-->	noun+C1[-0]	.
+[-] push-up		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -689,7 +771,7 @@
 
 
 
-[-] radiance		<-->	noun+C2[-0]	.
+[-] radiance		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -697,7 +779,7 @@
 
 
 
-[-] regimen		<-->	noun+C2[-0]	.
+[-] regimen		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -705,7 +787,7 @@
 
 
 
-[-] rep		<-->	noun+C2[-0]	.
+[-] rep		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -713,7 +795,7 @@
 
 
 
-[-] resistance		<-->	noun+C1[-0]	.
+[-] resistance		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -721,7 +803,7 @@
 
 
 
-[-] resistant		<-->	adjective+C1[-0]	.
+[-] resistant		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -729,7 +811,7 @@
 
 
 
-[-] rested		<-->	adjective+B2[-0]	.
+[-] rested		<-->	adjective++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -737,7 +819,7 @@
 
 
 
-[-] robust		<-->	adjective+C1[-0]	.
+[-] robust		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -745,7 +827,7 @@
 
 
 
-[-] run		<-->	verb+A1[-0]	.
+[-] run		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -753,7 +835,7 @@
 
 
 
-[-] self-care		<-->	noun+B2[-0]	.
+[-] self-care		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -761,7 +843,7 @@
 
 
 
-[-] short-winded		<-->	adjective+C2[-0]	.
+[-] short-winded		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -769,7 +851,7 @@
 
 
 
-[-] sit-up		<-->	noun+C2[-0]	.
+[-] sit-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -777,7 +859,7 @@
 
 
 
-[-] social bubble		<-->	noun+C2[-0]	.
+[-] social bubble		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -785,7 +867,7 @@
 
 
 
-[-] social distance		<-->	noun+C2[-0]	.
+[-] social distance		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -793,7 +875,7 @@
 
 
 
-[-] social distancing		<-->	noun+C2[-0]	.
+[-] social distancing		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -801,7 +883,7 @@
 
 
 
-[-] socially distanced		<-->	adjective+C2[-0]	.
+[-] socially distanced		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -809,7 +891,7 @@
 
 
 
-[-] spinning		<-->	noun+C2[-0]	.
+[-] spinning		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -817,7 +899,7 @@
 
 
 
-[-] squat thrust		<-->	noun+C2[-0]	.
+[-] squat thrust		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -825,7 +907,7 @@
 
 
 
-[-] stamina		<-->	noun+C1[-0]	.
+[-] stamina		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -833,7 +915,7 @@
 
 
 
-[-] step		<-->	noun+C1[-0]	.
+[-] step		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -841,7 +923,7 @@
 
 
 
-[-] strength		<-->	noun+B1[-0]	.
+[-] strength		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -849,7 +931,7 @@
 
 
 
-[-] strengthen		<-->	verb+B2[-0]	.
+[-] strengthen		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -857,7 +939,7 @@
 
 
 
-[-] strenuous		<-->	adjective+C2[-0]	.
+[-] strenuous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -865,7 +947,7 @@
 
 
 
-[-] stretch		<-->	verb+B2[-0]	.
+[-] stretch		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -873,7 +955,7 @@
 
 
 
-[-] strong		<-->	adjective+A1[-0]	.
+[-] strong		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -881,7 +963,7 @@
 
 
 
-[-] sturdy		<-->	adjective+C2[-0]	.
+[-] sturdy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -889,7 +971,7 @@
 
 
 
-[-] support bubble		<-->	noun+C2[-0]	.
+[-] support bubble		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -897,7 +979,7 @@
 
 
 
-[-] sweat		<-->	verb+B2[-0]	.
+[-] sweat		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -905,7 +987,7 @@
 
 
 
-[-] Tabata™		<-->	noun+C2[-0]	.
+[-] Tabata™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -913,7 +995,7 @@
 
 
 
-[-] thrive		<-->	verb+C1[-0]	.
+[-] thrive		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -921,7 +1003,7 @@
 
 
 
-[-] thrive on		<-->	phrasal veerb+C1[-0]	.
+[-] thrive on		<-->	phrasal veerb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -929,7 +1011,7 @@
 
 
 
-[-] thriving		<-->	adjective+C1[-0]	.
+[-] thriving		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -937,7 +1019,7 @@
 
 
 
-[-] tone		<-->	verb+C2[-0]	.
+[-] tone		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -945,7 +1027,7 @@
 
 
 
-[-] tonify		<-->	verb+C2[-0]	.
+[-] tonify		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -953,7 +1035,7 @@
 
 
 
-[-] train		<-->	verb+A2[-0]	.
+[-] train		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -961,7 +1043,7 @@
 
 
 
-[-] treadmill		<-->	noun+C2[-0]	.
+[-] treadmill		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -969,7 +1051,7 @@
 
 
 
-[-] trim		<-->	adjective+C2[-0]	.
+[-] trim		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -977,7 +1059,7 @@
 
 
 
-[-] walk		<-->	verb+A1[-0]	.
+[-] walk		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -985,7 +1067,7 @@
 
 
 
-[-] walker		<-->	noun+B1[-0]	.
+[-] walker		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -993,7 +1075,7 @@
 
 
 
-[-] walking		<-->	noun+A2[-0]	.
+[-] walking		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1001,7 +1083,7 @@
 
 
 
-[-] warm-up		<-->	noun+C2[-0]	.
+[-] warm-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1009,7 +1091,7 @@
 
 
 
-[-] weight		<-->	noun+A2[-0]	.
+[-] weight		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1017,7 +1099,7 @@
 
 
 
-[-] well		<-->	adjective+A1[-0]	.
+[-] well		<-->	adjective++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1025,7 +1107,7 @@
 
 
 
-[-] wellness		<-->	noun+C2[-0]	.
+[-] wellness		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1033,7 +1115,7 @@
 
 
 
-[-] work out		<-->	phrasal veerb+A2[-0]	.
+[-] work out		<-->	phrasal veerb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1041,7 +1123,7 @@
 
 
 
-[-] workout		<-->	noun+C1[-0]	.
+[-] workout		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1049,7 +1131,7 @@
 
 
 
-[-] Zumba™		<-->	noun+C2[-0]	.
+[-] Zumba™		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
