@@ -110,6 +110,7 @@ void doact(matrix *mtx)
     short val;
     char act;
     int row, col;
+    tracker t0 = {0};
     tracker t = {0};
 
     row = mtx->row;
@@ -131,8 +132,13 @@ void doact(matrix *mtx)
             setActMtx(mtx, MYTYPE, i, j, 1);
             do_recursive(mtx, i, j, &t);
             fprintf(stdout, "\n\ncount: %d\n\n", t.count);
+            if(t.count > t0.count) {
+                t0 = t;
+            }
         }
     }
+    fprintf(stdout, "\n\n\n-------------- Largestcount: (%d, %d) = %d\n\n\n", 
+        t0.c, t0.r, t0.count);
 }
 
 void do_recursive(matrix *mtx, int i, int j, tracker *tr) {
