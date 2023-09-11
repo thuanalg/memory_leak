@@ -3,10 +3,10 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define BUFF_SIZE 32  //A segment
-#define MAX_BLOCK 20    //Maximum of number of pointers are allocated.
-#define CAST_PCHAR(p)   ((char*)(p))
-#define myfprintf(fm, ...) fprintf(stdout, "\nline: %d, "fm"\n", __LINE__, ##__VA_ARGS__)
+//#define BUFF_SIZE 32  //A segment
+//#define MAX_BLOCK 20    //Maximum of number of pointers are allocated.
+//#define CAST_PCHAR(p)   ((char*)(p))
+//#define myfprintf(fm, ...) fprintf(stdout, "\nline: %d, "fm"\n", __LINE__, ##__VA_ARGS__)
 
 typedef struct __tracker__ {
     int r;
