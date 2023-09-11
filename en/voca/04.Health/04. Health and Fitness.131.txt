@@ -111,10 +111,11 @@
 
 
 
-[-] beauty sleep		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] beauty sleep		<-->	noun++C2[0]	./ˈbjuːti sliːp/
+ /ˈbjuːti sliːp/
+[uncountable] (humorous)
+	;giấc ngủ ngon -- (1) enough sleep at night to make sure that you look and feel healthy and beautiful
+		;TOPICS Health and FitnessC2
 
 
 
@@ -251,7 +252,39 @@
 
 
 
-[-] circuit		<-->	noun++C2[-0]	.
+[-] circuit		<-->	noun++C2[0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;một vòng các bài tập -- (6) a series of different exercises that you do one after the other when doing circuit training in sport or fitness training
+		;I do circuits in the gym twice a week.
+		;TOPICS Health and FitnessC2, Sports: other sportsC2
+
+
+
+
+[-] circuit breaker		<-->	noun++C2[0]	./ˈsɜːkɪt breɪkə(r)/
+ /ˈsɜːrkɪt breɪkər/
+	;thiết bị ngắt -- (1) ​a device that will stop an electric current if it becomes dangerous
+		;TOPICS EngineeringC2
+	; -- (2) a short period during which laws are in place to limit people's movements, especially to require most people to stay at home in order to stop the spread of disease
+		;The four-week circuit breaker will come into force tomorrow with the closure of pubs, bars, restaurants and non-essential shops.
+		;COMPARE lockdown
+		;TOPICS Health and FitnessC2, Law and justiceC2
+
+
+
+
+[-] circuit training		<-->	noun++C2[0]	./ˈsɜːkɪt treɪnɪŋ/
+ /ˈsɜːrkɪt treɪnɪŋ/
+[uncountable]
+	; -- (1) a type of training in sport in which different exercises are each done for a short time
+		;TOPICS Health and FitnessC2, Sports: other sportsC2
+
+
+
+
+[-] circulation		<-->	noun++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -259,7 +292,64 @@
 
 
 
-[-] circuit breaker		<-->	noun++C2[-0]	.
+[-] clean-living		<-->	adjective++C2[0]	./ˌkliːn ˈlɪvɪŋ/
+ /ˌkliːn ˈlɪvɪŋ/
+	;lành mạnh -- (1) ​(of a person) living a healthy life, by not drinking alcohol, not having sex with a lot of different people, etc.
+		;TOPICS Personal qualitiesC2, Health and FitnessC2
+
+
+
+
+[-] CrossFit™		<-->	noun++C2[0]	./ˈkrɒsfɪt/
+ /ˈkrɔːsfɪt/
+[uncountable]
+	; -- (1) an extreme fitness programme that includes elements from various sports and types of exercise
+		;I do CrossFit five mornings a week.
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] cross trainer		<-->	noun++C2[0]	./ˈkrɒs treɪnə(r)/
+ /ˈkrɔːs treɪnər/
+	; -- (1) a piece of exercise equipment that you use standing up, with parts that you push up and down with your feet and parts that you hold onto and push with your arms
+		;TOPICS Health and FitnessC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] cross-training		<-->	noun++C2[0]	./ˈkrɒs treɪnɪŋ/
+ /ˈkrɔːs treɪnɪŋ/
+[uncountable]
+	; -- (1) the activity of training in sports other than your main sport in order to make yourself fitter and able to do your main sport better
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] elbow bump		<-->	noun++C2[0]	./ˈelbəʊ bʌmp/
+ /ˈelbəʊ bʌmp/
+(also elbump)
+	;sự chạm cùi chỏ -- (1) ​an act of briefly touching somebody's elbow with your own to greet them, done to avoid spreading disease through touching each other's hands
+		;I was greeted with an elbow bump rather than a handshake.
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] elbump		<-->	noun++C2[0]	./ˈelbʌmp/
+ /ˈelbʌmp/
+(also elbow bump)
+	;khuỷu tay -- (1) an act of briefly touching somebody's elbow with your own to greet them, done to avoid spreading disease through touching each other's hands
+		;We greeted each other with an elbump.
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] energy		<-->	noun++A2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -267,7 +357,7 @@
 
 
 
-[-] circuit training		<-->	noun++C2[-0]	.
+[-] exercise		<-->	noun++A1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -275,79 +365,7 @@
 
 
 
-[-] circulation		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] clean-living		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] CrossFit™		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] cross trainer		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] cross-training		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] elbow bump		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] elbump		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] energy		<-->	noun++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] exercise		<-->	noun++A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] exercise		<-->	verb++A1[-0]	.
+[-] exercise		<-->	verb++A1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -363,7 +381,7 @@
 
 
 
-[-] fine		<-->	adjective++A1[-0]	.
+[-] fine		<-->	adjective++A1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -371,7 +389,7 @@
 
 
 
-[-] fit		<-->	adjective++A2[-0]	.
+[-] fit		<-->	adjective++A2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
