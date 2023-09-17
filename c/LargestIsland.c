@@ -44,7 +44,7 @@ typedef struct __MYNODE__ {
 
 
 // Call recursive
-void doact(matrix *mtx);
+void doact(matrix *mtx, tracker *tr);
 void do_recursive(matrix *mtx, int i, int j, tracker *tr);
 
 //  Run command ./LargestIsland 8 7
@@ -53,6 +53,7 @@ int main(int argc, char *argv[]) {
     short val = 0;
     char act = 0;
     int m = 1, n = 1;
+    tracker t0 = {0};
 
     if(argc < 3) {
         return EXIT_FAILURE;
@@ -87,7 +88,7 @@ int main(int argc, char *argv[]) {
     }
     fprintf(stdout, "\n\n(row, col) = (%d, %d)\n\n", mtx->row, mtx->col);
     //doact(mtx, mtx->row, mtx->col);
-    doact(mtx);
+    doact(mtx, &t0);
     for(int i = 0; i <  mtx->row; ++i) {
         fprintf(stdout, "\n\n");
         for(int j = 0; j <  mtx->col; ++j) {
@@ -98,19 +99,19 @@ int main(int argc, char *argv[]) {
 
     }   
     free(mtx);
-    fprintf(stdout, "\n");
+    fprintf(stdout, "\n\n\n-------------- Largestcount: (%d, %d) = %d\n\n\n", 
+        t0.c, t0.r, t0.count);
     return 0;
 }
 
-//void doact(matrix *mtx, int row, int col)
-void doact(matrix *mtx)
+void doact(matrix *mtx, tracker *t0)
 {
     int i = 0;
     int j = 0;
     short val;
     char act;
     int row, col;
-    tracker t0 = {0};
+    //tracker t0 = {0};
     tracker t = {0};
 
     row = mtx->row;
@@ -132,13 +133,13 @@ void doact(matrix *mtx)
             setActMtx(mtx, MYTYPE, i, j, 1);
             do_recursive(mtx, i, j, &t);
             fprintf(stdout, "\n\ncount: %d\n\n", t.count);
-            if(t.count > t0.count) {
-                t0 = t;
+            if(t.count > t0->count) {
+                (*t0) = t;
             }
         }
     }
     fprintf(stdout, "\n\n\n-------------- Largestcount: (%d, %d) = %d\n\n\n", 
-        t0.c, t0.r, t0.count);
+        t0->c, t0->r, t0->count);
 }
 
 void do_recursive(matrix *mtx, int i, int j, tracker *tr) {
