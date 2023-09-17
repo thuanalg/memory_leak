@@ -1,0 +1,55 @@
+1) Given a specific RAM area. Example:
+	#define BUFF_SIZE 2048
+	byte buffer[BUFF_SIZE];
+	
+Design/implement APIs to manage the buffer as below (use C programming language):
+	a) byte* allocate(unsigned int size)
+		description: to allocate a number of bytes inside the given buffer (similar to C alloc/malloc)
+			params:
+				+ size: number of bytes to be allocated
+			return value:
+				+ not null: pointer to begin of allocated bytes
+				+ null: can not allocate
+	b) void free(byte* p)
+		description: to free an allocated area inside the given buffer
+			params:
+				+ p: pointer to begin of allocated bytes
+			return value: none
+			
+	Test scenario:
+		void test()
+		{
+			byte* a, b, c, d;
+			a = allocate(25);
+			b = allocate(197);
+			free(a);
+			c = allocate(1);
+			d = allocate(1500);
+			free(b);
+			free(c);
+			free(d);
+		}
+		
+2) Please study about DoIP module which are described in the link below. Then provide a short presentation on the next meeting
+	Specification of DoIP: https://www.autosar.org/fileadmin/standards/R4-4-0/CP/AUTOSAR_SWS_DiagnosticOverIP.pdf
+	
+	Useful references:
+		+ Autosar Basic software architect: https://www.autosar.org/fileadmin/standards/R4-3/CP/AUTOSAR_EXP_LayeredSoftwareArchitecture.pdf
+		+ atuosar.org
+https://www.mathworks.com/content/dam/mathworks/tag-team/Objects/a/93089v00_AUTOSAR_Guide.pdf
+https://automotive.wiki/index.php/AUTOSAR_Tool
+
+https://www.vector.com/int/en/support-downloads/download-center/#downloadType=%5B%22demos%22%5D&product=%5B%22106%22,%22103%22,%229916%22,%22112%22,%2214768%22%5D&os=%5B%221%22%5D&tab=1&pageSize=15&sort=date&order=desc
+
+DaVinci Developer Adaptive : https://www.vector.com/int/en/products/products-a-z/software/davinci-developer-adaptive/#
+
+ASAP2+ToolSet+18.0.10.12341+Linux: https://www.vector.com/int/en/support-downloads/download-center/#tab=1&pageSize=15&sort=date&order=desc
+
+DoIP: https://www.vector.com/int/en/products/products-a-z/hardware/network-interfaces/vx0312/#c5269
+
+Vector License Client installer package: RPM: https://download.vector.com/addons/VectorLicenseClientLinuxInstallerRpm.zip
+
+------------- Keywords: Linux, Adaptive AUTOSAR, POSIX, Operating Systems, Embedded
+Systems, Real-Time Systems : https://odr.chalmers.se/server/api/core/bitstreams/8119bf9e-35e5-4136-8d19-3621dd91feb8/content
+
+DoIP: https://github.com/langroodi/Adaptive-AUTOSAR
