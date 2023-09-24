@@ -6,8 +6,6 @@ blew | blue
 board | bored
 brake | break
 berry | bury
-buy | by | bye
-cell | sell
 cent | scent | sent
 chews | choose
 coarse | course
@@ -28,11 +26,8 @@ key | quay
 knows | nose
 knew | new
 lessen | lesson
-mail | male
-meat | meet
 miner | minor
 missed | mist
-oar | or | ore
 pain | pane
 passed | past
 peace | piece
@@ -48,9 +43,6 @@ read | red
 road | rode | rowed
 role | roll
 rose | rows
-sail | sale
-scene | seen
-see | sea
 seas | sees | seize
 serial | cereal
 chute | shoot
@@ -90,7 +82,6 @@ feat | feet
 muscle | mussel
 navel | naval
 vain | vein
-dye | die
 knight | night
 berry | bury
 desert | dessert
@@ -110,15 +101,29 @@ complement | compliment
 knicker | nicker
 
 way | weigh						<-->		/weɪ/-NAmE /weɪ/
-know | no						<-->		/nəʊ/-NAmE /nəʊ/
 stalk | stork						<-->		/stɔːk/-NAmE /stɔːk/
-knot | not						<-->		/nɒt/-NAmE /nɑːt/
 write | right						<-->		/raɪt/-NAmE /raɪt/
 seem | seam						<-->		/siːm/-NAmE /siːm/
 stile | style						<-->		/staɪl/-NAmE /staɪl/
+
 for | four						<-->		/fɔː(r)/-NAmE /fɔːr/
-son | sun
-one | won
+son | sun						<-->		/sʌn/-NAmE /sʌn/
+one | won						<-->		/wʌn/-NAmE /wʌn/
+no | know						<-->		/nəʊ/-NAmE /nəʊ/
+not | knot						<-->		/nɒt/-NAmE /nɑːt/
+
+or | oar | ore						<-->		/ɔː(r)/-NAmE /ɔːr/
+buy | by | bye						<-->		/baɪ/-NAmE /baɪ/
+see | sea						<-->		/siː/-NAmE /siː/
+dye | die						<-->		/daɪ/-NAmE /daɪ/
+war | wore						<-->		/wɔː(r)/-NAmE /wɔːr/
+
+mail | male						<-->		/meɪl/-NAmE /meɪl/
+meat | meet						<-->		/miːt/-NAmE /miːt/
+cell | sell						<-->		/sel/-NAmE /sel/
+sail | sale						<-->		/seɪl/-NAmE /seɪl/
+scene | seen						<-->		/siːn/-NAmE /siːn/
+
 
 
 
