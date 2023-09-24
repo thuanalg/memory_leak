@@ -1,104 +1,4 @@
-air | heir
-allowed | aloud
-base | bass
-bare | bear
-blew | blue
-board | bored
-brake | break
-berry | bury
-cent | scent | sent
-chews | choose
-coarse | course
-crews | cruise
-cue | queue
-days | daze
-dear | deer
-desert | dessert
-fair | fare
-flour | flower
-flew | flu
-groan | grown
-heal | heel | he'll 			|| hill
-hear | here
-higher | hire
-hole | whole
-key | quay
-knows | nose
-knew | new
-lessen | lesson
-miner | minor
-missed | mist
-pain | pane
-passed | past
-peace | piece
-peak | peek | pique
-plain | plane
-praise | prays | preys
-principal | principle
-profit | prophet
-rain | reign | rein
-raise | rays | raze
-read | reed
-read | red
-road | rode | rowed
-role | roll
-rose | rows
-seas | sees | seize
-serial | cereal
-chute | shoot
-sight | site
-sew | so | sow
-soar | sore
-sole | soul
-steal | steel
-storey | story
-suite | sweet
-cymbal | symbol
-tail | tale
-threw | through
-tide | tied
-toe | tow
-vain | vein
-wait | weight
-war | wore
-warn | worn
-waist | waste
-wave | waive
-weak | week
-weather | whether
-ware | wear | where
-which | witch
-whine | wine
-rap | wrap
-wail | whale
-stationary | stationery
-dew | due
-grate | great
-lead | led
-coward | cowered
-idle | idol
-rouse | rows
-feat | feet
-muscle | mussel
-navel | naval
-vain | vein
-knight | night
-berry | bury
-desert | dessert
-pair | pare | pear
-colonel | kernel
-altar | alter 
-profit | prophet
-cereal | serial
-foul | fowl
-dear | deer
-councillor | counsellor
-council | counsel
-belle | bell
-premier | premiere
-née | neigh
-complement | compliment
-knicker | nicker
+(1)
 
 way | weigh						<-->		/weɪ/-NAmE /weɪ/
 stalk | stork						<-->		/stɔːk/-NAmE /stɔːk/
@@ -106,11 +6,7 @@ write | right						<-->		/raɪt/-NAmE /raɪt/
 seem | seam						<-->		/siːm/-NAmE /siːm/
 stile | style						<-->		/staɪl/-NAmE /staɪl/
 
-for | four						<-->		/fɔː(r)/-NAmE /fɔːr/
-son | sun						<-->		/sʌn/-NAmE /sʌn/
-one | won						<-->		/wʌn/-NAmE /wʌn/
-no | know						<-->		/nəʊ/-NAmE /nəʊ/
-not | knot						<-->		/nɒt/-NAmE /nɑːt/
+(2)
 
 or | oar | ore						<-->		/ɔː(r)/-NAmE /ɔːr/
 buy | by | bye						<-->		/baɪ/-NAmE /baɪ/
@@ -118,40 +14,18 @@ see | sea						<-->		/siː/-NAmE /siː/
 dye | die						<-->		/daɪ/-NAmE /daɪ/
 war | wore						<-->		/wɔː(r)/-NAmE /wɔːr/
 
+(3)
+
 mail | male						<-->		/meɪl/-NAmE /meɪl/
 meat | meet						<-->		/miːt/-NAmE /miːt/
 cell | sell						<-->		/sel/-NAmE /sel/
 sail | sale						<-->		/seɪl/-NAmE /seɪl/
 scene | seen						<-->		/siːn/-NAmE /siːn/
 
+(4)
 
-
-
-
-
-
-germ || gem
-will || we'll
-fill || feel || field
-whip || weep
-walking || working
-their || they're || There
-pen || pain || paint
-copy || coffee
-sleep || slip
-drawn || drone
-bet || bed
-drain || rain
-set || said
-today || Tuesday || Thursday
-today || Tuesday || Thursday
-she'll || silk || sill
-lithe || light
-crew || group
-degree || decrease
-revile || prevail
-tall || toll || told
-code || cold || coat
-was || were || will 
-game || gain 
-merry || marry 
+for | four						<-->		/fɔː(r)/-NAmE /fɔːr/
+son | sun						<-->		/sʌn/-NAmE /sʌn/
+one | won						<-->		/wʌn/-NAmE /wʌn/
+no | know						<-->		/nəʊ/-NAmE /nəʊ/
+not | knot						<-->		/nɒt/-NAmE /nɑːt/
