@@ -783,82 +783,131 @@
 
 
 
-[-] keep-fit		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] keep-fit		<-->	noun++C1[-0]	./ˌkiːp ˈfɪt/
+ /ˌkiːp ˈfɪt/
+[uncountable] (British English)
+	;giữ dáng -- (1) physical exercises that you do, usually in a class with other people, in order to improve your strength and to stay healthy
+		;a keep-fit class
+		;Culture sport and fitness
+				;TOPICS Health and FitnessC1
+				;Oxford Collocations Dictionary
+				;Keep-fit is used before these nouns:
+				;fanatic
+		;See full entry
+
+
+
+
+[-] kettlebell		<-->	noun++C2[-0]	./ˈketlbel/
+ /ˈketlbel/
+	;chuông ấm -- (1) a large iron weight in the shape of a ball with a single handle, used in exercises to build strength in the hands, lower back, legs and shoulders
+		;This exercise can be performed with dumb-bells, kettlebells or a barbell.
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] lock down		<-->	phrasal veerb++C2[-0]	./p/
+	;khóa -- (1) to control people's movements within an area because of a dangerous situation, especially in order to prevent the spread of disease
+		;Those states which locked down most effectively and almost eliminated the virus have done best  economically.
+		;England is being locked down for a third time.
+		;TOPICS Health and FitnessC2, Law and justiceC2
+
+
+
+
+[-] mountain climber		<-->	noun++C2[-0]	./ˈmaʊntən klaɪmə(r)/
+ /ˈmaʊntn klaɪmər/
+	;người leo núi -- (1) a person who climbs a mountain
+		;An experienced mountain climber, Kirsty has worked in outdoor pursuits since she was 17.
+		;TOPICS Sports: other sportsB1
+	;môn leo núi -- (2) ​an exercise in which, supporting your body on your hands and toes, you bring each knee up to your chest and back again one at a time, getting faster and faster
+		;Mountain climbers are great for building core strength and agility.
+		;TOPICS Health and FitnessC2
 	; -- (3) 
 
 
 
 
-[-] kettlebell		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] non-disabled		<-->	adjective++B2[-0]	./ˌnɒn dɪsˈeɪbld/
+ /ˌnɑːn dɪsˈeɪbld/
+	;không khuyết tật -- (1) not having a disability
+		;The project brings together over 200 disabled and non-disabled musicians for a series of live performances.
+		;Many people now prefer to use this term instead of able-bodied.
+		;TOPICS Health and FitnessB2
 
 
 
 
-[-] lock down		<-->	phrasal veerb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] pant		<-->	verb++C2[-0]	./pænt/
+ /pænt/
+[intransitive, transitive]
+	;thở hổn hển -- (1) to breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot
+		;She finished the race panting heavily.
+		;She could hear him panting up the stairs (= running up and breathing quickly).
+		;He found her panting for breath at the top of the hill.
+		; + speech ‘Wait for me!’ he panted.
+		;Extra Examples:
+		;She was panting with the effort of carrying the suitcase.
+		;‘Keep going, we'll get there in time!’ she panted.
+		;Eventually he arrived at the gate, puffing and panting.
+		;TOPICS Health and FitnessC2
+				;Oxford Collocations Dictionary
+				;adverb
+				;heavilyloudlyslightly…
+				;preposition
+				;forwith
+				;phrases
+				;puff and pant
+		;See full entry
+		;Word Origin
 
 
 
 
-[-] mountain climber		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] pant		<-->	noun++C2[-0]	./pænt/
+ /pænt/\
+[usually plural]
+	;hơi thở hỗn hển -- (1) ​one of a series of quick, short breaths, usually taken with your mouth open, because you have been doing some physical exercise, or because it is very hot
+		;His breath came in short pants.
+		;SEE ALSO pants
+		;TOPICS Health and FitnessC2
 
 
 
 
-[-] non-disabled		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] PE		<-->	noun++B1[-0]	./ˌpiː ˈiː/
+ /ˌpiː ˈiː/
+(British English)
+(US English P.E.)
+[uncountable]
+	;giáo dục thể chất -- (1) ​sport and exercise that is taught in schools (the abbreviation for ‘physical education’)
+		;a PE class
+		;a PE lesson/teacher
+				;TOPICS EducationB1, Health and FitnessB1
+				;Oxford Collocations Dictionary
+				;PE is used before these nouns:
+				;kitteacher
+		;See full entry
+
+
+
+[-] personal trainer		<-->	noun++C1[-0]	./ˌpɜːsənl ˈtreɪnə(r)/
+ /ˌpɜːrsənl ˈtreɪnər/
+	;huấn luyện viên cá nhân -- (1) a person who is paid by somebody to help them exercise, especially by deciding what types of exercise are best for them
+		;Wordfinder: dietexercisefitgymhealth spanutritionpersonal trainersportstaminaworkout
+		;TOPICS Health and FitnessC1
 
 
 
 
-[-] pant		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] pant		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] PE		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] personal trainer		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] physical distancing		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] physical distancing		<-->	noun++C2[-0]	./ˌfɪzɪkl ˈdɪstənsɪŋ/
+ /ˌfɪzɪkl ˈdɪstənsɪŋ/
+(also social distancing)
+[uncountable]
+	;khoảng cách vật lý -- (1) the practice of keeping a safe distance between yourself and other people in order to prevent the spread of disease
+		;The venue can only accommodate 30 people if physical distancing is maintained.
+		;TOPICS Health and FitnessC2
 
 
 
