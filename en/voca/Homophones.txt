@@ -1,3 +1,10 @@
+raise | rays | raze
+rain | reign | rein
+praise | prays | preys
+heal | heel | he'll || hill
+seas | sees | seize
+road | rode | rowed
+
 air | heir
 allowed | aloud
 base | bass
@@ -18,7 +25,6 @@ fair | fare
 flour | flower
 flew | flu
 groan | grown
-heal | heel | he'll 			|| hill
 hear | here
 higher | hire
 hole | whole
@@ -33,17 +39,12 @@ passed | past
 peace | piece
 peak | peek | pique
 plain | plane
-praise | prays | preys
 principal | principle
 profit | prophet
-rain | reign | rein
-raise | rays | raze
 read | reed
 read | red
-road | rode | rowed
 role | roll
 rose | rows
-seas | sees | seize
 serial | cereal
 chute | shoot
 sight | site
@@ -81,7 +82,7 @@ desert | dessert
 pair | pare | pear
 colonel | kernel
 altar | alter 
-profit | prophet
+
 cereal | serial
 foul | fowl
 dear | deer
@@ -97,6 +98,7 @@ knead | need
 knave | nave
 cede | seed
 knit | nit
+him | hymn
 
 
 
