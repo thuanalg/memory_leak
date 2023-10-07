@@ -1,14 +1,23 @@
-air | heir
-allowed | aloud
+raise | rays | raze						<-->		/reɪ/-NAmE /reɪ/
+rain | reign | rein						<-->		/reɪn/-NAmE /reɪn/
+praise | prays | preys						<-->		/preɪz/-NAmE /preɪz/
+heal | heel | he'll || hill						<-->		/hiːl/-NAmE /hiːl/
+seas | sees | seize						<-->		/siːz/-NAmE /siːz/
+road | rode | rowed						<-->		/rəʊd/-NAmE /rəʊd/
+cent | scent | sent						<-->		/sent/-NAmE /sent/
+peak | peek | pique						<-->		/piːk/-NAmE /piːk/
+
+
+
+air | heir						<-->		/eə(r)/-NAmE /er/
+allowed | aloud						<-->		/əˈlaʊd/-NAmE /əˈlaʊd/
+
 base | bass
 bare | bear
 blew | blue
 board | bored
 brake | break
 berry | bury
-buy | by | bye
-cell | sell
-cent | scent | sent
 chews | choose
 coarse | course
 crews | cruise
@@ -20,7 +29,6 @@ fair | fare
 flour | flower
 flew | flu
 groan | grown
-heal | heel | he'll 			|| hill
 hear | here
 higher | hire
 hole | whole
@@ -28,38 +36,24 @@ key | quay
 knows | nose
 knew | new
 lessen | lesson
-mail | male
-meat | meet
 miner | minor
 missed | mist
-one | won
-oar | or | ore
 pain | pane
 passed | past
 peace | piece
-peak | peek | pique
 plain | plane
-praise | prays | preys
 principal | principle
 profit | prophet
-rain | reign | rein
-raise | rays | raze
 read | reed
 read | red
-road | rode | rowed
 role | roll
 rose | rows
-sail | sale
-scene | seen
-see | sea
-seas | sees | seize
 serial | cereal
 chute | shoot
 sight | site
 sew | so | sow
 soar | sore
 sole | soul
-son | sun
 steal | steel
 storey | story
 suite | sweet
@@ -69,12 +63,6 @@ threw | through
 tide | tied
 toe | tow
 vain | vein
-wait | weight
-war | wore
-warn | worn
-waist | waste
-wave | waive
-weak | week
 weather | whether
 ware | wear | where
 which | witch
@@ -92,32 +80,64 @@ feat | feet
 muscle | mussel
 navel | naval
 vain | vein
-dye | die
 knight | night
-berry | bury
 desert | dessert
 pair | pare | pear
 colonel | kernel
 altar | alter 
-profit | prophet
 cereal | serial
 foul | fowl
 dear | deer
-for | four
-write | right
-seem | seam
-stile | style
 councillor | counsellor
 council | counsel
 belle | bell
 premier | premiere
-stalk | stork
 née | neigh
 complement | compliment
-knot | not
 knicker | nicker
+groan | grown
+knead | need
+knave | nave
+cede | seed
+knit | nit
+him | hymn
+knob | nob
 
 
+
+
+
+
+way | weigh						<-->		/weɪ/-NAmE /weɪ/
+stalk | stork						<-->		/stɔːk/-NAmE /stɔːk/
+write | right						<-->		/raɪt/-NAmE /raɪt/
+seem | seam						<-->		/siːm/-NAmE /siːm/
+stile | style						<-->		/staɪl/-NAmE /staɪl/
+
+for | four						<-->		/fɔː(r)/-NAmE /fɔːr/
+son | sun						<-->		/sʌn/-NAmE /sʌn/
+one | won						<-->		/wʌn/-NAmE /wʌn/
+no | know						<-->		/nəʊ/-NAmE /nəʊ/
+not | knot						<-->		/nɒt/-NAmE /nɑːt/
+
+or | oar | ore						<-->		/ɔː(r)/-NAmE /ɔːr/
+buy | by | bye						<-->		/baɪ/-NAmE /baɪ/
+see | sea						<-->		/siː/-NAmE /siː/
+dye | die						<-->		/daɪ/-NAmE /daɪ/
+war | wore						<-->		/wɔː(r)/-NAmE /wɔːr/
+
+mail | male						<-->		/meɪl/-NAmE /meɪl/
+meat | meet						<-->		/miːt/-NAmE /miːt/
+cell | sell						<-->		/sel/-NAmE /sel/
+sail | sale						<-->		/seɪl/-NAmE /seɪl/
+scene | seen						<-->		/siːn/-NAmE /siːn/
+
+
+wait | weight
+warn | worn
+waist | waste
+wave | waive
+weak | week
 
 
 
