@@ -1,9 +1,20 @@
-raise | rays | raze
-rain | reign | rein
+raise | rays | raze[y]/reɪ/
+ /reɪ/
+rain | reign | rein[y]/reɪn/
+ /reɪn/
 praise | prays | preys
-heal | heel | he'll || hill
-seas | sees | seize
-road | rode | rowed
+heal | heel | he'll || hill[y]/hiːl/
+ /hiːl/
+seas | sees | seize[y]/siːz/
+ /siːz/
+road | rode | rowed[y]/rəʊd/
+ /rəʊd/
+cent | scent | sent[y]/sent/
+ /sent/
+peak | peek | pique[y]/piːk/
+ /piːk/
+
+
 
 air | heir
 allowed | aloud
@@ -13,7 +24,6 @@ blew | blue
 board | bored
 brake | break
 berry | bury
-cent | scent | sent
 chews | choose
 coarse | course
 crews | cruise
@@ -37,7 +47,6 @@ missed | mist
 pain | pane
 passed | past
 peace | piece
-peak | peek | pique
 plain | plane
 principal | principle
 profit | prophet
@@ -82,7 +91,6 @@ desert | dessert
 pair | pare | pear
 colonel | kernel
 altar | alter 
-
 cereal | serial
 foul | fowl
 dear | deer
@@ -99,6 +107,9 @@ knave | nave
 cede | seed
 knit | nit
 him | hymn
+knob | nob
+
+
 
 
 
