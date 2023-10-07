@@ -912,26 +912,34 @@
 
 
 
-[-] physical education		<-->	noun++B1[-0]	.
-	; -- (1) 
+[-] physical education		<-->	noun++B1[-0]	./ˌfɪzɪkl edʒuˈkeɪʃn/
+ /ˌfɪzɪkl edʒuˈkeɪʃn/
+(abbreviation British English PE, US English P.E.)
+[uncountable]
+	;giáo dục thể chất -- (1) sport and exercise that is taught in schools
+		;TOPICS EducationB1, Health and FitnessB1
+
+
+
+
+[-] physically distanced		<-->	adjective++C2[-0]	./ˌfɪzɪkli ˈdɪstənst/
+ /ˌfɪzɪkli ˈdɪstənst/
+(also socially distanced)
+	;khoảng cách về mặt vật lý -- (1) keeping a safe distance between yourself and other people in order to prevent the spread of disease
+		;It is important to wear a mask and stay physically distanced from people who are not in your household.
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] plank		<-->	noun++C2[-0]	./plæŋk/
+ /plæŋk/
+	;tấm ván -- (1) 
 	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] physically distanced		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] plank		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;môn tập bụng -- (3) an exercise in which you lie on your stomach and raise your body off the ground by pressing down on your hands until your arms are straight and then hold that position for a fixed period of time
+		;I do exercises to strengthen my stomach muscles, like push-ups and planks.
+		;COMPARE push-up
+		;TOPICS Health and FitnessC2
 
 
 
