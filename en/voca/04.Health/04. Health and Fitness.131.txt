@@ -783,7 +783,7 @@
 
 
 
-[-] keep-fit		<-->	noun++C1[-0]	./ˌkiːp ˈfɪt/
+[-] keep-fit		<-->	noun++C1	[231008][001]	./ˌkiːp ˈfɪt/
  /ˌkiːp ˈfɪt/
 [uncountable] (British English)
 	;giữ dáng -- (1) physical exercises that you do, usually in a class with other people, in order to improve your strength and to stay healthy
@@ -798,7 +798,7 @@
 
 
 
-[-] kettlebell		<-->	noun++C2[-0]	./ˈketlbel/
+[-] kettlebell		<-->	noun++C2	[231008][001]	./ˈketlbel/
  /ˈketlbel/
 	;chuông ấm -- (1) a large iron weight in the shape of a ball with a single handle, used in exercises to build strength in the hands, lower back, legs and shoulders
 		;This exercise can be performed with dumb-bells, kettlebells or a barbell.
@@ -807,7 +807,7 @@
 
 
 
-[-] lock down		<-->	phrasal veerb++C2[-0]	./p/
+[-] lock down		<-->	phrasal veerb++C2	[231008][001]	./p/
 	;khóa -- (1) to control people's movements within an area because of a dangerous situation, especially in order to prevent the spread of disease
 		;Those states which locked down most effectively and almost eliminated the virus have done best  economically.
 		;England is being locked down for a third time.
@@ -816,7 +816,7 @@
 
 
 
-[-] mountain climber		<-->	noun++C2[-0]	./ˈmaʊntən klaɪmə(r)/
+[-] mountain climber		<-->	noun++C2	[231008][001]	./ˈmaʊntən klaɪmə(r)/
  /ˈmaʊntn klaɪmər/
 	;người leo núi -- (1) a person who climbs a mountain
 		;An experienced mountain climber, Kirsty has worked in outdoor pursuits since she was 17.
@@ -829,7 +829,7 @@
 
 
 
-[-] non-disabled		<-->	adjective++B2[-0]	./ˌnɒn dɪsˈeɪbld/
+[-] non-disabled		<-->	adjective++B2	[231008][001]	./ˌnɒn dɪsˈeɪbld/
  /ˌnɑːn dɪsˈeɪbld/
 	;không khuyết tật -- (1) not having a disability
 		;The project brings together over 200 disabled and non-disabled musicians for a series of live performances.
@@ -839,7 +839,7 @@
 
 
 
-[-] pant		<-->	verb++C2[-0]	./pænt/
+[-] pant		<-->	verb++C2	[231008][001]	./pænt/
  /pænt/
 [intransitive, transitive]
 	;thở hổn hển -- (1) to breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot
@@ -865,7 +865,7 @@
 
 
 
-[-] pant		<-->	noun++C2[-0]	./pænt/
+[-] pant		<-->	noun++C2	[231008][001]	./pænt/
  /pænt/\
 [usually plural]
 	;hơi thở hỗn hển -- (1) ​one of a series of quick, short breaths, usually taken with your mouth open, because you have been doing some physical exercise, or because it is very hot
@@ -876,7 +876,7 @@
 
 
 
-[-] PE		<-->	noun++B1[-0]	./ˌpiː ˈiː/
+[-] PE		<-->	noun++B1	[231008][001]	./ˌpiː ˈiː/
  /ˌpiː ˈiː/
 (British English)
 (US English P.E.)
@@ -892,7 +892,7 @@
 
 
 
-[-] personal trainer		<-->	noun++C1[-0]	./ˌpɜːsənl ˈtreɪnə(r)/
+[-] personal trainer		<-->	noun++C1	[231008][001]	./ˌpɜːsənl ˈtreɪnə(r)/
  /ˌpɜːrsənl ˈtreɪnər/
 	;huấn luyện viên cá nhân -- (1) a person who is paid by somebody to help them exercise, especially by deciding what types of exercise are best for them
 		;Wordfinder: dietexercisefitgymhealth spanutritionpersonal trainersportstaminaworkout
@@ -901,7 +901,7 @@
 
 
 
-[-] physical distancing		<-->	noun++C2[-0]	./ˌfɪzɪkl ˈdɪstənsɪŋ/
+[-] physical distancing		<-->	noun++C2	[231008][001]	./ˌfɪzɪkl ˈdɪstənsɪŋ/
  /ˌfɪzɪkl ˈdɪstənsɪŋ/
 (also social distancing)
 [uncountable]
@@ -912,7 +912,7 @@
 
 
 
-[-] physical education		<-->	noun++B1[-0]	./ˌfɪzɪkl edʒuˈkeɪʃn/
+[-] physical education		<-->	noun++B1	[231008][001]	./ˌfɪzɪkl edʒuˈkeɪʃn/
  /ˌfɪzɪkl edʒuˈkeɪʃn/
 (abbreviation British English PE, US English P.E.)
 [uncountable]
@@ -922,7 +922,7 @@
 
 
 
-[-] physically distanced		<-->	adjective++C2[-0]	./ˌfɪzɪkli ˈdɪstənst/
+[-] physically distanced		<-->	adjective++C2	[231008][001]	./ˌfɪzɪkli ˈdɪstənst/
  /ˌfɪzɪkli ˈdɪstənst/
 (also socially distanced)
 	;khoảng cách về mặt vật lý -- (1) keeping a safe distance between yourself and other people in order to prevent the spread of disease
@@ -932,7 +932,7 @@
 
 
 
-[-] plank		<-->	noun++C2[-0]	./plæŋk/
+[-] plank		<-->	noun++C2	[231008][001]	./plæŋk/
  /plæŋk/
 	;tấm ván -- (1) 
 	; -- (2) 
@@ -944,7 +944,135 @@
 
 
 
-[-] power walking		<-->	noun++C2[-0]	.
+[-] power walking		<-->	noun++C2	[231008][001]	./ˈpaʊə wɔːkɪŋ/
+ /ˈpaʊər wɔːkɪŋ/
+[uncountable]
+	;môn đi bộ -- (1) the activity of walking very quickly as a form of exercise	
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] press-up		<-->	noun++C1	[231008][001]	./ˈpres ʌp/
+ /ˈpres ʌp/
+(British English)
+(also push-up North American English, British English)
+[usually plural]
+	;môn hít đất -- (1) enlarge imagean exercise in which you lie on your stomach and raise your body off the ground by pressing down on your hands until your arms are straight
+		;He does 20 press-ups every morning before breakfast.
+		;COMPARE plank (3)
+		;TOPICS Health and FitnessC1
+
+
+
+
+[-] puffed		<-->	adjective++C2	[231008][001]	./pʌft/
+ /pʌft/
+(also puffed out)
+[not before noun] (British English, informal)
+	;hổn hển -- (1) reathing quickly and with difficulty because you have been taking a lot of physical exercise
+		;I get really puffed in the aerobics class.
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] pump iron		<-->	idiom++C2	[231008][001]	./i/
+	;môn nâng tạ -- (1) (informal) to do exercises in which you lift heavy weights in order to make your muscles stronger
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] punchbag		<-->	noun++C2	[231008][001]	./ˈpʌntʃbæɡ/
+ /ˈpʌntʃbæɡ/
+(British English)
+(North American English punching bag)
+	;bao đấm bốc -- (1) a heavy leather bag, hung on a rope, which is hit with the fists (= closed hands), especially by boxers as part of training, or as a form of exercise
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] punching bag		<-->	noun++C2	[231008][001]	./ˈpʌntʃɪŋ bæɡ/
+ /ˈpʌntʃɪŋ bæɡ/
+(North American English)
+(British English punchbag)
+	;bao cát, bao đấm bốc -- (1) a heavy leather bag, hung on a rope, which is hit with the fists (= closed hands), especially by boxers as part of training, or as a form of exercise
+		;TOPICS Health and FitnessC2
+		;More Like This Compound nouns with –ing forms
+
+
+
+
+[-] push-up		<-->	noun++C1	[231008][001]	./ˈpʊʃ ʌp/
+ /ˈpʊʃ ʌp/
+(especially North American English)
+(British English also press-up)
+[usually plural]
+	;môn hít đất -- (1) enlarge imagean exercise in which you lie on your stomach and raise your body off the ground by pressing down on your hands until your arms are straight
+		;COMPARE plank (3)
+				;TOPICS Health and FitnessC1
+				;Oxford Collocations Dictionary
+				;Push-up is used before these nouns:
+				;bra
+		;See full entry
+
+
+
+
+[-] radiance		<-->	noun++C2	[231008][001]	./ˈreɪdiəns/
+ /ˈreɪdiəns/
+[uncountable]
+	;sự rạng rỡ -- (1) ​a special bright quality that shows in somebody’s face, for example because they are very happy or healthy
+		;TOPICS FeelingsC2, Health and FitnessC2
+
+
+
+
+[-] regimen		<-->	noun++C2	[231008][001]	./ˈredʒɪmən/
+ /ˈredʒɪmən/
+(also regime)
+(medical or formal)
+	;chế độ điều trị -- (1) a set of rules about food and exercise or medical treatment that you follow in order to stay healthy or to improve your health
+		;a strict regimen
+		;a daily regimen of exercise
+		;Extra Examples:
+		;He began a new fitness regimen.
+		;It is important to maintain a training regimen.
+		;She follows a strict fitness regimen.
+		;We used a combined regimen of chemotherapy and radiation therapy.
+		;a sensible daily regimen of vitamin supplements
+		;a strenuous training regimen
+		;a treatment regimen comprising two antibiotics
+		;A strict regimen of wheat-free diet in the hospital had a favourable effect.
+				;TOPICS Health and FitnessC2, Cooking and eatingC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;strictcombineddaily…
+				;verb + regimen
+				;usefollowbegin…
+				;regimen + verb
+				;comprise somethingconsist of somethinginclude something…
+		;See full entry
+		;Word Origin
+
+
+
+
+[-] rep		<-->	noun++C2	[231008][001]	./rep/
+ /rep/
+(informal)
+	; -- (1) 
+	; -- (2) 
+	;lần -- (4) a single short physical exercise that is performed multiple times without a break
+		;I did 20 reps of each exercise.
+		;TOPICS Health and FitnessC2
+
+
+
+
+[-] resistance		<-->	noun++C1	[231008][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -952,7 +1080,36 @@
 
 
 
-[-] press-up		<-->	noun++C1[-0]	.
+[-] resistant		<-->	adjective++C1	[231008][001]	./rɪˈzɪstənt/
+ /rɪˈzɪstənt/
+	;kháng cự, có thể chịu được -- (1) ​resistant (to something) not affected by something; able to resist something
+		;plants that are resistant to disease
+		;Mosquitoes are becoming resistant to insecticides.
+		;TOPICS Health and FitnessC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beprovebecome…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;to
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] rested		<-->	adjective++B2	[231008][001]	./ˈrestɪd/
+ /ˈrestɪd/
+	;thư giãn, sảng khoái -- (1) feeling healthy and full of energy because you have had a rest
+		;I awoke feeling rested and refreshed.
+		;SEE ALSO rest
+		;TOPICS Health and FitnessB2
+
+
+
+[-] robust		<-->	adjective++C1	[231008][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -960,7 +1117,7 @@
 
 
 
-[-] puffed		<-->	adjective++C2[-0]	.
+[-] run		<-->	verb++A1	[231008][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -968,122 +1125,30 @@
 
 
 
-[-] pump iron		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] self-care		<-->	noun++B2	[231008][001]	./ˌself ˈkeə(r)/
+ /ˌself ˈker/
+[uncountable]
+	;sự tự chăm sóc -- (1) the act of caring for yourself, for example by eating and sleeping well, taking exercise and getting help so that you do not become ill
+		;I'm a 30-year-old workaholic who has never prioritized self-care.
+		;TOPICS Health and FitnessB2
 
 
 
 
-[-] punchbag		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] short-winded		<-->	adjective++C2	[231008][001]	./ˌʃɔːt ˈwɪndɪd/
+ /ˌʃɔːrt ˈwɪndɪd/
+	;hổn hển -- (1) (of a person) having difficulty breathing after exercise or physical effort
+		;TOPICS Health and FitnessC2, Health problemsC2
 
 
 
 
-[-] punching bag		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] push-up		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] radiance		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] regimen		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] rep		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] resistance		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] resistant		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] rested		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] robust		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] run		<-->	verb++A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] self-care		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] short-winded		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] sit-up		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] sit-up		<-->	noun++C2	[231008][001]	./ˈsɪt ʌp/
+ /ˈsɪt ʌp/
+(also crunch)
+	;môn tập bụng -- (1) enlarge imagean exercise for making your stomach muscles strong, in which you lie on your back on the floor and raise the top part of your body to a sitting position
+		;He does 20 sit-ups every morning.
+		;TOPICS Health and FitnessC2
 
 
 
