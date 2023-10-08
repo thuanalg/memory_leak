@@ -1,12 +1,4 @@
-raise | rays | raze						<-->		/reɪ/-NAmE /reɪ/
-rain | reign | rein						<-->		/reɪn/-NAmE /reɪn/
-praise | prays | preys						<-->		/preɪz/-NAmE /preɪz/
-heal | heel | he'll || hill						<-->		/hiːl/-NAmE /hiːl/
-seas | sees | seize						<-->		/siːz/-NAmE /siːz/
-road | rode | rowed						<-->		/rəʊd/-NAmE /rəʊd/
-cent | scent | sent						<-->		/sent/-NAmE /sent/
-peak | peek | pique						<-->		/piːk/-NAmE /piːk/
-sew | so | sow						<-->		/səʊ/-NAmE /səʊ/
+
 
 
 hear | here						<-->		/hɪə(r)/-NAmE /hɪr/
@@ -17,9 +9,9 @@ knew | new						<-->		/njuː/-NAmE /nuː/
 
 air | heir						<-->		/eə(r)/-NAmE /er/
 allowed | aloud						<-->		/əˈlaʊd/-NAmE /əˈlaʊd/
-base | bass
-bare | bear
-blew | blue
+base | bass						<-->		/beɪs/-NAmE /beɪs/
+bare | bear						<-->		/beə(r)/-NAmE /ber/
+blew | blue						<-->		/bluː/-NAmE /bluː/
 
 board | bored
 brake | break
@@ -35,9 +27,7 @@ fair | fare
 flour | flower
 flew | flu
 groan | grown
-
 knows | nose
-
 lessen | lesson
 miner | minor
 missed | mist
@@ -54,13 +44,12 @@ rose | rows
 serial | cereal
 chute | shoot
 sight | site
-
 soar | sore
-sole | soul
-steal | steel
-storey | story
-suite | sweet
-cymbal | symbol
+sole | soul[y]/səʊl/-NAmE /səʊl/
+steal | steel[y]/stiːl/-NAmE /stiːl/
+storey | story[y]/ˈstɔːri/-NAmE /ˈstɔːri/
+suite | sweet[y]/swiːt/-NAmE /swiːt/
+cymbal | symbol[y]/ˈsɪmbl/-NAmE /ˈsɪmbl/]
 tail | tale
 threw | through
 tide | tied
