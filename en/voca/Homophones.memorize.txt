@@ -1,28 +1,46 @@
 (1)
 
+raise | rays | raze						<-->		/reɪ/-NAmE /reɪ/
+praise | prays | preys						<-->		/preɪz/-NAmE /preɪz/
+seas | sees | seize						<-->		/siːz/-NAmE /siːz/
+peak | peek | pique						<-->		/piːk/-NAmE /piːk/
+road | rode | rowed						<-->		/rəʊd/-NAmE /rəʊd/
+
+(2)
+
+by | buy | bye						<-->		/baɪ/-NAmE /baɪ/
+or | oar | ore						<-->		/ɔː(r)/-NAmE /ɔːr/
+so | sew | sow						<-->		/səʊ/-NAmE /səʊ/
+to | two | too						<-->		/tuː/-NAmE /tuː/
+rain | reign | rein						<-->		/reɪn/-NAmE /reɪn/
+cent | scent | sent						<-->		/sent/-NAmE /sent/
+heal | heel | he'll || hill						<-->		/hiːl/-NAmE /hiːl/
+
+(3)
+
 for | four						<-->		/fɔː(r)/-NAmE /fɔːr/
 son | sun						<-->		/sʌn/-NAmE /sʌn/
 one | won						<-->		/wʌn/-NAmE /wʌn/
 no | know						<-->		/nəʊ/-NAmE /nəʊ/
 not | knot						<-->		/nɒt/-NAmE /nɑːt/
 
-(2)
+(4)
 
-way | weigh						<-->		/weɪ/-NAmE /weɪ/
+[-] way | weigh						<-->		/weɪ/-NAmE /weɪ/
 stalk | stork						<-->		/stɔːk/-NAmE /stɔːk/
-write | right						<-->		/raɪt/-NAmE /raɪt/
+[-] write | right						<-->		/raɪt/-NAmE /raɪt/
 seem | seam						<-->		/siːm/-NAmE /siːm/
 stile | style						<-->		/staɪl/-NAmE /staɪl/
 
-(3)
+(5)
 
 air | heir						<-->		/eə(r)/-NAmE /er/
 allowed | aloud						<-->		/əˈlaʊd/-NAmE /əˈlaʊd/
 see | sea						<-->		/siː/-NAmE /siː/
 dye | die						<-->		/daɪ/-NAmE /daɪ/
-war | wore						<-->		/wɔː(r)/-NAmE /wɔːr/
+[-] war | wore						<-->		/wɔː(r)/-NAmE /wɔːr/
 
-(4)
+(6)
 
 cell | sell						<-->		/sel/-NAmE /sel/
 sail | sale						<-->		/seɪl/-NAmE /seɪl/
@@ -30,20 +48,59 @@ mail | male						<-->		/meɪl/-NAmE /meɪl/
 meat | meet						<-->		/miːt/-NAmE /miːt/
 scene | seen						<-->		/siːn/-NAmE /siːn/
 
-(5)
+(7)
 
-raise | rays | raze						<-->		/reɪ/-NAmE /reɪ/
-praise | prays | preys						<-->		/preɪz/-NAmE /preɪz/
-road | rode | rowed						<-->		/rəʊd/-NAmE /rəʊd/
-seas | sees | seize						<-->		/siːz/-NAmE /siːz/
-peak | peek | pique						<-->		/piːk/-NAmE /piːk/
+[-] way | weigh						<-->		/weɪ/-NAmE /weɪ/
+stalk | stork						<-->		/stɔːk/-NAmE /stɔːk/
+[-] write | right						<-->		/raɪt/-NAmE /raɪt/
+seem | seam						<-->		/siːm/-NAmE /siːm/
+stile | style						<-->		/staɪl/-NAmE /staɪl/
 
-(6)
+(8)
 
-or | oar | ore						<-->		/ɔː(r)/-NAmE /ɔːr/
-buy | by | bye						<-->		/baɪ/-NAmE /baɪ/
-sew | so | sow						<-->		/səʊ/-NAmE /səʊ/
-rain | reign | rein						<-->		/reɪn/-NAmE /reɪn/
-heal | heel | he'll || hill						<-->		/hiːl/-NAmE /hiːl/
-cent | scent | sent						<-->		/sent/-NAmE /sent/
+for | four						<-->		/fɔː(r)/-NAmE /fɔːr/
+son | sun						<-->		/sʌn/-NAmE /sʌn/
+one | won						<-->		/wʌn/-NAmE /wʌn/
+no | know						<-->		/nəʊ/-NAmE /nəʊ/
+not | knot						<-->		/nɒt/-NAmE /nɑːt/
 
+(9)
+
+altar | alter						<-->		/ˈɔːltə(r)/-NAmE /ˈɔːltər/
+plain | plane						<-->		/pleɪn/-NAmE /pleɪn/
+see | sea						<-->		/siː/-NAmE /siː/
+dye | die						<-->		/daɪ/-NAmE /daɪ/
+[-] war | wore						<-->		/wɔː(r)/-NAmE /wɔːr/
+
+(10)
+
+mail | male						<-->		/meɪl/-NAmE /meɪl/
+meat | meet						<-->		/miːt/-NAmE /miːt/
+cell | sell						<-->		/sel/-NAmE /sel/
+sail | sale						<-->		/seɪl/-NAmE /seɪl/
+scene | seen						<-->		/siːn/-NAmE /siːn/
+
+
+(11)
+
+hear | here						<-->		/hɪə(r)/-NAmE /hɪr/
+higher | hire						<-->		/ˈhaɪə(r)/-NAmE /ˈhaɪər/
+hole | whole						<-->		/həʊl/-NAmE /həʊl/
+key | quay						<-->		/kiː/-NAmE /kiː/
+knew | new						<-->		/njuː/-NAmE /nuː/
+
+(12)
+
+air | heir						<-->		/eə(r)/-NAmE /er/
+allowed | aloud						<-->		/əˈlaʊd/-NAmE /əˈlaʊd/
+base | bass						<-->		/beɪs/-NAmE /beɪs/
+bare | bear						<-->		/beə(r)/-NAmE /ber/
+blew | blue						<-->		/bluː/-NAmE /bluː/
+
+(13)
+
+sole | soul						<-->		/səʊl/-NAmE /səʊl/
+steal | steel						<-->		/stiːl/-NAmE /stiːl/
+storey | story						<-->		/ˈstɔːri/-NAmE /ˈstɔːri/
+suite | sweet						<-->		/swiːt/-NAmE /swiːt/
+cymbal | symbol						<-->		/ˈsɪmbl/-NAmE /ˈsɪmbl/

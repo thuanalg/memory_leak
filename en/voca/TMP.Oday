@@ -3,7 +3,7 @@
 	AP: https://apnews.com/article/tucker-carlson-fox-news-dominion-lawsuit-trump-5d6aed4bc7eb1f7a01702ebea86f37a1
 	Học hành: https://www.youtube.com/watch?v=IoghpKkegEI
 
-[-] surplus		<-->	a++[--0]	./ˈsɜːpləs/-NAmE /ˈsɜːrplʌs/
+[-] surplus		<-->	a++[0]	./ˈsɜːpləs/-NAmE /ˈsɜːrplʌs/
 	;dư thừa -- (1) more than is needed or used
 		;surplus cash
 		;Surplus grain is being sold for export.
@@ -16,7 +16,7 @@
 
 
 
-[-] heel		<-->	verb++[--0]	./hiːl/-NAmE /hiːl/\
+[-] heel		<-->	verb++[0]	./hiːl/-NAmE /hiːl/\
 	;sửa gót giầy -- (1) [-repair shoe] [transitive] heel something to repair the heel of a shoe, etc.
 	;nghiên ngã -- (2) [-of boat] [intransitive] heel (over) to lean over to one side
 		;The boat heeled over in the strong wind.
@@ -27,7 +27,7 @@
 
 
 
-[-] heuristic		<-->	a++[--0]	./hjʊəˈrɪstɪk/-NAmE /hjʊˈrɪstɪk/
+[-] heuristic		<-->	a++[0]	./hjʊəˈrɪstɪk/-NAmE /hjʊˈrɪstɪk/
 (formal)
 	;phỏng đoán -- (1) heuristic teaching or education encourages you to learn by discovering things for yourself
 		;Oxford Collocations Dictionary
@@ -41,7 +41,7 @@
 
 
 
-[-] heuristics		<-->	n++[--0]	./hjʊəˈrɪstɪks/-NAmE /hjʊˈrɪstɪks/
+[-] heuristics		<-->	n++[0]	./hjʊəˈrɪstɪks/-NAmE /hjʊˈrɪstɪks/
 [uncountable] (formal)
 	;phương pháp phỏng đoán -- (1) a method of solving problems by finding practical ways of dealing with them, learning from past experience
 
@@ -50,7 +50,7 @@
 
 
 
-[-] sprint		<-->	verb++[--0]	./sprɪnt/-NAmE /sprɪnt/
+[-] sprint		<-->	verb++[0]	./sprɪnt/-NAmE /sprɪnt/
 [intransitive, transitive]
 	;đua nước rút -- (1) to run or swim a short distance very fast
 		;+ adv./prep. He sprinted for the line.
@@ -69,7 +69,7 @@
 
 
 
-[-] sprint		<-->	n++[--0]	./sprɪnt/-NAmE /sprɪnt/
+[-] sprint		<-->	n++[0]	./sprɪnt/-NAmE /sprɪnt/
 	;cuộc đua nước rút -- (1) a race in which the people taking part run, swim, etc. very fast over a short distance
 		;a 100-metre sprint
 		;the world sprint champion
@@ -101,7 +101,7 @@
 
 
 
-[-] wobbly		<-->	a++[--0]	./ˈwɒbli/-NAmE /ˈwɑːbli/
+[-] wobbly		<-->	a++[0]	./ˈwɒbli/-NAmE /ˈwɑːbli/
 (informal) [aef-B2-Z03-L]
 	;lung lay, lắc lư -- (1) not properly fixed in place so that it moves from side to side
 		;a chair with a wobbly leg
@@ -116,8 +116,54 @@
 
 
 
-[-] damn		<-->	verb++[--0]	.
-	; -- (1) 
+[-] damn		<-->	exclamation++[--0]	./dæm/
+ /dæm/
+(also old-fashioned dammit  /ˈdæmɪt/  /ˈdæmɪt/, damn it)
+(informal)
+	; -- (1) a swear word that people use to show that they are annoyed, disappointed, etc.
+		;Oh damn! I forgot he was coming.
+		;More Like This Silent letters
+		;Word Origin
+
+
+
+[-] damn		<-->	a++[--0]	./dæm/
+ /dæm/
+(also damned)
+[only before noun] (informal)
+	;tiếng chửi thề -- (1) a swear word that people use to show that they are annoyed with somebody/something
+		;Where's that damn book!
+		;The damned thing won't start!
+		;It's none of your damn business!
+		;He's a damn nuisance!
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+[-] damn		<-->	verb++[--0]	./dæm/
+ /dæm/
+	;chết tiệt -- (1) damn somebody/something (informal) used when swearing at somebody/something to show that you are angry
+		;Damn you! I'm not going to let you bully me.
+		;Damn this machine! Why won't it work?
+	; -- (2) damn somebody (of God) to decide that somebody must suffer in hell
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+
+
+
+[-] damn		<-->	adverb++[--0]	./dæm/
+ /dæm/*\
+(also damned)
+(informal)
+	; -- (1) a swear word that people use to show that they are annoyed with somebody/something
+		;Don't be so damn silly!
+		;What a damn stupid question!
+		;You know damn well (= you know very well) what I mean!
+		;I'll damn well leave tonight (= I am determined to).
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -128,12 +174,22 @@
 
 
 
-[-] balmy		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] balmy		<-->	a++[--0]	./ˈbɑːmi/
+ /ˈbɑːmi/
+(approving)
+	;ấm áp -- (1) ​(of the air, weather, etc.) warm and pleasant
+		;SYNONYM mild
+		;a balmy summer evening
+		;Extra Examples:
+		;There was hardly any wind, just a balmy breeze.
+		;They stepped off the plane into warm, balmy air.
+		;We went walking in the balmy summer evenings.
+		;the balmy tropical climate of the East Caribbean
+				;Oxford Collocations Dictionary
+				;Balmy is used with these nouns:
+				;evening
+		;See full entry
+		;More Like This Silent letters
 
 
 
@@ -248,7 +304,7 @@
 
 
 
-[-] gnarled		<-->	a++[--0]	./nɑːld/
+[-] gnarled		<-->	a++[0]	./nɑːld/
  /nɑːrld/
 (also gnarly North American English)
 	;gai góc, đầy gai -- (1) (of a tree) twisted and rough; with hard parts growing all over it
@@ -263,8 +319,12 @@
 
 
 
-[-] unlit		<-->	a++[--0]	.[ef-b2-04-L]
-	;tối đèn, không trăng sao -- (1) 
+[-] unlit		<-->	a++[--0]	./ˌʌnˈlɪt/
+ /ˌʌnˈlɪt/ [ef-b2-04-L]
+	;tối đèn, không trăng sao -- (1) dark because there are no lights or the lights are not switched on
+		;an unlit passage
+		;I avoid walking down quiet, unlit roads when I'm alone.
+		;The room was unlit and they could hardly see the man in the gloom.
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -275,7 +335,7 @@
 
 
 
-[-] chew		<-->	verb++[--0]	./tʃuː/
+[-] chew		<-->	verb++[0]	./tʃuː/
  /tʃuː/
 	;nhai -- (1) [intransitive, transitive] to bite food into small pieces in your mouth with your teeth to make it easier to swallow
 		;chew (at/on/through something) After the operation you may find it difficult to chew and swallow.
@@ -300,7 +360,7 @@
 
 
 
-[-] nit		<-->	n++[--0]	./nɪt/
+[-] nit		<-->	n++[0]	./nɪt/
  /nɪt/
 	;trứng chí, rận -- (1) the egg or young form of a louse (= a small insect that lives in human hair)
 		;TOPICS Insects, worms, etc.C2
@@ -311,7 +371,7 @@
 
 
 
-[-] knave		<-->	n++[--0]	./neɪv/
+[-] knave		<-->	n++[0]	./neɪv/
  /neɪv/
 	;thằng bồi trong 52 lá bài -- (1) (old-fashioned) (in a pack of cards) a jack (= a card with a picture of a young man on it, normally worth more than a ten and less than a queen)
 		;the knave of clubs
@@ -323,7 +383,7 @@
 
 
 
-[-] knead		<-->	verb++[--0]	./niːd/
+[-] knead		<-->	verb++[0]	./niːd/
  /niːd/
 	;nhào nặn -- (1) knead something to press and stretch dough, wet clay, etc. with your hands to make it ready to use
 		;Add the water and knead the mixture well.
@@ -342,7 +402,7 @@
 
 
 
-[-] charisma		<-->	n++[--0]	./kəˈrɪzmə/
+[-] charisma		<-->	n++[0]	./kəˈrɪzmə/
  /kəˈrɪzmə/
 [uncountable]
 	;sức thu hút -- (1) ​the powerful personal quality that some people have to attract and impress other people
@@ -359,7 +419,7 @@
 
 
 
-[-] charismatic		<-->	a++[--0]	./ˌkærɪzˈmætɪk/
+[-] charismatic		<-->	a++[0]	./ˌkærɪzˈmætɪk/
  /ˌkærɪzˈmætɪk/
 	;lôi cuốn -- (1) having charisma
 		;the charismatic leader of a religious sect

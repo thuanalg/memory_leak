@@ -1,18 +1,3 @@
-
-
-
-hear | here						<-->		/hɪə(r)/-NAmE /hɪr/
-higher | hire						<-->		/ˈhaɪə(r)/-NAmE /ˈhaɪər/
-hole | whole						<-->		/həʊl/-NAmE /həʊl/
-key | quay						<-->		/kiː/-NAmE /kiː/
-knew | new						<-->		/njuː/-NAmE /nuː/
-
-air | heir						<-->		/eə(r)/-NAmE /er/
-allowed | aloud						<-->		/əˈlaʊd/-NAmE /əˈlaʊd/
-base | bass						<-->		/beɪs/-NAmE /beɪs/
-bare | bear						<-->		/beə(r)/-NAmE /ber/
-blew | blue						<-->		/bluː/-NAmE /bluː/
-
 board | bored
 brake | break
 berry | bury
@@ -34,7 +19,6 @@ missed | mist
 pain | pane
 passed | past
 peace | piece
-plain | plane
 principal | principle
 profit | prophet
 read | reed
@@ -45,22 +29,12 @@ serial | cereal
 chute | shoot
 sight | site
 soar | sore
-sole | soul[y]/səʊl/-NAmE /səʊl/
-steal | steel[y]/stiːl/-NAmE /stiːl/
-storey | story[y]/ˈstɔːri/-NAmE /ˈstɔːri/
-suite | sweet[y]/swiːt/-NAmE /swiːt/
-cymbal | symbol[y]/ˈsɪmbl/-NAmE /ˈsɪmbl/]
 tail | tale
 threw | through
 tide | tied
 toe | tow
 vain | vein
-weather | whether
-ware | wear | where
-which | witch
-whine | wine
-rap | wrap
-wail | whale
+
 stationary | stationery
 dew | due
 grate | great
@@ -76,7 +50,7 @@ knight | night
 desert | dessert
 pair | pare | pear
 colonel | kernel
-altar | alter 
+ 
 cereal | serial
 foul | fowl
 dear | deer
@@ -98,49 +72,28 @@ guessed | guest
 
 
 
-
-
-
-way | weigh						<-->		/weɪ/-NAmE /weɪ/
-stalk | stork						<-->		/stɔːk/-NAmE /stɔːk/
-write | right						<-->		/raɪt/-NAmE /raɪt/
-seem | seam						<-->		/siːm/-NAmE /siːm/
-stile | style						<-->		/staɪl/-NAmE /staɪl/
-
-for | four						<-->		/fɔː(r)/-NAmE /fɔːr/
-son | sun						<-->		/sʌn/-NAmE /sʌn/
-one | won						<-->		/wʌn/-NAmE /wʌn/
-no | know						<-->		/nəʊ/-NAmE /nəʊ/
-not | knot						<-->		/nɒt/-NAmE /nɑːt/
-
-or | oar | ore						<-->		/ɔː(r)/-NAmE /ɔːr/
-buy | by | bye						<-->		/baɪ/-NAmE /baɪ/
-see | sea						<-->		/siː/-NAmE /siː/
-dye | die						<-->		/daɪ/-NAmE /daɪ/
-war | wore						<-->		/wɔː(r)/-NAmE /wɔːr/
-
-mail | male						<-->		/meɪl/-NAmE /meɪl/
-meat | meet						<-->		/miːt/-NAmE /miːt/
-cell | sell						<-->		/sel/-NAmE /sel/
-sail | sale						<-->		/seɪl/-NAmE /seɪl/
-scene | seen						<-->		/siːn/-NAmE /siːn/
-
-
-wait | weight
-warn | worn
-waist | waste
-wave | waive
-weak | week
+[-] wait | weight[y]/weɪt/-NAmE /weɪt/
+[-] warn | worn[y]/wɔːn/-NAmE /wɔːrn/
+[-] waist | waste[y]/weɪst/-NAmE /weɪst/
+[-] wave | waive[y]/weɪv/-NAmE /weɪv/
+[-] weak | week[y]/wiːk/-NAmE /wiːk/
+[-] weather | whether[y]/ˈweðə(r)/-NAmE /ˈweðər/
+[-] ware | wear | where[y]/weə(r)/-NAmE /wer/
+[-] which | witch[y]/wɪtʃ/-NAmE /wɪtʃ/
+[-] whine | wine[y]/waɪn/-NAmE /waɪn/
+[-] wail | whale[y]/weɪl/-NAmE /weɪl/
+[-] wrap | rap[y]/ræp/-NAmE /ræp/
 
 
 
 
+[-] will || we'll
+[-] whip || weep
+[-] walking || working
+[-] was || were || will 
 
 germ || gem
-will || we'll
 fill || feel || field
-whip || weep
-walking || working
 their || they're || There
 pen || pain || paint
 copy || coffee
@@ -158,6 +111,6 @@ degree || decrease
 revile || prevail
 tall || toll || told
 code || cold || coat
-was || were || will 
+
 game || gain 
 merry || marry 
