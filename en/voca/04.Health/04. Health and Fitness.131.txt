@@ -23,8 +23,7 @@
 
 
 
-[-] activity tracker		<-->	noun++C2	[230910][001]	./i/ /ækˈtɪvəti trækə(r)/-NAmE /ækˈtɪvəti trækər/
-(also fitness tracker)
+[-] activity tracker		<-->	noun++C2	[230910][001]	./i/ /ækˈtɪvəti trækə(r)/-NAmE /ækˈtɪvəti trækər/ (also fitness tracker)
 	;máy track thể chất -- (1) a device that you can wear that records your daily physical activity, as well as other information about your health, such as your heart rate
 		;TOPICS HEALTH AND FITNESS--C2
 
@@ -43,8 +42,7 @@
 
 
 
-[-] aerobics		<-->	noun++B2	[230910][001]	./eəˈrəʊbɪks/-NAmE /eˈrəʊbɪks/
-[uncountable]
+[-] aerobics		<-->	noun++B2	[230910][001]	./eəˈrəʊbɪks/-NAmE /eˈrəʊbɪks/ [uncountable]
 	;thể dục nhịp điệu -- (1) physical exercises intended to make the heart and lungs stronger, often done in classes, with music
 		;to do aerobics
 		;I go to aerobics every Monday.
@@ -105,8 +103,7 @@
 
 
 
-[-] beauty sleep		<-->	noun++C2	[230917][001]	./ˈbjuːti sliːp/-NAmE /ˈbjuːti sliːp/
-[uncountable] (humorous)
+[-] beauty sleep		<-->	noun++C2	[230917][001]	./ˈbjuːti sliːp/-NAmE /ˈbjuːti sliːp/ [uncountable] (humorous)
 	;giấc ngủ ngon -- (1) enough sleep at night to make sure that you look and feel healthy and beautiful
 		;TOPICS HEALTH AND FITNESS-C2
 
@@ -224,8 +221,7 @@
 
 
 
-[-] cardio		<-->	noun++C2	[230910][001]	./ˈkɑːdiəʊ/-NAmE /ˈkɑːrdiəʊ/
-[uncountable] (informal)
+[-] cardio		<-->	noun++C2	[230910][001]	./ˈkɑːdiəʊ/-NAmE /ˈkɑːrdiəʊ/ [uncountable] (informal)
 	;??? -- (1) exercises to make your heart work harder that you do to keep yourself fit
 		;Cardio is the answer if you want to lose weight.
 		;cardio exercise/workouts
@@ -261,8 +257,7 @@
 
 
 
-[-] circuit training		<-->	noun++C2	[230917][001]	./ˈsɜːkɪt treɪnɪŋ/-NAmE /ˈsɜːrkɪt treɪnɪŋ/
-[uncountable]
+[-] circuit training		<-->	noun++C2	[230917][001]	./ˈsɜːkɪt treɪnɪŋ/-NAmE /ˈsɜːrkɪt treɪnɪŋ/ [uncountable]
 	; -- (1) a type of training in sport in which different exercises are each done for a short time
 		;TOPICS HEALTH AND FITNESS-C2, Sports: other sportsC2
 
@@ -284,8 +279,7 @@
 
 
 
-[-] CrossFit™		<-->	noun++C2	[230917][001]	./ˈkrɒsfɪt/-NAmE /ˈkrɔːsfɪt/
-[uncountable]
+[-] CrossFit™		<-->	noun++C2	[230917][001]	./ˈkrɒsfɪt/-NAmE /ˈkrɔːsfɪt/ [uncountable]
 	; -- (1) an extreme fitness programme that includes elements from various sports and types of exercise
 		;I do CrossFit five mornings a week.
 		;TOPICS HEALTH AND FITNESS-C2
@@ -302,16 +296,14 @@
 
 
 
-[-] cross-training		<-->	noun++C2	[230917][001]	./ˈkrɒs treɪnɪŋ/-NAmE /ˈkrɔːs treɪnɪŋ/
-[uncountable]
+[-] cross-training		<-->	noun++C2	[230917][001]	./ˈkrɒs treɪnɪŋ/-NAmE /ˈkrɔːs treɪnɪŋ/ [uncountable]
 	; -- (1) the activity of training in sports other than your main sport in order to make yourself fitter and able to do your main sport better
 		;TOPICS HEALTH AND FITNESS-C2
 
 
 
 
-[-] elbow bump		<-->	noun++C2	[230917][001]	./ˈelbəʊ bʌmp/-NAmE /ˈelbəʊ bʌmp/
-(also elbump)
+[-] elbow bump		<-->	noun++C2	[230917][001]	./ˈelbəʊ bʌmp/-NAmE /ˈelbəʊ bʌmp/ (also elbump)
 	;sự chạm cùi chỏ -- (1) ​an act of briefly touching somebody's elbow with your own to greet them, done to avoid spreading disease through touching each other's hands
 		;I was greeted with an elbow bump rather than a handshake.
 		;TOPICS HEALTH AND FITNESS-C2
@@ -319,8 +311,7 @@
 
 
 
-[-] elbump		<-->	noun++C2	[230917][001]	./ˈelbʌmp/-NAmE /ˈelbʌmp/
-(also elbow bump)
+[-] elbump		<-->	noun++C2	[230917][001]	./ˈelbʌmp/-NAmE /ˈelbʌmp/ (also elbow bump)
 	;khuỷu tay -- (1) an act of briefly touching somebody's elbow with your own to greet them, done to avoid spreading disease through touching each other's hands
 		;We greeted each other with an elbump.
 		;TOPICS HEALTH AND FITNESS-C2
@@ -384,9 +375,7 @@
 
 
 
-[-] fitness centre		<-->	noun++B2	[230917][001]	./ˈfɪtnəs sentə(r)/-NAmE /ˈfɪtnəs sentər/
-(British English)
-(North American English fitness center)
+[-] fitness centre		<-->	noun++B2	[230917][001]	./ˈfɪtnəs sentə(r)/-NAmE /ˈfɪtnəs sentər/ (British English) (North American English fitness center)
 	;trung tâm thể dục, -- (1) a place where people go to do physical exercise in order to stay or become healthy and fit
 		;The hotel has a fitness centre with a sauna.
 		;TOPICS HEALTH AND FITNESS-B2
@@ -394,9 +383,7 @@
 
 
 
-[-] fitness tracker		<-->	noun++C2	[230917][001]	./ˈfɪtnəs sentə(r)/-NAmE /ˈfɪtnəs sentər/
-(British English)
-(North American English fitness center)
+[-] fitness tracker		<-->	noun++C2	[230917][001]	./ˈfɪtnəs sentə(r)/-NAmE /ˈfɪtnəs sentər/ (British English) (North American English fitness center)
 	;theo dõi thể dục -- (1) a place where people go to do physical exercise in order to stay or become healthy and fit
 		;TOPICS HEALTH AND FITNESS-B2
 		;The hotel has a fitness centre with a sauna.
@@ -438,8 +425,7 @@
 
 
 
-[-] fresh-faced		<-->	adjective++C2	[230917][001]	./ˌfreʃ ˈfeɪst/-NAmE /ˌfreʃ ˈfeɪst/
-(approving)
+[-] fresh-faced		<-->	adjective++C2	[230917][001]	./ˌfreʃ ˈfeɪst/-NAmE /ˌfreʃ ˈfeɪst/ (approving)
 	;tươi tắn -- (1) having a young, healthy-looking face
 		;fresh-faced kids
 		;I tried to imagine my mother as a fresh-faced young woman.
@@ -500,9 +486,7 @@
 
 
 
-[-] gymnasium		<-->	noun++C1	[230917][001]	./dʒɪmˈneɪziəm/-NAmE /dʒɪmˈneɪziəm/
-(plural gymnasiums, gymnasia  /dʒɪmˈneɪziə/  /dʒɪmˈneɪziə/)
-(formal)
+[-] gymnasium		<-->	noun++C1	[230917][001]	./dʒɪmˈneɪziəm/-NAmE /dʒɪmˈneɪziəm/ (plural gymnasiums, gymnasia  /dʒɪmˈneɪziə/  /dʒɪmˈneɪziə/) (formal)
 	;phòng tập thể dục -- (1) a gym
 		;TOPICS EducationC1, HEALTH AND FITNESS-C1
 
@@ -525,8 +509,7 @@
 
 
 
-[-] health spa		<-->	noun++C2	[230917][001]	./ˈhelθ spɑː/-NAmE /ˈhelθ spɑː/
-(also spa)
+[-] health spa		<-->	noun++C2	[230917][001]	./ˈhelθ spɑː/-NAmE /ˈhelθ spɑː/ (also spa)
 	; -- (1) a place where people can relax and receive health and beauty treatments, with, for example, steam baths and exercise equipment
 		;a superb health spa, which includes sauna, Turkish bath and fitness rooms
 		;Wordfinder: dietexercisefitgymhealth spanutritionpersonal trainersportstaminaworkout
@@ -559,9 +542,7 @@
 
 
 
-[-] high-intensity interval training		<-->	noun++C2	[230917][001]	./ˌhaɪ ɪntensəti ˈɪntəvl treɪnɪŋ/-NAmE /ˌhaɪ ɪntensəti ˈɪntərvl treɪnɪŋ/
-[uncountable]
-(abbreviation HIIT)
+[-] high-intensity interval training		<-->	noun++C2	[230917][001]	./ˌhaɪ ɪntensəti ˈɪntəvl treɪnɪŋ/-NAmE /ˌhaɪ ɪntensəti ˈɪntərvl treɪnɪŋ/ [uncountable] (abbreviation HIIT)
 	;tập luyện cường độ cao ngắt quãng -- (1) a form of exercise in which you do short periods of very hard physical activity with easier exercises in between
 		;High-intensity interval training is a time-efficient way to keep in shape.
 		;COMPARE Tabata™
@@ -570,8 +551,7 @@
 
 
 
-[-] HIIT		<-->	noun++C2	[230917][001]	./hɪt/-NAmE /hɪt/
-[uncountable]
+[-] HIIT		<-->	noun++C2	[230917][001]	./hɪt/-NAmE /hɪt/ [uncountable]
 	; -- (1) a form of exercise in which you do short periods of very hard physical activity with easier exercises in between (the abbreviation for high-intensity interval training)
 		;I try to do a 20-minute HIIT workout twice a week.
 		;COMPARE Tabata™
@@ -588,8 +568,7 @@
 
 
 
-[-] immunity		<-->	noun++C1	[230917][001]	./ɪˈmjuːnəti/-NAmE /ɪˈmjuːnəti/
-(plural immunities)
+[-] immunity		<-->	noun++C1	[230917][001]	./ɪˈmjuːnəti/-NAmE /ɪˈmjuːnəti/ (plural immunities)
 	;khả năng miễn dịch -- (1) [uncountable] the body’s ability to avoid or not be affected by infection and disease
 		; immunity (to something) immunity to infection
 		; immunity against something The vaccine provides longer immunity against flu.
@@ -659,8 +638,7 @@
 
 
 
-[-] interval training		<-->	noun++C2	[230917][001]	./ˈɪntəvl treɪnɪŋ/-NAmE /ˈɪntərvl treɪnɪŋ/
-[uncountable]
+[-] interval training		<-->	noun++C2	[230917][001]	./ˈɪntəvl treɪnɪŋ/-NAmE /ˈɪntərvl treɪnɪŋ/ [uncountable]
 	;thời gian huấn luyện -- (1) sports training consisting of different activities that require different speeds or amounts of effort
 		;SEE ALSO high-intensity interval training
 		;TOPICS HEALTH AND FITNESS-C2, Sports: other sportsC2
@@ -718,8 +696,7 @@
 
 
 
-[-] jogging		<-->	noun++A2	[230917][001]	./ˈdʒɒɡɪŋ/-NAmE /ˈdʒɑːɡɪŋ/
-[uncountable]
+[-] jogging		<-->	noun++A2	[230917][001]	./ˈdʒɒɡɪŋ/-NAmE /ˈdʒɑːɡɪŋ/ [uncountable]
 	;môn chạy bộ -- (1) ​the activity of running slowly and steadily as a form of exercise
 		;to go jogging
 		;He decided to take up jogging.
@@ -774,8 +751,7 @@
 
 
 
-[-] jumping jack		<-->	noun++C2	[230917][001]	./ˈdʒʌmpɪŋ dʒæk/-NAmE /ˈdʒʌmpɪŋ dʒæk/
-[usually plural] (North American English)
+[-] jumping jack		<-->	noun++C2	[230917][001]	./ˈdʒʌmpɪŋ dʒæk/-NAmE /ˈdʒʌmpɪŋ dʒæk/ [usually plural] (North American English)
 	;môn nhảy cóc -- (1) ​an exercise in which you stand with your legs together and your arms at your sides and jump to a position with your legs apart and your arms spread out
 		;I leapt to my feet and executed a series of jumping jacks.
 		;TOPICS HEALTH AND FITNESS-C2
@@ -784,8 +760,7 @@
 
 
 [-] keep-fit		<-->	noun++C1	[231008][001]	./ˌkiːp ˈfɪt/
- /ˌkiːp ˈfɪt/
-[uncountable] (British English)
+ /ˌkiːp ˈfɪt/ [uncountable] (British English)
 	;giữ dáng -- (1) physical exercises that you do, usually in a class with other people, in order to improve your strength and to stay healthy
 		;a keep-fit class
 		;Culture sport and fitness
@@ -866,8 +841,7 @@
 
 
 [-] pant		<-->	noun++C2	[231008][001]	./pænt/
- /pænt/\
-[usually plural]
+ /pænt/\ [usually plural]
 	;hơi thở hỗn hển -- (1) ​one of a series of quick, short breaths, usually taken with your mouth open, because you have been doing some physical exercise, or because it is very hot
 		;His breath came in short pants.
 		;SEE ALSO pants
@@ -877,10 +851,7 @@
 
 
 [-] PE		<-->	noun++B1	[231008][001]	./ˌpiː ˈiː/
- /ˌpiː ˈiː/
-(British English)
-(US English P.E.)
-[uncountable]
+ /ˌpiː ˈiː/ (British English) (US English P.E.) [uncountable]
 	;giáo dục thể chất -- (1) ​sport and exercise that is taught in schools (the abbreviation for ‘physical education’)
 		;a PE class
 		;a PE lesson/teacher
@@ -902,9 +873,7 @@
 
 
 [-] physical distancing		<-->	noun++C2	[231008][001]	./ˌfɪzɪkl ˈdɪstənsɪŋ/
- /ˌfɪzɪkl ˈdɪstənsɪŋ/
-(also social distancing)
-[uncountable]
+ /ˌfɪzɪkl ˈdɪstənsɪŋ/ (also social distancing) [uncountable]
 	;khoảng cách vật lý -- (1) the practice of keeping a safe distance between yourself and other people in order to prevent the spread of disease
 		;The venue can only accommodate 30 people if physical distancing is maintained.
 		;TOPICS Health and FitnessC2
@@ -913,9 +882,7 @@
 
 
 [-] physical education		<-->	noun++B1	[231008][001]	./ˌfɪzɪkl edʒuˈkeɪʃn/
- /ˌfɪzɪkl edʒuˈkeɪʃn/
-(abbreviation British English PE, US English P.E.)
-[uncountable]
+ /ˌfɪzɪkl edʒuˈkeɪʃn/ (abbreviation British English PE, US English P.E.) [uncountable]
 	;giáo dục thể chất -- (1) sport and exercise that is taught in schools
 		;TOPICS EducationB1, Health and FitnessB1
 
@@ -923,8 +890,7 @@
 
 
 [-] physically distanced		<-->	adjective++C2	[231008][001]	./ˌfɪzɪkli ˈdɪstənst/
- /ˌfɪzɪkli ˈdɪstənst/
-(also socially distanced)
+ /ˌfɪzɪkli ˈdɪstənst/ (also socially distanced)
 	;khoảng cách về mặt vật lý -- (1) keeping a safe distance between yourself and other people in order to prevent the spread of disease
 		;It is important to wear a mask and stay physically distanced from people who are not in your household.
 		;TOPICS Health and FitnessC2
@@ -945,8 +911,7 @@
 
 
 [-] power walking		<-->	noun++C2	[231008][001]	./ˈpaʊə wɔːkɪŋ/
- /ˈpaʊər wɔːkɪŋ/
-[uncountable]
+ /ˈpaʊər wɔːkɪŋ/ [uncountable]
 	;môn đi bộ -- (1) the activity of walking very quickly as a form of exercise	
 		;TOPICS Health and FitnessC2
 
@@ -954,10 +919,7 @@
 
 
 [-] press-up		<-->	noun++C1	[231008][001]	./ˈpres ʌp/
- /ˈpres ʌp/
-(British English)
-(also push-up North American English, British English)
-[usually plural]
+ /ˈpres ʌp/ (British English) (also push-up North American English, British English) [usually plural]
 	;môn hít đất -- (1) enlarge imagean exercise in which you lie on your stomach and raise your body off the ground by pressing down on your hands until your arms are straight
 		;He does 20 press-ups every morning before breakfast.
 		;COMPARE plank (3)
@@ -967,8 +929,7 @@
 
 
 [-] puffed		<-->	adjective++C2	[231008][001]	./pʌft/
- /pʌft/
-(also puffed out)
+ /pʌft/ (also puffed out)
 [not before noun] (British English, informal)
 	;hổn hển -- (1) reathing quickly and with difficulty because you have been taking a lot of physical exercise
 		;I get really puffed in the aerobics class.
@@ -985,9 +946,7 @@
 
 
 [-] punchbag		<-->	noun++C2	[231008][001]	./ˈpʌntʃbæɡ/
- /ˈpʌntʃbæɡ/
-(British English)
-(North American English punching bag)
+ /ˈpʌntʃbæɡ/ (British English) (North American English punching bag)
 	;bao đấm bốc -- (1) a heavy leather bag, hung on a rope, which is hit with the fists (= closed hands), especially by boxers as part of training, or as a form of exercise
 		;TOPICS Health and FitnessC2
 
@@ -995,9 +954,7 @@
 
 
 [-] punching bag		<-->	noun++C2	[231008][001]	./ˈpʌntʃɪŋ bæɡ/
- /ˈpʌntʃɪŋ bæɡ/
-(North American English)
-(British English punchbag)
+ /ˈpʌntʃɪŋ bæɡ/ (North American English) (British English punchbag)
 	;bao cát, bao đấm bốc -- (1) a heavy leather bag, hung on a rope, which is hit with the fists (= closed hands), especially by boxers as part of training, or as a form of exercise
 		;TOPICS Health and FitnessC2
 		;More Like This Compound nouns with –ing forms
@@ -1006,10 +963,7 @@
 
 
 [-] push-up		<-->	noun++C1	[231008][001]	./ˈpʊʃ ʌp/
- /ˈpʊʃ ʌp/
-(especially North American English)
-(British English also press-up)
-[usually plural]
+ /ˈpʊʃ ʌp/ (especially North American English) (British English also press-up) [usually plural]
 	;môn hít đất -- (1) enlarge imagean exercise in which you lie on your stomach and raise your body off the ground by pressing down on your hands until your arms are straight
 		;COMPARE plank (3)
 				;TOPICS Health and FitnessC1
@@ -1022,8 +976,7 @@
 
 
 [-] radiance		<-->	noun++C2	[231008][001]	./ˈreɪdiəns/
- /ˈreɪdiəns/
-[uncountable]
+ /ˈreɪdiəns/ [uncountable]
 	;sự rạng rỡ -- (1) ​a special bright quality that shows in somebody’s face, for example because they are very happy or healthy
 		;TOPICS FeelingsC2, Health and FitnessC2
 
@@ -1031,9 +984,7 @@
 
 
 [-] regimen		<-->	noun++C2	[231008][001]	./ˈredʒɪmən/
- /ˈredʒɪmən/
-(also regime)
-(medical or formal)
+ /ˈredʒɪmən/ (also regime) (medical or formal)
 	;chế độ điều trị -- (1) a set of rules about food and exercise or medical treatment that you follow in order to stay healthy or to improve your health
 		;a strict regimen
 		;a daily regimen of exercise
@@ -1061,8 +1012,7 @@
 
 
 [-] rep		<-->	noun++C2	[231008][001]	./rep/
- /rep/
-(informal)
+ /rep/ (informal)
 	; -- (1) 
 	; -- (2) 
 	;lần -- (4) a single short physical exercise that is performed multiple times without a break
@@ -1126,8 +1076,7 @@
 
 
 [-] self-care		<-->	noun++B2	[231008][001]	./ˌself ˈkeə(r)/
- /ˌself ˈker/
-[uncountable]
+ /ˌself ˈker/ [uncountable]
 	;sự tự chăm sóc -- (1) the act of caring for yourself, for example by eating and sleeping well, taking exercise and getting help so that you do not become ill
 		;I'm a 30-year-old workaholic who has never prioritized self-care.
 		;TOPICS Health and FitnessB2
@@ -1144,8 +1093,7 @@
 
 
 [-] sit-up		<-->	noun++C2	[231008][001]	./ˈsɪt ʌp/
- /ˈsɪt ʌp/
-(also crunch)
+ /ˈsɪt ʌp/ (also crunch)
 	;môn tập bụng -- (1) enlarge imagean exercise for making your stomach muscles strong, in which you lie on your back on the floor and raise the top part of your body to a sitting position
 		;He does 20 sit-ups every morning.
 		;TOPICS Health and FitnessC2
