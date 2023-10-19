@@ -46,7 +46,7 @@ feat | feet
 muscle | mussel
 navel | naval
 vain | vein
-knight | night
+
 desert | dessert
 pair | pare | pear
 colonel | kernel
@@ -62,15 +62,20 @@ née | neigh
 complement | compliment
 knicker | nicker
 groan | grown
-knead | need
-knave | nave
+
 cede | seed
-knit | nit
-him | hymn
-knob | nob
+
 guessed | guest
 root | route
 
+
+him | hymn
+
+knit | nit[y]
+knob | nob[y]
+knead | need[y]
+knave | nave[y]
+knight | night[y]
 
 
 
