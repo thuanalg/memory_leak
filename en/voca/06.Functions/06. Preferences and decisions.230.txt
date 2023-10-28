@@ -12,7 +12,7 @@
 
 
 [-] abide		<-->	verb++C2	[231028][001]	./əˈbaɪd/-NAmE /əˈbaɪd/
-	;chịu đựng -- (1) ​[transitive] cannot/could not abide somebody/something to dislike somebody/something so much that you hate having to be with or deal with them
+	;chịu đựng -- (1) [transitive] cannot/could not abide somebody/something to dislike somebody/something so much that you hate having to be with or deal with them
 		;SYNONYM bear, stand
 		;<< bear, stand, abide, >>
 		;I can't abide people with no sense of humour.
@@ -38,7 +38,16 @@
 
 
 
-[-] a buyer’s market		<-->	idiom++C2[-0]	.
+[-] a buyer’s market		<-->	idiom++C2[0]	./i/
+	;ở chợ -- (1) a situation in which there is a lot of a particular item for sale, so that prices are low and people buying have a choice
+		;In a buyer's market, the commodity is plentiful and so its price is not high.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+
+
+[-] accountability		<-->	noun++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -47,7 +56,7 @@
 
 
 
-[-] accountability		<-->	noun++C1[-0]	.
+[-] accountable		<-->	adjective++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -56,8 +65,62 @@
 
 
 
-[-] accountable		<-->	adjective++C1[-0]	.
-	; -- (1) 
+[-] acquittal		<-->	noun++C2[0]	./əˈkwɪtl/-NAmE /əˈkwɪtl/
+[countable, uncountable]
+	;sự trắng án -- (1) an official decision in court that a person is not guilty of a crime
+		;The case resulted in an acquittal.
+		;The jury voted for acquittal.
+		;OPPOSITE conviction
+		;Collocations Criminal justice
+		;Extra Examples:
+		;The judge upheld their acquittal.
+		;The jury returned an acquittal after only 22 minutes.
+		;The trial judge had directed an acquittal.
+		;The trial resulted in an acquittal.
+				;TOPICS PREFERENCES AND DECISIONS-C2
+				;Oxford Collocations Dictionary
+				;verb + acquittal
+				;returnvote fordirect…
+		;See full entry
+
+
+
+
+
+[-] adjudge		<-->	verb++C2[0]	./əˈdʒʌdʒ/-NAmE /əˈdʒʌdʒ/
+[usually passive] (formal)
+	;xét xử, phấn xử -- (1) to make a decision about somebody/something based on the facts that are available
+		;be adjudged + adj. The company was adjudged bankrupt.
+		;[:: be adjudged]
+		;The measures have since been adjudged inadequate.
+		;be adjudged + noun The tour was adjudged a success.
+		;something is adjudged to be, have, etc. something The reforms were generally adjudged to have failed.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+		;Word Origin
+
+
+
+
+
+[-] adjudicate		<-->	verb++C2[0]	./əˈdʒuːdɪkeɪt/-NAmE /əˈdʒuːdɪkeɪt/
+	;xét xử -- (1) [intransitive, transitive] to make an official decision about who is right between two groups or organizations that disagree
+		;adjudicate (on/upon/in something) A special subcommittee adjudicates on planning applications.
+		;adjudicate (something) (between A and B) Their purpose is to adjudicate disputes between employers and employees.
+		;<< adjudicate, adjudge, >>
+		;Extra Examples:
+		;Parliament can create a specialist body to adjudicate in a given field.
+		;The court has the option to adjudicate upon the matter or suspend the proceedings.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+
+
+[-] adjudication		<-->	noun++C2[0]	./əˌdʒuːdɪˈkeɪʃn/-NAmE /əˌdʒuːdɪˈkeɪʃn/
+	;sự xét xử, phán xét -- (1) [uncountable, countable] the process of making an official decision about who is right when two groups or organizations disagree; the decision that is made
+		;The case was referred to a higher court for adjudication.
+		;The adjudication will be published tomorrow.
+		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
 
@@ -65,8 +128,10 @@
 
 
 
-[-] acquittal		<-->	noun++C2[-0]	.
-	; -- (1) 
+[-] adjudicator		<-->	noun++C2[0]	./əˈdʒuːdɪkeɪtə(r)/-NAmE /əˈdʒuːdɪkeɪtər/
+	;người xét xử, phán xét -- (1) a person who makes an official decision about who is right when two groups or organizations disagree
+		;You may refer your complaint to an independent adjudicator.
+		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
 
@@ -74,46 +139,39 @@
 
 
 
-[-] adjudge		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] adjudicate		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] adjudication		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] adjudicator		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] admiration		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] admiration		<-->	noun++C1[0]	./ˌædməˈreɪʃn/-NAmE /ˌædməˈreɪʃn/
+[uncountable]
+	;sự khâm phục -- (1) a feeling of respect for and approval of somebody/something
+		;He never lost the admiration of his students.
+		;admiration for somebody/something I have great admiration for her as a writer.
+		;in admiration to watch/gaze in admiration
+		;Extra Examples:
+		;As a writer she is certainly worthy of admiration.
+		;He gained the admiration of thousands of people.
+		;He gazed at her with admiration.
+		;I have nothing but admiration for the way she tackled those bullies.
+		;I have the greatest admiration for the nurses.
+		;I'm full of admiration for him.
+		;Inwardly, I had a sneaking admiration for them.
+		;She stared at him in open admiration.
+		;She wrote to him expressing her admiration.
+		;The picture was greeted with gasps of admiration.
+		;The way he dealt with the crisis filled me with admiration.
+		;a dignity that compels admiration
+		;admiration for his work
+		;We watched in admiration as the gymnasts practised their routines.
+		;TOPICS PREFERENCES AND DECISIONS-C1
+				;Oxford Collocations Dictionary
+				;adjective
+				;deepgenuinegreat…
+				;verb + admiration
+				;be filled withbe full offeel…
+				;preposition
+				;in admirationwith admirationadmiration  for…
+				;phrases
+				;a gasp of admirationhave nothing but admiration for somebody/​something
+		;See full entry
+		;Word Origin
 
 
 
