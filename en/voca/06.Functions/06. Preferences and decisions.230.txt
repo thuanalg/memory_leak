@@ -1,234 +1,2119 @@
-[-] a/an/the soft/easy optionidiomC2
-[-] abideverbC2
-[-] absoluteadjectiveC2
-[-] a buyer’s marketidiomC2
-[-] accountabilitynounC1
-[-] accountableadjectiveC1
-[-] acquittalnounC2
-[-] adjudgeverbC2
-[-] adjudicateverbC2
-[-] adjudicationnounC2
-[-] adjudicatornounC2
-[-] admirationnounC1
-[-] adoptionnounC1
-[-] adoreverbB2
-[-] allergicadjectiveC2
-[-] alternativenounA2
-[-] alternativelyadverbB2
-[-] an acquired tasteidiomC2
-[-] an/a/the easy/soft optionidiomC2
-[-] anathemanounC2
-[-] antipatheticadjectiveC2
-[-] antipathynounC2
-[-] appealnounB2
-[-] appealverbB2
-[-] appellantnounC2
-[-] appellate courtnounC2
-[-] avenuenounC2
-[-] averseadjectiveC2
-[-] aversionnounC2
-[-] awardnounC1
-[-] awardverbB1
-[-] bagverbC2
-[-] beggars can’t be choosersidiomC2
-[-] be spoilt for choiceidiomC1
-[-] be sweet on somebodyidiomC2
-[-] between the devil and the deep blue seaidiomC2
-[-] be your own master/mistressidiomC2
-[-] blind testnounC2
-[-] by defaultidiomC2
-[-] callnounC2
-[-] change your/somebody’s mindidiomB1
-[-] choicenounA2
-[-] chooseverbA1
-[-] clinchernounC2
-[-] come down on one side of the fence or the otheridiomC2
-[-] commitverbC1
-[-] considerverbA2
-[-] consultverbB2
-[-] consultationnounC1
-[-] contestverbB2
-[-] criterionnounB2
-[-] decideverbA1
-[-] decisionnounA2
-[-] decision-makernounB2
-[-] decision theorynounC2
-[-] decreenounC2
-[-] defaultnounC1
-[-] defaultverbC2
-[-] delegatenounC1
-[-] deliberateverbC2
-[-] despiseverbC1
-[-] determinedadjectiveB1
-[-] dilemmanounC1
-[-] disgustnounC1
-[-] dislikeverbB1
-[-] dislikenounB1
-[-] dissentnounC2
-[-] drag your feet/heelsidiomC2
-[-] eitheradverbA2
-[-] enamouredadjectiveC2
-[-] enemynounB1
-[-] faddinessnounC2
-[-] faddyadjectiveC2
-[-] favourverbB2
-[-] favouredadjectiveC2
-[-] findverbC1
-[-] find againstphrasal verbC2
-[-] find forphrasal verbC2
-[-] findingnounC2
-[-] finickyadjectiveC2
-[-] force the issueidiomC2
-[-] for your likingidiomC1
-[-] free willnounC2
-[-] frenemynounC2
-[-] give me something/somebody (any day/time)idiomC2
-[-] go beforephrasal verbC2
-[-] go forphrasal verbC2
-[-] go offphrasal verbC2
-[-] grow onphrasal verbC2
-[-] grudgenounC2
-[-] hand downphrasal verbC2
-[-] hateverbA1
-[-] hatenounB1
-[-] hate, be sick of, etc. the sight of somebody/somethingidiomC2
-[-] have againstphrasal verbC2
-[-] have a lot of time for somebody/somethingidiomC2
-[-] have a soft spot for somebody/somethingidiomC2
-[-] have a sweet toothidiomC2
-[-] have a thing about somebody/somethingidiomC2
-[-] have a think (about something)idiomC1
-[-] have no time for somebody/somethingidiomC2
-[-] have no use for somebodyidiomC2
-[-] headnounC1
-[-] heartverbC2
-[-] hedge your betsidiomC2
-[-] hem and hawidiomC2
-[-] Hobson’s choicenounC2
-[-] hum and hawidiomC2
-[-] hustleverbC2
-[-] I, etc. would sooner do something (than something else)idiomC2
-[-] incisiveadjectiveC2
-[-] inclinedadjectiveC1
-[-] inconclusiveadjectiveC1
-[-] indecisiveadjectiveC1
-[-] inflexibleadjectiveC1
-[-] in somebody’s favouridiomC2
-[-] it’s as broad as it’s longidiomC2
-[-] it’s six of one and half a dozen of the otheridiomC2
-[-] I’m easyidiomC2
-[-] joint resolutionnounC2
-[-] judgenounB1
-[-] judgementnounB2
-[-] judgement callnounC2
-[-] judicial reviewnounC2
-[-] jurisdictionnounC1
-[-] jurisdictionaladjectiveC2
-[-] keenadjectiveB1
-[-] keep/leave your options openidiomC2
-[-] leaningnounC2
-[-] lean tophrasal verbC2
-[-] lean towardphrasal verbC2
-[-] lean towardsphrasal verbC2
-[-] likeverbA1
-[-] likenounB1
-[-] list boxnounC2
-[-] loveverbA1
-[-] madadjectiveB1
-[-] majority verdictnounC2
-[-] make allowance(s) for somethingidiomC2
-[-] miscarriage of justicenounC2
-[-] misogynistnounC2
-[-] misogynisticadjectiveC2
-[-] nail downphrasal verbC2
-[-] narrow downphrasal verbC2
-[-] negotiableadjectiveC2
-[-] no-brainernounC2
-[-] not budge/give/move an inchidiomC2
-[-] on the horns of a dilemmaidiomC2
-[-] open verdictnounC2
-[-] optionnounA2
-[-] overfondadjectiveC2
-[-] overrideverbC2
-[-] overruleverbC2
-[-] overturnverbC1
-[-] partialadjectiveC2
-[-] partialitynounC2
-[-] passionnounB1
-[-] penchantnounC2
-[-] -philecombining formC2
-[-] -phobecombining formC2
-[-] pickverbA2
-[-] pick and chooseidiomC2
-[-] pick a winneridiomC2
-[-] pickyadjectiveC2
-[-] pleaseverbC1
-[-] pottyadjectiveC2
-[-] preferverbA1
-[-] preferableadjectiveC1
-[-] preferablyadverbC1
-[-] preferencenounB2
-[-] prejudicenounC1
-[-] prejudicedadjectiveC2
-[-] put offphrasal verbC1
-[-] quorateadjectiveC2
-[-] quorumnounC2
-[-] railroadverbC2
-[-] reconsiderverbC1
-[-] reconsiderationnounC2
-[-] remit tophrasal verbC2
-[-] repugnancenounC2
-[-] repulsionnounC2
-[-] resistancenounC1
-[-] resolutionnounB2
-[-] resolveverbC2
-[-] retreatnounC2
-[-] returnverbC2
-[-] reverseverbC1
-[-] rowbacknounC2
-[-] rubber-stampverbC2
-[-] rubber stampnounC2
-[-] ruleverbC1
-[-] rulingnounC1
-[-] saynounC1
-[-] settle onphrasal verbC2
-[-] sleep onphrasal verbC2
-[-] somebody’s pet hateidiomC2
-[-] somebody’s pet hateidiomC2
-[-] somebody’s pet peeveidiomC2
-[-] the RubiconnounC2
-[-] straightadjectiveC2
-[-] tailnounC1
-[-] take account of somethingidiomB2
-[-] take a chance (on something)idiomC1
-[-] take a fancy to somebody/somethingidiomC2
-[-] take againstphrasal verbC2
-[-] take a shine to somebody/somethingidiomC2
-[-] take something into considerationidiomC1
-[-] take something under advisementidiomC2
-[-] take tophrasal verbC2
-[-] tastenounB2
-[-] that’s thatidiomC2
-[-] the lesser of two evilsidiomC2
-[-] think overphrasal verbC1
-[-] think twice about something/about doing somethingidiomC1
-[-] toss-upnounC2
-[-] toughienounC2
-[-] unanimousadjectiveC2
-[-] undecidedadjectiveC1
-[-] upholdverbC1
-[-] verdictnounC1
-[-] versusprepositionC1
-[-] vetonounC2
-[-] volitionnounC2
-[-] votenounB1
-[-] voteverbB2
-[-] warm tophrasal verbC2
-[-] warm towardsphrasal verbC2
-[-] waververbC2
-[-] waverernounC2
-[-] weighverbC2
-[-] when push comes to shoveidiomC2
-[-] whetherconjunctionB1
-[-] wouldmodal verbA1
-[-] would rather… (than)idiomB2
+[-] a/an/the soft/easy option		<-->	idiom++C2	[231028][001]	./i/
+	;chọn cái dễ -- (1) (often disapproving) a choice that is thought to be easier because it involves less effort, difficulty, etc.
+		;They are anxious that the new course should not be seen as a soft option.
+		;He decided to take the easy option and give them what they wanted.
+		;She could have taken the easy option and left.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] abide		<-->	verb++C2	[231028][001]	./əˈbaɪd/-NAmE /əˈbaɪd/
+	;chịu đựng -- (1) ​[transitive] cannot/could not abide somebody/something to dislike somebody/something so much that you hate having to be with or deal with them
+		;SYNONYM bear, stand
+		;<< bear, stand, abide, >>
+		;I can't abide people with no sense of humour.
+		;He couldn't abide the thought of being cooped up in an office.
+		;I can’t abide people who look down on others.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] absolute		<-->	adjective++C2	[231028][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	;cuối cùng -- (3) (of a legal decision) final
+		;The divorce became absolute last week.
+		;SEE ALSO decree absolute
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+
+
+[-] a buyer’s market		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] accountability		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] accountable		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] acquittal		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] adjudge		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] adjudicate		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] adjudication		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] adjudicator		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] admiration		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] adoption		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] adore		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] allergic		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] alternative		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] alternatively		<-->	adverb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] an acquired taste		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] an/a/the easy/soft option		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] anathema		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] antipathetic		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] antipathy		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] appeal		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] appeal		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] appellant		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] appellate court		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] avenue		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] averse		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] aversion		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] award		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] award		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] bag		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] beggars can’t be choosers		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] be spoilt for choice		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] be sweet on somebody		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] between the devil and the deep blue sea		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] be your own master/mistress		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] blind test		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] by default		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] call		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] change your/somebody’s mind		<-->	idiom++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] choice		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] choose		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] clincher		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] come down on one side of the fence or the other		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] commit		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] consider		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] consult		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] consultation		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] contest		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] criterion		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] decide		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] decision		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] decision-maker		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] decision theory		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] decree		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] default		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] default		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] delegate		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] deliberate		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] despise		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] determined		<-->	adjective++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] dilemma		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] disgust		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] dislike		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] dislike		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] dissent		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] drag your feet/heels		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] either		<-->	adverb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] enamoured		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] enemy		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] faddiness		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] faddy		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] favour		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] favoured		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] find		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] find against		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] find for		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] finding		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] finicky		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] force the issue		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] for your liking		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] free will		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] frenemy		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] give me something/somebody (any day/time)		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] go before		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] go for		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] go off		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] grow on		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] grudge		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] hand down		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] hate		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] hate		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] hate, be sick of, etc. the sight of somebody/something		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] have against		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] have a lot of time for somebody/something		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] have a soft spot for somebody/something		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] have a sweet tooth		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] have a thing about somebody/something		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] have a think (about something)		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] have no time for somebody/something		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] have no use for somebody		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] head		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] heart		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] hedge your bets		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] hem and haw		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] Hobson’s choice		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] hum and haw		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] hustle		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] I, etc. would sooner do something (than something else)		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] incisive		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] inclined		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] inconclusive		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] indecisive		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] inflexible		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] in somebody’s favour		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] it’s as broad as it’s long		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] it’s six of one and half a dozen of the other		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] I’m easy		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] joint resolution		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] judge		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] judgement		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] judgement call		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] judicial review		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] jurisdiction		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] jurisdictional		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] keen		<-->	adjective++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] keep/leave your options open		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] leaning		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] lean to		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] lean toward		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] lean towards		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] like		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] like		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] list box		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] love		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] mad		<-->	adjective++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] majority verdict		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] make allowance(s) for something		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] miscarriage of justice		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] misogynist		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] misogynistic		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] nail down		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] narrow down		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] negotiable		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] no-brainer		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] not budge/give/move an inch		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] on the horns of a dilemma		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] open verdict		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] option		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] overfond		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] override		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] overrule		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] overturn		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] partial		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] partiality		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] passion		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] penchant		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] -philecombining formC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] -phobecombining formC2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] pick		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] pick and choose		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] pick a winner		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] picky		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] please		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] potty		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] prefer		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] preferable		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] preferably		<-->	adverb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] preference		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] prejudice		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] prejudiced		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] put off		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] quorate		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] quorum		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] railro		<-->	adverb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] reconsider		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] reconsideration		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] remit to		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] repugnance		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] repulsion		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] resistance		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] resolution		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] resolve		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] retreat		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] return		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] reverse		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] rowback		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] rubber-stamp		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] rubber stamp		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] rule		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] ruling		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] say		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] settle on		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] sleep on		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] somebody’s pet hate		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] somebody’s pet hate		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] somebody’s pet peeve		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] the Rubicon		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] straight		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] tail		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] take account of something		<-->	idiom++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] take a chance (on something)		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] take a fancy to somebody/something		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] take against		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] take a shine to somebody/something		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] take something into consideration		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] take something under advisement		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] take to		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] taste		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] that’s that		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] the lesser of two evils		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] think over		<-->	phrasal verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] think twice about something/about doing something		<-->	idiom++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] toss-up		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] toughie		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] unanimous		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] undecided		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] uphold		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] verdict		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] versusprepositionC1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] veto		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] volition		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] vote		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] vote		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] warm to		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] warm towards		<-->	phrasal verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] waver		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] waverer		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] weigh		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] when push comes to shove		<-->	idiom++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] whetherconjunctionB1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] wouldmodal 		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+[-] would rather… (than)		<-->	idiom++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
