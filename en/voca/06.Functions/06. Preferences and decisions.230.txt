@@ -10,7 +10,6 @@
 
 
 
-
 [-] abide		<-->	verb++C2	[231028][001]	./əˈbaɪd/-NAmE /əˈbaɪd/
 	;chịu đựng -- (1) [transitive] cannot/could not abide somebody/something to dislike somebody/something so much that you hate having to be with or deal with them
 		;SYNONYM bear, stand
@@ -21,7 +20,6 @@
 		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -37,8 +35,7 @@
 
 
 
-
-[-] a buyer’s market		<-->	idiom++C2[0]	./i/
+[-] a buyer’s market		<-->	idiom++C2	[231029][001]	./i/
 	;ở chợ -- (1) a situation in which there is a lot of a particular item for sale, so that prices are low and people buying have a choice
 		;In a buyer's market, the commodity is plentiful and so its price is not high.
 		;TOPICS PREFERENCES AND DECISIONS-C2
@@ -46,8 +43,7 @@
 
 
 
-
-[-] accountability		<-->	noun++C1[0]	./cef/
+[-] accountability		<-->	noun++C1	[231029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -55,8 +51,7 @@
 
 
 
-
-[-] accountable		<-->	adjective++C1[0]	./cef/
+[-] accountable		<-->	adjective++C1	[231029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -64,9 +59,7 @@
 
 
 
-
-[-] acquittal		<-->	noun++C2[0]	./əˈkwɪtl/-NAmE /əˈkwɪtl/
-[countable, uncountable]
+[-] acquittal		<-->	noun++C2	[231029][001]	./əˈkwɪtl/-NAmE /əˈkwɪtl/ [countable, uncountable]
 	;sự trắng án -- (1) an official decision in court that a person is not guilty of a crime
 		;The case resulted in an acquittal.
 		;The jury voted for acquittal.
@@ -86,9 +79,7 @@
 
 
 
-
-[-] adjudge		<-->	verb++C2[0]	./əˈdʒʌdʒ/-NAmE /əˈdʒʌdʒ/
-[usually passive] (formal)
+[-] adjudge		<-->	verb++C2	[231029][001]	./əˈdʒʌdʒ/-NAmE /əˈdʒʌdʒ/ [usually passive] (formal)
 	;xét xử, phấn xử -- (1) to make a decision about somebody/something based on the facts that are available
 		;be adjudged + adj. The company was adjudged bankrupt.
 		;[:: be adjudged]
@@ -101,8 +92,7 @@
 
 
 
-
-[-] adjudicate		<-->	verb++C2[0]	./əˈdʒuːdɪkeɪt/-NAmE /əˈdʒuːdɪkeɪt/
+[-] adjudicate		<-->	verb++C2	[231029][001]	./əˈdʒuːdɪkeɪt/-NAmE /əˈdʒuːdɪkeɪt/
 	;xét xử -- (1) [intransitive, transitive] to make an official decision about who is right between two groups or organizations that disagree
 		;adjudicate (on/upon/in something) A special subcommittee adjudicates on planning applications.
 		;adjudicate (something) (between A and B) Their purpose is to adjudicate disputes between employers and employees.
@@ -115,8 +105,7 @@
 
 
 
-
-[-] adjudication		<-->	noun++C2[0]	./əˌdʒuːdɪˈkeɪʃn/-NAmE /əˌdʒuːdɪˈkeɪʃn/
+[-] adjudication		<-->	noun++C2	[231029][001]	./əˌdʒuːdɪˈkeɪʃn/-NAmE /əˌdʒuːdɪˈkeɪʃn/
 	;sự xét xử, phán xét -- (1) [uncountable, countable] the process of making an official decision about who is right when two groups or organizations disagree; the decision that is made
 		;The case was referred to a higher court for adjudication.
 		;The adjudication will be published tomorrow.
@@ -127,8 +116,7 @@
 
 
 
-
-[-] adjudicator		<-->	noun++C2[0]	./əˈdʒuːdɪkeɪtə(r)/-NAmE /əˈdʒuːdɪkeɪtər/
+[-] adjudicator		<-->	noun++C2	[231029][001]	./əˈdʒuːdɪkeɪtə(r)/-NAmE /əˈdʒuːdɪkeɪtər/
 	;người xét xử, phán xét -- (1) a person who makes an official decision about who is right when two groups or organizations disagree
 		;You may refer your complaint to an independent adjudicator.
 		;TOPICS PREFERENCES AND DECISIONS-C2
@@ -138,9 +126,7 @@
 
 
 
-
-[-] admiration		<-->	noun++C1[0]	./ˌædməˈreɪʃn/-NAmE /ˌædməˈreɪʃn/
-[uncountable]
+[-] admiration		<-->	noun++C1	[231029][001]	./ˌædməˈreɪʃn/-NAmE /ˌædməˈreɪʃn/ [uncountable]
 	;sự khâm phục -- (1) a feeling of respect for and approval of somebody/something
 		;He never lost the admiration of his students.
 		;admiration for somebody/something I have great admiration for her as a writer.
@@ -167,17 +153,16 @@
 				;verb + admiration
 				;be filled withbe full offeel…
 				;preposition
-				;in admirationwith admirationadmiration  for…
+				;in admirationwith admirationadmiration for…
 				;phrases
-				;a gasp of admirationhave nothing but admiration for somebody/​something
+				;a gasp of admirationhave nothing but admiration for somebody/something
 		;See full entry
 		;Word Origin
 
 
 
 
-
-[-] adoption		<-->	noun++C1[-0]	.
+[-] adoption		<-->	noun++C1	[231029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -185,8 +170,36 @@
 
 
 
+[-] adore		<-->	verb++B2	[231029][001]	./əˈdɔː(r)/-NAmE /əˈdɔːr/, not used in the progressive tenses, 
+	; -- (1) 
+	;ngưỡng mộ -- (2) (informal) to like something very much
+		;adore something I simply adore his music!
+		;Don’t you just adore that dress!
+		;adore doing something She adores working with children.
+		;Synonyms like: like, be fond of somebody, adore, be devoted to somebody, care for somebody, dote on somebody
+		;<< like, be fond of somebody, adore, be devoted to somebody, care for somebody, dote on somebody >>
+				;TOPICS PREFERENCES AND DECISIONS-B2
+				;Oxford Collocations Dictionary
+				;adverb
+				;absolutelysimplyclearly…
+		;See full entry
+		;Word Origin
+	; -- (3) 
 
-[-] adore		<-->	verb++B2[-0]	.
+
+
+
+[-] allergic		<-->	adjective++C2	[231029][001]	./əˈlɜːdʒɪk/-NAmE /əˈlɜːrdʒɪk/
+	; -- (1) 
+	; -- (2) 
+	;dị ứng, căm ghét -- (3) [not before noun] allergic to something/somebody (informal, humorous) having a strong dislike of something/somebody
+		;You could see he was allergic to housework.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+
+[-] alternative		<-->	noun++A2	[231029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -194,138 +207,207 @@
 
 
 
+[-] alternatively		<-->	adverb++B2	[231029][001]	./ɔːlˈtɜːnətɪvli/-NAmE /ɔːlˈtɜːrnətɪvli/
+	;hay là, ngoài ra -- (1) used to introduce a suggestion that is a second choice or possibility
+		;The agency will make travel arrangements for you. Alternatively, you can organize your own transport.
+		;TOPICS PREFERENCES AND DECISIONS-B2, Suggestions and adviceB2
 
-[-] allergic		<-->	adjective++C2[-0]	.
+
+
+
+[-] an acquired taste		<-->	idiom++C2	[231029][001]	./i/
+	;dần quen, dần thích -- (1) a thing that you do not like much at first but gradually learn to like
+		;Abstract art is an acquired taste.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+
+[-] an/a/the easy/soft option		<-->	idiom++C2	[231029][001]	./i/
+	;chọn việc nhẹ -- (1) (often disapproving) a choice that is thought to be easier because it involves less effort, difficulty, etc.
+		;They are anxious that the new course should not be seen as an easy option.
+		;He decided to take the easy option and give them what they wanted.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+
+[-] anathema		<-->	noun++C2	[231029][001]	./əˈnæθəmə/-NAmE /əˈnæθəmə/ [uncountable, countable, usually singular] (formal)
+	;lời nguyền rủa, điều nguyền rủa -- (1) a thing or an idea that you hate because it is the opposite of what you believe
+		;Racial prejudice is (an) anathema to me.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+		;Word Origin
+
+
+
+
+[-] antipathetic		<-->	adjective++C2	[231029][001]	./ˌæntɪpəˈθetɪk/-NAmE /ˌæntɪpəˈθetɪk/ (formal)
+	;đáng nguyền rủa, ghét, có ác cảm -- (1) antipathetic (to somebody/something) feeling strong dislike for somebody/something
+		;antipathetic to change
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+
+[-] antipathy		<-->	noun++C2	[231029][001]	./ænˈtɪpəθi/-NAmE /ænˈtɪpəθi/ (formal) [uncountable, countable, usually singular] (plural antipathies)
+	;sự căm ghét, nguyền rủa, ác cảm -- (1) antipathy (between A and B) | antipathy (to/toward(s) somebody/something) a strong feeling of dislike
+		;SYNONYM hostility
+		;<< hostility, antipathy, >>
+		;personal/mutual antipathy
+		;a growing antipathy towards the idea
+		;His professional judgement was coloured by his personal antipathies.
+		;Extra Examples
+		;His antipathy towards/toward swimming dates back to childhood.
+		;There was a lot of antipathy between the two doctors.
+		;a natural antipathy for people in authority
+		;his antipathy for his boss
+		;I feel a profound antipathy to using any weapon.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+				;Oxford Collocations Dictionary
+				;adjective
+				;deepstronggrowing…
+				;verb + antipathy
+				;feelhaveexpress…
+				;preposition
+				;antipathy  betweenantipathy  forantipathy  to…
+		;See full entry
+		;Word Origin
+
+
+
+[-] appeal		<-->	noun++B2	[231029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;sự kháng cáo, phúc thẩm -- (3) [countable, uncountable] a formal request to a court or to somebody in authority for a judgement or a decision to be changed
+		;(British English) to lodge an appeal
+		;(North American English) to file an appeal
+		;(British English) an appeal court/judge
+		;(North American English) an appeals court/judge
+		;appeal against something They have launched appeals against their convictions.
+		;an appeal against the 3-match ban
+		;an appeal against a decision/sentence/order/ruling
+		;The court dismissed his appeal against the verdict.
+		;on appeal The case was upheld on appeal.
+		;The verdict was later overturned on appeal.
+		;You have the right of appeal to the Constitutional Court.
+		;Wordfinder: accuseappealcounseldefendantevidencejusticeoffencepleaprosecutiontrial
+		;Collocations Criminal justice
+		;SEE ALSO court of appeal
+		;Extra Examples:
+		;He's bringing an appeal against the size of the fine.
+		;a case currently under appeal
+		;His appeal was upheld and he was released immediately.
+		;His lawyer is considering an appeal to the Supreme Court.
+		;She won the right to make another court appeal.
+		;The court will hear the appeal on 10 June.
+		;The judge has agreed to allow his appeal.
+		;The players have been suspended pending appeal.
+		;There is a possibility of a further appeal to a higher court.
+		;They have agreed to drop the appeal.
+		;TOPICS PREFERENCES AND DECISIONS-B2, Law and justiceB2
+				;Oxford Collocations Dictionary
+				;adjective
+				;formalcourtlegal…
+				;verb + appeal
+				;bringfilelodge…
+				;appeal + verb
+				;failsucceed
+				;appeal + noun
+				;appeal courtappeals courttribunal…
+				;preposition
+				;on appealunder appealappeal  against…
+				;phrases
+				;court of appealcourt of appealsgrounds of appeal…
+		;See full entry
+	; -- 
 
 
 
 
-
-[-] alternative		<-->	noun++A2[-0]	.
+[-] appeal		<-->	verb++B2	[231029][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;kháng cáo, nộp đơn kháng cáo -- (3) 
+	; -- 
 
 
 
 
+[-] appellant		<-->	noun++C2	[231029][001]	./əˈpelənt/-NAmE /əˈpelənt/ (law)
+	;người kháng cáo -- (1) a person who appeals against a decision made in court
+		;TOPICS PREFERENCES AND DECISIONS-C2, Law and justiceC2
+		;Word Origin
 
-[-] alternatively		<-->	adverb++B2[-0]	.
+
+
+
+[-] appellate court		<-->	noun++C2	[231029][001]	./əˈpelət kɔːt/-NAmE /əˈpelət kɔːrt/ (specialist)
+	;tòa phúc thẩm -- (1) a court in which people can appeal against decisions made in other courts of law
+		;TOPICS PREFERENCES AND DECISIONS-C2, Law and justiceC2
+
+
+
+
+[-] avenue		<-->	noun++C2	[231029][001]	./ˈævənjuː/-NAmE /ˈævənuː/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;con đường, -- (3) a choice or way of making progress towards something
+		;Several avenues are open to us.
+		;We will explore every avenue until we find an answer.
+		;He saw bankruptcy as the only avenue left open to him.
+		;Extra Examples:
+		;We will need to seek other avenues of growth.
+		;an avenue to success
+		;the two main avenues of enquiry
+		;to provide a new avenue for research
+		;TOPICS PREFERENCES AND DECISIONS-C2
+				;Oxford Collocations Dictionary
+				;adjective
+				;possiblepotentialpromising…
+				;verb + avenue
+				;explorepursuetry…
+				;avenue + verb
+				;be open to somebody
+				;preposition
+				;avenue  foravenue  ofavenue  to…
+		;See full entry
+		;Word Origin
 
 
 
 
-
-[-] an acquired taste		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] an/a/the easy/soft option		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] averse		<-->	adjective++C2	[231029][001]	./əˈvɜːs/-NAmE /əˈvɜːrs/ [not before noun]
+	;ác cảm, phản đổi -- (1) not averse to (doing) something liking something or wanting to do something; not opposed to doing something
+		;I mentioned it to Kate and she wasn't averse to the idea.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+	;ghét -- (2) averse to (doing) something (formal) not liking something or wanting to do something; opposed to doing something
+		;He was averse to any change.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+		;Word Origin
 
 
 
 
-
-[-] anathema		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] antipathetic		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] antipathy		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] appeal		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] appeal		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] appellant		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] appellate court		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] avenue		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] averse		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-[-] aversion		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
+[-] aversion		<-->	noun++C2	[231029][001]	./əˈvɜːʃn/-NAmE /əˈvɜːrʒn/ [countable, uncountable]
+	;ác cảm -- (1) a strong feeling of not liking somebody/something
+		;a strong aversion
+		;aversion to somebody/something He had an aversion to getting up early.
+		;Extra Examples:
+		;People can be helped to overcome their aversion to snakes.
+		;He felt an overwhelming sense of aversion towards the young man standing before him.
+		;She has a deep-rooted aversion to dogs, almost amounting to a phobia.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+				;Oxford Collocations Dictionary
+				;adjective
+				;strongnaturalpathological…
+				;verb + aversion
+				;havedevelopovercome…
+				;aversion + noun
+				;therapy
+				;preposition
+				;aversion  to
+		;See full entry
+		;Word Origin
 
 
 
@@ -338,12 +420,10 @@
 
 
 
-
 [-] award		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -356,12 +436,10 @@
 
 
 
-
 [-] beggars can’t be choosers		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -374,12 +452,10 @@
 
 
 
-
 [-] be sweet on somebody		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -392,12 +468,10 @@
 
 
 
-
 [-] be your own master/mistress		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -410,12 +484,10 @@
 
 
 
-
 [-] by default		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -428,12 +500,10 @@
 
 
 
-
 [-] change your/somebody’s mind		<-->	idiom++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -446,12 +516,10 @@
 
 
 
-
 [-] choose		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -464,12 +532,10 @@
 
 
 
-
 [-] come down on one side of the fence or the other		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -482,12 +548,10 @@
 
 
 
-
 [-] consider		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -500,12 +564,10 @@
 
 
 
-
 [-] consultation		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -518,12 +580,10 @@
 
 
 
-
 [-] criterion		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -536,12 +596,10 @@
 
 
 
-
 [-] decision		<-->	noun++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -554,12 +612,10 @@
 
 
 
-
 [-] decision theory		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -572,12 +628,10 @@
 
 
 
-
 [-] default		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -590,12 +644,10 @@
 
 
 
-
 [-] delegate		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -608,12 +660,10 @@
 
 
 
-
 [-] despise		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -626,12 +676,10 @@
 
 
 
-
 [-] dilemma		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -644,12 +692,10 @@
 
 
 
-
 [-] dislike		<-->	verb++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -662,12 +708,10 @@
 
 
 
-
 [-] dissent		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -680,12 +724,10 @@
 
 
 
-
 [-] either		<-->	adverb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -698,12 +740,10 @@
 
 
 
-
 [-] enemy		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -716,12 +756,10 @@
 
 
 
-
 [-] faddy		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -734,12 +772,10 @@
 
 
 
-
 [-] favoured		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -752,12 +788,10 @@
 
 
 
-
 [-] find against		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -770,12 +804,10 @@
 
 
 
-
 [-] finding		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -788,12 +820,10 @@
 
 
 
-
 [-] force the issue		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -806,12 +836,10 @@
 
 
 
-
 [-] free will		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -824,12 +852,10 @@
 
 
 
-
 [-] give me something/somebody (any day/time)		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -842,12 +868,10 @@
 
 
 
-
 [-] go for		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -860,12 +884,10 @@
 
 
 
-
 [-] grow on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -878,12 +900,10 @@
 
 
 
-
 [-] hand down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -896,12 +916,10 @@
 
 
 
-
 [-] hate		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -914,12 +932,10 @@
 
 
 
-
 [-] have against		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -932,12 +948,10 @@
 
 
 
-
 [-] have a soft spot for somebody/something		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -950,12 +964,10 @@
 
 
 
-
 [-] have a thing about somebody/something		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -968,12 +980,10 @@
 
 
 
-
 [-] have no time for somebody/something		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -986,12 +996,10 @@
 
 
 
-
 [-] head		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1004,12 +1012,10 @@
 
 
 
-
 [-] hedge your bets		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1022,12 +1028,10 @@
 
 
 
-
 [-] Hobson’s choice		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1040,12 +1044,10 @@
 
 
 
-
 [-] hustle		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1058,12 +1060,10 @@
 
 
 
-
 [-] incisive		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1076,12 +1076,10 @@
 
 
 
-
 [-] inconclusive		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1094,12 +1092,10 @@
 
 
 
-
 [-] inflexible		<-->	adjective++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1112,12 +1108,10 @@
 
 
 
-
 [-] it’s as broad as it’s long		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1130,12 +1124,10 @@
 
 
 
-
 [-] I’m easy		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1148,12 +1140,10 @@
 
 
 
-
 [-] judge		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1166,12 +1156,10 @@
 
 
 
-
 [-] judgement call		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1184,12 +1172,10 @@
 
 
 
-
 [-] jurisdiction		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1202,12 +1188,10 @@
 
 
 
-
 [-] keen		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1220,12 +1204,10 @@
 
 
 
-
 [-] leaning		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1238,12 +1220,10 @@
 
 
 
-
 [-] lean toward		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1256,12 +1236,10 @@
 
 
 
-
 [-] like		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1274,12 +1252,10 @@
 
 
 
-
 [-] list box		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1292,12 +1268,10 @@
 
 
 
-
 [-] mad		<-->	adjective++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1310,12 +1284,10 @@
 
 
 
-
 [-] make allowance(s) for something		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1328,12 +1300,10 @@
 
 
 
-
 [-] misogynist		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1346,12 +1316,10 @@
 
 
 
-
 [-] nail down		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1364,12 +1332,10 @@
 
 
 
-
 [-] negotiable		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1382,12 +1348,10 @@
 
 
 
-
 [-] not budge/give/move an inch		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1400,12 +1364,10 @@
 
 
 
-
 [-] open verdict		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1418,12 +1380,10 @@
 
 
 
-
 [-] overfond		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1436,12 +1396,10 @@
 
 
 
-
 [-] overrule		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1454,12 +1412,10 @@
 
 
 
-
 [-] partial		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1472,12 +1428,10 @@
 
 
 
-
 [-] passion		<-->	noun++B1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1490,12 +1444,10 @@
 
 
 
-
 [-] -philecombining formC2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1508,12 +1460,10 @@
 
 
 
-
 [-] pick		<-->	verb++A2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1526,12 +1476,10 @@
 
 
 
-
 [-] pick a winner		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1544,12 +1492,10 @@
 
 
 
-
 [-] please		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1562,12 +1508,10 @@
 
 
 
-
 [-] prefer		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1580,12 +1524,10 @@
 
 
 
-
 [-] preferably		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1598,12 +1540,10 @@
 
 
 
-
 [-] prejudice		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1616,12 +1556,10 @@
 
 
 
-
 [-] put off		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1634,12 +1572,10 @@
 
 
 
-
 [-] quorum		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1652,12 +1588,10 @@
 
 
 
-
 [-] reconsider		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1670,12 +1604,10 @@
 
 
 
-
 [-] remit to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1688,12 +1620,10 @@
 
 
 
-
 [-] repulsion		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1706,12 +1636,10 @@
 
 
 
-
 [-] resolution		<-->	noun++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1724,12 +1652,10 @@
 
 
 
-
 [-] retreat		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1742,12 +1668,10 @@
 
 
 
-
 [-] reverse		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1760,12 +1684,10 @@
 
 
 
-
 [-] rubber-stamp		<-->	verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1778,12 +1700,10 @@
 
 
 
-
 [-] rule		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1796,12 +1716,10 @@
 
 
 
-
 [-] say		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1814,7 +1732,6 @@
 
 
 
-
 [-] sleep on		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
@@ -1823,7 +1740,6 @@
 
 
 
-
 [-] somebody’s pet hate		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
@@ -1832,12 +1748,10 @@
 
 
 
-
 [-] somebody’s pet hate		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1850,12 +1764,10 @@
 
 
 
-
 [-] the Rubicon		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1868,12 +1780,10 @@
 
 
 
-
 [-] tail		<-->	noun++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1886,12 +1796,10 @@
 
 
 
-
 [-] take a chance (on something)		<-->	idiom++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1904,12 +1812,10 @@
 
 
 
-
 [-] take against		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1922,12 +1828,10 @@
 
 
 
-
 [-] take something into consideration		<-->	idiom++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1940,12 +1844,10 @@
 
 
 
-
 [-] take to		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1958,12 +1860,10 @@
 
 
 
-
 [-] that’s that		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1976,12 +1876,10 @@
 
 
 
-
 [-] think over		<-->	phrasal verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -1994,12 +1892,10 @@
 
 
 
-
 [-] toss-up		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -2012,12 +1908,10 @@
 
 
 
-
 [-] unanimous		<-->	adjective++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -2030,12 +1924,10 @@
 
 
 
-
 [-] uphold		<-->	verb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -2048,12 +1940,10 @@
 
 
 
-
 [-] versusprepositionC1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -2066,12 +1956,10 @@
 
 
 
-
 [-] volition		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -2084,12 +1972,10 @@
 
 
 
-
 [-] vote		<-->	verb++B2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -2102,12 +1988,10 @@
 
 
 
-
 [-] warm towards		<-->	phrasal verb++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -2120,12 +2004,10 @@
 
 
 
-
 [-] waverer		<-->	noun++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -2138,12 +2020,10 @@
 
 
 
-
 [-] when push comes to shove		<-->	idiom++C2[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
@@ -2156,12 +2036,10 @@
 
 
 
-
 [-] wouldmodal 		<-->	verb++A1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-
 
 
 
