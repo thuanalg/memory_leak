@@ -412,15 +412,18 @@
 
 
 
-[-] award		<-->	noun++C1[-0]	.
+[-] award		<-->	noun++C1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;quyết định giao st cho sb -- [A2-C1] (4) [uncoountable] the official decision to give something to somebody
+		;Satisfactory completion of the course will lead to the award of the Diploma of Social Work.
+		;The court must specify the different elements in its award of compensation.
+		;TOPICS Preferences and decisionsC1, EducationC1
 
 
 
 
-[-] award		<-->	verb++B1[-0]	.
+[-] award		<-->	verb++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 

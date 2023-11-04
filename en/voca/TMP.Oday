@@ -4,7 +4,7 @@
 	Học hành: https://www.youtube.com/watch?v=IoghpKkegEI
 
 
-[-] start off		<-->	p.verb++[--0]	./p/
+[-] start off		<-->	p.verb++[0]	./p/
 	;bắt đầu -- (1) to begin to move
 		;The horse started off at a steady trot.
 	; -- (2) 
@@ -16,8 +16,7 @@
 
 
 
-[-] ticket		<-->	verb++[--0]	./ˈtɪkɪt/
- /ˈtɪkɪt/
+[-] ticket		<-->	verb++[0]	./ˈtɪkɪt/-NAmE /ˈtɪkɪt/
 [usually passive] [lm.p.110]
 	;bán vé -- (1) (specialist) to produce and sell tickets for an event, a trip, etc.; to give somebody a ticket
 		;be ticketed Passengers can now be ticketed electronically.
@@ -29,8 +28,7 @@
 
 
 
-[-] adage		<-->	n++[--0]	./ˈædɪdʒ/
- /ˈædɪdʒ/ [lm.p.112]
+[-] adage		<-->	n++[0]	./ˈædɪdʒ/-NAmE /ˈædɪdʒ/ [lm.p.112]
 	;ngạn ngữ -- (1) a well-known phrase expressing a general truth about people or the world
 		;SYNONYM saying
 		;According to the old adage, a picture is worth a thousand words.
@@ -41,8 +39,75 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
+[-] hedge		<-->	verb++[0]	./hedʒ/-NAmE /hedʒ/
+	;đề phòng -- (1) [intransitive] to avoid giving a direct answer to a question or promising to support a particular idea, etc.
+		;Just answer ‘yes’ or ‘no’—and stop hedging.
+	;xây rào -- (2) [transitive] hedge something to put a hedge around a field, etc.
+	;phòng vệ -- (3) [transitive, usually passive] (formal) to surround or limit somebody/something
+		;be hedged (with something) His religious belief was always hedged with doubt.
+		;be hedged around (with something) Their offer was hedged around with all sorts of conditions.
+
+
+
+
+
+[-] riddle		<-->	n++[0]	./ˈrɪdl/-NAmE /ˈrɪdl/
+	;Câu đố -- (1) a question that is difficult to understand, and that has a surprising answer, that you ask somebody as a game
+		;Stop talking in riddles (= saying things that are confusing)—say what you mean.
+		;Bilbo solves the riddle that unlocks the door to the mountain.
+		;TOPICS Games and toysC1
+	; -- (2) a mysterious event or situation that you cannot explain
+		;SYNONYM mystery
+		;the riddle of how the baby died
+		;The riddle of his identity was only solved when his brother saw him on TV.
+		;Word Origin
+
+
+
+
+
+[-] secede		<-->	verb++[0]	./sɪˈsiːd/-NAmE /sɪˈsiːd/
+[intransitive] (formal)
+	;ly khai -- (1) secede (from something) (of a state, country, etc.) to officially leave a larger state or organization of states and become independent
+		;The Republic of Panama seceded from Colombia in 1903.
+		;Word Origin
+
+
+
+
+
+[-] credential		<-->	verb++[0]	./krəˈdenʃl/-NAmE /krəˈdenʃl/
+[usually passive] (North American English) [sec]
+	;chứng thực -- (1) be credentialed to be provided with credentials
+		;Faculty members needed to be properly credentialed in their respective disciplines.
+		;Word Origin
+
+
+
+
+
+[-] credentials		<-->	n++[0]	./krəˈdenʃlz/-NAmE /krəˈdenʃlz/
+[plural][sec]
+	;chứng chỉ -- (1) credentials (as/for something) the qualities, training or experience that make you suitable to do something
+		;She has impeccable credentials as a researcher.
+		;He has all the credentials for the job.
+		;She will first have to establish her leadership credentials.
+		;Extra Examples:
+		;City established their championship credentials with a 6–0 win.
+		;First, he had to establish his credentials as a researcher.
+		;He has perfect credentials to make an officer.
+		;Rush questioned his credentials to lead the group.
+		;She always had the right credentials to make it in the world of country music.
+		;She had excellent credentials for the job.
+		;They had already established their credentials as architects with office buildings.
+				;Oxford Collocations Dictionary
+				;adjective
+				;excellentgoodimpeccable…
+				;verb + credentials
+				;haveearnestablish…
+				;preposition
+				;credentials  ascredentials  for
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -52,67 +117,22 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] shim		<-->	verb++[0]	./ʃɪm/-NAmE /ʃɪm/
+(North American English) [sec]
+	;chêm -- (1) a thin piece of wood, rubber, metal, etc. which is thicker at one end than the other, that you use to fill a space between two things that do not fit well together
 
 
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] whaling		<-->	n++[0]	./ˈweɪlɪŋ/-NAmE /ˈweɪlɪŋ/
+[uncountable] [sec]
+	;việc/nghề săn cá voi -- (1) the activity or business of hunting and killing whales
+		;a ban on whaling
+				;Oxford Collocations Dictionary
+				;Whaling is used before these nouns:
+				;fleetship
+		;See full entry
 
 
 
