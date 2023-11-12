@@ -412,7 +412,7 @@
 
 
 
-[-] award		<-->	noun++C1[0]	./cef/
+[-] award		<-->	noun++C1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	;quyết định giao st cho sb -- [A2-C1] (4) [uncoountable] the official decision to give something to somebody
@@ -423,7 +423,7 @@
 
 
 
-[-] award		<-->	verb++B1[0]	./cef/
+[-] award		<-->	verb++B1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -431,7 +431,7 @@
 
 
 
-[-] bag		<-->	verb++C2[0]	./bæɡ/-NAmE /bæɡ/
+[-] bag		<-->	verb++C2	[231112][001]	./bæɡ/-NAmE /bæɡ/
 	; -- (1) 
 	; -- (2) 
 	;hủy bỏ, từ bỏ, bỏ cuộc -- (6) [-decide not to do something] bag something (North American English, informal) to decide not to do something because you think it will not be successful or because you think it will be better to do it later
@@ -445,7 +445,7 @@
 
 
 
-[-] beggars can’t be choosers		<-->	idiom++C2[0]	./i/
+[-] beggars can’t be choosers		<-->	idiom++C2	[231112][001]	./i/
 	;bạn không có sự lựa chọn -- (1) (saying) people say beggars can’t be choosers when there is no choice and somebody must be satisfied with what is available
 		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
@@ -454,7 +454,7 @@
 
 
 
-[-] be spoilt for choice		<-->	idiom++C1[0]	./i/
+[-] be spoilt for choice		<-->	idiom++C1	[231112][001]	./i/
 	;cái nào cũng khó -- (1) (British English) to have such a lot of things to choose from that it is very difficult to make a decision
 		;TOPICS PREFERENCES AND DECISIONS-C1
 	; -- (2) 
@@ -463,7 +463,7 @@
 
 
 
-[-] be sweet on somebody		<-->	idiom++C2[0]	./i/
+[-] be sweet on somebody		<-->	idiom++C2	[231112][001]	./i/
 	;yêu say đắm, fall in love -- (1) (old-fashioned, informal) to like somebody very much in a romantic way
 		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
@@ -472,7 +472,7 @@
 
 
 
-[-] between the devil and the deep blue sea		<-->	idiom++C2[0]	./i/
+[-] between the devil and the deep blue sea		<-->	idiom++C2	[231112][001]	./i/
 	;trước sau đều khó -- (1) in a difficult situation where there are two equally unpleasant or unacceptable choices
 		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
@@ -481,7 +481,7 @@
 
 
 
-[-] be your own master/mistress		<-->	idiom++C2[0]	./i/
+[-] be your own master/mistress		<-->	idiom++C2	[231112][001]	./i/
 	;tùy ý bạn, up to you -- (1) to be free to make your own decisions rather than being told what to do by somebody else
 		;TOPICS Preferences and decisionsC2
 	; -- (2) 
@@ -490,7 +490,7 @@
 
 
 
-[-] blind test		<-->	noun++C2[0]	./ˌblaɪnd ˈtest/-NAmE /ˌblaɪnd ˈtest/
+[-] blind test		<-->	noun++C2	[231112][001]	./ˌblaɪnd ˈtest/-NAmE /ˌblaɪnd ˈtest/
 	;theo cách chung -- (1) a way of deciding which product out of a number of competing products is the best or most popular, or how a new product compares with others. People are asked to try the different products and to say which ones they prefer, but they are not told the names of the products.
 		;In blind tests, consumers chose our cola over more established brands.
 		;TOPICS Preferences and decisionsC2
@@ -498,7 +498,7 @@
 
 
 
-[-] by default		<-->	idiom++C2[0]	./i/
+[-] by default		<-->	idiom++C2	[231112][001]	./i/
 	; -- (1) a game or competition can be won by default if there are no other people, teams, etc. taking part
 		;He became world champion in 2007 by default.
 	;theo tự nhiên -- (2) if something happens by default, it happens because you have not made any other decision or choices that would make things happen in a different way
@@ -509,7 +509,7 @@
 
 
 
-[-] call		<-->	noun++C2[0]	./cef/
+[-] call		<-->	noun++C2	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -517,7 +517,7 @@
 
 
 
-[-] change your/somebody’s mind		<-->	idiom++B1[0]	./i/
+[-] change your/somebody’s mind		<-->	idiom++B1	[231112][001]	./i/
 	;hãy thay đổi chính mình -- (1) to change a decision or an opinion
 		;Nothing will make me change my mind.
 		;What made you change your mind?
@@ -528,7 +528,7 @@
 
 
 
-[-] choice		<-->	noun++A2[0]	./cef/
+[-] choice		<-->	noun++A2	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -536,7 +536,7 @@
 
 
 
-[-] choose		<-->	verb++A1[0]	./cef/
+[-] choose		<-->	verb++A1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -544,7 +544,7 @@
 
 
 
-[-] clincher		<-->	noun++C2[0]	./ˈklɪntʃə(r)/-NAmE /ˈklɪntʃər/
+[-] clincher		<-->	noun++C2	[231112][001]	./ˈklɪntʃə(r)/-NAmE /ˈklɪntʃər/
 [usually singular] (informal)
 	;móc sắt, nói móc họng -- (1) a fact, a remark or an event that settles an argument, a decision or a competition
 		;There was a lot of circumstantial evidence but they still needed a clincher, something cast iron that would carry a conviction.
@@ -554,7 +554,7 @@
 
 
 
-[-] come down on one side of the fence or the other		<-->	idiom++C2[0]	./i/
+[-] come down on one side of the fence or the other		<-->	idiom++C2	[231112][001]	./i/
 	;đứng giữa, trung lập -- (1) to choose between two possible choices
 		;TOPICS Preferences and decisionsC2
 	; -- (2) 
@@ -563,7 +563,7 @@
 
 
 
-[-] commit		<-->	verb++C1[0]	./cef/
+[-] commit		<-->	verb++C1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -571,7 +571,7 @@
 
 
 
-[-] consider		<-->	verb++A2[0]	./cef/
+[-] consider		<-->	verb++A2	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -579,7 +579,7 @@
 
 
 
-[-] consult		<-->	verb++B2[0]	./cef/
+[-] consult		<-->	verb++B2	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -587,7 +587,7 @@
 
 
 
-[-] consultation		<-->	noun++C1[-0]	./cef/
+[-] consultation		<-->	noun++C1	[231112][001]	./cef/
 	;sự tham vấn -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -595,7 +595,7 @@
 
 
 
-[-] contest		<-->	verb++B2[-0]	./cef/
+[-] contest		<-->	verb++B2	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -603,7 +603,7 @@
 
 
 
-[-] criterion		<-->	noun++B2[-0]	./cef/
+[-] criterion		<-->	noun++B2	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -611,7 +611,7 @@
 
 
 
-[-] decide		<-->	verb++A1[-0]	./cef/
+[-] decide		<-->	verb++A1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -619,7 +619,7 @@
 
 
 
-[-] decision		<-->	noun++A2[-0]	./cef/
+[-] decision		<-->	noun++A2	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -627,7 +627,7 @@
 
 
 
-[-] decision-maker		<-->	noun++B2[-0]	./dɪˈsɪʒn meɪkə(r)/
+[-] decision-maker		<-->	noun++B2	[231112][001]	./dɪˈsɪʒn meɪkə(r)/
  /dɪˈsɪʒn meɪkər/
 	;nhà  ra quyết định -- (1) a person who makes important decisions
 		;Mary is the decision-maker in the house.
@@ -637,7 +637,7 @@
 
 
 
-[-] decision theory		<-->	noun++C2[-0]	./dɪˈsɪʒn θɪəri/
+[-] decision theory		<-->	noun++C2	[231112][001]	./dɪˈsɪʒn θɪəri/
  /dɪˈsɪʒn θiːəri/,  /dɪˈsɪʒn θɪri/
 [uncountable] (mathematics)
 	;lý thuyết ra quyết định -- (1) the study of making the best decision according to what you calculate you will lose or gain from each choice
@@ -646,7 +646,7 @@
 
 
 
-[-] decree		<-->	noun++C2[-0]	./dɪˈkriː/
+[-] decree		<-->	noun++C2	[231112][001]	./dɪˈkriː/
  /dɪˈkriː/
 	; -- (1) 
 	;án lệnh -- (2) [countable] a decision that is made in court
@@ -666,7 +666,7 @@
 
 
 
-[-] default		<-->	noun++C1[-0]	./cef/
+[-] default		<-->	noun++C1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -674,7 +674,7 @@
 
 
 
-[-] default		<-->	verb++C2[-0]	./dɪˈfɔːlt/
+[-] default		<-->	verb++C2	[231112][001]	./dɪˈfɔːlt/
  /dɪˈfɔːlt/
 	; -- (1) 
 	;mặc định -- (2) ​[intransitive] default (to something) to happen when you do not make any other choice or change
@@ -685,7 +685,7 @@
 
 
 
-[-] delegate		<-->	noun++C1[-0]	./cef/
+[-] delegate		<-->	noun++C1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -693,7 +693,7 @@
 
 
 
-[-] deliberate		<-->	verb++C2[-0]	./dɪˈlɪbəreɪt/
+[-] deliberate		<-->	verb++C2	[231112][001]	./dɪˈlɪbəreɪt/
  /dɪˈlɪbəreɪt/
 [intransitive, transitive] (formal)
 	;xem xét, cân nhắc -- (1) to consider something very carefully, usually before making a decision
@@ -712,7 +712,7 @@
 
 
 
-[-] despise		<-->	verb++C1[-0]	./dɪˈspaɪz/
+[-] despise		<-->	verb++C1	[231112][001]	./dɪˈspaɪz/
  /dɪˈspaɪz/, not used in the progressive tenses
 	;ghét -- (1) to dislike and have no respect for somebody/something
 		;despise somebody/something She despised gossip in any form.
@@ -733,7 +733,7 @@
 
 
 
-[-] determined		<-->	adjective++B1[-0]	./cef/
+[-] determined		<-->	adjective++B1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -741,7 +741,7 @@
 
 
 
-[-] dilemma		<-->	noun++C1[-0]	./cef/
+[-] dilemma		<-->	noun++C1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -749,7 +749,7 @@
 
 
 
-[-] disgust		<-->	noun++C1[-0]	./d/
+[-] disgust		<-->	noun++C1	[231112][001]	./d/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -757,7 +757,7 @@
 
 
 
-[-] dislike		<-->	verb++B1[-0]	./d/
+[-] dislike		<-->	verb++B1	[231112][001]	./d/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -765,7 +765,7 @@
 
 
 
-[-] dislike		<-->	noun++B1[-0]	./d/
+[-] dislike		<-->	noun++B1	[231112][001]	./d/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -773,7 +773,7 @@
 
 
 
-[-] dissent		<-->	noun++C2[-0]	./dɪˈsent/
+[-] dissent		<-->	noun++C2	[231112][001]	./dɪˈsent/
  /dɪˈsent/  formal)
 	;sự bất đồng -- (1) [uncountable] the fact of having or expressing opinions that are different from those that are officially accepted
 		;political/religious dissent
@@ -809,7 +809,7 @@
 
 
 
-[-] drag your feet/heels		<-->	idiom++C2[-0]	./i/
+[-] drag your feet/heels		<-->	idiom++C2	[231112][001]	./i/
 	;trì hoãn -- (1) to be deliberately slow in doing something or in making a decision
 		;RELATED NOUN foot-dragging
 		;TOPICS Preferences and decisionsC2
@@ -819,7 +819,7 @@
 
 
 
-[-] either		<-->	adverb++A2[-0]	./cef/
+[-] either		<-->	adverb++A2	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -827,7 +827,7 @@
 
 
 
-[-] enamoured		<-->	adjective++C2[-0]	./ɪˈnæməd/
+[-] enamoured		<-->	adjective++C2	[231112][001]	./ɪˈnæməd/
  /ɪˈnæmərd/  US English enamored)
 	;say mê -- (1) (formal)  often in negative sentences) liking something a lot
 		;enamoured of something He was less than enamoured of the music.
@@ -839,7 +839,7 @@
 
 
 
-[-] enemy		<-->	noun++B1[-0]	./cef/
+[-] enemy		<-->	noun++B1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -847,7 +847,7 @@
 
 
 
-[-] faddiness		<-->	noun++C2[-0]	./ˈfædinəs/
+[-] faddiness		<-->	noun++C2	[231112][001]	./ˈfædinəs/
  /ˈfædinəs/
 [uncountable] (British English, informal, disapproving)
 	;sự theo mode -- (1) the fact of liking some things and not others, especially food, in a way that other people think is unreasonable
@@ -856,7 +856,7 @@
 
 
 
-[-] faddy		<-->	adjective++C2[-0]	./ˈfædi/
+[-] faddy		<-->	adjective++C2	[231112][001]	./ˈfædi/
  /ˈfædi/  British English, informal, disapproving)
 	;theo mode, đu trend -- (1) liking some things and not others, especially food, in a way that other people think is unreasonable
 		;a faddy eater
@@ -866,7 +866,7 @@
 
 
 
-[-] favour		<-->	verb++B2[-0]	.
+[-] favour		<-->	verb++B2	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -874,42 +874,65 @@
 
 
 
-[-] favoured		<-->	adjective++C2[-0]	.
+[-] favoured		<-->	adjective++C2	[231112][001]	./ˈfeɪvəd/
+ /ˈfeɪvərd/
+(US English favored)
+	; -- (1) treated in a special way or receiving special help or advantages in a way that may seem unfair
+		;a member of the President’s favoured circle of advisers
+	;được yêu thích -- (2) ​preferred by most people
+		;the favoured candidate
+		;TOPICS Preferences and decisionsC2
+	; -- (3) (formal) particularly pleasant and worth having
+		;Their house is in a very favoured position near the park.
+
+
+
+
+[-] find		<-->	verb++C1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;phán quyết -- (11) [A2-C1] (11) [-in court] [transitive, intraansitive] (formal) to make a particular decision in a court case [t]
+		;find somebody + adj. The jury found him guilty.
+		;[a: find]
+		;How do you find the accused?
+		;find in somebody’s favour The court found in her favour.
+		;TOPICS Law and justiceC1, Preferences and decisionsC1
 
 
 
 
-[-] find		<-->	verb++C1[-0]	.
+[-] find against		<-->	phrasal verb++C2	[231112][001]	./p/
+	;phán quyết chống lại -- (1) [-find against somebody] [no passive] (law) to make a decision against somebody in a court case
+		;The jury found against the defendant.
+		;TOPICS Law and justiceC2, Preferences and decisionsC2
+
+
+
+
+[-] find for		<-->	phrasal verb++C2	[231112][001]	./p/
+	;phán quyết có lợi -- (1) [-find for somebody] [no passive] (law) to make a decision in favour of somebody in a court case
+		;The jury found for the defendant.
+		;TOPICS Law and justiceC2, Preferences and decisionsC2
+
+
+
+
+[-] finding		<-->	noun++C2	[231112][001]	./cef/
 	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] find against		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] find for		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-[-] finding		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;một phán quyết, kết luận -- [B2-C2] (2) (law) a decision made by the judge or jury in a court case
+		;The appeal court upheld a finding that the agreement was unlawful.
+		;The court made a finding in favour of the defendant.
+		;Extra Examples:
+		;a finding against him by the Independent Commission Against Corruption
+		;The facts of this case do not justify a finding of negligence.
+		;SEE ALSO fact-finding, fault-finding
+		;TOPICS Law and justiceC2, Preferences and decisionsC2
+			;Oxford Collocations Dictionary
+				;erb + finding
+				;makejustifyuphold…
+			;preposition
+				;finding againstfinding in favour/favor of
+		;See full entry
 
 
 
