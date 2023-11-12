@@ -574,7 +574,7 @@
 
 
 [-] decision-maker		<-->	noun++B2	[231112][001]	./dɪˈsɪʒn meɪkə(r)/-NAmE /dɪˈsɪʒn meɪkər/
-	;nhà  ra quyết định -- (1) a person who makes important decisions
+	;nhà ra quyết định -- (1) a person who makes important decisions
 		;Mary is the decision-maker in the house.
 		;the role of retailers as decision-makers
 		;TOPICS PREFERENCES AND DECISIONS-B2
@@ -842,66 +842,92 @@
 
 
 
-[-] finicky		<-->	adjective++C2[-0]	.
-	; -- (1) 
+[-] finicky		<-->	adjective++C2	[231112][001]	./ˈfɪnɪki/
+ /ˈfɪnɪki/
+	;khó tính -- (1) ​(disapproving) too worried about what you eat, wear, etc.; disliking many things
+		;SYNONYM fussy
+		;a finicky eater
+		;TOPICS Preferences and decisionsC2
 	; -- (2) 
 	; -- (3) 
 
 
 
 [-] force the issue		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;bắt buộc -- (1) to do something to make people take a decision quickly
+		;TOPICS Preferences and decisionsC2
 
 
 
 [-] for your liking		<-->	idiom++C1[-0]	.
-	; -- (1) 
+	;như sỡ thích -- (1) if you say, for example, that something is too hot for your liking, you mean that you would prefer it to be less hot
+		;The town was too crowded for my liking.
+		;The weather was too hot for their liking.
+		;TOPICS Preferences and decisionsC1
+
+
+
+[-] free will		<-->	noun++C2	[231112][001]	./ˌfriː ˈwɪl/
+ /ˌfriː ˈwɪl/
+[uncountable]
+	;ý chí tự do -- (1) the power to make your own decisions about what to do, without being controlled by God, fate or circumstances
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] frenemy		<-->	noun++C2	[231112][001]	./ˈfrenəmi/
+ /ˈfrenəmi/
+(plural frenemies)
+	;vấn đề phải chấp nhận -- (1) a person or organization that you are friends with because it is useful or necessary to be their friend, even though you really dislike or disagree with them
+		;The internet giant is seen by many as a frenemy, a company they cannot afford not to work with.
+		;TOPICS Preferences and decisionsC2, Opinion and argumentC2
+
+
+
+[-] give me something/somebody (any day/time)		<-->	idiom++C2	[231112][001]	./i/
+	;hãy cho tôi -- (1) (informal) used to say that you prefer a particular thing or person to the one that has just been mentioned
+		;We don't go out much. Give me a quiet night in front of the TV any day!
+		;TOPICS Preferences and decisionsC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] free will		<-->	noun++C2[-0]	.
+[-] go before		<-->	phrasal verb++C2	[231112][001]	./p/
 	; -- (1) 
-	; -- (2) 
+	;trình bày trước -- (2) [-] to be presented to somebody/something for discussion, decision or judgement
+		;My application goes before the planning committee next week.
+		;TOPICS Preferences and decisionsC2
 	; -- (3) 
 
 
 
-[-] frenemy		<-->	noun++C2[-0]	.
+[-] go for		<-->	phrasal verb++C2	[231112][001]	./p/
 	; -- (1) 
 	; -- (2) 
-	; -- (3) 
+	;thích -- (3)[-go for somebody/something] (informal) to be attracted by somebody/something; to like or prefer somebody/something
+		;She goes for tall slim men.
+		;I don't really go for modern art.
+		;TOPICS Preferences and decisionsC2
 
 
 
-[-] give me something/somebody (any day/time)		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] go before		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] go for		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] go off		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] go off		<-->	phrasal verb++C2	[231112][001]	./p/
+	;thả, rời đi -- (1)  to leave a place, especially in order to do something
+		;She went off to get a drink.
+	;nổ tung -- (2) to be fired; to explode
+		;The gun went off by accident.
+		;The bomb went off in a crowded street.
+		;SYNONYMS AT explode
+	;nổ tung -- (3) if an alarm, etc. goes off, it makes a sudden loud noise
+	;dừng lại -- (4) if a light, the electricity, etc. goes off, it stops working
+		;Suddenly the lights went off.
+		;The heating goes off at night.
+		;OPPOSITE go on (3)
+	;từ bỏ -- (10) [-go off somebody/something] (British English, informal) to stop liking somebody/something or lose interest in them/it
+		;Jane seems to be going off Paul.
+		;I've gone off beer.
+		;TOPICS Preferences and decisionsC2
 
 
 
@@ -912,45 +938,75 @@
 
 
 
-[-] grudge		<-->	noun++C2[-0]	.
+[-] grudge		<-->	noun++C2	[231112][001]	./ɡrʌdʒ/
+ /ɡrʌdʒ/
+	;mối hận thù, mối thù -- (1) grudge (against somebody) a feeling of anger or dislike towards somebody because of something bad they have done to you in the past
+		;I bear him no grudge.
+		;He has a grudge against the world.
+		;She has harboured a grudge against me for years.
+		;I don't hold any grudges now.
+		;He's a man with a grudge.
+		;England beat New Zealand in a grudge match (= a match where there is strong dislike between the teams).
+		;Extra Examples:
+		;Do you know anyone who might have a grudge against you?
+		;I don't hold grudges for very long.
+		;It's a grudge match between the two teams.
+		;It's time to forget old grudges.
+		;TOPICS Preferences and decisionsC2, FeelingsC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;long-standingoldpersonal…
+				;verb + grudge
+				;bearharbour/​harborhave…
+				;grudge + noun
+				;match
+				;preposition
+				;grudge against
+		;See full entry
+		;Word Origin
+
+
+
+[-] hand down		<-->	phrasal verb++C2	[231112][001]	./p/
+	;truyền lại -- (1) [-hand something  down (to somebody)] [usually passive] to give or leave something to somebody who is younger than you
+		;These skills used to be handed down from father to son.
+		;Most of his clothes were handed down to him by his older brother.
+	;tuyên bố -- (2) to officially give a decision/statement, etc.
+		;SYNONYM announce
+		;The judge has handed down his verdict.
+		;The court is getting ready to hand down a potentially historic decision.
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] hate		<-->	verb++A1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] hand down		<-->	phrasal verb++C2[-0]	.
+[-] hate		<-->	noun++B1	[231112][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] hate		<-->	verb++A1[-0]	.
-	; -- (1) 
+[-] hate, be sick of, etc. the sight of somebody/something		<-->	idiom++C2	[231112][001]	./i/
+	;nhìn thấy là chán rồi -- (1) (informal) to hate, etc. somebody/something very much
+		;I can't stand the sight of him!
+		;We've shared an office for too long and we're sick of the sight of each other.
+		;TOPICS Preferences and decisionsC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] hate		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] hate, be sick of, etc. the sight of somebody/something		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] have against		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] have against		<-->	phrasal verb++C2	[231112][001]	./p/
+	;ghét, không ưu -- (1) [-have (got) something against somebody/something] (not used in the progressive tenses) to dislike somebody/something for a particular reason
+		;What have you got against Ruth? She's always been good to you.
+		;TOPICS Preferences and decisionsC2
 
 
 
