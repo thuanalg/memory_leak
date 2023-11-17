@@ -21,8 +21,6 @@
 [-] altar | alter						<-->		/ˈɔːltə(r)/-NAmE /ˈɔːltər/
 [-] air | heir						<-->		/eə(r)/-NAmE /er/
 [-] allowed | aloud						<-->		/əˈlaʊd/-NAmE /əˈlaʊd/
-[-] air | heir						<-->		/eə(r)/-NAmE /er/
-[-] allowed | aloud						<-->		/əˈlaʊd/-NAmE /əˈlaʊd/
 
 (b)
 
@@ -69,10 +67,32 @@
 [-] higher | hire						<-->		/ˈhaɪə(r)/-NAmE /ˈhaɪər/
 [-] hole | whole						<-->		/həʊl/-NAmE /həʊl/
 
+(i)
 
-(o) - 2
+[-] idle | idol						<-->		/ˈaɪdl/-NAmE /ˈaɪdl/
+[-] in | inn						<-->		/ɪn/-NAmE /ɪn/
 
-[-] one | won						<-->		/wʌn/-NAmE /wʌn/
+(k)
+
+[-] knit | nit						<-->		/nɪt/-NAmE /nɪt/
+[-] knob | nob						<-->		/nɒb/-NAmE /nɑːb/
+[-] knead | need						<-->		/niːd/-NAmE /niːd/
+[-] knave | nave						<-->		/neɪv/-NAmE /neɪv/
+[-] knight | night						<-->		/naɪt/-NAmE /naɪt/
+[-] knicker | nicker						<-->		/ˈnɪkə(r)/-NAme /ˈnɪkər/
+[-] key | quay						<-->		/kiː/-NAmE /kiː/
+[-] knew | new						<-->		/njuː/-NAmE /nuː/
+
+(l)
+
+[-] lead | led						<-->		/led/-NAmE /led/
+
+
+(m)
+
+[-] mail | male						<-->		/meɪl/-NAmE /meɪl/
+[-] meat | meet						<-->		/miːt/-NAmE /miːt/
+[-] muscle | mussel						<-->		/ˈmʌsl/-NAmE /ˈmʌsl/
 
 (n)
 
@@ -80,6 +100,20 @@
 [-] not | knot						<-->		/nɒt/-NAmE /nɑːt/
 [-] née | neigh						<-->		/neɪ/-NAmE /neɪ/
 [-] navel | naval						<-->		/ˈneɪvl/-NAmE /ˈneɪvl/
+
+(o) - 2
+
+[-] one | won						<-->		/wʌn/-NAmE /wʌn/
+
+(p)
+
+[-] plain | plane						<-->		/pleɪn/-NAmE /pleɪn/
+[-] premier | premiere						<-->		/ˈpremiə(r)/-NAmE /prɪˈmɪr/
+
+(r)
+
+[-] rouse | rows						<-->		/raʊz/-NAmE /raʊz/
+[-] root | route						<-->		/ruːt/-NAmE /ruːt/
 
 (s)
 
@@ -100,8 +134,16 @@
 [-] son | sun						<-->		/sʌn/-NAmE /sʌn/
 
 
+(t)
 
+[-] tail | tale						<-->		
+[-] threw | through						<-->		/θruː/-NAmE /θruː/
+[-] tide | tied						<-->		/taɪd/-NAmE /taɪd/
+[-] toe | tow						<-->		/təʊ/-NAmE /təʊ/
 
+(v)
+
+[-] vain | vein						<-->		/veɪn/-NAmE /veɪn/
 
 (w)
 
@@ -118,60 +160,3 @@
 [-] whine | wine						<-->		/waɪn/-NAmE /waɪn/
 [-] wail | whale						<-->		/weɪl/-NAmE /weɪl/
 [-] wrap | rap						<-->		/ræp/-NAmE /ræp/
-
-(p)
-
-[-] plain | plane						<-->		/pleɪn/-NAmE /pleɪn/
-[-] premier | premiere						<-->		/ˈpremiə(r)/-NAmE /prɪˈmɪr/
-
-
-(m)
-
-[-] mail | male						<-->		/meɪl/-NAmE /meɪl/
-[-] meat | meet						<-->		/miːt/-NAmE /miːt/
-[-] muscle | mussel						<-->		/ˈmʌsl/-NAmE /ˈmʌsl/
-
-
-
-
-
-
-
-(k)
-
-[-] knit | nit						<-->		/nɪt/-NAmE /nɪt/
-[-] knob | nob						<-->		/nɒb/-NAmE /nɑːb/
-[-] knead | need						<-->		/niːd/-NAmE /niːd/
-[-] knave | nave						<-->		/neɪv/-NAmE /neɪv/
-[-] knight | night						<-->		/naɪt/-NAmE /naɪt/
-[-] knicker | nicker						<-->		/ˈnɪkə(r)/-NAme /ˈnɪkər/
-[-] key | quay						<-->		/kiː/-NAmE /kiː/
-[-] knew | new						<-->		/njuː/-NAmE /nuː/
-
-(t)
-
-[-] tail | tale						<-->		
-[-] threw | through						<-->		/θruː/-NAmE /θruː/
-[-] tide | tied						<-->		/taɪd/-NAmE /taɪd/
-[-] toe | tow						<-->		/təʊ/-NAmE /təʊ/
-
-(v)
-
-[-] vain | vein						<-->		/veɪn/-NAmE /veɪn/
-
-
-
-(l)
-
-[-] lead | led						<-->		/led/-NAmE /led/
-
-(r)
-
-[-] rouse | rows						<-->		/raʊz/-NAmE /raʊz/
-[-] root | route						<-->		/ruːt/-NAmE /ruːt/
-
-(i)
-
-[-] idle | idol						<-->		/ˈaɪdl/-NAmE /ˈaɪdl/
-[-] in | inn						<-->		/ɪn/-NAmE /ɪn/
-
