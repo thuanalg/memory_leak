@@ -1,31 +1,30 @@
-board | bored
-brake | break
-berry | bury
-chews | choose
-coarse | course
-crews | cruise
-cue | queue
-days | daze
-dear | deer
-desert | dessert
-fair | fare
-flour | flower
-flew | flu
-groan | grown
-knows | nose
-lessen | lesson
-miner | minor
-missed | mist
-pain | pane
-passed | past
-peace | piece
-principal | principle
-profit | prophet
-read | reed
-read | red
-role | roll
-rose | rows
-their | they're | there
+board | bored						<-->		/bɔːd/-NAmE /bɔːrd/
+brake | break						<-->		/breɪk/-NAmE /breɪk/
+berry | bury						<-->		/ˈberi/-NAmE /ˈberi/
+chews | choose						<-->		/tʃuːz/-NAmE /tʃuːz/
+coarse | course						<-->		/kɔːs/-NAmE /kɔːrs/
+crews | cruise						<-->		/kruː/-NAmE /kruː/
+cue | queue						<-->		/kjuː/-NAmE /kjuː/
+days | daze						<-->		/deɪz/-NAmE /deɪz/
+dear | deer						<-->		/dɪə(r)/-NAmE /dɪr/
+desert | dessert						<-->		/ˈdezət/-NAmE /ˈdezərt/
+fair | fare						<-->		/feə(r)/-NAmE /fer/
+flour | flower						<-->		/ˈflaʊə(r)/-NAmE /ˈflaʊər/
+flew | flu						<-->		/fluː/-NAmE /fluː/
+groan | grown						<-->		/ɡrəʊn/-NAmE /ɡrəʊn/
+knows | nose						<-->		/nəʊz/-NAmE /nəʊz/
+lessen | lesson						<-->		/ˈlesn/-NAmE /ˈlesn/
+miner | minor						<-->		/ˈmaɪnə(r)/-NAmE /ˈmaɪnər/
+missed | mist						<-->		/mɪst/-NAmE /mɪst/
+pain | pane						<-->		/peɪn/-NAmE /peɪn/
+passed | past						<-->		/pɑːst/-NAmE /pæst/
+peace | piece						<-->		/piːs/-NAmE /piːs/
+principal | principle						<-->		/ˈprɪnsəpl/-NAmE /ˈprɪnsəpl/
+profit | prophet						<-->		/ˈprɒfɪt/-NAmE /ˈprɑːfɪt/
+read | reed						<-->		/riːd/-NAmE /riːd/
+read | red						<-->		/red/-NAmE /red/
+role | roll						<-->		/rəʊl/-NAmE /rəʊl/
+rose | rows						<-->		/rəʊz/-NAmE /rəʊz/
 
 
 
@@ -38,11 +37,12 @@ their | they're | there
 
 
 
-[-] will || we'll[y]/wɪl/-NAmE /wɪl/<>/wiːl/,  /wil/
-[-] whip || weep[y]/wɪp/-NAmE /wɪp/<>/wiːp/-NAmE /wiːp/<>
-[-] walking || working[y]/ˈwɔːkɪŋ/-NAmE /ˈwɔːkɪŋ/<>/ˈwɜːkɪŋ/-NAmE /ˈwɜːrkɪŋ/
-[-] was || were[y]/wəz/, strong form  /wɒz/<>/wə(r)/, strong form  /wɜː(r)/<>
-germ || gem[y]/dʒɜːm/-NAmE /dʒɜːrm/<>/dʒem/-NAmE /dʒem/
+
+[-] will || we'll						<-->		/wɪl/-NAmE /wɪl/<>/wiːl/,  /wil/
+[-] whip || weep						<-->		/wɪp/-NAmE /wɪp/<>/wiːp/-NAmE /wiːp/<>
+[-] walking || working						<-->		/ˈwɔːkɪŋ/-NAmE /ˈwɔːkɪŋ/<>/ˈwɜːkɪŋ/-NAmE /ˈwɜːrkɪŋ/
+[-] was || were						<-->		/wəz/, strong form  /wɒz/<>/wə(r)/, strong form  /wɜː(r)/<>
+germ || gem						<-->		/dʒɜːm/-NAmE /dʒɜːrm/<>/dʒem/-NAmE /dʒem/
 
 fill || feel || field
 pen || pain || paint
