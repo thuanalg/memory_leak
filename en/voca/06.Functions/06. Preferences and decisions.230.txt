@@ -1386,52 +1386,53 @@
 
 
 
-[-] lean towards		<-->	phrasal verb++C2[-0]	.
+[-] lean towards		<-->	phrasal verb++C2[-0]	./p/
+	;có xu hướng, thích, nghiên về -- (1) [-lean to/towards/toward something] to tend to prefer something, especially a particular opinion or interest
+		;The UK leant towards the US proposal.
+		;TOPICS Opinion and argumentC2, Preferences and decisionsC2
+
+
+
+[-] like		<-->	verb++A1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] like		<-->	verb++A1[-0]	.
+[-] like		<-->	noun++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] like		<-->	noun++B1[-0]	.
+[-] list box		<-->	noun++C2[-0]	./ˈlɪst bɒks/
+ /ˈlɪst bɑːks/
+	;danh sách checkbox -- (1) a list of choices in a box on a computer screen
+		;TOPICS Preferences and decisionsC2, ComputersC2
+
+
+
+[-] love		<-->	verb++A1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] list box		<-->	noun++C2[-0]	.
+[-] mad		<-->	adjective++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] love		<-->	verb++A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] mad		<-->	adjective++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] majority verdict		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] majority verdict		<-->	noun++C2[-0]	./məˌdʒɒrəti ˈvɜːdɪkt/
+ /məˌdʒɔːrəti ˈvɜːrdɪkt/
+(law)
+	;phán quyết theo số đông -- (1) a decision made by a jury in a court case that most members, but not all, agree with
+		;TOPICS Preferences and decisionsC2, Law and justiceC2
 
 
 
