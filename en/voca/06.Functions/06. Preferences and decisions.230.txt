@@ -1062,45 +1062,68 @@
 
 
 
-[-] have no use for somebody		<-->	idiom++C2[-0]	.
-	; -- (1) 
+[-] have no use for somebody		<-->	idiom++C2[-0]	./i/
+	;không ưu -- (1) to dislike somebody
+		;I've no use for people who don't make an effort.
+		;TOPICS Preferences and decisionsC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] head		<-->	noun++C1[-0]	.
+[-] head		<-->	noun++C1[-0]	./cef/\
 	; -- (1) 
+	; -- (2) 
+	;phần đầu, phần trước -- (7) [-side of coin] heads [uncountable] the side of a coin that has a picture of the head of a person on it, used as one choice when a coin is tossed to decide something
+		;I called heads and it came down tails.
+		;COMPARE tail
+		;TOPICS Preferences and decisionsC1
+				;Oxford Collocations Dictionary
+				;verb + heads
+				;callcome downcome up…
+				;phrases
+				;heads or tails?
+		;See full entry
+
+
+
+[-] heart		<-->	verb++C2[-0]	./hɑːt/
+ /hɑːrt/\
+(symbol ♥)
+(informal)
+	;yêu, thích -- (1) heart somebody/something to like somebody/something very much; to love somebody/something
+		;She wore an ‘I heart Dad’ T-shirt.
+		;I ♥New York.
+		;They heart each other but it’s complicated.
+		;TOPICS Preferences and decisionsC2
+		;Word Origin
+
+
+
+[-] hedge your bets		<-->	idiom++C2[-0]	./i/
+	;phòng hờ -- (1) ​to reduce the risk of losing or making a mistake by supporting more than one side in a competition, an argument, etc., or by having several choices available to you
+		;She hedged her bets by applying for various other jobs as well.
+		;TOPICS Preferences and decisionsC2, Opinion and argumentC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] heart		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] hem and haw		<-->	idiom++C2[-0]	./i/ (British English)
+(North American English hem and haw)
+	;đắn đo -- (1) (informal) to take a long time to make a decision or before you say something
+		;We hummed and hawed for weeks before deciding to buy the house.
+		;TOPICS Preferences and decisionsC2
 
 
 
-[-] hedge your bets		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] hem and haw		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] Hobson’s choice		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] Hobson’s choice		<-->	noun++C2[-0]	./ˌhɒbsnz ˈtʃɔɪs/
+ /ˌhɑːbsnz ˈtʃɔɪs/
+[uncountable]
+	;không có chọn lựa khác -- (1) a situation in which somebody has no choice because if they do not accept what is offered, they will get nothing
+		;More Like This Expressions with people’s names: Aunt Sally, Hobson’s choice, Hooray Henry, Houdini, Jack the Lad, Jack Robinson, Jane Doe, Joe Bloggs, Joe Public, Joe Sixpack, John Bull, John Doe, John Hancock, Johnny Reb, PC Plod, Uncle Sam
+		;TOPICS Preferences and decisionsC2
+		;Word Origin
 
 
 
