@@ -1327,8 +1327,7 @@
 
 
 
-[-] jurisdictional		<-->	adjective++C2	[231119][001]	./ˌdʒʊərɪsˈdɪkʃənl/
- /ˌdʒʊrɪsˈdɪkʃənl/
+[-] jurisdictional		<-->	adjective++C2	[231119][001]	./ˌdʒʊərɪsˈdɪkʃənl/-NAmE /ˌdʒʊrɪsˈdɪkʃənl/
 (formal)
 	;c. pháp lý -- (1) connected with the authority that an official organization has to make legal decisions about somebody/something
 		;a serious jurisdictional error
@@ -1354,8 +1353,7 @@
 
 
 
-[-] leaning		<-->	noun++C2	[231119][001]	./ˈliːnɪŋ/
- /ˈliːnɪŋ/
+[-] leaning		<-->	noun++C2	[231119][001]	./ˈliːnɪŋ/-NAmE /ˈliːnɪŋ/
 [usually plural]
 	;khuynh hướng -- (1) leaning (toward(s) something) a feeling that makes you tend to prefer something or to believe in particular ideas, opinions, etc.
 		;SYNONYM inclination, tendency
@@ -1407,8 +1405,7 @@
 
 
 
-[-] list box		<-->	noun++C2	[231119][001]	./ˈlɪst bɒks/
- /ˈlɪst bɑːks/
+[-] list box		<-->	noun++C2	[231119][001]	./ˈlɪst bɒks/-NAmE /ˈlɪst bɑːks/
 	;danh sách checkbox -- (1) a list of choices in a box on a computer screen
 		;TOPICS Preferences and decisionsC2, ComputersC2
 
@@ -1428,72 +1425,84 @@
 
 
 
-[-] majority verdict		<-->	noun++C2	[231119][001]	./məˌdʒɒrəti ˈvɜːdɪkt/
- /məˌdʒɔːrəti ˈvɜːrdɪkt/
+[-] majority verdict		<-->	noun++C2	[231119][001]	./məˌdʒɒrəti ˈvɜːdɪkt/-NAmE /məˌdʒɔːrəti ˈvɜːrdɪkt/
 (law)
 	;phán quyết theo số đông -- (1) a decision made by a jury in a court case that most members, but not all, agree with
 		;TOPICS Preferences and decisionsC2, Law and justiceC2
 
 
 
-[-] make allowance(s) for something		<-->	idiom++C2[-0]	.
-	; -- (1) 
+[-] make allowance(s) for something		<-->	idiom++C2[0]	./i/
+	;xem xét, căn nhắc st -- (1) to consider something, for example when you are making a decision or planning something
+		;The budget made allowance for inflation.
+		;The plan makes no allowance for people working at different rates.
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] miscarriage of justice		<-->	noun++C2[0]	./ˌmɪskærɪdʒ əv ˈdʒʌstɪs/-NAmE /ˌmɪskærɪdʒ əv ˈdʒʌstɪs/
+[uncountable, countable] (law)
+	;phán quyết oan sai -- (1) a situation in which a court makes a wrong decision, especially when somebody is punished when they are innocent
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] misogynist		<-->	noun++C2[0]	./mɪˈsɒdʒɪnɪst/-NAmE /mɪˈsɑːdʒɪnɪst/
+(formal)
+	;người ghét phụ nữ -- (1) a person who hates or dislikes women or believes they are not as good as men
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] misogynistic		<-->	adjective++C2[0]	./mɪˌsɒdʒɪˈnɪstɪk/-NAmE /mɪˌsɑːdʒɪˈnɪstɪk/
+(also misogynist)
+(formal)
+	;khinh thường phụ nữ -- (1) ​typical of the behaviour and beliefs of a person who hates or dislikes women or believes they are not as good as men
+		;misogynistic attitudes
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] nail down		<-->	phrasal verb++C2[0]	./p/
+	; -- (1) [-nail something  down] to fasten something in place with a nail or nails
+	;căng thẳng, bối rối -- (2) All the parties seem anxious to nail down a ceasefire.
+		;TOPICS Discussion and agreementC2, Preferences and decisionsC2
+	; -- (3) 
+
+
+
+[-] narrow down		<-->	phrasal verb++C2[0]	./p/
+	;thêm hẹp chọn lựa -- (1) [-narrow something  down (to something)] to reduce the number of possibilities or choices
+		;We narrowed the choices down to five categories.
+		;the following list may help narrow down the cause of the problem.
+		;We have narrowed down the list to four candidates.
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] negotiable		<-->	adjective++C2[0]	./nɪˈɡəʊʃiəbl/-NAmE /nɪˈɡəʊʃiəbl/
+	;có thể thương lượng -- (1) that you can discuss or change before you make an agreement or a decision
+		;The terms of employment are negotiable.
+		;The price was not negotiable.
+		;TOPICS Preferences and decisionsC2, Discussion and agreementC2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] miscarriage of justice		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] no-brainer		<-->	noun++C2[0]	./ˌnəʊ ˈbreɪnə(r)/-NAmE /ˌnəʊ ˈbreɪnər/
+(informal)
+	;không cần bàn cãi -- (1) a decision or a problem that you do not need to think about much because it is obvious what you should do
+		;The question of who to support in this election should be a no-brainer.
+		;I said yes straight away. It was a no-brainer for me.
+		;TOPICS Preferences and decisionsC2
 
 
 
-[-] misogynist		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] misogynistic		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] nail down		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] narrow down		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] negotiable		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] no-brainer		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] not budge/give/move an inch		<-->	idiom++C2[-0]	.
-	; -- (1) 
+[-] not budge/give/move an inch		<-->	idiom++C2[0]	./i/
+	;nhúc nhích một inch -- (1) ​to refuse to change your position, decision, etc. even a little
+		;We tried to negotiate a lower price but they wouldn't budge an inch.
+		;TOPICS Preferences and decisionsC2
 	; -- (2) 
 	; -- (3) 
 
