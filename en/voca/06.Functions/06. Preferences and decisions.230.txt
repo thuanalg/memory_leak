@@ -1254,7 +1254,7 @@
 
 
 [-] it’s as broad as it’s long		<-->	idiom++C2	[231119][001]	./i/
-	;cái nào cũng thế -- (1) ​(British English, informal) it makes no real difference which of two possible choices you make
+	;cái nào cũng thế -- (1) (British English, informal) it makes no real difference which of two possible choices you make
 		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
@@ -1270,7 +1270,7 @@
 
 
 [-] I’m easy		<-->	idiom++C2	[231119][001]	./i/
-	;tôi sao cũng được -- (1) ​(informal) used to say that you do not have a strong opinion when somebody has offered you a choice
+	;tôi sao cũng được -- (1) (informal) used to say that you do not have a strong opinion when somebody has offered you a choice
 		;‘Do you want to watch this or the news?’ ‘Oh, I'm easy. It's up to you.’
 		;TOPICS PREFERENCES AND DECISIONS-C2, Opinion and argumentC2
 	; -- (2) 
@@ -1432,7 +1432,7 @@
 
 
 
-[-] make allowance(s) for something		<-->	idiom++C2[0]	./i/
+[-] make allowance(s) for something		<-->	idiom++C2	[231121][001]	./i/
 	;xem xét, căn nhắc st -- (1) to consider something, for example when you are making a decision or planning something
 		;The budget made allowance for inflation.
 		;The plan makes no allowance for people working at different rates.
@@ -1440,30 +1440,30 @@
 
 
 
-[-] miscarriage of justice		<-->	noun++C2[0]	./ˌmɪskærɪdʒ əv ˈdʒʌstɪs/-NAmE /ˌmɪskærɪdʒ əv ˈdʒʌstɪs/
+[-] miscarriage of justice		<-->	noun++C2	[231121][001]	./ˌmɪskærɪdʒ əv ˈdʒʌstɪs/-NAmE /ˌmɪskærɪdʒ əv ˈdʒʌstɪs/
 [uncountable, countable] (law)
 	;phán quyết oan sai -- (1) a situation in which a court makes a wrong decision, especially when somebody is punished when they are innocent
 		;TOPICS Preferences and decisionsC2
 
 
 
-[-] misogynist		<-->	noun++C2[0]	./mɪˈsɒdʒɪnɪst/-NAmE /mɪˈsɑːdʒɪnɪst/
+[-] misogynist		<-->	noun++C2	[231121][001]	./mɪˈsɒdʒɪnɪst/-NAmE /mɪˈsɑːdʒɪnɪst/
 (formal)
 	;người ghét phụ nữ -- (1) a person who hates or dislikes women or believes they are not as good as men
 		;TOPICS Preferences and decisionsC2
 
 
 
-[-] misogynistic		<-->	adjective++C2[0]	./mɪˌsɒdʒɪˈnɪstɪk/-NAmE /mɪˌsɑːdʒɪˈnɪstɪk/
+[-] misogynistic		<-->	adjective++C2	[231121][001]	./mɪˌsɒdʒɪˈnɪstɪk/-NAmE /mɪˌsɑːdʒɪˈnɪstɪk/
 (also misogynist)
 (formal)
-	;khinh thường phụ nữ -- (1) ​typical of the behaviour and beliefs of a person who hates or dislikes women or believes they are not as good as men
+	;khinh thường phụ nữ -- (1) typical of the behaviour and beliefs of a person who hates or dislikes women or believes they are not as good as men
 		;misogynistic attitudes
 		;TOPICS Preferences and decisionsC2
 
 
 
-[-] nail down		<-->	phrasal verb++C2[0]	./p/
+[-] nail down		<-->	phrasal verb++C2	[231121][001]	./p/
 	; -- (1) [-nail something  down] to fasten something in place with a nail or nails
 	;căng thẳng, bối rối -- (2) All the parties seem anxious to nail down a ceasefire.
 		;TOPICS Discussion and agreementC2, Preferences and decisionsC2
@@ -1471,7 +1471,7 @@
 
 
 
-[-] narrow down		<-->	phrasal verb++C2[0]	./p/
+[-] narrow down		<-->	phrasal verb++C2	[231121][001]	./p/
 	;thêm hẹp chọn lựa -- (1) [-narrow something  down (to something)] to reduce the number of possibilities or choices
 		;We narrowed the choices down to five categories.
 		;the following list may help narrow down the cause of the problem.
@@ -1480,7 +1480,7 @@
 
 
 
-[-] negotiable		<-->	adjective++C2[0]	./nɪˈɡəʊʃiəbl/-NAmE /nɪˈɡəʊʃiəbl/
+[-] negotiable		<-->	adjective++C2	[231121][001]	./nɪˈɡəʊʃiəbl/-NAmE /nɪˈɡəʊʃiəbl/
 	;có thể thương lượng -- (1) that you can discuss or change before you make an agreement or a decision
 		;The terms of employment are negotiable.
 		;The price was not negotiable.
@@ -1490,7 +1490,7 @@
 
 
 
-[-] no-brainer		<-->	noun++C2[0]	./ˌnəʊ ˈbreɪnə(r)/-NAmE /ˌnəʊ ˈbreɪnər/
+[-] no-brainer		<-->	noun++C2	[231121][001]	./ˌnəʊ ˈbreɪnə(r)/-NAmE /ˌnəʊ ˈbreɪnər/
 (informal)
 	;không cần bàn cãi -- (1) a decision or a problem that you do not need to think about much because it is obvious what you should do
 		;The question of who to support in this election should be a no-brainer.
@@ -1499,8 +1499,8 @@
 
 
 
-[-] not budge/give/move an inch		<-->	idiom++C2[0]	./i/
-	;nhúc nhích một inch -- (1) ​to refuse to change your position, decision, etc. even a little
+[-] not budge/give/move an inch		<-->	idiom++C2	[231121][001]	./i/
+	;nhúc nhích một inch -- (1) to refuse to change your position, decision, etc. even a little
 		;We tried to negotiate a lower price but they wouldn't budge an inch.
 		;TOPICS Preferences and decisionsC2
 	; -- (2) 
@@ -1508,94 +1508,132 @@
 
 
 
-[-] on the horns of a dilemma		<-->	idiom++C2[-0]	.
+[-] on the horns of a dilemma		<-->	idiom++C2	[231121][001]	./i/
+	;tình huống phải chọn điều khó  xử -- (1) in a situation in which you have to make a choice between things that are equally unpleasant
+		;The medical profession’s eagerness for scientific advance had impaled it on the horns of a dilemma, forcing an unnatural choice between science and morality.
+		;The dire economic situation had placed the prime minister on the horns of a dilemma.
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] open verdict		<-->	noun++C2	[231121][001]	./ˌəʊpən ˈvɜːdɪkt/
+ /ˌəʊpən ˈvɜːrdɪkt/
+	;bản án mở -- (1) an official decision in a British court stating that the exact cause of a person’s death is not known
+		;After the inquest, the coroner recorded an open verdict.
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] option		<-->	noun++A2	[231121][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] open verdict		<-->	noun++C2[-0]	.
+[-] overfond		<-->	adjective++C2	[231121][001]	./ˌəʊvəˈfɒnd/
+ /ˌəʊvərˈfɑːnd/
+	;quá thích -- (1) overfond of somebody/something liking somebody/something too much
+		;TOPICS Preferences and decisionsC2
+
+
+
+
+
+[-] override		<-->	verb++C2	[231121][001]	./ˌəʊvəˈraɪd/
+ /ˌəʊvərˈraɪd/
+	;nói lấn át -- (1) override something to use your authority to reject somebody’s decision, order, etc.
+		;SYNONYM overrule
+		;<< overrule, override, >>
+		;The chairman overrode the committee's objections and signed the agreement.
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] overrule		<-->	verb++C2	[231121][001]	./ˌəʊvəˈruːl/
+ /ˌəʊvərˈruːl/
+[often passive]
+	;nói lấn át -- (1) overrule somebody/something to change a decision or reject an idea from a position of greater power
+		;SYNONYM override
+		;<< overrule, override, >>
+		;to overrule a decision/an objection
+		;The verdict was overruled by the Supreme Court.
+		;TOPICS Preferences and decisionsC2
+		;Oxford Collocations Dictionary
+				;Overrule is used with these nouns as the subject:
+				;judge
+				;Overrule is used with these nouns as the object:
+				;decision
+		;See full entry
+
+
+
+[-] overturn		<-->	verb++C1	[231121][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] option		<-->	noun++A2[-0]	.
+[-] partial		<-->	adjective++C2	[231121][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] overfond		<-->	adjective++C2[-0]	.
+[-] partiality		<-->	noun++C2	[231121][001]	./ˌpɑːʃiˈæləti/
+ /ˌpɑːrʃiˈæləti/
+(formal)
+	;thiên kiến -- (1) [uncountable] (disapproving) unfair support for one person, team, idea, etc.
+		;SYNONYM bias
+		;allegations of dishonesty and partiality
+		;OPPOSITE impartiality
+	;sự yêu thích thái quá -- (2) [singular] partiality for something/somebody a feeling of liking something/somebody very much
+		;<< fondness, penchant, partiality, >>
+		;She has a partiality for exotic flowers.
+		;TOPICS Preferences and decisionsC2
+		;Word Origin
+
+
+
+[-] passion		<-->	noun++B1	[231121][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] override		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] penchant		<-->	noun++C2	[231121][001]	./ˈpɒ̃ʃɒ̃/
+ /ˈpentʃənt/
+	;sự yêu thích thái quá -- (1) penchant for something a special liking for something
+		;SYNONYM fondness
+		;<< fondness, penchant, partiality, >>
+		;She has a penchant for champagne.
+		;TOPICS Preferences and decisionsC2
+		;Word Origin
 
 
 
-[-] overrule		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] -phile		<-->	combining form++C2	[231121][001]	./faɪl/
+ /faɪl/
+	;người thích cái gì đó -- (1) (in nouns and adjectives) liking a particular thing; a person who likes a particular thing
+		;Anglophile
+		;bibliophile
+		;COMPARE -phobe
+		;TOPICS Preferences and decisionsC2
+		;Word Origin
 
 
 
-[-] overturn		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] partial		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] partiality		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] passion		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] penchant		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] -philecombining formC2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] -phobecombining formC2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] -phobe		<-->	combining form++C2	[231121][001]	./fəʊb/
+ /fəʊb/
+	;người ghét cái gì đó -- (1) (in nouns) a person who dislikes a particular thing or particular people
+		;Anglophobe
+		;xenophobe
+		;COMPARE -phile
+		;TOPICS Preferences and decisionsC2
+		;Word Origin
 
 
 
