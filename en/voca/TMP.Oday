@@ -361,7 +361,7 @@
 
 
 
-[-] hang on		<-->	p.verb+B2[--0]	./p/
+[-] hang on		<-->	p.verb+B2[0]	./p/
 	;đợi đã -- (1)  (informal) used to ask somebody to wait for a short time or to stop what they are doing
 		;Hang on—I'm not quite ready.
 		;Now hang on a minute—you can't really believe what you just said!
@@ -377,12 +377,11 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] excluding		<-->	preposition++[0]	./ɪkˈskluːdɪŋ/
+ /ɪkˈskluːdɪŋ/
+	;không bao gồm -- (1) not including
+		;Lunch costs £20 per person, excluding drinks.
+		;Language Bank except
 
 
 

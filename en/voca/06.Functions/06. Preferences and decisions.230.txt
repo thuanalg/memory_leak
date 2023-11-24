@@ -1516,8 +1516,7 @@
 
 
 
-[-] open verdict		<-->	noun++C2	[231121][001]	./ˌəʊpən ˈvɜːdɪkt/
- /ˌəʊpən ˈvɜːrdɪkt/
+[-] open verdict		<-->	noun++C2	[231121][001]	./ˌəʊpən ˈvɜːdɪkt/-NAmE /ˌəʊpən ˈvɜːrdɪkt/
 	;bản án mở -- (1) an official decision in a British court stating that the exact cause of a person’s death is not known
 		;After the inquest, the coroner recorded an open verdict.
 		;TOPICS Preferences and decisionsC2
@@ -1531,8 +1530,7 @@
 
 
 
-[-] overfond		<-->	adjective++C2	[231121][001]	./ˌəʊvəˈfɒnd/
- /ˌəʊvərˈfɑːnd/
+[-] overfond		<-->	adjective++C2	[231121][001]	./ˌəʊvəˈfɒnd/-NAmE /ˌəʊvərˈfɑːnd/
 	;quá thích -- (1) overfond of somebody/something liking somebody/something too much
 		;TOPICS Preferences and decisionsC2
 
@@ -1540,8 +1538,7 @@
 
 
 
-[-] override		<-->	verb++C2	[231121][001]	./ˌəʊvəˈraɪd/
- /ˌəʊvərˈraɪd/
+[-] override		<-->	verb++C2	[231121][001]	./ˌəʊvəˈraɪd/-NAmE /ˌəʊvərˈraɪd/
 	;nói lấn át -- (1) override something to use your authority to reject somebody’s decision, order, etc.
 		;SYNONYM overrule
 		;<< overrule, override, >>
@@ -1550,8 +1547,7 @@
 
 
 
-[-] overrule		<-->	verb++C2	[231121][001]	./ˌəʊvəˈruːl/
- /ˌəʊvərˈruːl/
+[-] overrule		<-->	verb++C2	[231121][001]	./ˌəʊvəˈruːl/-NAmE /ˌəʊvərˈruːl/
 [often passive]
 	;nói lấn át -- (1) overrule somebody/something to change a decision or reject an idea from a position of greater power
 		;SYNONYM override
@@ -1582,8 +1578,7 @@
 
 
 
-[-] partiality		<-->	noun++C2	[231121][001]	./ˌpɑːʃiˈæləti/
- /ˌpɑːrʃiˈæləti/
+[-] partiality		<-->	noun++C2	[231121][001]	./ˌpɑːʃiˈæləti/-NAmE /ˌpɑːrʃiˈæləti/
 (formal)
 	;thiên kiến -- (1) [uncountable] (disapproving) unfair support for one person, team, idea, etc.
 		;SYNONYM bias
@@ -1604,8 +1599,7 @@
 
 
 
-[-] penchant		<-->	noun++C2	[231121][001]	./ˈpɒ̃ʃɒ̃/
- /ˈpentʃənt/
+[-] penchant		<-->	noun++C2	[231121][001]	./ˈpɒ̃ʃɒ̃/-NAmE /ˈpentʃənt/
 	;sự yêu thích thái quá -- (1) penchant for something a special liking for something
 		;SYNONYM fondness
 		;<< fondness, penchant, partiality, >>
@@ -1615,8 +1609,7 @@
 
 
 
-[-] -phile		<-->	combining form++C2	[231121][001]	./faɪl/
- /faɪl/
+[-] -phile		<-->	combining form++C2	[231121][001]	./faɪl/-NAmE /faɪl/
 	;người thích cái gì đó -- (1) (in nouns and adjectives) liking a particular thing; a person who likes a particular thing
 		;Anglophile
 		;bibliophile
@@ -1626,8 +1619,7 @@
 
 
 
-[-] -phobe		<-->	combining form++C2	[231121][001]	./fəʊb/
- /fəʊb/
+[-] -phobe		<-->	combining form++C2	[231121][001]	./fəʊb/-NAmE /fəʊb/
 	;người ghét cái gì đó -- (1) (in nouns) a person who dislikes a particular thing or particular people
 		;Anglophobe
 		;xenophobe
@@ -1637,143 +1629,217 @@
 
 
 
-[-] pick		<-->	verb++A2[-0]	.
+[-] pick		<-->	verb++A2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] pick and choose		<-->	idiom++C2[-0]	.
+[-] pick and choose		<-->	idiom++C2[0]	./i/
+	;chọn thoải mái -- (1) to choose only those things that you like or want very much
+		;You have to take any job you can get—you can't pick and choose.
+		;TOPICS Preferences and decisionsC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] pick a winner		<-->	idiom++C2[0]	./i/
+	; -- (1) to choose a horse, etc. that you think is most likely to win a race
+		;He's very good at picking winners.
+	;tạo ra chọn lựa tốt nhất -- (2) (informal) to make a very good choice
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] picky		<-->	adjective++C2[0]	./ˈpɪki/-NAmE /ˈpɪki/
+(informal)
+	;kiểu cách, kén chon -- (1) ​(of a person) liking only particular things and difficult to please
+		;SYNONYM fussy
+		;<< fussy, picky, >>
+		;a picky eater
+		;She’s very picky about her clothes.
+		;TOPICS Preferences and decisionsC2
+				;Oxford Collocations Dictionary
+				;Picky is used with these nouns:
+				;eater
+		;See full entry
+
+
+
+[-] please		<-->	verb++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] pick a winner		<-->	idiom++C2[-0]	.
+[-] potty		<-->	adjective++C2[0]	./ˈpɒti/-NAmE /ˈpɑːti/
+(British English, informal, becoming old-fashioned)
+(comparative pottier, superlative pottiest)
+	;phát rồ -- (1) crazy
+		;The kids are driving me potty!
+	;thích, say mê, phát rồ -- (2) ​potty about somebody/something liking somebody/something a lot
+		;She’s potty about you!
+		;TOPICS Preferences and decisionsC2
+		;Word Origin
+
+
+
+[-] prefer		<-->	verb++A1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] picky		<-->	adjective++C2[-0]	.
+[-] preferable		<-->	adjective++C1[0]	./ˈprefrəbl/-NAmE /ˈprefrəbl/
+	;tốt hơn -- (1) more attractive or more suitable; to be preferred to something
+		;preferable (to something) Anything was preferable to the tense atmosphere at home.
+		;preferable (to doing something) He finds country life infinitely preferable to living in the city.
+		;preferable (to do something) It would be preferable to employ two people, not one.
+		;Extra Examples:
+		;Death was considered vastly preferable to surrender.
+		;The new policies are infinitely preferable to what went before.
+		;The summer months are preferable for weddings.
+		;This technique is far preferable to any alternative.
+		;TOPICS Preferences and decisionsC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beseembecome…
+				;adverb
+				;fargreatlyhighly…
+				;preposition
+				;forto
+		;See full entry
+
+
+
+[-] preferably		<-->	adverb++C1[0]	./ˈprefrəbli/-NAmE /ˈprefrəbli/
+	;tốt nhất là -- (1) in a way that is more attractive or more suitable; in a way that is preferred to other ways
+		;We're looking for a new house, preferably one near the school.
+		;TOPICS Preferences and decisionsC1
+
+
+
+[-] preference		<-->	noun++B2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] please		<-->	verb++C1[-0]	.
+[-] prejudice		<-->	noun++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] potty		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] prejudiced		<-->	adjective++C2[0]	./ˈpredʒədɪst/-NAmE /ˈpredʒədɪst/
+	;có thành kiến -- (1) having an unreasonable dislike of or preference for somebody/something, especially based on their race, religion, sex, etc.
+		;Few people will admit to being racially prejudiced.
+		;prejudiced (against/in favour of somebody/something) They are prejudiced against older applicants.
+		;(humorous) I think it's an excellent article, but then I'm prejudiced—I wrote it.
+		;Extra Examples:
+		;I was a little prejudiced against him because of his background.
+		;She had to cope with the prejudiced views of the majority of the party.
+		;TOPICS Preferences and decisionsC2, Opinion and argumentC2, Personal qualitiesC2, Social issuesC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;beseem
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;against
+		;See full entry
+
+
+
+[-] put off		<-->	phrasal verb++C1[0]	./p/
+	;xóa bỏ -- (1) [-put somebody  off] to cancel a meeting or an arrangement that you have made with somebody
+		;It's too late to put them off now.
+		;She put him off with the excuse that she had too much work to do.
+	;bỏ qua -- (2) to make somebody dislike somebody/something or not trust them/it
+		;She's very clever but her manner does tend to put people off.
+		;Don't be put off by how it looks—it tastes delicious.
+		;SEE ALSO off-putting
+		;TOPICS Preferences and decisionsC1
 	; -- (3) 
 
 
 
-[-] prefer		<-->	verb++A1[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] quorate		<-->	adjective++C2[0]	./ˈkwɔːreɪt/,  /ˈkwɔːrət/-NAmE /ˈkwɔːreɪt/,  /ˈkwɔːrət/
+(British English, specialist)
+	;trang trọng??? -- (1) a meeting that is quorate has enough people present for them to make official decisions by voting
+		;OPPOSITE inquorate
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] quorum		<-->	noun++C2[0]	./ˈkwɔːrəm/-NAmE /ˈkwɔːrəm/
+[singular]
+	;số đại biểu -- (1) the smallest number of people who must be at a meeting before it can begin or decisions can be made
+		;If a quorum is not present, the meeting must be adjourned.
+		;I’m afraid we don’t have a quorum.
+		;The number of representatives attending was too small to constitute a quorum.
+		;TOPICS Preferences and decisionsC2, Working lifeC2
+		;Word Origin
+
+
+
+[-] railroad		<-->	verb++C2[0]	./ˈreɪlrəʊd/-NAmE /ˈreɪlrəʊd/\
+[usually passive]
+	; -- (1) to force somebody to do something before they have had enough time to decide whether or not they want to do it
+		;SYNONYM bulldoze
+		;be railroaded into doing something I will not be railroaded into signing something I don't agree with.
+		;be railroaded into something We were railroaded into a poor deal.
+	;hăm dọa -- (2) to make a group of people accept a decision, law, etc. quickly by putting pressure on them
+		;be railroaded through something The bill was railroaded through the House.
+		;be railroaded through The changes were railroaded through.
+		;TOPICS Preferences and decisionsC2
 	; -- (3) 
 
 
 
-[-] preferable		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] reconsider		<-->	verb++C1[0]	./ˌriːkənˈsɪdə(r)/-NAmE /ˌriːkənˈsɪdər/
+[transitive, intransitive]
+	;xem xét lại -- (1) ​to think about something again, especially because you might want to change a previous decision or opinion
+		;reconsider (something) to reconsider your decision/position
+		;The company was forced to reconsider its plans for expansion.
+		;Recent information may persuade the board to reconsider.
+		;reconsider what, how, etc… You may need to reconsider what you want to do.
+		;TOPICS Preferences and decisionsC1, Opinion and argumentC1
+				;Oxford Collocations Dictionary
+				;Reconsider is used with these nouns as the object:
+				;decisionideaview…
+		;See full entry
 
 
 
-[-] preferably		<-->	adverb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] reconsideration		<-->	noun++C2[0]	./ˌriːkənˌsɪdəˈreɪʃn/-NAmE /ˌriːkənˌsɪdəˈreɪʃn/
+[uncountable, singular]
+	;sự xem xét lại -- (1) the act or process of thinking about something again, especially because you might want to change a previous decision or opinion
+		;They called for a reconsideration of the issue.
+		;TOPICS Preferences and decisionsC2, Opinion and argumentC2
 
 
 
-[-] preference		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] remit to		<-->	phrasal verb++C2[0]	./p/
+	;chuyển đến -- (1) [-remit something to somebody] [usually passive] (law) to send a matter to an authority so that a decision can be made
+		;The case was remitted to the Court of Appeal.
+		;TOPICS Preferences and decisionsC2
 
 
 
-[-] prejudice		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] prejudiced		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] put off		<-->	phrasal verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] quorate		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] quorum		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] railro		<-->	adverb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] reconsider		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] reconsideration		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] remit to		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] repugnance		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] repugnance		<-->	noun++C2[0]	./rɪˈpʌɡnəns/-NAmE /rɪˈpʌɡnəns/
+[uncountable] (formal)
+	;sự ghê tởm -- (1) a very strong feeling of dislike for something
+		;SYNONYM repulsion
+		;She was trying to overcome her physical repugnance for him.
+		;TOPICS Preferences and decisionsC2, FeelingsC2
+		;Word Origin
 
 
 
@@ -1784,84 +1850,102 @@
 
 
 
-[-] resistance		<-->	noun++C1[-0]	.
+[-] resistance		<-->	noun++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] resolution		<-->	noun++B2[-0]	.
+[-] resolution		<-->	noun++B2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] resolve		<-->	verb++C2[-0]	.
+[-] resolve		<-->	verb++C2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] retreat		<-->	noun++C2[-0]	.
+[-] retreat		<-->	noun++C2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] return		<-->	verb++C2[-0]	.
+[-] return		<-->	verb++C2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] reverse		<-->	verb++C1[-0]	.
+[-] reverse		<-->	verb++C1[0]	./cef/
+	; -- (1) 
+	;đảo ngược, huỷ bỏ -- (2) transitive] reverse something to change a previous decision, law, etc. to the opposite one
+		;SYNONYM revoke
+		;<< revoke, cancel, reverse, >>
+		;The Court of Appeal reversed the decision.
+		;The policy is likely to be reversed if there is a change of government.
+		;to reverse a judgement
+		;TOPICS Preferences and decisionsC1
+	; -- (3) 
+
+
+
+[-] rowback		<-->	noun++C2[0]	./ˈrəʊbæk/-NAmE /ˈrəʊbæk/
+	;sự lùi bước -- (1) he act of changing an earlier decision or opinion completely so that it is the opposite of what it was before
+		;The government was forced into more rowbacks on budget cuts.
+		;TOPICS Preferences and decisionsC2, Opinion and argumentC2
+
+
+
+[-] rubber-stamp		<-->	verb++C2[0]	./ˌrʌbə ˈstæmp/-NAmE /ˌrʌbər ˈstæmp/
+(often disapproving)
+	;xem thường -- (1) rubber-stamp something to give official approval to a law, plan, decision, etc., especially without considering it carefully
+		;The council just rubber-stamps decisions made by a higher authority.
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] rubber stamp		<-->	noun++C2[0]	./ˌrʌbə ˈstæmp/-NAmE /ˌrʌbər ˈstæmp/\
+	;con dấu -- (1) ​enlarge image a small tool that you hold in your hand and use for printing the date, the name of an organization, etc. on a document
+	;nhóm người ra quyết định cẩu thả -- (2) ​(disapproving) a person or group that gives approval to the actions or decisions of others without considering them
+		;Parliament is seen as a rubber stamp for decisions made elsewhere.
+		;TOPICS Preferences and decisionsC2
+
+
+
+[-] rule		<-->	verb++C1[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	;phán quyết -- (3) [B1-C1] [-give official decision] [intraansitive, transitive] to give an official decision about something
+		;SYNONYM pronounce
+		;<< RULE, judge, sentence, pronounce, >>
+		;rule on something The court will rule on the legality of the action.
+		;rule against/in favour of somebody/something The judge ruled against/in favour of the plaintiff.
+		;rule somebody/something + adj. The deal may be ruled illegal.
+		;[a: rule]
+		;rule somebody/something to be/have something The deal was ruled to be illegal.
+		;rule that… The court ruled that the women were unfairly dismissed.
+		;it is ruled that… It was ruled that the women had been unfairly dismissed.
+		;TOPICS Preferences and decisionsC1, Law and justiceC1
+
+
+
+[-] ruling		<-->	noun++C1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] rowback		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] rubber-stamp		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] rubber stamp		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] rule		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] ruling		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] say		<-->	noun++C1[-0]	.
+[-] say		<-->	noun++C1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
