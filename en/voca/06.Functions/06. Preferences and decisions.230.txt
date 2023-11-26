@@ -1643,7 +1643,7 @@
 
 
 [-] picky		<-->	adjective++C2	[231126][001]	./ˈpɪki/-NAmE /ˈpɪki/ (informal)
-	;kiểu cách, kén chon -- (1) ​(of a person) liking only particular things and difficult to please
+	;kiểu cách, kén chon -- (1) (of a person) liking only particular things and difficult to please
 		;SYNONYM fussy
 		;<< fussy, picky, >>
 		;a picky eater
@@ -1666,7 +1666,7 @@
 [-] potty		<-->	adjective++C2	[231126][001]	./ˈpɒti/-NAmE /ˈpɑːti/ (British English, informal, becoming old-fashioned) (comparative pottier, superlative pottiest)
 	;phát rồ -- (1) crazy
 		;The kids are driving me potty!
-	;thích, say mê, phát rồ -- (2) ​potty about somebody/something liking somebody/something a lot
+	;thích, say mê, phát rồ -- (2) potty about somebody/something liking somebody/something a lot
 		;She’s potty about you!
 		;TOPICS PREFERENCES AND DECISIONS-C2
 		;Word Origin
@@ -1787,7 +1787,7 @@
 
 
 [-] reconsider		<-->	verb++C1	[231126][001]	./ˌriːkənˈsɪdə(r)/-NAmE /ˌriːkənˈsɪdər/ [transitive, intransitive]
-	;xem xét lại -- (1) ​to think about something again, especially because you might want to change a previous decision or opinion
+	;xem xét lại -- (1) to think about something again, especially because you might want to change a previous decision or opinion
 		;reconsider (something) to reconsider your decision/position
 		;The company was forced to reconsider its plans for expansion.
 		;Recent information may persuade the board to reconsider.
@@ -1893,8 +1893,8 @@
 
 
 [-] rubber stamp		<-->	noun++C2	[231126][001]	./ˌrʌbə ˈstæmp/-NAmE /ˌrʌbər ˈstæmp/\
-	;con dấu -- (1) ​enlarge image a small tool that you hold in your hand and use for printing the date, the name of an organization, etc. on a document
-	;nhóm người ra quyết định cẩu thả -- (2) ​(disapproving) a person or group that gives approval to the actions or decisions of others without considering them
+	;con dấu -- (1) enlarge image a small tool that you hold in your hand and use for printing the date, the name of an organization, etc. on a document
+	;nhóm người ra quyết định cẩu thả -- (2) (disapproving) a person or group that gives approval to the actions or decisions of others without considering them
 		;Parliament is seen as a rubber stamp for decisions made elsewhere.
 		;TOPICS PREFERENCES AND DECISIONS-C2
 
@@ -2051,7 +2051,7 @@
 
 
 [-] take something under advisement		<-->	idiom++C2	[231126][001]	./i/
-	;đặt st dưới sự cân nhắc, căn nhắc -- (1) ​(formal) to think carefully about something before making a decision about it
+	;đặt st dưới sự cân nhắc, căn nhắc -- (1) (formal) to think carefully about something before making a decision about it
 		;The judge has taken the matter under advisement.
 		;TOPICS PREFERENCES AND DECISIONS-C2
 
@@ -2143,7 +2143,7 @@
 
 
 [-] think over		<-->	phrasal verb++C1	[231126][001]	./p/
-	;căn nhắc kỹ -- (1) [-hink something over] ​to consider something carefully, especially before reaching a decision
+	;căn nhắc kỹ -- (1) [-hink something over] to consider something carefully, especially before reaching a decision
 		;He'd like more time to think things over.
 		;I've been thinking over what you said.
 		;TOPICS PREFERENCES AND DECISIONS-C1
@@ -2171,9 +2171,8 @@
 
 
 
-[-] unanimous		<-->	adjective++C2	[231126][001]	./juˈnænɪməs/
- /juˈnænɪməs/
-	;nhất trí -- (1) ​if a decision or an opinion is unanimous, it is agreed or shared by everyone in a group
+[-] unanimous		<-->	adjective++C2	[231126][001]	./juˈnænɪməs/-NAmE -/juˈnænɪməs/
+	;nhất trí -- (1) if a decision or an opinion is unanimous, it is agreed or shared by everyone in a group
 		;a unanimous vote
 		;unanimous support
 		;The decision was not unanimous.
@@ -2194,8 +2193,7 @@
 
 
 
-[-] undecided		<-->	adjective++C1	[231126][001]	./ˌʌndɪˈsaɪdɪd/
- /ˌʌndɪˈsaɪdɪd/ [not usually before noun]
+[-] undecided		<-->	adjective++C1	[231126][001]	./ˌʌndɪˈsaɪdɪd/-NAmE -/ˌʌndɪˈsaɪdɪd/ [not usually before noun]
 	;Word Family:
 			decide verb
 			decision noun (≠ indecision)
@@ -2231,108 +2229,145 @@
 
 
 
-[-] verdict		<-->	noun++C1[-0]	.
+[-] verdict		<-->	noun++C1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] versusprepositionC1[-0]	.
+[-] versus		<-->	preposition++C1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] veto		<-->	noun++C2[-0]	.
+[-] veto		<-->	noun++C2	[231126][001]	./ˈviːtəʊ/-NAmE -/ˈviːtəʊ/ (plural vetoes)
+	;quyền phủ quyết -- (1) [countable, uncountable] the right to refuse to allow something to be done, especially the right to stop a law from being passed or a decision from being taken
+		;The British government used its veto to block the proposal.
+		;to have the power/right of veto
+		;the use of the presidential veto
+		;SEE ALSO line-item veto
+		;Extra Examples:
+		;The President hasn't yet used his veto pen.
+		;The Senate voted to override the president's veto.
+		;The agreement became possible when Spain lifted its veto.
+		;The board can exercise its veto to prevent the decision.
+		;The nobles had a virtual veto against peasant candidates.
+		;The opposition parties effectively have a veto on constitutional reform.
+		;a veto over all political appointments
+		;The Ministry of Defence has the power of veto over all arms exports.
+		;The president has a veto on/​over all political appointments.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+				;Oxford Collocations Dictionary
+				;adjective
+				;effectivegovernmentgubernatorial…
+				;verb + veto
+				;havewieldexercise…
+				;veto + noun
+				;powerrightsthreat…
+				;preposition
+				;veto againstveto onveto over…
+				;phrases
+				;a/​the power of vetoa/​the right of veto
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] volition		<-->	noun++C2	[231126][001]	./vəˈlɪʃn/-NAmE -/vəʊˈlɪʃn/ [uncountable] (formal)
+	;ý chí -- (1) the power to choose something freely or to make your own decisions
+		;SYNONYM free will
+		;They left entirely of their own volition (= because they wanted to).
+		;TOPICS PREFERENCES AND DECISIONS-C2
+		;Word Origin
+
+
+
+[-] vote		<-->	noun++B1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] volition		<-->	noun++C2[-0]	.
+[-] vote		<-->	verb++B2	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] vote		<-->	noun++B1[-0]	.
+[-] warm to		<-->	phrasal verb++C2	[231126][001]	./p/
+	;bắt đầu yêu, thích -- (1) [-warm to/towards somebody] to begin to like somebody
+		;I warmed to her immediately.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] warm towards		<-->	phrasal verb++C2	[231126][001]	./p/
+	;bắt đầu yêu, thích -- (1) [-warm to/towards somebody] to begin to like somebody
+		;I warmed to her immediately.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+	; -- (2) 
+	; -- (3) 
+
+
+
+[-] waver		<-->	verb++C2	[231126][001]	./ˈweɪvə(r)/-NAmE -/ˈweɪvər/
+	;dao động, dần yếu đi -- (1) ​[intransitive] to be or become weak or unsteady
+		;His voice wavered with emotion.
+		;Her smile wavered and she began to cry.
+		;Her determination never wavered.
+		;She never wavered in her determination to succeed.
+		;Extra Examples:
+		;Her voice wavered slightly.
+		;His smile never wavered.
+		;She was beginning to waver in her loyalty to the company.
+		;They have never wavered from that view.
+	;chần chư2 -- (2) ​[intransitive] waver (between A and B) | waver (on/over something) to hesitate and be unable to make a decision or choice
+		;SYNONYM hesitate
+		;She's wavering between buying a house in the city or moving away.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+	; -- (3) 
+
+
+
+[-] waverer		<-->	noun++C2	[231126][001]	./ˈweɪvərə(r)/-NAmE -/ˈweɪvərər/
+	;người hay chần chừ -- (1) a person who is unable to make a decision or choice
+		;The strength of his argument convinced the waverers.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+[-] weigh		<-->	verb++C2	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] vote		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] when push comes to shove		<-->	idiom++C2	[231126][001]	./i/
+	;tới bước đường cùng, không có chọn lựa khác -- (1) (informal) when there is no other choice; when everything else has failed
+		;TOPICS PREFERENCES AND DECISIONS-C2, Difficulty and failureC2
 
 
 
-[-] warm to		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
 
-
-
-[-] warm towards		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] waver		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] waverer		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] weigh		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] when push comes to shove		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] whetherconjunctionB1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] wouldmodal 		<-->	verb++A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] would rather… (than)		<-->	idiom++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] would rather… (than)		<-->	idiom++B2	[231126][001]	./i/
+	;thà là ... hơn -- (1) (usually reduced to ’d rather) would prefer to
+		;She'd rather die than give a speech.
+		;‘Do you want to come with us?’ ‘No, I'd rather not.’
+		;Would you rather walk or take the bus?
+		;‘Do you mind if I smoke?’ ‘Well, I'd rather you didn't.’
+		;Personally, I'd rather see the money and resources going into education.
+		;I'd rather have a simple product that actually works than something fancy that's just not reliable.
+		;Express Yourself Expressing a preference
+		;TOPICS PREFERENCES AND DECISIONS-B2
 
 
 
