@@ -248,7 +248,7 @@
 				;verb + antipathy
 				;feelhaveexpress…
 				;preposition
-				;antipathy  betweenantipathy  forantipathy  to…
+				;antipathy betweenantipathy forantipathy to…
 		;See full entry
 		;Word Origin
 
@@ -293,7 +293,7 @@
 				;appeal + noun
 				;appeal courtappeals courttribunal…
 				;preposition
-				;on appealunder appealappeal  against…
+				;on appealunder appealappeal against…
 				;phrases
 				;court of appealcourt of appealsgrounds of appeal…
 		;See full entry
@@ -343,7 +343,7 @@
 				;avenue + verb
 				;be open to somebody
 				;preposition
-				;avenue  foravenue  ofavenue  to…
+				;avenue foravenue ofavenue to…
 		;See full entry
 		;Word Origin
 
@@ -377,7 +377,7 @@
 				;aversion + noun
 				;therapy
 				;preposition
-				;aversion  to
+				;aversion to
 		;See full entry
 		;Word Origin
 
@@ -581,7 +581,7 @@
 
 
 
-[-] decision theory		<-->	noun++C2	[231112][001]	./dɪˈsɪʒn θɪəri/-NAmE /dɪˈsɪʒn θiːəri/,  /dɪˈsɪʒn θɪri/ [uncountable] (mathematics)
+[-] decision theory		<-->	noun++C2	[231112][001]	./dɪˈsɪʒn θɪəri/-NAmE /dɪˈsɪʒn θiːəri/, /dɪˈsɪʒn θɪri/ [uncountable] (mathematics)
 	;lý thuyết ra quyết định -- (1) the study of making the best decision according to what you calculate you will lose or gain from each choice
 		;TOPICS PREFERENCES AND DECISIONS-C2
 
@@ -698,7 +698,7 @@
 
 
 
-[-] dissent		<-->	noun++C2	[231112][001]	./dɪˈsent/-NAmE /dɪˈsent/  formal)
+[-] dissent		<-->	noun++C2	[231112][001]	./dɪˈsent/-NAmE /dɪˈsent/ formal)
 	;sự bất đồng -- (1) [uncountable] the fact of having or expressing opinions that are different from those that are officially accepted
 		;political/religious dissent
 		;Voices of dissent began to rise against the established authority in the 1950s and 1960s.
@@ -748,8 +748,8 @@
 
 
 
-[-] enamoured		<-->	adjective++C2	[231112][001]	./ɪˈnæməd/-NAmE /ɪˈnæmərd/  US English enamored)
-	;say mê -- (1) (formal)  often in negative sentences) liking something a lot
+[-] enamoured		<-->	adjective++C2	[231112][001]	./ɪˈnæməd/-NAmE /ɪˈnæmərd/ US English enamored)
+	;say mê -- (1) (formal) often in negative sentences) liking something a lot
 		;enamoured of something He was less than enamoured of the music.
 		;enamoured with something I'm not exactly enamoured with the idea of spending a whole day with them.
 		;TOPICS PREFERENCES AND DECISIONS-C2
@@ -771,7 +771,7 @@
 
 
 
-[-] faddy		<-->	adjective++C2	[231112][001]	./ˈfædi/-NAmE /ˈfædi/  British English, informal, disapproving)
+[-] faddy		<-->	adjective++C2	[231112][001]	./ˈfædi/-NAmE /ˈfædi/ British English, informal, disapproving)
 	;theo mode, đu trend -- (1) liking some things and not others, especially food, in a way that other people think is unreasonable
 		;a faddy eater
 		;He’s always been faddy about his food.
@@ -866,8 +866,7 @@
 
 
 
-[-] free will		<-->	noun++C2	[231112][001]	./ˌfriː ˈwɪl/-NAmE /ˌfriː ˈwɪl/
-[uncountable]
+[-] free will		<-->	noun++C2	[231112][001]	./ˌfriː ˈwɪl/-NAmE /ˌfriː ˈwɪl/ [uncountable]
 	;ý chí tự do -- (1) the power to make your own decisions about what to do, without being controlled by God, fate or circumstances
 		;TOPICS PREFERENCES AND DECISIONS-C2
 
@@ -891,7 +890,8 @@
 
 [-] go before		<-->	phrasal verb++C2	[231112][001]	./p/
 	; -- (1) 
-	;trình bày trước -- (2) [-] to be presented to somebody/something for discussion, decision or judgement
+	;trình bày trước -- (2)
+[-] to be presented to somebody/something for discussion, decision or judgement
 		;My application goes before the planning committee next week.
 		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (3) 
@@ -909,7 +909,7 @@
 
 
 [-] go off		<-->	phrasal verb++C2	[231112][001]	./p/
-	;thả, rời đi -- (1)  to leave a place, especially in order to do something
+	;thả, rời đi -- (1) to leave a place, especially in order to do something
 		;She went off to get a drink.
 	;nổ tung -- (2) to be fired; to explode
 		;The gun went off by accident.
@@ -963,7 +963,7 @@
 
 
 [-] hand down		<-->	phrasal verb++C2	[231112][001]	./p/
-	;truyền lại -- (1) [-hand something  down (to somebody)] [usually passive] to give or leave something to somebody who is younger than you
+	;truyền lại -- (1) [-hand something down (to somebody)] [usually passive] to give or leave something to somebody who is younger than you
 		;These skills used to be handed down from father to son.
 		;Most of his clothes were handed down to him by his older brother.
 	;tuyên bố -- (2) to officially give a decision/statement, etc.
@@ -1108,8 +1108,7 @@
 
 
 
-[-] Hobson’s choice		<-->	noun++C2	[231119][001]	./ˌhɒbsnz ˈtʃɔɪs/-NAmE /ˌhɑːbsnz ˈtʃɔɪs/
-[uncountable]
+[-] Hobson’s choice		<-->	noun++C2	[231119][001]	./ˌhɒbsnz ˈtʃɔɪs/-NAmE /ˌhɑːbsnz ˈtʃɔɪs/ [uncountable]
 	;không có chọn lựa khác -- (1) a situation in which somebody has no choice because if they do not accept what is offered, they will get nothing
 		;More Like This Expressions with people’s names: Aunt Sally, Hobson’s choice, Hooray Henry, Houdini, Jack the Lad, Jack Robinson, Jane Doe, Joe Bloggs, Joe Public, Joe Sixpack, John Bull, John Doe, John Hancock, Johnny Reb, PC Plod, Uncle Sam
 		;TOPICS PREFERENCES AND DECISIONS-C2
@@ -1173,7 +1172,7 @@
 		;TOPICS Opinion and argumentC1
 	;có thiên hướng -- (4) (used with particular adverbs) having a natural ability for something; preferring to do something
 		;musically/academically inclined children
-		;TOPICS Preferences and decisionsC1
+		;TOPICS PREFERENCES AND DECISIONS-C1
 				;Oxford Collocations Dictionary
 				;verbs
 				;appearbeseem…
@@ -1330,7 +1329,7 @@
 [-] jurisdictional		<-->	adjective++C2	[231119][001]	./ˌdʒʊərɪsˈdɪkʃənl/-NAmE /ˌdʒʊrɪsˈdɪkʃənl/ (formal)
 	;c. pháp lý -- (1) connected with the authority that an official organization has to make legal decisions about somebody/something
 		;a serious jurisdictional error
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
 
@@ -1346,14 +1345,13 @@
 [-] keep/leave your options open		<-->	idiom++C2	[231119][001]	./i/
 	;để ngõ -- (1) to avoid making a decision now so that you still have a choice in the future
 		;At the moment I'm keeping my options open and applying for as many different jobs as possible.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] leaning		<-->	noun++C2	[231119][001]	./ˈliːnɪŋ/-NAmE /ˈliːnɪŋ/
-[usually plural]
+[-] leaning		<-->	noun++C2	[231119][001]	./ˈliːnɪŋ/-NAmE /ˈliːnɪŋ/ [usually plural]
 	;khuynh hướng -- (1) leaning (toward(s) something) a feeling that makes you tend to prefer something or to believe in particular ideas, opinions, etc.
 		;SYNONYM inclination, tendency
 		;My leanings have always been towards comedy rather than tragedy.
@@ -1361,14 +1359,14 @@
 		;Extra Examples:
 		;He had leanings towards classical architecture.
 		;John has no political leanings.
-		;TOPICS Opinion and argumentC2, Preferences and decisionsC2
+		;TOPICS Opinion and argumentC2, PREFERENCES AND DECISIONS-C2
 
 
 
 [-] lean to		<-->	phrasal verb++C2	[231119][001]	./p/
 	;có xu hướng, thích, nghiên về -- (1) [-lean to/towards/toward something] to tend to prefer something, especially a particular opinion or interest
 		;The UK leant towards the US proposal.
-		;TOPICS Opinion and argumentC2, Preferences and decisionsC2
+		;TOPICS Opinion and argumentC2, PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
 
@@ -1377,7 +1375,7 @@
 [-] lean toward		<-->	phrasal verb++C2	[231119][001]	./p/
 	;có xu hướng, thích, nghiên về -- (1) [-lean to/towards/toward something] to tend to prefer something, especially a particular opinion or interest
 		;The UK leant towards the US proposal.
-		;TOPICS Opinion and argumentC2, Preferences and decisionsC2
+		;TOPICS Opinion and argumentC2, PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
 
@@ -1386,7 +1384,7 @@
 [-] lean towards		<-->	phrasal verb++C2	[231119][001]	./p/
 	;có xu hướng, thích, nghiên về -- (1) [-lean to/towards/toward something] to tend to prefer something, especially a particular opinion or interest
 		;The UK leant towards the US proposal.
-		;TOPICS Opinion and argumentC2, Preferences and decisionsC2
+		;TOPICS Opinion and argumentC2, PREFERENCES AND DECISIONS-C2
 
 
 
@@ -1406,7 +1404,7 @@
 
 [-] list box		<-->	noun++C2	[231119][001]	./ˈlɪst bɒks/-NAmE /ˈlɪst bɑːks/
 	;danh sách checkbox -- (1) a list of choices in a box on a computer screen
-		;TOPICS Preferences and decisionsC2, ComputersC2
+		;TOPICS PREFERENCES AND DECISIONS-C2, ComputersC2
 
 
 
@@ -1426,7 +1424,7 @@
 
 [-] majority verdict		<-->	noun++C2	[231119][001]	./məˌdʒɒrəti ˈvɜːdɪkt/-NAmE /məˌdʒɔːrəti ˈvɜːrdɪkt/ (law)
 	;phán quyết theo số đông -- (1) a decision made by a jury in a court case that most members, but not all, agree with
-		;TOPICS Preferences and decisionsC2, Law and justiceC2
+		;TOPICS PREFERENCES AND DECISIONS-C2, Law and justiceC2
 
 
 
@@ -1434,44 +1432,43 @@
 	;xem xét, căn nhắc st -- (1) to consider something, for example when you are making a decision or planning something
 		;The budget made allowance for inflation.
 		;The plan makes no allowance for people working at different rates.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] miscarriage of justice		<-->	noun++C2	[231121][001]	./ˌmɪskærɪdʒ əv ˈdʒʌstɪs/-NAmE /ˌmɪskærɪdʒ əv ˈdʒʌstɪs/
-[uncountable, countable] (law)
+[-] miscarriage of justice		<-->	noun++C2	[231121][001]	./ˌmɪskærɪdʒ əv ˈdʒʌstɪs/-NAmE /ˌmɪskærɪdʒ əv ˈdʒʌstɪs/ [uncountable, countable] (law)
 	;phán quyết oan sai -- (1) a situation in which a court makes a wrong decision, especially when somebody is punished when they are innocent
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
 [-] misogynist		<-->	noun++C2	[231121][001]	./mɪˈsɒdʒɪnɪst/-NAmE /mɪˈsɑːdʒɪnɪst/ (formal)
 	;người ghét phụ nữ -- (1) a person who hates or dislikes women or believes they are not as good as men
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
 [-] misogynistic		<-->	adjective++C2	[231121][001]	./mɪˌsɒdʒɪˈnɪstɪk/-NAmE /mɪˌsɑːdʒɪˈnɪstɪk/ (also misogynist) (formal)
 	;khinh thường phụ nữ -- (1) typical of the behaviour and beliefs of a person who hates or dislikes women or believes they are not as good as men
 		;misogynistic attitudes
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
 [-] nail down		<-->	phrasal verb++C2	[231121][001]	./p/
-	; -- (1) [-nail something  down] to fasten something in place with a nail or nails
+	; -- (1) [-nail something down] to fasten something in place with a nail or nails
 	;căng thẳng, bối rối -- (2) All the parties seem anxious to nail down a ceasefire.
-		;TOPICS Discussion and agreementC2, Preferences and decisionsC2
+		;TOPICS Discussion and agreementC2, PREFERENCES AND DECISIONS-C2
 	; -- (3) 
 
 
 
 [-] narrow down		<-->	phrasal verb++C2	[231121][001]	./p/
-	;thêm hẹp chọn lựa -- (1) [-narrow something  down (to something)] to reduce the number of possibilities or choices
+	;thêm hẹp chọn lựa -- (1) [-narrow something down (to something)] to reduce the number of possibilities or choices
 		;We narrowed the choices down to five categories.
 		;the following list may help narrow down the cause of the problem.
 		;We have narrowed down the list to four candidates.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
@@ -1479,7 +1476,7 @@
 	;có thể thương lượng -- (1) that you can discuss or change before you make an agreement or a decision
 		;The terms of employment are negotiable.
 		;The price was not negotiable.
-		;TOPICS Preferences and decisionsC2, Discussion and agreementC2
+		;TOPICS PREFERENCES AND DECISIONS-C2, Discussion and agreementC2
 	; -- (2) 
 	; -- (3) 
 
@@ -1489,31 +1486,31 @@
 	;không cần bàn cãi -- (1) a decision or a problem that you do not need to think about much because it is obvious what you should do
 		;The question of who to support in this election should be a no-brainer.
 		;I said yes straight away. It was a no-brainer for me.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
 [-] not budge/give/move an inch		<-->	idiom++C2	[231121][001]	./i/
 	;nhúc nhích một inch -- (1) to refuse to change your position, decision, etc. even a little
 		;We tried to negotiate a lower price but they wouldn't budge an inch.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
 
 
 
 [-] on the horns of a dilemma		<-->	idiom++C2	[231121][001]	./i/
-	;tình huống phải chọn điều khó  xử -- (1) in a situation in which you have to make a choice between things that are equally unpleasant
+	;tình huống phải chọn điều khó xử -- (1) in a situation in which you have to make a choice between things that are equally unpleasant
 		;The medical profession’s eagerness for scientific advance had impaled it on the horns of a dilemma, forcing an unnatural choice between science and morality.
 		;The dire economic situation had placed the prime minister on the horns of a dilemma.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
 [-] open verdict		<-->	noun++C2	[231121][001]	./ˌəʊpən ˈvɜːdɪkt/-NAmE /ˌəʊpən ˈvɜːrdɪkt/
 	;bản án mở -- (1) an official decision in a British court stating that the exact cause of a person’s death is not known
 		;After the inquest, the coroner recorded an open verdict.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
@@ -1526,7 +1523,7 @@
 
 [-] overfond		<-->	adjective++C2	[231121][001]	./ˌəʊvəˈfɒnd/-NAmE /ˌəʊvərˈfɑːnd/
 	;quá thích -- (1) overfond of somebody/something liking somebody/something too much
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
@@ -1537,18 +1534,17 @@
 		;SYNONYM overrule
 		;<< overrule, override, >>
 		;The chairman overrode the committee's objections and signed the agreement.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] overrule		<-->	verb++C2	[231121][001]	./ˌəʊvəˈruːl/-NAmE /ˌəʊvərˈruːl/
-[often passive]
+[-] overrule		<-->	verb++C2	[231121][001]	./ˌəʊvəˈruːl/-NAmE /ˌəʊvərˈruːl/ [often passive]
 	;nói lấn át -- (1) overrule somebody/something to change a decision or reject an idea from a position of greater power
 		;SYNONYM override
 		;<< overrule, override, >>
 		;to overrule a decision/an objection
 		;The verdict was overruled by the Supreme Court.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 		;Oxford Collocations Dictionary
 				;Overrule is used with these nouns as the subject:
 				;judge
@@ -1580,7 +1576,7 @@
 	;sự yêu thích thái quá -- (2) [singular] partiality for something/somebody a feeling of liking something/somebody very much
 		;<< fondness, penchant, partiality, >>
 		;She has a partiality for exotic flowers.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 		;Word Origin
 
 
@@ -1597,7 +1593,7 @@
 		;SYNONYM fondness
 		;<< fondness, penchant, partiality, >>
 		;She has a penchant for champagne.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 		;Word Origin
 
 
@@ -1607,7 +1603,7 @@
 		;Anglophile
 		;bibliophile
 		;COMPARE -phobe
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 		;Word Origin
 
 
@@ -1617,42 +1613,42 @@
 		;Anglophobe
 		;xenophobe
 		;COMPARE -phile
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 		;Word Origin
 
 
 
-[-] pick		<-->	verb++A2[0]	./cef/
+[-] pick		<-->	verb++A2	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] pick and choose		<-->	idiom++C2[0]	./i/
+[-] pick and choose		<-->	idiom++C2	[231126][001]	./i/
 	;chọn thoải mái -- (1) to choose only those things that you like or want very much
 		;You have to take any job you can get—you can't pick and choose.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] pick a winner		<-->	idiom++C2[0]	./i/
+[-] pick a winner		<-->	idiom++C2	[231126][001]	./i/
 	; -- (1) to choose a horse, etc. that you think is most likely to win a race
 		;He's very good at picking winners.
 	;tạo ra chọn lựa tốt nhất -- (2) (informal) to make a very good choice
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] picky		<-->	adjective++C2[0]	./ˈpɪki/-NAmE /ˈpɪki/ (informal)
+[-] picky		<-->	adjective++C2	[231126][001]	./ˈpɪki/-NAmE /ˈpɪki/ (informal)
 	;kiểu cách, kén chon -- (1) ​(of a person) liking only particular things and difficult to please
 		;SYNONYM fussy
 		;<< fussy, picky, >>
 		;a picky eater
 		;She’s very picky about her clothes.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 				;Oxford Collocations Dictionary
 				;Picky is used with these nouns:
 				;eater
@@ -1660,31 +1656,31 @@
 
 
 
-[-] please		<-->	verb++C1[0]	./cef/
+[-] please		<-->	verb++C1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] potty		<-->	adjective++C2[0]	./ˈpɒti/-NAmE /ˈpɑːti/ (British English, informal, becoming old-fashioned) (comparative pottier, superlative pottiest)
+[-] potty		<-->	adjective++C2	[231126][001]	./ˈpɒti/-NAmE /ˈpɑːti/ (British English, informal, becoming old-fashioned) (comparative pottier, superlative pottiest)
 	;phát rồ -- (1) crazy
 		;The kids are driving me potty!
 	;thích, say mê, phát rồ -- (2) ​potty about somebody/something liking somebody/something a lot
 		;She’s potty about you!
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 		;Word Origin
 
 
 
-[-] prefer		<-->	verb++A1[0]	./cef/
+[-] prefer		<-->	verb++A1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] preferable		<-->	adjective++C1[0]	./ˈprefrəbl/-NAmE /ˈprefrəbl/
+[-] preferable		<-->	adjective++C1	[231126][001]	./ˈprefrəbl/-NAmE /ˈprefrəbl/
 	;tốt hơn -- (1) more attractive or more suitable; to be preferred to something
 		;preferable (to something) Anything was preferable to the tense atmosphere at home.
 		;preferable (to doing something) He finds country life infinitely preferable to living in the city.
@@ -1694,7 +1690,7 @@
 		;The new policies are infinitely preferable to what went before.
 		;The summer months are preferable for weddings.
 		;This technique is far preferable to any alternative.
-		;TOPICS Preferences and decisionsC1
+		;TOPICS PREFERENCES AND DECISIONS-C1
 				;Oxford Collocations Dictionary
 				;verbs
 				;beseembecome…
@@ -1706,28 +1702,28 @@
 
 
 
-[-] preferably		<-->	adverb++C1[0]	./ˈprefrəbli/-NAmE /ˈprefrəbli/
+[-] preferably		<-->	adverb++C1	[231126][001]	./ˈprefrəbli/-NAmE /ˈprefrəbli/
 	;tốt nhất là -- (1) in a way that is more attractive or more suitable; in a way that is preferred to other ways
 		;We're looking for a new house, preferably one near the school.
-		;TOPICS Preferences and decisionsC1
+		;TOPICS PREFERENCES AND DECISIONS-C1
 
 
 
-[-] preference		<-->	noun++B2[0]	./cef/
+[-] preference		<-->	noun++B2	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] prejudice		<-->	noun++C1[0]	./cef/
+[-] prejudice		<-->	noun++C1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] prejudiced		<-->	adjective++C2[0]	./ˈpredʒədɪst/-NAmE /ˈpredʒədɪst/
+[-] prejudiced		<-->	adjective++C2	[231126][001]	./ˈpredʒədɪst/-NAmE /ˈpredʒədɪst/
 	;có thành kiến -- (1) having an unreasonable dislike of or preference for somebody/something, especially based on their race, religion, sex, etc.
 		;Few people will admit to being racially prejudiced.
 		;prejudiced (against/in favour of somebody/something) They are prejudiced against older applicants.
@@ -1735,7 +1731,7 @@
 		;Extra Examples:
 		;I was a little prejudiced against him because of his background.
 		;She had to cope with the prejudiced views of the majority of the party.
-		;TOPICS Preferences and decisionsC2, Opinion and argumentC2, Personal qualitiesC2, Social issuesC2
+		;TOPICS PREFERENCES AND DECISIONS-C2, Opinion and argumentC2, Personal qualitiesC2, Social issuesC2
 				;Oxford Collocations Dictionary
 				;verbs
 				;beseem
@@ -1747,39 +1743,37 @@
 
 
 
-[-] put off		<-->	phrasal verb++C1[0]	./p/
-	;xóa bỏ -- (1) [-put somebody  off] to cancel a meeting or an arrangement that you have made with somebody
+[-] put off		<-->	phrasal verb++C1	[231126][001]	./p/
+	;xóa bỏ -- (1) [-put somebody off] to cancel a meeting or an arrangement that you have made with somebody
 		;It's too late to put them off now.
 		;She put him off with the excuse that she had too much work to do.
 	;bỏ qua -- (2) to make somebody dislike somebody/something or not trust them/it
 		;She's very clever but her manner does tend to put people off.
 		;Don't be put off by how it looks—it tastes delicious.
 		;SEE ALSO off-putting
-		;TOPICS Preferences and decisionsC1
+		;TOPICS PREFERENCES AND DECISIONS-C1
 	; -- (3) 
 
 
 
-[-] quorate		<-->	adjective++C2[0]	./ˈkwɔːreɪt/,  /ˈkwɔːrət/-NAmE /ˈkwɔːreɪt/,  /ˈkwɔːrət/ (British English, specialist)
+[-] quorate		<-->	adjective++C2	[231126][001]	./ˈkwɔːreɪt/, /ˈkwɔːrət/-NAmE /ˈkwɔːreɪt/, /ˈkwɔːrət/ (British English, specialist)
 	;trang trọng??? -- (1) a meeting that is quorate has enough people present for them to make official decisions by voting
 		;OPPOSITE inquorate
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] quorum		<-->	noun++C2[0]	./ˈkwɔːrəm/-NAmE /ˈkwɔːrəm/
-[singular]
+[-] quorum		<-->	noun++C2	[231126][001]	./ˈkwɔːrəm/-NAmE /ˈkwɔːrəm/ [singular]
 	;số đại biểu -- (1) the smallest number of people who must be at a meeting before it can begin or decisions can be made
 		;If a quorum is not present, the meeting must be adjourned.
 		;I’m afraid we don’t have a quorum.
 		;The number of representatives attending was too small to constitute a quorum.
-		;TOPICS Preferences and decisionsC2, Working lifeC2
+		;TOPICS PREFERENCES AND DECISIONS-C2, Working lifeC2
 		;Word Origin
 
 
 
-[-] railroad		<-->	verb++C2[0]	./ˈreɪlrəʊd/-NAmE /ˈreɪlrəʊd/\
-[usually passive]
+[-] railroad		<-->	verb++C2	[231126][001]	./ˈreɪlrəʊd/-NAmE /ˈreɪlrəʊd/\ [usually passive]
 	; -- (1) to force somebody to do something before they have had enough time to decide whether or not they want to do it
 		;SYNONYM bulldoze
 		;be railroaded into doing something I will not be railroaded into signing something I don't agree with.
@@ -1787,19 +1781,18 @@
 	;hăm dọa -- (2) to make a group of people accept a decision, law, etc. quickly by putting pressure on them
 		;be railroaded through something The bill was railroaded through the House.
 		;be railroaded through The changes were railroaded through.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (3) 
 
 
 
-[-] reconsider		<-->	verb++C1[0]	./ˌriːkənˈsɪdə(r)/-NAmE /ˌriːkənˈsɪdər/
-[transitive, intransitive]
+[-] reconsider		<-->	verb++C1	[231126][001]	./ˌriːkənˈsɪdə(r)/-NAmE /ˌriːkənˈsɪdər/ [transitive, intransitive]
 	;xem xét lại -- (1) ​to think about something again, especially because you might want to change a previous decision or opinion
 		;reconsider (something) to reconsider your decision/position
 		;The company was forced to reconsider its plans for expansion.
 		;Recent information may persuade the board to reconsider.
 		;reconsider what, how, etc… You may need to reconsider what you want to do.
-		;TOPICS Preferences and decisionsC1, Opinion and argumentC1
+		;TOPICS PREFERENCES AND DECISIONS-C1, Opinion and argumentC1
 				;Oxford Collocations Dictionary
 				;Reconsider is used with these nouns as the object:
 				;decisionideaview…
@@ -1807,27 +1800,25 @@
 
 
 
-[-] reconsideration		<-->	noun++C2[0]	./ˌriːkənˌsɪdəˈreɪʃn/-NAmE /ˌriːkənˌsɪdəˈreɪʃn/
-[uncountable, singular]
+[-] reconsideration		<-->	noun++C2	[231126][001]	./ˌriːkənˌsɪdəˈreɪʃn/-NAmE /ˌriːkənˌsɪdəˈreɪʃn/ [uncountable, singular]
 	;sự xem xét lại -- (1) the act or process of thinking about something again, especially because you might want to change a previous decision or opinion
 		;They called for a reconsideration of the issue.
-		;TOPICS Preferences and decisionsC2, Opinion and argumentC2
+		;TOPICS PREFERENCES AND DECISIONS-C2, Opinion and argumentC2
 
 
 
-[-] remit to		<-->	phrasal verb++C2[0]	./p/
+[-] remit to		<-->	phrasal verb++C2	[231126][001]	./p/
 	;chuyển đến -- (1) [-remit something to somebody] [usually passive] (law) to send a matter to an authority so that a decision can be made
 		;The case was remitted to the Court of Appeal.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] repugnance		<-->	noun++C2[0]	./rɪˈpʌɡnəns/-NAmE /rɪˈpʌɡnəns/
-[uncountable] (formal)
+[-] repugnance		<-->	noun++C2	[231126][001]	./rɪˈpʌɡnəns/-NAmE /rɪˈpʌɡnəns/ [uncountable] (formal)
 	;sự ghê tởm -- (1) a very strong feeling of dislike for something
 		;SYNONYM repulsion
 		;She was trying to overcome her physical repugnance for him.
-		;TOPICS Preferences and decisionsC2, FeelingsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2, FeelingsC2
 		;Word Origin
 
 
@@ -1839,42 +1830,42 @@
 
 
 
-[-] resistance		<-->	noun++C1[0]	./cef/
+[-] resistance		<-->	noun++C1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] resolution		<-->	noun++B2[0]	./cef/
+[-] resolution		<-->	noun++B2	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] resolve		<-->	verb++C2[0]	./cef/
+[-] resolve		<-->	verb++C2	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] retreat		<-->	noun++C2[0]	./cef/
+[-] retreat		<-->	noun++C2	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] return		<-->	verb++C2[0]	./cef/
+[-] return		<-->	verb++C2	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] reverse		<-->	verb++C1[0]	./cef/
+[-] reverse		<-->	verb++C1	[231126][001]	./cef/
 	; -- (1) 
 	;đảo ngược, huỷ bỏ -- (2) transitive] reverse something to change a previous decision, law, etc. to the opposite one
 		;SYNONYM revoke
@@ -1882,34 +1873,34 @@
 		;The Court of Appeal reversed the decision.
 		;The policy is likely to be reversed if there is a change of government.
 		;to reverse a judgement
-		;TOPICS Preferences and decisionsC1
+		;TOPICS PREFERENCES AND DECISIONS-C1
 	; -- (3) 
 
 
 
-[-] rowback		<-->	noun++C2[0]	./ˈrəʊbæk/-NAmE /ˈrəʊbæk/
+[-] rowback		<-->	noun++C2	[231126][001]	./ˈrəʊbæk/-NAmE /ˈrəʊbæk/
 	;sự lùi bước -- (1) he act of changing an earlier decision or opinion completely so that it is the opposite of what it was before
 		;The government was forced into more rowbacks on budget cuts.
-		;TOPICS Preferences and decisionsC2, Opinion and argumentC2
+		;TOPICS PREFERENCES AND DECISIONS-C2, Opinion and argumentC2
 
 
 
-[-] rubber-stamp		<-->	verb++C2[0]	./ˌrʌbə ˈstæmp/-NAmE /ˌrʌbər ˈstæmp/ (often disapproving)
+[-] rubber-stamp		<-->	verb++C2	[231126][001]	./ˌrʌbə ˈstæmp/-NAmE /ˌrʌbər ˈstæmp/ (often disapproving)
 	;xem thường -- (1) rubber-stamp something to give official approval to a law, plan, decision, etc., especially without considering it carefully
 		;The council just rubber-stamps decisions made by a higher authority.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] rubber stamp		<-->	noun++C2[0]	./ˌrʌbə ˈstæmp/-NAmE /ˌrʌbər ˈstæmp/\
+[-] rubber stamp		<-->	noun++C2	[231126][001]	./ˌrʌbə ˈstæmp/-NAmE /ˌrʌbər ˈstæmp/\
 	;con dấu -- (1) ​enlarge image a small tool that you hold in your hand and use for printing the date, the name of an organization, etc. on a document
 	;nhóm người ra quyết định cẩu thả -- (2) ​(disapproving) a person or group that gives approval to the actions or decisions of others without considering them
 		;Parliament is seen as a rubber stamp for decisions made elsewhere.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] rule		<-->	verb++C1[0]	./cef/
+[-] rule		<-->	verb++C1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	;phán quyết -- (3) [B1-C1] [-give official decision] [intraansitive, transitive] to give an official decision about something
@@ -1922,44 +1913,44 @@
 		;rule somebody/something to be/have something The deal was ruled to be illegal.
 		;rule that… The court ruled that the women were unfairly dismissed.
 		;it is ruled that… It was ruled that the women had been unfairly dismissed.
-		;TOPICS Preferences and decisionsC1, Law and justiceC1
+		;TOPICS PREFERENCES AND DECISIONS-C1, Law and justiceC1
 
 
 
-[-] ruling		<-->	noun++C1[0]	./cef/
+[-] ruling		<-->	noun++C1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] say		<-->	noun++C1[0]	./cef/
+[-] say		<-->	noun++C1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] settle on		<-->	phrasal verb++C2[0]	./p/
+[-] settle on		<-->	phrasal verb++C2	[231126][001]	./p/
 	;quyết định -- (1) [-settle on something] to choose or make a decision about something after thinking about it
 		;Have you settled on a name for the baby yet?
 		;After much deliberation, he finally settled on a fur rug.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] sleep on		<-->	phrasal verb++C2[0]	./p/
+[-] sleep on		<-->	phrasal verb++C2	[231126][001]	./p/
 	;trì hoãn -- (1) [-sleep on something] (informal) to delay making a decision about something until the next day, so that you have time to think about it
 		;Could I sleep on it and let you know tomorrow?
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] somebody’s pet hate		<-->	idiom++C2[0]	./i/
+[-] somebody’s pet hate		<-->	idiom++C2	[231126][001]	./i/
 	;thứ mà bạn rất ghét -- (1) (especially North American English) (British English usually somebody’s pet peeve) something that you particularly dislike
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 	; -- (2) 
 	; -- (3) 
 
@@ -1967,30 +1958,28 @@
 
 
 
-[-] somebody’s pet peeve		<-->	idiom++C2[0]	./i/
+[-] somebody’s pet peeve		<-->	idiom++C2	[231126][001]	./i/
 	;thứ mà bạn rất ghét -- (1) thứ mà bạn rất ghét -- (1) (especially North American English) (British English usually somebody’s pet hate) something that you particularly dislike
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] the Rubicon		<-->	noun++C2[0]	./ðə ˈruːbɪkən/
- /ðə ˈruːbɪkɑːn/
-[singular]
+[-] the Rubicon		<-->	noun++C2	[231126][001]	./ðə ˈruːbɪkən/-NAmE -/ðə ˈruːbɪkɑːn/ [singular]
 	;điểm không thể quay đầu -- (1) the point at which a decision has been taken which can no longer be changed
 		;Today we cross the Rubicon. There is no going back.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 		;Word Origin
 
 
 
-[-] straight		<-->	adjective++C2[0]	./cef/
+[-] straight		<-->	adjective++C2	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 	;đơn giản -- [A2-C2] (7) [-choice] [only before noun] simple; involving only two clear choices [t]
 		;It was a straight choice between taking the job and staying out of work.
 		;(British English) The election was a straight fight between the two main parties.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 			;Oxford Collocations Dictionary
 			;verbs
 				;beget somethingput somebody…
@@ -2000,142 +1989,242 @@
 
 
 
-[-] tail		<-->	noun++C1[0]	./cef/
+[-] tail		<-->	noun++C1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
 	;mặt sau đồng tiền -- (7) [-side of coin] TAILS [uncountable] the side of a coin that does not have a picture of the head of a person on it, used as one choice when a coin is tossed to decide something
 		;COMPARE heads
-		;TOPICS Preferences and decisionsC1
+		;TOPICS PREFERENCES AND DECISIONS-C1
 
 
 
-[-] take account of something		<-->	idiom+B2[0]	./p/
+[-] take account of something		<-->	idiom+B2	[231126][001]	./p/
 	;quan tâm, tham dự vào -- (1) to consider particular facts, circumstances, etc. when making a decision about something
 		;The company takes account of environmental issues wherever possible.
 		;Coursework is taken into account as well as exam results.
-		;TOPICS Preferences and decisionsB2
+		;TOPICS PREFERENCES AND DECISIONS-B2
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] take a chance (on something)		<-->	idiom++C1[0]	./i/
+[-] take a chance (on something)		<-->	idiom++C1	[231126][001]	./i/
 	;quyết định làm, nhận thử thách -- (1) to decide to do something, knowing that it might be the wrong choice
 		;We took a chance on the weather and planned to have the party outside.
 		;Extra Examples:
 		;The manager took a chance on the young goalkeeper.
 		;The guide book didn't mention the hotel, but we decided to take a chance.
-		;TOPICS Preferences and decisionsC1
+		;TOPICS PREFERENCES AND DECISIONS-C1
 
 
 
-[-] take a fancy to somebody/something		<-->	idiom++C2[0]	./i/
+[-] take a fancy to somebody/something		<-->	idiom++C2	[231126][001]	./i/
 	;bắt đầu thích -- (1) (especially British English) to start liking somebody/something, often without an obvious reason
 		;He’s taken quite a fancy to his next-door neighbour.
-		;TOPICS Preferences and decisionsC2
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] take against		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] take against		<-->	phrasal verb++C2	[231126][001]	./p/
+	;khó chịu -- (1) [-take against somebody/something] [no passive] (old-fashioned, British English) to start not liking somebody/something for no clear reason
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] take a shine to somebody/something		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] take a shine to somebody/something		<-->	idiom++C2	[231126][001]	./i/
+	;bắt đầu thích, yêu -- (1) (informal) to begin to like somebody very much as soon as you see or meet them
+		;He seems to have taken a shine to you.
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
-[-] take something into consideration		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] take something into consideration		<-->	idiom++C1	[231126][001]	./i/
+	;xem xét -- (1) to think about and include a particular thing or fact when you are forming an opinion or making a decision
+		;The candidates' experience and qualifications will be taken into consideration when the decision is made.
+		;Taking everything into consideration, the event was a great success.
+		;Extra Examples:
+		;Don't forget to take the cost of insurance into consideration.
+		;You must take the size of the room into consideration.
+		;TOPICS PREFERENCES AND DECISIONS-C1, Opinion and argumentC1
 
 
 
-[-] take something under advisement		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] take something under advisement		<-->	idiom++C2	[231126][001]	./i/
+	;đặt st dưới sự cân nhắc, căn nhắc -- (1) ​(formal) to think carefully about something before making a decision about it
+		;The judge has taken the matter under advisement.
+		;TOPICS PREFERENCES AND DECISIONS-C2
 
 
 
 [-] take to		<-->	phrasal verb++C2[-0]	.
+	;trốn chạy -- (1) [-take to something [no passive]] to go away to a place, especially to escape from danger
+		;The rebels took to the hills.
+	; -- (2) 
+	;yêu/thích ngay cái nhìn đầu tiên -- (3) [-take to somebody/something] [no passive] to start liking somebody/something
+		;I took to my new boss immediately.
+		;He hasn't taken to his new school.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+[-] taste		<-->	noun++B2	[231126][001]	./cef/
 	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;khả năng thưởng thức -- [A2-B2] (5) [-ability to choose well] [uncoountable] a person’s ability to choose things that people recognize as being of good quality or appropriate
+		;taste in something He has very good taste in music.
+		;They've got more money than taste.
+		;She's famous for her impeccable taste and style.
+		;Extra Examples:
+		;The room was furnished with taste.
+		;The remark showed a deplorable lack of taste.
+		;The designer has exercised good taste in her choice of fabrics.
+		;Her work is executed with impeccable taste.
+		;Contemporary arbiters of taste dismissed his paintings as rubbish.
+		;TOPICS PREFERENCES AND DECISIONS-B2
+			;Oxford Collocations Dictionary
+			;adjective
+				;excellentexquisitefine…
+			;verb + taste
+				;reflectshowexercise…
+			;preposition
+				;in … tastewith tastetaste in…
+			;phrases
+				;an arbiter of tastein the best possible tastein the worst possible taste…
+		;See full entry
+	;thị hiếu -- [A2-B2] (6) [-what you like] [countable, uncoountable] what a person likes or prefers
+		;You can adapt the recipe to suit your personal taste.
+		;taste for something That trip gave me a taste for foreign travel.
+		;to develop/acquire a taste for luxury
+		;taste in something He has very expensive taste in clothes.
+		;The colour and style is a matter of personal taste
+		;to somebody's taste Modern art is not to everyone's taste.
+		;Extra Examples:
+		;There are trips to suit all tastes.
+		;They have a taste for adventure.
+		;Her choice of outfit demonstrated her taste for the outrageous.
+		;Now he is retired he has time to indulge his tastes for writing and politics.
+		;People with a taste for complex plots will enjoy this book.
+		;Her music appeals to popular taste.
+		;His tastes run to the exotic.
+		;If fishing is not to your taste, there are many other leisure activities on offer.
+		;The house reflected his tastes.
+		;The music was too modern for my taste.
+		;You obviously share her taste in reading.
+		;He has an unusual taste in music.
+		;TOPICS PREFERENCES AND DECISIONS-B2
+			;Oxford Collocations Dictionary
+			;adjective
+				;catholiceclecticvaried…
+			;verb + taste
+				;havelikeshare…
+				;taste + verb
+				;lierunchange…
+			;preposition
+				;for somebody’s tasteto tasteto your taste…
+			;phrases
+				;a man/woman of … tastesa matter of (personal) tastea wide range/variety of tastes…
+		;See full entry
+
+
+
+[-] that’s that		<-->	idiom++C2	[231126][001]	./i/
+	;vấn đề đã quyết định -- (1) (informal) used to say that your decision cannot be changed
+		;Well I'm not going, and that's that.
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+[-] the lesser of two evils		<-->	idiom++C2	[231126][001]	./i/
+	;cái đã tệ hơn -- (1) the less unpleasant of two unpleasant choices
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+[-] think over		<-->	phrasal verb++C1	[231126][001]	./p/
+	;căn nhắc kỹ -- (1) [-hink something over] ​to consider something carefully, especially before reaching a decision
+		;He'd like more time to think things over.
+		;I've been thinking over what you said.
+		;TOPICS PREFERENCES AND DECISIONS-C1
+
+
+
+[-] think twice about something/about doing something		<-->	idiom++C1	[231126][001]	./i/
+	;nghĩ kỹ -- (1) to think carefully before deciding to do something
+		;You should think twice about employing someone you've never met.
+		;TOPICS PREFERENCES AND DECISIONS-C1
+
+
+
+[-] toss-up		<-->	noun++C2	[231126][001]	./ˈtɒs ʌp/-NAmE -/ˈtɔːs ʌp/ [singular] (informal)
+	;sự ngang bằng -- (1) a situation in which either of two choices, results, etc. is equally possible
+		;‘Have you decided on the colour yet?’ ‘It's a toss-up between the blue and the green.’
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+[-] toughie		<-->	noun++C2	[231126][001]	./ˈtʌfi/-NAmE -/ˈtʌfi/ (informal)
+	;người cương nghị -- (1) a person who is determined and not easily frightened
+	;sự lựa chọn khó khăn -- (2) a very difficult choice or question
+		;TOPICS PREFERENCES AND DECISIONS-C2
+
+
+
+[-] unanimous		<-->	adjective++C2	[231126][001]	./juˈnænɪməs/
+ /juˈnænɪməs/
+	;nhất trí -- (1) ​if a decision or an opinion is unanimous, it is agreed or shared by everyone in a group
+		;a unanimous vote
+		;unanimous support
+		;The decision was not unanimous.
+		;Unanimous agreement must be reached for this plan to go ahead.
+		;The jury reached a unanimous verdict of ‘not guilty’.
+		;She was the unanimous choice of the selection committee.
+		;TOPICS PREFERENCES AND DECISIONS-C2, Opinion and argumentC2
+				;Oxford Collocations Dictionary
+				;verbs
+				;be
+				;adverb
+				;almostnearlyvirtually…
+				;preposition
+				;aboutinon…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] taste		<-->	noun++B2[-0]	.
-	; -- (1) 
+[-] undecided		<-->	adjective++C1	[231126][001]	./ˌʌndɪˈsaɪdɪd/
+ /ˌʌndɪˈsaɪdɪd/ [not usually before noun]
+	;Word Family:
+			decide verb
+			decision noun (≠ indecision)
+			decisive adjective (≠ indecisive)
+			undecided adjective
+	;chưa quyết định -- (1) not having made a decision about somebody/something
+		;undecided (about somebody/something) I’m still undecided (about) who to vote for.
+		;undecided (as to something) He was undecided as to what to do next.
+		;Extra Examples:
+		;Only about 5% of the voters are truly undecided.
+		;She is as yet undecided about her career.
+		;She is as yet undecided in which direction she wants to make her future career.
+		;The government remains undecided on this issue.
+		;They are undecided as to whether to buy a new car.
+		;TOPICS PREFERENCES AND DECISIONS-C1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beseemremain…
+				;adverb
+				;trulystillas yet…
+				;preposition
+				;aboutas toon…
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
 
 
-[-] that’s that		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] the lesser of two evils		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] think over		<-->	phrasal verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] think twice about something/about doing something		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] toss-up		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] toughie		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] unanimous		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] undecided		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-[-] uphold		<-->	verb++C1[-0]	.
+[-] uphold		<-->	verb++C1	[231126][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
