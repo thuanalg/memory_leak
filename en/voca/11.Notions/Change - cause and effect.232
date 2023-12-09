@@ -74,8 +74,7 @@
 
 
 
-[-] accrual		<-->	noun++C2	[231203][001]	./əˈkruːəl/-NAmE /əˈkruːəl/
-(formal)
+[-] accrual		<-->	noun++C2	[231203][001]	./əˈkruːəl/-NAmE /əˈkruːəl/ (formal)
 	;sự tích lũy -- (1) [uncountable] the fact of something increasing over a period of time
 		;the accrual of interest
 		;TOPICS CHANGE, CAUSE AND EFFECT-C2
@@ -92,8 +91,7 @@
 
 
 
-[-] accrue		<-->	verb++C2	[231203][001]	./əˈkruː/-NAmE -/əˈkruː/
-(formal)
+[-] accrue		<-->	verb++C2	[231203][001]	./əˈkruː/-NAmE -/əˈkruː/ (formal)
 	;tích lũy -- (1) [intransitive] to increase over a period of time
 		;Interest will accrue if you keep your money in a savings account.
 		;accrue (to somebody) (from something) economic benefits accruing to the country from tourism
@@ -141,8 +139,7 @@
 
 
 
-[-] accumulative		<-->	adjective++C2	[231203][001]	./əˈkjuːmjələtɪv/-NAmE /əˈkjuːmjələtɪv/
-(formal)
+[-] accumulative		<-->	adjective++C2	[231203][001]	./əˈkjuːmjələtɪv/-NAmE /əˈkjuːmjələtɪv/ (formal)
 	;tích lũy -- (1) growing by increasing gradually
 		;the accumulative effects of pollution
 		;TOPICS CHANGE, CAUSE AND EFFECT-C2
@@ -243,8 +240,7 @@
 
 
 
-[-] ameliorate		<-->	verb++C2	[231203][001]	./əˈmiːliəreɪt/-NAmE /əˈmiːliəreɪt/
-(formal)
+[-] ameliorate		<-->	verb++C2	[231203][001]	./əˈmiːliəreɪt/-NAmE /əˈmiːliəreɪt/ (formal)
 	;cải thiện -- (1) ameliorate something to make better something that was bad or not good enough
 		;Steps have been taken to ameliorate the situation.
 		;The new laws were designed to ameliorate the problem of chronic debt.
@@ -384,8 +380,7 @@
 
 
 
-[-] augment		<-->	verb++C2	[231203][001]	./ɔːɡˈment/-NAmE /ɔːɡˈment/
-(formal)
+[-] augment		<-->	verb++C2	[231203][001]	./ɔːɡˈment/-NAmE /ɔːɡˈment/ (formal)
 	;tăng -- (1) augment something to increase the amount, value, size, etc. of something
 		;He wrote magazine articles in order to augment his income.
 		;The band had been augmented by two extra trombonists.
@@ -732,8 +727,7 @@
 
 
 
-[-] causality		<-->	noun++C2	[231203][001]	./kɔːˈzæləti/-NAmE /kɔːˈzæləti/
-(also causation)
+[-] causality		<-->	noun++C2	[231203][001]	./kɔːˈzæləti/-NAmE /kɔːˈzæləti/ (also causation)
 [uncountable] (formal)
 	;mối quan hệ nhân quả, nhân quả -- (1) the relationship between something that happens and the reason for it happening; the principle that nothing can happen without a cause
 		;TOPICS CHANGE, CAUSE AND EFFECT-C2
@@ -749,8 +743,7 @@
 
 
 
-[-] causally		<-->	adverb++C2	[231203][001]	./ˈkɔːzəli/-NAmE /ˈkɔːzəli/
-(formal)
+[-] causally		<-->	adverb++C2	[231203][001]	./ˈkɔːzəli/-NAmE /ˈkɔːzəli/ (formal)
 	;về nhân quả -- (1) in a way in which one thing causes another to happen
 		;Are the two factors causally connected?
 		;TOPICS CHANGE, CAUSE AND EFFECT-C2
@@ -998,11 +991,10 @@
 
 
 
-[-] consequent		<-->	adjective++C1	[231203][001]	./ˈkɒnsɪkwənt/-NAmE /ˈkɑːnsɪkwent/
-(formal)
+[-] consequent		<-->	adjective++C1	[231203][001]	./ˈkɒnsɪkwənt/-NAmE /ˈkɑːnsɪkwent/ (formal)
 	;có kết quả -- (1) happening as a result of something
 		;SYNONYM resultant
-		;<< resultant, consequent, >>
+		;<< resultant, consequent, consequential, >>
 		;the lowering of taxes and the consequent increase in spending
 		;consequent on/upon something the responsibilities consequent upon the arrival of a new child
 		;TOPICS CHANGE, CAUSE AND EFFECT-C1
@@ -1018,7 +1010,42 @@
 
 
 
-[-] consequential		<-->	adjective++C2[-0]	.
+[-] consequential		<-->	adjective++C2	[231209][001]	./ˌkɒnsɪˈkwenʃl/-NAmE /ˌkɑːnsɪˈkwenʃl/ (formal)
+	;có kết quả -- (1) happening as a result or an effect of something
+		;SYNONYM resultant
+		;retirement and the consequential reduction in income
+		;TOPICS CHANGE, CAUSE AND EFFECT-C2
+		;<< << resultant, consequent, consequential, >>
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+[-] consequentially		<-->	adverb++C2	[231209][001]	./ˌkɒnsɪˈkwenʃəli/-NAmE /ˌkɑːnsɪˈkwenʃəli/
+	;có kết quả -- (1) happening as a result or an effect of something
+		;TOPICS CHANGE, CAUSE AND EFFECT-C2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+[-] consequently		<-->	adverb++B2	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1033,7 +1060,7 @@
 
 
 
-[-] consequentially		<-->	adverb++C2[-0]	.
+[-] contribute		<-->	verb++B2	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1048,7 +1075,7 @@
 
 
 
-[-] consequently		<-->	adverb++B2[-0]	.
+[-] contribution		<-->	noun++B2	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1063,7 +1090,7 @@
 
 
 
-[-] contribute		<-->	verb++B2[-0]	.
+[-] contributor		<-->	noun++C1	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1078,8 +1105,13 @@
 
 
 
-[-] contribution		<-->	noun++B2[-0]	.
-	; -- (1) 
+[-] contributory		<-->	adjective++C2	[231209][001]	./kənˈtrɪbjətəri/-NAmE /kənˈtrɪbjətɔːri/
+[usually before noun]
+	;có đóng góp -- (1) helping to cause something
+		;Alcohol is a contributory factor in 10 per cent of all road accidents.
+		;Smoking is a contributory cause of many diseases.
+		;(British English) He was found guilty of contributory negligence (= that helped to cause an accident).
+		;TOPICS CHANGE, CAUSE AND EFFECT-C2
 	; -- (2) 
 	; -- (3) 
 
@@ -1093,8 +1125,40 @@
 
 
 
-[-] contributor		<-->	noun++C1[-0]	.
-	; -- (1) 
+[-] corollary		<-->	noun++C2	[231209][001]	./kəˈrɒləri/-NAmE /ˈkɔːrəleri/ (formal or specialist) (plural corollaries)
+	;hệ quả -- (1) corollary (of/to something) a situation, an argument or a fact that is the natural and direct result of another one
+		;In rural areas, the corollary of increased car ownership has been a rapid decline in the provision of public transport.
+		;TOPICS CHANGE, CAUSE AND EFFECT-C2, Opinion and argumentC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+[-] cos		<-->	conjunction++C2	[231209][001]	./kəz/,  /kɒz/-NAmE /kəz/ (also ’cos, ’cause, coz) (British English, informal)
+	;bởi vì -- (1) because
+		;I can't see her at all, cos it's too dark.
+		;TOPICS CHANGE, CAUSE AND EFFECT-C2
+
+
+
+
+
+
+
+
+
+
+
+[-] coz		<-->	conjunction++C2	[231209][001]	./kəz/,  /kɒz/-NAmE /kəz/ (also ’cos, ’cause, cos) (British English, informal)
+	;bởi vì -- (1) because
+		;TOPICS CHANGE, CAUSE AND EFFECT-C2
 	; -- (2) 
 	; -- (3) 
 
@@ -1108,8 +1172,33 @@
 
 
 
-[-] contributory		<-->	adjective++C2[-0]	.
-	; -- (1) 
+[-] creep		<-->	noun++C2	[231209][001]	./kriːp/-NAmE /kriːp/
+	;kẻ khốn kiếp, hẹp hòi -- (1) [countable] (informal) a person that you dislike very much and find very unpleasant
+		;He's a nasty little creep!
+		;You little creep!
+	; -- (2) 
+	;sự thu hẹp -- (3) [uncountable] (often in compounds) (often disapproving) the development of a project beyond the goal that was originally agreed
+		;The World Bank has been accused of mission creep when seeking to address these concerns.
+		;The inclusion of health data on identity cards was condemned as function creep.
+		;creep of something We need to prevent this slow creep of costs.
+		;The creep of suburban shopping malls is shrinking the countryside.
+		;TOPICS CHANGE, CAUSE AND EFFECT-C2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+[-] creep up		<-->	phrasal verb++C2	[231209][001]	./p/
+	;tăng dần -- (1) to gradually increase in amount, price, etc.
+		;House prices are creeping up again.
+		;TOPICS CHANGE, CAUSE AND EFFECT-C2
 	; -- (2) 
 	; -- (3) 
 
@@ -1123,83 +1212,11 @@
 
 
 
-[-] corollary		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] cos		<-->	conjunction++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] coz		<-->	conjunction++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] creep		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] creep up		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] cumulative		<-->	adjective++C2[-0]	.
-	; -- (1) 
+[-] cumulative		<-->	adjective++C2	[231209][001]	./ˈkjuːmjələtɪv/-NAmE /ˈkjuːmjəleɪtɪv/ [w]
+	;tích lũy dần dần -- (1) having a result that increases in strength or importance each time more of something is added
+		;the cumulative effect of human activity on the world environment
+		;The evolution of human life was a gradual, cumulative process.
+		;TOPICS CHANGE, CAUSE AND EFFECT-C2
 	; -- (2) 
 	; -- (3) 
 
@@ -1228,7 +1245,7 @@
 
 
 
-[-] decline		<-->	verb++B2[-0]	.
+[-] decline		<-->	verb++B2	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1243,7 +1260,7 @@
 
 
 
-[-] decline		<-->	noun++B2[-0]	.
+[-] decline		<-->	noun++B2	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1258,7 +1275,7 @@
 
 
 
-[-] decrease		<-->	verb++B2[-0]	.
+[-] decrease		<-->	verb++B2	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1273,7 +1290,7 @@
 
 
 
-[-] decrease		<-->	noun++B2[-0]	.
+[-] decrease		<-->	noun++B2	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1288,7 +1305,55 @@
 
 
 
-[-] deteriorate		<-->	verb++C1[-0]	.
+[-] deteriorate		<-->	verb++C1	[231209][001]	./cef/
+	;thu hẹp, tệ dần -- (1) to become worse
+		;Her health deteriorated rapidly, and she died shortly afterwards.
+		;They had to cope with deteriorating weather conditions.
+		;deteriorate into something The discussion quickly deteriorated into an angry argument.
+		;Extra Examples:
+		;Relations between the two countries have deteriorated further this week.
+		;The situation is likely to deteriorate unless something is done now.
+		;The unrest rapidly deteriorated into civil war.
+		;The overall quality of rivers and canals has deteriorated.
+		;TOPICS Change, cause and effectC1
+				;Oxford Collocations Dictionary
+				;adverb
+				;badlyseriouslyseverely…
+				;verb + deteriorate
+				;begin tocontinue tobe likely to…
+				;preposition
+				;into
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+[-] deterioration		<-->	noun++C1	[231209][001]	./dɪˌtɪəriəˈreɪʃn/-NAmE /dɪˌtɪriəˈreɪʃn/
+[uncountable, countable]
+	;sự xấu dần -- (1) ​the fact or process of becoming worse
+		;deterioration (in something) a serious deterioration in relations between the two countries
+		;deterioration (into something) her deterioration into severe depression
+		;TOPICS Change, cause and effectC1
+
+
+
+
+
+
+
+
+
+
+
+[-] develop		<-->	verb++B1	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1303,7 +1368,7 @@
 
 
 
-[-] deterioration		<-->	noun++C1[-0]	.
+[-] development		<-->	noun++B1	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1318,7 +1383,152 @@
 
 
 
-[-] develop		<-->	verb++B1[-0]	.
+[-] dip		<-->	noun++C2	[231209][001]	./dɪp/
+ /dɪp/\
+	;sự bơi nhanh -- (1) ​[countable, usually singular] (informal) a quick swim
+		;Let's go for a dip before breakfast.
+				;Oxford Collocations Dictionary
+				;adjective
+				;quickrefreshing
+				;verb + dip
+				;take
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+[-] domino effect		<-->	noun++C2	[231209][001]	./ˈdɒmɪnəʊ ɪfekt/
+ /ˈdɑːmɪnəʊ ɪfekt/
+[usually singular]
+	;hiệu ứng domino -- (1) a situation in which one event causes a series of similar events to happen one after the other
+		;Employers fear a domino effect if the strike is successful (= that there will be many other strikes as a result).
+		;COMPARE ripple effect
+		;TOPICS Change, cause and effectC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+[-] downswing		<-->	noun++C2	[231209][001]	./ˈdaʊnswɪŋ/
+ /ˈdaʊnswɪŋ/
+[usually singular]
+	;sự suy thoái hiện -- (1) ​downswing (in something) a situation in which something gets worse or decreases over a period of time
+		;the current downswing in the airline industry
+		;He is on a career downswing.
+		;OPPOSITE upswing
+		;TOPICS Change, cause and effectC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+[-] downturn		<-->	noun++C1	[231209][001]	./ˈdaʊntɜːn/
+ /ˈdaʊntɜːrn/
+[countable, uncountable]
+	;sự suy thoái -- (1) downturn (in something) a fall in the amount of business that is done; a time when the economy becomes weaker
+		;the recent economic downturns
+		;a downturn in sales/trade/business
+		;the economic downturn of 2008/2009
+		;a period of economic downturn
+		;OPPOSITE upturn
+		;Extra Examples:
+		;The 1990s witnessed a sharp downturn in the party's fortunes.
+		;The building industry is experiencing a severe downturn in its workload.
+		;a sharp downturn of the economy
+		;TOPICS Change, cause and effectC1, MoneyC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;seriousseveresharp…
+				;verb + downturn
+				;experiencesuffertake…
+				;preposition
+		;downturn indownturn of
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+
+[-] downward		<-->	adjective++C1	[231209][001]	./ˈdaʊnwəd/
+ /ˈdaʊnwərd/
+[usually before noun]
+	;đi xuống -- (1) moving or pointing towards a lower level
+		;the downward slope of a hill
+		;the downward trend in inflation
+		;She was trapped in a downward spiral (= continuous increase) of personal unhappiness.
+		;The business was on a downward path, finally closing in 2019.
+		;Subsidence is the downward movement of a site on which a building stands.
+		;OPPOSITE upward
+		;TOPICS Change, cause and effectC1
+				;Oxford Collocations Dictionary
+				;Downward is used with these nouns:
+				;curvedirectionmobility…
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+[-] downwardly		<-->	adverb++C2	[231209][001]	./ˈdaʊnwədli/
+ /ˈdaʊnwərdli/
+	;đi xuống -- (1) ​towards a lower level
+		;The sales figures will have to be downwardly revised.
+		;people who have lost their jobs and are downwardly mobile (= moving towards a lower social position)
+		;COMPARE upwardly mobile
+		;TOPICS Change, cause and effectC2
+				;Oxford Collocations Dictionary
+				;Downwardly is used with these adjectives:
+				;mobile
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+
+[-] downwards		<-->	adverb++B2	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1333,7 +1543,7 @@
 
 
 
-[-] development		<-->	noun++B1[-0]	.
+[-] drop		<-->	verb++B1	[231209][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1348,10 +1558,10 @@
 
 
 
-[-] dip		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] drop away		<-->	phrasal verb++C2	[231209][001]	./p/
+	;suy thoái, yếu đi -- (1) to become weaker or less
+		;She could feel the tension drop away.
+		;TOPICS Change, cause and effectC2
 
 
 
@@ -1363,10 +1573,11 @@
 
 
 
-[-] domino effect		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] drop off		<-->	phrasal verb++C2	[231209][001]	./p/ (informal)
+	;buồn ngủ nhẹ -- (1) ​to fall into a light sleep
+		;I dropped off and missed the end of the film.
+	;suy thoái, yếu đi -- (2) to become fewer or less
+		;Traffic in the town has dropped off since the bypass opened.
 
 
 
@@ -1378,128 +1589,8 @@
 
 
 
-[-] downswing		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] downturn		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] downward		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] downwardly		<-->	adverb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] downwards		<-->	adverb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] drop		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] drop away		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] drop off		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] due		<-->	adjective++B1[-0]	.
-	; -- (1) 
+[-] due		<-->	adjective++B1	[231209][001]	./cef/
+	;do, nhờ vào -- (1) 
 	; -- (2) 
 	; -- (3) 
 
