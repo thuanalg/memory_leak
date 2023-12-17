@@ -895,7 +895,7 @@
 
 
 
-[-] climb		<-->	noun++C1[-0]	.
+[-] climb		<-->	noun++C1	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	;sự tăng giá -- [B1-C1] (3) [-increase] [usually singular] an increase in value or amount
@@ -1230,10 +1230,11 @@
 
 
 
-[-] cumulatively		<-->	adverb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] cumulatively		<-->	adverb++C2	[231217][001]	./ˈkjuːmjələtɪvli/
+ /ˈkjuːmjəleɪtɪvli/
+	;tích lũy -- (1) in a way that increases in strength or importance each time something more or new is added
+		;Cumulatively, these archaeological discoveries give a very clear picture of Celtic life.
+		;TOPICS Change, cause and effectC2
 
 
 
@@ -1604,7 +1605,7 @@
 
 
 
-[-] edge		<-->	verb++C2[0]	./edʒ/
+[-] edge		<-->	verb++C2	[231217][001]	./edʒ/
  /edʒ/
 	;đi rón rén, lách qua -- (1) [intransitive, transitive] to move or to move something slowly and carefully in a particular direction
 		;+ adv./prep. She edged a little closer to me.
@@ -1640,7 +1641,7 @@
 
 
 
-[-] effect		<-->	noun++A2[0]	./cef/
+[-] effect		<-->	noun++A2	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1655,7 +1656,7 @@
 
 
 
-[-] effect		<-->	verb++C2[0]	./ɪˈfekt/
+[-] effect		<-->	verb++C2	[231217][001]	./ɪˈfekt/
  /ɪˈfekt/\
 (formal)
 	;có tác dụng -- (1) effect something to make something happen
@@ -1676,7 +1677,7 @@
 
 
 
-[-] effective		<-->	adjective++B1[0]	./cef/
+[-] effective		<-->	adjective++B1	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1691,7 +1692,7 @@
 
 
 
-[-] effectively		<-->	adverb++B1[0]	./cef/
+[-] effectively		<-->	adverb++B1	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1706,7 +1707,7 @@
 
 
 
-[-] effectiveness		<-->	noun++C1[0]	./cef/
+[-] effectiveness		<-->	noun++C1	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1721,7 +1722,7 @@
 
 
 
-[-] effectual		<-->	adjective++C2[0]	./ɪˈfektʃuəl/
+[-] effectual		<-->	adjective++C2	[231217][001]	./ɪˈfektʃuəl/
  /ɪˈfektʃuəl/
 (formal)
 ​
@@ -1742,7 +1743,7 @@
 
 
 
-[-] effectually		<-->	adverb++C2[0]	./ɪˈfektʃuəli/
+[-] effectually		<-->	adverb++C2	[231217][001]	./ɪˈfektʃuəli/
  /ɪˈfektʃuəli/
 	;trên thực tế -- (1) in a way that produces a particular result
 		;Napoleon's progress was effectually stopped by the deep Russian winter.
@@ -1759,7 +1760,7 @@
 
 
 
-[-] effectuate		<-->	verb++C2[0]	./ɪˈfektʃueɪt/
+[-] effectuate		<-->	verb++C2	[231217][001]	./ɪˈfektʃueɪt/
  /ɪˈfektʃueɪt/
 (formal)
 	;làm cho, gây ra -- (1) effectuate something to make something happen
@@ -1777,7 +1778,7 @@
 
 
 
-[-] elevate		<-->	verb++C2[-0]	.
+[-] elevate		<-->	verb++C2	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1792,10 +1793,20 @@
 
 
 
-[-] elevation		<-->	noun++C2[-0]	.
-	; -- (1) 
+[-] elevation		<-->	noun++C2	[231217][001]	./ˌelɪˈveɪʃn/
+ /ˌelɪˈveɪʃn/
+	;sự thăng tiến -- (1) [uncountable] (formal) the process of somebody getting a higher or more important rank
+		;his elevation to the presidency
 	; -- (2) 
 	; -- (3) 
+	;một mặt -- (4) [countable] (architecture) one side of a building, or a drawing of this by an architect
+		;the front/rear/side elevation of a house
+		;COMPARE plan
+		;TOPICS BuildingsC2
+	;sự gia tăng -- (5) [uncountable, singular] (specialist) an increase in the level or amount of something
+		;elevation of blood sugar levels
+		;TOPICS Change, cause and effectC2
+		;Word Origin
 
 
 
@@ -1822,7 +1833,7 @@
 
 
 
-[-] ensue		<-->	verb++C1[-0]	.
+[-] ensue		<-->	verb++C1	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1837,7 +1848,44 @@
 
 
 
-[-] ensuing		<-->	adjective++C2[-0]	.
+[-] ensuing		<-->	adjective++C2	[231217][001]	./ɪnˈsjuːɪŋ/
+ /ɪnˈsuːɪŋ/
+(formal)
+	;theo sau, theo -- (1) that happens after or as a result of another event
+		;SYNONYM following
+		;<< following, ensuing, >>
+		;He had become separated from his parents in the ensuing panic.
+		;They lost track of each other in the ensuing years.
+		;TOPICS Change, cause and effectC2
+
+
+
+
+
+
+
+
+
+
+
+[-] eventuate		<-->	verb++C2	[231217][001]	./ɪˈventʃueɪt/
+ /ɪˈventʃueɪt/
+[intransitive] (formal)
+	;hệ quả là -- (1) ​to happen as a result of something
+		;TOPICS Change, cause and effectC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+[-] expand		<-->	verb++B1	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1852,7 +1900,7 @@
 
 
 
-[-] eventuate		<-->	verb++C2[-0]	.
+[-] expansion		<-->	noun++B2	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1867,7 +1915,7 @@
 
 
 
-[-] expand		<-->	verb++B1[-0]	.
+[-] factor		<-->	noun++A2	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1882,7 +1930,7 @@
 
 
 
-[-] expansion		<-->	noun++B2[-0]	.
+[-] fall		<-->	verb++A2	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1897,7 +1945,7 @@
 
 
 
-[-] factor		<-->	noun++A2[-0]	.
+[-] fall		<-->	noun++A2	[231217][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1912,10 +1960,13 @@
 
 
 
-[-] fall		<-->	verb++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] fall back		<-->	phrasal verb++C2	[231217][001]	./p/
+	;rút chạy -- (1) to move or turn back
+		;SYNONYM retreat
+		;The enemy fell back as our troops advanced.
+	;suy giảm -- (2) to decrease in value or amount
+		;Share prices fell back after brisk early trading.
+		;TOPICS Change, cause and effectC2
 
 
 
@@ -1927,10 +1978,13 @@
 
 
 
-[-] fall		<-->	noun++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] falling-off		<-->	noun++C2	[231217][001]	./ˌfɔːlɪŋ ˈɒf/
+ /ˌfɔːlɪŋ ˈɔːf/
+(British English)
+(also more frequent fall-off British and North American English)
+[singular]
+	;sự sụt giảm -- (1) ​falling-off (in something) a reduction in the number, amount or quality of something
+		;TOPICS Change, cause and effectC2
 
 
 
@@ -1942,10 +1996,13 @@
 
 
 
-[-] fall back		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] fall-off		<-->	noun++C2	[231217][001]	./ˈfɔːl ɒf/
+ /ˈfɔːl ɔːf/
+(also British English, less frequent falling-off)
+[singular]
+	;sự sụt giảm -- (1) fall-off (in something) a reduction in the number, amount or quality of something
+		;a recent fall-off in sales
+		;TOPICS Change, cause and effectC2
 
 
 
@@ -1957,40 +2014,11 @@
 
 
 
-[-] falling-off		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] fall-off		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] fall off		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] fall off		<-->	phrasal verb++C2	[231217][001]	./p/
+	;suy giảm -- (1) to decrease in quantity or quality
+		;Attendance at my lectures has fallen off considerably.
+		;OPPOSITE rise
+		;TOPICS Change, cause and effectC2
 
 
 
