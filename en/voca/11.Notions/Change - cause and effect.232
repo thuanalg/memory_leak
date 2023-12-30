@@ -3647,7 +3647,7 @@
 
 
 
-[-] thus		<-->	adverb++B2[-0]	.
+[-] thus		<-->	adverb++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3662,7 +3662,7 @@
 
 
 
-[-] trend		<-->	noun++B1[-0]	.
+[-] trend		<-->	noun++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3677,7 +3677,7 @@
 
 
 
-[-] trigger		<-->	verb++B2[-0]	.
+[-] trigger		<-->	verb++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3692,7 +3692,7 @@
 
 
 
-[-] trigger		<-->	noun++C1[-0]	.
+[-] trigger		<-->	noun++C1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3707,10 +3707,19 @@
 
 
 
-[-] underlie		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] underlie		<-->	verb++C1[-0]	./ˌʌndəˈlaɪ/
+ /ˌʌndərˈlaɪ/
+[no passive] (formal)
+	;làm nền tảng -- (1) underlie something to be the basis or cause of something
+		;These ideas underlie much of his work.
+		;It is a principle that underlies all the party's policies.
+		;SEE ALSO underlying
+		;TOPICS Change, cause and effectC1
+				;Oxford Collocations Dictionary
+				;Underlie is used with these nouns as the subject:
+				;assumptionissuephilosophy…
+		;See full entry
+		;Word Origin
 
 
 
@@ -3722,10 +3731,19 @@
 
 
 
-[-] upsurge		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] upsurge		<-->	noun++C2[-0]	./ˈʌpsɜːdʒ/
+ /ˈʌpsɜːrdʒ/
+[usually singular] (formal)
+	;sự bùng nổ -- (1) a sudden large increase in something
+		;upsurge (in something) an upsurge in violent crime
+		;upsurge (of something) a recent upsurge of interest in his movies
+		;TOPICS Change, cause and effectC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;dramaticgreathuge…
+				;preposition
+				;upsurge in
+		;See full entry
 
 
 
