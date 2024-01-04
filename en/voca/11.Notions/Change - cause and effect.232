@@ -3647,7 +3647,7 @@
 
 
 
-[-] thus		<-->	adverb++B2[-0]	./cef/
+[-] thus		<-->	adverb++B2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3662,7 +3662,7 @@
 
 
 
-[-] trend		<-->	noun++B1[-0]	./cef/
+[-] trend		<-->	noun++B1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3677,7 +3677,7 @@
 
 
 
-[-] trigger		<-->	verb++B2[-0]	./cef/
+[-] trigger		<-->	verb++B2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3692,7 +3692,7 @@
 
 
 
-[-] trigger		<-->	noun++C1[-0]	./cef/
+[-] trigger		<-->	noun++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3707,8 +3707,7 @@
 
 
 
-[-] underlie		<-->	verb++C1[-0]	./ˌʌndəˈlaɪ/
- /ˌʌndərˈlaɪ/
+[-] underlie		<-->	verb++C1[0]	./ˌʌndəˈlaɪ/-NAmE /ˌʌndərˈlaɪ/
 [no passive] (formal)
 	;làm nền tảng -- (1) underlie something to be the basis or cause of something
 		;These ideas underlie much of his work.
@@ -3731,8 +3730,7 @@
 
 
 
-[-] upsurge		<-->	noun++C2[-0]	./ˈʌpsɜːdʒ/
- /ˈʌpsɜːrdʒ/
+[-] upsurge		<-->	noun++C2[0]	./ˈʌpsɜːdʒ/-NAmE /ˈʌpsɜːrdʒ/
 [usually singular] (formal)
 	;sự bùng nổ -- (1) a sudden large increase in something
 		;upsurge (in something) an upsurge in violent crime
@@ -3755,7 +3753,84 @@
 
 
 
-[-] upswing		<-->	noun++C2[-0]	.
+[-] upswing		<-->	noun++C2[0]	./ˈʌpswɪŋ/-NAmE /ˈʌpswɪŋ/
+[usually singular]
+	;sự đi lên -- (1) upswing (in something) a situation in which something improves or increases over a period of time
+		;SYNONYM upturn
+		;an upswing in economic activity
+		;an upswing in the team’s fortunes
+		;TOPICS Change, cause and effectC2
+
+
+
+
+
+
+
+
+
+
+
+[-] upturn		<-->	noun++C2[0]	./ˈʌptɜːn/-NAmE /ˈʌptɜːrn/
+[usually singular]
+	;sự đi lên -- (1) upturn (in something) a situation in which something improves or increases over a period of time
+		;SYNONYM upswing
+		;an upturn in the economy
+		;a sharp upturn in the number of tourists visiting the capital
+		;Their fortunes have taken an upturn.
+		;The restaurant trade is on the upturn.
+		;OPPOSITE downturn
+		;Extra Examples:
+		;Sales are on the upturn.
+		;Their fortunes have taken an upturn in recent months.
+		;We expect an increase in demand when the economic upturn eventually comes.
+		;We expect to be in a good position for the upturn when it comes.
+		;a sharp upturn in oil prices
+		;TOPICS Change, cause and effectC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;dramaticsharpslight…
+				;verb + upturn
+				;be ontakeexpect…
+				;upturn + verb
+				;come
+				;preposition
+				;upturn in
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+
+[-] upward		<-->	adjective++C1[0]	./ˈʌpwəd/-NAmE /ˈʌpwərd/
+	; -- (1) pointing towards or facing a higher place
+		;an upward gaze
+		;Any expansion would have to be upward.
+	;tăng -- (2) ​increasing in amount or price
+		;an upward movement in property prices
+		;an upward trend in the rate of unemployment
+		;The long-term trend in foreign direct investment is upward.
+		;TOPICS Change, cause and effectC1
+		;OPPOSITE downward
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+[-] upwards		<-->	adverb++B2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3770,7 +3845,7 @@
 
 
 
-[-] upturn		<-->	noun++C2[-0]	.
+[-] whereby		<-->	adverb++C1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3785,10 +3860,11 @@
 
 
 
-[-] upward		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] whereupon		<-->	conjunction++C2[0]	./ˌweərəˈpɒn/-NAmE /ˌwerəˈpɑːn/
+(formal)
+	;sau đó, thế là -- (1) and then; as a result of this
+		;He told her she was a liar, whereupon she walked out.
+		;TOPICS Change, cause and effectC2
 
 
 
@@ -3800,49 +3876,7 @@
 
 
 
-[-] upwards		<-->	adverb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] whereby		<-->	adverb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] whereupon		<-->	conjunction++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-’cause		<-->	conjunction++C1[-0]	.
+[-] ’cause		<-->	conjunction++C1[0]	./kəz/,  /kɒz/-NAmE /kəz/ (also ’cos, cos, coz)
+(British English, informal)
+	;bởi vì -- (1) because
+		;TOPICS Change, cause and effectC1
