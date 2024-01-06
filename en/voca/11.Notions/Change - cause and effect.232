@@ -2880,7 +2880,7 @@
 
 
 
-[-] multiply		<-->	verb++B2[-0]	.
+[-] multiply		<-->	verb++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2895,7 +2895,66 @@
 
 
 
-[-] network effect		<-->	noun++C2[-0]	.
+[-] network effect		<-->	noun++C2[-0]	./ˈnetwɜːk ɪfekt/
+ /ˈnetwɜːrk ɪfekt/
+(economics)
+	;hiệu ứng dây chuyền -- (1) the effect that happens when a product or service gains value as more people use it
+		;The network effect is often the result of word-of-mouth testimonials.
+		;TOPICS Change, cause and effectC2
+
+
+
+
+
+
+
+
+
+
+
+[-] nosedive		<-->	noun++C2[-0]	./ˈnəʊzdaɪv/
+ /ˈnəʊzdaɪv/\
+[singular]
+	;sự lao dốc -- (1) a sudden steep fall or drop; a situation where something suddenly becomes worse or begins to fail
+		;Oil prices took a nosedive in the crisis.
+		;These policies have sent the construction industry into an abrupt nosedive.
+		;Her spirits took a sudden nosedive after her husband’s death.
+		;Stock markets have crashed in the biggest nosedive this century.
+		;TOPICS Change, cause and effectC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+[-] nosedive		<-->	verb++C2[-0]	./ˈnəʊzdaɪv/
+ /ˈnəʊzdaɪv/
+	;lao dốc -- (1) [intransitive] (of prices, costs, etc.) to fall suddenly
+		;SYNONYM plummet
+		;Building costs have nosedived.
+		;During that period the quality of British film-making nosedived.
+		;TOPICS Change, cause and effectC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+[-] occasion		<-->	noun++C2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2910,55 +2969,15 @@
 
 
 
-[-] nosedive		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] nosedive		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] occasion		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] occasion		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] occasion		<-->	verb++C2[-0]	./əˈkeɪʒn/
+ /əˈkeɪʒn/
+(formal)
+	;gây ra -- (1) to cause something
+		;occasion something The flight delay was occasioned by the need for a further security check.
+		;The injury was believed to have occasioned his death.
+		;occasion somebody something The decision occasioned us much anxiety.
+		;TOPICS Change, cause and effectC2
+		;Word Origin
 
 
 
@@ -2985,7 +3004,7 @@
 
 
 
-[-] outcome		<-->	noun++B2[-0]	.
+[-] outcome		<-->	noun++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3000,9 +3019,9 @@
 
 
 
-[-] plunge		<-->	verb++C1[-0]	.
+[-] plunge		<-->	verb++C1[-0]	./cef/
 	; -- (1) 
-	; -- (2) 
+	;lao dốc -- (2) 
 	; -- (3) 
 
 
@@ -3015,9 +3034,32 @@
 
 
 
-[-] plunge		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] plunge		<-->	noun++C1[-0]	./plʌndʒ/
+ /plʌndʒ/\
+[usually singular]
+	; -- (1) a sudden movement downwards or away from something
+		;SYNONYM drop
+		;The calm water ends there and the river begins a headlong plunge.
+		;a plunge to the ground
+				;Oxford Collocations Dictionary
+				;adjective
+				;colddownwardheadlong…
+				;verb + plunge
+				;survivetake
+				;preposition
+				;plunge intoplunge to
+		;See full entry
+	;sự lao dốc -- (2) ​plunge (in something) a sudden decrease in an amount or the value of something
+		;SYNONYM drop
+		;TOPICS Change, cause and effectC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;colddownwardheadlong…
+				;verb + plunge
+				;survivetake
+				;preposition
+				;plunge intoplunge to
+		;See full entry
 	; -- (3) 
 
 
@@ -3075,10 +3117,15 @@
 
 
 
-[-] proliferate		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] proliferate		<-->	verb++C2[-0]	./prəˈlɪfəreɪt/
+ /prəˈlɪfəreɪt/
+[intransitive]
+	;nhân lên, tăng lên -- (1) ​to increase rapidly in number or amount
+		;SYNONYM multiply
+		;Books and articles on the subject have proliferated over the last year.
+		;Time passed and animal life proliferated.
+		;TOPICS Change, cause and effectC2
+		;Word Origin
 
 
 
@@ -3090,10 +3137,18 @@
 
 
 
-[-] proliferation		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] proliferation		<-->	noun++C2[-0]	./prəˌlɪfəˈreɪʃn/
+ /prəˌlɪfəˈreɪʃn/
+[uncountable, singular]
+	;sự tăng -- (1) the sudden increase in the number or amount of something; a large number of a particular thing
+		;attempts to prevent cancer cell proliferation
+		;a proliferation of personal computers
+		;TOPICS Change, cause and effectC2
+				;Oxford Collocations Dictionary
+				;Proliferation is used after these nouns:
+				;cellweapon
+		;See full entry
+		;Word Origin
 
 
 
