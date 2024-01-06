@@ -2134,7 +2134,7 @@
 
 
 
-[-] happen		<-->	verb++A1[0]	./cef/
+[-] happen		<-->	verb++A1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2276,7 +2276,7 @@
 
 
 
-[-] in consequence (of something)		<-->	idiom++C1[0]	./i/
+[-] in consequence (of something)		<-->	idiom++C1	[240106][001]	./i/
 	;do -- (1) ​(formal) as a result of something
 		;The child was born deformed in consequence of an injury to the mother.
 		;It had been a humiliating day for Flora and she bore the director a grudge in consequence.
@@ -2372,7 +2372,41 @@
 
 
 
-[-] incremental		<-->	adjective++C2[-0]	.
+[-] incremental		<-->	adjective++C2[-0]	./ˌɪŋkrəˈmentl/
+ /ˌɪŋkrəˈmentl/
+	;tăng đều -- (1) increasing in regular amounts
+		;incremental costs
+		;Guy wires attach to the pole at various incremental heights.
+		;TOPICS Change, cause and effectC2
+
+
+
+
+
+
+
+
+
+
+
+[-] incrementally		<-->	adverb++C2[-0]	./ˌɪŋkrəˈmentəli/
+ /ˌɪŋkrəˈmentəli/
+	;tăng đều -- (1) in regular increases, amounts or stages
+		;The work progresses incrementally.
+		;The cost of parking permits rises incrementally each year.
+		;TOPICS Change, cause and effectC2
+
+
+
+
+
+
+
+
+
+
+
+[-] indirect		<-->	adjective++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2387,7 +2421,266 @@
 
 
 
-[-] incrementally		<-->	adverb++C2[-0]	.
+[-] indirectly		<-->	adverb++B1[-0]	./ˌɪndəˈrektli/,  /ˌɪndaɪˈrektli/
+ /ˌɪndəˈrektli/,  /ˌɪndaɪˈrektli/
+	;gián tiếp -- (1) not as the main aim, cause or result of something, but in addition to it; not in a direct line or manner
+		;The new law will affect us all, directly or indirectly.
+		;We heard about the meeting indirectly.
+		;They communicated indirectly through a mutual friend.
+		;TOPICS Change, cause and effectB1
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+[-] induce		<-->	verb++C1[-0]	./cef/
+	;xúi giục -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+
+[-] ineffective		<-->	adjective++C1[-0]	./ˌɪnɪˈfektɪv/
+ /ˌɪnɪˈfektɪv/
+	;không hiệu quả -- (1) ​not achieving what you want to achieve; not having any effect
+		;The new drug was ineffective.
+		;ineffective management
+		;ineffective in doing something The law proved ineffective in dealing with the problem.
+		;OPPOSITE effective
+		;Extra Examples:
+		;These policies have proved ineffective.
+		;These weapons are totally ineffective against tanks.
+		;chemicals that are very ineffective in killing weeds
+		;High interest rates proved to be ineffective in reducing inflation.
+		;It has been criticized as an unfair and ineffective system.
+		;She was offered psychotherapy, but this proved ineffective.
+		;The evidence demonstrates that punishment is ineffective as a deterrent.
+		;The exemption clause in the contract is rendered ineffective by the new law.
+		;The government continued with its much-publicized but largely ineffective policy of economic sanctions.
+		;TOPICS Change, cause and effectC1, Difficulty and failureC1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beproveseem…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;againstin
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+[-] ineffectively		<-->	adverb++C2[-0]	./ˌɪnɪˈfektɪvli/
+ /ˌɪnɪˈfektɪvli/
+	;không hiệu quả -- (1) in a way that does not produce the intended result or a successful result
+		;TOPICS Change, cause and effectC2, Difficulty and failureC2
+		;OPPOSITE effectively (1)
+
+
+
+
+
+
+
+
+
+
+
+[-] ineffectiveness		<-->	noun++C2[-0]	./ˌɪnɪˈfektɪvnəs/
+ /ˌɪnɪˈfektɪvnəs/
+[uncountable]
+	;sự không hiệu quả -- (1) ineffectiveness (of something) (in doing something) the fact that something does not produce the intended result or a successful result
+		;the ineffectiveness of western medicine in treating this illness
+		;OPPOSITE effectiveness
+		;TOPICS Change, cause and effectC2
+
+
+
+
+
+
+
+
+
+
+
+[-] ineffectual		<-->	adjective++C2[-0]	./ˌɪnɪˈfektʃuəl/
+ /ˌɪnɪˈfektʃuəl/ (formal)
+	;không hiệu quả -- (1) without the ability to achieve much; weak; not achieving what you want to
+		;He plays the role of a blustering and ineffectual teacher.
+		;an ineffectual attempt to reform the law
+		;Extra Examples:
+		;If only the head of department weren't so ineffectual.
+		;My experience on the committees has shown me how slow and ineffectual they are.
+		;She made an ineffectual grab at the book.
+		;The president is seen as weak and ineffectual.
+		;TOPICS Change, cause and effectC2, Difficulty and failureC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+[-] ineffectually		<-->	adverb++C2[-0]	./ˌɪnɪˈfektʃuəli/
+ /ˌɪnɪˈfektʃuəli/ (formal)
+	;không hiệu quả -- (1) without achieving much or the intended result; in a weak way
+		;TOPICS Change, cause and effectC2
+
+
+
+
+
+
+
+
+
+
+
+[-] instigate		<-->	verb++C2[-0]	./ˈɪnstɪɡeɪt/
+ /ˈɪnstɪɡeɪt/ (formal)
+	;kích động, xúi giục -- (1) instigate something (especially British English) to make something start or happen, usually something official
+		;SYNONYM bring something about
+		;The government has instigated a programme of economic reform.
+		;Extra Examples:
+		;The man responsible for instigating change was Robin Darwin.
+		;We will instigate a comprehensive review of defence policy.
+		;<< induce, instigate, >>
+	;kích động -- (2) ​instigate something to cause something bad to happen
+		;They were accused of instigating violence.
+		;Those found guilty of instigating the unrest will be punished.
+		;TOPICS Change, cause and effectC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+[-] instigation		<-->	noun++C2[-0]	./ˌɪnstɪˈɡeɪʃn/
+ /ˌɪnstɪˈɡeɪʃn/
+[uncountable]
+	;sự xúi giục -- (1) the act of causing something to begin or happen
+		;at the instigation of An appeal fund was launched at the instigation of the President.
+		;at somebody's instigation It was done at his instigation.
+		;He was involved in the instigation of acts of terrorism
+		;TOPICS Change, cause and effectC2
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+
+[-] instigator		<-->	noun++C2[-0]	./ˈɪnstɪɡeɪtə(r)/
+ /ˈɪnstɪɡeɪtər/
+	;kẻ xúi giục -- (1) instigator (of something) a person who causes something to happen, especially something bad
+		;the instigators of the riots
+		;TOPICS Change, cause and effectC2
+
+
+
+
+
+
+
+
+
+
+
+[-] jump		<-->	verb++B2[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;tăng nhanh -- (5) [-increase] [intraansitive] to rise suddenly by a large amount
+		;SYNONYM leap
+		;jump by… Prices jumped by 60% last year.
+		;jump (from…) (to…) Sales jumped from $2.7 billion to $3.5 billion.
+		;Your interest rate might suddenly jump at the end of the fixed period.
+		;jump + noun The FTSE 100 benchmark index jumped 199.9 points.
+		;Extra Examples:
+		;Profits jumped by 15 per cent during the year.
+		;Shares jumped from 2p to 222p.
+		;TOPICS Change, cause and effectB2
+
+
+
+
+
+
+
+
+
+
+
+[-] jump		<-->	noun++B2[-0]	./cef/
+	; -- (1) 
+	; -- (2) 
+	;sự tăng nhanh -- (3) [-increase] a sudden increase in amount, price or value
+		;unusually large price jumps
+		;jump in something a 20 per cent jump in pre-tax profits
+		;Extra Examples:
+		;The sportswear company reports a jump in sales since the Olympics.
+		;There's been no sudden jump, but a steady increase year on year.
+		;TOPICS Change, cause and effectB2
+			;Oxford Collocations Dictionary
+			;adjective
+				;bigquantumsharp…
+			;verb + jump
+				;make
+			;preposition
+				;jump in
+		;See full entry
+
+
+
+
+
+
+
+
+
+
+
+[-] lead		<-->	verb++A2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2402,7 +2695,7 @@
 
 
 
-[-] indirect		<-->	adjective++B1[-0]	.
+[-] leap		<-->	verb++C1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2417,7 +2710,7 @@
 
 
 
-[-] indirectly		<-->	adverb++B1[-0]	.
+[-] leap		<-->	noun++C1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2432,8 +2725,12 @@
 
 
 
-[-] induce		<-->	verb++C1[-0]	.
-	; -- (1) 
+[-] life-changing		<-->	adjective++B2[-0]	./ˈlaɪf tʃeɪndʒɪŋ/
+ /ˈlaɪf tʃeɪndʒɪŋ/
+	;sự đổi đời -- (1) ​having such a big effect that it changes somebody's life
+		;Studying abroad is a life-changing experience.
+		;Environmental impacts that the mining company calls ‘low risk’ could be life-changing for communities.
+		;TOPICS Change, cause and effectB2
 	; -- (2) 
 	; -- (3) 
 
@@ -2447,8 +2744,26 @@
 
 
 
-[-] ineffective		<-->	adjective++C1[-0]	.
-	; -- (1) 
+[-] lower		<-->	verb++B2[-0]	./cef/
+	;thu hẹp, rút gọn -- (1) [transitive, intraansitive] to reduce something or to become less in value, quality, etc.
+		;lower something He lowered his voice to a whisper.
+		;This drug is used to lower blood pressure.
+		;<<lower, reduce, narrow (down) >>
+		;to lower the rate/cost/price/level of something
+		;Her voice lowered as she spoke.
+		;The company may be forced to lower prices in order to stay competitive.
+		;a proposal to lower the voting age to 16
+		;The company has lowered its expectations for profits this year.
+		;We are not prepared to lower our academic standards.
+		;Mild exercise three times a week significantly lowers your risk of cancer.
+		;The drives were allowed to idle until the temperatures lowered and stabilized.
+		;OPPOSITE raise
+		;TOPICS Change, cause and effectB2
+			;Oxford Collocations Dictionary
+			;adverb
+				;carefully, gently, gradually…
+			;preposition
+				;into, onto, to…
 	; -- (2) 
 	; -- (3) 
 
@@ -2462,8 +2777,42 @@
 
 
 
-[-] ineffectively		<-->	adverb++C2[-0]	.
+[-] mean		<-->	verb++B1[-0]	./cef/
 	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;kéo theo, đối diện, chịu -- [A1-B1] (5) [[*]] (mean) [-have as result] to have something as a result or a likely result
+		;SYNONYM entail
+		;<< entail, mean, >>
+		;mean something Spending too much now will mean a shortage of cash next year.
+		;Being frugal doesn't necessarily mean doing without.
+		;Lower energy consumption means less pollution.
+		;Touching the wires means instant death.
+		;mean to be/do something Do you have any idea what it means to be poor?
+		;mean (that)… We’ll have to be careful with money but that doesn’t mean (that) we can’t enjoy ourselves.
+		;mean doing something This new order will mean working overtime.
+		;mean somebody/something doing something The injury could mean him missing next week's game.
+		;High unemployment means people are spending less.
+		;More Like This Verbs usually followed by infinitives
+		;Extra Examples:
+		;Mr President, does this mean an end to the current conflict?
+		;The cost would have meant financial ruin for us.
+		;Good civic planning means more green space.
+		;Rural life meant having to draw water from a well every day.
+		;TOPICS Change, cause and effectB1
+
+
+
+
+
+
+
+
+
+
+
+[-] means		<-->	noun++B2[-0]	./cef/
+	;phương pháp, cách thức -- (1) 
 	; -- (2) 
 	; -- (3) 
 
@@ -2477,9 +2826,23 @@
 
 
 
-[-] ineffectiveness		<-->	noun++C2[-0]	.
+[-] mount		<-->	verb++B2[-0]	./cef/
 	; -- (1) 
-	; -- (2) 
+	;tăng đều -- (2) [-increase] [intraansitive] to increase gradually
+		;Pressure is mounting on the government to change the law.
+		;The death toll continues to mount.
+		;Speculation is mounting about a second economic crisis.
+		;Election fever is mounting hourly.
+		;Excitement was mounting as the day drew near.
+		;Evidence is mounting that a short nap can improve productivity.
+		;Tensions mounted last night following violent scenes outside the court.
+		;SEE ALSO mounting
+		;TOPICS Change, cause and effectB2
+			;Oxford Collocations Dictionary
+			;adverb
+				;quickly, rapidly, steadily…
+			;verb + mount
+				;begin tocontinue to
 	; -- (3) 
 
 
@@ -2492,235 +2855,20 @@
 
 
 
-[-] ineffectual		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] ineffectually		<-->	adverb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] instigate		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] instigation		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] instigator		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] jump		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] jump		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] le		<-->	adverb++A2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] leap		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] leap		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] life-changing		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] lower		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] mean		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] means		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] mount		<-->	verb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-
-[-] mounting		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] mounting		<-->	adjective++C2[-0]	./ˈmaʊntɪŋ/
+ /ˈmaʊntɪŋ/
+[only before noun]
+	;tăng -- (1) ​increasing, often in a manner that causes or expresses worry
+		;SYNONYM growing
+		;<< growing, mounting, >>
+		;mounting excitement/concern/tension
+		;There is mounting evidence of serious effects on people's health.
+		;In the face of mounting pressure, the president decided to act.
+		;TOPICS Change, cause and effectC2
+		;Oxford Collocations Dictionary
+		;Mounting is used with these nouns:
+		;angeranxietyconcern…
+		;See full entry
 
 
 
@@ -3647,7 +3795,7 @@
 
 
 
-[-] thus		<-->	adverb++B2[0]	./cef/
+[-] thus		<-->	adverb++B2	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3662,7 +3810,7 @@
 
 
 
-[-] trend		<-->	noun++B1[0]	./cef/
+[-] trend		<-->	noun++B1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3677,7 +3825,7 @@
 
 
 
-[-] trigger		<-->	verb++B2[0]	./cef/
+[-] trigger		<-->	verb++B2	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3692,7 +3840,7 @@
 
 
 
-[-] trigger		<-->	noun++C1[0]	./cef/
+[-] trigger		<-->	noun++C1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3707,7 +3855,7 @@
 
 
 
-[-] underlie		<-->	verb++C1[0]	./ˌʌndəˈlaɪ/-NAmE /ˌʌndərˈlaɪ/
+[-] underlie		<-->	verb++C1	[240106][001]	./ˌʌndəˈlaɪ/-NAmE /ˌʌndərˈlaɪ/
 [no passive] (formal)
 	;làm nền tảng -- (1) underlie something to be the basis or cause of something
 		;These ideas underlie much of his work.
@@ -3730,7 +3878,7 @@
 
 
 
-[-] upsurge		<-->	noun++C2[0]	./ˈʌpsɜːdʒ/-NAmE /ˈʌpsɜːrdʒ/
+[-] upsurge		<-->	noun++C2	[240106][001]	./ˈʌpsɜːdʒ/-NAmE /ˈʌpsɜːrdʒ/
 [usually singular] (formal)
 	;sự bùng nổ -- (1) a sudden large increase in something
 		;upsurge (in something) an upsurge in violent crime
@@ -3753,7 +3901,7 @@
 
 
 
-[-] upswing		<-->	noun++C2[0]	./ˈʌpswɪŋ/-NAmE /ˈʌpswɪŋ/
+[-] upswing		<-->	noun++C2	[240106][001]	./ˈʌpswɪŋ/-NAmE /ˈʌpswɪŋ/
 [usually singular]
 	;sự đi lên -- (1) upswing (in something) a situation in which something improves or increases over a period of time
 		;SYNONYM upturn
@@ -3771,7 +3919,7 @@
 
 
 
-[-] upturn		<-->	noun++C2[0]	./ˈʌptɜːn/-NAmE /ˈʌptɜːrn/
+[-] upturn		<-->	noun++C2	[240106][001]	./ˈʌptɜːn/-NAmE /ˈʌptɜːrn/
 [usually singular]
 	;sự đi lên -- (1) upturn (in something) a situation in which something improves or increases over a period of time
 		;SYNONYM upswing
@@ -3808,7 +3956,7 @@
 
 
 
-[-] upward		<-->	adjective++C1[0]	./ˈʌpwəd/-NAmE /ˈʌpwərd/
+[-] upward		<-->	adjective++C1	[240106][001]	./ˈʌpwəd/-NAmE /ˈʌpwərd/
 	; -- (1) pointing towards or facing a higher place
 		;an upward gaze
 		;Any expansion would have to be upward.
@@ -3830,7 +3978,7 @@
 
 
 
-[-] upwards		<-->	adverb++B2[0]	./cef/
+[-] upwards		<-->	adverb++B2	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3845,7 +3993,7 @@
 
 
 
-[-] whereby		<-->	adverb++C1[0]	./cef/
+[-] whereby		<-->	adverb++C1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3860,8 +4008,7 @@
 
 
 
-[-] whereupon		<-->	conjunction++C2[0]	./ˌweərəˈpɒn/-NAmE /ˌwerəˈpɑːn/
-(formal)
+[-] whereupon		<-->	conjunction++C2	[240106][001]	./ˌweərəˈpɒn/-NAmE /ˌwerəˈpɑːn/ (formal)
 	;sau đó, thế là -- (1) and then; as a result of this
 		;He told her she was a liar, whereupon she walked out.
 		;TOPICS Change, cause and effectC2
@@ -3876,7 +4023,6 @@
 
 
 
-[-] ’cause		<-->	conjunction++C1[0]	./kəz/,  /kɒz/-NAmE /kəz/ (also ’cos, cos, coz)
-(British English, informal)
+[-] ’cause		<-->	conjunction++C1	[240106][001]	./kəz/,  /kɒz/-NAmE /kəz/ (also ’cos, cos, coz) (British English, informal)
 	;bởi vì -- (1) because
 		;TOPICS Change, cause and effectC1
