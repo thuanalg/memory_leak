@@ -2803,8 +2803,12 @@
 
 
 
-[-] on account of somebody/something		<-->	idiom++C1[-0]	.
-	; -- (1) 
+[-] on account of somebody/something		<-->	idiom++C1	[240106][001]	./i/
+	;bởi vì -- (1) because of somebody/something
+		;She retired early on account of ill health.
+		;The marsh is an area of great scientific interest on account of its wild flowers.
+		;Language Bank because of
+		;TOPICS Change, cause and effectC1
 	; -- (2) 
 	; -- (3) 
 
@@ -2880,7 +2884,23 @@
 
 
 
-[-] proceed from		<-->	phrasal verb++C2[-0]	.
+[-] proceed from		<-->	phrasal verb++C2	[240106][001]	./p/
+	;tiến hành từ -- (1) [-proceed from something] ​(formal) to be caused by or be the result of something
+		;In some cases appeals may proceed directly from the High Court to the House of Lords.
+		;TOPICS Change, cause and effectC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+[-] produce		<-->	verb++B1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2894,21 +2914,7 @@
 
 
 
-[-] produce		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-[-] product		<-->	noun++B2[-0]	.
+[-] product		<-->	noun++B2	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2973,7 +2979,7 @@
 
 
 
-[-] raise		<-->	verb++B1[-0]	.
+[-] raise		<-->	verb++B1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2987,7 +2993,25 @@
 
 
 
-[-] rally		<-->	verb++C1[-0]	.
+[-] rally		<-->	verb++C1	[240106][001]	./cef/
+	; -- (1) 
+	; -- (2) 
+	;hồi phục -- (3) [intraansitive] (finance) (especially of share prices or a country’s money) to increase in value after falling in value
+		;SYNONYM recover
+		;The company's shares had rallied slightly by the close of trading.
+		;The pound rallied against the dollar.
+		;TOPICS Change, cause and effectC1
+
+
+
+
+
+
+
+
+
+
+[-] react		<-->	verb++A2	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3001,7 +3025,7 @@
 
 
 
-[-] react		<-->	verb++A2[-0]	.
+[-] reaction		<-->	noun++B1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3015,7 +3039,25 @@
 
 
 
-[-] reaction		<-->	noun++B1[-0]	.
+[-] reactive		<-->	adjective++C2	[240106][001]	./riˈæktɪv/
+ /riˈæktɪv/
+	;có phản ứng -- (1) ​(formal) showing a reaction or response
+		;The police presented a reactive rather than preventive strategy against crime.
+		;COMPARE proactive
+		;TOPICS Change, cause and effectC2
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+
+
+
+
+
+
+[-] reason		<-->	noun++A1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3029,7 +3071,7 @@
 
 
 
-[-] reactive		<-->	adjective++C2[-0]	.
+[-] recover		<-->	verb++B2	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3043,7 +3085,7 @@
 
 
 
-[-] reason		<-->	noun++A1[-0]	.
+[-] recovery		<-->	noun++C1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3057,7 +3099,7 @@
 
 
 
-[-] recover		<-->	verb++B2[-0]	.
+[-] reduce		<-->	verb++A2	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3071,7 +3113,7 @@
 
 
 
-[-] recovery		<-->	noun++C1[-0]	.
+[-] reduction		<-->	noun++B2	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3085,7 +3127,66 @@
 
 
 
-[-] reduce		<-->	verb++A2[-0]	.
+[-] relatable		<-->	adjective++C2	[240106][001]	./rɪˈleɪtəbl/
+ /rɪˈleɪtəbl/
+	;có thể tin được -- (1) making you feel that you can understand and have sympathy with somebody/something
+		;Kat is the most relatable character in the film.
+		;relatable to somebody She believes that her busy schedule makes her more relatable to voters.
+		;TOPICS Personal qualitiesC1
+	;có liên quan -- (2) relatable (to something) that can be related to something else
+		;The growth of the welfare state is clearly relatable to the growth of democracy.
+		;TOPICS Change, cause and effectC2
+
+
+
+
+
+
+
+
+
+
+[-] repercussion		<-->	noun++C2	[240106][001]	./ˌriːpəˈkʌʃn/
+ /ˌriːpərˈkʌʃn/
+[usually plural]
+	;hệ quả -- (1) an indirect and usually bad result of an action or event that may happen some time afterwards
+		;SYNONYM consequence
+		;The collapse of the company will have repercussions for the whole industry.
+		;Synonyms result: consequence ▪ outcome ▪ repercussion
+		;<< result, consequence ▪ outcome ▪ repercussion, >>
+		;Extra Examples:
+		;Anne felt the repercussions of the earlier incident.
+		;Changes in the industry had major repercussions for the local community.
+		;The international repercussions are still being felt today.
+		;The pay cuts are likely to have serious repercussions on productivity.
+		;The repercussions of the change in policy will be felt throughout Europe.
+		;These actions have potential repercussions.
+		;a resident who did not want to be named for fear of repercussions
+		;TOPICS Change, cause and effectC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;considerableimportantmajor…
+				;verb + repercussion
+				;havefeelsuffer…
+				;repercussion + verb
+				;be felt
+				;preposition
+				;repercussion forrepercussion on
+				;phrases
+				;for fear of repercussionswithout fear of repercussions
+		;See full entry
+		;Word Origin
+
+
+
+
+
+
+
+
+
+
+[-] responsible		<-->	adjective++B2	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3099,7 +3200,7 @@
 
 
 
-[-] reduction		<-->	noun++B2[-0]	.
+[-] result		<-->	noun++A1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3113,63 +3214,7 @@
 
 
 
-[-] relatable		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-[-] repercussion		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-[-] responsible		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-[-] result		<-->	noun++A1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-
-
-
-[-] result		<-->	verb++B1[-0]	.
+[-] result		<-->	verb++B1	[240106][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
