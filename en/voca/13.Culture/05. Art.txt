@@ -1,255 +1,2039 @@
-abstractadjectiveB2    
-abstractnounC2    
-academicismnounC2    
-AfrofuturismnounC2    
-AfrofuturistnounC2    
-AfrofuturistadjectiveC2    
-altarpiecenounC2    
-artnounA1    
-art gallerynounA2    
-artistnounA1    
-artisticadjectiveB2    
-artworknounB2    
-ateliernounC2    
-auctionnounB2    
-auctioneernounC2    
-auction housenounC1    
-auction roomnounC1    
-backgroundnounA2    
-baroqueadjectiveC2    
-bas-reliefnounC2    
-batiknounC2    
-bidnounB2    
-bidverbB2    
-brass rubbingnounC2    
-bricolagenounC2    
-bronzenounC1    
-brushnounA2    
-brushworknounC2    
-burnt ochrenounC2    
-burnt siennanounC2    
-burnt umbernounC2    
-bustnounC2    
-calligraphynounC2    
-canvasnounC1    
-captureverbB2    
-cartoonnounC2    
-carveverbC1    
-carvingnounC1    
-cave paintingnounB1    
-ceramicnounC1    
-charcoalnounC2    
-cityscapenounC2    
-classicaladjectiveC1    
-classicismnounC2    
-claynounB2    
-collagenounC2    
-collectverbA2    
-collectionnounB1    
-collectornounB2    
-compositionnounC2    
-connoisseurnounC2    
-conservatornounC2    
-contrastnounC1    
-crayonverbC2    
-crayonnounC2    
-curatornounC1    
-DadanounC2    
-DadaismnounC2    
-daubverbC2    
-decorateverbB1    
-decorativeadjectiveC1    
-depictverbC1    
-depthnounC1    
-designnounA1    
-detailnounA2    
-diptychnounC2    
-drawverbA1    
-drawingnounA2    
-easelnounC2    
-embroiderynounC2    
-engravernounC2    
-engravingnounC2    
-environmental artnounC2    
-eroticismnounC2    
-etchverbC2    
-etchingnounC2    
-executeverbC2    
-exhibitverbB2    
-exhibitnounB2    
-exhibitionnounB1    
-expressionismnounC2    
-expressionistnounC2    
-fakenounB1    
-FauvismnounC2    
-figurativeadjectiveC2    
-figurenounB2    
-finger-paintingnounB2    
-finishnounC1    
-fireverbC2    
-foregroundnounB2    
-formalismnounC2    
-formalistadjectiveC2    
-framenounB1    
-frameverbB1    
-fresconounC2    
-friezenounC2    
-FuturismnounC2    
-FuturistadjectiveC2    
-gallerynounA2    
-genre paintingnounC2    
-gildverbC2    
-glass-blowingnounC2    
-GothicadjectiveC2    
-gouachenounC2    
-graffitinounB1    
-graphic artistnounB2    
-graphicsnounB2    
-harmonynounC1    
-haut-reliefnounC2    
-highbrowadjectiveC2    
-hologramnounC2    
-iconnounC2    
-ikonnounC2    
-illustrationnounB2    
-impastonounC2    
-ImpressionismnounC1    
-ImpressionistadjectiveC1    
-inknounB2    
-inkverbC2    
-inspirationnounC1    
-inspireverbB2    
-installationnounC2    
-intaglionounC2    
-kilnnounC2    
-kinetic artnounC2    
-kitschnounC2    
-landscapenounC1    
-life drawingnounC2    
-likenessnounC2    
-line drawingnounC1    
-lowbrowadjectiveC2    
-magnum opusnounC2    
-mannerismnounC2    
-masternounC1    
-masterpiecenounB2    
-masterworknounC2    
-mediumnounC2    
-minimalismnounC2    
-minimalistadjectiveC2    
-minimalistnounC2    
-mixed medianounC2    
-modelverbC1    
-modernismnounC1    
-monochromeadjectiveC2    
-mouldverbC1    
-muraladjectiveC2    
-muralnounC1    
-musenounC2    
-naturalismnounC2    
-needlecraftnounC2    
-neoclassicaladjectiveC2    
-neoclassicismnounC2    
-nudenounC2    
-oilnounC1    
-oil colournounC2    
-oil paintnounB2    
-oil paintingnounC1    
-old masternounC2    
-origaminounC2    
-paintnounA2    
-paintverbA1    
-paintbrushnounA2    
-painternounA2    
-paintingnounA1    
-palettenounC1    
-pastelnounC2    
-patronnounC1    
-pavement artistnounB2    
-performance artnounC1    
-perspectivenounC2    
-photomontagenounC2    
-photorealismnounC2    
-pigmentnounC2    
-pointillismnounC2    
-pointillistnounC2    
-pop artnounC2    
-portraitnounB1    
-portraiturenounC2    
-poseverbC1    
-posenounC1    
-post-ImpressionismnounC2    
-post-ImpressionistadjectiveC2    
-post-ImpressionistnounC2    
-postmodernismnounC2    
-postmodernistnounC2    
-potterynounC1    
-primitivismnounC2    
-printnounC1    
-printingnounB1    
-printmakernounC2    
-printmakingnounC2    
-private viewnounC2    
-realismnounC1    
-realisticadjectiveB2    
-renaissancenounC1    
-representverbB1    
-representationaladjectiveC2    
-reproductionnounC1    
-residencynounC2    
-restorationnounC1    
-restoreverbB2    
-retrospectivenounC2    
-rococoadjectiveC2    
-romanticismnounC1    
-scenenounA2    
-schoolnounC2    
-screen-printverbC2    
-sculptverbC1    
-sculptornounC1    
-sculpturenounB1    
-seascapenounC2    
-self-portraitnounB2    
-sepianounC2    
-shadeverbC1    
-shadingnounC1    
-silhouettenounC1    
-sitternounC1    
-sketchnounC1    
-sketchverbC1    
-smudgeverbC2    
-socialist realismnounC2    
-sombreadjectiveC2    
-splatterverbC2    
-spray paintnounC1    
-spray-paintverbC2    
-statuenounB1    
-the avant-gardenounC2    
-stencilnounC2    
-stencilverbC2    
-still lifenounC1    
-stretchernounC2    
-studionounB1    
-studynounC2    
-stylenounA2    
-stylisticadjectiveC1    
-subject matternounB2    
-surrealadjectiveC1    
-surrealismnounC1    
-surrealistnounC1    
-surrealistadjectiveC1    
-symbolicadjectiveC1    
-symbolismnounC1    
-symbolistadjectiveC2    
-tableaunounC2    
-tapestriedadjectiveC2    
-tapestrynounC2    
-temperanounC2    
-townscapenounC2    
-triptychnounC2    
-viewnounC2    
-viewpointnounC1    
-vividadjectiveB2    
-watercolournounC1    
-workverbA2    
-worknounA2    
+[-] abstract		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] abstract		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] academicism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Afrofuturism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Afrofuturist		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Afrofuturist		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] altarpiece		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] art		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] art gallery		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] artist		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] artistic		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] artwork		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] atelier		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] auction		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] auctioneer		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] auction house		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] auction room		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] background		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] baroque		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bas-relief		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] batik		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bid		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bid		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] brass rubbing		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bricolage		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bronze		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] brush		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] brushwork		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] burnt ochre		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] burnt sienna		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] burnt umber		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] bust		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] calligraphy		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] canvas		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] capture		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] cartoon		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] carve		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] carving		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] cave painting		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] ceramic		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] charcoal		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] cityscape		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] classical		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] classicism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] clay		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] collage		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] collect		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] collection		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] collector		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] composition		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] connoisseur		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] conservator		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] contrast		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] crayon		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] crayon		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] curator		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Dada		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Dadaism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] daub		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] decorate		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] decorative		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] depict		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] depth		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] design		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] detail		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] diptych		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] draw		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] drawing		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] easel		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] embroidery		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] engraver		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] engraving		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] environmental art		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] eroticism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] etch		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] etching		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] execute		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] exhibit		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] exhibit		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] exhibition		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] expressionism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] expressionist		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] fake		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Fauvism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] figurative		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] figure		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] finger-painting		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] finish		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] fire		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] foreground		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] formalism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] formalist		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] frame		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] frame		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] fresco		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] frieze		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Futurism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Futurist		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] gallery		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] genre painting		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] gild		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] glass-blowing		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Gothic		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] gouache		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] graffiti		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] graphic artist		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] graphics		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] harmony		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] haut-relief		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] highbrow		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] hologram		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] icon		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] ikon		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] illustration		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] impasto		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Impressionism		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] Impressionist		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] ink		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] ink		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] inspiration		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] inspire		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] installation		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] intaglio		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] kiln		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] kinetic art		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] kitsch		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] landscape		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] life drawing		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] likeness		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] line drawing		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] lowbrow		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] magnum opus		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] mannerism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] master		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] masterpiece		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] masterwork		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] medium		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] minimalism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] minimalist		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] minimalist		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] mixed media		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] model		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] modernism		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] monochrome		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] mould		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] mural		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] mural		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] muse		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] naturalism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] needlecraft		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] neoclassical		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] neoclassicism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] nude		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] oil		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] oil colour		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] oil paint		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] oil painting		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] old master		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] origami		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] paint		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] paint		<-->	verb++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] paintbrush		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] painter		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] painting		<-->	noun++A1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] palette		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pastel		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] patron		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pavement artist		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] performance art		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] perspective		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] photomontage		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] photorealism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pigment		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pointillism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pointillist		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pop art		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] portrait		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] portraiture		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pose		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pose		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] post-Impressionism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] post-Impressionist		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] post-Impressionist		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] postmodernism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] postmodernist		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] pottery		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] primitivism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] print		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] printing		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] printmaker		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] printmaking		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] private view		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] realism		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] realistic		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] renaissance		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] represent		<-->	verb++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] representational		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] reproduction		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] residency		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] restoration		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] restore		<-->	verb++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] retrospective		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] rococo		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] romanticism		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] scene		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] school		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] screen-print		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sculpt		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sculptor		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sculpture		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] seascape		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] self-portrait		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sepia		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] shade		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] shading		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] silhouette		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sitter		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sketch		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sketch		<-->	verb++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] smudge		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] socialist realism		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] sombre		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] splatter		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] spray paint		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] spray-paint		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] statue		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] the avant-garde		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] stencil		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] stencil		<-->	verb++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] still life		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] stretcher		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] studio		<-->	noun++B1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] study		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] style		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] stylistic		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] subject matter		<-->	noun++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] surreal		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] surrealism		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] surrealist		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] surrealist		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] symbolic		<-->	adjective++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] symbolism		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] symbolist		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] tableau		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] tapestried		<-->	adjective++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] tapestry		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] tempera		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] townscape		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] triptych		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] view		<-->	noun++C2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] viewpoint		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] vivid		<-->	adjective++B2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] watercolour		<-->	noun++C1[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] work		<-->	verb++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+
+
+[-] work		<-->	noun++A2[-0]	.
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+
+
+

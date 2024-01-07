@@ -1,4 +1,4 @@
-acutely		<-->	adverb++C1[-0]	.
+[-] acutely		<-->	adverb++C1[-0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -915,7 +915,7 @@ acutely		<-->	adverb++C1[-0]	.
 
 
 
-[-] help		<-->	noun++A1[-0]	.
+[-] help		<-->	noun++A1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
