@@ -46,6 +46,7 @@ int get_next_rcom(combination_st* comr) {
 	MY_ROLE mode = STRAIGHT;
 	uint i = 0;
 	uint j = 0;
+	int next = 1;
 	char* p = comr->arr->data;
 	for (i = comr->b; i <= comr->e; ++i) {
 		if (!p[i]) {
@@ -56,6 +57,7 @@ int get_next_rcom(combination_st* comr) {
 	}
 	do {
 		if (mode == STRAIGHT && (comr->e >= comr->n - 1)) {
+			next = 0;
 			break;
 		}
 		if (mode == STRAIGHT) {
@@ -74,8 +76,11 @@ int get_next_rcom(combination_st* comr) {
 		if (mode == HOLE_GAP) {
 			p[i] = 1;
 			p[i-1] = 0;
+			if(i - 1 == comr->b) {
+				comr->b = i;
+			}
 			break;
 		}
 	} while (0);
-	return 0;
+	return next;
 }
