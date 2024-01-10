@@ -55,7 +55,7 @@ int get_next_rcom(combination_st* comr) {
 		}
 	}
 	do {
-		if (mode == STRAIGHT && (comr->n -1 <= comr->e )) {
+		if (mode == STRAIGHT && (comr->e >= comr->n - 1)) {
 			break;
 		}
 		if (mode == STRAIGHT) {
