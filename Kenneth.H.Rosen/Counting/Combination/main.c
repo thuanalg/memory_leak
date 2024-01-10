@@ -18,19 +18,46 @@ typedef struct __My_bit_COUNT__{
 
 #define MY_MALLOC(k, btype, obj, objtype) {obj = (objtype *) malloc(k * sizeof(btype) + sizeof(uint)); if(!obj) { llog("malloc error.\n");exit(1);} else {memset(obj, 0, (k * sizeof(btype) + sizeof(uint))); obj->n = (k * sizeof(btype) + sizeof(uint));}}
 
-int get_next_rcom(uchar* arr, uint n, uint r);
-int get_next_rcom(uchar* arr, uint n, uint r) {
-	return 0;
-}
+int get_next_rcom(combination_st* p);
+
 int main(int argc, char* argv[]) {
 	combination_st rcom;
 	memset(&rcom, 0, sizeof(rcom));
 	rcom.n = 8;
 	rcom.r = 5;
 	rcom.b = 0;
-	rcom.e = 4;
+	rcom.e = rcom.r - 1;
 	My_GENERIC* p = 0;
 	MY_MALLOC(rcom.n, char, p, My_GENERIC);
 	rcom.arr = p;
+	char* arr = rcom.arr->data;
+	for (int i = rcom.b; i <= rcom.e; ++i) {
+		arr[i] = 1;
+	}
+	get_next_rcom(&rcom);
+	return 0;
+}
+typedef enum MY_ROLE__{
+	STRAIGHT = 0,
+	HOLE = 1,
+
+} MY_ROLE;
+int get_next_rcom(combination_st* comr) {
+	MY_ROLE mode = STRAIGHT;
+	uint i = 0;
+	uint j = 0;
+	char* p = comr->arr->data;
+	for (i = comr->b; i <= comr->e; ++i) {
+		if (!p[i]) {
+			j = i;
+			mode = HOLE;
+			break;
+		}
+	}
+	if (mode == STRAIGHT) {
+
+	} 
+	else {
+	}
 	return 0;
 }
