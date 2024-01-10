@@ -64,11 +64,11 @@ int get_next_rcom(combination_st* comr) {
 			}
 			comr->b = 0;
 			++(comr->e);
-			p[comr->e] = 1;
 			p[comr->b] = 0;
 			for (i = 0; i < comr->r - 1; ++i) {
 				p[i] = 1;
 			}
+			p[comr->e] = 1;
 			break;
 		}
 		if (mode == HOLE_GAP) {
