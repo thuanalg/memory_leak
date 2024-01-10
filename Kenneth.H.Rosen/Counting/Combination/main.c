@@ -39,7 +39,7 @@ int main(int argc, char* argv[]) {
 }
 typedef enum MY_ROLE__{
 	STRAIGHT = 0,
-	HOLE = 1,
+	HOLE_GAP = 1,
 
 } MY_ROLE;
 int get_next_rcom(combination_st* comr) {
@@ -50,7 +50,7 @@ int get_next_rcom(combination_st* comr) {
 	for (i = comr->b; i <= comr->e; ++i) {
 		if (!p[i]) {
 			j = i;
-			mode = HOLE;
+			mode = HOLE_GAP;
 			break;
 		}
 	}
@@ -62,6 +62,7 @@ int get_next_rcom(combination_st* comr) {
 			for (i = 0; i < comr->n; ++i) {
 				p[i] = 0;
 			}
+			comr->b = 0;
 			++(comr->e);
 			p[comr->e] = 1;
 			p[comr->b] = 0;
@@ -70,11 +71,11 @@ int get_next_rcom(combination_st* comr) {
 			}
 			break;
 		}
+		if (mode == HOLE_GAP) {
+			p[i] = 1;
+			p[i-1] = 0;
+			break;
+		}
 	} while (0);
-	if (mode == STRAIGHT) {
-
-	} 
-	else {
-	}
 	return 0;
 }
