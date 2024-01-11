@@ -19,7 +19,7 @@ typedef struct __My_bit_COUNT__{
 #define MY_MALLOC(k, btype, obj, objtype) {obj = (objtype *) malloc(k * sizeof(btype) + sizeof(uint)); if(!obj) { llog("malloc error.\n");exit(1);} else {memset(obj, 0, (k * sizeof(btype) + sizeof(uint))); obj->n = (k * sizeof(btype) + sizeof(uint));}}
 
 int get_next_rcom(combination_st* p);
-
+void dum_value(combination_st* comr);
 int main(int argc, char* argv[]) {
 	combination_st rcom;
 	memset(&rcom, 0, sizeof(rcom));
@@ -34,6 +34,7 @@ int main(int argc, char* argv[]) {
 	for (int i = rcom.b; i <= rcom.e; ++i) {
 		arr[i] = 1;
 	}
+	dum_value(&rcom);
 	get_next_rcom(&rcom);
 	return 0;
 }
@@ -42,6 +43,18 @@ typedef enum MY_ROLE__{
 	HOLE_GAP = 1,
 
 } MY_ROLE;
+
+void dum_value(combination_st* comr) {
+	uint i = comr->b;
+	char* p = comr->arr->data;
+	fprintf(stdout, "\n");
+	for (; i <= comr->e; ++i) {
+		if (p[i]) {
+			fprintf(stdout, "%u, ", i);
+		}
+	}
+	fprintf(stdout, "\n");
+}
 int get_next_rcom(combination_st* comr) {
 	MY_ROLE mode = STRAIGHT;
 	uint i = 0;
@@ -81,6 +94,10 @@ int get_next_rcom(combination_st* comr) {
 			}
 			break;
 		}
-	} while (0);
+	} while (0);	
+	if (next) {
+		dum_value(comr);
+		get_next_rcom(comr);
+	}
 	return next;
 }
