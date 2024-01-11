@@ -1,3 +1,4 @@
+//Nguyen Thai Thuan, modify later
 #include <stdlib.h>
 #include <stdio.h>
 #define llog(fm, ...) fprintf(stdout, "%s:%d >>> "fm"", __FILE__, __LINE__, ##__VA_ARGS__)
@@ -17,14 +18,14 @@ typedef struct __My_bit_COUNT__{
 #define combination_st  My_bit_COUNT
 
 #define MY_MALLOC(k, btype, obj, objtype) {obj = (objtype *) malloc(k * sizeof(btype) + sizeof(uint)); if(!obj) { llog("malloc error.\n");exit(1);} else {memset(obj, 0, (k * sizeof(btype) + sizeof(uint))); obj->n = (k * sizeof(btype) + sizeof(uint));}}
-
+int countt = 1;
 int get_next_rcom(combination_st* p);
 void dum_value(combination_st* comr);
 int main(int argc, char* argv[]) {
 	combination_st rcom;
 	memset(&rcom, 0, sizeof(rcom));
-	rcom.n = 8;
-	rcom.r = 5;
+	rcom.n = 6;
+	rcom.r = 3;
 	rcom.b = 0;
 	rcom.e = rcom.r - 1;
 	My_GENERIC* p = 0;
@@ -47,7 +48,8 @@ typedef enum MY_ROLE__{
 void dum_value(combination_st* comr) {
 	uint i = comr->b;
 	char* p = comr->arr->data;
-	fprintf(stdout, "\n");
+	fprintf(stdout, "\ncount : %d====", countt );
+	++countt;
 	for (; i <= comr->e; ++i) {
 		if (p[i]) {
 			fprintf(stdout, "%u, ", i);
@@ -91,6 +93,18 @@ int get_next_rcom(combination_st* comr) {
 			p[i-1] = 0;
 			if(i - 1 == comr->b) {
 				comr->b = i;
+			}
+			else if (i - 1 > comr->b) {
+				uint range = i - 1 - comr->b;
+				uint j = 0;
+				uint  k = i - 1 - comr->b;
+				for (j = 0; j < range; ++j) {
+					p[j] = 1;
+				}
+				for (j = range; j <=  i -1; ++j) {
+					p[j] = 0;
+				}
+				comr->b = 0;
 			}
 			break;
 		}
