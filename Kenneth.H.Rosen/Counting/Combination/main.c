@@ -63,7 +63,7 @@ int main(int argc, char* argv[]) {
 void dum_value(combination_st* comr) {
 	uint i = comr->b;
 	char* p = comr->arr->data;
-	fprintf(stdout, "\ncount : %d====", countt );
+	fprintf(stdout, "\ncount : %d====\t", countt );
 	++countt;
 	for (; i <= comr->e; ++i) {
 		if (p[i]) {
