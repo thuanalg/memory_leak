@@ -1,9 +1,15 @@
 //Nguyen Thai Thuan, modify later
 #include <stdlib.h>
 #include <stdio.h>
+#define MY_MALLOC(k, btype, obj, objtype) {obj = (objtype *) malloc(k * sizeof(btype) + sizeof(uint)); if(!obj) { llog("malloc error.\n");exit(1);} else {memset(obj, 0, (k * sizeof(btype) + sizeof(uint))); obj->n = (k * sizeof(btype) + sizeof(uint));}}
 #define llog(fm, ...) fprintf(stdout, "%s:%d >>> "fm"", __FILE__, __LINE__, ##__VA_ARGS__)
 #define uint		unsigned int
 #define uchar		unsigned char
+typedef enum MY_ROLE__ {
+	STRAIGHT = 0,
+	HOLE_GAP = 1,
+
+} MY_ROLE;
 typedef struct __My_GENERIC__ {
 	uint n;
 	char data[0];
@@ -16,34 +22,43 @@ typedef struct __My_bit_COUNT__{
 	My_GENERIC* arr;
 } My_bit_COUNT;
 #define combination_st  My_bit_COUNT
+int init_rcom(combination_st* rcom, uint n, uint r);
+int init_rcom(combination_st* rcom, uint n, uint r) {
+	int err = 0;
+	My_GENERIC* p = 0;
+	do {
+		if (!rcom) {
+			err = 1; break;
+		}
+		memset(rcom, 0, sizeof(combination_st));
+		rcom->n = n;
+		rcom->r = r;
+		rcom->b = 0;
+		rcom->e = rcom->r - 1;
+		MY_MALLOC((rcom->n), char, p, My_GENERIC);
+		rcom->arr = p;
+		char* arr = rcom->arr->data;
+		for (int i = rcom->b; i <= rcom->e; ++i) {
+			arr[i] = 1;
+		}
+	} while (0);
+	return err;
+}
 
-#define MY_MALLOC(k, btype, obj, objtype) {obj = (objtype *) malloc(k * sizeof(btype) + sizeof(uint)); if(!obj) { llog("malloc error.\n");exit(1);} else {memset(obj, 0, (k * sizeof(btype) + sizeof(uint))); obj->n = (k * sizeof(btype) + sizeof(uint));}}
 int countt = 1;
 int get_next_rcom(combination_st* p);
 void dum_value(combination_st* comr);
 int main(int argc, char* argv[]) {
+	int next = 1;
 	combination_st rcom;
-	memset(&rcom, 0, sizeof(rcom));
-	rcom.n = 6;
-	rcom.r = 3;
-	rcom.b = 0;
-	rcom.e = rcom.r - 1;
-	My_GENERIC* p = 0;
-	MY_MALLOC(rcom.n, char, p, My_GENERIC);
-	rcom.arr = p;
-	char* arr = rcom.arr->data;
-	for (int i = rcom.b; i <= rcom.e; ++i) {
-		arr[i] = 1;
+	init_rcom(&rcom, 6, 3);
+	while (next) {
+		dum_value(&rcom);
+		next = get_next_rcom(&rcom);
 	}
-	dum_value(&rcom);
-	get_next_rcom(&rcom);
 	return 0;
 }
-typedef enum MY_ROLE__{
-	STRAIGHT = 0,
-	HOLE_GAP = 1,
 
-} MY_ROLE;
 
 void dum_value(combination_st* comr) {
 	uint i = comr->b;
@@ -109,9 +124,6 @@ int get_next_rcom(combination_st* comr) {
 			break;
 		}
 	} while (0);	
-	if (next) {
-		dum_value(comr);
-		get_next_rcom(comr);
-	}
+
 	return next;
 }
