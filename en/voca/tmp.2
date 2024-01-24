@@ -361,6 +361,8 @@ Generation of a self-signed SSL certificate involves a simple 3-step procedure:
 
 STEP 1: Create the server private key
 
+vcpkg.exe install cpprestsdk cpprestsdk:x86-windows --triplet x86-windows
+
 openssl genrsa -out cert.key 2048
 STEP 2: Create the certificate signing request (CSR)
 
@@ -371,3 +373,9 @@ openssl x509 -req -days 3650 -in cert.csr -signkey cert.key -out cert.crt
 Congratulations! You now have a self-signed SSL certificate valid for 10 years.
 
 grand
+
+vcpkg.exe install boost --triplet x86-windows-static
+
+error: In manifest mode, `vcpkg install` does not support individual package arguments.
+To install additional packages, edit vcpkg.json and then run `vcpkg install` without any package arguments.
+See https://learn.microsoft.com/vcpkg/users/manifests for more information.
