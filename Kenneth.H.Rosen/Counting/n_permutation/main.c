@@ -16,9 +16,6 @@ typedef struct __My_GENERIC__ {
 } My_GENERIC;
 typedef struct __My_bit_COUNT__ {
 	uint n;
-	uint r;
-	uint b;
-	uint e;
 	My_GENERIC* arr;
 } My_bit_COUNT;
 #define combination_st  My_bit_COUNT
