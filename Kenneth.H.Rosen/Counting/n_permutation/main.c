@@ -4,9 +4,8 @@
 #include <string.h>
 #define MY_MALLOC(k, btype, obj, objtype) {obj = (objtype *) malloc(k * sizeof(btype) + sizeof(int)); if(!obj) { llog("malloc error.\n");exit(1);} else {memset(obj, 0, (k * sizeof(btype) + sizeof(int))); obj->n = (k * sizeof(btype) + sizeof(int));}}
 #define llog(fm, ...) fprintf(stdout, "%s:%d >>> "fm"", __FILE__, __LINE__, ##__VA_ARGS__)
-//#define uint		unsigned int
-//#define uchar		unsigned char
-#define swap(A, B, tmp) {(tmp) = (A); (A) = (B); (B) = (tmp);}
+
+#define swap(A, B) {(A) += (B); (B) = (A) - (B); (A) -= (B);}
 typedef enum MY_ROLE__ {
 	STRAIGHT = 0,
 	HOLE_GAP = 1,
@@ -21,20 +20,20 @@ typedef struct __My_bit_COUNT__ {
 	My_GENERIC* arr;
 } My_bit_COUNT;
 #define permutation_st  My_bit_COUNT
-int init_rpermu(permutation_st* rcom, int n);
-int init_rpermu(permutation_st* rcom, int n) {
+int init_npermu(permutation_st* npermu, int n);
+int init_npermu(permutation_st* npermu, int n) {
 	int err = 0;
 	My_GENERIC* p = 0;
 	do {
-		if (!rcom) {
+		if (!npermu) {
 			err = 1; break;
 		}
-		memset(rcom, 0, sizeof(permutation_st));
-		rcom->n = n;
-		MY_MALLOC((rcom->n), int, p, My_GENERIC);
-		rcom->arr = p;
-		int* arr = (int *)rcom->arr->data;
-		for (int i = 0; i < rcom->n; ++i) {
+		memset(npermu, 0, sizeof(permutation_st));
+		npermu->n = n;
+		MY_MALLOC((npermu->n), int, p, My_GENERIC);
+		npermu->arr = p;
+		int* arr = (int *)npermu->arr->data;
+		for (int i = 0; i < npermu->n; ++i) {
 			arr[i] = i;
 		}
 	} while (0);
@@ -42,16 +41,16 @@ int init_rpermu(permutation_st* rcom, int n) {
 }
 
 int countt = 1;
-int get_next_rpermu(permutation_st* p);
-void dum_value(permutation_st* comr);
+int get_next_npermu(permutation_st* p);
+void dum_value(permutation_st* );
 int main(int argc, char* argv[]) {
 	int next = 1;
-	permutation_st rcom;
-	init_rpermu(&rcom, 4);
+	permutation_st npermu;
+	init_npermu(&npermu, 5);
 	while (next) {
 			
-		dum_value(&rcom);
-		next = get_next_rpermu(&rcom);
+		dum_value(&npermu);
+		next = get_next_npermu(&npermu);
 	}
 	return 0;
 }
@@ -67,12 +66,12 @@ void dum_value(permutation_st* permu) {
 	}
 	fprintf(stdout, "\n");
 }
-int get_next_rpermu(permutation_st* permu) {
+int get_next_npermu(permutation_st* permu) {
 	MY_ROLE mode = STRAIGHT;
 	int i = 0;
 	int next = 0;
 	int* p = (int *) permu->arr->data;
-	int tmp = 0;
+	//int tmp = 0;
 	do {
 		int t = 0;
 		int u = 0;
@@ -95,14 +94,14 @@ int get_next_rpermu(permutation_st* permu) {
 			//Swap 
 			for (i = permu->n - 1; i > 0; i--) {
 				if (p[i] > p[t]) {
-					swap(p[i], p[t], tmp)
+					swap(p[i], p[t])
 					break;
 				}
 			}
 			//Reverse
 			i = 0;
 			while ((u + i) < (v - i)) {
-				swap(p[u + i], p[v - i], tmp);
+				swap(p[u + i], p[v - i]);
 				++i;
 			}
 			next = 1;
