@@ -6,3 +6,8 @@ cpprestsdk[websockets]                    Websockets support
 microsoft-signalr[cpprestsdk]             Add default Http and WebSocket implementations using CppRestSDK
 The result may be outdated. Run `git pull` to get the latest results.
 If your port is not listed, please open an issue at and/or consider making a pull request.  -  https://github.com/Microsoft/vcpkg/issues
+
+A, B, tmp
+tmp = A;
+A = B;
+b = tmp
