@@ -22,8 +22,7 @@
 
 
 
-[-] Afrofuturism		<-->	noun++C2[-0]	./ˌæfrəʊˈfjuːtʃərɪzəm/
- /ˌæfrəʊˈfjuːtʃərɪzəm/
+[-] Afrofuturism		<-->	noun++C2[-0]	./ˌæfrəʊˈfjuːtʃərɪzəm/-NamE/ˌæfrəʊˈfjuːtʃərɪzəm/
 [uncountable]
 	;chủ nghĩa vị lai -- (1) a movement in literature, art, etc. that includes black history and culture within science fiction and futuristic themes
 		;Her new novel is the perfect choice for fans of Afrofuturism and science fiction.
@@ -1785,18 +1784,21 @@
 
 
 
-[-] spray paint		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] spray paint		<-->	noun++C1[-0]	./ˈspreɪ peɪnt/-NamE/ˈspreɪ peɪnt/
+[uncountable]
+	;tranh sơn phun -- (1) ​paint that is kept in a container under pressure and that you can spray onto something
+		;a can of red spray paint
+		;TOPICS ArtC1
 
 
 
 
-[-] spray-paint		<-->	verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] spray-paint		<-->	verb++C2[-0]	./ˈspreɪ peɪnt/-NamE/ˈspreɪ peɪnt/
+[often passive]
+	;phun sơn -- (1) to spray paint that is kept in a container under pressure onto something
+		;A is spray-painted (with B) The walls were spray-painted with graffiti.
+		;B is spray-painted (on A) Graffiti was spray-painted on the walls.
+		;TOPICS ArtC2
 
 
 
