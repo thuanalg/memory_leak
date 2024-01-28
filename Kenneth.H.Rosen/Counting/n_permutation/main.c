@@ -42,30 +42,32 @@ int init_npermu(permutation_st* npermu, int n) {
 
 int countt = 1;
 int get_next_npermu(permutation_st* p);
-void dum_value(permutation_st* );
+void dum_value(permutation_st* , int *);
+
 int main(int argc, char* argv[]) {
 	int next = 1;
 	permutation_st npermu;
-	init_npermu(&npermu, 5);
+	init_npermu(&npermu, 4);
 	while (next) {
 			
-		dum_value(&npermu);
+		dum_value(&npermu, &countt);
 		next = get_next_npermu(&npermu);
 	}
 	return 0;
 }
 
 
-void dum_value(permutation_st* permu) {
+void dum_value(permutation_st* permu, int *count) {
 	int i = 0;
 	int* p = (int*) permu->arr->data;
-	fprintf(stdout, "\ncount : %d====\t", countt);
-	++countt;
+	fprintf(stdout, "\ncount : %d====\t", count ? ((*count)++):0);
+	//++countt;
 	for (i = 0; i < permu->n; ++i) {
 		fprintf(stdout, "%u, ", p[i]);
 	}
 	fprintf(stdout, "\n");
 }
+
 int get_next_npermu(permutation_st* permu) {
 	MY_ROLE mode = STRAIGHT;
 	int i = 0;
