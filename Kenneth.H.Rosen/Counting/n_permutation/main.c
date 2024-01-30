@@ -2,8 +2,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#define MY_MALLOC(k, btype, obj, objtype) {obj = (objtype *) malloc(k * sizeof(btype) + sizeof(int)); if(!obj) { llog("malloc error.\n");exit(1);} else {memset(obj, 0, (k * sizeof(btype) + sizeof(int))); obj->n = (k * sizeof(btype) + sizeof(int));}}
+
 #define llog(fm, ...) fprintf(stdout, "%s:%d >>> "fm"", __FILE__, __LINE__, ##__VA_ARGS__)
+#define MY_MALLOC(k, btype, obj, objtype) {obj = (objtype *) malloc(k * sizeof(btype) + sizeof(int)); if(!obj) { llog("malloc error.\n");exit(1);} else { llog("malloc 0x:%p.\n", obj);memset(obj, 0, (k * sizeof(btype) + sizeof(int))); obj->n = (k * sizeof(btype) + sizeof(int));}}
+#define MY_FREE(obj) if(obj) { llog("free :0x%p.\n", obj); free(obj); (obj) = 0;} 
+
 
 #define swap(A, B) {(A) += (B); (B) = (A) - (B); (A) -= (B);}
 typedef enum MY_ROLE__ {
@@ -47,12 +50,13 @@ void dum_value(permutation_st* , int *);
 int main(int argc, char* argv[]) {
 	int next = 1;
 	permutation_st npermu;
-	init_npermu(&npermu, 4);
+	init_npermu(&npermu, 3);
 	while (next) {
 			
 		dum_value(&npermu, &countt);
 		next = get_next_npermu(&npermu);
 	}
+	MY_FREE(npermu.arr);
 	return 0;
 }
 
@@ -75,13 +79,10 @@ int get_next_npermu(permutation_st* permu) {
 	int* p = (int *) permu->arr->data;
 	//int tmp = 0;
 	do {
-		int t = 0;
-		int u = 0;
-		int v = 0;
+		int t = -1;
+		int u = -1;
+		int v = 1;
 		do {
-			t = -1;
-			u = -1;
-			v = -1;
 			for (i = permu->n - 1; i > 0; i--) {
 				if (p[i] > p[i - 1]) {
 					t = i - 1;

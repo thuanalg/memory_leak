@@ -1,8 +1,11 @@
 //Nguyen Thai Thuan, modify later
 #include <stdlib.h>
 #include <stdio.h>
-#define MY_MALLOC(k, btype, obj, objtype) {obj = (objtype *) malloc(k * sizeof(btype) + sizeof(uint)); if(!obj) { llog("malloc error.\n");exit(1);} else {memset(obj, 0, (k * sizeof(btype) + sizeof(uint))); obj->n = (k * sizeof(btype) + sizeof(uint));}}
+
 #define llog(fm, ...) fprintf(stdout, "%s:%d >>> "fm"", __FILE__, __LINE__, ##__VA_ARGS__)
+#define MY_MALLOC(k, btype, obj, objtype) {obj = (objtype *) malloc(k * sizeof(btype) + sizeof(uint)); if(!obj) { llog("malloc error.\n");exit(1);} else {llog("malloc error.\n");memset(obj, 0, (k * sizeof(btype) + sizeof(uint))); obj->n = (k * sizeof(btype) + sizeof(uint));}}
+#define MY_FREE(obj) if(obj) { llog("free :0x%p.\n", obj); free(obj); (obj) = 0;} 
+
 #define uint		unsigned int
 #define uchar		unsigned char
 typedef enum MY_ROLE__ {
@@ -42,6 +45,7 @@ int init_rcom(combination_st* rcom, uint n, uint r) {
 			arr[i] = 1;
 		}
 	} while (0);
+	MY_FREE(rcom->arr);
 	return err;
 }
 
