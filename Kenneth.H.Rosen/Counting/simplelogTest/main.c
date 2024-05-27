@@ -3,5 +3,6 @@
 #include <stdlib.h>
 
 int main(int argc, char* argv[]) {
+	consimplelog("Test consimplelog   ");
 	return EXIT_SUCCESS;
 }
