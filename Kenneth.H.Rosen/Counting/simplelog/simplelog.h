@@ -32,7 +32,8 @@ extern "C" {
 #define		LOG_ERROR				50
 #define		LOG_FATAL				100
 	typedef struct __SIMPLE_LOG_ST__ {
-		char filepath[1024];
+		int llevel;
+		char folder[1024];
 		void* fp;
 		int szbuf;
 		void *mtx;
