@@ -1,17 +1,19 @@
 #include "simplelog.h"
 #include <stdio.h>
+#include <Windows.h>
 //========================================================================================
 #define				SPLOG_PATHFOLDR					"pathfoder="
 #define				SPLOG_LEVEL						"level="
-static const char*				__splog_pathfolder[]		= { SPLOG_PATHFOLDR, SPLOG_LEVEL, 0 };
+#define				SPLOG_BUFF_SIZE					"buffsize="
+static const char*				__splog_pathfolder[]		= { SPLOG_PATHFOLDR, SPLOG_LEVEL, SPLOG_BUFF_SIZE, 0 };
 static	int						simple_log_levwel			=			0;
 static	SIMPLE_LOG_ST			__simple_log_static__;;
 
 static int		simple_init_log_parse(char* buff, char* key);
 static void*	spl_mutex_create();
 static void*	spl_sem_create(int ini);
-static int		spl_mutex_lock(char* buff, char* key);
-static int		spl_mutex_unlock(char* buff, char* key);
+static int		spl_mutex_lock(void* buff);
+static int		spl_mutex_unlock(void* buff);
 //========================================================================================
 int simple_set_log_levwel(int val) {
 	simple_log_levwel = val;
@@ -31,6 +33,7 @@ typedef enum __SPL_LOG_ERROR__{
 	SPL_LOG_LEVEL_ERROR,
 	SPL_ERROR_CREATE_MUTEX, 
 	SPL_ERROR_CREATE_SEM, 
+	SPL_LOG_BUFF_SIZE_ERROR,
 } SPL_LOG_ERROR;
 int	simple_init_log_parse(char* buff, char *key) {
 	int ret = SPL_NO_ERROR;
@@ -49,6 +52,17 @@ int	simple_init_log_parse(char* buff, char *key) {
 			count = sscanf(buff, "%d", &n);
 			if (n < 0) {
 				ret = SPL_LOG_LEVEL_ERROR;
+				break;
+			}
+			__simple_log_static__.llevel = n;
+			break;
+		}
+		if (strcmp(key, SPLOG_BUFF_SIZE) == 0) {
+			int n = 0;
+			int sz = 0;
+			sz = sscanf(buff, "%d", &n);
+			if (n < 0) {
+				ret = SPL_LOG_BUFF_SIZE_ERROR;
 				break;
 			}
 			__simple_log_static__.llevel = n;
@@ -86,7 +100,7 @@ int	simple_init_log( char *pathcfg) {
 						}
 						if (strstr(buf, node))
 						{
-							consimplelog("Find out the keyword: %s, %s.", node, buf + strlen(node));
+							consimplelog("Find out the keyword: [%s] value [%s].", node, buf + strlen(node));
 							ret = simple_init_log_parse(buf + strlen(node), node);
 							break;
 						}
@@ -135,6 +149,40 @@ void* spl_mutex_create() {
 void* spl_sem_create(int ini) {
 	void* ret = 0;
 	ret = CreateSemaphoreA(0, 0, ini, 0);
+	return ret;
+}
+//========================================================================================
+int spl_mutex_lock(void* obj) {
+	int ret = 0;
+	DWORD err = 0;
+	do {
+		if (!obj) {
+			ret = 1;
+			break;
+		}
+		err = WaitForSingleObject(obj, INFINITE);
+		if (err != WAIT_OBJECT_0) {
+			ret = 1;
+			break;
+		}
+	} while (0);
+	return ret;
+}
+//========================================================================================
+int spl_mutex_unlock(void* obj) {
+	int ret = 0;
+	DWORD done = 0;
+	do {
+		if (!obj) {
+			ret = 1;
+			break;
+		}
+		done = ReleaseMutex(obj);
+		if (!done) {
+			ret = 1;
+			break;
+		}
+	} while (0);
 	return ret;
 }
 //========================================================================================

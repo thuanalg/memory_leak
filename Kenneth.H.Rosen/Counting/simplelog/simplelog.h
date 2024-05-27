@@ -34,11 +34,13 @@ extern "C" {
 	typedef struct __SIMPLE_LOG_ST__ {
 		int llevel;
 		char folder[1024];
-		void* fp;
+		char ready;
 		int szbuf;
-		void *mtx;
+		void* mtx;
 		void* sem_rwfile;
-		char off;
+
+		void* fp;
+		char off;		
 	} SIMPLE_LOG_ST;
 	
 	DLL_API_SIMPLE_LOG int			simple_set_log_levwel(int val);
