@@ -24,6 +24,7 @@ extern "C" {
 
 
 #define consimplelog(___fmttt___, ...)		fprintf(stdout, __SIMPLE_LOG_PLATFORM__" "__FILE_LINE_SIMPLELOG__" "(___fmttt___), ,__FILE__, __LINE__, ##__VA_ARGS__)
+#define consimplelog_buffer(buf__, __n, ___fmttt___, ...)		snprintf((buf__), (__n), __SIMPLE_LOG_PLATFORM__" "__FILE_LINE_SIMPLELOG__" "(___fmttt___), ,__FILE__, __LINE__, ##__VA_ARGS__)
 
 #define		LOG_DEBUG				0
 #define		LOG_INFO				10
