@@ -7,7 +7,11 @@ static const char*				__splog_pathfolder[]		= { SPLOG_PATHFOLDR, SPLOG_LEVEL, 0 
 static	int						simple_log_levwel			=			0;
 static	SIMPLE_LOG_ST			__simple_log_static__;;
 
-static int	simple_init_log_parse(char* buff, char* key);
+static int		simple_init_log_parse(char* buff, char* key);
+static void*	spl_mutex_create();
+static void*	spl_sem_create(int ini);
+static int		spl_mutex_lock(char* buff, char* key);
+static int		spl_mutex_unlock(char* buff, char* key);
 //========================================================================================
 int simple_set_log_levwel(int val) {
 	simple_log_levwel = val;
@@ -21,11 +25,21 @@ int simple_get_log_levwel() {
 	return ret;
 }
 //========================================================================================
-
+typedef enum __SPL_LOG_ERROR__{
+	SPL_NO_ERROR = 0,
+	SPL_INIT_PATH_FOLDER_EMPTY_ERROR,
+	SPL_LOG_LEVEL_ERROR,
+	SPL_ERROR_CREATE_MUTEX, 
+	SPL_ERROR_CREATE_SEM, 
+} SPL_LOG_ERROR;
 int	simple_init_log_parse(char* buff, char *key) {
-	int ret = 0;
+	int ret = SPL_NO_ERROR;
 	do {
 		if (strcmp(key, SPLOG_PATHFOLDR) == 0) {
+			if (!buff[0]) {
+				ret = SPL_INIT_PATH_FOLDER_EMPTY_ERROR;
+				break;
+			}
 			snprintf(__simple_log_static__.folder, 1024, "%s", buff);
 			break;
 		}
@@ -33,18 +47,24 @@ int	simple_init_log_parse(char* buff, char *key) {
 			int n = 0;
 			int count = 0;
 			count = sscanf(buff, "%d", &n);
+			if (n < 0) {
+				ret = SPL_LOG_LEVEL_ERROR;
+				break;
+			}
 			__simple_log_static__.llevel = n;
 			break;
 		}
 	} while (0);
 	return ret;
 }
+
 int	simple_init_log( char *pathcfg) {
 	int ret = 0;
 	FILE* fp = 0;
 	char c = 0;
 	int count = 0;
 	char buf[1024];
+	void* obj = 0;
 	do {
 		memset(buf, 0, sizeof(buf));
 		fp = fopen(pathcfg, "r");
@@ -67,10 +87,13 @@ int	simple_init_log( char *pathcfg) {
 						if (strstr(buf, node))
 						{
 							consimplelog("Find out the keyword: %s, %s.", node, buf + strlen(node));
-							simple_init_log_parse(buf + strlen(node), node);
+							ret = simple_init_log_parse(buf + strlen(node), node);
 							break;
 						}
 						j++;
+					}
+					if (ret) {
+						break;
 					}
 				}
 				count = 0;
@@ -78,20 +101,40 @@ int	simple_init_log( char *pathcfg) {
 				continue;
 				
 			}
-			//if (c == '\n') {
-			//	count = 0;
-			//	count = 0;
-			//	memset(buf, 0, sizeof(buf));
-			//	continue;
-			//}
 			buf[count++] = c;
-
 		}
+		if (ret) {
+			break;
+		}
+		obj = spl_mutex_create();
+		if (!obj) {
+			ret = SPL_ERROR_CREATE_MUTEX;
+			break;
+		}
+		__simple_log_static__.mtx = obj;
+		obj = spl_sem_create(1);
+		if (!obj) {
+			ret = SPL_ERROR_CREATE_SEM;
+			break;
+		}
+		__simple_log_static__.sem_rwfile = obj;
 	} while (0);
 	if (fp) {
 		ret = fclose(fp);
 		consimplelog("Error, close file got trouble, error: ret: %d.\n", ret);
 	}
+	return ret;
+}
+//========================================================================================
+void* spl_mutex_create() {
+	void *ret = 0;
+	ret = CreateMutexA(0, 1, 0);
+	return ret;
+}
+//========================================================================================
+void* spl_sem_create(int ini) {
+	void* ret = 0;
+	ret = CreateSemaphoreA(0, 0, ini, 0);
 	return ret;
 }
 //========================================================================================

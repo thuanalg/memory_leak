@@ -37,7 +37,7 @@ extern "C" {
 		void* fp;
 		int szbuf;
 		void *mtx;
-		void* sem_trigger;
+		void* sem_rwfile;
 		char off;
 	} SIMPLE_LOG_ST;
 	
