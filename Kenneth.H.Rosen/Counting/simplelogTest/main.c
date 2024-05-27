@@ -1,4 +1,4 @@
-//#include "simplelog.h"
+#include "simplelog.h"
 #include <stdio.h>
 #include <stdlib.h>
 

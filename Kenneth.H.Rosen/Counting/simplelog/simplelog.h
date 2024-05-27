@@ -1,5 +1,6 @@
 #ifndef ___MYSIMPLE_LOG__
 #define ___MYSIMPLE_LOG__
+#include <stdio.h>
 #ifdef __cplusplus
 extern "C" {
 #endif
@@ -12,6 +13,18 @@ extern "C" {
 #else
 	#define DLL_API_SIMPLE_LOG
 #endif
+#ifndef __SIMPLE_LOG_PLATFORM__
+	#define				__SIMPLE_LOG_PLATFORM__							"[WIN32_MSVC]"
+#endif // !__PLAT
+
+#ifndef __FILE_LINE_SIMPLELOG__
+	#define				__FILE_LINE_SIMPLELOG__							"[%s:%d]"
+#endif // !__FILE_LINE_SIMPLELOG__
+
+
+
+#define consimplelog(___fmttt___, ...)		fprintf(stdout, __SIMPLE_LOG_PLATFORM__" "__FILE_LINE_SIMPLELOG__" "(___fmttt___), ,__FILE__, __LINE__, ##__VA_ARGS__)
+
 #define		LOG_DEBUG				0
 #define		LOG_INFO				10
 #define		LOG_WARNING				30
@@ -25,7 +38,7 @@ extern "C" {
 		void* sem_trigger;
 		char off;
 	} SIMPLE_LOG_ST;
-	extern int			simple_log_levwel;
+	
 	DLL_API_SIMPLE_LOG int			simple_set_log_levwel(int val);
 	DLL_API_SIMPLE_LOG int			simple_get_log_levwel();
 	DLL_API_SIMPLE_LOG int			simple_init_log(int lvel, char *path);
