@@ -14,6 +14,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplelogTest", "simplelogT
 		{A196ED3E-DF10-404E-87FC-0C851080FF0C} = {A196ED3E-DF10-404E-87FC-0C851080FF0C}
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplelogTestt", "simplelogTestt\simplelogTestt.vcxproj", "{D12E546B-22A8-49B8-92B8-8860E9092CA3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A196ED3E-DF10-404E-87FC-0C851080FF0C} = {A196ED3E-DF10-404E-87FC-0C851080FF0C}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -54,6 +59,14 @@ Global
 		{0C1B3A05-EE30-4FC7-8656-4EE52308164D}.Release|x64.Build.0 = Release|x64
 		{0C1B3A05-EE30-4FC7-8656-4EE52308164D}.Release|x86.ActiveCfg = Release|Win32
 		{0C1B3A05-EE30-4FC7-8656-4EE52308164D}.Release|x86.Build.0 = Release|Win32
+		{D12E546B-22A8-49B8-92B8-8860E9092CA3}.Debug|x64.ActiveCfg = Debug|x64
+		{D12E546B-22A8-49B8-92B8-8860E9092CA3}.Debug|x64.Build.0 = Debug|x64
+		{D12E546B-22A8-49B8-92B8-8860E9092CA3}.Debug|x86.ActiveCfg = Debug|Win32
+		{D12E546B-22A8-49B8-92B8-8860E9092CA3}.Debug|x86.Build.0 = Debug|Win32
+		{D12E546B-22A8-49B8-92B8-8860E9092CA3}.Release|x64.ActiveCfg = Release|x64
+		{D12E546B-22A8-49B8-92B8-8860E9092CA3}.Release|x64.Build.0 = Release|x64
+		{D12E546B-22A8-49B8-92B8-8860E9092CA3}.Release|x86.ActiveCfg = Release|Win32
+		{D12E546B-22A8-49B8-92B8-8860E9092CA3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

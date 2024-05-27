@@ -9,10 +9,10 @@ int main(int argc, char* argv[]) {
 	char pathcfg[1024];
 	char* path = "D:\\z.en\\en.2022.07.08\\memory_leak\\Kenneth.H.Rosen\\Counting\\simplelog\\simplelog.cfg";
 	snprintf(pathcfg, 1024, path);
-	n = strlen(pathcfg);	
+	n = strlen(pathcfg);
 	for (int i = 0; i < n; ++i) {
-		if (pathcfg[0] == '\\') {
-			pathcfg[0] = '/';
+		if (pathcfg[i] == '\\') {
+			pathcfg[i] = '/';
 		}
 	}
 	ret = simple_init_log(pathcfg);

@@ -12,14 +12,21 @@ int simple_get_log_levwel() {
 	return simple_log_levwel;
 }
 //========================================================================================
-int	simple_init_log(int lvel, char *pathFolder) {
+int	simple_init_log( char *pathcfg) {
 	int ret = 0;
 	FILE* fp = 0;
 	do {
+		fp = fopen(pathcfg, "r");
+		if (!fp) {
+			ret = 1;
+			consimplelog("Cannot open file error.");
+			break;
+		}
+
 	} while (0);
 	if (fp) {
 		ret = fclose(fp);
-		//consimplelog("Error, close file got trouble, error: ret: %d.\n", ret);
+		consimplelog("Error, close file got trouble, error: ret: %d.\n", ret);
 	}
 	return ret;
 }
