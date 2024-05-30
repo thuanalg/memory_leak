@@ -1,9 +1,9 @@
 [-] acutely		<-->	adverb++C1	[240128][001]	./əˈkjuːtli/-NamE/əˈkjuːtli/
 	; -- (1) acutely aware/conscious noticing or feeling something very strongly
 		;I am acutely aware of the difficulties we face.
-	; -- (2) ​(describing unpleasant feelings) very; very strongly
+	; -- (2) (describing unpleasant feelings) very; very strongly
 		;acutely embarrassed
-	;ác tính, nguy hiểm -- (3) ​to a severe and dangerous degree
+	;ác tính, nguy hiểm -- (3) to a severe and dangerous degree
 		;acutely ill
 		;OPPOSITE chronically
 		;TOPICS DANGER-C1
@@ -24,7 +24,7 @@
 
 
 [-] adventurous		<-->	adjective++B2	[240128][001]	./ədˈventʃərəs/-NamE/ədˈventʃərəs/
-	; -- (1) ​(North American English also adventuresome) (of a person) willing to take risks and try new ideas; enjoying being in new, exciting situations
+	; -- (1) (North American English also adventuresome) (of a person) willing to take risks and try new ideas; enjoying being in new, exciting situations
 		;For the more adventurous tourists, there are trips into the mountains with a local guide.
 		;Many teachers would like to be more adventurous and creative.
 	; -- (2) including new and interesting things, methods and ideas
@@ -178,8 +178,7 @@
 
 
 
-[-] at-risk		<-->	adjective++B2	[240128][001]	./ˌæt ˈrɪsk/-NamE/ˌæt ˈrɪsk/
-[only before noun]
+[-] at-risk		<-->	adjective++B2	[240128][001]	./ˌæt ˈrɪsk/-NamE/ˌæt ˈrɪsk/ [only before noun]
 	;có nguy cơ -- (1) in danger of being attacked or harmed
 		;Social services keep lists of at-risk children.
 		;The boys were put on the at-risk register.
@@ -243,8 +242,8 @@
 
 
 
-[-] be on the lookout (for somebody/something)		<-->	idiom++C2[-0]	./i/
-	;cảnh giác -- (1) ​(informal) to watch carefully for somebody/something in order to avoid danger, etc. or in order to find something you want
+[-] be on the lookout (for somebody/something)		<-->	idiom++C2	[240530]	./i/
+	;cảnh giác -- (1) (informal) to watch carefully for somebody/something in order to avoid danger, etc. or in order to find something you want
 		;The public should be on the lookout for symptoms of the disease.
 		;The guards have to keep a sharp lookout for anything suspicious.
 		;TOPICS DangerC2
@@ -256,7 +255,7 @@
 
 
 
-[-] be on the razor’s edge		<-->	idiom++C2[-0]	./i/
+[-] be on the razor’s edge		<-->	idiom++C2	[240530]	./i/
 	;tình huống trên lưỡi dao -- (1) to be in a difficult situation where any mistake may be very dangerous
 		;Social workers operate on the razor’s edge.
 		;TOPICS DangerC2
@@ -268,7 +267,7 @@
 
 
 
-[-] be on the watch (for somebody/something)		<-->	idiom++C2[-0]	./i/
+[-] be on the watch (for somebody/something)		<-->	idiom++C2	[240530]	./i/
 	;cảnh giác -- (1) to be looking carefully for somebody/something that you expect to see, especially in order to avoid possible danger
 		;Be on the watch for thieves.
 		;TOPICS DangerC2
@@ -280,7 +279,7 @@
 
 
 
-[-] be on your guard		<-->	idiom++C2[-0]	./i/
+[-] be on your guard		<-->	idiom++C2	[240530]	./i/
 	;cảnh giác -- (1) to be very careful and prepared for something difficult or dangerous
 		;He was always on his guard against moneymaking schemes.
 		;TOPICS DangerC2
@@ -292,10 +291,9 @@
 
 
 
-[-] beware		<-->	verb++C1[-0]	./bɪˈweə(r)/
- /bɪˈwer/
+[-] beware		<-->	verb++C1	[240530]	./bɪˈweə(r)/-NAmE /bɪˈwer/
 [intransitive, transitive], used only in infinitives and in orders
-	;cẩn thận -- (1) ​if you tell somebody to beware, you are warning them that somebody/something is dangerous and that they should be careful
+	;cẩn thận -- (1) if you tell somebody to beware, you are warning them that somebody/something is dangerous and that they should be careful
 		;beware of somebody/something Motorists have been warned to beware of icy roads.
 		;beware (of) doing something Beware of saying anything that might reveal where you live.
 		;beware somebody/something It's a great place for swimming, but beware dangerous currents.
@@ -307,10 +305,10 @@
 
 
 
-[-] boil over		<-->	phrasal verb++C2[-0]	./p/
+[-] boil over		<-->	phrasal verb++C2	[240530]	./p/
 	; -- (1) 
 	; -- (2) 
-	;sôi sục -- (3) ​(of a situation, an emotion, etc.) to change into something more dangerous or violent
+	;sôi sục -- (3) (of a situation, an emotion, etc.) to change into something more dangerous or violent
 		;SYNONYM explode
 		;Racial tension finally boiled over in the inner city riots.
 		;somebody's frustration/anger boils over
@@ -321,8 +319,8 @@
 
 
 
-[-] boil up		<-->	phrasal verb++C2[-0]	./p/
-	;sôi sục -- (1) ​if a situation or an emotion boils up, it becomes dangerous, makes you worried, etc.
+[-] boil up		<-->	phrasal verb++C2	[240530]	./p/
+	;sôi sục -- (1) if a situation or an emotion boils up, it becomes dangerous, makes you worried, etc.
 		;I could feel anger boiling up inside me.
 		;TOPICS DangerC2, FeelingsC2
 	; -- (2) 
@@ -333,9 +331,7 @@
 
 
 
-[-] breakneck		<-->	adjective++C2[-0]	./ˈbreɪknek/
- /ˈbreɪknek/
-[only before noun]
+[-] breakneck		<-->	adjective++C2	[240530]	./ˈbreɪknek/-NAmE /ˈbreɪknek/ [only before noun]
 	;chóng mặt, rất nguy hiểm, bàn thờ -- (1) very fast and dangerous
 		;to drive, etc. at breakneck speed
 		;We drove to the hospital at breakneck speed.
@@ -350,8 +346,7 @@
 
 
 
-[-] brink		<-->	noun++C2[-0]	./brɪŋk/
- /brɪŋk/
+[-] brink		<-->	noun++C2	[240530]	./brɪŋk/-NAmE /brɪŋk/
 [singular]
 	;bờ vực -- (1) the brink (of something) if you are on the brink of something, you are almost in a very new, dangerous or exciting situation
 		;on the brink of collapse/war/death/disaster
@@ -376,7 +371,7 @@
 
 
 
-[-] cancer		<-->	noun++C2[-0]	./cef/
+[-] cancer		<-->	noun++C2	[240530]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -386,13 +381,12 @@
 
 
 
-[-] canker		<-->	noun++C2[-0]	./ˈkæŋkə(r)/
- /ˈkæŋkər/
+[-] canker		<-->	noun++C2	[240530]	./ˈkæŋkə(r)/-NAmE /ˈkæŋkər/
 	;bệnh thối mục -- (1) [uncountable] a disease that destroys the wood of plants and trees
 		;Cut out lesions on branches caused by canker.
 	; -- (2) 
 	; -- (3) 
-	;sự thối mục -- (5) ​[countable] (literary) an evil or dangerous influence that spreads and affects people’s behaviour
+	;sự thối mục -- (5) [countable] (literary) an evil or dangerous influence that spreads and affects people’s behaviour
 		;TOPICS DangerC2
 		;Word Origin
 
@@ -401,8 +395,7 @@
 
 
 
-[-] caper		<-->	noun++C2[-0]	./ˈkeɪpə(r)/
- /ˈkeɪpər/\
+[-] caper		<-->	noun++C2	[240530]	./ˈkeɪpə(r)/-NAmE /ˈkeɪpər/\
 	;hoa caper -- (1) [usually plural] the small green flower bud of a Mediterranean bush, preserved in vinegar and used in preparing sauces and other dishes
 	;hành động nhỏ -- (2) (informal) an activity, especially one that is illegal or dangerous
 		;A call to the police should put an end to their little caper.
@@ -415,7 +408,7 @@
 
 
 
-[-] caution		<-->	noun++C1[-0]	./cef/
+[-] caution		<-->	noun++C1	[240530]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -425,8 +418,7 @@
 
 
 
-[-] caution		<-->	verb++C1[-0]	./ˈkɔːʃn/
- /ˈkɔːʃn/\
+[-] caution		<-->	verb++C1	[240530]	./ˈkɔːʃn/-NAmE /ˈkɔːʃn/\
 	;cảnh báo -- (1) [intransitive, transitive] to warn somebody about the possible dangers or problems of something
 		;caution against (doing) something I would caution against getting too involved.
 		;caution somebody against/about (doing) something Sam cautioned him against making a hasty decision.
@@ -445,8 +437,7 @@
 
 
 
-[-] chance		<-->	noun++A2[-0]	./tʃɑːns/
- /tʃæns/
+[-] chance		<-->	noun++A2	[240530]	./tʃɑːns/-NAmE /tʃæns/
 	;thử vận, gây rủi ro -- (1) [transitive] (informal) to risk something, although you know the result may not be successful
 		;chance something She was chancing her luck driving without a licence.
 		;‘Take an umbrella.’ ‘No, I'll chance it’ (= take the risk that it may rain).
@@ -462,7 +453,7 @@
 
 
 
-[-] close		<-->	adjective++C2[-0]	./cef/
+[-] close		<-->	adjective++C2	[240530]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -475,7 +466,7 @@
 
 
 
-[-] compromise		<-->	verb++C1[-0]	./cef/
+[-] compromise		<-->	verb++C1	[240530]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -485,7 +476,7 @@
 
 
 
-[-] critical		<-->	adjective++B2[-0]	./cef/
+[-] critical		<-->	adjective++B2	[240530]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -495,7 +486,7 @@
 
 
 
-[-] critically		<-->	adverb++B2[-0]	./cef/
+[-] critically		<-->	adverb++B2	[240530]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -505,7 +496,7 @@
 
 
 
-[-] danger		<-->	noun++A2[-0]	.
+[-] danger		<-->	noun++A2	[240530]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -515,7 +506,7 @@
 
 
 
-[-] dangerous		<-->	adjective++A1[-0]	.
+[-] dangerous		<-->	adjective++A1	[240530]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -525,7 +516,19 @@
 
 
 
-[-] dangerously		<-->	adverb++B1[-0]	.
+[-] dangerously		<-->	adverb++B1	[240530]	./ˈdeɪndʒərəsli/-NAmE /ˈdeɪndʒərəsli/
+	;một cách nguy hiểm -- (1) in a way that is likely to harm or injure somebody, or to damage or destroy something
+		;She was standing dangerously close to the fire.
+		;His father is dangerously ill (= so ill that he might die).
+		;Mel enjoys living dangerously (= doing things that involve risk or danger).
+		;TOPICS DangerB1
+
+
+
+
+
+
+[-] dare		<-->	verb++C1	[240530]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -535,67 +538,72 @@
 
 
 
-[-] dare		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] dare		<-->	noun++C1	[240530]	./deə(r)/-NAmE /der/ [usually singular]
+	;sự thách thức -- (1) something dangerous, difficult or embarrassing that you try to persuade somebody to do, to see if they will do it
+		;for a dare (British English) He climbed onto the roof for a dare.
+		;on a dare (North American English) She learned to fly on a dare.
+		;TOPICS DangerC1
+		;Word Origin
 
 
 
 
 
 
-[-] dare		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] daredevil		<-->	noun++C2	[240530]	./ˈdeədevl/-NAmE /ˈderdevl/
+	;kẻ liều lĩnh -- (1) a person who enjoys doing dangerous things, in a way that other people may think is stupid
+		;a reckless daredevil
+		;TOPICS DangerC2
 
 
 
 
 
 
-[-] daredevil		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] daredevil		<-->	adjective++C2	[240530]	./ˈdeədevl/-NAmE /ˈderdevl/ [only before noun]
+	;liều lĩnh -- (1) dangerous, in a way that other people may think is stupid
+		;Don't try any daredevil stunts.
+		;TOPICS DangerC2
 
 
 
 
 
 
-[-] daredevil		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] daring		<-->	adjective++B2	[240530]	./ˈdeərɪŋ/-NAmE /ˈderɪŋ/
+	;táo bạo -- (1) brave; willing to do dangerous or unusual things; involving danger or taking risks
+		;a daring walk in space
+		;There are plenty of activities at the resort for the less daring.
+		;The gallery was known for putting on daring exhibitions.
+		;a daring strapless dress in black silk
+		;Extra Examples:
+		;He had grown more daring.
+		;Her actions were considered very daring at the time.
+		;‘Should you be drinking so much?’ she asked, greatly daring.
+		;TOPICS DangerB2, Personal qualitiesB2
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeelbecome…
+				;adverb
+				;verya littleslightly…
+		;See full entry
 
 
 
 
 
 
-[-] daring		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] daringly		<-->	adverb++B2	[240530]	./ˈdeərɪŋli/-NAmE /ˈderɪŋli/
+	;táo bạo -- (1) in a way that shows you are willing to do dangerous or unusual things if necessary; in a way that involves danger or risk
+		;This house would have looked daringly modern when it was built.
+		;TOPICS DangerB2
 
 
 
 
 
 
-[-] daringly		<-->	adverb++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] deadly		<-->	adjective++B2[-0]	.
+[-] deadly		<-->	adjective++B2	[240530]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
