@@ -663,7 +663,16 @@
 
 
 
-[-] discretion is the better part of valour		<-->	idiom++C2[-0]	.
+[-] discretion is the better part of valour		<-->	idiom++C2	[240531]	./i/
+	;thận trọng là lá bùa hộ mạng, sự thận trọng là phần tốt hơn của lòng dũng cảm -- (1) (saying) you should avoid danger and not take unnecessary risks
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] distress		<-->	noun++C1	[240531]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -673,7 +682,64 @@
 
 
 
-[-] distress		<-->	noun++C1[-0]	.
+[-] dodgy		<-->	adjective++C2	[240531]	./ˈdɒdʒi/
+ /ˈdɑːdʒi/
+(British English, informal)
+(comparative dodgier, superlative dodgiest) 	
+	;khả nghi -- (1) seeming or likely to be dishonest
+		;SYNONYM suspicious
+		;He made a lot of money, using some very dodgy methods.
+		;I don't want to get involved in anything dodgy.
+		;Travel websites that offer dodgy deals have been uncovered in a worldwide investigation.
+	; -- (2) 
+	;khó khăn -- (3) involving risk, danger or difficulty
+		;If you get into any dodgy situations, call me.
+		;We had a few dodgy moments at the start, but everything went well in the end.
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] do something at your (own) peril		<-->	idiom++C2	[240531]	./i/
+	; ... vào sự nguy hiểm, chịu rủi ro -- (1) used to warn somebody that if they do something, it may be dangerous or cause them problems
+		;Teachers ignore the importance of these results at their peril.
+		;Ignore these warnings at your peril.
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] do something at your own risk		<-->	idiom++C2	[240531]	./i/
+	; ... vào sự nguy hiểm, chịu rủi ro -- (1) to do something even though you have been warned about the possible dangers and will have to take responsibility for anything bad that happens
+		;Persons swimming beyond this point do so at their own risk (= on a notice).
+		;Valuables are left at their owner's risk (= on a notice).
+		;The building is unsafe—enter at your own risk.
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] early warning		<-->	noun++C1	[240531]	./ˌɜːli ˈwɔːnɪŋ/
+ /ˌɜːrli ˈwɔːrnɪŋ/
+[uncountable, singular]
+	;cảnh báo sớm -- (1) a thing that tells you in advance that something serious or dangerous is going to happen
+		;an early warning of heart disease
+		;an early warning system (= of enemy attack)
+		;The sensors provide early warning of the approach of enemy troops.
+		;TOPICS DangerC1
+
+
+
+
+
+
+[-] emergency		<-->	noun++B1	[240531]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -683,7 +749,20 @@
 
 
 
-[-] dodgy		<-->	adjective++C2[-0]	.
+[-] escapade		<-->	noun++C2	[240531]	./ˈeskəpeɪd/
+ /ˈeskəpeɪd/
+	;cuộc phiêu lưu -- (1) an exciting adventure (often one that people think is dangerous or stupid)
+		;Isabel’s latest romantic escapade
+		;The people who planned the escapade did not realize what they were getting involved in.
+		;Wordfinder: adrenalineadventureattemptchallengeenthusiasmescapadeexcitementexplorekickthrill
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] escape		<-->	verb++B1	[240531]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -693,7 +772,7 @@
 
 
 
-[-] do something at your (own) peril		<-->	idiom++C2[-0]	.
+[-] escape		<-->	noun++B1	[240531]	./cef/\
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -703,7 +782,7 @@
 
 
 
-[-] do something at your own risk		<-->	idiom++C2[-0]	.
+[-] evacuate		<-->	verb++C1	[240531]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -713,90 +792,47 @@
 
 
 
-[-] early warning		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] evacuation		<-->	noun++C1	[240531]	./ɪˌvækjuˈeɪʃn/
+ /ɪˌvækjuˈeɪʃn/
+[uncountable, countable]
+	;quá trình di tản -- (1) the process of moving people from a place of danger to a safer place
+		;the emergency evacuation of thousands of people after the earthquake
+		;TOPICS DangerC1, War and conflictC1
+	;sự di tản -- (2) the act of emptying a building or other place of people because it is not safe for them to stay there
+		;Officials ordered the evacuation of the Florida Keys as the tropical storm approached.
+		;TOPICS War and conflictC1
 
 
 
 
 
 
-[-] emergency		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] evacuee		<-->	noun++C2	[240531]	./ɪˌvækjuˈiː/
+ /ɪˌvækjuˈiː/
+	;người sơ tán -- (1) a person who is sent away from a place because it is dangerous, especially during a war
+		;Allowances were available to cover the cost of hosting an evacuee.
+		;During 1942 evacuee families started to arrive in the town.
+		;TOPICS DangerC2, War and conflictC2
+		;Word Origin
 
 
 
 
 
 
-[-] escapade		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] escape		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] escape		<-->	noun++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] evacuate		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] evacuation		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] evacuee		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] eventful		<-->	adjective++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] eventful		<-->	adjective++C1	[240531]	./ɪˈventfl/
+ /ɪˈventfl/
+	;sôi động, biến động -- (1) ​full of things that happen, especially exciting, important or dangerous things
+		;an eventful day/life/journey
+		;It had been a long and eventful journey.
+		;Extra Examples:
+		;It has been a most eventful day!
+		;The trip proved quite eventful.
+		;TOPICS DangerC1
+				;Oxford Collocations Dictionary
+				;Eventful is used with these nouns:
+				;daynight
+		;See full entry
 
 
 
