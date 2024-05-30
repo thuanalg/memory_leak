@@ -65,7 +65,7 @@ int	simple_init_log_parse(char* buff, char *key) {
 				ret = SPL_LOG_BUFF_SIZE_ERROR;
 				break;
 			}
-			__simple_log_static__.llevel = n;
+			__simple_log_static__.szbuf = n;
 			break;
 		}
 	} while (0);
@@ -87,33 +87,39 @@ int	simple_init_log( char *pathcfg) {
 			consimplelog("Cannot open file error.");
 			break;
 		}
-		while (c != EOF) {
+		//while (c != EOF) {
+		while (1) {
 			c = fgetc(fp);
-			if (c == '\r' || c == '\n') {
-				if (count > 0) {
-					int  j = 0;
-					char* node = 0;
-					while (1) {
-						node = __splog_pathfolder[j];
-						if (!node) {
-							break;
-						}
-						if (strstr(buf, node))
-						{
-							consimplelog("Find out the keyword: [%s] value [%s].", node, buf + strlen(node));
-							ret = simple_init_log_parse(buf + strlen(node), node);
-							break;
-						}
-						j++;
-					}
-					if (ret) {
+			if (c == '\r' || c == '\n' || c == EOF) {
+				int  j = 0;
+				char* node = 0;
+				if (count < 1) {
+					continue;
+				}
+				while (1) {
+					node = __splog_pathfolder[j];
+					if (!node) {
 						break;
 					}
+					if (strstr(buf, node))
+					{
+						consimplelog("Find out the keyword: [%s] value [%s].", node, buf + strlen(node));
+						ret = simple_init_log_parse(buf + strlen(node), node);
+						break;
+					}
+					j++;
 				}
+
+				if (ret) {
+					break;
+				}			
 				count = 0;
 				memset(buf, 0, sizeof(buf));
 				continue;
 				
+			}
+			if (c == EOF) {
+				break;
 			}
 			buf[count++] = c;
 		}
