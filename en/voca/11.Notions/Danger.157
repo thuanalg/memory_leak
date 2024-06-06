@@ -839,7 +839,7 @@
 
 
 
-[-] explode		<-->	verb++C2[-0]	.
+[-] explode		<-->	verb++C2	[240606][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -849,7 +849,7 @@
 
 
 
-[-] flee		<-->	verb++C1[-0]	.
+[-] flee		<-->	verb++C1	[240606][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -859,7 +859,7 @@
 
 
 
-[-] flight		<-->	noun++C2[-0]	.
+[-] flight		<-->	noun++C2	[240606][001]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -869,8 +869,86 @@
 
 
 
-[-] flirt with		<-->	phrasal verb++C2[-0]	.
+[-] flirt with		<-->	phrasal verb++C2	[240606][001]	./p/
 	; -- (1) 
+	;đùa với ( hiểm nguy) -- (2) ​to take risks or not worry about a dangerous situation that may happen
+		;to flirt with danger/death/disaster
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] foghorn		<-->	noun++C2	[240606][001]	./ˈfɒɡhɔːn/
+ /ˈfɑːɡhɔːrn/
+	;còi báo sương mù -- (1) a device that makes a loud noise to warn ships of danger in fog
+		;He's got a voice like a foghorn (= a loud unpleasant voice).
+		;TOPICS DangerC2, Transport by waterC2
+
+
+
+
+
+
+[-] foreboding		<-->	noun++C2	[240606][001]	./fɔːˈbəʊdɪŋ/
+ /fɔːrˈbəʊdɪŋ/-\
+[uncountable, countable]
+	;linh cảm xấu -- (1) a strong feeling that something unpleasant or dangerous is going to happen
+		;She had a sense of foreboding that the news would be bad.
+		;The letter filled him with foreboding.
+		;He knew from her face that his forebodings had been justified.
+		;Extra Examples:
+		;He returned, full of foreboding, to the scene of the accident.
+		;I felt a gloomy foreboding that something was going to go wrong.
+		;She had a foreboding of danger.
+		;The sky was dull, with a foreboding of rain.
+		;TOPICS DangerC2
+				;Oxford Collocations Dictionary
+				;adjective
+				;darkdeep
+				;verb + foreboding
+				;feelhavebe full of…
+				;preposition
+				;foreboding of
+				;phrases
+				;a feeling of forebodinga sense of foreboding
+		;See full entry
+
+
+
+
+
+
+[-] foreboding		<-->	adjective++C2	[240606][001]	./fɔːˈbəʊdɪŋ/
+ /fɔːrˈbəʊdɪŋ/
+[only before noun]
+	;linh cảm -- (1) making you feel that something unpleasant or dangerous is going to happen
+		;a foreboding feeling that something was wrong
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] forewarned is forearmed		<-->	idiom++C2	[240606][001]	./i/
+	;được báo trước là đã được báo trước -- (1) (saying) if you know about problems, dangers, etc. before they happen, you can be better prepared for them
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] for fear of something/of doing something		<-->	idiom++C1	[240606][001]	./i/
+	;vì sợ ... -- (1) ​to avoid the danger of something happening
+		;We spoke quietly for fear of waking the guards.
+		;I had to run away for fear (that) he might one day kill me.
+		;Extra Examples:
+		;Nobody refused for fear of losing their job.
+		;He wrote under a false name for fear of reprisals.
+		;TOPICS DangerC1, FeelingsC1
 	; -- (2) 
 	; -- (3) 
 
@@ -879,81 +957,63 @@
 
 
 
-[-] foghorn		<-->	noun++C2[-0]	.
+
+[-] Frankenstein		<-->	noun++C2	[240606][001]	./ˈfræŋkənstaɪn/
+ /ˈfræŋkənstaɪn/
+(also Frankenstein’s monster, Frankenstein monster)
+	;quái vật -- (1) used to talk about something that somebody creates or invents that goes out of control and becomes dangerous, often destroying the person who created it
+		;The organization has now become a Frankenstein monster beyond the control of the people who created it.
+		;If you were going to do a Frankenstein and put a swimmer together from scratch, you would build Michael Phelps.
+		;Can genetic engineering shake off its Frankenstein image?
+		;More Like This
+		;Expressions from literary sources: Alice in WonderlandCasanovaCassandraDon JuanDorian GrayFalstaffianFrankensteinJekyll and HydeLilliputianLotharioOrwellianPandora’s boxPeter PanPied PiperPollyannaRip Van WinkleRuritanianScroogeShangri-LaSherlockStepford WifeSvengaliTweedledum and TweedledeeUtopiaWalter Mitty
+		;TOPICS DangerC2
+		;Word Origin
+
+
+
+
+
+
+[-] gamble		<-->	verb++C1	[240606][001]	./ˈɡæmbl/
+ /ˈɡæmbl/
 	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;đánh cược -- (2) [transitive, intransitive] to risk losing something in the hope of being successful
+		;gamble something (on something) He's gambling his reputation on this deal.
+		;gamble with/on something It was wrong to gamble with our children's future.
+		;gamble that She gambled that he wouldn't read it before she reached the airport.
+		;TOPICS DangerC1
+		;Word Origin
 
 
 
 
 
 
-[-] foreboding		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] foreboding		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] forewarned is forearmed		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] for fear of something/of doing something		<-->	idiom++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-[-] Frankenstein		<-->	noun++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] gamble		<-->	verb++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] gamble		<-->	noun++C1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] gamble		<-->	noun++C1	[240606][001]	./ˈɡæmbl/
+ /ˈɡæmbl/
+[singular]
+	;sự đánh cược -- (1) an action that you take when you know there is a risk but when you hope that the result will be a success
+		;She knew she was taking a gamble but decided it was worth it.
+		;They invested money in the company right at the start and the gamble paid off (= brought them success).
+		;It was the biggest gamble of his political career.
+		;Extra Examples:
+		;It was time for a last desperate gamble.
+		;Trying to find the right pension can be a bit of a gamble.
+		;TOPICS DangerC1, MoneyC1
+				;Oxford Collocations Dictionary
+				;adjective
+				;bigenormousgreat…
+				;verb + gamble
+				;takelose
+				;gamble + verb
+				;pay offfail
+				;preposition
+				;gamble on
+				;phrases
+				;a bit of a gamblesomething of a gamble
+		;See full entry
+		;Word Origin
 
 
 
