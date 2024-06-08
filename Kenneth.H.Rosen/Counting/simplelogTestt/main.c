@@ -16,6 +16,6 @@ int main(int argc, char* argv[]) {
 		}
 	}
 	ret = simple_init_log(pathcfg);
-	consimplelog("\nret: %d.\n", ret);
+	consimplelog("\nret: %d. now: %llu\n", ret, simple_log_time_now(0));
 	return EXIT_SUCCESS;
 }

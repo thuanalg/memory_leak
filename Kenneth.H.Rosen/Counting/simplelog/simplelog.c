@@ -1,6 +1,7 @@
 #include "simplelog.h"
 #include <stdio.h>
 #include <Windows.h>
+#include <time.h>
 //========================================================================================
 #define				SPLOG_PATHFOLDR					"pathfoder="
 #define				SPLOG_LEVEL						"level="
@@ -12,8 +13,9 @@ static	SIMPLE_LOG_ST			__simple_log_static__;;
 static int		simple_init_log_parse(char* buff, char* key);
 static void*	spl_mutex_create();
 static void*	spl_sem_create(int ini);
-static int		spl_mutex_lock(void* buff);
-static int		spl_mutex_unlock(void* buff);
+static int		spl_mutex_lock(void* mtx);
+static int		spl_mutex_unlock(void* mtx);
+static int		spl_verify_folder(char* folder);
 //========================================================================================
 int simple_set_log_levwel(int val) {
 	simple_log_levwel = val;
@@ -34,6 +36,7 @@ typedef enum __SPL_LOG_ERROR__{
 	SPL_ERROR_CREATE_MUTEX, 
 	SPL_ERROR_CREATE_SEM, 
 	SPL_LOG_BUFF_SIZE_ERROR,
+	SPL_LOG_FOLDER_ERROR,
 } SPL_LOG_ERROR;
 int	simple_init_log_parse(char* buff, char *key) {
 	int ret = SPL_NO_ERROR;
@@ -115,6 +118,9 @@ int	simple_init_log( char *pathcfg) {
 				}			
 				count = 0;
 				memset(buf, 0, sizeof(buf));
+				if (c == EOF) {
+					break;
+				}
 				continue;
 				
 			}
@@ -138,6 +144,11 @@ int	simple_init_log( char *pathcfg) {
 			break;
 		}
 		__simple_log_static__.sem_rwfile = obj;
+		char* folder = __simple_log_static__.folder;
+		ret = spl_verify_folder(folder);
+		if (ret) {
+			break;
+		}
 	} while (0);
 	if (fp) {
 		ret = fclose(fp);
@@ -191,4 +202,54 @@ int spl_mutex_unlock(void* obj) {
 	} while (0);
 	return ret;
 }
+//========================================================================================
+int spl_verify_folder(char* folder) {
+	int ret = 0;
+	do {
+#ifdef WIN32
+		//https://learn.microsoft.com/en-us/windows/win32/fileio/retrieving-and-changing-file-attributes
+		// https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createdirectorya
+		// ERROR_ALREADY_EXISTS, ERROR_PATH_NOT_FOUND
+		BOOL result = CreateDirectoryA(folder, NULL);
+		if (!result) {
+			DWORD werr = GetLastError();
+			if (werr == ERROR_ALREADY_EXISTS) {
+				//ret = 1;
+				break;
+			}
+			ret = SPL_LOG_FOLDER_ERROR;
+		}
+#endif
+	} while (0);
+	return ret;
+}
+//========================================================================================
+//Millisecond
+LLU	simple_log_time_now(int *delta) {
+	static LLU ret_mile = 0;
+	LLU retnow = 0;
+	int elapsed = 0;
+	static time_t t0 = 0;
+	time_t t1 = time(0);
+	SYSTEMTIME systemTime;
+	GetSystemTime(&systemTime);
+	retnow = t1 * 1000 + systemTime.wMilliseconds;
+	if (delta) {
+		spl_mutex_lock(__simple_log_static__.mtx);
+		do {
+			
+			if (!ret_mile) {
+				*delta = 0;
+			}
+			else {
+				*delta = (int) (retnow - ret_mile);
+			}
+			ret_mile = retnow;
+		} while (0);
+		spl_mutex_unlock(__simple_log_static__.mtx);
+	}
+	//if(delta)
+	return retnow;
+}
+//========================================================================================
 //========================================================================================
