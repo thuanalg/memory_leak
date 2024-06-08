@@ -226,13 +226,13 @@ int spl_verify_folder(char* folder) {
 //========================================================================================
 //Millisecond
 LLU	simple_log_time_now(int *delta) {
+//https://learn.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getsystemtime
 	static LLU ret_mile = 0;
 	LLU retnow = 0;
 	int elapsed = 0;
-	static time_t t0 = 0;
-	time_t t1 = time(0);
 	SYSTEMTIME systemTime;
 	GetSystemTime(&systemTime);
+	time_t t1 = time(0);
 	retnow = t1 * 1000 + systemTime.wMilliseconds;
 	if (delta) {
 		spl_mutex_lock(__simple_log_static__.mtx);
