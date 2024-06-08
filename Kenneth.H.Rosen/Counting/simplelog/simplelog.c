@@ -16,6 +16,8 @@ static void*	spl_sem_create(int ini);
 static int		spl_mutex_lock(void* mtx);
 static int		spl_mutex_unlock(void* mtx);
 static int		spl_verify_folder(char* folder);
+static int		spl_simple_log_thread(SIMPLE_LOG_ST* t);
+static DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam);
 //========================================================================================
 int simple_set_log_levwel(int val) {
 	simple_log_levwel = val;
@@ -29,15 +31,7 @@ int simple_get_log_levwel() {
 	return ret;
 }
 //========================================================================================
-typedef enum __SPL_LOG_ERROR__{
-	SPL_NO_ERROR = 0,
-	SPL_INIT_PATH_FOLDER_EMPTY_ERROR,
-	SPL_LOG_LEVEL_ERROR,
-	SPL_ERROR_CREATE_MUTEX, 
-	SPL_ERROR_CREATE_SEM, 
-	SPL_LOG_BUFF_SIZE_ERROR,
-	SPL_LOG_FOLDER_ERROR,
-} SPL_LOG_ERROR;
+
 int	simple_init_log_parse(char* buff, char *key) {
 	int ret = SPL_NO_ERROR;
 	do {
@@ -252,4 +246,56 @@ LLU	simple_log_time_now(int *delta) {
 	return retnow;
 }
 //========================================================================================
+int simple_log_name_now(char* name) {
+	int ret = 0;
+	SYSTEMTIME st, lt;
+	GetSystemTime(&st);
+	GetLocalTime(&lt);
+
+	printf("The system time is: %02d:%02d\n", st.wHour, st.wMinute);
+	printf(" The local time is: %02d:%02d\n", lt.wHour, lt.wMinute);
+	if (name) {
+		snprintf(name, 64, "%.4d-%.2d-%.2d-simplelog.log", lt.wYear, lt.wMonth, lt.wDay);
+	}
+	return ret;
+}
+//========================================================================================
+DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam) {
+	SIMPLE_LOG_ST* t = (SIMPLE_LOG_ST*)lpParam;
+	do {
+		if (!t) {
+			exit(1);
+		}
+		if (!t->sem_rwfile) {
+			exit(1);
+		}
+		if (!t->mtx) {
+			exit(1);
+		}
+		while (1) {
+			WaitForSingleObject(t->sem_rwfile, INFINITE);
+		}
+		if (t->fp) {
+			int werr = flose(t->fp);
+			if (werr) {
+				//GetLastErr
+			}
+			else {
+				t->fp = 0;
+			}
+		}
+	} while (0);
+	return 0;
+}
+//========================================================================================
+int spl_simple_log_thread(SIMPLE_LOG_ST* t) {
+	int ret = 0;
+	HANDLE hd = 0;
+	DWORD thread_id = 0;
+	hd = CreateThread( NULL, 0, simplel_log_MyThreadFunction, t, 0, &thread_id);
+	if (!hd) {
+		ret = SPL_LOG_CREATE_THREAD_ERROR;
+	}
+	return ret;
+}
 //========================================================================================

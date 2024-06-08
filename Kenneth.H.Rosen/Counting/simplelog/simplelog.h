@@ -24,6 +24,16 @@ extern "C" {
 	#define				__FILE_LINE_SIMPLELOG__							"[%s:%d]"
 #endif // !__FILE_LINE_SIMPLELOG__
 
+	typedef enum __SPL_LOG_ERROR__ {
+		SPL_NO_ERROR = 0,
+		SPL_INIT_PATH_FOLDER_EMPTY_ERROR,
+		SPL_LOG_LEVEL_ERROR,
+		SPL_ERROR_CREATE_MUTEX,
+		SPL_ERROR_CREATE_SEM,
+		SPL_LOG_BUFF_SIZE_ERROR,
+		SPL_LOG_FOLDER_ERROR,
+		SPL_LOG_CREATE_THREAD_ERROR,
+	} SPL_LOG_ERROR;
 
 
 #define consimplelog(___fmttt___, ...)		fprintf(stdout, "[WIN32_MSVC] "__FILE_LINE_SIMPLELOG__" "___fmttt___"\n" ,__FILE__, __LINE__, ##__VA_ARGS__)
@@ -51,6 +61,7 @@ extern "C" {
 	DLL_API_SIMPLE_LOG int			simple_get_log_levwel();
 	DLL_API_SIMPLE_LOG int			simple_init_log(char *path);
 	DLL_API_SIMPLE_LOG LLU			simple_log_time_now(int* delta);
+	DLL_API_SIMPLE_LOG int			simple_log_name_now(char* name);
 
 #ifdef __cplusplus
 }
