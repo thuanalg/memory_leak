@@ -34,6 +34,14 @@ extern "C" {
 		SPL_LOG_FOLDER_ERROR,
 		SPL_LOG_CREATE_THREAD_ERROR,
 		SPL_LOG_FMT_NULL_ERROR,
+		SPL_LOG_MEM_GEN_FILE_ERROR,
+		SPL_LOG_MEM_MALLOC_ERROR,
+		SPL_LOG_OPEN_FILE_ERROR,
+		SPL_LOG_OPEN1_FILE_ERROR,
+		SPL_LOG_CLOSE_FILE_ERROR,
+
+
+		SPL_END_ERROR,
 	} SPL_LOG_ERROR;
 
 
@@ -46,16 +54,23 @@ extern "C" {
 #define		LOG_ERROR				90
 #define		LOG_FATAL				100
 
+	typedef struct __GENERIC_DTA__ {
+		int total;
+		int pc; //Point to the current
+		int pl; //Point to the last
+		char data[0];
+	} generic_dta_st;
 	typedef struct __SIMPLE_LOG_ST__ {
 		int llevel;
 		char folder[1024];
-		char ready;
-		int szbuf;
-		void* mtx;
-		void* sem_rwfile;
 
-		void* fp;
-		char off;		
+		void* mtx; //Need to close
+		void* sem_rwfile; //Need to close
+		void* lc_time; //Need to free
+		void* fp; //Need to close
+
+		char off; //Must be sync
+		generic_dta_st* buf; //Must be sync
 	} SIMPLE_LOG_ST;
 	
 	DLL_API_SIMPLE_LOG int			simple_set_log_levwel(int val);
@@ -65,6 +80,10 @@ extern "C" {
 	DLL_API_SIMPLE_LOG int			simple_log_name_now(char* name);
 	DLL_API_SIMPLE_LOG int			simple_log_name_now(char* name);
 	DLL_API_SIMPLE_LOG int			simple_log_fmt_now(char* fmtt, int len);
+	DLL_API_SIMPLE_LOG int			spl_mutex_lock(void* mtx);
+	DLL_API_SIMPLE_LOG int			spl_mutex_unlock(void* mtx);
+	DLL_API_SIMPLE_LOG int			spl_set_off(int );
+	DLL_API_SIMPLE_LOG int			spl_get_off();
 
 #ifdef __cplusplus
 }

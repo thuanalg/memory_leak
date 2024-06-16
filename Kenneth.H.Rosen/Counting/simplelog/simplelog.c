@@ -13,10 +13,11 @@ static	SIMPLE_LOG_ST			__simple_log_static__;;
 static int		simple_init_log_parse(char* buff, char* key);
 static void*	spl_mutex_create();
 static void*	spl_sem_create(int ini);
-static int		spl_mutex_lock(void* mtx);
-static int		spl_mutex_unlock(void* mtx);
+//static int		spl_mutex_lock(void* mtx);
+//static int		spl_mutex_unlock(void* mtx);
 static int		spl_verify_folder(char* folder);
 static int		spl_simple_log_thread(SIMPLE_LOG_ST* t);
+static int		spl_gen_file(SIMPLE_LOG_ST* t);
 static DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam);
 //========================================================================================
 int simple_set_log_levwel(int val) {
@@ -28,6 +29,26 @@ int simple_set_log_levwel(int val) {
 int simple_get_log_levwel() {
 	int ret = 0;
 	ret = __simple_log_static__.llevel;
+	return ret;
+}
+//========================================================================================
+int	spl_set_off(int isoff) {
+	int ret = 0;
+	spl_mutex_lock(__simple_log_static__.mtx);
+	do {
+		__simple_log_static__.off = isoff;
+	} while (0);
+	spl_mutex_unlock(__simple_log_static__.mtx);
+	return ret;
+}
+//========================================================================================
+int	spl_get_off() {
+	int ret = 0;
+	spl_mutex_lock(__simple_log_static__.mtx);
+	do {
+		ret = __simple_log_static__.off;
+	} while (0);
+	spl_mutex_unlock(__simple_log_static__.mtx);
 	return ret;
 }
 //========================================================================================
@@ -57,12 +78,22 @@ int	simple_init_log_parse(char* buff, char *key) {
 		if (strcmp(key, SPLOG_BUFF_SIZE) == 0) {
 			int n = 0;
 			int sz = 0;
+			char* p = 0;
 			sz = sscanf(buff, "%d", &n);
-			if (n < 0) {
+			if (n < 1) {
 				ret = SPL_LOG_BUFF_SIZE_ERROR;
 				break;
 			}
-			__simple_log_static__.szbuf = n;
+			//__simple_log_static__.szbuf = n;
+			p = (char*)malloc(n);
+			if (!p) {
+				ret = SPL_LOG_MEM_MALLOC_ERROR;
+				break;
+			}
+			__simple_log_static__.buf = malloc(n);
+			memset(p, 0, n);
+			__simple_log_static__.buf = (generic_dta_st *) p;
+			__simple_log_static__.buf->total = n;
 			break;
 		}
 	} while (0);
@@ -143,6 +174,7 @@ int	simple_init_log( char *pathcfg) {
 		if (ret) {
 			break;
 		}
+		ret = spl_simple_log_thread(&__simple_log_static__);
 	} while (0);
 	if (fp) {
 		ret = fclose(fp);
@@ -262,6 +294,7 @@ int simple_log_name_now(char* name) {
 //========================================================================================
 DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam) {
 	SIMPLE_LOG_ST* t = (SIMPLE_LOG_ST*)lpParam;
+	int ret = 0;
 	do {
 		if (!t) {
 			exit(1);
@@ -273,10 +306,28 @@ DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam) {
 			exit(1);
 		}
 		while (1) {
+			if (spl_get_off()) {
+				break;
+			}
 			WaitForSingleObject(t->sem_rwfile, INFINITE);
+			ret = spl_gen_file(t);
+			if (ret) {
+				//Log err
+				continue;
+			}
+			spl_mutex_lock(t->mtx);
+			do {
+				int n = 0;
+				if (t->buf->pl > t->buf->pc) {
+					t->buf->data[t->buf->pl] = 0;
+					n = fprintf(t->fp, "%s", t->buf->data);
+					t->buf->pl = t->buf->pc = 0;
+				}
+			} while (0);
+			spl_mutex_unlock(t->mtx);
 		}
 		if (t->fp) {
-			int werr = flose(t->fp);
+			int werr = fclose(t->fp);
 			if (werr) {
 				//GetLastErr
 			}
@@ -293,9 +344,12 @@ int spl_simple_log_thread(SIMPLE_LOG_ST* t) {
 	HANDLE hd = 0;
 	DWORD thread_id = 0;
 	hd = CreateThread( NULL, 0, simplel_log_MyThreadFunction, t, 0, &thread_id);
-	if (!hd) {
-		ret = SPL_LOG_CREATE_THREAD_ERROR;
-	}
+	do {
+		if (!hd) {
+			ret = SPL_LOG_CREATE_THREAD_ERROR;
+			break;
+		}
+	} while (0);
 	return ret;
 }
 //========================================================================================
@@ -316,6 +370,69 @@ int simple_log_fmt_now(char* fmtt, int len) {
 		n = GetDateFormatA(LOCALE_CUSTOM_DEFAULT, LOCALE_USE_CP_ACP, 0, "yyyy-MM-dd", buff, 20);
 		n = GetTimeFormatA(LOCALE_CUSTOM_DEFAULT, TIME_FORCE24HOURFORMAT, 0, "HH-mm-ss", buff1, 20);
 		n = snprintf(fmtt, len, "%s %s.%.3d", buff, buff1, (int)st.wMilliseconds);
+	} while (0);
+	return ret;
+}
+//========================================================================================
+int spl_gen_file(SIMPLE_LOG_ST* t) {
+	int ret = 0;
+	SYSTEMTIME st, lt,* plt = 0;;
+	GetSystemTime(&st);
+	GetLocalTime(&lt);
+	int renew = 0;
+	do {
+		char path[1024];
+		char fmt_file_name[64];
+		memset(path, 0, sizeof(path));
+		memset(fmt_file_name, 0, sizeof(fmt_file_name));
+		if (!(t->lc_time)) {
+			t->lc_time = (SYSTEMTIME*)malloc(sizeof(SYSTEMTIME));
+			if (!t->lc_time) {
+				ret = SPL_LOG_MEM_GEN_FILE_ERROR;
+				break;
+			}
+			memset(t->lc_time, 0, sizeof(SYSTEMTIME));
+			memcpy(t->lc_time, &lt, sizeof(SYSTEMTIME));
+		}
+		plt = (SYSTEMTIME*)t->lc_time;
+		if (!t->fp) {
+			simple_log_name_now(fmt_file_name);
+			snprintf(path, 1024, "%s/%s", t->folder, fmt_file_name);
+			t->fp = fopen(path, "a+");
+			if (!t->fp) {
+				ret = SPL_LOG_OPEN_FILE_ERROR;
+				break;
+			}
+			break;
+		}
+		do {
+			if (lt.wYear > plt->wMonth) {
+				renew = 1;
+				break;
+			}
+			if (lt.wYear > plt->wMonth) {
+				renew = 1;
+				break;
+			}
+			if (lt.wYear > plt->wMonth) {
+				renew = 1;
+				break;
+			}
+		} while (0);
+		if (!renew) {
+			break;
+		}
+		simple_log_name_now(fmt_file_name);
+		snprintf(path, 1024, "%s/%s", t->folder, fmt_file_name);
+		if (fclose(t->fp)) {
+			ret = SPL_LOG_CLOSE_FILE_ERROR;
+			break;
+		}
+		t->fp = fopen(path, "a+");
+		if (!t->fp) {
+			ret = SPL_LOG_OPEN1_FILE_ERROR;
+			break;
+		}
 	} while (0);
 	return ret;
 }
