@@ -299,3 +299,24 @@ int spl_simple_log_thread(SIMPLE_LOG_ST* t) {
 	return ret;
 }
 //========================================================================================
+int simple_log_fmt_now(char* fmtt, int len) {
+	int ret = 0;
+	do {
+		if (!fmtt) {
+			ret = (int) SPL_LOG_FMT_NULL_ERROR;
+			break;
+		}
+		int n;
+		SYSTEMTIME st;
+		char buff[20], buff1[20];
+		memset(buff, 0, 20);
+		memset(buff1, 0, 20);
+		memset(&st, 0, sizeof(st));
+		GetSystemTime(&st);
+		n = GetDateFormatA(LOCALE_CUSTOM_DEFAULT, LOCALE_USE_CP_ACP, 0, "yyyy-MM-dd", buff, 20);
+		n = GetTimeFormatA(LOCALE_CUSTOM_DEFAULT, TIME_FORCE24HOURFORMAT, 0, "HH-mm-ss", buff1, 20);
+		n = snprintf(fmtt, len, "%s %s.%.3d", buff, buff1, (int)st.wMilliseconds);
+	} while (0);
+	return ret;
+}
+//========================================================================================

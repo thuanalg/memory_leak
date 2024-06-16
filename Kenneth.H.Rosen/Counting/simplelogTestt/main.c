@@ -9,6 +9,7 @@ int main(int argc, char* argv[]) {
 	consimplelog("Test consimplelog   ");
 	char pathcfg[1024];
 	char* path = "D:\\z.en\\en.2022.07.08\\memory_leak\\Kenneth.H.Rosen\\Counting\\simplelog\\simplelog.cfg";
+	char nowfmt[64];
 	snprintf(pathcfg, 1024, path);
 	n = strlen(pathcfg);
 	for (int i = 0; i < n; ++i) {
@@ -19,5 +20,7 @@ int main(int argc, char* argv[]) {
 	ret = simple_init_log(pathcfg);
 	consimplelog("\nret: %d. now: %llu\n", ret, simple_log_time_now(0));
 	simple_log_name_now(nameday);
+	simple_log_fmt_now(nowfmt, 64);
+	fprintf(stdout, "\n\n------%s--------\n\n", nowfmt);
 	return EXIT_SUCCESS;
 }

@@ -33,6 +33,7 @@ extern "C" {
 		SPL_LOG_BUFF_SIZE_ERROR,
 		SPL_LOG_FOLDER_ERROR,
 		SPL_LOG_CREATE_THREAD_ERROR,
+		SPL_LOG_FMT_NULL_ERROR,
 	} SPL_LOG_ERROR;
 
 
@@ -62,6 +63,8 @@ extern "C" {
 	DLL_API_SIMPLE_LOG int			simple_init_log(char *path);
 	DLL_API_SIMPLE_LOG LLU			simple_log_time_now(int* delta);
 	DLL_API_SIMPLE_LOG int			simple_log_name_now(char* name);
+	DLL_API_SIMPLE_LOG int			simple_log_name_now(char* name);
+	DLL_API_SIMPLE_LOG int			simple_log_fmt_now(char* fmtt, int len);
 
 #ifdef __cplusplus
 }
