@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <Windows.h>
 
 int main(int argc, char* argv[]) {
 	int n = 0, ret = 0;
@@ -22,5 +23,10 @@ int main(int argc, char* argv[]) {
 	simple_log_name_now(nameday);
 	simple_log_fmt_now(nowfmt, 64);
 	fprintf(stdout, "\n\n------%s--------\n\n", nowfmt);
+	ddderere("%s", "dsds");
+	while (1) {
+		Sleep(3 * 1000);
+		ddderere("%s", "dsds");
+	}
 	return EXIT_SUCCESS;
 }

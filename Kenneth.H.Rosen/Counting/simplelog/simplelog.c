@@ -188,7 +188,7 @@ int	simple_init_log( char *pathcfg) {
 //========================================================================================
 void* spl_mutex_create() {
 	void *ret = 0;
-	ret = CreateMutexA(0, 1, 0);
+	ret = CreateMutexA(0, 0, 0);
 	return ret;
 }
 //========================================================================================
@@ -298,6 +298,7 @@ int simple_log_name_now(char* name) {
 DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam) {
 	SIMPLE_LOG_ST* t = (SIMPLE_LOG_ST*)lpParam;
 	int ret = 0;
+	int off = 0;
 	do {
 		if (!t) {
 			exit(1);
@@ -311,7 +312,8 @@ DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam) {
 		}
 		consimplelog("Mutex: 0x%p.\n", t->mtx);
 		while (1) {
-			if (spl_get_off()) {
+			off = spl_get_off();
+			if (off) {
 				break;
 			}
 			WaitForSingleObject(t->sem_rwfile, INFINITE);
@@ -330,6 +332,7 @@ DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam) {
 				}
 			} while (0);
 			spl_mutex_unlock(t->mtx);
+			fflush(t->fp);
 		}
 		if (t->fp) {
 			int werr = fclose(t->fp);
@@ -469,5 +472,17 @@ SIMPLE_LOG_ST* spl_get_main_obj() {
 //========================================================================================
 LLU	spl_get_threadid() {
 	return (LLU)GetCurrentThreadId();
+}
+//========================================================================================
+int spl_rel_sem(void *sem) {
+	int ret = 0;
+	do {
+		if (!sem) {
+			ret = SPL_LOG_SEM_NULL_ERROR;
+			break;
+		}
+		ReleaseSemaphore(sem, 1, 0);
+	} while (0);
+	return ret;
 }
 //========================================================================================
