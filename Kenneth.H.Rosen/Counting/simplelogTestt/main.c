@@ -6,7 +6,7 @@
 int main(int argc, char* argv[]) {
 	int n = 0, ret = 0;
 	char nameday[64];
-	consimplelog("Test consimplelog   ");
+	consimplelog("Main thread.\n");
 	char pathcfg[1024];
 	char* path = "D:\\z.en\\en.2022.07.08\\memory_leak\\Kenneth.H.Rosen\\Counting\\simplelog\\simplelog.cfg";
 	char nowfmt[64];

@@ -90,8 +90,8 @@ int	simple_init_log_parse(char* buff, char *key) {
 				ret = SPL_LOG_MEM_MALLOC_ERROR;
 				break;
 			}
-			__simple_log_static__.buf = malloc(n);
-			memset(p, 0, n);
+			__simple_log_static__.buf = malloc(n + 2);
+			memset(p, 0, n + 2);
 			__simple_log_static__.buf = (generic_dta_st *) p;
 			__simple_log_static__.buf->total = n;
 			break;
@@ -174,11 +174,14 @@ int	simple_init_log( char *pathcfg) {
 		if (ret) {
 			break;
 		}
-		ret = spl_simple_log_thread(&__simple_log_static__);
+		// ret = spl_simple_log_thread(&__simple_log_static__);
 	} while (0);
 	if (fp) {
 		ret = fclose(fp);
-		consimplelog("Error, close file got trouble, error: ret: %d.\n", ret);
+		consimplelog("Close file result: %s.\n", ret ? "FAILED" : "DONE");
+	}
+	if (ret == 0) {
+		ret = spl_simple_log_thread(&__simple_log_static__);
 	}
 	return ret;
 }
@@ -302,9 +305,11 @@ DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam) {
 		if (!t->sem_rwfile) {
 			exit(1);
 		}
+		consimplelog("Semaphore: 0x%p.\n", t->sem_rwfile);
 		if (!t->mtx) {
 			exit(1);
 		}
+		consimplelog("Mutex: 0x%p.\n", t->mtx);
 		while (1) {
 			if (spl_get_off()) {
 				break;
@@ -435,5 +440,34 @@ int spl_gen_file(SIMPLE_LOG_ST* t) {
 		}
 	} while (0);
 	return ret;
+}
+//========================================================================================
+char* spl_get_buf() {
+	if (__simple_log_static__.buf) {
+		return __simple_log_static__.buf->data;
+	}
+	return 0;
+}
+//========================================================================================
+void* spl_get_mtx() {
+	if (__simple_log_static__.mtx) {
+		return __simple_log_static__.mtx;
+	}
+	return 0;
+}
+//========================================================================================
+void* spl_get_sem() {
+	if (__simple_log_static__.sem_rwfile) {
+		return __simple_log_static__.sem_rwfile;
+	}
+	return 0;
+}
+//========================================================================================
+SIMPLE_LOG_ST* spl_get_main_obj() {
+	return &__simple_log_static__;
+}
+//========================================================================================
+LLU	spl_get_threadid() {
+	return (LLU)GetCurrentThreadId();
 }
 //========================================================================================
