@@ -21,7 +21,7 @@ int main(int argc, char* argv[]) {
 	ret = simple_init_log(pathcfg);
 	consimplelog("\nret: %d. now: %llu\n", ret, simple_log_time_now(0));
 	simple_log_name_now(nameday);
-	simple_log_fmt_now(nowfmt, 64);
+	simple_log_fmt_now(nowfmt, 64, 0);
 	fprintf(stdout, "\n\n------%s--------\n\n", nowfmt);
 	ddderere("%s", "dsds");
 	while (1) {

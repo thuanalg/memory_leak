@@ -21,7 +21,8 @@ extern "C" {
 #endif // !__PLAT
 
 #ifndef __FILE_LINE_SIMPLELOG__
-	#define				__FILE_LINE_SIMPLELOG__							"[%s:%d] [threadid: %llu]"
+	#define				__FILE_LINE_SIMPLELOG_00__							"[%s:%d] [threadid: %llu]"
+	#define				__FILE_LINE_SIMPLELOG__								"[%s:%d] [threadid: %llu]"
 #endif // !__FILE_LINE_SIMPLELOG__
 
 	typedef enum __SPL_LOG_ERROR__ {
@@ -46,13 +47,15 @@ extern "C" {
 	} SPL_LOG_ERROR;
 
 
-#define consimplelog(___fmttt___, ...)		fprintf(stdout, "[WIN32_MSVC] "__FILE_LINE_SIMPLELOG__" "___fmttt___"\n" ,__FUNCTION__, __LINE__, spl_get_threadid(), ##__VA_ARGS__)
+#define consimplelog(___fmttt___, ...)		fprintf(stdout, "[WIN32_MSVC] "__FILE_LINE_SIMPLELOG_00__" "___fmttt___"\n" ,__FUNCTION__, __LINE__, spl_get_threadid(), ##__VA_ARGS__)
+
 #define consimplelog_buffer(buuf__, _n_n, ___fmttt___, ...)		snprintf((buuf__), (_n_n), __SIMPLE_LOG_PLATFORM__" "__FILE_LINE_SIMPLELOG__" "___fmttt___"\n\n", \
 __FUNCTION__, __LINE__, spl_get_threadid(), ##__VA_ARGS__)
 
-#define ddderere(___fmttt___, ...)	{SIMPLE_LOG_ST* t = spl_get_main_obj(); char* __p = spl_get_buf(); void *__mtx__ =  spl_get_mtx(); int len = 0;\
+#define ddderere(___fmttt___, ...)	{char tnow[64]; SIMPLE_LOG_ST* t = spl_get_main_obj(); char* __p = spl_get_buf(); void *__mtx__ =  spl_get_mtx(); \
+int len = 0; simple_log_fmt_now(tnow, 64, 0);\
 spl_mutex_lock(__mtx__);\
-len = consimplelog_buffer((__p + t->buf->pl), (t->buf->total - sizeof(SIMPLE_LOG_ST) - t->buf->pl), ___fmttt___, ##__VA_ARGS__);\
+len = consimplelog_buffer((__p + t->buf->pl), (t->buf->total - sizeof(SIMPLE_LOG_ST) - t->buf->pl), "[%s] "___fmttt___, tnow, ##__VA_ARGS__);\
 if(len > 0) t->buf->pl += (len -1);\
 spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 
@@ -86,7 +89,7 @@ spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 	DLL_API_SIMPLE_LOG int					simple_init_log(char *path);
 	DLL_API_SIMPLE_LOG LLU					simple_log_time_now(int* delta);
 	DLL_API_SIMPLE_LOG int					simple_log_name_now(char* name);
-	DLL_API_SIMPLE_LOG int					simple_log_fmt_now(char* fmtt, int len);
+	DLL_API_SIMPLE_LOG int					simple_log_fmt_now(char* fmtt, int len, int* deltal);
 	DLL_API_SIMPLE_LOG int					spl_mutex_lock(void* mtx); //DONE
 	DLL_API_SIMPLE_LOG int					spl_mutex_unlock(void* mtx); //DONE
 	DLL_API_SIMPLE_LOG int					spl_set_off(int ); //DONE
