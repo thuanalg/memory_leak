@@ -18,12 +18,12 @@ int main(int argc, char* argv[]) {
 			pathcfg[i] = '/';
 		}
 	}
-	ret = simple_init_log(pathcfg);
+	ret = spl_init_log(pathcfg);
 	consimplelog("\nret: %d. now: %llu\n", ret, simple_log_time_now(0));
 	simple_log_name_now(nameday);
 	spl_fmt_now(nowfmt, 64);
 	fprintf(stdout, "\n\n------%s--------\n\n", nowfmt);
-	ddderere_1("%s", "dsds\n");
+	ddderere_1("%s", "------------>>>>>>>>>>>>>>\n");
 	n = 0;
 	while (1) {
 		++n;
@@ -33,6 +33,7 @@ int main(int argc, char* argv[]) {
 			break;
 		}
 	}
+	ddderere_1("%s", "<<<<<<<-----------------------------------------------------------------------0s\n");
 	spl_set_off(1);
 	consimplelog("--Main close--\n");
 	return EXIT_SUCCESS;

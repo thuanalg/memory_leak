@@ -95,8 +95,8 @@ spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 	} SIMPLE_LOG_ST;
 	
 	DLL_API_SIMPLE_LOG int					simple_set_log_levwel(int val);
-	DLL_API_SIMPLE_LOG int					simple_get_log_levwel();
-	DLL_API_SIMPLE_LOG int					simple_init_log(char *path);
+	DLL_API_SIMPLE_LOG int					spl_get_log_levwel();
+	DLL_API_SIMPLE_LOG int					spl_init_log(char *path);
 	DLL_API_SIMPLE_LOG LLU					simple_log_time_now(int* delta);
 	DLL_API_SIMPLE_LOG int					simple_log_name_now(char* name);
 	DLL_API_SIMPLE_LOG int					spl_fmt_now(char* fmtt, int len);

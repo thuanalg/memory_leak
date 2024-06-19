@@ -24,7 +24,7 @@ int simple_set_log_levwel(int val) {
 	return 0;
 }
 //========================================================================================
-int simple_get_log_levwel() {
+int spl_get_log_levwel() {
 	int ret = 0;
 	ret = __simple_log_static__.llevel;
 	return ret;
@@ -104,7 +104,7 @@ int	spl_init_log_parse(char* buff, char *key) {
 	return ret;
 }
 
-int	simple_init_log( char *pathcfg) {
+int	spl_init_log( char *pathcfg) {
 	int ret = 0;
 	FILE* fp = 0;
 	char c = 0;
