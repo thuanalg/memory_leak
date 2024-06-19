@@ -23,10 +23,10 @@ int main(int argc, char* argv[]) {
 	simple_log_name_now(nameday);
 	simple_log_fmt_now(nowfmt, 64, 0);
 	fprintf(stdout, "\n\n------%s--------\n\n", nowfmt);
-	ddderere("%s", "dsds");
+	ddderere_1("%s", "dsds\n");
 	while (1) {
 		Sleep(3 * 1000);
-		ddderere("%s", "dsds");
+		ddderere_1("%s", "dsds");
 	}
 	return EXIT_SUCCESS;
 }

@@ -59,6 +59,15 @@ len = consimplelog_buffer((__p + t->buf->pl), (t->buf->total - sizeof(SIMPLE_LOG
 if(len > 0) t->buf->pl += (len -1);\
 spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 
+#define ddderere_1(___fmttt___, ...)	{char tnow[64]; SIMPLE_LOG_ST* t = spl_get_main_obj(); char* __p = spl_get_buf(); void *__mtx__ =  spl_get_mtx(); \
+int len = 0; simple_log_fmt_now(tnow, 64, 0);\
+spl_mutex_lock(__mtx__);\
+len = snprintf((__p + t->buf->pl), (t->buf->total > sizeof(SIMPLE_LOG_ST) + t->buf->pl) ? (t->buf->total - sizeof(SIMPLE_LOG_ST) - t->buf->pl) : 0, \
+"[%s] [threadid: %llu] [%s:%d] "___fmttt___"\n\n", \
+tnow, spl_get_threadid(), __FUNCTION__, __LINE__, ##__VA_ARGS__);\
+if(len > 0) t->buf->pl += (len -1);\
+spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
+
 #define		LOG_DEBUG				0
 #define		LOG_INFO				70
 #define		LOG_WARNING				80
