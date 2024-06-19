@@ -21,12 +21,19 @@ int main(int argc, char* argv[]) {
 	ret = simple_init_log(pathcfg);
 	consimplelog("\nret: %d. now: %llu\n", ret, simple_log_time_now(0));
 	simple_log_name_now(nameday);
-	simple_log_fmt_now(nowfmt, 64, 0);
+	spl_fmt_now(nowfmt, 64);
 	fprintf(stdout, "\n\n------%s--------\n\n", nowfmt);
 	ddderere_1("%s", "dsds\n");
+	n = 0;
 	while (1) {
+		++n;
 		Sleep(3 * 1000);
 		ddderere_1("%s", "dsds");
+		if (n > 5) {
+			break;
+		}
 	}
+	spl_set_off(1);
+	consimplelog("--Main close--\n");
 	return EXIT_SUCCESS;
 }

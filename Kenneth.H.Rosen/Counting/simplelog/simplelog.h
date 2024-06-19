@@ -53,14 +53,14 @@ extern "C" {
 __FUNCTION__, __LINE__, spl_get_threadid(), ##__VA_ARGS__)
 
 #define ddderere(___fmttt___, ...)	{char tnow[64]; SIMPLE_LOG_ST* t = spl_get_main_obj(); char* __p = spl_get_buf(); void *__mtx__ =  spl_get_mtx(); \
-int len = 0; simple_log_fmt_now(tnow, 64, 0);\
+int len = 0; spl_fmt_now(tnow, 64);\
 spl_mutex_lock(__mtx__);\
 len = consimplelog_buffer((__p + t->buf->pl), (t->buf->total - sizeof(SIMPLE_LOG_ST) - t->buf->pl), "[%s] "___fmttt___, tnow, ##__VA_ARGS__);\
 if(len > 0) t->buf->pl += (len -1);\
 spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 
 #define ddderere_1(___fmttt___, ...)	{char tnow[64]; SIMPLE_LOG_ST* t = spl_get_main_obj(); char* __p = spl_get_buf(); void *__mtx__ =  spl_get_mtx(); \
-int len = 0; simple_log_fmt_now(tnow, 64, 0);\
+int len = 0; spl_fmt_now(tnow, 64);\
 spl_mutex_lock(__mtx__);\
 len = snprintf((__p + t->buf->pl), (t->buf->total > sizeof(SIMPLE_LOG_ST) + t->buf->pl) ? (t->buf->total - sizeof(SIMPLE_LOG_ST) - t->buf->pl) : 0, \
 "[%s] [threadid: %llu] [%s:%d] "___fmttt___"\n\n", \
@@ -86,6 +86,7 @@ spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 
 		void* mtx; //Need to close
 		void* sem_rwfile; //Need to close
+		void* sem_off; //Need to close
 		void* lc_time; //Need to free
 		void* fp; //Need to close
 
@@ -98,7 +99,7 @@ spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 	DLL_API_SIMPLE_LOG int					simple_init_log(char *path);
 	DLL_API_SIMPLE_LOG LLU					simple_log_time_now(int* delta);
 	DLL_API_SIMPLE_LOG int					simple_log_name_now(char* name);
-	DLL_API_SIMPLE_LOG int					simple_log_fmt_now(char* fmtt, int len, int* deltal);
+	DLL_API_SIMPLE_LOG int					spl_fmt_now(char* fmtt, int len);
 	DLL_API_SIMPLE_LOG int					spl_mutex_lock(void* mtx); //DONE
 	DLL_API_SIMPLE_LOG int					spl_mutex_unlock(void* mtx); //DONE
 	DLL_API_SIMPLE_LOG int					spl_set_off(int ); //DONE

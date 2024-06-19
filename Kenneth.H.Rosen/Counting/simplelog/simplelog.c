@@ -10,15 +10,13 @@ static const char*				__splog_pathfolder[]		= { SPLOG_PATHFOLDR, SPLOG_LEVEL, SP
 static	int						simple_log_levwel			=			0;
 static	SIMPLE_LOG_ST			__simple_log_static__;;
 
-static int		simple_init_log_parse(char* buff, char* key);
+static int		spl_init_log_parse(char* buff, char* key);
 static void*	spl_mutex_create();
 static void*	spl_sem_create(int ini);
-//static int		spl_mutex_lock(void* mtx);
-//static int		spl_mutex_unlock(void* mtx);
 static int		spl_verify_folder(char* folder);
 static int		spl_simple_log_thread(SIMPLE_LOG_ST* t);
 static int		spl_gen_file(SIMPLE_LOG_ST* t);
-static DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam);
+static DWORD WINAPI spl_written_thread_routine(LPVOID lpParam);
 //========================================================================================
 int simple_set_log_levwel(int val) {
 	simple_log_levwel = val;
@@ -39,6 +37,12 @@ int	spl_set_off(int isoff) {
 		__simple_log_static__.off = isoff;
 	} while (0);
 	spl_mutex_unlock(__simple_log_static__.mtx);
+	
+	if (isoff) {
+		spl_rel_sem(__simple_log_static__.sem_rwfile);
+		DWORD errCode = WaitForSingleObject(__simple_log_static__.sem_off, 3 * 1000);
+		consimplelog("-------WaitForSingleObject, errCode: %d\n", (int)errCode);
+	}
 	return ret;
 }
 //========================================================================================
@@ -53,7 +57,7 @@ int	spl_get_off() {
 }
 //========================================================================================
 
-int	simple_init_log_parse(char* buff, char *key) {
+int	spl_init_log_parse(char* buff, char *key) {
 	int ret = SPL_NO_ERROR;
 	do {
 		if (strcmp(key, SPLOG_PATHFOLDR) == 0) {
@@ -132,7 +136,7 @@ int	simple_init_log( char *pathcfg) {
 					if (strstr(buf, node))
 					{
 						consimplelog("Find out the keyword: [%s] value [%s].", node, buf + strlen(node));
-						ret = simple_init_log_parse(buf + strlen(node), node);
+						ret = spl_init_log_parse(buf + strlen(node), node);
 						break;
 					}
 					j++;
@@ -169,6 +173,14 @@ int	simple_init_log( char *pathcfg) {
 			break;
 		}
 		__simple_log_static__.sem_rwfile = obj;
+
+		obj = spl_sem_create(1);
+		if (!obj) {
+			ret = SPL_ERROR_CREATE_SEM;
+			break;
+		}
+		__simple_log_static__.sem_off = obj;
+
 		char* folder = __simple_log_static__.folder;
 		ret = spl_verify_folder(folder);
 		if (ret) {
@@ -295,7 +307,7 @@ int simple_log_name_now(char* name) {
 	return ret;
 }
 //========================================================================================
-DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam) {
+DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 	SIMPLE_LOG_ST* t = (SIMPLE_LOG_ST*)lpParam;
 	int ret = 0;
 	int off = 0;
@@ -338,12 +350,15 @@ DWORD WINAPI simplel_log_MyThreadFunction(LPVOID lpParam) {
 			int werr = fclose(t->fp);
 			if (werr) {
 				//GetLastErr
+				consimplelog("close file err: %d,\n\n", werr);
 			}
 			else {
 				t->fp = 0;
+				consimplelog("close file done,\n\n");
 			}
 		}
 	} while (0);
+	spl_rel_sem(__simple_log_static__.sem_off);
 	return 0;
 }
 //========================================================================================
@@ -351,7 +366,7 @@ int spl_simple_log_thread(SIMPLE_LOG_ST* t) {
 	int ret = 0;
 	HANDLE hd = 0;
 	DWORD thread_id = 0;
-	hd = CreateThread( NULL, 0, simplel_log_MyThreadFunction, t, 0, &thread_id);
+	hd = CreateThread( NULL, 0, spl_written_thread_routine, t, 0, &thread_id);
 	do {
 		if (!hd) {
 			ret = SPL_LOG_CREATE_THREAD_ERROR;
@@ -361,8 +376,12 @@ int spl_simple_log_thread(SIMPLE_LOG_ST* t) {
 	return ret;
 }
 //========================================================================================
-int simple_log_fmt_now(char* fmtt, int len, int *deltal) {
+int spl_fmt_now(char* fmtt, int len) {
 	int ret = 0;
+	static LLU pre_tnow = 0;
+	LLU _tnow = 0;
+	LLU _delta = 0;
+	time_t t = time(0);
 	do {
 		if (!fmtt) {
 			ret = (int) SPL_LOG_FMT_NULL_ERROR;
@@ -375,9 +394,27 @@ int simple_log_fmt_now(char* fmtt, int len, int *deltal) {
 		memset(buff1, 0, 20);
 		memset(&st, 0, sizeof(st));
 		GetSystemTime(&st);
+		_tnow = t;
+		_tnow *= 1000;
+		_tnow += st.wMilliseconds;
+		do {
+			spl_mutex_lock(__simple_log_static__.mtx);
+			do {
+
+				if (!pre_tnow) {
+					_delta = 0;
+					pre_tnow = _tnow;
+				}
+				else {
+					_delta = _tnow - pre_tnow;
+				}
+				pre_tnow = _tnow;
+			} while (0);
+			spl_mutex_unlock(__simple_log_static__.mtx);
+		} while (0);
 		n = GetDateFormatA(LOCALE_CUSTOM_DEFAULT, LOCALE_USE_CP_ACP, 0, "yyyy-MM-dd", buff, 20);
 		n = GetTimeFormatA(LOCALE_CUSTOM_DEFAULT, TIME_FORCE24HOURFORMAT, 0, "HH:mm:ss", buff1, 20);
-		n = snprintf(fmtt, len, "%s %s.%.3d", buff, buff1, (int)st.wMilliseconds);
+		n = snprintf(fmtt, len, "%s %s.%.3d (+%0.7llu)", buff, buff1, (int)st.wMilliseconds, _delta);
 	} while (0);
 	return ret;
 }
