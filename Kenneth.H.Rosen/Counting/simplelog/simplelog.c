@@ -16,9 +16,10 @@ static void*	spl_sem_create(int ini);
 static int		spl_verify_folder(char* folder);
 static int		spl_simple_log_thread(SIMPLE_LOG_ST* t);
 static int		spl_gen_file(SIMPLE_LOG_ST* t);
+static int		spl_get_fname_now(char* name);
 static DWORD WINAPI spl_written_thread_routine(LPVOID lpParam);
 //========================================================================================
-int simple_set_log_levwel(int val) {
+int spl_set_log_levwel(int val) {
 	simple_log_levwel = val;
 	__simple_log_static__.llevel = val;
 	return 0;
@@ -293,14 +294,14 @@ LLU	simple_log_time_now(int *delta) {
 	return retnow;
 }
 //========================================================================================
-int simple_log_name_now(char* name) {
+int spl_get_fname_now(char* name) {
 	int ret = 0;
 	SYSTEMTIME st, lt;
 	GetSystemTime(&st);
 	GetLocalTime(&lt);
 
-	printf("The system time is: %02d:%02d\n", st.wHour, st.wMinute);
-	printf(" The local time is: %02d:%02d\n", lt.wHour, lt.wMinute);
+	//consimplelog("The system time is: %02d:%02d\n", st.wHour, st.wMinute);
+	//consimplelog(" The local time is: %02d:%02d\n", lt.wHour, lt.wMinute);
 	if (name) {
 		snprintf(name, 64, "%.4d-%.2d-%.2d-simplelog.log", lt.wYear, lt.wMonth, lt.wDay);
 	}
@@ -441,7 +442,7 @@ int spl_gen_file(SIMPLE_LOG_ST* t) {
 		}
 		plt = (SYSTEMTIME*)t->lc_time;
 		if (!t->fp) {
-			simple_log_name_now(fmt_file_name);
+			spl_get_fname_now(fmt_file_name);
 			snprintf(path, 1024, "%s/%s", t->folder, fmt_file_name);
 			t->fp = fopen(path, "a+");
 			if (!t->fp) {
@@ -467,7 +468,7 @@ int spl_gen_file(SIMPLE_LOG_ST* t) {
 		if (!renew) {
 			break;
 		}
-		simple_log_name_now(fmt_file_name);
+		spl_get_fname_now(fmt_file_name);
 		snprintf(path, 1024, "%s/%s", t->folder, fmt_file_name);
 		if (fclose(t->fp)) {
 			ret = SPL_LOG_CLOSE_FILE_ERROR;
@@ -521,5 +522,38 @@ int spl_rel_sem(void *sem) {
 		ReleaseSemaphore(sem, 1, 0);
 	} while (0);
 	return ret;
+}
+//========================================================================================
+#define SPL_TEXT_UNKNOWN				"SPL_UNKNOWN"
+#define SPL_TEXT_DEBUG					"SPL_DEBUG"
+#define SPL_TEXT_INFO					"SPL_INFO"
+#define SPL_TEXT_WARN					"SPL_WARN"
+#define SPL_TEXT_ERROR					"SPL_ERROR"
+#define SPL_TEXT_FATAL				"SPL_FATAL"
+const char* spl_get_text(int lev) {
+	const char* val = SPL_TEXT_UNKNOWN;
+	do {
+		if (lev == SPL_LOG_DEBUG) {
+			val = SPL_TEXT_DEBUG;
+			break;
+		}
+		if (lev == SPL_LOG_INFO) {
+			val = SPL_TEXT_INFO;
+			break;
+		}
+		if (lev == SPL_LOG_WARNING) {
+			val = SPL_TEXT_WARN;
+			break;
+		}
+		if (lev == SPL_LOG_ERROR) {
+			val = SPL_TEXT_ERROR;
+			break;
+		}
+		if (lev == SPL_LOG_FATAL) {
+			val = SPL_TEXT_FATAL;
+			break;
+		}
+	} while(0);
+	return val;
 }
 //========================================================================================

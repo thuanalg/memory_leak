@@ -68,11 +68,13 @@ tnow, spl_get_threadid(), __FUNCTION__, __LINE__, ##__VA_ARGS__);\
 if(len > 0) t->buf->pl += (len -1);\
 spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 
-#define		LOG_DEBUG				0
-#define		LOG_INFO				70
-#define		LOG_WARNING				80
-#define		LOG_ERROR				90
-#define		LOG_FATAL				100
+#define spllog(__lv__, __fmtt__, ...) { if(spl_get_log_levwel() >= (__lv__)) {ddderere_1("[%s]"__fmtt__, spl_get_text(__lv__), ##__VA_ARGS__);};}
+
+#define		SPL_LOG_DEBUG				0
+#define		SPL_LOG_INFO				70
+#define		SPL_LOG_WARNING				80
+#define		SPL_LOG_ERROR				90
+#define		SPL_LOG_FATAL				100
 
 	typedef struct __GENERIC_DTA__ {
 		int total;
@@ -94,11 +96,10 @@ spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 		generic_dta_st* buf; //Must be sync
 	} SIMPLE_LOG_ST;
 	
-	DLL_API_SIMPLE_LOG int					simple_set_log_levwel(int val);
+	DLL_API_SIMPLE_LOG int					spl_set_log_levwel(int val);
 	DLL_API_SIMPLE_LOG int					spl_get_log_levwel();
 	DLL_API_SIMPLE_LOG int					spl_init_log(char *path);
 	DLL_API_SIMPLE_LOG LLU					simple_log_time_now(int* delta);
-	DLL_API_SIMPLE_LOG int					simple_log_name_now(char* name);
 	DLL_API_SIMPLE_LOG int					spl_fmt_now(char* fmtt, int len);
 	DLL_API_SIMPLE_LOG int					spl_mutex_lock(void* mtx); //DONE
 	DLL_API_SIMPLE_LOG int					spl_mutex_unlock(void* mtx); //DONE
@@ -110,6 +111,7 @@ spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 	DLL_API_SIMPLE_LOG SIMPLE_LOG_ST*		spl_get_main_obj(); //DONE
 	DLL_API_SIMPLE_LOG LLU					spl_get_threadid(); //DONE
 	DLL_API_SIMPLE_LOG int					spl_rel_sem(void* sem); //DONE
+	DLL_API_SIMPLE_LOG const char *			spl_get_text(int lev); //DONE
 
 #ifdef __cplusplus
 }
