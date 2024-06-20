@@ -7,27 +7,29 @@
 #define				SPLOG_LEVEL						"level="
 #define				SPLOG_BUFF_SIZE					"buffsize="
 static const char*				__splog_pathfolder[]		= { SPLOG_PATHFOLDR, SPLOG_LEVEL, SPLOG_BUFF_SIZE, 0 };
-static	int						simple_log_levwel			=			0;
+//static	int						simple_log_levwel			=			0;
 static	SIMPLE_LOG_ST			__simple_log_static__;;
 
-static int		spl_init_log_parse(char* buff, char* key);
-static void*	spl_mutex_create();
-static void*	spl_sem_create(int ini);
-static int		spl_verify_folder(char* folder);
-static int		spl_simple_log_thread(SIMPLE_LOG_ST* t);
-static int		spl_gen_file(SIMPLE_LOG_ST* t);
-static int		spl_get_fname_now(char* name);
-static DWORD WINAPI spl_written_thread_routine(LPVOID lpParam);
+static int				spl_init_log_parse(char* buff, char* key);
+static void*			spl_mutex_create();
+static void*			spl_sem_create(int ini);
+static int				spl_verify_folder(char* folder);
+static int				spl_simple_log_thread(SIMPLE_LOG_ST* t);
+static int				spl_gen_file(SIMPLE_LOG_ST* t);
+static int				spl_get_fname_now(char* name);
+static DWORD WINAPI		spl_written_thread_routine(LPVOID lpParam);
 //========================================================================================
 int spl_set_log_levwel(int val) {
-	simple_log_levwel = val;
+	//simple_log_levwel = val;
 	__simple_log_static__.llevel = val;
+	spl_console_log("log level: %d.\n", __simple_log_static__.llevel);
 	return 0;
 }
 //========================================================================================
 int spl_get_log_levwel() {
 	int ret = 0;
 	ret = __simple_log_static__.llevel;
+	spl_console_log("log level ret: %d.\n", ret);
 	return ret;
 }
 //========================================================================================
@@ -42,7 +44,7 @@ int	spl_set_off(int isoff) {
 	if (isoff) {
 		spl_rel_sem(__simple_log_static__.sem_rwfile);
 		DWORD errCode = WaitForSingleObject(__simple_log_static__.sem_off, 3 * 1000);
-		consimplelog("-------WaitForSingleObject, errCode: %d\n", (int)errCode);
+		spl_console_log("------- errCode: %d\n", (int)errCode);
 	}
 	return ret;
 }
@@ -77,7 +79,8 @@ int	spl_init_log_parse(char* buff, char *key) {
 				ret = SPL_LOG_LEVEL_ERROR;
 				break;
 			}
-			__simple_log_static__.llevel = n;
+			//__simple_log_static__.llevel = n;
+			spl_set_log_levwel(n);
 			break;
 		}
 		if (strcmp(key, SPLOG_BUFF_SIZE) == 0) {
@@ -117,7 +120,7 @@ int	spl_init_log( char *pathcfg) {
 		fp = fopen(pathcfg, "r");
 		if (!fp) {
 			ret = 1;
-			consimplelog("Cannot open file error.");
+			spl_console_log("Cannot open file error.");
 			break;
 		}
 		//while (c != EOF) {
@@ -136,7 +139,7 @@ int	spl_init_log( char *pathcfg) {
 					}
 					if (strstr(buf, node))
 					{
-						consimplelog("Find out the keyword: [%s] value [%s].", node, buf + strlen(node));
+						spl_console_log("Find out the keyword: [%s] value [%s].", node, buf + strlen(node));
 						ret = spl_init_log_parse(buf + strlen(node), node);
 						break;
 					}
@@ -191,7 +194,7 @@ int	spl_init_log( char *pathcfg) {
 	} while (0);
 	if (fp) {
 		ret = fclose(fp);
-		consimplelog("Close file result: %s.\n", ret ? "FAILED" : "DONE");
+		spl_console_log("Close file result: %s.\n", ret ? "FAILED" : "DONE");
 	}
 	if (ret == 0) {
 		ret = spl_simple_log_thread(&__simple_log_static__);
@@ -267,32 +270,32 @@ int spl_verify_folder(char* folder) {
 }
 //========================================================================================
 //Millisecond
-LLU	simple_log_time_now(int *delta) {
-//https://learn.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getsystemtime
-	static LLU ret_mile = 0;
-	LLU retnow = 0;
-	int elapsed = 0;
-	SYSTEMTIME systemTime;
-	GetSystemTime(&systemTime);
-	time_t t1 = time(0);
-	retnow = t1 * 1000 + systemTime.wMilliseconds;
-	if (delta) {
-		spl_mutex_lock(__simple_log_static__.mtx);
-		do {
-			
-			if (!ret_mile) {
-				*delta = 0;
-			}
-			else {
-				*delta = (int) (retnow - ret_mile);
-			}
-			ret_mile = retnow;
-		} while (0);
-		spl_mutex_unlock(__simple_log_static__.mtx);
-	}
-	//if(delta)
-	return retnow;
-}
+//LLU	simple_log_time_now(int *delta) {
+////https://learn.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getsystemtime
+//	static LLU ret_mile = 0;
+//	LLU retnow = 0;
+//	int elapsed = 0;
+//	SYSTEMTIME systemTime;
+//	GetSystemTime(&systemTime);
+//	time_t t1 = time(0);
+//	retnow = t1 * 1000 + systemTime.wMilliseconds;
+//	if (delta) {
+//		spl_mutex_lock(__simple_log_static__.mtx);
+//		do {
+//			
+//			if (!ret_mile) {
+//				*delta = 0;
+//			}
+//			else {
+//				*delta = (int) (retnow - ret_mile);
+//			}
+//			ret_mile = retnow;
+//		} while (0);
+//		spl_mutex_unlock(__simple_log_static__.mtx);
+//	}
+//	//if(delta)
+//	return retnow;
+//}
 //========================================================================================
 int spl_get_fname_now(char* name) {
 	int ret = 0;
@@ -300,8 +303,8 @@ int spl_get_fname_now(char* name) {
 	GetSystemTime(&st);
 	GetLocalTime(&lt);
 
-	//consimplelog("The system time is: %02d:%02d\n", st.wHour, st.wMinute);
-	//consimplelog(" The local time is: %02d:%02d\n", lt.wHour, lt.wMinute);
+	//spl_console_log("The system time is: %02d:%02d\n", st.wHour, st.wMinute);
+	//spl_console_log(" The local time is: %02d:%02d\n", lt.wHour, lt.wMinute);
 	if (name) {
 		snprintf(name, 64, "%.4d-%.2d-%.2d-simplelog.log", lt.wYear, lt.wMonth, lt.wDay);
 	}
@@ -319,11 +322,11 @@ DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 		if (!t->sem_rwfile) {
 			exit(1);
 		}
-		consimplelog("Semaphore: 0x%p.\n", t->sem_rwfile);
+		spl_console_log("Semaphore: 0x%p.\n", t->sem_rwfile);
 		if (!t->mtx) {
 			exit(1);
 		}
-		consimplelog("Mutex: 0x%p.\n", t->mtx);
+		spl_console_log("Mutex: 0x%p.\n", t->mtx);
 		while (1) {
 			off = spl_get_off();
 			if (off) {
@@ -351,11 +354,11 @@ DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 			int werr = fclose(t->fp);
 			if (werr) {
 				//GetLastErr
-				consimplelog("close file err: %d,\n\n", werr);
+				spl_console_log("close file err: %d,\n\n", werr);
 			}
 			else {
 				t->fp = 0;
-				consimplelog("close file done,\n\n");
+				spl_console_log("close file done,\n\n");
 			}
 		}
 	} while (0);
