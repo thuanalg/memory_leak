@@ -21,7 +21,6 @@ extern "C" {
 #endif // !__PLAT
 
 #ifndef __FILE_LINE_SIMPLELOG__
-	#define				__FILE_LINE_SIMPLELOG_00__							"[%s:%d] [threadid: %llu]"
 	#define				__FILE_LINE_SIMPLELOG__								"[%s:%d] [threadid: %llu]"
 #endif // !__FILE_LINE_SIMPLELOG__
 
@@ -47,7 +46,7 @@ extern "C" {
 	} SPL_LOG_ERROR;
 
 
-#define spl_console_log(___fmttt___, ...)		fprintf(stdout, "[WIN32_MSVC] "__FILE_LINE_SIMPLELOG_00__" "___fmttt___"\n" ,__FUNCTION__, __LINE__, spl_get_threadid(), ##__VA_ARGS__)
+#define spl_console_log(___fmttt___, ...)		fprintf(stdout, "[WIN32_MSVC] "__FILE_LINE_SIMPLELOG__" "___fmttt___"\n" ,__FUNCTION__, __LINE__, spl_get_threadid(), ##__VA_ARGS__)
 
 //#define spl_console_log_buffer(buuf__, _n_n, ___fmttt___, ...)		snprintf((buuf__), (_n_n), __SIMPLE_LOG_PLATFORM__" "__FILE_LINE_SIMPLELOG__" "___fmttt___"\n\n", \
 //__FUNCTION__, __LINE__, spl_get_threadid(), ##__VA_ARGS__)
@@ -102,16 +101,16 @@ spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 	DLL_API_SIMPLE_LOG int					spl_init_log(char *path);
 	DLL_API_SIMPLE_LOG int					spl_finish_log();
 	DLL_API_SIMPLE_LOG int					spl_fmt_now(char* fmtt, int len);
-	DLL_API_SIMPLE_LOG int					spl_mutex_lock(void* mtx); //DONE
-	DLL_API_SIMPLE_LOG int					spl_mutex_unlock(void* mtx); //DONE
-	DLL_API_SIMPLE_LOG int					spl_set_off(int ); //DONE
-	DLL_API_SIMPLE_LOG int					spl_get_off(); //DONE
-	DLL_API_SIMPLE_LOG void*				spl_get_mtx(); //DONE
-	DLL_API_SIMPLE_LOG void*				spl_get_sem(); //DONE
-	DLL_API_SIMPLE_LOG SIMPLE_LOG_ST*		spl_get_main_obj(); //DONE
-	DLL_API_SIMPLE_LOG LLU					spl_get_threadid(); //DONE
-	DLL_API_SIMPLE_LOG int					spl_rel_sem(void* sem); //DONE
-	DLL_API_SIMPLE_LOG const char *			spl_get_text(int lev); //DONE
+	DLL_API_SIMPLE_LOG int					spl_mutex_lock(void* mtx);
+	DLL_API_SIMPLE_LOG int					spl_mutex_unlock(void* mtx);
+	DLL_API_SIMPLE_LOG int					spl_set_off(int );
+	DLL_API_SIMPLE_LOG int					spl_get_off();
+	DLL_API_SIMPLE_LOG void*				spl_get_mtx();
+	DLL_API_SIMPLE_LOG void*				spl_get_sem();
+	DLL_API_SIMPLE_LOG SIMPLE_LOG_ST*		spl_get_main_obj();
+	DLL_API_SIMPLE_LOG LLU					spl_get_threadid();
+	DLL_API_SIMPLE_LOG int					spl_rel_sem(void* sem);
+	DLL_API_SIMPLE_LOG const char *			spl_get_text(int lev);
 
 #ifdef __cplusplus
 }
