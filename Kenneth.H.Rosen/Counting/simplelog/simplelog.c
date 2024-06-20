@@ -479,13 +479,6 @@ int spl_gen_file(SIMPLE_LOG_ST* t) {
 	return ret;
 }
 //========================================================================================
-//char* spl_get_buf() {
-//	if (__simple_log_static__.buf) {
-//		return __simple_log_static__.buf->data;
-//	}
-//	return 0;
-//}
-//========================================================================================
 void* spl_get_mtx() {
 	if (__simple_log_static__.mtx) {
 		return __simple_log_static__.mtx;
