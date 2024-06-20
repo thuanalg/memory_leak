@@ -479,12 +479,12 @@ int spl_gen_file(SIMPLE_LOG_ST* t) {
 	return ret;
 }
 //========================================================================================
-char* spl_get_buf() {
-	if (__simple_log_static__.buf) {
-		return __simple_log_static__.buf->data;
-	}
-	return 0;
-}
+//char* spl_get_buf() {
+//	if (__simple_log_static__.buf) {
+//		return __simple_log_static__.buf->data;
+//	}
+//	return 0;
+//}
 //========================================================================================
 void* spl_get_mtx() {
 	if (__simple_log_static__.mtx) {
@@ -560,22 +560,7 @@ int spl_finish_log() {
 	CloseHandle(__simple_log_static__.mtx_off);
 	CloseHandle(__simple_log_static__.sem_rwfile);
 	CloseHandle(__simple_log_static__.sem_off);
-	//if(__simple_log_static__.buf) {
-	//	free(__simple_log_static__.buf);
-	//}
-//	typedef struct __SIMPLE_LOG_ST__ {
-//		int llevel;
-//		char folder[1024];
-//		char off; //Must be sync
-//
-//		void* mtx; //Need to close handle
-//		void* sem_rwfile; //Need to close handle
-//		void* sem_off; //Need to close handle
-//
-//		void* lc_time; //Need to sync, free
-//		void* fp; //Need to close
-//		generic_dta_st* buf; //Must be sync, free
-//	} SIMPLE_LOG_ST;
+	memset(&__simple_log_static__, 0, sizeof(__simple_log_static__));
 	return ret;
 }
 //========================================================================================

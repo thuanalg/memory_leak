@@ -106,7 +106,6 @@ spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 	DLL_API_SIMPLE_LOG int					spl_mutex_unlock(void* mtx); //DONE
 	DLL_API_SIMPLE_LOG int					spl_set_off(int ); //DONE
 	DLL_API_SIMPLE_LOG int					spl_get_off(); //DONE
-	DLL_API_SIMPLE_LOG char*				spl_get_buf(); //DONE
 	DLL_API_SIMPLE_LOG void*				spl_get_mtx(); //DONE
 	DLL_API_SIMPLE_LOG void*				spl_get_sem(); //DONE
 	DLL_API_SIMPLE_LOG SIMPLE_LOG_ST*		spl_get_main_obj(); //DONE
