@@ -34,7 +34,8 @@ int main(int argc, char* argv[]) {
 		}
 	}
 	spllog(SPL_LOG_INFO, "%s", "<<<<<<<-----------------------------------------------------------------------0s\n");
-	spl_set_off(1);
+	
 	spl_console_log("--Main close--\n");
+	spl_finish_log();
 	return EXIT_SUCCESS;
 }

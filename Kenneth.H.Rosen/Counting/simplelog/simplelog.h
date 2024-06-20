@@ -59,16 +59,16 @@ extern "C" {
 //if(len > 0) t->buf->pl += (len -1);\
 //spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 
-#define __spl_log_buf__(___fmttt___, ...)	{char tnow[64]; SIMPLE_LOG_ST* t = spl_get_main_obj(); char* __p = spl_get_buf(); void *__mtx__ =  spl_get_mtx(); \
+#define __spl_log_buf__(___fmttt___, ...)	{char tnow[64]; SIMPLE_LOG_ST* t = spl_get_main_obj(); char* __p = 0; void *__mtx__ =  spl_get_mtx(); \
 int len = 0; spl_fmt_now(tnow, 64);\
 spl_mutex_lock(__mtx__);\
-len = snprintf((__p + t->buf->pl), (t->buf->total > sizeof(generic_dta_st) + t->buf->pl) ? (t->buf->total - sizeof(generic_dta_st) - t->buf->pl) : 0, \
+if (t->buf) { __p = t->buf->data; len = snprintf((__p + t->buf->pl), (t->buf->total > sizeof(generic_dta_st) + t->buf->pl) ? (t->buf->total - sizeof(generic_dta_st) - t->buf->pl) : 0, \
 "[%s] [threadid: %llu] [%s:%d] "___fmttt___"\n\n", \
-tnow, spl_get_threadid(), __FUNCTION__, __LINE__, ##__VA_ARGS__);\
-if(len > 0) t->buf->pl += (len -1);\
+tnow, spl_get_threadid(), __FUNCTION__, __LINE__, ##__VA_ARGS__); \
+if(len > 0) t->buf->pl += (len -1);}\
 spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 
-#define spllog(__lv__, __fmtt__, ...) { if(spl_get_log_levwel() <= (__lv__)) {__spl_log_buf__("[%s]"__fmtt__, spl_get_text(__lv__), ##__VA_ARGS__);};}
+#define spllog(__lv__, __fmtt__, ...) { if(spl_get_log_levwel() <= (__lv__) ) {__spl_log_buf__("[%s]"__fmtt__, spl_get_text(__lv__), ##__VA_ARGS__);};}
 
 #define		SPL_LOG_DEBUG				0
 #define		SPL_LOG_INFO				70
@@ -85,21 +85,22 @@ spl_mutex_unlock(__mtx__); spl_rel_sem(spl_get_sem());}
 	typedef struct __SIMPLE_LOG_ST__ {
 		int llevel;
 		char folder[1024];
-
-		void* mtx; //Need to close
-		void* sem_rwfile; //Need to close
-		void* sem_off; //Need to close
-		void* lc_time; //Need to free
-		void* fp; //Need to close
-
 		char off; //Must be sync
-		generic_dta_st* buf; //Must be sync
+
+		void* mtx; //Need to close handle
+		void* mtx_off; //Need to close handle
+		void* sem_rwfile; //Need to close handle
+		void* sem_off; //Need to close handle
+
+		void* lc_time; //Need to sync, free
+		void* fp; //Need to close
+		generic_dta_st* buf; //Must be sync, free
 	} SIMPLE_LOG_ST;
 	
 	DLL_API_SIMPLE_LOG int					spl_set_log_levwel(int val);
 	DLL_API_SIMPLE_LOG int					spl_get_log_levwel();
 	DLL_API_SIMPLE_LOG int					spl_init_log(char *path);
-//	DLL_API_SIMPLE_LOG LLU					simple_log_time_now(int* delta);
+	DLL_API_SIMPLE_LOG int					spl_finish_log();
 	DLL_API_SIMPLE_LOG int					spl_fmt_now(char* fmtt, int len);
 	DLL_API_SIMPLE_LOG int					spl_mutex_lock(void* mtx); //DONE
 	DLL_API_SIMPLE_LOG int					spl_mutex_unlock(void* mtx); //DONE

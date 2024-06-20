@@ -51,11 +51,11 @@ int	spl_set_off(int isoff) {
 //========================================================================================
 int	spl_get_off() {
 	int ret = 0;
-	spl_mutex_lock(__simple_log_static__.mtx);
+	spl_mutex_lock(__simple_log_static__.mtx_off);
 	do {
 		ret = __simple_log_static__.off;
 	} while (0);
-	spl_mutex_unlock(__simple_log_static__.mtx);
+	spl_mutex_unlock(__simple_log_static__.mtx_off);
 	return ret;
 }
 //========================================================================================
@@ -92,13 +92,11 @@ int	spl_init_log_parse(char* buff, char *key) {
 				ret = SPL_LOG_BUFF_SIZE_ERROR;
 				break;
 			}
-			//__simple_log_static__.szbuf = n;
-			p = (char*)malloc(n);
+			p = (char*)malloc(n + 2);
 			if (!p) {
 				ret = SPL_LOG_MEM_MALLOC_ERROR;
 				break;
 			}
-			__simple_log_static__.buf = malloc(n + 2);
 			memset(p, 0, n + 2);
 			__simple_log_static__.buf = (generic_dta_st *) p;
 			__simple_log_static__.buf->total = n;
@@ -171,6 +169,14 @@ int	spl_init_log( char *pathcfg) {
 			break;
 		}
 		__simple_log_static__.mtx = obj;
+
+		obj = spl_mutex_create();
+		if (!obj) {
+			ret = SPL_ERROR_CREATE_MUTEX;
+			break;
+		}
+		__simple_log_static__.mtx_off = obj;
+		
 		obj = spl_sem_create(1);
 		if (!obj) {
 			ret = SPL_ERROR_CREATE_SEM;
@@ -268,34 +274,7 @@ int spl_verify_folder(char* folder) {
 	} while (0);
 	return ret;
 }
-//========================================================================================
-//Millisecond
-//LLU	simple_log_time_now(int *delta) {
 ////https://learn.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getsystemtime
-//	static LLU ret_mile = 0;
-//	LLU retnow = 0;
-//	int elapsed = 0;
-//	SYSTEMTIME systemTime;
-//	GetSystemTime(&systemTime);
-//	time_t t1 = time(0);
-//	retnow = t1 * 1000 + systemTime.wMilliseconds;
-//	if (delta) {
-//		spl_mutex_lock(__simple_log_static__.mtx);
-//		do {
-//			
-//			if (!ret_mile) {
-//				*delta = 0;
-//			}
-//			else {
-//				*delta = (int) (retnow - ret_mile);
-//			}
-//			ret_mile = retnow;
-//		} while (0);
-//		spl_mutex_unlock(__simple_log_static__.mtx);
-//	}
-//	//if(delta)
-//	return retnow;
-//}
 //========================================================================================
 int spl_get_fname_now(char* name) {
 	int ret = 0;
@@ -328,11 +307,15 @@ DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 		}
 		spl_console_log("Mutex: 0x%p.\n", t->mtx);
 		while (1) {
+			//off = spl_get_off();
+			//if (off) {
+			//	break;
+			//}
+			WaitForSingleObject(t->sem_rwfile, INFINITE);
 			off = spl_get_off();
 			if (off) {
 				break;
 			}
-			WaitForSingleObject(t->sem_rwfile, INFINITE);
 			ret = spl_gen_file(t);
 			if (ret) {
 				//Log err
@@ -360,6 +343,16 @@ DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 				t->fp = 0;
 				spl_console_log("close file done,\n\n");
 			}
+			
+			if (t->lc_time) {
+				free(t->lc_time);
+			}
+			spl_mutex_lock(t->mtx);
+				if (t->buf) {
+					free(t->buf);
+					t->buf = 0;
+				}
+			spl_mutex_unlock(t->mtx);
 		}
 	} while (0);
 	spl_rel_sem(__simple_log_static__.sem_off);
@@ -558,5 +551,31 @@ const char* spl_get_text(int lev) {
 		}
 	} while(0);
 	return val;
+}
+//========================================================================================
+int spl_finish_log() {
+	int ret = 0;
+	spl_set_off(1);
+	CloseHandle(__simple_log_static__.mtx);
+	CloseHandle(__simple_log_static__.mtx_off);
+	CloseHandle(__simple_log_static__.sem_rwfile);
+	CloseHandle(__simple_log_static__.sem_off);
+	//if(__simple_log_static__.buf) {
+	//	free(__simple_log_static__.buf);
+	//}
+//	typedef struct __SIMPLE_LOG_ST__ {
+//		int llevel;
+//		char folder[1024];
+//		char off; //Must be sync
+//
+//		void* mtx; //Need to close handle
+//		void* sem_rwfile; //Need to close handle
+//		void* sem_off; //Need to close handle
+//
+//		void* lc_time; //Need to sync, free
+//		void* fp; //Need to close
+//		generic_dta_st* buf; //Must be sync, free
+//	} SIMPLE_LOG_ST;
+	return ret;
 }
 //========================================================================================
