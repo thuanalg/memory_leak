@@ -473,17 +473,22 @@ int spl_gen_file(SIMPLE_LOG_ST* t) {
 		}
 		do {
 			if (lt.wYear > plt->wYear) {
-				//renew = 1;
 				break;
 			}
 			if (lt.wMonth > plt->wMonth) {
-				//renew = 1;
 				break;
 			}
 			if (lt.wDay > plt->wDay) {
-				//renew = 1;
 				break;
 			}
+			//if (lt.wHour > plt->wHour) {
+			//	//renew = 1;
+			//	break;
+			//}
+			//if (lt.wMinute > plt->wMinute) {
+			//	//renew = 1;
+			//	break;
+			//}
 			renew = 0; 
 		} while (0);
 		if (!renew) {
