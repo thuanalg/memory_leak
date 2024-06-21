@@ -29,7 +29,7 @@ int spl_set_log_levwel(int val) {
 int spl_get_log_levwel() {
 	int ret = 0;
 	ret = __simple_log_static__.llevel;
-	spl_console_log("log level ret: %d.\n", ret);
+	//spl_console_log("log level ret: %d.\n", ret);
 	return ret;
 }
 //========================================================================================
@@ -412,9 +412,33 @@ int spl_fmt_now(char* fmtt, int len) {
 		n = GetDateFormatA(LOCALE_CUSTOM_DEFAULT, LOCALE_USE_CP_ACP, 0, "yyyy-MM-dd", buff, 20);
 		n = GetTimeFormatA(LOCALE_CUSTOM_DEFAULT, TIME_FORCE24HOURFORMAT, 0, "HH:mm:ss", buff1, 20);
 		n = snprintf(fmtt, len, "%s %s.%.3d (+%0.7llu)", buff, buff1, (int)st.wMilliseconds, _delta);
+		//fprintf(stdout, "n: %d.\n\n", n);
 	} while (0);
 	return ret;
 }
+
+//========================================================================================
+int spl_fmmt_now(char* fmtt, int len) {
+	int ret = 0;
+	do {
+		if (!fmtt) {
+			ret = (int)SPL_LOG_FMT_NULL_ERROR;
+			break;
+		}
+		int n;
+		SYSTEMTIME st;
+		char buff[20], buff1[20];
+		memset(buff, 0, 20);
+		memset(buff1, 0, 20);
+		memset(&st, 0, sizeof(st));
+		GetSystemTime(&st);
+		n = GetDateFormatA(LOCALE_CUSTOM_DEFAULT, LOCALE_USE_CP_ACP, 0, "yyyy-MM-dd", buff, 20);
+		n = GetTimeFormatA(LOCALE_CUSTOM_DEFAULT, TIME_FORCE24HOURFORMAT, 0, "HH:mm:ss", buff1, 20);
+		n = snprintf(fmtt, len, "%s %s.%.3d", buff, buff1, (int)st.wMilliseconds);
+	} while (0);
+	return ret;
+}
+
 //========================================================================================
 int spl_gen_file(SIMPLE_LOG_ST* t) {
 	int ret = 0;
