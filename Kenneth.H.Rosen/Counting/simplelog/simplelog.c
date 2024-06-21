@@ -442,10 +442,10 @@ int spl_fmmt_now(char* fmtt, int len) {
 //========================================================================================
 int spl_gen_file(SIMPLE_LOG_ST* t) {
 	int ret = 0;
-	SYSTEMTIME st, lt,* plt = 0;;
-	GetSystemTime(&st);
+	SYSTEMTIME lt,* plt = 0;;
+	//GetSystemTime(&st);
 	GetLocalTime(&lt);
-	int renew = 0;
+	int renew = 1;
 	do {
 		char path[1024];
 		char fmt_file_name[64];
@@ -472,22 +472,24 @@ int spl_gen_file(SIMPLE_LOG_ST* t) {
 			break;
 		}
 		do {
-			if (lt.wYear > plt->wMonth) {
-				renew = 1;
+			if (lt.wYear > plt->wYear) {
+				//renew = 1;
 				break;
 			}
-			if (lt.wYear > plt->wMonth) {
-				renew = 1;
+			if (lt.wMonth > plt->wMonth) {
+				//renew = 1;
 				break;
 			}
-			if (lt.wYear > plt->wMonth) {
-				renew = 1;
+			if (lt.wDay > plt->wDay) {
+				//renew = 1;
 				break;
 			}
+			renew = 0; 
 		} while (0);
 		if (!renew) {
 			break;
 		}
+		memcpy(t->lc_time, &lt, sizeof(SYSTEMTIME));
 		spl_get_fname_now(fmt_file_name);
 		snprintf(path, 1024, "%s/%s", t->folder, fmt_file_name);
 		if (fclose(t->fp)) {
