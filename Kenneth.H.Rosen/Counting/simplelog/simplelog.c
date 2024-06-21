@@ -131,7 +131,7 @@ int	spl_init_log( char *pathcfg) {
 					continue;
 				}
 				while (1) {
-					node = __splog_pathfolder[j];
+					node = (char *)__splog_pathfolder[j];
 					if (!node) {
 						break;
 					}
