@@ -5,8 +5,12 @@
 #include <Windows.h>
 void dotest();
 DWORD WINAPI MyThreadFunction(LPVOID lpParam);
+int number = 2;
 int main(int argc, char* argv[]) {
 	int n = 0, ret = 0;
+	if (argc > 1) {
+		sscanf(argv[1], "%d", &number);
+	}
 	//char nameday[64];
 	spl_console_log("Main thread.\n");
 	char pathcfg[1024];
@@ -47,7 +51,7 @@ int main(int argc, char* argv[]) {
 void dotest() {
 	DWORD dwThreadId = 0;
 	HANDLE hThread = 0;
-	for (int i = 0; i < 175; ++i) {
+	for (int i = 0; i < number; ++i) {
 
 		hThread = CreateThread(
 			NULL,                   // default security attributes

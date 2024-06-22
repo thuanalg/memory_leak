@@ -3,6 +3,29 @@
 #include <Windows.h>
 #include <time.h>
 //========================================================================================
+typedef struct __GENERIC_DTA__ {
+	int total;
+	int pc; //Point to the current
+	int pl; //Point to the last
+	char data[0];
+} generic_dta_st;
+
+typedef struct __SIMPLE_LOG_ST__ {
+		int llevel;
+		char folder[1024];
+		char off; //Must be sync
+
+		void* mtx; //Need to close handle
+		void* mtx_off; //Need to close handle
+		void* sem_rwfile; //Need to close handle
+		void* sem_off; //Need to close handle
+
+		void* lc_time; //Need to sync, free
+		void* fp; //Need to close
+		generic_dta_st* buf; //Must be sync, free
+	} SIMPLE_LOG_ST;
+
+//========================================================================================
 #define				SPLOG_PATHFOLDR					"pathfoder="
 #define				SPLOG_LEVEL						"level="
 #define				SPLOG_BUFF_SIZE					"buffsize="
@@ -523,10 +546,10 @@ void* spl_get_sem() {
 	}
 	return 0;
 }
-//========================================================================================
-SIMPLE_LOG_ST* spl_get_main_obj() {
-	return &__simple_log_static__;
-}
+////========================================================================================
+//SIMPLE_LOG_ST* spl_get_main_obj() {
+//	return &__simple_log_static__;
+//}
 //========================================================================================
 LLU	spl_get_threadid() {
 	return (LLU)GetCurrentThreadId();
@@ -585,6 +608,20 @@ int spl_finish_log() {
 	CloseHandle(__simple_log_static__.sem_rwfile);
 	CloseHandle(__simple_log_static__.sem_off);
 	memset(&__simple_log_static__, 0, sizeof(__simple_log_static__));
+	return ret;
+}
+//========================================================================================
+char* spl_get_buf(int* n, int** ppl) {
+	SIMPLE_LOG_ST* t = &__simple_log_static__;
+	char* ret = 0;
+	if (__simple_log_static__.buf);
+	if (n && ppl) {
+		if (t->buf) {
+			*n = (t->buf->total > sizeof(generic_dta_st) + t->buf->pl) ? (t->buf->total - sizeof(generic_dta_st) - t->buf->pl) : 0;
+			ret = t->buf->data;
+			(*ppl) = &(t->buf->pl);
+		}
+	}
 	return ret;
 }
 //========================================================================================
