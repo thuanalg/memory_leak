@@ -312,12 +312,18 @@ int spl_get_fname_now(char* name) {
 	}
 	return ret;
 }
+#include <time.h>
 //========================================================================================
 DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 	SIMPLE_LOG_ST* t = (SIMPLE_LOG_ST*)lpParam;
 	int ret = 0;
 	int off = 0;
+	int ssfflush = 0;
+	static time_t tttime;
+	time_t tnnow;
+	tnnow = time(0);
 	do {
+		int n = 0;
 		if (!t) {
 			exit(1);
 		}
@@ -346,15 +352,28 @@ DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 			}
 			spl_mutex_lock(t->mtx);
 			do {
-				int n = 0;
+				
 				if (t->buf->pl > t->buf->pc) {
 					t->buf->data[t->buf->pl] = 0;
-					n = fprintf(t->fp, "%s", t->buf->data);
+					n += fprintf(t->fp, "%s", t->buf->data);
 					t->buf->pl = t->buf->pc = 0;
+					if (t->buf->total < (n + 1000)) {
+						ssfflush = 1;
+					}
 				}
 			} while (0);
 			spl_mutex_unlock(t->mtx);
-			fflush(t->fp);
+			if (!tttime) {
+				tttime = tnnow;
+			}
+			if (tnnow > tttime + 1) {
+				tttime = tnnow;
+				ssfflush = 1;
+			}
+			if (ssfflush) {
+				fflush(t->fp);
+				ssfflush = 0;
+			}
 		}
 		if (t->fp) {
 			int werr = fclose(t->fp);
