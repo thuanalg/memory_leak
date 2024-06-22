@@ -3,6 +3,10 @@
 #include <Windows.h>
 #include <time.h>
 //========================================================================================
+#define spl_malloc(__nn__, __obj__) { (__obj__) = malloc(__nn__); if(__obj__) {spl_console_log("Malloc: 0x%p\n", (__obj__)); memset((__obj__), 0, (__nn__));} \
+else {spl_console_log("Malloc: error.\n");}} 
+#define spl_free(__obj__) { spl_console_log("Free: 0x:%p.\n", (__obj__)); free(__obj__); ; (__obj__) = 0;} 
+//========================================================================================
 typedef struct __GENERIC_DTA__ {
 	int total;
 	int pc; //Point to the current
@@ -119,12 +123,13 @@ int	spl_init_log_parse(char* buff, char *key) {
 				ret = SPL_LOG_BUFF_SIZE_ERROR;
 				break;
 			}
-			p = (char*)malloc(n + 2);
+			spl_malloc(n + 2, p);
+			//p = (char*)malloc(n + 2);
 			if (!p) {
 				ret = SPL_LOG_MEM_MALLOC_ERROR;
 				break;
 			}
-			memset(p, 0, n + 2);
+			//memset(p, 0, n + 2);
 			__simple_log_static__.buf = (generic_dta_st *) p;
 			__simple_log_static__.buf->total = n;
 			break;
@@ -262,6 +267,7 @@ void* spl_sem_create(int ini) {
 }
 //========================================================================================
 int spl_mutex_lock(void* obj) {
+//int pthread_mutex_lock(pthread_mutex_t *mutex);
 	int ret = 0;
 	DWORD err = 0;
 	do {
@@ -279,6 +285,7 @@ int spl_mutex_lock(void* obj) {
 }
 //========================================================================================
 int spl_mutex_unlock(void* obj) {
+//int pthread_mutex_unlock(pthread_mutex_t *mutex);
 	int ret = 0;
 	DWORD done = 0;
 	do {
@@ -405,12 +412,12 @@ DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 			}
 			
 			if (t->lc_time) {
-				free(t->lc_time);
+				spl_free(t->lc_time);
 			}
 			spl_mutex_lock(t->mtx);
 				if (t->buf) {
-					free(t->buf);
-					t->buf = 0;
+					spl_free(t->buf);
+					//t->buf = 0;
 				}
 			spl_mutex_unlock(t->mtx);
 		}
@@ -512,12 +519,13 @@ int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 		memset(path, 0, sizeof(path));
 		memset(fmt_file_name, 0, sizeof(fmt_file_name));
 		if (!(t->lc_time)) {
-			t->lc_time = (SYSTEMTIME*)malloc(sizeof(SYSTEMTIME));
+			//t->lc_time = (SYSTEMTIME*)malloc(sizeof(SYSTEMTIME));
+			spl_malloc(sizeof(SYSTEMTIME), t->lc_time);
 			if (!t->lc_time) {
 				ret = SPL_LOG_MEM_GEN_FILE_ERROR;
 				break;
 			}
-			memset(t->lc_time, 0, sizeof(SYSTEMTIME));
+			//memset(t->lc_time, 0, sizeof(SYSTEMTIME));
 			memcpy(t->lc_time, &lt, sizeof(SYSTEMTIME));
 		}
 		plt = (SYSTEMTIME*)t->lc_time;
@@ -614,6 +622,7 @@ LLU	spl_get_threadid() {
 }
 //========================================================================================
 int spl_rel_sem(void *sem) {
+//int sem_post(sem_t *sem);
 	int ret = 0;
 	do {
 		if (!sem) {
