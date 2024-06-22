@@ -12,6 +12,8 @@ typedef struct __GENERIC_DTA__ {
 
 typedef struct __SIMPLE_LOG_ST__ {
 		int llevel;
+		int filesize;
+		int index;
 		char folder[1024];
 		char off; //Must be sync
 
@@ -22,6 +24,7 @@ typedef struct __SIMPLE_LOG_ST__ {
 
 		void* lc_time; //Need to sync, free
 		void* fp; //Need to close
+
 		generic_dta_st* buf; //Must be sync, free
 	} SIMPLE_LOG_ST;
 
@@ -29,7 +32,8 @@ typedef struct __SIMPLE_LOG_ST__ {
 #define				SPLOG_PATHFOLDR					"pathfoder="
 #define				SPLOG_LEVEL						"level="
 #define				SPLOG_BUFF_SIZE					"buffsize="
-static const char*				__splog_pathfolder[]		= { SPLOG_PATHFOLDR, SPLOG_LEVEL, SPLOG_BUFF_SIZE, 0 };
+#define				SPLOG_FILE_SIZE					"filesize="
+static const char*				__splog_pathfolder[]		= { SPLOG_PATHFOLDR, SPLOG_LEVEL, SPLOG_BUFF_SIZE, SPLOG_FILE_SIZE, 0 };
 //static	int						simple_log_levwel			=			0;
 static	SIMPLE_LOG_ST			__simple_log_static__;;
 
@@ -38,7 +42,7 @@ static void*			spl_mutex_create();
 static void*			spl_sem_create(int ini);
 static int				spl_verify_folder(char* folder);
 static int				spl_simple_log_thread(SIMPLE_LOG_ST* t);
-static int				spl_gen_file(SIMPLE_LOG_ST* t);
+static int				spl_gen_file(SIMPLE_LOG_ST* t, int *n, int limit, int *);
 static int				spl_get_fname_now(char* name);
 static DWORD WINAPI		spl_written_thread_routine(LPVOID lpParam);
 //========================================================================================
@@ -125,6 +129,16 @@ int	spl_init_log_parse(char* buff, char *key) {
 			__simple_log_static__.buf->total = n;
 			break;
 		}
+		if (strcmp(key, SPLOG_FILE_SIZE) == 0) {
+			int n = 0;
+			int sz = 0;
+			sz = sscanf(buff, "%d", &n);
+			if (n < 1) {
+				ret = SPL_LOG_FILE_SIZE_ERROR;
+				break;
+			}
+			__simple_log_static__.filesize = n;
+		}
 	} while (0);
 	return ret;
 }
@@ -154,14 +168,18 @@ int	spl_init_log( char *pathcfg) {
 					continue;
 				}
 				while (1) {
+					char* pp = 0;
 					node = (char *)__splog_pathfolder[j];
 					if (!node) {
 						break;
 					}
-					if (strstr(buf, node))
+					pp = strstr(buf, node);
+					if (pp)
 					{
-						spl_console_log("Find out the keyword: [%s] value [%s].", node, buf + strlen(node));
-						ret = spl_init_log_parse(buf + strlen(node), node);
+						int k = strlen(node);
+						char* p = (buf + k);
+						spl_console_log("Find out the keyword: [%s] value [%s].", node, p);
+						ret = spl_init_log_parse(p, node);
 						break;
 					}
 					j++;
@@ -322,8 +340,9 @@ DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 	static time_t tttime;
 	time_t tnnow;
 	tnnow = time(0);
-	do {
-		int n = 0;
+	int n = 0;
+	int sz = 0;
+	do {		
 		if (!t) {
 			exit(1);
 		}
@@ -336,16 +355,12 @@ DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 		}
 		spl_console_log("Mutex: 0x%p.\n", t->mtx);
 		while (1) {
-			//off = spl_get_off();
-			//if (off) {
-			//	break;
-			//}
 			WaitForSingleObject(t->sem_rwfile, INFINITE);
 			off = spl_get_off();
 			if (off) {
 				break;
 			}
-			ret = spl_gen_file(t);
+			ret = spl_gen_file(t, &sz, t->filesize, &(t->index));
 			if (ret) {
 				//Log err
 				continue;
@@ -354,8 +369,11 @@ DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 			do {
 				
 				if (t->buf->pl > t->buf->pc) {
+					int k = 0;
 					t->buf->data[t->buf->pl] = 0;
-					n += fprintf(t->fp, "%s", t->buf->data);
+					k = fprintf(t->fp, "%s", t->buf->data);
+					n += k;
+					sz += k;
 					t->buf->pl = t->buf->pc = 0;
 					if (t->buf->total < (n + 1000)) {
 						ssfflush = 1;
@@ -482,7 +500,7 @@ int spl_fmmt_now(char* fmtt, int len) {
 }
 
 //========================================================================================
-int spl_gen_file(SIMPLE_LOG_ST* t) {
+int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 	int ret = 0;
 	SYSTEMTIME lt,* plt = 0;;
 	//GetSystemTime(&st);
@@ -505,15 +523,36 @@ int spl_gen_file(SIMPLE_LOG_ST* t) {
 		plt = (SYSTEMTIME*)t->lc_time;
 		if (!t->fp) {
 			spl_get_fname_now(fmt_file_name);
-			snprintf(path, 1024, "%s/%s", t->folder, fmt_file_name);
-			t->fp = fopen(path, "a+");
-			if (!t->fp) {
-				ret = SPL_LOG_OPEN_FILE_ERROR;
+			do {
+				int cszize = 0; //current size
+				snprintf(path, 1024, "%s/_%0.8d-%s", t->folder, *index, fmt_file_name);
+				t->fp = fopen(path, "a+");
+				if (!t->fp) {
+					ret = SPL_LOG_OPEN_FILE_ERROR;
+					break;
+				}
+				//fseek(t->tp, 0, SEEK_END);
+				fseek(t->fp, 0, SEEK_END);
+				cszize = ftell(t->fp);
+				if (cszize > limit) {
+					fclose(t->fp);
+					t->fp = 0;
+					(*index)++;
+				}
+				else {
+					break;
+				}
+			} while (1);
+			if (ret) {
 				break;
 			}
 			break;
 		}
 		do {
+			if (*sz > limit) {
+				(*index)++;
+				break;
+			}
 			if (lt.wYear > plt->wYear) {
 				break;
 			}
@@ -523,6 +562,7 @@ int spl_gen_file(SIMPLE_LOG_ST* t) {
 			if (lt.wDay > plt->wDay) {
 				break;
 			}
+
 			//if (lt.wHour > plt->wHour) {
 			//	//renew = 1;
 			//	break;
@@ -538,12 +578,15 @@ int spl_gen_file(SIMPLE_LOG_ST* t) {
 		}
 		memcpy(t->lc_time, &lt, sizeof(SYSTEMTIME));
 		spl_get_fname_now(fmt_file_name);
-		snprintf(path, 1024, "%s/%s", t->folder, fmt_file_name);
+		snprintf(path, 1024, "%s/_%0.8d-%s", t->folder, *index, fmt_file_name);
 		if (fclose(t->fp)) {
 			ret = SPL_LOG_CLOSE_FILE_ERROR;
 			break;
 		}
 		t->fp = fopen(path, "a+");
+		if (sz) {
+			*sz = 0;
+		}
 		if (!t->fp) {
 			ret = SPL_LOG_OPEN1_FILE_ERROR;
 			break;
@@ -565,10 +608,6 @@ void* spl_get_sem() {
 	}
 	return 0;
 }
-////========================================================================================
-//SIMPLE_LOG_ST* spl_get_main_obj() {
-//	return &__simple_log_static__;
-//}
 //========================================================================================
 LLU	spl_get_threadid() {
 	return (LLU)GetCurrentThreadId();

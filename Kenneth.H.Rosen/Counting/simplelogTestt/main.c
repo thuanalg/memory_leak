@@ -9,7 +9,7 @@ int number = 2;
 int main(int argc, char* argv[]) {
 	int n = 0, ret = 0;
 	if (argc > 1) {
-		sscanf(argv[1], "%d", &number);
+		n = sscanf(argv[1], "%d", &number);
 	}
 	//char nameday[64];
 	spl_console_log("Main thread.\n");
