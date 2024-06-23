@@ -63,6 +63,8 @@ static int				spl_verify_folder(char* folder);
 static int				spl_simple_log_thread(SIMPLE_LOG_ST* t);
 static int				spl_gen_file(SIMPLE_LOG_ST* t, int *n, int limit, int *);
 static int				spl_get_fname_now(char* name);
+static int				spl_get_fname_now(char* name);
+static int				spl_standardize_path(char* fname);
 static int				spl_folder_sup(char* folder,  SYSTEMTIME* lctime, char *year_month);
 static DWORD WINAPI		spl_written_thread_routine(LPVOID lpParam);
 //========================================================================================
@@ -553,6 +555,8 @@ int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 			do {
 				int cszize = 0; //current size
 				snprintf(path, 1024, SPL_FILE_NAME_FMT, t->folder, yearmonth, fmt_file_name, *index);
+				spl_standardize_path(path);
+				
 				t->fp = fopen(path, "a+");
 				if (!t->fp) {
 					ret = SPL_LOG_OPEN_FILE_ERROR;
@@ -603,11 +607,13 @@ int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 		//snprintf(path, 1024, SPL_FILE_NAME_FMT, t->folder, *index, fmt_file_name);
 		ret = spl_folder_sup(t->folder, t->lc_time, yearmonth);
 		snprintf(path, 1024, SPL_FILE_NAME_FMT, t->folder, yearmonth, fmt_file_name, *index);
+
 		FFCLOSE(t->fp, ferr);
 		if (ferr) {
 			ret = SPL_LOG_CLOSE_FILE_ERROR;
 			break;
 		}
+		spl_standardize_path(path);
 		t->fp = fopen(path, "a+");
 		if (sz) {
 			*sz = 0;
@@ -752,6 +758,18 @@ int spl_folder_sup(char* folder, SYSTEMTIME* lctime, char* year_month) {
 		}
 		snprintf(year_month, 10, "%0.4d\\%0.2d", (int)lctime->wYear, (int)lctime->wMonth);
 	} while (0);
+	return ret;
+}
+//========================================================================================
+int	spl_standardize_path(char* fname) {
+	int ret = 0;
+	int i = 0;
+	while (fname[i]) {
+		if (fname[i] == '\\') {
+			fname[i] = '/';
+		}
+		++i;
+	}
 	return ret;
 }
 //========================================================================================
