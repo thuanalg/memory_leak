@@ -3,9 +3,15 @@
 #include <Windows.h>
 #include <time.h>
 //========================================================================================
-#define spl_malloc(__nn__, __obj__) { (__obj__) = malloc(__nn__); if(__obj__) {spl_console_log("Malloc: 0x%p\n", (__obj__)); memset((__obj__), 0, (__nn__));} \
+
+#define spl_malloc(__nn__, __obj__) { (__obj__) = malloc(__nn__); if(__obj__) \
+{spl_console_log("Malloc: 0x%p\n", (__obj__)); memset((__obj__), 0, (__nn__));} \
 else {spl_console_log("Malloc: error.\n");}} 
+
 #define spl_free(__obj__) { spl_console_log("Free: 0x:%p.\n", (__obj__)); free(__obj__); ; (__obj__) = 0;} 
+
+#define FFCLOSE(fp, __n) { (__n) = fclose(fp); if(__n) {spl_console_log("Close FILE ERRR: %d.\n", (__n))};}
+
 //========================================================================================
 typedef struct __GENERIC_DTA__ {
 	int total;
@@ -245,7 +251,8 @@ int	spl_init_log( char *pathcfg) {
 		// ret = spl_simple_log_thread(&__simple_log_static__);
 	} while (0);
 	if (fp) {
-		ret = fclose(fp);
+		//ret = fclose(fp);
+		FFCLOSE(fp,ret);
 		spl_console_log("Close file result: %s.\n", ret ? "FAILED" : "DONE");
 	}
 	if (ret == 0) {
@@ -401,7 +408,8 @@ DWORD WINAPI spl_written_thread_routine(LPVOID lpParam) {
 			}
 		}
 		if (t->fp) {
-			int werr = fclose(t->fp);
+			int werr = 0;
+			FFCLOSE(t->fp, werr);
 			if (werr) {
 				//GetLastErr
 				spl_console_log("close file err: %d,\n\n", werr);
@@ -510,26 +518,24 @@ int spl_fmmt_now(char* fmtt, int len) {
 int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 	int ret = 0;
 	SYSTEMTIME lt,* plt = 0;;
-	//GetSystemTime(&st);
 	GetLocalTime(&lt);
 	int renew = 1;
+	char path[1024];
+	char fmt_file_name[64];
+	int ferr = 0;
 	do {
-		char path[1024];
-		char fmt_file_name[64];
-		memset(path, 0, sizeof(path));
-		memset(fmt_file_name, 0, sizeof(fmt_file_name));
 		if (!(t->lc_time)) {
-			//t->lc_time = (SYSTEMTIME*)malloc(sizeof(SYSTEMTIME));
 			spl_malloc(sizeof(SYSTEMTIME), t->lc_time);
 			if (!t->lc_time) {
 				ret = SPL_LOG_MEM_GEN_FILE_ERROR;
 				break;
 			}
-			//memset(t->lc_time, 0, sizeof(SYSTEMTIME));
 			memcpy(t->lc_time, &lt, sizeof(SYSTEMTIME));
 		}
 		plt = (SYSTEMTIME*)t->lc_time;
 		if (!t->fp) {
+			memset(path, 0, sizeof(path));
+			memset(fmt_file_name, 0, sizeof(fmt_file_name));
 			spl_get_fname_now(fmt_file_name);
 			do {
 				int cszize = 0; //current size
@@ -543,7 +549,8 @@ int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 				fseek(t->fp, 0, SEEK_END);
 				cszize = ftell(t->fp);
 				if (cszize > limit) {
-					fclose(t->fp);
+					int err = 0;
+					FFCLOSE(t->fp, err);
 					t->fp = 0;
 					(*index)++;
 				}
@@ -554,6 +561,9 @@ int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 			if (ret) {
 				break;
 			}
+			break;
+		}
+		if (ret) {
 			break;
 		}
 		do {
@@ -570,15 +580,6 @@ int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 			if (lt.wDay > plt->wDay) {
 				break;
 			}
-
-			//if (lt.wHour > plt->wHour) {
-			//	//renew = 1;
-			//	break;
-			//}
-			//if (lt.wMinute > plt->wMinute) {
-			//	//renew = 1;
-			//	break;
-			//}
 			renew = 0; 
 		} while (0);
 		if (!renew) {
@@ -587,7 +588,8 @@ int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 		memcpy(t->lc_time, &lt, sizeof(SYSTEMTIME));
 		spl_get_fname_now(fmt_file_name);
 		snprintf(path, 1024, "%s/_%0.8d-%s", t->folder, *index, fmt_file_name);
-		if (fclose(t->fp)) {
+		FFCLOSE(t->fp, ferr);
+		if (ferr) {
 			ret = SPL_LOG_CLOSE_FILE_ERROR;
 			break;
 		}
