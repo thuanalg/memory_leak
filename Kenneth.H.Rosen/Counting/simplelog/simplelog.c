@@ -13,6 +13,19 @@ else {spl_console_log("Malloc: error.\n");}}
 #define FFCLOSE(fp, __n) { (__n) = fclose(fp); if(__n) {spl_console_log("Close FILE ERRR: %d.\n", (__n))};}
 
 //========================================================================================
+
+#define				SPLOG_PATHFOLDR					"pathfoder="
+#define				SPLOG_LEVEL						"level="
+#define				SPLOG_BUFF_SIZE					"buffsize="
+#define				SPLOG_FILE_SIZE					"filesize="
+#define				SPL_TEXT_UNKNOWN				"SPL_UNKNOWN"
+#define				SPL_TEXT_DEBUG					"SPL_DEBUG"
+#define				SPL_TEXT_INFO					"SPL_INFO"
+#define				SPL_TEXT_WARN					"SPL_WARN"
+#define				SPL_TEXT_ERROR					"SPL_ERROR"
+#define				SPL_TEXT_FATAL					"SPL_FATAL"
+//========================================================================================
+
 typedef struct __GENERIC_DTA__ {
 	int total;
 	int pc; //Point to the current
@@ -38,13 +51,9 @@ typedef struct __SIMPLE_LOG_ST__ {
 		generic_dta_st* buf; //Must be sync, free
 	} SIMPLE_LOG_ST;
 
-//========================================================================================
-#define				SPLOG_PATHFOLDR					"pathfoder="
-#define				SPLOG_LEVEL						"level="
-#define				SPLOG_BUFF_SIZE					"buffsize="
-#define				SPLOG_FILE_SIZE					"filesize="
+
+////========================================================================================
 static const char*				__splog_pathfolder[]		= { SPLOG_PATHFOLDR, SPLOG_LEVEL, SPLOG_BUFF_SIZE, SPLOG_FILE_SIZE, 0 };
-//static	int						simple_log_levwel			=			0;
 static	SIMPLE_LOG_ST			__simple_log_static__;;
 
 static int				spl_init_log_parse(char* buff, char* key);
@@ -54,6 +63,7 @@ static int				spl_verify_folder(char* folder);
 static int				spl_simple_log_thread(SIMPLE_LOG_ST* t);
 static int				spl_gen_file(SIMPLE_LOG_ST* t, int *n, int limit, int *);
 static int				spl_get_fname_now(char* name);
+static int				spl_folder_sup(char* folder,  SYSTEMTIME* lctime, char *year_month);
 static DWORD WINAPI		spl_written_thread_routine(LPVOID lpParam);
 //========================================================================================
 int spl_set_log_levwel(int val) {
@@ -340,7 +350,7 @@ int spl_get_fname_now(char* name) {
 	//spl_console_log("The system time is: %02d:%02d\n", st.wHour, st.wMinute);
 	//spl_console_log(" The local time is: %02d:%02d\n", lt.wHour, lt.wMinute);
 	if (name) {
-		snprintf(name, 64, "%.4d-%.2d-%.2d-simplelog.log", lt.wYear, lt.wMonth, lt.wDay);
+		snprintf(name, 64, "%.4d-%.2d-%.2d-simplelog", lt.wYear, lt.wMonth, lt.wDay);
 	}
 	return ret;
 }
@@ -515,6 +525,7 @@ int spl_fmmt_now(char* fmtt, int len) {
 }
 
 //========================================================================================
+#define SPL_FILE_NAME_FMT			"%s\\%s\\%s_%0.8d.log"
 int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 	int ret = 0;
 	SYSTEMTIME lt,* plt = 0;;
@@ -523,6 +534,7 @@ int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 	char path[1024];
 	char fmt_file_name[64];
 	int ferr = 0;
+	char yearmonth[16];
 	do {
 		if (!(t->lc_time)) {
 			spl_malloc(sizeof(SYSTEMTIME), t->lc_time);
@@ -537,9 +549,10 @@ int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 			memset(path, 0, sizeof(path));
 			memset(fmt_file_name, 0, sizeof(fmt_file_name));
 			spl_get_fname_now(fmt_file_name);
+			ret = spl_folder_sup(t->folder, t->lc_time, yearmonth);
 			do {
 				int cszize = 0; //current size
-				snprintf(path, 1024, "%s/_%0.8d-%s", t->folder, *index, fmt_file_name);
+				snprintf(path, 1024, SPL_FILE_NAME_FMT, t->folder, yearmonth, fmt_file_name, *index);
 				t->fp = fopen(path, "a+");
 				if (!t->fp) {
 					ret = SPL_LOG_OPEN_FILE_ERROR;
@@ -587,7 +600,9 @@ int spl_gen_file(SIMPLE_LOG_ST* t, int *sz, int limit, int *index) {
 		}
 		memcpy(t->lc_time, &lt, sizeof(SYSTEMTIME));
 		spl_get_fname_now(fmt_file_name);
-		snprintf(path, 1024, "%s/_%0.8d-%s", t->folder, *index, fmt_file_name);
+		//snprintf(path, 1024, SPL_FILE_NAME_FMT, t->folder, *index, fmt_file_name);
+		ret = spl_folder_sup(t->folder, t->lc_time, yearmonth);
+		snprintf(path, 1024, SPL_FILE_NAME_FMT, t->folder, yearmonth, fmt_file_name, *index);
 		FFCLOSE(t->fp, ferr);
 		if (ferr) {
 			ret = SPL_LOG_CLOSE_FILE_ERROR;
@@ -636,12 +651,7 @@ int spl_rel_sem(void *sem) {
 	return ret;
 }
 //========================================================================================
-#define SPL_TEXT_UNKNOWN				"SPL_UNKNOWN"
-#define SPL_TEXT_DEBUG					"SPL_DEBUG"
-#define SPL_TEXT_INFO					"SPL_INFO"
-#define SPL_TEXT_WARN					"SPL_WARN"
-#define SPL_TEXT_ERROR					"SPL_ERROR"
-#define SPL_TEXT_FATAL				"SPL_FATAL"
+
 const char* spl_get_text(int lev) {
 	const char* val = SPL_TEXT_UNKNOWN;
 	do {
@@ -691,6 +701,57 @@ char* spl_get_buf(int* n, int** ppl) {
 			(*ppl) = &(t->buf->pl);
 		}
 	}
+	return ret;
+}
+//========================================================================================
+//https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createdirectorya
+int spl_folder_sup(char* folder, SYSTEMTIME* lctime, char* year_month) {
+	int ret = 0;
+	int result = 0;
+	//char tmp[1024];
+	char path[1024];
+	do {
+		if (!folder) {
+			ret = SPL_LOG_CHECK_FOLDER_NULL_ERROR;
+			break;
+		}
+		if (!lctime) {
+			ret = SPL_LOG_CHECK_FOLDER_NULL_ERROR;
+			break;
+		}
+		if (!year_month) {
+			ret = SPL_LOG_CHECK_FOLDER_NULL_ERROR;
+			break;
+		}
+		snprintf(path, 1024, "%s", folder);
+		result = CreateDirectoryA(path, 0);
+		if (!result) {
+			DWORD xerr = GetLastError();
+			if (xerr != ERROR_ALREADY_EXISTS) {
+				ret = SPL_LOG_CHECK_FOLDER_ERROR;
+				break;
+			}
+		}
+		snprintf(path, 1024, "%s/%0.4d", folder, lctime->wYear);
+		result = CreateDirectoryA(path, 0);
+		if (!result) {
+			DWORD xerr = GetLastError();
+			if (xerr != ERROR_ALREADY_EXISTS) {
+				ret = SPL_LOG_CHECK_FOLDER_YEAR_ERROR;
+				break;
+			}
+		}
+		snprintf(path, 1024, "%s/%0.4d/%0.2d", folder, lctime->wYear, lctime->wMonth);
+		result = CreateDirectoryA(path, 0);
+		if (!result) {
+			DWORD xerr = GetLastError();
+			if (xerr != ERROR_ALREADY_EXISTS) {
+				ret = SPL_LOG_CHECK_FILE_YEAR_ERROR;
+				break;
+			}
+		}
+		snprintf(year_month, 10, "%0.4d\\%0.2d", (int)lctime->wYear, (int)lctime->wMonth);
+	} while (0);
 	return ret;
 }
 //========================================================================================
