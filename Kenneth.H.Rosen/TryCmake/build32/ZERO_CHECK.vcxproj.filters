@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\z.en\en.2022.07.08\memory_leak\Kenneth.H.Rosen\TryCmake\build32\CMakeFiles\9e2f882d166c859ee5d7785d06761062\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{49DEDBE8-B087-3F4D-BFF8-95F822CC00B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
