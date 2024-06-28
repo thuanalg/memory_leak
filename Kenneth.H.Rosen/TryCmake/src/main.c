@@ -1,4 +1,5 @@
 #include <stdint.h>
+#include <stdio.h>
 #if INTPTR_MAX == INT32_MAX
 	#define THIS_IS_32_BIT_ENVIRONMENT
 	#define SPLNP		unsigned int
@@ -8,6 +9,6 @@
 #else
 	#error "Environment not 32 or 64-bit."
 #endif
-int main() {
+int main(int argc, char *argv[]) {
 	return 0;
 }
