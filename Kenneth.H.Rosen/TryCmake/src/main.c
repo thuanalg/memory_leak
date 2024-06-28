@@ -12,3 +12,4 @@
 int main(int argc, char *argv[]) {
 	return 0;
 }
+//https://www.jetbrains.com/help/clion/cmakelists-txt-file.html#root-sub
