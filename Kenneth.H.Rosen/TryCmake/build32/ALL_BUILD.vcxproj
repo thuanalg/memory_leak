@@ -173,6 +173,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
+    <ProjectReference Include="D:\z.en\en.2022.07.08\memory_leak\Kenneth.H.Rosen\TryCmake\build32\siimple_cppexample.vcxproj">
+      <Project>{BE528D1E-5DF8-3542-B49B-467BCC9D135A}</Project>
+      <Name>siimple_cppexample</Name>
+    </ProjectReference>
     <ProjectReference Include="D:\z.en\en.2022.07.08\memory_leak\Kenneth.H.Rosen\TryCmake\build32\simple_example.vcxproj">
       <Project>{87A8158D-7289-3DBE-9ED6-87DF3A32AAB1}</Project>
       <Name>simple_example</Name>

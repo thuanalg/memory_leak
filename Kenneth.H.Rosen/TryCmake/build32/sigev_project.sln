@@ -4,11 +4,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{DF047B5E-48EB-3E83-8ACD-3747CCAD31D5}"
 	ProjectSection(ProjectDependencies) = postProject
 		{E68E8E9F-86A4-36C1-923E-B0C3BDFADF7E} = {E68E8E9F-86A4-36C1-923E-B0C3BDFADF7E}
+		{BE528D1E-5DF8-3542-B49B-467BCC9D135A} = {BE528D1E-5DF8-3542-B49B-467BCC9D135A}
 		{87A8158D-7289-3DBE-9ED6-87DF3A32AAB1} = {87A8158D-7289-3DBE-9ED6-87DF3A32AAB1}
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "ZERO_CHECK.vcxproj", "{E68E8E9F-86A4-36C1-923E-B0C3BDFADF7E}"
 	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "siimple_cppexample", "siimple_cppexample.vcxproj", "{BE528D1E-5DF8-3542-B49B-467BCC9D135A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E68E8E9F-86A4-36C1-923E-B0C3BDFADF7E} = {E68E8E9F-86A4-36C1-923E-B0C3BDFADF7E}
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple_example", "simple_example.vcxproj", "{87A8158D-7289-3DBE-9ED6-87DF3A32AAB1}"
@@ -36,6 +42,14 @@ Global
 		{E68E8E9F-86A4-36C1-923E-B0C3BDFADF7E}.MinSizeRel|win32.Build.0 = MinSizeRel|win32
 		{E68E8E9F-86A4-36C1-923E-B0C3BDFADF7E}.RelWithDebInfo|win32.ActiveCfg = RelWithDebInfo|win32
 		{E68E8E9F-86A4-36C1-923E-B0C3BDFADF7E}.RelWithDebInfo|win32.Build.0 = RelWithDebInfo|win32
+		{BE528D1E-5DF8-3542-B49B-467BCC9D135A}.Debug|win32.ActiveCfg = Debug|win32
+		{BE528D1E-5DF8-3542-B49B-467BCC9D135A}.Debug|win32.Build.0 = Debug|win32
+		{BE528D1E-5DF8-3542-B49B-467BCC9D135A}.Release|win32.ActiveCfg = Release|win32
+		{BE528D1E-5DF8-3542-B49B-467BCC9D135A}.Release|win32.Build.0 = Release|win32
+		{BE528D1E-5DF8-3542-B49B-467BCC9D135A}.MinSizeRel|win32.ActiveCfg = MinSizeRel|win32
+		{BE528D1E-5DF8-3542-B49B-467BCC9D135A}.MinSizeRel|win32.Build.0 = MinSizeRel|win32
+		{BE528D1E-5DF8-3542-B49B-467BCC9D135A}.RelWithDebInfo|win32.ActiveCfg = RelWithDebInfo|win32
+		{BE528D1E-5DF8-3542-B49B-467BCC9D135A}.RelWithDebInfo|win32.Build.0 = RelWithDebInfo|win32
 		{87A8158D-7289-3DBE-9ED6-87DF3A32AAB1}.Debug|win32.ActiveCfg = Debug|win32
 		{87A8158D-7289-3DBE-9ED6-87DF3A32AAB1}.Debug|win32.Build.0 = Debug|win32
 		{87A8158D-7289-3DBE-9ED6-87DF3A32AAB1}.Release|win32.ActiveCfg = Release|win32
