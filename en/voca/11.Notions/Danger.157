@@ -993,7 +993,7 @@
 
 
 
-[-] gamble on		<-->	phrasal verb++C2[-0]	./p/
+[-] gamble on		<-->	phrasal verb++C2[0]	./p/
 	;đánh cược -- (1) gamble on something/on doing something, to take a risk with something, hoping that you will be successful
 		;He gambled on being able to buy a ticket at the last minute.
 		;TOPICS DangerC2
@@ -1002,7 +1002,7 @@
 
 
 
-[-] gamble on doing		<-->	phrasal verb++C2[-0]	./i/
+[-] gamble on doing		<-->	phrasal verb++C2[0]	./i/
 	; -- (1) gamble on something/on doing something, ​to take a risk with something, hoping that you will be successful
 		;He gambled on being able to buy a ticket at the last minute.
 		;TOPICS DangerC2
@@ -1012,8 +1012,7 @@
 
 
 
-[-] gambler		<-->	noun++C1[-0]	./ˈɡæmblə(r)/
- /ˈɡæmblər/
+[-] gambler		<-->	noun++C1[0]	./ˈɡæmblə(r)/-NAmE /ˈɡæmblər/
 	; -- (1) ​a person who risks money on a card game, horse race, etc.
 		;He was a compulsive gambler (= found it difficult to stop).
 	;người sẵn sàng chấp nhận rủi ro -- (2) a person who is willing to risk losing something in the hope of being successful
@@ -1025,8 +1024,7 @@
 
 
 
-[-] game		<-->	adjective++C2[-0]	./ɡeɪm/
- /ɡeɪm/
+[-] game		<-->	adjective++C2[0]	./ɡeɪm/-NAmE /ɡeɪm/
 	;sẵn sàng mạo hiểm -- (1) ​game (for something/to do something) ready and willing to do something new, difficult or dangerous
 		;She's game for anything.
 		;We need a volunteer for this exercise. Who's game to try?
@@ -1038,8 +1036,8 @@
 
 
 
-[-] God/Heaven help somebody		<-->	idiom++C2[-0]	./i/
-	; -- (1) (informal) used to say that you are afraid somebody will be in danger or that something bad will happen to them
+[-] God/Heaven help somebody		<-->	idiom++C2[0]	./i/
+	;chỉ có Chúa mới bạn được -- (1) (informal) used to say that you are afraid somebody will be in danger or that something bad will happen to them
 		;God help us if this doesn't work.
 		;Some people find this use of God offensive.
 		;TOPICS DangerC2
@@ -1049,7 +1047,7 @@
 
 
 
-[-] guard		<-->	noun++B2[-0]	./cef/
+[-] guard		<-->	noun++B2[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1059,7 +1057,7 @@
 
 
 
-[-] guard		<-->	verb++B1[-0]	./cef/
+[-] guard		<-->	verb++B1[0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1069,8 +1067,7 @@
 
 
 
-[-] hairy		<-->	adjective++C2[-0]	./ˈheəri/
- /ˈheri/ (comparative hairier, superlative hairiest)
+[-] hairy		<-->	adjective++C2[0]	./ˈheəri/-NAmE /ˈheri/ (comparative hairier, superlative hairiest)
 	; -- (1) ​covered with a lot of hair
 		;a hairy chest/monster
 		;The plant's rough, hairy stems can grow up to 6 feet tall.
@@ -1086,7 +1083,7 @@
 
 
 
-[-] hang by a hair/thread		<-->	idiom++C2[-0]	./i/
+[-] hang by a hair/thread		<-->	idiom++C2[0]	./i/
 	;tình thế chỉ mành treo chuông -- (1) ​(of a person’s life) to be in great danger
 		;TOPICS DangerC2
 
@@ -1095,8 +1092,7 @@
 
 
 
-[-] harmless		<-->	adjective++B2[-0]	./ˈhɑːmləs/
- /ˈhɑːrmləs/
+[-] harmless		<-->	adjective++B2[0]	./ˈhɑːmləs/-NAmE /ˈhɑːrmləs/
 	;vô hại -- (1) harmless (to somebody/something) unable or unlikely to cause damage or harm
 		;The bacteria is harmless to humans.
 		;Extra Examples:
@@ -1121,8 +1117,7 @@
 
 
 
-[-] harmlessly		<-->	adverb++B2[-0]	./ˈhɑːmləsli/
- /ˈhɑːrmləsli/
+[-] harmlessly		<-->	adverb++B2[0]	./ˈhɑːmləsli/-NAmE /ˈhɑːrmləsli/
 	;vô hại -- (1) in a way that is unable or unlikely to cause damage or harm
 		;The missile fell harmlessly into the sea.
 		;His interest in guns started harmlessly enough, but later it became an obsession.
@@ -1198,31 +1193,30 @@
 
 
 
-[-] high-risk		<-->	adjective++B2[-0]	./ˌhaɪ ˈrɪsk/
- /ˌhaɪ ˈrɪsk/
+[-] high-risk		<-->	adjective++B2[0]	./ˌhaɪ ˈrɪsk/-NAmE /ˌhaɪ ˈrɪsk/
 [usually before noun]
 	; -- (1) ​involving a lot of danger and the risk of injury, death, damage, etc.
-Rock climbing is a high-risk sport that requires special equipment and training.
-a high-risk strategy
-high-risk patients (= who are very likely to get a particular illness)
-high-risk offenders/individuals
-COMPARE low-risk
-Extra Examples
-Ideally the technique should be limited to high-risk patients.
-It's a high-risk venture that will require a lot of capital.
-Miners are a high-risk group for certain types of gastric cancer.
-TOPICS DangerB2
-Oxford Collocations Dictionary
-High-risk is used with these nouns:
-behaviourcargocategory…
-See full entry
+		;Rock climbing is a high-risk sport that requires special equipment and training.
+		;a high-risk strategy
+		;high-risk patients (= who are very likely to get a particular illness)
+		;high-risk offenders/individuals
+		;COMPARE low-risk
+		;Extra Examples:
+		;Ideally the technique should be limited to high-risk patients.
+		;It's a high-risk venture that will require a lot of capital.
+		;Miners are a high-risk group for certain types of gastric cancer.
+		;TOPICS DangerB2
+				;Oxford Collocations Dictionary
+				;High-risk is used with these nouns:
+				;behaviourcargocategory…
+		;See full entry
 
 
 
 
 
 
-[-] hold on		<-->	phrasal verb++C2[-0]	./p/
+[-] hold on		<-->	phrasal verb++C2[0]	./p/
 	;đợi -- (1) ​(informal) used to tell somebody to wait or stop
 		;SYNONYM wait
 		;Hold on a minute while I get my breath back.
@@ -1237,7 +1231,7 @@ See full entry
 
 
 
-[-] hold out		<-->	phrasal verb++C2[-0]	./p/
+[-] hold out		<-->	phrasal verb++C2[0]	./p/
 	;cầm cự -- (1) to last, especially in a difficult situation
 		;We can stay here for as long as our supplies hold out.
 	;cố thủ -- (2) ​to resist or survive in a dangerous or difficult situation
