@@ -993,7 +993,63 @@
 
 
 
-[-] gamble on		<-->	phrasal verb++C2[-0]	.
+[-] gamble on		<-->	phrasal verb++C2[-0]	./p/
+	;đánh cược -- (1) gamble on something/on doing something, to take a risk with something, hoping that you will be successful
+		;He gambled on being able to buy a ticket at the last minute.
+		;TOPICS DangerC2
+
+
+
+
+
+[-] gamble on doing		<-->	phrasal verb++C2[-0]	./i/
+	; -- (1) gamble on something/on doing something, ​to take a risk with something, hoping that you will be successful
+		;He gambled on being able to buy a ticket at the last minute.
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] gambler		<-->	noun++C1[-0]	./ˈɡæmblə(r)/
+ /ˈɡæmblər/
+	; -- (1) ​a person who risks money on a card game, horse race, etc.
+		;He was a compulsive gambler (= found it difficult to stop).
+	;người sẵn sàng chấp nhận rủi ro -- (2) a person who is willing to risk losing something in the hope of being successful
+		;She is an eternal optimist and gambler at heart.
+		;TOPICS DangerC1
+
+
+
+
+
+
+[-] game		<-->	adjective++C2[-0]	./ɡeɪm/
+ /ɡeɪm/
+	;sẵn sàng mạo hiểm -- (1) ​game (for something/to do something) ready and willing to do something new, difficult or dangerous
+		;She's game for anything.
+		;We need a volunteer for this exercise. Who's game to try?
+		;TOPICS DangerC2
+
+
+
+
+
+
+
+[-] God/Heaven help somebody		<-->	idiom++C2[-0]	./i/
+	; -- (1) (informal) used to say that you are afraid somebody will be in danger or that something bad will happen to them
+		;God help us if this doesn't work.
+		;Some people find this use of God offensive.
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] guard		<-->	noun++B2[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1003,7 +1059,7 @@
 
 
 
-[-] gamble on doing		<-->	phrasal verb++C2[-0]	.
+[-] guard		<-->	verb++B1[-0]	./cef/
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -1013,8 +1069,50 @@
 
 
 
-[-] gambler		<-->	noun++C1[-0]	.
-	; -- (1) 
+[-] hairy		<-->	adjective++C2[-0]	./ˈheəri/
+ /ˈheri/ (comparative hairier, superlative hairiest)
+	; -- (1) ​covered with a lot of hair
+		;a hairy chest/monster
+		;The plant's rough, hairy stems can grow up to 6 feet tall.
+		;It was a great hairy caterpillar.
+		;TOPICS AppearanceB2
+	;nguy hiểm, khó khăn -- (2) (informal) dangerous or frightening but often exciting
+		;Driving on icy roads can be pretty hairy.
+		;a hairy experience
+		;It was all pretty hairy, I can tell you.
+		;TOPICS DangerC2
+
+
+
+
+
+[-] hang by a hair/thread		<-->	idiom++C2[-0]	./i/
+	;tình thế chỉ mành treo chuông -- (1) ​(of a person’s life) to be in great danger
+		;TOPICS DangerC2
+
+
+
+
+
+
+[-] harmless		<-->	adjective++B2[-0]	./ˈhɑːmləs/
+ /ˈhɑːrmləs/
+	;vô hại -- (1) harmless (to somebody/something) unable or unlikely to cause damage or harm
+		;The bacteria is harmless to humans.
+		;Extra Examples:
+		;a small and seemingly harmless creature
+		;chemical wastes which have to be rendered harmless
+		;Safety glass will break into relatively harmless pieces when it is hit hard.
+		;Some apparently harmless drugs can be lethal when used in combination.
+		;TOPICS DangerB2
+				;Oxford Collocations Dictionary
+				;verbs
+				;appearbelook…
+				;adverb
+				;absolutelycompletelyperfectly…
+				;preposition
+				;to
+		;See full entry
 	; -- (2) 
 	; -- (3) 
 
@@ -1023,79 +1121,12 @@
 
 
 
-[-] game		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-
-[-] God/Heaven help somebody		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] guard		<-->	noun++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] guard		<-->	verb++B1[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] hairy		<-->	adjective++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] hang by a hair/thread		<-->	idiom++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] harmless		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] harmlessly		<-->	adverb++B2[-0]	.
-	; -- (1) 
+[-] harmlessly		<-->	adverb++B2[-0]	./ˈhɑːmləsli/
+ /ˈhɑːrmləsli/
+	;vô hại -- (1) in a way that is unable or unlikely to cause damage or harm
+		;The missile fell harmlessly into the sea.
+		;His interest in guns started harmlessly enough, but later it became an obsession.
+		;TOPICS DangerB2
 	; -- (2) 
 	; -- (3) 
 
@@ -1167,9 +1198,38 @@
 
 
 
-[-] high-risk		<-->	adjective++B2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] high-risk		<-->	adjective++B2[-0]	./ˌhaɪ ˈrɪsk/
+ /ˌhaɪ ˈrɪsk/
+[usually before noun]
+	; -- (1) ​involving a lot of danger and the risk of injury, death, damage, etc.
+Rock climbing is a high-risk sport that requires special equipment and training.
+a high-risk strategy
+high-risk patients (= who are very likely to get a particular illness)
+high-risk offenders/individuals
+COMPARE low-risk
+Extra Examples
+Ideally the technique should be limited to high-risk patients.
+It's a high-risk venture that will require a lot of capital.
+Miners are a high-risk group for certain types of gastric cancer.
+TOPICS DangerB2
+Oxford Collocations Dictionary
+High-risk is used with these nouns:
+behaviourcargocategory…
+See full entry
+
+
+
+
+
+
+[-] hold on		<-->	phrasal verb++C2[-0]	./p/
+	;đợi -- (1) ​(informal) used to tell somebody to wait or stop
+		;SYNONYM wait
+		;Hold on a minute while I get my breath back.
+		;Hold on! This isn't the right road.
+	;cầm cự -- (2) to survive in a difficult or dangerous situation
+		;They managed to hold on until help arrived.
+		;TOPICS DangerC2
 	; -- (3) 
 
 
@@ -1177,19 +1237,12 @@
 
 
 
-[-] hold on		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
-
-
-
-[-] hold out		<-->	phrasal verb++C2[-0]	.
-	; -- (1) 
-	; -- (2) 
+[-] hold out		<-->	phrasal verb++C2[-0]	./p/
+	;cầm cự -- (1) to last, especially in a difficult situation
+		;We can stay here for as long as our supplies hold out.
+	;cố thủ -- (2) ​to resist or survive in a dangerous or difficult situation
+		;The rebels held out in the mountains for several years.
+		;TOPICS DangerC2
 	; -- (3) 
 
 
