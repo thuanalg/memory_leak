@@ -4,14 +4,13 @@
 #include <string.h>
 #include <Windows.h>
 void dotest();
-DWORD WINAPI MyThreadFunction(LPVOID lpParam);
+DWORD WINAPI win32_thread_routine(LPVOID lpParam);
 int number = 2;
 int main(int argc, char* argv[]) {
 	int n = 0, ret = 0;
 	if (argc > 1) {
 		n = sscanf(argv[1], "%d", &number);
 	}
-	//char nameday[64];
 	spl_console_log("Main thread.\n");
 	char pathcfg[1024];
 	char* path = "D:\\z.en\\en.2022.07.08\\memory_leak\\Kenneth.H.Rosen\\Counting\\simplelog\\simplelog.cfg";
@@ -24,17 +23,14 @@ int main(int argc, char* argv[]) {
 		}
 	}
 	ret = spl_init_log(pathcfg);
-//	spl_console_log("\nret: %d. now: %llu\n", ret, simple_log_time_now(0));
-	//simple_log_name_now(nameday);
 	spl_fmt_now(nowfmt, 64);
-	fprintf(stdout, "\n\n------%s--------\n\n", nowfmt);
-	spllog(SPL_LOG_INFO, "%s", "------------>>>>>>>>>>>>>>\n");
+	spllog(SPL_LOG_INFO, "%s", "\n<<-->>\n");
 	n = 0;
 	dotest();
 	while (1) {
 		FILE* fp = 0;
 		Sleep(10 * 1000);
-		spllog(SPL_LOG_DEBUG, "%s", "\n\n\n  ++++++++++++++ dsds\n\n");
+		spllog(SPL_LOG_DEBUG, "%s", "\n<<-->>\n");
 		fp = fopen("D:\\z.en\\en.2022.07.08\\memory_leak\\Kenneth.H.Rosen\\Counting\\simplelog\\trigger.txt", "r");
 		if(fp){
 			fclose(fp);
@@ -42,8 +38,7 @@ int main(int argc, char* argv[]) {
 		}
 
 	}
-	spllog(SPL_LOG_INFO, "%s", "<<<<<<<-----------------------------------------------------------------------0s\n");
-	
+	spllog(SPL_LOG_INFO, "%s", "\n<<--->>\n");
 	spl_console_log("--Main close--\n");
 	spl_finish_log();
 	return EXIT_SUCCESS;
@@ -52,18 +47,11 @@ void dotest() {
 	DWORD dwThreadId = 0;
 	HANDLE hThread = 0;
 	for (int i = 0; i < number; ++i) {
-
-		hThread = CreateThread(
-			NULL,                   // default security attributes
-			0,                      // use default stack size  
-			MyThreadFunction,       // thread function name
-			0,          // argument to thread function 
-			0,                      // use default creation flags 
-			&dwThreadId);   // returns the thread identifier 	
+		hThread = CreateThread( NULL, 0, win32_thread_routine, 0, 0, &dwThreadId);
 	}
 }
 
-DWORD WINAPI MyThreadFunction(LPVOID lpParam) {
+DWORD WINAPI win32_thread_routine(LPVOID lpParam) {
 	while (1) {
 		spllog(SPL_LOG_INFO, "test log: %llu", (LLU)time(0));
 		Sleep(1 * 1000);
