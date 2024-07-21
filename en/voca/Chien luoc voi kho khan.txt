@@ -1,0 +1,6 @@
+1. Dùng openGL/Vulkan minh họa các thuật toán tổ hợp.
+2. Anh văn dùng Chat GPT hỗ trợ nói,  học lại tài  liệu cũ
+3. Tiếp cận Vulkan, git clone --recurse-submodules https://github.com/KhronosGroup/Vulkan-Samples.git
+	- cmake -G "Visual Studio 17 2022" -A x64 -S . -B build64/windows
+4. Xem ffmpeg code
+5. Cân nhắc khi  thay đổi chiến lược
