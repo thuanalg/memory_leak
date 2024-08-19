@@ -26,7 +26,7 @@
 
 
 
-[-] shove		<-->	verb++	[240818][001]	./ʃʌv/-NAmE /ʃʌv/ [orw.195] [t]
+[-] shove		<-->	verb++	[240818][002]	./ʃʌv/-NAmE /ʃʌv/ [orw.195] [t]
 	;xô đẩy -- (1) [intransitive, transitive] to push somebody/something in a rough way
 		;The crowd was pushing and shoving to get a better view.
 		;+ adv./prep. The door wouldn't open no matter how hard she shoved.
@@ -62,7 +62,7 @@
 
 
 
-[-] shove		<-->	n++	[240818][001]	./ʃʌv/-NAmE /ʃʌv/\ [usually singular] [orw.195] [t]
+[-] shove		<-->	n++	[240818][002]	./ʃʌv/-NAmE /ʃʌv/\ [usually singular] [orw.195] [t]
 	;cú đẩy mạnh -- (1) a strong push
 		;You have to give the door a shove or it won't close.
 		;Harry gave him a hefty shove and he fell over.
@@ -88,7 +88,7 @@
 
 
 
-[-] scrimmage		<-->	n++	[240818][001]	./ˈskrɪmɪdʒ/-NAmE /ˈskrɪmɪdʒ/ [orw.195] [t]
+[-] scrimmage		<-->	n++	[240818][002]	./ˈskrɪmɪdʒ/-NAmE /ˈskrɪmɪdʒ/ [orw.195] [t]
 	;cuộc ẩu đả -- (1) a confused struggle or fight
 		;synonym scrum
 	; -- (2) 
@@ -108,7 +108,7 @@
 
 
 
-[-] butt		<-->	verb++	[240818][001]	./bʌt/-NAmE /bʌt/\ [orw.195] [t]
+[-] butt		<-->	verb++	[240818][002]	./bʌt/-NAmE /bʌt/\ [orw.195] [t]
 	;xô đẩy -- (1) butt somebody/something to hit or push somebody/something hard with your head
 	;húc -- (2) ​butt somebody/something if an animal butts somebody/something, it hits them or it hard with its horns and head
 
@@ -124,10 +124,11 @@
 
 
 
-[-] butt		<-->	n++	[240818][001]	./bʌt/-NAmE /bʌt/ [orw.195] [t]
+[-] butt		<-->	n++	[240818][002]	./bʌt/-NAmE /bʌt/ [orw.195] [t]
 	;cái cán -- (1) ​the thick end of a weapon or tool
 		;a rifle butt
-	; -- (2) 
+	;đầu lọc thuốc lá -- (2) the part of a cigarette or cigar that is left after it has been smoked
+		;an ashtray full of cigarette butts
 	; -- (3) 
 	; -- (4) 
 	; -- (5) 
@@ -144,7 +145,7 @@
 
 
 
-[-] squirm		<-->	verb++	[240818][001]	./skwɜːm/-NAmE /skwɜːrm/ [orw.195] [t]
+[-] squirm		<-->	verb++	[240818][002]	./skwɜːm/-NAmE /skwɜːrm/ [orw.195] [t]
 	;ngọ nguậy -- (1) [intransitive] to move around a lot making small twisting movements, because you are nervous, uncomfortable, etc.
 		;synonym wriggle
 		;(+ adv./prep.) The children were squirming restlessly in their seats.
@@ -215,8 +216,11 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
+[-] squat		<-->	verb++[--0]	./skwɒt/
+ /skwɑːt/*\ [orw.196] [t]
+	;ngồi xổm -- (1) [intransitive] squat (down) to sit on your heels with your knees bent up close to your body
+		;Children were squatting on the floor.
+		;When we saw them we squatted down behind a wall.
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -234,12 +238,12 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] entrails		<-->	n++[--0]	./ˈentreɪlz/
+ /ˈentreɪlz/
+[plural] [orw.196] [t]
+	;ruột, nội tạng -- (1) ​the organs inside the body of a person or an animal, especially their intestines
+		;synonym innards, inside
+		;Word Origin
 
 
 
@@ -253,12 +257,21 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] jolt		<-->	verb++[--0]	./dʒəʊlt/
+ /dʒəʊlt/ [orw.196] [t]
+	;nhẩy dựng -- (1) [intransitive, transitive] to move or to make somebody/something move suddenly and roughly
+		;synonym jerk
+		;(+ adv./prep.) The truck jolted and rattled over the rough ground.
+		;We were jolting along at about five miles an hour.
+		;The bus jolted to a halt.
+		;(figurative) Her heart jolted when she saw him.
+		;jolt somebody/something (+ adv./prep.) He was jolted forwards as the bus moved off.
+	;làm nhẩy dựng -- (2) ​[transitive] to give somebody a sudden shock, especially so that they start to take action or deal with a situation
+		;jolt somebody/something (into something) His remark jolted her into action.
+		;The sound jolted my memory, and I suddenly remembered what had happened.
+		;jolt somebody/something (out of something) a method of jolting the economy out of recession
+		;jolt somebody/something + adj. I was suddenly jolted awake.
+		;Word Origin
 
 
 
@@ -272,7 +285,7 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
+[-] moss		<-->	verb++[--0]	.
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
