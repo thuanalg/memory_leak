@@ -1,19 +1,10 @@
-	Line 57: [2024-08-17 19:12:48.585] [spl_written_thread_routine:811] [thid: 140271893636672] Free: 0x:0x7f9398647010.
-	Line 59: [2024-08-17 19:12:48.585] [spl_written_thread_routine:821] [thid: 140271893636672] Free: 0x:0x7f939688b010.
-	Line 63: [2024-08-17 19:12:48.585] [spl_finish_log:1142] [thid: 140271902496576] Free: 0x:0x1d83570.
-	Line 65: [2024-08-17 19:12:48.585] [spl_finish_log:1144] [thid: 140271902496576] Free: 0x:0x1d835a0.
-	Line 67: [2024-08-17 19:12:48.585] [spl_finish_log:1146] [thid: 140271902496576] Free: 0x:0x1d835d0.
-	Line 69: [2024-08-17 19:12:48.586] [spl_finish_log:1148] [thid: 140271902496576] Free: 0x:0x1d83600.
-	Line 71: [2024-08-17 19:12:48.586] [spl_finish_log:1150] [thid: 140271902496576] Free: 0x:0x1d83550.
-	Line 73: [2024-08-17 19:12:48.586] [spl_finish_log:1151] [thid: 140271902496576] Free: 0x:0x1d83630.
-	
-		Line  1: [2024-08-17 19:12:17.518] [spl_mutex_create:587] [thid: 140271902496576] Malloc: 0x1d832a0
-	Line 14: [2024-08-17 19:12:17.519] [spl_stdz_topics:1326] [thid: 140271902496576] Malloc: 0x1d83550
-	Line 21: [2024-08-17 19:12:17.519] [spl_mutex_create:587] [thid: 140271902496576] Malloc: 0x1d83570
-	Line 23: [2024-08-17 19:12:17.519] [spl_mutex_create:587] [thid: 140271902496576] Malloc: 0x1d835a0
-	Line 25: [2024-08-17 19:12:17.519] [spl_sem_create:606] [thid: 140271902496576] Malloc: 0x1d835d0
-	Line 27: [2024-08-17 19:12:17.519] [spl_sem_create:606] [thid: 140271902496576] Malloc: 0x1d83600
-	Line 30: [2024-08-17 19:12:17.519] [spl_gen_topic_buff:1529] [thid: 140271902496576] Malloc: 0x7f9398647010
-	Line 32: [2024-08-17 19:12:17.579] [spl_gen_topic_buff:1542] [thid: 140271902496576] Malloc: 0x1d83630
-	Line 34: [2024-08-17 19:12:17.584] [spl_written_thread_routine:711] [thid: 140271893636672] Malloc: 0x7f939688b010
+D:\reserach\simplelog-topic>git branch
+* 240817_handleerror
+  main
 
+D:\reserach\simplelog-topic>git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+
+<< forgo, give up, waive, forsake, renounce, abandon, bag, >>
