@@ -1,10 +1,28 @@
-D:\reserach\simplelog-topic>git branch
+D:/reserach/simplelog-topic>git branch
 * 240817_handleerror
   main
 
-D:\reserach\simplelog-topic>git checkout main
+D:/reserach/simplelog-topic>git checkout main
 Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
 
 
 << forgo, give up, waive, forsake, renounce, abandon, bag, >>
+
+phân biệt: << branch, bough, twig, >> 
+
+D:/reserach/simplelog-topic/build64/simplelog_topic_project.sln
+
+cmake -G "Visual Studio 17 2022" -A win32 -B ../build32
+
+ = [up to date]      master     -> origin/master
+ = [up to date]      develop    -> origin/develop
+ = [up to date]      document   -> origin/document
+ 
+git push -d document develop
+
+A simple class for signal/slot for C++98 following portable purpose
+
+cmake -G "Visual Studio 17 2022" -A win32 -B ../wbuild32
+
+start D:/reserach/simple-signal-slot/wbuild32/simple_signal_slot_project.sln
