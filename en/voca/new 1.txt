@@ -1,28 +1,8 @@
-D:/reserach/simplelog-topic>git branch
-* 240817_handleerror
-  main
-
-D:/reserach/simplelog-topic>git checkout main
-Switched to branch 'main'
-Your branch is up to date with 'origin/main'.
-
-
-<< forgo, give up, waive, forsake, renounce, abandon, bag, >>
-
-phân biệt: << branch, bough, twig, >> 
-
-D:/reserach/simplelog-topic/build64/simplelog_topic_project.sln
-
-cmake -G "Visual Studio 17 2022" -A win32 -B ../build32
-
- = [up to date]      master     -> origin/master
- = [up to date]      develop    -> origin/develop
- = [up to date]      document   -> origin/document
- 
-git push -d document develop
-
-A simple class for signal/slot for C++98 following portable purpose
-
-cmake -G "Visual Studio 17 2022" -A win32 -B ../wbuild32
-
-start D:/reserach/simple-signal-slot/wbuild32/simple_signal_slot_project.sln
+Search "[y]" (5 hits in 1 file of 1 searched) [Extended]
+  D:\reserach\memory_leak\en\voca\CEFR.txt (5 hits)
+	Line  10738: 		;<< BEAUTIFUL, pretty, handsome, attractive, lovely, good-looking, gorgeous, appealing, catchy, GAMINE, attractive, nice-looking, compelling, appealing, >> [y]
+	Line  20273: 		;<< BEAUTIFUL, pretty, handsome, attractive, lovely, good-looking, gorgeous, >> [y]
+	Line 132435: 		;<< stunning, appealing, striking, INTERESTING, fascinating, compelling, stimulating, gripping, absorbing, ATTRACTIVE, irresistible, marked, splendid, IMPRESSIVE, beautiful, spectacular, magnificent, grand, seraphic, >> [y]
+	Line 157715: 		;<< look after, mind, watch, take care of, >> [y]
+	Line 281789: 		;<< LOOK, watch, see, view, observe, >> [y]
+<< cunning, unscrupulous, machiavellian, crafty, wily, >>
