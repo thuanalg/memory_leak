@@ -18,3 +18,8 @@ Thank you for considering my application, and I'm looking forward to discussing 
 12304548@sksignet.com, Mr. TaeHee
 12304578@sksignet.com: Mr. Ro ---
 
+./configure --prefix=/mingw64 --target-os=mingw32 --arch=x86_64 --enable-shared --disable-static --enable-gpl --enable-version3
+./configure --prefix=/mingw32 --target-os=mingw32 --arch=i686 --enable-shared --disable-static --enable-gpl --enable-version3
+./configure --prefix=/mingw32 --enable-shared --disable-static --disable-programs --arch=i686 --target-os=mingw32 --enable-gpl --enable-version3
+
+
