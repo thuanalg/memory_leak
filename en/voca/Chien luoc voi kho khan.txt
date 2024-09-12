@@ -3,7 +3,7 @@
 3. Tiếp cận Vulkan, git clone --recurse-submodules https://github.com/KhronosGroup/Vulkan-Samples.git
 	- cmake -G "Visual Studio 17 2022" -A x64 -S . -B build64/windows
 4. Xem ffmpeg code
-5. Cân nhắc khi  thay đổi chiến lược
+5. Cân nhắc khi  thay đổi chiến lược, [có tiến bộ đầu tiên, 240913]
 6. Xem OPENCV và FFMPEG
 
 =========
@@ -20,6 +20,7 @@ Thank you for considering my application, and I'm looking forward to discussing 
 
 ./configure --prefix=/mingw64 --target-os=mingw32 --arch=x86_64 --enable-shared --disable-static --enable-gpl --enable-version3
 ./configure --prefix=/mingw32 --target-os=mingw32 --arch=i686 --enable-shared --disable-static --enable-gpl --enable-version3
-./configure --prefix=/mingw32 --enable-shared --disable-static --disable-programs --arch=i686 --target-os=mingw32 --enable-gpl --enable-version3
+./configure --prefix=/mingw32 --enable-libx264 --enable-shared --disable-static --disable-programs --arch=i686 --target-os=mingw32 --enable-gpl --enable-version3
+./configure --prefix=/mingw32 --host=i686-w64-mingw32 --enable-shared
 
 

@@ -6,3 +6,42 @@ Search "[y]" (5 hits in 1 file of 1 searched) [Extended]
 	Line 157715: 		;<< look after, mind, watch, take care of, >> [y]
 	Line 281789: 		;<< LOOK, watch, see, view, observe, >> [y]
 << cunning, unscrupulous, machiavellian, crafty, wily, >>
+
+
+https://chatgpt.com/
+
+./configure --prefix=/mingw32 --target-os=mingw32 --arch=i686 --enable-shared --disable-static --enable-gpl --enable-version3
+./configure --prefix=/mingw32 --enable-libx264 --target-os=mingw32 --arch=i686 --enable-shared --disable-static --enable-gpl --enable-version3
+
+./configure --prefix=/mingw32 --host=i686-w64-mingw32 --enable-shared
+ffmpeg -list_devices true -f dshow -i dummy
+ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 18 -preset slow output7.mp4
+ 
+ffmpeg -list_devices true -f dshow -i dummy
+
+ffmpeg -f dshow -i video="Integrated Webcam":audio="마이크 (KM_B2 Digital Audio)" output.mp4
+
+ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 18 -t 10 -preset slow output7.mp4
+
+ffmpeg -f dshow -i video="Integrated Webcam":audio="마이크 (KM_B2 Digital Audio)" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 18 -t 20 -preset slow output8.mp4
+
+ffmpeg -f dshow -i video="Integrated Webcam":audio="Microphone (Realtek(R) Audio)" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 192k -t 20 output_1.mp4
+
+Microphone (Realtek(R) Audio)
+
+ffmpeg -f gdigrab -i desktop -i output_2.mp4
+ 
+ffmpeg -f gdigrab -i desktop -f dshow -i audio="마이크 (KM_B2 Digital Audio)" -framerate 30 -video_size 1920x1080 output_2.mp4
+
+ffmpeg -f gdigrab -i desktop -f dshow -i audio="마이크 (KM_B2 Digital Audio)" output3.mp4
+ 
+./configure --prefix=/mingw32 --enable-libx264 --enable-shared --disable-static --arch=i686 --target-os=mingw32 --enable-gpl --enable-version3
+
+./configure --prefix=/mingw32 --enable-shared --disable-static --arch=i686 --target-os=mingw32 --enable-gpl --enable-version3
+
+./configure --prefix=/mingw32 --host=i686-w64-mingw32 --enable-shared
+
+git clone https://bitbucket.org/multicoreware/x265_git.git
+cd x265_git/build/msys
+
+ 
