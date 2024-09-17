@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=HAQ3VUV1G-w: Mike Pompeo
+pacman -S make cmake vim cscope
+create env
+1. Mingw32 compiler
+2. install bash - topic.bat, workspace.bat
+3. workspace: cd /d/z.en/en.2022.07.08, cd /d/z.en/en.2022.07.08/simplelog-topic/src
+4. 
+5. 
+
+337086/LIDB4U
