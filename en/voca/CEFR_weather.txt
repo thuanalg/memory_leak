@@ -2611,10 +2611,11 @@
 		;TOPICS WEATHErB2
 
 
-[-] the Beaufort scale		<-->	noun++C2	[221029][001]	./ðə ˈbəʊfət skeɪl/-NAmE /ðə ˈbəʊfərt skeɪl/
-	;biểu đồ Beaufort -- [singular] a range of numbers used for measuring how strongly the wind is blowing. The lowest number 0 means that there is no wind and the highest number 12 means that there is a hurricane (= a violent storm with very strong winds).
+[-] the Beaufort scale		<-->	noun++C2	[221029][002]	./ðə ˈbəʊfət skeɪl/-NAmE /ðə ˈbəʊfərt skeɪl/ [singular] [t]
+	;biểu đồ Beaufort -- (1) a range of numbers used for measuring how strongly the wind is blowing. The lowest number 0 means that there is no wind and the highest number 12 means that there is a hurricane (= a violent storm with very strong winds).
 		;The storm measured 10 on the Beaufort scale.
-		;TOPICS WEATHErC2
+		;Topics WEATHER-C2
+		;Word Origin
 
 
 [-] storm		<-->	noun++A2	[220829][001]	./cef/
@@ -2646,7 +2647,7 @@
 		---
 		;Collocations The weather
 		;Extra Examples
-		;TOPICS WEATHErA2, The environmentA2
+		;TOPICS WEATHER-A2, The environmentA2
 		;Oxford Collocations Dictionary
 			;adjective
 				;bad, big, devastating…
@@ -2662,16 +2663,32 @@
 				;at the height of the storm, bear the brunt of the storm, take the brunt of the storm…
 
 
-[-] stormy		<-->	adjective++B2	[221029][001]	./d/
-	;có mưa bão -- (comparative stormier, superlative stormiest) with strong winds and heavy rain or snow
+[-] stormy		<-->	adjective++B2	[221029][002]	./d/ (comparative stormier, superlative stormiest) [t]
+	;có mưa bão -- (1) with strong winds and heavy rain or snow
 		;a dark and stormy night
 		;stormy weather
 		;stormy seas (= with big waves)
-		;TOPICS WEATHErB2
+		;Topics WEATHER-B2
+	; -- (2) ​full of strong feelings and angry arguments
+		;a stormy debate
+		;a stormy relationship
+		;Topics Opinion and argumentc2, Feelingsc2
 
 
-[-] strong		<-->	adjective++B1	[221029][001]	./strɒŋ/-NAmE /strɔːŋ/
-	;mạnh -- (comparative stronger /ˈstrɒŋɡə(r)/ /ˈstrɔːŋɡər/, superlative strongest /ˈstrɒŋɡɪst/ /ˈstrɔːŋɡɪst/)
+
+[-] strong		<-->	adjective++B1	[221029][002]	./cef/
+	;mạnh -- (2) [-having physical power]  (of a natural or physical force) having great power
+		;Stay indoors in the middle of the day, when the sun is strongest.
+		;a strong wind
+		;a strong magnet/current
+				;Oxford Collocations Dictionary
+				;verbs
+				;befeellook…
+				;adverb
+				;extremelyfairlyvery…
+				;phrases
+				;be still going strong
+		;See full entry
 	;Word Family
 	---
 		;strong 		adjective
@@ -2679,37 +2696,28 @@
 		;strength	noun
 		;strengthen 	verb
 	---
-		;(opinion/belief/feeling) (of an opinion, a belief, or a feeling) very powerful
-		;strong support for the government
-		;People have strong feelings about this issue.
-		;TOPICS WEATHErB1
-		;Oxford Collocations Dictionary
-		;verbs
-		;be, feel, look…
-		;adverb
-		;extremely, fairly, very…
-		;phrases
-		;be still going strong
+		;TOPICS WEATHER-B1
 
 
-[-] sultry		<-->	adjective++C2	[220829][002]	./ˈsʌltri/-NAmE /ˈsʌltri/ [230806] [JJOY-0020]
-	;nóng như thiêu -- (comparative sultrier, superlative sultriest) (of the weather or air) very hot and uncomfortable
+
+[-] sultry		<-->	adjective++C2	[220829][002]	./ˈsʌltri/-NAmE /ˈsʌltri/ (comparative sultrier, superlative sultriest) [230806] [JJOY-0020] [t]
+	;nóng như thiêu -- (1) (comparative sultrier, superlative sultriest) (of the weather or air) very hot and uncomfortable
 		;SYNONYM muggy
 		;a sultry summer afternoon
 		;The weather was still very heavy and sultry.
 		;We went out into the still, sultry heat of the afternoon.
-		;TOPICS WEATHErC2
+		;TOPICS WEATHER-C2
 
 
-[-] summery		<-->	adjective++C2	[220829][001]	./ˈsʌməri/-NAmE /ˈsʌməri/
-	;thuộc mùa hè -- typical of or suitable for the summer
+[-] summery		<-->	adjective++C2	[220829][002]	./ˈsʌməri/-NAmE /ˈsʌməri/ [t]
+	;thuộc mùa hè -- (1) typical of or suitable for the summer
 		;summery weather
 		;a light summery dress
-		;OPPOSITE wintry
-		;TOPICS WEATHErC2
+		;opposite wintry
+		;Topics WEATHER-C2
 
 
-[-] sun		<-->	noun++A1	[220829][001]	./sʌn/-NAmE /sʌn/\
+[-] sun		<-->	noun++A1	[220829][002]	./cef/\ [t]
 	;mặt trời -- (usually the sun) [singular, uncountable] the light and heat from the sun
 		;SYNONYM sunshine
 		;the warmth of the afternoon sun
@@ -2725,7 +2733,7 @@
 		;Patients are advised to avoid sun exposure for six weeks.
 		;SEE ALSO sunny
 		;Extra Examples
-		;TOPICS WEATHErA1, Physics and chemistryA1
+		;TOPICS WEATHER-A1, Physics and chemistryA1
 		;Oxford Collocations Dictionary
 			;adjective
 				;bright, brilliant, golden…
@@ -2741,37 +2749,43 @@
 				;everything under the sun, exposure to the sun, the heat of the sun…
 
 
-[-] sunburst		<-->	noun++C2	[221029][002]	./ˈsʌnbɜːst/-NAmE /ˈsʌnbɜːrst/
-	;sự cháy nắng -- an occasion when the sun appears from behind the clouds and sends out bright streams of light
-		;TOPICS WEATHErC2
+[-] sunburst		<-->	noun++C2	[221029][003]	./ˈsʌnbɜːst/-NAmE /ˈsʌnbɜːrst/ [t]
+	;sự cháy nắng -- (1) an occasion when the sun appears from behind the clouds and sends out bright streams of light
+		;TOPICS WEATHER-C2
 
 
 [-] sunless		<-->	adjective++B2	[221029][001]	./ˈsʌnləs/-NAmE /ˈsʌnləs/
-	;không có nắng, âm u -- without any sun; receiving no light from the sun
-		;SYNONYM gloomy
+	;không có nắng, âm u -- (1) without any sun; receiving no light from the sun
+		;synonym gloomy
 		;a sunless day
 		;the sunless side of the house
-		;OPPOSITE sunny
-		;TOPICS WEATHErB2
+		;opposite sunny
+		;Topics WEATHER-B2
 
 
-[-] sunny		<-->	adjective++A1	[220829][001]	./ˈsʌni/-NAmE /ˈsʌni/
-	;có nắng -- (comparative sunnier, superlative sunniest)
-		;with a lot of bright light from the sun
+[-] sunny		<-->	adjective++A1	[220829][001]	./ˈsʌni/-NAmE /ˈsʌni/ (comparative sunnier, superlative sunniest)
+	;có nắng -- (1)with a lot of bright light from the sun
 		;a sunny day
 		;sunny weather
 		;The outlook for the weekend is hot and sunny.
 		;a sunny garden
 		;Italy was at its sunniest.
-		;Extra Examples
-		;TOPICS WEATHErA1
-		;Oxford Collocations Dictionary
-			;verbs
-				;be, look, become…
-			;adverb
-				;brilliantly, very, pretty…
-			;phrases
+		;Extra Examples:
+		;a gloriously sunny morning
+		;These plants grow best in a sunny spot.
+		;Throughout the week, the weather was fine and sunny.
+		;Topics WEATHER-A1
+				;Oxford Collocations Dictionary
+				;verbs
+				;belookbecome…
+				;adverb
+				;brilliantlyverypretty…
+				;phrases
 				;bright sunny…
+		;See full entry
+	; -- (2) 
+
+
 
 
 [-] sunshine		<-->	noun++B1	[221029][002]	./ˈsʌnʃaɪn/-NAmE /ˈsʌnʃaɪn/ [uncountable]
