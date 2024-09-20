@@ -2119,11 +2119,11 @@
 	; -- (2) 
 
 
-[-] pressure		<-->	noun++C2	[221029][002]	./ˈpreʃə(r)/-NAmE /ˈpreʃər/\
+[-] pressure		<-->	noun++C2	[221029][002]	./cef/\
 	;áp suất -- (of atmosphere) [uncountable] the force of the atmosphere on the earth’s surface
 		;A band of high/low pressure is moving across the country.
 		;SEE ALSO atmospheric
-		;TOPICS WEATHErC2
+		;TOPICS WEATHER-C2
 		;Oxford Collocations Dictionary
 			;adjective
 				;elevated, high, low…
@@ -2139,22 +2139,22 @@
 		;the prevailing economic conditions
 		;the attitude towards science prevailing at the time
 		;The prevailing view seems to be that they will find her guilty.
-	;chính -- [only before noun] the prevailing wind in an area is the one that blows over it most frequently
+	;chính -- (2) the prevailing wind in an area is the one that blows over it most frequently
 		;The prevailing wind here is from the east.
 		;Wordfinder: breeze, buffet, calm, force, gale, gust, hurricane, prevailing, tornado, wind
-		;TOPICS WEATHErC2
+		;TOPICS WEATHER-C2
 
 
-[-] puddle		<-->	noun++C1	[220829][006]	./ˈpʌdl/-NAmE /ˈpʌdl/ [230326] [orw.138] [230503] [orw.164] [230507] [orw.165] 
+[-] puddle		<-->	noun++C1	[220829][007]	./ˈpʌdl/-NAmE /ˈpʌdl/ [230326] [orw.138] [230503] [orw.164] [230507] [orw.165] [t]
 	;vũng nước -- (1) a small amount of water or other liquid, especially rain, that has collected in one place on the ground
 		;Wordfinder: downpour, drought, flash flood, monsoon, precipitation, puddle, rain, shelter, shower, squall
-		;TOPICS WEATHERC1
+		;TOPICS WEATHER-C1
 		;Oxford Collocations Dictionary
 			;Puddle is used after these nouns:
 				;mud
 
 
-[-] rain		<-->	noun++A1	[220829][001]	./reɪn/-NAmE /reɪn/
+[-] rain		<-->	noun++A1	[220829][002]	./cef/
 	;mưa -- (Idiooms) [uncountable, singular] water that falls from the sky in separate drops
 		;There will be rain in all parts tomorrow.
 		;The rain was falling more heavily now.
@@ -2194,7 +2194,7 @@
 		;SEE ALSO acid rain, rainy
 		;Wordfinder: downpour, drought, flash flood, monsoon, precipitation, puddle, rain, shelter, shower, squall
 		;Extra Examples
-		;TOPICS WEATHErA1
+		;TOPICS WEATHER-A1
 		;Oxford Collocations Dictionary
 			;adjective
 				;driving, hard, lashing…
@@ -2212,7 +2212,7 @@
 				;come rain or shine, rain or shine
 
 
-[-] rain		<-->	verb++A1	[220829][001]	./reɪn/-NAmE /reɪn/
+[-] rain		<-->	verb++A1	[220829][002]	./cef/
 	;mưa -- (Veerb Forms)	 (Idiooms) (Phrasal Veerbs) [intransitive] when it rains, water falls from the sky in drops
 		;Is it raining?
 		;It had been raining hard all night.
@@ -2224,7 +2224,7 @@
 		;It had been raining non-stop for two days.
 		;Homophones rain | reign | rein
 		;Extra Examples
-		;TOPICS WEATHErA1
+		;TOPICS WEATHER-A1
 		;Oxford Collocations Dictionary
 			;adverb
 				;hardheavily, a little…
@@ -2234,59 +2234,73 @@
 				;start raining, stop raining
 
 
-[-] rainbow		<-->	noun++C1	[221029][002]	./ˈreɪnbəʊ/-NAmE /ˈreɪnbəʊ/ [240225]]
+[-] rainbow		<-->	noun++C1	[221029][003]	./ˈreɪnbəʊ/-NAmE /ˈreɪnbəʊ/ [240225] [t]
 	;cầu vòng -- (1) a curved band of different colours that appears in the sky when the sun shines through rain
 		;all the colours of the rainbow
-		;Extra Examples
-		;TOPICS WEATHErC1
-		;Oxford Collocations Dictionary
-			;Rainbow is used before these nouns:
+		;Extra Examples:
+		;(figurative) Every year the Dutch bulb fields burst into a rainbow of colours.
+		;(figurative) A rainbow of medals decorated his chest.
+		;Topics WEATHER-C1
+				;Oxford Collocations Dictionary
+				;Rainbow is used before these nouns:
 				;coalition
+		;See full entry
+		;Word Origin
 
 
-[-] raindrop		<-->	noun++B2	[221029][001]	./ˈreɪndrɒp/-NAmE /ˈreɪndrɑːp/
-	;giọt mưa -- a single drop of rain
+[-] raindrop		<-->	noun++B2	[221029][002]	./ˈreɪndrɒp/-NAmE /ˈreɪndrɑːp/ [t]
+	;giọt mưa -- (1) a single drop of rain
 		;She listened to the raindrops pattering on the tin roof.
-		;TOPICS WEATHErB2
+		;TOPICS WEATHER-B2
 
 
-[-] rainfall		<-->	noun++B1	[221029][001]	./ˈreɪnfɔːl/-NAmE /ˈreɪnfɔːl/
-	;lượng mưa -- [uncountable, countable] the total amount of rain that falls in a particular area in a particular amount of time; an occasion when rain falls
+[-] rainfall		<-->	noun++B1	[221029][002]	./ˈreɪnfɔːl/-NAmE /ˈreɪnfɔːl/ [uncountable, countable] [t]
+	;lượng mưa -- (1) the total amount of rain that falls in a particular area in a particular amount of time; an occasion when rain falls
 		;There has been below average rainfall this month.
-		;an average annual rainfall of 10 cm
-		;Wordfinder: arid, climate, continental climate, equatorial, frigid, harsh, humidity, rainfall, tropical, zone
-		;Extra Examples
-		;TOPICS WEATHErB1
-		;Oxford Collocations Dictionary
-			;adjective
-				;abundant, excessive, heavy…
-			;verb + rainfall
-				;have, receive, measure…
+		;an average annual rainfall of 10  cm
+		;Wordfinder: aridclimatecontinental climateequatorialfrigidharshhumidityrainfalltropicalzone
+		;Extra Examples:
+		;The area has a high annual rainfall.
+		;There have been heavy rainfalls this month.
+		;We need a good rainfall to save the crops.
+		;Topics WEATHER-B1
+				;Oxford Collocations Dictionary
+				;adjective
+				;abundantexcessiveheavy…
+				;verb + rainfall
+				;havereceivemeasure…
+		;See full entry
 
 
-[-] rainstorm		<-->	noun++B1	[221029][001]	./ˈreɪnstɔːm/-NAmE /ˈreɪnstɔːrm/
-	;mưa to -- a heavy fall of rain
+
+
+
+
+[-] rainstorm		<-->	noun++B1	[221029][002]	./ˈreɪnstɔːm/-NAmE /ˈreɪnstɔːrm/ [t]
+	;mưa to -- (1) a heavy fall of rain
 		;We drove for five hours through a rainstorm.
 		;We sheltered from the rainstorm in a little hut.
-		;TOPICS WEATHErB1
+		;TOPICS WEATHER-B1
 
 
-[-] rainwater		<-->	noun++B1	[221029][001]	./ˈreɪnwɔːtə(r)/-NAmE /ˈreɪnwɔːtər/
-	;nước mưa -- [uncountable] water that has fallen as rain
+[-] rainwater		<-->	noun++B1	[221029][002]	./ˈreɪnwɔːtə(r)/-NAmE /ˈreɪnwɔːtər/ [uncountable] [t]
+	;nước mưa -- (1) [uncountable] water that has fallen as rain
 		;a barrel for collecting rainwater
 		;She saw her reflection in a pool of rainwater beside her.
-		;TOPICS WEATHErB1
+		;TOPICS WEATHER-B1
 
 
-[-] rainy		<-->	adjective++A2	[220829][002]	./ˈreɪni/-NAmE /ˈreɪni/ [230316] [lm.i.104]
-	;có mưa, nhiều mưa -- (comparative rainier, superlative rainiest) (Idiooms) having or bringing a lot of rain
+[-] rainy		<-->	adjective++A2	[220829][003]	./ˈreɪni/-NAmE /ˈreɪni/ (comparative rainier, superlative rainiest) [230316] [lm.i.104] [t]
+	;có mưa, nhiều mưa -- (1) ​having or bringing a lot of rain
 		;a rainy day
 		;the rainy season
 		;the rainiest place in Britain
-		;TOPICS WEATHErA2
-		;Oxford Collocations Dictionary
-			;Rainy is used with these nouns:
-				;afternoon, day, morning…
+		;Topics WEATHER-A2
+				;Oxford Collocations Dictionary
+				;Rainy is used with these nouns:
+				;afternoondaymorning…
+		;See full entry
+		;Word Origin
 
 
 [-] rumble		<-->	verb++C2	[221029][008]	./ˈrʌmbl/-NAmE /ˈrʌmbl/ [230316] [lm.i.104] [230905] [240913]
@@ -2331,7 +2345,7 @@
 		;wintry showers (= of snow)
 		;shower of something a shower of rain/hail/hailstones
 		;Wordfinder: downpour, drought, flash flood, monsoon, precipitation, puddle, rain, shelter, shower, squall
-		;TOPICS WEATHErB1
+		;TOPICS WEATHER-B1
 		;Oxford Collocations Dictionary
 			;adjective
 				;rain, sleet, snow…
@@ -2341,18 +2355,20 @@
 				;die out
 
 
-[-] showery		<-->	adjective++C2	[220829][004]	./ˈʃaʊəri/-NAmE /ˈʃaʊəri/ [230316] [lm.i.104] [230414]
-	;có mưa rào -- (of the weather) with showers of rain often occurring
+[-] showery		<-->	adjective++C2	[220829][005]	./ˈʃaʊəri/-NAmE /ˈʃaʊəri/ [230316] [lm.i.104] [230414] [t]
+	;có mưa rào -- (1) with showers of rain often occurring
 		;a showery day
-		;TOPICS WEATHErC2
+		;TOPICS WEATHER-C2
 
 
-[-] sirocco		<-->	noun++C2	[221029][002]	./sɪˈrɒkəʊ/-NAmE /sɪˈrɑːkəʊ/ [230414]
-	;gió từ Phi châu -- (also scirocco) (plural siroccos) a hot wind that blows from Africa into southern Europe
-		;TOPICS WEATHErC2
+[-] sirocco		<-->	noun++C2	[221029][003]	./sɪˈrɒkəʊ/-NAmE /sɪˈrɑːkəʊ/ (also scirocco)
+(plural siroccos) [230414] [t]
+	;gió từ Phi châu -- (1) a hot wind that blows from Africa into southern Europe
+		;Topics WEATHER-C2
+		;Word Origin
 
 
-[-] sky		<-->	noun++A2	[220829][001]	./skaɪ/-NAmE /skaɪ/
+[-] sky		<-->	noun++A2	[220829][001]	./cef/ 
 	;bầu trời -- [countable, uncountable] (plural skies) (Idiooms) the space above the earth that you can see when you look up, where clouds and the sun, moon and stars appear
 		;You usually say the sky. When sky is used with an adjective, use a… sky. You can also use the plural form skies, especially when you are thinking about the great extent of the sky.
 		;The sky suddenly went dark and it started to rain.
@@ -2370,7 +2386,7 @@
 		;Collocations The weather
 		;SEE ALSO blue-sky
 		;Extra Examples
-		;TOPICS WEATHErA2
+		;TOPICS WEATHER-A2
 		;Oxford Collocations Dictionary
 			;adjective
 				;big, vast, wide…
@@ -2390,17 +2406,20 @@
 	;mưa có tuyết -- (1) a mixture of rain and snow
 		;The rain was turning to sleet.
 		;The wind was blowing hard and bringing with it sleet.
-		;Wordfinder: avalanche, blizzard, drift, flurry(mưa rào), hail, icicle(nhũ băng), sleet(mưa tuyết), slush(tan băng (dirty)), snow, thaw(tan băng)
-		;TOPICS WEATHErC2
-		;Oxford Collocations Dictionary
-			;Sleet is used before these nouns:
+		;Wordfinder: avalancheblizzarddriftflurryhailiciclesleetslushsnowthaw
+		;Topics WEATHER-C2
+				;Oxford Collocations Dictionary
+				;Sleet is used before these nouns:
 				;shower
+		;See full entry
+		;Word Origin
 
 
 [-] sleet		<-->	verb++C2	[221029][006]	./sliːt/-NAmE /sliːt/ [230414] [lm.a.s.40] [intransitive] [orw.044] [230822] [231116]
 	;có mưa và có tuyết -- (1) when it is sleeting, a mixture of rain and snow is falling from the sky
 		;It’s sleeting!
-		;TOPICS WEATHErC2
+		;Topics WEATHER-C2
+		;Word Origin
 
 
 [-] slush		<-->	noun++C2	[221029][004]	./slʌʃ/-NAmE /slʌʃ/ [uncountable] [231116]
@@ -2438,7 +2457,7 @@
 		;Collocations The weather
 		;Wordfinder: avalanche, blizzard, drift, flurry(mưa rào), hail, icicle(nhũ băng), sleet(mưa tuyết), slush(tan băng (dirty)), snow, thaw(tan băng)
 		;Extra Examples
-		;TOPICS WEATHErA1
+		;TOPICS WEATHER-A1
 		;Oxford Collocations Dictionary
 			;adjective
 				;heavy, thick, fine…
@@ -2460,7 +2479,7 @@
 		;It snowed for three days without stopping.
 		;It was still snowing outside.
 		;Extra Examples
-		;TOPICS WEATHErA1
+		;TOPICS WEATHER-A1
 		;Oxford Collocations Dictionary
 			;adverb
 				;hard, heavily, lightly…
@@ -2470,81 +2489,95 @@
 				;start snowing, stop snowing
 
 
-[-] snowbound		<-->	adjective++C2	[220829][004]	./ˈsnəʊbaʊnd/-NAmE /ˈsnəʊbaʊnd/ [230414]
-	;bị kẹt trong tuyết -- (of a person or vehicle) stuck in a particular place and unable to move because a lot of snow has fallen
+[-] snowbound		<-->	adjective++C2	[220829][004]	./ˈsnəʊbaʊnd/-NAmE /ˈsnəʊbaʊnd/ [230414] [t]
+	;bị kẹt trong tuyết -- (1) (of a person or vehicle) stuck in a particular place and unable to move because a lot of snow has fallen
 		;The skiers were snowbound in the resort for several days.
-		;TOPICS WEATHErC2
-	;bị kẹt trong tuyết -- (of a road or building) that you cannot use or reach because a lot of snow has fallen
+		;TOPICS WEATHER-C2
+	;bị kẹt trong tuyết -- (2) (of a road or building) that you cannot use or reach because a lot of snow has fallen
 		;They were stranded for hours on the snowbound motorway.
-		;TOPICS WEATHErC2
+		;TOPICS WEATHER-C2
 
 
-[-] snowdrift		<-->	noun++C1	[221029][002]	./ˈsnəʊdrɪft/-NAmE /ˈsnəʊdrɪft/ [230414]
-	;vụ lỡ tuyết -- a deep pile of snow that has been blown together by the wind
+[-] snowdrift		<-->	noun++C1	[221029][003]	./ˈsnəʊdrɪft/-NAmE /ˈsnəʊdrɪft/ [230414] [t]
+	;vụ lỡ tuyết -- (1) a deep pile of snow that has been blown together by the wind
 		;The car got stuck in a snowdrift.
-		;TOPICS WEATHErC1
+		;TOPICS WEATHER-C1
 
 
-[-] snowfall		<-->	noun++B1	[221029][002]	./ˈsnəʊfɔːl/-NAmE /ˈsnəʊfɔːl/ [230414]
-	;lượng tuyết -- [countable, uncountable] an occasion when snow falls; the amount of snow that falls in a particular place in a period of time
+[-] snowfall		<-->	noun++B1	[221029][003]	./ˈsnəʊfɔːl/-NAmE /ˈsnəʊfɔːl/ [countable, uncountable] [230414] [t]
+	;lượng tuyết -- (1) an occasion when snow falls; the amount of snow that falls in a particular place in a period of time
 		;a heavy/light snowfall
 		;an area of low snowfall
 		;What is the average annual snowfall for this state?
-		;Extra Examples
-		;TOPICS WEATHErB1
-		;Oxford Collocations Dictionary
-			;adjective
-				;heavy, light, annual…
-			;verb + snowfall
-				;get, have
+		;Extra Examples:
+		;the first snowfalls of November
+		;We had a light snowfall last night.
+		;There had been a heavy snowfall and the cars were almost buried beneath the snow.
+		;Topics WEATHER-B1
+				;Oxford Collocations Dictionary
+				;adjective
+				;heavylightannual…
+				;verb + snowfall
+				;gethave
+		;See full entry
 
 
-[-] snowflake		<-->	noun++C1	[221029][002]	./ˈsnəʊfleɪk/-NAmE /ˈsnəʊfleɪk/ [230414]
-	;bông tuyết -- a small soft piece of frozen water that falls from the sky as snow
+[-] snowflake		<-->	noun++C1	[221029][003]	./ˈsnəʊfleɪk/-NAmE /ˈsnəʊfleɪk/ [230414] [t]
+	;bông tuyết -- (1) a small soft piece of frozen water that falls from the sky as snow
 		;A single snowflake landed on her nose.
-		;Extra Examples
-		;TOPICS WEATHErC1
-		;Oxford Collocations Dictionary
-			;adjective
-				;white, fluffy(mịn)
-			;snowflake + verb
-				;drift, fall, flutter…
+		;Extra Examples:
+		;Snowflakes slowly drifted down from the sky.
+		;Snowflakes have an intricate six-branched star shape.
+		;The children watched the falling snowflakes from the hut.
+		;Topics WEATHER-C1
+				;Oxford Collocations Dictionary
+				;adjective
+				;whitefluffy
+				;snowflake + verb
+				;driftfallflutter…
+		;See full entry
+	; -- 
 
 
-[-] snowplough		<-->	noun++C2	[221029][002]	./ˈsnəʊplaʊ/-NAmE /ˈsnəʊplaʊ/ [230414]
-	;xe ủi tuyết -- (British English) (North American English snowplow) a vehicle or machine for cleaning snow from roads or railways
-		;TOPICS Transport by car or lorryC2, WEATHErC2
 
 
-[-] snowslide		<-->	noun++C1	[221029][002]	./ˈsnəʊslaɪd/-NAmE /ˈsnəʊslaɪd/ [230414]
-	;vụ lỡ tuyết -- (North American English) (also avalanche British and North American English) a mass of snow, ice and rock that falls down the side of a mountain
-		;TOPICS WEATHErC1, The environmentC1, GeographyC1
+
+[-] snowplough		<-->	noun++C2	[221029][003]	./ˈsnəʊplaʊ/-NAmE /ˈsnəʊplaʊ/ (North American English) (British English) (North American English snowplow) [230414] [t]
+	;xe ủi tuyết -- (1) a vehicle or machine for cleaning snow from roads or railways
+		;Topics Transport by car or lorryc2, WEATHER-C2
+
+
+[-] snowslide		<-->	noun++C1	[221029][002]	./ˈsnəʊslaɪd/-NAmE /ˈsnəʊslaɪd/ (also avalanche British and North American English) [230414]
+	;vụ lỡ tuyết -- (1) a mass of snow, ice and rock that falls down the side of a mountain
+		;Topics WEATHER-C1, The environmentc1, Geographyc1
 
 
 [-] snowstorm		<-->	noun++B1	[221029][002]	./ˈsnəʊstɔːm/-NAmE /ˈsnəʊstɔːrm/ [230414]
-	;bão tuyết -- a very heavy fall of snow, usually with a strong wind
+	;bão tuyết -- (1) a very heavy fall of snow, usually with a strong wind
 		;It is accepted that exceptional snowstorms can occur without strong winds.
 		;We fought our way through a raging snowstorm.
-		;TOPICS WEATHErB1
+		;TOPICS WEATHER-B1
 
 
-[-] snowy		<-->	adjective++A2	[220829][002]	./ˈsnəʊi/-NAmE /ˈsnəʊi/ [230414]
-	;có tuyết, nhiều tuyết, bị tuyết phủ -- (comparative snowier, superlative snowiest) [usually before noun] covered with snow
+[-] snowy		<-->	adjective++A2	[220829][003]	./ˈsnəʊi/-NAmE /ˈsnəʊi/ (comparative snowier, superlative snowiest) [230414] [t]
+	;có tuyết, nhiều tuyết, bị tuyết phủ -- (1) [usually before noun] covered with snow
 		;snowy fields
 		;snowy peaks
-		;TOPICS WEATHErA2
-	;có tuyết, nhiều tuyết, bị tuyết phủ -- (of a period of time) when a lot of snow falls
+		;Topics WEATHER-A2
+	;có tuyết, nhiều tuyết, bị tuyết phủ -- (2) (of a period of time) when a lot of snow falls
 		;a snowy weekend
 		;The weather in January is often cold and snowy.
-		;TOPICS WEATHErA2
+		;Topics WEATHER-A2
+	; -- (3) 
 
 
-[-] soak		<-->	verb++C1	[221029][002]	./səʊk/-NAmE /səʊk/\ [230414]
-	;nhấn chìm,ngâm -- [transitive] soak somebody/something to make somebody/something completely wet
+
+[-] soak		<-->	verb++C1	[221029][003]	./cef/\ [230414] [t]
+	;nhấn chìm,ngâm -- (2) [transitive] soak somebody/something to make somebody/something completely wet
 		;SYNONYM drench
 		;<<soak, drench, dip, dive, embed, saturte, sink, >>
 		;A sudden shower of rain soaked the spectators.
-		;TOPICS WEATHErC1
+		;TOPICS WEATHER-C1
 
 
 [-] south		<-->	adjective++A1	[220829][002]	./cef/
@@ -2554,20 +2587,23 @@
 		;The bridge connects the north and south banks of the river.
 		;The south side of the house gets very hot in summer.
 		;The guests will proceed through the south door of the chapel.
-		;TOPICS WEATHErA1, GeographyA1
+		;TOPICS WEATHER-A1, GeographyA1
 
 
-[-] southerly		<-->	adjective++C2	[220829][001]	./ˈsʌðəli/-NAmE /ˈsʌðərli/
-	;từ Nam -- [usually before noun] (of winds) blowing from the south
+[-] southerly		<-->	adjective++C2	[220829][001]	./ˈsʌðəli/-NAmE /ˈsʌðərli/ [usually before noun] [t]
+	;từ Nam -- (1) [only before noun] in or towards the south
+		;travelling in a southerly direction
+	;gió nam -- (of winds) blowing from the south
 		;a warm southerly breeze
-		;COMPARE south
-		;TOPICS WEATHErC2
+		;compare south
+		;Topics WEATHER-C2
 
 
-[-] southerly		<-->	noun++C2	[221029][001]	./ˈsʌðəli/-NAmE /ˈsʌðərli/-\
-	;gió Nam -- (plural southerlies) a wind that blows from the south
+[-] southerly		<-->	noun++C2	[221029][002]	./ˈsʌðəli/-NAmE /ˈsʌðərli/-\ (plural southerlies) [t]
+	;gió Nam -- (1) a wind that blows from the south
 		;warm southerlies
-		;TOPICS WEATHErC2
+		;Topics WEATHER-C2
+
 
 
 [-] spit		<-->	verb++C2	[221029][007]	./spɪt/-NAmE /spɪt/ [IE-B1-Z09-169] [230414] [orw.147] [230416] [230427]
@@ -2580,35 +2616,36 @@
 		;spit something (at somebody) He was dragged out of the court, spitting abuse at the judge and jury.
 		;TOPICS FeelingsC2
 	;lất phất -- (6) (rain) [intransitive] (informal) (only used in the progressive tenses) when it is spitting, it is raining lightly
-		;TOPICS WEATHErC2
+		;TOPICS WEATHER-C2
 
 
 [-] spot		<-->	noun++C1	[221029][004]	./cef/-\ [230414]
-	;giọt -- [usually plural] spot (of something) a small amount of a liquid
+	;giọt -- (7) [usually plural] spot (of something) a small amount of a liquid
 		;I felt a few spots of rain.
 		;There was a spot of rain in the afternoon, but otherwise the weather has been perfect.
-		;TOPICS WEATHErC1
+		;TOPICS WEATHER-C1
 
 
-[-] sprinkle		<-->	verb++C2	[221029][003]	./ˈsprɪŋkl/-NAmE /ˈsprɪŋkl/\ [230414]
-	;rắc, lất phất -- [intransitive] (North American English) if it sprinkles, it rains lightly
+[-] sprinkle		<-->	verb++C2	[221029][004]	./ˈsprɪŋkl/-NAmE /ˈsprɪŋkl/\ [230414] [t]
+	; -- (1) 
+	;rắc, lất phất -- (3) [intransitive] (North American English) if it sprinkles, it rains lightly
 		;SYNONYM drizzle
 		;It's only sprinkling. We can still go out.
-		;TOPICS WEATHErC2
+		;TOPICS WEATHER-C2
 
 
-[-] squall		<-->	noun++C2	[221029][003]	./skwɔːl/-NAmE /skwɔːl/ [230414]
-	;gió giật -- a sudden strong and violent wind, often with rain or snow during a storm
+[-] squall		<-->	noun++C2	[221029][004]	./skwɔːl/-NAmE /skwɔːl/ [230414] [t]
+	;gió giật -- (1) a sudden strong and violent wind, often with rain or snow during a storm
 		;A sudden vicious squall knocked her to the ground.
 		;We got caught in a sudden squall of rain.
 		;Wordfinder: downpour, drought, flash flood, monsoon, precipitation, puddle, rain, shelter, shower, squall
-		;TOPICS WEATHErC2
+		;TOPICS WEATHER-C2
 
 
-[-] starless		<-->	adjective++B2	[221029][002]	./ˈstɑːləs/-NAmE /ˈstɑːrləs/ [230414]
-	;không có sao -- with no stars in the sky
+[-] starless		<-->	adjective++B2	[221029][003]	./ˈstɑːləs/-NAmE /ˈstɑːrləs/ [230414] [t]
+	;không có sao -- (1) with no stars in the sky
 		;a starless night
-		;TOPICS WEATHErB2
+		;TOPICS WEATHER-B2
 
 
 [-] the Beaufort scale		<-->	noun++C2	[221029][002]	./ðə ˈbəʊfət skeɪl/-NAmE /ðə ˈbəʊfərt skeɪl/ [singular] [t]
@@ -3043,9 +3080,7 @@
 	; -- (2) 
 
 
-[-] vapor		<-->	noun++C1	[221029][002]	./ˈveɪpə(r)/-NAmE /ˈveɪpər/ (US English)
-(British English vapour)
-[countable, uncountable] [240920]
+[-] vapor		<-->	noun++C1	[221029][002]	./ˈveɪpə(r)/-NAmE /ˈveɪpər/ (US English) (British English vapour) [countable, uncountable] [240920]
 	;hơi nước, hơi -- (1) a mass of very small drops of liquid in the air, for example steam
 		;water vapor
 		;The particles then form a vapor.
@@ -3053,8 +3088,7 @@
 		;Topics WEATHER-C1, Physics and chemistryc1
 
 
-[-] vapour		<-->	noun++C1	[221029][002]	./ˈveɪpə(r)/-NAmE /ˈveɪpər/ (US English vapor)
-[countable, uncountable] [240920]
+[-] vapour		<-->	noun++C1	[221029][002]	./ˈveɪpə(r)/-NAmE /ˈveɪpər/ (US English vapor) [countable, uncountable] [240920]
 	;hơi nước, hơi -- (1) a mass of very small drops of liquid in the air, for example steam
 		;water vapour
 		;The particles then form a vapour.
