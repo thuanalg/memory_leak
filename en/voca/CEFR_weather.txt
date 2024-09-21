@@ -1020,62 +1020,116 @@
 		;TOPICS WEATHER-B2
 
 
-[-] fall		<-->	noun++A2	[220829][001]	./fɔːl/-NAmE /fɔːl/
-	;vụ lỡ tuyết, đất, ... -- (of snow/rain/rocks) [countable] fall (of something) an amount of snow, rain, rocks, etc. that falls or has fallen
+[-] fall		<-->	noun++A2	[220829][001]	./cef/\
+	; -- (1) 
+	;vụ lỡ tuyết, đất, ... -- (2) [-of snow/rain/rocks] [countable] fall (of something) an amount of snow, rain, rocks, etc. that falls or has fallen
 		;a heavy fall of snow
 		;a rock fall
-		;Extra Examples
-		;TOPICS WEATHErA2
-		;Oxford Collocations Dictionary
-			;adjective
-				;heavy, light, fresh…
-			;preposition
-				;fall of
+		;Extra Examples:
+		;covered by a light fall of volcanic ash
+		;a fresh fall of snow
+		;Topics WEATHER-A2
+				;Oxford Collocations Dictionary
+				;adjective
+				;heavylightfresh…
+				;preposition
+				;fall of
+		;See full entry
+	; -- (9) 
+
+
+
+
+
+
+
+
 
 
 [-] favourable		<-->	adjective++C1	[220829][001]	./ˈfeɪvərəbl/-NAmE /ˈfeɪvərəbl/
-	;yêu thích -- (US English favorable) good for something and making it likely to be successful or have an advantage
-		;SYNONYM advantageous
+	; -- (1) 
+	;yêu thích -- (4) good for something and making it likely to be successful or have an advantage
+		;synonym advantageous
 		;favourable economic conditions
 		;An area with a favourable climate will inevitably be richer than one without.
 		;favourable to somebody/something The terms of the agreement are favourable to both sides.
 		;favourable for somebody/something The weather was favourable for a barbecue outside.
-		;Extra Examples
-		;TOPICS SuccessC1, WEATHErC1
-		;Oxford Collocations Dictionary
-			;verbs
-				;be, feel, seem…
-			;adverb
-				;extremely, fairly, very…
-			;preposition
-				;for, to
+		;Extra Examples:
+		;The government is waiting until economic conditions are more favourable.
+		;The report was very favourable to the existing government.
+		;The weather was favourable, so we arrived earlier than expected.
+		;Winning the debate put him in a very favourable position.
+		;The court's judgement was favourable to their client.
+		;Topics Successc1, WEATHER-C1
+				;Oxford Collocations Dictionary
+				;verbs
+				;belookseem…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;forto
+		;See full entry
+	; -- (6) 
 
 
-[-] fine		<-->	adjective++B1	[221029][001]	./faɪn/-NAmE /faɪn/
-	;trong, rõ, tỏ -- (weather) (especially British English) bright and not raining
+
+
+
+
+
+
+
+
+
+
+[-] fine		<-->	adjective++B1	[221029][002]	./cef/
+	; -- (1) 
+	;trong, rõ, tỏ -- (5) (weather) (especially British English) bright and not raining
 		;a fine day/evening
 		;I hope it stays fine for the picnic.
 		;It was a fine sunny morning.
 		;That summer saw weeks of fine dry weather.
-		;Extra Examples
-		;TOPICS WEATHErB1
-		;Oxford Collocations Dictionary
-			;verbs
-				;be, turn out, keep…
+		;Extra Examples:
+		;It's turned out fine again today.
+		;Let's hope it stays fine for the wedding this afternoon.
+		;The next morning turned out fine again.
+		;Topics WEATHER-B1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beturn outkeep…
+		;See full entry
+	; -- 
 
 
-[-] firmament		<-->	noun++C2	[221029][001]	./ˈfɜːməmənt/-NAmE /ˈfɜːrməmənt/
-	;bầu trời -- the firmament [singular] (old use or literary) the sky
+
+
+
+
+
+
+
+[-] firmament		<-->	noun++C2	[221029][002]	./ˈfɜːməmənt/-NAmE /ˈfɜːrməmənt/ ,the firmament [singular] (old use or literary) [t]
+	;bầu trời -- (1) the sky
 		;(figurative) a rising star in the literary firmament
-		;TOPICS WEATHErC2
+		;Topics WEATHER-C2
+		;Word Origin
 
 
 [-] flake		<-->	noun++C2	[221029][001]	./fleɪk/-NAmE /fleɪk/
-	;vảy tuyết -- a small, very thin layer or piece of something, especially one that has broken off from something larger
+	;vảy tuyết -- (1) a small, very thin layer or piece of something, especially one that has broken off from something larger
 		;flakes of snow/paint
 		;dried onion flakes
-		;SEE ALSO cornflakes, snowflake, soap flakes
-		;TOPICS WEATHErC2
+		;see also cornflakes, snowflake, soap flakes
+		;Topics WEATHER-C2
+	;người dễ quên, lú lẫn -- (2) ​(North American English, informal) a person who is strange or unusual or who forgets things easily
+		;Word Origin
+
+
+
+
+
+
+
 
 
 [-] flash flood		<-->	noun++C2	[221029][001]	./ˌflæʃ ˈflʌd/-NAmE /ˌflæʃ ˈflʌd/
@@ -1212,7 +1266,7 @@
 		;a short-term forecast of the UK economy
 		;It is too early to make firm forecasts about demand.
 		;TOPICS Doubt, guessing and certaintyB2, BusinessB2, WEATHER-B2
-		;Oxford Collocations Dictionary
+			;Oxford Collocations Dictionary
 			;adjective
 				;good, optimistic, gloomy…
 			;verb + forecast
@@ -1414,7 +1468,7 @@
 		;TOPICS WEATHER-C1
 
 
-[-] good		<-->	adjective++A1	[220829][001]	./ɡʊd/-NAmE /ɡʊd/
+[-] good		<-->	adjective++A1	[220829][001]	./cef/
 	;tốt -- (2) [-pleasant] pleasant; that you enjoy or want
 		;Did you have a good time in London?
 		;This is very good news.
@@ -1439,20 +1493,20 @@
 				;at, for, to…
 
 
-[-] gray		<-->	adjective++A2	[220829][001]	./ɡreɪ/-NAmE /ɡreɪ/
-	;u ám -- (US English) (also grey especially in British English) (of the sky or weather) not bright; full of clouds
+[-] gray		<-->	adjective++A2	[220829][002]	./cef/
+	;u ám -- (2) (US English) (also grey especially in British English) (of the sky or weather) not bright; full of clouds
 		;gray skies
 		;I hate these gray days.
 		;The sky looks very gray. I think it's going to rain.
-		;TOPICS WEATHErA2
+		;TOPICS WEATHER-A2
 
 
-[-] grey		<-->	adjective++A2	[220829][001]	./ɡreɪ/-NAmE /ɡreɪ/
-	;u ám -- (US English usually gray) (of the sky or weather) not bright; full of clouds
+[-] grey		<-->	adjective++A2	[220829][002]	./cef/ [t]
+	;u ám -- (2) (US English usually gray) (of the sky or weather) not bright; full of clouds
 		;grey skies
 		;I hate these grey days.
 		;The sky looks very grey. I think it's going to rain.
-		;TOPICS WEATHErA2
+		;TOPICS WEATHER-A2
 
 
 [-] gust		<-->	noun++C2	[221029][002]	./ɡʌst/-NAmE /ɡʌst/ [230310] [230826]
@@ -1519,59 +1573,134 @@
 	; --
 
 
-[-] hailstone		<-->	noun++C2	[221029][002]	./ˈheɪlstəʊn/-NAmE /ˈheɪlstəʊn/ [230826]
-	;cục nước đá tạo bởi mưa đá -- [usually plural] a small ball of ice that falls like rain
+[-] hailstone		<-->	noun++C2	[221029][003]	./ˈheɪlstəʊn/-NAmE /ˈheɪlstəʊn/ [usually plural] [230826] [t]
+	;cục nước đá tạo bởi mưa đá -- (1) a small ball of ice that falls like rain
 		;Britain’s biggest recorded hailstone weighed 5 oz.
 		;We struggled up the hill in a wind full of dust and hailstones.
-		;TOPICS WEATHErC2
+		;Topics WEATHER-C2
 
 
-[-] hard		<-->	adjective++C2	[220829][001]	./hɑːd/-NAmE /hɑːrd/-\
-	;khắc nghiệt, lạnh và khắc nghiệt -- (weather) very cold and severe
+
+
+
+
+
+
+
+
+
+
+
+[-] hard		<-->	adjective++C2	[220829][001]	./cef/-\
+	;  -- (1) 
+	;khắc nghiệt, lạnh và khắc nghiệt -- (10) very cold and severe
 		;It had been a hard winter.
 		;There was a hard frost that night.
-		;COMPARE mild
-		;TOPICS WEATHErC2
+		;compare mild
+		;Topics WEATHER-C2
+	; -- (13) 
 
 
-[-] haze		<-->	noun++C2	[221029][002]	./heɪz/-NAmE /heɪz/\ [230826]
-	;màn hơi như khói, hơi nước, sương ... -- [singular] air containing something that makes it difficult to see through it
+
+
+
+
+
+[-] haze		<-->	noun++C2	[221029][003]	./heɪz/-NAmE /heɪz/\ [230826] [t]
+	; -- (1) [countable, uncountable] air that is difficult to see through because it contains very small drops of water, especially caused by hot weather
+		;a heat haze
+		;In the evenings a blue haze hung in the valleys.
+				;Oxford Collocations Dictionary
+				;adjective
+				;thickfaintthin…
+				;haze + verb
+				;hangshimmersurround something…
+				;preposition
+				;in a/​the hazethrough a/​the hazehaze of…
+		;See full entry
+	;màn hơi như khói, hơi nước, sương ... -- (2) [singular] air containing something that makes it difficult to see through it
 		;a haze of smoke/dust/steam
-		;Extra Examples
-		;TOPICS WEATHErC2
-		;Oxford Collocations Dictionary
-			;adjective
-				;thick, faint(nhạt, mờ), thin…
-			;haze + verb
-				;hang, shimmer(lung linh), surround something…
-			;preposition
-				;in a/the haze, through a/the hazehaze of…
+		;Extra Examples:
+		;I couldn't see anyone through the haze of smoke.
+		;The sun now had a faint golden haze around it.
+		;Topics WEATHER-C2
+				;Oxford Collocations Dictionary
+				;adjective
+				;thickfaintthin…
+				;haze + verb
+				;hangshimmersurround something…
+				;preposition
+				;in a/​the hazethrough a/​the hazehaze of…
+		;See full entry
+	; -- (3) 
 
 
-[-] hazy		<-->	adjective++C2	[220829][002]	./ˈheɪzi/-NAmE /ˈheɪzi/ [230826]
-	;có màn hơi, mờ -- (comparative hazier, superlative haziest) not clear because of haze
+
+
+
+
+
+
+[-] hazy		<-->	adjective++C2	[220829][003]	./ˈheɪzi/-NAmE /ˈheɪzi/ (comparative hazier, superlative haziest) [230826] [t]
+	;có màn hơi, mờ -- (1) not clear because of haze
 		;a hazy afternoon/sky
 		;hazy light/sunshine
 		;The mountains were hazy in the distance.
 		;The room was hazy with smoke.
-		;Extra Examples
-		;TOPICS WEATHErC2
-		;Oxford Collocations Dictionary
-			;verbs
-				;be, look, become…
-			;adverb
-				;very, a little, rather…
-			;preposition
+		;Extra Examples:
+		;The summers were hazy with pollution.
+		;There will be a dry start to the day with some hazy sunshine in the east.
+		;Topics WEATHER-C2
+				;Oxford Collocations Dictionary
+				;verbs
+				;belookbecome…
+				;adverb
+				;verya littlerather…
+				;preposition
 				;with
+		;See full entry
+	; -- (2) not clear because of a lack of memory, understanding or detail
+		;synonym vague
+		;a hazy memory/idea
+		;The dividing line is somewhat hazy.
+		;What happened next is all very hazy.
+		;I have only a very hazy idea about how the economy works.
+				;Oxford Collocations Dictionary
+				;verbs
+				;bebecomeget…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;about
+		;See full entry
+	;mờ mịt -- (3) (of a person) uncertain or confused about something
+		;I'm a little hazy about what to do next.
+		;Extra Examples:
+		;I'm a bit hazy about my family history.
+		;I'm still slightly hazy about the details of what happened.
+				;Oxford Collocations Dictionary
+				;verbs
+				;bebecomeget…
+				;adverb
+				;extremelyfairlyvery…
+				;preposition
+				;about
+		;See full entry
+		;Word Origin
+
+
+
+
+
 
 
 [-] headwind		<-->	noun++C2	[221029][002]	./ˈhedwɪnd/-NAmE /ˈhedwɪnd/
-	;gió thổi từ phía trước -- a wind that is blowing towards a person or vehicle, so that it is blowing from the direction in which the person or vehicle is moving
-		;COMPARE tailwind
-		;TOPICS WEATHErC2
+	;gió thổi từ phía trước -- (1) a wind that is blowing towards a person or vehicle, so that it is blowing from the direction in which the person or vehicle is moving
+		;compare tailwind
+		;Topics WEATHER-C2
 
 
-[-] heat		<-->	noun++A2	[220829][001]	./hiːt/-NAmE /hiːt/\
+[-] heat		<-->	noun++A2	[220829][001]	./cef/\
 	;sức nóng, nhiệt -- [uncountable] hot weather; the hot conditions in a building, vehicle, etc.
 		;You should not go out in the heat of the day (= at the hottest time).
 		;to suffer from the heat
@@ -1580,7 +1709,7 @@
 		;in the heat They worked all afternoon in the intense heat.
 		;SEE ALSO prickly heat
 		;Extra Examples
-		;TOPICS WEATHErA2
+		;TOPICS WEATHER-A2
 		;Oxford Collocations Dictionary
 			;adjective
 				;baking, blazing(rực rỡ), blistering(phồng rộp)…
@@ -1594,31 +1723,45 @@
 				;the heat of the day
 
 
-[-] heat lightning		<-->	noun++C2	[221029][001]	./ˈhiːt laɪtnɪŋ/-NAmE /ˈhiːt laɪtnɪŋ/
-	;tia sáng nhiệt, hay do bức xạ nhiệt -- [uncountable] (North American English) flashes of lightning without thunder, seen in the sky on hot nights
+[-] heat lightning		<-->	noun++C2	[221029][002]	./ˈhiːt laɪtnɪŋ/-NAmE /ˈhiːt laɪtnɪŋ/ [uncountable] (North American English) [t]
+	;tia sáng nhiệt, hay do bức xạ nhiệt -- (1) flashes of lightning without thunder, seen in the sky on hot nights
 		;Sometimes heat lightning can appear to be orange.
-		;TOPICS WEATHErC2
+		;Topics WEATHER-C2
 
 
-[-] heatwave		<-->	noun++C1	[221029][001]	./ˈhiːtweɪv/-NAmE /ˈhiːtweɪv/
-	;giai đoạn thời tiết nóng -- a period of unusually hot weather
+
+
+
+
+
+
+
+
+[-] heatwave		<-->	noun++C1	[221029][002]	./ˈhiːtweɪv/-NAmE /ˈhiːtweɪv/ [t]
+	;giai đoạn thời tiết nóng -- (1) ​a period of unusually hot weather
 		;A long summer heatwave had caused most of the crops to die.
-		;Extra Examples
-		;TOPICS WEATHErC1
+		;Extra Examples:
+		;The demand for water rises sharply during a heatwave.
+		;They said on the news the heatwave is going to continue for weeks.
+		;Topics WEATHER-C1
 
 
-[-] high		<-->	noun++C2	[221029][001]	./haɪ/-NAmE /haɪ/-\
-	;vùng áp suất cao -- (weather) an area of high air pressure; an anticyclone
+
+[-] high		<-->	noun++C2	[221029][002]	./cef/-\ [t]
+	; -- (1) 
+	;vùng áp suất cao -- (2) an area of high air pressure; an anticyclone
 		;A high over southern Europe is bringing fine, sunny weather to all parts.
-		;TOPICS WEATHErC2
+		;Topics WEATHER-C2
+	; -- (6) 
 
 
-[-] horizon		<-->	noun++C1	[221029][001]	./həˈraɪzn/-NAmE /həˈraɪzn/
-	;đường chân trời -- (Idiooms) [image]	 the horizon [singular] the furthest that you can see, where the sky seems to meet the land or the sea
+
+[-] horizon		<-->	noun++C1	[221029][002]	./cef/ [t]
+	;đường chân trời -- (1) [image]	 the horizon [singular] the furthest that you can see, where the sky seems to meet the land or the sea
 		;The sun sank below the horizon.
 		;A ship appeared on the horizon.
 		;Extra Examples
-		;TOPICS WEATHErC1, GeographyC1
+		;TOPICS WEATHER-C1, GeographyC1
 		;Oxford Collocations Dictionary
 			;adjective
 				;northern, southern, etc.…
@@ -1626,10 +1769,15 @@
 				;scan
 			;preposition
 				;above the horizon, below the horizon, beyond the horizon…
+	; -- (15) 
 
 
-[-] horrible		<-->	adjective++B1	[221029][002]	./ˈhɒrəbl/-NAmE /ˈhɔːrəbl/ [230321]
-	;rất xấu -- (informal) very bad or unpleasant; used to describe something that you do not like
+
+
+
+
+[-] horrible		<-->	adjective++B1	[221029][002]	./cef/ [230321]
+	;rất xấu -- (1) (informal)  very bad or unpleasant; used to describe something that you do not like
 		;What horrible weather!
 		;The coffee tasted absolutely horrible.
 		;a horrible mess/smell/noise
@@ -1640,7 +1788,7 @@
 		;it is horrible to do something It was horrible to have to leave my family behind.
 		;it is horrible doing something It was horrible sitting there all on my own.
 		;Synonyms terrible: awful, horrible, dreadful, vile, horrendous
-		;TOPICS WEATHErB1
+		;TOPICS WEATHER-B1
 		;Oxford Collocations Dictionary
 			;verbs
 				;be, feel, look…
@@ -1648,9 +1796,11 @@
 				;really, absolutely, quite…
 			;preposition
 				;to
+	; -- (2) 
+	; -- (3) 
 
 
-[-] hot		<-->	adjective++A1	[220829][001]	./hɒt/-NAmE /hɑːt/-\
+[-] hot		<-->	adjective++A1	[220829][002]	./cef/-\
 	;nóng -- (comparative hotter, superlative hottest) (Idiooms) temperature, having a high temperature; producing heat
 		;It's hot today, isn't it?
 		;It was hot and getting hotter.
@@ -1669,7 +1819,7 @@
 		;I touched his forehead. He felt hot and feverish.
 		;SEE ALSO baking, boiling hot, piping hot, red-hot, white-hot
 		;Extra Examples
-		;TOPICS WEATHErA1, GeographyA1
+		;TOPICS WEATHER-A1, GeographyA1
 		;Oxford Collocations Dictionary
 			;verbs
 				;be, feel, look…
@@ -1677,41 +1827,64 @@
 				;extremely, fairly, very…
 
 
-[-] humid		<-->	adjective++C1	[220829][003]	./ˈhjuːmɪd/-NAmE /ˈhjuːmɪd/ [230321] [230715]
-	;nóng và ẩm -- (of the air or climate) warm and slightly wet
+[-] humid		<-->	adjective++C1	[220829][003]	./ˈhjuːmɪd/-NAmE /ˈhjuːmɪd/ [230321] [230715] [t]
+	;nóng và ẩm -- (1) (of the air or climate) warm and slightly wet
 		;These ferns will grow best in a humid atmosphere.
 		;The island is hot and humid in the summer.
 		;They were not prepared for the humid heat of the tropical forest.
 		;The day was hot and humid.
 		;The weather had become very humid.
-		;TOPICS WEATHERC1, GeographyC1
-		;Oxford Collocations Dictionary
-			;Humid is used with these nouns:
-				;air, atmosphere, climate…
+		;Topics Weatherc1, Geographyc1
+				;Oxford Collocations Dictionary
+				;Humid is used with these nouns:
+				;airatmosphereclimate…
+		;See full entry
+		;Word Origin
 
 
-[-] humidity		<-->	noun++C1	[221029][005]	./hjuːˈmɪdəti/-NAmE /hjuːˈmɪdəti/ [230321] [230402] [lm.i.x.s.03] [230715] [240321]
-	;thời tiết nóng ẩm -- [uncountable]conditions in which the air is wet and very warm
+[-] humidity		<-->	noun++C1	[221029][006]	./hjuːˈmɪdəti/-NAmE /hjuːˈmɪdəti/ [uncountable] [230321] [230402] [lm.i.x.s.03] [230715] [240321]
+	;thời tiết nóng ẩm -- (1) the amount of water in the air
+		;Instruments constantly monitor temperature and humidity.
+		;high/low humidity
+		;70% humidity
+		;Extra Examples:
+		;The museum is equipped with sophisticated humidity controls.
+		;in dry weather, when the ambient humidity is low
+		;Care should be taken in conditions of high humidity.
+				;Oxford Collocations Dictionary
+				;adjective
+				;highlowambient…
+				;… of humidity
+				;level
+				;verb + humidity
+				;controlmaintainincrease…
+				;humidity + verb
+				;increaserisedrop…
+				;humidity + noun
+				;levelcontrol
+		;See full entry
+	;thời tiết nóng ẩm -- (2) conditions in which the air is wet and very warm
 		;These plants need heat and humidity to grow well.
 		;The humidity was becoming unbearable.
-		;TOPICS WEATHERC1
-		;Oxford Collocations Dictionary
-			;adjective
-				;high, low, ambient…
-			;… of humidity
+		;Topics WEATHER-C1
+				;Oxford Collocations Dictionary
+				;adjective
+				;highlowambient…
+				;… of humidity
 				;level
-			;verb + humidity
-				;control, maintain, increase…
-			;humidity + verb
-				;increase, rise, drop…
-			;humidity + noun
-				;level, control
+				;verb + humidity
+				;controlmaintainincrease…
+				;humidity + verb
+				;increaserisedrop…
+				;humidity + noun
+				;levelcontrol
+		;See full entry
 		;Word Origin
-		;Wordfinder: arid, climate, continental climate, equatorial, frigid, harsh, humidity, rainfall, tropical, zone
+		;Wordfinder: aridclimatecontinental climateequatorialfrigidharshhumidityrainfalltropicalzone
 		;Wordfinder: arid, climate, continental climate, equatorial, frigid, harsh, humidity, rainfall, tropical, zone
 
 
-[-] hurricane		<-->	noun++B1	[221029][001]	./ˈhʌrɪkən/-NAmE /ˈhɜːrəkeɪn/
+[-] hurricane		<-->	noun++B1	[221029][002]	./cef/
 	;bão lớn vùng đông-nam Hoa Kỳ -- a violent storm with very strong winds, especially in the western Atlantic Ocean
 		;A powerful hurricane hit the Florida coast.
 		;Hurricane Sandy devastated the area.
@@ -1724,7 +1897,7 @@
 		;Collocations The weather
 		;COMPARE cyclone, typhoon
 		;Extra Examples
-		;TOPICS WEATHErB1, The environmentB1
+		;TOPICS WEATHER-B1, The environmentB1
 		;Oxford Collocations Dictionary
 			;adjective
 			;majorpowerful
@@ -1738,7 +1911,7 @@
 			;the eye of the hurricane
 
 
-[-] ice		<-->	noun++A1	[220829][001]	./aɪs/-NAmE /aɪs/
+[-] ice		<-->	noun++A1	[220829][002]	./cef/
 	;băng, tuyết -- [uncountable] water that has frozen and become solid
 		;There was ice on the windows.
 		;The lake was covered with a sheet of ice.
@@ -1747,7 +1920,7 @@
 		;substantial loss of sea ice in the Arctic Ocean
 		;SEE ALSO icy, black ice, dry ice
 		;Extra Examples
-		;TOPICS WEATHErA1, DrinksA1
+		;TOPICS WEATHER-A1, DrinksA1
 		;Oxford Collocations Dictionary
 			;adjective
 				;thick, thin, melting…
@@ -1764,60 +1937,70 @@
 
 
 [-] icicle		<-->	noun++C2	[221029][002]	./ˈaɪsɪkl/-NAmE /ˈaɪsɪkl/ [240121]
-	;tảng băng vỡ ra -- a pointed piece of ice that is formed when water freezes as it falls down from something such as a roof
-	;Wordfinder: avalanche, blizzard, drift, flurry(mưa rào), hail, icicle(nhũ băng), sleet(mưa tuyết), slush(tan băng (dirty)), snow, thaw(tan băng)
-	;TOPICS WEATHErC2
+	;tảng băng vỡ ra -- (1) a pointed piece of ice that is formed when water freezes as it falls down from something such as a roof
+		;Wordfinder: avalancheblizzarddriftflurryhailiciclesleetslushsnowthaw
+		;Topics WEATHER-C2
+		;Word Origin
 
 
-[-] icy		<-->	adjective++B2	[221029][001]	./ˈaɪsi/-NAmE /ˈaɪsi/
-	;rất lạnh -- (comparative icier, superlative iciest) very cold
-		;SYNONYM freezing
+[-] icy		<-->	adjective++B2	[221029][002]	./ˈaɪsi/-NAmE /ˈaɪsi/ (comparative icier, superlative iciest) [t]
+	;rất lạnh -- (1) very cold
+		;synonym freezing
 		;icy winds/water
 		;My feet were icy cold.
 		;The door opened and an icy blast of wind swept through the room.
-		;Extra Examples
-		;TOPICS WEATHErB2
+		;Extra Examples:
+		;An icy wind blew through the city.
+		;The water was icy cold.
+		;Topics WEATHER-B2
 
 
-[-] isobar		<-->	noun++C2	[221029][001]	./ˈaɪsəbɑː(r)/-NAmE /ˈaɪsəbɑːr/
-	;đường đẳng áp -- (specialist) a line on a weather map that joins places that have the same air pressure at a particular time
-		;TOPICS WEATHErC2
+[-] isobar		<-->	noun++C2	[221029][002]	./ˈaɪsəbɑː(r)/-NAmE /ˈaɪsəbɑːr/ (specialist) [t]
+	;đường đẳng áp -- (1) a line on a weather map that joins places that have the same air pressure at a particular time
+		;TOPICS WEATHER-C2
 
 
-[-] lightning		<-->	noun++B1	[221029][001]	./ˈlaɪtnɪŋ/-NAmE /ˈlaɪtnɪŋ/
-	;tia chớp -- [uncountable] (Idiooms) a flash, or several flashes, of very bright light in the sky caused by electricity
+[-] lightning		<-->	noun++B1	[221029][001]	./ˈlaɪtnɪŋ/-NAmE /ˈlaɪtnɪŋ/ [uncountable]
+	;tia chớp -- (1) a flash, or several flashes, of very bright light in the sky caused by electricity
 		;a flash of lightning
 		;a violent storm with thunder and lightning
 		;He was struck by lightning and killed.
 		;Lightning strikes caused scores of fires across the state.
 		;Collocations The weather
-		;SEE ALSO forked lightning, heat lightning, sheet lightning
-		;Extra Examples
-		;TOPICS WEATHErB1
-		;Oxford Collocations Dictionary
-			;adjective
-				;ball, forked, sheet…
-			;… of lightning
-				;bolt, flash, streak…
-			;lightning + verb
-				;flash, illuminate something, light something…
-			;lightning + noun
-				;bolt, flash, storm…
-			;phrases
+		;see also forked lightning, heat lightning, sheet lightning
+		;Extra Examples:
+		;Lightning flickered across the sky.
+		;Lightning flashed outside.
+		;Lightning hit the tree.
+		;Lightning lit up the night sky.
+		;Topics WEATHER-B1
+				;Oxford Collocations Dictionary
+				;adjective
+				;ballforkedsheet…
+				;… of lightning
+				;boltflashstreak…
+				;lightning + verb
+				;flashilluminate somethinglight something…
+				;lightning + noun
+				;boltflashstorm…
+				;phrases
 				;thunder and lightning
+		;See full entry
+		;Word Origin
 
 
-[-] low		<-->	noun++C2	[221029][002]	./ləʊ/-NAmE /ləʊ/
-	;vùng áp suất thấp -- (weather) an area of low pressure in the atmosphere
+[-] low		<-->	noun++C2	[221029][002]	./cef/*\ [t]
+	;vùng áp suất thấp -- (3) an area of low pressure in the atmosphere
 		;Another low is moving in from the Atlantic.
-		;OPPOSITE high
-		;TOPICS WEATHErC2
+		;opposite high
+		;Topics WEATHER-C2
+		;Word Origin
 
 
 
 
 
-[-] melt		<-->	verb++B2	[221029][001]	./melt/-NAmE /melt/
+[-] melt		<-->	verb++B2	[221029][002]	./cef/ [t]
 	;tan chảy -- [intransitive, transitive] to become or make something become liquid as a result of heating
 		;The snow showed no sign of melting.
 		;melting ice
@@ -1873,7 +2056,7 @@
 		---
 		;COMPARE defrost, de-ice, melting point
 		;Extra Examples
-		;TOPICS WEATHErB2, Physics and chemistryB2
+		;TOPICS WEATHER-B2, Physics and chemistryB2
 
 
 [-] mild		<-->	adjective++B1	[221029][004]	./cef/\ [orw.126] [230317]
@@ -1884,7 +2067,7 @@
 		;Later in the week the weather turned very mild.
 		;COMPARE hard
 		;Extra Examples
-		;TOPICS WEATHErB1
+		;TOPICS WEATHER-B1
 		;Oxford Collocations Dictionary
 			;verbs
 				;be, become, turn…
@@ -2004,33 +2187,35 @@
 		;TOPICS WEATHER-C2
 
 
-[-] nor'easter		<-->	noun++C2	[221029][001]	./ˌnɔːrˈiːstə(r)/-NAmE /ˌnɔːrˈiːstər/
-	;gió/bão "bấc" mạnh -- (also northeaster /ˌnɔːθˈiːstə(r)/ /ˌnɔːrθˈiːstər/) (especially North American English) a strong wind or storm that comes from the north-east, especially in New England in the United States
+[-] nor'easter		<-->	noun++C2	[221029][002]	./ˌnɔːrˈiːstə(r)/-NAmE /ˌnɔːrˈiːstər/ (also northeaster  /ˌnɔːθˈiːstə(r)/  /ˌnɔːrθˈiːstər/)
+(especially North American English) [t] 
+	;gió/bão "bấc" mạnh -- (1) a strong wind or storm that comes from the north-east, especially in New England in the United States
 		;There was a nor'easter that blanketed Manhattan with two feet of snow.
-		;TOPICS WEATHErC2
+		;Topics WEATHER-C2
 
 
-[-] north		<-->	adjective++A1	[220829][001]	./nɔːθ/-NAmE /nɔːrθ/
+[-] north		<-->	adjective++A1	[220829][002]	./cef/ [t]
 	;hướng bắc -- [only before noun] (abbreviation N, No.) in or towards the north
 		;North London
 		;the north bank of the river
 		;the north end/side of the building
 		;We ended up on the rugged north coast of California.
 		;Enter the cathedral through the north door.
-		;TOPICS WEATHErA1, GeographyA1
+		;TOPICS WEATHER-A1, GeographyA1
 
 
-[-] northerly		<-->	adjective++C2	[220829][001]	./ˈnɔːðəli/-NAmE /ˈnɔːrðərli/
-	;thổi từ "bấc" -- [usually before noun] (of winds) blowing from the north
+[-] northerly		<-->	adjective++C2	[220829][002]	./ˈnɔːðəli/-NAmE /ˈnɔːrðərli/ [t] 
+	;thổi từ "bấc" -- (1) [only before noun] in or towards the north
+		;travelling in a northerly direction
+	;thổi từ "bấc" -- (2) [usually before noun] (of winds) blowing from the north
 		;a northerly breeze
-		;COMPARE north
-		;TOPICS WEATHErC2
+		;compare north
+		;Topics WEATHER-C2
 
 
-[-] northerly		<-->	noun++C2	[221029][001]	./ˈnɔːðəli/-NAmE /ˈnɔːrðərli/-\
-	;gió bấc -- (plural northerlies)
-		;a wind that blows from the north
-		;TOPICS WEATHErC2
+[-] northerly		<-->	noun++C2	[221029][002]	./ˈnɔːðəli/-NAmE /ˈnɔːrðərli/-\ plural northerlies)
+	;gió bấc -- (1)a wind that blows from the north
+		;Topics WEATHER-C2
 
 
 [-] overcast		<-->	adjective++C2	[220829][003]	./ˌəʊvəˈkɑːst/-NAmE /ˌəʊvərˈkæst/ [230827] [240131]
@@ -2046,17 +2231,22 @@
 				;completely, heavily, very…
 
 
-[-] overhead		<-->	adverb++C1	[221029][001]	./ˌəʊvəˈhed/-NAmE /ˌəʊvərˈhed/
-	;phía trên đầu -- above your head; in the sky
+[-] overhead		<-->	adverb++C1	[221029][002]	./ˌəʊvəˈhed/-NAmE /ˌəʊvərˈhed/ [t]
+	;phía trên đầu -- (1) above your head; in the sky
 		;Planes flew overhead constantly.
 		;Thunder boomed in the sky overhead.
-		;Extra Examples
-		;TOPICS WEATHErC1
-		;Oxford Collocations Dictionary
-			;verbs
-				;be, appear, circle…
-			;adverb
-				;directly, nearly, high…
+		;Extra Examples:
+		;Storm clouds were gathering overhead.
+		;The moon was high overhead.
+		;The seagulls circled overhead.
+		;The storm must be directly overhead.
+		;Topics WEATHER-C1
+				;Oxford Collocations Dictionary
+				;verbs
+				;beappearcircle…
+				;adverb
+				;directlynearlyhigh…
+		;See full entry
 
 
 [-] pall		<-->	noun++C2	[221029][002]	./pɔːl/-NAmE /pɔːl/ [230827]
@@ -2066,22 +2256,24 @@
 		;TOPICS WEATHER-C2
 
 
-[-] pluvial		<-->	adjective++C2	[220829][001]	./ˈpluːviəl/-NAmE /ˈpluːviəl/
-	;có mưa -- (specialist) relating to rain
-		;TOPICS WEATHErC2	
+[-] pluvial		<-->	adjective++C2	[220829][002]	./ˈpluːviəl/-NAmE /ˈpluːviəl/ (specialist)
+	;có mưa -- (1) relating to rain
+		;Topics WEATHER-C2
+		;Word Origin
 
 
-[-] pour		<-->	verb++B1	[221029][001]	./pɔː(r)/-NAmE /pɔːr/
-	;rót, đổ, tưới nước -- [intransitive, transitive] when rain pours down or when it’s pouring (with) rain, rain is falling heavily
+[-] pour		<-->	verb++B1	[221029][002]	./pɔː(r)/-NAmE /pɔːr/ [t]
+	;rót, đổ, tưới nước -- (3) [intransitive, transitive] when rain pours down or when it’s pouring (with) rain, rain is falling heavily
 		;It's pouring outside.
 		;pour down The rain continued to pour down.
 		;(British English) pour with rain It's pouring with rain.
 		;(North American English) pour (down) rain It's pouring rain outside.
-		;TOPICS WEATHErB1
+		;Topics WEATHER-B1
+	; -- 
 
 
-[-] powder		<-->	noun++B1	[221029][001]	./ˈpaʊdə(r)/-NAmE /ˈpaʊdər/
-	;bột -- (Idiooms) [uncountable, countable] a dry mass of very small fine pieces or grains
+[-] powder		<-->	noun++B1	[221029][002]	./ˈpaʊdə(r)/-NAmE /ˈpaʊdər/ [t]
+	;bột -- (1) [uncountable, countable] a dry mass of very small fine pieces or grains
 		;milk/chilli/cocoa powder
 		;lumps of chalk crushed to a fine white powder
 		;The snow was like powder.
@@ -2090,7 +2282,7 @@
 		;powder skiing (= on fine dry snow)
 		;SEE ALSO baking powder, curry powder, custard powder, milk powder, soap powder, talcum powder, washing powder
 		;Extra Examples
-		;TOPICS WEATHErB1
+		;TOPICS WEATHER-B1
 		;Oxford Collocations Dictionary
 			;adjective
 				;fine, chilli/chili, cocoa…
@@ -2102,9 +2294,9 @@
 				;in powder form
 
 
-[-] powder snow		<-->	noun++C1	[221029][001]	./ˈpaʊdə snəʊ/-NAmE /ˈpaʊdər snəʊ/
-	;bông tuyết -- [uncountable] loose, dry snow which has fallen recently
-		;TOPICS Sports: other sportsC1, WEATHErC1
+[-] powder snow		<-->	noun++C1	[221029][002]	./ˈpaʊdə snəʊ/-NAmE /ˈpaʊdər snəʊ/ [uncountable] [t]
+	;bông tuyết -- (1) loose, dry snow which has fallen recently
+		;Topics Sports: other sportsc1, WEATHER-C1
 
 
 [-] precipitation		<-->	noun++C2	[221029][003]	./prɪˌsɪpɪˈteɪʃn/-NAmE /prɪˌsɪpɪˈteɪʃn/ [lm.i.s.22] [230510] [240629]
