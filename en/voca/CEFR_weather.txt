@@ -2,13 +2,13 @@
 ------->>>>> [[[WEATHER]]]
 
 
-[-] acid rain		<-->	noun++C1	[221029][002]	./ˌæsɪd ˈreɪn/-NAmE /ˌæsɪd ˈreɪn/ [uncountable] [t]
+[-] acid rain		<-->	noun++C1	[221029][002]	./ˌæsɪd ˈreɪn/-NAmE /ˌæsɪd ˈreɪn/ [uncountable] [240921]
 	;mưa axit -- (1) [uncountable] [image]	rain that contains harmful chemicals from factory gases and that damages trees, crops and buildings
 		;Sulphur, falling as acid rain, is killing fish in the Great Lakes.
 		;TOPICS The environmentC1, WEATHER-C1
 
 
-[-] air		<-->	noun++A1	[220829][002]	./cef/\ [t]
+[-] air		<-->	noun++A1	[220829][002]	./cef/\ [240921]
 	;không khí, khí -- (1) [uncountable] the mixture of gases that surrounds the earth and that we breathe
 		;Let's go out for some fresh air.
 		;a blast of hot air
@@ -40,7 +40,7 @@
 					;in the open air
 
 
-[-] airless		<-->	adjective++B2	[221029][002]	./ˈeələs/-NAmE /ˈerləs/ [t]
+[-] airless		<-->	adjective++B2	[221029][002]	./ˈeələs/-NAmE /ˈerləs/ [240921]
 	;ngột ngạt -- (1) not having any fresh or moving air or wind, and therefore unpleasant
 		;a stuffy, airless room
 		;The night was hot and airless.
@@ -64,7 +64,7 @@
 		;TOPICS WEATHER-C2
 
 
-[-] atmosphere		<-->	noun++B1	[221029][002]	./ˈætməsfɪə(r)/-NAmE /ˈætməsfɪr/ [t]
+[-] atmosphere		<-->	noun++B1	[221029][002]	./ˈætməsfɪə(r)/-NAmE /ˈætməsfɪr/ [240921]
 	;khí quyển -- (1) the atmosphere [singular] the mixture of gases that surrounds the earth
 		;Wind power doesn't release carbon dioxide into the atmosphere.
 		;greenhouse gases in the earth's atmosphere
@@ -137,7 +137,7 @@
 				;just,quite, really…
 
 
-[-] azure		<-->	adjective++C2	[220829][002]	./ˈæʒə(r)/, /ˈæzjʊə(r)/-NAmE /ˈæʒər/ (literary) [t]
+[-] azure		<-->	adjective++C2	[220829][002]	./ˈæʒə(r)/, /ˈæzjʊə(r)/-NAmE /ˈæʒər/ (literary) [240921]
 	;xanh da trời -- (1) (literary) bright blue in colour like the sky
 		;The sun shone out of a clear azure sky.
 		;TOPICS WEATHER-C2, Colours and ShapesC2
@@ -147,7 +147,7 @@
 				;See full entry
 
 
-[-] azure		<-->	noun++C2	[221029][002]	./ˈæʒə(r)/, /ˈæzjʊə(r)/-NAmE /ˈæʒər/ [uncountable] (literary) [t]
+[-] azure		<-->	noun++C2	[221029][002]	./ˈæʒə(r)/, /ˈæzjʊə(r)/-NAmE /ˈæʒər/ [uncountable] (literary) [240921]
 	;bầu trời xanh -- (1) [uncountable] (literary) a bright blue colour, like the sky
 		;TOPICS WEATHER-C2
 
@@ -185,7 +185,7 @@
 				;heatsun
 
 
-[-] bank		<-->	noun++C2	[221029][002]	./cef/\ [240813] [Bucheon] [t]
+[-] bank		<-->	noun++C2	[221029][002]	./cef/\ [240813] [Bucheon] [240921]
 	; -- (1) 
 	;một đụn lớn mây, tuyết do gió tạo thành, -- (8) of cloud/snow, etc. a mass of cloud, snow, etc., especially one formed by the wind
 		;The sun disappeared behind a bank of clouds.
@@ -217,7 +217,7 @@
 	; -- (2) 
 
 
-[-] blanket		<-->	noun++C1	[221029][002]	./cef/ [230508] [t]
+[-] blanket		<-->	noun++C1	[221029][002]	./cef/ [230508] [240921]
 	; -- (1) 
 	;cái mền -- (2)  [usually singular] blanket of something a thick layer or mass of something
 		;a blanket of fog/snow/cloud
@@ -233,7 +233,7 @@
 
 
 
-[-] bleak		<-->	adjective++C2	[220829][002]	./bliːk/-NAmE /bliːk/ (comparative bleaker, superlative bleakest) [t]
+[-] bleak		<-->	adjective++C2	[220829][002]	./bliːk/-NAmE /bliːk/ (comparative bleaker, superlative bleakest) [240921]
 	; -- (1) 
 	;lạnh lẽo, ảm đạm -- (2) (comparative bleaker, superlative bleakest)	(of the weather) cold and unpleasant
 		;a bleak winter’s day
@@ -324,7 +324,7 @@
 
 
 
-[-] blow		<-->	verb++A2	[220829][003]	./cef/ [t]
+[-] blow		<-->	verb++A2	[220829][003]	./cef/ [240921]
 	;thổi (from mouth) [intransitive, transitive] to send out air from the mouth
 		;+ adv./prep. You're not blowing hard enough!
 		;The policeman asked me to blow into the breathalyser.
@@ -339,7 +339,7 @@
 				;blow something off course, see which way the wind is blowing
 
 
-[-] blustery		<-->	adjective++C2	[220829][002]	./ˈblʌstəri/-NAmE /ˈblʌstəri/ [t]
+[-] blustery		<-->	adjective++C2	[220829][002]	./ˈblʌstəri/-NAmE /ˈblʌstəri/ [240921]
 	;có gió mạnh -- (1) (of weather) with strong winds
 		;blustery winds/conditions
 		;The day was cold and blustery.
@@ -349,7 +349,7 @@
 				;self-assurance, shower, weather…
 
 
-[-] boiling		<-->	adjective++C1	[220829][002]	./ˈbɔɪlɪŋ/-NAmE /ˈbɔɪlɪŋ/ (also boiling hot) [t]
+[-] boiling		<-->	adjective++C1	[220829][002]	./ˈbɔɪlɪŋ/-NAmE /ˈbɔɪlɪŋ/ (also boiling hot) [240921]
 	;nóng như (nước) sôi -- (1) (also boiling hot) very hot
 		;SYNONYM baking
 		;You must be boiling in that sweater!
@@ -362,7 +362,7 @@
 				;heat, point, rage…
 
 
-[-] bolt		<-->	noun++C2	[221029][002]	./bəʊlt/-NAmE /bəʊlt/\ [t]
+[-] bolt		<-->	noun++C2	[221029][002]	./bəʊlt/-NAmE /bəʊlt/\ [240921]
 	; -- 
 	;tia chớp -- (3) bolt of lightning a sudden flash of lightning in the sky, appearing as a line
 		;TOPICS WEATHER-C2
@@ -418,7 +418,7 @@
 
 
 
-[-] breezy		<-->	adjective++C1	[220829][002]	./ˈbriːzi/-NAmE /ˈbriːzi/ (comparative breezier, superlative breeziest) [t]
+[-] breezy		<-->	adjective++C1	[220829][002]	./ˈbriːzi/-NAmE /ˈbriːzi/ (comparative breezier, superlative breeziest) [240921]
 	;có gió nhưng không quá mạnh -- (comparative breezier, superlative breeziest) with the wind blowing quite strongly
 		;It was a bright, breezy day.
 		;the breezy east coast
@@ -439,7 +439,7 @@
 
 
 
-[-] calm		<-->	adjective++B1	[221029][002]	./cef/-\ [t]
+[-] calm		<-->	adjective++B1	[221029][002]	./cef/-\ [240921]
 	;nóng ấm -- (of the weather) without wind
 		;a calm, cloudless day
 		;The weather was calm and dry.
@@ -467,20 +467,20 @@
 
 
 [-] celsius		<-->	adjective++B2	[221029][003]	./ˈselsiəs/-NAmE /ˈselsiəs/-\ (also centigrade)
-(abbreviation C) [t] 
+(abbreviation C) [240921] 
 	;độc C -- (1) (abbreviation C) of or using a scale of temperature in which water freezes at 0° and boils at 100°
 		;It will be a mild night, around nine degrees Celsius.
 		;the Celsius Scale
 		;TOPICS WEATHER-B2, Maths and measurementB2
 
 
-[-] centigrade		<-->	noun++C1	[221029][001]	./ˈsentɪɡreɪd/-NAmE /ˈsentɪɡreɪd/ [uncountable] [t]
+[-] centigrade		<-->	noun++C1	[221029][001]	./ˈsentɪɡreɪd/-NAmE /ˈsentɪɡreɪd/ [uncountable] [240921]
 	;thang độ C -- (1) a scale of temperature in which water freezes at 0° and boils at 100°
 		;temperatures in centigrade and Fahrenheit
 		;TOPICS WEATHER-C1, Physics and chemistryC1
 
 
-[-] centigrade		<-->	adjective++C1	[220829][002]	./ˈsentɪɡreɪd/-NAmE /ˈsentɪɡreɪd/ (also Celsius, C) [t]
+[-] centigrade		<-->	adjective++C1	[220829][002]	./ˈsentɪɡreɪd/-NAmE /ˈsentɪɡreɪd/ (also Celsius, C) [240921]
 	;độ C -- (1) (also Celsius, C) of or using a scale of temperature in which water freezes at 0° and boils at 100°
 		;a temperature of 40 degrees centigrade
 		;TOPICS WEATHER-C1, Maths and measurementC1
@@ -506,7 +506,7 @@
 				;change out of all recognition
 
 
-[-] change		<-->	noun++A1	[220829][002]	./cef/ [t]
+[-] change		<-->	noun++A1	[220829][002]	./cef/ [240921]
 	;sự thay đổi -- (difference) [countable, uncountable] the act or result of something becoming different
 		;change in something We're hoping for a change in the weather.
 		;There was no change in the patient's condition overnight.
@@ -533,13 +533,13 @@
 			;a change for the bettera change for the worse, a change of clothes…
 
 
-[-] changeability		<-->	noun++C2	[221029][001]	./ˌtʃeɪndʒəˈbɪləti/-NAmE /ˌtʃeɪndʒəˈbɪləti/ [uncountable] [t]
+[-] changeability		<-->	noun++C2	[221029][001]	./ˌtʃeɪndʒəˈbɪləti/-NAmE /ˌtʃeɪndʒəˈbɪləti/ [uncountable] [240921]
 	;khả năng thay đổi -- (1) the fact of being likely to change; the fact of changing often
 		;SYNONYM unpredictability
 		;TOPICS WEATHER-C2
 
 
-[-] changeable		<-->	adjective++C1	[220829][002]	./ˈtʃeɪndʒəbl/-NAmE /ˈtʃeɪndʒəbl/ [t]
+[-] changeable		<-->	adjective++C1	[220829][002]	./ˈtʃeɪndʒəbl/-NAmE /ˈtʃeɪndʒəbl/ [240921]
 	;có thể thay đổi, thay đổi -- (1) likely to change; often changing
 		;SYNONYM unpredictable
 		;The weather is very changeable at this time of year.
@@ -551,7 +551,7 @@
 				;weather
 
 
-[-] chilly		<-->	adjective++C1	[220829][004]	./ˈtʃɪli/-NAmE /ˈtʃɪli/ (comparative chillier, superlative chilliest) [lm.i.102] [230510] [t]
+[-] chilly		<-->	adjective++C1	[220829][004]	./ˈtʃɪli/-NAmE /ˈtʃɪli/ (comparative chillier, superlative chilliest) [lm.i.102] [230510] [240921]
 	;rất lạnh, lạnh lẽo -- (1) (especially of the weather or a place, but also of people) too cold to be comfortable
 		;It's chilly today.
 		;I was feeling chilly.
@@ -577,7 +577,7 @@
 		;They met with a chilly reception from my mother.
 
 
-[-] cirrus		<-->	noun++C2	[221029][003]	./ˈsɪrəs/-NAmE /ˈsɪrəs/ [uncountable] (specialist) [230510] [t]
+[-] cirrus		<-->	noun++C2	[221029][003]	./ˈsɪrəs/-NAmE /ˈsɪrəs/ [uncountable] (specialist) [230510] [240921]
 	;tầng mây trắng, mây trắng -- (1) a type of light cloud that forms high in the sky
 		;Topics WEATHER-C2
 				;Oxford Collocations Dictionary
@@ -602,7 +602,7 @@
 		;TOPICS WEATHER-A2
 
 
-[-] clear		<-->	verb++B2	[221029][002]	./cef/ [t]
+[-] clear		<-->	verb++B2	[221029][002]	./cef/ [240921]
 	;tan(để trở nên sáng sủa) -- (of smoke, etc.) [intransitive] clear (away): when smoke, fog, etc. clears, it disappears so that it is easier to see things
 		;The mist will clear by mid-morning.
 		;The fog was beginning to clear away.
@@ -611,20 +611,20 @@
 		;TOPICS WEATHER-B2
 
 
-[-] clear up		<-->	phrasal verb++C1	[221029][002]	./klɪə(r)/-NAmE /klɪr/ [t]
+[-] clear up		<-->	phrasal verb++C1	[221029][002]	./klɪə(r)/-NAmE /klɪr/ [240921]
 	;trở nên sáng trong -- (of the weather) to become fine or bright
 		;I hope it clears up this afternoon.
 		;TOPICS WEATHER-C1
 
 
-[-] close		<-->	adjective++C2	[220829][002]	./cef/ [230510] [t]
+[-] close		<-->	adjective++C2	[220829][002]	./cef/ [230510] [240921]
 	;nóng bức và ngột ngạt -- [-weather/room] warm in an uncomfortable way because there does not seem to be enough fresh air
 		;SYNONYM stuffy
 		;It’s very close today—I think there’s going to be a storm.
 		;TOPICS WEATHER-C2
 
 
-[-] cloud		<-->	noun++A2	[220829][003]	./cef/ [230510] [t]
+[-] cloud		<-->	noun++A2	[220829][003]	./cef/ [230510] [240921]
 	;mây -- [countable, uncountable] a grey or white mass that floats in the sky, made of very small drops of water
 		;Dark clouds were gathering in the west.
 		;The cloud cover is quite dense today.
@@ -698,7 +698,7 @@
 
 
 
-[-] cold		<-->	adjective++A1	[220829][002]	./cef/-\ [t]
+[-] cold		<-->	adjective++A1	[220829][002]	./cef/-\ [240921]
 	;lạnh -- (comparative colder, superlative coldest) (Idiooms) low temperature
 		; having a lower than usual temperature; having a temperature lower than the human body
 		;I'm cold. Turn the heating up.
@@ -745,7 +745,7 @@
 				;against the cold, out in the cold
 
 
-[-] cool		<-->	adjective++A1	[220829][002]	./cef/ [t]
+[-] cool		<-->	adjective++A1	[220829][002]	./cef/ [240921]
 	;mát mẻ -- (comparative cooler, superlative coolest) (Idiooms) (fairly cold) fairly cold; not hot or warm
 		;cool air/water
 		;a cool breeze/drink/climate
@@ -764,14 +764,14 @@
 		;very, a little, slightly…
 
 
-[-] cool		<-->	noun++B1	[221029][002]	./cef/*\ [t]
+[-] cool		<-->	noun++B1	[221029][002]	./cef/*\ [240921]
 	;sự mát mẻ -- the cool [singular] (Idiooms)
 		;cool air or a cool place
 		;the cool of the evening
 		;TOPICS WEATHER-B1
 
 
-[-] cover		<-->	noun++C1	[221029][003]	./cef/\ [t]
+[-] cover		<-->	noun++C1	[221029][003]	./cef/\ [240921]
 	;sự che phủ bởi tuyết, hay mây mù -- (7) (cloud/snow) [uncountable] the fact of the sky being covered with cloud or the ground with snow
 		;Fog and low cloud cover are expected this afternoon.
 		;In this area there is snow cover for six months of the year.
@@ -783,7 +783,7 @@
 	; -- (11) 
 
 
-[-] crack		<-->	noun++C2	[221029][002]	./cef/\ [t]
+[-] crack		<-->	noun++C2	[221029][002]	./cef/\ [240921]
 	; -- (1) 
 	;tiếng xẹt của sấm xét -- (3) [-sound] [countable] a sudden loud noise
 		;There was a deafening crack of thunder and the heavens opened.
@@ -808,13 +808,13 @@
 	; -- (8)
 
 
-[-] crepuscular		<-->	adjective++C2	[220829][002]	./krɪˈpʌskjələ(r)/-NAmE /krɪˈpʌskjələr/ (literary) [t]
+[-] crepuscular		<-->	adjective++C2	[220829][002]	./krɪˈpʌskjələ(r)/-NAmE /krɪˈpʌskjələr/ (literary) [240921]
 	;chạng vạng, hoàng hôn -- (1) related to the period of the evening when the sun has just gone down but there is still some light in the sky
 		;Topics WEATHER-C2
 		;Word Origin
 
 
-[-] crisp		<-->	adjective++C2	[220829][002]	./krɪsp/-NAmE /krɪsp/ (comparative crisper, superlative crispest) [t]
+[-] crisp		<-->	adjective++C2	[220829][002]	./krɪsp/-NAmE /krɪsp/ (comparative crisper, superlative crispest) [240921]
 	; -- (1) 
 	;khô ráo và mát mẻ -- (4) (approving) (of the air or the weather) pleasantly dry and cold
 		;It was a crisp winter morning.
@@ -826,13 +826,13 @@
 	; -- (7) 
 
 
-[-] crosswind		<-->	noun++C2	[221029][003]	./ˈkrɒswɪnd/-NAmE /ˈkrɔːswɪnd/ [t]
+[-] crosswind		<-->	noun++C2	[221029][003]	./ˈkrɒswɪnd/-NAmE /ˈkrɔːswɪnd/ [240921]
 	;cơn gió thổi tạt hông -- (1) a wind that is blowing across the direction that you are moving in
 		;Strong crosswinds blew the plane off course.
 		;TOPICS WEATHER-C2
 
 
-[-] cumulonimbus		<-->	noun++C2	[221029][002]	./ˌkjuːmələʊˈnɪmbəs/-NAmE /ˌkjuːmələʊˈnɪmbəs/ [uncountable] (specialist) [t]
+[-] cumulonimbus		<-->	noun++C2	[221029][002]	./ˌkjuːmələʊˈnɪmbəs/-NAmE /ˌkjuːmələʊˈnɪmbəs/ [uncountable] (specialist) [240921]
 	;đám mây tích điện -- (1) a high mass of thick cloud with a flat base, often seen during thunderstorms
 		;Topics WEATHER-C2
 		;Oxford Collocations Dictionar
@@ -881,7 +881,7 @@
 
 
 
-[-] damp		<-->	adjective++C1	[220829][002]	./dæmp/-NAmE /dæmp/-\ (comparative damper, superlative dampest) [t]
+[-] damp		<-->	adjective++C1	[220829][002]	./dæmp/-NAmE /dæmp/-\ (comparative damper, superlative dampest) [240921]
 	;ẩm ướt -- (1) slightly wet, often in a way that is unpleasant
 		;The cottage was cold and damp.
 		;It feels damp in here.
@@ -948,7 +948,7 @@
 
 
 
-[-] depression		<-->	noun++C2	[221029][003]	./cef/ [240126] [t]
+[-] depression		<-->	noun++C2	[221029][003]	./cef/ [240126] [240921]
 	; -- (1) 
 	;trời chuyển mưa -- (5) [countable] (specialist) a weather condition in which the pressure of the air becomes lower, often causing rain
 		;an atmospheric depression moving east from the Atlantic
@@ -975,7 +975,7 @@
 				;damp with dew, wet with dew
 
 
-[-] dismal		<-->	adjective++C2	[220829][005]	./ˈdɪzməl/-NAmE /ˈdɪzməl/ [IE-C1-Z06-63] [230211] [231022] [231122] [t]
+[-] dismal		<-->	adjective++C2	[220829][005]	./ˈdɪzməl/-NAmE /ˈdɪzməl/ [IE-C1-Z06-63] [230211] [231022] [231122] [240921]
 	;u ám, ảm đạm -- (1) ​causing or showing the feeling of being sad
 		;synonym gloomy, miserable
 		;dismal conditions/surroundings/weather
@@ -1005,7 +1005,7 @@
 
 
 
-[-] downpour		<-->	noun++C1	[221029][003]	./ˈdaʊnpɔː(r)/-NAmE /ˈdaʊnpɔːr/ [usually singular] [t]
+[-] downpour		<-->	noun++C1	[221029][003]	./ˈdaʊnpɔː(r)/-NAmE /ˈdaʊnpɔːr/ [usually singular] [240921]
 	;mưa rất lớn -- (1) a heavy fall of rain that often starts suddenly
 		;Wordfinder: downpour, drought, flash flood, monsoon, precipitation, puddle, rain, shelter, shower, squall
 		;Wordfinder: downpour, drought, flash flood, monsoon, precipitation, puddle, rain, shelter, shower, squall
@@ -1021,7 +1021,7 @@
 		;a downpour of rain
 
 
-[-] drench		<-->	verb++C2	[221029][003]	./drentʃ/-NAmE /drentʃ/ [often passive] [t]
+[-] drench		<-->	verb++C2	[221029][003]	./drentʃ/-NAmE /drentʃ/ [often passive] [240921]
 	;nhúng chìm, nhúng ngập nước -- (1) to make somebody/something completely wet
 		;synonym soak
 		;be/get drenched We were caught in the storm and got drenched to the skin.
@@ -1037,7 +1037,7 @@
 		;Word Origin
 
 
-[-] drift		<-->	verb++C1	[221029][003]	./drɪft/-NAmE /drɪft/ [t]
+[-] drift		<-->	verb++C1	[221029][003]	./drɪft/-NAmE /drɪft/ [240921]
 	; -- (1) 
 	;dập dềnh, trôi nổi, bồng bềnh -- (5) [intransitive] to be blown into large piles by the wind
 		;drifting sand
@@ -1061,7 +1061,7 @@
 
 
 
-[-] drift		<-->	noun++C1	[221029][002]	./drɪft/-NAmE /drɪft/\ [t]
+[-] drift		<-->	noun++C1	[221029][002]	./drɪft/-NAmE /drɪft/\ [240921]
 	; -- (1) 
 	;đụn, đống lớn -- (4) [-of snow] [countable] a large pile of something, especially snow, made by the wind
 		;The road was blocked by deep drifts of snow.
@@ -1084,7 +1084,7 @@
 
 
 
-[-] drizzle		<-->	verb++C2	[221029][002]	./ˈdrɪzl/-NAmE /ˈdrɪzl/\ [t] 
+[-] drizzle		<-->	verb++C2	[221029][002]	./ˈdrɪzl/-NAmE /ˈdrɪzl/\ [240921] 
 	;(mưa) lất phất -- (1) [intransitive] when it is drizzling, it is raining lightly
 		;It was drizzling outside.
 		;When they left it was beginning to drizzle.
@@ -1098,7 +1098,7 @@
 
 
 
-[-] drizzle		<-->	noun++C2	[221029][002]	./ˈdrɪzl/-NAmE /ˈdrɪzl/ [uncountable, singular] [t]
+[-] drizzle		<-->	noun++C2	[221029][002]	./ˈdrɪzl/-NAmE /ˈdrɪzl/ [uncountable, singular] [240921]
 	;mưa lất phất -- (1) light fine rain
 		;The forecast for tomorrow is mist and drizzle.
 		;A light drizzle was falling.
@@ -1150,7 +1150,7 @@
 				;in times of drought, months, years, etc. of drought
 
 
-[-] dry spell		<-->	noun++C1	[221029][002]	./ˈdraɪ spel/-NAmE /ˈdraɪ spel/ [t]
+[-] dry spell		<-->	noun++C1	[221029][002]	./ˈdraɪ spel/-NAmE /ˈdraɪ spel/ [240921]
 	;mùa khô, giai đoạn khô hạn -- (1) a period of time when it does not rain
 		;The long dry spell resulted in severe drought conditions in 13 states of the country.
 		;TOPICS WEATHER-C1
@@ -1184,7 +1184,7 @@
 		;TOPICS WEATHER-A1, GeographyA1
 
 
-[-] easterly		<-->	adjective++C2	[220829][002]	./ˈiːstəli/-NAmE /ˈiːstərli/-\ [t]
+[-] easterly		<-->	adjective++C2	[220829][002]	./ˈiːstəli/-NAmE /ˈiːstərli/-\ [240921]
 	; -- (1) [only before noun] in or towards the east
 		;travelling in an easterly direction
 	;từ đông thổi tới -- (2) [usually before noun] (of winds) blowing from the east
@@ -1193,7 +1193,7 @@
 		;TOPICS WEATHER-C2
 
 
-[-] easterly		<-->	noun++C2	[221029][002]	./ˈiːstəli/-NAmE /ˈiːstərli/ (plural easterlies) [240117] [t]
+[-] easterly		<-->	noun++C2	[221029][002]	./ˈiːstəli/-NAmE /ˈiːstərli/ (plural easterlies) [240117] [240921]
 	;gió đông -- (1) a wind that blows from the east
 		;TOPICS WEATHER-C2
 
@@ -1324,7 +1324,7 @@
 
 
 
-[-] firmament		<-->	noun++C2	[221029][002]	./ˈfɜːməmənt/-NAmE /ˈfɜːrməmənt/ ,the firmament [singular] (old use or literary) [t]
+[-] firmament		<-->	noun++C2	[221029][002]	./ˈfɜːməmənt/-NAmE /ˈfɜːrməmənt/ ,the firmament [singular] (old use or literary) [240921]
 	;bầu trời -- (1) the sky
 		;(figurative) a rising star in the literary firmament
 		;Topics WEATHER-C2
@@ -1717,7 +1717,7 @@
 		;TOPICS WEATHER-A2
 
 
-[-] grey		<-->	adjective++A2	[220829][002]	./cef/ [t]
+[-] grey		<-->	adjective++A2	[220829][002]	./cef/ [240921]
 	;u ám -- (2) (US English usually gray) (of the sky or weather) not bright; full of clouds
 		;grey skies
 		;I hate these grey days.
@@ -1789,7 +1789,7 @@
 	; --
 
 
-[-] hailstone		<-->	noun++C2	[221029][003]	./ˈheɪlstəʊn/-NAmE /ˈheɪlstəʊn/ [usually plural] [230826] [t]
+[-] hailstone		<-->	noun++C2	[221029][003]	./ˈheɪlstəʊn/-NAmE /ˈheɪlstəʊn/ [usually plural] [230826] [240921]
 	;cục nước đá tạo bởi mưa đá -- (1) a small ball of ice that falls like rain
 		;Britain’s biggest recorded hailstone weighed 5 oz.
 		;We struggled up the hill in a wind full of dust and hailstones.
@@ -1822,7 +1822,7 @@
 
 
 
-[-] haze		<-->	noun++C2	[221029][003]	./heɪz/-NAmE /heɪz/\ [230826] [t]
+[-] haze		<-->	noun++C2	[221029][003]	./heɪz/-NAmE /heɪz/\ [230826] [240921]
 	; -- (1) [countable, uncountable] air that is difficult to see through because it contains very small drops of water, especially caused by hot weather
 		;a heat haze
 		;In the evenings a blue haze hung in the valleys.
@@ -1857,7 +1857,7 @@
 
 
 
-[-] hazy		<-->	adjective++C2	[220829][003]	./ˈheɪzi/-NAmE /ˈheɪzi/ (comparative hazier, superlative haziest) [230826] [t]
+[-] hazy		<-->	adjective++C2	[220829][003]	./ˈheɪzi/-NAmE /ˈheɪzi/ (comparative hazier, superlative haziest) [230826] [240921]
 	;có màn hơi, mờ -- (1) not clear because of haze
 		;a hazy afternoon/sky
 		;hazy light/sunshine
@@ -1939,7 +1939,7 @@
 				;the heat of the day
 
 
-[-] heat lightning		<-->	noun++C2	[221029][002]	./ˈhiːt laɪtnɪŋ/-NAmE /ˈhiːt laɪtnɪŋ/ [uncountable] (North American English) [t]
+[-] heat lightning		<-->	noun++C2	[221029][002]	./ˈhiːt laɪtnɪŋ/-NAmE /ˈhiːt laɪtnɪŋ/ [uncountable] (North American English) [240921]
 	;tia sáng nhiệt, hay do bức xạ nhiệt -- (1) flashes of lightning without thunder, seen in the sky on hot nights
 		;Sometimes heat lightning can appear to be orange.
 		;Topics WEATHER-C2
@@ -1953,7 +1953,7 @@
 
 
 
-[-] heatwave		<-->	noun++C1	[221029][002]	./ˈhiːtweɪv/-NAmE /ˈhiːtweɪv/ [t]
+[-] heatwave		<-->	noun++C1	[221029][002]	./ˈhiːtweɪv/-NAmE /ˈhiːtweɪv/ [240921]
 	;giai đoạn thời tiết nóng -- (1) ​a period of unusually hot weather
 		;A long summer heatwave had caused most of the crops to die.
 		;Extra Examples:
@@ -1963,7 +1963,7 @@
 
 
 
-[-] high		<-->	noun++C2	[221029][002]	./cef/-\ [t]
+[-] high		<-->	noun++C2	[221029][002]	./cef/-\ [240921]
 	; -- (1) 
 	;vùng áp suất cao -- (2) an area of high air pressure; an anticyclone
 		;A high over southern Europe is bringing fine, sunny weather to all parts.
@@ -1972,7 +1972,7 @@
 
 
 
-[-] horizon		<-->	noun++C1	[221029][002]	./cef/ [t]
+[-] horizon		<-->	noun++C1	[221029][002]	./cef/ [240921]
 	;đường chân trời -- (1) [image]	 the horizon [singular] the furthest that you can see, where the sky seems to meet the land or the sea
 		;The sun sank below the horizon.
 		;A ship appeared on the horizon.
@@ -2043,7 +2043,7 @@
 				;extremely, fairly, very…
 
 
-[-] humid		<-->	adjective++C1	[220829][003]	./ˈhjuːmɪd/-NAmE /ˈhjuːmɪd/ [230321] [230715] [t]
+[-] humid		<-->	adjective++C1	[220829][003]	./ˈhjuːmɪd/-NAmE /ˈhjuːmɪd/ [230321] [230715] [240921]
 	;nóng và ẩm -- (1) (of the air or climate) warm and slightly wet
 		;These ferns will grow best in a humid atmosphere.
 		;The island is hot and humid in the summer.
@@ -2159,7 +2159,7 @@
 		;Word Origin
 
 
-[-] icy		<-->	adjective++B2	[221029][002]	./ˈaɪsi/-NAmE /ˈaɪsi/ (comparative icier, superlative iciest) [t]
+[-] icy		<-->	adjective++B2	[221029][002]	./ˈaɪsi/-NAmE /ˈaɪsi/ (comparative icier, superlative iciest) [240921]
 	;rất lạnh -- (1) very cold
 		;synonym freezing
 		;icy winds/water
@@ -2171,7 +2171,7 @@
 		;Topics WEATHER-B2
 
 
-[-] isobar		<-->	noun++C2	[221029][002]	./ˈaɪsəbɑː(r)/-NAmE /ˈaɪsəbɑːr/ (specialist) [t]
+[-] isobar		<-->	noun++C2	[221029][002]	./ˈaɪsəbɑː(r)/-NAmE /ˈaɪsəbɑːr/ (specialist) [240921]
 	;đường đẳng áp -- (1) a line on a weather map that joins places that have the same air pressure at a particular time
 		;TOPICS WEATHER-C2
 
@@ -2205,7 +2205,7 @@
 		;Word Origin
 
 
-[-] low		<-->	noun++C2	[221029][002]	./cef/*\ [t]
+[-] low		<-->	noun++C2	[221029][002]	./cef/*\ [240921]
 	;vùng áp suất thấp -- (3) an area of low pressure in the atmosphere
 		;Another low is moving in from the Atlantic.
 		;opposite high
@@ -2216,7 +2216,7 @@
 
 
 
-[-] melt		<-->	verb++B2	[221029][002]	./cef/ [t]
+[-] melt		<-->	verb++B2	[221029][002]	./cef/ [240921]
 	;tan chảy -- [intransitive, transitive] to become or make something become liquid as a result of heating
 		;The snow showed no sign of melting.
 		;melting ice
@@ -2404,13 +2404,13 @@
 
 
 [-] nor'easter		<-->	noun++C2	[221029][002]	./ˌnɔːrˈiːstə(r)/-NAmE /ˌnɔːrˈiːstər/ (also northeaster  /ˌnɔːθˈiːstə(r)/  /ˌnɔːrθˈiːstər/)
-(especially North American English) [t] 
+(especially North American English) [240921] 
 	;gió/bão "bấc" mạnh -- (1) a strong wind or storm that comes from the north-east, especially in New England in the United States
 		;There was a nor'easter that blanketed Manhattan with two feet of snow.
 		;Topics WEATHER-C2
 
 
-[-] north		<-->	adjective++A1	[220829][002]	./cef/ [t]
+[-] north		<-->	adjective++A1	[220829][002]	./cef/ [240921]
 	;hướng bắc -- [only before noun] (abbreviation N, No.) in or towards the north
 		;North London
 		;the north bank of the river
@@ -2420,7 +2420,7 @@
 		;TOPICS WEATHER-A1, GeographyA1
 
 
-[-] northerly		<-->	adjective++C2	[220829][002]	./ˈnɔːðəli/-NAmE /ˈnɔːrðərli/ [t] 
+[-] northerly		<-->	adjective++C2	[220829][002]	./ˈnɔːðəli/-NAmE /ˈnɔːrðərli/ [240921] 
 	;thổi từ "bấc" -- (1) [only before noun] in or towards the north
 		;travelling in a northerly direction
 	;thổi từ "bấc" -- (2) [usually before noun] (of winds) blowing from the north
@@ -2447,7 +2447,7 @@
 				;completely, heavily, very…
 
 
-[-] overhead		<-->	adverb++C1	[221029][002]	./ˌəʊvəˈhed/-NAmE /ˌəʊvərˈhed/ [t]
+[-] overhead		<-->	adverb++C1	[221029][002]	./ˌəʊvəˈhed/-NAmE /ˌəʊvərˈhed/ [240921]
 	;phía trên đầu -- (1) above your head; in the sky
 		;Planes flew overhead constantly.
 		;Thunder boomed in the sky overhead.
@@ -2478,7 +2478,7 @@
 		;Word Origin
 
 
-[-] pour		<-->	verb++B1	[221029][002]	./pɔː(r)/-NAmE /pɔːr/ [t]
+[-] pour		<-->	verb++B1	[221029][002]	./pɔː(r)/-NAmE /pɔːr/ [240921]
 	;rót, đổ, tưới nước -- (3) [intransitive, transitive] when rain pours down or when it’s pouring (with) rain, rain is falling heavily
 		;It's pouring outside.
 		;pour down The rain continued to pour down.
@@ -2488,7 +2488,7 @@
 	; -- 
 
 
-[-] powder		<-->	noun++B1	[221029][002]	./ˈpaʊdə(r)/-NAmE /ˈpaʊdər/ [t]
+[-] powder		<-->	noun++B1	[221029][002]	./ˈpaʊdə(r)/-NAmE /ˈpaʊdər/ [240921]
 	;bột -- (1) [uncountable, countable] a dry mass of very small fine pieces or grains
 		;milk/chilli/cocoa powder
 		;lumps of chalk crushed to a fine white powder
@@ -2510,7 +2510,7 @@
 				;in powder form
 
 
-[-] powder snow		<-->	noun++C1	[221029][002]	./ˈpaʊdə snəʊ/-NAmE /ˈpaʊdər snəʊ/ [uncountable] [t]
+[-] powder snow		<-->	noun++C1	[221029][002]	./ˈpaʊdə snəʊ/-NAmE /ˈpaʊdər snəʊ/ [uncountable] [240921]
 	;bông tuyết -- (1) loose, dry snow which has fallen recently
 		;Topics Sports: other sportsc1, WEATHER-C1
 
@@ -2553,7 +2553,7 @@
 		;TOPICS WEATHER-C2
 
 
-[-] puddle		<-->	noun++C1	[220829][007]	./ˈpʌdl/-NAmE /ˈpʌdl/ [230326] [orw.138] [230503] [orw.164] [230507] [orw.165] [t]
+[-] puddle		<-->	noun++C1	[220829][007]	./ˈpʌdl/-NAmE /ˈpʌdl/ [230326] [orw.138] [230503] [orw.164] [230507] [orw.165] [240921]
 	;vũng nước -- (1) a small amount of water or other liquid, especially rain, that has collected in one place on the ground
 		;Wordfinder: downpour, drought, flash flood, monsoon, precipitation, puddle, rain, shelter, shower, squall
 		;TOPICS WEATHER-C1
@@ -2642,7 +2642,7 @@
 				;start raining, stop raining
 
 
-[-] rainbow		<-->	noun++C1	[221029][003]	./ˈreɪnbəʊ/-NAmE /ˈreɪnbəʊ/ [240225] [t]
+[-] rainbow		<-->	noun++C1	[221029][003]	./ˈreɪnbəʊ/-NAmE /ˈreɪnbəʊ/ [240225] [240921]
 	;cầu vòng -- (1) a curved band of different colours that appears in the sky when the sun shines through rain
 		;all the colours of the rainbow
 		;Extra Examples:
@@ -2656,13 +2656,13 @@
 		;Word Origin
 
 
-[-] raindrop		<-->	noun++B2	[221029][002]	./ˈreɪndrɒp/-NAmE /ˈreɪndrɑːp/ [t]
+[-] raindrop		<-->	noun++B2	[221029][002]	./ˈreɪndrɒp/-NAmE /ˈreɪndrɑːp/ [240921]
 	;giọt mưa -- (1) a single drop of rain
 		;She listened to the raindrops pattering on the tin roof.
 		;TOPICS WEATHER-B2
 
 
-[-] rainfall		<-->	noun++B1	[221029][002]	./ˈreɪnfɔːl/-NAmE /ˈreɪnfɔːl/ [uncountable, countable] [t]
+[-] rainfall		<-->	noun++B1	[221029][002]	./ˈreɪnfɔːl/-NAmE /ˈreɪnfɔːl/ [uncountable, countable] [240921]
 	;lượng mưa -- (1) the total amount of rain that falls in a particular area in a particular amount of time; an occasion when rain falls
 		;There has been below average rainfall this month.
 		;an average annual rainfall of 10  cm
@@ -2684,21 +2684,21 @@
 
 
 
-[-] rainstorm		<-->	noun++B1	[221029][002]	./ˈreɪnstɔːm/-NAmE /ˈreɪnstɔːrm/ [t]
+[-] rainstorm		<-->	noun++B1	[221029][002]	./ˈreɪnstɔːm/-NAmE /ˈreɪnstɔːrm/ [240921]
 	;mưa to -- (1) a heavy fall of rain
 		;We drove for five hours through a rainstorm.
 		;We sheltered from the rainstorm in a little hut.
 		;TOPICS WEATHER-B1
 
 
-[-] rainwater		<-->	noun++B1	[221029][002]	./ˈreɪnwɔːtə(r)/-NAmE /ˈreɪnwɔːtər/ [uncountable] [t]
+[-] rainwater		<-->	noun++B1	[221029][002]	./ˈreɪnwɔːtə(r)/-NAmE /ˈreɪnwɔːtər/ [uncountable] [240921]
 	;nước mưa -- (1) [uncountable] water that has fallen as rain
 		;a barrel for collecting rainwater
 		;She saw her reflection in a pool of rainwater beside her.
 		;TOPICS WEATHER-B1
 
 
-[-] rainy		<-->	adjective++A2	[220829][003]	./ˈreɪni/-NAmE /ˈreɪni/ (comparative rainier, superlative rainiest) [230316] [lm.i.104] [t]
+[-] rainy		<-->	adjective++A2	[220829][003]	./ˈreɪni/-NAmE /ˈreɪni/ (comparative rainier, superlative rainiest) [230316] [lm.i.104] [240921]
 	;có mưa, nhiều mưa -- (1) ​having or bringing a lot of rain
 		;a rainy day
 		;the rainy season
@@ -2763,14 +2763,14 @@
 				;die out
 
 
-[-] showery		<-->	adjective++C2	[220829][005]	./ˈʃaʊəri/-NAmE /ˈʃaʊəri/ [230316] [lm.i.104] [230414] [t]
+[-] showery		<-->	adjective++C2	[220829][005]	./ˈʃaʊəri/-NAmE /ˈʃaʊəri/ [230316] [lm.i.104] [230414] [240921]
 	;có mưa rào -- (1) with showers of rain often occurring
 		;a showery day
 		;TOPICS WEATHER-C2
 
 
 [-] sirocco		<-->	noun++C2	[221029][003]	./sɪˈrɒkəʊ/-NAmE /sɪˈrɑːkəʊ/ (also scirocco)
-(plural siroccos) [230414] [t]
+(plural siroccos) [230414] [240921]
 	;gió từ Phi châu -- (1) a hot wind that blows from Africa into southern Europe
 		;Topics WEATHER-C2
 		;Word Origin
@@ -2897,7 +2897,7 @@
 				;start snowing, stop snowing
 
 
-[-] snowbound		<-->	adjective++C2	[220829][004]	./ˈsnəʊbaʊnd/-NAmE /ˈsnəʊbaʊnd/ [230414] [t]
+[-] snowbound		<-->	adjective++C2	[220829][004]	./ˈsnəʊbaʊnd/-NAmE /ˈsnəʊbaʊnd/ [230414] [240921]
 	;bị kẹt trong tuyết -- (1) (of a person or vehicle) stuck in a particular place and unable to move because a lot of snow has fallen
 		;The skiers were snowbound in the resort for several days.
 		;TOPICS WEATHER-C2
@@ -2906,13 +2906,13 @@
 		;TOPICS WEATHER-C2
 
 
-[-] snowdrift		<-->	noun++C1	[221029][003]	./ˈsnəʊdrɪft/-NAmE /ˈsnəʊdrɪft/ [230414] [t]
+[-] snowdrift		<-->	noun++C1	[221029][003]	./ˈsnəʊdrɪft/-NAmE /ˈsnəʊdrɪft/ [230414] [240921]
 	;vụ lỡ tuyết -- (1) a deep pile of snow that has been blown together by the wind
 		;The car got stuck in a snowdrift.
 		;TOPICS WEATHER-C1
 
 
-[-] snowfall		<-->	noun++B1	[221029][003]	./ˈsnəʊfɔːl/-NAmE /ˈsnəʊfɔːl/ [countable, uncountable] [230414] [t]
+[-] snowfall		<-->	noun++B1	[221029][003]	./ˈsnəʊfɔːl/-NAmE /ˈsnəʊfɔːl/ [countable, uncountable] [230414] [240921]
 	;lượng tuyết -- (1) an occasion when snow falls; the amount of snow that falls in a particular place in a period of time
 		;a heavy/light snowfall
 		;an area of low snowfall
@@ -2930,7 +2930,7 @@
 		;See full entry
 
 
-[-] snowflake		<-->	noun++C1	[221029][003]	./ˈsnəʊfleɪk/-NAmE /ˈsnəʊfleɪk/ [230414] [t]
+[-] snowflake		<-->	noun++C1	[221029][003]	./ˈsnəʊfleɪk/-NAmE /ˈsnəʊfleɪk/ [230414] [240921]
 	;bông tuyết -- (1) a small soft piece of frozen water that falls from the sky as snow
 		;A single snowflake landed on her nose.
 		;Extra Examples:
@@ -2950,7 +2950,7 @@
 
 
 
-[-] snowplough		<-->	noun++C2	[221029][003]	./ˈsnəʊplaʊ/-NAmE /ˈsnəʊplaʊ/ (North American English) (British English) (North American English snowplow) [230414] [t]
+[-] snowplough		<-->	noun++C2	[221029][003]	./ˈsnəʊplaʊ/-NAmE /ˈsnəʊplaʊ/ (North American English) (British English) (North American English snowplow) [230414] [240921]
 	;xe ủi tuyết -- (1) a vehicle or machine for cleaning snow from roads or railways
 		;Topics Transport by car or lorryc2, WEATHER-C2
 
@@ -2967,7 +2967,7 @@
 		;TOPICS WEATHER-B1
 
 
-[-] snowy		<-->	adjective++A2	[220829][003]	./ˈsnəʊi/-NAmE /ˈsnəʊi/ (comparative snowier, superlative snowiest) [230414] [t]
+[-] snowy		<-->	adjective++A2	[220829][003]	./ˈsnəʊi/-NAmE /ˈsnəʊi/ (comparative snowier, superlative snowiest) [230414] [240921]
 	;có tuyết, nhiều tuyết, bị tuyết phủ -- (1) [usually before noun] covered with snow
 		;snowy fields
 		;snowy peaks
@@ -2980,7 +2980,7 @@
 
 
 
-[-] soak		<-->	verb++C1	[221029][003]	./cef/\ [230414] [t]
+[-] soak		<-->	verb++C1	[221029][003]	./cef/\ [230414] [240921]
 	;nhấn chìm,ngâm -- (2) [transitive] soak somebody/something to make somebody/something completely wet
 		;SYNONYM drench
 		;<<soak, drench, dip, dive, embed, saturte, sink, >>
@@ -2998,7 +2998,7 @@
 		;TOPICS WEATHER-A1, GeographyA1
 
 
-[-] southerly		<-->	adjective++C2	[220829][001]	./ˈsʌðəli/-NAmE /ˈsʌðərli/ [usually before noun] [t]
+[-] southerly		<-->	adjective++C2	[220829][001]	./ˈsʌðəli/-NAmE /ˈsʌðərli/ [usually before noun] [240921]
 	;từ Nam -- (1) [only before noun] in or towards the south
 		;travelling in a southerly direction
 	;gió nam -- (of winds) blowing from the south
@@ -3007,7 +3007,7 @@
 		;Topics WEATHER-C2
 
 
-[-] southerly		<-->	noun++C2	[221029][002]	./ˈsʌðəli/-NAmE /ˈsʌðərli/-\ (plural southerlies) [t]
+[-] southerly		<-->	noun++C2	[221029][002]	./ˈsʌðəli/-NAmE /ˈsʌðərli/-\ (plural southerlies) [240921]
 	;gió Nam -- (1) a wind that blows from the south
 		;warm southerlies
 		;Topics WEATHER-C2
@@ -3034,7 +3034,7 @@
 		;TOPICS WEATHER-C1
 
 
-[-] sprinkle		<-->	verb++C2	[221029][004]	./ˈsprɪŋkl/-NAmE /ˈsprɪŋkl/\ [230414] [t]
+[-] sprinkle		<-->	verb++C2	[221029][004]	./ˈsprɪŋkl/-NAmE /ˈsprɪŋkl/\ [230414] [240921]
 	; -- (1) 
 	;rắc, lất phất -- (3) [intransitive] (North American English) if it sprinkles, it rains lightly
 		;SYNONYM drizzle
@@ -3042,7 +3042,7 @@
 		;TOPICS WEATHER-C2
 
 
-[-] squall		<-->	noun++C2	[221029][004]	./skwɔːl/-NAmE /skwɔːl/ [230414] [t]
+[-] squall		<-->	noun++C2	[221029][004]	./skwɔːl/-NAmE /skwɔːl/ [230414] [240921]
 	;gió giật -- (1) a sudden strong and violent wind, often with rain or snow during a storm
 		;A sudden vicious squall knocked her to the ground.
 		;We got caught in a sudden squall of rain.
@@ -3050,13 +3050,13 @@
 		;TOPICS WEATHER-C2
 
 
-[-] starless		<-->	adjective++B2	[221029][003]	./ˈstɑːləs/-NAmE /ˈstɑːrləs/ [230414] [t]
+[-] starless		<-->	adjective++B2	[221029][003]	./ˈstɑːləs/-NAmE /ˈstɑːrləs/ [230414] [240921]
 	;không có sao -- (1) with no stars in the sky
 		;a starless night
 		;TOPICS WEATHER-B2
 
 
-[-] the Beaufort scale		<-->	noun++C2	[221029][002]	./ðə ˈbəʊfət skeɪl/-NAmE /ðə ˈbəʊfərt skeɪl/ [singular] [t]
+[-] the Beaufort scale		<-->	noun++C2	[221029][002]	./ðə ˈbəʊfət skeɪl/-NAmE /ðə ˈbəʊfərt skeɪl/ [singular] [240921]
 	;biểu đồ Beaufort -- (1) a range of numbers used for measuring how strongly the wind is blowing. The lowest number 0 means that there is no wind and the highest number 12 means that there is a hurricane (= a violent storm with very strong winds).
 		;The storm measured 10 on the Beaufort scale.
 		;Topics WEATHER-C2
@@ -3108,7 +3108,7 @@
 				;at the height of the storm, bear the brunt of the storm, take the brunt of the storm…
 
 
-[-] stormy		<-->	adjective++B2	[221029][002]	./d/ (comparative stormier, superlative stormiest) [t]
+[-] stormy		<-->	adjective++B2	[221029][002]	./d/ (comparative stormier, superlative stormiest) [240921]
 	;có mưa bão -- (1) with strong winds and heavy rain or snow
 		;a dark and stormy night
 		;stormy weather
@@ -3145,7 +3145,7 @@
 
 
 
-[-] sultry		<-->	adjective++C2	[220829][002]	./ˈsʌltri/-NAmE /ˈsʌltri/ (comparative sultrier, superlative sultriest) [230806] [JJOY-0020] [t]
+[-] sultry		<-->	adjective++C2	[220829][002]	./ˈsʌltri/-NAmE /ˈsʌltri/ (comparative sultrier, superlative sultriest) [230806] [JJOY-0020] [240921]
 	;nóng như thiêu -- (1) (comparative sultrier, superlative sultriest) (of the weather or air) very hot and uncomfortable
 		;SYNONYM muggy
 		;a sultry summer afternoon
@@ -3154,7 +3154,7 @@
 		;TOPICS WEATHER-C2
 
 
-[-] summery		<-->	adjective++C2	[220829][002]	./ˈsʌməri/-NAmE /ˈsʌməri/ [t]
+[-] summery		<-->	adjective++C2	[220829][002]	./ˈsʌməri/-NAmE /ˈsʌməri/ [240921]
 	;thuộc mùa hè -- (1) typical of or suitable for the summer
 		;summery weather
 		;a light summery dress
@@ -3162,7 +3162,7 @@
 		;Topics WEATHER-C2
 
 
-[-] sun		<-->	noun++A1	[220829][002]	./cef/\ [t]
+[-] sun		<-->	noun++A1	[220829][002]	./cef/\ [240921]
 	;mặt trời -- (usually the sun) [singular, uncountable] the light and heat from the sun
 		;SYNONYM sunshine
 		;the warmth of the afternoon sun
@@ -3194,7 +3194,7 @@
 				;everything under the sun, exposure to the sun, the heat of the sun…
 
 
-[-] sunburst		<-->	noun++C2	[221029][003]	./ˈsʌnbɜːst/-NAmE /ˈsʌnbɜːrst/ [t]
+[-] sunburst		<-->	noun++C2	[221029][003]	./ˈsʌnbɜːst/-NAmE /ˈsʌnbɜːrst/ [240921]
 	;sự cháy nắng -- (1) an occasion when the sun appears from behind the clouds and sends out bright streams of light
 		;TOPICS WEATHER-C2
 
@@ -3263,27 +3263,27 @@
 
 
 
-[-] sweltering		<-->	adjective++C2	[220829][004]	./ˈsweltərɪŋ/-NAmE /ˈsweltərɪŋ/ [IE-B1-Z09-XX-R-02] [230427] [240129] [t]
+[-] sweltering		<-->	adjective++C2	[220829][004]	./ˈsweltərɪŋ/-NAmE /ˈsweltərɪŋ/ [IE-B1-Z09-XX-R-02] [230427] [240129] [240921]
 	;rất nóng nực -- (1) very hot in a way that makes you feel uncomfortable
 		;SYNONYM stifling(nóng nực, ngột ngạt) (1)
 		;sweltering heat
 		;TOPICS WEATHER-C2
 
 
-[-] swelteringly		<-->	adverb++C2	[221029][004]	./ˈsweltərɪŋli/-NAmE /ˈsweltərɪŋli/ [IE-B1-Z09-XX-R-02] [230427] [240129] [t]
+[-] swelteringly		<-->	adverb++C2	[221029][004]	./ˈsweltərɪŋli/-NAmE /ˈsweltərɪŋli/ [IE-B1-Z09-XX-R-02] [230427] [240129] [240921]
 	;nóng nực -- (1) swelteringly hot very hot in a way that makes you feel uncomfortable
 		;a swelteringly hot day
 		;TOPICS WEATHER-C2
 
 
-[-] tailwind		<-->	noun++C2	[221029][004]	./ˈteɪlwɪnd/-NAmE /ˈteɪlwɪnd/ [t]
+[-] tailwind		<-->	noun++C2	[221029][004]	./ˈteɪlwɪnd/-NAmE /ˈteɪlwɪnd/ [240921]
 	;gió đuôi, gió hút -- (1) a wind that blows from behind a moving vehicle, a runner, etc.
 		;A tailwind made the ride home very relaxing.
 		;compare headwind
 		;Topics WEATHER-C2
 
 
-[-] temperature		<-->	noun++A2	[220829][004]	./cef/ [230306] [t]
+[-] temperature		<-->	noun++A2	[220829][004]	./cef/ [230306] [240921]
 	;nhiệt độ -- [countable, uncountable] (abbreviation temp) (Idiooms) the measurement in degrees of how hot or cold a thing or place is
 		;high/low temperatures
 		;cold/warm temperatures
@@ -3343,7 +3343,7 @@
 				;during a/the thaw
 
 
-[-] thunder		<-->	noun++C1	[221029][003]	./ˈθʌndə(r)/-NAmE /ˈθʌndər/ [t]
+[-] thunder		<-->	noun++C1	[221029][003]	./ˈθʌndə(r)/-NAmE /ˈθʌndər/ [240921]
 	;sấm, tiếng sấm -- (1) [uncountable] (Idiooms) the loud noise that you hear after a flash of lightning, during a storm
 		;the rumble of distant thunder
 		;a clap/crash/roll of thunder
@@ -3366,7 +3366,7 @@
 	; -- (2) 
 
 
-[-] thunder		<-->	verb++C1	[221029][003]	./ˈθʌndə(r)/-NAmE /ˈθʌndər/\ [t]
+[-] thunder		<-->	verb++C1	[221029][003]	./ˈθʌndə(r)/-NAmE /ˈθʌndər/\ [240921]
 	;sấm dậy -- (1) [intransitive] when it thunders, there is a loud noise in the sky during a storm
 		;TOPICS WEATHER-C1
 	; -- (5) 
@@ -3377,7 +3377,7 @@
 		;TOPICS WEATHER-C1
 
 
-[-] thunderstorm		<-->	noun++B2	[221029][002]	./ˈθʌndəstɔːm/-NAmE /ˈθʌndərstɔːrm/ [t]
+[-] thunderstorm		<-->	noun++B2	[221029][002]	./ˈθʌndəstɔːm/-NAmE /ˈθʌndərstɔːrm/ [240921]
 	;bão có sấm sét và mưa lớn -- (1) a storm with thunder and lightning and usually very heavy rain
 		;He slept well, unaware of the thunderstorms which filled the night.
 		;The church was struck by lightning during a violent thunderstorm.
