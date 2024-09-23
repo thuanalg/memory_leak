@@ -960,11 +960,11 @@
 
 
 
-[-] flora		<-->	noun++C2	[221028][003]	./ˈflɔːrə/-NAmE /ˈflɔːrə/ [uncountable] (specialist) [IE-C1-Z07-77] [230213] [230307] [230418]
+[-] flora		<-->	noun++C2	[221028][003]	./ˈflɔːrə/-NAmE /ˈflɔːrə/ [uncountable] (specialist) [IE-C1-Z07-77] [230213] [230307] [230418] [t]
 	;hệ thực vật, nhóm thực vật -- (1) the plants of a particular area, type of environment or period of time
 		;alpine flora
 		;rare species of flora and fauna (= plants and animals)
-		;TOPICS PLANTS AND TREESC2
+		;TOPICS PLANTS AND TREES-C2
 		;Oxford Collocations Dictionary
 			;Flora is used after these nouns:
 				;gut
@@ -973,8 +973,8 @@
 
 
 
-[-] flower		<-->	noun++A1	[221028][002]	./cef/
-	;bông, hoa -- (Idiooms) [image]	 the coloured part of a plant from which the seed or fruit develops. Flowers usually grow at the end of a stem and last only a short time.
+[-] flower		<-->	noun++A1	[221028][002]	./cef/ [t]
+	;bông, hoa -- (1) [image]	 the coloured part of a plant from which the seed or fruit develops. Flowers usually grow at the end of a stem and last only a short time.
 		;The plant has a beautiful bright red flower.
 		;in flower The roses are in flower early this year.
 		;The crocuses are late coming into flower.
@@ -982,7 +982,7 @@
 		;Homophones flour | flower
 		;Collocations The living world
 		;Extra Examples
-		;TOPICS PLANTS AND TREEsA1
+		;TOPICS PLANTS AND TREEs-A1
 		;Oxford Collocations Dictionary
 			;adjective
 				;bright, brightly coloured/colored, brilliantly coloured/colored…
@@ -998,120 +998,134 @@
 				;in flower
 			;phrases
 				;a bank of flowersa carpet of flowers, a mass of flowers…
+	; -- (3) 
 
 
 
 
-
-[-] flower		<-->	verb++B2	[221028][003]	./ˈflaʊə(r)/-NAmE /ˈflaʊər/ [230403] [orw.295] [230622]
-	;trổ bông -- [intransitive] (of a plant or tree) to produce flowers
+[-] flower		<-->	verb++B2	[221028][004]	./ˈflaʊə(r)/-NAmE /ˈflaʊər/ [230403] [orw.295] [230622] [t]
+	;trổ bông -- (1) [intransitive] (of a plant or tree) to produce flowers
 		;SYNONYM bloom
 		;This particular variety flowers in July.
 		;early-flowering spring bulbs
 		;What time of year do daffodils flower?
 		;Homophones flour | flower
-		;TOPICS PLANTS AND TREEsB2
+		;TOPICS PLANTS AND TREEs-B2
+	; -- (2) ​[intransitive] (literary) to develop and become successful
+		;synonym blossom
+		;Topics Successc2
+		;Word Origin
 
 
 
 
-
-[-] foliage		<-->	noun++C2	[221028][001]	./ˈfəʊliɪdʒ/-NAmE /ˈfəʊliɪdʒ/
-	;cành lá -- [uncountable] [image]	the leaves of a tree or plant; leaves and branches together
+[-] foliage		<-->	noun++C2	[221028][002]	./ˈfəʊliɪdʒ/-NAmE /ˈfəʊliɪdʒ/ [uncountable] [t]
+	;cành lá, tán cây -- (1) [uncountable] [image] the leaves of a tree or plant; leaves and branches together
 		;dense green foliage
+		;Topics Plants and trees-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;greenbrightdark…
+		;See full entry
+		;Word Origin
+
+
+
+
+
+[-] foxglove		<-->	noun++C2	[221028][002]	./ˈfɒksɡlʌv/-NAmE /ˈfɑːksɡlʌv/ [countable, uncountable] [t]
+	;cây mao địa hoàng -- (1) [countable, uncountable] a tall plant with purple or white flowers that are like bells in shape growing up its stem
+		;TOPICS PLANTS AND TREEs-C2
+
+
+
+
+
+[-] frangipani		<-->	noun++C2	[221028][002]	./ˌfrændʒiˈpæni/, /ˌfrændʒiˈpɑːni/-NAmE /ˌfrændʒiˈpæni/, /ˌfrændʒiˈpɑːni/ [countable, uncountable] [t]
+	;cây/bông/hoa sứ -- (1) a small bush with flowers in two colours of red, purple or white, that hang down
+		;Topics Plants and trees-c2
+		;Word Origin
+
+
+
+
+
+[-] fuchsia		<-->	noun++C2	[221028][002]	./ˈfjuːʃə/-NAmE /ˈfjuːʃə/ [t]
+	;bụi cây vân anh -- (1) [countable, uncountable] a small bush with flowers in two colours of red, purple or white, that hang down
 		;TOPICS PLANTS AND TREEsC2
-		;Oxford Collocations Dictionary
-			;adjective
-				;green, bright, dark…
 
 
 
 
 
-[-] foxglove		<-->	noun++C2	[221028][001]	./ˈfɒksɡlʌv/-NAmE /ˈfɑːksɡlʌv/
-	;hoa cáo -- [countable, uncountable] a tall plant with purple or white flowers that are like bells in shape growing up its stem
-		;TOPICS PLANTS AND TREEsC2
-
-
-
-
-
-[-] frangipani		<-->	noun++C2	[221028][001]	./ˌfrændʒiˈpæni/, /ˌfrændʒiˈpɑːni/-NAmE /ˌfrændʒiˈpæni/, /ˌfrændʒiˈpɑːni/
-	;cây/bông/hoa sứ -- [uncountable, countable] a tropical American tree or bush with groups of white, pink, or yellow flowers
-		;TOPICS PLANTS AND TREEsC2
-
-
-
-
-
-[-] fuchsia		<-->	noun++C2	[221028][001]	./ˈfjuːʃə/-NAmE /ˈfjuːʃə/
-	;??? -- [countable, uncountable] a small bush with flowers in two colours of red, purple or white, that hang down
-		;TOPICS PLANTS AND TREEsC2
-
-
-
-
-
-[-] fungus		<-->	noun++C1	[220619][001]	./ˈfʌŋɡəs/-NAmE /ˈfʌŋɡəs/, (plural fungi /ˈfʌŋɡiː/, /ˈfʌŋɡaɪ/, /ˈfʌndʒaɪ/ /ˈfʌŋɡiː/, /ˈfʌŋɡaɪ/, /ˈfʌndʒaɪ/) 
-	;nấm -- [countable] an organism (= a living thing) that is similar to a plant without leaves, flowers or green colouring, and that usually grows on plants or on decaying matter. mushrooms and mildew are both fungi.
+[-] fungus		<-->	noun++C1	[220619][002]	./ˈfʌŋɡəs/-NAmE /ˈfʌŋɡəs/, (plural fungi /ˈfʌŋɡiː/, /ˈfʌŋɡaɪ/, /ˈfʌndʒaɪ/ /ˈfʌŋɡiː/, /ˈfʌŋɡaɪ/, /ˈfʌndʒaɪ/) [t]
+	;nấm -- (1) [countable] an organism (= a living thing) that is similar to a plant without leaves, flowers or green colouring, and that usually grows on plants or on decaying matter. mushrooms and mildew are both fungi.
 		;Collocations The living world
-		;TOPICS PLANTS AND TREEsC1
-		
+		;TOPICS PLANTS AND TREEs-C1
+	; -- (2) [uncountable, countable] a layer of mould or a similar fungus, for example on a plant or wall; an infection caused by a fungus
+		;The logs were covered with bright fungus.
+		;Farmed fish often get fungus.
+		;fungus infections
+		;Topics Biologyc1
+		;Word Origin
 
 
 
 
 
-[-] genus		<-->	noun++C1	[221028][001]	./ˈdʒiːnəs/-NAmE /ˈdʒiːnəs/ (plural genera /ˈdʒenərə/ /ˈdʒenərə/)
-	;chi, họ -- (biology) a group into which animals, plants, etc. that have similar characteristics are divided, smaller than a family and larger than a species
+[-] genus		<-->	noun++C1	[221028][002]	./ˈdʒiːnəs/-NAmE /ˈdʒiːnəs/ (plural genera  /ˈdʒenərə/  /ˈdʒenərə/)
+(biology) [t]
+	;chi, họ -- (1) a group into which animals, plants, etc. that have similar characteristics are divided, smaller than a family and larger than a species
 		;COMPARE class, kingdom, order, phylum
 		;Wordfinder: breedclassclassificationgenushybridkingdomorderphylumspeciestaxonomy
 		;Wordfinder: breed, class, classification, genus, hybrid, kingdom, order, phylum(ngành), species, taxonomy
 		;SEE ALSO generic
-		;TOPICS PLANTS AND TREEsC1, AnimalsC1
+		;TOPICS PLANTS AND TREEs-C1, AnimalsC1
 
 
 
 
 
-[-] geranium		<-->	noun++C2	[230313][003]	./dʒəˈreɪniəm/-NAmE /dʒəˈreɪniəm/
-	;một loại hoa trồng -- (1) a garden plant with a mass of red, pink or white flowers on the end of each stem
-		;TOPICS PLANTS AND TREESC2
+[-] geranium		<-->	noun++C2	[230313][004]	./dʒəˈreɪniəm/-NAmE /dʒəˈreɪniəm/ [t]
+	;cây phong lữ -- (1) a garden plant with a mass of red, pink or white flowers on the end of each stem
+		;TOPICS PLANTS AND TREES-C2
 
 
 
 
 
-[-] ginkgo		<-->	noun++C2	[221028][001]	./ˈɡɪŋkəʊ/-NAmE /ˈɡɪŋkəʊ/
-	;??? -- (also gingko) (plural ginkgos, ginkgoes) a Chinese tree with yellow flowers
+[-] ginkgo		<-->	noun++C2	[221028][002]	./ˈɡɪŋkəʊ/-NAmE /ˈɡɪŋkəʊ/ (also gingko)
+(plural ginkgos, ginkgoes) [t]
+	;cây bạch quả -- (1) (also gingko) (plural ginkgos, ginkgoes) a Chinese tree with yellow flowers
 		;SYNONYM maidenhair tree
-		;TOPICS PLANTS AND TREEsC2
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
 
 
-[-] goldenrod		<-->	noun++C2	[221028][001]	./ˈɡəʊldənrɒd/-NAmE /ˈɡəʊldənrɑːd/
-	;??? -- [uncountable, countable] a plant that has small, bright yellow flowers
+[-] goldenrod		<-->	noun++C2	[221028][002]	./ˈɡəʊldənrɒd/-NAmE /ˈɡəʊldənrɑːd/ [uncountable, countable] [t]
+	;cây kim châm -- (1) [uncountable, countable] a plant that has small, bright yellow flowers
 		;Clumps of goldenrod line the walkways.
-		;TOPICS PLANTS AND TREEsC2
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
 
 
-[-] gorse		<-->	noun++C2	[221028][001]	./ɡɔːs/-NAmE /ɡɔːrs/
-	;??? -- (British English also furze) [uncountable] a bush with thin leaves with sharp points and small yellow flowers. Gorse often grows on land that is not used or cared for.
-		;TOPICS PLANTS AND TREEsC2
+[-] gorse		<-->	noun++C2	[221028][002]	./ɡɔːs/-NAmE /ɡɔːrs/ (British English also furze)
+[uncountable] [t]
+	;cây kim tước -- (1) [uncountable] a bush with thin leaves with sharp points and small yellow flowers. Gorse often grows on land that is not used or cared for.
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
 
 
-[-] graft		<-->	noun++C2	[221028][005]	./ɡrɑːft/-NAmE /ɡræft/ [voa] [230105] [230313] [240124]
-	;nhánh ghép -- [countable] a piece cut from a living plant and fixed in a cut made in another plant, so that it grows there; the process or result of doing this
+[-] graft		<-->	noun++C2	[221028][006]	./ɡrɑːft/-NAmE /ɡræft/ [voa] [230105] [230313] [240124] [t]
+	;nhánh ghép -- (1) [countable] a piece cut from a living plant and fixed in a cut made in another plant, so that it grows there; the process or result of doing this
 		;A healthy shoot should form a strong graft.
-		;TOPICS PLANTS AND TREESC2
+		;TOPICS PLANTS AND TREES-C2
 	;sự cấy ghép -- (2) [countable] a piece of skin, bone, etc. removed from a living body and placed in another part of the body that has been damaged; the process or result of doing this
 		;Linda had to undergo four skin grafts.
 		;If the skin graft takes, surgeons will do another operation a few weeks later.
@@ -1125,6 +1139,7 @@
 				;graft + verb
 				;take
 		;See full entry
+	; -- (3) 
 	;nạn tham nhũng -- (4) [uncountable] (especially North American English) the use of illegal or unfair methods, especially bribery, to gain advantage in business, politics, etc.; money obtained in this way
 		;He promised an end to graft and corruption in public life.
 		;TOPICS Crime and punishmentC2
@@ -1133,12 +1148,12 @@
 
 
 
-[-] grass		<-->	noun++A2	[221028][001]	./ɡrɑːs/-NAmE /ɡræs/
-	;cò dại -- (Idiooms) [image]	 [uncountable] a common wild plant with narrow green leaves and stems that are eaten by cows, horses, sheep, etc.
+[-] grass		<-->	noun++A2	[221028][002]	./cef/ [t]
+	;cỏ dại -- (1) [image]	 [uncountable] a common wild plant with narrow green leaves and stems that are eaten by cows, horses, sheep, etc.
 		;a blade of grass
 		;The dry grass caught fire.
 		;Extra Examples
-		;TOPICS PLANTS AND TREEsA2
+		;TOPICS PLANTS AND TREEs-A2
 		;Oxford Collocations Dictionary
 			;adjective
 				;green, coarse, rough…
@@ -1152,147 +1167,164 @@
 				;clippingscuttingsseed…
 			;preposition
 				;across the grass, in the grasson the grass…
+	; -- (5) 
+
+
+
+
+[-] hazel		<-->	noun++C2	[221028][006]	./ˈheɪzl/-NAmE /ˈheɪzl/ [countable, uncountable] [230508] [orw.206] [orw.203] [240913]
+	;cây phỉ -- (1) a small tree that produces small nuts (called hazelnuts) that can be eaten
+		;compare filbert
+		;Topics Plants and trees-c2
+		;Word Origin
 
 
 
 
 
-[-] hazel		<-->	noun++C2	[221028][005]	./ˈheɪzl/-NAmE /ˈheɪzl/ [230508] [orw.206] [orw.203] [240913]
-	;???một loại cây có hạt cứng ôn đới -- [countable, uncountable] a small tree that produces small nuts (called hazelnuts) that can be eaten
-		;COMPARE filbert
-		;TOPICS PLANTS AND TREEsC2
+[-] heather		<-->	noun++C2	[221028][002]	./ˈheðə(r)/-NAmE /ˈheðər/ [uncountable] [t]
+	;cây thạch thảo -- (1) a low wild plant with small purple, pink or white flowers, that grows on hills and areas of wild open land (= moorland and heathland)
+		;Topics Plants and trees-c2
+		;Word Origin
+
+
+
+
+[-] hemlock		<-->	noun++C2	[221028][003]	./ˈhemlɒk/-NAmE /ˈhemlɑːk/ [231122] [t]
+	;một lại cây có độc, cây độc cần -- (1) [uncountable, countable] a poisonous plant with a mass of small white flowers growing at the end of a stem that is covered in spots
+		;Topics Plants and trees-c2
+	; -- (2) [uncountable] poison made from hemlock
+		;Word Origin
+
+
+
+
+[-] hemp		<-->	noun++C2	[221028][003]	./hemp/-NAmE /hemp/ [uncountable] [231122] [t]
+	;cây gai làm vải, cây bố, cây gai dầu -- (1) [uncountable] a plant that is used for making rope and cloth, and also to make the drug cannabis
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
 
 
-[-] heather		<-->	noun++C2	[221028][001]	./ˈheðə(r)/-NAmE /ˈheðər/
-	;cây thạch thảo -- [uncountable] a low wild plant with small purple, pink or white flowers, that grows on hills and areas of wild open land (= moorland and heathland)
-		;TOPICS PLANTS AND TREEsC2
-
-
-
-
-
-[-] hemlock		<-->	noun++C2	[221028][002]	./ˈhemlɒk/-NAmE /ˈhemlɑːk/ [231122]
-	;một lại cây có độc, cây độc cần -- [uncountable, countable] a poisonous plant with a mass of small white flowers growing at the end of a stem that is covered in spots
-		;TOPICS PLANTS AND TREEsC2
-
-
-
-
-
-[-] hemp		<-->	noun++C2	[221028][002]	./hemp/-NAmE /hemp/ [231122]
-	;cây gai làm vải, cây bố -- [uncountable] a plant that is used for making rope and cloth, and also to make the drug cannabis
-		;TOPICS PLANTS AND TREEsC2
-
-
-
-
-
-[-] hibiscus		<-->	noun++C2	[221028][001]	./hɪˈbɪskəs/, /haɪˈbɪskəs/-NAmE /hɪˈbɪskəs/, /haɪˈbɪskəs/
-	;??? -- [uncountable, countable] (plural hibiscus) a tropical plant or bush with large brightly coloured flowers
-		;TOPICS PLANTS AND TREEsC2
-		;Oxford Collocations Dictionary
-			;Hibiscus is used before these nouns:
+[-] hibiscus		<-->	noun++C2	[221028][002]	./hɪˈbɪskəs/, /haɪˈbɪskəs/-NAmE /hɪˈbɪskəs/, /haɪˈbɪskəs/ [uncountable, countable]
+(plural hibiscus) [t]
+	;hoa dâm bụt -- (1) a tropical plant or bush with large brightly coloured flowers
+		;Topics Plants and treesc2
+				;Oxford Collocations Dictionary
+				;Hibiscus is used before these nouns:
 				;flower
+		;See full entry
+		;Word Origin
 
 
 
 
 
-[-] holly		<-->	noun++C2	[221028][001]	./ˈhɒli/-NAmE /ˈhɑːli/
-	;??? -- (plural hollies) [uncountable, countable] a bush or small tree with hard shiny leaves with sharp points and bright red berries in winter, often used as a decoration at Christmas
+[-] holly		<-->	noun++C2	[221028][002]	./ˈhɒli/-NAmE /ˈhɑːli/ (plural hollies)
+[uncountable, countable] [t]
+	;cây nhựa ruồi -- (1) a bush or small tree with hard shiny leaves with sharp points and bright red berries in winter, often used as a decoration at Christmas
 		;a sprig of holly
-		;TOPICS PLANTS AND TREEsC2
-		;Oxford Collocations Dictionary
-			;Holly is used before these nouns:
-				;berry, wreath
+		;Topics Plants and trees-c2
+				;Oxford Collocations Dictionary
+				;Holly is used before these nouns:
+				;berrywreath
+		;See full entry
+		;Word Origin
+
+
+
+
+[-] honeysuckle		<-->	noun++C2	[221028][002]	./ˈhʌnisʌkl/-NAmE /ˈhʌnisʌkl/ [uncountable, countable] [t]
+	;cây kim ngân hoa -- (1) [uncountable, countable] a climbing plant with white, yellow or pink flowers with a sweet smell
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
 
 
-[-] honeysuckle		<-->	noun++C2	[221028][001]	./ˈhʌnisʌkl/-NAmE /ˈhʌnisʌkl/
-	;??? -- [uncountable, countable] a climbing plant with white, yellow or pink flowers with a sweet smell
-		;TOPICS PLANTS AND TREEsC2
+[-] hop		<-->	noun++C2	[221028][002]	./hɒp/
+ /hɑːp/\ [t] 
+	; -- (1) 
+	;??? -- (4) [countable] a tall climbing plant with green female flowers that are like cones in shape
+		;TOPICS PLANTS AND TREEs-C2
+	;hoa làm bia -- (5) hops [plural] the green female flowers of the hop plant that have been dried, used for making beer
+		;TOPICS PLANTS AND TREEs-C2
+	; -- (6) 
 
 
 
 
-
-[-] hop		<-->	noun++C2	[221028][001]	./d/\
-	;??? -- [countable] a tall climbing plant with green female flowers that are like cones in shape
-		;TOPICS PLANTS AND TREEsC2
-	;??? --
-	;hoa làm bia -- hops [plural] the green female flowers of the hop plant that have been dried, used for making beer
-		;TOPICS PLANTS AND TREEsC2
+[-] horse chestnut		<-->	noun++C2	[221028][002]	./ˌhɔːs ˈtʃesnʌt/-NAmE /ˌhɔːrs ˈtʃesnʌt/ [t]
+	;hạt dẻ ngựa -- (1) [image]	a large tall tree with spreading branches, white or pink flowers and nuts that grow inside cases that are covered with short spikes
+		;see also chestnut
+		;Topics Plants and trees-c2
+	; -- (2) 
 
 
 
 
-
-[-] horse chestnut		<-->	noun++C2	[221028][001]	./ˌhɔːs ˈtʃesnʌt/-NAmE /ˌhɔːrs ˈtʃesnʌt/
-	;??? -- [image]	a large tall tree with spreading branches, white or pink flowers and nuts that grow inside cases that are covered with short spikes
-		;SEE ALSO chestnut
-		;TOPICS PLANTS AND TREEsC2
-
-
-
-
-
-[-] husk		<-->	noun++C2	[221028][001]	./hʌsk/-NAmE /hʌsk/
-	;lớp vỏ khô bên ngoài -- the dry outer layer that covers nuts, fruits and seeds, especially grain
+[-] husk		<-->	noun++C2	[221028][002]	./hʌsk/-NAmE /hʌsk/ [t]
+	;lớp vỏ khô bên ngoài -- (1) the dry outer layer that covers nuts, fruits and seeds, especially grain
 		;Brown rice has not had the husks removed.
 		;(figurative) There was only the husk left of his former self.
-		;TOPICS PLANTS AND TREEsC2
-		;Oxford Collocations Dictionary
-			;Husk is used after these nouns:
+		;Topics Plants and trees-c2
+				;Oxford Collocations Dictionary
+				;Husk is used after these nouns:
 				;coconutcorn
+		;See full entry
+		;Word Origin
 
 
 
 
 
-[-] iris		<-->	noun++C2	[221028][001]	./ˈaɪrɪs/-NAmE /ˈaɪrɪs/
-	;??? -- [image]	a tall plant with long pointed leaves and large purple or yellow flowers
-		;TOPICS PLANTS AND TREEsC2
+[-] iris		<-->	noun++C2	[221028][002]	./ˈaɪrɪs/-NAmE /ˈaɪrɪs/ [t]
+	mống mắt -- (1) the round coloured part that surrounds the pupil of your eye
+		;Topics Bodyc2
+	;cây diên vĩ -- (2) enlarge image a tall plant with long pointed leaves and large purple or yellow flowers
+		;Topics Plants and trees-c2
+		;Word Origin
 
 
 
 
-
-[-] ivy		<-->	noun++C2	[221028][001]	./ˈaɪvi/-NAmE /ˈaɪvi/
-	;??? -- [uncountable, countable] (plural ivies) [image]	a climbing plant, especially one with dark green shiny leaves with five points
+[-] ivy		<-->	noun++C2	[221028][002]	./ˈaɪvi/-NAmE /ˈaɪvi/ [uncountable, countable]
+(plural ivies) [t]
+	;cây thường xuân -- (1) a climbing plant, especially one with dark green shiny leaves with five points
 		;stone walls covered in ivy
-		;SEE ALSO poison ivy
-		;Extra Examples
-		;TOPICS PLANTS AND TREEsC2
-		;Oxford Collocations Dictionary
-			;adjective
-				;thick, poison, variegated…
-			;verb + ivy
+		;see also poison ivy
+		;Extra Examples:
+		;Ivy grew up the side of the house.
+		;The ivy's got very thick. It needs cutting back a bit.
+		;Topics Plants and trees-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;thickpoisonvariegated…
+				;verb + ivy
 				;be covered in
-			;ivy + verb
-				;grow, climb, cling…
-			;ivy + noun
-				;leaves, plant, vine…
+				;ivy + verb
+				;growclimbcling…
+				;ivy + noun
+				;leavesplantvine…
+		;See full entry
+		;Word Origin
 
 
 
 
 
-[-] jacaranda		<-->	noun++C2	[221028][001]	./ˌdʒækəˈrændə/-NAmE /ˌdʒækəˈrændə/
-	;??? -- [countable, uncountable] a tropical tree with blue flowers and pleasant-smelling wood; the wood of this tree
-		;TOPICS PLANTS AND TREEsC2
+[-] jacaranda		<-->	noun++C2	[221028][002]	./ˌdʒækəˈrændə/-NAmE /ˌdʒækəˈrændə/ [t]
+	;cây phượng tím -- (1) [countable, uncountable] a tropical tree with blue flowers and pleasant-smelling wood; the wood of this tree
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
 
 
-[-] jasmine		<-->	noun++C2	[221028][001]	./ˈdʒæzmɪn/-NAmE /ˈdʒæzmɪn/
-	;cây lài -- [uncountable, countable] a plant with white or yellow flowers with a sweet smell, sometimes used to make perfume and also sometimes added to tea
-		;TOPICS PLANTS AND TREEsC2
+[-] jasmine		<-->	noun++C2	[221028][002]	./ˈdʒæzmɪn/-NAmE /ˈdʒæzmɪn/ [uncountable, countable] [t]
+	;cây lài -- (1) [uncountable, countable] a plant with white or yellow flowers with a sweet smell, sometimes used to make perfume and also sometimes added to tea
+		;TOPICS PLANTS AND TREEs-C2
 		;Oxford Collocations Dictionary
 			;Jasmine is used before these nouns:
 				;scent, tea
@@ -1301,16 +1333,17 @@
 
 
 
-[-] lavender		<-->	noun++C2	[221028][001]	./ˈlævəndə(r)/-NAmE /ˈlævəndər/
-	;??? -- [uncountable] a garden plant with bunches of purple flowers with a sweet smell
-		;TOPICS PLANTS AND TREEsC2
-
+[-] lavender		<-->	noun++C2	[221028][002]	./ˈlævəndə(r)/-NAmE /ˈlævəndər/ [uncountable] [t]
+	;hoa oải hương -- (1) [uncountable] a garden plant with bunches of purple flowers with a sweet smell
+		;TOPICS PLANTS AND TREEs-C2
+	; -- (2) 
+	; -- (3) a pale purple colour
 
 
 
 
 [-] leaf		<-->	noun++B1	[221028][001]	./liːf/-NAmE /liːf/ , (plural leaves /liːvz/ /liːvz/)
-	;lá -- (Idiooms), [image]	, [countable] a flat green part of a plant, growing from a stem or branch or from the root
+	;lá -- (1), [image]	, [countable] a flat green part of a plant, growing from a stem or branch or from the root
 		;lettuce/cabbage/oak leaves
 		;the dead leaves of autumn/the fall
 		;The leaves on the trees were beginning to turn from green to orange.
@@ -1318,8 +1351,22 @@
 		;The trees are just coming into leaf.
 		;Collocations The living world
 		;SEE ALSO bay leaf, curry leaf, fig leaf, maple leaf, tea leaf
-		;Extra Examples
-		;TOPICS PLANTS AND TREEsB1
+		;Extra Examples:
+		;Deciduous trees shed their leaves in autumn.
+		;The leaves of this plant are from 1 to 1½ inches in length.
+		;He picked a leaf from the basil plant and started to chew it.
+		;In the spring the plant began to put out new leaves.
+		;It was spring and the trees were coming into leaf.
+		;Spring arrived and the first green leaves began to appear.
+		;The boys helped by raking the leaves in the yard.
+		;The corn was already ripening and the trees were in full leaf.
+		;The ground was thick with dead leaves.
+		;The leaves rustled in the light breeze.
+		;The summer was over and the leaves were beginning to turn.
+		;This plant has beautifully variegated leaves.
+		;dry leaves blowing in the wind
+		;the leaf litter on the forest floor
+		;TOPICS PLANTS AND TREEs-B1
 		;Oxford Collocations Dictionary
 			;adjective
 				;new, young, autumn…
@@ -1331,21 +1378,23 @@
 				;litter, mould/mold
 			;phrases
 				;in full leaf
+	; -- (5) 
 
 
 
 
-
-[-] lilac		<-->	noun++C2	[221028][001]	./ˈlaɪlək/-NAmE /ˈlaɪlək/
-	;??? -- [uncountable, countable] a bush or small tree with purple or white flowers with a sweet smell that grow closely together in the shape of a cone
+[-] lilac		<-->	noun++C2	[221028][002]	./ˈlaɪlək/-NAmE /ˈlaɪlək/ [t]
+	;cây tử đinh hương -- (1) [uncountable, countable] a bush or small tree with purple or white flowers with a sweet smell that grow closely together in the shape of a cone
 		;TOPICS PLANTS AND TREEsC2
+	; -- (2) ​[uncountable] a pale purple colour
+		;Topics Colours and Shapesc2
+		;Word Origin
 
 
 
 
-
-[-] lily		<-->	noun++C2	[221028][001]	./ˈlɪli/-NAmE /ˈlɪli/ 
-	;bông/hoa lily -- (plural lilies),(Idiooms), [image]	a large white or brightly coloured flower with petals that curl back from the centre. There are many types of lily.
+[-] lily		<-->	noun++C2	[221028][002]	./ˈlɪli/-NAmE /ˈlɪli/ (plural lilies) [t]
+	;bông/hoa lily -- (1) (plural lilies),(Idiooms), [image]	a large white or brightly coloured flower with petals that curl back from the centre. There are many types of lily.
 		;tiger lilies
 		;SEE ALSO arum lily, calla lily, water lily
 		;TOPICS PLANTS AND TREEsC2
@@ -1387,8 +1436,8 @@
 
 
 
-[-] linden		<-->	noun++C2	[221028][001]	./ˈlɪndən/-NAmE /ˈlɪndən/
-	;??? -- (also linden tree, lime, lime tree) a large tree with light-green, heart-shaped leaves and yellow flowers
+[-] linden		<-->	noun++C2	[221028][002]	./ˈlɪndən/-NAmE /ˈlɪndən/ (also linden tree, lime, lime tree) [t]
+	;cây bồ đề -- (1) (also linden tree, lime, lime tree) a large tree with light-green, heart-shaped leaves and yellow flowers
 		;TOPICS PLANTS AND TREEsC2
 
 
@@ -1409,63 +1458,67 @@
 
 
 [-] magnolia		<-->	noun++C2	[221028][001]	./mæɡˈnəʊliə/-NAmE /mæɡˈnəʊliə/
-	;??? -- [countable] a tree with large white, pink or purple flowers that smell sweet
+	;hoa/cây mộc lan -- (1) [countable] a tree with large white, pink or purple flowers that smell sweet
 		;TOPICS PLANTS AND TREEsC2
-
+	; -- (2) ​[uncountable] (British English) a very pale cream colour
+		;Word Origin
 
 
 
 
 [-] maidenhair tree		<-->	noun++C2	[221028][001]	./ˈmeɪdnheə triː/-NAmE /ˈmeɪdnher triː/
-	;??? -- a Chinese tree with yellow flowers
+	;cây tóc tiên -- (1) a Chinese tree with yellow flowers
 		;SYNONYM ginkgo
-		;TOPICS PLANTS AND TREEsC2
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
 
 
 [-] maple		<-->	noun++C1	[221028][001]	./ˈmeɪpl/-NAmE /ˈmeɪpl/
-	;??? -- (also maple tree) [countable, uncountable] a tall tree with leaves that have five points and turn bright red or yellow in the autumn. Maples grow in northern countries.
+	;cây phong -- (1) (also maple tree) [countable, uncountable] a tall tree with leaves that have five points and turn bright red or yellow in the autumn. Maples grow in northern countries.
 		;SEE ALSO sugar maple
-		;TOPICS PLANTS AND TREEsC1
+		;TOPICS PLANTS AND TREEs-C1
+	;  -- (2) (also maple wood) [uncountable] the wood of the maple tree
+		;Word Origin
 
 
 
 
-
-[-] milkweed		<-->	noun++C2	[221028][001]	./ˈmɪlkwiːd/-NAmE /ˈmɪlkwiːd/
-	;??? -- [countable, uncountable] a North American plant that produces a white juice like milk
+[-] milkweed		<-->	noun++C2	[221028][002]	./ˈmɪlkwiːd/-NAmE /ˈmɪlkwiːd/ [countable, uncountable] [t]
+	;cây bông tai -- (1) [countable, uncountable] a North American plant that produces a white juice like milk
 		;There are over 100 milkweed species in North America.
-		;TOPICS PLANTS AND TREEsC2
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
 
 
 [-] mimosa		<-->	noun++C2	[221028][001]	./mɪˈməʊzə/, /mɪˈməʊsə/-NAmE /mɪˈməʊzə/, /mɪˈməʊsə/
-	;??? -- [countable, uncountable] a plant with leaves that are sensitive to touch and light
-		;TOPICS PLANTS AND TREEsC2
-
+	;cây trinh nữ -- (1) [countable, uncountable] a plant with leaves that are sensitive to touch and light
+		;TOPICS PLANTS AND TREEs-C2
+	; -- (2) [countable, uncountable] an Australian tree with balls of yellow flowers
+		;Topics Plants and trees-c2
+	; -- (4) 
 
 
 
 
 [-] mint		<-->	noun++B1	[221028][001]	./mɪnt/-NAmE /mɪnt/
-	;bạc hà -- (Idiooms), [image]	, [uncountable] a plant whose leaves have a fresh smell and taste that are added to food and drinks and used in cooking as a herb. There are many types of mint.
+	;bạc hà -- (1), [image]	, [uncountable] a plant whose leaves have a fresh smell and taste that are added to food and drinks and used in cooking as a herb. There are many types of mint.
 		;mint-flavoured toothpaste
 		;I decorated the fruit salad with a sprig of mint.
 		;roast lamb with mint sauce
-		;TOPICS PLANTS AND TREEsB1, FoodB1
+		;TOPICS PLANTS AND TREEs-B1, FoodB1
+	; -- (4) 
 
 
 
 
-
-[-] mistletoe		<-->	noun++C2	[221028][002]	./ˈmɪsltəʊ/, /ˈmɪzltəʊ/-NAmE /ˈmɪsltəʊ/, /ˈmɪzltəʊ/
-	;cây tầm gửi -- [uncountable] a plant with small shiny white berries that grows on other trees and is often used as a decoration at Christmas
+[-] mistletoe		<-->	noun++C2	[221028][003]	./ˈmɪsltəʊ/, /ˈmɪzltəʊ/-NAmE /ˈmɪsltəʊ/, /ˈmɪzltəʊ/ [uncountable] [t]
+	;cây tầm gửi -- (1) [uncountable] a plant with small shiny white berries that grows on other trees and is often used as a decoration at Christmas
 		;the tradition of kissing under the mistletoe
-		;TOPICS PLANTS AND TREEsC2
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
@@ -1484,22 +1537,37 @@
 
 
 [-] mountain ash		<-->	noun++C2	[221028][001]	./ˌmaʊntən ˈæʃ/-NAmE /ˌmaʊntn ˈæʃ/
-	;??? -- (also rowan tree, rowan) a small tree that has red berries in the autumn
-		;TOPICS PLANTS AND TREEsC2
+	;cây tần bì núi -- (1) a fungus with a round flat head and short stem. Many mushrooms can be eaten.
+		;a field mushroom (= the most common type that is eaten, often just called a ‘mushroom’, and often grown to be sold)
+		;fried mushrooms
+		;cream of mushroom soup
+		;Slice the mushrooms and add to the salad.
+		;They went into the woods to pick wild mushrooms.
+		;see also button mushroom, magic mushroom, oyster mushroom, toadstool
+		;Topics Fooda2, Plants and trees-a2
+				;Oxford Collocations Dictionary
+				;adjective
+				;ediblepoisonouscultivated…
+				;verb + mushroom
+				;cultivategrowpick…
+				;mushroom + noun
+				;capomeletterisotto…
+		;See full entry
+		;Word Origin
 
 
 
 
 
-[-] mushroom		<-->	noun++A2	[221028][001]	./ˈmʌʃrʊm/, /ˈmʌʃruːm/-NAmE /ˈmʌʃrʊm/, /ˈmʌʃruːm/
-	;nấm ăn được -- [image]	a fungus with a round flat head and short stem. Many mushrooms can be eaten.
+[-] mushroom		<-->	noun++A2	[221028][002]	./ˈmʌʃrʊm/, /ˈmʌʃruːm/-NAmE /ˈmʌʃrʊm/, /ˈmʌʃruːm/ [t]
+	;nấm ăn được -- (1) [image]	a fungus with a round flat head and short stem. Many mushrooms can be eaten.
 		;a field mushroom (= the most common type that is eaten, often just called a ‘mushroom’, and often grown to be sold)
 		;fried mushrooms
 		;cream of mushroom soup
 		;Slice the mushrooms and add to the salad.
 		;They went into the woods to pick wild mushrooms.
 		;SEE ALSO button mushroom, magic mushroom, oyster mushroom, toadstool
-		;TOPICS FoodA2, PLANTS AND TREEsA2
+		;TOPICS FoodA2, PLANTS AND TREEs-A2
 		;Oxford Collocations Dictionary
 			;adjective
 				;edible, poisonous, cultivated…
@@ -1512,10 +1580,10 @@
 
 
 
-[-] needle		<-->	noun++C1	[221028][001]	./ˈniːdl/-NAmE /ˈniːdl/\
-	;lá gai -- (on pine tree) [image]	[usually plural] the thin, hard, pointed leaf of a pine tree
+[-] needle		<-->	noun++C1	[221028][002]	./ˈniːdl/-NAmE /ˈniːdl/\ (also stinging nettle) [t]
+	;lá gai -- (1) [image]	[usually plural] the thin, hard, pointed leaf of a pine tree
 		;A soft blanket of pine needles covered the forest floor.
-		;TOPICS PLANTS AND TREEsC1
+		;TOPICS PLANTS AND TREEs-C1
 		;Oxford Collocations Dictionary
 			;adjective
 				;conifer, pine
@@ -1526,13 +1594,13 @@
 
 
 
-[-] nettle		<-->	noun++C2	[221028][002]	./ˈnetl/-NAmE /ˈnetl/ (also stinging nettle) [230304] [voa]
-	;???tầm ma - (also stinging nettle) (Idiooms) [image]	a wild plant with leaves that have pointed edges, are covered in fine hairs and sting (= cause you pain) if you touch them
+[-] nettle		<-->	noun++C2	[221028][002]	./ˈnetl/-NAmE /ˈnetl/ (also stinging nettle) [230304] [voa] [t]
+	;cây tầm ma -- (1) (also stinging nettle) (Idiooms) [image]	a wild plant with leaves that have pointed edges, are covered in fine hairs and sting (= cause you pain) if you touch them
 		;The nettles had spread and now covered half the garden.
 		;Extra Examples:
 			;The butterflies lay their eggs on nettles.
 			;There was an old car half buried in the nettles.		
-		;TOPICS PLANTS AND TREEsC2
+		;TOPICS PLANTS AND TREEs-C2
 		;Oxford Collocations Dictionary
 			;adjective
 				;stinging
@@ -1547,66 +1615,92 @@
 
 
 
-[-] nursery		<-->	noun++C2	[221028][002]	./cef/ [voa]
-	;nơi ươm cây -- (plural nurseries)a place where young plants and trees are grown for sale or for planting somewhere else
-		;TOPICS PLANTS AND TREEsC2
+[-] nursery		<-->	noun++C2	[221028][002]	./cef/ (plural nurseries) (plural nurseries) [voa] [t]
+	; -- (1) 
+	;nơi ươm cây -- (4) (plural nurseries)a place where young plants and trees are grown for sale or for planting somewhere else
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
 
 
-[-] oak		<-->	noun++C1	[221028][002]	./əʊk/-NAmE /əʊk/ [230430]
-	;cây xồi -- (Idiooms), [image]	[countable, uncountable] (also oak tree [countable]) a large tree that produces small nuts called acorns. Oaks are common in northern countries and can live to be hundreds of years old.
+[-] oak		<-->	noun++C1	[221028][003]	./əʊk/-NAmE /əʊk/ [230430] [t]
+	;cây xồi -- (1), [image]	[countable, uncountable] (also oak tree [countable]) a large tree that produces small nuts called acorns. Oaks are common in northern countries and can live to be hundreds of years old.
 		;The forest is famous for its ancient oak trees.
 		;a gnarled old oak tree
 		;forests of oak and pine
 		;The oaks were planted in the 16th century.
 		;SEE ALSO poison oak
-		;TOPICS PLANTS AND TREEsC1
+		;TOPICS PLANTS AND TREEs-C1
+	; -- (2) 
 
 
 
 
-
-[-] olive		<-->	noun++B2	[221028][001]	./ˈɒlɪv/-NAmE /ˈɑːlɪv/
-	;cây olive -- (also olive tree) [countable] a tree on which olives grow
+[-] olive		<-->	noun++B2	[221028][002]	./ˈɒlɪv/-NAmE /ˈɑːlɪv/ [t]
+	;cây olive -- (1) (also olive tree) [countable] a tree on which olives grow
 		;olive groves
-		;TOPICS PLANTS AND TREEsB2
+		;TOPICS PLANTS AND TREEs-B2
 
 
 
 
 
-[-] orchid		<-->	noun++C1	[221028][003]	./ˈɔːkɪd/-NAmE /ˈɔːrkɪd/ [230430]
-	;phong lan -- a plant with brightly coloured flowers of unusual shapes. There are many different types of orchid and some of them are very rare.
-		;TOPICS PLANTS AND TREEsC1
+[-] orchid		<-->	noun++C1	[221028][003]	./ˈɔːkɪd/-NAmE /ˈɔːrkɪd/ [230430] [t]
+	;phong lan -- (1) a plant with brightly coloured flowers of unusual shapes. There are many different types of orchid and some of them are very rare.
+		;TOPICS PLANTS AND TREEs-C1
 
 
 
 
 
-[-] palm		<-->	noun++B2	[221028][002]	./cef/ [230430]
-	;cây họ dừa -- (also palm tree) a straight tree with a mass of long leaves at the top, growing in tropical countries. There are several types of palm tree, some of which produce fruit.
+[-] palm		<-->	noun++B2	[221028][002]	./cef/ (also palm tree) [230430] [t]
+	;cây họ dừa -- (1) (also palm tree) a straight tree with a mass of long leaves at the top, growing in tropical countries. There are several types of palm tree, some of which produce fruit.
 		;a date palm
 		;a coconut palm
 		;palm leaves/fronds/groves
-		;TOPICS PLANTS AND TREEsB2
+		;TOPICS PLANTS AND TREEs-B2
 		;Oxford Collocations Dictionary
 			;adjective
 				;coconut, date, oil…
 			;palm + noun
 				;tree, branch, frond…
-
+	; -- (2) enlarge imagethe inner surface of the hand between the wrist and the fingers
+		;He held the bird gently in the palm of his hand.
+		;sweaty palms
+		;to read somebody’s palm (= to say what you think will happen to somebody by looking at the lines on their palm)
+		;Extra Examples:
+		;He rubbed his palms against his jeans.
+		;He showed me the coins in his palm.
+		;He spread his palms in a gesture of openness.
+		;He took her hand between his palms and squeezed it.
+		;His right palm was resting against my neck.
+		;Hold out your arms with the palms facing downwards.
+		;She held out her hand to me, palm up.
+		;Topics Bodyb2
+				;Oxford Collocations Dictionary
+				;adjective
+				;softsweatywarm…
+				;verb + palm
+				;hold upraiseextend…
+				;palm + verb
+				;sweatfacerest…
+				;palm + noun
+				;readerreadingprint…
+				;preposition
+				;against your palmsbetween your palmsin your palm…
+		;See full entry
+		;Word Origin
 
 
 
 
 [-] pandanus		<-->	noun++C2	[221028][001]	./pænˈdænəs/-NAmE /pænˈdænəs/, ;(also pandan /ˈpændən/, /ˈpændæn/ /ˈpændən/)
-	;cây sâm dứa -- a tropical tree or shrub, the leaves of which are used for making roofs and mats and in South-East Asian cooking
+	;cây sâm dứa -- (1) a tropical tree or shrub, the leaves of which are used for making roofs and mats and in South-East Asian cooking
 		;Pandanus trees support a wide range of wildlife.
 		;We sat on pandanus mats on the floor.
 		;The cakes are flavoured with pandan leaves.
-		;TOPICS PLANTS AND TREEsC2
+		;TOPICS PLANTS AND TREEs-C2
 
 
 
