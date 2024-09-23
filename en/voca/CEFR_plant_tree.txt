@@ -34,8 +34,7 @@
 
 
 
-[-] annual		<-->	noun++C2	[221028][002]	./ˈænjuəl/
- /ˈænjuəl/ [t]
+[-] annual		<-->	noun++C2	[221028][002]	./ˈænjuəl/-NAmE /ˈænjuəl/ [t]
 	; -- (1) 
 	;cây ngắn ngày -- (2) any plant that grows and dies within one year or season
 		;COMPARE biennial, perennial
@@ -182,8 +181,7 @@
 
 
 
-[-] bloom		<-->	noun++C2	[220619][001]	./bluːm/
- /bluːm/\ [240302] [t]
+[-] bloom		<-->	noun++C2	[220619][001]	./bluːm/-NAmE /bluːm/\ [240302] [t]
 	;hoa -- (1) (formal or specialist) [countable] a flower (usually one on a plant that people admire for its flowers)
 		;the exotic blooms of the orchid
 		;The plant produced a single white bloom.
@@ -210,8 +208,7 @@
 
 
 
-[-] bloom		<-->	verb++C2	[220619][002]	./bluːm/
- /bluːm/ [240302] [t]
+[-] bloom		<-->	verb++C2	[220619][002]	./bluːm/-NAmE /bluːm/ [240302] [t]
 	;trổ bông -- (1) ​[intransitive] to produce flowers
 		;synonym flower
 		;Most roses will begin to bloom from late May.
@@ -546,9 +543,7 @@
 
 
 
-[-] cambium		<-->	noun++C2	[221028][002]	./ˈkæmbiəm/-NAmE /ˈkæmbiəm/ [uncountable, countable]
-(plural cambia  /ˈkæmbiə/  /ˈkæmbiə/ or cambiums)
-(specialist)
+[-] cambium		<-->	noun++C2	[221028][002]	./ˈkæmbiəm/-NAmE /ˈkæmbiəm/ [uncountable, countable] (plural cambia  /ˈkæmbiə/  /ˈkæmbiə/ or cambiums) (specialist)
 	;tầng sinh gỗ -- (1) ​a layer of cells inside the stem of a plant. Cambium cells grow into material that is needed to feed the plant.
 		;Topics PLANTS AND TREES-c2
 		;Word Origin
@@ -1073,8 +1068,7 @@
 
 
 
-[-] genus		<-->	noun++C1	[221028][002]	./ˈdʒiːnəs/-NAmE /ˈdʒiːnəs/ (plural genera  /ˈdʒenərə/  /ˈdʒenərə/)
-(biology) [t]
+[-] genus		<-->	noun++C1	[221028][002]	./ˈdʒiːnəs/-NAmE /ˈdʒiːnəs/ (plural genera  /ˈdʒenərə/  /ˈdʒenərə/) (biology) [t]
 	;chi, họ -- (1) a group into which animals, plants, etc. that have similar characteristics are divided, smaller than a family and larger than a species
 		;COMPARE class, kingdom, order, phylum
 		;Wordfinder: breedclassclassificationgenushybridkingdomorderphylumspeciestaxonomy
@@ -1094,8 +1088,7 @@
 
 
 
-[-] ginkgo		<-->	noun++C2	[221028][002]	./ˈɡɪŋkəʊ/-NAmE /ˈɡɪŋkəʊ/ (also gingko)
-(plural ginkgos, ginkgoes) [t]
+[-] ginkgo		<-->	noun++C2	[221028][002]	./ˈɡɪŋkəʊ/-NAmE /ˈɡɪŋkəʊ/ (also gingko) (plural ginkgos, ginkgoes) [t]
 	;cây bạch quả -- (1) (also gingko) (plural ginkgos, ginkgoes) a Chinese tree with yellow flowers
 		;SYNONYM maidenhair tree
 		;TOPICS PLANTS AND TREES-C2
@@ -1207,8 +1200,7 @@
 
 
 
-[-] hibiscus		<-->	noun++C2	[221028][002]	./hɪˈbɪskəs/, /haɪˈbɪskəs/-NAmE /hɪˈbɪskəs/, /haɪˈbɪskəs/ [uncountable, countable]
-(plural hibiscus) [t]
+[-] hibiscus		<-->	noun++C2	[221028][002]	./hɪˈbɪskəs/, /haɪˈbɪskəs/-NAmE /hɪˈbɪskəs/, /haɪˈbɪskəs/ [uncountable, countable] (plural hibiscus) [t]
 	;hoa dâm bụt -- (1) a tropical plant or bush with large brightly coloured flowers
 		;Topics Plants and treesc2
 				;Oxford Collocations Dictionary
@@ -1243,8 +1235,7 @@
 
 
 
-[-] hop		<-->	noun++C2	[221028][002]	./hɒp/
- /hɑːp/\ [t] 
+[-] hop		<-->	noun++C2	[221028][002]	./hɒp/-NAmE /hɑːp/\ [t] 
 	; -- (1) 
 	;??? -- (4) [countable] a tall climbing plant with green female flowers that are like cones in shape
 		;TOPICS PLANTS AND TREES-C2
@@ -1289,8 +1280,7 @@
 
 
 
-[-] ivy		<-->	noun++C2	[221028][002]	./ˈaɪvi/-NAmE /ˈaɪvi/ [uncountable, countable]
-(plural ivies) [t]
+[-] ivy		<-->	noun++C2	[221028][002]	./ˈaɪvi/-NAmE /ˈaɪvi/ [uncountable, countable] (plural ivies) [t]
 	;cây thường xuân -- (1) a climbing plant, especially one with dark green shiny leaves with five points
 		;stone walls covered in ivy
 		;see also poison ivy
@@ -2050,8 +2040,7 @@
 
 
 
-[-] sap		<-->	noun++C2	[221028][003]	./sæp/
- /sæp/ [IE-C1-Z04-45]
+[-] sap		<-->	noun++C2	[221028][003]	./sæp/-NAmE /sæp/ [IE-C1-Z04-45]
 	;mủ cây -- (1) [uncountable] the liquid in a plant or tree that carries food to all its parts
 		;Maple syrup is made from sap extracted from the sugar maple tree.
 		;TOPICS  PLANTS AND TREES-C2
