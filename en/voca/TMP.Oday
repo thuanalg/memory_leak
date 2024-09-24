@@ -142,7 +142,7 @@
 
 
 
-[-] mater		<-->	n++[--0]	./ˈmɑːtə(r)/,  /ˈmeɪtə(r)/
+[-] mater		<-->	n++[0]	./ˈmɑːtə(r)/,  /ˈmeɪtə(r)/
  /ˈmɑːtər/,  /ˈmeɪtər/
 (old-fashioned, British English, from Latin)
 	;mẹ -- (1) mother
@@ -161,7 +161,7 @@
 
 
 
-[-] cardboard		<-->	n++[--0]	./ˈkɑːdbɔːd/
+[-] cardboard		<-->	n++[0]	./ˈkɑːdbɔːd/
  /ˈkɑːrdbɔːrd/
 [uncountable] [lm.a.s.08]
 	;bìa cứng -- (1) stiff material like very thick paper, often used for making boxes
@@ -193,12 +193,15 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] severance		<-->	n++[0]	./ˈsevərəns/
+ /ˈsevərəns/
+[singular, uncountable] (formal) [lm.a.s.11]
+	;việc cắt đứt quan hệ -- (1) the act of ending a connection or relationship
+		;the severance of diplomatic relations
+	;việc thôi việc -- (2) ​the act of ending somebody’s work contract
+		;employees given notice of severance
+		;severance pay/terms
+		;Word Origin
 
 
 
@@ -212,12 +215,9 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] stick around		<-->	p.verb++[--0]	./p/  [lm.a.s.11]
+	;nán lại -- (1) (informal) to stay in a place, waiting for something to happen or for somebody to arrive
+		;Stick around; we'll need you to help us later.
 
 
 

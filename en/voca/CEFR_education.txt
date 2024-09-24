@@ -4077,99 +4077,231 @@
 
 
 
-[-] text		<-->	noun++A1	[220818][001]	./tekst/-NAmE /tekst/
-	;sách -- [countable] a book, play, etc., especially one that is being studied
+[-] text		<-->	noun++A1	[220818][002]	./cef/ [240924]
+	; -- 
+	;sách -- (6) [countable] a book, play, etc., especially one that is being studied
 		;a literary text
 		;sacred/religious/ancient texts
+		;see also set text
+		;Collocations Literature
+		;Extra Examples:
+		;Her books appear on lists of recommended texts in universities.
+		;The book exhibits a close reading of primary texts as well as scholarly commentaries.
+		;We're studying dramatic texts by Mexican playwrights.
+		;It is one of the most difficult literary texts of all time.
+		;Students are requested not to buy texts prior to the first class.
+		;Topics Education-a1
+				;Oxford Collocations Dictionary
+				;adjective
+				;basicintroductorykey…
+				;verb + text
+				;readread fromanalyse/​analyze…
+				;text + verb
+				;contain somethingdescribe somethingemphasize something…
+				;text + noun
+				;analysis
+				;preposition
+				;in a/​the texttext abouttext on…
+		;See full entry
+	; -- (8) 
 
 
 
-[-] textbook		<-->	noun++B2	[220818][001]	./ˈtekstbʊk/-NAmE /ˈtekstbʊk/
-	;sách cho một chủ để nhỏ gọn -- North American English also text) a book that teaches a particular subject and that is used especially in schools and colleges
+[-] textbook		<-->	noun++B2	[220818][002]	./ˈtekstbʊk/-NAmE /ˈtekstbʊk/ (North American English also text) [240924]
+	;sách giáo khoa -- (1) a book that teaches a particular subject and that is used especially in schools and colleges
 		;a school/medical/history textbook
+		;Extra Examples:
+		;Do you have the standard textbook on the subject?
+		;I would not recommend it as a classroom textbook.
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;basicelementaryintroductory…
+		;See full entry
 
 
 
-[-] theology		<-->	noun++C1	[220818][002]	./θiˈɒlədʒi/-NAmE /θiˈɑːlədʒi/
-	;thần học -- (plural theologies) [uncountable] the study of religion and beliefs
+[-] theology		<-->	noun++C1	[220818][002]	./cef/ (plural theologies) [240924]
+	;thần học -- (1) [uncountable] the study of religion and beliefs
 		;a degree in theology
 		;a theology student
 		;the rarefied world of academic theology
+		;Topics Religion and festivalsc1, Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;dogmaticliberaltraditional…
+		;See full entry
+	; --(2) 
+
+
+[-] thesis		<-->	noun++B2	[220810][002]	./cef/ (plural theses  /ˈθiːsiːz/  /ˈθiːsiːz/) [t]
+	;luận văn -- (1) thesis (on something) a long piece of writing completed by a student as part of a university degree, based on their own research
+		;Students must submit a thesis on an agreed subject within four years.
+		;Extra Examples:
+		;He presented this thesis for his PhD.
+		;a thesis for a master's degree
+		;He's doing a doctoral thesis on the early works of Shostakovich.
+		;Many departments require their students to do a thesis defense.
+		;She completed an MSc by thesis.
+		;her thesis adviser at MIT
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;doctoralhonorsMA…
+				;verb + thesis
+				;dowork onwrite…
+				;thesis + noun
+				;projectresearchtopic…
+				;preposition
+				;in a/​the thesisthesis aboutthesis on…
+		;See full entry
+	; -- (2) 
+
+
+[-] third		<-->	noun++C2	[220818][002]	./θɜːd/-NAmE /θɜːrd/ [240924]
+	;hạng C -- (3) ​[uncountable, singular] the lowest standard of honours degree given by a British university
+		;Topics Education-c2
 
 
 
-[-] thesis		<-->	noun++B2	[220810][002]	./cef/)
-	;luận văn -- thesis (on something) a long piece of writing completed by a student as part of a university degree, based on their own research
-		;Students must submit a thesis on an agreed subject within four years
+[-] third class		<-->	noun++C2	[220818][002]	./ˌθɜːd ˈklɑːs/-NAmE /ˌθɜːrd ˈklæs/ [240924]
+	; -- (1) 
+	;hạng C -- (3) ​[only before noun] used to describe the lowest standard of degree given by a British university
+		;Topics Education-c2
+	; -- (4) 
 
 
-
-[-] third		<-->	noun++C2	[220818][001]	./θɜːd/-NAmE /θɜːrd/
-	;hạng C -- third (in something) the lowest standard of degree given by a British university
-
-
-
-[-] third class		<-->	noun++C2	[220818][001]	./ˌθɜːd ˈklɑːs/-NAmE /ˌθɜːrd ˈklæs/
+[-] third-class		<-->	adjective++C2	[220818][002]	./ˌθɜːd ˈklɑːs/-NAmE /ˌθɜːrd ˈklæs/ [240924]
 	;hạng C -- [uncountable, singular] the lowest standard of honours degree given by a British university
 
 
 
-[-] third-class		<-->	adjective++C2	[220818][001]	./ˌθɜːd ˈklɑːs/-NAmE /ˌθɜːrd ˈklæs/
-	;hạng C -- [uncountable, singular] the lowest standard of honours degree given by a British university
-
-
-
-[-] timetable		<-->	noun++A2	[220818][002]	./ˈtaɪmteɪbl/-NAmE /ˈtaɪmteɪbl/ [231230]
+[-] timetable		<-->	noun++A2	[220818][003]	./ˈtaɪmteɪbl/-NAmE /ˈtaɪmteɪbl/ [231230] [240924]
+	; -- (1) 
 	;thời khoá biểu -- (2) a chart or plan of the classes that a student or teacher has in school each week
 		;We have a new timetable each term.
 		;a full timetable of teaching
 		;Sport is no longer so important in the school timetable (= all the subjects that are taught at schools).
-		;TOPICS EducationA2
+		;TOPICS Education-A2
+	; -- (3) 
 
 
 
-[-] trade school		<-->	noun++C2	[220818][001]	./ˈtreɪd skuːl/-NAmE /ˈtreɪd skuːl/
-	;trường thương mại -- (North American English) a school where students go to learn a trade
+[-] trade school		<-->	noun++C2	[220818][002]	./ˈtreɪd skuːl/-NAmE /ˈtreɪd skuːl/ (North American English) [240924]
+	;trường thương mại -- (1) a school where students go to learn a trade
+		;Topics Education-c2
 
 
 
-[-] train		<-->	verb++A2	[220818][001]	./treɪn/-NAmE /treɪn/-\
-	;dạy, huấn luyện -- [transitive, intransitive] to teach a person or an animal the skills for a particular job or activity;to be taught in this way
+[-] train		<-->	verb++A2	[220818][002]	./cef/\ [240924]
+	;dạy, huấn luyện -- (1) [transitive, intransitive] to teach a person or an animal the skills for a particular job or activity; to be taught in this way
 		;train somebody/something highly trained professionals
 		;badly trained staff
 		;Specially trained coaches will provide support at no extra charge.
+		;He is well trained to complete any mission that he is given.
+		;train somebody/something to do something They train dogs to sniff out drugs.
+		;The crew are well trained to deal with emergencies.
+		;We trained our sales force to be sensitive to the needs of customers.
+		;train somebody as/in/for something The students are being trained for careers in big business.
+		;train as/in/for something He trained as a teacher before becoming an actor.
+		;All members of the team have trained in first aid.
+		;train to do/be something Sue is training to be a doctor.
+		;see also potty-train, toilet-train
+		;Topics Education-a2, Jobsa2
+	; -- (5) 
 
 
-
-[-] trainee		<-->	noun++B2	[220818][001]	./ˌtreɪˈniː/-NAmE /ˌtreɪˈniː/
-	;người được dạy kỹ năng, học viên -- a person who is being taught how to do a particular job
+[-] trainee		<-->	noun++B2	[220818][002]	./ˌtreɪˈniː/-NAmE /ˌtreɪˈniː/
+	;người được dạy kỹ năng, học viên -- (1) a person who is being taught how to do a particular job
 		;a management trainee
 		;a trainee teacher
 		;Many companies recruit graduate trainees to train as managers.
+		;Collocations Jobs
+		;Topics Education-b2, Jobsb2
+				;Oxford Collocations Dictionary
+				;adjective
+				;managementgraduatenew…
+				;verb + trainee
+				;employhirerecruit…
+				;trainee + verb
+				;work
+				;trainee + noun
+				;accountantmanagernurse…
+				;preposition
+				;as a trainee
+		;See full entry
 
 
 
-[-] training		<-->	noun++A2	[220818][001]	./ˈtreɪnɪŋ/-NAmE /ˈtreɪnɪŋ/
-	;quá trình học một kỹ năng -- [uncountable] the process of learning the skills that you need to do a job
+[-] training		<-->	noun++A2	[220818][002]	./cef/ [uncountable] [240924]
+	;quá trình học một kỹ năng -- (1) the process of learning the skills that you need to do a job
 		;staff training
 		;training in something Few candidates had received any training in management.
 		;training in doing something She has some training in dealing with children with emotional problems.
+		;training for somebody The company failed to provide adequate training for staff.
+		;Volunteers will undergo intensive training.
+		;a training course/session/programme
+		;Collocations Education
+		;Collocations Jobs
+		;Wordfinder
+		;apprenticecertificatecoachingcollegecourseinternprobationqualifytrainingwork experience
+		;Culture vocational training
+		;Extra Examples:
+		;Employees should be given training in safety procedures.
+		;He is good at selling, although he has had no formal training.
+		;New recruits undergo six weeks' basic training at the base.
+		;No one must operate the machinery without proper training.
+		;She's an accountant by training.
+		;The soldiers were building a bridge as a training exercise.
+		;This local newspaper has been a training ground for several top journalists.
+		;Training for nurses was on strictly formal lines.
+		;Using spreadsheets requires minimal training.
+		;You have to do a year's intensive training to become a paramedic.
+		;a teacher training college
+		;an army training base
+		;Please list any job-related training you have received.
+		;Various training activities will take place throughout the weekend.
+		;Vocational training should not be seen as less important than an academic education.
+		;Topics Education-a2, Jobsa2
+				;Oxford Collocations Dictionary
+				;adjective
+				;basicinitialpreliminary…
+				;verb + training
+				;attenddoget…
+				;training + verb
+				;prepare somebody for somethingfocus on somethingconsist of something…
+				;training + noun
+				;basecampcentre/​center…
+				;preposition
+				;by trainingin trainingtraining  for…
+				;phrases
+				;counselor in training
+		;See full entry
+	; -- (2) 
+
+
+[-] transcript		<-->	noun++C2	[220818][003]	./cef/ [230424] [orw.153] [240924]
+	; -- (1) 
+	;bảng điểm -- (2) ​(especially North American English) an official record of a student’s work that shows the courses they have taken and the grades they have achieved
+		;Topics Education-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;completeentirefull…
+				;verb + transcript
+				;readmakepost…
+		;See full entry
+		;Word Origin
 
 
 
-[-] transcript		<-->	noun++C2	[220818][002]	./ˈtrænskrɪpt/-NAmE /ˈtrænskrɪpt/ [230424] [orw.153]
-	;bảng điểm -- (especially North American English) an official record of a student’s work that shows the courses they have taken and the grades they have achieved
-
-
-
-[-] truant		<-->	verb++C1	[220818][002]	./ˈtruːənt/-NAmE /ˈtruːənt/-\ [intransitive] [t]
+[-] truant		<-->	verb++C1	[220818][002]	./ˈtruːənt/-NAmE /ˈtruːənt/-\ [intransitive] [240924]
 	;trốn học -- (1) (of a child) to stay away from school without permission
 		;A number of pupils have been truanting regularly.
-		;Topics Educationc1
+		;Topics Education-c1
 
 
 
-[-] truant		<-->	noun++C1	[220818][001]	./ˈtruːənt/-NAmE /ˈtruːənt/ [t] 
+[-] truant		<-->	noun++C1	[220818][001]	./ˈtruːənt/-NAmE /ˈtruːənt/ [240924] 
 	;đứa trẻ trốn học -- (1) a child who stays away from school without permission
 		;Topics Education-c1
 			;Oxford Collocations Dictionary
@@ -4188,7 +4320,7 @@
 
 
 
-[-] tutor		<-->	verb++B1	[220818][002]	./ˈtjuːtə(r)/-NAmE /ˈtuːtər/ [240326] [t]
+[-] tutor		<-->	verb++B1	[220818][002]	./ˈtjuːtə(r)/-NAmE /ˈtuːtər/ [240326] [240924]
 	;dạy kèm -- (1) ​[transitive] tutor somebody (in something) to be a tutor to an individual student or a small group; to teach somebody, especially privately
 		;He tutors students in mathematics.
 		;Topics Educationb2
@@ -4198,7 +4330,7 @@
 		;Word Origin
 
 
-[-] tutor		<-->	noun++B2	[220818][004]	./d/\ [240913] [t]
+[-] tutor		<-->	noun++B2	[220818][004]	./d/\ [240913] [240924]
 	;giáo viên dạy kèm -- (1) a private teacher, especially one who teaches an individual student or a very small group
 		;He worked as a tutor to the family's three young children.
 		;Extra Examples:
@@ -4257,7 +4389,7 @@
 		;Word Origin
 
 
-[-] tutorial		<-->	noun++B2	[220818][004]	./tjuːˈtɔːriəl/-NAmE /tuːˈtɔːriəl/ [240913] [t]
+[-] tutorial		<-->	noun++B2	[220818][004]	./tjuːˈtɔːriəl/-NAmE /tuːˈtɔːriəl/ [240913] [240924]
 	;khoảng thời gian học nhóm, thực tập, buổi hướng dẫn -- (1) a period of teaching in a university that involves discussion between an individual student or a small group of students and a tutor
 		;The total number of hours spent in lectures, tutorials and practicals varies according to the course of study.
 		;Wordfinder: degreedissertationeducationgraduatehall of residencelecturemajorseminartutorialuniversity
@@ -4301,7 +4433,7 @@
 
 
 
-[-] undergraduate		<-->	noun++C1	[220818][002]	./ˌʌndəˈɡrædʒuət/-NAmE /ˌʌndərˈɡrædʒuət/ (also informal undergrad  /ˈʌndəɡræd/  /ˈʌndərɡræd/) [t]
+[-] undergraduate		<-->	noun++C1	[220818][002]	./ˌʌndəˈɡrædʒuət/-NAmE /ˌʌndərˈɡrædʒuət/ (also informal undergrad  /ˈʌndəɡræd/  /ˈʌndərɡræd/) [240924]
 	;trường cao đẳng, đại học dạy năm đầu -- (1) a university or college student who is studying for their first degree
 		;a first-year undergraduate
 		;an undergraduate course/student/degree
@@ -4327,14 +4459,14 @@
 
 
 
-[-] upper school		<-->	noun++C1	[220818][002]	./ˈʌpə skuːl/-NAmE /ˈʌpər skuːl/ (British English) [t]
+[-] upper school		<-->	noun++C1	[220818][002]	./ˈʌpə skuːl/-NAmE /ˈʌpər skuːl/ (British English) [240924]
 	;trường cấp ba -- (1) a school, or the classes in a school, for older students, usually between the ages of 14 and 18
 		;compare lower school, middle school
 		;Topics Education-c1
 
 
 
-[-] vacation		<-->	noun++A2	[220818][002]	./cef/ [t]
+[-] vacation		<-->	noun++A2	[220818][002]	./cef/ [240924]
 	;kỳ nghỉ -- [countable] (in the UK) one of the periods of time when universities or courts of law are closed;(in the US) one of the periods of time when schools, colleges, universities or courts of law are closed
 		;the Christmas/Easter/summer vacation
 		;(British English) the long vacation (= the summer vacation)
@@ -4366,7 +4498,7 @@
 		;Word Origin
 
 
-[-] varsity		<-->	noun++C2	[220818][002]	./ˈvɑːsəti/-NAmE /ˈvɑːrsəti/ [countable, uncountable] (plural varsities) [t]
+[-] varsity		<-->	noun++C2	[220818][002]	./ˈvɑːsəti/-NAmE /ˈvɑːrsəti/ [countable, uncountable] (plural varsities) [240924]
 	;đội trình diễn của trường -- (1) ​(North American English) the main team that represents a college or high school, especially in sports competitions
 		;He made varsity as a wide receiver.
 		;Topics EDUCATION-C2
@@ -4375,7 +4507,7 @@
 
 
 
-[-] vice chancellor		<-->	noun++C2	[220818][002]	./ˌvaɪs ˈtʃɑːnsələ(r)/-NAmE /ˌvaɪs ˈtʃænsələr/ [t]
+[-] vice chancellor		<-->	noun++C2	[220818][002]	./ˌvaɪs ˈtʃɑːnsələ(r)/-NAmE /ˌvaɪs ˈtʃænsələr/ [240924]
 	;phó hiệu trưởng -- (1) the head of a university in England, Wales and Northern Ireland, who is in charge of the work of running the university. (Compare the chancellor, who is the official head of a university but only has duties at various ceremonies.)
 		;Culture
 		;Topics EDUCATION-C2
@@ -4386,7 +4518,7 @@
 
 
 
-[-] visiting		<-->	adjective++B2	[220818][002]	./ˈvɪzɪtɪŋ/-NAmE /ˈvɪzɪtɪŋ/ [only before noun] [t]
+[-] visiting		<-->	adjective++B2	[220818][002]	./ˈvɪzɪtɪŋ/-NAmE /ˈvɪzɪtɪŋ/ [only before noun] [240924]
 	;thỉnh, mời -- (1) a visiting professor or lecturer is one who is teaching for a fixed period at a particular university or college, but who normally teaches at another one
 		;Oxford Collocations Dictionary
 		;Visiting is used with these nouns:
@@ -4396,20 +4528,20 @@
 
 
 
-[-] viva		<-->	noun++C2	[220818][002]	./ˈvaɪvə/-NAmE /ˈvaɪvə/ (British English) (also viva voce British and North American English) (from Latin) [t]
+[-] viva		<-->	noun++C2	[220818][002]	./ˈvaɪvə/-NAmE /ˈvaɪvə/ (British English) (also viva voce British and North American English) (from Latin) [240924]
 	;kỳ thi nói -- (1) a spoken exam, especially in a British university
 		;Topics EDUCATION-C2
 
 
 
-[-] viva voce		<-->	noun++C2	[220818][002]	./ˌvaɪvə ˈvəʊtʃi/-NAmE /ˌvaɪvə ˈvəʊtʃi/ (British English also viva) (from Latin) [t]
+[-] viva voce		<-->	noun++C2	[220818][002]	./ˌvaɪvə ˈvəʊtʃi/-NAmE /ˌvaɪvə ˈvəʊtʃi/ (British English also viva) (from Latin) [240924]
 	;kỳ thi nói -- (1) ​a spoken exam, especially in a British university
 		;Topics EDUCATION-C2
 		;Word Origin
 
 
 
-[-] VLE		<-->	noun++C2	[220818][002]	./ˌviː el ˈiː/-NAmE /ˌviː el ˈiː/ (British English) [t]
+[-] VLE		<-->	noun++C2	[220818][002]	./ˌviː el ˈiː/-NAmE /ˌviː el ˈiː/ (British English) [240924]
 	;phần mềm giảng dạy -- (1) a software system for teaching and learning using the internet (the abbreviation for ‘virtual learning environment’)
 		;the effective use of VLEs
 		;the challenges facing schools when they implement VLEs
@@ -4417,7 +4549,7 @@
 
 
 
-[-] vocational		<-->	adjective++C1	[220818][003]	./d/ [240403] [t]
+[-] vocational		<-->	adjective++C1	[220818][003]	./d/ [240403] [240924]
 	;có nghề -- (1) connected with the skills, knowledge, etc. that you need to have in order to do a particular job
 		;vocational education/qualifications/training
 		;Topics EDUCATION-C1, Jobsc1
@@ -4429,7 +4561,7 @@
 
 
 
-[-] weighting		<-->	noun++C2	[220818][002]	./ˈweɪtɪŋ/-NAmE /ˈweɪtɪŋ/ [t]
+[-] weighting		<-->	noun++C2	[220818][002]	./ˈweɪtɪŋ/-NAmE /ˈweɪtɪŋ/ [240924]
 	; -- (1) 
 	;trọng số -- (2) [countable, uncountable] a value that you give to each of a number of things to show how important it is compared with the others
 		;Each of the factors is given a weighting on a scale of 1 to 10.
@@ -4438,20 +4570,20 @@
 
 
 
-[-] whiteboard		<-->	noun++B1	[220818][003]	./ˈwaɪtbɔːd/-NAmE /ˈwaɪtbɔːrd/ [t]
+[-] whiteboard		<-->	noun++B1	[220818][003]	./ˈwaɪtbɔːd/-NAmE /ˈwaɪtbɔːrd/ [240924]
 	;bảng trắng, viết bằng bút máy -- (1) a large board with a smooth white surface that teachers, etc. write on with special pens
 		;compare blackboard
 		;Topics EDUCATION-B1
 	; -- (2) 
 
 
-[-] workbook		<-->	noun++B2	[220818][003]	./ˈwɜːkbʊk/-NAmE /ˈwɜːrkbʊk/ (North American English also exercise book) [t]
+[-] workbook		<-->	noun++B2	[220818][003]	./ˈwɜːkbʊk/-NAmE /ˈwɜːrkbʊk/ (North American English also exercise book) [240924]
 	;sách bài tập -- (1) a book with exercises in it, often with spaces for students to write answers in, to help them practise what they have learnt
 		;Topics EDUCATION-B2
 
 
 
-[-] worksheet		<-->	noun++B2	[220818][003]	./ˈwɜːkʃiːt/-NAmE /ˈwɜːrkʃiːt/ [t]
+[-] worksheet		<-->	noun++B2	[220818][003]	./ˈwɜːkʃiːt/-NAmE /ˈwɜːrkʃiːt/ [240924]
 	;bảng tính -- (1) a piece of paper or an electronic document on which there is a series of questions and exercises to be done by a student
 		;Topics EDUCATION-B2
 	; -- (2) 
@@ -4462,7 +4594,7 @@
 
 
 
-[-] yearbook		<-->	noun++C2	[220818][003]	./ˈjɪəbʊk/-NAmE /ˈjɪrbʊk/ [t]
+[-] yearbook		<-->	noun++C2	[220818][003]	./ˈjɪəbʊk/-NAmE /ˈjɪrbʊk/ [240924]
 	; -- (1) 
 	;niên giám -- (2) ​(especially North American English) a book that is produced by the senior class in a school or college, containing photographs of students and details of school activities
 		;Topics EDUCATION-C2
