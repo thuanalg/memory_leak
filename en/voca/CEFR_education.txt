@@ -4162,14 +4162,25 @@
 
 
 
-[-] truant		<-->	verb++C1	[220818][001]	./ˈtruːənt/-NAmE /ˈtruːənt/-\ [intransitive]
-	;trốn học -- (of a child) to stay away from school without permission
+[-] truant		<-->	verb++C1	[220818][002]	./ˈtruːənt/-NAmE /ˈtruːənt/-\ [intransitive] [t]
+	;trốn học -- (1) (of a child) to stay away from school without permission
 		;A number of pupils have been truanting regularly.
+		;Topics Educationc1
 
 
 
-[-] truant		<-->	noun++C1	[220818][001]	./ˈtruːənt/-NAmE /ˈtruːənt/
-	;đứa trẻ trốn học -- a child who stays away from school without permission
+[-] truant		<-->	noun++C1	[220818][001]	./ˈtruːənt/-NAmE /ˈtruːənt/ [t] 
+	;đứa trẻ trốn học -- (1) a child who stays away from school without permission
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;persistentschool
+				;verb + truant
+				;play
+				;truant + noun
+				;officer
+		;See full entry
+		;Word Origin
 
 
 
@@ -4177,20 +4188,77 @@
 
 
 
-[-] tutor		<-->	noun++B1	[220818][001]	./d/ [240326]
-	;gia sư -- a private teacher, especially one who teaches an individual student or a very small group
-		;He worked as a tutor to the family's three young children.
-
-
-
-[-] tutor		<-->	verb++B2	[220818][003]	./ˈtjuːtə(r)/-NAmE /ˈtuːtər/\ [240913]
-	;dạy kèm -- [transitive] tutor somebody (in something) to be a tutor to an individual student or a small group;to teach somebody, especially privately
+[-] tutor		<-->	verb++B1	[220818][002]	./ˈtjuːtə(r)/-NAmE /ˈtuːtər/ [240326] [t]
+	;dạy kèm -- (1) ​[transitive] tutor somebody (in something) to be a tutor to an individual student or a small group; to teach somebody, especially privately
 		;He tutors students in mathematics.
+		;Topics Educationb2
+	; -- (2) [intransitive] to work as a tutor
+		;Her work was divided between tutoring and research.
+		;Topics Educationb2
+		;Word Origin
 
 
+[-] tutor		<-->	noun++B2	[220818][004]	./d/\ [240913] [t]
+	;giáo viên dạy kèm -- (1) a private teacher, especially one who teaches an individual student or a very small group
+		;He worked as a tutor to the family's three young children.
+		;Extra Examples:
+		;He became tutor to the prince.
+		;His father hired a private tutor for him.
+		;Children who miss a lot of schoolwork through illness are usually allowed a home tutor.
+		;Topics Education-b1, Jobsb1
+				;Oxford Collocations Dictionary
+				;adjective
+				;goodfull-timepart-time…
+				;verb + tutor
+				;act asbecomeemploy…
+				;preposition
+				;tutor fortutor intutor to…
+		;See full entry
+	; -- (2) ​(especially British English) a teacher whose job is to pay special attention to the studies or health, etc. of a student or a group of students
+		;his history tutor
+		;He was my personal tutor at university.
+		;She's in my tutor group at school.
+		;Extra Examples:
+		;a tutor in mathematics
+		;Who's your form tutor?
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;goodfull-timepart-time…
+				;verb + tutor
+				;act asbecomeemploy…
+				;preposition
+				;tutor fortutor intutor to…
+		;See full entry
+	; -- (3) ​(British English) a teacher, especially one who teaches adults or who has a special role in a school or college
+		;a part-time adult education tutor
+		;advanced students who act as peer tutors
+		;Topics Education-b1, Jobsb1
+				;Oxford Collocations Dictionary
+				;adjective
+				;goodfull-timepart-time…
+				;verb + tutor
+				;act asbecomeemploy…
+				;preposition
+				;tutor fortutor intutor to…
+		;See full entry
+	; -- (4) ​(North American English) an assistant lecturer in a college
+		;Topics Education-b2, Jobsb2
+				;Oxford Collocations Dictionary
+				;adjective
+				;goodfull-timepart-time…
+				;verb + tutor
+				;act asbecomeemploy…
+				;preposition
+				;tutor fortutor intutor to…
+		;See full entry
+	;sách dạy -- (5) a book of instruction in a particular subject, especially music
+		;a violin tutor
+		;Word Origin
 
-[-] tutorial		<-->	noun++B2	[220818][003]	./tjuːˈtɔːriəl/-NAmE /tuːˈtɔːriəl/ [240913]
-	;khoảng thời gian học nhóm, thực tập -- (1) a period of teaching in a university that involves discussion between an individual student or a small group of students and a tutor
+
+[-] tutorial		<-->	noun++B2	[220818][004]	./tjuːˈtɔːriəl/-NAmE /tuːˈtɔːriəl/ [240913] [t]
+	;khoảng thời gian học nhóm, thực tập, buổi hướng dẫn -- (1) a period of teaching in a university that involves discussion between an individual student or a small group of students and a tutor
 		;The total number of hours spent in lectures, tutorials and practicals varies according to the course of study.
 		;Wordfinder: degreedissertationeducationgraduatehall of residencelecturemajorseminartutorialuniversity
 		;Extra Examples:
@@ -4199,7 +4267,7 @@
 		;Amy and I have tutorials together.
 		;I need to prepare for my tutorial.
 		;Students have to write an essay for each weekly tutorial.
-		;TOPICS EDUCATIOnB2
+		;TOPICS EDUCATIOn-B2
 			;Oxford Collocations Dictionary
 			;adjective
 				;groupindividual
@@ -4233,13 +4301,21 @@
 
 
 
-[-] undergraduate		<-->	noun++C1	[220818][001]	./ˌʌndəˈɡrædʒuət/-NAmE /ˌʌndərˈɡrædʒuət/
-	;trường cao đẳng, đại học dạy năm đầu -- (also informal undergrad /ˈʌndəɡræd/ /ˈʌndərɡræd/) a university or college student who is studying for their first degree
+[-] undergraduate		<-->	noun++C1	[220818][002]	./ˌʌndəˈɡrædʒuət/-NAmE /ˌʌndərˈɡrædʒuət/ (also informal undergrad  /ˈʌndəɡræd/  /ˈʌndərɡræd/) [t]
+	;trường cao đẳng, đại học dạy năm đầu -- (1) a university or college student who is studying for their first degree
 		;a first-year undergraduate
 		;an undergraduate course/student/degree
 		;She teaches physics at undergraduate level.
 		;during her undergraduate years at the University of California
 		;memoirs of his undergraduate career at the University of Toronto
+		;More About students
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;collegeuniversityHarvard…
+				;undergraduate + noun
+				;coursecurriculumdegree…
+		;See full entry
 
 
 
@@ -4251,17 +4327,43 @@
 
 
 
-[-] upper school		<-->	noun++C1	[220818][001]	./ˈʌpə skuːl/-NAmE /ˈʌpər skuːl/
-	;trường cấp ba -- (British English) a school, or the classes in a school, for older students, usually between the ages of 14 and 18
+[-] upper school		<-->	noun++C1	[220818][002]	./ˈʌpə skuːl/-NAmE /ˈʌpər skuːl/ (British English) [t]
+	;trường cấp ba -- (1) a school, or the classes in a school, for older students, usually between the ages of 14 and 18
+		;compare lower school, middle school
+		;Topics Education-c1
 
 
 
-[-] vacation		<-->	noun++A2	[220818][001]	./veɪˈkeɪʃn/, /vəˈkeɪʃn/-NAmE /veɪˈkeɪʃn/, /vəˈkeɪʃn/
+[-] vacation		<-->	noun++A2	[220818][002]	./cef/ [t]
 	;kỳ nghỉ -- [countable] (in the UK) one of the periods of time when universities or courts of law are closed;(in the US) one of the periods of time when schools, colleges, universities or courts of law are closed
 		;the Christmas/Easter/summer vacation
 		;(British English) the long vacation (= the summer vacation)
 		;during/in the vacation I got a full-time job during the vacation.
-
+	; -- (2) [countable] (in the UK) one of the periods of time when universities or courts of law are closed; (in the US) one of the periods of time when schools, colleges, universities or courts of law are closed
+		;the Christmas/Easter/summer vacation
+		;(British English) the long vacation (= the summer vacation)
+		;during/in the vacation I got a full-time job during the vacation.
+		;see also vac
+		;Extra Examples:
+		;I wrote the essay during the Christmas vacation.
+		;I'm going travelling in the vacation.
+		;Most students get vacation jobs.
+		;She went home to her parents for the Easter vacation.
+		;Students had a two-week vacation at the end of December.
+		;The long summer vacation breaks the rhythm of instruction.
+		;The schools were closed for summer vacation.
+		;Topics Education-a2
+				;Oxford Collocations Dictionary
+				;adjective
+				;schoolpaidspring…
+				;verb + vacation
+				;use
+				;vacation + noun
+				;dayleavetime…
+				;preposition
+				;on vacation
+		;See full entry
+		;Word Origin
 
 
 [-] varsity		<-->	noun++C2	[220818][002]	./ˈvɑːsəti/-NAmE /ˈvɑːrsəti/ [countable, uncountable] (plural varsities) [t]
