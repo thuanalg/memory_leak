@@ -2715,21 +2715,26 @@
 
 
 
-[-] wild		<-->	adjective++A2	[220916][001]	./waɪld/-NAmE /waɪld/
-	;hoang, dại, không có tương tác của con người -- (comparative wilder, superlative wildest) (animals/plants) living or growing in natural conditions; not kept in a house or on a farm
+[-] wild		<-->	adjective++A2	[220916][002]	./waɪld/-NAmE /waɪld/ (comparative wilder, superlative wildest) [t]
+	;hoang, dại, không có tương tác của con người -- (1) [-animals/plants] living or growing in natural conditions; not kept in a house or on a farm
 		;wild animals/birds/flowers
 		;wild salmon
 		;wild mushrooms/rice
 		;The plants grow wild along the banks of rivers.
 		;Their aim is to document wild populations of fast-disappearing species.
 		;a wild boar
-		;TOPICS AnimalsA2, PLANTS AND TREEsA2
-		;Extra Examples
-		;Oxford Collocations Dictionary
-			;verbs
-				;be, grow, live…
-			;adverb
+		;Topics Animalsa2, PLANTS AND TREES-A2
+		;Extra Examples:
+		;The dogs live wild on the streets.
+		;The flowers grow wild in the mountains.
+		;a wild rabbit
+		;wild strawberries
+				;Oxford Collocations Dictionary
+				;verbs
+				;begrowlive…
+				;adverb
 				;truly
+		;See full entry
 	; -- (8) 
 
 
@@ -2789,17 +2794,18 @@
 
 
 
-[-] yew		<-->	noun++C2	[221028][001]	./juː/-NAmE /juː/
-	;cây thuỷ tùng -- [image]	[countable, uncountable] (also yew tree [countable]) a small tree with dark green leaves and small red berries
-		;TOPICS PLANTS AND TREEsC2
+[-] yew		<-->	noun++C2	[221028][002]	./juː/-NAmE /juː/
+	;cây thuỷ tùng -- (1) [image] [countable, uncountable] (also yew tree [countable]) a small tree with dark green leaves and small red berries
+		;Topics PLANTS AND TREES-C2
+	; -- (2) 
 
 
 
 
-
-[-] yuzu		<-->	noun++C2	[221028][001]	./ˈjuːzuː/-NAmE /ˈjuːzuː/
-	;cây quít, quả quít -- a tree on which yuzus grow
+[-] yuzu		<-->	noun++C2	[221028][002]	./ˈjuːzuː/-NAmE /ˈjuːzuː/ (plural yuzu or yuzus)
+(from Japanese) [t]
+	;cây quít, quả quít -- (1) a tree on which yuzus grow
 		;I'm still trying to find a yuzu tree for our conservatory.
-		;TOPICS PLANTS AND TREEsC2
+		;TOPICS PLANTS AND TREES-C2
 
 [[[PLANTS AND TREES]]]<<<<<------- 
