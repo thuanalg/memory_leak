@@ -466,7 +466,7 @@
 
 [-] chalkboard		<-->	noun++C1	[220818][002]	./ˈtʃɔːkbɔːd/-NAmE /ˈtʃɔːkbɔːrd/ (especially North American English) (also blackboard British and North American English) [230907]
 	;bảng đen -- (1) a large board with a smooth black or dark green surface that teachers write on with a piece of chalk
-		;TOPICS Education-C1
+		;TOPICS EDUCATION-C1
 
 
 [-] chancellor		<-->	noun++C2	[221118][001]	./ˈtʃɑːnsələ(r)/-NAmE /ˈtʃænsələr/ (also Chancellor) (often used in a title)
@@ -495,7 +495,7 @@
 		;a tiny chapel in the mountains
 		;the school chapel
 		;They were married in a wedding chapel in Las Vegas.
-		;TOPICS Religion and festivalsC2, BuildingsC2, Education-C2
+		;TOPICS Religion and festivalsC2, BuildingsC2, EDUCATION-C2
 			;Oxford Collocations Dictionary
 			;adjective
 				;littlesmallside…
@@ -1358,7 +1358,7 @@
 		;Many local people felt excluded from decisions that affected their own community.
 		;Certain groups tend to be excluded from full participation in society.
 		;The measure would serve to exclude certain voters.
-		;TOPICS Education-B2
+		;TOPICS EDUCATION-B2
 			;Oxford Collocations Dictionary
 			;adverb
 				;altogether, completely, entirely…
@@ -1516,7 +1516,7 @@
 	; -- (2) 
 	;thành viên -- (3) (British English) a senior member of some colleges or universities
 		;She's a fellow of New College, Oxford.
-		;TOPICS Education-C2
+		;TOPICS EDUCATION-C2
 			;Oxford Collocations Dictionary
 			;adjective
 				;juniorseniorhonorary…
@@ -1530,7 +1530,7 @@
 		;a graduate fellow
 		;Kate Mills is a postdoctoral research fellow in art and design at the University of Ulster, Belfast.
 		;He became a teaching fellow at the University of Texas.
-		;TOPICS Education-C2
+		;TOPICS EDUCATION-C2
 
 
 [-] field day		<-->	noun++C1	[220818][001]	./ˈfiːld deɪ/-NAmE /ˈfiːld deɪ/
@@ -2415,7 +2415,7 @@
 		;Extra Examples:
 		;Only highly literate people are capable of discussing these subjects.
 		;They are the first fully literate generation in the country.
-		;TOPICS Education-C1
+		;TOPICS EDUCATION-C1
 			;Oxford Collocations Dictionary
 			;verbs
 				;bebecome
@@ -2428,7 +2428,7 @@
 		;to be scientifically/financially literate
 		;Employees today are more digitally literate and connected than ever.
 		;SEE ALSO computer-literate
-		;TOPICS Education-C1
+		;TOPICS EDUCATION-C1
 		;Word Origin
 
 
@@ -3845,7 +3845,7 @@
 		;a studious young man
 		;He liked to wear glasses, which he thought made him look studious.
 		;She was a quiet, studious girl.
-		;TOPICS Education-C2
+		;TOPICS EDUCATION-C2
 
 
 
@@ -4264,73 +4264,95 @@
 
 
 
-[-] varsity		<-->	noun++C2	[220818][001]	./ˈvɑːsəti/-NAmE /ˈvɑːrsəti/
-	;đội trình diễn của trường -- [countable, uncountable] (plural varsities) (North American English) the main team that represents a college or high school, especially in sports competitions
+[-] varsity		<-->	noun++C2	[220818][002]	./ˈvɑːsəti/-NAmE /ˈvɑːrsəti/ [countable, uncountable] (plural varsities) [t]
+	;đội trình diễn của trường -- (1) ​(North American English) the main team that represents a college or high school, especially in sports competitions
 		;He made varsity as a wide receiver.
+		;Topics EDUCATION-C2
+		;He made varsity as a wide receiver.
+	; -- (2) 
 
 
 
-[-] vice chancellor		<-->	noun++C2	[220818][001]	./ˌvaɪs ˈtʃɑːnsələ(r)/-NAmE /ˌvaɪs ˈtʃænsələr/
-	;Hiệu phó điều hành -- the head of a university in England, Wales and Northern Ireland, who is in charge of the work of running the university. (Compare the chancellor, who is the official head of a university but only has duties at various ceremonies.)
+[-] vice chancellor		<-->	noun++C2	[220818][002]	./ˌvaɪs ˈtʃɑːnsələ(r)/-NAmE /ˌvaɪs ˈtʃænsələr/ [t]
+	;phó hiệu trưởng -- (1) the head of a university in England, Wales and Northern Ireland, who is in charge of the work of running the university. (Compare the chancellor, who is the official head of a university but only has duties at various ceremonies.)
+		;Culture
+		;Topics EDUCATION-C2
+				;Oxford Collocations Dictionary
+				;Vice chancellor is used after these nouns:
+				;university
+		;See full entry
 
 
 
-[-] visiting		<-->	adjective++B2	[220818][001]	./ˈvɪzɪtɪŋ/-NAmE /ˈvɪzɪtɪŋ/
-	;thỉnh, mời -- [only before noun]a visiting professor or lecturer is one who is teaching for a fixed period at a particular university or college, but who normally teaches at another one
+[-] visiting		<-->	adjective++B2	[220818][002]	./ˈvɪzɪtɪŋ/-NAmE /ˈvɪzɪtɪŋ/ [only before noun] [t]
+	;thỉnh, mời -- (1) a visiting professor or lecturer is one who is teaching for a fixed period at a particular university or college, but who normally teaches at another one
+		;Oxford Collocations Dictionary
+		;Visiting is used with these nouns:
+		;celebrityfanfellow…
+		;See full entry
+		;Topics EDUCATION-B2
 
 
 
-[-] viva		<-->	noun++C2	[220818][001]	./ˈvaɪvə/-NAmE /ˈvaɪvə/
-	;kỳ thi nói -- (British English)(also viva voce British and North American English)(from Latin) a spoken exam, especially in a British university
+[-] viva		<-->	noun++C2	[220818][002]	./ˈvaɪvə/-NAmE /ˈvaɪvə/ (British English) (also viva voce British and North American English) (from Latin) [t]
+	;kỳ thi nói -- (1) a spoken exam, especially in a British university
+		;Topics EDUCATION-C2
 
 
 
-[-] viva voce		<-->	noun++C2	[220818][001]	./ˌvaɪvə ˈvəʊtʃi/-NAmE /ˌvaɪvə ˈvəʊtʃi/
-	;kỳ thi nói -- (British English also viva) (from Latin)
-		;a spoken exam, especially in a British university
+[-] viva voce		<-->	noun++C2	[220818][002]	./ˌvaɪvə ˈvəʊtʃi/-NAmE /ˌvaɪvə ˈvəʊtʃi/ (British English also viva) (from Latin) [t]
+	;kỳ thi nói -- (1) ​a spoken exam, especially in a British university
+		;Topics EDUCATION-C2
+		;Word Origin
 
 
 
-[-] vLE		<-->	noun++C2	[220818][001]	./ˌviː el ˈiː/-NAmE /ˌviː el ˈiː/
-	;phần mềm giảng dạy -- (British English) a software system for teaching and learning using the internet (the abbreviation for ‘virtual learning environment’)
+[-] VLE		<-->	noun++C2	[220818][002]	./ˌviː el ˈiː/-NAmE /ˌviː el ˈiː/ (British English) [t]
+	;phần mềm giảng dạy -- (1) a software system for teaching and learning using the internet (the abbreviation for ‘virtual learning environment’)
 		;the effective use of VLEs
 		;the challenges facing schools when they implement VLEs
+		;Topics EDUCATION-C2, Phones, email and the internetc2
 
 
 
-[-] vocational		<-->	adjective++C1	[220818][002]	./d/ [240403]
-	;có nghề -- connected with the skills, knowledge, etc. that you need to have in order to do a particular job
+[-] vocational		<-->	adjective++C1	[220818][003]	./d/ [240403] [t]
+	;có nghề -- (1) connected with the skills, knowledge, etc. that you need to have in order to do a particular job
 		;vocational education/qualifications/training
-
+		;Topics EDUCATION-C1, Jobsc1
 
 
 [-] vocational school		<-->	noun++C1	[220818][003]	./vəʊˈkeɪʃənl skuːl/-NAmE /vəʊˈkeɪʃənl skuːl/ [countable, uncountable] [240405]
 	;trường dạy nghề -- (1) (in the US) a school that teaches skills that are necessary for particular jobs
-		;TOPICS EducationC1
+		;TOPICS EDUCATION-C1
 
 
 
-[-] weighting		<-->	noun++C2	[220818][001]	./ˈweɪtɪŋ/-NAmE /ˈweɪtɪŋ/
-	;trọng lượng -- [countable, uncountable] a value that you give to each of a number of things to show how important it is compared with the others
+[-] weighting		<-->	noun++C2	[220818][002]	./ˈweɪtɪŋ/-NAmE /ˈweɪtɪŋ/ [t]
+	; -- (1) 
+	;trọng số -- (2) [countable, uncountable] a value that you give to each of a number of things to show how important it is compared with the others
 		;Each of the factors is given a weighting on a scale of 1 to 10.
 		;Each question in the exam has equal weighting.
+		;Topics EDUCATION-C2
 
 
 
-[-] whiteboard		<-->	noun++B1	[220818][003]	./ˈwaɪtbɔːd/-NAmE /ˈwaɪtbɔːrd/
-	;bảng trắng, viết bằng bút máy -- a large board with a smooth white surface that teachers, etc. write on with special pens
-		;COMPARE blackboard
+[-] whiteboard		<-->	noun++B1	[220818][003]	./ˈwaɪtbɔːd/-NAmE /ˈwaɪtbɔːrd/ [t]
+	;bảng trắng, viết bằng bút máy -- (1) a large board with a smooth white surface that teachers, etc. write on with special pens
+		;compare blackboard
+		;Topics EDUCATION-B1
+	; -- (2) 
+
+
+[-] workbook		<-->	noun++B2	[220818][003]	./ˈwɜːkbʊk/-NAmE /ˈwɜːrkbʊk/ (North American English also exercise book) [t]
+	;sách bài tập -- (1) a book with exercises in it, often with spaces for students to write answers in, to help them practise what they have learnt
+		;Topics EDUCATION-B2
 
 
 
-[-] workbook		<-->	noun++B2	[220818][002]	./ˈwɜːkbʊk/-NAmE /ˈwɜːrkbʊk/
-	;sách bài tập -- (North American English also exercise book) a book with exercises in it, often with spaces for students to write answers in, to help them practise what they have learnt
-
-
-
-[-] worksheet		<-->	noun++B2	[220818][002]	./ˈwɜːkʃiːt/-NAmE /ˈwɜːrkʃiːt/
-	;bảng tính -- a piece of paper or an electronic document on which there is a series of questions and exercises to be done by a student
-
+[-] worksheet		<-->	noun++B2	[220818][003]	./ˈwɜːkʃiːt/-NAmE /ˈwɜːrkʃiːt/ [t]
+	;bảng tính -- (1) a piece of paper or an electronic document on which there is a series of questions and exercises to be done by a student
+		;Topics EDUCATION-B2
+	; -- (2) 
 
 
 
@@ -4338,7 +4360,9 @@
 
 
 
-[-] yearbook		<-->	noun++C2	[220818][002]	./ˈjɪəbʊk/-NAmE /ˈjɪrbʊk/
-	;lưu ký -- (especially North American English) a book that is produced by the senior class in a school or college, containing photographs of students and details of school activities
+[-] yearbook		<-->	noun++C2	[220818][003]	./ˈjɪəbʊk/-NAmE /ˈjɪrbʊk/ [t]
+	; -- (1) 
+	;niên giám -- (2) ​(especially North American English) a book that is produced by the senior class in a school or college, containing photographs of students and details of school activities
+		;Topics EDUCATION-C2
 
 [[[EDUCATION]]]<<<<<-------
