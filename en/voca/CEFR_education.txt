@@ -833,9 +833,9 @@
 		;He took some advanced courses to earn college credits.
 		;TOPICS EDUCATIOnC2
 			;Oxford Collocations Dictionary
-				;adjective
+			;adjective
 				;coursecollege
-				;verb + credit
+			;verb + credit
 				;earnawardgrant…
 				;credit + noun
 				;hour
@@ -2805,7 +2805,7 @@
 		;These features can be offered as an optional part of the package.
 		;TOPICS EducationB2
 			;Oxford Collocations Dictionary
-				;verbs
+			;verbs
 				;bemake something
 			;adverb
 				;entirelypurely
@@ -4172,10 +4172,10 @@
 [-] truant		<-->	noun++C1	[220818][001]	./ˈtruːənt/-NAmE /ˈtruːənt/ [t] 
 	;đứa trẻ trốn học -- (1) a child who stays away from school without permission
 		;Topics Education-c1
-				;Oxford Collocations Dictionary
-				;adjective
+			;Oxford Collocations Dictionary
+			;adjective
 				;persistentschool
-				;verb + truant
+			;verb + truant
 				;play
 				;truant + noun
 				;officer
@@ -4206,12 +4206,12 @@
 		;His father hired a private tutor for him.
 		;Children who miss a lot of schoolwork through illness are usually allowed a home tutor.
 		;Topics Education-b1, Jobsb1
-				;Oxford Collocations Dictionary
-				;adjective
+			;Oxford Collocations Dictionary
+			;adjective
 				;goodfull-timepart-time…
-				;verb + tutor
+			;verb + tutor
 				;act asbecomeemploy…
-				;preposition
+			;preposition
 				;tutor fortutor intutor to…
 		;See full entry
 	; -- (2) ​(especially British English) a teacher whose job is to pay special attention to the studies or health, etc. of a student or a group of students
@@ -4222,34 +4222,34 @@
 		;a tutor in mathematics
 		;Who's your form tutor?
 		;Topics Education-b2
-				;Oxford Collocations Dictionary
-				;adjective
+			;Oxford Collocations Dictionary
+			;adjective
 				;goodfull-timepart-time…
-				;verb + tutor
+			;verb + tutor
 				;act asbecomeemploy…
-				;preposition
+			;preposition
 				;tutor fortutor intutor to…
 		;See full entry
 	; -- (3) ​(British English) a teacher, especially one who teaches adults or who has a special role in a school or college
 		;a part-time adult education tutor
 		;advanced students who act as peer tutors
 		;Topics Education-b1, Jobsb1
-				;Oxford Collocations Dictionary
-				;adjective
+			;Oxford Collocations Dictionary
+			;adjective
 				;goodfull-timepart-time…
-				;verb + tutor
+			;verb + tutor
 				;act asbecomeemploy…
-				;preposition
+			;preposition
 				;tutor fortutor intutor to…
 		;See full entry
 	; -- (4) ​(North American English) an assistant lecturer in a college
 		;Topics Education-b2, Jobsb2
-				;Oxford Collocations Dictionary
-				;adjective
+			;Oxford Collocations Dictionary
+			;adjective
 				;goodfull-timepart-time…
-				;verb + tutor
+			;verb + tutor
 				;act asbecomeemploy…
-				;preposition
+			;preposition
 				;tutor fortutor intutor to…
 		;See full entry
 	;sách dạy -- (5) a book of instruction in a particular subject, especially music
@@ -4310,8 +4310,8 @@
 		;memoirs of his undergraduate career at the University of Toronto
 		;More About students
 		;Topics Education-c1
-				;Oxford Collocations Dictionary
-				;adjective
+			;Oxford Collocations Dictionary
+			;adjective
 				;collegeuniversityHarvard…
 				;undergraduate + noun
 				;coursecurriculumdegree…
@@ -4353,14 +4353,14 @@
 		;The long summer vacation breaks the rhythm of instruction.
 		;The schools were closed for summer vacation.
 		;Topics Education-a2
-				;Oxford Collocations Dictionary
-				;adjective
+			;Oxford Collocations Dictionary
+			;adjective
 				;schoolpaidspring…
-				;verb + vacation
+			;verb + vacation
 				;use
 				;vacation + noun
 				;dayleavetime…
-				;preposition
+			;preposition
 				;on vacation
 		;See full entry
 		;Word Origin
@@ -4379,7 +4379,7 @@
 	;phó hiệu trưởng -- (1) the head of a university in England, Wales and Northern Ireland, who is in charge of the work of running the university. (Compare the chancellor, who is the official head of a university but only has duties at various ceremonies.)
 		;Culture
 		;Topics EDUCATION-C2
-				;Oxford Collocations Dictionary
+			;Oxford Collocations Dictionary
 				;Vice chancellor is used after these nouns:
 				;university
 		;See full entry
