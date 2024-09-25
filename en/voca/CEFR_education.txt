@@ -329,9 +329,13 @@
 
 
 
-[-] boarding school		<-->	noun++B2	[220818][001]	./ˈbɔːdɪŋ skuːl/-NAmE /ˈbɔːrdɪŋ skuːl/
-	;trường nội trú -- a school where children can live during the school year
-		;COMPARE day school
+[-] boarding school		<-->	noun++B2	[220818][002]	./ˈbɔːdɪŋ skuːl/-NAmE /ˈbɔːrdɪŋ skuːl/ [240925]
+	;trường nội trú -- (1) a school where children can live during the school year
+		;compare day school
+		;Topics Education-b2
+		;More Like This
+		;Compound nouns with –ing forms: airing cupboardanswering machineasking pricebaking powderbetting shopboarding schoolbooking officebowling alleybreathing spacebreeding groundchanging roomclotting factorcutting roomdraining boarddrinking watereating applehousing estateicing sugarliving roommeeting placenursing homepunching bagracing carsleeping pillstarting pointtuning forkwaiting roomworking party
+
 
 
 
@@ -366,9 +370,15 @@
 
 
 [-] bunk off school		<-->	phrasal verb++C2	[221118]	./p/
-	;rời trường không hợp lệ -- (British English, informal) to stay away from school or work when you should be there;to leave school or work early;SYNONYM skive, play truant
+	;trốn học -- (1) [-bunk off | bunk off school/work] ​(British English, informal) to stay away from school or work when you should be there; to leave school or work early
+		;synonym skive, play truant
 		;I’m going to bunk off this afternoon.
 		;She had bunked off work all week.
+		;Topics Educationc2
+				;Oxford Collocations Dictionary
+				;Bunk off is used with these nouns as the object:
+				;school
+		;See full entry
 
 
 
@@ -383,7 +393,7 @@
 	;học bổng -- (1) an amount of money that is given to somebody so that they can study, usually at a college or university
 		;SYNONYM grant, scholarship
 		;<<grant, scholarship, bursary, >> 
-		;TOPICS EducationC2
+		;TOPICS Education-C2
 			;Oxford Collocations Dictionary
 			;adjective
 				;sportstravel
@@ -393,8 +403,14 @@
 		;Word Origin
 
 
-[-] business school		<-->	noun++B1	[220818][001]	./ˈbɪznəs skuːl/-NAmE /ˈbɪznəs skuːl/
-	;trường kinh doanh -- a part of a college or university that teaches business, often to graduates (= people who already have a first degree)
+[-] business school		<-->	noun++B1	[220818][002]	./ˈbɪznəs skuːl/-NAmE /ˈbɪznəs skuːl/ [240925]
+	;trường kinh doanh -- (1) a part of a college or university that teaches business, often to graduates (= people who already have a first degree)
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;Business school is used before these nouns:
+				;graduate
+		;See full entry
+
 
 
 
@@ -805,14 +821,18 @@
 
 
 
-[-] coursebook		<-->	noun++C1	[220818][002]	./ˈkɔːsbʊk/-NAmE /ˈkɔːrsbʊk/ [240606]
-	;sách cho môn học tại trường -- (British English) a book for studying from, used regularly on a particular course of study
+[-] coursebook		<-->	noun++C1	[220818][002]	./ˈkɔːsbʊk/-NAmE /ˈkɔːrsbʊk/ (British English) [240606] [t]
+	;sách giáo trình -- (1) a book for studying from, used regularly on a particular course of study
+		;Topics Education-c1
 
 
 
-[-] coursework		<-->	noun++B2	[220818][001]	./ˈkɔːswɜːk/-NAmE /ˈkɔːrswɜːrk/
-	;sự tham gia lớp học -- [uncountable] work that students do during a course of study, not in exams, that is included in their final mark
+
+[-] coursework		<-->	noun++B2	[220818][002]	./ˈkɔːswɜːk/-NAmE /ˈkɔːrswɜːrk/ [uncountable] [t]
+	;bài tập về nhà -- (1) ​work that students do during a course of study, not in exams, that is included in their final mark
 		;Coursework accounts for 40 per cent of the final marks.
+		;Topics Educationb2
+
 
 
 
@@ -821,7 +841,8 @@
 
 
 
-[-] credit		<-->	noun++C2	[220818][002]	./cef/
+[-] credit		<-->	noun++C2	[220818][003]	./cef/ [t]
+	; -- (1) 
 	;chứng chỉ -- (12) [-unit of study] [countable] a unit of study at a college or university (in the US, also at a school); the fact of having successfully completed a unit of study
 		;My math class is worth three credits.
 		;SEE ALSO carbon credit
@@ -831,7 +852,7 @@
 		;Tuition costs are based on the number of credit hours enrolled.
 		;modules offering continuing education credits
 		;He took some advanced courses to earn college credits.
-		;TOPICS EDUCATIOnC2
+		;TOPICS EDUCATIOn-C2
 			;Oxford Collocations Dictionary
 			;adjective
 				;coursecollege
@@ -900,9 +921,13 @@
 
 
 
-[-] day school		<-->	noun++C2	[220818][001]	./ˈdeɪ skuːl/-NAmE /ˈdeɪ skuːl/
-	;khoá học cuối ngày, tiết cuối -- (British English) a course of education lasting one day, at which a particular topic is discussed
+[-] day school		<-->	noun++C2	[220818][002]	./ˈdeɪ skuːl/-NAmE /ˈdeɪ skuːl/ [240925]
+	;khoá học cuối ngày, tiết cuối -- (1) ​(old-fashioned) a private school with students who live at home and only go to school during the day
+		;compare boarding school
+	; -- (2) ​(British English) a course of education lasting one day, at which a particular topic is discussed
 		;a day school at Leeds University on women in Victorian times
+		;Topics Education-c2
+
 
 
 
@@ -1209,16 +1234,14 @@
 
 
 
-[-] elementary school		<-->	noun++B2	[220818][001]	./ˌelɪˈmentri skuːl/-NAmE /ˌelɪˈmentri skuːl/
-	;trường tiểu học -- (also informal grade school)
-		;(in the US) a school for children between the ages of about 6 and 12.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-
-
-
+[-] elementary school		<-->	noun++B2	[220818][002]	./ˌelɪˈmentri skuːl/-NAmE /ˌelɪˈmentri skuːl/ (also informal grade school) [240925]
+	;trường tiểu học -- (1) (in the US) a school for children between the ages of about 6 and 12
 		;She teaches elementary school in Atlanta.
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;Elementary school is used before these nouns:
+				;curriculumprincipalteacher…
+		;See full entry
 
 
 
@@ -1396,9 +1419,14 @@
 
 
 
-[-] exercise book		<-->	noun++B2	[220818][001]	./ˈeksəsaɪz bʊk/-NAmE /ˈeksərsaɪz bʊk/
-	;sách bài tập -- (British English)(North American English notebook)
-		;a small book for students to write their work in
+[-] exercise book		<-->	noun++B2	[220818][002]	./ˈeksəsaɪz bʊk/-NAmE /ˈeksərsaɪz bʊk/ [t]
+	;sách bài tập -- (1) (British English)
+(North American English notebook) a small book for students to write their work in
+		;Topics Education-b2
+	; -- (2) 
+
+
+
 
 
 
@@ -1777,20 +1805,19 @@
 
 
 
-[-] grade school		<-->	noun++B2	[220818][001]	./ˈɡreɪd skuːl/-NAmE /ˈɡreɪd skuːl/
-	;trường đào tạo sau đại học -- (informal)(also elementary school)(in the US) a school for children between the ages of about 6 and 12.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+[-] grade school		<-->	noun++B2	[220818][002]	./ˈɡreɪd skuːl/-NAmE /ˈɡreɪd skuːl/ (informal) (also elementary school) [240925]
+	;trường đào tạo sau đại học -- (1) ​(in the US) a school for children between the ages of about 6 and 12
+		;Topics Education-b2
 
 
 
 
 
 
-[-] grad school		<-->	noun++B2	[220818][001]	./ˈɡræd skuːl/-NAmE /ˈɡræd skuːl/
-	;trường đào tạo sau đại học -- (informal)(also graduate school)(North American English)
-		;a part of a college or university where you can study for a second or further degree
+[-] grad school		<-->	noun++B2	[220818][002]	./ˈɡræd skuːl/-NAmE /ˈɡræd skuːl/ (informal) (also graduate school) (North American English) [240925]
+	;trường đào tạo sau đại học -- (1) ​a part of a college or university where you can study for a second or further degree
+		;Topics Educationb2
+
 
 
 
@@ -1820,8 +1847,12 @@
 
 
 
-[-] graduate school		<-->	noun++B2	[220818][001]	./ˈɡrædʒuət skuːl/-NAmE /ˈɡrædʒuət skuːl/
-	;trường đài tạo sau đại học -- (also informal grad school) (both North American English)a part of a college or university where you can study for a second or further degree
+[-] graduate school		<-->	noun++B2	[220818][002]	./ˈɡrædʒuət skuːl/-NAmE /ˈɡrædʒuət skuːl/ (also informal grad school) (both North American English) [240925]
+	;trường sau đại học -- (1) a part of a college or university where you can study for a second or further degree
+		;Culture
+		;Topics Educationb2
+
+
 
 
 
@@ -1832,7 +1863,11 @@
 
 
 [-] grammar school		<-->	noun++C1	[220818][001]	./ˈɡræmə skuːl/-NAmE /ˈɡræmər skuːl/
-	;trường thiên về học thuật -- (in England, Wales and Northern Ireland, especially in the past) a school for young people between the ages of 11 and 18 who are good at academic subjects
+	;trường thiên về học thuật, trường ngữ pháp -- (1) ​(in England, Wales and Northern Ireland, especially in the past) a school for young people between the ages of 11 and 18 who are good at academic subjects
+		;Culture
+		;Topics Education-c1
+	; -- (2) 
+
 
 
 
@@ -1984,13 +2019,39 @@
 
 
 
-[-] high school		<-->	noun++A1	[220818][001]	./ˈhaɪ skuːl/-NAmE /ˈhaɪ skuːl/
-	;trường THPT -- [countable, uncountable]
-		;(in the US and some other countries) a school for young people between the ages of 14 and 18
+[-] high school		<-->	noun++A1	[220818][002]	./ˈhaɪ skuːl/-NAmE /ˈhaɪ skuːl/ [countable, uncountable] [240925]
+	;trường THPT -- (1) ​(in the US and some other countries) a school for young people between the ages of 14 and 18
 		;I went to high school in Ohio.
 		;I was a senior in high school at the time.
 		;He dropped out of high school when he was seventeen.
-		;SEE ALSO junior high school, senior high school
+		;see also junior high school, senior high school
+		;Extra Examples:
+		;I'd known her since my sophomore year in high school.
+		;Janine dated Logan during high school.
+		;She had good grades all the way through high school.
+		;We knew each other back in high school.
+		;What do you plan to do after high school?
+		;an 18-year-old kid who is fresh out of high school
+		;an old friend from high school
+		;Topics Education-a1
+				;Oxford Collocations Dictionary
+				;adjective
+				;juniorseniorlocal…
+				;verb + high school
+				;enterstartgo to…
+				;high-school + noun
+				;classfreshmanjunior…
+				;preposition
+				;after high schoolduring high schoolfrom high school…
+				;phrases
+				;fresh out of high schoolright out of high schoolstraight out of high school…
+		;See full entry
+	; -- (2) often used in England, Wales and Northern Ireland in the names of schools for young people between the ages of 11 and 18
+		;Worthing High School
+		;compare secondary school
+		;Topics Education-a1
+		;Collocations Education
+
 
 
 
@@ -2080,13 +2141,15 @@
 
 
 
-[-] independent school		<-->	noun++C1	[220818][002]	./ˌɪndɪpendənt ˈskuːl/-NAmE /ˌɪndɪpendənt ˈskuːl/
-	;trường tư hoàn toàn -- (also private school) a school that receives no money from the government and where the education of the students is paid for by their parents
+[-] independent school		<-->	noun++C1	[220818][003]	./ˌɪndɪpendənt ˈskuːl/-NAmE /ˌɪndɪpendənt ˈskuːl/ (also private school) [240925]
+	;trường tư hoàn toàn -- (1) a school that receives no money from the government and where the education of the students is paid for by their parents
+		;Topics Education-c1
 
 
 
-[-] infant school		<-->	noun++C1	[220818][003]	./ˈɪnfənt skuːl/-NAmE /ˈɪnfənt skuːl/
-	;trường mầm non -- (in England and Wales) a type of school for children from the age of four or five (when children are required by law to start school) until the age of seven. Often an infant school forms, together with a junior school, part of a primary school.
+[-] infant school		<-->	noun++C1	[220818][003]	./ˈɪnfənt skuːl/-NAmE /ˈɪnfənt skuːl/ [240925]
+	;trường mầm non -- (1) ​(in England and Wales) a type of school for children from the age of four or five (when children are required by law to start school) until the age of seven. Often an infant school forms, together with a junior school, part of a primary school.
+		;Topics Education-c1
 
 
 
@@ -2203,14 +2266,15 @@
 
 
 
-[-] junior high school		<-->	noun++B2	[220818][001]	./ˌdʒuːniə ˈhaɪ skuːl/-NAmE /ˌdʒuːniər ˈhaɪ skuːl/
-	;trường cho lớp sáu, đến chín -- (also junior high) [countable, uncountable] (in the US and Canada) a school for young people between the ages of 12 and 14
-		;COMPARE middle school (2), senior high school
+[-] junior high school		<-->	noun++B2	[220818][002]	./ˌdʒuːniə ˈhaɪ skuːl/-NAmE /ˌdʒuːniər ˈhaɪ skuːl/ [countable, uncountable] [240925]
+	;trường cho lớp sáu, đến chín ;trường trung học cơ sở -- (1) ​(in England and Wales) a school for children between the ages of 7 and 11
+		;Topics Educationb2
 
 
 
-[-] junior school		<-->	noun++B2	[220818][001]	./ˈdʒuːniə skuːl/-NAmE /ˈdʒuːniər skuːl/
-	;trường tiểu học -- [countable, uncountable] (in England and Wales) a school for children between the ages of 7 and 11
+[-] junior school		<-->	noun++B2	[220818][002]	./ˈdʒuːniə skuːl/-NAmE /ˈdʒuːniər skuːl/ [countable, uncountable] [240925]
+	;trường tiểu học -- (1) ​(in England and Wales) a school for children between the ages of 7 and 11
+		;Topics Educationb2
 
 
 
@@ -2468,9 +2532,10 @@
 
 
 
-[-] lower school		<-->	noun++C1	[220818][001]	./ˈləʊə skuːl/-NAmE /ˈləʊər skuːl/
-	;trường trung học cơ sở -- a school, or the classes in a school, for younger students, usually between the ages of 11 and 14
-		;COMPARE upper school
+[-] lower school		<-->	noun++C1	[220818][002]	./ˈləʊə skuːl/-NAmE /ˈləʊər skuːl/ [240925]
+	;trường trung học cơ sở -- (1) a school, or the classes in a school, for younger students, usually between the ages of 11 and 14
+		;compare upper school
+		;Topics Education-c1
 
 
 
@@ -2481,8 +2546,9 @@
 
 
 
-[-] magnet school		<-->	noun++C2	[220818][003]	./ˈmæɡnət skuːl/-NAmE /ˈmæɡnət skuːl/
-	;trường chuyên -- (in the US) a school in a large city that offers extra courses in some subjects in order to attract students from other areas of the city
+[-] magnet school		<-->	noun++C2	[220818][003]	./ˈmæɡnət skuːl/-NAmE /ˈmæɡnət skuːl/ [240925]
+	;trường chuyên -- (1) (in the US) a school in a large city that offers extra courses in some subjects in order to attract students from other areas of the city
+		;Topics Education-c2
 
 
 
@@ -2589,15 +2655,20 @@
 
 
 
-[-] medical school		<-->	noun++B1	[220818][001]	./ˈmedɪkl skuːl/-NAmE /ˈmedɪkl skuːl/
-	;trường Y, khoa Y -- (North American English also med school informal)
-		;a college or a department of a university where students study to obtain a degree in medicine
+[-] medical school		<-->	noun++B1	[220818][002]	./ˈmedɪkl skuːl/-NAmE /ˈmedɪkl skuːl/ (North American English also med school informal) [240925]
+	;trường Y, khoa Y -- (1) ​a college or a department of a university where students study to obtain a degree in medicine
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;Medical school is used before these nouns:
+				;graduate
+		;See full entry
 
 
 
-[-] med school		<-->	noun++C1	[220818][001]	./ˈmed skuːl/-NAmE /ˈmed skuːl/
-	;trường Y -- (North American English, informal)
-		;medical school (= a college where students study to obtain a degree in medicine)
+[-] med school		<-->	noun++C1	[220818][002]	./ˈmed skuːl/-NAmE /ˈmed skuːl/ (North American English, informal) [240925]
+	;trường Y -- (1) medical school (= a college where students study to obtain a degree in medicine)
+		;Topics Education-c1
+
 
 
 
@@ -2629,8 +2700,12 @@
 
 
 
-[-] middle school		<-->	noun++C1	[220818][001]	./ˈmɪdl skuːl/-NAmE /ˈmɪdl skuːl/
-	;trường cho học sinh chín-mười ba tuổi (in the UK) a school for children between the ages of about 9 and 13
+[-] middle school		<-->	noun++C1	[220818][002]	./ˈmɪdl skuːl/-NAmE /ˈmɪdl skuːl/ [240925]
+	;trường trung học cơ sở -- (1) (in the UK) a school for children between the ages of about 9 and 13
+		;Topics Education-c1
+	;trường trung học cơ sở -- (2) in the US and Canada) a school for children between the ages of about 11 and 14
+		;Topics Education-c1
+		;compare junior high school, upper school
 
 
 
@@ -2765,9 +2840,9 @@
 
 
 
-[-] night school		<-->	noun++B1	[220818][001]	./ˈnaɪt skuːl/-NAmE /ˈnaɪt skuːl/
-	;lớp đêm, cho người trưởng thành -- [uncountable, countable] (old-fashioned)
-		;classes for adults, held in the evening
+[-] night school		<-->	noun++B1	[220818][002]	./ˈnaɪt skuːl/-NAmE /ˈnaɪt skuːl/ [uncountable, countable] (old-fashioned)
+	;lớp đêm, cho người trưởng thành -- (1) ​classes for adults, held in the evening
+		;Topics Education-b1
 
 
 
@@ -2777,18 +2852,58 @@
 
 
 
-[-] notebook		<-->	noun++B2	[220818][001]	./ˈnəʊtbʊk/-NAmE /ˈnəʊtbʊk/
-	;vở -- a small book of plain paper for writing notes in;a material piece which you write for your own in studying, ...
+[-] notebook		<-->	noun++B2	[220818][002]	./cef/ [t]
+	;vở -- (1) a small book of plain paper for writing notes in
 		;The police officer wrote the details down in his notebook.
 		;She kept a notebook (= wrote notes in it) during the trip.
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;boundleather-boundspiral…
+				;verb + notebook
+				;jot something (down) inrecord something inscribble (something) in…
+				;notebook + noun
+				;papercomputer
+				;preposition
+				;in a/​your notebook
+				;phrases
+				;an entry in a notebook
+		;See full entry
+	; -- (2)  (North American English)
+(British English exercise book) a small book for students to write their work in
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;boundleather-boundspiral…
+				;verb + notebook
+				;jot something (down) inrecord something inscribble (something) in…
+				;notebook + noun
+				;papercomputer
+				;preposition
+				;in a/​your notebook
+				;phrases
+				;an entry in a notebook
+		;See full entry
+	; -- (3) 
 
 
 
-[-] nursery school		<-->	noun++C1	[220818][001]	./ˈnɜːsəri skuːl/-NAmE /ˈnɜːrsəri skuːl/
-	;một trường cho trẻ (hai-năm tuổi), nhà trẻ-- a school for children between the ages of about two and five
-		;SYNONYM preschool
+
+[-] nursery school		<-->	noun++C1	[220818][002]	./ˈnɜːsəri skuːl/-NAmE /ˈnɜːrsəri skuːl/ [240925]
+	;trường mẫu giáo -- (1) ​a school for children between the ages of about two and five
+		;synonym preschool
 		;She works as an assistant in a nursery school.
-		;COMPARE kindergarten, playgroup
+		;compare kindergarten, playgroup
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;daylocalprivate…
+				;nursery-school + noun
+				;classeducationassistant…
+				;preposition
+				;at a/​the nursery schoolin a/​the nursery school
+		;See full entry
+
 
 
 
@@ -3050,9 +3165,15 @@
 
 
 
-[-] preparatory school		<-->	noun++C2	[220818][001]	./prɪˈpærətri skuːl/-NAmE /prɪˈpærətɔːri skuːl/
+[-] preparatory school		<-->	noun++C2	[220818][002]	./prɪˈpærətri skuːl/-NAmE /prɪˈpærətɔːri skuːl/ (also prep school) [240925]
 	;trường tư cho trẻ -- also prep school) (in the UK) a private school for children between the ages of 7 and 13
 		;COMPARE public school
+	;trường dự bị -- (1) ​(in the UK) a private school for children between the ages of 7 and 13
+		;compare public school
+		;Topics Education-c2
+	;trường dự bị -- (2) ​(in the US) a school, usually a private one, that prepares students for college
+		;Topics Education-c2
+
 
 
 
@@ -3070,8 +3191,10 @@
 
 
 
-[-] primary school		<-->	noun++B1	[220818][001]	./ˈpraɪməri skuːl/-NAmE /ˈpraɪmeri skuːl/
-	;trường tiểu học -- (British English) a school for children between the ages of 4 or 5 and 11
+[-] primary school		<-->	noun++B1	[220818][002]	./ˈpraɪməri skuːl/-NAmE /ˈpraɪmeri skuːl/ [240925]
+	;trường tiểu học -- (1) ​(British English) a school for children between the ages of 4 or 5 and 11
+		;Topics Education-b1
+	; -- (2) 
 
 
 
@@ -3082,8 +3205,15 @@
 
 
 
-[-] private school		<-->	noun++B1	[220818][001]	./ˌpraɪvət ˈskuːl/-NAmE /ˌpraɪvət ˈskuːl/
-	;trường từ -- (also independent school) a school that receives no money from the government and where the education of the students is paid for by their parents
+[-] private school		<-->	noun++B1	[220818][002]	./ˌpraɪvət ˈskuːl/-NAmE /ˌpraɪvət ˈskuːl/ (also independent school) [240925]
+	;trường tư -- (1) a school that receives no money from the government and where the education of the students is paid for by their parents
+		;compare free school, public school, state school
+		;Culture public schools
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;Private school is used before these nouns:
+				;principal
+		;See full entry
 
 
 
@@ -3163,9 +3293,13 @@
 
 
 
-[-] public school		<-->	noun++C1	[220818][001]	./ˌpʌblɪk ˈskuːl/-NAmE /ˌpʌblɪk ˈskuːl/
-	;trường công -- [countable, uncountable] (in Britain, especially in England) a private school for young people between the ages of 13 and 18, whose parents pay for their education. The students often live at the school while they are studying.
+[-] public school		<-->	noun++C1	[220818][002]	./ˌpʌblɪk ˈskuːl/-NAmE /ˌpʌblɪk ˈskuːl/ [countable, uncountable] [240925]
+	;trường công -- (1) (in Britain, especially in England) a private school for young people between the ages of 13 and 18, whose parents pay for their education. The students often live at the school while they are studying.
 		;He was educated at (a) public school.
+		;compare preparatory school, private school
+		;Topics Education-c1
+	; -- (2) 
+
 
 
 
@@ -3590,9 +3724,10 @@
 
 
 
-[-] secondary school		<-->	noun++B1	[220818][001]	./ˈsekəndri skuːl/-NAmE /ˈsekənderi skuːl/
-	;trường cấp hai và ba, trường phổ thông -- (especially British English) a school for young people between the ages of 11 and 16 or 18
-		;COMPARE high school, primary school
+[-] secondary school		<-->	noun++B1	[220818][002]	./ˈsekəndri skuːl/-NAmE /ˈsekənderi skuːl/ (especially British English) [240925]
+	;trường cấp hai và ba, trường phổ thông -- (1) a school for young people between the ages of 11 and 16 or 18
+		;compare high school, primary school
+		;Topics Education-b1
 
 
 
@@ -3631,13 +3766,13 @@
 
 
 
-[-] high school seniors
 
 
 
-[-] senior high school		<-->	noun++B2	[220818][001]	./ˌsiːniə ˈhaɪ skuːl/-NAmE /ˌsiːniər ˈhaɪ skuːl/
-	;trường cấp ba -- (also senior high)(in the US and Canada) a school for young people between the ages of 14 and 18
-		;COMPARE junior high school
+[-] senior high school		<-->	noun++B2	[220818][002]	./ˌsiːniə ˈhaɪ skuːl/-NAmE /ˌsiːniər ˈhaɪ skuːl/ (also senior high) [240925]
+	;trường cấp ba -- (1) (in the US and Canada) a school for young people between the ages of 14 and 18
+		;compare junior high school
+		;Topics Education-b2
 
 
 
@@ -3751,8 +3886,9 @@
 
 
 
-[-] special school		<-->	noun++C2	[220818][001]	./ˌspeʃl ˈskuːl/-NAmE /ˌspeʃl ˈskuːl/
-	;trường dành cho trẻ em khuyết tật -- a school for children who have physical or learning problems
+[-] special school		<-->	noun++C2	[220818][002]	./ˌspeʃl ˈskuːl/-NAmE /ˌspeʃl ˈskuːl/ [240925]
+	;trường dành cho trẻ em khuyết tật -- (1) a school for children who have physical or learning problems
+		;Topics Education-c2
 
 
 
@@ -3786,11 +3922,17 @@
 
 
 
-[-] state school		<-->	noun++B2	[220818][001]	./ˈsteɪt skuːl/-NAmE /ˈsteɪt skuːl/
-	;trường công -- (British English) (North American English public school)
-		;a school that is paid for by the government and provides free education
+[-] state school		<-->	noun++B2	[220818][002]	./ˈsteɪt skuːl/-NAmE /ˈsteɪt skuːl/ (British English) (North American English public school) [240925]
+	;trường công -- (1) a school that is paid for by the government and provides free education
 		;Do you go to a state school or a private school?
 		;Do students from state schools get the same opportunities as children who are privately educated?
+		;compare academy (5), free school, private school, public school
+		;Topics Education-b2
+	; -- (2) 
+
+
+
+
 
 
 
@@ -3873,9 +4015,9 @@
 
 
 
-[-] summer school		<-->	noun++B2	[220818][001]	./ˈsʌmə skuːl/-NAmE /ˈsʌmər skuːl/
-	;trường hè -- [countable, uncountable] courses that are held in the summer at a university or college or, in the US, at a school
-
+[-] summer school		<-->	noun++B2	[220818][002]	./ˈsʌmə skuːl/-NAmE /ˈsʌmər skuːl/ [countable, uncountable] [240925]
+	;trường hè -- (1) courses that are held in the summer at a university or college or, in the US, at a school
+		;Topics Education-b2
 
 
 [-] suspend		<-->	verb++C1	[220818][001]	./səˈspend/-NAmE /səˈspend/
@@ -4065,16 +4207,53 @@
 
 
 
-[-] test		<-->	noun++A1	[220818][001]	./test/-NAmE /test/
-	;kỳ kiểm tra -- an examination of somebody’s knowledge or ability, consisting of questions for them to answer or activities for them to perform
-		;an IQ/a fitness test
+[-] test		<-->	noun++A1	[220818][002]	./test/-NAmE /test/ [240925]
+	;kỳ kiểm tra -- (1) [-of knowledge/ability] an examination of somebody’s knowledge or ability, consisting of questions for them to answer or activities for them to perform
+		;an IQ test
+		;test on something a test on irregular verbs
+		;test in something Students take standardized tests in English and maths.
+		;(British English also) to do a test
+		;to pass/fail a test
+		;in a test (British English) a good mark in the test
+		;on a test (North American English) a good score on the test
+		;Collocations Education
+		;More About exams
+		;see also cloze test, driving test
+		;Extra Examples:
+		;He scored well in the placement test and was put in the most advanced class.
+		;Some of the questions in the history test were rather difficult.
+		;Subjects had to attend ten test sessions on different days.
+		;The recruits were put through a week of demanding endurance tests.
+		;This type of exam does not provide a fair test of the student's knowledge.
+		;a test on the French Revolution
+		;Topics Education-a1
+				;Oxford Collocations Dictionary
+				;adjective
+				;demandingdifficultgruelling/​grueling…
+				;verb + test
+				;dosittake…
+				;test + noun
+				;resultscoreconditions…
+				;preposition
+				;in a/​the teston a/​the testtest in…
+		;See full entry
+	; -- (5) 
 
 
 
-[-] test		<-->	verb++A1	[220818][001]	./cef/-\
-	;kiểm tra -- [transitive, intransitive] to find out how much somebody knows, or what they can do by asking them questions or giving them activities to perform
+[-] test		<-->	verb++A1	[220818][002]	./cef/-\ [240925]
+	;kiểm tra -- (1) [-knowledge/ability]  [transitive, intransitive] to find out how much somebody knows, or what they can do by asking them questions or giving them activities to perform
 		;test somebody Students will be tested at the end of each module.
-
+		;test somebody on something Children are tested on core subjects at age 11.
+		;test somebody in something We test all students in English and maths.
+		;test something Applicants' skills, ability and knowledge are tested before job offers are made.
+		;We test your English before deciding which class to put you in.
+		;Extra Examples:
+		;questions designed to test understanding of the scientific method
+		;Schools use various methods of testing.
+		;Can you test me on my irregular verbs?
+		;Topics Education-a1
+	; -- (7) 
 
 
 [-] text		<-->	noun++A1	[220818][002]	./cef/ [240924]
@@ -4134,7 +4313,7 @@
 	; --(2) 
 
 
-[-] thesis		<-->	noun++B2	[220810][002]	./cef/ (plural theses  /ˈθiːsiːz/  /ˈθiːsiːz/) [t]
+[-] thesis		<-->	noun++B2	[220810][002]	./cef/ (plural theses  /ˈθiːsiːz/  /ˈθiːsiːz/) [240925]
 	;luận văn -- (1) thesis (on something) a long piece of writing completed by a student as part of a university degree, based on their own research
 		;Students must submit a thesis on an agreed subject within four years.
 		;Extra Examples:
