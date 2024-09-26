@@ -1,17 +1,24 @@
 
 ------->>>>> [[[EDUCATION]]]
-[-] absentee		<-->	noun++C2	[220818][001]	./ˌæbsənˈtiː/-NAmE /ˌæbsənˈtiː/
-	;người vắng mặt -- a person who is not at a place where they were expected to be
+[-] absentee		<-->	noun++C2	[220818][002]	./ˌæbsənˈtiː/-NAmE /ˌæbsənˈtiː/ [240926]
+	;người vắng mặt -- (1) a person who is not at a place where they were expected to be
+		;Topics Working lifec2, Education-c2
+				;Oxford Collocations Dictionary
+				;Absentee is used before these nouns:
+				;ballotfatherlandlord…
+		;See full entry
 
 
 
-[-] absenteeism		<-->	noun++C2	[220818][001]	./ˌæbsənˈtiːɪzəm/-NAmE /ˌæbsənˈtiːɪzəm/
-	;việc trốn học thường xuyên -- [uncountable] the fact of being frequently away from work or school, especially without good reasons
+[-] absenteeism		<-->	noun++C2	[220818][002]	./ˌæbsənˈtiːɪzəm/-NAmE /ˌæbsənˈtiːɪzəm/ [uncountable] [240926]
+	;việc trốn học thường xuyên -- (1) ​the fact of being frequently away from work or school, especially without good reasons
+		;compare presenteeism
+		;Topics Education-c2
 
 
 
-[-] academic		<-->	adjective++B1	[220818][001]	./ˌækəˈdemɪk/-NAmE /ˌækəˈdemɪk/
-	;có tính học thuật -- [usually before noun] connected with education, especially studying in schools and universities
+[-] academic		<-->	adjective++B1	[220818][002]	./cef/ [240926]
+	;học thuật -- (1)  [usually before noun] connected with education, especially studying in schools and universities
 		;high/low academic standards
 		;She had a brilliant academic career.
 		;one of this country's most prestigious academic institutions
@@ -19,66 +26,110 @@
 		;The university is renowned throughout the world for its academic excellence.
 		;academic research/researchers
 		;We are deeply committed to safeguarding academic freedom.
+		;Extra Examples:
+		;He retired from academic life and went into politics.
+		;The academic year usually starts in September.
+		;It is regarded as the top academic institution in the city.
+		;This university will do all it can to defend academic freedom.
+		;academic research
+		;The enrolment criteria are geographical rather than academic.
+		;Our courses cover a range of academic disciplines.
+		;Topics Education-b1, Jobsb1
+	;học thuật -- (2)  [usually before noun] involving a lot of reading and studying rather than practical or technical skills
+		;a mixture of vocational and academic courses
+		;people whose skills are practical rather than academic
+		;academic qualifications/subjects
+		;Extra Examples:
+		;We are looking for practical experience as well as academic achievement.
+		;He had very few academic qualifications.
+		;The writers' approach is not overly academic.
+		;We need to combine academic and applied knowledge.
+		;I wasn't sure I could cope with the academic demands of the course.
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;verbs
+				;bebecome
+				;adverb
+				;merelypurelystrictly…
+		;See full entry
+	;học thuật -- (3) good at subjects involving a lot of reading and studying
+		;She wasn't very academic and hated school.
+		;Topics Educationb1, Personal qualities-b1
+	; -- (4) 
 
 
 
-[-] academic		<-->	noun++B2	[220818][001]	./cef/
-	;học giả, giảng viên -- a person who teaches and/or does research at a university or college
+
+[-] academic		<-->	noun++B2	[220818][002]	./cef/\ [240926]
+	;học giả, giảng viên -- (1) a person who teaches and/or does research at a university or college
 		;a leading/distinguished/prominent academic
 		;There is much debate among academics about this issue.
+		;Extra Examples:
+		;Academics are not generally very well paid.
+		;A distinguished academic from America was due to speak that evening.
+		;Many senior academics are taking up positions overseas.
+		;Topics Education-b2
+		;Word Origin
 
 
 
-[-] academic year		<-->	noun++C1	[220818][001]	./ˌækədemɪk ˈjɪə(r)/, /ˌækədemɪk ˈjɜː(r)/-NAmE /ˌækədemɪk ˈjɪr/
-	;thời điểm sinh viên đến trường học -- the period of the year during which students go to school or university
+[-] academic year		<-->	noun++C1	[220818][002]	./ˌækədemɪk ˈjɪə(r)/, /ˌækədemɪk ˈjɜː(r)/-NAmE /ˌækədemɪk ˈjɪr/ [240926]
+	;năm học -- (1) the period of the year during which students go to school or university
 		;The students return in October for the start of the new academic year.
+		;Topics Timec1, Education-c1
 
 
 
-[-] academy		<-->	noun++C1	[220818][001]	./əˈkædəmi/-NAmE /əˈkædəmi/
-	;học viện -- (plural academies) a school or college for special training
-		;She trained at the Royal Academy of Music.
-		;a police/military academy
 
 
 
-[-] access course		<-->	noun++C2	[220818][001]	./ˈækses kɔːs/-NAmE /ˈækses kɔːrs/
-	;một khoá học dự thính -- (British English) a course of education that prepares students without the usual qualifications, so that they can study at university or college
+
+
+
+[-] academy		<-->	noun++C1	[220818][002]	./cef/ (plural academies) [240926]
+	; -- (1) 
+		;Topics Education-c1
+	; -- (5) 
+
+
+[-] access course		<-->	noun++C2	[220818][002]	./ˈækses kɔːs/-NAmE /ˈækses kɔːrs/ (British English) [240926]
+	;một khoá học dự thính -- (1) ​a course of education that prepares students without the usual qualifications, so that they can study at university or college
 		;A popular weekly evening class is the Access Course, which is designed for those considering higher education.
 		;an access course in science and technology
+		;Topics Education-c2
 
 
 
-[-] ace		<-->	verb++C2	[220818][001]	./eɪs/-NAmE /eɪs/
-	;đạt thành công -- (informal, especially North American English) ace something to be successful in something
+[-] ace		<-->	verb++C2	[220818][002]	./eɪs/-NAmE /eɪs/*\ (informal, especially North American English) [240926]
+	;đạt thành công -- (1) ​ace something to be successful in something
 		;He aced all his tests.
 		;They watched the golfer ace the 17th hole (= get the ball into the hole using only one shot).
+		;Topics Successc2, Education-c2
+		;Word Origin
 
 
 
-[-] ACT		<-->	abbreviation++C2	[220818][001]	./ˌeɪ siː ˈtiː/-NAmE /ˌeɪ siː ˈtiː/
-	;hệ thống test ở các trường Mỹ -- ACT™ American College Test (an exam that some high school students take before they go to college)
+[-] ACT		<-->	abbreviation++C2	[220818][002]	./ˌeɪ siː ˈtiː/-NAmE /ˌeɪ siː ˈtiː/ [240926]
+	;hệ thống test ở các trường Mỹ -- (1) [-American College Test] (an exam that some high school students take before they go to college)
+		;Topics Education-c2
+	; -- (2) 
 
 
 
-[-] admission		<-->	noun++C1	[220818][002]	./cef/
-	;sự cấp quyền, cho phép -- [uncountable, countable] the act of accepting somebody into an institution, organization, etc.;the right to enter a place or to join an institution or organization
-		;Hospital admission is not necessary in most cases.
-		;Hospital admissions for asthma attacks have doubled.
-		;the university admissions policy/office
-		;They tried to get into the club but were refused admission.
-		;She failed to gain admission to the university of her choice.
-		;Is there any charge for admission?
-		;There was a steady decline in cinema admissions during the 1960s.
-		;admission to something countries applying for admission to the European Union
-		;Last admissions to the park are at 4 p.m.
+[-] admission		<-->	noun++C1	[220818][002]	./cef/ [240926]
+		;Topics Healthcarec1, Education-c1
 
 
 
-[-] admit		<-->	verb++C1	[220818][001]	./cef/ [240126]
-	;cấp quyền, cho phép -- [transitive] (formal) to allow somebody to become a member of a club, a school or an organization
+
+
+[-] admit		<-->	verb++C1	[220818][002]	./cef/ [240126] [240926]
+	; -- (1) 
+	;công nhận -- (4) [-allow to enter/join] ​[transitive] (formal) to allow somebody to become a member of a club, a school or an organization
 		;admit somebody The society admits all US citizens over 21.
 		;admit somebody to/into something Women were only admitted into the club last year.
+		;Topics Educationc1
+	; -- (6) 
 
 
 
@@ -821,14 +872,14 @@
 
 
 
-[-] coursebook		<-->	noun++C1	[220818][002]	./ˈkɔːsbʊk/-NAmE /ˈkɔːrsbʊk/ (British English) [240606] [t]
+[-] coursebook		<-->	noun++C1	[220818][002]	./ˈkɔːsbʊk/-NAmE /ˈkɔːrsbʊk/ (British English) [240606] [240926]
 	;sách giáo trình -- (1) a book for studying from, used regularly on a particular course of study
 		;Topics Education-c1
 
 
 
 
-[-] coursework		<-->	noun++B2	[220818][002]	./ˈkɔːswɜːk/-NAmE /ˈkɔːrswɜːrk/ [uncountable] [t]
+[-] coursework		<-->	noun++B2	[220818][002]	./ˈkɔːswɜːk/-NAmE /ˈkɔːrswɜːrk/ [uncountable] [240926]
 	;bài tập về nhà -- (1) ​work that students do during a course of study, not in exams, that is included in their final mark
 		;Coursework accounts for 40 per cent of the final marks.
 		;Topics Educationb2
@@ -841,7 +892,7 @@
 
 
 
-[-] credit		<-->	noun++C2	[220818][003]	./cef/ [t]
+[-] credit		<-->	noun++C2	[220818][003]	./cef/ [240926]
 	; -- (1) 
 	;chứng chỉ -- (12) [-unit of study] [countable] a unit of study at a college or university (in the US, also at a school); the fact of having successfully completed a unit of study
 		;My math class is worth three credits.
@@ -1419,7 +1470,7 @@
 
 
 
-[-] exercise book		<-->	noun++B2	[220818][002]	./ˈeksəsaɪz bʊk/-NAmE /ˈeksərsaɪz bʊk/ [t]
+[-] exercise book		<-->	noun++B2	[220818][002]	./ˈeksəsaɪz bʊk/-NAmE /ˈeksərsaɪz bʊk/ [240926]
 	;sách bài tập -- (1) (British English)
 (North American English notebook) a small book for students to write their work in
 		;Topics Education-b2
@@ -2510,9 +2561,17 @@
 
 
 
-[-] locker		<-->	noun++B2	[220818][002]	./ˈlɒkə(r)/-NAmE /ˈlɑːkər/
-	;một tủ nhỏ có khoá để đồ, ba lô, .. -- a small cupboard that can be locked, where you can leave your clothes, bags, etc. while you play a sport or go somewhere
+[-] locker		<-->	noun++B2	[220818][003]	./ˈlɒkə(r)/-NAmE /ˈlɑːkər/ [240926]
+	;một tủ nhỏ có khoá để đồ, ba lô, .. -- (1) a small cupboard that can be locked, where you can leave your clothes, bags, etc. while you play a sport or go somewhere
 		;I left my things in my locker.
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;Locker is used before these nouns:
+				;room
+				;Locker is used after these nouns:
+				;gymluggagemeat…
+		;See full entry
+		;Word Origin
 
 
 
@@ -2852,7 +2911,7 @@
 
 
 
-[-] notebook		<-->	noun++B2	[220818][002]	./cef/ [t]
+[-] notebook		<-->	noun++B2	[220818][002]	./cef/ [240926]
 	;vở -- (1) a small book of plain paper for writing notes in
 		;The police officer wrote the details down in his notebook.
 		;She kept a notebook (= wrote notes in it) during the trip.
