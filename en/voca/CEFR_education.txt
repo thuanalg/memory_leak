@@ -128,81 +128,144 @@
 	;công nhận -- (4) [-allow to enter/join] ​[transitive] (formal) to allow somebody to become a member of a club, a school or an organization
 		;admit somebody The society admits all US citizens over 21.
 		;admit somebody to/into something Women were only admitted into the club last year.
-		;Topics Education-c1, ====
+		;Topics Education-c1
 	; -- (6) 
 
 
 
-[-] adult education		<-->	noun++B1	[220818][001]	./ˌædʌlt edʒuˈkeɪʃn/, /əˌdʌlt edʒuˈkeɪʃn/-NAmE /əˌdʌlt edʒuˈkeɪʃn/, /ˌædʌlt edʒuˈkeɪʃn/
-	;giáo dục thường xuyên -- (also continuing education)[uncountable] education for adults that is available outside the formal education system, for example at evening classes or over the internet
+[-] adult education		<-->	noun++B1	[220818][002]	./ˌædʌlt edʒuˈkeɪʃn/, /əˌdʌlt edʒuˈkeɪʃn/-NAmE /əˌdʌlt edʒuˈkeɪʃn/, /ˌædʌlt edʒuˈkeɪʃn/ (also continuing education)
+[uncountable] [t]
+	;giáo dục thường xuyên -- (1) ​education for adults that is available outside the formal education system, for example at evening classes or over the internet
 		;adult education classes
+		;Culture adult education
+		;Topics Education-b1
 
 
 
-[-] a level		<-->	noun++C1	[220818][001]	./ˈeɪ levl/-NAmE /ˈeɪ levl/
-	;kỳ thi cuối cấp -- (also advanced level) [countable, uncountable] a British exam taken in a particular subject, usually in the final year of school at the age of 18
+[-] A level		<-->	noun++C1	[220818][001]	./ˈeɪ levl/-NAmE /ˈeɪ levl/ (also advanced level)
+[countable, uncountable] [t]
+	;kỳ thi cuối cấp -- (1) a British exam taken in a particular subject, usually in the final year of school at the age of 18
 		;You need three A levels to get onto this university course.
 		;What A levels are you doing?
 		;I'm doing maths A level.
 		;two A level passes/two passes at A level
-		;COMPARE AS (level), GCE, GCSE, NVQ
+		;compare AS (level), GCE, GCSE, NVQ
+		;Extra Examples:
+		;He's got A levels in maths and history.
+		;I did all right in my mock A levels and then failed the real exams.
+		;She has four A levels.
+		;She's doing her A levels this year.
+		;What grades did you get in your A levels?
+		;Topics Education-c1
+		;Culture exams
 
 
 
-[-] algebra		<-->	noun++C1	[220818][001]	./ˈældʒɪbrə/-NAmE /ˈældʒɪbrə/
-	;môn đại số -- [uncountable] a type of mathematics in which letters and symbols are used to represent quantities
+[-] algebra		<-->	noun++C1	[220818][002]	./ˈældʒɪbrə/-NAmE /ˈældʒɪbrə/ [uncountable] [t]
+	;môn đại số -- (1) a type of mathematics in which letters and symbols are used to represent quantities
+		;Wordfinder: algebraarithmeticcalculusequationgeometrylogarithmmathsnumeracyproblemtrigonometry
+		;Topics Maths and measurementc1, Education-c1
+		;Word Origin
 
 
 
-[-] alma mater		<-->	noun++C2	[220818][001]	./ˌælmə ˈmɑːtə(r)/, /ˌælmə ˈmeɪtə(r)/-NAmE /ˌælmə ˈmɑːtər/
-	;trường cũ -- (also Alma Mater)[singular] (especially North American English) the school, college or university that somebody went to
+[-] alma mater		<-->	noun++C2	[220818][002]	./ˌælmə ˈmɑːtə(r)/, /ˌælmə ˈmeɪtə(r)/-NAmE /ˌælmə ˈmɑːtər/ (also Alma Mater)
+[singular] (especially North American English) [t]
+	;trường cũ -- (1) the school, college or university that somebody went to
 		;He donated $20 million to his alma mater, Columbia University.
+		;Topics Education-c2
+		;Word Origin
 
 
 
-[-] alumna		<-->	noun++C2	[220818][001]	./əˈlʌmnə/-NAmE /əˈlʌmnə/
-	;cựu nữ học sinh, sinh viên -- (plural alumnae /əˈlʌmniː/ /əˈlʌmniː/)(especially North American English, formal) a former female student of a school, college or university
+[-] alumna		<-->	noun++C2	[220818][002]	./əˈlʌmnə/-NAmE /əˈlʌmnə/ (plural alumnae  /əˈlʌmniː/  /əˈlʌmniː/)
+(formal) [t]
+	;cựu nữ học sinh, sinh viên -- (1) a former female student of a school, college or university
+		;Topics Education-c2
+		;Word Origin
 
 
 
-[-] alumni		<-->	noun++C2	[220818][001]	./əˈlʌmnaɪ/-NAmE /əˈlʌmnaɪ/
-	;cựu nam học sinh, sinh viên -- [plural] (especially North American English)the former male and female students of a school, college or university
-		;Harvard Alumni Association
+[-] alumni		<-->	noun++C2	[220818][001]	./əˈlʌmnaɪ/-NAmE /əˈlʌmnaɪ/ alumnus 
+	;cựu nam học sinh, sinh viên -- (1) a former student of a school, college or university
+		;Topics Education-c2
+				;Oxford Collocations Dictionary
+				;Alumnus is used before these nouns:
+				;reunion
+		;See full entry
+		;Word Origin
 
 
 
-[-] alumnus		<-->	noun++C2	[220818][001]	./əˈlʌmnəs/-NAmE /əˈlʌmnəs/
-	;cựu học sinh, sinh viên -- (plural alumni /əˈlʌmnaɪ/ /əˈlʌmnaɪ/)(especially North American English, formal)a former male student of a school, college or university
+[-] alumnus		<-->	noun++C2	[220818][002]	./əˈlʌmnəs/-NAmE /əˈlʌmnəs/ (plural alumni  /əˈlʌmnaɪ/  /əˈlʌmnaɪ/)
+(formal) [t]
+	;cựu học sinh, sinh viên -- (1) a former student of a school, college or university
+		;Topics Education-c2
+				;Oxford Collocations Dictionary
+				;Alumnus is used before these nouns:
+				;reunion
+		;See full entry
+		;Word Origin
 
 
 
-[-] answer		<-->	noun++A1	[220818][001]	./ˈɑːnsə(r)/-NAmE /ˈænsər/
-	;việc trả lời, thứ mà bạn trả lời -- something that you say, write or do to react to a question or situation
-		;I rang the bell, but there was no answer.
-		;Can't you give me a definitive answer?
-		;The short answer is no.
-		;The simple answer is that we don't know.
-		;a question and answer session
-		;answer to something I can't easily give an answer to your question.
-		;Have you had an answer to your letter?
-		;She had no answer to the accusations.
-		;in answer to something As if in answer to our prayers, she offered to lend us £10 000.
-		;answer from somebody You're not going to get an answer from me!
-		;answer as to something The report does not provide answers as to why the tragedy occurred.
+[-] answer		<-->	noun++A1	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;việc trả lời, thứ mà bạn trả lời -- (2) something that you write or say in reply to a question in a test, an exam, an exercise, etc.; the correct reply to a question in a test, etc.
+		;the correct/right answer
+		;Write your answers on the sheet provided.
+		;Do you know the answer (= the right one) to question 12?
+		;The answers are at the back of the book.
+		;Extra Examples:
+		;The sender of the first correct answer to be drawn will receive £100.
+		;It's not worth guessing the answer, as you may lose marks.
+		;Please print the answers to questions 1 and 2.
+		;The students are allowed to use textbooks to find the right answer.
+		;This part of the exam requires a written answer.
+		;the short-answer section of the test
+		;Topics Education-a1
+				;Oxford Collocations Dictionary
+				;adjective
+				;acceptableappropriatecorrect…
+				;verb + answer
+				;givesubmitguess…
+				;preposition
+				;answer to
+		;See full entry
+	; -- (4) 
 
 
-
-[-] applicant		<-->	noun++B2	[220818][001]	./ˈæplɪkənt/-NAmE /ˈæplɪkənt/
-	;người ứng tuyển -- applicant (for something) a person who makes a formal request for something (= applies for it), especially for a job, a place at a college or university, etc.
+[-] applicant		<-->	noun++B2	[220818][002]	./cef/ [t]
+	;người ứng tuyển -- (1) applicant (for something) a person who makes a formal request for something (= applies for it), especially for a job, a place at a college or university, etc.
 		;There were over 500 applicants for the job.
 		;Successful applicants will receive notification within the week.
+		;Extra Examples:
+		;Eight applicants were shortlisted.
+		;Grant payments will be made to suitable applicants.
+		;The advertisement attracted a number of applicants.
+		;The company will seek applicants nationwide.
+		;Unsuccessful applicants may appeal against the decision.
+		;The factory was accused of turning away job applicants who belong to a union.
+		;What can be done about the falling number of applicants to medical schools?
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;potentialprospectiveeligible…
+				;verb + applicant
+				;seekattractshortlist…
+				;applicant + verb
+				;apply
+				;preposition
+				;applicant for
+		;See full entry
+		;Word Origin
 
 
 
-[-] application		<-->	noun++B1	[220818][001]	./ˌæplɪˈkeɪʃn/-NAmE /ˌæplɪˈkeɪʃn/
-	;việc ứng tuyển -- (for job/course) [countable, uncountable] a formal (often written) request for something, such as a job, permission to do something or a place at a college or university
+[-] application		<-->	noun++B1	[220818][002]	./cef/ [t]
+	;việc ứng tuyển -- (1) [-for job/course]  [countable, uncountable] a formal (often written) request for something, such as a job, permission to do something or a place at a college or university
 		;a planning/patent/visa application
-		;We have received applications from more than 3 000 students.
+		;We have received applications from more than 3 000 students.
 		;You need to complete the online application form.
 		;application for something an application for asylum/a licence
 		;(formal) an application for leave to appeal against the conviction
@@ -210,49 +273,136 @@
 		;application to somebody (for something) His application to the court for bail has been refused.
 		;application to somebody to do something They submitted an application to the council to build two houses.
 		;on application to somebody Further information is available on application to the principal.
+		;Collocations Jobs
+		;Extra Examples:
+		;Admission is obtained by written application.
+		;Applications are invited for the post of Lecturer in French.
+		;I am pleased to tell you that your application for the post of Assistant Editor has been successful.
+		;It takes time to process each application.
+		;Prospective members fill out an online application.
+		;There has been a drop in visa applications.
+		;We accept permit applications year-round.
+		;an application to the local authority
+		;I've made an application for a loan of £3 000.
+		;We received over 100 applications for the job.
+		;Topics Working lifeb1, Education-b1
+				;Oxford Collocations Dictionary
+				;adjective
+				;formalwrittensuccessful…
+				;verb + application
+				;filelodgemake…
+				;application + noun
+				;formguidelinesdeadline…
+				;preposition
+				;by applicationon applicationapplication for…
+		;See full entry
+	; -- (6) 
 
 
 
-[-] arithmetic		<-->	noun++C1	[220818][001]	./əˈrɪθmətɪk/-NAmE /əˈrɪθmətɪk/
-	;môn số học -- [uncountable] the type of mathematics that deals with the adding, multiplying, etc. of numbers
+[-] arithmetic		<-->	noun++C1	[220818][002]	./əˈrɪθmətɪk/-NAmE /əˈrɪθmətɪk/ [uncountable] [t]
+	;môn số học -- (1) the type of mathematics that deals with the adding, multiplying, etc. of numbers
 		;He's not very good at arithmetic.
+		;Topics Maths and measurementc1, Education-c1
+	; -- (2) 
 
 
 
-[-] art		<-->	noun++A1	[220818][001]	./ɑːt/-NAmE /ɑːrt/
-	;nghệ thuật -- [countable, usually plural] the subjects you can study at school or university that are not sciences, such as languages, history or literature
+[-] art		<-->	noun++A1	[220818][002]	./cef/ [t]
+	; -- (1) 
+	; -- (2) 
+	;nghệ thuật -- (3) [uncountable] the skill of creating objects such as paintings and drawings, especially when you study it
+		;She's good at art and design.
+		;He has a master's degree in fine art.
+		;an art teacher/student/college/class
+		;Collocations Fine arts
+		;Topics Education-a1, Hobbiesa1, Arta1
+				;Oxford Collocations Dictionary
+				;adjective
+				;greathighcommercial…
+				;verb + art
+				;createproducedisplay…
+				;art + noun
+				;gallerymuseumexhibit…
+				;phrases
+				;life imitates art
+		;See full entry
+	;nghệ thuật -- (6) [countable, usually plural] the subjects you can study at school or university that are not sciences, such as languages, history or literature
 		;an arts degree
-		;COMPARE science
-		;SEE ALSO liberal arts
+		;compare science
+		;see also liberal arts
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;adjective
+				;liberal
+				;arts + noun
+				;subjectdegree
+				;phrases
+				;arts and sciences
+		;See full entry
+	; -- (7) 
 
 
-
-[-] aS (level)		<-->	noun++C2	[220818][001]	./ˌeɪ ˈes levl/-NAmE /ˌeɪ ˈes levl/
-	;kỳ thi cuối trung học -- [countable, uncountable] Advanced Subsidiary (level);a British exam usually taken in Year 12 or Year 13 of school or college (= the final year or the year before it) covering half the material of an A-level qualification
+[-] AS (level)		<-->	noun++C2	[220818][002]	./ˌeɪ ˈes levl/-NAmE /ˌeɪ ˈes levl/ [countable, uncountable] [t]
+	;kỳ thi cuối trung học -- (1) Advanced Subsidiary (level); a British exam usually taken in Year 12 or Year 13 of school or college (= the final year or the year before it) covering half the material of an A-level qualification
 		;AS exams
 		;She’s doing an AS (level) in French.
 		;at AS level He's taking philosophy at AS level.
+		;Topics Education-c2
 
 
 
-[-] assembly		<-->	noun++C1	[220818][001]	./cef/
+[-] assembly		<-->	noun++C1	[220818][002]	./cef/ [t]
 	;đại hội -- [countable, uncountable] a meeting of the teachers and students in a school, usually at the start of the day, to give information, discuss school events or say prayers together
 		;The deputy head was taking (= leading) school assembly that day.
+	; -- (1)
+	;cuộc họp -- (3)[countable, uncountable] a meeting of the teachers and students in a school, usually at the start of the day, to give information, discuss school events or say prayers together
+		;The deputy head was taking (= leading) school assembly that day.
+		;Topics Education-c1
+		;Extra Examples:
+		;The announcement was made during morning assembly.
+		;We hold an assembly every morning.
+		;I'm playing the flute in assembly tomorrow morning.
+		;There is a whole school assembly every Friday morning.
+				;Oxford Collocations Dictionary
+				;adjective
+				;schoolmorning
+				;verb + assembly
+				;haveholdattend…
+				;assembly + noun
+				;hall
+				;preposition
+				;at assemblyduring assemblyin assembly…
+		;See full entry
+	; -- (4)
 
 
-
-[-] assess		<-->	verb++B2	[221118][001]	./cef/
-
-
-
-[-] assessment		<-->	noun++B2	[221118][001]	./cef/
+[-] assess		<-->	verb++B2	[221118][002]	./cef/ [t]
+	; -- (1)
+		;Topics Opinion and argumentb2, Education-b2
+	; -- (2) 
 
 
+[-] assessment		<-->	noun++B2	[221118][001]	./cef/ [t]
+	; -- (1)
+	; -- (2) 
+	; -- (3) 
+		;Topics Education-b2
+	; -- (4) 
 
-[-] assessor		<-->	noun++C1	[220818][001]	./əˈsesə(r)/-NAmE /əˈsesər/
-	;người đánh giá -- a person who judges how well somebody has done in an exam, a competition, etc.
+
+[-] assessor		<-->	noun++C1	[220818][002]	./əˈsesə(r)/-NAmE /əˈsesər/ [t]
+	; -- (1)
+	; -- (2) 
+	;người đánh giá -- (3) a person who judges how well somebody has done in an exam, a competition, etc.
 		;College lecturers acted as external assessors of the exam results.
+		;Topics Education-c1
 
+
+
+
+
+	========
 
 
 [-] assignment		<-->	noun++B1	[220818][001]	./əˈsaɪnmənt/-NAmE /əˈsaɪnmənt/
