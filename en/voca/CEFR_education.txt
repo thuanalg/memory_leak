@@ -402,71 +402,190 @@
 
 
 
-	========
 
 
-[-] assignment		<-->	noun++B1	[220818][001]	./əˈsaɪnmənt/-NAmE /əˈsaɪnmənt/
-	;sự gắn việc -- [countable] a task or piece of work that somebody is given to do, usually as part of their job or studies
+[-] assignment		<-->	noun++B1	[220818][002]	./cef/ [t]
+	;sự giao việc -- (1) [countable] a task or piece of work that somebody is given to do, usually as part of their job or studies
 		;Students are required to complete all homework assignments.
 		;You will need to complete three written assignments per semester.
 		;a business/special assignment
 		;I had set myself a tough assignment.
-		;on an assignment She is in Greece on an assignment for one of the Sunday newspapers.
+		;on an assignment She is in Greece on an assignment for a media company.
 		;on assignment one of our reporters on assignment in China
+		;Extra Examples:
+		;The students handed in their assignments.
+		;The teacher gave us an assignment on pollution.
+		;Why did you take on this assignment if you're so busy?
+		;He refused to accept the assignment.
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;adjective
+				;readingwritingwritten…
+				;verb + assignment
+				;givehand outset…
+				;preposition
+				;assignment on
+		;See full entry
+	; -- (2) 
 
 
 
-[-] assistant		<-->	noun++A2	[220818][001]	./əˈsɪstənt/-NAmE /əˈsɪstənt/
- 	;người hỗ trợ -- a person who helps or supports somebody, usually in their job
+[-] assistant		<-->	noun++A2	[220818][002]	./cef/ [t]
+ 	;người hỗ trợ -- (1) a person who helps or supports somebody, usually in their job
 		;My assistant will now demonstrate the machine in action.
 		;a senior research assistant
-		;She works as a care assistant in an old people's home.
 		;I work part-time as a classroom assistant in my local primary school.
-		;He was working as a special assistant to the president.
-		;SEE ALSO graduate assistant, personal assistant, physician's assistant, teaching assistant, voice assistant
+		;She was working as a special assistant to the president.
+		;see also care assistant, graduate assistant, personal assistant, physician's assistant, teaching assistant, voice assistant
+		;Extra Examples:
+		;She had a clerical assistant to do her paperwork.
+		;She is assistant to the Production Manager.
+		;He worked as an assistant to the Sales Director.
+		;Topics Education-a2, Jobsa2
+				;Oxford Collocations Dictionary
+				;adjective
+				;chiefseniordeputy…
+				;verb + assistant
+				;employ (somebody as)haveget…
+				;preposition
+				;assistant to
+		;See full entry
+	; -- (2) 
+	;giáo sư trợ giảng -- (3) ​(British English) a student at university or college who spends time in a foreign country teaching his or her own language in a school
+		;Topics Education-c1
+		;Word Origin
 
 
 
-[-] attend		<-->	verb++A2	[220818][001]	./cef/
-	;tham dự -- [transitive, intransitive] attend something (formal) to go regularly to a place
+
+
+
+
+
+
+[-] attend		<-->	verb++A2	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;học tại -- (2) [transitive, intransitive] attend something (formal) to go regularly to a place
 		;Our children attend the same school.
 		;Students are expected to attend class regularly.
 		;How many people attend church every Sunday?
 		;Your dentist will ask you to attend for regular check-ups.
 		;The child was failing to attend regularly at the school.
+		;Extra Examples
+		;The patients all attend the clinic monthly.
+		;She attended the college one day a week.
+		;He regularly attends the local mosque.
+		;Topics Education-a2
+				;Oxford Collocations Dictionary
+				;adverb
+				;regularly
+				;verb + attend
+				;be able tobe unable tobe asked to…
+				;phrases
+				;sparsely attendedwell attended
+		;See full entry
+	; -- (3) 
+	; -- (5) 
 
 
 
-[-] attendance		<-->	noun++C1	[220818][001]	./əˈtendəns/-NAmE /əˈtendəns/
-	;việc có mặt ở nơi nào đó -- [uncountable, countable] the act of being present at a place, for example at school
+
+[-] attendance		<-->	noun++C1	[220818][002]	./cef/ [t]
+	;sự tham dự -- (1) [uncountable, countable] the act of being present at a place, for example at school
 		;Attendance at these lectures is not compulsory.
 		;Teachers must keep a record of students' attendances.
+		;Topics Working lifec1, Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;goodlargerecord…
+				;verb + attendance
+				;boostimproveincrease…
+				;attendance + verb
+				;declinedropfall…
+				;attendance + noun
+				;figuresnumbersrate…
+				;preposition
+				;in attendanceattendance at
+				;phrases
+				;take attendance
+		;See full entry
+	; -- (2) [countable, uncountable] the number of people present at an organized event
+		;high/low/falling/poor attendances
+		;There was an attendance of 42 at the meeting.
+		;Cinema attendances have risen again recently.
+		;Extra Examples:
+		;The average attendance at matches increased last year.
+		;It was a record attendance for a midweek game.
+		;Despite falling attendances, the zoo will stay open.
+		;Building a new stadium has boosted attendances by 40%.
+		;Attendances at the pool always fall in winter.
+				;Oxford Collocations Dictionary
+				;adjective
+				;goodlargerecord…
+				;verb + attendance
+				;boostimproveincrease…
+				;attendance + verb
+				;declinedropfall…
+				;attendance + noun
+				;figuresnumbersrate…
+				;preposition
+				;in attendanceattendance at
+				;phrases
+				;take attendance
+		;See full entry
 
 
 
-[-] award		<-->	noun++C1	[220818][002]	./əˈwɔːd/-NAmE /əˈwɔːrd/
-	;giải thưởng -- [uncountable] the official decision to give something to somebody
+
+[-] award		<-->	noun++C1	[220818][002]	./cef/
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;cấp, trao giải thưởng -- (4) ​[uncountable] the official decision to give something to somebody
 		;Satisfactory completion of the course will lead to the award of the Diploma of Social Work.
 		;The court must specify the different elements in its award of compensation.
+		;Topics Preferences and decisionsc1, Education-c1
+		;Word Origin
 
 
 
-[-] bA		<-->	noun++C2	[220818][001]	./ˌbiː ˈeɪ/-NAmE /ˌbiː ˈeɪ/
-	;cử nhân nghệ thuật -- (British English) (North American English usually B.A.) a first university degree in an arts subject (the abbreviation for ‘Bachelor of Arts’)
-		;to be/have/do a BA
+
+
+
+[-] BA		<-->	noun++C2	[220818][002]	./ˌbiː ˈeɪ/-NAmE /ˌbiː ˈeɪ/ (British English)
+(North American English usually B.A.) [t]
+	;cử nhân nghệ thuật -- (1) a first university degree in an arts subject; a person who has this degree (the abbreviation for ‘Bachelor of Arts’)
+		;to do/have/be a BA
 		;(British English) Darren Green BA
+		;Topics Education-c2
+				;Oxford Collocations Dictionary
+				;BA is used before these nouns:
+				;degree
+		;See full entry
+	; -- (2) 
+	; -- (3) 
 
 
 
-[-] bachelor		<-->	noun++C2	[220818][001]	./ˈbætʃələ(r)/-NAmE /ˈbætʃələr/
-	;cửa nhân -- (usually Bachelor) a person who has a Bachelor’s degree (= a first university degree)
+
+
+
+[-] bachelor		<-->	noun++C2	[220818][002]	./ˈbætʃələ(r)/-NAmE /ˈbætʃələr/ [t]
+	; -- (1) 
+	;cử nhân -- (2) (usually Bachelor) a person who has a Bachelor’s degree (= a first university degree)
 		;a Bachelor of Arts/Engineering/Science
-		;SEE ALSO BA, BEd, BSc
+		;see also BA, BEd, BSc
+		;Topics Educationc2
+	; -- (3) 
 
 
 
-[-] bell		<-->	noun++B1	[220818][001]	./bel/-NAmE /bel/
-	;cái chuông điện -- an electrical device which makes a ringing sound when a button on it is pushed;the sound that it makes, used as a signal or a warning
+
+
+
+[-] bell		<-->	noun++B1	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;cái chuông điện -- (2) an electrical device which makes a ringing sound when a button on it is pushed; the sound that it makes, used as a signal or a warning
 		;Ring the bell to see if they're in.
 		;The bell's ringing!
 		;The bell went for the end of the lesson.
@@ -474,43 +593,85 @@
 		;(figurative) Warning bells started ringing in her head as she sensed that something was wrong.
 		;(figurative) This decision is going to sound a warning bell to other couples.
 		;Saved by the bell! (= a bell that signals the end of something) I thought I'd have to sit here listening to you two argue forever.
+		;see also doorbell
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;adjective
+				;bicycledoordinner…
+				;verb + bell
+				;pressringsound…
+				;bell + verb
+				;goringsound…
+				;bell + noun
+				;pullpush
+				;phrases
+				;saved by the bellbells and whistles
+		;See full entry
 
 
 
-[-] biology		<-->	noun++A2	[220818][001]	./baɪˈɒlədʒi/-NAmE /baɪˈɑːlədʒi/
-	;sinh học -- [uncountable] the scientific study of the life and structure of plants and animals
-		;a degree in biology
-		;molecular/evolutionary biology
-		;a biology teacher/class/textbook
-		;She's a professor of biology at Stanford.
-		;COMPARE botany, zoology
 
 
 
-[-] blackboard		<-->	noun++B1	[220818][002]	./ˈblækbɔːd/-NAmE /ˈblækbɔːrd/
-	;bảng đen -- (also chalkboard especially in North American English) a large board with a smooth black or dark green surface that teachers write on with a piece of chalk
+[-] biology		<-->	noun++A2	[220818][002]	./cef/ [uncountable] [t]
+	;môn sin học -- (1) 
+		;Topics Education-a2, Scientific researcha2, Biologya2
+	; -- (2) 
+
+
+
+
+
+
+[-] blackboard		<-->	noun++B1	[220818][002]	./ˈblækbɔːd/-NAmE /ˈblækbɔːrd/ (also chalkboard especially in North American English)
+	;bảng đen -- (1) a large board with a smooth black or dark green surface that teachers write on with a piece of chalk
 		;to write on the blackboard
 		;Please copy the homework from the blackboard.
-		;COMPARE whiteboard
+		;compare whiteboard
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;verb + blackboard
+				;write oncovercopy from…
+				;preposition
+				;at a/​the blackboardon a/​the blackboard
+		;See full entry
 
 
 
-[-] blazer		<-->	noun++C2	[220818][002]	./ˈbleɪzə(r)/-NAmE /ˈbleɪzər/ [230514]
-	;áo khoát jacket -- a jacket, not worn with matching trousers, often showing the colours or badge of a club, school, team, etc.
+
+
+
+[-] blazer		<-->	noun++C2	[220818][003]	./ˈbleɪzə(r)/-NAmE /ˈbleɪzər/ [230514] [t]
+	;áo khoác -- (1) a jacket, not worn with matching trousers, often showing the colours or badge of a club, school, team, etc.
 		;He was smartly dressed in a blazer and slacks.
 		;a school blazer
+		;Topics Education-c2, Clothes and Fashionc2
+				;Oxford Collocations Dictionary
+				;Blazer is used before these nouns:
+				;badge
+		;See full entry
+		;Word Origin
 
 
 
-[-] blended learning		<-->	noun++C1	[220818][002]	./ˌblendɪd ˈlɜːnɪŋ/-NAmE /ˌblendɪd ˈlɜːrnɪŋ/ [240212]
-	;Giáo dục kết hợp -- [uncountable] a way of studying a subject that combines being taught in class with the use of different technologies, including learning over the internet
+
+
+
+[-] blended learning		<-->	noun++C1	[220818][002]	./ˌblendɪd ˈlɜːnɪŋ/-NAmE /ˌblendɪd ˈlɜːrnɪŋ/ [uncountable] [240212] [t]
+	;Giáo dục kết hợp -- (1) a way of studying a subject that combines being taught in class with the use of different technologies, including learning over the internet
 		;Blended learning is a cost-effective way of delivering training.
 		;the university’s approach to blended learning
+		;Topics Education-c1
 
 
 
-[-] board		<-->	noun++A2	[220818][001]	./cef/
-	;bảng -- [countable] (especially in compounds) a piece of wood, or other strong material, that is used for a special purpose
+
+
+
+[-] board		<-->	noun++A2	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;bảng -- (2) [countable]
+(especially in compounds) a piece of wood, or other strong material, that is used for a special purpose
 		;a whiteboard
 		;I'll write it up on the board.
 		;(British English) a noticeboard
@@ -520,13 +681,37 @@
 		;She jumped off the top board.
 		;a chessboard
 		;He removed the figure from the board.
-		;SEE ALSO blackboard, bulletin board, emery board, idiot board, leader board, message board, mood board, noticeboard, whiteboard
+		;see also blackboard, bulletin board, emery board, idiot board, leader board, message board, mood board, noticeboard, whiteboard
+		;Homophones board | bored
+		;Topics Education-a2, Games and toysa2
+				;Oxford Collocations Dictionary
+				;adjective
+				;bulletindrawingposter…
+				;board + noun
+				;game
+				;preposition
+				;on a/​the board
+		;See full entry
+	; -- (3) 
+	; -- (9) 
 
 
 
-[-] boarder		<-->	noun++C2	[220818][001]	./ˈbɔːdə(r)/-NAmE /ˈbɔːrdər/
-	;trẻ nội trú -- (especially British English) a child who lives at school and goes home for the holidays
+
+
+
+[-] boarder		<-->	noun++C2	[220818][002]	./ˈbɔːdə(r)/-NAmE /ˈbɔːrdər/ (especially British English) [t]
+	;trẻ nội trú -- (1) a child who lives at school and goes home for the holidays
 		;boarders and day pupils
+		;Topics Educationc2
+	;người ở trọ -- (2) a person who pays money to live in a room in somebody else’s house
+		;synonym lodger
+		;<< lodger, boarder, >>
+		;After her father’s death, her mother took in boarders to bring in extra money.
+		;Topics Houses and homesc2
+
+
+
 
 
 
@@ -540,42 +725,111 @@
 
 
 
-[-] book		<-->	noun++A1	[220818][001]	./cef/
-	;sách -- [countable] a written work published in printed or electronic form
+[-] book		<-->	noun++A1	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;sách -- (2) [countable] a written work published in printed or electronic form
 		;to read/write/publish a book
 		;reference/children's/library books
-		;book by somebody a new book by J. K. Rowling
+		;book by somebody a new book by Jacqueline Wilson
 		;book about something a book about wildlife
 		;book on something He has written a book on local architecture.
+		;Wordfinder: authorbookclassiccriticdramafictiongenreliteraturepoetrywrite
+		;Collocations Literature
+		;Wordfinder: biographyblockbusterbookcharactereditornarratornovelplotpublishtitle
+		;Extra Examples:
+		;Have you read her latest book?
+		;Do you want to renew any of your library books?
+		;His latest book will appear in December.
+		;How many books can I borrow?
+		;How many books have you got out?
+		;How many copies of the book did you order?
+		;I couldn't put the book down.
+		;She looked up from her book and smiled at him.
+		;She's busy writing a book on astrology.
+		;The book is dedicated to his mother.
+		;The collector had many books inscribed to him by famous authors.
+		;There's nothing like curling up with a mug of tea and a good book.
+		;These issues are discussed in his latest book.
+		;a book for new parents
+		;a book of walks in London
+		;a controversial book about the royal family
+		;a new book from the publishing company, Bookworm
+		;a survey to find the nation's favourite children's book
+		;I'm reading a book by Robert Shea.
+		;The book has received some terrible reviews.
+		;a library/​hardback book
+		;Topics Education-a1, Shoppinga1
+				;Oxford Collocations Dictionary
+				;adjective
+				;latestnewrecent…
+				;… of book
+				;copy
+				;verb + book
+				;flick throughflip throughlook at…
+				;book + verb
+				;appearcome outbe out of print…
+				;book + noun
+				;titlereviewreviewer…
+				;preposition
+				;in a/​the bookbook aboutbook on…
+		;See full entry
+	; -- (3) [-for writing in] [countable] (especially in compounds) a set of sheets of paper that are fastened together inside a cover and used for writing in
+		;an exercise book
+		;a notebook
+		;see also address book, colouring book, guest book
+		;Topics Education-a1
+	; -- (7) 
 
 
 
-[-] bSc		<-->	noun++C2	[220818][001]	./ˌbiː es ˈsiː/-NAmE /ˌbiː es ˈsiː/
-	;cử nhân khoa học -- (British English) (North American English B.S., BS) a first university degree in science (the abbreviation for ‘Bachelor of Science’)
-		;(British English) to have/do a BSc in Zoology
+
+
+
+[-] BSc		<-->	noun++C2	[220818][002]	./ˌbiː es ˈsiː/-NAmE /ˌbiː es ˈsiː/ (British English)
+(North American English B.S., BS) [t]
+	;cử nhân khoa học -- (1) a first university degree in science; a person who has this degree (the abbreviation for ‘Bachelor of Science’)
+		;(British English) to do/have a BSc in Zoology
 		;(British English) Jill Ayres BSc
+		;Topics Education-c2
 
 
 
-[-] bTEC		<-->	noun++C2	[220818][001]	./ˈbiːtek/-NAmE /ˈbiːtek/
-	;hội đồng giáo dục kinh doanh và kỷ thuật -- used to refer to any of a large group of British qualifications that can be taken in many different subjects at several levels (the abbreviation for ‘Business and Technology Education Council’)
+
+
+
+[-] BTEC		<-->	noun++C2	[220818][002]	./ˈbiːtek/-NAmE /ˈbiːtek/ [t]
+	;hội đồng giáo dục kinh doanh và kỷ thuật -- (1) used to refer to any of a large group of British qualifications that can be taken in many different subjects at several levels (the abbreviation for ‘Business and Technology Education Council’)
 		;a BTEC Higher National Diploma in Public Service Studies
+		;Topics Education-c2
 
 
 
-[-] bunk ofF		<-->	phrasal verb++C2	[221118]	./p/
-	;rời trường không hợp lệ -- (British English, informal) to stay away from school or work when you should be there;to leave school or work early;SYNONYM skive, play truant
+
+
+
+
+[-] bunk off		<-->	phrasal verb++C2	[221118][002]	./p/ [t]
+	;rời trường không hợp lệ -- (1) [-bunk off | bunk off school/work] (British English, informal) to stay away from school or work when you should be there; to leave school or work early
+		;synonym skive, play truant
 		;I’m going to bunk off this afternoon.
 		;She had bunked off work all week.
+		;Topics Education-c2
+				;Oxford Collocations Dictionary
+				;Bunk off is used with these nouns as the object:
+				;school
+		;See full entry
 
 
 
-[-] bunk off school		<-->	phrasal verb++C2	[221118]	./p/
+
+
+
+[-] bunk off school		<-->	phrasal verb++C2	[221118][002]	./p/ [t]
 	;trốn học -- (1) [-bunk off | bunk off school/work] ​(British English, informal) to stay away from school or work when you should be there; to leave school or work early
 		;synonym skive, play truant
 		;I’m going to bunk off this afternoon.
 		;She had bunked off work all week.
-		;Topics Educationc2
+		;Topics Education-c2
 				;Oxford Collocations Dictionary
 				;Bunk off is used with these nouns as the object:
 				;school
