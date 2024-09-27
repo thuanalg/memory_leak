@@ -134,7 +134,7 @@
 
 
 [-] adult education		<-->	noun++B1	[220818][002]	./ˌædʌlt edʒuˈkeɪʃn/, /əˌdʌlt edʒuˈkeɪʃn/-NAmE /əˌdʌlt edʒuˈkeɪʃn/, /ˌædʌlt edʒuˈkeɪʃn/ (also continuing education)
-[uncountable] [t]
+[uncountable] [240928]
 	;giáo dục thường xuyên -- (1) ​education for adults that is available outside the formal education system, for example at evening classes or over the internet
 		;adult education classes
 		;Culture adult education
@@ -143,7 +143,7 @@
 
 
 [-] A level		<-->	noun++C1	[220818][001]	./ˈeɪ levl/-NAmE /ˈeɪ levl/ (also advanced level)
-[countable, uncountable] [t]
+[countable, uncountable] [240928]
 	;kỳ thi cuối cấp -- (1) a British exam taken in a particular subject, usually in the final year of school at the age of 18
 		;You need three A levels to get onto this university course.
 		;What A levels are you doing?
@@ -161,7 +161,7 @@
 
 
 
-[-] algebra		<-->	noun++C1	[220818][002]	./ˈældʒɪbrə/-NAmE /ˈældʒɪbrə/ [uncountable] [t]
+[-] algebra		<-->	noun++C1	[220818][002]	./ˈældʒɪbrə/-NAmE /ˈældʒɪbrə/ [uncountable] [240928]
 	;môn đại số -- (1) a type of mathematics in which letters and symbols are used to represent quantities
 		;Wordfinder: algebraarithmeticcalculusequationgeometrylogarithmmathsnumeracyproblemtrigonometry
 		;Topics Maths and measurementc1, Education-c1
@@ -170,7 +170,7 @@
 
 
 [-] alma mater		<-->	noun++C2	[220818][002]	./ˌælmə ˈmɑːtə(r)/, /ˌælmə ˈmeɪtə(r)/-NAmE /ˌælmə ˈmɑːtər/ (also Alma Mater)
-[singular] (especially North American English) [t]
+[singular] (especially North American English) [240928]
 	;trường cũ -- (1) the school, college or university that somebody went to
 		;He donated $20 million to his alma mater, Columbia University.
 		;Topics Education-c2
@@ -179,7 +179,7 @@
 
 
 [-] alumna		<-->	noun++C2	[220818][002]	./əˈlʌmnə/-NAmE /əˈlʌmnə/ (plural alumnae  /əˈlʌmniː/  /əˈlʌmniː/)
-(formal) [t]
+(formal) [240928]
 	;cựu nữ học sinh, sinh viên -- (1) a former female student of a school, college or university
 		;Topics Education-c2
 		;Word Origin
@@ -198,7 +198,7 @@
 
 
 [-] alumnus		<-->	noun++C2	[220818][002]	./əˈlʌmnəs/-NAmE /əˈlʌmnəs/ (plural alumni  /əˈlʌmnaɪ/  /əˈlʌmnaɪ/)
-(formal) [t]
+(formal) [240928]
 	;cựu học sinh, sinh viên -- (1) a former student of a school, college or university
 		;Topics Education-c2
 				;Oxford Collocations Dictionary
@@ -209,7 +209,7 @@
 
 
 
-[-] answer		<-->	noun++A1	[220818][002]	./cef/ [t]
+[-] answer		<-->	noun++A1	[220818][002]	./cef/ [240928]
 	; -- (1) 
 	;việc trả lời, thứ mà bạn trả lời -- (2) something that you write or say in reply to a question in a test, an exam, an exercise, etc.; the correct reply to a question in a test, etc.
 		;the correct/right answer
@@ -235,7 +235,7 @@
 	; -- (4) 
 
 
-[-] applicant		<-->	noun++B2	[220818][002]	./cef/ [t]
+[-] applicant		<-->	noun++B2	[220818][002]	./cef/ [240928]
 	;người ứng tuyển -- (1) applicant (for something) a person who makes a formal request for something (= applies for it), especially for a job, a place at a college or university, etc.
 		;There were over 500 applicants for the job.
 		;Successful applicants will receive notification within the week.
@@ -262,7 +262,7 @@
 
 
 
-[-] application		<-->	noun++B1	[220818][002]	./cef/ [t]
+[-] application		<-->	noun++B1	[220818][002]	./cef/ [240928]
 	;việc ứng tuyển -- (1) [-for job/course]  [countable, uncountable] a formal (often written) request for something, such as a job, permission to do something or a place at a college or university
 		;a planning/patent/visa application
 		;We have received applications from more than 3 000 students.
@@ -300,7 +300,7 @@
 
 
 
-[-] arithmetic		<-->	noun++C1	[220818][002]	./əˈrɪθmətɪk/-NAmE /əˈrɪθmətɪk/ [uncountable] [t]
+[-] arithmetic		<-->	noun++C1	[220818][002]	./əˈrɪθmətɪk/-NAmE /əˈrɪθmətɪk/ [uncountable] [240928]
 	;môn số học -- (1) the type of mathematics that deals with the adding, multiplying, etc. of numbers
 		;He's not very good at arithmetic.
 		;Topics Maths and measurementc1, Education-c1
@@ -308,7 +308,7 @@
 
 
 
-[-] art		<-->	noun++A1	[220818][002]	./cef/ [t]
+[-] art		<-->	noun++A1	[220818][002]	./cef/ [240928]
 	; -- (1) 
 	; -- (2) 
 	;nghệ thuật -- (3) [uncountable] the skill of creating objects such as paintings and drawings, especially when you study it
@@ -343,7 +343,7 @@
 	; -- (7) 
 
 
-[-] AS (level)		<-->	noun++C2	[220818][002]	./ˌeɪ ˈes levl/-NAmE /ˌeɪ ˈes levl/ [countable, uncountable] [t]
+[-] AS (level)		<-->	noun++C2	[220818][002]	./ˌeɪ ˈes levl/-NAmE /ˌeɪ ˈes levl/ [countable, uncountable] [240928]
 	;kỳ thi cuối trung học -- (1) Advanced Subsidiary (level); a British exam usually taken in Year 12 or Year 13 of school or college (= the final year or the year before it) covering half the material of an A-level qualification
 		;AS exams
 		;She’s doing an AS (level) in French.
@@ -352,7 +352,7 @@
 
 
 
-[-] assembly		<-->	noun++C1	[220818][002]	./cef/ [t]
+[-] assembly		<-->	noun++C1	[220818][002]	./cef/ [240928]
 	;đại hội -- [countable, uncountable] a meeting of the teachers and students in a school, usually at the start of the day, to give information, discuss school events or say prayers together
 		;The deputy head was taking (= leading) school assembly that day.
 	; -- (1)
@@ -377,13 +377,13 @@
 	; -- (4)
 
 
-[-] assess		<-->	verb++B2	[221118][002]	./cef/ [t]
+[-] assess		<-->	verb++B2	[221118][002]	./cef/ [240928]
 	; -- (1)
 		;Topics Opinion and argumentb2, Education-b2
 	; -- (2) 
 
 
-[-] assessment		<-->	noun++B2	[221118][001]	./cef/ [t]
+[-] assessment		<-->	noun++B2	[221118][001]	./cef/ [240928]
 	; -- (1)
 	; -- (2) 
 	; -- (3) 
@@ -391,7 +391,7 @@
 	; -- (4) 
 
 
-[-] assessor		<-->	noun++C1	[220818][002]	./əˈsesə(r)/-NAmE /əˈsesər/ [t]
+[-] assessor		<-->	noun++C1	[220818][002]	./əˈsesə(r)/-NAmE /əˈsesər/ [240928]
 	; -- (1)
 	; -- (2) 
 	;người đánh giá -- (3) a person who judges how well somebody has done in an exam, a competition, etc.
@@ -404,7 +404,7 @@
 
 
 
-[-] assignment		<-->	noun++B1	[220818][002]	./cef/ [t]
+[-] assignment		<-->	noun++B1	[220818][002]	./cef/ [240928]
 	;sự giao việc -- (1) [countable] a task or piece of work that somebody is given to do, usually as part of their job or studies
 		;Students are required to complete all homework assignments.
 		;You will need to complete three written assignments per semester.
@@ -430,7 +430,7 @@
 
 
 
-[-] assistant		<-->	noun++A2	[220818][002]	./cef/ [t]
+[-] assistant		<-->	noun++A2	[220818][002]	./cef/ [240928]
  	;người hỗ trợ -- (1) a person who helps or supports somebody, usually in their job
 		;My assistant will now demonstrate the machine in action.
 		;a senior research assistant
@@ -463,7 +463,7 @@
 
 
 
-[-] attend		<-->	verb++A2	[220818][002]	./cef/ [t]
+[-] attend		<-->	verb++A2	[220818][002]	./cef/ [240928]
 	; -- (1) 
 	;học tại -- (2) [transitive, intransitive] attend something (formal) to go regularly to a place
 		;Our children attend the same school.
@@ -490,7 +490,7 @@
 
 
 
-[-] attendance		<-->	noun++C1	[220818][002]	./cef/ [t]
+[-] attendance		<-->	noun++C1	[220818][002]	./cef/ [240928]
 	;sự tham dự -- (1) [uncountable, countable] the act of being present at a place, for example at school
 		;Attendance at these lectures is not compulsory.
 		;Teachers must keep a record of students' attendances.
@@ -553,7 +553,7 @@
 
 
 [-] BA		<-->	noun++C2	[220818][002]	./ˌbiː ˈeɪ/-NAmE /ˌbiː ˈeɪ/ (British English)
-(North American English usually B.A.) [t]
+(North American English usually B.A.) [240928]
 	;cử nhân nghệ thuật -- (1) a first university degree in an arts subject; a person who has this degree (the abbreviation for ‘Bachelor of Arts’)
 		;to do/have/be a BA
 		;(British English) Darren Green BA
@@ -570,7 +570,7 @@
 
 
 
-[-] bachelor		<-->	noun++C2	[220818][002]	./ˈbætʃələ(r)/-NAmE /ˈbætʃələr/ [t]
+[-] bachelor		<-->	noun++C2	[220818][002]	./ˈbætʃələ(r)/-NAmE /ˈbætʃələr/ [240928]
 	; -- (1) 
 	;cử nhân -- (2) (usually Bachelor) a person who has a Bachelor’s degree (= a first university degree)
 		;a Bachelor of Arts/Engineering/Science
@@ -583,7 +583,7 @@
 
 
 
-[-] bell		<-->	noun++B1	[220818][002]	./cef/ [t]
+[-] bell		<-->	noun++B1	[220818][002]	./cef/ [240928]
 	; -- (1) 
 	;cái chuông điện -- (2) an electrical device which makes a ringing sound when a button on it is pushed; the sound that it makes, used as a signal or a warning
 		;Ring the bell to see if they're in.
@@ -613,7 +613,7 @@
 
 
 
-[-] biology		<-->	noun++A2	[220818][002]	./cef/ [uncountable] [t]
+[-] biology		<-->	noun++A2	[220818][002]	./cef/ [uncountable] [240928]
 	;môn sin học -- (1) 
 		;Topics Education-a2, Scientific researcha2, Biologya2
 	; -- (2) 
@@ -641,7 +641,7 @@
 
 
 
-[-] blazer		<-->	noun++C2	[220818][003]	./ˈbleɪzə(r)/-NAmE /ˈbleɪzər/ [230514] [t]
+[-] blazer		<-->	noun++C2	[220818][003]	./ˈbleɪzə(r)/-NAmE /ˈbleɪzər/ [230514] [240928]
 	;áo khoác -- (1) a jacket, not worn with matching trousers, often showing the colours or badge of a club, school, team, etc.
 		;He was smartly dressed in a blazer and slacks.
 		;a school blazer
@@ -657,7 +657,7 @@
 
 
 
-[-] blended learning		<-->	noun++C1	[220818][002]	./ˌblendɪd ˈlɜːnɪŋ/-NAmE /ˌblendɪd ˈlɜːrnɪŋ/ [uncountable] [240212] [t]
+[-] blended learning		<-->	noun++C1	[220818][002]	./ˌblendɪd ˈlɜːnɪŋ/-NAmE /ˌblendɪd ˈlɜːrnɪŋ/ [uncountable] [240212] [240928]
 	;Giáo dục kết hợp -- (1) a way of studying a subject that combines being taught in class with the use of different technologies, including learning over the internet
 		;Blended learning is a cost-effective way of delivering training.
 		;the university’s approach to blended learning
@@ -668,7 +668,7 @@
 
 
 
-[-] board		<-->	noun++A2	[220818][002]	./cef/ [t]
+[-] board		<-->	noun++A2	[220818][002]	./cef/ [240928]
 	; -- (1) 
 	;bảng -- (2) [countable]
 (especially in compounds) a piece of wood, or other strong material, that is used for a special purpose
@@ -700,7 +700,7 @@
 
 
 
-[-] boarder		<-->	noun++C2	[220818][002]	./ˈbɔːdə(r)/-NAmE /ˈbɔːrdər/ (especially British English) [t]
+[-] boarder		<-->	noun++C2	[220818][002]	./ˈbɔːdə(r)/-NAmE /ˈbɔːrdər/ (especially British English) [240928]
 	;trẻ nội trú -- (1) a child who lives at school and goes home for the holidays
 		;boarders and day pupils
 		;Topics Educationc2
@@ -725,7 +725,7 @@
 
 
 
-[-] book		<-->	noun++A1	[220818][002]	./cef/ [t]
+[-] book		<-->	noun++A1	[220818][002]	./cef/ [240928]
 	; -- (1) 
 	;sách -- (2) [countable] a written work published in printed or electronic form
 		;to read/write/publish a book
@@ -786,7 +786,7 @@
 
 
 [-] BSc		<-->	noun++C2	[220818][002]	./ˌbiː es ˈsiː/-NAmE /ˌbiː es ˈsiː/ (British English)
-(North American English B.S., BS) [t]
+(North American English B.S., BS) [240928]
 	;cử nhân khoa học -- (1) a first university degree in science; a person who has this degree (the abbreviation for ‘Bachelor of Science’)
 		;(British English) to do/have a BSc in Zoology
 		;(British English) Jill Ayres BSc
@@ -797,7 +797,7 @@
 
 
 
-[-] BTEC		<-->	noun++C2	[220818][002]	./ˈbiːtek/-NAmE /ˈbiːtek/ [t]
+[-] BTEC		<-->	noun++C2	[220818][002]	./ˈbiːtek/-NAmE /ˈbiːtek/ [240928]
 	;hội đồng giáo dục kinh doanh và kỷ thuật -- (1) used to refer to any of a large group of British qualifications that can be taken in many different subjects at several levels (the abbreviation for ‘Business and Technology Education Council’)
 		;a BTEC Higher National Diploma in Public Service Studies
 		;Topics Education-c2
@@ -808,7 +808,7 @@
 
 
 
-[-] bunk off		<-->	phrasal verb++C2	[221118][002]	./p/ [t]
+[-] bunk off		<-->	phrasal verb++C2	[221118][002]	./p/ [240928]
 	;rời trường không hợp lệ -- (1) [-bunk off | bunk off school/work] (British English, informal) to stay away from school or work when you should be there; to leave school or work early
 		;synonym skive, play truant
 		;I’m going to bunk off this afternoon.
@@ -824,7 +824,7 @@
 
 
 
-[-] bunk off school		<-->	phrasal verb++C2	[221118][002]	./p/ [t]
+[-] bunk off school		<-->	phrasal verb++C2	[221118][002]	./p/ [240928]
 	;trốn học -- (1) [-bunk off | bunk off school/work] ​(British English, informal) to stay away from school or work when you should be there; to leave school or work early
 		;synonym skive, play truant
 		;I’m going to bunk off this afternoon.
@@ -847,14 +847,21 @@
 
 ==============
 
-[-] bunk off work		<-->	phrasal verb++C2	[221118]	./p/
-	;rời trường không hợp lệ -- (British English, informal) to stay away from school or work when you should be there;to leave school or work early;SYNONYM skive, play truant
+[-] bunk off work		<-->	phrasal verb++C2	[221118]	./p/ [240928]
+	;trốn học -- (1) [-bunk off | bunk off school/work] ​(British English, informal) to stay away from school or work when you should be there; to leave school or work early
+		;synonym skive, play truant
 		;I’m going to bunk off this afternoon.
-		;She had bunked off work all week.	
+		;She had bunked off work all week.
+		;Topics Education-c2
+				;Oxford Collocations Dictionary
+				;Bunk off is used with these nouns as the object:
+				;school
+		;See full entry
 
 
 
-[-] bursary		<-->	noun++C2	[220818][002]	./ˈbɜːsəri/-NAmE /ˈbɜːrsəri/ (plural bursaries) (especially British English)
+
+[-] bursary		<-->	noun++C2	[220818][003]	./ˈbɜːsəri/-NAmE /ˈbɜːrsəri/ (plural bursaries) (especially British English) [240928]
 	;học bổng -- (1) an amount of money that is given to somebody so that they can study, usually at a college or university
 		;SYNONYM grant, scholarship
 		;<<grant, scholarship, bursary, >> 
@@ -4530,7 +4537,7 @@
 
 
 
-[-] syllabus		<-->	noun++C1	[220810][002]	./ˈsɪləbəs/-NAmE /ˈsɪləbəs/ (plural syllabuses, less frequent syllabi /ˈsɪləbaɪ/ /ˈsɪləbaɪ/)
+[-] syllabus		<-->	noun++C1	[220810][003]	./ˈsɪləbəs/-NAmE /ˈsɪləbəs/ (plural syllabuses, less frequent syllabi /ˈsɪləbaɪ/ /ˈsɪləbaɪ/) [240928]
 	;giáo trình -- (1) a list of the topics, books, etc. that students should study in a particular subject at school or college
 		;on the syllabus American history will be on the syllabus next term.
 		;Collocations Education
@@ -4547,7 +4554,7 @@
 		;The current history syllabus has a pretty narrow focus.
 		;They stick rigidly to the official syllabus.
 		;We practised using some of the questions from last year's syllabus.
-		;TOPICS EDUCATIOnC1
+		;TOPICS EDUCATIOn-C1
 			;Oxford Collocations Dictionary
 			;adjective
 				;classcourseexam…
@@ -4564,25 +4571,90 @@
 
 
 
-[-] take		<-->	verb++A2	[221118][001]	./cef/
+[-] take		<-->	verb++A2	[221118][002]	./cef/ [240928]
+	; -- (1) 
+	; -- (2) 
+	;thi -- (14) [-exam] [transitive] take something to do an exam or a test
+		;When did you take your driving test?
+		;Topics Education-a2
+	;học -- (15) [-study] [transitive] take something to study a subject at school, college, etc.
+		;She is planning to take a course in web design.
+		;Last year I started taking yoga classes.
+		;How many subjects are you taking this year?
+		;Topics Education-a2
+	;dạy -- (38) [-teach/lead] [transitive] to be the teacher or leader in a class or a religious service
+		;take somebody (for something) The head teacher usually takes us for French.
+		;take something Mr Perkins took the morning service.
+		;Topics Educationa2
+	; -- (43) 
 
 
 
-[-] task		<-->	noun++A2	[221118][001]	./cef/
 
 
 
-[-] taunt		<-->	verb++C2	[220818][001]	./tɔːnt/-NAmE /tɔːnt/
-	;chế nhạo -- taunt somebody to try to make somebody angry or upset by saying unkind things about them, laughing at their failures, etc.
+[-] task		<-->	noun++A2	[221118][002]	./cef/ [240928]
+	; -- (1) 
+	;bài tập -- (2) an activity that is designed to help achieve a particular learning goal, especially in language teaching
+		;Look at the diagram and then do the task below.
+		;task-based learning
+		;Topics Education-a2
+				;Oxford Collocations Dictionary
+				;adjective
+				;awesomechallengingdaunting…
+				;verb + task
+				;handletake ontake upon yourself…
+				;task + verb
+				;involve somethingrequire somethingfall to somebody…
+				;preposition
+				;task fortask in
+				;phrases
+				;be no easy taskthe task aheadthe task at hand…
+		;See full entry
+
+
+
+
+
+
+[-] taunt		<-->	verb++C2	[220818][002]	./tɔːnt/-NAmE /tɔːnt/ [240928]
+	;chế nhạo -- (1) ​taunt somebody to try to make somebody angry or upset by saying unkind things about them, laughing at their failures, etc.
 		;The other kids continually taunted him about his size.
+		;Extra Examples:
+		;‘Running away?’he taunted softly.
+		;The other children taunted him with nicknames.
+		;Topics Personal qualitiesc2, Education-c2
+				;Oxford Collocations Dictionary
+				;adverb
+				;constantlyregularlyrepeatedly…
+				;preposition
+				;aboutwith
+		;See full entry
+		;Word Origin
 
 
 
-[-] taunt		<-->	noun++C2	[220818][001]	./tɔːnt/-NAmE /tɔːnt/
-	;sự chế nhạo -- an offensive or unkind remark that is intended to make somebody angry or upset
+
+
+
+
+
+[-] taunt		<-->	noun++C2	[220818][003]	./tɔːnt/-NAmE /tɔːnt/ [240928]
+	;chế nhạo -- (1) an offensive or unkind remark that is intended to make somebody angry or upset
 		;Black players often had to endure racist taunts.
 		;She ignored his taunt.
 		;Their taunts stung him into his best performance for the team yet.
+		;Topics Personal qualitiesc2, Education-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;racistplaygroundschoolyard…
+				;verb + taunt
+				;shoutbe subjected toendure…
+		;See full entry
+		;Word Origin
+
+
+
 
 
 
