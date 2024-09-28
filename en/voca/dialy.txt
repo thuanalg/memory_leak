@@ -15,9 +15,10 @@ https://chatgpt.com/
 
 ./configure --prefix=/mingw32 --host=i686-w64-mingw32 --enable-shared
 ffmpeg -list_devices true -f dshow -i dummy
-ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 18 -preset slow output7.mp4
+ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30 -t 20 -c:v libx264 -crf 18 -preset slow output_01.mp4
  
-ffmpeg -list_devices true -f dshow -i dummy
+./ffmpeg -list_devices true -f dshow -i dummy
+gdb --args ./ffmpeg_g.exe -list_devices true -f dshow -i dummy
 
 ffmpeg -f dshow -i video="Integrated Webcam":audio="마이크 (KM_B2 Digital Audio)" output.mp4
 
@@ -25,7 +26,7 @@ ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30
 
 ffmpeg -f dshow -i video="Integrated Webcam":audio="마이크 (KM_B2 Digital Audio)" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 18 -t 20 -preset slow output8.mp4
 
-ffmpeg -f dshow -i video="Integrated Webcam":audio="Microphone (Realtek(R) Audio)" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 192k -t 20 output_1.mp4
+ffmpeg -f dshow -i video="Integrated Webcam":audio="Microphone (Realtek(R) Audio)" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 192k -t 20 output_2.mp4
 
 Microphone (Realtek(R) Audio)
 
@@ -43,5 +44,13 @@ ffmpeg -f gdigrab -i desktop -f dshow -i audio="마이크 (KM_B2 Digital Audio)"
 
 git clone https://bitbucket.org/multicoreware/x265_git.git
 cd x265_git/build/msys
-
+From github.com:thuanalg/simplelog-topic
+ = [up to date]      240822_fmt -> origin/240822_fmt
+ = [up to date]      main       -> origin/main
+ = [up to date]      mingw32    -> origin/mingw32
  
+ https://docs.google.com/document/d/1PRZBfgWlRIYJei4hyNU4sXQjp_NJPM-0CLTEdBRvCUU/edit?usp=sharing
+ Which function of win32 API to read/write data from camera 
+
+
+ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30 -t 10 -c:v libx264 -crf 18 -preset slow output_09.mp4
