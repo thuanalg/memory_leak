@@ -845,7 +845,6 @@
 
 
 
-==============
 
 [-] bunk off work		<-->	phrasal verb++C2	[221118]	./p/ [240928]
 	;trốn học -- (1) [-bunk off | bunk off school/work] ​(British English, informal) to stay away from school or work when you should be there; to leave school or work early
@@ -886,10 +885,10 @@
 
 
 
-[-] business studies		<-->	noun++B1	[220818][001]	./ˈbɪznəs stʌdiz/-NAmE /ˈbɪznəs stʌdiz/
-	;nghiên cứu kinh doanh -- [uncountable + singular or plural verb]
-		;the study of subjects connected with money and managing a business
+[-] business studies		<-->	noun++B1	[220818][002]	./ˈbɪznəs stʌdiz/-NAmE /ˈbɪznəs stʌdiz/ [uncountable] [t]
+	;nghiên cứu kinh doanh -- (1) the study of subjects connected with money and managing a business
 		;a degree in business studies
+		;Topics Educationb1
 
 
 
@@ -902,54 +901,140 @@
 
 
 [-] campus		<-->	noun++B1	[220818][001]	./cef/
+	;khuôn viên đại học -- (1) the buildings of a university or college and the land around them
+		;university/college campuses
+		;The university has campuses in Cairns and Brisbane.
+		;on campus She lives on campus (= within the main university area).
+		;off campus The number of graduate students living off campus has dropped.
+		;Students at the main campus have heeded the call to boycott lectures.
+		;Wi-fi is also provided in many locations around the campus.
+		;The statue stands on the campus of Princeton University.
+		;campus life
+		;Culture student life
+		;Extra Examples:
+		;Students at the Belfast campus have access to excellent sports facilities.
+		;The Engineering department is on the main campus.
+		;Topics Education-b1, Buildingsb1
+				;Oxford Collocations Dictionary
+				;adjective
+				;largesprawlingsmall…
+				;verb + campus
+				;have
+				;campus + noun
+				;newspaperbookstorenovel…
+				;preposition
+				;at a/​the campusoff campuson campus…
+		;See full entry
+		;Word Origin
 
 
 
-
-[-] candidate		<-->	noun++B1	[220818][003]	./cef/ [230313]
-	;ứng viên -- (British English) a person taking an exam
-		;Candidates are allowed to use dictionaries in this examination.
-		;We run special revision courses for examination candidates.
-		;candidate for something a candidate for the degree of MPhil
-
-
-
-[-] canteen		<-->	noun++B1	[220818][001]	./kænˈtiːn/-NAmE /kænˈtiːn/
-	;căn tin -- (especially British English) a place where food and drink are served in a factory, a school, etc.
-
-
-
-[-] caretaker		<-->	noun++C1	[220818][001]	./ˈkeəteɪkə(r)/-NAmE /ˈkerteɪkər/
-	;người bảo vệ -- (British English)(North American English, Scottish English janitor)(North American English also custodian)a person whose job is to take care of a building such as a school or a block of flats or an apartment building
+[-] candidate		<-->	noun++B1	[220818][003]	./cef/ [230313] [t]
+	;ứng viên -- (1) enlarge imagea small electronic device or piece of software for calculating with numbers
+		;a pocket calculator
+		;I used the calculator app on my phone.
+		;Exam candidates are not allowed to use advanced calculators with database capability.
+		;Topics Maths and measurementb2, Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;deskhand-heldpocket…
+		;See full entry
+		;Word Origin
 
 
 
-[-] catchment area		<-->	noun++C2	[220818][001]	./ˈkætʃmənt eəriə/-NAmE /ˈkætʃmənt eriə/, /ˈketʃmənt eriə/
-	;nơi, phòng tuyển sinh -- the area from which a school takes its students, a hospital its patients, etc.
+[-] canteen		<-->	noun++B1	[220818][002]	./kænˈtiːn/-NAmE /kænˈtiːn/ [t]
+	;căn tin -- (1) ​(especially British English) a place where food and drink are served in a factory, a school, etc.
+		;Topics Education-b1
+	; -- (2) 
+	; -- (3)
+	;;
 
 
 
-[-] certificate		<-->	noun++B2	[220818][001]	./səˈtɪfɪkət/-NAmE /sərˈtɪfɪkət/
-	;một cert, chứng chỉ, bằng cấp -- an official document proving that you have completed a course of study or passed an exam;a qualification obtained after a course of study or an exam
+[-] caretaker		<-->	noun++C1	[220818][002]	./ˈkeəteɪkə(r)/-NAmE /ˈkerteɪkər/ [t]
+	;người bảo vệ -- (1) (British English)
+(North American English, Scottish English janitor)
+(North American English also custodian) a person whose job is to take care of a building such as a school or a block of flats or an apartment building
+		;Topics Education-c1
+	; -- (2) 
+	; -- (3)
+	;;
+
+
+[-] catchment area		<-->	noun++C2	[220818][002]	./ˈkætʃmənt eəriə/-NAmE /ˈkætʃmənt eriə/, /ˈketʃmənt eriə/ [t]
+	;nơi, phòng tuyển sinh -- (1) the area from which a school takes its students, a hospital its patients, etc.
+		;Topics Education-c2
+	; -- (2) 
+	; -- (3)
+	;;
+
+
+[-] certificate		<-->	noun++B2	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;chứng chỉ, bằng cấp -- (2) an official document proving that you have completed a course of study or passed an exam; a qualification obtained after a course of study or an exam
 		;a Postgraduate Certificate in Education (= a British qualification for teachers)
 		;certificate of something A certificate of completion will be issued to all who complete the course.
+		;Topics Successb2, Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;birthdeathmarriage…
+				;verb + certificate
+				;award (somebody)issueearn…
+				;preposition
+				;certificate of
+		;See full entry
+		;Word Origin
+		;Wordfinder: agreementbindingcertificateclausedeeddocumentdraftdraw upsubsectionwitness
+		;Wordfinder: apprenticecertificatecoachingcollegecourseinternprobationqualifytrainingwork experience
+	;;
 
 
-
-[-] chair		<-->	noun++C1	[220818][001]	./tʃeə(r)/-NAmE /tʃer/
-	;vị trí, chức vụ trong trường -- [countable] the position of being in charge of a department in a university;a special position as a university professor
+[-] chair		<-->	noun++C1	[220818][002]	./cef/
+	; -- (1) 
+	; -- (2) 
+	;;chủ nhiệm khoa -- (3) [countable] the position of being in charge of a department in a university; a special position as a university professor
 		;He holds the chair of philosophy at Oxford.
 		;the department chair
 		;She was awarded a personal chair in black history at Bath Spa University (= she was made a professor without being head of a department).
+		;Extra Examples:
+		;She held the Chair of Psychology at Yale.
+		;He held the Chair of Botany at Cambridge University for thirty years.
+		;A private benefactor endowed the new Chair of Japanese Literature.
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;professorial
+				;verb + chair
+				;holdoccupyappoint somebody to…
+		;See full entry
+	; -- (4) 
+	;;
 
 
 
-[-] chalk		<-->	noun++C1	[220818][001]	./d/
-	;phấn bảng [uncountable, countable] a substance similar to chalk made into white or coloured sticks for writing or drawing
+[-] chalk		<-->	noun++C1	[220818][002]	./tʃɔːk/
+ /tʃɔːk/ [t]
+	; -- (1) 
+	;phấn bảng -- (2) ​[uncountable, countable] a substance similar to chalk made into white or coloured sticks for writing or drawing
 		;a piece/stick of chalk
 		;drawing diagrams with chalk on the blackboard
 		;a box of coloured chalks
-
+		;Extra Examples:
+		;She had scrawled a note in chalk across the blackboard.
+		;to write with chalk
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;coloured/​coloredwhitesidewalk…
+				;… of chalk
+				;piecestick
+				;chalk + noun
+				;drawinglinemark…
+				;preposition
+				;in chalkwith chalk
+		;See full entry
+	;;
 
 
 [-] chalkboard		<-->	noun++C1	[220818][002]	./ˈtʃɔːkbɔːd/-NAmE /ˈtʃɔːkbɔːrd/ (especially North American English) (also blackboard British and North American English) [230907]
@@ -957,7 +1042,8 @@
 		;TOPICS EDUCATION-C1
 
 
-[-] chancellor		<-->	noun++C2	[221118][001]	./ˈtʃɑːnsələ(r)/-NAmE /ˈtʃænsələr/ (also Chancellor) (often used in a title)
+
+[-] chancellor		<-->	noun++C2	[221118][002]	./ˈtʃɑːnsələ(r)/-NAmE /ˈtʃænsələr/ (also Chancellor) (often used in a title) [t]
 	;thủ tướng -- (1) the head of government in Germany or Austria
 		;Chancellor Merkel
 		;The talks were headed by Germany’s Chancellor Merkel.
@@ -969,8 +1055,9 @@
 	;hiệu trưởng -- (3) the official head of a university in Britain. Chancellor is an honorary title.
 		;The prime minister was shown around by the chancellor of the university.
 		;COMPARE vice chancellor
-		;TOPICS EDUCATIOnC2
-
+		;TOPICS EDUCATIOn-C2
+	; -- (5) 
+	;;
 
 
 
@@ -1054,14 +1141,15 @@
 
 
 
-[-] classmate		<-->	noun++A1	[221118][001]	./ˈklɑːsmeɪt/-NAmE /ˈklæsmeɪt/
+[-] classmate		<-->	noun++A1	[221118][002]	./ˈklɑːsmeɪt/-NAmE /ˈklæsmeɪt/ [t]
 	;bạn cùng lớp -- (1) a person who is or was in the same class as you at school or college
 		;Are you curious to know where your former classmates are now?
-		;TOPICS EDUCATIOnA1
+		;TOPICS EDUCATIOn-A1
 			;Oxford Collocations Dictionary
 				;Classmate is used after these nouns:
 				;high school
 		;See full entry
+	;;
 
 
 
@@ -1069,7 +1157,20 @@
 
 
 [-] classroom		<-->	noun++A1	[221118][001]	./cef/
-
+	; -- (1) enlarge imagea room where a class of children or students is taught
+		;classroom activities
+		;classroom teaching/teachers
+		;in the classroom a ban on phones in the classroom
+		;Extra Examples:
+		;Two science classrooms are positioned directly across the hall.
+		;I work part-time as a classroom assistant in a local primary school.
+		;This is what is being taught in classrooms across the country.
+		;see also flipped classroom
+		;Topics Education-a1
+				;Oxford Collocations Dictionary
+				;Classroom is used before these nouns:
+				;activitycontextdiscussion…
+		;See full entry
 
 
 
@@ -1081,7 +1182,7 @@
 		;Schools should ensure that classwork is challenging and demanding.
 		;Students do lessons and classwork online during a snow day.
 		;COMPARE homework (1)
-		;TOPICS EDUCATIOnB1
+		;TOPICS EDUCATIOn-B1
 
 
 
@@ -1093,7 +1194,7 @@
 		;SYNONYM glade
 		;We made camp that night in a clearing in the woods.
 		;TOPICS GeographyC1
-	;??? -- (2) [uncountable] (in the UK) the system used by universities to find students for the places on their courses that have not been filled, just before the beginning of the academic year
+	;Xét tuyển -- (2) [uncountable] (in the UK) the system used by universities to find students for the places on their courses that have not been filled, just before the beginning of the academic year
 		;She got into university through clearing.
 		;You can apply for a place through the clearing system.
 		;The university has a limited number of clearing places this year.
@@ -1126,19 +1227,19 @@
 
 
 
-[-] co-education		<-->	noun++C2	[221118][001]	./ˌkəʊ edʒuˈkeɪʃn/-NAmE /ˌkəʊ edʒuˈkeɪʃn/ [uncountable]
+[-] co-education		<-->	noun++C2	[221118][001]	./ˌkəʊ edʒuˈkeɪʃn/-NAmE /ˌkəʊ edʒuˈkeɪʃn/ [uncountable] [t]
 	;giáo dục cả nam nữ -- (1) the practice of teaching girls and boys together in a school
-		;TOPICS EDUCATIOnC2
+		;TOPICS EDUCATIOn-C2
 
 
 
 
 
 
-[-] co-educational		<-->	adjective++C2	[221118][001]	./ˌkəʊ edʒuˈkeɪʃənl/-NAmE /ˌkəʊ edʒuˈkeɪʃənl/ (also informal coed)
+[-] co-educational		<-->	adjective++C2	[221118][001]	./ˌkəʊ edʒuˈkeɪʃənl/-NAmE /ˌkəʊ edʒuˈkeɪʃənl/ (also informal coed) [t]
 	;giáo dục chung nam nữ -- (1) (of a school or an educational system) where girls and boys are taught together
 		;The school has now made the decision to go fully co-educational.
-		;TOPICS EDUCATIOnC2
+		;TOPICS EDUCATIOn-C2
 			;Oxford Collocations Dictionary
 				;Co-educational is used with these nouns:
 				;school
@@ -1165,7 +1266,7 @@
 		;TOPICS EDUCATIOnC2
 	;??? -- (2) (British English) divided into a number of colleges
 		;a collegiate university
-		;TOPICS EDUCATIOnC2
+		;TOPICS EDUCATIOn-C2
 	; -- (3) 
 
 
@@ -1174,133 +1275,355 @@
 
 
 [-] colloquium		<-->	noun++C2	[221118][001]	./kəˈləʊkwiəm/-NAmE /kəˈləʊkwiəm/ (plural colloquia /kəˈləʊkwiə/ /kəˈləʊkwiə/)
-	;hội đàm -- (1) a formal academic seminar or conference
-		;TOPICS EDUCATIOnC2
+	;hội đàm, hội thảo -- (1) a formal academic seminar or conference
+		;TOPICS EDUCATIOn-C2
 
 
 
 
 
 
-[-] commencement		<-->	noun++C2	[220818][002]	./kəˈmensmənt/-NAmE /kəˈmensmənt/ [230321]
-	;lễ trao bằng -- (North American English) a ceremony at which students receive their academic degrees or diplomas
-		;SYNONYM graduation
+[-] commencement		<-->	noun++C2	[220818][003]	./kəˈmensmənt/-NAmE /kəˈmensmənt/ [uncountable, countable, usually singular] [230321]
+	; -- (1) (formal) beginning
+		;the commencement of the financial year
+		;You will be required to enrol at the commencement of each academic year.
+	;lễ trao bằng -- (2) (North American English) a ceremony at which students receive their academic degrees or diplomas
+		;synonym graduation
+		;Topics Educationc2
+		;Word Origin
+	;;
 
 
 
-[-] commit		<-->	verb++C2	[220818][001]	./cef/ [240126]
-	;cam kết -- [transitive] commit something to memory to learn something well enough to remember it exactly
+[-] commit		<-->	verb++C2	[220818][002]	./cef/ [240126] [t]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	;ghi nhớ -- (9) [-something to memory] [transitive] commit something to memory to learn something well enough to remember it exactly
 		;She committed the instructions to memory.
+		;Topics Education-c2
+	; -- (10)
+	;;
 
 
 
-[-] common Core		<-->	noun++C2	[220818][001]	./ˌkɒmən ˈkɔː(r)/-NAmE /ˌkɑːmən ˈkɔːr/
-	;những tiêu chuẩn -- [uncountable, singular] (also Common Core Standards /ˌkɒmən kɔː ˈstændədz/ /ˌkɑːmən kɔːr ˈstændərdz/ [plural]) (in the US) a set of standards for teaching and testing English and mathematics in schools between kindergarten and twelfth grade
+
+[-] common Core		<-->	noun++C2	[220818][002]	./ˌkɒmən ˈkɔː(r)/-NAmE /ˌkɑːmən ˈkɔːr/ [uncountable, singular]
+(also Common Core Standards  /ˌkɒmən kɔː ˈstændədz/  /ˌkɑːmən kɔːr ˈstændərdz/ [plural]) [t]
+	;những tiêu chuẩn -- (1) in the US) a set of standards for teaching and testing English and mathematics in schools between kindergarten and twelfth grade
 		;The debate around Common Core has been fierce.
+		;Topics Education-c2
+	;;
 
 
 
 [-] common room		<-->	noun++C2	[220818][001]	./ˈkɒmən ruːm/, /ˈkɒmən rʊm/-NAmE /ˈkɑːmən ruːm/, /ˈkɑːmən rʊm/
-	;phòng giáo viên -- (especially British English) a room used by the teachers or students of a school, college, etc. when they are not teaching or studying
-		;SEE ALSO junior common room, senior common room
-
+	;phòng giáo viên -- (1) (especially British English) a room used by the teachers or students of a school, college, etc. when they are not teaching or studying
+		;see also junior common room, senior common room
+		;Topics Educationc2
+	; -- (2) 
+	;;
 
 
 [-] community college		<-->	noun++C2	[220818][001]	./kəˈmjuːnəti kɒlɪdʒ/-NAmE /kəˈmjuːnəti kɑːlɪdʒ/
-	;trường trung học cộng đồng -- (also community school) (in Britain) a secondary school where adults from the local community can attend classes in the evening	
-	;cao đẳng cộng đồng -- (in the US) a college that is mainly for students from the local community and that offers programmes that are two years long, including programmes in practical skills
+	; -- (1) ​(in the US) a college that is mainly for students from the local community and that offers programmes that are two years long, including programmes in practical skills
+		;Topics Education-c2
+	; -- (2) (also community school) (in the UK) a secondary school where adults from the local community can attend classes, use the sports facilities, etc. in the evening
+		;Topics Education-c2
+	;;
 
 
 
-[-] composition		<-->	noun++C1	[220818][003]	./ˌkɒmpəˈzɪʃn/-NAmE /ˌkɑːmpəˈzɪʃn/
-	;tiểu luận -- [countable] a short text that is written as a school exercise;a short essay
+[-] composition		<-->	noun++C1	[220818][004]	./cef/ [t]
+	; -- (1) 
+	;tiểu luận -- (2) [countable] a short text that is written as a school exercise; a short essay
 		;a composition on the effects of crime
 		;In the exam you will have to do a composition.
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;literaryoriginalpoetic…
+				;verb + composition
+				;dowrite
+				;preposition
+				;composition on
+		;See full entry
+	; -- (5) 
+	;;
 
 
 
-[-] comprehension		<-->	noun++A2	[220818][001]	./ˌkɒmprɪˈhenʃn/-NAmE /ˌkɑːmprɪˈhenʃn/
-	;khả năng hiểu -- [uncountable, countable] an exercise that trains students to understand a language
+
+[-] comprehension		<-->	noun++A2	[220818][002]	./ˌkɒmprɪˈhenʃn/-NAmE /ˌkɑːmprɪˈhenʃn/ [t]
+	;khả năng hiểu -- (1) [uncountable] the ability to understand
+		;speech and comprehension
+		;beyond comprehension His behaviour was completely beyond comprehension (= impossible to understand).
+		;She had no comprehension of what was involved.
+		;Extra Examples:
+		;He showed a total lack of comprehension.
+		;She has no comprehension of the seriousness of the situation.
+		;The level of violence used defies comprehension.
+		;Why he can't do it himself is beyond my comprehension.
+		;He looked at her with a total lack of comprehension.
+		;The task requires a good comprehension of complex instructions.
+		;There are exercises for checking comprehension.
+				;Oxford Collocations Dictionary
+				;adjective
+				;human
+				;verb + comprehension
+				;havedefycheck…
+				;comprehension + noun
+				;skills
+				;preposition
+				;beyond (somebody’s) comprehensionwithout comprehension
+				;phrases
+				;a lack of comprehension
+		;See full entry
+	;phần luyện tập nghe hiểu -- (2) [uncountable, countable] an exercise that trains students to understand a language
 		;We did a listening comprehension.
 		;a reading comprehension
+		;Topics Education-a2
+				;Oxford Collocations Dictionary
+				;adjective
+				;listeningreading
+				;verb + comprehension
+				;do
+				;comprehension + noun
+				;testquestionskills…
+		;See full entry
+		;Word Origin
+	;;
 
 
 
-[-] comprehensive		<-->	adjective++C2	[220818][001]	./ˌkɒmprɪˈhensɪv/-NAmE /ˌkɑːmprɪˈhensɪv/
-	;phổ thông -- (British English) (of education) designed for students of all abilities in the same school
+[-] comprehensive		<-->	adjective++C2	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;phổ thông -- (2) (British English) (of education) designed for students of all abilities in the same school
+		;Topics Education-c2
+	; -- (3) 
+	;;
 
 
 
-[-] comprehensive		<-->	noun++C2	[220818][003]	./ˌkɒmprɪˈhensɪv/-NAmE /ˌkɑːmprɪˈhensɪv/ (also comprehensive school) [240626] (also informal comp) [240517]
+
+
+
+
+[-] comprehensive		<-->	noun++C2	[220818][004]	./ˌkɒmprɪˈhensɪv/-NAmE /ˌkɑːmprɪˈhensɪv/ (also comprehensive school) [240626] (also informal comp) [240517] [t]
 	;trường trung học cơ sở -- (1) (in the UK) (in the UK) a secondary school for young people of all levels of ability
 		;TOPICS EducationC2
 		;Word Origin
 
 
 
-[-] compulsory		<-->	adjective++B2	[220818][002]	./kəmˈpʌlsəri/-NAmE /kəmˈpʌlsəri/ [240518]
-	;bắt buộc theo luật -- that must be done because of a law or a rule;SYNONYM mandatory
+[-] compulsory		<-->	adjective++B2	[220818][003]	./cef/ [240518] [t]
+	;bắt buộc -- (1) that must be done because of a law or a rule
+		;synonym mandatory
+		;<< mandatory, compulsory, enforced, >>
 		;English is a compulsory subject at this level.
 		;compulsory education/schooling
 		;The strikers are protesting against the threat of compulsory redundancies.
-		;There is no compulsory education in this part of Africa.
 		;it is compulsory (for somebody/something) to do something It is compulsory for all motorcyclists to wear helmets.
+		;opposite voluntary
+		;Topics Permission and obligationb2, Education-b2
+				;Oxford Collocations Dictionary
+				;Compulsory is used with these nouns:
+				;attendanceconscriptioneducation…
+		;See full entry
+		;Word Origin
+	;;
 
 
 
-[-] confer		<-->	verb++C1	[220818][001]	./cef/
-	;trao phần thưởng -- [transitive] confer something (on/upon somebody) to give somebody an award, a university degree or a particular honour or right
+
+
+
+[-] confer		<-->	verb++C1	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;trao -- (2) [transitive] confer something (on/upon somebody) to give somebody an award, a university degree or a particular honour or right
 		;An honorary degree was conferred on him by Oxford University in 2019.
+		;Topics Education-c1
+		;More Like This Consonant-doubling verbs
+		;Word Origin
+	;;
 
 
 
-[-] conservatory		<-->	noun++C2	[220818][001]	./kənˈsɜːvətri/-NAmE /kənˈsɜːrvətɔːri/
-	;trường dạy nhạc -- (North American English) (British English conservatoire)
-		;a school or college at which people are trained in music and theatre
 
 
 
-[-] continuing education		<-->	noun++C1	[220818][001]	./kənˌtɪnjuːɪŋ edʒuˈkeɪʃn/-NAmE /kənˌtɪnjuːɪŋ edʒuˈkeɪʃn/
-	;giáo dục cho người trưởng thành ngoài công lập -- (also adult education) [uncountable] education for adults that is available outside the formal education system, for example at evening classes or over the internet
+[-] conservatory		<-->	noun++C2	[220818][002]	./kənˈsɜːvətri/-NAmE /kənˈsɜːrvətɔːri/ (plural conservatories) [t]
+	; -- (1) 
+	;trường dạy nhạc -- (2) ​(North American English)
+(British English conservatoire) a school or college at which people are trained in music and theatre
+		;Topics Education-c2
+		;Word Origin
+	;;
+
+
+
+
+
+
+[-] continuing education		<-->	noun++C1	[220818][002]	./kənˌtɪnjuːɪŋ edʒuˈkeɪʃn/-NAmE /kənˌtɪnjuːɪŋ edʒuˈkeɪʃn/ (also adult education)
+[uncountable] [t]
+	;giáo dục từ xa -- (1) education for adults that is available outside the formal education system, for example at evening classes or over the internet
 		;We have a thriving continuing education department.
+		;Topics Education-c1
+	;;
 
 
 
-[-] convocation		<-->	noun++C2	[220818][001]	./ˌkɒnvəˈkeɪʃn/-NAmE /ˌkɑːnvəˈkeɪʃn/
-	;đại lễ -- (formal) [countable] a large formal meeting, especially of Church officials or members of a university
+
+
+
+[-] convocation		<-->	noun++C2	[220818][002]	./ˌkɒnvəˈkeɪʃn/-NAmE /ˌkɑːnvəˈkeɪʃn/ (formal) [t]
+	; -- (1) [countable] a large formal meeting, especially of Church officials or members of a university
 		;the meeting of the university convocation in Oxford on 13 February 1845
+	; -- (2) [uncountable] the act of calling together a convocation
+		;the convocation of the second Vatican Council
+	;lễ trao bằng -- (3) [countable] (North American English) a ceremony held in a university or college when students receive their degrees
+		;I recently attended my friend's convocation ceremony.
+		;Topics Education-c2
+		;Word Origin
+	;;
 
 
 
-[-] corporal punishment		<-->	noun++C2	[220818][001]	./ˌkɔːpərəl ˈpʌnɪʃmənt/-NAmE /ˌkɔːrpərəl ˈpʌnɪʃmənt/
-	;phạt roi -- [uncountable] the physical punishment of people, especially by hitting them
 
 
 
-[-] corridor		<-->	noun++B2	[220818][001]	./ˈkɒrɪdɔː(r)/-NAmE /ˈkɔːrɪdɔːr/ [image]-classroom
-	;hành lang -- (North American English also hallway) a long narrow passage in a building, with doors that open into rooms on either side
+[-] corporal punishment		<-->	noun++C2	[220818][002]	./ˌkɔːpərəl ˈpʌnɪʃmənt/-NAmE /ˌkɔːrpərəl ˈpʌnɪʃmənt/ [uncountable] [t]
+	;phạt roi -- (1) the physical punishment of people, especially by hitting them
+		;Topics Education-c2, Crime and punishmentc2
+	;;
+
+
+
+
+
+
+[-] corridor		<-->	noun++B2	[220818][002]	./cef/ [image]-classroom [t]
+	;hành lang -- (1) (North American English also hallway) a long narrow passage in a building, with doors that open into rooms on either side
 		;His room is along the corridor.
+		;Extra Examples:
+		;It was interesting to walk the corridors of my old school.
+		;Narrow corridors lead off from the main hallway.
+		;Portraits line the corridors of the palace.
+		;She led us through a maze of hotel corridors to our room.
+		;The corridor links the old part of the hospital with the new.
+		;The corridor runs down the middle of the building.
+		;The office is just down the corridor on the left.
+		;a corridor that leads to the kitchen
+		;the labyrinthine corridors of the building
+		;Go along the corridor, turn left, and you'll see his office in front of you.
+		;Topics Buildingsb2, Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;endlesslongshort…
+				;verb + corridor
+				;linewalkwander…
+				;corridor + verb
+				;lead from somethinglead off from somethinglead to something…
+				;corridor + noun
+				;wall
+				;preposition
+				;along a/​the corridordown a/​the corridorin a/​the corridor…
+				;phrases
+				;the corridors of powera labyrinth of corridorsa maze of corridors…
+		;See full entry
+	; -- (2) 
+	; -- (4) 
+	;;
+
+
+
 
 
 
 [-] course		<-->	noun++A1	[221118][001]	./cef/
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+	;khóa học -- (1) [-education] [countable] a series of lessons or lectures on a particular subject
+		;a French/chemistry course
+		;course in something He took a course in Russian language and literature.
+		;I want to do a course in art and design.
+		;The department offers short courses in drama, fiction and poetry.
+		;course on something She teaches a course on internet crime.
+		;on a course My boss has been on a course this week.
+		;You need to go on a management training course.
+		;He has recently completed the five-week course.
+		;The college runs specialist language courses.
+		;I enrolled in a ten-week online course.
+		;see also access course, correspondence course, crash, foundation course, induction course, refresher course, sandwich course, survey course
+		;Collocations Education
+		;Homophones coarse | course
+		;Extra Examples:
+		;Psychology is offered as an elective course.
+		;She has completed a course in first aid.
+		;She withdrew from the course because of illness.
+		;Students take required courses in music theory and performance.
+		;The course consists of both lectures and practical workshops.
+		;The course runs from 10–15 May.
+		;The course runs from January till March.
+		;The school runs courses all year round.
+		;We have designed the course for students at all levels of ability.
+		;a course in applied linguistics
+		;a course in art history
+		;a course on the development of capitalism
+		;How much would you pay for a course of driving lessons?
+		;I've signed up for an evening course on media techniques.
+		;Over 50 students have enrolled on the course.
+		;Registration for courses begins tomorrow.
+		;She's taking a course in Art and Design.
+		;The course is extremely intensive.
+		;We offer several management training courses.
+		;Topics Education-a1
+				;Oxford Collocations Dictionary
+				;verb + course
+				;give somebodyput somebody onprescribe (somebody)…
+				;preposition
+				;course of
+		;See full entry
+	;khóa học -- (2) [countable] (especially British English) a period of study at a college or university that leads to an exam or a qualification
+		;What degree course did you choose?
+		;a two-year postgraduate course leading to a master’s degree
+		;He was able to design his own course of study.
+		;British/American course / program
+		;compare programme
+		;Wordfinder: coursedistance learningeducationexamfurther educationgraduatehigher educationqualificationstudytertiary
+		;Wordfinder: apprenticecertificatecoachingcollegecourseinternprobationqualifytrainingwork experience
+		;Extra Examples:
+		;She had taught on a range of undergraduate courses.
+		;a joint honours course in French and Russian
+		;The university offers a course in computer games technology.
+		;It's a four-year course.
+		;The course leads to a master's degree.
+		;Topics Education-a1
+				;Oxford Collocations Dictionary
+				;adjective
+				;full-timepart-timeone-year…
+				;verb + course
+				;offerruncomplete…
+		;See full entry
+	; -- (12) 
+	;;
 
 
 
 
 
 
-[-] coursebook		<-->	noun++C1	[220818][002]	./ˈkɔːsbʊk/-NAmE /ˈkɔːrsbʊk/ (British English) [240606] [240926]
+[-] coursebook		<-->	noun++C1	[220818][002]	./ˈkɔːsbʊk/-NAmE /ˈkɔːrsbʊk/ (British English) [240606] [240926] [t]
 	;sách giáo trình -- (1) a book for studying from, used regularly on a particular course of study
 		;Topics Education-c1
 
 
 
 
-[-] coursework		<-->	noun++B2	[220818][002]	./ˈkɔːswɜːk/-NAmE /ˈkɔːrswɜːrk/ [uncountable] [240926]
+
+
+
+[-] coursework		<-->	noun++B2	[220818][002]	./ˈkɔːswɜːk/-NAmE /ˈkɔːrswɜːrk/ [uncountable] [240926] [t]
 	;bài tập về nhà -- (1) ​work that students do during a course of study, not in exams, that is included in their final mark
 		;Coursework accounts for 40 per cent of the final marks.
 		;Topics Education-b2
@@ -1308,12 +1631,21 @@
 
 
 
-[-] crammer		<-->	noun++C2	[220818][002]	./ˈkræmə(r)/-NAmE /ˈkræmər/
-	;trường, sách luyện thi -- (British English) a school or book that prepares people quickly for exams
 
 
 
-[-] credit		<-->	noun++C2	[220818][003]	./cef/ [240926]
+
+[-] crammer		<-->	noun++C2	[220818][003]	./ˈkræmə(r)/-NAmE /ˈkræmər/ (British English) [t]
+	;trường, sách luyện thi cấp tốc -- (1) a school or book that prepares people quickly for exams
+		;Topics Education-c2
+	;;
+
+
+
+
+
+
+[-] credit		<-->	noun++C2	[220818][004]	./cef/ [240926] [t]
 	; -- (1) 
 	;chứng chỉ -- (12) [-unit of study] [countable] a unit of study at a college or university (in the US, also at a school); the fact of having successfully completed a unit of study
 		;My math class is worth three credits.
@@ -1333,63 +1665,142 @@
 				;credit + noun
 				;hour
 		;See full entry
+	;;
 
 
 
-[-] crib		<-->	noun++C2	[220818][001]	./krɪb/-NAmE /krɪb/\
+[-] crib		<-->	noun++C2	[220818][002]	./krɪb/-NAmE /krɪb/\ [t]
 	; -- (1)
 	;một tập hợp các note để dễ nhớ -- (4) (informal) (also crib sheet)
 		;a set of notes to help you remember important information, especially one taken secretly into an exam room
 		;crib notes
-		;TOPICS EducationC2
-	; -- 
+		;TOPICS Education-C2
+	; -- (6) 
+	;;
 
 
 [-] crib		<-->	verb++C2	[220818][002]	./krɪb/-NAmE /krɪb/
 	;cọp bài -- (1) [intransitive, transitive] crib (something) (from somebody) (old-fashioned) to dishonestly copy work from another student or from a book
-		;TOPICS EducationC2
+		;TOPICS Education-C2
+	; -- (2) ​[intransitive] crib (about something) (British English, old-fashioned or Indian English) to complain about somebody/something in an angry way
+		;Every time we met up, she would start cribbing.
+		;Luckily, my parents never cribbed about my failures.
+		;He spent the rest of the day cribbing that he had been overcharged.
+		;Word Origin
+	;;
 
 
 
-[-] cross-disciplinary		<-->	adjective++C2	[220818][001]	./ˌkrɒs dɪsəˈplɪnəri/-NAmE /ˌkrɔːs ˈdɪsəpləneri/
-	;sự liên thông kiến thức, nghiên cứu -- involving different areas of knowledge or study
-		;SYNONYM interdisciplinary
+[-] cross-disciplinary		<-->	adjective++C2	[220818][002]	./ˌkrɒs dɪsəˈplɪnəri/-NAmE /ˌkrɔːs ˈdɪsəpləneri/ [t]
+	;liên ngành -- (1) involving different areas of knowledge or study
+		;synonym interdisciplinary
+		;<< interdisciplinary, cross-disciplinary, >>
 		;a cross-disciplinary approach to research
 		;The second factor is the growth in cross-disciplinary research, especially within the life sciences.
+		;Topics Educationc2
+	;;
 
 
 
-[-] cTC		<-->	abbreviation++C2	[220818][001]	./ˌsɪti tekˈnɒlədʒi kɒlɪdʒ/-NAmE /ˌsɪti tekˈnɑːlədʒi kɑːlɪdʒ/
-	;đại học kỹ thuật thành phố -- (abbreviation CTC) (in England and Wales) a type of secondary school in a town or city that puts a special emphasis on teaching mathematics, technology and science. It has no connection with the Local Education Authority, getting its money directly from the government and from business companies. The first City Technology College opened in 1988 near Birmingham. In all, 15 CTCs were created but only three are still called City Technology Colleges.
 
 
 
-[-] cum laude		<-->	adverb++C2	[220818][001]	./ˌkʊm ˈlɔːdi/, /ˌkʊm ˈlaʊdeɪ/-NAmE /ˌkʊm ˈlɔːdi/, /ˌkʊm ˈlaʊdeɪ/
-	;tốt nghiệp hạng ba -- (from Latin) (in the US) at the third of the three highest levels of achievement that students can reach when they finish their studies at college
+[-] CTC		<-->	abbreviation++C2	[220818][002]	./ˌsɪti tekˈnɒlədʒi kɒlɪdʒ/-NAmE /ˌsɪti tekˈnɑːlədʒi kɑːlɪdʒ/ [t]
+	;đại học kỹ thuật thành phố -- (1) (in the UK) City Technology College (a school in a town or city for students aged 11 to 18 that places a strong emphasis on teaching science and technology)
+		;Topics Education-c2
+	;;
+
+
+
+
+
+
+[-] cum laude		<-->	adverb++C2	[220818][002]	./ˌkʊm ˈlɔːdi/, /ˌkʊm ˈlaʊdeɪ/-NAmE /ˌkʊm ˈlɔːdi/, /ˌkʊm ˈlaʊdeɪ/ (from Latin) [t]
+	;tốt nghiệp hạng ba cảu top 3 -- (1) (in the US) at the third of the three highest levels of achievement that students can reach when they finish their studies at college
 		;He graduated cum laude.
+		;compare magna cum laude, summa cum laude
+		;Topics Education-c2
+				;Oxford Collocations Dictionary
+				;Cum laude is used with these nouns:
+				;graduate
+		;See full entry
+		;Word Origin
+	;;
+
+
+
 
 
 
 [-] curricular		<-->	adjective++C2	[220818][002]	./kəˈrɪkjələ(r)/-NAmE /kəˈrɪkjələr/ [IE-C1-Z06-63] [230211]
 	;(thuộc) chương trình -- (1) connected with the curriculum of a school, etc.
 		;SEE ALSO cross-curricular, extracurricular
-		;TOPICS EDUCATIOnC2
+		;TOPICS EDUCATIOn-C2
+	;;
 
 
 
-[-] curriculum		<-->	noun++B2	[220818][001]	./cef/
-	;chương trình giáo dục -- (plural curricula /kəˈrɪkjələ/ /kəˈrɪkjələ/, curriculums) the subjects that are included in a course of study or taught in a school, college, etc.
+
+
+
+[-] curriculum		<-->	noun++B2	[220818][002]	./cef/ (plural curricula  /kəˈrɪkjələ/  /kəˈrɪkjələ/, curriculums) [t]
+	;chương trình giảng dạy -- (1) the subjects that are included in a course of study or taught in a school, college, etc.
 		;The school curriculum should be as broad as possible.
 		;on the curriculum (British English) Spanish is on the curriculum.
 		;in the curriculum (North American English) Spanish is in the curriculum.
 		;Collocations Education
-		;COMPARE syllabus
+		;compare syllabus
+		;Extra Examples:
+		;Chinese has been introduced into the curriculum as an option.
+		;His disability does not prevent him from following the mainstream curriculum.
+		;More room should be given to foreign languages in the curriculum.
+		;Pupils use computers across the curriculum.
+		;Student choose from optional subjects in addition to the core curriculum.
+		;Students use computers across the curriculum (= in all or most subjects).
+		;Teachers feel that the present curriculum is too narrow.
+		;They all have to study French because it's on the curriculum.
+		;We cover all areas of the curriculum.
+		;the balance of subjects within the curriculum
+		;All children should have access to the mainstream curriculum.
+		;Classroom teachers need to be involved in curriculum planning and development.
+		;Educational inspectors said that the college had failed to deliver the curriculum adequately.
+		;In those days the curriculum was pretty narrow.
+		;Many teachers follow the curriculum to the letter.
+		;Nutrition education is now in the curriculum.
+		;The government is introducing a national curriculum for schools.
+		;These subjects are not part of the core curriculum.
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;broadbroadly basedwide…
+				;verb + curriculum
+				;createdesigndevelop…
+				;curriculum + noun
+				;contentsubjectsarea…
+				;preposition
+				;across the curriculumin a/​the curriculumon a/​the curriculum…
+				;phrases
+				;areas of the curriculum
+		;See full entry
+		;Word Origin
+	;;
 
 
 
-[-] custodian		<-->	noun++C2	[220818][001]	./kʌˈstəʊdiən/-NAmE /kʌˈstəʊdiən/
-	;người bảo vệ -- (North American English)(British English caretaker)(also janitor North American English, Scottish English)
-		;a person whose job is to take care of a building such as a school or a block of flats or an apartment building
+
+
+
+[-] custodian		<-->	noun++C2	[220818][002]	./kʌˈstəʊdiən/-NAmE /kʌˈstəʊdiən/ [t]
+	; -- (1) 
+	;người bảo vệ -- (2) (North American English)
+(British English caretaker)
+(also janitor North American English, Scottish English) a person whose job is to take care of a building such as a school or a block of flats or an apartment building
+		;Topics Education-c2, Jobsc2
+		;Word Origin
+	;;
+
+
+
 
 
 
@@ -1403,28 +1814,61 @@
 
 
 
-[-] dean		<-->	noun++C2	[220818][001]	./diːn/-NAmE /diːn/
-	;trưởng khoa -- a person in a university who is in charge of a department of studies
+[-] dean		<-->	noun++C2	[220818][002]	./diːn/-NAmE /diːn/ [t]
+	; -- (1) 
+	; -- (2) 
+	;rưởng khoa -- (3) a person in a university who is in charge of a department of studies
 		;the dean of the Faculty of Medicine
 		;He was appointed dean of the faculty of theology at London University.
+		;Topics Education-c2
+	; -- (5) 
+	;;
 
 
 
-[-] degree		<-->	noun++A2	[220818][001]	./dɪˈɡriː/-NAmE /dɪˈɡriː/
-	;bằng cấp -- [countable] (British English) a university or college course, normally lasting three years or more
+
+
+
+[-] degree		<-->	noun++A2	[220818][002]	./cef/ [t]
+	; -- (1) 
+	; -- (2) 
+	;bằng cấp -- (5) ​[countable] (British English) a university or college course, normally lasting three years or more
 		;I'm hoping to do a chemistry degree.
-		;He took a degree in law then joined a law firm.
+		;He completed a degree in law then joined a law firm.
+		;Topics Education-a2
+				;Oxford Collocations Dictionary
+				;adjective
+				;collegeuniversityassociate…
+				;verb + degree
+				;haveholddo…
+				;degree + noun
+				;courseprogramme/​programlevel…
+				;preposition
+				;degree in
+		;See full entry
+	; -- (6) 
+	;;
 
 
 
-[-] demerit		<-->	noun++C2	[220818][001]	./diːˈmerɪt/-NAmE /diːˈmerɪt/
-	;một điểm đen -- (formal) (North American English) a mark on somebody’s school record showing that they have done something wrong
-		;You'll get three demerits if you're caught smoking on school grounds.
 
 
 
-[-] department		<-->	noun++A2	[220810][001]	./cef/
- 	;khoa, ngành -- a section of a large organization such as a government, business, university, etc.
+[-] demerit		<-->	noun++C2	[220818][002]	./diːˈmerɪt/-NAmE /diːˈmerɪt/ (formal) [t]
+	; -- (1) 
+	;một điểm đen -- (2) ​(North American English) a mark on somebody’s school record showing that they have done something wrong
+		;You'll get a demerit if you're late to class.
+		;Topics Education-c2
+		;Word Origin
+	;;
+
+
+
+
+
+
+[-] department		<-->	noun++A2	[220810][002]	./cef/ (abbreviation Dept) [t]
+ 	;khoa, ngành -- (1) a section of a large organization such as a government, business, university, etc.
 		;department of something the Department of Health
 		;He is a lecturer in the department of psychology at Trinity College, Dublin.
 		;the Treasury Department
@@ -1434,129 +1878,365 @@
 		;the English department
 		;in a department She used to work in the IT department.
 		;He later served as head of the art history department.
+		;see also police department, State Department
+		;Extra Examples:
+		;A new member of staff has joined the department.
+		;Complaints are dealt with in a different department.
+		;Contact our sales department for more information.
+		;Staff criticized the way the history department was run.
+		;The Tokyo police department is clamping down on organized crime.
+		;the Department for Transport
+		;to gain promotion within the department
+		;I work in the sales department.
+		;Several professors from the history department will also speak at the event.
+		;The Department of Trade and Industry refused to comment on the allegations.
+		;Topics Education-a2, Businessa2, Working lifea2, Politicsa2, Shoppinga2
+		;Word Origin
+	; -- (2) 
+	;;
 
 
 
-[-] deputy		<-->	noun++C1	[220818][001]	./cef/
-	;người cấp phó -- (plural deputies) a person who is the next most important person below a business manager, a head of a school, a political leader, etc. and who does that person’s job when they are away
+
+
+
+[-] deputy		<-->	noun++C1	[220818][002]	./cef/ (plural deputies)
+	;người cấp phó -- (1) a person who is the next most important person below a business manager, a head of a school, a political leader, etc. and who does that person’s job when they are away
 		;I'm acting as deputy till the manager returns.
 		;She was appointed deputy head of the school.
+		;Extra Examples:
+		;A new deputy has not yet been appointed.
+		;She is acting as deputy to the chairman of the board.
+		;a former deputy chairman of the Democratic Party
+		;Topics Education-c1, Businessc1
+				;Oxford Collocations Dictionary
+				;adjective
+				;actingformerchief…
+				;verb + deputy
+				;appoint (somebody as)act as
+				;deputy + noun
+				;chairchairmanchief…
+				;preposition
+				;deputy to
+		;See full entry
+	;;
+
+
+
 
 
 
 [-] desk		<-->	noun++A1	[221118][001]	./cef/
-	; -- (1) 
+	;bàn -- (1) 
 	; -- (2) 
 	; -- (3) 
+	;;
 
 
 
 
 
 
-[-] detention		<-->	noun++C1	[220818][001]	./dɪˈtenʃn/-NAmE /dɪˈtenʃn/
-	;sự bắt ở lại lại trường để trừng phạt -- [uncountable, countable] the punishment of being kept at school for a time after other students have gone home
+[-] detention		<-->	noun++C1	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;sự cấm túc -- (2) [uncountable, countable] the punishment of being kept at school for a time after other students have gone home
 		;They can’t give me (a) detention for this.
+		;Extra Examples:
+		;Persistent latecomers will be given detention.
+		;My first day of school, and I have detention.
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;arbitrarypretrialindefinite…
+				;verb + detention
+				;be inremain inhold somebody in…
+				;detention + noun
+				;campcentre/​centerfacility…
+				;preposition
+				;in detentionunder detention
+				;phrases
+				;a period of detentiona term of detention
+		;See full entry
+		;see also detain
+		;Word Origin
+	;;
+
+
+
 
 
 
 [-] dictionary		<-->	noun++A1	[221118][001]	./cef/
 	; -- (1) 
+		;Topics Education-a1
 	; -- (2) 
 	; -- (3) 
+	;;
 
 
 
 
 
 
-[-] diploma		<-->	noun++B1	[220818][001]	./dɪˈpləʊmə/-NAmE /dɪˈpləʊmə/
-	;khoá học -- (British English) a course of study at a college or university
+[-] diploma		<-->	noun++B1	[220818][002]	./dɪˈpləʊmə/-NAmE /dɪˈpləʊmə/ [t]
+	; -- (1) ​(British English) a course of study at a college or university
 		;a two-year diploma course
 		;She is taking a diploma in management studies.
-		;;a document showing that you have completed a course of study or part of your education
+		;Extra Examples:
+		;Most students here are studying for a qualification at diploma level.
+		;She was taking a diploma in business management.
+		;The college offers the Higher National Diploma in computer studies.
+				;Oxford Collocations Dictionary
+				;adjective
+				;graduatepostgraduateprofessional…
+				;verb + diploma
+				;complete
+		;See full entry
+	;bằng tốt nghiệp -- (2) a document showing that you have completed a course of study or part of your education
 		;a High School diploma
+		;Extra Examples:
+		;The course leads to a diploma in psychiatric nursing.
+		;The university awards diplomas in higher education.
+		;a fake diploma from a non-existent school
+		;diploma of higher education
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;adjective
+				;collegehigh-schooluniversity…
+				;verb + diploma
+				;accepttakehand somebody…
+				;diploma + noun
+				;courseprogramme/​programholder…
+				;preposition
+				;diploma fromdiploma indiploma of…
+				;phrases
+				;at diploma level
+		;See full entry
+		;Word Origin
+	;;
+
+
+
 
 
 
 [-] disciplinary		<-->	adjective++C2	[220818][002]	./d/ [230825]
-	;có kỷ luật, hiểu luật -- (formal) connected with an area of knowledge, especially a subject that people study in a university
+	;kỷ luật -- (1) ​connected with the punishment of people who break rules
+		;a disciplinary hearing (= to decide if somebody has done something wrong)
+		;The company will be taking disciplinary action against him.
+		;She will have to explain her actions before the disciplinary committee.
+		;Topics Crime and punishmentc2
+		;Oxford Collocations Dictionary
+		;Disciplinary is used with these nouns:
+		;actionchargecode…
+		;See full entry
+	;có kỷ luật -- (2) ​(formal) connected with an area of knowledge, especially a subject that people study in a university
 		;Students need to broaden and deepen their disciplinary knowledge.
-		;SEE ALSO cross-disciplinary, interdisciplinary, multidisciplinary
+		;see also cross-disciplinary, interdisciplinary, multidisciplinary
+		;Topics Education-c2
+		;Word Origin
+	;;
 
 
 
-[-] discipline		<-->	noun++B2	[220818][001]	./cef/
-	;kỷ luật -- [uncountable] the practice of training people to obey rules and orders and punishing them if they do not;the controlled behaviour or situation that is the result of this training
+
+
+[-] discipline		<-->	noun++B2	[220818][001]	./cef/ [t]
+	;kỷ luật -- (1) [uncountable] the practice of training people to obey rules and orders and punishing them if they do not; the controlled behaviour or situation that is the result of this training
 		;The school has a reputation for high standards of discipline.
 		;Strict discipline is imposed on army recruits.
 		;harsh/rigorous/rigid/iron discipline
 		;She keeps good discipline in class.
 		;to instill/enforce/impose/maintain discipline
-		;Lack of discipline at home meant that many pupils found it difficult to settle in to the ordered environment of the school.
+		;Lack of discipline at home meant that many pupils found it difficult to settle into the ordered environment of the school.
 		;a serious breach of discipline
+		;opposite indiscipline
+		;Extra Examples:
+		;He quickly brought order and discipline to the regiment.
+		;It's unfair to dismiss somebody for a single breach of discipline.
+		;Modern schools lack discipline.
+		;She believes children need discipline.
+		;Students have to learn discipline.
+		;The chancellor has stabilized the economy through strict fiscal discipline.
+		;The new headmaster tightened discipline in the school.
+		;The school was criticized for having very poor discipline.
+		;The teacher was unable to maintain discipline.
+		;They submitted to the discipline imposed by their leaders.
+		;We need better discipline in our schools.
+		;We need someone who is good at instilling discipline.
+		;a breakdown of discipline in the classroom
+		;strict military discipline
+		;the discipline that the party exercises over its members
+		;Topics Working lifeb2, Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;effectivefirmgood…
+				;verb + discipline
+				;enforceexerciseimpose…
+				;discipline + noun
+				;problem
+				;phrases
+				;a breach of disciplinea breakdown in disciplinea breakdown of discipline…
+		;See full entry
+	; -- (2) 
+	;chuyên ngành -- (4) [countable] (formal) an area of knowledge; a subject that people study or are taught, especially in a university
+		;The new recruits were drawn from a range of academic disciplines.
+		;Extra Examples:
+		;Scholars from various disciplines have been working on these problems.
+		;Applications are welcome from candidates with a degree in a mathematics or other relevant discipline.
+		;social work and its related disciplines
+		;experts in multiple disciplines
+		;academics from diverse academic disciplines
+		;When did sociology emerge as a distinct discipline?
+		;They established psychology as an academic discipline.
+		;The university offers a wide range of disciplines.
+		;There is a lack of communication across disciplines.
+		;Students are to be tested on the three core disciplines: mathematics, English and science.
+		;Within a discipline there may be more than one school of thought.
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;coremainmajor…
+				;preposition
+				;across disciplineswithin a/​the discipline
+				;phrases
+				;different disciplinesdiverse disciplinesmultiple disciplines…
+		;See full entry
+		;Word Origin
+	;;
 
 
 
-[-] discipline		<-->	verb++B2	[220818][001]	./d/\
-	;trừng phạt, kỷ luật -- discipline somebody (for something) to punish somebody for something they have done
+
+
+
+[-] discipline		<-->	verb++B2	[220818][003]	./d/\ [t]
+	;trừng phạt, kỷ luật -- (1) ​discipline somebody (for something) to punish somebody for something they have done
 		;The officers were disciplined for using racist language.
+		;Extra Examples:
+		;Several players had to be disciplined for violent behaviour.
+		;A spokesman confirmed that Lewis will be disciplined by the club for his outburst.
+		;Should unions discipline members who take unofficial action?
+		;Topics Education-b2
+	; -- (2) 
+	; -- (3) 
+	;;
 
 
 
-[-] dissertation		<-->	noun++C1	[220818][005]	./ˌdɪsəˈteɪʃn/-NAmE /ˌdɪsərˈteɪʃn/ [230603] [230728] [230825]
-	;luận án, luận văn -- dissertation (on something) a long piece of writing on a particular subject, especially one written for a university degree
+
+
+
+[-] dissertation		<-->	noun++C1	[220818][006]	./ˌdɪsəˈteɪʃn/-NAmE /ˌdɪsərˈteɪʃn/ [230603] [230728] [230825] [t]
+	;luận án, luận văn -- (1) dissertation (on something) a long piece of writing on a particular subject, especially one written for a university degree
 		;He wrote his Master's dissertation on rats.
 		;Students can either do a dissertation or take part in a practical project.
 		;Wordfinder: degreedissertationeducationgraduatehall of residencelecturemajorseminartutorialuniversity
 		;Extra Examples:
-		;Candidates are required to present a dissertation of between 8 000 and 12 000 words.
+		;Candidates are required to present a dissertation of between 8 000 and 12 000 words.
 		;She is writing her dissertation on the history of the Knights Templar.
-		;TOPICS EDUCATIOnC1
-			;Oxford Collocations Dictionary
-			;adjective
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
 				;researchdoctoralMaster’s…
-			;verb + dissertation
+				;verb + dissertation
 				;dopreparewrite…
-			;preposition
-				;dissertation on
+				;preposition
+				;dissertation on
 		;See full entry
+		;Word Origin
+	;;
 
 
 
-[-] distance learning		<-->	noun++C1	[220818][002]	./ˌdɪstəns ˈlɜːnɪŋ/-NAmE /ˌdɪstəns ˈlɜːrnɪŋ/
-	;hệ thống giáo dục từ xa -- (also distance education) [uncountable]a system of education in which people study at home with the help of special internet sites and send or email work to their teachers
+
+
+
+[-] distance learning		<-->	noun++C1	[220818][003]	./ˌdɪstəns ˈlɜːnɪŋ/-NAmE /ˌdɪstəns ˈlɜːrnɪŋ/ (also distance education)
+[uncountable] [t]
+	;hệ thống giáo dục từ xa -- (1) a system of education in which people study at home with the help of special internet sites and send or email work to their teachers
 		;a distance learning programme/package
-		;I got my degree through a distance learning program.
+		;I got my degree through a distance learning programme.
 		;The Open University offers a wide range of distance learning programmes.
-		;COMPARE remote learning
+		;compare remote learning
+		;Wordfinder: coursedistance learningeducationexamfurther educationgraduatehigher educationqualificationstudytertiary
+		;Topics Education-c1, Phones, email and the internetc1
+	;;
 
 
 
-[-] ditch		<-->	verb++C2	[220818][002]	./d/ [231109] [231122]
+
+
+
+[-] ditch		<-->	verb++C2	[220818][004]	./d/ [231109] [231122] [t]
+	;lánh mặt -- (1) [transitive] ditch something/somebody (informal) to get rid of something/somebody because you no longer want or need it/them
+		;The new road building programme has been ditched.
+		;He ditched his girlfriend.
+	; -- (2) 
 	;trốn học -- (3) [transitive] ditch school (North American English, informal) to stay away from school without permission
-		;TOPICS EDUCATIOnC2
+		;Topics Education-c2
+		;Word Origin
+	;;
 
 
 
-[-] doctor		<-->	noun++B1	[220818][001]	./ˈdɒktə(r)/-NAmE /ˈdɑːktər/
-	;tiến sĩ -- a person who has received the highest university degree
+
+
+
+[-] doctor		<-->	noun++B1	[220818][002]	./cef/ [t]
+	; -- (1) 
+	; -- (2) 
+	;tiến sĩ -- (3) a person who has received the highest university degree
 		;a Doctor of Philosophy/Law
 		;Dr Franks (= as a title/form of address)
+		;Topics Education-b1
+	; -- (4) 
+	;;
 
 
 
-[-] doctorate		<-->	noun++C1	[220818][002]	./ˈdɒktərət/-NAmE /ˈdɑːktərət/
-	;bậc tiến sĩ -- the highest university degree
+
+
+
+[-] doctorate		<-->	noun++C1	[220818][002]	./ˈdɒktərət/-NAmE /ˈdɑːktərət/ [t]
+	;bậc tiến sĩ -- (1) the highest university degree
 		;She's studying for her doctorate.
+		;Extra Examples:
+		;He's completed his doctorate on bees.
+		;She's doing a doctorate in ancient history.
+		;The applicants all have doctorates from good universities.
+		;a doctorate from Cornell University
+		;a doctorate of divinity
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;honoraryengineeringmusic…
+				;verb + doctorate
+				;dostudy fortake…
+				;doctorate + noun
+				;degreeprogram
+				;preposition
+				;doctorate fromdoctorate indoctorate of…
+		;See full entry
+		;Word Origin
+	;;
 
 
 
-[-] don		<-->	noun++C2	[220818][003]	./dɒn/-NAmE /dɑːn/
-	;ngài, giáo sư tại Oxford, Cambridge -- (British English) a teacher at a university, especially Oxford or Cambridge
+
+
+
+[-] don		<-->	noun++C2	[220818][004]	./dɒn/-NAmE /dɑːn/ [t]
+	;ngài, giáo sư tại Oxford, Cambridge -- (1) ​(British English) a teacher at a university, especially Oxford or Cambridge
 		;an Oxford don
-		;SEE ALSO donnish
-		;TOPICS EDUCATIOnC2
+		;see also donnish
+		;Topics Education-c2
+	; -- (2) 
+	; -- (3) 
+	;;
+
+
+
 
 
 
@@ -1565,65 +2245,156 @@
 		;(British English hall of residence, hall)
 		;a building for university or college students to live in
 		;There's not much space in my college dorm room.
+	; -- (1) 
+	; -- (2) 
+	;;
 
 
 
-[-] dormitory		<-->	noun++C1	[220818][002]	./ˈdɔːmətri/-NAmE /ˈdɔːrmətɔːri/
-	;kí túc xá -- (plural dormitories)(also informal dorm) a room for several people to sleep in, especially in a school or other institution
 
 
 
-[-] dr		<-->	abbreviation++B1	[221118][001]	.//
-	;tiến sĩ -- abbreviation (British English)
-		;(also Dr. North American English, British English)
-		;(in writing) Doctor
+[-] dormitory		<-->	noun++C1	[220818][003]	./ˈdɔːmətri/-NAmE /ˈdɔːrmətɔːri/ [t]
+	;kí túc xá -- (1) (also dormitory, residence hall) (all North American English)
+(British English hall of residence, hall) a building for university or college students to live in
+		;There's not much space in my college dorm room.
+		;Culture student life
+		;Topics Education-b2
+	; -- (2) 
+	;;
 
 
 
-[-] drama		<-->	noun++A2	[220818][002]	./ˈdrɑːmə/-NAmE /ˈdrɑːmə/
-	;kịch -- [uncountable] plays considered as a form of literature
+
+
+
+[-] Dr		<-->	abbreviation++B1	[221118][002]	.// (also Dr. North American English, British English) [t]
+	;tiến sĩ -- (1) (in writing) Doctor
+		;Dr (Jane) Walker
+		;Topics Education-b1, Healthcareb1
+	; -- (2) 
+	;;
+
+
+
+
+
+
+[-] drama		<-->	noun++A2	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;kịch -- (2) [uncountable] plays considered as a form of literature
 		;classical/modern drama
 		;a drama critic
 		;a drama school/group
 		;a drama student/teacher
 		;I studied English and Drama at college.
 		;It is a first-class piece of costume drama.
+		;see also K-drama (2)
+		;Wordfinder: authorbookclassiccriticdramafictiongenreliteraturepoetrywrite
+		;Extra Examples:
+		;Television drama is a powerful cultural medium.
+		;It is very difficult to write good drama.
+		;He's a drama major at Howard University.
+		;Topics Film and theatrea2, Education-a2
+				;Oxford Collocations Dictionary
+				;adjective
+				;compellingpowerfulgritty…
+				;verb + drama
+				;writecreateproduce…
+				;drama + noun
+				;productionserialseries…
+				;preposition
+				;in a/​the dramadrama about
+		;See full entry
+	; -- (3) 
+	; -- (4) 
+	;;
 
 
 
-[-] drill		<-->	noun++C2	[220818][002]	./d/
- 	;sự tập dượt -- [countable, uncountable] a way of learning something by means of repeated exercises
 
 
 
-[-] drop		<-->	verb++B2	[220818][002]	./cef/ [240302]
-	;ngắt, chặn lại, dừng ... lại -- [transitive] drop something to stop doing or discussing something;to not continue with something
+[-] drill		<-->	noun++C2	[220818][003]	./d/ [t]
+	; -- (1) 
+	;sự tập dượt -- (2) ​[countable, uncountable] a way of learning something by means of repeated exercises
+		;Topics Education-c2, Languagec2
+	; -- (7) 
+	;;
+
+
+
+
+
+
+[-] drop		<-->	verb++B2	[220818][003]	./cef/ [240302] [t]
+	; -- (1) 
+	; -- (2) 
+	;ngắt, chặn lại, dừng ... lại -- (13) [-stop] [transitive] drop something to stop doing or discussing something; to not continue with something
 		;I dropped German (= stopped studying it) when I was 14.
 		;Drop everything and come at once!
 		;Look, can we just drop it (= stop talking about it)?
 		;I think we'd better drop the subject.
 		;The police decided to drop the charges against her.
 		;Let's drop the formalities—please call me Mike.
+		;Extra Examples:
+		;Both countries have agreed to drop border controls.
+		;He suddenly dropped his habitual banter.
+		;The formal grade of Geologist was dropped in favour of Scientific Officer.
+		;When nobody volunteered, the idea was finally dropped altogether.
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adverb
+				;quietlyimmediatelyquickly…
+				;verb + drop
+				;let somethingagree todecide to…
+				;preposition
+				;in favour/​favor of
+		;See full entry
+	; -- (16) 
+	;;
 
 
 
-[-] drop out		<-->	phrasal verb++B2	[221118][001]	./drɒp/-NAmE /drɑːp/
-	;bỏ việc -- to leave school, college, etc. without finishing your studies
+
+
+
+[-] drop out		<-->	phrasal verb++B2	[221118][003]	./p/ [t]
+	; -- (1) 
+	;bỏ học, bỏ việc -- (2) to leave school, college, etc. without finishing your studies
 		;to drop out of school/college
 		;She started a degree but dropped out after only a year.
-		;RELATED NOUN dropout (1)
+		;related noun dropout (1)
+		;Topics Education-b2
+	; -- (3) 
+	;;
 
 
 
-[-] dropout		<-->	noun++C1	[220818][002]	./ˈdrɒpaʊt/-NAmE /ˈdrɑːpaʊt/
-	;người bỏ việc, bỏ học -- a person who leaves school or college before they have finished their studies
+
+
+
+[-] dropout		<-->	noun++C1	[220818][003]	./ˈdrɒpaʊt/-NAmE /ˈdrɑːpaʊt/ [t]
+	;người bỏ việc, bỏ học -- (1) a person who leaves school or college before they have finished their studies
 		;college dropouts
 		;a university with a high dropout rate
+		;Topics Education-c1
+	; -- (2) a person who rejects the ideas and ways of behaving that are accepted by the rest of society
+		;He’s a dropout who will never have a steady job.
+	;;
 
 
 
-[-] dT		<-->	noun++C2	[220818][001]	./ˌdiː ˈtiː/-NAmE /ˌdiː ˈtiː/
-	;trường kỹ thuật -- [uncountable] (British English)a school subject in which students learn about the role of technology in modern life and also design and make things for themselves (the abbreviation for ‘design and technology’)
+
+
+
+[-] DT		<-->	noun++C2	[220818][002]	./ˌdiː ˈtiː/-NAmE /ˌdiː ˈtiː/ [uncountable] (British English) [t]
+	;trường kỹ thuật -- (1) a school subject in which students learn about the role of technology in modern life and also design and make things for themselves (the abbreviation for ‘design and technology’)
+		;Topics Education-c2
+	;;
+
+
+
 
 
 
@@ -1636,7 +2407,7 @@
 
 
 
-[-] edTech		<-->	noun++C2	[220818][001]	./ˈedtek/-NAmE /ˈedtek/
+[-] EdTech		<-->	noun++C2	[220818][001]	./ˈedtek/-NAmE /ˈedtek/
 	;giáo dục kỹ thuật -- [uncountable] educational technology (creating and using technology for education and study)
 		;It's one of the fastest-growing EdTech companies.
 
