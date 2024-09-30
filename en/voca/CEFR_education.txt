@@ -2930,7 +2930,7 @@
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-		;Topics Education-a1
+		;Topics EDUCATIOn-a1
 	; -- (7) 
 	;;
 
@@ -2984,72 +2984,281 @@
 	;;
 
 
-===========
 
 
-[-] expulsion		<-->	noun++C2	[220818][002]	./ɪkˈspʌlʃn/-NAmE /ɪkˈspʌlʃn/ [ue]
-	;sự trục xuất -- (1) [uncountable, countable] expulsion (from…) the act of forcing somebody to leave a place;the act of expelling somebody
-		;These events led to the expulsion of senior diplomats from the country.
-		;Troops are engaged in the expulsion of enemy forces from the area.
-	;sự trục xuất -- (1) [uncountable, countable] expulsion (from…) the act of sending somebody away from a school or an organization, so that they can no longer belong to it;the act of expelling somebody
+[-] expulsion		<-->	noun++C2	[220818][003]	./ɪkˈspʌlʃn/-NAmE /ɪkˈspʌlʃn/ [ue] [t]
+	;sự trục xuất  -- (1) 
+	;đuổi học -- (2) [uncountable, countable] expulsion (from…) the act of sending somebody away from a school or an organization, so that they can no longer belong to it; the act of expelling somebody
 		;The headteacher threatened the three girls with expulsion.
 		;The club faces expulsion from the football league.
+		;Extra Examples:
+		;His disruptive behaviour was felt to be sufficient grounds for his expulsion.
+		;Several pupils now face expulsion.
+		;The government ordered the immediate expulsion of the two men.
+		;an ex-party member who intends to appeal against his expulsion
+		;her expulsion from the society
+		;Topics EDUCATIOn-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;automaticimmediatemass…
+				;verb + expulsion
+				;lead toresult incall for…
+				;preposition
+				;expulsion from
+				;phrases
+				;grounds for expulsion
+		;See full entry
+	; -- (3) 
+	;;
 
 
 
-[-] extension		<-->	noun++C2	[220818][001]	./ɪkˈstenʃn/-NAmE /ɪkˈstenʃn/
- 	;học phần bán thời gian -- [countable](used before another noun) a part of a college or university that offers courses to students who are not studying full-time;a programme of study for these students
+
+
+
+
+
+
+
+[-] extension		<-->	noun++C2	[220818][002]	./cef/ [t]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;sự mở rộng -- (8) [-college/university] [countable]
+(used before another noun) a part of a college or university that offers courses to students who are not studying full-time; a programme of study for these students
 		;La Salle Extension University
 		;extension courses
+		;Topics EDUCATIOn-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;plannedproposedhome…
+				;verb + extension
+				;addbuild
+				;preposition
+				;extension to
+		;See full entry
+	; -- (10) 
+	;;
 
 
 
-[-] extracurricular		<-->	adjective++C1	[220818][001]	./ˌekstrəkəˈrɪkjələ(r)/-NAmE /ˌekstrəkəˈrɪkjələr/
-	;ngoại khoá -- [usually before noun] not part of the usual course of work or studies at a school or college
+
+
+
+
+
+
+
+[-] extracurricular		<-->	adjective++C1	[220818][002]	./ˌekstrəkəˈrɪkjələ(r)/-NAmE /ˌekstrəkəˈrɪkjələr/ [usually before noun] [t]
+	;ngoại khoá -- (1) not part of the usual course of work or studies at a school or college
 		;She's involved in many extracurricular activities.
+		;Topics EDUCATIOn-c1
+		;Oxford Collocations Dictionary
+		;Extra-curricular is used with these nouns:
+		;activity
+		;See full entry
+	;;
 
 
 
-[-] extramural		<-->	adjective++C2	[220818][001]	./ˌekstrəˈmjʊərəl/-NAmE /ˌekstrəˈmjʊrəl/
-	;(thuộc, được xếp) thời gian biểu học bán part-time -- [usually before noun] (British English) arranged by a university, college, etc. for people who only study part-time
+
+
+
+
+
+
+
+[-] extramural		<-->	adjective++C2	[220818][002]	./ˌekstrəˈmjʊərəl/-NAmE /ˌekstrəˈmjʊrəl/ [usually before noun] [t]
+	;ngoài trường -- (1) (British English) arranged by a university, college, etc. for people who only study part-time
 		;extramural education/studies/departments
-		;SEE ALSO extension (8)	
+		;see also extension (8)
+		;Topics EDUCATIOn-c2
+	; -- (2) 
+	;;
 
 
 
-[-] f		<-->	noun++C1	[220818][001]	./ef/-NAmE /ef/
-	;hạng F (A --> F) -- F (in/for something) a grade that a student can get for a piece of work or course of study, showing that it is very bad and the student has failed
+
+
+
+
+
+
+
+[-] f		<-->	noun++C1	[220818][002]	./ef/-NAmE /ef/ [t]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) F (in/for something) a grade that a student can get for a piece of work or course of study, showing that it is very bad and the student has failed
 		;He got an F in chemistry.
+		;Topics EDUCATIOn-c1
+		;see also F-word
+	;;
 
 
 
-[-] faculty		<-->	noun++C1	[220818][001]	./cef/
+
+
+
+
+
+
+
+[-] faculty		<-->	noun++C1	[220818][002]	./cef/ (plural faculties) [t]
 	;khoa -- (plural faculties)[countable] a department or group of related departments in a college or university
 		;the Faculty of Law
 		;students who are doing degrees in the Arts Faculty
 		;the Faculty of Arts
 		;(faculty, department, major, branch)
+	;khoa -- (1) [countable] a department or group of related departments in a college or university
+		;the Faculty of Law
+		;students who are doing degrees in the Arts Faculty
+		;the Faculty of Arts
+		;Topics EDUCATIOn-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;ArtsEnglishlaw…
+				;faculty + noun
+				;member
+				;preposition
+				;in a/​the facultyfaculty of
+				;phrases
+				;a member of the facultythe dean of (the) facultythe head of (the) faculty…
+		;See full entry
+	;khoa -- (2) [countable + singular or plural verb] all the teachers in a faculty of a college or university
+		;the Law School faculty
+		;a faculty meeting
+		;faculty members
+		;The faculty is/are meeting to discuss the issue.
+		;Extra Examples:
+		;Larger grants may ensure more funding for faculty development.
+		;My faculty adviser made an effort to contact me.
+		;a hearing before a faculty committee
+		;collaboration across faculties
+		;Topics EDUCATIOn-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;collegedepartmentaluniversity…
+				;verb + faculty
+				;hirerecruitretain…
+				;faculty + noun
+				;appointmentpositiondevelopment…
+				;preposition
+				;on the facultyfaculty atfaculty of…
+		;See full entry
+	;khoa -- (3) [countable, uncountable]
+(often the faculty)
+(North American English) all the teachers of a particular university or college
+		;faculty members
+		;She joined the faculty of the University of Maryland.
+		;Extra Examples:
+		;the faculty at public institutions
+		;her colleagues on the faculty
+		;The degree of job security for tenured faculty is high relative to most other jobs.
+		;Teachers are typically part-timers and adjunct faculty.
+		;I was fortunate to receive a faculty appointment at Ohio State.
+		;Topics EDUCATIOn-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;collegedepartmentaluniversity…
+				;verb + faculty
+				;hirerecruitretain…
+				;faculty + noun
+				;appointmentpositiondevelopment…
+				;preposition
+				;on the facultyfaculty atfaculty of…
+		;See full entry
+	; -- (4) 
+	; -- (5) 
+	;;
 
 
 
-[-] fail		<-->	verb++A2	[220818][001]	./feɪl/-NAmE /feɪl/
-	;thi rớt -- [test/exam][transitive, intransitive] to not pass a test or an exam;to decide that somebody/something has not passed a test or an exam
+
+
+
+
+
+
+
+[-] fail		<-->	verb++A2	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;thi rớt -- (2) [-test/exam] [transitive, intransitive] to not pass a test or an exam; to decide that somebody/something has not passed a test or an exam
 		;What will you do if you fail?
 		;fail something He failed his driving test.
 		;Students who fail the exam can retake it.
 		;She was disqualified after failing a drugs test.
 		;The restaurant failed a hygiene inspection.
 		;fail somebody The examiners failed over half the candidates.
+		;opposite pass
+		;Extra Examples:
+		;My car failed its MOT.
+		;Schools that fail their inspection can be taken over.
+		;I failed all my A levels but I turned out fine.
+		;She was convinced she'd failed the audition.
+		;He was rejected for the army after failing the physical.
+		;If your attendance drops below 80%, you automatically fail the course.
+		;They can fail you for poor attendance.
+		;He failed me for not looking in my rear-view mirror often enough.
+		;If you fail, you have to resit.
+		;There's no grade: it's just pass or fail.
+		;Once a student has failed on a few tasks, they lose motivation.
+		;Topics EDUCATIOn-a2
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	; -- (8) 
+	;;
 
 
 
-[-] fee		<-->	noun++B2	[220818][001]	./fiː/-NAmE /fiː/
-	;phí -- an amount of money that you pay to join an organization, or to do something
+
+
+
+
+
+
+
+[-] fee		<-->	noun++B2	[220818][002]	./cef/ [t]
+	; -- (1) 
+	;phí -- (2) an amount of money that you pay to join an organization, or to do something
 		;a membership/subscription fee
 		;There is no entrance fee to the gallery.
 		;the TV licence fee
 		;You have to pay a fee to enter the race.
 		;fee for something The registration fee for the event is £35.
+		;see also green fee
+		;Extra Examples:
+		;For a small fee, anyone can use these facilities.
+		;The admission fee has gone up.
+		;We had to pay a nominal fee to join the club.
+		;We now charge a fee for museum entrance.
+		;a £30 membership fee
+		;a $1 200 initiation fee
+		;Club members pay an annual membership fee of £775.
+		;Topics Moneyb2, EDUCATIOn-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;exorbitantfathefty…
+				;verb + fee
+				;chargeimposeincur…
+				;fee + verb
+				;be duebe payableapply…
+				;fee + noun
+				;incomerevenuepayment…
+				;preposition
+				;for a feefee forfee on…
+		;See full entry
+		;Word Origin
+	;;
+
+
+
+
+
+
+
 
 
 
@@ -3082,84 +3291,254 @@
 		;TOPICS EDUCATIOn-C2
 
 
-[-] field day		<-->	noun++C1	[220818][001]	./ˈfiːld deɪ/-NAmE /ˈfiːld deɪ/
-	;ngày hội thể thao -- (North American English)(British English sports day)a special day at school when there are no classes and children compete in sports events
+[-] field day		<-->	noun++C1	[220818][002]	./ˈfiːld deɪ/-NAmE /ˈfiːld deɪ/ (North American English)
+(British English sports day) [t]
+	;ngày hội thể thao -- (1) a special day at school when there are no classes and children compete in sports events
+		;Topics EDUCATIOn-c1
+	;;
 
 
 
-[-] field trip		<-->	noun++C1	[220818][001]	./ˈfiːld trɪp/-NAmE /ˈfiːld trɪp/
-	;chuyến dã ngoại -- a journey made by a group of people, often students, to study something in its natural environment
+
+
+
+
+
+
+
+[-] field trip		<-->	noun++C1	[220818][002]	./ˈfiːld trɪp/-NAmE /ˈfiːld trɪp/ [t]
+	;chuyến dã ngoại -- (1) a journey made by a group of people, often students, to study something in its natural environment
 		;We went on a geology field trip.
 		;Delegates at the conference were taken on field trips to see the devastation.
+		;Topics EDUCATIOn-c1
+	;;
 
 
 
-[-] fieldwork		<-->	noun++C1	[220818][002]	./ˈfiːldwɜːk/-NAmE /ˈfiːldwɜːrk/ [IE-C1-Z08]
-	;nghiên cứu đã xong trong thực tế -- [uncountable] research or study that is done in the real world rather than in a library or laboratory
+
+
+
+
+
+
+
+[-] fieldwork		<-->	noun++C1	[220818][002]	./ˈfiːldwɜːk/-NAmE /ˈfiːldwɜːrk/ [uncountable] [IE-C1-Z08] [t]
+	;công việc thực địa -- (1) research or study that is done in the real world rather than in a library or laboratory
 		;Most of the fieldwork was carried out in Italy.
 		;extensive fieldwork on chimpanzees
+		;Topics EDUCATIOn-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;extensiveintensiveethnographic…
+				;verb + fieldwork
+				;be engaged incarry outconduct…
+				;preposition
+				;during fieldworkin the course of fieldworkfieldwork  on…
+		;See full entry
+	;;
 
 
 
-[-] final		<-->	noun++C2	[220818][001]	./ˈfaɪnl/-NAmE /ˈfaɪnl/-\
-	;kỳ thi cuối -- finals [plural] (British English) the last exams taken by university students at the end of their final year
+
+
+
+
+
+
+
+[-] final		<-->	noun++C2	[220818][002]	./ˈfaɪnl/-NAmE /ˈfaɪnl/-\ [t]
+	; -- (1) 
+	; -- (2) 
+	;kỳ thi cuối kỳ -- (3) finals [plural] (British English) the last exams taken by university students at the end of their final year
 		;to sit/take your finals
+		;Topics EDUCATIOn-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;collegeschooluniversity…
+				;verb + finals
+				;revise forstudy fordo…
+		;See full entry
+	; -- (4) 
+	;;
 
 
 
-[-] first		<-->	noun++C2	[220818][001]	./fɜːst/-NAmE /fɜːrst/-\
-	;chuẩn giáo dục cao nhất -- [countable] first (in something) the highest level of university degree at British universities
+
+
+
+
+
+
+
+[-] first		<-->	noun++C2	[220818][002]	./fɜːst/-NAmE /fɜːrst/*\ [t]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;đạt điểm cao nhất -- (6) [countable] first (in something) the highest level of university degree at British universities
 		;She got a first in maths at Exeter.
 		;He did Philosophy and English Literature and got a double first.
-		;COMPARE second1, third
+		;compare second1, third
+		;Topics EDUCATIOn-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;double
+				;verb + first
+				;be awardedgainget…
+				;preposition
+				;first in
+		;See full entry
+		;Word Origin
+	;;
 
 
 
-[-] first class		<-->	noun++C2	[220818][001]	./ˌfɜːst ˈklɑːs/-NAmE /ˌfɜːrst ˈklæs/
-	;chuẩn giáo dục cao nhất -- the highest standard of degree given by a British university
 
 
 
-[-] flipped classroom		<-->	noun++C2	[220818][001]	./ˌflɪpt ˈklɑːsruːm/, /ˌflɪpt ˈklɑːsrʊm/-NAmE /ˌflɪpt ˈklæsruːm/, /ˌflɪpt ˈklæsrʊm/
-	;phương pháp dạy học trực tuyến -- (also flipped learning)[countable, usually singular]a method of teaching in which students study new material at home, for example with videos over the internet, and then discuss and practise it with teachers in class, instead of the usual method where teachers present new material in school and students practise at home
-		;SEE ALSO blended learning
 
 
 
-[-] flunk		<-->	verb++C2	[220818][001]	./flʌŋk/-NAmE /flʌŋk/
-	;thi rớt -- (informal, especially North American English)[transitive, intransitive] flunk (something) to fail an exam, a test or a course
+
+[-] first class		<-->	noun++C2	[220818][002]	./ˌfɜːst ˈklɑːs/-NAmE /ˌfɜːrst ˈklæs/ [t]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;chuẩn giáo dục cao nhất -- (4) the highest standard of degree given by a British university
+		;Topics EDUCATIOn-c2
+	;;
+
+
+
+
+
+
+
+
+
+
+[-] flipped classroom		<-->	noun++C2	[220818][002]	./ˌflɪpt ˈklɑːsruːm/, /ˌflɪpt ˈklɑːsrʊm/-NAmE /ˌflɪpt ˈklæsruːm/, /ˌflɪpt ˈklæsrʊm/ (also flipped learning)
+[countable, usually singular] [t]
+	;phương pháp dạy học trực tuyến -- (1) a method of teaching in which students study new material at home, for example with videos over the internet, and then discuss and practise it with teachers in class, instead of the usual method where teachers present new material in school and students practise at home
+		;see also blended learning
+		;Topics EDUCATIOn-c2
+	;;
+
+
+
+
+
+
+
+
+
+
+[-] flunk		<-->	verb++C2	[220818][002]	./flʌŋk/-NAmE /flʌŋk/ (informal, especially North American English) [t]
+	;thi rớt -- (1) [transitive, intransitive] flunk (something) to fail an exam, a test or a course
 		;I flunked math in second grade.
+		;Extra Examples:
+		;He'd flunked every exam he'd ever sat.
+		;The students who are worried usually aren't the ones who will flunk.
+		;Topics Difficulty and failurec2, Educationc2
+	;đánh rớt -- (2) [transitive] flunk somebody to make somebody fail an exam, a test, or a course by giving them a low mark
+		;She's flunked 13 of the 18 students.
+		;Topics Difficulty and failurec2, EDUCATIOn-c2
+		;Word Origin
+	;;
 
 
 
-[-] form		<-->	noun++C1	[220818][002]	./fɔːm/-NAmE /fɔːrm/ [230526]
-	;một lớp trong trường -- (British English, old-fashioned) a class in a school
+
+
+
+
+
+
+
+[-] form		<-->	noun++C1	[220818][003]	./cef/ [230526] [t]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;lớp chủ  nhiệm -- (11) [-in school] ​(British English, old-fashioned) a class in a school
 		;Who's your form teacher?
-		;SEE ALSO sixth form
-		;COMPARE year (5)
+		;see also sixth form
+		;compare year (5)
+		;Topics EDUCATIOn-c1
+	; -- (12) 
+	;;
 
 
 
-[-] foundation course		<-->	noun++C2	[220818][001]	./faʊnˈdeɪʃn kɔːs/-NAmE /faʊnˈdeɪʃn kɔːrs/
-	;một khoá tổng quát -- (British English) a general course at a college that prepares students for longer or more difficult courses
+
+
+
+
+
+
+
+[-] foundation course		<-->	noun++C2	[220818][002]	./faʊnˈdeɪʃn kɔːs/-NAmE /faʊnˈdeɪʃn kɔːrs/ (British English) [t]
+	;một khoá tổng quát -- (1) a general course at a college that prepares students for longer or more difficult courses
 		;an arts foundation course
+		;Topics EDUCATIOn-c2
+	;;
 
 
 
-[-] frat		<-->	noun++C2	[220818][002]	./fræt/-NAmE /fræt/ [230526]
-	;hội nhóm sinh viên -- (North American English, informal) a fraternity (= a club for a group of male students at an American college or university)
+
+
+
+
+
+
+
+[-] frat		<-->	noun++C2	[220818][002]	./fræt/-NAmE /fræt/ (North American English, informal) [230526] [t]
+	;hội nhóm sinh viên -- (1) a fraternity (= a club for a group of male students at an American college or university)
 		;a frat boy (= a member of a fraternity)
+		;Topics EDUCATIOn-c2
+		;Word Origin
+	;;
 
 
 
-[-] fraternity		<-->	noun++C2	[220818][002]	./d/ [240727]
-	;hội nhóm sinh viên -- (also North American English, informal frat) [countable] a club for a group of male students at an American college or university
-		;COMPARE sorority
 
 
 
-[-] free period		<-->	noun++B2	[220818][001]	./ˌfriː ˈpɪəriəd/-NAmE /ˌfriː ˈpɪriəd/
-	;thời gian hè hay thời gian nghỉ -- a period of time in a school day when a student or teacher does not have a class
+
+
+
+
+[-] fraternity		<-->	noun++C2	[220818][002]	./d/ (plural fraternities) [240727] [t]
+	; -- (1) 
+	;hội nhóm sinh viên -- (2) ​(also North American English, informal frat) [countable] a club for a group of male students at an American college or university
+		;compare sorority
+		;Culture
+		;Topics EDUCATIOn-c2
+	; -- (3) 
+	;;
+
+
+
+
+
+
+
+
+
+
+[-] free period		<-->	noun++B2	[220818][002]	./ˌfriː ˈpɪəriəd/-NAmE /ˌfriː ˈpɪriəd/ [t]
+	;thời gian rảnh rỗi -- (1) a period of time in a school day when a student or teacher does not have a class
+		;Topics EDUCATIOn-b2
+	;;
+
+
+
+
+
+
+
 
 
 
