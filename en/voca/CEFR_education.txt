@@ -3540,63 +3540,131 @@
 
 
 
-=========
 
 
-[-] fresher		<-->	noun++C2	[220818][001]	./ˈfreʃə(r)/-NAmE /ˈfreʃər/
-	;sinh viên năm nhất -- (British English, informal)
-		;a student who has just started his or her first term at a university
+[-] fresher		<-->	noun++C2	[220818][002]	./ˈfreʃə(r)/-NAmE /ˈfreʃər/ (British English, informal)  [240930]
+	;sinh viên năm nhất -- (1) ​a student who has just started his or her first term at a university
 		;freshers’ fair (= an event when new students can join university societies)
-		;COMPARE freshman (1)
+		;compare freshman (1)
+		;Topics Education-c2
+	;;
 
 
 
-[-] freshman		<-->	noun++C2	[220818][001]	./ˈfreʃmən/-NAmE /ˈfreʃmən/
-	;sinh viên năm nhất -- (plural freshmen /ˈfreʃmən/ /ˈfreʃmən/)(North American English)a first-year student at a university or college
+
+
+
+
+
+
+
+[-] freshman		<-->	noun++C2	[220818][002]	./ˈfreʃmən/-NAmE /ˈfreʃmən/ (plural freshmen  /ˈfreʃmən/  /ˈfreʃmən/)
+(North American English)  [240930]
+	;sinh viên năm nhất -- (1) a first-year student at a university or college
 		;college freshmen
 		;during my freshman year
-		;COMPARE fresher
-		;TOPICS EDUCATIOnC2
-	; -- (1) 
+		;compare fresher
+		;Topics Education-c2
 	; -- (2) 
-	; -- (3) 
+	;;
 
 
 
 
 
 
-[-] freshwoman		<-->	noun++C2	[220818][001]	./ˈfreʃwʊmən/-NAmE /ˈfreʃwʊmən/
-	;nữ sinh viên năm nhất -- (plural freshwomen /ˈfreʃwɪmɪn/ /ˈfreʃwɪmɪn/)(North American English)
-		;a female first-year student at a university or college
-		;TOPICS EDUCATIOnC2
-	; -- (1) 
+
+
+
+
+
+
+
+
+[-] freshwoman		<-->	noun++C2	[220818][002]	./ˈfreʃwʊmən/-NAmE /ˈfreʃwʊmən/ (plural freshwomen  /ˈfreʃwɪmɪn/  /ˈfreʃwɪmɪn/)
+(North American English)  [240930]
+	;nữ sinh viên năm nhất -- (1) a female first-year student at a university or college
+		;Topics Education-c2
 	; -- (2) 
-	; -- (3) 
+	;;
 
 
 
 
 
 
-[-] full professor		<-->	noun++C1	[220818][002]	./ˈfʊl prəfesə(r)/-NAmE /ˈfʊl prəfesər/ [230320]
-	;giáo sư chính -- (North American English)(also professor especially in British English)a university teacher of the highest rank
+
+
+
+
+
+
+
+
+[-] full professor		<-->	noun++C1	[220818][003]	./ˈfʊl prəfesə(r)/-NAmE /ˈfʊl prəfesər/ (North American English)
+(also professor especially in British English) [230320]  [240930]
+	;giáo sư chính -- (1) a university teacher of the highest rank
 		;Full professor is used to describe a rank of university teacher, and not as a title.
+		;Topics Educationc1, Jobsc1
+	;;
 
 
 
-[-] funding		<-->	noun++B2	[220818][001]	./ˈfʌndɪŋ/-NAmE /ˈfʌndɪŋ/
-	;quỹ nghiên cứu -- [uncountable]money for a particular purpose;the act of providing money for such a purpose
+
+
+
+
+
+
+
+[-] funding		<-->	noun++B2	[220818][002]	./ˈfʌndɪŋ/-NAmE /ˈfʌndɪŋ/ [uncountable]  [240930]
+	;quỹ nghiên cứu -- (1) money for a particular purpose; the act of providing money for such a purpose
 		;federal/state funding
 		;funding for something There have been large cuts in government funding for scientific research.
 		;Alex originally struggled to secure funding for the project.
 		;to receive/get/obtain funding for something
 		;to provide/allocate funding for something
 		;to withdraw/cut funding for something
+		;Extra Examples:
+		;About 70 per cent of current funding has gone on schools.
+		;Half of the research posts depend on outside funding.
+		;It gave us more time to raise the necessary funding.
+		;Most of our funding comes from private sources.
+		;Much of the funding dried up in the 1990s.
+		;Present levels of funding have forced the school to close.
+		;The president has promised full funding for the plans.
+		;The refusal to provide extra funding for schools caused a storm.
+		;The school has attracted funding from a number of sources.
+		;We need to make sure that the funding goes to areas where its most needed.
+		;the clandestine funding of an illegal group
+		;public funding for the arts
+		;Topics Businessb2, Social issuesb2, Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;adequatepropersufficient…
+				;verb + funding
+				;award somebody/​somethinggive somebody/​somethingprovide (somebody/​something with)…
+				;funding + verb
+				;come from somebody/​somethinggoincrease…
+				;funding + noun
+				;shortfallcrisiscut…
+				;preposition
+				;… in funding… of fundingfunding  from…
+				;phrases
+				;a cut in fundingan increase in fundinga lack of funding…
+		;See full entry
+	;;
 
 
 
-[-] further education		<-->	noun++B2	[220818][002]	./ˌfɜːðər edʒuˈkeɪʃn/-NAmE /ˌfɜːrðər edʒuˈkeɪʃn/ [uncountable] (abbreviation FE) (British English)
+
+
+
+
+
+
+
+[-] further education		<-->	noun++B2	[220818][002]	./ˌfɜːðər edʒuˈkeɪʃn/-NAmE /ˌfɜːrðər edʒuˈkeɪʃn/ [uncountable] (abbreviation FE) (British English)  [240930]
 	;giáo dục từ xa -- (1) education that is provided for people after leaving school, but not at a university
 		;a college of further education
 		;COMPARE higher education, tertiary education
@@ -3604,38 +3672,87 @@
 		;Wordfinder: coursedistance learningeducationexamfurther educationgraduatehigher educationqualificationstudytertiary
 		;Culture vocational training
 		;Culture further education
-		;TOPICS EducationB2
+		;TOPICS Education-B2
 		;Oxford Collocations Dictionary
 				;Further education is used before these nouns:
 				;college
 		;See full entry
+	;;
 
 
 
-[-] gap year		<-->	noun++B2	[220818][001]	./ˈɡæp jɪə(r)/, /ˈɡæp jɜː(r)/-NAmE /ˈɡæp jɪr/
-	;một năm hoãn học -- (British English) a year that a young person spends working and/or travelling, often between leaving school and starting university
+
+
+
+
+
+
+
+[-] gap year		<-->	noun++B2	[220818][002]	./ˈɡæp jɪə(r)/, /ˈɡæp jɜː(r)/-NAmE /ˈɡæp jɪr/ (British English)  [240930]
+	;một năm hoãn học -- (1) ​a year that a young person spends working and/or travelling, often between leaving school and starting university
 		;I'm planning to take a gap year and go backpacking in India.
 		;on a gap year He was on a gap year before going to university.
+		;Topics Education-b2
+	;;
 
 
 
-[-] gCSE		<-->	noun++C1	[220818][001]	./ˌdʒiː siː es ˈiː/-NAmE /ˌdʒiː siː es ˈiː/
-	;một kỳ thi ở Anh-Wale -- [countable, uncountable] a British exam taken by students in England and Wales and some other countries, usually around the age of 16. GCSEs can be taken in a range of subjects. (GCSE is the abbreviation for ‘General Certificate of Secondary Education’.)
+
+
+
+
+
+
+
+[-] GCSE		<-->	noun++C1	[220818][002]	./ˌdʒiː siː es ˈiː/-NAmE /ˌdʒiː siː es ˈiː/  [240930]
+	;một kỳ thi ở Anh-Wale -- (1) a British exam taken by students in England and Wales and some other countries, usually around the age of 16. GCSEs can be taken in a range of subjects. (GCSE is the abbreviation for ‘General Certificate of Secondary Education’.)
 		;She's got 10 GCSEs.
 		;He's doing German at GCSE.
-		;COMPARE A level, IGCSE
+		;compare A level, IGCSE
+		;Culture the National Curriculum
+		;Topics Education-c1
+		;Oxford Collocations Dictionary
+		;GCSE is used before these nouns:
+		;examexaminationpass…
+		;See full entry
+	;;
 
 
 
-[-] gED		<-->	noun++C2	[220818][001]	./ˌdʒiː iː ˈdiː/-NAmE /ˌdʒiː iː ˈdiː/
-	;chứng chỉ ở US, Canada -- (in the US and Canada) an official certificate that people who did not finish high school can get, after taking classes and passing a test (the abbreviation for ‘General Equivalency Diploma’)
 
 
 
-[-] gender studies		<-->	noun++B2	[220818][001]	./ˈdʒendə stʌdiz/-NAmE /ˈdʒendər stʌdiz/
-	;-- [uncountable]
-		;the study of gender as a subject at university, college, etc.
+
+
+
+
+[-] GED		<-->	noun++C2	[220818][002]	./ˌdʒiː iː ˈdiː/-NAmE /ˌdʒiː iː ˈdiː/  [240930]
+	;chứng chỉ ở US, Canada -- (1) (in the US and Canada) an official certificate that people who did not finish high school can get, after taking classes and passing a test (the abbreviation for ‘General Equivalency Diploma’)
+		;Topics Education-c2
+	; -- (2) 
+	;;
+
+
+
+
+
+
+
+
+
+
+[-] gender studies		<-->	noun++B2	[220818][002]	./ˈdʒendə stʌdiz/-NAmE /ˈdʒendər stʌdiz/ [uncountable]  [240930]
+	;nghiên cứu về giới -- (1) the study of gender as a subject at university, college, etc.
 		;She teaches gender studies and political science at Hunter College.
+		;Topics Education-b2
+	;;
+
+
+
+
+
+
+
 
 
 
