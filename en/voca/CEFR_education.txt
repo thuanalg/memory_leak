@@ -3756,76 +3756,270 @@
 
 
 
-[-] geography		<-->	noun++A1	[220818][001]	./dʒiˈɒɡrəfi/-NAmE /dʒiˈɑːɡrəfi/
-	;đại lý -- (plural geographies)[uncountable] the scientific study of the earth’s surface, physical features, divisions, products, population, etc.
+[-] geography		<-->	noun++A1	[220818][002]	./cef/ (plural geographies) [t]
+	;môn  địa lý -- (1) [uncountable] the scientific study of the earth’s surface, physical features, divisions, products, population, etc.
 		;recent work in economic geography
 		;cultural/historical/political geography
 		;a geography lesson/class/teacher
 		;a degree in geography
-		;SEE ALSO human geography, physical geography (1)
+		;see also human geography, physical geography (1)
+		;Topics Educationa1, Geography-a1
+				;Oxford Collocations Dictionary
+				;adjective
+				;economichistoricalhuman…
+		;See full entry
+	; -- (2) [singular] the way in which the physical features of a place are arranged
+		;These streets had a very particular geography.
+		;the geography of New York City
+		;Kim knew the geography of the building and strode along the corridor.
+		;Extra Examples:
+		;The geography of the area makes travel very difficult.
+		;The island's geography is very simple.
+		;I wasn't familiar with the geography of the town.
+		;Topics Geography-a2
+	; -- (3) 
+	; -- (4) 
+	;;
 
 
 
-[-] geology		<-->	noun++B2	[220818][002]	./dʒiˈɒlədʒi/-NAmE /dʒiˈɑːlədʒi/
-	;địa chất học -- [uncountable] the scientific study of the physical structure of the earth, including the origin and history of the rocks and soil of which the earth is made
 
 
 
-[-] geometry		<-->	noun++C2	[220818][002]	./dʒiˈɒmətri/-NAmE /dʒiˈɑːmətri/
-	;hình học -- [uncountable] the branch of mathematics that deals with the measurements and relationships of lines, angles, surfaces and solids
+
+[-] geology		<-->	noun++B2	[220818][002]	./dʒiˈɒlədʒi/-NAmE /dʒiˈɑːlədʒi/ [t]
+	;địa chất học -- (1) [uncountable] the scientific study of the physical structure of the earth, including the origin and history of the rocks and soil of which the earth is made
+		;Topics Education-b2, Scientific researchb2
+		;Oxford Collocations Dictionary
+		;adjective
+		;appliedengineeringphysical…
+		;phrases
+		;the science of geology
+		;See full entry
+	; -- (2) [singular] the origin and history of the rocks and soil of a particular area
+		;the geology of the British Isles
+		;Topics Geography-b2
+		;Word Origin
+	;;
+
+
+
+
+
+
+
+[-] geometry		<-->	noun++C2	[220818][002]	./dʒiˈɒmətri/-NAmE /dʒiˈɑːmətri/ [t]
+	;hình học -- (1) [uncountable] the branch of mathematics that deals with the measurements and relationships of lines, angles, surfaces and solids
 		;Pre-Christian sacred geometry was incorporated into church architecture.
+		;Topics Maths and measurementc2, Education-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;algebraiccoordinatedifferential…
+		;See full entry
+	; -- (2) [singular] the measurements and relationships of lines, angles, etc. in a particular object or shape
+		;the geometry of a spider’s web
+		;Topics Maths and measurementc2
+				;Oxford Collocations Dictionary
+				;adjective
+				;algebraiccoordinatedifferential…
+		;See full entry
+		;Word Origin
+		;Wordfinder: algebraarithmeticcalculusequationgeometrylogarithmmathsnumeracyproblemtrigonometry
+	;;
 
 
 
-[-] gMAT		<-->	abbreviation++C2	[220818][001]	./ˈdʒiːmæt/-NAmE /ˈdʒiːmæt/
-	;Cơ quan quản lý tuyển sinh -- Graduate Management Admissions Test (a test taken by graduate students in the US who want to study for a degree in Business)
 
 
 
-[-] gown		<-->	noun++C1	[220818][001]	./ɡaʊn/-NAmE /ɡaʊn/
-	;áo choàng luật sư, áo tốt nghiệp -- a long loose piece of clothing that is worn over other clothes by judges and (in the UK) by other lawyers, and by members of universities (at special ceremonies)
+
+[-] GMAT		<-->	abbreviation++C2	[220818][002]	./ˈdʒiːmæt/-NAmE /ˈdʒiːmæt/ [t]
+	;Cơ quan quản lý tuyển sinh -- (1) a test taken by graduate students in the US who want to study for a degree in Business (the abbreviation for ‘Graduate Management Admissions Test’)
+		;Topics Education-c2
+	;;
+
+
+
+
+
+
+
+[-] gown		<-->	noun++C1	[220818][002]	./ɡaʊn/-NAmE /ɡaʊn/ [t]
+	; -- (1) a woman’s dress, especially a long one for special occasions
+		;an evening/a wedding gown
+		;She was dressed in a long flowing gown.
+		;She wore a white satin gown trimmed with lace.
+		;Topics Clothes and Fashionc2
+				;Oxford Collocations Dictionary
+				;adjective
+				;longfloor-lengthelegant…
+				;gown + verb
+				;be trimmed with something
+				;preposition
+				;in a/​the gown
+		;See full entry
+	;áo choàng tốt nghiệp -- (2) a long loose piece of clothing that is worn over other clothes by judges and (in the UK) by other lawyers, and by members of universities (at special ceremonies)
 		;a graduation gown
+		;see also town and gown
+		;Topics Education-c1, Law and justicec1, Religion and festivalsc1
+				;Oxford Collocations Dictionary
+				;adjective
+				;academichospitalsurgical…
+				;preposition
+				;in a/​the gown
+				;phrases
+				;town and gown
+		;See full entry
+	; -- (3) a piece of clothing worn in a hospital, either by medical staff during surgery or by a patient, especially as protection against infection
+		;a surgeon’s gown
+		;Topics Healthcarec2
+				;Oxford Collocations Dictionary
+				;adjective
+				;academichospitalsurgical…
+				;preposition
+				;in a/​the gown
+				;phrases
+				;town and gown
+		;See full entry
+		;see also dressing gown
+		;Word Origin
+	;;
 
 
 
-[-] grad		<-->	noun++B1	[220818][001]	./ɡræd/-NAmE /ɡræd/
-	;người tốt nghiệp đại học -- (especially North American English, informal)
-		;(also graduate British and North American English)
-		;a person who has a university degree
+
+
+
+
+[-] grad		<-->	noun++B1	[220818][002]	./ɡræd/-NAmE /ɡræd/ (especially North American English, informal)
+(also graduate British and North American English) [t]
+	;người tốt nghiệp đại học -- (1) a person who has a university degree
 		;I'm 22 and a recent college grad.
 		;an ambitious grad student from Harvard
-	;người tốt nghiệp -- (North American English) a person who has completed their school studies
+		;Topics Education-b1
+	; -- (2) (North American English) a person who has completed their school studies
 		;high school grads
+		;Topics Education-b1
+	;;
 
 
 
-[-] grade		<-->	noun++B1	[220818][001]	./ɡreɪd/-NAmE /ɡreɪd/
-	;điểm thi -- a mark given in an exam or for a piece of school work
+
+
+
+
+[-] grade		<-->	noun++B1	[220818][002]	./cef/ [t]
+	;điểm thi -- (1) a mark given in an exam or for a piece of school work
 		;(British English) She got good grades in her exams.
 		;(North American English) She got good grades on her exams.
 		;70 per cent of students achieved Grade C or above.
+		;Topics Education-b1
+		;Wordfinder: candidateexamgradeinvigilatemarkoralpaperpracticalresitrevise
+		;Extra Examples:
+		;an A-grade essay
+		;I need to improve my grades.
+		;She got a failing grade for that assignment.
+		;The oral exam constitutes 10 per cent of the final grade.
+		;The proportion of students getting A grades is up.
+				;Oxford Collocations Dictionary
+				;adjective
+				;finalAB…
+				;verb + grade
+				;achieveattainearn…
+				;phrases
+				;grade point average
+		;See full entry
+	;bậc, cấp -- (2) (in the US school system) one of the levels in a school with children of similar age
+		;Sam is in (the) second grade.
+		;see also O grade, Standard Grade
+		;Topics Education-b1
+		;Extra Examples:
+		;He skipped a grade so he finished high school early.
+		;My son will be starting third grade this fall.
+		;He moved up three grades in just a year.
+		;These topics are suitable for seventh grade.
+				;Oxford Collocations Dictionary
+				;adjective
+				;sixththirdetc.…
+				;verb + grade
+				;enterstartcomplete…
+				;grade + noun
+				;levelschool
+				;preposition
+				;in… grade
+		;See full entry
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	; -- (7) 
+	;;
 
 
 
-[-] grade		<-->	verb++B2	[220818][002]	./ɡreɪd/-NAmE /ɡreɪd/	
-	;xếp hạng -- (especially North American English) to give a grade to a student or to a piece of their written work
+
+
+
+
+[-] grade		<-->	verb++B2	[220818][002]	./cef/ [t] 
+	;xếp hạng -- (1) (especially North American English) to give a grade to a student or to a piece of their written work
 		;grade somebody/something I spent all weekend grading papers.
-		;grade somebody/something + noun The best students are graded A. [n: grade]
+		;grade somebody/something + noun The best students are graded A.
+		;compare mark
+		;Extra Examples:
+		;I don't think he graded our essays fairly.
+		;Who grades the students?
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adverb
+				;fairlyobjectively
+		;See full entry
+	; -- (2) [usually passive] to arrange people or things in groups according to their ability, quality, size, etc.
+		;be graded (by/according to something) The containers are graded according to size.
+		;be graded from… to… Eggs are graded from small to extra large.
+		;Responses were graded from 1 (very satisfied) to 5 (not at all satisfied).
+		;be graded (as) something Ten beaches were graded as acceptable.
+		;be graded for something The grammar exercises are graded for difficulty.
+		;Extra Examples:
+		;The containers are graded by size.
+		;The timber is graded according to its thickness.
+		;a series of modern stories carefully graded for beginner to intermediate students
+		;finely graded nuances of language
+		;The attacks were graded as mild, moderate or severe.
+		;The gems are then graded by quality.
+				;Oxford Collocations Dictionary
+				;adverb
+				;carefullyfinely
+				;preposition
+				;according tobyfrom… to……
+		;See full entry
+		;Word Origin
+	;;
 
 
 
-[-] grade point average		<-->	noun++C2	[220818][002]	./ˈɡreɪd pɔɪnt ævərɪdʒ/-NAmE /ˈɡreɪd pɔɪnt ævərɪdʒ/
-	;điểm tốt nghiệp trung bình -- [usually singular] (abbreviation GPA)
-		;the average of a student’s grades over a period of time in the US education system
+
+
+
+
+[-] grade point average		<-->	noun++C2	[220818][003]	./ˈɡreɪd pɔɪnt ævərɪdʒ/-NAmE /ˈɡreɪd pɔɪnt ævərɪdʒ/ [usually singular]
+(abbreviation GPA) [t]
+	;điểm tốt nghiệp trung bình -- (1) the average of a student’s grades over a period of time in the US education system
 		;The law school required a minimum grade point average of 2.6 (on a 4.0 scale).
 		;You've maintained a 3.9 grade point average.
+		;Culture
+		;Topics Education-c2
+	;;
+
+
+
+
 
 
 
 [-] grade school		<-->	noun++B2	[220818][002]	./ˈɡreɪd skuːl/-NAmE /ˈɡreɪd skuːl/ (informal) (also elementary school) [240925]
 	;trường đào tạo sau đại học -- (1) ​(in the US) a school for children between the ages of about 6 and 12
 		;Topics EDUCATIOn-b2
-
+	;;
 
 
 
@@ -3833,13 +4027,13 @@
 
 [-] grad school		<-->	noun++B2	[220818][002]	./ˈɡræd skuːl/-NAmE /ˈɡræd skuːl/ (informal) (also graduate school) (North American English) [240925]
 	;trường đào tạo sau đại học -- (1) ​a part of a college or university where you can study for a second or further degree
-		;Topics Educationb2
+		;Topics Education-b2
 
 
 
 
-[-] graduate		<-->	noun++B1	[220818][001]	./ˈɡrædʒuət/-NAmE /ˈɡrædʒuət/
-	;người tốt nghiệp đại học -- (also informal grad especially in North American English) a person who has a university degree
+[-] graduate		<-->	noun++B1	[220818][002]	./ˈɡrædʒuət/-NAmE /ˈɡrædʒuət/ (also informal grad especially in North American English) [t]
+	;người tốt nghiệp đại học -- (1) a person who has a university degree
 		;job prospects for graduates
 		;a university/college graduate
 		;a recent graduate from Coventry University
@@ -3850,10 +4044,43 @@
 		;a graduate student
 		;(North American English) graduate programs/degrees/studies
 		;In British English postgraduate is usually used in these phrases: postgraduate courses/degrees/studies
+		;Extra Examples:
+		;She has taught at both the undergraduate and graduate levels.
+		;The company places great importance on graduate recruitment and training.
+		;a graduate in sociology
+		;job opportunities for university graduates
+		;graduate courses
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;adjective
+				;business-schoollaw-schoolcollege…
+				;graduate + noun
+				;coursedegreeprogram…
+				;preposition
+				;graduate in
+		;See full entry
+	; -- (2) (North American English) a person who has completed their school studies
+		;a high school graduate
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;adjective
+				;business-schoollaw-schoolcollege…
+				;graduate + noun
+				;coursedegreeprogram…
+				;preposition
+				;graduate in
+		;See full entry
+		;Word Origin
+		;More About students
+	;;
 
 
 
- graduate		<-->	verb++B1	[220818][001]	./ˈɡrædʒueɪt/-NAmE /ˈɡrædʒueɪt/\
+
+
+
+
+ graduate		<-->	verb++B1	[220818][002]	./cef/\ [t]
  	;tốt nghiệp -- [intransitive, transitive] to get a degree, especially your first degree, from a university or college
 		;She taught in France after she graduated.
 		;graduate in something Only three students graduated in Czech studies last year.
@@ -3861,25 +4088,85 @@
 		;graduate with something He graduated with a BA in English in 2018.
 		;He graduated from York with a degree in Psychology.
 		;graduate something (North American English) She graduated college last year.
+	;tốt nghiệp -- (1) [intransitive, transitive] to get a degree, especially your first degree, from a university or college
+		;She taught in France after she graduated.
+		;graduate in something Only three students graduated in Czech studies last year.
+		;graduate from something She graduated from Harvard this year.
+		;graduate with something He graduated with a BA in English in 2018.
+		;He graduated from York with a degree in Psychology.
+		;graduate something (North American English) She graduated college last year.
+		;Wordfinder: degreedissertationeducationgraduatehall of residencelecturemajorseminartutorialuniversity
+		;Wordfinder: coursedistance learningeducationexamfurther educationgraduatehigher educationqualificationstudytertiary
+		;Extra Examples
+		;He graduated with first-class honours in History.
+		;Only thirty students graduated in Chinese Studies last year.
+		;She graduated from Bristol University in 2023.
+		;Topics Education-b1
+	; -- (2) [intransitive, transitive] (North American English) to complete a course in education, especially at high school
+		;He flunked math and never graduated.
+		;graduate from something Martha graduated from high school two years ago.
+		;graduate something Martha graduated high school two years ago.
+		;Topics Education-b1
+	;trao bằng -- (3) [transitive] graduate somebody (from something) (North American English) to give a degree, diploma, etc. to somebody
+		;The college graduated 50 students last year.
+		;Topics Education-c2
+	; -- (4) 
+	;;
+
+
+
+
 
 
 
 [-] graduate school		<-->	noun++B2	[220818][002]	./ˈɡrædʒuət skuːl/-NAmE /ˈɡrædʒuət skuːl/ (also informal grad school) (both North American English) [240925]
 	;trường sau đại học -- (1) a part of a college or university where you can study for a second or further degree
 		;Culture
-		;Topics Educationb2
+		;Topics Education-b2
+	;
 
 
 
 
-
-[-] graduation		<-->	noun++B1	[220818][001]	./ˌɡrædʒuˈeɪʃn/-NAmE /ˌɡrædʒuˈeɪʃn/
-	;tốt nghiệp -- [uncountable] the act of successfully completing a university degree, or studies at an American high school
+[-] graduation		<-->	noun++B1	[220818][002]	./ˌɡrædʒuˈeɪʃn/-NAmE /ˌɡrædʒuˈeɪʃn/ [t]
+	;sự tốt nghiệp -- (1) [uncountable] the act of successfully completing a university degree, or studies at an American high school
 		;It was my first job after graduation.
+		;Extra Examples:
+		;On graduation, he plans to travel around Asia.
+		;She managed to find a job immediately after graduation.
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;adjective
+				;collegehigh-schooluniversity…
+				;graduation + noun
+				;ceremonydayspeech…
+				;preposition
+				;after graduationon graduationupon graduation…
+		;See full entry
+	;lễ tốt nghiệp -- (2) [uncountable, countable]
+(also graduation ceremony [countable]) a ceremony at which degrees, etc. are officially given out
+		;graduation day
+		;My whole family came to my graduation.
+		;She was wearing a mortar board and graduation gown.
+		;Topics Education-b1
+				;Oxford Collocations Dictionary
+				;adjective
+				;collegehigh-schooluniversity…
+				;graduation + noun
+				;ceremonydayspeech…
+				;preposition
+				;after graduationon graduationupon graduation…
+		;See full entry
+	; -- (3) 
+	;;
 
 
 
-[-] grammar school		<-->	noun++C1	[220818][001]	./ˈɡræmə skuːl/-NAmE /ˈɡræmər skuːl/
+
+
+
+
+[-] grammar school		<-->	noun++C1	[220818][002]	./ˈɡræmə skuːl/-NAmE /ˈɡræmər skuːl/ [t]
 	;trường thiên về học thuật, trường ngữ pháp -- (1) ​(in England, Wales and Northern Ireland, especially in the past) a school for young people between the ages of 11 and 18 who are good at academic subjects
 		;Culture
 		;Topics EDUCATIOn-c1
@@ -3888,7 +4175,7 @@
 
 
 
-[-] grant		<-->	noun++B2	[220818][002]	./cef/
+[-] grant		<-->	noun++B2	[220818][003]	./cef/ [t]
 	;khoản tiền tài trợ, trợ cấp -- (1) a sum of money that is given by the government or by another organization to be used for a particular purpose
 		;government/federal grants
 		;There is a lot of competition for research grants.
@@ -3914,7 +4201,7 @@
 		;home improvement grants for householders
 		;She has been awarded a research grant by Liverpool University.
 		;The hospital has applied for a government grant to buy a new scanner.
-		;TOPICS MoneyB2, EducationB2
+		;TOPICS MoneyB2, Education-B2
 			;Oxford Collocations Dictionary
 			;adjective
 				;largesubstantialsmall…
