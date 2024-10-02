@@ -3736,7 +3736,7 @@
 
 
 
-[-] geography		<-->	noun++A1	[220818][002]	./cef/ (plural geographies) [t]
+[-] geography		<-->	noun++A1	[220818][002]	./cef/ (plural geographies) [241002]
 	;môn  địa lý -- (1) [uncountable] the scientific study of the earth’s surface, physical features, divisions, products, population, etc.
 		;recent work in economic geography
 		;cultural/historical/political geography
@@ -3767,7 +3767,7 @@
 
 
 
-[-] geology		<-->	noun++B2	[220818][002]	./dʒiˈɒlədʒi/-NAmE /dʒiˈɑːlədʒi/ [t]
+[-] geology		<-->	noun++B2	[220818][002]	./dʒiˈɒlədʒi/-NAmE /dʒiˈɑːlədʒi/ [241002]
 	;địa chất học -- (1) [uncountable] the scientific study of the physical structure of the earth, including the origin and history of the rocks and soil of which the earth is made
 		;Topics Education-b2, Scientific researchb2
 		;Oxford Collocations Dictionary
@@ -3788,7 +3788,7 @@
 
 
 
-[-] geometry		<-->	noun++C2	[220818][002]	./dʒiˈɒmətri/-NAmE /dʒiˈɑːmətri/ [t]
+[-] geometry		<-->	noun++C2	[220818][002]	./dʒiˈɒmətri/-NAmE /dʒiˈɑːmətri/ [241002]
 	;hình học -- (1) [uncountable] the branch of mathematics that deals with the measurements and relationships of lines, angles, surfaces and solids
 		;Pre-Christian sacred geometry was incorporated into church architecture.
 		;Topics Maths and measurementc2, Education-c2
@@ -3813,7 +3813,7 @@
 
 
 
-[-] GMAT		<-->	abbreviation++C2	[220818][002]	./ˈdʒiːmæt/-NAmE /ˈdʒiːmæt/ [t]
+[-] GMAT		<-->	abbreviation++C2	[220818][002]	./ˈdʒiːmæt/-NAmE /ˈdʒiːmæt/ [241002]
 	;Cơ quan quản lý tuyển sinh -- (1) a test taken by graduate students in the US who want to study for a degree in Business (the abbreviation for ‘Graduate Management Admissions Test’)
 		;Topics Education-c2
 	;;
@@ -3824,7 +3824,7 @@
 
 
 
-[-] gown		<-->	noun++C1	[220818][002]	./ɡaʊn/-NAmE /ɡaʊn/ [t]
+[-] gown		<-->	noun++C1	[220818][002]	./ɡaʊn/-NAmE /ɡaʊn/ [241002]
 	; -- (1) a woman’s dress, especially a long one for special occasions
 		;an evening/a wedding gown
 		;She was dressed in a long flowing gown.
@@ -3871,7 +3871,7 @@
 
 
 
-[-] grad		<-->	noun++B1	[220818][002]	./ɡræd/-NAmE /ɡræd/ (especially North American English, informal) (also graduate British and North American English) [t]
+[-] grad		<-->	noun++B1	[220818][002]	./ɡræd/-NAmE /ɡræd/ (especially North American English, informal) (also graduate British and North American English) [241002]
 	;người tốt nghiệp đại học -- (1) a person who has a university degree
 		;I'm 22 and a recent college grad.
 		;an ambitious grad student from Harvard
@@ -3887,7 +3887,7 @@
 
 
 
-[-] grade		<-->	noun++B1	[220818][002]	./cef/ [t]
+[-] grade		<-->	noun++B1	[220818][002]	./cef/ [241002]
 	;điểm thi -- (1) a mark given in an exam or for a piece of school work
 		;(British English) She got good grades in her exams.
 		;(North American English) She got good grades on her exams.
@@ -3939,7 +3939,7 @@
 
 
 
-[-] grade		<-->	verb++B2	[220818][002]	./cef/ [t] 
+[-] grade		<-->	verb++B2	[220818][002]	./cef/ [241002] 
 	;xếp hạng -- (1) (especially North American English) to give a grade to a student or to a piece of their written work
 		;grade somebody/something I spent all weekend grading papers.
 		;grade somebody/something + noun The best students are graded A.
@@ -3980,7 +3980,7 @@
 
 
 
-[-] grade point average		<-->	noun++C2	[220818][003]	./ˈɡreɪd pɔɪnt ævərɪdʒ/-NAmE /ˈɡreɪd pɔɪnt ævərɪdʒ/ [usually singular] (abbreviation GPA) [t]
+[-] grade point average		<-->	noun++C2	[220818][003]	./ˈɡreɪd pɔɪnt ævərɪdʒ/-NAmE /ˈɡreɪd pɔɪnt ævərɪdʒ/ [usually singular] (abbreviation GPA) [241002]
 	;điểm tốt nghiệp trung bình -- (1) the average of a student’s grades over a period of time in the US education system
 		;The law school required a minimum grade point average of 2.6 (on a 4.0 scale).
 		;You've maintained a 3.9 grade point average.
@@ -4010,7 +4010,7 @@
 
 
 
-[-] graduate		<-->	noun++B1	[220818][002]	./ˈɡrædʒuət/-NAmE /ˈɡrædʒuət/ (also informal grad especially in North American English) [t]
+[-] graduate		<-->	noun++B1	[220818][002]	./ˈɡrædʒuət/-NAmE /ˈɡrædʒuət/ (also informal grad especially in North American English) [241002]
 	;người tốt nghiệp đại học -- (1) a person who has a university degree
 		;job prospects for graduates
 		;a university/college graduate
@@ -4058,7 +4058,7 @@
 
 
 
- graduate		<-->	verb++B1	[220818][002]	./cef/\ [t]
+ graduate		<-->	verb++B1	[220818][002]	./cef/\ [241002]
  	;tốt nghiệp -- [intransitive, transitive] to get a degree, especially your first degree, from a university or college
 		;She taught in France after she graduated.
 		;graduate in something Only three students graduated in Czech studies last year.
@@ -4106,7 +4106,7 @@
 
 
 
-[-] graduation		<-->	noun++B1	[220818][002]	./ˌɡrædʒuˈeɪʃn/-NAmE /ˌɡrædʒuˈeɪʃn/ [t]
+[-] graduation		<-->	noun++B1	[220818][002]	./ˌɡrædʒuˈeɪʃn/-NAmE /ˌɡrædʒuˈeɪʃn/ [241002]
 	;sự tốt nghiệp -- (1) [uncountable] the act of successfully completing a university degree, or studies at an American high school
 		;It was my first job after graduation.
 		;Extra Examples:
@@ -4143,7 +4143,7 @@
 
 
 
-[-] grammar school		<-->	noun++C1	[220818][002]	./ˈɡræmə skuːl/-NAmE /ˈɡræmər skuːl/ [t]
+[-] grammar school		<-->	noun++C1	[220818][002]	./ˈɡræmə skuːl/-NAmE /ˈɡræmər skuːl/ [241002]
 	;trường thiên về học thuật, trường ngữ pháp -- (1) ​(in England, Wales and Northern Ireland, especially in the past) a school for young people between the ages of 11 and 18 who are good at academic subjects
 		;Culture
 		;Topics EDUCATIOn-c1
@@ -4152,7 +4152,7 @@
 
 
 
-[-] grant		<-->	noun++B2	[220818][003]	./cef/ [t]
+[-] grant		<-->	noun++B2	[220818][003]	./cef/ [241002]
 	;khoản tiền tài trợ, trợ cấp -- (1) a sum of money that is given by the government or by another organization to be used for a particular purpose
 		;government/federal grants
 		;There is a lot of competition for research grants.
@@ -4190,7 +4190,7 @@
 
 
 
-[-] grant-maintained		<-->	adjective++C2	[220818][002]	./ˌɡrɑːnt meɪnˈteɪnd/-NAmE /ˌɡrænt meɪnˈteɪnd/ (abbreviation GM) [240623] [t]
+[-] grant-maintained		<-->	adjective++C2	[220818][002]	./ˌɡrɑːnt meɪnˈteɪnd/-NAmE /ˌɡrænt meɪnˈteɪnd/ (abbreviation GM) [240623] [241002]
 	;trường công chính phủ -- (1) (of a school in England and Wales) receiving financial support from central government rather than local government
 		;Topics Education-c2
 	;;
@@ -4201,7 +4201,7 @@
 
 
 
-[-] guidance counselor		<-->	noun++C2	[220818][002]	./ˈɡaɪdns kaʊnsələ(r)/-NAmE /ˈɡaɪdns kaʊnsələr/ (North American English) [t]
+[-] guidance counselor		<-->	noun++C2	[220818][002]	./ˈɡaɪdns kaʊnsələ(r)/-NAmE /ˈɡaɪdns kaʊnsələr/ (North American English) [241002]
 	;cố vấn hướng dẫn -- (1) a person who works in a school and is responsible for giving students advice about classes and helping them with personal problems
 		;I've got some ideas about how to get kids on the right path, so I'm becoming a guidance counselor.
 		;Topics Education-c2
@@ -4238,7 +4238,7 @@
 
 
 
-[-] gymnasium		<-->	noun++C1	[220818][002]	./dʒɪmˈneɪziəm/-NAmE /dʒɪmˈneɪziəm/ (plural gymnasiums, gymnasia  /dʒɪmˈneɪziə/  /dʒɪmˈneɪziə/) (formal) [t]
+[-] gymnasium		<-->	noun++C1	[220818][002]	./dʒɪmˈneɪziəm/-NAmE /dʒɪmˈneɪziəm/ (plural gymnasiums, gymnasia  /dʒɪmˈneɪziə/  /dʒɪmˈneɪziə/) (formal) [241002]
 	;thể hình -- (1) a gym
 		;Topics Education-c1, Health and Fitnessc1
 		;Word Origin
@@ -4250,7 +4250,7 @@
 
 
 
-[-] gymnastics		<-->	noun++B1	[220818][002]	./dʒɪmˈnæstɪks/-NAmE /dʒɪmˈnæstɪks/ [uncountable] [t]
+[-] gymnastics		<-->	noun++B1	[220818][002]	./dʒɪmˈnæstɪks/-NAmE /dʒɪmˈnæstɪks/ [uncountable] [241002]
 	;thể dục -- (1) physical exercises, often using special equipment, that develop and show the body’s strength and ability to move and bend easily, often done as a sport in competitions
 		;a gymnastics competition
 		;(figurative) mental/verbal gymnastics (= quick or clever thinking or use of words)
@@ -4274,7 +4274,7 @@
 
 
 
-[-] gymslip		<-->	noun++C2	[220818][003]	./ˈdʒɪmslɪp/-NAmE /ˈdʒɪmslɪp/ (British English) [230415] [t]
+[-] gymslip		<-->	noun++C2	[220818][003]	./ˈdʒɪmslɪp/-NAmE /ˈdʒɪmslɪp/ (British English) [230415] [241002]
 	;quần áo không cánh tay -- (1) (in the past) a dress without arms worn over a shirt as a school uniform for girls
 		;Topics Education-c2
 	;;
@@ -4285,7 +4285,7 @@
 
 
 
-[-] half-term		<-->	noun++C1	[220818][002]	./ˌhɑːf ˈtɜːm/-NAmE /ˌhæf ˈtɜːrm/ [t]
+[-] half-term		<-->	noun++C1	[220818][002]	./ˌhɑːf ˈtɜːm/-NAmE /ˌhæf ˈtɜːrm/ [241002]
 	;kỳ nghỉ ngắn -- (1) ​(in British schools) a short holiday in the middle of each term
 		;the half-term break/holiday
 		;What are you doing at half-term?
@@ -4300,7 +4300,7 @@
 
 
 
-[-] hall		<-->	noun++B1	[220818][002]	./hɔːl/-NAmE /hɔːl/ [t]
+[-] hall		<-->	noun++B1	[220818][002]	./hɔːl/-NAmE /hɔːl/ [241002]
 	; -- (1) 
 	; -- (2) 
 	;nhà -- (3) a building or large room for public meetings, meals, concerts, etc.
@@ -4340,7 +4340,7 @@
 
 
 
-[-] hall of residence		<-->	noun++B2	[220818][002]	./ˌhɔːl əv ˈrezɪdəns/-NAmE /ˌhɔːl əv ˈrezɪdəns/ (also hall) (plural halls of residence, halls) (both British English) (also (North American English)dorm, dormitory, residence hall) [t]
+[-] hall of residence		<-->	noun++B2	[220818][002]	./ˌhɔːl əv ˈrezɪdəns/-NAmE /ˌhɔːl əv ˈrezɪdəns/ (also hall) (plural halls of residence, halls) (both British English) (also (North American English)dorm, dormitory, residence hall) [241002]
 	;ký túc xá -- (1) a building for university or college students to live in
 		;The university has two halls of residence for its postgraduate students.
 		;Wordfinder: degreedissertationeducationgraduatehall of residencelecturemajorseminartutorialuniversity
@@ -4354,7 +4354,7 @@
 
 
 
-[-] head		<-->	noun++B2	[220818][002]	./hed/-NAmE /hed/ [t]
+[-] head		<-->	noun++B2	[220818][002]	./hed/-NAmE /hed/ [241002]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4387,7 +4387,7 @@
 
 
 
-[-] head boy		<-->	noun++C2	[220818][002]	./ˌhed ˈbɔɪ/-NAmE /ˌhed ˈbɔɪ/ [t]
+[-] head boy		<-->	noun++C2	[220818][002]	./ˌhed ˈbɔɪ/-NAmE /ˌhed ˈbɔɪ/ [241002]
 	;người nam dẫn chương trình của trường -- (1) (in some British schools) the boy who is chosen each year to represent his school
 		;Topics Education-c2
 	;;
@@ -4398,7 +4398,7 @@
 
 
 
-[-] head girl		<-->	noun++C2	[220818][002]	./ˌhed ˈɡɜːl/-NAmE /ˌhed ˈɡɜːrl/ [t]
+[-] head girl		<-->	noun++C2	[220818][002]	./ˌhed ˈɡɜːl/-NAmE /ˌhed ˈɡɜːrl/ [241002]
 	;người nữ dẫn chương trình của trường -- (1) (in some British schools) the girl who is chosen each year to represent her school
 		;Topics Education-c2
 	;;
@@ -4409,7 +4409,7 @@
 
 
 
-[-] headmaster		<-->	noun++C1	[220818][002]	./ˌhedˈmɑːstə(r)/-NAmE /ˌhedˈmæstər/ (British English, becoming old-fashioned) (British English usually head teacher) (North American English usually principal) [t]
+[-] headmaster		<-->	noun++C1	[220818][002]	./ˌhedˈmɑːstə(r)/-NAmE /ˌhedˈmæstər/ (British English, becoming old-fashioned) (British English usually head teacher) (North American English usually principal) [241002]
 	;hiệu trưởng -- (1) a male teacher who is in charge of a school, especially a private school
 		;He went on to become headmaster of a school in Bath.
 		;Extra Examples:
@@ -4424,7 +4424,7 @@
 
 
 
-[-] headmistress		<-->	noun++C2	[220818][002]	./ˌhedˈmɪstrəs/-NAmE /ˌhedˈmɪstrəs/ (British English, becoming old-fashioned) (British English usually head teacher) (North American English usually principal) [t]
+[-] headmistress		<-->	noun++C2	[220818][002]	./ˌhedˈmɪstrəs/-NAmE /ˌhedˈmɪstrəs/ (British English, becoming old-fashioned) (British English usually head teacher) (North American English usually principal) [241002]
 	;nữ hiệu trường -- (1) a female head teacher, especially of a private school
 		;More About gender
 		;Topics Education-c2
@@ -4436,7 +4436,7 @@
 
 
 
-[-] headship		<-->	noun++C2	[220818][002]	./ˈhedʃɪp/-NAmE /ˈhedʃɪp/ [t]
+[-] headship		<-->	noun++C2	[220818][002]	./ˈhedʃɪp/-NAmE /ˈhedʃɪp/ [241002]
 	; -- (1) headship (of something) the position of being in charge of an organization
 		;the headship of the department
 		;Extra Examples:
@@ -4454,7 +4454,7 @@
 
 
 
-[-] higher education		<-->	noun++B1	[220818][002]	./ˌhaɪər edʒuˈkeɪʃn/-NAmE /ˌhaɪər edʒuˈkeɪʃn/ [uncountable] (abbreviation HE) [t]
+[-] higher education		<-->	noun++B1	[220818][002]	./ˌhaɪər edʒuˈkeɪʃn/-NAmE /ˌhaɪər edʒuˈkeɪʃn/ [uncountable] (abbreviation HE) [241002]
 	;giáo dục -- (1) education at university, especially to degree level
 		;students entering higher education
 		;institutions of higher education
@@ -4511,7 +4511,7 @@
 
 
 
-[-] history		<-->	noun++A1	[220818][002]	./cef/ [t]
+[-] history		<-->	noun++A1	[220818][002]	./cef/ [241002]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) [uncountable] (also History) the study of past events, especially as a subject at school or university
