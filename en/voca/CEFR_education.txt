@@ -4551,77 +4551,215 @@
 
 
 
-[-] holiday		<-->	noun++A2	[220818][001]	./ˈhɒlədeɪ/, /ˈhɒlədi/-NAmE /ˈhɑːlədeɪ/\
+[-] holiday		<-->	noun++A2	[220818][003]	./cef/\ [t]
 	;ngày nghỉ -- (also public holiday)[countable] a day when most people do not go to work or school, especially because of a religious or national celebration
 		;The president's birthday was declared a national holiday.
 		;Today is a holiday in Wales.
 		;SEE ALSO August Bank Holiday, bank holiday, civic holiday, legal holiday, public holiday, Spring Bank Holiday, statutory holiday, Summer Bank Holiday
+	; -- (1) 
+	; -- (2) 
+	; -- (3) (also public holiday)
+[countable] a day when most people do not go to work or school, especially because of a religious or national celebration
+		;The president's birthday was declared a national holiday.
+		;Today is a holiday in Wales.
+		;see also August Bank Holiday, bank holiday, civic holiday, legal holiday, public holiday, Spring Bank Holiday, statutory holiday, Summer Bank Holiday
+		;Topics Education-a2, Religion and festivalsa2
+				;Oxford Collocations Dictionary
+				;adjective
+				;bankfederalnational…
+				;verb + holiday
+				;celebratespend
+				;holiday + noun
+				;breakweekendseason…
+		;See full entry
+	; -- (4) 
+	;;
 
 
 
-[-] home economics		<-->	noun++C2	[220818][001]	./ˌhəʊm ˌiːkəˈnɒmɪks/, /ˌhəʊm ˌekəˈnɒmɪks/-NAmE /ˌhəʊm ˌiːkəˈnɑːmɪks/, /ˌhəʊm ˌekəˈnɑːmɪks/
-	;kinh tế gia đình -- [uncountable] cooking and other skills needed at home, taught as a subject in school
 
 
 
-[-] homework		<-->	noun++A1	[220818][001]	./ˈhəʊmwɜːk/-NAmE /ˈhəʊmwɜːrk/
-	;bài tập về nhà -- [uncountable] work that is given by teachers for students to do at home
+
+[-] home economics		<-->	noun++C2	[220818][002]	./ˌhəʊm ˌiːkəˈnɒmɪks/, /ˌhəʊm ˌekəˈnɒmɪks/-NAmE /ˌhəʊm ˌiːkəˈnɑːmɪks/, /ˌhəʊm ˌekəˈnɑːmɪks/ [uncountable] [t]
+	;kinh tế gia đình -- (1) cooking and other skills needed at home, taught as a subject in school
+		;Topics Education-c2
+	;;
+
+
+
+
+
+
+
+[-] homework		<-->	noun++A1	[220818][003]	./cef/ [uncountable] [t]
+	;bài tập về nhà -- (1) work that is given by teachers for students to do at home
 		;I always do my homework on the bus.
 		;physics/geography/French, etc. homework
 		;I still haven't done my geography homework.
 		;How much homework do you get?
 		;for homework I have to write up the notes for homework.
 		;(especially North American English) I have to finish this homework assignment.
+		;Collocations Education
+		;Extra Examples:
+		;Have you finished your homework?
+		;Have you done your physics homework yet?
+		;I was helping my sister with her maths homework.
+		;The homework assignments are worth 10% of the final grade.
+		;I have some homework to do on the Civil War.
+		;I want you to hand in this homework on Friday.
+		;The science teacher always gives a lot of homework.
+		;They get a lot of homework in English.
+		;They get masses of homework at secondary school.
+		;We had to write out one of the exercises for homework.
+		;Topics Educationa1
+				;Oxford Collocations Dictionary
+				;adjective
+				;Englishscienceetc.…
+				;… of homework
+				;piece
+				;verb + homework
+				;dofinishhand in…
+				;preposition
+				;for homeworkhomework  on
+		;See full entry
+	; -- (2) 
+	;;
 
 
 
-[-] honor		<-->	noun++C2	[220818][001]	./ˈɒnə(r)/-NAmE /ˈɑːnər/
+
+
+
+
+[-] honor		<-->	noun++C2	[220818][002]	./ˈɒnə(r)/-NAmE /ˈɑːnər/
 	;danh dự -- (US English)(also honour British English)(abbreviation Hons)if you pass an exam or graduate from a university or school with honors, you receive a special grade for having achieved a very high standard
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;;
 
 
 
-[-] honour		<-->	noun++C2	[220818][001]	./ˈɒnə(r)/-NAmE /ˈɑːnər/
-	;ghi ở nơi trên bằng cấp -- (US English honor)
 
 
 
-[-] hons		<-->	abbreviation++C2	[220818][001]	./ɒnz/-NAmE /ɑːnz/
-	;tốt nghiệp loại danh dự -- (British English) honours (used after the name of a university degree)
+
+[-] honour		<-->	noun++C2	[220818][002]	./cef/ [t]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;bằng danh dự -- (8) honors, honours [plural]
+(abbreviation Hons) if you pass an exam or graduate from a university or school with honors, you receive a special grade for having achieved a very high standard
+		;Topics Education-c2
+	; -- (9) 
+	;;
+
+
+
+
+
+
+
+[-] hons		<-->	abbreviation++C2	[220818][002]	./ɒnz/-NAmE /ɑːnz/ (British English) [t]
+	;tốt nghiệp loại danh dự -- (1) honours (used after the name of a university degree)
 		;Tim Smith BA (Hons)
+		;Topics Educationc2
+	;;
+
+
+
+
 
 
 
 [-] house		<-->	noun++C2	[220818][001]	./haʊs/-NAmE /haʊs/
-	;một nhóm sinh viên -- (plural houses /ˈhaʊzɪz/ /ˈhaʊzɪz/) [countable] (in some British schools) an organized group of students of different ages who compete against other groups in sports competitions, etc. and who may, in boarding schools, live together in one building
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	; -- (11) [-in school] [countable] (in some British schools) an organized group of students of different ages who compete against other groups in sports competitions, etc. and who may, in boarding schools, live together in one building
+		;Topics Education-c2
+	; -- (13) 
+	;;
 
 
 
-[-] housemaster		<-->	noun++C2	[220818][001]	./ˈhaʊsmɑːstə(r)/-NAmE /ˈhaʊsmæstər/
-	;giáo viên nam mầm non -- (especially British English) a male teacher in charge of a group of children (called a house) in a school, especially a private school
 
 
 
-[-] human geography		<-->	noun++C1	[220818][001]	./ˌhjuːmən dʒiˈɒɡrəfi/-NAmE /ˌhjuːmən dʒiˈɑːɡrəfi/
-	;nhân chủng học -- [uncountable] the scientific study of how human activity affects or is affected by the surface of the earth
+
+[-] housemaster		<-->	noun++C2	[220818][002]	./ˈhaʊsmɑːstə(r)/
+ /ˈhaʊsmæstər/ (plural houses  /ˈhaʊzɪz/  /ˈhaʊzɪz/) (especially British English) [t]
+	;giáo viên nam mầm non -- (1) a male teacher in charge of a group of children (called a house) in a school, especially a private school
+		;Topics Education-c2
+	;;
+
+
+
+
+
+
+
+[-] human geography		<-->	noun++C1	[220818][002]	./ˌhjuːmən dʒiˈɒɡrəfi/-NAmE /ˌhjuːmən dʒiˈɑːɡrəfi/ [uncountable] [t]
+	;nhân chủng học -- (1) the scientific study of how human activity affects or is affected by the surface of the earth
 		;She is a lecturer in the human geography of China.
 		;Human geography covers topics ranging from cultural differences and politics to agriculture and food production.
+		;Topics Education-c1
+	;;
 
 
 
-[-] humanity		<-->	noun++C1	[220810][001]	./hjuːˈmænəti/-NAmE /hjuːˈmænəti/
-	;ngành nhân văn học -- (the) humanities [plural] the subjects of study that are about the way people think and behave, for example literature, language, history and philosophy
+
+
+
+
+[-] humanity		<-->	noun++C1	[220810][002]	./cef/ [t]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;ngành nhân văn học -- (4) (the) humanities [plural] the subjects of study that are about the way people think and behave, for example literature, language, history and philosophy
 		;The college offers a wide range of courses in the arts and humanities.
+		;compare science
+		;Topics Education-c1
+		;Word Origin
+	;;
 
 
 
-[-] iCT		<-->	noun++B2	[220818][001]	./ˌaɪ siː ˈtiː/-NAmE /ˌaɪ siː ˈtiː/
-	;kỹ thuật viễn thông -- [uncountable] (British English) the study of the use of computers, the internet, video, and other technology as a subject at school (the abbreviation for ‘information and communications technology’)
 
 
 
-[-] iGCSE		<-->	noun++C1	[220818][001]	./ˌaɪ dʒiː siː es ˈiː/-NAmE /ˌaɪ dʒiː siː es ˈiː/
-	;chứng chỉ quốc tế -- [countable, uncountable] an international exam in different subjects that students can take when they are between 14 and 16 (the abbreviation for ‘International General Certificate of Secondary Education’)
-		'COMPARE GCSE, International Baccalaureate™
+
+[-] ICT		<-->	noun++B2	[220818][002]	./ˌaɪ siː ˈtiː/-NAmE /ˌaɪ siː ˈtiː/ [uncountable] (British English) [t]
+	;kỹ thuật viễn thông -- (1) the study of the use of computers, the internet, video, and other technology as a subject at school (the abbreviation for ‘information and communications technology’)
+		;Topics Education-b2
+		;Oxford Collocations Dictionary
+		;ICT is used before these nouns:
+		;suite
+		;See full entry
+	;;
+
+
+
+
+
+
+
+[-] IGCSE		<-->	noun++C1	[220818][002]	./ˌaɪ dʒiː siː es ˈiː/-NAmE /ˌaɪ dʒiː siː es ˈiː/ [countable, uncountable] [t]
+	;chứng chỉ quốc tế -- (1) an international exam in different subjects that students can take when they are between 14 and 16 (the abbreviation for ‘International General Certificate of Secondary Education’)
+		;compare GCSE, International Baccalaureate™
+		;Topics Education-c1
+	;;
+
+
+
+
 
 
 
@@ -4637,47 +4775,168 @@
 
 
 
-[-] infirmary		<-->	noun++C2	[220818][001]	./ɪnˈfɜːməri/-NAmE /ɪnˈfɜːrməri/
-	;bịnh xá -- a special room in a school, prison, etc. for people who are ill
+[-] infirmary		<-->	noun++C2	[220818][002]	./ɪnˈfɜːməri/-NAmE /ɪnˈfɜːrməri/ (plural infirmaries) [t]
+	;bịnh xá -- (1) (often used in names) a hospital
+		;He had his leg bandaged in the infirmary.
+		;Surgeons at the Radcliffe Infirmary successfully removed a blood clot from her brain.
+		;Extra Examples:
+		;When he collapsed at dinner they took him to the local infirmary.
+		;She works at the Radcliffe Infirmary.
+		;Topics Healthcare-c2
+	;phòng y tế -- (2) a special room in a school, prison, etc. for people who are ill
 		;the college infirmary
 		;He had to remain in the college infirmary for about a fortnight.
+		;Topics Education-c2
+		;Word Origin
+	;;
 
 
 
-[-] information technology		<-->	noun++B1	[220818][001]	./ˌɪnfəˌmeɪʃn tekˈnɒlədʒi/-NAmE /ˌɪnfərˌmeɪʃn tekˈnɑːlədʒi/
-	;công nghệ thông tin -- [uncountable](abbreviation IT) the study or use of electronic equipment, especially computers, for storing, accessing, analysing and sending information
+
+
+
+
+[-] information technology		<-->	noun++B1	[220818][002]	./ˌɪnfəˌmeɪʃn tekˈnɒlədʒi/-NAmE /ˌɪnfərˌmeɪʃn tekˈnɑːlədʒi/ [uncountable]
+(abbreviation IT) [t]
+	;công nghệ thông tin -- (1) the study or use of electronic equipment, especially computers, for storing, accessing, analysing and sending information
 		;Recent advances in information technology have led to important changes in the operation of offices.
+		;Topics Education-b1, Computersb1
+		;Oxford Collocations Dictionary
+		;Information technology is used before these nouns:
+		;professionalspecialist
+		;See full entry
+	;;
 
 
 
-[-] inspector		<-->	noun++C1	[220818][001]	./ɪnˈspektə(r)/-NAmE /ɪnˈspektər/
-	;người thanh tra -- a person whose job is to visit schools, factories, etc. to check that rules are being obeyed and that standards are acceptable
+
+
+
+
+[-] inspector		<-->	noun++C1	[220818][002]	./cef/ [t]
+	; -- (1) (abbreviation Insp) an officer of middle rank in the police force
+		;Inspector Maggie Forbes
+		;He reached the rank of inspector.
+		;see also chief inspector
+		;Topics Law and justiceb2
+				;Oxford Collocations Dictionary
+				;adjective
+				;policeChiefdetective…
+				;phrases
+				;the rank of inspector
+		;See full entry
+	;người thanh tra -- (2) a person whose job is to visit schools, factories, etc. to check that rules are being obeyed and that standards are acceptable
 		;a school/health/safety inspector
+		;see also tax inspector
+		;Extra Examples:
+		;An inspector was sent to the scene of the incident.
+		;He agreed to allow weapons inspectors in his country.
+		;Independent inspectors were called in.
+		;The school inspectors were called in.
+		;UN weapons inspectors
+		;an inspector of prisons
+		;the inspector in charge of producing the report
+		;The health and safety inspector wrote a worrying report on the building.
+		;Topics Education-c1, Jobsc1
+				;Oxford Collocations Dictionary
+				;adjective
+				;chiefdeputylocal…
+				;verb + inspector
+				;callcall insend…
+				;inspector + verb
+				;arrivevisitbe in charge of something…
+				;preposition
+				;inspector of
+		;See full entry
+	; -- (3) 
+	;;
+
+
+
+
 
 
 
 [-] institution		<-->	noun++B2	[220818][001]	./ˌɪnstɪˈtjuːʃn/-NAmE /ˌɪnstɪˈtuːʃn/
-	;viện nghiên cứu -- [countable] a large important organization that has a particular purpose, for example a university or bank
+	;viện nghiên cứu -- (1) [countable] a large important organization that has a particular purpose, for example a university or bank
 		;The deal is backed by one of the country's largest financial institutions.
 		;He has worked as a visiting lecturer for various educational institutions.
 		;The system is targeted mainly at academic and research institutions.
 		;the Smithsonian Institution
 		;institution of something The region boasts several institutions of higher education.
+		;Extra Examples:
+		;The College is one of the most prestigious medical institutions in the country.
+		;We need to create institutions that benefit our community.
+		;a course at an institution of higher education
+		;cultural institutions such as the Danish Institute
+		;examination procedures within educational institutions
+		;young people who attend higher-education institutions
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;centrallargemajor…
+				;verb + institution
+				;buildcreatefound…
+				;preposition
+				;at a/​the institutionin institutionwithin institution…
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;;
 
 
 
-[-] instructor		<-->	noun++A2	[220818][001]	./ɪnˈstrʌktə(r)/-NAmE /ɪnˈstrʌktər/
- 	;người hướng dẫn -- a person whose job is to teach somebody a practical skill or sport
+
+
+
+
+[-] instructor		<-->	noun++A2	[220818][002]	./cef/ [t]
+ 	;người hướng dẫn -- (1) a person whose job is to teach somebody a practical skill or sport
 		;a fitness/driving/ski instructor
 		;a qualified/certified instructor
 		;He worked for a time as an aerobics instructor.
+		;Topics Education-a2, Transport by car or lorrya2, Jobsa2
+		;Oxford Collocations Dictionary
+		;adjective
+		;certifiedqualifiedtrained…
+		;instructor + verb
+		;teach somebody/​something
+		;See full entry
+	; -- (2) (North American English) a teacher below the rank of assistant professor at a college or university
+		;Topics Education-c2
+	;;
 
 
 
-[-] intake		<-->	noun++C1	[220818][004]	./ˈɪnteɪk/-NAmE /ˈɪnteɪk/
-	;đầu vào -- [countable + singular or plural verb, uncountable] the number of people who are allowed to enter a school, college, profession, etc. during a particular period
+
+
+
+
+[-] intake		<-->	noun++C1	[220818][004]	./cef/ [t]
+	; -- (1) 
+	;đầu vào -- (2) [countable + singular or plural verb, uncountable] the people who are allowed to enter a school, college, profession, etc. during a particular period
 		;the annual student intake
+		;This year's intake is/are really diverse.
 		;Intake in universities is down by 10%.
+		;Extra Examples:
+		;The government should be promoting a balanced intake of students for every school.
+		;The school has an annual intake of 20 to 30.
+		;Topics Education-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;highlowbalanced…
+				;verb + intake
+				;have
+		;See full entry
+	; -- (3) 
+	; -- (4) 
+	;;
+
+
+
+
 
 
 
