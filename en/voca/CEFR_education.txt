@@ -4551,7 +4551,7 @@
 
 
 
-[-] holiday		<-->	noun++A2	[220818][003]	./cef/\ [t]
+[-] holiday		<-->	noun++A2	[220818][003]	./cef/\ [241005]
 	;ngày nghỉ -- (also public holiday)[countable] a day when most people do not go to work or school, especially because of a religious or national celebration
 		;The president's birthday was declared a national holiday.
 		;Today is a holiday in Wales.
@@ -4581,7 +4581,7 @@
 
 
 
-[-] home economics		<-->	noun++C2	[220818][002]	./ˌhəʊm ˌiːkəˈnɒmɪks/, /ˌhəʊm ˌekəˈnɒmɪks/-NAmE /ˌhəʊm ˌiːkəˈnɑːmɪks/, /ˌhəʊm ˌekəˈnɑːmɪks/ [uncountable] [t]
+[-] home economics		<-->	noun++C2	[220818][002]	./ˌhəʊm ˌiːkəˈnɒmɪks/, /ˌhəʊm ˌekəˈnɒmɪks/-NAmE /ˌhəʊm ˌiːkəˈnɑːmɪks/, /ˌhəʊm ˌekəˈnɑːmɪks/ [uncountable] [241005]
 	;kinh tế gia đình -- (1) cooking and other skills needed at home, taught as a subject in school
 		;Topics Education-c2
 	;;
@@ -4592,7 +4592,7 @@
 
 
 
-[-] homework		<-->	noun++A1	[220818][003]	./cef/ [uncountable] [t]
+[-] homework		<-->	noun++A1	[220818][003]	./cef/ [uncountable] [241005]
 	;bài tập về nhà -- (1) work that is given by teachers for students to do at home
 		;I always do my homework on the bus.
 		;physics/geography/French, etc. homework
@@ -4647,7 +4647,7 @@
 
 
 
-[-] honour		<-->	noun++C2	[220818][002]	./cef/ [t]
+[-] honour		<-->	noun++C2	[220818][002]	./cef/ [241005]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4665,7 +4665,7 @@
 
 
 
-[-] hons		<-->	abbreviation++C2	[220818][002]	./ɒnz/-NAmE /ɑːnz/ (British English) [t]
+[-] hons		<-->	abbreviation++C2	[220818][002]	./ɒnz/-NAmE /ɑːnz/ (British English) [241005]
 	;tốt nghiệp loại danh dự -- (1) honours (used after the name of a university degree)
 		;Tim Smith BA (Hons)
 		;Topics Educationc2
@@ -4695,7 +4695,7 @@
 
 
 [-] housemaster		<-->	noun++C2	[220818][002]	./ˈhaʊsmɑːstə(r)/
- /ˈhaʊsmæstər/ (plural houses  /ˈhaʊzɪz/  /ˈhaʊzɪz/) (especially British English) [t]
+ /ˈhaʊsmæstər/ (plural houses  /ˈhaʊzɪz/  /ˈhaʊzɪz/) (especially British English) [241005]
 	;giáo viên nam mầm non -- (1) a male teacher in charge of a group of children (called a house) in a school, especially a private school
 		;Topics Education-c2
 	;;
@@ -4706,7 +4706,7 @@
 
 
 
-[-] human geography		<-->	noun++C1	[220818][002]	./ˌhjuːmən dʒiˈɒɡrəfi/-NAmE /ˌhjuːmən dʒiˈɑːɡrəfi/ [uncountable] [t]
+[-] human geography		<-->	noun++C1	[220818][002]	./ˌhjuːmən dʒiˈɒɡrəfi/-NAmE /ˌhjuːmən dʒiˈɑːɡrəfi/ [uncountable] [241005]
 	;nhân chủng học -- (1) the scientific study of how human activity affects or is affected by the surface of the earth
 		;She is a lecturer in the human geography of China.
 		;Human geography covers topics ranging from cultural differences and politics to agriculture and food production.
@@ -4719,7 +4719,7 @@
 
 
 
-[-] humanity		<-->	noun++C1	[220810][002]	./cef/ [t]
+[-] humanity		<-->	noun++C1	[220810][002]	./cef/ [241005]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -4736,7 +4736,7 @@
 
 
 
-[-] ICT		<-->	noun++B2	[220818][002]	./ˌaɪ siː ˈtiː/-NAmE /ˌaɪ siː ˈtiː/ [uncountable] (British English) [t]
+[-] ICT		<-->	noun++B2	[220818][002]	./ˌaɪ siː ˈtiː/-NAmE /ˌaɪ siː ˈtiː/ [uncountable] (British English) [241005]
 	;kỹ thuật viễn thông -- (1) the study of the use of computers, the internet, video, and other technology as a subject at school (the abbreviation for ‘information and communications technology’)
 		;Topics Education-b2
 		;Oxford Collocations Dictionary
@@ -4751,7 +4751,7 @@
 
 
 
-[-] IGCSE		<-->	noun++C1	[220818][002]	./ˌaɪ dʒiː siː es ˈiː/-NAmE /ˌaɪ dʒiː siː es ˈiː/ [countable, uncountable] [t]
+[-] IGCSE		<-->	noun++C1	[220818][002]	./ˌaɪ dʒiː siː es ˈiː/-NAmE /ˌaɪ dʒiː siː es ˈiː/ [countable, uncountable] [241005]
 	;chứng chỉ quốc tế -- (1) an international exam in different subjects that students can take when they are between 14 and 16 (the abbreviation for ‘International General Certificate of Secondary Education’)
 		;compare GCSE, International Baccalaureate™
 		;Topics Education-c1
@@ -4775,7 +4775,7 @@
 
 
 
-[-] infirmary		<-->	noun++C2	[220818][002]	./ɪnˈfɜːməri/-NAmE /ɪnˈfɜːrməri/ (plural infirmaries) [t]
+[-] infirmary		<-->	noun++C2	[220818][002]	./ɪnˈfɜːməri/-NAmE /ɪnˈfɜːrməri/ (plural infirmaries) [241005]
 	;bịnh xá -- (1) (often used in names) a hospital
 		;He had his leg bandaged in the infirmary.
 		;Surgeons at the Radcliffe Infirmary successfully removed a blood clot from her brain.
@@ -4797,7 +4797,7 @@
 
 
 [-] information technology		<-->	noun++B1	[220818][002]	./ˌɪnfəˌmeɪʃn tekˈnɒlədʒi/-NAmE /ˌɪnfərˌmeɪʃn tekˈnɑːlədʒi/ [uncountable]
-(abbreviation IT) [t]
+(abbreviation IT) [241005]
 	;công nghệ thông tin -- (1) the study or use of electronic equipment, especially computers, for storing, accessing, analysing and sending information
 		;Recent advances in information technology have led to important changes in the operation of offices.
 		;Topics Education-b1, Computersb1
@@ -4813,7 +4813,7 @@
 
 
 
-[-] inspector		<-->	noun++C1	[220818][002]	./cef/ [t]
+[-] inspector		<-->	noun++C1	[220818][002]	./cef/ [241005]
 	; -- (1) (abbreviation Insp) an officer of middle rank in the police force
 		;Inspector Maggie Forbes
 		;He reached the rank of inspector.
@@ -4892,7 +4892,7 @@
 
 
 
-[-] instructor		<-->	noun++A2	[220818][002]	./cef/ [t]
+[-] instructor		<-->	noun++A2	[220818][002]	./cef/ [241005]
  	;người hướng dẫn -- (1) a person whose job is to teach somebody a practical skill or sport
 		;a fitness/driving/ski instructor
 		;a qualified/certified instructor
@@ -4914,7 +4914,7 @@
 
 
 
-[-] intake		<-->	noun++C1	[220818][004]	./cef/ [t]
+[-] intake		<-->	noun++C1	[220818][004]	./cef/ [241005]
 	; -- (1) 
 	;đầu vào -- (2) [countable + singular or plural verb, uncountable] the people who are allowed to enter a school, college, profession, etc. during a particular period
 		;the annual student intake
@@ -4940,95 +4940,225 @@
 
 
 
-[-] interactive whiteboard		<-->	noun++C1	[220818][002]	./ˌɪntəræktɪv ˈwaɪtbɔːd/-NAmE /ˌɪntəræktɪv ˈwaɪtbɔːrd/
-	;tấm bảng vải trắng cho máy chiếu -- (abbreviation IWB) a piece of classroom equipment using a computer connected to a large screen that you can write on or use to control the computer by touching it with your finger or a pen
+[-] interactive whiteboard		<-->	noun++C1	[220818][002]	./ˌɪntəræktɪv ˈwaɪtbɔːd/-NAmE /ˌɪntəræktɪv ˈwaɪtbɔːrd/ (abbreviation IWB) [241005]
+	;bảng tương tác máy chiếu -- (1) a piece of classroom equipment using a computer connected to a large screen that you can write on or use to control the computer by touching it with your finger or a pen
 		;Nearly every classroom has an interactive whiteboard.
+		;Topics Education-c1
+	;;
 
 
 
-[-] interdisciplinarity		<-->	noun++C2	[220818][002]	./ˌɪntəˌdɪsəplɪˈnærəti/-NAmE /ˌɪntərˌdɪsəplɪˈnærəti/ [uncountable] (specialist) [240623]
+
+
+
+
+[-] interdisciplinarity		<-->	noun++C2	[220818][003]	./ˌɪntəˌdɪsəplɪˈnærəti/-NAmE /ˌɪntərˌdɪsəplɪˈnærəti/ [uncountable] (specialist) [240623] [241005]
 	;sự đa nghành -- (1) the quality or fact of involving different areas of knowledge or study
 		;I believe environmental historians should embrace interdisciplinarity more fully.
-		;TOPICS EducationC2
+		;TOPICS Education-C2 
+	;;
 
 
 
 
 
-[-] interdisciplinary		<-->	adjective++C2	[220818][001]	./ˌɪntədɪsəˈplɪnəri/-NAmE /ˌɪntərˈdɪsəplɪneri/
-	;đa/liên nghành -- involving different areas of knowledge or study
-		;SYNONYM cross-disciplinary
+
+
+
+
+[-] interdisciplinary		<-->	adjective++C2	[220818][002]	./ˌɪntədɪsəˈplɪnəri/-NAmE /ˌɪntərˈdɪsəplɪneri/ [241005]
+	;đa/liên nghành -- (1) involving different areas of knowledge or study
+		;synonym cross-disciplinary
 		;interdisciplinary research
 		;an interdisciplinary approach
+		;Topics Education-c2
+				;Oxford Collocations Dictionary
+				;Interdisciplinary is used with these nouns:
+				;approachcollaboration
+		;See full entry
+	;;
 
 
 
-[-] invigilate		<-->	verb++C2	[220818][001]	./ɪnˈvɪdʒɪleɪt/-NAmE /ɪnˈvɪdʒɪleɪt/
-	;gác thi -- (British English)(North American English proctor)[transitive, intransitive] invigilate (something) to watch people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.
+
+
+
+
+[-] invigilate		<-->	verb++C2	[220818][002]	./ɪnˈvɪdʒɪleɪt/-NAmE /ɪnˈvɪdʒɪleɪt/ (British English)
+(North American English proctor)
+[transitive, intransitive] [241005]
+	;gác thi -- (1) invigilate (something) to watch people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.
 		;to invigilate an exam
+		;Wordfinder: candidateexamgradeinvigilatemarkoralpaperpracticalresitrevise
+		;Topics Education-c2
+				;Oxford Collocations Dictionary
+				;Invigilate is used with these nouns as the object:
+				;exam
+				;See full entry
+		;Word Origin
+	;;
 
 
 
-[-] invigilation		<-->	noun++C2	[220818][001]	./ɪnˌvɪdʒɪˈleɪʃn/-NAmE /ɪnˌvɪdʒɪˈleɪʃn/
-	;việc gác thi -- [uncountable] (British English) the act of watching people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.
 
 
 
-[-] invigilator		<-->	noun++C2	[220818][001]	./ɪnˈvɪdʒɪleɪtə(r)/-NAmE /ɪnˈvɪdʒɪleɪtər/
-	;giám thị gác thi -- (British English) (North American English proctor) a person who watches people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.
-		;If you have a problem, ask the invigilator.
+
+[-] invigilation		<-->	noun++C2	[220818][002]	./ɪnˌvɪdʒɪˈleɪʃn/-NAmE /ɪnˌvɪdʒɪˈleɪʃn/ [uncountable] (British English) [241005]
+	;việc gác thi -- (1) the act of watching people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.
+		;Topics Education-c2
+	;;
 
 
 
-[-] ivy League		<-->	adjective++C2	[220818][001]	./ˌaɪvi ˈliːɡ/-NAmE /ˌaɪvi ˈliːɡ/
-	;nhóm tám trường tinh hoa -- connected with a group of eight traditional universities in the eastern US with high academic standards and a high social status
+
+
+
+
+[-] invigilator		<-->	noun++C2	[220818][002]	./ɪnˈvɪdʒɪleɪtə(r)/-NAmE /ɪnˈvɪdʒɪleɪtər/ (British English)
+(North American English proctor) [241005]
+	;giám thị gác thi -- (1) a person who watches people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.
+			;If you have a problem, ask the invigilator.
+			;Topics Education-c2
+	;;
+
+
+
+
+
+
+
+[-] Ivy League		<-->	adjective++C2	[220818][002]	./ˌaɪvi ˈliːɡ/-NAmE /ˌaɪvi ˈliːɡ/ [241005]
+	;nhóm tám trường tinh hoa -- (1) connected with a group of eight traditional universities in the eastern US with high academic standards and a high social status
 		;Ivy League colleges
+		;Culture the Ivy League
+		;Topics Education-c2
+	;;
 
 
 
-[-] janitor		<-->	noun++C2	[220818][001]	./ˈdʒænɪtə(r)/-NAmE /ˈdʒænɪtər/
-	;người gác cổng -- (North American English, Scottish English)(North American English also custodian)(British English caretaker) a person whose job is to take care of a building such as a school or a block of flats or an apartment building
 
 
 
-[-] j.D.		<-->	noun++C2	[220818][001]	./ˌdʒeɪ ˈdiː/-NAmE /ˌdʒeɪ ˈdiː/
-	;một bậc trường luật -- (also JD) (North American English) a degree from a law school (the abbreviation for ‘Juris Doctor’)
+
+[-] janitor		<-->	noun++C2	[220818][002]	./ˈdʒænɪtə(r)/-NAmE /ˈdʒænɪtər/ (North American English, Scottish English)
+(North American English also custodian)
+(British English caretaker) [241005]
+	;người gác cổng -- (1) a person whose job is to take care of a building such as a school or a block of flats or an apartment building
+		;Topics Education-c2, Jobsc2
+		;Word Origin
+	;;
+
+
+
+
+
+
+
+[-] J.D.		<-->	noun++C2	[220818][002]	./ˌdʒeɪ ˈdiː/-NAmE /ˌdʒeɪ ˈdiː/ (also JD)
+(North American English) [241005]
+	;một bậc trường luật -- (1) a degree from a law school (the abbreviation for ‘Juris Doctor’)
 		;She has a J.D. from Georgetown University.
+		;Topics Education-c2
+	;;
 
 
 
-[-] junior		<-->	adjective++C1	[220818][001]	./ˈdʒuːniə(r)/-NAmE /ˈdʒuːniər/-\
-	;(thuộc) lớp một -- [only before noun] (North American English) connected with the year before the last year in a high school or college
-		;I spent my junior year in France.
 
 
 
-[-] junior		<-->	noun++C1	[220818][001]	./ˈdʒuːniə(r)/-NAmE /ˈdʒuːniər/
-	;trẻ nhỏ, học sinh lớp một -- [countable] (British English) a child who goes to junior school
+
+[-] junior		<-->	noun++C1	[220818][002]	./ˈdʒuːniə(r)/-NAmE /ˈdʒuːniər/-\ [241005]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;học sinh tiểu học -- (4) [-in school/college] [countable] (British English) a child who goes to junior school
 		;Sam is going to be a junior next year.
+		;Topics Education-c1
+	;học sinh tiểu học -- (5) [countable] (North American English) a student in the year before the last year at high school or college
+		;compare sophomore
+		;Topics Education c1
+	;;
 
 
 
-[-] junior high school		<-->	noun++B2	[220818][002]	./ˌdʒuːniə ˈhaɪ skuːl/-NAmE /ˌdʒuːniər ˈhaɪ skuːl/ [countable, uncountable] [240925]
+
+
+
+
+[-] junior		<-->	adjective++C1	[220818][002]	./ˈdʒuːniə(r)/-NAmE /ˈdʒuːniər/ [241005]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;cơ sở -- (4) [-school/college] ​[only before noun] (British English) (of a school or part of a school) for children under the age of 11 or 13
+		;the junior section of the school
+		;Topics Education-c1
+	;tiểu học -- (5) ​[only before noun] (North American English) connected with the year before the last year in a high school or college
+		;I spent my junior year in France.
+		;Topics Education-c1
+		;compare senior
+		;Word Origin
+	;;
+
+
+
+
+
+
+
+[-] junior high school		<-->	noun++B2	[220818][003]	./ˌdʒuːniə ˈhaɪ skuːl/-NAmE /ˌdʒuːniər ˈhaɪ skuːl/ [countable, uncountable] [240925] [241005]
 	;trường cho lớp sáu, đến chín ;trường trung học cơ sở -- (1) ​(in England and Wales) a school for children between the ages of 7 and 11
-		;Topics Educationb2
+		;Topics Education-b2 
+	;;
+
+
+
+
 
 
 
 [-] junior school		<-->	noun++B2	[220818][002]	./ˈdʒuːniə skuːl/-NAmE /ˈdʒuːniər skuːl/ [countable, uncountable] [240925]
 	;trường tiểu học -- (1) ​(in England and Wales) a school for children between the ages of 7 and 11
-		;Topics Educationb2
+		;Topics Education-b2
 
 
 
-[-] k-12		<-->	adjective++C2	[220818][002]	./ˌkeɪ ˈtwelv/-NAmE /ˌkeɪ ˈtwelv/
-	;thuộc hệ thống trung học mười hai lớp -- (in the US) relating to education from kindergarten (= the class that prepares children for school) to 12th grade
+[-] K-12		<-->	adjective++C2	[220818][002]	./ˌkeɪ ˈtwelv/-NAmE /ˌkeɪ ˈtwelv/
+	;thuộc hệ thống trung học mười hai lớp -- (1) ​(in the US) relating to education from kindergarten (= the class that prepares children for school) to 12th grade
+		;Topics Education-c2
+	;;
 
 
 
-[-] kindergarten		<-->	noun++B2	[220818][003]	./ˈkɪndəɡɑːtn/-NAmE /ˈkɪndərɡɑːrtn/ [IE-C1-Z06-XX-R-01] [230305]
-	;trường cho trẻ năm tuổi, mẫu giáo -- (1) (from German)(especially North American English) a school or class to prepare children aged five for school
+
+
+
+
+[-] kindergarten		<-->	noun++B2	[220818][004]	./ˈkɪndəɡɑːtn/-NAmE /ˈkɪndərɡɑːrtn/ (from German) [IE-C1-Z06-XX-R-01] [230305] [241005]
+	;trường cho trẻ năm tuổi, mẫu giáo -- (1) ​(especially North American English) a school or class to prepare children aged five for school
 		;his first day at kindergarten
+		;Extra Examples:
+		;James is in kindergarten now, but he's moving up to infant school this autumn.
+		;She teaches reading to students in kindergarten.
+		;She was still attending kindergarten at Assumption School.
+		;their plans for Hannah to start all-day kindergarten
+		;Topics Education-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;all-dayfull-dayhalf-day…
+				;verb + kindergarten
+				;enterstartattend…
+				;kindergarten + noun
+				;classroomclasschildren…
+				;preposition
+				;at kindergartenin kindergarten
+		;See full entry
+	; -- (2) 
+	;;
+
+
+
+
 
 
 
