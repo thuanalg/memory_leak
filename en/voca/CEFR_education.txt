@@ -3529,7 +3529,7 @@
 	;sinh viên năm nhất -- (1) ​a student who has just started his or her first term at a university
 		;freshers’ fair (= an event when new students can join university societies)
 		;compare freshman (1)
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -3546,7 +3546,7 @@
 		;college freshmen
 		;during my freshman year
 		;compare fresher
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	; -- (2) 
 	;;
 
@@ -3565,7 +3565,7 @@
 
 [-] freshwoman		<-->	noun++C2	[220818][002]	./ˈfreʃwʊmən/-NAmE /ˈfreʃwʊmən/ (plural freshwomen  /ˈfreʃwɪmɪn/  /ˈfreʃwɪmɪn/) (North American English)  [240930]
 	;nữ sinh viên năm nhất -- (1) a female first-year student at a university or college
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	; -- (2) 
 	;;
 
@@ -3618,7 +3618,7 @@
 		;We need to make sure that the funding goes to areas where its most needed.
 		;the clandestine funding of an illegal group
 		;public funding for the arts
-		;Topics Businessb2, Social issuesb2, Education-b2
+		;Topics Businessb2, Social issuesb2, EDUCATIOn-b2
 				;Oxford Collocations Dictionary
 				;adjective
 				;adequatepropersufficient…
@@ -3652,7 +3652,7 @@
 		;Wordfinder: coursedistance learningeducationexamfurther educationgraduatehigher educationqualificationstudytertiary
 		;Culture vocational training
 		;Culture further education
-		;TOPICS Education-B2
+		;TOPICS EDUCATIOn-B2
 		;Oxford Collocations Dictionary
 				;Further education is used before these nouns:
 				;college
@@ -3672,7 +3672,7 @@
 	;một năm hoãn học -- (1) ​a year that a young person spends working and/or travelling, often between leaving school and starting university
 		;I'm planning to take a gap year and go backpacking in India.
 		;on a gap year He was on a gap year before going to university.
-		;Topics Education-b2
+		;Topics EDUCATIOn-b2
 	;;
 
 
@@ -3690,7 +3690,7 @@
 		;He's doing German at GCSE.
 		;compare A level, IGCSE
 		;Culture the National Curriculum
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 		;Oxford Collocations Dictionary
 		;GCSE is used before these nouns:
 		;examexaminationpass…
@@ -3708,7 +3708,7 @@
 
 [-] GED		<-->	noun++C2	[220818][002]	./ˌdʒiː iː ˈdiː/-NAmE /ˌdʒiː iː ˈdiː/  [240930]
 	;chứng chỉ ở US, Canada -- (1) (in the US and Canada) an official certificate that people who did not finish high school can get, after taking classes and passing a test (the abbreviation for ‘General Equivalency Diploma’)
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	; -- (2) 
 	;;
 
@@ -3724,7 +3724,7 @@
 [-] gender studies		<-->	noun++B2	[220818][002]	./ˈdʒendə stʌdiz/-NAmE /ˈdʒendər stʌdiz/ [uncountable]  [240930]
 	;nghiên cứu về giới -- (1) the study of gender as a subject at university, college, etc.
 		;She teaches gender studies and political science at Hunter College.
-		;Topics Education-b2
+		;Topics EDUCATIOn-b2
 	;;
 
 
@@ -3769,7 +3769,7 @@
 
 [-] geology		<-->	noun++B2	[220818][002]	./dʒiˈɒlədʒi/-NAmE /dʒiˈɑːlədʒi/ [241002]
 	;địa chất học -- (1) [uncountable] the scientific study of the physical structure of the earth, including the origin and history of the rocks and soil of which the earth is made
-		;Topics Education-b2, Scientific researchb2
+		;Topics EDUCATIOn-b2, Scientific researchb2
 		;Oxford Collocations Dictionary
 		;adjective
 		;appliedengineeringphysical…
@@ -3791,7 +3791,7 @@
 [-] geometry		<-->	noun++C2	[220818][002]	./dʒiˈɒmətri/-NAmE /dʒiˈɑːmətri/ [241002]
 	;hình học -- (1) [uncountable] the branch of mathematics that deals with the measurements and relationships of lines, angles, surfaces and solids
 		;Pre-Christian sacred geometry was incorporated into church architecture.
-		;Topics Maths and measurementc2, Education-c2
+		;Topics Maths and measurementc2, EDUCATIOn-c2
 				;Oxford Collocations Dictionary
 				;adjective
 				;algebraiccoordinatedifferential…
@@ -3815,7 +3815,7 @@
 
 [-] GMAT		<-->	abbreviation++C2	[220818][002]	./ˈdʒiːmæt/-NAmE /ˈdʒiːmæt/ [241002]
 	;Cơ quan quản lý tuyển sinh -- (1) a test taken by graduate students in the US who want to study for a degree in Business (the abbreviation for ‘Graduate Management Admissions Test’)
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -3841,7 +3841,7 @@
 	;áo choàng tốt nghiệp -- (2) a long loose piece of clothing that is worn over other clothes by judges and (in the UK) by other lawyers, and by members of universities (at special ceremonies)
 		;a graduation gown
 		;see also town and gown
-		;Topics Education-c1, Law and justicec1, Religion and festivalsc1
+		;Topics EDUCATIOn-c1, Law and justicec1, Religion and festivalsc1
 				;Oxford Collocations Dictionary
 				;adjective
 				;academichospitalsurgical…
@@ -3875,10 +3875,10 @@
 	;người tốt nghiệp đại học -- (1) a person who has a university degree
 		;I'm 22 and a recent college grad.
 		;an ambitious grad student from Harvard
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 	; -- (2) (North American English) a person who has completed their school studies
 		;high school grads
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 	;;
 
 
@@ -3892,7 +3892,7 @@
 		;(British English) She got good grades in her exams.
 		;(North American English) She got good grades on her exams.
 		;70 per cent of students achieved Grade C or above.
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 		;Wordfinder: candidateexamgradeinvigilatemarkoralpaperpracticalresitrevise
 		;Extra Examples:
 		;an A-grade essay
@@ -3911,7 +3911,7 @@
 	;bậc, cấp -- (2) (in the US school system) one of the levels in a school with children of similar age
 		;Sam is in (the) second grade.
 		;see also O grade, Standard Grade
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 		;Extra Examples:
 		;He skipped a grade so he finished high school early.
 		;My son will be starting third grade this fall.
@@ -3947,7 +3947,7 @@
 		;Extra Examples:
 		;I don't think he graded our essays fairly.
 		;Who grades the students?
-		;Topics Education-b2
+		;Topics EDUCATIOn-b2
 				;Oxford Collocations Dictionary
 				;adverb
 				;fairlyobjectively
@@ -3985,7 +3985,7 @@
 		;The law school required a minimum grade point average of 2.6 (on a 4.0 scale).
 		;You've maintained a 3.9 grade point average.
 		;Culture
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4005,7 +4005,7 @@
 
 [-] grad school		<-->	noun++B2	[220818][002]	./ˈɡræd skuːl/-NAmE /ˈɡræd skuːl/ (informal) (also graduate school) (North American English) [240925]
 	;trường đào tạo sau đại học -- (1) ​a part of a college or university where you can study for a second or further degree
-		;Topics Education-b2
+		;Topics EDUCATIOn-b2
 
 
 
@@ -4028,7 +4028,7 @@
 		;a graduate in sociology
 		;job opportunities for university graduates
 		;graduate courses
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 				;Oxford Collocations Dictionary
 				;adjective
 				;business-schoollaw-schoolcollege…
@@ -4039,7 +4039,7 @@
 		;See full entry
 	; -- (2) (North American English) a person who has completed their school studies
 		;a high school graduate
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 				;Oxford Collocations Dictionary
 				;adjective
 				;business-schoollaw-schoolcollege…
@@ -4079,15 +4079,15 @@
 		;He graduated with first-class honours in History.
 		;Only thirty students graduated in Chinese Studies last year.
 		;She graduated from Bristol University in 2023.
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 	; -- (2) [intransitive, transitive] (North American English) to complete a course in education, especially at high school
 		;He flunked math and never graduated.
 		;graduate from something Martha graduated from high school two years ago.
 		;graduate something Martha graduated high school two years ago.
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 	;trao bằng -- (3) [transitive] graduate somebody (from something) (North American English) to give a degree, diploma, etc. to somebody
 		;The college graduated 50 students last year.
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	; -- (4) 
 	;;
 
@@ -4100,7 +4100,7 @@
 [-] graduate school		<-->	noun++B2	[220818][002]	./ˈɡrædʒuət skuːl/-NAmE /ˈɡrædʒuət skuːl/ (also informal grad school) (both North American English) [240925]
 	;trường sau đại học -- (1) a part of a college or university where you can study for a second or further degree
 		;Culture
-		;Topics Education-b2
+		;Topics EDUCATIOn-b2
 	;
 
 
@@ -4112,7 +4112,7 @@
 		;Extra Examples:
 		;On graduation, he plans to travel around Asia.
 		;She managed to find a job immediately after graduation.
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 				;Oxford Collocations Dictionary
 				;adjective
 				;collegehigh-schooluniversity…
@@ -4125,7 +4125,7 @@
 		;graduation day
 		;My whole family came to my graduation.
 		;She was wearing a mortar board and graduation gown.
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 				;Oxford Collocations Dictionary
 				;adjective
 				;collegehigh-schooluniversity…
@@ -4178,7 +4178,7 @@
 		;home improvement grants for householders
 		;She has been awarded a research grant by Liverpool University.
 		;The hospital has applied for a government grant to buy a new scanner.
-		;TOPICS MoneyB2, Education-B2
+		;TOPICS MoneyB2, EDUCATIOn-B2
 			;Oxford Collocations Dictionary
 			;adjective
 				;largesubstantialsmall…
@@ -4192,7 +4192,7 @@
 
 [-] grant-maintained		<-->	adjective++C2	[220818][002]	./ˌɡrɑːnt meɪnˈteɪnd/-NAmE /ˌɡrænt meɪnˈteɪnd/ (abbreviation GM) [240623] [241002]
 	;trường công chính phủ -- (1) (of a school in England and Wales) receiving financial support from central government rather than local government
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4204,7 +4204,7 @@
 [-] guidance counselor		<-->	noun++C2	[220818][002]	./ˈɡaɪdns kaʊnsələ(r)/-NAmE /ˈɡaɪdns kaʊnsələr/ (North American English) [241002]
 	;cố vấn hướng dẫn -- (1) a person who works in a school and is responsible for giving students advice about classes and helping them with personal problems
 		;I've got some ideas about how to get kids on the right path, so I'm becoming a guidance counselor.
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4217,7 +4217,7 @@
 	;phòng và nhà tập thể hình -- (1) (also formal gymnasium) [countable] a room or hall with equipment for doing physical exercise, for example in a school
 		;The school has recently built a new gym.
 		;in a gym to play basketball in the gym
-		;Topics Education-a1, Health and Fitnessa1
+		;Topics EDUCATIOn-a1, Health and Fitnessa1
 				;Oxford Collocations Dictionary
 				;adjective
 				;fully equippedwell-equippedhigh-school…
@@ -4240,7 +4240,7 @@
 
 [-] gymnasium		<-->	noun++C1	[220818][002]	./dʒɪmˈneɪziəm/-NAmE /dʒɪmˈneɪziəm/ (plural gymnasiums, gymnasia  /dʒɪmˈneɪziə/  /dʒɪmˈneɪziə/) (formal) [241002]
 	;thể hình -- (1) a gym
-		;Topics Education-c1, Health and Fitnessc1
+		;Topics EDUCATIOn-c1, Health and Fitnessc1
 		;Word Origin
 	;;
 
@@ -4256,7 +4256,7 @@
 		;(figurative) mental/verbal gymnastics (= quick or clever thinking or use of words)
 		;She does gymnastics at school.
 		;see also artistic gymnastics, rhythmic gymnastics
-		;Topics Education-b1, Sports: other sportsb1
+		;Topics EDUCATIOn-b1, Sports: other sportsb1
 				;Oxford Collocations Dictionary
 				;adjective
 				;rhythmicartisticcompetitive…
@@ -4276,7 +4276,7 @@
 
 [-] gymslip		<-->	noun++C2	[220818][003]	./ˈdʒɪmslɪp/-NAmE /ˈdʒɪmslɪp/ (British English) [230415] [241002]
 	;quần áo không cánh tay -- (1) (in the past) a dress without arms worn over a shirt as a school uniform for girls
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4291,7 +4291,7 @@
 		;What are you doing at half-term?
 		;It’s the half-term break next week.
 		;Your essays should be handed in before half-term.
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 	;;
 
 
@@ -4319,7 +4319,7 @@
 		;at dinner in the mess hall
 		;It's important for a concert hall to have good acoustics.
 		;Our stand is located in the main exhibition hall.
-		;Topics Buildingsb1, Education-b1
+		;Topics Buildingsb1, EDUCATIOn-b1
 				;Oxford Collocations Dictionary
 				;adjective
 				;cavernoushugespacious…
@@ -4345,7 +4345,7 @@
 		;The university has two halls of residence for its postgraduate students.
 		;Wordfinder: degreedissertationeducationgraduatehall of residencelecturemajorseminartutorialuniversity
 		;Culture student life
-		;Topics Education-b2, Buildingsb2
+		;Topics EDUCATIOn-b2, Buildingsb2
 	;;
 
 
@@ -4369,7 +4369,7 @@
 		;I remember sitting outside the Head's office waiting to be called in.
 		;She is deputy head of Greenlands Comprehensive, a struggling inner city school.
 		;The minister has written to every secondary head in Scotland.
-		;Topics Education-b2
+		;Topics EDUCATIOn-b2
 				;Oxford Collocations Dictionary
 				;adjective
 				;assistantdeputydepartment…
@@ -4389,7 +4389,7 @@
 
 [-] head boy		<-->	noun++C2	[220818][002]	./ˌhed ˈbɔɪ/-NAmE /ˌhed ˈbɔɪ/ [241002]
 	;người nam dẫn chương trình của trường -- (1) (in some British schools) the boy who is chosen each year to represent his school
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4400,7 +4400,7 @@
 
 [-] head girl		<-->	noun++C2	[220818][002]	./ˌhed ˈɡɜːl/-NAmE /ˌhed ˈɡɜːrl/ [241002]
 	;người nữ dẫn chương trình của trường -- (1) (in some British schools) the girl who is chosen each year to represent her school
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4415,7 +4415,7 @@
 		;Extra Examples:
 		;He is a retired headmaster, living in Edinburgh.
 		;There was a notice board on the wall outside the headmaster's study.
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 	;;
 
 
@@ -4427,7 +4427,7 @@
 [-] headmistress		<-->	noun++C2	[220818][002]	./ˌhedˈmɪstrəs/-NAmE /ˌhedˈmɪstrəs/ (British English, becoming old-fashioned) (British English usually head teacher) (North American English usually principal) [241002]
 	;nữ hiệu trường -- (1) a female head teacher, especially of a private school
 		;More About gender
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4445,7 +4445,7 @@
 	;hiệu trưởng -- (2) ​headship (of something) (British English) the position of being in charge of a school
 		;Mrs Arden's headship has seen pupil numbers rise to 322 from 276.
 		;She applied for the headship of a small, rural primary school.
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4462,7 +4462,7 @@
 		;compare further education, tertiary education
 		;Wordfinder: coursedistance learningeducationexamfurther educationgraduatehigher educationqualificationstudytertiary
 		;Culture higher education
-		;Topics Education-b1
+		;Topics EDUCATIOn-b1
 				;Oxford Collocations Dictionary
 				;Higher education is used before these nouns:
 				;institution
@@ -4523,7 +4523,7 @@
 		;She's studying art history.
 		;She studies history of art.
 		;see also natural history
-		;Topics Historya1, Education-a1
+		;Topics Historya1, EDUCATIOn-a1
 				;Oxford Collocations Dictionary
 				;adjective
 				;contemporaryearlyrecent…
@@ -4563,7 +4563,7 @@
 		;The president's birthday was declared a national holiday.
 		;Today is a holiday in Wales.
 		;see also August Bank Holiday, bank holiday, civic holiday, legal holiday, public holiday, Spring Bank Holiday, statutory holiday, Summer Bank Holiday
-		;Topics Education-a2, Religion and festivalsa2
+		;Topics EDUCATIOn-a2, Religion and festivalsa2
 				;Oxford Collocations Dictionary
 				;adjective
 				;bankfederalnational…
@@ -4583,7 +4583,7 @@
 
 [-] home economics		<-->	noun++C2	[220818][002]	./ˌhəʊm ˌiːkəˈnɒmɪks/, /ˌhəʊm ˌekəˈnɒmɪks/-NAmE /ˌhəʊm ˌiːkəˈnɑːmɪks/, /ˌhəʊm ˌekəˈnɑːmɪks/ [uncountable] [241005]
 	;kinh tế gia đình -- (1) cooking and other skills needed at home, taught as a subject in school
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4655,7 +4655,7 @@
 	; -- (5) 
 	;bằng danh dự -- (8) honors, honours [plural]
 (abbreviation Hons) if you pass an exam or graduate from a university or school with honors, you receive a special grade for having achieved a very high standard
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	; -- (9) 
 	;;
 
@@ -4684,7 +4684,7 @@
 	; -- (4) 
 	; -- (5) 
 	; -- (11) [-in school] [countable] (in some British schools) an organized group of students of different ages who compete against other groups in sports competitions, etc. and who may, in boarding schools, live together in one building
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	; -- (13) 
 	;;
 
@@ -4697,7 +4697,7 @@
 [-] housemaster		<-->	noun++C2	[220818][002]	./ˈhaʊsmɑːstə(r)/
  /ˈhaʊsmæstər/ (plural houses  /ˈhaʊzɪz/  /ˈhaʊzɪz/) (especially British English) [241005]
 	;giáo viên nam mầm non -- (1) a male teacher in charge of a group of children (called a house) in a school, especially a private school
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4710,7 +4710,7 @@
 	;nhân chủng học -- (1) the scientific study of how human activity affects or is affected by the surface of the earth
 		;She is a lecturer in the human geography of China.
 		;Human geography covers topics ranging from cultural differences and politics to agriculture and food production.
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 	;;
 
 
@@ -4726,7 +4726,7 @@
 	;ngành nhân văn học -- (4) (the) humanities [plural] the subjects of study that are about the way people think and behave, for example literature, language, history and philosophy
 		;The college offers a wide range of courses in the arts and humanities.
 		;compare science
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 		;Word Origin
 	;;
 
@@ -4738,7 +4738,7 @@
 
 [-] ICT		<-->	noun++B2	[220818][002]	./ˌaɪ siː ˈtiː/-NAmE /ˌaɪ siː ˈtiː/ [uncountable] (British English) [241005]
 	;kỹ thuật viễn thông -- (1) the study of the use of computers, the internet, video, and other technology as a subject at school (the abbreviation for ‘information and communications technology’)
-		;Topics Education-b2
+		;Topics EDUCATIOn-b2
 		;Oxford Collocations Dictionary
 		;ICT is used before these nouns:
 		;suite
@@ -4754,7 +4754,7 @@
 [-] IGCSE		<-->	noun++C1	[220818][002]	./ˌaɪ dʒiː siː es ˈiː/-NAmE /ˌaɪ dʒiː siː es ˈiː/ [countable, uncountable] [241005]
 	;chứng chỉ quốc tế -- (1) an international exam in different subjects that students can take when they are between 14 and 16 (the abbreviation for ‘International General Certificate of Secondary Education’)
 		;compare GCSE, International Baccalaureate™
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 	;;
 
 
@@ -4786,7 +4786,7 @@
 	;phòng y tế -- (2) a special room in a school, prison, etc. for people who are ill
 		;the college infirmary
 		;He had to remain in the college infirmary for about a fortnight.
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 		;Word Origin
 	;;
 
@@ -4800,7 +4800,7 @@
 (abbreviation IT) [241005]
 	;công nghệ thông tin -- (1) the study or use of electronic equipment, especially computers, for storing, accessing, analysing and sending information
 		;Recent advances in information technology have led to important changes in the operation of offices.
-		;Topics Education-b1, Computersb1
+		;Topics EDUCATIOn-b1, Computersb1
 		;Oxford Collocations Dictionary
 		;Information technology is used before these nouns:
 		;professionalspecialist
@@ -4837,7 +4837,7 @@
 		;an inspector of prisons
 		;the inspector in charge of producing the report
 		;The health and safety inspector wrote a worrying report on the building.
-		;Topics Education-c1, Jobsc1
+		;Topics EDUCATIOn-c1, Jobsc1
 				;Oxford Collocations Dictionary
 				;adjective
 				;chiefdeputylocal…
@@ -4871,7 +4871,7 @@
 		;cultural institutions such as the Danish Institute
 		;examination procedures within educational institutions
 		;young people who attend higher-education institutions
-		;Topics Education-b2
+		;Topics EDUCATIOn-b2
 				;Oxford Collocations Dictionary
 				;adjective
 				;centrallargemajor…
@@ -4897,7 +4897,7 @@
 		;a fitness/driving/ski instructor
 		;a qualified/certified instructor
 		;He worked for a time as an aerobics instructor.
-		;Topics Education-a2, Transport by car or lorrya2, Jobsa2
+		;Topics EDUCATIOn-a2, Transport by car or lorrya2, Jobsa2
 		;Oxford Collocations Dictionary
 		;adjective
 		;certifiedqualifiedtrained…
@@ -4905,7 +4905,7 @@
 		;teach somebody/​something
 		;See full entry
 	; -- (2) (North American English) a teacher below the rank of assistant professor at a college or university
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -4923,7 +4923,7 @@
 		;Extra Examples:
 		;The government should be promoting a balanced intake of students for every school.
 		;The school has an annual intake of 20 to 30.
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 				;Oxford Collocations Dictionary
 				;adjective
 				;highlowbalanced…
@@ -4943,7 +4943,7 @@
 [-] interactive whiteboard		<-->	noun++C1	[220818][002]	./ˌɪntəræktɪv ˈwaɪtbɔːd/-NAmE /ˌɪntəræktɪv ˈwaɪtbɔːrd/ (abbreviation IWB) [241005]
 	;bảng tương tác máy chiếu -- (1) a piece of classroom equipment using a computer connected to a large screen that you can write on or use to control the computer by touching it with your finger or a pen
 		;Nearly every classroom has an interactive whiteboard.
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 	;;
 
 
@@ -4955,7 +4955,7 @@
 [-] interdisciplinarity		<-->	noun++C2	[220818][003]	./ˌɪntəˌdɪsəplɪˈnærəti/-NAmE /ˌɪntərˌdɪsəplɪˈnærəti/ [uncountable] (specialist) [240623] [241005]
 	;sự đa nghành -- (1) the quality or fact of involving different areas of knowledge or study
 		;I believe environmental historians should embrace interdisciplinarity more fully.
-		;TOPICS Education-C2 
+		;TOPICS EDUCATIOn-C2 
 	;;
 
 
@@ -4971,7 +4971,7 @@
 		;synonym cross-disciplinary
 		;interdisciplinary research
 		;an interdisciplinary approach
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 				;Oxford Collocations Dictionary
 				;Interdisciplinary is used with these nouns:
 				;approachcollaboration
@@ -4990,7 +4990,7 @@
 	;gác thi -- (1) invigilate (something) to watch people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.
 		;to invigilate an exam
 		;Wordfinder: candidateexamgradeinvigilatemarkoralpaperpracticalresitrevise
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 				;Oxford Collocations Dictionary
 				;Invigilate is used with these nouns as the object:
 				;exam
@@ -5006,7 +5006,7 @@
 
 [-] invigilation		<-->	noun++C2	[220818][002]	./ɪnˌvɪdʒɪˈleɪʃn/-NAmE /ɪnˌvɪdʒɪˈleɪʃn/ [uncountable] (British English) [241005]
 	;việc gác thi -- (1) the act of watching people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -5019,7 +5019,7 @@
 (North American English proctor) [241005]
 	;giám thị gác thi -- (1) a person who watches people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.
 			;If you have a problem, ask the invigilator.
-			;Topics Education-c2
+			;Topics EDUCATIOn-c2
 	;;
 
 
@@ -5032,7 +5032,7 @@
 	;nhóm tám trường tinh hoa -- (1) connected with a group of eight traditional universities in the eastern US with high academic standards and a high social status
 		;Ivy League colleges
 		;Culture the Ivy League
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -5045,7 +5045,7 @@
 (North American English also custodian)
 (British English caretaker) [241005]
 	;người gác cổng -- (1) a person whose job is to take care of a building such as a school or a block of flats or an apartment building
-		;Topics Education-c2, Jobsc2
+		;Topics EDUCATIOn-c2, Jobsc2
 		;Word Origin
 	;;
 
@@ -5059,7 +5059,7 @@
 (North American English) [241005]
 	;một bậc trường luật -- (1) a degree from a law school (the abbreviation for ‘Juris Doctor’)
 		;She has a J.D. from Georgetown University.
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -5074,7 +5074,7 @@
 	; -- (3) 
 	;học sinh tiểu học -- (4) [-in school/college] [countable] (British English) a child who goes to junior school
 		;Sam is going to be a junior next year.
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 	;học sinh tiểu học -- (5) [countable] (North American English) a student in the year before the last year at high school or college
 		;compare sophomore
 		;Topics Education c1
@@ -5092,10 +5092,10 @@
 	; -- (3) 
 	;cơ sở -- (4) [-school/college] ​[only before noun] (British English) (of a school or part of a school) for children under the age of 11 or 13
 		;the junior section of the school
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 	;tiểu học -- (5) ​[only before noun] (North American English) connected with the year before the last year in a high school or college
 		;I spent my junior year in France.
-		;Topics Education-c1
+		;Topics EDUCATIOn-c1
 		;compare senior
 		;Word Origin
 	;;
@@ -5108,7 +5108,7 @@
 
 [-] junior high school		<-->	noun++B2	[220818][003]	./ˌdʒuːniə ˈhaɪ skuːl/-NAmE /ˌdʒuːniər ˈhaɪ skuːl/ [countable, uncountable] [240925] [241005]
 	;trường cho lớp sáu, đến chín ;trường trung học cơ sở -- (1) ​(in England and Wales) a school for children between the ages of 7 and 11
-		;Topics Education-b2 
+		;Topics EDUCATIOn-b2 
 	;;
 
 
@@ -5119,13 +5119,13 @@
 
 [-] junior school		<-->	noun++B2	[220818][002]	./ˈdʒuːniə skuːl/-NAmE /ˈdʒuːniər skuːl/ [countable, uncountable] [240925]
 	;trường tiểu học -- (1) ​(in England and Wales) a school for children between the ages of 7 and 11
-		;Topics Education-b2
+		;Topics EDUCATIOn-b2
 
 
 
 [-] K-12		<-->	adjective++C2	[220818][002]	./ˌkeɪ ˈtwelv/-NAmE /ˌkeɪ ˈtwelv/
 	;thuộc hệ thống trung học mười hai lớp -- (1) ​(in the US) relating to education from kindergarten (= the class that prepares children for school) to 12th grade
-		;Topics Education-c2
+		;Topics EDUCATIOn-c2
 	;;
 
 
@@ -5142,7 +5142,7 @@
 		;She teaches reading to students in kindergarten.
 		;She was still attending kindergarten at Assumption School.
 		;their plans for Hannah to start all-day kindergarten
-		;Topics Education-b2
+		;Topics EDUCATIOn-b2
 				;Oxford Collocations Dictionary
 				;adjective
 				;all-dayfull-dayhalf-day…
@@ -5162,7 +5162,7 @@
 
 
 
-[-] knowledge		<-->	noun++A2	[220818][001]	./ˈnɒlɪdʒ/-NAmE /ˈnɑːlɪdʒ/
+[-] knowledge		<-->	noun++A2	[220818][001]	./ˈnɒlɪdʒ/-NAmE /ˈnɑːlɪdʒ/===
 	;kiến thức -- [uncountable, singular] the information, understanding and skills that you gain through education or experience
 		;scientific/technical knowledge and skills
 		;intimate/first-hand/basic knowledge
