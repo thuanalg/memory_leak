@@ -5,9 +5,8 @@
 
 
 
-[-] reel		<-->	n++c2[--0]	./riːl/-NAmE /riːl/ [voa]
-	;một cuộn dây -- (1) ​enlarge image(especially British English)
-(also especially North American English spool) a round object around which you wind such things as thread, wire or film; a reel together with the film, wire, thread, etc. that is wound around it
+[-] reel		<-->	n++c2	[241006][001]	./riːl/-NAmE /riːl/ [voa]
+	;một cuộn dây -- (1) ​enlarge image(especially British English) (also especially North American English spool) a round object around which you wind such things as thread, wire or film; a reel together with the film, wire, thread, etc. that is wound around it
 		;The sewing basket and a box of cotton reels lay at her feet.
 		;a reel on a fishing rod
 		;reels of magnetic tape
@@ -63,7 +62,7 @@
 
 
 
-[-] pager		<-->	n++c2[--0]	./ˈpeɪdʒə(r)/-NAmE /ˈpeɪdʒər/ [voa]
+[-] pager		<-->	n++c2	[241006][001]	./ˈpeɪdʒə(r)/-NAmE /ˈpeɪdʒər/ [voa]
 	;máy nhắn tin -- (1) a small electronic device that you carry around with you and that shows a message or lets you know when somebody is trying to contact you, for example by making a sound
 		;For many doctors, pagers are still an important part of everyday life.
 		;Try to contact him on his pager.
@@ -102,8 +101,7 @@
 
 
 
-[-] emulate		<-->	verb++[--0]	./ˈemjuleɪt/
- /ˈemjuleɪt/ 
+[-] emulate		<-->	verb++	[241006][001]	./ˈemjuleɪt/-NAmE /ˈemjuleɪt/ 
 	;noi theo, bắt chước -- (1) emulate somebody/something (formal) to try to do something as well as somebody else because you admire them
 		;She hopes to emulate her sister's sporting achievements.
 	; -- (2) emulate something (computing) (of a computer program, etc.) to work in the same way as another computer, etc. and perform the same tasks
@@ -121,12 +119,13 @@
 
 
 
-[-] mahogany		<-->	verb++[--0]	.[orw.226]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] mahogany		<-->	n++	[241006][001]	./məˈhɒɡəni/-NAmE /məˈhɑːɡəni/
+[uncountable] [orw.226]
+	;màu đỏ gụ -- (1) the hard red-brown wood of a tropical tree, used for making furniture
+		;a mahogany table
+	; -- (2) a red-brown colour
+		;skin tanned to a deep mahogany
+		;Word Origin
 	;;
 
 
@@ -140,12 +139,21 @@
 
 
 
-[-] eternity		<-->	verb++[--0]	.[orw.226]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] eternity		<-->	n++	[241006][001]	./ɪˈtɜːnəti/-NAmE /ɪˈtɜːrnəti/ [orw.226]
+	; -- (1) [uncountable] time without end, especially life continuing without end after death
+		;There will be rich and poor for all eternity.
+		;They believed that their souls would be condemned to burn in hell for eternity.
+		;Extra Examples:
+		;I will love you for all eternity.
+		;This great work of art is now preserved for eternity.
+		;This mathematical pattern will repeat itself into eternity.
+	;sự vô tận, vĩnh hằng -- (2) an eternity [singular] (informal) a period of time that seems to be very long or to never end
+		;After what seemed like an eternity the nurse returned with the results of the test.
+		;Extra Examples:
+		;It seemed to take an eternity for us to get to the hospital.
+		;He seemed to stand there for an eternity.
+		;Topics Timec1
+		;Word Origin
 	;;
 
 
@@ -159,12 +167,28 @@
 
 
 
-[-] stench		<-->	verb++[--0]	.[orw.226]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] stench		<-->	n++	[241006][001]	./stentʃ/-NAmE /stentʃ/
+[singular] [orw.226]
+	;mùi hôi thối -- (1) a strong, very unpleasant smell
+		;synonym reek
+		;<< reek, stench, >>
+		;an overpowering stench of rotting fish
+		;(figurative) The stench of treachery hung in the air.
+		;Extra Examples:
+		;The stench of death hung heavily over the land.
+		;I caught the stench of fear from the duke and his men.
+		;She became aware of an awful stench.
+		;The stench of death and decay hung in the air.
+		;The stench of rotting fish filled the hut.
+				;Oxford Collocations Dictionary
+				;adjective
+				;overpoweringoverwhelmingpowerful…
+				;verb + stench
+				;be filled with
+				;preposition
+				;stench of
+		;See full entry
+		;Word Origin
 	;;
 
 
@@ -178,12 +202,10 @@
 
 
 
-[-] waxwork		<-->	verb++[--0]	.[orw.226]
-	;tượng sáp -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] waxwork		<-->	n++	[241006][001]	./ˈwækswɜːk/-NAmE /ˈwækswɜːrk/ [orw.226]
+	;tượng sáp -- (1) a model of a person that is made of wax
+	; -- (2) waxworks (plural waxworks) (especially British English) (North American English usually wax museum)
+		;a museum where you can see wax models of famous people
 	;;
 
 
@@ -197,12 +219,17 @@
 
 
 
-[-] embellish		<-->	verb++[--0]	.[orw.226]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] embellish		<-->	verb++	[241006][001]	./ɪmˈbelɪʃ/-NAmE /ɪmˈbelɪʃ/ (formal) [orw.226]
+	;trang trí -- (1) embellish something to make something more beautiful by adding decoration to it
+		;synonym decorate
+		;<< decorate, embellish, >>
+		;The huge carved door was embellished with brass door knockers.
+		;embellished with gold lettering/golden embroidery/jewellery/precious metal/sweeping chintz curtains
+	;thuê -- (2) embellish something to make a story more interesting by adding details that are not always true
+		;synonym embroider
+		;<< embroider, embellish, >>
+		;His account of his travels was embellished with details of famous people he met.
+		;Word Origin
 	;;
 
 
@@ -216,12 +243,67 @@
 
 
 
-[-] stride		<-->	verb++[--0]	.[orw.227]
-	; -- (1) 
+[-] stride		<-->	verb++	[241006][001]	./straɪd/-NAmE /straɪd/
+[intransitive], not used in the perfect tenses, [orw.227]
+	;sải bước -- (1) + adv./prep. to walk with long steps in a particular direction
+		;We strode across the snowy fields.
+		;She came striding along to meet me.
+		;Extra Examples:
+		;He strode off in search of a taxi.
+		;She strode purposefully towards the door.
+		;Andrew strode out briskly along the rocky track.
+		;He strode past her into the hall.
+		;She strode angrily into his office.
+		;The man strode confidently onto the stage.
+		;We could see her striding across the grass towards the house.
+				;Oxford Collocations Dictionary
+				;adverb
+				;brisklyquicklyconfidently…
+				;preposition
+				;acrossdownout of…
+				;phrases
+				;come striding
+		;See full entry
+		;Word Origin
+	;;
+
+
+
+
+[-] stride		<-->	n++	[241006][001]	./straɪd/-NAmE /straɪd/\ [orw.227]
+	;sự bước nhanh -- (1) one long step; the distance covered by a step
+		;synonym pace1
+		;He crossed the room in two strides.
+		;I was gaining on the other runners with every stride.
+		;Extra Examples:
+		;In one short stride he reached the window.
+		;First you'll need to measure the length of your stride.
+		;She lengthened her stride to try and keep up with him.
+		;She moved towards him in quick strides.
+				;Oxford Collocations Dictionary
+				;adjective
+				;longshortquick…
+				;verb + stride
+				;take
+				;preposition
+				;in a stride
+		;See full entry
 	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+	; -- (3) an improvement in the way something is developing
+		;We're making great strides in the search for a cure.
+		;Extra Examples:
+		;She's made enormous strides in English this term.
+		;We have made great strides in areas like employment and housing.
+				;Oxford Collocations Dictionary
+				;adjective
+				;bigconsiderableenormous…
+				;verb + stride
+				;make
+				;preposition
+				;strides in
+		;See full entry
+	; -- (4) ​strides [plural] (Australian English, informal) trousers
+		;Word Origin
 	;;
 
 
@@ -233,14 +315,16 @@
 
 
 
-
-
-[-] harmonize		<-->	verb++[--0]	.[orw.227]
-	; -- (1) 
+[-] harmonize		<-->	verb++	[241006][001]	./ˈhɑːmənaɪz/-NAmE /ˈhɑːrmənaɪz/ (British English also harmonise) [orw.227]
+	;hòa âm, hòa hợp -- (1) [intransitive] harmonize (with something) if two or more things harmonize with each other or one thing harmonizes with the other, the things go well together and produce an attractive result
+		;The new building does not harmonize with its surroundings.
+		;Which Bordeaux vintage will best harmonize with the lamb?
 	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+	; -- (3) [intransitive] harmonize (with somebody/something) to play or sing music that combines with the main tune to make a pleasant sound
+		;Sally sang the melody while I harmonized.
+		;The singers harmonize well.
+		;to harmonize with the lead singer
+		;Word Origin
 	;;
 
 
@@ -252,14 +336,18 @@
 
 
 
-
-
-[-] saw		<-->	verb++[--0]	.[orw.227]
-	; -- (1) 
+[-] saw		<-->	verb++	[241006][001]	./sɔː/-NAmE /sɔː/\ [orw.227]
+	;cưa -- (1) [intransitive, transitive] to use a saw to cut something
+		;The workmen sawed and hammered all day.
+		;+ adv./prep. He accidentally sawed through a cable.
+		;saw something (+ adv./prep.) She sawed the plank in half.
+		;see also whipsaw
+		;Extra Examples:
+		;She was still sawing away in the yard.
+		;He took out his pocket knife and sawed at the bolt.
+		;He was sawing through the trunk of the tree.
 	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+	; -- (3) past tense of see
 	;;
 
 
