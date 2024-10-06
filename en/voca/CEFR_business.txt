@@ -9,7 +9,7 @@
 	;phi truyền thống -- (2) (business) connected with advertising in the mass media
 		;They planned an advertising campaign with both above-the-line and social media components.
 		;compare below the line (2)
-		;Topics Business-c2
+		;Topics BUSINESs-C2
 	;;
 
 
@@ -28,7 +28,7 @@
 
 [-] accept		<-->	verb++A2	[221128][002]	./cef/ [t]
 	;chấp thuận -- (1) 
-		;Topics Business-a2
+		;Topics BUSINESs-A2
 	; -- (2) 
 	; -- (3) 
 	; -- (4) 
@@ -52,7 +52,7 @@
 
 [-] access provider		<-->	noun++C2	[220818][002]	./ˈækses prəvaɪdə(r)/-NAmE /ˈækses prəvaɪdər/ (also more frequent service provider) [t]
 	;nhà cung cấp internet -- (1) a business company that provides a service to customers, especially one that connects customers to the internet
-		;Topics Phones, email and the internetc2, Business-c2
+		;Topics Phones, email and the internetc2, BUSINESs-C2
 	;;
 
 
@@ -71,7 +71,7 @@
 
 [-] accountant		<-->	noun++B2	[221128][002]	./cef/
 	;kế toán viên -- (1) 
-		;Topics Jobsb2, Moneyb2, Business-b2
+		;Topics Jobsb2, Moneyb2, BUSINESs-B2
 	;;
 
 
@@ -97,7 +97,7 @@
 		;The group has announced its first overseas acquisition: a successful software company.
 		;The company has just made another acquisition.
 		;Wordfinder: acquisitionbidbrokercontractdealmergernegotiationofferproposaltakeover
-		;Topics Business-c1
+		;Topics BUSINESs-C1
 				;Oxford Collocations Dictionary
 				;adjective
 				;bigmajorsubstantial…
@@ -138,7 +138,7 @@
 		;You can put your own small ads in local papers.
 		;He was scanning the classified ads.
 		;You may have seen the full-page ads that we ran in the New York Times.
-		;Topics TV, radio and newsb1, Business-b1
+		;Topics TV, radio and newsb1, BUSINESs-B1
 		;Word Origin
 	;;
 
@@ -167,7 +167,7 @@
 		;A large part of his job involves routine administration.
 		;They are gradually doing away with centralized bureaucratic administration.
 		;Until now, she has been entirely responsible for the administration of the school.
-		;Topics Business-b2
+		;Topics BUSINESs-B2
 				;Oxford Collocations Dictionary
 				;adjective
 				;effectiveefficientgood…
@@ -200,7 +200,7 @@
 	;liên quan đến quản trị -- (1) connected with organizing the work of a business or an institution
 		;an administrative job/assistant/error
 		;Wordfinder: administrativefreelancemanagerialmanualpart-timeseasonalskilledtemporaryvoluntarywork
-		;Topics Business-c1, Jobsc1
+		;Topics BUSINESs-C1, Jobsc1
 				;Oxford Collocations Dictionary
 				;Administrative is used with these nouns:
 				;apparatusarrangementassistant…
@@ -224,7 +224,7 @@
 		;He is known as a good manager and an efficient administrator.
 		;He worked for 20 years as an administrator for the National Savings bank.
 		;She was one of the most senior administrators of the exchange programme.
-		;Topics Jobsc1, Business-c1
+		;Topics Jobsc1, BUSINESs-C1
 				;Oxford Collocations Dictionary
 				;Administrator is used after these nouns:
 				;artcollegedatabase…
@@ -259,7 +259,7 @@
 		;The advert appeared in ‘The Guardian’.
 		;The paper ran our advert last week.
 		;an advert for jeans
-		;Topics TV, radio and newsa2, Business-a2
+		;Topics TV, radio and newsa2, BUSINESs-A2
 	; -- (2) ​advert for something an example of something that shows its good qualities
 		;Word Origin
 	;;
@@ -292,7 +292,7 @@
 		;These products have been advertised very heavily.
 		;financial advisers advertising their services in the press
 		;If you aren't advertising this service already, it's something to consider.
-		;Topics Business-a2
+		;Topics BUSINESs-A2
 				;Oxford Collocations Dictionary
 				;adverb
 				;heavilywidelylocally…
@@ -322,7 +322,7 @@
 
 
 
-[-] advertisement		<-->	noun++A2	[221128][002]	./ədˈvɜːtɪsmənt/-NAmE /ˌædvərˈtaɪzmənt/ [countable] [t]
+[-] advertisement		<-->	noun++A2	[221128][002]	./cef/ [countable] [t]
 	;việc quảng cáo, mẫu quảng cáo ;một thông báo, film, ... để quảng cáo -- (1) [countable]
 (also informal ad)
 (also British English, informal advert) a notice, picture or film telling people about a product, job or service
@@ -336,7 +336,7 @@
 		;Extra Examples:
 		;We placed advertisements in a number of national newspapers.
 		;She ran a full-page advertisement on the back page of the newspaper.
-		;Topics TV, radio and newsa2, Business-a2
+		;Topics TV, radio and newsa2, BUSINESs-A2
 				;Oxford Collocations Dictionary
 				;adjective
 				;gooddiscreetmisleading…
@@ -369,7 +369,7 @@
 
 [-] advertorial		<-->	noun++C2	[220818][001]	./ˌædvəˈtɔːriəl/-NAmE /ˌædvərˈtɔːriəl/
 	;quảng cáo báo giấy -- (1) an advertisement that is designed to look like an article in the newspaper or magazine in which it appears
-		;Topics Business-c2, TV, radio and newsc2
+		;Topics BUSINESs-C2, TV, radio and newsc2
 		;Word Origin
 	;;
 
@@ -400,7 +400,7 @@
 	;có thể trụ được, sống sót, duy trì -- (2) ​(of a business, etc.) having enough money to pay debts; able to survive
 		;They will have to borrow £10 million next year, just to stay afloat.
 		;They had to sell their assets to keep the business afloat.
-		;Topics Business-c2
+		;Topics BUSINESs-C2
 				;Oxford Collocations Dictionary
 				;verbs
 				;keepstaykeep something…
@@ -424,18 +424,23 @@
 
 
 
-[-] agency		<-->	noun++B2	[221128][001]	./ˈeɪdʒənsi/-NAmE /ˈeɪdʒənsi/
-	;công ty -- a business or an organization that provides a particular service especially when representing other businesses or organizations
+[-] agency		<-->	noun++B2	[221128][002]	./cef/ (plural agencies) [t]
+	;công ty -- (1)  a business or an organization that provides a particular service especially when representing other businesses or organizations
 		;She works for an advertising agency.
 		;through an agency He managed to find a job through an agency.
-		;SEE ALSO credit agency, dating agency, employment agency, news agency, travel agency
-		;Extra Examples
-		;TOPICS BUSINESsB2
-		;Oxford Collocations Dictionary	
-			;adjective
-				;official, federal, government…
-			;preposition
-				;through an/the agency
+		;see also aid agency, credit agency, dating agency, employment agency, news agency, travel agency
+		;Extra Examples:
+		;I've signed up with a temping agency.
+		;Details of the problem will be logged by the Help Desk staff who will then contact the appropriate agency.
+		;Topics BUSINESs-B2
+				;Oxford Collocations Dictionary
+				;adjective
+				;officialfederalgovernment…
+				;preposition
+				;through an/​the agency
+		;See full entry
+	; -- (2) 
+	;;
 
 
 
@@ -446,25 +451,40 @@
 
 
 
-[-] agent		<-->	noun++B1	[221128][001]	./ˈeɪdʒənt/-NAmE /ˈeɪdʒənt/
-	;nhân viên công ty -- a person whose job is to act for, or manage the affairs of, other people in business, politics, etc.
+
+
+
+
+
+[-] agent		<-->	noun++B1	[221128][002]	./cef/ [t]
+	;nhân viên -- (1) a person whose job is to act for, or manage the affairs of, other people in business, politics, etc.
 		;Our agent in New York deals with all US sales.
 		;If you're going to rent out your house while you're abroad, you'll need someone to act as your agent here.
 		;an insurance agent
-		;Typical agent's fees are around 6 percent of the sale price.
+		;Typical agent's fees are around 6 per cent of the sale price.
 		;Wordfinder: accountantagentauditorbusinessmanCEOchairmanconsultantentrepreneurexecutivemanager
 		;Wordfinder: agentbusinesscompanycompetitorcustomerdirectoremployfranchisemanagershareholder
 		;Wordfinder: accountant, agent, auditor, CEO, chairman, consultant, entrepreneur, executive, manager
-		;SEE ALSO estate agent, extension agent, land agent, real estate agent, station agent, travel agent
-		;Extra Examples
-		;TOPICS JobsB1, BUSINESsB1
-		;Oxford Collocations Dictionary
-			;adjective
-				;booking, ticket, travel…
-			;verb + agent
-				;employ, have, use…
-			;preposition
-				;through an agent, agent for
+		;see also estate agent, extension agent, land agent, real estate agent, station agent, travel agent
+		;Extra Examples:
+		;I have an agent who deals with all my contracts.
+		;The company has developed sales through local agents in key markets.
+		;an agent for a shipping company
+		;Topics Jobsb1, BUSINESs-B1
+				;Oxford Collocations Dictionary
+				;adjective
+				;bookingtickettravel…
+				;verb + agent
+				;employhaveuse…
+				;preposition
+				;through an agentagent for
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	; -- (6) 
+	;;
 
 
 
@@ -475,13 +495,25 @@
 
 
 
-[-] agile		<-->	adjective++C2	[220818][003]	./d/ [240115] [240302]
-	;phương pháp quản lý bằng cách chia nhỏ -- (business) used to describe a way of managing projects in which work is divided into a series of short tasks, with regular breaks to review the work and adapt the plans
+
+
+
+
+
+[-] agile		<-->	adjective++C2	[220818][003]	./d/ [240115] [240302] [t]
+	;linh hoạt -- (1) able to move quickly and easily
+		;synonym nimble
+		;<< nimble, agile, >>
+		;a strong and agile athlete
+	; -- (2) 
+	;linh hoạt -- (3) (business) used to describe a way of managing projects in which work is divided into a series of short tasks, with regular breaks to review the work and adapt the plans
 		;Agile methods replace high-level design with frequent redesign.
-		;TOPICS BUSINESsC2	
-	;phương pháp quản lý chú trọng đến mục đích cuối cùng -- (business) used to describe a way of working in which the time and place of work, and the roles that people carry out, can all be changed according to need, and the focus is on the goals to be achieved, rather than the exact methods used
+		;Topics Businessc2
+	;linh hoạt -- (4) ​(business) used to describe a way of working in which the time and place of work, and the roles that people carry out, can all be changed according to need, and the focus is on the goals to be achieved, rather than the exact methods used
 		;Agile working is all about creating a flexible and productive environment.
-		;TOPICS BUSINESsC2
+		;Topics BUSINESs-C2
+		;Word Origin
+	;;
 
 
 
@@ -492,31 +524,18 @@
 
 
 
-[-] agreement		<-->	noun++B1	[221128][001]	./əˈɡriːmənt/-NAmE /əˈɡriːmənt/
- 	;sự đồng ý, một thoả thuận -- [countable] an arrangement, a promise or a contract made with somebody
-		;an international peace agreement
-		;The agreement (= the document recording the agreement) was signed during a meeting at the UN.
-		;agreement with somebody They have entered into a free trade agreement with Australia.
-		;agreement between A and B An agreement was finally reached between management and employees.
-		;agreement to do something They had an agreement never to talk about work at home.
-		;They had made a verbal agreement to sell.
-		;under an agreement The software is provided under a license agreement and may not be copied without permission.
-		;The specific terms of the agreement have not been disclosed.
-		;The documents are covered by a confidentiality agreement.
-		;Wordfinder: agreement, armistice, ceasefire, disengage, negotiate, peace, reparations, surrender, treaty, truce
-		;Wordfinder: agreement, binding, certificate, clause, deed, document, draft, draw up, subsection, witness,
-		;SEE ALSO gentleman’s agreement, prenuptial agreement
-		;Extra Examples
-		;TOPICS Discussion and agreementB1, War and conflictB1, Law and justiceB1, BUSINESsB1
-		;Oxford Collocations Dictionary
-			;adjective
-				;draft, formal, signed…
-			;verb + agreement
-				;negotiate, work out, conclude…
-			;preposition
-				;in an/the agreement, under an/the agreement, agreement between…
-			;phrases
-				;breach of agreement, the terms of the agreement
+
+
+
+
+
+[-] agreement		<-->	noun++B1	[221128][002]	./cef/
+ 	;sự đồng ý, một thoả thuận , hiệp ước, hợp đồng -- (1) 
+		;Topics Discussion and agreementb1, War and conflictb1, Law and justiceb1, BUSINESs-B1
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	;;
 
 
 
@@ -527,22 +546,34 @@
 
 
 
-[-] analyst		<-->	noun++B2	[221128][001]	./ˈænəlɪst/-NAmE /ˈænəlɪst/
-	;nhà phân tích -- a person whose job involves examining facts or materials in order to give an opinion on them
+
+
+
+
+
+[-] analyst		<-->	noun++B2	[221128][002]	./cef/ [t]
+	;nhà phân tích -- (1) a person whose job involves examining facts or materials in order to give an opinion on them
 		;a political/financial analyst
 		;a food/market analyst
 		;He's a senior research analyst at Deutsche Bank.
 		;analysts expect/predict…
 		;City analysts forecast huge profits this year.
 		;according to an analyst According to music industry analysts, music downloads are set to decline by as much as 30 per cent this year.
-		;SEE ALSO quantitative analyst, systems analyst
-		;Extra Examples
-		;TOPICS JobsB2, BUSINESsB2
-		;Oxford Collocations Dictionary
-			;adjective
-				;leading, principal, senior…
-			;preposition
-				;analyst of
+		;see also quantitative analyst, systems analyst
+		;Extra Examples:
+		;a leading business analyst
+		;She's an investment analyst with a big City firm.
+		;This view is backed up by several independent political analysts in Washington.
+		;Topics Jobsb2, BUSINESs-B2
+				;Oxford Collocations Dictionary
+				;adjective
+				;leadingprincipalsenior…
+				;preposition
+				;analyst of
+		;See full entry
+	; -- (2) ​(also psychoanalyst) a person who treats patients using psychoanalysis
+		;Word Origin
+	;;
 
 
 
@@ -553,14 +584,21 @@
 
 
 
-[-] angel		<-->	noun++C2	[220818][002]	./ˈeɪndʒl/-NAmE /ˈeɪndʒl/ [240115]
+
+
+
+
+
+[-] angel		<-->	noun++C2	[220818][003]	./cef/ [240115] [t]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
-	;nhà hỗ/bảo trợ, đầu tư tiền cho công ty -- (4) (also angel investor, business angel) a person who supports a business by investing money in it, especially somebody who supports a new small business with their own money
+	;nhà tài trợ -- (4) (also angel investor, business angel) a person who supports a business by investing money in it, especially somebody who supports a new small business with their own money
 		;When will the angels get their money back?
 		;They started the business with the help of $2 million supplied by angel investors.
-		;TOPICS BUSINESsC2
+		;Topics BUSINESs-C2
+		;Word Origin
+	;;
 
 
 
@@ -571,9 +609,15 @@
 
 
 
-[-] any other business		<-->	idiom++C2	[220818][001]	./ˌeɪ əʊ ˈbiː/-NAmE /ˌeɪ əʊ ˈbiː/
-	;một thứ bàn mãi không xong -- any other business (the things that are discussed at the end of an official meeting that are not on the rest of the agenda)
+
+
+
+
+
+[-] any other business		<-->	idiom++C2	[220818][002]	./ˌeɪ əʊ ˈbiː/-NAmE /ˌeɪ əʊ ˈbiː/ [t]
+	;một thứ bàn mãi không xong -- (1) any other business (the things that are discussed at the end of an official meeting that are not on the rest of the agenda)
 		;TOPICS Working lifeC2
+	;;
 
 
 
@@ -584,23 +628,39 @@
 
 
 
-[-] approach		<-->	verb++B2	[221128][001]	./d/\
-	;đề xuất, bảo làm -- (offer/ask) [transitive] to speak to somebody about something, especially to ask them for something or to offer to do something
+
+
+
+
+
+[-] approach		<-->	verb++B2	[221128][002]	./d/\ [t]
+	; -- (1) 
+	;mời -- (2) [-offer/ask] [transitive] to speak to somebody about something, especially to ask them for something or to offer to do something
 		;approach somebody We have been approached by a number of companies that are interested in our product.
 		;I'd like to ask his opinion but I find him difficult to approach (= not easy to talk to in a friendly way).
 		;approach somebody for something She was often approached for help and advice.
 		;approach somebody about something We have approached the company about the possibility of a merger.
 		;approach somebody about doing something Have you approached John about organizing a concert?
 		;approach somebody to do something She was approached to take part in the event.
-		;Extra Examples
-		;TOPICS BUSINESsB2
-		;Oxford Collocations Dictionary	
-			;adverb
+		;Extra Examples:
+		;It's best to approach her directly.
+		;She approached the bank for a loan.
+		;Topics BUSINESs-B2
+				;Oxford Collocations Dictionary
+				;adverb
 				;directly
-			;verb + approach
-				;be easy to, be difficult to
-			;preposition
-				;about, for
+				;verb + approach
+				;be easy tobe difficult to
+				;preposition
+				;aboutfor
+		;See full entry
+	; -- (3) 
+	;giải quyết, tiếp cận -- (4) [-problem/task] [transitive] approach something to start dealing with a problem, task, etc. in a particular way
+		;to approach a subject/matter/task/question
+		;What's the best way to approach this problem?
+		;The issues should be approached with caution.
+		;Word Origin
+	;;
 
 
 
@@ -611,22 +671,54 @@
 
 
 
-[-] assemble		<-->	verb++C1	[221128][001]	./cef/
-	;xắp đặt, lắp ghép -- [transitive] assemble something: to fit together all the separate parts of something, for example a piece of furniture
+
+
+
+
+
+[-] assemble		<-->	verb++C1	[221128][002]	./cef/ [t]
+	; -- (1) [intransitive, transitive] to come together as a group; to bring people or things together as a group
+		;All the students were asked to assemble in the main hall.
+		;She then addressed the assembled company (= all the people there).
+		;assemble something to assemble evidence/data
+		;The manager has assembled a world-class team.
+		;He tried to assemble his thoughts.
+		;Extra Examples:
+		;We had assembled for the first rehearsal.
+		;the force that permits atoms to assemble into molecules
+		;The French began to assemble an army.
+		;a hastily assembled force of warriors
+				;Oxford Collocations Dictionary
+				;adverb
+				;carefullyhastilyquickly…
+				;verb + assemble
+				;begin tomanage tobe easy to…
+				;preposition
+				;forinto
+				;phrases
+				;fully assembledpartially assembled
+		;See full entry
+	;lắp ráp -- (2)  [transitive] assemble something to fit together all the separate parts of something, for example a piece of furniture
 		;The shelves are easy to assemble.
-		;OPPOSITE disassemble
-		;Synonyms build;build, construct, assemble, erect, put something up
-		;Extra Examples
-		;TOPICS BUSINESsC1, BuildingsC1
-		;Oxford Collocations Dictionary	
-			;adverb
-				;carefully, hastily, quickly…
-			;verb + assemble
-				;begin to, manage to, be easy to…
-			;preposition
-				;for, into
-			;phrases
-				;fully assembled, partially assembled
+		;opposite disassemble
+		;Synonyms build: construct ▪ assemble ▪ erect ▪ put something up
+		;<< build, construct ▪ assemble ▪ erect ▪ put something up, >>
+		;Extra Examples:
+		;The company assembles vehicles for Renault and Toyota.
+		;The shelves are available in kit form or fully assembled.
+		;Topics BUSINESs-C1, Buildingsc1
+				;Oxford Collocations Dictionary
+				;adverb
+				;carefullyhastilyquickly…
+				;verb + assemble
+				;begin tomanage tobe easy to…
+				;preposition
+				;forinto
+				;phrases
+				;fully assembledpartially assembled
+		;See full entry
+		;Word Origin
+	;;
 
 
 
@@ -637,19 +729,36 @@
 
 
 
-[-] assembly		<-->	noun++C1	[221128][001]	./cef/
-	;sự xắp đặt, lắp ghép -- [uncountable] the process of putting together the parts of something such as a vehicle or piece of furniture
+
+
+
+
+
+[-] assembly		<-->	noun++C1	[221128][002]	./cef/ (plural assemblies) [t]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;lắp ráp -- (4) [uncountable] the process of putting together the parts of something such as a vehicle or piece of furniture
 		;Putting the bookcase together should be a simple assembly job.
 		;a car assembly plant
 		;the correct assembly of the parts
-		;TOPICS BUSINESsC1
-		;Oxford Collocations Dictionary
-			;adjective
-				;easy, final
-			;verb + assembly
+		;Topics BUSINESs-C1
+		;Extra Examples:
+		;Some assembly is required.
+		;The company has twenty assembly plants in Europe.
+		;This factory deals with final assembly and testing.
+		;furniture designed for home assembly
+		;Some assembly of the equipment is required.
+				;Oxford Collocations Dictionary
+				;adjective
+				;easyfinal
+				;verb + assembly
 				;require
-			;assembly + noun
-				;line, area, plant…
+				;assembly + noun
+				;lineareaplant…
+		;See full entry
+		;Word Origin
+	;;
 
 
 
@@ -660,10 +769,16 @@
 
 
 
-[-] assembly line		<-->	noun++C1	[221128][001]	./əˈsembli laɪn/-NAmE /əˈsembli laɪn/
-	;dây chuyền lắp ráp -- (also production line) a line of workers and machines in a factory, along which a product passes, having parts made, put together or checked at each stage until the product is finished
+
+
+
+
+
+[-] assembly line		<-->	noun++C1	[221128][002]	./əˈsembli laɪn/-NAmE /əˈsembli laɪn/ (also production line) [t]
+	;dây chuyền lắp ráp -- (1) a line of workers and machines in a factory, along which a product passes, having parts made, put together or checked at each stage until the product is finished
 		;workers on the assembly line
-		;TOPICS Transport by car or lorryC1, BUSINESsC1
+		;Topics Transport by car or lorryc1, BUSINESs-C1
+	;;
 
 
 
@@ -677,16 +792,27 @@
 
 
 
-[-] associate		<-->	noun++C1	[221128][001]	./əˈsəʊsiət/, /əˈsəʊʃiət/-NAmE /əˈsəʊsiət/, /əˈsəʊʃiət/
-	;đồng nghiệp, đối tác làm việc -- a person that you work with, do business with or spend a lot of time with
+
+
+
+
+
+[-] associate		<-->	noun++C1	[221128][002]	./əˈsəʊsiət/,  /əˈsəʊʃiət/
+ /əˈsəʊsiət/,  /əˈsəʊʃiət/*\ [t]
+	;đồng nghiệp, đối tác làm việc -- (1) a person that you work with, do business with or spend a lot of time with
 		;business associates
 		;a close political associate of
 		;The company is called Landor Associates.
 		;He was known to be one of the convicted man’s associates.
-		;TOPICS BUSINESsC1
-		;Oxford Collocations Dictionary
-			;adjective
-				;close, former, old…
+		;Topics BUSINESs-C1
+				;Oxford Collocations Dictionary
+				;adjective
+				;closeformerold…
+		;See full entry
+	; -- (2) 
+	; -- (3) Associate (US English) a person who has an Associate’s degree (= one that is given after completing two years of study at a junior college)
+		;Word Origin
+	;;
 
 
 
@@ -697,11 +823,44 @@
 
 
 
-[-] attorney		<-->	noun++C1	[221128][001]	./əˈtɜːni/-NAmE /əˈtɜːrni/
-	;người được uỷ nhiệm -- a person who is given the power to act for another person in business or legal matters
+
+
+
+
+
+[-] attorney		<-->	noun++C1	[221128][002]	./cef/ [t]
+	; -- (1)  (especially US English) a lawyer, especially one who can act for somebody in court
+		;The prosecuting attorney began with a short opening statement.
+		;More About lawyers
+		;see also district attorney
+		;Extra Examples:
+		;Acting on the advice of his attorney, he remained silent.
+		;Consult an attorney whenever you make a major decision affecting your estate.
+		;Her attorney filed a motion for an injunction.
+		;Attorneys argued that prosecutors never proved who sent the email.
+		;He fired his court-appointed attorney and began representing himself.
+		;Army attorneys argued for a general discharge.
+		;He hired a high-profile defense attorney to represent him.
+		;He is a practicing family law attorney with years of experience.
+		;Your attorney may advise you to accept a cash settlement.
+		;an attorney specializing in entertainment law
+		;He had a meeting with a leading Washington criminal defence attorney.
+		;Topics Jobsc1, Law and justicec1
+				;Oxford Collocations Dictionary
+				;adjective
+				;defenseprosecutingdistrict…
+				;verb + attorney
+				;hireretainappoint…
+				;attorney + verb
+				;represent somebodypractice somethingspecialize in something…
+		;See full entry
+	;người đại diện pháp luật, luật sư đại diện -- (2) a person who is given the power to act for another person in business or legal matters
 		;She was made her father's attorney when he became ill.
-		;SEE ALSO power of attorney
-		;TOPICS BUSINESsC1	
+		;see also power of attorney
+		;Topics BUSINESs-C1
+	; -- (3) (South African English) a solicitor (= a lawyer who prepares legal documents and advises on legal matters)
+		;Word Origin;
+	;;
 
 
 
@@ -714,16 +873,23 @@
 
 
 
-[-] audit		<-->	noun++C1	[221128][003]	./ˈɔːdɪt/-NAmE /ˈɔːdɪt/ [240403]
-	;cuộc kiểm toán -- [countable, uncountable] an official examination of business and financial records to see that they are true and correct
+
+
+
+
+
+[-] audit		<-->	noun++C1	[221128][003]	./cef/ [countable, uncountable] [240403] [t]
+	;cuộc kiểm toán -- (1) an official examination of business and financial records to see that they are true and correct
 		;an annual audit
 		;a tax audit
 		;preparing the accounts for audit
-		;TOPICS MoneyC1, BUSINESsC1
-	;sự thẩm định -- an official examination of the quality or standard of something
+		;Topics Moneyc1, BUSINESs-C1
+	;sự thẩm định -- (2) an official examination of the quality or standard of something
 		;an environmental audit
-		;SEE ALSO green audit
-		;TOPICS BUSINESsC1
+		;see also green audit
+		;Topics BUSINESs-C1
+		;Word Origin
+	;;
 
 
 
@@ -734,11 +900,21 @@
 
 
 
-[-] audit		<-->	verb++C1	[221128][003]	./ˈɔːdɪt/-NAmE /ˈɔːdɪt/\ [240403]
-	;thẩm định, kiểm tra -- audit something to officially examine the financial accounts of a company
+
+
+
+
+
+[-] audit		<-->	verb++C1	[221128][003]	./ˈɔːdɪt/-NAmE /ˈɔːdɪt/\ [240403] [t]
+	;thẩm định, kiểm tra -- (1) audit something to officially examine the financial accounts of a company
 		;We have just had our accounts audited.
 		;The National Audit office is responsible for auditing the accounts of a wide range of bodies.
-		;TOPICS MoneyC1, BUSINESsC1
+		;Topics Moneyc1, BUSINESs-C1
+	; -- (2) 
+	; -- (3) audit something (North American English) to attend a course at college or university but without taking any exams or receiving credit
+		;She audited classes at the University of California.
+		;Word Origin
+	;;
 
 
 
@@ -749,23 +925,34 @@
 
 
 
-[-] auditor		<-->	noun++C2	[220818][001]	./ˈɔːdɪtə(r)/-NAmE /ˈɔːdɪtər/
-	;nhân viên kiểm toán -- a person who officially examines the business and financial records of a company
+
+
+
+
+
+[-] auditor		<-->	noun++C2	[220818][002]	./ˈɔːdɪtə(r)/-NAmE /ˈɔːdɪtər/ [t]
+	;nhân viên kiểm toán -- (1) a person who officially examines the business and financial records of a company
 		;The auditors’ report will be submitted to the directors at the end of the year.
 		;She is one of the nation’s leading auditors of public companies.
 		;The council and district auditors have agreed that the deals were unlawful.
-		;Wordfinder
+		;Wordfinder: accountantagentauditorbusinessmanCEOchairmanconsultantentrepreneurexecutivemanager
 		;Wordfinder: accountant, agent, auditor, CEO, chairman, consultant, entrepreneur, executive, manager
-		;TOPICS JobsC2, BUSINESsC2
-		;Oxford Collocations Dictionary
-			;adjective
-				;company, company’s, internal…
-			;verb + auditor
-				;appoint, hire
-			;preposition
-				;auditor of, auditor to
-			;phrases
+		;Topics Jobsc2, BUSINESs-C2
+				;Oxford Collocations Dictionary
+				;adjective
+				;companycompany’sinternal…
+				;verb + auditor
+				;appointhire
+				;preposition
+				;auditor ofauditor to
+				;phrases
 				;an auditors’ report
+		;See full entry
+	; -- (2) 
+	; -- (3) formal) a person who listens
+		;His auditors had to listen carefully to understand what he was saying.
+		;Word Origin
+	;;
 
 
 
@@ -776,10 +963,21 @@
 
 
 
-[-] audit trail		<-->	noun++C2	[220818][002]	./ˈɔːdɪt treɪl/-NAmE /ˈɔːdɪt treɪl/ [231109]
-	;thông tin chi tiết kiểm toán -- the detailed record of information on paper or on a computer that can be examined to prove what happened, for example what pieces of business were done and what decisions were made
+
+
+
+
+
+[-] audit trail		<-->	noun++C2	[220818][002]	./ˈɔːdɪt treɪl/-NAmE /ˈɔːdɪt treɪl/ [231109] [t]
+	;thông tin chi tiết kiểm toán -- (1) the detailed record of information on paper or on a computer that can be examined to prove what happened, for example what pieces of business were done and what decisions were made
 		;There is an audit trail by way of tax invoices which VAT auditors can follow.
-		;TOPICS BUSINESsC2
+		;Topics BUSINESs-C2
+	;;
+
+
+
+
+
 
 
 
@@ -1645,7 +1843,7 @@
 
 
 
-[-] business-to-business		<-->	adjective++C2	[220818][001]	./ˌbɪznəs tə ˈbɪznəs/-NAmE /ˌbɪznəs tə ˈbɪznəs/
+[-] BUSINESs-to-business		<-->	adjective++C2	[220818][001]	./ˌbɪznəs tə ˈbɪznəs/-NAmE /ˌbɪznəs tə ˈbɪznəs/
 	;kinh doanh doanh nghiệp với doanh nghiệp -- [usually before noun] (abbreviation B2B) done between one business and another rather than between a business and its ordinary customers
 		;business-to-business transactions
 		;TOPICS BUSINESsC2
@@ -2086,7 +2284,7 @@
 		;He started work as a railway booking clerk.
 		;an articled clerk working for a large law firm
 		;(especially British English) a bank clerk (= who deals with customers in a bank)
-		;TOPICS JobsB2, Business-B2
+		;TOPICS JobsB2, BUSINESs-B2
 			;Oxford Collocations Dictionary
 			;adjective
 				;chiefseniorassistant…
@@ -4129,7 +4327,7 @@
 		;TOPICS Transport by waterC2, War and conflictC2
 	;sản phẩm chiến lược -- (2) [usually singular] the most important product, service, building, etc. that an organization owns or produces
 		;The company is opening a new flagship store in London.
-		;TOPICS Business-C2
+		;TOPICS BUSINESs-C2
 
 
 
@@ -4527,7 +4725,7 @@
 [-] giveaway		<-->	noun++C2	[220818][002]	./ˈɡɪvəweɪ/-NAmE /ˈɡɪvəweɪ/
 	;quà tặng -- (1) something that a company gives free, usually with something else that is for sale
 		;There's lots of amazing giveaways, from cinema tickets to film posters.
-		;TOPICS Business-C2
+		;TOPICS BUSINESs-C2
 		;<< present, gift, giveaway, >>
 	;tín hiệu, dấu hiệu, sự lộ ra ngoài -- (2) something that makes you guess the real truth about something/somebody
 		;She pretended she wasn't excited but the expression on her face was a dead (= obvious) giveaway.
@@ -4669,7 +4867,7 @@
 		;This acquisition will make them the largest newspaper group in the world.
 		;The Burton group announced its quarterly figures yesterday.
 		;Our group sales director attended the conference in Munich this year.
-		;Topics Business-b1
+		;Topics BUSINESs-B1
 				;Oxford Collocations Dictionary
 				;adjective
 				;biglargewide…
@@ -6785,7 +6983,7 @@
 	;chủ sở hữu -- (1) the owner of a business, a hotel, etc.
 		;newspaper proprietors
 		;Enquiries must be made to the proprietor.
-		;TOPICS Business-C2
+		;TOPICS BUSINESs-C2
 			;Oxford Collocations Dictionary
 			;adjective
 				;hotelnewspaperrestaurant…
