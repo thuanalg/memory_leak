@@ -8448,9 +8448,11 @@
 
 
 
-[-] working capital		<-->	noun++C2	[220818][001]	./ˌwɜːkɪŋ ˈkæpɪtl/-NAmE /ˌwɜːrkɪŋ ˈkæpɪtl/
-	;vốn -- [uncountable] (business) the money that is needed to run a business rather than the money that is used to buy buildings and equipment when starting the business
-		;COMPARE venture capital
+[-] working capital		<-->	noun++C2	[220818][002]	./ˌwɜːkɪŋ ˈkæpɪtl/-NAmE /ˌwɜːrkɪŋ ˈkæpɪtl/ [uncountable] (business) [t]
+	;vốn -- (1) the money that is needed to run a business rather than the money that is used to buy buildings and equipment when starting the business
+		;compare venture capital
+		;Topics BUSINESs-c2
+	;;
 
 
 
@@ -8460,10 +8462,67 @@
 
 
 
-[-] workshop		<-->	noun++B2	[221128][001]	./ˈwɜːkʃɒp/-NAmE /ˈwɜːrkʃɑːp/
-	;triển lãm, hội chợ việc làm -- a period of discussion and practical work on a particular subject, in which a group of people share their knowledge and experience 
+
+
+
+
+
+[-] workshop		<-->	noun++B2	[221128][002]	./ˈwɜːkʃɒp/-NAmE /ˈwɜːrkʃɑːp/ 
+	;buổi hội thảo -- (1) a period of discussion and practical work on a particular subject, in which a group of people share their knowledge and experience
 		;There will be the opportunity for practical theatre work in drama workshops.
 		;She was invited to participate in a poetry workshop on campus.
+		;Wordfinder
+		;conferencedelegateexhibitionname tagplenaryregisterspeakertalkvenueworkshop
+		;Collocations Education
+		;Extra Examples:
+		;There are two management development workshops per year.
+		;a workshop for teachers
+		;a workshop aimed at brainstorming new marketing ideas
+		;We will be running a series of workshops for students.
+		;The workshop covered a wide range of issues.
+		;The company holds regular skills development workshops.
+		;The Institute will host a special two-day workshop on new building materials.
+		;The Careers Advisory Service will be running a series of workshops for students.
+		;In the one-day workshop, she taught us the importance of breathing exercises.
+		;I learned these new skills at a workshop on databases.
+		;Everyone in Personnel has attended a media skills workshop.
+		;During the workshop, they each practised their part in the performance.
+				;Oxford Collocations Dictionary
+				;adjective
+				;day-longtwo-dayweekend…
+				;… of workshops
+				;series
+				;verb + workshop
+				;holdhostoffer…
+				;workshop + verb
+				;cover somethingexamine somethingfocus on something…
+				;workshop + noun
+				;discussionsessionleader…
+				;preposition
+				;at a/​the workshopduring a/​the workshopin a/​the workshop…
+				;phrases
+				;a member of a workshopa participant in a workshop
+		;See full entry
+	;nhà xưởng -- (2) a room or building in which things are made or repaired using tools or machines
+		;The craftsmen worked in a freezing cold workshop.
+		;a car repair workshop
+		;Synonyms factory: plant ▪ mill ▪ works ▪ yard ▪ workshop ▪ foundry
+		;<< factory, plant ▪ mill ▪ works ▪ yard ▪ workshop ▪ foundry, >>
+		;Extra Examples:
+		;He set up a workshop for his carving.
+		;The workshop employs 25 full-time workers.
+		;Topics BUSINESs-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;craftdesignpottery…
+				;verb + workshop
+				;set up
+				;workshop + verb
+				;employ somebody
+				;preposition
+				;in a/​the workshop
+		;See full entry
+	;;
 
 
 
@@ -8473,9 +8532,30 @@
 
 
 
-[-] yield		<-->	noun++C1	[221128][001]	./jiːld/-NAmE /jiːld/
-	;tổng sản lượng -- the total amount of crops, profits, etc. that are produced
-		;a high crop yield	
+
+
+
+
+[-] yield		<-->	noun++C1	[221128][002]	./cef/ [countable, uncountable] [t]
+	;tổng sản lượng -- (1) the total amount of crops, profits, etc. that are produced
+		;a high crop yield
+		;a reduction in milk yield
+		;This will give a yield of 10% on your investment.
+		;Wordfinder: blightcerealcropgenetically modifiedgrainharvestmonocultureorganicstapleyield
+		;Extra Examples:
+		;This method of cultivation produces higher yield.
+		;Yields are quite poor this year.
+		;savings products which offer high yields
+		;Topics BUSINESs-c1, Farmingc1, Moneyc1
+				;Oxford Collocations Dictionary
+				;adjective
+				;goodhighlow…
+				;verb + yield
+				;produce
+				;yield + verb
+				;jumprisedecline…
+		;See full entry
+	;;
 
 
 
@@ -8488,10 +8568,33 @@
 
 
 
-[-] yield		<-->	verb++C1	[221128][001]	./jiːld/-NAmE /jiːld/
-	;sản xuất, cung cấp -- yield something: to produce or provide something, for example a profit, result or crop
+
+
+
+
+
+[-] yield		<-->	verb++C1	[221128][002]	./cef/ [t]
+	;sản xuất, cung cấp -- (1) [transitive] yield something to produce or provide something, for example a profit, result or crop
 		;Higher-rate deposit accounts yield good returns.
 		;The research has yielded useful information.
+		;These trees no longer yield fruit.
+		;The project is expected to yield good returns in future.
+		;Topics BUSINESs-c1, Farmingc1, Moneyc1
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	;nhường đường -- (5) [intransitive] yield (to somebody/something) (North American English, Irish English) to allow vehicles on a bigger road to go first
+		;synonym give way
+		;Yield to oncoming traffic.
+		;a yield sign
+		;Topics Transport by car or lorry-c2
+		;Word Origin
+	;;
+
+
+
+
+
 
 
 
