@@ -1,7 +1,7 @@
 
 ------->>>>> [[[BUSINESS]]] 
 
-[-] above the line		<-->	idiom++C2	[220818][002]	./əˈbʌv/-NAmE /əˈbʌv/ [t]
+[-] above the line		<-->	idiom++C2	[220818][002]	./əˈbʌv/-NAmE /əˈbʌv/ [241006]
 	;ngoài dự kiến -- (1) (finance) connected with the income that a company receives and the costs it has to pay in its daily business, which affect the profit it makes
 		;All these costs are above the line and directly hit profits.
 		;compare below the line (1)
@@ -26,7 +26,7 @@
 
 
 
-[-] accept		<-->	verb++A2	[221128][002]	./cef/ [t]
+[-] accept		<-->	verb++A2	[221128][002]	./cef/ [241006]
 	;chấp thuận -- (1) 
 		;Topics BUSINESs-A2
 	; -- (2) 
@@ -50,7 +50,7 @@
 
 
 
-[-] access provider		<-->	noun++C2	[220818][002]	./ˈækses prəvaɪdə(r)/-NAmE /ˈækses prəvaɪdər/ (also more frequent service provider) [t]
+[-] access provider		<-->	noun++C2	[220818][002]	./ˈækses prəvaɪdə(r)/-NAmE /ˈækses prəvaɪdər/ (also more frequent service provider) [241006]
 	;nhà cung cấp internet -- (1) a business company that provides a service to customers, especially one that connects customers to the internet
 		;Topics Phones, email and the internetc2, BUSINESs-C2
 	;;
@@ -88,7 +88,7 @@
 
 
 
-[-] acquisition		<-->	noun++C1	[221128][002]	./ˌækwɪˈzɪʃn/-NAmE /ˌækwɪˈzɪʃn/ [230802] [t]
+[-] acquisition		<-->	noun++C1	[221128][002]	./ˌækwɪˈzɪʃn/-NAmE /ˌækwɪˈzɪʃn/ [230802] [241006]
 	; -- (1) 
 	; -- (2) 
 	;việc thâu tóm, vụ mua lại -- (3) [countable, uncountable] (business) a company, piece of land, etc. bought by somebody, especially another company; the act of buying it
@@ -122,7 +122,7 @@
 
 [-] ad		<-->	noun++B1	[221128][002]	./cef/ (British English also advert)
 (both informal)
-(also advertisement) [t]
+(also advertisement) [241006]
 	;quảng cáo -- (1) a notice, picture or film telling people about a product, job or service
 		;The TV ads were first run last year.
 		;They've produced an ad for a new chocolate bar.
@@ -156,7 +156,7 @@
 
 
 [-] administration		<-->	noun++B2	[221128][002]	./cef/
-	;công việc quản trị -- (1) (also informal admin) [t]
+	;công việc quản trị -- (1) (also informal admin) [241006]
 [uncountable] the activities that are done in order to plan, organize and run a business, school or other institution
 		;Administration costs are passed on to the customer.
 		;the day-to-day administration of a company
@@ -216,7 +216,7 @@
 
 
 
-[-] administrator		<-->	noun++C1	[221128][002]	./cef/ [t]
+[-] administrator		<-->	noun++C1	[221128][002]	./cef/ [241006]
 	;nhà quản trị -- (1) a person whose job is to manage and organize the public or business affairs of a company or an institution, or a person who works in an office dealing with records, accounts, etc.
 		;Such organizational decisions are made by the hospital administrators.
 		;For an application form, please contact our administrator.
@@ -246,7 +246,7 @@
 
 
 [-] advert		<-->	noun++A2	[221128][004]	./ˈædvɜːt/-NAmE /ˈædvɜːrt/ (British English, informal)
-(also advertisement British and North American English) [230905] [240918] [t]
+(also advertisement British and North American English) [230905] [240918] [241006]
 	;việc quảng cáo -- (1) ​(also ad informal) a notice, picture or film telling people about a product, job or service
 		;the adverts on television
 		;I fast-forwarded through the adverts.
@@ -278,7 +278,7 @@
 
 
 
-[-] advertise		<-->	verb++A2	[221128][003]	./cef/ [t]
+[-] advertise		<-->	verb++A2	[221128][003]	./cef/ [241006]
 	;quảng cáo -- (1) [intransitive, transitive] to tell the public about a product or a service in order to encourage people to buy or to use it
 		;If you want to attract customers you need to advertise.
 		;to advertise on TV/online/on social media
@@ -322,7 +322,7 @@
 
 
 
-[-] advertisement		<-->	noun++A2	[221128][002]	./cef/ [countable] [t]
+[-] advertisement		<-->	noun++A2	[221128][002]	./cef/ [countable] [241006]
 	;việc quảng cáo, mẫu quảng cáo ;một thông báo, film, ... để quảng cáo -- (1) [countable]
 (also informal ad)
 (also British English, informal advert) a notice, picture or film telling people about a product, job or service
@@ -386,7 +386,7 @@
 
 
 
-[-] afloat		<-->	adjective++C2	[220818][002]	./əˈfləʊt/-NAmE /əˈfləʊt/ [not before noun] [t]
+[-] afloat		<-->	adjective++C2	[220818][002]	./əˈfləʊt/-NAmE /əˈfləʊt/ [not before noun] [241006]
 	; -- (1) floating on water
 		;Somehow we kept the boat afloat.
 		;He could not swim and only a life jacket kept him afloat.
@@ -424,7 +424,7 @@
 
 
 
-[-] agency		<-->	noun++B2	[221128][002]	./cef/ (plural agencies) [t]
+[-] agency		<-->	noun++B2	[221128][002]	./cef/ (plural agencies) [241006]
 	;công ty -- (1)  a business or an organization that provides a particular service especially when representing other businesses or organizations
 		;She works for an advertising agency.
 		;through an agency He managed to find a job through an agency.
@@ -456,7 +456,7 @@
 
 
 
-[-] agent		<-->	noun++B1	[221128][002]	./cef/ [t]
+[-] agent		<-->	noun++B1	[221128][002]	./cef/ [241006]
 	;nhân viên -- (1) a person whose job is to act for, or manage the affairs of, other people in business, politics, etc.
 		;Our agent in New York deals with all US sales.
 		;If you're going to rent out your house while you're abroad, you'll need someone to act as your agent here.
@@ -500,7 +500,7 @@
 
 
 
-[-] agile		<-->	adjective++C2	[220818][003]	./d/ [240115] [240302] [t]
+[-] agile		<-->	adjective++C2	[220818][003]	./d/ [240115] [240302] [241006]
 	;linh hoạt -- (1) able to move quickly and easily
 		;synonym nimble
 		;<< nimble, agile, >>
@@ -551,7 +551,7 @@
 
 
 
-[-] analyst		<-->	noun++B2	[221128][002]	./cef/ [t]
+[-] analyst		<-->	noun++B2	[221128][002]	./cef/ [241006]
 	;nhà phân tích -- (1) a person whose job involves examining facts or materials in order to give an opinion on them
 		;a political/financial analyst
 		;a food/market analyst
@@ -589,7 +589,7 @@
 
 
 
-[-] angel		<-->	noun++C2	[220818][003]	./cef/ [240115] [t]
+[-] angel		<-->	noun++C2	[220818][003]	./cef/ [240115] [241006]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -614,7 +614,7 @@
 
 
 
-[-] any other business		<-->	idiom++C2	[220818][002]	./ˌeɪ əʊ ˈbiː/-NAmE /ˌeɪ əʊ ˈbiː/ [t]
+[-] any other business		<-->	idiom++C2	[220818][002]	./ˌeɪ əʊ ˈbiː/-NAmE /ˌeɪ əʊ ˈbiː/ [241006]
 	;một thứ bàn mãi không xong -- (1) any other business (the things that are discussed at the end of an official meeting that are not on the rest of the agenda)
 		;TOPICS Working lifeC2
 	;;
@@ -633,7 +633,7 @@
 
 
 
-[-] approach		<-->	verb++B2	[221128][002]	./d/\ [t]
+[-] approach		<-->	verb++B2	[221128][002]	./d/\ [241006]
 	; -- (1) 
 	;mời -- (2) [-offer/ask] [transitive] to speak to somebody about something, especially to ask them for something or to offer to do something
 		;approach somebody We have been approached by a number of companies that are interested in our product.
@@ -676,7 +676,7 @@
 
 
 
-[-] assemble		<-->	verb++C1	[221128][002]	./cef/ [t]
+[-] assemble		<-->	verb++C1	[221128][002]	./cef/ [241006]
 	; -- (1) [intransitive, transitive] to come together as a group; to bring people or things together as a group
 		;All the students were asked to assemble in the main hall.
 		;She then addressed the assembled company (= all the people there).
@@ -734,7 +734,7 @@
 
 
 
-[-] assembly		<-->	noun++C1	[221128][002]	./cef/ (plural assemblies) [t]
+[-] assembly		<-->	noun++C1	[221128][002]	./cef/ (plural assemblies) [241006]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -774,7 +774,7 @@
 
 
 
-[-] assembly line		<-->	noun++C1	[221128][002]	./əˈsembli laɪn/-NAmE /əˈsembli laɪn/ (also production line) [t]
+[-] assembly line		<-->	noun++C1	[221128][002]	./əˈsembli laɪn/-NAmE /əˈsembli laɪn/ (also production line) [241006]
 	;dây chuyền lắp ráp -- (1) a line of workers and machines in a factory, along which a product passes, having parts made, put together or checked at each stage until the product is finished
 		;workers on the assembly line
 		;Topics Transport by car or lorryc1, BUSINESs-C1
@@ -798,7 +798,7 @@
 
 
 [-] associate		<-->	noun++C1	[221128][002]	./əˈsəʊsiət/,  /əˈsəʊʃiət/
- /əˈsəʊsiət/,  /əˈsəʊʃiət/*\ [t]
+ /əˈsəʊsiət/,  /əˈsəʊʃiət/*\ [241006]
 	;đồng nghiệp, đối tác làm việc -- (1) a person that you work with, do business with or spend a lot of time with
 		;business associates
 		;a close political associate of
@@ -828,7 +828,7 @@
 
 
 
-[-] attorney		<-->	noun++C1	[221128][002]	./cef/ [t]
+[-] attorney		<-->	noun++C1	[221128][002]	./cef/ [241006]
 	; -- (1)  (especially US English) a lawyer, especially one who can act for somebody in court
 		;The prosecuting attorney began with a short opening statement.
 		;More About lawyers
@@ -878,7 +878,7 @@
 
 
 
-[-] audit		<-->	noun++C1	[221128][003]	./cef/ [countable, uncountable] [240403] [t]
+[-] audit		<-->	noun++C1	[221128][003]	./cef/ [countable, uncountable] [240403] [241006]
 	;cuộc kiểm toán -- (1) an official examination of business and financial records to see that they are true and correct
 		;an annual audit
 		;a tax audit
@@ -905,7 +905,7 @@
 
 
 
-[-] audit		<-->	verb++C1	[221128][003]	./ˈɔːdɪt/-NAmE /ˈɔːdɪt/\ [240403] [t]
+[-] audit		<-->	verb++C1	[221128][003]	./ˈɔːdɪt/-NAmE /ˈɔːdɪt/\ [240403] [241006]
 	;thẩm định, kiểm tra -- (1) audit something to officially examine the financial accounts of a company
 		;We have just had our accounts audited.
 		;The National Audit office is responsible for auditing the accounts of a wide range of bodies.
@@ -930,7 +930,7 @@
 
 
 
-[-] auditor		<-->	noun++C2	[220818][002]	./ˈɔːdɪtə(r)/-NAmE /ˈɔːdɪtər/ [t]
+[-] auditor		<-->	noun++C2	[220818][002]	./ˈɔːdɪtə(r)/-NAmE /ˈɔːdɪtər/ [241006]
 	;nhân viên kiểm toán -- (1) a person who officially examines the business and financial records of a company
 		;The auditors’ report will be submitted to the directors at the end of the year.
 		;She is one of the nation’s leading auditors of public companies.
@@ -968,7 +968,7 @@
 
 
 
-[-] audit trail		<-->	noun++C2	[220818][002]	./ˈɔːdɪt treɪl/-NAmE /ˈɔːdɪt treɪl/ [231109] [t]
+[-] audit trail		<-->	noun++C2	[220818][002]	./ˈɔːdɪt treɪl/-NAmE /ˈɔːdɪt treɪl/ [231109] [241006]
 	;thông tin chi tiết kiểm toán -- (1) the detailed record of information on paper or on a computer that can be examined to prove what happened, for example what pieces of business were done and what decisions were made
 		;There is an audit trail by way of tax invoices which VAT auditors can follow.
 		;Topics BUSINESs-C2
@@ -988,16 +988,26 @@
 
 
 
-[-] back		<-->	verb++B2	[221128][002]	./bæk/-NAmE /bæk/
-	;chống lưng, hỗ trợ -- (support) [transitive] back somebody/something to encourage somebody or give them help;to give financial support to somebody/something
+[-] back		<-->	verb++B2	[221128][002]	./cef/ [241006]
+	;chống lưng, hỗ trợ -- (1) [-support] [transitive] back somebody/something to encourage somebody or give them help; to give financial support to somebody/something
 		;Her parents backed her in her choice of career.
 		;The project to improve healthcare is backed (= given financial support) by the government.
 		;Extra Examples:
 		;a United Nations-backed peace plan
 		;His election bid was financially backed by a soft drinks company.
-		;TOPICS BUSINESsB2, MoneyB2
+		;Topics Business-b2, Moneyb2
 		;Oxford Collocations Dictionary
-			;strongly, fully, overwhelmingly…
+		;adverb
+		;stronglyfullyoverwhelmingly…
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;ở phía sau -- (8) [-be behind] [transitive, usually passive] to be located behind something
+		;be backed by something The house is backed by fields.
+		;Word Origin
+	;;
 
 
 
@@ -1008,11 +1018,17 @@
 
 
 
-[-] backer		<-->	noun++C1	[221128][001]	./ˈbækə(r)/-NAmE /ˈbækər/
-	;người chống lưng -- a person or company that gives support to somebody/something, especially financial support
+
+
+
+
+
+[-] backer		<-->	noun++C1	[221128][002]	./ˈbækə(r)/-NAmE /ˈbækər/ [241006]
+	;người chống lưng, hỗ trợ -- (1) a person or company that gives support to somebody/something, especially financial support
 		;The project receives its money from European backers.
 		;We need to find a new financial backer.
-		;TOPICS BUSINESsC1
+		;Topics Business-c1
+	;;
 
 
 
@@ -1023,22 +1039,40 @@
 
 
 
-[-] backing		<-->	noun++C1	[221128][001]	./ˈbækɪŋ/-NAmE /ˈbækɪŋ/
-	;việc chống lưng -- [uncountable] help and support from somebody to do something;financial support for something
-		;~ SYNONYM support
+
+
+
+
+
+[-] backing		<-->	noun++C1	[221128][002]	./ˈbækɪŋ/-NAmE /ˈbækɪŋ/ [241006]
+	;sự ủng hộ, hỗ trợ -- (1) [uncountable] help and support from somebody to do something; financial support for something
+		;synonym support
+		;<< support, backing, >>
 		;The police gave the proposals their full backing.
 		;They have won financial backing from the EU.
-		;Extra Examples
-		;TOPICS BUSINESsC1, MoneyC1
-		;Oxford Collocations Dictionary
-			;adjective
-				;solid, strong, full…
-			;verb + backing
-				;have, gain, get…
-			;backing + verb
-				;come from somebody/something
-			;preposition
-				;with the backing, without the backing, backing for…
+		;Extra Examples:
+		;The teachers have the full backing of the parents.
+		;They brought the legal action with the backing of their MP.
+		;They want backing for more research.
+		;Who's going to provide the backing?
+		;The museum has always received limited financial backing from the local authority.
+		;Topics Business-c1, Moneyc1
+				;Oxford Collocations Dictionary
+				;adjective
+				;solidstrongfull…
+				;verb + backing
+				;havegainget…
+				;backing + verb
+				;come from somebody/​something
+				;preposition
+				;with the backingwithout the backingbacking for…
+		;See full entry
+	; -- (2) 
+	; -- (3) [uncountable, countable, usually singular] (especially in pop music) music that goes with the main singer or tune
+		;a backing group/singer/track
+		;Who did the backing vocals on that track?
+		;Topics Musicc2
+	;;
 
 
 
@@ -1049,11 +1083,17 @@
 
 
 
-[-] back order		<-->	noun++C2	[220818][001]	./ˈbæk ɔːdə(r)/-NAmE /ˈbæk ɔːrdər/
-	;việc đặt hàng trước -- [countable, uncountable] an order for a product that is not currently available
+
+
+
+
+
+[-] back order		<-->	noun++C2	[220818][002]	./ˈbæk ɔːdə(r)/-NAmE /ˈbæk ɔːrdər/ [countable, uncountable] [241006]
+	;việc đặt hàng trước -- (1) an order for a product that is not currently available
 		;You may either place a back order or choose an alternative product.
 		;on back order Those items are on back order.
-		;TOPICS ShoppingC2, BUSINESsC2
+		;Topics Shoppingc2, Business-c2
+	;;
 
 
 
@@ -1064,11 +1104,21 @@
 
 
 
-[-] back-order		<-->	verb++C2	[220818][002]	./ˈbæk ɔːdə(r)/-NAmE /ˈbæk ɔːrdər/ [230306]
-	;đặt hàng trước -- back-order something to place an order for a product that is not currently available
+
+
+
+
+
+[-] back-order		<-->	verb++C2	[220818][003]	./ˈbæk ɔːdə(r)/-NAmE /ˈbæk ɔːrdər/ [230306] [241006]
+	;đặt hàng trước -- (1) back-order something to place an order for a product that is not currently available
 		;The phone is back-ordered with a nine-day wait for shipping.
-		;TOPICS ShoppingC2, BUSINESSC2
-		;Join us
+		;Topics Shoppingc2, Business-c2
+	;;===
+
+
+
+
+
 
 
 
@@ -8448,7 +8498,7 @@
 
 
 
-[-] working capital		<-->	noun++C2	[220818][002]	./ˌwɜːkɪŋ ˈkæpɪtl/-NAmE /ˌwɜːrkɪŋ ˈkæpɪtl/ [uncountable] (business) [t]
+[-] working capital		<-->	noun++C2	[220818][002]	./ˌwɜːkɪŋ ˈkæpɪtl/-NAmE /ˌwɜːrkɪŋ ˈkæpɪtl/ [uncountable] (business) [241006]
 	;vốn -- (1) the money that is needed to run a business rather than the money that is used to buy buildings and equipment when starting the business
 		;compare venture capital
 		;Topics BUSINESs-c2
@@ -8536,7 +8586,7 @@
 
 
 
-[-] yield		<-->	noun++C1	[221128][002]	./cef/ [countable, uncountable] [t]
+[-] yield		<-->	noun++C1	[221128][002]	./cef/ [countable, uncountable] [241006]
 	;tổng sản lượng -- (1) the total amount of crops, profits, etc. that are produced
 		;a high crop yield
 		;a reduction in milk yield
@@ -8573,7 +8623,7 @@
 
 
 
-[-] yield		<-->	verb++C1	[221128][002]	./cef/ [t]
+[-] yield		<-->	verb++C1	[221128][002]	./cef/ [241006]
 	;sản xuất, cung cấp -- (1) [transitive] yield something to produce or provide something, for example a profit, result or crop
 		;Higher-rate deposit accounts yield good returns.
 		;The research has yielded useful information.
