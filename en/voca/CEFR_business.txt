@@ -798,7 +798,7 @@
 
 
 [-] associate		<-->	noun++C1	[221128][002]	./əˈsəʊsiət/,  /əˈsəʊʃiət/
- /əˈsəʊsiət/,  /əˈsəʊʃiət/*\ [241006]
+ /əˈsəʊsiət/,  /əˈsəʊʃiət/*\ [241006]  [br-ate] [t]
 	;đồng nghiệp, đối tác làm việc -- (1) a person that you work with, do business with or spend a lot of time with
 		;business associates
 		;a close political associate of
@@ -995,7 +995,7 @@
 		;Extra Examples:
 		;a United Nations-backed peace plan
 		;His election bid was financially backed by a soft drinks company.
-		;Topics Business-b2, Moneyb2
+		;Topics BUSINESs-b2, Moneyb2
 		;Oxford Collocations Dictionary
 		;adverb
 		;stronglyfullyoverwhelmingly…
@@ -1027,7 +1027,7 @@
 	;người chống lưng, hỗ trợ -- (1) a person or company that gives support to somebody/something, especially financial support
 		;The project receives its money from European backers.
 		;We need to find a new financial backer.
-		;Topics Business-c1
+		;Topics BUSINESs-c1
 	;;
 
 
@@ -1056,7 +1056,7 @@
 		;They want backing for more research.
 		;Who's going to provide the backing?
 		;The museum has always received limited financial backing from the local authority.
-		;Topics Business-c1, Moneyc1
+		;Topics BUSINESs-c1, Moneyc1
 				;Oxford Collocations Dictionary
 				;adjective
 				;solidstrongfull…
@@ -1092,7 +1092,7 @@
 	;việc đặt hàng trước -- (1) an order for a product that is not currently available
 		;You may either place a back order or choose an alternative product.
 		;on back order Those items are on back order.
-		;Topics Shoppingc2, Business-c2
+		;Topics Shoppingc2, BUSINESs-c2
 	;;
 
 
@@ -1112,8 +1112,8 @@
 [-] back-order		<-->	verb++C2	[220818][003]	./ˈbæk ɔːdə(r)/-NAmE /ˈbæk ɔːrdər/ [230306] [241006]
 	;đặt hàng trước -- (1) back-order something to place an order for a product that is not currently available
 		;The phone is back-ordered with a nine-day wait for shipping.
-		;Topics Shoppingc2, Business-c2
-	;;===
+		;Topics Shoppingc2, BUSINESs-c2
+	;;
 
 
 
@@ -1129,14 +1129,16 @@
 
 
 
-[-] balance sheet		<-->	noun++C2	[220818][002]	./ˈbæləns ʃiːt/-NAmE /ˈbæləns ʃiːt/ [230306]
-	;bảng cân đối tài chính -- (finance) a written statement showing the amount of money and property that a company has and listing what has been received and paid out
-		;TOPICS BUSINESSC2
-		;Oxford Collocations Dictionary
-		;adjective
-			;healthy, strong, weak…
-		;verb + balance sheet
-			;bolster, expand, improve…
+[-] balance sheet		<-->	noun++C2	[220818][003]	./ˈbæləns ʃiːt/-NAmE /ˈbæləns ʃiːt/ (finance) [230306] [t]
+	;bảng cân đối tài chính -- (1) ​a written statement showing the amount of money and property that a company has and listing what has been received and paid out
+		;Topics BUSINESs-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;healthystrongweak…
+				;verb + balance sheet
+				;bolsterexpandimprove…
+		;See full entry
+	;;
 
 
 
@@ -1147,10 +1149,18 @@
 
 
 
-[-] bandwidth		<-->	noun++C2	[220818][001]	./ˈbændwɪdθ/, /ˈbændwɪtθ/-NAmE /ˈbændwɪdθ/, /ˈbændwɪtθ/
-	;khả năng -- [uncountable] the energy or capacity that you need to do something
+
+
+
+
+
+[-] bandwidth		<-->	noun++C2	[220818][002]	./ˈbændwɪdθ/, /ˈbændwɪtθ/-NAmE /ˈbændwɪdθ/, /ˈbændwɪtθ/ [countable, uncountable] [t]
+	; -- (1) 
+	; -- (2) 
+	;khả năng -- (3) [uncountable] the energy or capacity that you need to do something
 		;The team does not have the bandwidth to take on new projects at the moment.
-		;TOPICS BUSINESsC2
+		;Topics BUSINESs-c2
+	;;
 
 
 
@@ -1161,11 +1171,19 @@
 
 
 
-[-] banker		<-->	noun++B2	[221128][001]	./ˈbæŋkə(r)/-NAmE /ˈbæŋkər/
-	;chủ nhà băng -- a person who owns a bank or has an important job at a bank
+
+
+
+
+
+[-] banker		<-->	noun++B2	[221128][002]	./ˈbæŋkə(r)/-NAmE /ˈbæŋkər/ [t]
+	;chủ nhà băng -- (1) a person who owns a bank or has an important job at a bank
 		;a merchant banker
 		;He’s an investment banker in New York.
-		;TOPICS JobsB2, BUSINESsB2, MoneyB2
+		;Topics Jobsb2, BUSINESs-b2, Moneyb2
+	; -- (2) ​a person who is in charge of the money in particular games
+		;Word Origin
+	;;
 
 
 
@@ -1176,9 +1194,15 @@
 
 
 
-[-] banner ad		<-->	noun++C2	[220818][001]	./ˈbænər æd/-NAmE /ˈbænər æd/
-	;bảng quảng cáo -- an advertisement across the top or bottom or down the side of a page on the internet
-		;TOPICS Phones, email and the internetC2, BUSINESsC2
+
+
+
+
+
+[-] banner ad		<-->	noun++C2	[220818][002]	./ˈbænər æd/-NAmE /ˈbænər æd/ [t]
+	;bảng quảng cáo -- (1) an advertisement across the top or bottom or down the side of a page on the internet
+		;Topics Phones, email and the internetc2, BUSINESs-c2
+	;;
 
 
 
@@ -1189,10 +1213,16 @@
 
 
 
-[-] bargaining power		<-->	noun++C1	[221128][002]	./ˈbɑːɡənɪŋ paʊə(r)/-NAmE /ˈbɑːrɡənɪŋ paʊər/ [230403] [240128]
-	;phần mà có thể chi phối -- [uncountable] the amount of control a person or group has when trying to reach an agreement with another group in a business or political situation
+
+
+
+
+
+[-] bargaining power		<-->	noun++C1	[221128][003]	./ˈbɑːɡənɪŋ paʊə(r)/-NAmE /ˈbɑːrɡənɪŋ paʊər/ [uncountable] [230403] [240128] [t]
+	;phần mà có thể chi phối -- (1) the amount of control a person or group has when trying to reach an agreement with another group in a business or political situation
 		;The smaller states’ efforts to exercise their collective bargaining power against multinationals have failed.
-		;TOPICS Discussion and agreementC1, BUSINESsC1
+		;Topics Discussion and agreementc1, Businessc1
+	;;
 
 
 
@@ -1203,10 +1233,16 @@
 
 
 
-[-] be even		<-->	idiom++C2	[220818][001]	.
-	;hết nợ, không còn nợ -- (informal) to no longer owe somebody money or a favour
+
+
+
+
+
+[-] be even		<-->	idiom++C2	[220818][002]	./i/ [t]
+	;hết nợ, không còn nợ -- (1) (informal) to no longer owe somebody money or a favour
 		;If I pay for the meals then we’re even.
-		;TOPICS BUSINESsC2
+		;Topics BUSINESs-c2
+	;;
 
 
 
@@ -1217,11 +1253,17 @@
 
 
 
-[-] be in the black		<-->	idiom++C2	[220818][001]	.
-	;có tiền trong tài khoản ngân hàng -- to have money, for example in your bank account
+
+
+
+
+
+[-] be in the black		<-->	idiom++C2	[220818][002]	./i/ [t]
+	;có lời -- (1) to have money, for example in your bank account
 		;The company has managed to stay in the black for the year ending December 31.
-		;COMPARE be in the red
-		;TOPICS BUSINESsC2
+		;compare be in the red
+		;Topics BUSINESs-c2
+	;;
 
 
 
@@ -1232,12 +1274,18 @@
 
 
 
-[-] be in the red		<-->	idiom++C2	[220818][001]	.
-	;tiền nợ, ví dụ thẻ tín dụng -- (informal) to owe money to your bank because you have spent more than you have in your account
+
+
+
+
+
+[-] be in the red		<-->	idiom++C2	[220818][002]	./i/ [t]
+	;lỗ -- (1) (informal) to owe money to your bank because you have spent more than you have in your account
 		;The company has plunged $37 million into the red.
 		;My account is $100 in the red.
-		;COMPARE be in the black
-		;TOPICS BUSINESsC2
+		;compare be in the black
+		;Topics BUSINESs-c2
+	;;
 
 
 
@@ -1248,11 +1296,21 @@
 
 
 
-[-] below the line		<-->	idiom++C2	[220818][001]	.	
-	;đang được quảng cáo -- (business) connected with advertising by means of direct mail, email, social media, events, etc.
+
+
+
+
+
+[-] below the line		<-->	idiom++C2	[220818][002]	.	/i/ [t]
+	; -- (1) (finance) connected with unusual costs or income that a company pays or receives, that are not part of its daily business and are taken away or added after calculating profits
+		;There was a £4 million extraordinary charge below the line.
+		;compare above the line (1)
+		;Topics Moneyc2
+	;quảng cáo truyền thống -- (2) (business) connected with advertising by means of direct mail, email, social media, events, etc.
 		;We are planning social networking, digital marketing and below-the-line activities across the country.
-		;COMPARE above the line
-		;TOPICS BUSINESsC2
+		;compare above the line (2)
+		;Topics BUSINESs-c2
+	;;
 
 
 
@@ -1263,23 +1321,37 @@
 
 
 
-[-] bid		<-->	noun++B2	[221128][001]	./bɪd/-NAmE /bɪd/
-	;một sự ra giá trong đấu thầu -- an offer by a person or a company to pay a particular amount of money for something
+
+
+
+
+
+[-] bid		<-->	noun++B2	[221128][002]	./cef/\ (1) [t]
+	;đấu thầu -- (1) an offer by a person or a company to pay a particular amount of money for something
 		;bid for something A German firm launched a takeover bid for the company.
 		;At the auction (= a public sale where things are sold to the person who offers the most), the highest bid for the picture was £200.
 		;bid on something (North American English also) the highest bid on the picture
 		;Any more bids?
-		;Extra Examples
-		;TOPICS ArtB2, ShoppingB2, BUSINESsB2
-		;Oxford Collocations Dictionary
-			;adjective
-				;high, low, opening…
-			;verb + bid
-				;make, place, put in…
-			;bid + noun
-				;price, process
-			;preposition
-				;bid by, bid from, bid for…
+		;Extra Examples:
+		;I placed a bid on a repossessed Ferrari.
+		;He made a cash bid for the company.
+		;They have invited bids for the property.
+		;They blocked a $24 million bid by a rival company.
+		;Topics Artb2, Shoppingb2, BUSINESs-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;highlowopening…
+				;verb + bid
+				;makeplaceput in…
+				;bid + noun
+				;priceprocess
+				;preposition
+				;bid bybid frombid for…
+		;See full entry
+	; -- (2) 
+	; -- (3) 
+	; -- (4) (in some card games) a statement of the number of points a player thinks they will win
+	;;
 
 
 
@@ -1290,19 +1362,36 @@
 
 
 
-[-] bid		<-->	verb++B2	[221128][001]	./bɪd/-NAmE /bɪd/
-	;ra giá -- [intransitive] to offer to do work or provide a service for a particular price, in competition with other companies, etc.
-		;~ SYNONYM tender
+
+
+
+
+
+[-] bid		<-->	verb++B2	[221128][002]	./cef/ [t]
+	; -- (1) 
+	;đấu giá, đấu thầu -- (2) [intransitive] to offer to do work or provide a service for a particular price, in competition with other companies, etc.
+		;synonym tender
+		;<< tender, bid, >>
 		;bid for something A French firm will be bidding for the contract.
 		;bid on something (North American English also) A French firm will be bidding on the contract.
-		;bid to do something Which other cities are bidding to host the 2028 Olympics?
+		;bid to do something Which other cities are bidding to host the Olympics?
 		;Wordfinder: acquisitionbidbrokercontractdealmergernegotiationofferproposaltakeover
-		;TOPICS BUSINESsB2
-		;Oxford Collocations Dictionary
-			;adverb
-				;successfully, competitively
-			;preposition
-				;for, on
+		;Topics BUSINESs-b2
+				;Oxford Collocations Dictionary
+				;adverb
+				;successfullycompetitively
+				;preposition
+				;foron
+		;See full entry
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;;
+
+
+
+
+
 
 
 
