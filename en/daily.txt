@@ -51,7 +51,8 @@ VulkanRender::Init:
 ----
 Phân biệt: <<, succeed, achieve, retrieve, accomplish, gain, obtain, attain, ,,,,,,,,>>
 Phân biệt: <<, mind, look after, take care of >>
-Phân biệt: <<<<negotiate, bargain, haggle, dicker, deal, confer>>>>
+Phân biệt: <<<<negotiate,
+ bargain, haggle, dicker, deal, confer>>>>
 Phân biệt: <<infer, deduce, confer, imply, >>
 Phân biệt: <<,camp, tent, hut, lodge, shack, yurt, chalet, >>
 Phân biệt: <<,sin, crime, >>
@@ -62,3 +63,12 @@ Phân biệt: << testament, will >>
  [br-ate] [t]
  [orw.226]
  [orw.227]
+alternate,
+advocate,
+approximate,
+delegate,
+duplicate,
+estimate,
+graduate,
+intimate,
+moderate,
