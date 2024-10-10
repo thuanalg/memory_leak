@@ -798,7 +798,7 @@
 
 
 [-] associate		<-->	noun++C1	[221128][002]	./əˈsəʊsiət/,  /əˈsəʊʃiət/
- /əˈsəʊsiət/,  /əˈsəʊʃiət/*\ [241006]  [br-ate] [t]
+ /əˈsəʊsiət/,  /əˈsəʊʃiət/*\ [241006]  [br-ate] [241010]
 	;đồng nghiệp, đối tác làm việc -- (1) a person that you work with, do business with or spend a lot of time with
 		;business associates
 		;a close political associate of
@@ -1129,7 +1129,7 @@
 
 
 
-[-] balance sheet		<-->	noun++C2	[220818][003]	./ˈbæləns ʃiːt/-NAmE /ˈbæləns ʃiːt/ (finance) [230306] [t]
+[-] balance sheet		<-->	noun++C2	[220818][003]	./ˈbæləns ʃiːt/-NAmE /ˈbæləns ʃiːt/ (finance) [230306] [241010]
 	;bảng cân đối tài chính -- (1) ​a written statement showing the amount of money and property that a company has and listing what has been received and paid out
 		;Topics BUSINESs-c2
 				;Oxford Collocations Dictionary
@@ -1154,7 +1154,7 @@
 
 
 
-[-] bandwidth		<-->	noun++C2	[220818][002]	./ˈbændwɪdθ/, /ˈbændwɪtθ/-NAmE /ˈbændwɪdθ/, /ˈbændwɪtθ/ [countable, uncountable] [t]
+[-] bandwidth		<-->	noun++C2	[220818][002]	./ˈbændwɪdθ/, /ˈbændwɪtθ/-NAmE /ˈbændwɪdθ/, /ˈbændwɪtθ/ [countable, uncountable] [241010]
 	; -- (1) 
 	; -- (2) 
 	;khả năng -- (3) [uncountable] the energy or capacity that you need to do something
@@ -1176,7 +1176,7 @@
 
 
 
-[-] banker		<-->	noun++B2	[221128][002]	./ˈbæŋkə(r)/-NAmE /ˈbæŋkər/ [t]
+[-] banker		<-->	noun++B2	[221128][002]	./ˈbæŋkə(r)/-NAmE /ˈbæŋkər/ [241010]
 	;chủ nhà băng -- (1) a person who owns a bank or has an important job at a bank
 		;a merchant banker
 		;He’s an investment banker in New York.
@@ -1199,7 +1199,7 @@
 
 
 
-[-] banner ad		<-->	noun++C2	[220818][002]	./ˈbænər æd/-NAmE /ˈbænər æd/ [t]
+[-] banner ad		<-->	noun++C2	[220818][002]	./ˈbænər æd/-NAmE /ˈbænər æd/ [241010]
 	;bảng quảng cáo -- (1) an advertisement across the top or bottom or down the side of a page on the internet
 		;Topics Phones, email and the internetc2, BUSINESs-c2
 	;;
@@ -1218,7 +1218,7 @@
 
 
 
-[-] bargaining power		<-->	noun++C1	[221128][003]	./ˈbɑːɡənɪŋ paʊə(r)/-NAmE /ˈbɑːrɡənɪŋ paʊər/ [uncountable] [230403] [240128] [t]
+[-] bargaining power		<-->	noun++C1	[221128][003]	./ˈbɑːɡənɪŋ paʊə(r)/-NAmE /ˈbɑːrɡənɪŋ paʊər/ [uncountable] [230403] [240128] [241010]
 	;phần mà có thể chi phối -- (1) the amount of control a person or group has when trying to reach an agreement with another group in a business or political situation
 		;The smaller states’ efforts to exercise their collective bargaining power against multinationals have failed.
 		;Topics Discussion and agreementc1, Businessc1
@@ -1238,7 +1238,7 @@
 
 
 
-[-] be even		<-->	idiom++C2	[220818][002]	./i/ [t]
+[-] be even		<-->	idiom++C2	[220818][002]	./i/ [241010]
 	;hết nợ, không còn nợ -- (1) (informal) to no longer owe somebody money or a favour
 		;If I pay for the meals then we’re even.
 		;Topics BUSINESs-c2
@@ -1258,7 +1258,7 @@
 
 
 
-[-] be in the black		<-->	idiom++C2	[220818][002]	./i/ [t]
+[-] be in the black		<-->	idiom++C2	[220818][002]	./i/ [241010]
 	;có lời -- (1) to have money, for example in your bank account
 		;The company has managed to stay in the black for the year ending December 31.
 		;compare be in the red
@@ -1279,7 +1279,7 @@
 
 
 
-[-] be in the red		<-->	idiom++C2	[220818][002]	./i/ [t]
+[-] be in the red		<-->	idiom++C2	[220818][002]	./i/ [241010]
 	;lỗ -- (1) (informal) to owe money to your bank because you have spent more than you have in your account
 		;The company has plunged $37 million into the red.
 		;My account is $100 in the red.
@@ -1301,7 +1301,7 @@
 
 
 
-[-] below the line		<-->	idiom++C2	[220818][002]	.	/i/ [t]
+[-] below the line		<-->	idiom++C2	[220818][002]	.	/i/ [241010]
 	; -- (1) (finance) connected with unusual costs or income that a company pays or receives, that are not part of its daily business and are taken away or added after calculating profits
 		;There was a £4 million extraordinary charge below the line.
 		;compare above the line (1)
@@ -1326,7 +1326,7 @@
 
 
 
-[-] bid		<-->	noun++B2	[221128][002]	./cef/\ (1) [t]
+[-] bid		<-->	noun++B2	[221128][002]	./cef/\ (1) [241010]
 	;đấu thầu -- (1) an offer by a person or a company to pay a particular amount of money for something
 		;bid for something A German firm launched a takeover bid for the company.
 		;At the auction (= a public sale where things are sold to the person who offers the most), the highest bid for the picture was £200.
@@ -1367,7 +1367,7 @@
 
 
 
-[-] bid		<-->	verb++B2	[221128][002]	./cef/ [t]
+[-] bid		<-->	verb++B2	[221128][002]	./cef/ [241010]
 	; -- (1) 
 	;đấu giá, đấu thầu -- (2) [intransitive] to offer to do work or provide a service for a particular price, in competition with other companies, etc.
 		;synonym tender
@@ -1402,12 +1402,20 @@
 
 
 
-[-] bill		<-->	noun++C2	[220818][001]	./bɪl/-NAmE /bɪl/\
-	;mẫu quảng cáo -- a notice in a public place to advertise an event
-		;~ SYNONYM poster
+[-] bill		<-->	noun++C2	[220818][002]	./cef/\ [241010]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5)  
+	; -- (6) a notice in a public place to advertise an event
+		;synonym poster
+		;<< poster, bill, >>
 		;Post no bills (= a notice warning people not to stick bills in a particular place).
-		;SEE ALSO handbill
-		;TOPICS BUSINESsC2
+		;see also handbill
+		;Topics Business-c2
+	; -- (9) 
+	;;
 
 
 
@@ -1418,10 +1426,11 @@
 
 
 
-[-] billable		<-->	adjective++C2	[220818][001]	./ˈbɪləbl/-NAmE /ˈbɪləbl/
-	;có thể thanh toán -- (of work done by professional people) that a client or customer can be charged for
+[-] billable		<-->	adjective++C2	[220818][002]	./ˈbɪləbl/-NAmE /ˈbɪləbl/ [241010]
+	;có tính phí -- (1) (of work done by professional people) that a client or customer can be charged for
 		;All the firm's attorneys are expected to put in a certain number of billable hours each month.
-		;TOPICS BUSINESsC2
+		;Topics Business-c2
+	;;
 
 
 
@@ -1432,9 +1441,11 @@
 
 
 
-[-] billboard		<-->	noun++B2	[221128][003]	./ˈbɪlbɔːd/-NAmE /ˈbɪlbɔːrd/
-	;bảng quảng cáo lớn (trên đường, building) -- (especially North American English)(British English also hoarding)a large board on the outside of a building or at the side of the road, used for putting advertisements on
-		;TOPICS BUSINESsB2, Transport by car or lorryB2
+[-] billboard		<-->	noun++B2	[221128][004]	./ˈbɪlbɔːd/-NAmE /ˈbɪlbɔːrd/ (especially North American English)
+(British English also hoarding) [241010]
+	;biển quảng cáo -- (1) a large board on the outside of a building or at the side of the road, used for putting advertisements on
+		;Topics Business-b2, Transport by car or lorryb2
+	;;
 
 
 
@@ -1445,20 +1456,27 @@
 
 
 
-[-] blitz		<-->	noun++C2	[220818][001]	./blɪts/-NAmE /blɪts/
-	;cuộc thương lượng chớp nhoáng -- [countable, usually singular] (informal) a sudden organized effort to deal with something or achieve something
+[-] blitz		<-->	noun++C2	[220818][002]	./blɪts/-NAmE /blɪts/ [241010]
+	; -- (1) 
+	; -- (2) 
+	;cuộc thương lượng chớp nhoáng -- (3) [countable, usually singular] (informal) a sudden organized effort to deal with something or achieve something
 		;blitz on something a blitz on passengers who avoid paying fares
 		;I've had a blitz on the house (= cleaned it very thoroughly).
 		;an advertising/a media blitz (= a lot of information about something on television, in newspapers, etc.)
-		;Extra Examples
-		;TOPICS BUSINESsC2
-		;Oxford Collocations Dictionary
-			;adjective
-				;advertising, marketing, media…
-			;verb + blitz
-				;conduct, have, launch…
-			;preposition
-				;blitz on
+		;Extra Examples:
+		;a blitz on illegal parking
+		;an all-out blitz on crime
+		;Topics Business-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;advertisingmarketingmedia…
+				;verb + blitz
+				;conducthavelaunch…
+				;preposition
+				;blitz on
+		;See full entry
+		;Word Origin
+	;;
 
 
 
@@ -1469,11 +1487,12 @@
 
 
 
-[-] blue-chip		<-->	adjective++C2	[220818][001]	./ˌbluː ˈtʃɪp/-NAmE /ˌbluː ˈtʃɪp/ [only before noun] (finance)
+[-] blue-chip		<-->	adjective++C2	[220818][002]	./ˌbluː ˈtʃɪp/-NAmE /ˌbluː ˈtʃɪp/ [only before noun] (finance) [241010]
 	;cổ phiếu tốt -- (1) a blue-chip investment is thought to be safe and likely to make a profit
 		;blue-chip companies
-		;TOPICS BusinessC2
+		;Topics Business-c2
 		;Word Origin
+	;;
 
 
 
@@ -1484,15 +1503,16 @@
 
 
 
-[-] blue-collar		<-->	adjective++C2	[220818][001]	./ˌbluː ˈkɒlə(r)/-NAmE /ˌbluː ˈkɑːlər/
-	;công nhân cổ xanh -- [only before noun]
-		;connected with people who do physical work in industry
+[-] blue-collar		<-->	adjective++C2	[220818][002]	./ˌbluː ˈkɒlə(r)/-NAmE /ˌbluː ˈkɑːlər/ [only before noun] [241010]
+	;công nhân cổ xanh -- (1) connected with people who do physical work in industry
 		;blue-collar workers/voters/votes
-		;COMPARE pink-collar, white-collar
-		;TOPICS BUSINESsC2
-		;Oxford Collocations Dictionary
-			;Blue-collar is used with these nouns:
-				;employee, employment, job…
+		;compare pink-collar, white-collar
+		;Topics Business-c2
+				;Oxford Collocations Dictionary
+				;Blue-collar is used with these nouns:
+				;employeeemploymentjob…
+		;See full entry
+	;;
 
 
 
@@ -1503,8 +1523,11 @@
 
 
 
-[-] board		<-->	noun++B2	[221128][002]	./cef/
-	;ban giám đốc -- (group of people) [countable + singular or plural verb] a group of people who have power to make decisions and control a company or other organization
+[-] board		<-->	noun++B2	[221128][003]	./cef/ [241010]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;ban giám đốc -- (4) [-group of people] [countable + singular or plural verb] a group of people who have power to make decisions and control a company or other organization
 		;The board is/are unhappy about falling sales.
 		;members of the board
 		;on the board She has a seat on the board of directors.
@@ -1514,20 +1537,28 @@
 		;discussions at board level
 		;board of somebody/something The decision was approved by the museum's board of trustees.
 		;(North American English) the Board of Education (= a group of elected officials who are in charge of all the public schools in a particular area)
-		;SEE ALSO draft board, school board
-		;Extra Examples
-		;TOPICS BUSINESsB2
-		;Oxford Collocations Dictionary
-			;adjective
-				;advisory, editorial, executive…
-			;verb + board
+		;see also draft board, school board
+		;Extra Examples:
+		;She put her ideas to the board.
+		;The project will go to the board for consideration.
+		;He became one of the first foreigners to be appointed to the board of a major Japanese company.
+		;He's chairman of the BBC's board of governors.
+		;Topics Business-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;advisoryeditorialexecutive…
+				;verb + board
 				;be onserve onsit on…
-			;board + noun
-				;member, meeting
-			;preposition
-				;board of
-			;phrases
-				;at board level, chairman of the board, a member of the board…
+				;board + noun
+				;membermeeting
+				;preposition
+				;board of
+				;phrases
+				;at board levelchairman of the boarda member of the board…
+		;See full entry
+	; -- (5) 
+	; -- (9) 
+	;;
 
 
 
@@ -1538,19 +1569,21 @@
 
 
 
-[-] boardroom		<-->	noun++C1	[221128][001]	./ˈbɔːdruːm/, /ˈbɔːdrʊm/-NAmE /ˈbɔːrdruːm/, /ˈbɔːrdrʊm/
-	;phòng họp ban giám đốc -- a room in which the meetings of the board of a company (= the group of people who control it) are held
+[-] boardroom		<-->	noun++C1	[221128][003]	./ˈbɔːdruːm/, /ˈbɔːdrʊm/-NAmE /ˈbɔːrdruːm/, /ˈbɔːrdrʊm/ [241010]
+	;phòng họp ban giám đốc -- (1) a room in which the meetings of the board of a company (= the group of people who control it) are held
 		;a boardroom row
 		;The directors were working overtime in the boardroom.
 		;The massive boardroom pay awards were criticized by the workers.
-		;TOPICS BUSINESsC1, Working lifeC1
-		;Oxford Collocations Dictionary
-			;adjective
-				;company, corporate, executive…
-			;boardroom + noun
-				;battle, coup, shake-up…
-			;phrases
-				;in a/the boardroom
+		;Topics Businessc1, Working lifec1
+				;Oxford Collocations Dictionary
+				;adjective
+				;companycorporateexecutive…
+				;boardroom + noun
+				;battlecoupshake-up…
+				;phrases
+				;in a/​the boardroom
+		;See full entry
+	;;
 
 
 
@@ -1561,12 +1594,26 @@
 
 
 
-[-] book		<-->	noun++C1	[221128][002]	./cef/
-	;danh mục tài chính, kinh doanh -- (accounts) (the books [plural]) the written records of the financial affairs of a business
+[-] book		<-->	noun++C1	[221128][003]	./cef/\ [241010]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	;sổ sách -- (5) [-accounts] the books [plural] the written records of the financial affairs of a business
 		;to do the books (= to check the accounts)
-		;You need to go over the books again;there’s a mistake somewhere.
+		;You need to go over the books again; there’s a mistake somewhere.
 		;She does the books for us.
-		;TOPICS BUSINESsC1
+		;Topics Business-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;account
+				;verb + books
+				;dokeepaudit…
+				;preposition
+				;on the books
+		;See full entry
+	; -- (7) 
+	;;
 
 
 
@@ -1578,8 +1625,9 @@
 
 
 [-] bookkeeper		<-->	noun++C2	[220818][002]	./ˈbʊkkiːpə(r)/-NAmE /ˈbʊkkiːpər/ [230624]
-	;kế toán viên, người quản lý sổ sách -- a person whose job is to keep an accurate record of the accounts of a business
-		;TOPICS JobsC2, BUSINESsC2
+	;kế toán viên, người quản lý sổ sách -- (1) a person whose job is to keep an accurate record of the accounts of a business
+		;Topics Jobsc2, Business-c2
+	;;
 
 
 
@@ -1590,16 +1638,20 @@
 
 
 
-[-] bootstrap		<-->	noun++C2	[220818][003]	./ˈbuːtstræp/-NAmE /ˈbuːtstræp/ [230531] [230624]
-	;phương thức tối ưu hoá nguồn lực -- an approach to creating something that uses the minimum amount of resources possible
+[-] bootstrap		<-->	noun++C2	[220818][004]	./ˈbuːtstræp/-NAmE /ˈbuːtstræp/ [230531] [230624] [241010]
+	;phương thức kinh điển -- (1) (often used in compounds) an approach to creating something that uses the minimum amount of resources possible
 		;In classic bootstrap fashion, Fred invested his personal savings and convinced friends to work for him for free.
+		;Topics Business-c2
+	; -- (2) 
+	; -- (3) 
+	;;
 
 
 
 
 
 
-
+===
 
 
 
@@ -1939,7 +1991,7 @@
 		;Wordfinder: accountant, agent, auditor, businessman, CEO, chairman, consultant, entrepreneur, executive, manager
 		;TOPICS JobsA2, BUSINESsA2
 		;Questions about grammar and voc
-		;;a man who shows skill in business and financial matters
+		;a man who shows skill in business and financial matters
 		;a successful/wealthy businessman
 		;For many years he was a successful businessman, running his own small business.
 		;I should have got a better price for the car, but I'm not much of a businessman.
@@ -6173,7 +6225,7 @@
 		;a strong negotiating position
 		;negotiating skills
 		;negotiate between A and B to negotiate between the two sides
-		;;<<bargain, confer, deal, negotiate, dicker>>
+		;<<bargain, confer, deal, negotiate, dicker>>
 
 
 
