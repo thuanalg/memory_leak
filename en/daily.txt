@@ -76,3 +76,7 @@ moderate,
 
  [br-06] [t]
  [br-02] [t]
+Hi Hùng, Quá.
+Mình thử tìm con đường tắt từ pdf -->> Emf, vì thấy thư viện poppler/cairo làm rất giống mục tiêu của mình. Tiếc là poppler chỉ xử lý pdf khá tốt, nhưng phần print ra context lại phụ thuộc vào glib, xuất hiện vấn đề về tương thích binary (trở nên khó giải quyết).
+Mình đang nghĩ cách và xem xét kỹ lại lần nữa, nếu không OK mình sẽ nghĩ cách tiến cận khác, nó cơ bản. 
+Nếu cần code, evidence, report chi tiết hơn thì ping mình nhé.
