@@ -2073,14 +2073,14 @@
 
 
 
-===
 
 
 
-[-] business plan		<-->	noun++B1	[221128][001]	./ˈbɪznəs plæn/-NAmE /ˈbɪznəs plæn/
-	;kế hoạch kinh doanh -- a document that describes a business’s aims for the future and the ways in which the business hopes to achieve those aims
+[-] business plan		<-->	noun++B1	[221128][002]	./ˈbɪznəs plæn/-NAmE /ˈbɪznəs plæn/ [t]
+	;kế hoạch kinh doanh -- (1) a document that describes a business’s aims for the future and the ways in which the business hopes to achieve those aims
 		;The company has put together a comprehensive business plan for the next five years.
-		;TOPICS BUSINESsB1
+		;TOPICS BUSINESs-B1
+	;;
 
 
 
@@ -2089,14 +2089,16 @@
 
 
 
-
-[-] BUSINESs-to-business		<-->	adjective++C2	[220818][001]	./ˌbɪznəs tə ˈbɪznəs/-NAmE /ˌbɪznəs tə ˈbɪznəs/
-	;kinh doanh doanh nghiệp với doanh nghiệp -- [usually before noun] (abbreviation B2B) done between one business and another rather than between a business and its ordinary customers
+[-] business-to-business		<-->	adjective++C2	[220818][002]	./ˌbɪznəs tə ˈbɪznəs/-NAmE /ˌbɪznəs tə ˈbɪznəs/ [usually before noun]
+(abbreviation B2B, BTB) [t]
+	;kinh doanh doanh nghiệp với doanh nghiệp -- (1) done between one business and another rather than between a business and its ordinary customers
 		;business-to-business transactions
-		;TOPICS BUSINESsC2
-		;Oxford Collocations Dictionary
-		;Business-to-business is used with these nouns:
-		;transaction
+		;Topics Business-c2
+				;Oxford Collocations Dictionary
+				;Business-to-business is used with these nouns:
+				;transaction
+		;See full entry
+	;;
 
 
 
@@ -2113,14 +2115,17 @@
 
 
 
-
-[-] bust		<-->	adjective++C2	[220818][004]	./bʌst/-NAmE /bʌst/ [230402] [230523]
-	;bị phá sản -- (of a person or business) failed because of a lack of money;
-		;SYNONYM bankrupt
+[-] bust		<-->	adjective++C2	[220818][004]	./bʌst/-NAmE /bʌst/ [not usually before noun] (informal) [230402] [230523] [t]
+	;vỡ -- (1) (British English) broken
+		;My watch is bust.
+	;bị phá sản -- (2) ​(of a person or business) failed because of a lack of money
+		;synonym bankrupt
 		;<< bankrupt, bust, >>
 		;We're bust!
 		;We lost our money when the travel company went bust.
-		;TOPICS BUSINESSC2
+		;Topics Business-c2
+		;Word Origin
+	;;
 
 
 
@@ -2130,14 +2135,15 @@
 
 
 
-
-[-] buyout		<-->	noun++C2	[220818][001]	./ˈbaɪaʊt/-NAmE /ˈbaɪaʊt/
-	;mua đứt -- a situation in which a person or group gains control of a company by buying all or most of its shares
+[-] buyout		<-->	noun++C2	[220818][002]	./ˈbaɪaʊt/-NAmE /ˈbaɪaʊt/ [t]
+	;mua đứt -- (1) a situation in which a person or group gains control of a company by buying all or most of its shares
 		;a management buyout
-		;TOPICS MoneyC2, BUSINESsC2
-		;Oxford Collocations Dictionary
-		;Buyout is used after these nouns:
-		;management
+		;Topics Moneyc2, Business-c2
+				;Oxford Collocations Dictionary
+				;Buyout is used after these nouns:
+				;management
+		;See full entry
+	;;
 
 
 
@@ -2147,12 +2153,13 @@
 
 
 
-
-[-] call centre		<-->	noun++B2	[221128][001]	./ˈkɔːl sentə(r)/-NAmE /ˈkɔːl sentər/
-	;trung tâm điều phối cuộc gọi -- (British English)(US English call center) an office in which a large number of people work using phones, for example arranging insurance for people, or taking customers’ orders and answering questions
+[-] call centre		<-->	noun++B2	[221128][002]	./ˈkɔːl sentə(r)/-NAmE /ˈkɔːl sentər/ (British English)
+(US English call center) [t]
+	;trung tâm điều phối cuộc gọi -- (1) an office in which a large number of people work using phones, for example arranging insurance for people, or taking customers’ orders and answering questions
 		;to work in a call centre
 		;call-centre employees/staff
-		;TOPICS BUSINESsB2
+		;Topics Business-b2
+	;;
 
 
 
@@ -2162,9 +2169,8 @@
 
 
 
-
-[-] campaign		<-->	noun++B1	[221128][001]	./cef/
-	;chiến dịch -- a series of planned activities that are intended to achieve a particular social, commercial or political aim
+[-] campaign		<-->	noun++B1	[221128][002]	./cef/ [t]
+	;chiến dịch -- (1) a series of planned activities that are intended to achieve a particular social, commercial or political aim
 		;an anti-smoking campaign
 		;an advertising/a marketing campaign
 		;an election campaign
@@ -2178,65 +2184,107 @@
 		;Both sides have been accused of waging a dirty campaign.
 		;the governor's campaign manager
 		;The candidates are on the campaign trail (= travelling around to attract support).
-		;SEE ALSO defiance campaign, whispering campaign
-		;Synonyms campaign;battle, struggle, drive, war, fight
-		;Collocations: Voting in elections
+		;see also defiance campaign, whispering campaign
+		;Synonyms campaign: battle ▪ struggle ▪ drive ▪ war ▪ fight
+		;<< campaign, battle ▪ struggle ▪ drive ▪ war ▪ fight, >>
+		;Collocations Voting in elections:
 			;Running for election
-				;conduct/hold an election/a referendum
-				;(especially North American English) run for office/election/governor/mayor/president/the White House
-				;(especially British English) stand for election/office/Parliament/the Labour Party/a second term
-				;hold/call/contest a general/national election
-				;launch/run a presidential election campaign
-				;support/back a candidate
-				;sway/convince/persuade voters/the electorate
-				;appeal to/attract/woo/target (North American English) swing voters/(British English) floating voters
-				;fix/rig/steal an election/the vote
+				;conduct/​hold an election/​a referendum
+				;(especially North American English) run for office/​election/​governor/​mayor/​president/​the White House
+				;(especially British English) stand for election/​office/​Parliament/​the Labour Party/​a second term
+				;hold/​call/​contest a general/​national election
+				;launch/​run a presidential election campaign
+				;support/​back a candidate
+				;sway/​convince/​persuade voters/​the electorate
+				;appeal to/​attract/​woo/​target (North American English) swing voters/(British English) floating voters
+				;fix/​rig/​steal an election/​the vote
 			;Voting
-				;go to/be turned away from (especially British English) a polling station/(North American English) a polling place
-				;cast a/your vote/ballot (for somebody)
-				;vote for the Conservative candidate/the Democratic party
-				;mark/spoil your ballot paper
+				;go to/​be turned away from (especially British English) a polling station/(North American English) a polling place
+				;cast a/​your vote/​ballot (for somebody)
+				;vote for the Conservative candidate/​the Democratic party
+				;mark/​spoil your ballot paper
 				;count (British English) the postal votes/(especially North American English) the absentee ballots
-				;go to/be defeated at the ballot box
-				;get/win/receive/lose votes
-				;get/win (60% of) the popular/black/Hispanic/Latino/Muslim vote
-				;win the election/(in the US) the primaries/a seat in Parliament/a majority/power
-				;lose an election/the vote/your majority/your seat
-				;win/come to power in a landslide (victory) (= with many more votes than any other party)
-				;elect/re-elect somebody (as) mayor/president/an MP/senator/congressman/congresswoman
+				;go to/​be defeated at the ballot box
+				;get/​win/​receive/​lose votes
+				;get/​win (60% of) the popular/​black/​Hispanic/​Latino/​Muslim vote
+				;win the election/(in the US) the primaries/​a seat in Parliament/​a majority/​power
+				;lose an election/​the vote/​your majority/​your seat
+				;win/​come to power in a landslide (victory) (= with many more votes than any other party)
+				;elect/​re-elect somebody (as) mayor/​president/​an MP/​senator/​congressman/​congresswoman
 			;Taking power
-				;be sworn into office/in as president
-				;take/administer (in the US) the oath of office
-				;swear/take (in the UK) an/the oath of allegiance
-				;give/deliver (in the US) the president’s inaugural address
-				;take/enter/hold/leave office
-				;appoint somebody (as) ambassador/governor/judge/minister
-				;form a government/a cabinet
-				;serve two terms as prime minister/in office
-
-
-
-
-
-
-
-
-
-		;Extra Examples
-		;TOPICS BUSINESsB1, PoliticsB1
-		;Oxford Collocations Dictionary
-			;adjective
+				;be sworn into office/​in as president
+				;take/​administer (in the US) the oath of office
+				;swear/​take (in the UK) an/​the oath of allegiance
+				;give/​deliver (in the US) the president’s inaugural address
+				;take/​enter/​hold/​leave office
+				;appoint somebody (as) ambassador/​governor/​judge/​minister
+				;form a government/​a cabinet
+				;serve two terms as prime minister/​in office		
+		;Extra Examples:
+		;She led the campaign for parliamentary reform.
+		;the campaign for racial equality
+		;A campaign of intimidation was waged against people trying to vote.
+		;Local people started a petition and letter-writing campaign to keep the hospital open.
+		;She has fought a one-woman campaign for ten years about the lack of childcare provision in the town.
+		;She led a successful campaign against the closure of the library.
+		;The campaign failed to achieve its objectives.
+		;The anti-fur organization financed an ad campaign featuring celebrities.
+		;The campaign aims to inform the public of the dangers of this disease.
+		;a carefully orchestrated campaign against striking workers
+		;The campaign featured athletes talking about healthy lifestyles.
+		;a concerted campaign aimed at educating young people about the dangers of drugs
+		;After sliding in the opinion polls, the party had to rethink its plan of campaign.
+		;The company launched a huge advertising campaign.
+		;The advertising campaign was responsible for the massive rise in sales.
+		;We designed an internet marketing campaign.
+		;The general election campaign gets underway today.
+		;A news conference was held at the party's campaign headquarters.
+		;Education has become an important campaign issue.
+		;People have criticized the way in which she conducted her election campaign.
+		;The President kept his campaign promises.
+		;a health awareness campaign to promote a healthy lifestyle
+		;election candidates on the campaign trail
+		;The terrorists responded with a bombing campaign directed at business and commerce.
+		;Topics Business-b1, Politicsb1
+				;Oxford Collocations Dictionary
+				;adjective
 				;bighugemajor…
-			;verb + campaign
-				;begin, initiate, launch…
-			;campaign + verb
-				;begin, get underway, start…
-			;campaign + noun
-				;aide, manager, staffer…
-			;preposition
-				;during a/the campaign, campaign against, campaign by…
-			;phrases
+				;verb + campaign
+				;begininitiatelaunch…
+				;campaign + verb
+				;beginget underwaystart…
+				;campaign + noun
+				;aidemanagerstaffer…
+				;preposition
+				;during a/​the campaigncampaign againstcampaign by…
+				;phrases
 				;a campaign of disobedience, misinformation, vilification, etc.a plan of campaign
+		;See full entry
+	; -- (2) a series of attacks and battles that are intended to achieve a particular military aim during a war
+		;the North African campaign
+		;a bombing campaign
+		;Air battles had dominated the campaign.
+		;The government has intensified the military campaign against the rebels.
+		;The Russian campaign ended with the German defeat at Stalingrad.
+		;Wordfinder: alertassassinateattackcampaignexecuteextremisthijackhostagekidnapterrorism
+		;Topics War and conflictb2
+				;Oxford Collocations Dictionary
+				;adjective
+				;bighugemajor…
+				;verb + campaign
+				;begininitiatelaunch…
+				;campaign + verb
+				;beginget underwaystart…
+				;campaign + noun
+				;aidemanagerstaffer…
+				;preposition
+				;during a/​the campaigncampaign againstcampaign by…
+				;phrases
+				;a campaign of disobedience, misinformation, vilification, etc.a plan of campaign
+		;See full entry
+		;More Like This Silent letters
+		;Word Origin
+	;;
 
 
 
@@ -2246,30 +2294,46 @@
 
 
 
-
-[-] capacity		<-->	noun++C1	[221128][001]	./cef/
-	;vai trò chính thức -- (plural capacities)(role) [countable, usually singular] the official position or function that somebody has
-		;~ SYNONYM role
+[-] capacity		<-->	noun++C1	[221128][002]	./cef/ (plural capacities) [t]
+	;dung tích -- (1) [-of container]
+	; -- (2) [-ability]
+	;tư cách, vai trò -- (3) [-role] [countable, usually singular] the official position or function that somebody has
+		;synonym role
+		;<< role, capacity, >>
 		;in a… capacity We are simply involved in an advisory capacity on the project.
 		;to do something in a business/judicial/professional/voluntary capacity
 		;in your capacity as something She was acting in her capacity as manager.
 		;In my capacity as president, I would like to thank Jack for his hard work.
-		;TOPICS BUSINESsC1
-		;Oxford Collocations Dictionary
-			;adjective
+		;Topics Business-c1
+				;Oxford Collocations Dictionary
+				;adjective
 				;officialpersonalprivate…
-			;verb + capacity
+				;verb + capacity
 				;act inwork in
-			;preposition
+				;preposition
 				;in your capacity
-	;số lượng, năng lực, công suất sản xuất (of factory/machine) [singular, uncountable] the quantity that a factory, machine, etc. can produce
+		;See full entry
+	;Công suất -- (4) [-of factory/machine] [singular, uncountable] the quantity that a factory, machine, etc. can produce
 		;The downturn in the business cycle left the plant with excess capacity.
 		;Spare oil production capacity will probably remain low.
 		;at capacity The factory is working at (full) capacity.
-		;Wordfinder: assembly line, capacity, factory, foreman, plant, process, production, shift, shop floorwork, force
-		;Wordfinder: capacity, industry, , just-in-time, labour, lead time, output, raw material, shipping, supply chain, warehouse
-		;TOPICS BUSINESsC1
-		;Oxford Collocations Dictionary
+		;Wordfinder: assembly linecapacityfactoryforemanplantprocessproductionshiftshop floorworkforce
+		;Wordfinder: capacityindustryjust-in-timelabourlead timeoutputraw materialshippingsupply chainwarehouse
+		;Topics Business-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;highlargelimited…
+				;verb + capacity
+				;haveexpandincrease…
+				;capacity + noun
+				;audiencecrowd
+				;preposition
+				;at capacity
+				;phrases
+				;be filled to capacitybe packed to capacityoperate at full capacity…
+		;See full entry
+	; -- (5) 
+	;;
 
 
 
@@ -2279,9 +2343,10 @@
 
 
 
-
-[-] capital		<-->	noun++B2	[221128][001]	./ˈkæpɪtl/-NAmE /ˈkæpɪtl/-\
-	;vốn -- [uncountable] wealth or property that is owned by a business or a person and can be invested or used to start a business
+[-] capital		<-->	noun++B2	[221128][003]	./ˈkæpɪtl/-NAmE /ˈkæpɪtl/-\ [t]
+	; -- (1) 
+	; -- (2) 
+	;vốn -- (3) [-money] [uncountable] wealth or property that is owned by a business or a person and can be invested or used to start a business
 		;share/investment/equity capital
 		;He had various ideas on how to raise capital for the project.
 		;a guide to investing capital in new markets
@@ -2290,30 +2355,41 @@
 		;capital expenditure/spending (= money that an organization spends on buildings, equipment, etc.)
 		;capital costs/assets
 		;the capital value of the property
-		;SEE ALSO venture capital, working capital
-		;TOPICS BUSINESsB2, MoneyB2
-		;Extra Examples
-		;Oxford Collocations Dictionary
-			;adjective
-				;risk, venture, fixed…
-			;verb + capital
-				;have, accumulate, acquire…
-			;capital + noun
-				;assets, goods, resources…
-			;phrases
-				;capital and labour/laboran injection of capitala return on your capital…
-	;[singular] an amount of money that is invested or is used to start a business
-		;to set up a business with a starting capital of £100 000
-		;TOPICS BUSINESsB2
-		;Oxford Collocations Dictionary
-			;adjective
-				;risk, venture(kinh doanh mạo hiểm), fixed…
-			;verb + capital
-				;have, accumulate, acquire…
-			;capital + noun
-				;assets, goods, resources…
-			;phrases
-				;capital and labour/laboran injection of capitala return on your capital…
+		;see also venture capital, working capital
+		;Topics Business-b2, Moneyb2
+		;Extra Examples:
+		;He sank vast amounts of capital in the venture.
+		;They secured $175 million in capital funding from investors.
+		;Inner city areas require a large injection of capital.
+		;Investors want an immediate return on their capital.
+		;The company has put a lot of capital into the project.
+		;We don't have enough capital to buy new premises.
+				;Oxford Collocations Dictionary
+				;adjective
+				;riskventurefixed…
+				;verb + capital
+				;haveaccumulateacquire…
+				;capital + noun
+				;assetsgoodsresources…
+				;phrases
+				;capital and labour/​laboran injection of capitala return on your capital…
+		;See full entry
+	;vốn -- (4) [singular] an amount of money that is invested or is used to start a business
+		;to set up a business with a starting capital of £100 000
+		;Topics Business-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;riskventurefixed…
+				;verb + capital
+				;haveaccumulateacquire…
+				;capital + noun
+				;assetsgoodsresources…
+				;phrases
+				;capital and labour/​laboran injection of capitala return on your capital…
+		;See full entry
+	; -- (5) 
+	; -- (7) 
+	;;
 
 
 
@@ -2323,23 +2399,13 @@
 
 
 
-
-[-] capitalize		<-->	verb++C2	[220818][001]	./ˈkæpɪtəlaɪz/-NAmE /ˈkæpɪtəlaɪz/
-	;góp vốn -- [usually passive] capitalize something (business) to provide a company, etc. with the money it needs to function
-		;TOPICS BUSINESsC2
-
-
-
-
-
-
-
-
-
-
-[-] captain of industry		<-->	noun++C2	[220818][001]	./ˌkæptɪn əv ˈɪndəstri/-NAmE /ˌkæptɪn əv ˈɪndəstri/
-	;thuyền trưởng của ngành công nghiệp -- (plural captains of industry) used in the media to describe a person who manages a large business company
-		;TOPICS BUSINESsC2
+[-] capitalize		<-->	verb++C2	[220818][002]	./ˈkæpɪtəlaɪz/-NAmE /ˈkæpɪtəlaɪz/ (British English also capitalise) [t]
+	; -- (1) capitalize something to write or print a letter of the alphabet as a capital; to begin a word with a capital letter
+		;All capitalized words are explained in the glossary.
+	; -- (2) 
+	;tài trợ, góp vốn -- (3) [usually passive] capitalize something (business) to provide a company, etc. with the money it needs to function
+		;Topics Business-c2
+	;;
 
 
 
@@ -2349,14 +2415,30 @@
 
 
 
+[-] captain of industry		<-->	noun++C2	[220818][002]	./ˌkæptɪn əv ˈɪndəstri/-NAmE /ˌkæptɪn əv ˈɪndəstri/ (plural captains of industry) [t]
+	;thuyền trưởng của ngành công nghiệp -- (1) used in the media to describe a person who manages a large business company
+		;Topics Business-c2
+	;;
 
-[-] cartel		<-->	noun++C2	[220818][002]	./kɑːˈtel/-NAmE /kɑːrˈtel/ [230416] [news.ap]
-	;nhóm mà thao túng một ngành hay một nền công nghiệp -- [countable + singular or plural verb] a group of separate companies that agree to increase profits by fixing prices and not competing with each other
+
+
+
+
+
+
+
+
+[-] cartel		<-->	noun++C2	[220818][003]	./kɑːˈtel/-NAmE /kɑːrˈtel/ [countable + singular or plural verb] [230416] [news.ap] [t]
+	;nhóm mà thao túng một ngành hay một nền công nghiệp -- (1) a group of separate companies that agree to increase profits by fixing prices and not competing with each other
 		;to operate an illegal cartel
-		;TOPICS BUSINESsC2
-		;Oxford Collocations Dictionary
-			;Cartel is used after these nouns:
-				;cocaine, drug
+		;Police believe the cartel is/are looking for new locations to operate.
+		;Topics Business-c2
+				;Oxford Collocations Dictionary
+				;Cartel is used after these nouns:
+				;cocainedrug
+		;See full entry
+		;Word Origin
+	;;
 
 
 
@@ -2366,12 +2448,10 @@
 
 
 
-
-[-] cash cow		<-->	noun++C2	[220818][001]	./ˈkæʃ kaʊ/-NAmE /ˈkæʃ kaʊ/
-	;kinh doanh kiểu con bò sữa (luôn lời) -- (business) the part of a business that always makes a profit and that provides money for the rest of the business
-		;TOPICS BUSINESsC2
-
-
+[-] cash cow		<-->	noun++C2	[220818][002]	./ˈkæʃ kaʊ/-NAmE /ˈkæʃ kaʊ/ (business) [t]
+	;kinh doanh kiểu con bò sữa (luôn lời) -- (1) the part of a business that always makes a profit and that provides money for the rest of the business
+		;Topics Business-c2
+	;;
 
 
 
@@ -2379,6 +2459,7 @@
 
 
 
+===
 
 [-] cash flow		<-->	noun++C2	[220818][001]	./ˈkæʃ fləʊ/-NAmE /ˈkæʃ fləʊ/
 	;dòng tiền -- [countable, uncountable] the movement of money into and out of a business as goods are bought and sold
