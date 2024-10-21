@@ -2076,7 +2076,7 @@
 
 
 
-[-] business plan		<-->	noun++B1	[221128][002]	./ˈbɪznəs plæn/-NAmE /ˈbɪznəs plæn/ [t]
+[-] business plan		<-->	noun++B1	[221128][002]	./ˈbɪznəs plæn/-NAmE /ˈbɪznəs plæn/ [241021]
 	;kế hoạch kinh doanh -- (1) a document that describes a business’s aims for the future and the ways in which the business hopes to achieve those aims
 		;The company has put together a comprehensive business plan for the next five years.
 		;TOPICS BUSINESs-B1
@@ -2090,7 +2090,7 @@
 
 
 [-] business-to-business		<-->	adjective++C2	[220818][002]	./ˌbɪznəs tə ˈbɪznəs/-NAmE /ˌbɪznəs tə ˈbɪznəs/ [usually before noun]
-(abbreviation B2B, BTB) [t]
+(abbreviation B2B, BTB) [241021]
 	;kinh doanh doanh nghiệp với doanh nghiệp -- (1) done between one business and another rather than between a business and its ordinary customers
 		;business-to-business transactions
 		;Topics Business-c2
@@ -2115,7 +2115,7 @@
 
 
 
-[-] bust		<-->	adjective++C2	[220818][004]	./bʌst/-NAmE /bʌst/ [not usually before noun] (informal) [230402] [230523] [t]
+[-] bust		<-->	adjective++C2	[220818][004]	./bʌst/-NAmE /bʌst/ [not usually before noun] (informal) [230402] [230523] [241021]
 	;vỡ -- (1) (British English) broken
 		;My watch is bust.
 	;bị phá sản -- (2) ​(of a person or business) failed because of a lack of money
@@ -2135,7 +2135,7 @@
 
 
 
-[-] buyout		<-->	noun++C2	[220818][002]	./ˈbaɪaʊt/-NAmE /ˈbaɪaʊt/ [t]
+[-] buyout		<-->	noun++C2	[220818][002]	./ˈbaɪaʊt/-NAmE /ˈbaɪaʊt/ [241021]
 	;mua đứt -- (1) a situation in which a person or group gains control of a company by buying all or most of its shares
 		;a management buyout
 		;Topics Moneyc2, Business-c2
@@ -2154,7 +2154,7 @@
 
 
 [-] call centre		<-->	noun++B2	[221128][002]	./ˈkɔːl sentə(r)/-NAmE /ˈkɔːl sentər/ (British English)
-(US English call center) [t]
+(US English call center) [241021]
 	;trung tâm điều phối cuộc gọi -- (1) an office in which a large number of people work using phones, for example arranging insurance for people, or taking customers’ orders and answering questions
 		;to work in a call centre
 		;call-centre employees/staff
@@ -2169,7 +2169,7 @@
 
 
 
-[-] campaign		<-->	noun++B1	[221128][002]	./cef/ [t]
+[-] campaign		<-->	noun++B1	[221128][002]	./cef/ [241021]
 	;chiến dịch -- (1) a series of planned activities that are intended to achieve a particular social, commercial or political aim
 		;an anti-smoking campaign
 		;an advertising/a marketing campaign
@@ -2294,7 +2294,7 @@
 
 
 
-[-] capacity		<-->	noun++C1	[221128][002]	./cef/ (plural capacities) [t]
+[-] capacity		<-->	noun++C1	[221128][002]	./cef/ (plural capacities) [241021]
 	;dung tích -- (1) [-of container]
 	; -- (2) [-ability]
 	;tư cách, vai trò -- (3) [-role] [countable, usually singular] the official position or function that somebody has
@@ -2343,7 +2343,7 @@
 
 
 
-[-] capital		<-->	noun++B2	[221128][003]	./ˈkæpɪtl/-NAmE /ˈkæpɪtl/-\ [t]
+[-] capital		<-->	noun++B2	[221128][003]	./ˈkæpɪtl/-NAmE /ˈkæpɪtl/-\ [241021]
 	; -- (1) 
 	; -- (2) 
 	;vốn -- (3) [-money] [uncountable] wealth or property that is owned by a business or a person and can be invested or used to start a business
@@ -2399,7 +2399,7 @@
 
 
 
-[-] capitalize		<-->	verb++C2	[220818][002]	./ˈkæpɪtəlaɪz/-NAmE /ˈkæpɪtəlaɪz/ (British English also capitalise) [t]
+[-] capitalize		<-->	verb++C2	[220818][002]	./ˈkæpɪtəlaɪz/-NAmE /ˈkæpɪtəlaɪz/ (British English also capitalise) [241021]
 	; -- (1) capitalize something to write or print a letter of the alphabet as a capital; to begin a word with a capital letter
 		;All capitalized words are explained in the glossary.
 	; -- (2) 
@@ -2415,7 +2415,7 @@
 
 
 
-[-] captain of industry		<-->	noun++C2	[220818][002]	./ˌkæptɪn əv ˈɪndəstri/-NAmE /ˌkæptɪn əv ˈɪndəstri/ (plural captains of industry) [t]
+[-] captain of industry		<-->	noun++C2	[220818][002]	./ˌkæptɪn əv ˈɪndəstri/-NAmE /ˌkæptɪn əv ˈɪndəstri/ (plural captains of industry) [241021]
 	;thuyền trưởng của ngành công nghiệp -- (1) used in the media to describe a person who manages a large business company
 		;Topics Business-c2
 	;;
@@ -2428,7 +2428,7 @@
 
 
 
-[-] cartel		<-->	noun++C2	[220818][003]	./kɑːˈtel/-NAmE /kɑːrˈtel/ [countable + singular or plural verb] [230416] [news.ap] [t]
+[-] cartel		<-->	noun++C2	[220818][003]	./kɑːˈtel/-NAmE /kɑːrˈtel/ [countable + singular or plural verb] [230416] [news.ap] [241021]
 	;nhóm mà thao túng một ngành hay một nền công nghiệp -- (1) a group of separate companies that agree to increase profits by fixing prices and not competing with each other
 		;to operate an illegal cartel
 		;Police believe the cartel is/are looking for new locations to operate.
@@ -2448,7 +2448,7 @@
 
 
 
-[-] cash cow		<-->	noun++C2	[220818][002]	./ˈkæʃ kaʊ/-NAmE /ˈkæʃ kaʊ/ (business) [t]
+[-] cash cow		<-->	noun++C2	[220818][002]	./ˈkæʃ kaʊ/-NAmE /ˈkæʃ kaʊ/ (business) [241021]
 	;kinh doanh kiểu con bò sữa (luôn lời) -- (1) the part of a business that always makes a profit and that provides money for the rest of the business
 		;Topics Business-c2
 	;;
