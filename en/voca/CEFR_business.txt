@@ -2459,14 +2459,18 @@
 
 
 
-===
 
-[-] cash flow		<-->	noun++C2	[220818][001]	./ˈkæʃ fləʊ/-NAmE /ˈkæʃ fləʊ/
-	;dòng tiền -- [countable, uncountable] the movement of money into and out of a business as goods are bought and sold
+[-] cash flow		<-->	noun++C2	[220818][002]	./ˈkæʃ fləʊ/-NAmE /ˈkæʃ fləʊ/ [countable, uncountable] [241023]
+	;dòng tiền -- (1) the movement of money into and out of a business as goods are bought and sold
 		;a healthy cash flow (= having enough money to make payments when necessary)
 		;Many companies fail through poor cash flow.
 		;The company is having cash flow problems.
-		;TOPICS BUSINESsC2
+		;Topics Business-c2
+				;Oxford Collocations Dictionary
+				;Cash flow is used before these nouns:
+				;forecast
+		;See full entry
+	;;
 
 
 
@@ -2476,12 +2480,12 @@
 
 
 
-
-[-] cEO		<-->	noun++B2	[221128][001]	./ˌsiː iː ˈəʊ/-NAmE /ˌsiː iː ˈəʊ/
-	;giám đốc điều hành -- (plural CEOs) the person with the highest rank in a business company (the abbreviation for ‘chief executive officer’) 
+[-] CEO		<-->	noun++B2	[221128][002]	./ˌsiː iː ˈəʊ/-NAmE /ˌsiː iː ˈəʊ/ (plural CEOs) [241023]
+	;giám đốc điều hành -- (1) the person with the highest rank in a business company (the abbreviation for ‘chief executive officer’) 
 		;Wordfinder: accountantagentauditorbusinessmanCEOchairmanconsultantentrepreneurexecutivemanager
 		;Wordfinder: accountant, agent, auditor, CEO, chairman, consultant, entrepreneur, executive, manager
-		;TOPICS JobsB2, BUSINESsB2
+		;Topics Jobsb2, Business-b2
+	;;
 
 
 
@@ -2491,12 +2495,10 @@
 
 
 
-
-[-] cFO		<-->	noun++C1	[221128][001]	./ˌsiː ef ˈəʊ/-NAmE /ˌsiː ef ˈəʊ/
-	;giám đốc tài chính -- (plural CFOs) the person in a company who has the most authority over the finances (the abbreviation for ‘chief financial officer’)
-		;TOPICS JobsC1, BUSINESsC1
-
-
+[-] CFO		<-->	noun++C1	[221128][002]	./ˌsiː ef ˈəʊ/-NAmE /ˌsiː ef ˈəʊ/ (plural CFOs) [241023]
+	;giám đốc tài chính -- (1) the person in a company who has the most authority over the finances (the abbreviation for ‘chief financial officer’)
+		;Topics Jobsc1, Business-c1
+	;;
 
 
 
@@ -2505,7 +2507,8 @@
 
 
 
-[-] chairman		<-->	noun++B2	[221128][001]	./ˈtʃeəmən/-NAmE /ˈtʃermən/ (plural chairmen /ˈtʃeəmən/ /ˈtʃermən/)
+
+[-] chairman		<-->	noun++B2	[221128][001]	./cef/ (plural chairmen /ˈtʃeəmən/ /ˈtʃermən/)
 	;chủ tịch -- the person in charge of a meeting, who tells people when they can speak, etc.
 		;Sir Herbert took it upon himself to act as chairman.
 		;The motion was carried on the casting vote of the chairman.
@@ -2532,6 +2535,45 @@
 				;resign, stand down(leave a job)
 			;preposition
 				;chairman of
+	;chủ tịch -- (1) the person in charge of a meeting, who tells people when they can speak, etc.
+		;Sir Herbert took it upon himself to act as chairman.
+		;The motion was carried on the casting vote of the chairman.
+		;Topics Business-b2
+	; -- (2) the person in charge of a committee, a company, etc.
+		;the vice/deputy chairman
+		;the committee/board/party/club chairman
+		;the chairman of the committee/board/party/club
+		;the executive chairman
+		;He then served as chairman of the Civil Aviation Authority.
+		;The chairman of the company presented the annual report.
+		;He became chairman and CEO of the corporation.
+		;Wordfinder: accountantagentauditorbusinessmanCEOchairmanconsultantentrepreneurexecutivemanager
+		;Wordfinder: accountant, agent, auditor, CEO, chairman, consultant, entrepreneur, executive, manager
+		;More About gender
+		;Extra Examples:
+		;the chairman of the board of governors (= of a school)
+		;He has taken over as chairman and chief executive.
+		;May I introduce the new chairman and managing director?
+		;He steps down as chairman of the Federal Reserve next year.
+		;We were introduced to the company chairman.
+		;The chairman resigned following the allegations.
+		;a report by the outgoing chairman
+		;chairman of the Senate Agriculture Committee
+		;He was recently appointed honorary chairman of the Selkirk Cricket Club.
+		;He will replace the outgoing chairman, Henry Jones.
+		;The housing committee chairman described the announcement as shocking.
+		;Topics Business-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;boardcampaignclub…
+				;verb + chairman
+				;hold the post ofserve astake over as…
+				;chairman + verb
+				;resignstand down
+				;preposition
+				;chairman of
+		;See full entry
+	;;
 
 
 
@@ -2541,11 +2583,10 @@
 
 
 
-
-[-] chief executive officer		<-->	noun++B2	[221128][001]	./ˌtʃiːf ɪɡˌzekjətɪv ˈɒfɪsə(r)/-NAmE /ˌtʃiːf ɪɡˌzekjətɪv ˈɑːfɪsər/
-	;giám đốc điều hành -- (abbreviation CEO)the person in a company who has the most power and authority
-		;TOPICS BUSINESsB2
-
+[-] chief executive officer		<-->	noun++B2	[221128][002]	./ˌtʃiːf ɪɡˌzekjətɪv ˈɒfɪsə(r)/-NAmE /ˌtʃiːf ɪɡˌzekjətɪv ˈɑːfɪsər/ (abbreviation CEO) [241023]
+	;giám đốc điều hành -- (1) the person in a company who has the most power and authority
+		;Topics Business-b2
+	;;
 
 
 
@@ -2556,9 +2597,11 @@
 
 
 [-] chieftain		<-->	noun++C2	[220818][002]	./ˈtʃiːftən/-NAmE /ˈtʃiːftən/
-	;thủ lĩnh -- (informal) a powerful member of an organization
-		;Corporate chieftains are presiding(chủ trì) over companies that are cutting pay.
-		;TOPICS BUSINESsC2
+	;thủ lĩnh -- (1) the leader of a people or a clan
+	;ông chủ -- (2) (informal) a powerful member of an organization
+		;Corporate chieftains are presiding over companies that are cutting pay.
+		;Topics Business-c2
+	;;
 
 
 
@@ -2568,8 +2611,7 @@
 
 
 
-
-[-] classified		<-->	adjective++C2	[220818][001]	./ˈklæsɪfaɪd/-NAmE /ˈklæsɪfaɪd/ [usually before noun]
+[-] classified		<-->	adjective++C2	[220818][002]	./ˈklæsɪfaɪd/-NAmE /ˈklæsɪfaɪd/ [usually before noun] [241023]
 	;mật -- (1) (of information) officially secret and available only to particular people
 		;classified information/documents/material
 		;OPPOSITE unclassified
@@ -2580,7 +2622,8 @@
 	;được phân loại -- (2) with information arranged in groups according to subjects
 		;a classified catalogue
 	;mẫu quảng cáo nhỏ -- (3) classifieds noun [plural] classified advertisements (= small advertisements in a newspaper or on a website, placed in sections according to their subjects)
-		;TOPICS BUSINESSC2
+		;TOPICS BUSINESs-C2
+	;;
 
 
 
@@ -2590,38 +2633,43 @@
 
 
 
-
-[-] classified advertisement		<-->	noun++C2	[220818][001]	./ˌklæsɪfaɪd ədˈvɜːtɪsmənt/-NAmE /ˌklæsɪfaɪd ˌædvərˈtaɪzmənt/
-	;mẫu quảng cáo nhỏ -- (also classified ad, classified) (British English also small ad) (North American English also want ad) [usually plural]a small advertisement in a newspaper or on a website, put in a section according to its subject, that is placed by a person or small company who wants to buy or sell something, find or offer a job, etc.
-		;TOPICS TV, radio and newsC2, BUSINESsC2 
-
-
-
-
-
+[-] classified advertisement		<-->	noun++C2	[220818][002]	./ˌklæsɪfaɪd ədˈvɜːtɪsmənt/-NAmE /ˌklæsɪfaɪd ˌædvərˈtaɪzmənt/ (also classified ad, classified)
+(British English also small ad)
+(North American English also want ad)
+[usually plural] [241023]
+	;mẫu quảng cáo nhỏ -- (1) a small advertisement in a newspaper or on a website, put in a section according to its subject, that is placed by a person or small company who wants to buy or sell something, find or offer a job, etc.
+		;Topics TV, radio and newsc2, Business-c2
+	;;
 
 
 
 
 
-[-] clerk		<-->	noun++B2	[221128][001]	./cef/
-	;người thư kí -- (3) a person whose job is to keep the records or accounts and do other routine duties in an office, shop, etc.
+
+
+
+
+[-] clerk		<-->	noun++B2	[221128][002]	./cef/ [241023]
+	; -- (1) 
+	; -- (2) 
+	;thư kí -- (3) a person whose job is to keep the records or accounts and do other routine duties in an office, shop, etc.
 		;an office clerk
-		;SEE ALSO file clerk, filing clerk
+		;see also file clerk, filing clerk
 		;Extra Examples:
 		;He started work as a railway booking clerk.
 		;an articled clerk working for a large law firm
 		;(especially British English) a bank clerk (= who deals with customers in a bank)
-		;TOPICS JobsB2, BUSINESs-B2
-			;Oxford Collocations Dictionary
-			;adjective
+		;Topics Jobsb2, Business-b2
+				;Oxford Collocations Dictionary
+				;adjective
 				;chiefseniorassistant…
-			;preposition
-				;clerk to
-			;phrases
+				;preposition
+				;clerk to
+				;phrases
 				;the office of clerkthe post of clerk
 		;See full entry
-
+	; -- (4) 
+	;;
 
 
 
@@ -2632,22 +2680,42 @@
 
 
 [-] client		<-->	noun++B1	[221128][001]	./cef/
-	;khách hàng -- a person who uses the services or advice of a professional person or organization
+	;khách hàng -- (1) a person who uses the services or advice of a professional person or organization
 		;She's a well-known lawyer with many famous clients.
 		;potential/prospective clients
 		;It is our job to act on behalf of the client.
 		;We will advise the client on the best way to solve the problem.
 		;Social workers must always consider the best interests of their clients.
 		;Corporate clients usually want their work done much faster than private clients.
-		;Extra Examples
-		;TOPICS BUSINESsB1
-		;Oxford Collocations Dictionary
-			;adjective
-				;big, important, large…
-			;verb + client
-				;advise, assist, help…
-			;preposition
+		;Extra Examples:
+		;A new branch has been opened to serve clients in Dallas.
+		;On behalf of my client, I would like to remind you of your obligations in this matter.
+		;She's so busy that she's not taking on any new clients.
+		;The company needs to focus on its biggest clients.
+		;a campaign to attract new clients
+		;the relationship of solicitor and client
+		;It is important that both therapists and clients believe that change is possible.
+		;The company keeps in touch with clients online.
+		;Advice is offered at no additional cost to the client.
+		;The organization helps clients plan for the future.
+		;The company's major clients include interior designers and galleries.
+		;They have developed a broad client base in the local area.
+		;Sharing your business plan or client list is not advisable.
+		;client confidentiality agreements
+		;The company negotiates flexible contracts on behalf of its clients.
+		;Surgery opening will be extended to 8pm for clients by appointment.
+		;Our first meeting with a prospective client includes a thorough review of our past work.
+		;Topics Business-b1
+				;Oxford Collocations Dictionary
+				;adjective
+				;bigimportantlarge…
+				;verb + client
+				;adviseassisthelp…
+				;preposition
 				;on behalf of client
+		;See full entry
+	; -- (2) 
+	;;
 
 
 
@@ -2657,18 +2725,24 @@
 
 
 
-
-[-] clientele		<-->	noun++C2	[220818][001]	./ˌkliːənˈtel/-NAmE /ˌklaɪənˈtel/
-	;khách hàng -- [singular + singular or plural verb] all the customers or clients of a shop, restaurant, organization, etc.
+[-] clientele		<-->	noun++C2	[220818][002]	./ˌkliːənˈtel/-NAmE /ˌklaɪənˈtel/ [singular + singular or plural verb] [241023]
+	;khách hàng -- (1) all the customers or clients of a shop, restaurant, organization, etc.
 		;The facilities appeal to an international clientele.
 		;an important media event that is bound to attract a new clientele
-		;Extra Examples
-		;TOPICS BUSINESsC2
-		;Oxford Collocations Dictionary
-			;adjective
-				;large, narrow, small…
-			;verb + clientele
-				;attract, have, cater for…
+		;The clientele is/are drawn from a wide range of backgrounds.
+		;Extra Examples:
+		;It takes time to build (up) a clientele.
+		;The boutique caters for a rather select clientele.
+		;The restaurant has a large regular clientele.
+		;Topics Businessc2
+				;Oxford Collocations Dictionary
+				;adjective
+				;largenarrowsmall…
+				;verb + clientele
+				;attracthavecater for…
+		;See full entry
+		;Word Origin
+	;;
 
 
 
@@ -2678,11 +2752,17 @@
 
 
 
-
-[-] close		<-->	verb++C1	[221128][001]	./kləʊz/-NAmE /kləʊz/-\
-	;xắp đặt cuộc đàm phán -- [transitive] close something: to arrange and settle a business deal
+[-] close		<-->	verb++C1	[221128][002]	./kləʊz/-NAmE /kləʊz/*\ [241023]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;chốt -- (6) [transitive] close something to arrange and settle a business deal
 		;Right now we are trying to close the deal with our sponsors.
-		;TOPICS BUSINESsC1
+		;Topics Business-c1
+	; -- (12) 
+	;;
 
 
 
@@ -2692,12 +2772,12 @@
 
 
 
-
-[-] close its doors		<-->	idiom++C2	[220818][001]	.
-	;dừng hoạt động -- (of a business, etc.) to stop trading
+[-] close its doors		<-->	idiom++C2	[220818][002]	./i/ [241023]
+	;dừng hoạt động, đóng cửa -- (1) (of a business, etc.) to stop trading
 		;The factory closed its doors for the last time in 2009.
 		;The company closed shop and left the US last year.
-		;TOPICS BUSINESsC2
+		;Topics Business-c2
+	;;
 
 
 
@@ -2705,8 +2785,7 @@
 
 
 
-
-
+===
 
 [-] co.		<-->	abbreviation++C2	[220818][001]	./kəʊ/-NAmE /kəʊ/
 	;công ty -- (business) company
