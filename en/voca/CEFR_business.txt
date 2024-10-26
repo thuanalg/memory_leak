@@ -2911,10 +2911,13 @@
 
 
 
-[-] commoditization		<-->	noun++C2	[220818][001]	./kəˌmɒdɪtaɪˈzeɪʃn/-NAmE /kəˌmɑːdɪtəˈzeɪʃn/
-	;việc hàng hoá hoá, thương mại hoá -- (British English also commoditisation)(also commodification)[uncountable] the act or process of treating something as a product that can be bought and sold
-		;There’s a growing concern around the commoditization of education.
-		;TOPICS BUSINESsC2
+[-] commoditization		<-->	noun++C2	[220818][002]	./kəˌmɒdɪtaɪˈzeɪʃn/-NAmE /kəˌmɑːdɪtəˈzeɪʃn/ (British English also commoditisation)
+(also commodification)
+[uncountable] [t]
+	;thương mại -- (1) the act or process of treating something as a product that can be bought and sold
+		;There’s a growing concern about the commoditization of education.
+		;Topics Business-c2
+	;;
 
 
 
@@ -2924,11 +2927,12 @@
 
 
 
-
-[-] commoditize		<-->	verb++C2	[220818][001]	./kəˈmɒdətaɪz/-NAmE /kəˈmɑːdətaɪz/
-	;thương mại hoá -- (British English also commoditise)(also commodify)commoditize something to turn something into or treat something as a product that can be bought and sold
+[-] commoditize		<-->	verb++C2	[220818][002]	./kəˈmɒdətaɪz/-NAmE /kəˈmɑːdətaɪz/ (British English also commoditise)
+(also commodify) [t]
+	;thương mại hoá -- (1) ​commoditize something to turn something into or treat something as a product that can be bought and sold
 		;Christmas has been grossly commoditized over the years.
-		;TOPICS BUSINESsC2
+		;Topics Business-c2
+	;;
 
 
 
@@ -2938,26 +2942,13 @@
 
 
 
+[-] commodity		<-->	noun++C1	[221128][003]	./cef/ (plural commodities) [t]
+	;hàng hoá -- (1) 
+	; -- (2) 
+	; -- (3) 
+	;;
 
-[-] commodity		<-->	noun++C1	[221128][002]	./kəˈmɒdəti/-NAmE /kəˈmɑːdəti/
-	;hàng hoá -- (plural commodities) (economics) a product or a raw material that can be bought and sold
-		;rice, flour and other basic commodities
-		;a drop in commodity prices
-		;Crude oil is the world's most important commodity.
-		;basic agricultural commodities
-		;Synonyms product
-		;TOPICS BUSINESsC1, MoneyC1
-		;Oxford Collocations Dictionary
-			;adjective
-				;basic, important, primary…
-			;verb + commodity
-				;produce
-			;commodity + noun
-				;market, exchange, futures…
-			;phrases
-				;trade in commodities
-
-
+===
 
 
 
