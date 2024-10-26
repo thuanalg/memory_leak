@@ -2787,10 +2787,12 @@
 
 ===
 
-[-] co.		<-->	abbreviation++C2	[220818][001]	./kəʊ/-NAmE /kəʊ/
-	;công ty -- (business) company
-		;Pitt, Briggs & Co.
-		;TOPICS BUSINESsC2
+[-] Co.		<-->	abbreviation++C2	[220818][002]	./kəʊ/-NAmE /kəʊ/ (business) company [t]
+	;công ty -- (1) Pitt, Briggs & Co.
+		;Topics Business-c2
+	; -- (2) 
+	; -- (3) 
+	;;
 
 
 
@@ -2800,12 +2802,12 @@
 
 
 
-
-[-] co-branding		<-->	noun++C2	[220818][001]	./ˈkəʊ brændɪŋ/-NAmE /ˈkəʊ brændɪŋ/
-	;đồng thương hiệu -- [uncountable] (business) a marketing strategy in which two companies work together to sell their products or services, using both company names
+[-] co-branding		<-->	noun++C2	[220818][002]	./ˈkəʊ brændɪŋ/-NAmE /ˈkəʊ brændɪŋ/ [uncountable] (business) [t]
+	;đồng thương hiệu -- (1) a marketing strategy in which two companies work together to sell their products or services, using both company names
 		;Co-branding includes having our logo and brand name printed on the book.
 		;The store's e-reader is a co-branding venture with a South Korean smartphone company
-		;TOPICS BUSINESsC2
+		;Topics Business-c2
+	;;
 
 
 
@@ -2815,12 +2817,12 @@
 
 
 
-
-[-] code of practice		<-->	noun++C2	[220818][001]	./ˌkəʊd əv ˈpræktɪs/-NAmE /ˌkəʊd əv ˈpræktɪs/
-	;quy tắc vận hành -- (plural codes of practice) a set of standards that members of a particular profession agree to follow in their work
+[-] code of practice		<-->	noun++C2	[220818][002]	./ˌkəʊd əv ˈpræktɪs/-NAmE /ˌkəʊd əv ˈpræktɪs/ (plural codes of practice) [t]
+	;bộ quy tắc vận hành -- (1) a set of standards that members of a particular profession agree to follow in their work
 		;a recommended code of practice issued to all local government employees
 		;The profession has a strict code of practice.
-		;TOPICS BUSINESsC2
+		;Topics Business-c2
+	;;
 
 
 
@@ -2830,13 +2832,11 @@
 
 
 
-
-[-] cold-calling		<-->	noun++C2	[220818][001]	./ˌkəʊld ˈkɔːlɪŋ/-NAmE /ˌkəʊld ˈkɔːlɪŋ/
-	;gọi để quảng cáo -- [uncountable] the practice of phoning somebody that you do not know, in order to sell them something
-		;Wordfinder: advertise, cold-calling, lealet, mailing, mailshot, marketing, poster, product placement, prospectus, publicize
-		;TOPICS Phones, email and the internetC2, BUSINESsC2
-
-
+[-] cold-calling		<-->	noun++C2	[220818][002]	./ˌkəʊld ˈkɔːlɪŋ/-NAmE /ˌkəʊld ˈkɔːlɪŋ/ [uncountable] [t]
+	;gọi để quảng cáo -- (1) the practice of phoning somebody that you do not know, in order to sell them something
+		;Wordfinder: advertisecold-callingleafletmailingmailshotmarketingposterproduct placementprospectuspublicize
+		;Topics Phones, email and the internetc2, Businessc2
+	;;
 
 
 
@@ -2845,10 +2845,13 @@
 
 
 
-[-] collective		<-->	noun++C2	[220818][004]	./kəˈlektɪv/-NAmE /kəˈlektɪv/-\ [240126] [240520]
-	;nhóm sở hữa một business, tập thể -- a group of people who own a business or a farm and run it together;the business that they run
+
+[-] collective		<-->	noun++C2	[220818][005]	./kəˈlektɪv/-NAmE /kəˈlektɪv/-\ [240126] [240520] [t]
+	;nhóm sở hữa một business, tập thể -- (1) a group of people who own a business or a farm and run it together; the business that they run
 		;an independent collective making films for television
-		;TOPICS BUSINESsC2
+		;Topics Business-c2
+		;Word Origin
+	;;
 
 
 
@@ -2858,23 +2861,31 @@
 
 
 
-
-[-] commerce		<-->	noun++C1	[221128][001]	./ˈkɒmɜːs/-NAmE /ˈkɑːmɜːrs/
-	;thương mại -- [uncountable] trade, especially between countries;the buying and selling of goods and services
+[-] commerce		<-->	noun++C1	[221128][003]	./ˈkɒmɜːs/-NAmE /ˈkɑːmɜːrs/ [uncountable] [t]
+	;thương mại -- (1) trade, especially between countries; the buying and selling of goods and services
 		;Leaders of industry and commerce met at the summit in Paris.
-		;Wordfinder: boom, business, commerce, embargo, import, market, monopoly, sanction, tariff, trade, 
-		;SEE ALSO Chamber of Commerce, e-commerce, m-commerce
-		;Extra Examples
-		;TOPICS BUSINESsC1, PoliticsC1
-		;Oxford Collocations Dictionary
-			;adjective
-				;foreign, global, international…
-			;verb + commerce
-				;engage in, regulate, affect…
-			;preposition
-				;commerce between, commerce with
-			;phrases
-				;a chamber of commerce, the world of commerce
+		;Wordfinder
+		;boombusinesscommerceembargoimportmarketmonopolysanctiontarifftrade
+		;see also Chamber of Commerce, e-commerce, m-commerce
+		;Extra Examples:
+		;She has little experience of the world of commerce.
+		;The marketplace was where commerce was traditionally carried on.
+		;The marketplace was where merchants engaged in commerce.
+		;commerce between China and Africa
+		;the development of commerce with Asia
+		;Topics Business-c1, Politicsc1
+				;Oxford Collocations Dictionary
+				;adjective
+				;foreignglobalinternational…
+				;verb + commerce
+				;engage inregulateaffect…
+				;preposition
+				;commerce  betweencommerce  with
+				;phrases
+				;a chamber of commercethe world of commerce
+		;See full entry
+		;Word Origin
+	;;
 
 
 
@@ -2884,37 +2895,18 @@
 
 
 
-
-[-] commercial		<-->	adjective++B1	[221128][001]	./kəˈmɜːʃl/-NAmE /kəˈmɜːrʃl/
-	;thuộc thương mại -- [usually before noun] connected with the buying and selling of goods and services
-		;residential and commercial properties
-		;a commercial building/development
-		;(especially North American English) commercial real estate
-		;commercial activities
-		;They have offices in the commercial heart of the city.
-		;She is developing the commercial side of the organization.
-		;a commercial vehicle (= one that is used for carrying goods or passengers who pay)
-		;~ Synonyms economic;financial, commercial, monetary, budgetary
-		;TOPICS BUSINESsB1
-	;chú trọng lợi nhuận -- [only before noun] making or intended to make a profit
-		;The movie was not a commercial success (= did not make money).
-		;Risks arise when state-owned enterprises begin operating as commercial entities.
-		;policies to attract new industrial or commercial enterprises
-		;They are keen to see the technology licensed for commercial use.
-		;The data cannot be used for commercial purposes.
-		;The newspaper is acting solely in its own commercial interests.
-		;commercial baby foods
-		;the first commercial flights across the Atlantic
-		;~ Synonyms successful;profitable, commercial, lucrative, economic
-		;Extra Examples
-		;TOPICS BUSINESsB1
+[-] commercial		<-->	adjective++B1	[221128][001]	./cef/ [t]
+	;thuộc thương mại -- (1) 
+	;có tính thương mại -- (2) 
+	; -- (3) 
+	; -- (4) 
+	;;
 
 
 
 
 
-
-
+===
 
 
 
