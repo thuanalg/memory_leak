@@ -51,10 +51,32 @@ VulkanRender::Init:
 ----
 Phân biệt: <<, succeed, achieve, retrieve, accomplish, gain, obtain, attain, ,,,,,,,,>>
 Phân biệt: <<, mind, look after, take care of >>
-Phân biệt: <<<<negotiate, bargain, haggle, dicker, deal, confer>>>>
+Phân biệt: <<<<negotiate,
+ bargain, haggle, dicker, deal, confer>>>>
 Phân biệt: <<infer, deduce, confer, imply, >>
 Phân biệt: <<,camp, tent, hut, lodge, shack, yurt, chalet, >>
 Phân biệt: <<,sin, crime, >>
 Phân biệt: <<,moral, ethnic, virtue, >>
 Phân biệt: << testament, testimony, evidence >>
 Phân biệt: << testament, will >>
+
+ [br-ate] [t]
+ [br-06] [t]
+ [orw.226]
+ [orw.230] [t]
+alternate,
+advocate,
+approximate,
+delegate,
+duplicate,
+estimate,
+graduate,
+intimate,
+moderate,
+
+ [br-06] [t]
+ [br-02] [t]
+Hi Hùng, Quá.
+Mình thử tìm con đường tắt từ pdf -->> Emf, vì thấy thư viện poppler/cairo làm rất giống mục tiêu của mình. Tiếc là poppler chỉ xử lý pdf khá tốt, nhưng phần print ra context lại phụ thuộc vào glib, xuất hiện vấn đề về tương thích binary (trở nên khó giải quyết).
+Mình đang nghĩ cách và xem xét kỹ lại lần nữa, nếu không OK mình sẽ nghĩ cách tiến cận khác, nó cơ bản. 
+Nếu cần code, evidence, report chi tiết hơn thì ping mình nhé.
