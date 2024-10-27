@@ -1,0 +1,64 @@
+z.en/en.2022.07.08/memory_leak/en/voca
+
+	Line 555745: ------->>>>> [[[TRANSPORT BY WATER]]] 
+	Line 562055: [[[TRANSPORT BY WATER]]]<<<<<-------
+	Line 562058: ------->>>>> [[[TRANSPORT BY WATER]]] 
+	Line 568368: [[[TRANSPORT BY WATER]]]<<<<<-------
+	
+Hãy viết cách đọc cổng COM bằng Win32 APIs
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error	C4996	'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.	MFCApplication8_COM	C:\Users\thuan.nguyen\source\repos\MFCApplication8_COM\MFCApplication8_COM\com_port.c	70		
+
+1. COMport
+2. Signal/slot
+3. FFMpeg
+4. Vulkan
+
+<<<<<<< HEAD:en/voca/dialy.txt
+./configure --prefix=/mingw32 --target-os=mingw32 --arch=i686 --enable-shared --disable-static --enable-gpl --enable-version3
+./configure --prefix=/mingw32 --enable-libx264 --target-os=mingw32 --arch=i686 --enable-shared --disable-static --enable-gpl --enable-version3
+
+./configure --prefix=/mingw32 --host=i686-w64-mingw32 --enable-shared
+ffmpeg -list_devices true -f dshow -i dummy
+ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30 -t 20 -c:v libx264 -crf 18 -preset slow output_01.mp4
+ 
+./ffmpeg -list_devices true -f dshow -i dummy
+gdb --args ./ffmpeg_g.exe -list_devices true -f dshow -i dummy
+
+ffmpeg -f dshow -i video="Integrated Webcam":audio="마이크 (KM_B2 Digital Audio)" output.mp4
+
+ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 18 -t 10 -preset slow output7.mp4
+
+ffmpeg -f dshow -i video="Integrated Webcam":audio="마이크 (KM_B2 Digital Audio)" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 18 -t 20 -preset slow output8.mp4
+
+ffmpeg -f dshow -i video="Integrated Webcam":audio="Microphone (Realtek(R) Audio)" -video_size 1920x1080 -framerate 30 -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 192k -t 20 output_2.mp4
+
+Microphone (Realtek(R) Audio)
+
+ffmpeg -f gdigrab -i desktop -i output_2.mp4
+ 
+ffmpeg -f gdigrab -i desktop -f dshow -i audio="마이크 (KM_B2 Digital Audio)" -framerate 30 -video_size 1920x1080 output_2.mp4
+
+ffmpeg -f gdigrab -i desktop -f dshow -i audio="마이크 (KM_B2 Digital Audio)" output3.mp4
+ 
+./configure --prefix=/mingw32 --enable-libx264 --enable-shared --disable-static --arch=i686 --target-os=mingw32 --enable-gpl --enable-version3
+
+./configure --prefix=/mingw32 --enable-shared --disable-static --arch=i686 --target-os=mingw32 --enable-gpl --enable-version3
+
+./configure --prefix=/mingw32 --host=i686-w64-mingw32 --enable-shared
+
+git clone https://bitbucket.org/multicoreware/x265_git.git
+cd x265_git/build/msys
+From github.com:thuanalg/simplelog-topic
+ = [up to date]      240822_fmt -> origin/240822_fmt
+ = [up to date]      main       -> origin/main
+ = [up to date]      mingw32    -> origin/mingw32
+ 
+ https://docs.google.com/document/d/1PRZBfgWlRIYJei4hyNU4sXQjp_NJPM-0CLTEdBRvCUU/edit?usp=sharing
+ Which function of win32 API to read/write data from camera 
+
+
+ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30 -t 10 -c:v libx264 -crf 18 -preset slow output_09.mp4
+=======
+[lm.a.s.97]
+>>>>>>> 4e84bbd67799cdf995a96fb61a5eaf94ebd6da44:en/voca/new 1.txt
