@@ -1,1 +1,14 @@
-gg
+https://pdfguru.com/app/payment?source=editor
+git clone --recursive -j8 https://github.com/mathog/libUEMF.git
+
+cmake -G "Visual Studio 17 2022" -B ../build
+
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error	C4996	'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.	zEMF	C:\z\libUEMF\uemf.c	1270		
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error	C4146	unary minus operator applied to unsigned type, result still unsigned	zEMF	C:\z\libUEMF\uemf_print.c	55		
+
+782,1012
+
+- 1. Save By EMF format
+- 
