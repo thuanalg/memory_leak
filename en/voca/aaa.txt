@@ -10,5 +10,10 @@ Error	C4146	unary minus operator applied to unsigned type, result still unsigned
 
 782,1012
 
+c:\z\libUEMF>git remote -v
+origin  https://github.com/mathog/libUEMF.git (fetch)
+origin  https://github.com/mathog/libUEMF.git (push)
+
+
 - 1. Save By EMF format
 - 
