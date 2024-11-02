@@ -2785,7 +2785,6 @@
 
 
 
-===
 
 [-] Co.		<-->	abbreviation++C2	[220818][002]	./kəʊ/-NAmE /kəʊ/ (business) company [t]
 	;công ty -- (1) Pitt, Briggs & Co.
@@ -2906,7 +2905,6 @@
 
 
 
-===
 
 
 
@@ -2957,8 +2955,8 @@
 
 
 
-[-] compete		<-->	verb++B1	[221128][001]	./kəmˈpiːt/-NAmE /kəmˈpiːt/
-	;cạnh tranh -- [intransitive] to try to be more successful or better than somebody else who is trying to do the same as you
+[-] compete		<-->	verb++B1	[221128][001]	./cef/ [t]
+	;cạnh tranh -- (1) [intransitive] to try to be more successful or better than somebody else who is trying to do the same as you
 		;They simply cannot compete in the international market.
 		;compete for something Several companies are competing for the contract.
 		;Young children will usually compete for their mother's attention.
@@ -2969,7 +2967,7 @@
 		;to compete on quality/cost
 		;compete to do something There are too many magazines competing to attract readers.
 		;Extra Examples
-		;TOPICS SuccessB1, BUSINESsB1
+		;TOPICS SuccessB1, BUSINESs-B1
 		;Oxford Collocations Dictionary
 			;adverb
 				;effectively, successfully, directly…
@@ -2977,6 +2975,8 @@
 				;cannot
 			;preposition
 				;against, for, in…
+	; -- (2) 
+	;;
 
 
 
@@ -2985,11 +2985,16 @@
 
 
 
-
-[-] competing		<-->	adjective++B2	[221128][001]	./kəmˈpiːtɪŋ/-NAmE /kəmˈpiːtɪŋ/
-	;rất cạnh tranh -- [only before noun] (of different products, services or businesses) each trying to get the attention of possible customers and be more successful than others
+[-] competing		<-->	adjective++B2	[221128][002]	./kəmˈpiːtɪŋ/-NAmE /kəmˈpiːtɪŋ/ [only before noun] [t]
+	; -- (1) ​(of different ideas, interests, explanations, etc.) unable to exist or be true at the same time
+		;There were several competing accounts of what actually happened that night.
+	;rất cạnh tranh -- (2) (of different products, services or businesses) each trying to get the attention of possible customers and be more successful than others
 		;competing brands of diet soda
-		;TOPICS BUSINESsB2
+		;Topics Business-b2
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;;
 
 
 
@@ -2998,9 +3003,41 @@
 
 
 
-
-[-] competition		<-->	noun++B1	[221128][001]	./ˌkɒmpəˈtɪʃn/-NAmE /ˌkɑːmpəˈtɪʃn/
-	;đối thủ -- [uncountable] a situation in which people or organizations compete with each other for something that not everyone can have
+[-] competition		<-->	noun++B1	[221128][002]	./cef/ [t]
+	;tài năng, danh giá -- (1) [countable] an event in which people compete with each other to find out who is the best at something
+		;a design/an art/a talent competition
+		;an international/a national competition
+		;Hundreds of schools entered the competition.
+		;She's won a prestigious singing competition.
+		;in a competition He won fourth place in the competition.
+		;a competition to do something a competition to design the new Parliament building
+		;Wordfinder: closing datecompetitiondisqualifyjudgeprizeroundrunner-upsubmittiebreakerwinner
+		;Extra Examples:
+		;There will be a painting competition for children of different age groups.
+		;They twice won the European Cup, a knockout competition between the top teams in Europe.
+		;I encouraged her to enter the essay competition.
+		;wines that won medals at major wine competitions
+		;a competition for the best chef
+		;a competition between the best teams in the country
+		;We're going to have a competition to see who can swim the fastest.
+		;The competition is open to all readers of the magazine.
+		;The American women dominated the competition, winning all the events.
+		;I won the car in a competition.
+		;She won an international dancing competition.
+		;Topics Sports: other sportsa2
+				;Oxford Collocations Dictionary
+				;adjective
+				;internationalnationalmajor…
+				;verb + competition
+				;winlosehave…
+				;competition + verb
+				;take placebe open to somebody
+				;competition + noun
+				;winnerentrycommittee…
+				;preposition
+				;in a/​the competitioncompetition betweencompetition for…
+		;See full entry
+	;sự cạnh tranh -- (2) [uncountable] a situation in which people or organizations compete with each other for something that not everyone can have
 		;stiff/fierce/intense/tough competition
 		;competition between A and B competition between two similar products
 		;competition among somebody/something The government said the new laws would enhance competition among banks.
@@ -3010,19 +3047,47 @@
 		;in competition with somebody/something Public education is run in direct competition with the private sector.
 		;in competition with somebody/something for something We are in competition with four other companies for the contract.
 		;in competition with somebody/something to do something The programme puts two couples in competition with each other to redecorate one another's homes.
-		;Extra Examples
-		;TOPICS Sports: other sportsB1, BUSINESsB1
-		;Oxford Collocations Dictionary
-			;adjective
+		;Extra Examples:
+		;Competition is heating up and sales are shrinking.
+		;We won the contract in the face of tough competition.
+		;Fierce competition exists between schools in the area.
+		;This is a significant achievement for the company in the face of stiff competition from its Australian rival.
+		;Their rivalry had been one of friendly competition.
+		;There is a lot of competition between rival airlines.
+		;There is head-to-head competition in production and distribution.
+		;They won the order against fierce international competition.
+		;This intensified the competition for the same investors' funds.
+		;We are in competition with some very large companies.
+		;We face strong competition from other countries.
+		;intense competition for the contract
+		;policies aimed at fostering greater competition in the industry
+		;to fight off competition from foreign firms
+		;She plans to go into competition with her former employer.
+		;The company is having to lay off workers in the face of stiff competition.
+		;There is now intense competition between schools to attract students.
+		;Topics Sports: other sportsb1, Business-b1
+				;Oxford Collocations Dictionary
+				;adjective
 				;cut-throatfierceintense…
-			;verb + competition
+				;verb + competition
 				;be up againstfacego into…
-			;competition + verb
-				;exis, theat up, intensify…
-			;competition + noun
+				;competition + verb
+				;existheat upintensify…
+				;competition + noun
 				;laws
-			;preposition
-				;against competition, in competition with, in the face of competition…
+				;preposition
+				;against competitionin competition within the face of competition…
+		;See full entry
+	; -- (3) the competition [singular + singular or plural verb] the people who are competing against somebody
+		;We'll be able to assess the competition at the conference.
+		;This car consistently outperforms the competition.
+		;The competition is/are bringing out a new model.
+				;Oxford Collocations Dictionary
+				;verb + competition
+				;outperformblow awaycrush…
+		;See full entry
+		;Word Origin
+	;;
 
 
 
@@ -3032,22 +3097,11 @@
 
 
 
-
-[-] competitive		<-->	adjective++B1	[221128][001]	./kəmˈpetətɪv/-NAmE /kəmˈpetətɪv/
- 	;có tính cạnh tranh -- used to describe a situation in which people or organizations compete against each other
-		;competitive games/sports
-		;Graduates have to fight for jobs in an increasingly competitive market.
-		;Those businesses are operating in an extremely competitive environment.
-		;The company has succeeded in a highly competitive industry.
-		;Extra Examples
-		;TOPICS Sports: other sportsB1, BUSINESsB1, Working lifeB1
-		;Oxford Collocations Dictionary
-			;verbs
-				;be, become, remain…
-			;adverb
-				;extremely, fairly, very…
-			;preposition
-				;with
+[-] competitive		<-->	adjective++B1	[221128][001]	./cef/ [t]
+ 	;có tính cạnh tranh --  (1) 
+	; -- (2) 
+	; -- (3) 
+	;;
 
 
 
@@ -3056,25 +3110,23 @@
 
 
 
+[-] competitor		<-->	noun++B1	[221128][002]	./cef/ [t]
+	;đối thủ --  (1) 
+	; -- (2) 
+	;;
 
-[-] competitor		<-->	noun++B1	[221128][001]	./kəmˈpetɪtə(r)/-NAmE /kəmˈpetɪtər/
-	;đối thủ -- a person or an organization that competes against others, especially in business
-		;We produce cheaper goods than our competitors.
-		;The company is outperforming its main competitors in the US market.
-		;competitor to something They are set to become formidable competitors to American companies.
-		;competitor for something Japan was not a major competitor for scarce resources such as oil.
-		;Wordfinder: agent, business, company, competitor, customer, director, employ, franchise, manager, shareholder
-		;Extra Examples
-		;TOPICS Sports: other sportsB1, BUSINESsB1
-		;Oxford Collocations Dictionary
-			;adjective
-				;biggestchiefleading…
-			;verb + competitor
-				;face, beat, outperform (vượt trội) …
-			;competitor + verb
-				;offer something
-			;preposition
-				;competitor for
+
+
+
+
+
+
+
+[-] comptroller		<-->	noun++C2	[220818][002]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/ (also controller) [t]
+	;người chịu trách nhiệm về tài chính -- (1) a person who is in charge of the financial accounts of a business company
+		;Topics Business-c2
+		;Word Origin
+	;;
 
 
 
@@ -3084,25 +3136,19 @@
 
 
 
-[-] comptroller		<-->	noun++C2	[220818][001]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/
-	;người chịu trách nhiệm về tài chính -- (also controller) a person who is in charge of the financial accounts of a business company
-		;TOPICS BUSINESsC2
-
-
-
-
-
-
-
-
-
-
-[-] concern		<-->	noun++C2	[220818][001]	./kənˈsɜːn/-NAmE /kənˈsɜːrn/\
-	;công ty -- [countable] a company or business;SYNONYM firm
+[-] concern		<-->	noun++C2	[220818][002]	./kənˈsɜːn/-NAmE /kənˈsɜːrn/\ [t]
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	;công ty -- (5) [-company] [countable] a company or business
+		;synonym firm
+		;<< firm, company, concern, >>
 		;The scheme has been set up by a major publishing concern.
 		;a successful publishing concern
-		;TOPICS BUSINESsC2
-
+		;Topics Business-c2
+		;Word Origin
+	;;
 
 
 
@@ -3113,13 +3159,22 @@
 
 
 [-] conglomerate		<-->	noun++C2	[220818][001]	./kənˈɡlɒmərət/-NAmE /kənˈɡlɑːmərət/
-	;công ty đa ngành -- [countable] (business) a large company formed by joining together different firms
+	;công ty đa ngành -- (1) [countable] (business) a large company formed by joining together different firms
 		;He turned the business into a huge media conglomerate.
-		;Extra Examples
-		;TOPICS BUSINESsC2
-		;Oxford Collocations Dictionary
-			;adjective
-				;big, giant, huge…	
+		;Extra Examples:
+		;the giant pharmaceutical conglomerates
+		;one of seven global media conglomerates that dominate the industry
+		;a chemical/​an industrial/​an engineering/​a mining conglomerate
+		;a vast/​an international/​a multinational conglomerate
+		;Topics Business-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;biggianthuge…
+		;See full entry
+	; -- (2) 
+	; -- (3) [uncountable] (geology) a type of rock made of small stones held together by dried clay
+		;Word Origin
+	;;
 
 
 
@@ -3129,25 +3184,10 @@
 
 
 
-
-[-] consultant		<-->	noun++B2	[221128][001]	./kənˈsʌltənt/-NAmE /kənˈsʌltənt/
- 	;nhà tư vấn -- a person who knows a lot about a particular subject and is employed to give advice about it to other people
-		;a technology/design consultant
-		;She is clearly being coached by image consultants.
-		;consultant on something the president’s consultant on economic affairs
-		;consultant to somebody/something He was happy to act as a consultant to the company.
-		;SEE ALSO management consultant
-		;Wordfinder: accountantagentauditorbusinessmanCEOchairmanconsultantentrepreneurexecutivemanager
-		;Wordfinder: accountant, agent, auditor, CEO, chairman, consultant, entrepreneur, executive, manager
-		;Extra Examples
-		;TOPICS Suggestions and adviceB2, JobsB2, BUSINESsB2
-		;Oxford Collocations Dictionary
-			;adjective
-				;business, campaign, computer…
-			;verb + consultant
-				;act as, bring in, employ (somebody as)…
-			;preposition
-				;consultant in, consultant on, consultant to…
+[-] consultant		<-->	noun++B2	[221128][002]	./kənˈsʌltənt/-NAmE /kənˈsʌltənt/ [t]
+ 	;nhà tư vấn -- (1) 
+	; -- (2) 
+	;;
 
 
 
@@ -3157,9 +3197,8 @@
 
 
 
-
-[-] consumer		<-->	noun++B1	[221128][001]	./kənˈsjuːmə(r)/-NAmE /kənˈsuːmər/
-	;người tiêu thụ, khách hàng -- a person who buys goods or uses services
+[-] consumer		<-->	noun++B1	[221128][002]	./cef/ [t]
+	;người tiêu thụ, khách hàng -- (1) a person who buys goods or uses services
 		;consumer spending/demand
 		;links between producers and consumers
 		;Health-conscious consumers want more information about the food they buy.
@@ -3171,8 +3210,21 @@
 		;providers and consumers of public services
 		;We need to educate consumers about this technology.
 		;COMPARE producer
-		;Extra Examples
-		;TOPICS BUSINESsB1
+		;Extra Examples:
+		;Consumer watchdogs have accused banks of ‘appalling arrogance’ in the way they treat customers.
+		;Government policy encouraged a consumer boom followed by a deep recession.
+		;Green consumers should be wary of manufacturers' claims that their products are environmentally friendly.
+		;Mass culture turns audiences into passive consumers, their participation limited to the choice between buying and not buying.
+		;The UK is the biggest consumer of tropical hardwoods after Japan.
+		;The country could face a consumer boycott of its beef exports.
+		;They exploit consumers by charging high prices.
+		;We are living in a consumer society.
+		;We are the biggest consumers of tropical hardwoods after Japan.
+		;We supply domestic consumers
+		;What can be done to protect the ordinary consumer from unscrupulous operators?
+		;two years of research among consumers
+		;The big stores are, of course, responding to consumer demand.
+		;TOPICS BUSINESs-B1
 		;Oxford Collocations Dictionary
 			;adjective
 				;big, great, heavy…
@@ -3184,6 +3236,7 @@
 				;applications, brands, devices…
 			;preposition
 				;among consumers
+	;;
 
 
 
@@ -3193,12 +3246,12 @@
 
 
 
-
-[-] consumerism		<-->	noun++C1	[221128][001]	./kənˈsjuːmərɪzəm/-NAmE /kənˈsuːmərɪzəm/
-	;việc tiêu thủ hàng hoá -- [uncountable] (sometimes disapproving) the buying and using of goods and services;the belief that it is good for a society or an individual person to buy and use a large quantity of goods and services
+[-] consumerism		<-->	noun++C1	[221128][002]	./kənˈsjuːmərɪzəm/-NAmE /kənˈsuːmərɪzəm/ [uncountable] (sometimes disapproving) [t]
+	;việc tiêu thủ hàng hoá -- (1) [uncountable] (sometimes disapproving) the buying and using of goods and services;the belief that it is good for a society or an individual person to buy and use a large quantity of goods and services
 		;She was appalled by the greed and rampant consumerism she saw in modern society.
 		;green consumerism (= the buying of products that are not harmful to the environment)
-		;TOPICS BUSINESsC1
+		;TOPICS BUSINESs-C1
+	;;
 
 
 
@@ -3206,8 +3259,7 @@
 
 
 
-
-
+===
 
 [-] consumerist		<-->	adjective++C1	[221128][001]	./kənˈsjuːmərɪst/-NAmE /kənˈsuːmərɪst/
 	;liên quan tiêu thụ hàng hoá -- (sometimes disapproving) connected with buying and using goods and services, or with the beliefs of consumerism
