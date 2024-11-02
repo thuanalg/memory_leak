@@ -2786,7 +2786,7 @@
 
 
 
-[-] Co.		<-->	abbreviation++C2	[220818][002]	./kəʊ/-NAmE /kəʊ/ (business) company [t]
+[-] Co.		<-->	abbreviation++C2	[220818][002]	./kəʊ/-NAmE /kəʊ/ (business) company [241102]
 	;công ty -- (1) Pitt, Briggs & Co.
 		;Topics BUSINESs-c2
 	; -- (2) 
@@ -2801,7 +2801,7 @@
 
 
 
-[-] co-branding		<-->	noun++C2	[220818][002]	./ˈkəʊ brændɪŋ/-NAmE /ˈkəʊ brændɪŋ/ [uncountable] (business) [t]
+[-] co-branding		<-->	noun++C2	[220818][002]	./ˈkəʊ brændɪŋ/-NAmE /ˈkəʊ brændɪŋ/ [uncountable] (business) [241102]
 	;đồng thương hiệu -- (1) a marketing strategy in which two companies work together to sell their products or services, using both company names
 		;Co-branding includes having our logo and brand name printed on the book.
 		;The store's e-reader is a co-branding venture with a South Korean smartphone company
@@ -2816,7 +2816,7 @@
 
 
 
-[-] code of practice		<-->	noun++C2	[220818][002]	./ˌkəʊd əv ˈpræktɪs/-NAmE /ˌkəʊd əv ˈpræktɪs/ (plural codes of practice) [t]
+[-] code of practice		<-->	noun++C2	[220818][002]	./ˌkəʊd əv ˈpræktɪs/-NAmE /ˌkəʊd əv ˈpræktɪs/ (plural codes of practice) [241102]
 	;bộ quy tắc vận hành -- (1) a set of standards that members of a particular profession agree to follow in their work
 		;a recommended code of practice issued to all local government employees
 		;The profession has a strict code of practice.
@@ -2831,7 +2831,7 @@
 
 
 
-[-] cold-calling		<-->	noun++C2	[220818][002]	./ˌkəʊld ˈkɔːlɪŋ/-NAmE /ˌkəʊld ˈkɔːlɪŋ/ [uncountable] [t]
+[-] cold-calling		<-->	noun++C2	[220818][002]	./ˌkəʊld ˈkɔːlɪŋ/-NAmE /ˌkəʊld ˈkɔːlɪŋ/ [uncountable] [241102]
 	;gọi để quảng cáo -- (1) the practice of phoning somebody that you do not know, in order to sell them something
 		;Wordfinder: advertisecold-callingleafletmailingmailshotmarketingposterproduct placementprospectuspublicize
 		;Topics Phones, email and the internetc2, Businessc2
@@ -2845,7 +2845,7 @@
 
 
 
-[-] collective		<-->	noun++C2	[220818][005]	./kəˈlektɪv/-NAmE /kəˈlektɪv/-\ [240126] [240520] [t]
+[-] collective		<-->	noun++C2	[220818][005]	./kəˈlektɪv/-NAmE /kəˈlektɪv/-\ [240126] [240520] [241102]
 	;nhóm sở hữa một business, tập thể -- (1) a group of people who own a business or a farm and run it together; the business that they run
 		;an independent collective making films for television
 		;Topics BUSINESs-c2
@@ -2860,7 +2860,7 @@
 
 
 
-[-] commerce		<-->	noun++C1	[221128][003]	./ˈkɒmɜːs/-NAmE /ˈkɑːmɜːrs/ [uncountable] [t]
+[-] commerce		<-->	noun++C1	[221128][003]	./ˈkɒmɜːs/-NAmE /ˈkɑːmɜːrs/ [uncountable] [241102]
 	;thương mại -- (1) trade, especially between countries; the buying and selling of goods and services
 		;Leaders of industry and commerce met at the summit in Paris.
 		;Wordfinder
@@ -2894,7 +2894,7 @@
 
 
 
-[-] commercial		<-->	adjective++B1	[221128][001]	./cef/ [t]
+[-] commercial		<-->	adjective++B1	[221128][001]	./cef/ [241102]
 	;thuộc thương mại -- (1) 
 	;có tính thương mại -- (2) 
 	; -- (3) 
@@ -2911,7 +2911,7 @@
 
 [-] commoditization		<-->	noun++C2	[220818][002]	./kəˌmɒdɪtaɪˈzeɪʃn/-NAmE /kəˌmɑːdɪtəˈzeɪʃn/ (British English also commoditisation)
 (also commodification)
-[uncountable] [t]
+[uncountable] [241102]
 	;thương mại -- (1) the act or process of treating something as a product that can be bought and sold
 		;There’s a growing concern about the commoditization of education.
 		;Topics BUSINESs-c2
@@ -2926,7 +2926,7 @@
 
 
 [-] commoditize		<-->	verb++C2	[220818][002]	./kəˈmɒdətaɪz/-NAmE /kəˈmɑːdətaɪz/ (British English also commoditise)
-(also commodify) [t]
+(also commodify) [241102]
 	;thương mại hoá -- (1) ​commoditize something to turn something into or treat something as a product that can be bought and sold
 		;Christmas has been grossly commoditized over the years.
 		;Topics BUSINESs-c2
@@ -2940,7 +2940,7 @@
 
 
 
-[-] commodity		<-->	noun++C1	[221128][003]	./cef/ (plural commodities) [t]
+[-] commodity		<-->	noun++C1	[221128][003]	./cef/ (plural commodities) [241102]
 	;hàng hoá -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -2954,7 +2954,7 @@
 
 
 
-[-] compete		<-->	verb++B1	[221128][001]	./cef/ [t]
+[-] compete		<-->	verb++B1	[221128][001]	./cef/ [241102]
 	;cạnh tranh -- (1) [intransitive] to try to be more successful or better than somebody else who is trying to do the same as you
 		;They simply cannot compete in the international market.
 		;compete for something Several companies are competing for the contract.
@@ -2984,7 +2984,7 @@
 
 
 
-[-] competing		<-->	adjective++B2	[221128][002]	./kəmˈpiːtɪŋ/-NAmE /kəmˈpiːtɪŋ/ [only before noun] [t]
+[-] competing		<-->	adjective++B2	[221128][002]	./kəmˈpiːtɪŋ/-NAmE /kəmˈpiːtɪŋ/ [only before noun] [241102]
 	; -- (1) ​(of different ideas, interests, explanations, etc.) unable to exist or be true at the same time
 		;There were several competing accounts of what actually happened that night.
 	;rất cạnh tranh -- (2) (of different products, services or businesses) each trying to get the attention of possible customers and be more successful than others
@@ -3002,7 +3002,7 @@
 
 
 
-[-] competition		<-->	noun++B1	[221128][002]	./cef/ [t]
+[-] competition		<-->	noun++B1	[221128][002]	./cef/ [241102]
 	;tài năng, danh giá -- (1) [countable] an event in which people compete with each other to find out who is the best at something
 		;a design/an art/a talent competition
 		;an international/a national competition
@@ -3096,7 +3096,7 @@
 
 
 
-[-] competitive		<-->	adjective++B1	[221128][001]	./cef/ [t]
+[-] competitive		<-->	adjective++B1	[221128][001]	./cef/ [241102]
  	;có tính cạnh tranh --  (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3109,7 +3109,7 @@
 
 
 
-[-] competitor		<-->	noun++B1	[221128][002]	./cef/ [t]
+[-] competitor		<-->	noun++B1	[221128][002]	./cef/ [241102]
 	;đối thủ --  (1) 
 	; -- (2) 
 	;;
@@ -3121,7 +3121,7 @@
 
 
 
-[-] comptroller		<-->	noun++C2	[220818][002]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/ (also controller) [t]
+[-] comptroller		<-->	noun++C2	[220818][002]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/ (also controller) [241102]
 	;người chịu trách nhiệm về tài chính -- (1) a person who is in charge of the financial accounts of a business company
 		;Topics BUSINESs-c2
 		;Word Origin
@@ -3135,7 +3135,7 @@
 
 
 
-[-] concern		<-->	noun++C2	[220818][002]	./kənˈsɜːn/-NAmE /kənˈsɜːrn/\ [t]
+[-] concern		<-->	noun++C2	[220818][002]	./kənˈsɜːn/-NAmE /kənˈsɜːrn/\ [241102]
 	; -- (1) 
 	; -- (2) 
 	; -- (3) 
@@ -3157,7 +3157,7 @@
 
 
 
-[-] conglomerate		<-->	noun++C2	[220818][001]	./kənˈɡlɒmərət/-NAmE /kənˈɡlɑːmərət/
+[-] conglomerate		<-->	noun++C2	[220818][002]	./kənˈɡlɒmərət/-NAmE /kənˈɡlɑːmərət/ [241102]
 	;công ty đa ngành -- (1) [countable] (business) a large company formed by joining together different firms
 		;He turned the business into a huge media conglomerate.
 		;Extra Examples:
@@ -3183,7 +3183,7 @@
 
 
 
-[-] consultant		<-->	noun++B2	[221128][002]	./kənˈsʌltənt/-NAmE /kənˈsʌltənt/ [t]
+[-] consultant		<-->	noun++B2	[221128][002]	./kənˈsʌltənt/-NAmE /kənˈsʌltənt/ [241102]
  	;nhà tư vấn -- (1) 
 	; -- (2) 
 	;;
@@ -3196,7 +3196,7 @@
 
 
 
-[-] consumer		<-->	noun++B1	[221128][002]	./cef/ [t]
+[-] consumer		<-->	noun++B1	[221128][002]	./cef/ [241102]
 	;người tiêu thụ, khách hàng -- (1) a person who buys goods or uses services
 		;consumer spending/demand
 		;links between producers and consumers
@@ -3245,7 +3245,7 @@
 
 
 
-[-] consumerism		<-->	noun++C1	[221128][002]	./kənˈsjuːmərɪzəm/-NAmE /kənˈsuːmərɪzəm/ [uncountable] (sometimes disapproving) [t]
+[-] consumerism		<-->	noun++C1	[221128][002]	./kənˈsjuːmərɪzəm/-NAmE /kənˈsuːmərɪzəm/ [uncountable] (sometimes disapproving) [241102]
 	;việc tiêu thủ hàng hoá -- (1) [uncountable] (sometimes disapproving) the buying and using of goods and services;the belief that it is good for a society or an individual person to buy and use a large quantity of goods and services
 		;She was appalled by the greed and rampant consumerism she saw in modern society.
 		;green consumerism (= the buying of products that are not harmful to the environment)
@@ -3259,7 +3259,7 @@
 
 
 
-[-] consumerist		<-->	adjective++C1	[221128][002]	./kənˈsjuːmərɪst/-NAmE /kənˈsuːmərɪst/ (sometimes disapproving) [t]
+[-] consumerist		<-->	adjective++C1	[221128][002]	./kənˈsjuːmərɪst/-NAmE /kənˈsuːmərɪst/ (sometimes disapproving) [241102]
 	;tiêu dùng -- (1) connected with buying and using goods and services, or with the beliefs of consumerism
 		;consumerist values
 		;Topics BUSINESs-c1
@@ -3273,7 +3273,7 @@
 
 
 
-[-] contract		<-->	noun++B2	[221128][003]	./cef/ [t]
+[-] contract		<-->	noun++B2	[221128][003]	./cef/ [241102]
 	;hợp đồng --  (1) 
 	; -- (2) 
 	;;
@@ -3286,7 +3286,7 @@
 
 
 
-[-] controller		<-->	noun++C2	[220818][002]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/ [t]
+[-] controller		<-->	noun++C2	[220818][002]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/ [241102]
 	; -- (1) a person who manages or directs something, especially a large organization or part of an organization
 		;He is the new programme controller for BBC2.
 		;the company's controller for global marketing and sales
@@ -3319,7 +3319,7 @@
 
 
 
-[-] co-op		<-->	noun++C2	[220818][002]	./ˈkəʊ ɒp/-NAmE /ˈkəʊ ɑːp/ (informal) [t]
+[-] co-op		<-->	noun++C2	[220818][002]	./ˈkəʊ ɒp/-NAmE /ˈkəʊ ɑːp/ (informal) [241102]
 	;cửa hàng tổng hợp -- (1) a cooperative shop, society or business
 		;a housing co-op
 		;Topics BUSINESs-c2
@@ -3334,7 +3334,7 @@
 
 
 
-[-] cooperative		<-->	adjective++C1	[221128][002]	./cef/ (British English also co-operative) [t]
+[-] cooperative		<-->	adjective++C1	[221128][002]	./cef/ (British English also co-operative) [241102]
 	;có hợp tác -- (British English also co-operative)
 		;a cooperative business or other organization
 		;agricultural cooperatives in India
@@ -3390,7 +3390,7 @@
 
 
 
-[-] copy		<-->	noun++C2	[220818][002]	./ˈkɒpi/-NAmE /ˈkɑːpi/ (plural copies) [t]
+[-] copy		<-->	noun++C2	[220818][002]	./ˈkɒpi/-NAmE /ˈkɑːpi/ (plural copies) [241102]
 	; -- (1) 
 	; -- (2) 
 	;bản sao -- (3) [uncountable] written material that is to be published in a newspaper, magazine, etc.; news or information that can be used in a newspaper article or advertisement
@@ -3418,7 +3418,7 @@
 
 
 
-[-] corporate		<-->	adjective++B2	[221128][003]	./cef/ [only before noun] [230922] [t]
+[-] corporate		<-->	adjective++B2	[221128][003]	./cef/ [only before noun] [230922] [241102]
 	;doanh nghiệp -- (1) connected with a large business company
 		;corporate finance/profits/tax
 		;corporate executives/clients/sponsors
