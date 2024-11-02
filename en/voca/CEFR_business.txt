@@ -1858,7 +1858,7 @@
 		;a peace plan brokered by the UN
 		;Efforts to broker a compromise solution failed.
 		;Wordfinder: acquisitionbidbrokercontractdealmergernegotiationofferproposaltakeover
-		;Topics Politicsc2, Business-c2
+		;Topics Politicsc2, BUSINESs-c2
 		;Word Origin
 	;;
 
@@ -1874,7 +1874,7 @@
 [-] buoyancy		<-->	noun++C2	[220818][003]	./ˈbɔɪənsi/-NAmE /ˈbɔɪənsi/, /ˈbuːjənsi/ [uncountable] [IE-B2-Z08-WB-48] [241020]
 	;tình huống giá sản phẩm tăng, và tích cực -- (1) a situation in which prices, business activity, etc. tend to increase or stay at a high level, usually showing financial success
 		;the buoyancy of the market
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	; -- (2) 
 	; -- (3) the fact of floating, being able to float or able to keep things floating
 		;a buoyancy aid (= something to help you float)
@@ -1896,7 +1896,7 @@
 		;buoyant sales/prices
 		;buoyant demand for homes
 		;The relatively buoyant housing market has kept consumers confident enough to spend.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;phấn chấn -- (2) cheerful and feeling sure that things will be successful
 		;They were all in a buoyant mood.
 		;Topics Doubt, guessing and certaintyc2
@@ -1919,7 +1919,7 @@
 	;Mức/tỷ lệ chi tiêu -- (1) the rate at which the money available for a project or new company is spent
 		;The company's burn rate is only $15  000 a month.
 		;The daily burn rate for movie shoots is staggering.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;;
 
 
@@ -2012,7 +2012,7 @@
 		;This legislation will hurt small businesses.
 		;We are looking to grow the business over the next couple of years.
 		;They've got a small catering business.
-		;Topics Business-a1
+		;Topics BUSINESs-a1
 				;Oxford Collocations Dictionary
 				;adjective
 				;largemedium-sizedsmall…
@@ -2045,13 +2045,13 @@
 	;doanh nhân -- (1) a man who works in business, especially at a high level
 		;a group of visiting Italian politicians and businessmen
 		;Wordfinder: accountantagentauditorbusinessmanCEOchairmanconsultantentrepreneurexecutivemanager
-		;Topics Jobsa2, Business-a2
+		;Topics Jobsa2, BUSINESs-a2
 	; -- (2) a man who shows skill in business and financial matters
 		;a successful/wealthy businessman
 		;For many years he was a successful businessman, running his own small business.
 		;I should have got a better price for the car, but I'm not much of a businessman.
 		;He has a reputation as a shrewd businessman.
-		;Topics Business-b1
+		;Topics BUSINESs-b1
 		;More About gender
 	;;
 
@@ -2066,7 +2066,7 @@
 
 [-] business person		<-->	noun++A2	[221128][002]	./ˈbɪznəs pɜːsn/-NAmE /ˈbɪznəs pɜːrsn/ [241020]
 	;nhà kinh doanh -- (1) a person who works in business, especially at a high level
-		;Topics Jobsa2, Business-a2
+		;Topics Jobsa2, BUSINESs-a2
 	;;
 
 
@@ -2089,11 +2089,11 @@
 
 
 
-[-] business-to-business		<-->	adjective++C2	[220818][002]	./ˌbɪznəs tə ˈbɪznəs/-NAmE /ˌbɪznəs tə ˈbɪznəs/ [usually before noun]
+[-] BUSINESs-to-business		<-->	adjective++C2	[220818][002]	./ˌbɪznəs tə ˈbɪznəs/-NAmE /ˌbɪznəs tə ˈbɪznəs/ [usually before noun]
 (abbreviation B2B, BTB) [241021]
 	;kinh doanh doanh nghiệp với doanh nghiệp -- (1) done between one business and another rather than between a business and its ordinary customers
 		;business-to-business transactions
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 				;Oxford Collocations Dictionary
 				;Business-to-business is used with these nouns:
 				;transaction
@@ -2123,7 +2123,7 @@
 		;<< bankrupt, bust, >>
 		;We're bust!
 		;We lost our money when the travel company went bust.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 		;Word Origin
 	;;
 
@@ -2138,7 +2138,7 @@
 [-] buyout		<-->	noun++C2	[220818][002]	./ˈbaɪaʊt/-NAmE /ˈbaɪaʊt/ [241021]
 	;mua đứt -- (1) a situation in which a person or group gains control of a company by buying all or most of its shares
 		;a management buyout
-		;Topics Moneyc2, Business-c2
+		;Topics Moneyc2, BUSINESs-c2
 				;Oxford Collocations Dictionary
 				;Buyout is used after these nouns:
 				;management
@@ -2158,7 +2158,7 @@
 	;trung tâm điều phối cuộc gọi -- (1) an office in which a large number of people work using phones, for example arranging insurance for people, or taking customers’ orders and answering questions
 		;to work in a call centre
 		;call-centre employees/staff
-		;Topics Business-b2
+		;Topics BUSINESs-b2
 	;;
 
 
@@ -2245,7 +2245,7 @@
 		;a health awareness campaign to promote a healthy lifestyle
 		;election candidates on the campaign trail
 		;The terrorists responded with a bombing campaign directed at business and commerce.
-		;Topics Business-b1, Politicsb1
+		;Topics BUSINESs-b1, Politicsb1
 				;Oxford Collocations Dictionary
 				;adjective
 				;bighugemajor…
@@ -2304,7 +2304,7 @@
 		;to do something in a business/judicial/professional/voluntary capacity
 		;in your capacity as something She was acting in her capacity as manager.
 		;In my capacity as president, I would like to thank Jack for his hard work.
-		;Topics Business-c1
+		;Topics BUSINESs-c1
 				;Oxford Collocations Dictionary
 				;adjective
 				;officialpersonalprivate…
@@ -2319,7 +2319,7 @@
 		;at capacity The factory is working at (full) capacity.
 		;Wordfinder: assembly linecapacityfactoryforemanplantprocessproductionshiftshop floorworkforce
 		;Wordfinder: capacityindustryjust-in-timelabourlead timeoutputraw materialshippingsupply chainwarehouse
-		;Topics Business-c1
+		;Topics BUSINESs-c1
 				;Oxford Collocations Dictionary
 				;adjective
 				;highlargelimited…
@@ -2356,7 +2356,7 @@
 		;capital costs/assets
 		;the capital value of the property
 		;see also venture capital, working capital
-		;Topics Business-b2, Moneyb2
+		;Topics BUSINESs-b2, Moneyb2
 		;Extra Examples:
 		;He sank vast amounts of capital in the venture.
 		;They secured $175 million in capital funding from investors.
@@ -2376,7 +2376,7 @@
 		;See full entry
 	;vốn -- (4) [singular] an amount of money that is invested or is used to start a business
 		;to set up a business with a starting capital of £100 000
-		;Topics Business-b2
+		;Topics BUSINESs-b2
 				;Oxford Collocations Dictionary
 				;adjective
 				;riskventurefixed…
@@ -2404,7 +2404,7 @@
 		;All capitalized words are explained in the glossary.
 	; -- (2) 
 	;tài trợ, góp vốn -- (3) [usually passive] capitalize something (business) to provide a company, etc. with the money it needs to function
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;;
 
 
@@ -2417,7 +2417,7 @@
 
 [-] captain of industry		<-->	noun++C2	[220818][002]	./ˌkæptɪn əv ˈɪndəstri/-NAmE /ˌkæptɪn əv ˈɪndəstri/ (plural captains of industry) [241021]
 	;thuyền trưởng của ngành công nghiệp -- (1) used in the media to describe a person who manages a large business company
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;;
 
 
@@ -2432,7 +2432,7 @@
 	;nhóm mà thao túng một ngành hay một nền công nghiệp -- (1) a group of separate companies that agree to increase profits by fixing prices and not competing with each other
 		;to operate an illegal cartel
 		;Police believe the cartel is/are looking for new locations to operate.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 				;Oxford Collocations Dictionary
 				;Cartel is used after these nouns:
 				;cocainedrug
@@ -2450,7 +2450,7 @@
 
 [-] cash cow		<-->	noun++C2	[220818][002]	./ˈkæʃ kaʊ/-NAmE /ˈkæʃ kaʊ/ (business) [241021]
 	;kinh doanh kiểu con bò sữa (luôn lời) -- (1) the part of a business that always makes a profit and that provides money for the rest of the business
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;;
 
 
@@ -2465,7 +2465,7 @@
 		;a healthy cash flow (= having enough money to make payments when necessary)
 		;Many companies fail through poor cash flow.
 		;The company is having cash flow problems.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 				;Oxford Collocations Dictionary
 				;Cash flow is used before these nouns:
 				;forecast
@@ -2484,7 +2484,7 @@
 	;giám đốc điều hành -- (1) the person with the highest rank in a business company (the abbreviation for ‘chief executive officer’) 
 		;Wordfinder: accountantagentauditorbusinessmanCEOchairmanconsultantentrepreneurexecutivemanager
 		;Wordfinder: accountant, agent, auditor, CEO, chairman, consultant, entrepreneur, executive, manager
-		;Topics Jobsb2, Business-b2
+		;Topics Jobsb2, BUSINESs-b2
 	;;
 
 
@@ -2497,7 +2497,7 @@
 
 [-] CFO		<-->	noun++C1	[221128][002]	./ˌsiː ef ˈəʊ/-NAmE /ˌsiː ef ˈəʊ/ (plural CFOs) [241023]
 	;giám đốc tài chính -- (1) the person in a company who has the most authority over the finances (the abbreviation for ‘chief financial officer’)
-		;Topics Jobsc1, Business-c1
+		;Topics Jobsc1, BUSINESs-c1
 	;;
 
 
@@ -2538,7 +2538,7 @@
 	;chủ tịch -- (1) the person in charge of a meeting, who tells people when they can speak, etc.
 		;Sir Herbert took it upon himself to act as chairman.
 		;The motion was carried on the casting vote of the chairman.
-		;Topics Business-b2
+		;Topics BUSINESs-b2
 	; -- (2) the person in charge of a committee, a company, etc.
 		;the vice/deputy chairman
 		;the committee/board/party/club chairman
@@ -2562,7 +2562,7 @@
 		;He was recently appointed honorary chairman of the Selkirk Cricket Club.
 		;He will replace the outgoing chairman, Henry Jones.
 		;The housing committee chairman described the announcement as shocking.
-		;Topics Business-b2
+		;Topics BUSINESs-b2
 				;Oxford Collocations Dictionary
 				;adjective
 				;boardcampaignclub…
@@ -2585,7 +2585,7 @@
 
 [-] chief executive officer		<-->	noun++B2	[221128][002]	./ˌtʃiːf ɪɡˌzekjətɪv ˈɒfɪsə(r)/-NAmE /ˌtʃiːf ɪɡˌzekjətɪv ˈɑːfɪsər/ (abbreviation CEO) [241023]
 	;giám đốc điều hành -- (1) the person in a company who has the most power and authority
-		;Topics Business-b2
+		;Topics BUSINESs-b2
 	;;
 
 
@@ -2600,7 +2600,7 @@
 	;thủ lĩnh -- (1) the leader of a people or a clan
 	;ông chủ -- (2) (informal) a powerful member of an organization
 		;Corporate chieftains are presiding over companies that are cutting pay.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;;
 
 
@@ -2638,7 +2638,7 @@
 (North American English also want ad)
 [usually plural] [241023]
 	;mẫu quảng cáo nhỏ -- (1) a small advertisement in a newspaper or on a website, put in a section according to its subject, that is placed by a person or small company who wants to buy or sell something, find or offer a job, etc.
-		;Topics TV, radio and newsc2, Business-c2
+		;Topics TV, radio and newsc2, BUSINESs-c2
 	;;
 
 
@@ -2659,7 +2659,7 @@
 		;He started work as a railway booking clerk.
 		;an articled clerk working for a large law firm
 		;(especially British English) a bank clerk (= who deals with customers in a bank)
-		;Topics Jobsb2, Business-b2
+		;Topics Jobsb2, BUSINESs-b2
 				;Oxford Collocations Dictionary
 				;adjective
 				;chiefseniorassistant…
@@ -2705,7 +2705,7 @@
 		;The company negotiates flexible contracts on behalf of its clients.
 		;Surgery opening will be extended to 8pm for clients by appointment.
 		;Our first meeting with a prospective client includes a thorough review of our past work.
-		;Topics Business-b1
+		;Topics BUSINESs-b1
 				;Oxford Collocations Dictionary
 				;adjective
 				;bigimportantlarge…
@@ -2760,7 +2760,7 @@
 	; -- (5) 
 	;chốt -- (6) [transitive] close something to arrange and settle a business deal
 		;Right now we are trying to close the deal with our sponsors.
-		;Topics Business-c1
+		;Topics BUSINESs-c1
 	; -- (12) 
 	;;
 
@@ -2776,7 +2776,7 @@
 	;dừng hoạt động, đóng cửa -- (1) (of a business, etc.) to stop trading
 		;The factory closed its doors for the last time in 2009.
 		;The company closed shop and left the US last year.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;;
 
 
@@ -2788,7 +2788,7 @@
 
 [-] Co.		<-->	abbreviation++C2	[220818][002]	./kəʊ/-NAmE /kəʊ/ (business) company [t]
 	;công ty -- (1) Pitt, Briggs & Co.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	; -- (2) 
 	; -- (3) 
 	;;
@@ -2805,7 +2805,7 @@
 	;đồng thương hiệu -- (1) a marketing strategy in which two companies work together to sell their products or services, using both company names
 		;Co-branding includes having our logo and brand name printed on the book.
 		;The store's e-reader is a co-branding venture with a South Korean smartphone company
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;;
 
 
@@ -2820,7 +2820,7 @@
 	;bộ quy tắc vận hành -- (1) a set of standards that members of a particular profession agree to follow in their work
 		;a recommended code of practice issued to all local government employees
 		;The profession has a strict code of practice.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;;
 
 
@@ -2848,7 +2848,7 @@
 [-] collective		<-->	noun++C2	[220818][005]	./kəˈlektɪv/-NAmE /kəˈlektɪv/-\ [240126] [240520] [t]
 	;nhóm sở hữa một business, tập thể -- (1) a group of people who own a business or a farm and run it together; the business that they run
 		;an independent collective making films for television
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 		;Word Origin
 	;;
 
@@ -2872,7 +2872,7 @@
 		;The marketplace was where merchants engaged in commerce.
 		;commerce between China and Africa
 		;the development of commerce with Asia
-		;Topics Business-c1, Politicsc1
+		;Topics BUSINESs-c1, Politicsc1
 				;Oxford Collocations Dictionary
 				;adjective
 				;foreignglobalinternational…
@@ -2914,7 +2914,7 @@
 [uncountable] [t]
 	;thương mại -- (1) the act or process of treating something as a product that can be bought and sold
 		;There’s a growing concern about the commoditization of education.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;;
 
 
@@ -2929,7 +2929,7 @@
 (also commodify) [t]
 	;thương mại hoá -- (1) ​commoditize something to turn something into or treat something as a product that can be bought and sold
 		;Christmas has been grossly commoditized over the years.
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 	;;
 
 
@@ -2946,7 +2946,6 @@
 	; -- (3) 
 	;;
 
-===
 
 
 
@@ -2990,7 +2989,7 @@
 		;There were several competing accounts of what actually happened that night.
 	;rất cạnh tranh -- (2) (of different products, services or businesses) each trying to get the attention of possible customers and be more successful than others
 		;competing brands of diet soda
-		;Topics Business-b2
+		;Topics BUSINESs-b2
 	; -- (3) 
 	; -- (4) 
 	; -- (5) 
@@ -3065,7 +3064,7 @@
 		;She plans to go into competition with her former employer.
 		;The company is having to lay off workers in the face of stiff competition.
 		;There is now intense competition between schools to attract students.
-		;Topics Sports: other sportsb1, Business-b1
+		;Topics Sports: other sportsb1, BUSINESs-b1
 				;Oxford Collocations Dictionary
 				;adjective
 				;cut-throatfierceintense…
@@ -3124,7 +3123,7 @@
 
 [-] comptroller		<-->	noun++C2	[220818][002]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/ (also controller) [t]
 	;người chịu trách nhiệm về tài chính -- (1) a person who is in charge of the financial accounts of a business company
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 		;Word Origin
 	;;
 
@@ -3146,7 +3145,7 @@
 		;<< firm, company, concern, >>
 		;The scheme has been set up by a major publishing concern.
 		;a successful publishing concern
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 		;Word Origin
 	;;
 
@@ -3166,7 +3165,7 @@
 		;one of seven global media conglomerates that dominate the industry
 		;a chemical/​an industrial/​an engineering/​a mining conglomerate
 		;a vast/​an international/​a multinational conglomerate
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 				;Oxford Collocations Dictionary
 				;adjective
 				;biggianthuge…
@@ -3259,12 +3258,11 @@
 
 
 
-===
 
 [-] consumerist		<-->	adjective++C1	[221128][002]	./kənˈsjuːmərɪst/-NAmE /kənˈsuːmərɪst/ (sometimes disapproving) [t]
 	;tiêu dùng -- (1) connected with buying and using goods and services, or with the beliefs of consumerism
 		;consumerist values
-		;Topics Business-c1
+		;Topics BUSINESs-c1
 	;;
 
 
@@ -3302,7 +3300,7 @@
 		;See full entry
 	; -- (2) 
 	;người cầm lấy công ty -- (3) (also comptroller) a person who is in charge of the financial accounts of a business company
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 				;Oxford Collocations Dictionary
 				;adjective
 				;air trafficflightground…
@@ -3324,7 +3322,7 @@
 [-] co-op		<-->	noun++C2	[220818][002]	./ˈkəʊ ɒp/-NAmE /ˈkəʊ ɑːp/ (informal) [t]
 	;cửa hàng tổng hợp -- (1) a cooperative shop, society or business
 		;a housing co-op
-		;Topics Business-c2
+		;Topics BUSINESs-c2
 		;Word Origin
 	;;
 
@@ -3353,7 +3351,7 @@
 	;hợp tác -- (3) [usually before noun] (business) owned and run by the people involved, with the profits shared by them
 		;a cooperative farm
 		;The cooperative movement started in Britain in the nineteenth century.
-		;Topics Business-c1
+		;Topics BUSINESs-c1
 		;Word Origin
 	;;
 
@@ -3365,22 +3363,23 @@
 
 
 
-[-] cooperative		<-->	noun++C1	[221128][002]	./kəʊˈɒpərətɪv/-NAmE /kəʊˈɑːpərətɪv/ [240520]
-	;sự hợp tác -- (British English also co-operative) a cooperative business or other organization
+[-] cooperative		<-->	noun++C1	[221128][002]	./kəʊˈɒpərətɪv/-NAmE /kəʊˈɑːpərətɪv/ (British English also co-operative) [240520]
+	;hợp tác xã -- (1) a cooperative business or other organization
 		;agricultural cooperatives in India
 		;The factory is now a workers' cooperative.
-		;Extra Examples
-		;TOPICS BUSINESsC1
-		;Oxford Collocations Dictionary 
-			;adjective
-				;community, worker, workers’…
-			;verb + cooperative
+		;Extra Examples:
+		;The family business is now run as a cooperative.
+		;The ‘Daily Worker’ was run as a cooperative.
+		;a local/​community/​farming/​food/​dairy cooperative
+		;an agricultural cooperative
+		;Topics BUSINESs-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;communityworkerworkers’…
+				;verb + cooperative
 				;formrun something as
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+		;See full entry
+		;Word Origin
 	;;
 
 
@@ -3391,23 +3390,23 @@
 
 
 
-[-] copy		<-->	noun++C2	[220818][001]	./ˈkɒpi/-NAmE /ˈkɑːpi/
-	;một phiên bản -- [uncountable] written material that is to be published in a newspaper, magazine, etc.;news or information that can be used in a newspaper article or advertisement
+[-] copy		<-->	noun++C2	[220818][002]	./ˈkɒpi/-NAmE /ˈkɑːpi/ (plural copies) [t]
+	; -- (1) 
+	; -- (2) 
+	;bản sao -- (3) [uncountable] written material that is to be published in a newspaper, magazine, etc.; news or information that can be used in a newspaper article or advertisement
 		;The subeditors prepare the reporters' copy for the paper and write the headlines.
 		;This will make great copy for the advertisement.
 		;Copy date for the next issue is 1 May.
-		;SEE ALSO knocking copy
-		;TOPICS BUSINESsC2
-		;Oxford Collocations Dictionary
-			;adjective
-				;good, great, ad…
-			;verb + copy
-				;edit, prepare, produce…
-			;copy + noun
-				;editor, writer, deadline…
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
+		;see also knocking copy
+		;Topics BUSINESs-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;goodgreatad…
+				;verb + copy
+				;editprepareproduce…
+				;copy + noun
+				;editorwriterdeadline…
+		;See full entry
 	; -- (4) 
 	; -- (5) 
 	;;
@@ -3419,8 +3418,8 @@
 
 
 
-[-] corporate		<-->	adjective++B2	[221128][003]	./ˈkɔːpərət/-NAmE /ˈkɔːrpərət/ [230922]
-	;có thể hợp tác -- [only before noun] connected with a large business company
+[-] corporate		<-->	adjective++B2	[221128][003]	./cef/ [only before noun] [230922] [t]
+	;doanh nghiệp -- (1) connected with a large business company
 		;corporate finance/profits/tax
 		;corporate executives/clients/sponsors
 		;corporate identity (= the image of a company, which all its members share)
@@ -3428,16 +3427,14 @@
 		;initiatives to improve standards of corporate governance
 		;the prevailing mood in the boardrooms of corporate America
 		;Their corporate headquarters are in Boston.
-		;TOPICS BUSINESsB2
-	;(specialist) forming a corporation (= an organization or group of organizations that is recognized by law as a single unit)
+		;Topics BUSINESs-b2
+	;doanh nghiệp -- (2) ​(specialist) forming a corporation (= an organization or group of organizations that is recognized by law as a single unit)
 		;The BBC is a corporate organization.
 		;The law applies both to individuals and to corporate bodies.
-		;TOPICS BUSINESsC1
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+		;Topics BUSINESs-c1
+	; -- (3) involving or shared by all the members of a group
+		;a corporate act of worship in the College chapel
+		;Word Origin
 	;;
 
 
