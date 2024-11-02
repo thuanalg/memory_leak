@@ -3261,10 +3261,11 @@
 
 ===
 
-[-] consumerist		<-->	adjective++C1	[221128][001]	./kənˈsjuːmərɪst/-NAmE /kənˈsuːmərɪst/
-	;liên quan tiêu thụ hàng hoá -- (sometimes disapproving) connected with buying and using goods and services, or with the beliefs of consumerism
+[-] consumerist		<-->	adjective++C1	[221128][002]	./kənˈsjuːmərɪst/-NAmE /kənˈsuːmərɪst/ (sometimes disapproving) [t]
+	;tiêu dùng -- (1) connected with buying and using goods and services, or with the beliefs of consumerism
 		;consumerist values
-		;TOPICS BUSINESsC1
+		;Topics Business-c1
+	;;
 
 
 
@@ -3274,44 +3275,10 @@
 
 
 
-
-[-] contract		<-->	noun++B2	[221128][002]	./ˈkɒntrækt/-NAmE /ˈkɑːntrækt/
-	;hợp đồng -- an official written agreement
-		;All employees have a written contract of employment.
-		;a research/modelling/recording contract
-		;a lucrative government contract
-		;contract with somebody to enter into/negotiate/sign a contract with the supplier
-		;contract between A and B These clauses form part of the contract between buyer and seller.
-		;contract for something a contract for the supply of vehicles
-		;contract to do something to win/be awarded a contract to build a new school
-		;to renew/extend/terminate/cancel a contract
-		;on a contract I was on a three-year contract that expired last week.
-		;under contract to/with somebody/something She is under contract to (= has a contract to work for) a major American computer firm.
-		;out of contract The phone costs several hundred dollars more out of contract (= without a contract with a phone company).
-		;The midfielder will be out of contract at the end of the season (= his contract with his club will have finished).
-		;a contract worker (= one employed on a contract for a fixed period of time)
-		;Under the terms of the contract the job should have been finished yesterday.
-		;They were sued for breach of contract (= not doing what they agreed to do in a contract).
-		;He had a release clause written into his contract.
-		;subject to contract The offer has been accepted, subject to contract (= the agreement is not official until the contract is signed).
-		;SEE ALSO social contract
-		;Wordfinder: acquisition, bid, broker, contract, deal, merger, negotiation, offer, proposal, takeover
-		;Wordfinder: apply, appoint, contract, dismiss, employ, job, pay, retire, work, workforce
-		;Extra Examples
-		;TOPICS Discussion and agreementB2, Working lifeB2, Law and justiceB2, Houses and homesB2, BUSINESsB2
-		;Oxford Collocations Dictionary
-			;adjective
-				;long-term, permanent, guaranteed…
-			;verb + contract
-				;have, bid for, bid on…
-			;contract + verb
-				;expire, be worth something
-			;contract + noun
-				;work, worker, manufacturer…
-			;preposition
-				;in a/the contracton a contract, under contract (to)…
-			;phrases
-				;(a) breach of contracta contract of employment, a contract of sale…
+[-] contract		<-->	noun++B2	[221128][003]	./cef/ [t]
+	;hợp đồng --  (1) 
+	; -- (2) 
+	;;
 
 
 
@@ -3321,15 +3288,31 @@
 
 
 
+[-] controller		<-->	noun++C2	[220818][002]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/ [t]
+	; -- (1) a person who manages or directs something, especially a large organization or part of an organization
+		;He is the new programme controller for BBC2.
+		;the company's controller for global marketing and sales
+		;Her current job is marketing controller for the South East sales region.
+		;see also air traffic controller
+				;Oxford Collocations Dictionary
+				;adjective
+				;air trafficflightground…
+				;preposition
+				;controller for
+		;See full entry
+	; -- (2) 
+	;người cầm lấy công ty -- (3) (also comptroller) a person who is in charge of the financial accounts of a business company
+		;Topics Business-c2
+				;Oxford Collocations Dictionary
+				;adjective
+				;air trafficflightground…
+				;preposition
+				;controller for
+		;See full entry
+	; -- (4) ​(also game controller) an electronic device that is used to control video games via a computer or games console
+		;Word Origin
+	;;
 
-[-] controller		<-->	noun++C2	[220818][001]	./kənˈtrəʊlə(r)/-NAmE /kənˈtrəʊlər/
-	;người chịu trách nhiệm tài chính của công ty -- (also comptroller) a person who is in charge of the financial accounts of a business company
-		;TOPICS BUSINESsC2
-		;Oxford Collocations Dictionary
-			;adjective
-				;air traffic, flight, ground…
-			;preposition
-				;controller for
 
 
 
@@ -3338,12 +3321,12 @@
 
 
 
-
-
-[-] co-op		<-->	noun++C2	[220818][001]	./ˈkəʊ ɒp/-NAmE /ˈkəʊ ɑːp/
-	;cửa hàng tổng hợp -- (informal) a cooperative shop, society or business
+[-] co-op		<-->	noun++C2	[220818][002]	./ˈkəʊ ɒp/-NAmE /ˈkəʊ ɑːp/ (informal) [t]
+	;cửa hàng tổng hợp -- (1) a cooperative shop, society or business
 		;a housing co-op
-		;TOPICS BUSINESsC2
+		;Topics Business-c2
+		;Word Origin
+	;;
 
 
 
@@ -3353,8 +3336,7 @@
 
 
 
-
-[-] cooperative		<-->	adjective++C1	[221128][001]	./kəʊˈɒpərətɪv/-NAmE /kəʊˈɑːpərətɪv/
+[-] cooperative		<-->	adjective++C1	[221128][002]	./cef/ (British English also co-operative) [t]
 	;có hợp tác -- (British English also co-operative)
 		;a cooperative business or other organization
 		;agricultural cooperatives in India
@@ -3366,7 +3348,14 @@
 				;community, worker, workers’…
 			;verb + cooperative
 				;form, run something as
-
+	; -- (1) 
+	; -- (2) 
+	;hợp tác -- (3) [usually before noun] (business) owned and run by the people involved, with the profits shared by them
+		;a cooperative farm
+		;The cooperative movement started in Britain in the nineteenth century.
+		;Topics Business-c1
+		;Word Origin
+	;;
 
 
 
@@ -3387,7 +3376,12 @@
 				;community, worker, workers’…
 			;verb + cooperative
 				;formrun something as
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;;
 
 
 
@@ -3411,7 +3405,12 @@
 				;edit, prepare, produce…
 			;copy + noun
 				;editor, writer, deadline…
-
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;;
 
 
 
@@ -3434,13 +3433,18 @@
 		;The BBC is a corporate organization.
 		;The law applies both to individuals and to corporate bodies.
 		;TOPICS BUSINESsC1
+	; -- (1) 
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	; -- (5) 
+	;;
 
 
 
 
 
-
-
+===
 
 
 
