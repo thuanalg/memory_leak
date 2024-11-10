@@ -3441,15 +3441,15 @@
 
 
 
-===
 
 
 
-[-] corporate responsibility		<-->	noun++C2	[220818][001]	./ˌkɔːpərət rɪˌspɒnsəˈbɪləti/-NAmE /ˌkɔːrpərət rɪˌspɑːnsəˈbɪləti/
-	;trách nhiệm hợp tác -- [uncountable] the idea that a large company has a duty to treat people fairly and to play a positive part in society
+[-] corporate responsibility		<-->	noun++C2	[220818][002]	./ˌkɔːpərət rɪˌspɒnsəˈbɪləti/-NAmE /ˌkɔːrpərət rɪˌspɑːnsəˈbɪləti/ [uncountable] [t]
+	;trách nhiệm hợp tác -- (1) ​the idea that a large company has a duty to treat people fairly and to play a positive part in society
 		;They pride themselves on their corporate responsibility and care for their local communities.
 		;Our focus on corporate responsibility includes a commitment to reduce our impact on the environment.
-		;TOPICS BUSINESsC2
+		;Topics BUSINESs-c2
+	;;
 
 
 
@@ -3459,14 +3459,33 @@
 
 
 
-
-[-] corporation		<-->	noun++B2	[221128][001]	./ˌkɔːpəˈreɪʃn/-NAmE /ˌkɔːrpəˈreɪʃn/
-	;sự hợp tác -- (abbreviation Corp.) a large business company
+[-] corporation		<-->	noun++B2	[221128][002]	./cef/ [t]
+		;Oxford Collocations Dictionary
+	;tập đoàn -- (1) (abbreviation Corp.) a large business company
 		;multinational corporations
 		;the Chrysler corporation
 		;Culture companies
-		;TOPICS BUSINESsB2
-		;Oxford Collocations Dictionary
+		;Topics BUSINESs-b2
+				;Oxford Collocations Dictionary
+				;adjective
+				;biggianthuge…
+				;corporation + noun
+				;tax
+		;See full entry
+	; -- (2) ​an organization or a group of organizations that is recognized by law as a single unit
+		;urban development corporations
+		;Topics Businessb2
+				;Oxford Collocations Dictionary
+				;adjective
+				;biggianthuge…
+				;corporation + noun
+				;tax
+		;See full entry
+	; -- (3) ​(British English) a group of people elected to govern a large town or city and provide public services
+		;the Lord Mayor and Corporation of the City of London
+		;Topics Politicsc2
+		;Word Origin
+	;;
 
 
 
@@ -3476,9 +3495,8 @@
 
 
 
-
-[-] cost		<-->	verb++A1	[221128][001]	./cef/\
-	;đáng giá -- if something costs a particular amount of money, you need to pay that amount in order to buy, make or do it
+[-] cost		<-->	verb++A1	[221128][002]	./cef/\ [t]
+	;có giá -- (1) if something costs a particular amount of money, you need to pay that amount in order to buy, make or do it
 		;cost something How much did it cost?
 		;I didn't get it because it cost too much.
 		;Tickets cost ten dollars each.
@@ -3490,7 +3508,23 @@
 		;This is costing the taxpayer £10 billion a year.
 		;cost something to do something The hospital will cost an estimated £2 billion to build.
 		;It costs a fortune to fly first class.
-		;TOPICS ShoppingA1, BUSINESsA1
+		;Topics Shoppinga1, Businessa1
+	; -- (2) 
+	; -- (3) 
+	; -- (4) to estimate how much money will be needed for something or the price that should be charged for something
+		;cost something The project needs to be costed in detail.
+		;fully costed proposals
+		;cost something at something Their accountants have costed the project at $8.1 million.
+		;cost something out Have you costed out these proposals yet?
+		;see also costing
+				;Oxford Collocations Dictionary
+				;adverb
+				;fullyproperly
+				;preposition
+				;at
+		;See full entry
+		;Word Origin
+	;;
 
 
 
@@ -3500,13 +3534,13 @@
 
 
 
-
-[-] cost centre		<-->	noun++C2	[220818][001]	./ˈkɒst sentə(r)/-NAmE /ˈkɔːst sentər/
-	;tổ chức giá -- (US English cost center)(business) a part of an organization to which costs may be charged;a part of an organization viewed as bringing costs rather than profits or benefits
+[-] cost centre		<-->	noun++C2	[220818][002]	./ˈkɒst sentə(r)/-NAmE /ˈkɔːst sentər/ (US English cost center)
+(business) [t]
+	;tổ chức giá, một trung tâm chi phí -- (1) a part of an organization to which costs may be charged; a part of an organization viewed as bringing costs rather than profits or benefits
 		;Most senior managers see customer service as a cost centre.
 		;The aim is to move from being a cost centre to becoming a profit centre.
-		;TOPICS BUSINESsC2
-
+		;Topics BUSINESs-c2
+	;;
 
 
 
@@ -3517,10 +3551,11 @@
 
 
 [-] craft brewery		<-->	noun++C2	[220818][001]	./ˌkrɑːft ˈbruːəri/-NAmE /ˌkræft ˈbruːəri/
-	;nhà máy bia thủ công -- a small brewery (= a factory where beer is made) that makes beer in a traditional way
+	;nhà máy bia thủ công -- (1) a small brewery (= a factory where beer is made) that makes beer in a traditional way
 		;It's a small craft brewery with a specialty in Belgian-style beers.
-		;COMPARE microbrewery
-		;TOPICS DrinksC2, BUSINESsC2
+		;compare microbrewery
+		;Topics Drinksc2, BUSINESs-c2
+	;;
 
 
 
@@ -3530,13 +3565,13 @@
 
 
 
-
-[-] credit crunch		<-->	noun++C2	[220818][001]	./ˈkredɪt krʌntʃ/-NAmE /ˈkredɪt krʌntʃ/
-	;tình trạng kinh tế co rút, khô héo -- [usually singular] (economics) an economic condition in which it suddenly becomes difficult and expensive to borrow money
+[-] credit crunch		<-->	noun++C2	[220818][002]	./ˈkredɪt krʌntʃ/-NAmE /ˈkredɪt krʌntʃ/ [usually singular] (economics) [t]
+	;cuộc khủng hoảng tín dụng -- (1) ​an economic condition in which it suddenly becomes difficult and expensive to borrow money
 		;In a credit crunch, lenders stop lending and credit becomes tough to obtain.
 		;Consumer confidence is plunging as the credit crunch hits household budgets.
 		;Many companies will not survive the unfolding credit crunch.
-		;TOPICS BUSINESsC2
+		;Topics BUSINESs-c2
+	;;
 
 
 
@@ -3546,11 +3581,14 @@
 
 
 
-
-[-] cross-functional		<-->	adjective++C2	[220818][001]	./ˌkrɒs ˈfʌŋkʃənl/-NAmE /ˌkrɔːs ˈfʌŋkʃənl/
+[-] cross-functional		<-->	adjective++C2	[220818][002]	./ˌkrɒs ˈfʌŋkʃənl/-NAmE /ˌkrɔːs ˈfʌŋkʃənl/ [usually before noun] [t]
 	;liên quan đa chức năng -- [usually before noun] relating to a way of working in which people from different teams across an organization work together
 		;The projects require cross-functional teams to come together and work as a unit.
 		;TOPICS BUSINESsC2
+	;liên hợp -- (1) relating to a way of working in which people from different teams across an organization work together
+		;The projects require cross-functional teams to come together and work as a unit.
+		;Topics BUSINESs-c2
+	;;
 
 
 
@@ -3559,10 +3597,8 @@
 
 
 
-
-
-[-] customer		<-->	noun++A1	[221128][001]	./ˈkʌstəmə(r)/-NAmE /ˈkʌstəmər/
- 	;khách hàng -- a person or an organization that buys goods or services from a shop or business;SYNONYM client
+[-] customer		<-->	noun++A1	[221128][002]	./cef/ [t]
+ 	;khách hàng -- (1) a person or an organization that buys goods or services from a shop or business;SYNONYM client
 		;marketing strategies to target potential customers
 		;The company rewards loyal customers with discounts.
 		;one of the shop’s best customers
@@ -3613,14 +3649,50 @@
 				;compare prices
 				;offer (somebody)/give (somebody)/get/receive a 30% discount		
 		;Extra Examples
-		;TOPICS ShoppingA1, BUSINESsA1
-		;Oxford Collocations Dictionary
-			;adjective
-				;big, favoured/favored, favourite/favorite…
-			;verb + customer
-				;have, deal with, help…
-			;customer + noun
-				;care, relations, relationship…
+		;If you have a complaint, contact the customer care unit.
+		;It's a special offer to attract new customers.
+		;Part of good customer relations is knowing how to deal with complaints.
+		;The questionnaire is to test customer reaction to the new store design.
+		;The terms of the guarantee will be set out in the customer agreement.
+		;There are a large number of potential customers for the new product.
+		;They are one of our biggest customers.
+		;We carried out a customer satisfaction survey.
+		;They organized an evening's entertainment for favoured customers.
+		;This cheaper model was produced in response to customer demand.
+		;We can't afford to lose any more customers.
+		;I like to think that we have satisfied customers.
+		;Draw up a customer profile and write a description of your typical customer.
+		;He comes in twice a week and is one of our best customers.
+		;I'd like to speak to someone in the customer service department, please.
+		;Is there a set procedure for dealing with customer complaints?
+		;Schools are among the biggest customers for this service.
+		;Topics Shoppinga1, BUSINESs-a1
+				;Oxford Collocations Dictionary
+				;adjective
+				;bigfavoured/​favoredfavourite/​favorite…
+				;verb + customer
+				;havedeal withhelp…
+				;customer + noun
+				;carerelationsrelationship…
+		;See full entry
+	; -- (2) ​(old-fashioned, informal) used after an adjective to describe a particular type of person
+		;an awkward customer
+		;a cool customer (= somebody who is always calm, even when in trouble)
+		;an ugly customer (= somebody who may become violent)
+	;;
+
+
+
+
+
+
+
+
+[-] customer engagement		<-->	noun++C1	[221128][002]	./ˌkʌstəmər ɪnˈɡeɪdʒmənt/-NAmE /ˌkʌstəmər ɪnˈɡeɪdʒmənt/ [uncountable] [t]
+	;sự gắn kết với khách hàng -- (1) ​the process of encouraging people to be interested in a company and its products or services
+		;Loyalty programmes have become one of the most popular ways to improve customer engagement.
+		;Topics BUSINESs-c1
+	;;
 
 
 
@@ -3630,32 +3702,18 @@
 
 
 
-
-[-] customer engagement		<-->	noun++C1	[221128][001]	./ˌkʌstəmər ɪnˈɡeɪdʒmənt/-NAmE /ˌkʌstəmər ɪnˈɡeɪdʒmənt/
-	;quá trình kết nối khách hàng -- [uncountable] the process of encouraging people to be interested in a company and its products or services
-		;Loyalty programs have become one of the most popular ways to improve customer engagement.
-		;TOPICS BUSINESsC1
-
-
-
-
-
-
-
-
-
-
-[-] customer service		<-->	noun++B1	[221128][001]	./ˌkʌstəmə ˈsɜːvɪs/-NAmE /ˌkʌstəmər ˈsɜːrvɪs/
-	;dịch vụ chăm sóc khách hàng -- [uncountable] the help and advice that a company gives people who buy or use its products or services
+[-] customer service		<-->	noun++B1	[221128][002]	./ˌkʌstəmə ˈsɜːvɪs/-NAmE /ˌkʌstəmər ˈsɜːrvɪs/ [uncountable] [t]
+	; -- (1) the help and advice that a company gives people who buy or use its products or services
 		;Our main concern is to provide quality customer service.
-		;TOPICS BUSINESsB1
-	;the department in a company that provides customer service
+		;Topics Businessb1
+	; -- (2) the department in a company that provides customer service
 		;I phoned the airline's customer service and they said seats were available.
 		;How a company's customer service department responds to your complaint or query is vital.
-		;TOPICS BUSINESsB1
-	;the activity of serving people in hotels, restaurants and shops
+		;Topics Businessb1
+	; -- (3) the activity of serving people in hotels, restaurants and shops
 		;Votes were based on quality of food, customer service and atmosphere.
-		;TOPICS BUSINESsB1
+		;Topics Businessb1
+	;;
 
 
 
@@ -3664,14 +3722,15 @@
 
 
 
-
-[-] cut-throat		<-->	adjective++C2	[220818][002]	./ˈkʌt θrəʊt/-NAmE /ˈkʌt θrəʊt/
-	;hành vi cạnh tranh bất chấp -- [usually before noun] (of an activity) in which people compete with each other in aggressive and unfair ways
+[-] cut-throat		<-->	adjective++C2	[220818][003]	./ˈkʌt θrəʊt/-NAmE /ˈkʌt θrəʊt/ [usually before noun] [t]
+	;khốc liệt -- (1) ​(of an activity) in which people compete with each other in aggressive and unfair ways
 		;the cut-throat world of politics
-		;TOPICS BUSINESsC2
-		;Oxford Collocations Dictionary
-			;Cut-throat is used with these nouns:
-				;competition, razor, world…
+		;Topics BUSINESs-c2
+				;Oxford Collocations Dictionary
+				;Cut-throat is used with these nouns:
+				;competitionrazorworld…
+		;See full entry
+	;;
 
 
 
@@ -3681,25 +3740,13 @@
 
 
 
-
-[-] deal		<-->	noun++B1	[221128][001]	./diːl/-NAmE /diːl/
-	;sự thương lượng -- (business agreement) [countable] an agreement, especially in business, on particular conditions for buying or doing something
-		;to sign/strike/finalize/close a deal
-		;to negotiate/broker/agree/reach a deal
-		;She is travelling to New York to seal the deal (= conclude it).
-		;a deal with somebody We did a deal with the management on overtime.
-		;I'll make a deal with you—I'll work evenings if you'll work weekends.
-		;(informal) He is trying to cut a deal (= make one) with the rebels.
-		;The deal fell through (= no agreement was reached).
-		;I got a good deal on the car (= bought it cheaply).
-		;They were hoping for a better pay deal.
-		;Both sides are willing to agree on a peace deal.
-		;Listen. This is the deal (= this is what we have agreed and are going to do).
-		;Collocations Business
-		;SEE ALSO package
-		;Wordfinder: acquisition, bid, broker, contract, deal, merger, negotiation, offer, proposal, takeover
-		;Extra Examples
-		;TOPICS Discussion and agreementB1, War and conflictB1, BUSINESsB1
+[-] deal		<-->	noun++B1	[221128][002]	./cef/ [t]
+	;một thương lượng -- (1) 
+		;Topics Discussion and agreementb1, War and conflictb1, BUSINESs-b1
+	; -- (2) 
+	; -- (3) 
+	; -- (4) 
+	;;
 
 
 
@@ -3709,21 +3756,13 @@
 
 
 
-
-[-] dealer		<-->	noun++B2	[221128][001]	./ˈdiːlə(r)/-NAmE /ˈdiːlər/
- 	;người đàm phán -- a person whose business is buying and selling a particular product
-		;an art/antique dealer
-		;dealer in something He's a dealer in second-hand cars.
-		;SEE ALSO broker-dealer, double-dealer, wheeler-dealer
-		;Extra Examples
-		;TOPICS BUSINESsB2, Transport by car or lorryB2, JobsB2
-		;Oxford Collocations Dictionary
-			;adjective
-				;authorized, licensed, independent…
-			;dealer + verb
-				;offer, sell
-			;preposition
-				;through a/the dealer, dealer in
+[-] dealer		<-->	noun++B2	[221128][002]	./cef/
+ 	;người đàm phán -- (1) 
+		;Topics BUSINESs-b2, Transport by car or lorryb2, Jobsb2
+	; -- (2) 
+	; -- (3) the person who gives out the cards in a card game
+		;Topics Games and toysc1
+	;;
 
 
 
@@ -3733,22 +3772,21 @@
 
 
 
-
-[-] dealing		<-->	noun++C1	[221128][004]	./ˈdiːlɪŋ/-NAmE /ˈdiːlɪŋ/ [IE-C1-Z05-XX-R-01] [230303] 
-	;hoạt động kinh doanh, mối quan hệ kinh doanh -- (dealings [plural]) business activities;the relations that you have with somebody in business
+[-] dealing		<-->	noun++C1	[221128][004]	./ˈdiːlɪŋ/-NAmE /ˈdiːlɪŋ/ [IE-C1-Z05-XX-R-01] [230303] [t]
+	;hoạt động kinh doanh -- (1) dealings [plural] business activities; the relations that you have with somebody in business
 		;I knew nothing of his business dealings.
 		;dealings with somebody/something Have you had any previous dealings with this company?
 		;She has always been very polite in her dealings with me.
-		;TOPICS BUSINESsC1
-	;cách tức kinh doanh -- [uncountable] a way of doing business with somebody
+		;Topics Businessc1
+	;kinh doanh -- (2) [uncountable] a way of doing business with somebody
 		;a reputation for fair/honest dealing
-		;SEE ALSO fair dealing
-		;TOPICS BUSINESsC1
-	;hoạt động mua bán -- [uncountable, countable] buying and selling
+		;see also fair dealing
+		;Topics BUSINESs-c1
+	;việc mua bán, giao dịch -- (3) [uncountable, countable] buying and selling
 		;drug dealing
 		;dealings in shares
-		;TOPICS Crime and punishmentC2, MoneyC2, BUSINESSC2
-
+		;Topics Crime and punishmentc2, Moneyc2, BUSINESs-c2
+	;;
 
 
 
@@ -3759,10 +3797,11 @@
 
 
 [-] dealmaker		<-->	noun++C1	[221128][001]	./ˈdiːlmeɪkə(r)/-NAmE /ˈdiːlmeɪkər/
-	;người giảm đàm phán -- a person who is good at getting organizations to make important political or business agreements together
+	;người làm giao dịch, môi giới -- (1) a person who is good at getting organizations to make important political or business agreements together
 		;A powerful negotiator and master dealmaker, she has worked with multimillion-dollar global operations.
-		;TOPICS BUSINESsC1
-
+		;business brokers and other dealmakers
+		;Topics BUSINESs-c1
+	;;
 
 
 
@@ -3773,73 +3812,101 @@
 
 
 [-] deficit		<-->	noun++C1	[221128][002]	./cef/
-	;khoản thâm hụt -- (economics) the amount by which money spent or owed is greater than money earned in a particular period of time
-		;a budget/trade deficit
+	;khoản thâm hụt -- (1)  (economics) the amount by which money spent or owed is greater than money earned in a particular period of time
+		;a budget deficit
 		;in deficit The trade balance has been in deficit for the past five years.
-		;SEE ALSO trade deficit
-		;Collocations International relations
-			;International relations
-			;Trade
-				;facilitate/regulate trade (with other countries)
-				;form/join a trading bloc
-				;live in/compete in a global/the world economy
-				;support/promote free trade
-				;adopt/call for/oppose protectionist measures
-				;erect/impose/reduce/remove trade barriers
-				;impose/lift/raise/eliminate import tariffs (on something)
-				;have/run a huge/large/growing trade surplus/deficit
-				;embrace/resist/drive globalization
-			;Politics and law
-				;conduct/handle/talk about/discuss foreign policy
-				;pursue an aggressive/a hawkish foreign policy
-				;require/use/conduct diplomacy
-				;establish/break off/sever/restore diplomatic relations
-				;foster/promote/strengthen regional cooperation
-				;facilitate/achieve economic/political integration
-				;exercise/defend/protect/transfer/restore/regain national/state/full/limited sovereignty
-				;consolidate/extend/lose/retain your power (in the region)
-				;hold/maintain/change/alter/shift/be a shift in the balance of power (in the region)
-				;cause/create/open/expose/heal/repair a deep/growing/major/serious rift between X and Y
-			;Meetings and agreements
-				;have/hold/host/attend an international conference/an economic forum/a G20 summit
-				;launch a new round of global/multilateral/world trade negotiations
-				;send/head/lead/meet a high-level/an official/a trade delegation
-				;begin/start/continue/resume peace talks
-				;be committed to/be opposed to/disrupt/undermine/derail/sabotage the peace process
-				;negotiate/achieve a lasting political settlement
-				;broker/sign a peace deal/agreement/treaty
+		;see also trade deficit
+		;Collocations International relations:
+		---
+		;International relations
+		;Trade
+			;facilitate/regulate trade (with other countries)
+			;form/join a trading bloc
+			;live in/compete in a global/the world economy
+			;support/promote free trade
+			;adopt/call for/oppose protectionist measures
+			;erect/impose/reduce/remove trade barriers
+			;impose/lift/raise/eliminate import tariffs (on something)
+			;have/run a huge/large/growing trade surplus/deficit
+			;embrace/resist/drive globalization
+		;Politics and law
+			;conduct/handle/talk about/discuss foreign policy
+			;pursue an aggressive/a hawkish foreign policy
+			;require/use/conduct diplomacy
+			;establish/break off/sever/restore diplomatic relations
+			;foster/promote/strengthen regional cooperation
+			;facilitate/achieve economic/political integration
+			;exercise/defend/protect/transfer/restore/regain national/state/full/limited sovereignty
+			;consolidate/extend/lose/retain your power (in the region)
+			;hold/maintain/change/alter/shift/be a shift in the balance of power (in the region)
+			;cause/create/open/expose/heal/repair a deep/growing/major/serious rift between X and Y
+		;Meetings and agreements
+			;have/hold/host/attend an international conference/an economic forum/a G20 summit
+			;launch a new round of global/multilateral/world trade negotiations
+			;send/head/lead/meet a high-level/an official/a trade delegation
+			;begin/start/continue/resume peace talks
+			;be committed to/be opposed to/disrupt/undermine/derail/sabotage the peace process
+			;negotiate/achieve a lasting political settlement
+			;broker/sign a peace deal/agreement/treaty
 			;Conflict
-				;be/constitute/pose a threat to global security
-				;compromise/endanger/protect national security
-				;justify/be in favour of/ (US English) be in favor of/be against military intervention
-				;threaten/authorize/launch/take/support/oppose unilateral/pre-emptive military action
-				;impose/enforce/lift/end economic sanctions/an arms embargo/a naval blockade
-				;close/protect/secure/patrol the border
-				;lead/be involved in a peacekeeping operation
-			;Aid
-				;negotiate/announce a $15 billion aid package/an economic stimulus package
-				;send/provide/request/cut off military aid
-				;bring/provide emergency/humanitarian relief
-				;deliver/distribute medical supplies/(British English) food parcels/(North American English)food packages
-				;fund/run a foreign/a local/an international NGO
-				;reduce/eradicate child/global/world poverty
-		;COMPARE surplus(thặng dư)
-		;Extra Examples
-		;TOPICS BUSINESsC1
-		;Oxford Collocations Dictionary
-			;adjective
-				;enormous, huge, large…
-			;verb + deficit
+			;be/constitute/pose a threat to global security
+			;compromise/endanger/protect national security
+			;justify/be in favour of/ (US English) be in favor of/be against military intervention
+			;threaten/authorize/launch/take/support/oppose unilateral/pre-emptive military action
+			;impose/enforce/lift/end economic sanctions/an arms embargo/a naval blockade
+			;close/protect/secure/patrol the border
+			;lead/be involved in a peacekeeping operation
+		;Aid
+			;negotiate/announce a $15 billion aid package/an economic stimulus package
+			;send/provide/request/cut off military aid
+			;bring/provide emergency/humanitarian relief
+			;deliver/distribute medical supplies/(British English) food parcels/(North American English)food packages
+			;fund/run a foreign/a local/an international NGO
+			;reduce/eradicate child/global/world poverty
+		---
+		;compare surplus
+		;Extra Examples:
+		;a budget deficit running at 7% of GDP
+		;The UK remained in deficit with all countries outside the EU.
+		;If the government didn't run such huge deficits, the country would not have financial problems.
+		;The company has run up a deficit of £30 000.
+		;The government was forced to sell state-owned companies to fund the budget deficit.
+		;The trade balance shows a deficit of two million dollars.
+		;You cannot cut a budget deficit simply by raising taxes.
+		;to prevent the country from moving into deficit
+		;Topics BUSINESs-c1
+				;Oxford Collocations Dictionary
+				;adjective
+				;enormoushugelarge…
+				;verb + deficit
 				;facehaverun…
-			;deficit + verb
-				;run at something, grow, increase…
-			;preposition
-				;in deficit, deficit with
+				;deficit + verb
+				;run at somethinggrowincrease…
+				;preposition
+				;in deficitdeficit with
+		;See full entry
+	; -- (2) (formal) the amount by which something, especially an amount of money, is too small or smaller than something else
+		;There's a deficit of $3 million in the total needed to complete the project.
+		;The team has to come back from a 2–0 deficit in the first half.
+		;Extra Examples:
+		;We will find it hard to make up this deficit.
+		;United are hoping to overturn a two-goal deficit from the first leg.
+				;Oxford Collocations Dictionary
+				;adjective
+				;enormoushugelarge…
+				;verb + deficit
+				;facehaverun…
+				;deficit + verb
+				;run at somethinggrowincrease…
+				;preposition
+				;in deficitdeficit with
+		;See full entry
+		;Word Origin
+	;;
 
 
 
-
-
+===
 
 
 

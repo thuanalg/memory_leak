@@ -74,7 +74,7 @@
 
 
 
-[-] obfuscate		<-->	verb++[--0]	./ˈɒbfəskeɪt/
+[-] obfuscate		<-->	verb++	[241110][001]	./ˈɒbfəskeɪt/
  /ˈɑːbfəskeɪt/
 [intransitive, transitive] (formal)
 	;làm mờ, mờ -- (1) obfuscate (something) to make something less clear and more difficult to understand, usually deliberately
@@ -137,7 +137,7 @@
 
 
 
-[-] simplify		<-->	verb++[--0]	./ˈsɪmplɪfaɪ/
+[-] simplify		<-->	verb++	[241110][001]	./ˈsɪmplɪfaɪ/
  /ˈsɪmplɪfaɪ/
 	;đơn giản hóa -- (1) simplify something to make something easier to do or understand
 		;The application forms have now been simplified.
@@ -169,7 +169,7 @@
 
 
 
-[-] simplicity		<-->	n++[--0]	./sɪmˈplɪsəti/
+[-] simplicity		<-->	n++	[241110][001]	./sɪmˈplɪsəti/
  /sɪmˈplɪsəti/
 (plural simplicities)
 	;tính đơn giản -- (1) [uncountable] the quality of being easy to understand or use
@@ -219,12 +219,10 @@
 
 
 
-[-] ward off		<-->	p.verb++[--0]	.[nk]
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] ward off		<-->	p.verb++	[241110][001]	./p/ [nk]
+	;tự vệ, chống lại -- (1) [ward somebody/something  off] to protect or defend yourself against danger, illness, attack, etc.
+		;to ward off criticism
+		;She put up her hands to ward him off.
 	;;
 
 
