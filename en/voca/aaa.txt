@@ -30,7 +30,16 @@ Khung giờ 5.05PM , vì lúc đó ngoài giờ làm việc. Nhưng anh sẽ ngh
 1. My name Thuan, a senior C/C++ programmer, software architect. 
 2. I have been working with C/C++ many years. 
 3. Now I am in charge of maintaining MFC application.
-4. specialize in networking programming, system programming.
-5. I hope we have exciting conversation.
+4. I specialize in networking programming, system programming.
+5. I hope we have an exciting conversation.
 
 Albert Einstein (1879-1955)
+
+FFMPEG
+ffmpeg -list_devices true -f dshow -i dummy
+"Microphone (Logi C310 HD WebCam)"
+ffmpeg -f dshow -i audio="Microphone (Logi C310 HD WebCam)" output.wav
+
+Một ví dụ cụ thể, về "lực lượng (liên quan đến khái niệm đếm được và không đếm được)", có một câu hỏi "Có một tập hợp số nào mà lớn hơn hẳn số hữu tỷ, nhưng lại nhỏ hơn hẳn số thực không?" Câu trả lời từ Paul Cohen ( Fields Medal - 1966) rằng: "Có cũng được, không có cũng được." Nó độc lập với các tiên đề toán hiện tại. Nhớ lại hình như ông Kurt Gô-del rất khoái chứng minh này.
+
+Khi nói đến định lý Bất Toàn, và bình luận. Tôi biết liệu người ta có biết một bài tập hạng xoàn: "Chứng minh số vô tỷ là không đếm được." Một  bài tập dạng cơ bản, đến hạng ruồi như tôi còn hiểu. Nếu các bạn không biết thì làm sao nói đến  định lý Bất Toàn? Tôi đưa ra bài tập mini này, lý do là nó liên quan đến định lý.
