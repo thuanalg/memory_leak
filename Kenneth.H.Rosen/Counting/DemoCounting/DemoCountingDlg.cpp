@@ -11,7 +11,15 @@
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #endif
+#include <windows.h>
+#include <gdiplus.h>
+#include <string>
 
+using namespace Gdiplus;
+
+#pragma comment(lib, "gdiplus.lib")
+static GdiplusStartupInput gdiplusStartupInput;
+static ULONG_PTR gdiplusToken;
 
 // CAboutDlg dialog used for App About
 
@@ -64,6 +72,7 @@ void CDemoCountingDlg::DoDataExchange(CDataExchange* pDX)
 BEGIN_MESSAGE_MAP(CDemoCountingDlg, CDialogEx)
 	ON_WM_SYSCOMMAND()
 	ON_WM_PAINT()
+	ON_WM_CLOSE()
 	ON_WM_QUERYDRAGICON()
 END_MESSAGE_MAP()
 
@@ -73,7 +82,7 @@ END_MESSAGE_MAP()
 BOOL CDemoCountingDlg::OnInitDialog()
 {
 	CDialogEx::OnInitDialog();
-
+	GdiplusStartup(&gdiplusToken, &gdiplusStartupInput, NULL);
 	// Add "About..." menu item to system menu.
 
 	// IDM_ABOUTBOX must be in the system command range.
@@ -121,11 +130,25 @@ void CDemoCountingDlg::OnSysCommand(UINT nID, LPARAM lParam)
 //  to draw the icon.  For MFC applications using the document/view model,
 //  this is automatically done for you by the framework.
 
+
+void CDemoCountingDlg::OnClose() {
+	GdiplusShutdown(gdiplusToken);
+	CDialogEx::OnClose();
+}
 void CDemoCountingDlg::OnPaint()
 {
 	CPaintDC dc(this); // device context for painting
 	CRect rect;
 	GetClientRect(&rect);
+	HDC hdc = dc.GetSafeHdc();
+	Gdiplus::Graphics graphics(hdc);
+	// Create a font and brush to draw the text
+	//::Font font(L"Arial", 24);          // Font name "Arial" and size 24
+	//CFont font;
+	Gdiplus::Font font(L"Arial", 24);
+	//CClientDC dcd(this);
+	//VERIFY(font.CreatePointFont(120, _T("Arial"), &dcd));
+	SolidBrush brush(Color(255, 0, 0, 0)); // Black color brush
 	if (IsIconic())
 	{
 		//CPaintDC dc(this); // device context for painting
@@ -153,17 +176,27 @@ void CDemoCountingDlg::OnPaint()
 	int x0 = 100, y0 = 0;
 	int height_revert = rect.bottom;
 	height_revert -= 40;
-	int thick = 10;
+	int thick = 20;
 	int t = 0;
-
+	wchar_t textx[10];
+	graphics.SetSmoothingMode(SmoothingModeAntiAlias);
 	for (int i = 0; i < 10; ++i) {
 		t = i;
 		dc.SelectStockObject(BLACK_PEN);
 		//dc.Rectangle(CRect(x0, height_revert - 0, x0+ thick, height_revert - (y0 + i * 20)));
-		FillRect(dc.GetSafeHdc(), CRect(x0, height_revert - 0, x0 + thick, height_revert - (y0 + t * 40) - 20), hBrush);
+		FillRect(hdc, CRect(x0, height_revert - 0, x0 + thick, height_revert - (y0 + t * 40) - 20), hBrush);
+		_snwprintf(textx, 10, _T("%d"), i);
+		graphics.DrawString(textx, -1, &font, Gdiplus::PointF(x0 - 3, height_revert - 0), &brush);
 		x0 += thick;
 		x0 += padding;
 	}
+	//std::wstring fontNameText = L"Font: Arial";
+	
+	//graphics.DrawString(fontNameText.c_str(), -1, &font, PointF(50.0f, 50.0f), &brush);
+	
+	//graphics.DrawString()
+	//graphics.DrawString()
+	//font.DeleteObject();
 }
 
 // The system calls this function to obtain the cursor to display while the user drags
