@@ -27,7 +27,7 @@ Khung giờ 5.05PM , vì lúc đó ngoài giờ làm việc. Nhưng anh sẽ ngh
 
 Được em, anh đồng ý giờ này.
 
-1. My name Thuan, a senior C/C++ programmer, software architect. 
+1. My name Thuan, a senior C/C++ programmer, a software architect. 
 2. I have been working with C/C++ many years. 
 3. Now I am in charge of maintaining MFC application.
 4. I specialize in networking programming, system programming.
@@ -43,3 +43,17 @@ ffmpeg -f dshow -i audio="Microphone (Logi C310 HD WebCam)" output.wav
 Một ví dụ cụ thể, về "lực lượng (liên quan đến khái niệm đếm được và không đếm được)", có một câu hỏi "Có một tập hợp số nào mà lớn hơn hẳn số hữu tỷ, nhưng lại nhỏ hơn hẳn số thực không?" Câu trả lời từ Paul Cohen ( Fields Medal - 1966) rằng: "Có cũng được, không có cũng được." Nó độc lập với các tiên đề toán hiện tại. Nhớ lại hình như ông Kurt Gô-del rất khoái chứng minh này.
 
 Khi nói đến định lý Bất Toàn, và bình luận. Tôi biết liệu người ta có biết một bài tập hạng xoàn: "Chứng minh số vô tỷ là không đếm được." Một  bài tập dạng cơ bản, đến hạng ruồi như tôi còn hiểu. Nếu các bạn không biết thì làm sao nói đến  định lý Bất Toàn? Tôi đưa ra bài tập mini này, lý do là nó liên quan đến định lý.
+
+At least 6 years of expertise in C++ development: ---->>>> OK
+Knowledge of low-latency design concepts: ---->>>> OK
+Knowledge of C++20 and higher: ---->>>> I think OK
+From 3 years or more of experience in Python development, ---->>>> I knew Python but not pro
+Knowledge of pandas, scipy, and numpy ---->>>> I knew but not pro
+Strong knowledge of best practices and the fundamentals of software architecture ---->>>> OK
+Competent with SQL databases and shell scripting ---->>>> I did, but not working  for a long time.
+Familiarity with UDP/TCP low-level networking ---->>>> I specilize in.
+
+Gdiplus::Graphics draw text + font name
+
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error	C4996	'_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.	DemoCounting	E:\z.en\en.2022.07.08\memory_leak\Kenneth.H.Rosen\Counting\DemoCounting\DemoCountingDlg.cpp	187		
