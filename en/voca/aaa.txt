@@ -57,3 +57,19 @@ Gdiplus::Graphics draw text + font name
 
 Severity	Code	Description	Project	File	Line	Suppression State	Details
 Error	C4996	'_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.	DemoCounting	E:\z.en\en.2022.07.08\memory_leak\Kenneth.H.Rosen\Counting\DemoCounting\DemoCountingDlg.cpp	187		
+
+1. B1 - Game
+2. Signal-slot
+3. Permutation
+4. Head en
+5. Vocal (p, k, c x) -->> now 10:51 PM 11/22/2024
+6. Add more to simple-log, process/thread information
+ [t]
+p: nap: kidnap, snap; tap, lap: slap, flap, lap; 
+k, 
+c,
+x
+cap: cap
+lap: flap, slap, lap
+nap
+rap: trap, strap, rap, wrap
