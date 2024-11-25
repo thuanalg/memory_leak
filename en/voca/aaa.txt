@@ -65,6 +65,7 @@ Error	C4996	'_snwprintf': This function or variable may be unsafe. Consider usin
 5. Vocal (p, k, c x) -->> now 10:51 PM 11/22/2024
 6. Add more to simple-log, process/thread information
  [t]
+ 
 p: nap: kidnap, snap; tap, lap: slap, flap, lap; 
 k, 
 c,
