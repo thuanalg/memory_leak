@@ -124,3 +124,8 @@ git remote set-url origin git@github.com:thuanalg/memory_leak.git
  [t]
 
 https://www.youtube.com/watch?v=1aM1KYvl4Dw
+
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error	C4996	'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.	simplelog	C:\z\simple-signal-slot\simplelog\simplelog.c	428		
+
+differentiate << tender, gentle, kind, decent, >>
