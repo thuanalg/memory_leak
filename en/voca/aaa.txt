@@ -129,3 +129,6 @@ Severity	Code	Description	Project	File	Line	Suppression State	Details
 Error	C4996	'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.	simplelog	C:\z\simple-signal-slot\simplelog\simplelog.c	428		
 
 differentiate << tender, gentle, kind, decent, >>
+
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error	C2512	'simple_signal_slot': no appropriate default constructor available	simple_signal_slot_example	C:\z\simple-signal-slot\src\test\main.cpp	15		
