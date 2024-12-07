@@ -132,3 +132,27 @@ differentiate << tender, gentle, kind, decent, >>
 
 Severity	Code	Description	Project	File	Line	Suppression State	Details
 Error	C2512	'simple_signal_slot': no appropriate default constructor available	simple_signal_slot_example	C:\z\simple-signal-slot\src\test\main.cpp	15		
+
+cmake -G "Visual Studio 17 2022" -A win32 -B ../win32/ 
+ffmpeg -list_devices true -f dshow -i dummy
+
+ffmpeg record screen and audio + windows
+
+ffmpeg -f gdigrab -framerate 30 -i desktop -f dshow -i audio="Stereo Mix (Realtek High Definition Audio)" -vcodec libx264 -preset fast -crf 23 -ac 2 -ar 44100 -y output.mp4
+
+git commit -m "Done for Windows."
+[17athena@Owl9]
+Permissions 0666 for '/home/thuannt/.ssh/id_ecdsa' are too open.
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+Load key "/home/th/.ssh/id_ecdsa": bad permissions
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+git clone git@github.com:thuanalg/simple-signal-slot.git
+
+cmake ../src/ -DUNIX_LINUX -DCMAKE_CXX_STANDARD -DCMAKE_BUILD_TYPE=Debug 
+cmake ../src/ -DUNIX_LINUX=1
+
+error: unable to find string literal operator ‘operator""
