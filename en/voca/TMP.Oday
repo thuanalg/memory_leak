@@ -15,7 +15,7 @@
 
 
 
-[-] payroll		<-->	n++[0]	./ˈpeɪrəʊl/-NAmE /ˈpeɪrəʊl/
+[-] payroll		<-->	n++	[241211][001]	./ˈpeɪrəʊl/-NAmE /ˈpeɪrəʊl/
 	;bảng lương -- (1) a list of people employed by a company showing the amount of money to be paid to each of them
 		;We have 500 people on the payroll.
 	; -- (2) [usually singular] the total amount paid in wages by a company
@@ -33,7 +33,7 @@
 
 
 
-[-] marvelous		<-->	a++[0]	./ˈmɑːvələs/-NAmE /ˈmɑːrvələs/ (US English marvelous) [IE-B1-Z04-L-01]
+[-] marvelous		<-->	a++	[241211][001]	./ˈmɑːvələs/-NAmE /ˈmɑːrvələs/ (US English marvelous) [IE-B1-Z04-L-01]
 	;tuyệt vời, kỳ diệu -- (1) extremely good; wonderful
 		;synonym fantastic, splendid
 		;This will be a marvellous opportunity for her.
@@ -72,12 +72,13 @@
 
 
 
-[-] vouch for		<-->	p.verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] vouch for		<-->	p.verb++	[241211][001]	./p/
+	;bảo lãnh -- (1) [-vouch for somebody/something] (formal) to say that you believe that somebody will behave well and that you will be responsible for their actions
+		;Are you willing to vouch for him?
+		;I can vouch for her ability to work hard.
+	;xác nhận, bảo lãnh -- (2) [-vouch for something] (formal) to say that you believe that something is true or good because you have evidence for it
+		;synonym confirm
+		;I was in bed with the flu. My wife can vouch for that.
 	;;
 
 
@@ -110,7 +111,7 @@
 
 
 
-[-] cosmetic		<-->	a++[--0]	./kɒzˈmetɪk/-NAmE /kɑːzˈmetɪk/
+[-] cosmetic		<-->	a++	[241211][001]	./kɒzˈmetɪk/-NAmE /kɑːzˈmetɪk/
 	;hình thức -- (1) improving only the outside appearance of something and not its basic character
 		;These reforms are not merely cosmetic.
 		;She dismissed the plan as a cosmetic exercise to win votes.
@@ -143,7 +144,7 @@
 
 
 
-[-] domestic		<-->	n++[--0]	./dəˈmestɪk/-NAmE /dəˈmestɪk/
+[-] domestic		<-->	n++	[241211][001]	./dəˈmestɪk/-NAmE /dəˈmestɪk/
 	;ô-sin -- (1) ​(also domestic help, domestic worker) a servant who works in somebody’s house, doing the cleaning and other jobs
 	;bạo lực gia đình -- (2) ​(British English, informal) a fight between two members of the same family
 		;The police were called to sort out a domestic.
@@ -160,6 +161,10 @@
 
 
 
+[-] detrain		<-->	verb++C2	[221116][004]	./ˌdiːˈtreɪn/-NAmE /ˌdiːˈtreɪn/ [intransitive, transitive] (formal) [news.ap] [230222] [231209] [240629] [t]
+	;xuống tàu -- (1) detrain (somebody) to leave a train or make somebody leave a train
+		;TOPICS TRANSPORT BY BUS AND TRAIN-C2
+	;;
 
 
 
@@ -172,16 +177,17 @@
 
 
 
-[-] static		<-->	noun++C2	[230319][002]	./ˈstætɪk/-NAmE /ˈstætɪk/ [uncountable] [pat] [t]
-	;nhiễu -- (1) noise or other effects that interrupt radio or television signals and are caused by particular conditions in the atmosphere
-		;TOPICS PHYSICS AND CHEMISTRY-C2, TV, radio and newsC2
-	;nhiễu -- (2) (also static electricity) electricity that gathers on or in an object that is not a conductor of electricity
-		;My hair gets full of static when I brush it.
-		;TOPICS PHYSICS AND CHEMISTRY-C2
-	;vật lý tĩnh -- (3) statics the science that deals with the forces that balance each other to keep objects in a state of rest
-		;compare dynamic
-	;thái độ tức giận -- (4) ​(North American English, informal) angry or critical comments or behaviour
-		;Topics Feelingsc2
+[-] kip		<-->	n++	[241211][001]	./kɪp/-NAmE /kɪp/\ [uncountable, countable, usually singular] (British English, informal)
+	;ngủ -- (1) sleep
+		;I must get some kip.
+		;Why don't you have a quick kip?
+		;Try to catch some kip while you can.
+				;Oxford Collocations Dictionary
+				;verb + kip
+				;catchgethave…
+				;phrases
+				;an hour’s, a night’s, etc. kip
+		;See full entry
 		;Word Origin
 	;;
 
@@ -196,12 +202,10 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] kip		<-->	verb++	[241211][001]	./kɪp/-NAmE /kɪp/ [intransitive] (British English, informal)
+	;ngủ -- (1) ​to sleep
+		;You can kip on the sofa, if you like.
+		;Word Origin
 	;;
 
 
@@ -215,50 +219,11 @@
 
 
 
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-	;;
-
-
-
-
-
-
-
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-	;;
-
-
-
-
-
-
-
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] skip		<-->	n++	[241211][001]	./skɪp/-NAmE /skɪp/
+	;cú nhảy -- (1) [-movement] a skipping movement
+		;She gave a skip and a jump and was off down the street.
+	;thùng rác -- (2) [-container for waste] (British English)(North American English Dumpster™) a large open container for putting old, broken building materials, rubbish, etc. in. 	The skip is then loaded on a lorry and taken away.
+		;Word Origin
 	;;
 
 

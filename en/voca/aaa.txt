@@ -156,3 +156,10 @@ cmake ../src/ -DUNIX_LINUX -DCMAKE_CXX_STANDARD -DCMAKE_BUILD_TYPE=Debug
 cmake ../src/ -DUNIX_LINUX=1
 
 error: unable to find string literal operator ‘operator""
+
+Dear Teacher Lee,
+
+Via we talked this morning, I hope we keep contact and discuss more detailed after I finish a few projects I have been working.
+
+Best regards,
+Thuan Nguyen-Thai
