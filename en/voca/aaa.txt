@@ -164,4 +164,105 @@ Via we talked this morning, I hope we keep contact and discuss more detailed aft
 Best regards,
 Thuan Nguyen-Thai
 
-git commit -m "Apply for Unix/Linux."
+git commit -m "Add macro \"UNIX_LINUX\"."
+-D_HAS_STD_BYTE=0
+error: unable to find string literal operator ‘operator
+error: unable to find string literal operator ‘operator""___fmttt___’ with ‘const char [33]’
+ISO C++20
+git clone git@github.com:thuanalg/simplelog-topic.git
+cmake -G "Visual Studio 17 2022" -B ../win32 -A win32
+#ifndef __UNIX_LINUX_CPP11_AND_NEWERS__
+#else
+#endif
+git commit -m "For modern C++ Linux."
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error	C2894	templates cannot be declared to have 'C' linkage	simple_cpp_example	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\type_traits	185		
+
+/usr/include/c++/11/bits/basic_string.tcc:1466:3: error: template with C linkage
+_HAS_STD_BYTE=0
+#CPPFLAGS=-std=c++98 -D UNIX_LINUX -D __UNIX_LINUX_CPP11_AND_NEWERS
+ 
+
+
+Tôi đã thiết kế/thực thi thành công một thư viện logger cho multi threads/processes có thể nói là tốt và duy nhất hiện tại cho C/C++ bằng ANSI C (cho tất cả OS ngày nay, với tất cả tính năng bên dưới), đã post lên github và cho demo? Tôi yêu cầu mức lương thế nào?
+Right now, I see only my library can do:
+1. Support multi threads.
+2. Support multi processes.
+3. Modern/classic C/C++ even from ANSI 89 to C++20.
+4. Cross platforms
+5. Support log level
+6. Support theo topic
+7. Realtime
+8. Rotate big file
+9. Small/fast/simple
+10. No dependence
+Viết một logger như trên bằng ANSI C, độ khó là mấy theo thang điểm 10?
+
+I have successfully designed and implemented a logger library for multi-threads/processes that can be considered the best currently available for C/C++ using ANSI C (compatible with all modern operating systems and featuring all the functionalities below). I have posted it on GitHub and provided a demo. What salary can I demand?
+Right now, I see only my library can do:
+	1. Support multi-threads.
+	2. Support multi-processes.
+	3. Compatible with modern/classic C/C++ (from ANSI C89 to C++20).
+	4. Cross-platform support.
+	5. Support log levels.
+	6. Support logging by topic.
+	7. Real-time logging.
+	8. Rotate large log files.
+How difficult is it to write such a logger using ANSI C, on a scale of 1 to 10?
+
+### Introducing **SimpleLog Challenge**: The Ultimate ANSI C Logger Library  
+
+🚀 **GitHub Repository**: [thuanalg/simplelog-challenge](https://github.com/thuanalg/simplelog-challenge)  
+
+The **SimpleLog Challenge** is a state-of-the-art logger library designed and implemented in **ANSI C**, meeting and exceeding modern requirements for multi-threaded and multi-process logging across all operating systems. This library delivers unmatched performance, flexibility, and compatibility for developers working in **C/C++**, from legacy ANSI C89 to the latest C++20 standards.  
+
+---
+
+### 🌟 **Key Features**:  
+
+1. **Multi-threaded Logging**  
+   - Supports safe and efficient logging in multi-threaded environments without performance bottlenecks.  
+
+2. **Multi-process Logging**  
+   - Handles concurrent logging across multiple processes using robust synchronization techniques.  
+
+3. **Wide Compatibility**  
+   - Works seamlessly with both classic and modern C/C++ standards, from **ANSI C89** to **C++20**.  
+
+4. **Cross-platform Support**  
+   - Fully portable and tested on all major operating systems (Windows, Linux, macOS, etc.).  
+
+5. **Log Levels**  
+   - Fine-grained control over log verbosity with multiple log levels.  
+
+6. **Logging by Topic**  
+   - Organize logs by specific topics for better traceability and debugging.  
+
+7. **Real-time Logging**  
+   - Ensures minimal latency for critical applications that require immediate log output.  
+
+8. **File Rotation for Large Logs**  
+   - Automatically rotates log files when they exceed a specified size, ensuring no data loss or performance degradation.  
+
+---
+
+### 🔥 **Why SimpleLog Challenge Stands Out**  
+
+This library is not just a logger—it’s a **solution** for developers who need robust, high-performance logging in demanding environments such as embedded systems, real-time applications, and large-scale distributed systems.  
+
+Whether you’re dealing with legacy ANSI C code or modern C++20 projects, **SimpleLog Challenge** is designed to adapt and excel in any scenario.  
+
+---
+
+### 📈 **Future Potential**  
+
+I am confident that **SimpleLog Challenge** can meet **all your logging needs and more**. With its solid foundation and extensibility, additional features can be implemented as required by the community or specific use cases.  
+
+---
+
+💡 **Check it out and contribute**: [SimpleLog Challenge on GitHub](https://github.com/thuanalg/simplelog-challenge)  
+
+Join the community and experience the power of a logger that sets a new standard for ANSI C and C++ developers! Feedback and contributions are welcome to make it even better. 🙌
+
+
+"ismaster: If you want multiple processes to use the same .cfg file, then only the first process should be initialized as ismaster."
