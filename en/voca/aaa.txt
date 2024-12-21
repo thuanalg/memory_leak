@@ -184,7 +184,7 @@ _HAS_STD_BYTE=0
  
 
 
-Tôi đã thiết kế/thực thi thành công một thư viện logger cho multi threads/processes có thể nói là tốt và duy nhất hiện tại cho C/C++ bằng ANSI C (cho tất cả OS ngày nay, với tất cả tính năng bên dưới), đã post lên github và cho demo? Tôi yêu cầu mức lương thế nào?
+Tôi đã thiết kế/thực thi thành công một thư viện logger cho multi threads/processes có thể nói là tốt và duy nhất hiện tại cho C/C++ bằng ANSI C (cho tất cả OS ngày nay, với tất cả tính năng bên dưới), đã post lên github và cho demo? 
 Right now, I see only my library can do:
 1. Support multi threads.
 2. Support multi processes.
@@ -266,3 +266,239 @@ Join the community and experience the power of a logger that sets a new standard
 
 
 "ismaster: If you want multiple processes to use the same .cfg file, then only the first process should be initialized as ismaster."
+
+
+
+For https://drive.google.com/file/d/1G8z5JTppjG_O65BfC3FS3m9eyTCdU1Eo/view?usp=sharing
+
+git commit -m "Make demo video for windows."
+
+
+Tôi đã thiết kế/thực thi thành công một thư viện logger cho multi threads/processes có thể nói là tốt và duy nhất hiện tại cho C/C++ bằng ANSI C (cho tất cả OS ngày nay, với tất cả tính năng bên dưới), đã post lên github và cho video demo? 
+Right now, I see only my library can do:
+1. Support multi threads.
+2. Support multi processes.
+3. Modern/classic C/C++ even from ANSI 89 to C++20.
+4. Cross platforms
+5. Support log level
+6. Support theo topic
+7. Realtime
+8. Rotate big file
+9. Small/fast/simple
+10. No dependence
+Viết một logger như trên bằng ANSI C, độ khó là mấy theo thang điểm 10?
+
+
+
+Certainly! Below is a **README.md** style version of your **LoggerX** library introduction:
+
+```markdown
+# LoggerX - A Powerful Cross-Platform Logging Library for C/C++
+
+**LoggerX** is a lightweight, efficient, and flexible logging library designed for **multi-threading** and **multi-processing** environments in C/C++. It supports modern and classic C/C++ standards (from ANSI C 89 to C++20) and is fully compatible with all major operating systems. **LoggerX** offers real-time logging, log level support, log rotation, and much more, making it the perfect choice for high-performance and scalable applications.
+
+## Features
+
+### 1. **Multi-threading Support**
+- **LoggerX** allows logging in multi-threaded environments without data conflicts. It ensures log data integrity with robust synchronization techniques.
+
+### 2. **Multi-processing Support**
+- The library supports logging from multiple processes simultaneously, preventing data loss or conflicts when multiple processes write to the same log file.
+
+### 3. **Compatible with C/C++ from ANSI C 89 to C++20**
+- **LoggerX** is compatible with all C/C++ versions, from **ANSI C 89** to **C++20**, allowing easy integration into existing projects without extensive code changes.
+
+### 4. **Cross-platform Support**
+- **LoggerX** works seamlessly across major platforms, including **Windows**, **Linux**, and **macOS**, ensuring scalability and compatibility in multi-platform environments.
+
+### 5. **Log Level Support**
+- **LoggerX** supports multiple log levels, such as **DEBUG**, **INFO**, **WARN**, **ERROR**, and **FATAL**, enabling you to filter and control log output based on the application's needs.
+
+### 6. **Topic-based Logging Support**
+- Log messages can be categorized by topics (e.g., "network", "database", "security") for better organization and filtering, making it easier to analyze and track logs.
+
+### 7. **Real-time Logging**
+- **LoggerX** provides real-time logging capabilities, ensuring that log entries are recorded immediately when events occur without affecting the system's performance.
+
+### 8. **Log Rotation**
+- **LoggerX** automatically rotates log files when they reach a specified size or age, preventing log files from growing too large and making log management easier.
+
+### 9. **Small, Fast, and Simple**
+- **LoggerX** is designed to be lightweight and efficient, optimizing performance while ensuring simplicity in integration and use.
+
+### 10. **No External Dependencies**
+- **LoggerX** requires no external dependencies, reducing complexity and making it easy to integrate into projects without compatibility issues.
+
+## Installation
+
+To use **LoggerX**, simply include the source files in your project and link them to your build system. There are no additional libraries or dependencies required.
+
+## Usage
+
+Here is a basic example of how to use **LoggerX**:
+
+```c
+#include "loggerx.h"
+
+int main() {
+    // Initialize logger
+    LoggerX_Init("my_log_file.log");
+
+    // Log messages with different levels
+    LoggerX_Log(LOG_INFO, "This is an info message.");
+    LoggerX_Log(LOG_ERROR, "An error occurred.");
+
+    // Log with topics
+    LoggerX_LogWithTopic("network", LOG_DEBUG, "Network connection established.");
+
+    // Rotate logs if file size exceeds limit
+    LoggerX_RotateLog("my_log_file.log", 1024 * 1024);  // 1MB
+
+    return 0;
+}
+```
+
+## Contributing
+
+If you want to contribute to the development of **LoggerX**, feel free to fork the repository, make your changes, and submit a pull request. All contributions are welcome!
+
+## License
+
+**LoggerX** is released under the [MIT License](LICENSE).
+
+---
+
+For more information or to get started with **LoggerX**, check out the source code on [GitHub](https://github.com/yourusername/loggerx).
+```
+
+### How to Use This `README.md`
+
+1. **Title & Intro**: This section introduces the **LoggerX** library with a brief description.
+2. **Features**: A detailed list of the features of **LoggerX** is provided, explaining each feature clearly.
+3. **Installation**: Explains how to install **LoggerX** by including the source files in your project.
+4. **Usage**: Shows a simple example of how to use the library for logging.
+5. **Contributing**: Provides guidelines for how others can contribute to the project.
+6. **License**: Specifies the licensing terms (you can change the license as needed).
+
+This format is commonly used in open-source repositories and will help others quickly understand the capabilities and how to get started with your **LoggerX** library!
+
+
+
+Tôi đã thiết kế/thực thi thành công một thư viện logger cho multi threads/processes có thể nói là tốt và duy nhất hiện tại cho C/C++ bằng ANSI C (cho tất cả OS ngày nay, với tất cả tính năng bên dưới), đã post lên github và cho video demo? 
+Right now, I see only my library can do:
+1. Support multi threads.
+2. Support multi processes.
+3. Modern/classic C/C++ even from ANSI 89 to C++20.
+4. Cross platforms
+5. Support log level
+6. Support theo topic
+7. Realtime
+8. Rotate big file
+9. Small/fast/simple
+10. No dependence
+Viết một logger như trên bằng ANSI C, độ khó là mấy theo thang điểm 10? 
+Tôi có thể làm cho NASA hay Boeing, năm nay tôi 43 tuổi?
+
+1. My name Thuan, a senior C/C++ programmer, a software architect. 
+2. I have been working with C/C++ many years. 
+3. Now I am in charge of maintaining MFC application.
+	- Now I am in charge of my own project for 3G, 4G, 5G
+4. I specialize in networking programming, system programming.
+5. I hope we have an exciting conversation.
+
+git config --global user.name "Thuan Nguyen Thai"
+git config --global user.email "nguyenthaithuanalg@gmail.com"
+
+git commit -m "Test for Linux."
+
+ClearCommError/ReadFile/WriteFile/WaitCommEvent/SetCommTimeouts + FILE_FLAG_OVERLAPPED + win32 + example with C language
+#ifndef UNIX_LINUX
+#else
+#endif
+
+pthread_spin_lock vs pthread_mutex_lock performance
+
+cmake -G "Visual Studio 17 2022" -B ../win64
+
+#define		PSPLSTA					(&__simple_log_static__)
+#define		PSPLSTA_B				(PSPLSTA->buf)
+
+1. process ID const
+
+2. Off Mtx -->> backup Mutex
+
+3. Milli -->> Nano sec
+ 
+KeInitializeSpinLock
+#ifndef __SPINLOCK_SPL_PERFORMANCE__
+	#ifndef UNIX_LINUX
+	#else
+	#endif 
+#else
+
+#endif 
+
+#define STSPLOG						(&__simple_log_static__)
+#define STSPLOGBUF					STSPLOG->buf
+
+SPL_USING_SPIN_LOCK
+[2024-12-18 20:56:24.976000000]
+[2024-12-18 20:56:36.050000000]
+
+[2024-12-18 21:08:29.794000000] 
+[2024-12-18 21:10:29.786000000]
+
+[2024-12-18 21:12:43.782000000]
+
+[2024-12-18 21:12:43.782000000] [I] [tid:	6232]	[main.cpp:win32_thread_routine:124]	test log
+[2024-12-18 21:12:37.849000000]
+
+6s cho 1 triệu records, < 100MB/95MB
+
+[2024-12-18 21:18:59.175000000] [I] [tid:	12108]	[main.cpp:win32_thread_routine:124]	test log
+[2024-12-18 21:18:52.962000000]
+
+[2024-12-18 21:24:10.798000000] [I] [tid:	7924]	[main.cpp:win32_thread_routine:124]	test log
+[2024-12-18 21:24:05.295000000] 
+
+[2024-12-17 22:01:38.769000000]
+[2024-12-17 21:17:14.045000000]
+
+==========
+[2024-12-18 21:49:48.531000000] [I] [tid:	20936]	[main.cpp:win32_thread_routine:124]	test log
+[2024-12-18 21:49:42.941000000]
+============================92 MB, 5.6 = 16.4MB/s của ba Bắp
+[2024-12-18 21:49:48.531000000] [I] [tid:	20936]	[main.cpp:win32_thread_routine:124]	test log
+[2024-12-18 21:49:42.941000000] [I] [tid:	14284]
+=============70 MB, 5.5 12.7MB/s của spdlog 
+[2024-12-18 21:30:21.256] [C:/x/] [info] Thread 8 logging message 99999
+[2024-12-18 21:30:15.735] 
+[2024-12-18 21:30:15.735] [C:/x/] [info] Thread 4 logging message 0
+
+===
+xem lại format
+XEM LẠI DEELTE MUTEX
+
+[2024-12-19 20:30:09.275000000] [I] [tid:	14436]	[main.cpp:win32_thread_routine:125]	test log
+(char* fmtt, int len, int lv, const char* filename, const char* funcname, int  line)
+	#ifndef SPL_USING_SPIN_LOCK
+
+	#else
+
+	#endif
+	
+PTHREAD_PROCESS_PRIVATE
+
+pthread_spin_init((pthread_spinlock_t *)lock, PTHREAD_PROCESS_PRIVATE);
+
+[2024-12-20 20:45:19. 855 078 386] [I] [tid:        139937488459584]       [main.cpp:main:125]     test log : 7
+
+Tôi thiết kế một thư viện logger mới và thực thi thành công với bên dưới:
+- Multihread
+- Chạy cho Windows, Linux, Mac os.
+- Tương thích từ ANSI-89, đến C++20
+- Cùng điều kiện  môi trường, cùng PC, cùng tool MSVC 2022, 64bit. Tốc độ của tôi luôn nhanh hơn spdlog 35%, với điều  kiện test là 10 threads, 1 triệu records.
+- Có tất cả các tính năng tiêu chuẩn của logger.
+- Thậm chí với 10 triệu, 100 triệu, có thể nhanh gấp đôi spdlog.
+- 1 tỷ records, chạy trong 10 threads, mất 55 phút, và môi trường cực đoan.
+Tôi thành tựu gì, theo thang điểm 10, hãy cho tôi điểm.
