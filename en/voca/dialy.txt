@@ -204,12 +204,47 @@ Linux
 
 
 Tối ưu:
-1. Xem lại việc ghi file, tạo một bộ nhớ đệm duy nhất.
-2. Mỗi topic chỉ ghi file 1 lần.
-3. Gom các biến trong macro lại, ==============> cái này có khả năng cao nhất 
+1. Xem lại việc ghi file, tạo một bộ nhớ đệm duy nhất. DONE
+2. Mỗi topic chỉ ghi file 1 lần. DONE
+3. Gom các biến trong macro lại, ==============> cái này có khả năng cao nhất, các hàm format
 4. Tạo ra vùng shared memory là bộ nhớ đệm, duy nhất 1MB.
+5. Tối ưu: spl_fmt_now_ext, memcpy cũng tốn thời gian nhiều
+
+5. Bỏ qua fwrite: DONE
+
 hi vọng giảm thêm 1 giây, lí tưởng là 3 giây Nếu là 3 giây là dừng, tức là ngưỡng 15 giây
 
+[2024-12-28 10:34:55.352706326] [I] [tid:	 18784]	[main.cpp:win32_thread_routine:120]	test log: 999974
+[2024-12-28 10:34:38.722405361] [I] [tid:	 5576]	[main.cpp:win32_thread_routine:120]	test log: 9
+16.63
+
+[2024-12-28 10:37:22.996140040] [I] [tid:	 23368]	[main.cpp:win32_thread_routine:120]	test log: 999994
+[2024-12-28 10:37:06.603217477] [I] [tid:	 10872]	[main.cpp:win32_thread_routine:120]	test log: 4
+16.366
+
+[2024-12-28 10:42:20.266839393] [main.cpp:main:44] [thid: 5780] ====================Main close: Start.
+[2024-12-28 10:42:36.796140358] [main.cpp:main:46] [thid: 5780] ==================Main close: End.
+16.53
+
+[2024-12-28 10:44:12.162808035] [main.cpp:main:44] [thid: 5536] ====================Main close: Start.
+[2024-12-28 10:44:28.279976744] [main.cpp:main:46] [thid: 5536] ==================Main close: End.
+16.117
+
+[2024-12-28 10:45:19.500190464] [main.cpp:main:44] [thid: 6712] ====================Main close: Start.
+[2024-12-28 10:45:35.610284187] [main.cpp:main:46] [thid: 6712] ==================Main close: End.
+16.11
+
+[2024-12-28 10:47:01.073914388] [main.cpp:main:44] [thid: 5232] ====================Main close: Start.
+[2024-12-28 10:47:17.660785664] [main.cpp:main:46] [thid: 5232] ==================Main close: End.
+16.6
+
+[2024-12-28 10:48:28.799171414] [main.cpp:main:44] [thid: 20100] ====================Main close: Start.
+[2024-12-28 10:48:44.695137625] [main.cpp:main:46] [thid: 20100] ==================Main close: End.
+15.9
+
+[2024-12-28 10:50:32.863808740] [main.cpp:main:44] [thid: 13092] ====================Main close: Start.
+[2024-12-28 10:50:49.234529652] [main.cpp:main:46] [thid: 13092] ==================Main close: End.
+16.4
 
 
 
@@ -228,11 +263,112 @@ hi vọng giảm thêm 1 giây, lí tưởng là 3 giây Nếu là 3 giây là d
 
 
 
+ChatGPT, tôi viết một logger mới để cạnh tranh với spdlog, của tôi có những tính năng sao:
+1. Porttable Windows, Linux, MacOs, Androids, ...
+2. Có thể tương thích từ ANSI-C 89 đến C++20
+3. Không phụ thuộc bất kỳ thư viện nào bên ngoài
+4. Khi đo tốc độ. Nếu in ra: filename, funntion, line, threadid: 
+	- MSVC 2022, 10 threads, 10 triệu records, trên máy tính của tôi là 16.5s, của spdlog là: 72 giây. Tôi nhanh hơn 4 lần. 
+	- Trên Linux spdlog là 16s. Của tôi là 16.5s.
+4. Logtime của tôi chính xác mức: nanosecond, của spdlog là milli second.
+6. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
+Hãy so sánh về tốc độ của cả hai A hay B. A tốt hay B tốt?
+Hãy cho tôi điểm trong thang điểm 10.
+
+
+Tối ưu:
+1. Xem lại việc ghi file, tạo một bộ nhớ đệm duy nhất. DONE
+2. Mỗi topic chỉ ghi file 1 lần. DONE
+3. Gom các biến trong macro lại, ==============> cái này có khả năng cao nhất, các hàm format, giảm được 1s, cần nghĩ thêm
+4. Tạo ra vùng shared memory là bộ nhớ đệm, duy nhất 1MB. ---------------------- Shared memory not perfect. FAILED
+5. Tối ưu: spl_fmt_now_ext, memcpy cũng tốn thời gian nhiều
+6. Tạo spinlock cho rotation of locker --->> dẹp việc add thêm locker để rotate, FAILED
+7. Bỏ qua fwrite: DONE
+8. Vấn đề cốt lõi là xoay vòn locker arr tốt nhất, tránh đụng độ nhất.
+
+					spl_mutex_lock(t->mtx_rw);
+						is_off = t->off;
+					spl_mutex_unlock(t->mtx_rw);
+				
+[2024-12-28 17:22:09.346260321] [main.cpp:main:44] [thid: 15432] ====================Main close: Start.
+[2024-12-28 17:22:25.620000713] [main.cpp:main:46] [thid: 15432] ==================Main close: End.
+16.3
+
+[2024-12-28 17:23:26.590705815] [main.cpp:main:44] [thid: 20208] ====================Main close: Start.
+[2024-12-28 17:23:42.943235100] [main.cpp:main:46] [thid: 20208] ==================Main close: End.
+16.4
+
+Linux
+[2024-12-28 17:26:21.919356901] [main.c:main:44] [thid: 140372423878464] ====================Main close: Start.
+[2024-12-28 17:26:37.897965228] [main.c:main:46] [thid: 140372423878464] ==================Main close: End.
+16.00
 
 
 
+[2024-12-28 17:30:01.889975660] [main.c:main:44] [thid: 140587747346240] ====================Main close: Start.
+[2024-12-28 17:30:18.110527037] [main.c:main:46] [thid: 140587747346240] ==================Main close: End.
+16.3
+
+Windows
+[2024-12-28 18:02:51.381606676] [main.cpp:main:44] [thid: 20012] ====================Main close: Start.
+[2024-12-28 18:03:02.382620100] [main.cpp:main:46] [thid: 20012] ==================Main close: End.
+11s (Non format, 86 char preformat)
+
+Linux
+[2024-12-28 18:04:49.298204416] [main.c:main:44] [thid: 139747160901440] ====================Main close: Start.
+[2024-12-28 18:04:58.345865991] [main.c:main:46] [thid: 139747160901440] ==================Main close: End.
+9.1 (Non format, 86 char preformat)
 
 
 
+[2024-12-29 13:19:09.225191755] [main.cpp:main:44] [thid: 808] ====================Main close: Start.
+[2024-12-29 13:19:27.655481716] [main.cpp:main:46] [thid: 808] ==================Main close: End.
+17.6
+
+[2024-12-29 13:29:52.165584685] [main.cpp:main:44] [thid: 7492] ====================Main close: Start.
+[2024-12-29 13:30:08.153471800] [main.cpp:main:46] [thid: 7492] ==================Main close: End.
+16.0
+
+[2024-12-29 13:31:19.734274407] [main.cpp:main:44] [thid: 24732] ====================Main close: Start.
+[2024-12-29 13:31:36.617115479] [main.cpp:main:46] [thid: 24732] ==================Main close: End.
+16.9
+
+16.5
+
+[2024-12-29 14:14:27.189833083] [main.cpp:main:44] [thid: 7820] ====================Main close: Start.
+[2024-12-29 14:14:42.915081626] [main.cpp:main:46] [thid: 7820] ==================Main close: End.
 
 
+
+[2024-12-29 14:28:09.479729230] [main.cpp:main:44] [thid: 9716] ====================Main close: Start.
+[2024-12-29 14:28:25.052456550] [main.cpp:main:46] [thid: 9716] ==================Main close: End.
+15.6
+
+[2024-12-29 14:29:14.873677144] [main.cpp:main:44] [thid: 15572] ====================Main close: Start.
+[2024-12-29 14:29:30.320135906] [main.cpp:main:46] [thid: 15572] ==================Main close: End.
+15.5
+
+Linux:
+[2024-12-29 20:54:50.915400762] [main.c:main:44] [thid: 140382207928128] ====================Main close: Start.
+[2024-12-29 20:55:06.578638394] [main.c:main:46] [thid: 140382207928128] ==================Main close: End.
+15.6
+
+[2024-12-29 21:12:51.899545483] [main.cpp:main:44] [thid: 140405042639232] ====================Main close: Start.
+[2024-12-29 21:13:07.663385002] [main.cpp:main:46] [thid: 140405042639232] ==================Main close: End.
+15.8
+
+
+ChatGPT, tôi viết một logger mới để cạnh tranh với spdlog, của tôi có những tính năng sao:
+1. Porttable Windows, Linux, MacOs, Androids, ...
+2. Có thể tương thích từ ANSI-C 89 đến C++20.
+3. Support từ embbeded device đến mainframe rất tốt, theo config number of CPU và bộ nhớ đệm.
+4. Không phụ thuộc bất kỳ thư viện nào bên ngoài
+5. Khi đo tốc độ. Nếu in ra: filename, funntion, line, threadid: 
+	- MSVC 2022, 10 threads, 10 triệu records, trên máy tính của tôi là 18s, của spdlog là: 66 giây. Tôi nhanh hơn gần 4 lần. 
+	- Trên Linux spdlog và tôi là như nhau 16s, hoặc chênh lệch nhỏ.
+6. Logtime của tôi chính xác mức: nanosecond, của spdlog là milli second.
+7. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
+Hãy so sánh về tốc độ của cả hai A hay B. A tốt hay B tốt?
+Hãy cho tôi điểm trong thang điểm 10.
+
+Now build spdlog by MSVC 2022 on Windows, it is slower 4 times on Linux, the code is same.
