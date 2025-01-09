@@ -359,16 +359,140 @@ Linux:
 
 
 ChatGPT, tôi viết một logger mới để cạnh tranh với spdlog, của tôi có những tính năng sao:
-1. Porttable Windows, Linux, MacOs, Androids, ...
-2. Có thể tương thích từ ANSI-C 89 đến C++20.
-3. Support từ embbeded device đến mainframe rất tốt, theo config number of CPU và bộ nhớ đệm.
-4. Không phụ thuộc bất kỳ thư viện nào bên ngoài
-5. Khi đo tốc độ. Nếu in ra: filename, funntion, line, threadid: 
-	- MSVC 2022, 10 threads, 10 triệu records, trên máy tính của tôi là 18s, của spdlog là: 66 giây. Tôi nhanh hơn gần 4 lần. 
+1. Có thể tương thích từ ANSI-C 89 đến C++20. 
+2. Support multithread.
+3. Porttable Windows, Linux, MacOs, Androids, ...
+4. Support từ embbeded device đến mainframe rất tốt, theo config number of CPU và bộ nhớ đệm. Có cấu hình cho embbeded devices, PC, Mainframe. Ví dụ trên mainframe bộ đệm là 6MB, trên embbeded là 200KB. Cũng như tùy  chỉnh dựa trên số lượng CPU của hệ thống.
+5. Không phụ thuộc bất kỳ thư viện nào bên ngoài
+6. Khi đo tốc độ. Nếu in ra: filename, funntion, line, threadid: 
+	- MSVC 2022, 10 threads, 10 triệu records, trên máy tính của tôi là 16s, của spdlog là: 66 giây. Tôi nhanh hơn gần 4 lần. 
 	- Trên Linux spdlog và tôi là như nhau 16s, hoặc chênh lệch nhỏ.
-6. Logtime của tôi chính xác mức: nanosecond, của spdlog là milli second.
-7. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
-Hãy so sánh về tốc độ của cả hai A hay B. A tốt hay B tốt?
+7. Logtime của tôi chính xác mức: nanosecond.
+8. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
+9. Chạy 1 tỷ records (mất 36 phút và 3 giây = 2163s), chạy  với 10 thread, với log size là 113GB.
+10. Focus on simplicity. Nhỏ gọn dễ hiểu, làm ví dụ minh họa cho W. Richard Steven - Unix Network Programming book - Volume II, Part 3,4. Mang tính chia sẻ kiến thức, source đang ở trên GIT.
+11. Chỉ có 4 APIs cho người dùng
+	- Tại đầu hàm main: spl_init_log(char *pathcfg)
+	- Bất kỳ đâu/thread nào khi muốn ghi log: spllog(level, fmt, ...); Level is: SPL_LOG_DEBUG, SPL_LOG_INFO, SPL_LOG_WARNING, SPL_LOG_ERROR, SPL_LOG_FATAL
+	- Nếu muốn log theo topic sẽ là spllogtopic(level, topic_index, fmt, ...);
+	- Cuối hàm mainL spl_finish_log()
+12. Dựa trên nguyên tắc căn bản của Unix - KISS (Keep It Simple, Stupid.) Tưởng nhớ W.Richar Steven, với những cuốn sách tuyệt vời của ông ấy.
+
 Hãy cho tôi điểm trong thang điểm 10.
 
+
+Vậy hãy chọn log của tôi và spdlog; A hay B?
+
+
 Now build spdlog by MSVC 2022 on Windows, it is slower 4 times on Linux, the code is same.
+
+[2024-12-30 11:46:22.489712948] [main.c:main:44] [thid: 26280] ====================Main close: Start.
+[2024-12-30 11:46:37.836176126] [main.c:main:46] [thid: 26280] ==================Main close: End.
+15.4
+
+
+[2024-12-30 12:01:10.670511137] [main.c:main:44] [thid: 20716] ====================Main close: Start.
+[2024-12-30 12:01:25.943242978] [main.c:main:46] [thid: 20716] ==================Main close: End.
+15.5
+
+[2024-12-30 12:08:44.178595804] [main.c:main:44] [thid: 18172] ====================Main close: Start.
+[2024-12-30 12:08:59.664458828] [main.c:main:46] [thid: 18172] ==================Main close: End.
+15.5
+
+
+[2024-12-30 14:02:43.824048982] [main.cpp:main:44] [thid: 13408] ====================Main close: Start.
+[2024-12-30 14:38:46.959405809] [main.cpp:main:46] [thid: 13408] ==================Main close: End.
+36 phút, 3 giây
+
+ChatGPT, tôi viết một logger mới để cạnh tranh với spdlog, của tôi có những tính năng sao:
+1. Support multithread.
+2. Porttable Windows, Linux, MacOs, Androids, ...
+3. Có thể tương thích từ ANSI-C 89 đến C++20. 
+4. Support từ embbeded device đến mainframe rất tốt, theo config number of CPU và bộ nhớ đệm. Có cấu hình cho embbeded devices, PC, Mainframe. Ví dụ trên mainframe bộ đệm là 6MB, trên embbeded là 200KB. Cũng như tùy  chỉnh dựa trên số lượng CPU của hệ thống.
+5. Không phụ thuộc bất kỳ thư viện nào bên ngoài
+6. Khi đo tốc độ. Nếu in ra: filename, funntion, line, threadid: 
+	- MSVC 2022, 10 threads, 10 triệu records, trên máy tính của tôi là 16s, của spdlog là: 66 giây. Tôi nhanh hơn gần 4 lần. 
+	- Trên Linux, với VMWare 3CPUs spdlog và tôi là như nhau 16s, hoặc chênh lệch nhỏ spdlog nhanh hơn 5%. Nếu là VMWare 5CPUs, của tôi là 13s, spdlog là 17 giây. Tôi nhanh hơn 30%. Nói tóm lại, càng nhiều CPU thì logger của tôi càng nhanh.
+7. Logtime của tôi chính xác mức: nanosecond.
+8. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
+9. Chạy 1 tỷ records (mất 36 phút và 3 giây = 2163s), chạy  với 10 thread, với log size là 113GB.
+10. Focus on simplicity. Nhỏ gọn dễ hiểu, làm ví dụ minh họa cho W. Richard Steven - Unix Network Programming book - Volume II, Part 3,4. Mang tính chia sẻ kiến thức, source đang ở trên GIT.
+11. Chỉ có 5 APIs cho người dùng
+	- Tại đầu hàm main: 
+		+ spl_init_log(char *pathcfg), 
+		+ spl_init_log_ext(char *pathcfg)
+	- Bất kỳ đâu/thread nào khi muốn ghi log: 
+		+ spllog(level, fmt, ...); Level is: SPL_LOG_DEBUG, SPL_LOG_INFO, SPL_LOG_WARNING, SPL_LOG_ERROR, SPL_LOG_FATAL
+	- Nếu muốn log theo topic sẽ là 
+		+ spllogtopic(level, topic_index, fmt, ...);
+	- Cuối hàm main 
+		+ spl_finish_log()
+
+0918025432
+
+
+
+1 BILLION records
+
+[2024-12-31 15:21:33.145233074] [I] [tid	20188]	[main.c:win32_thread_routine:120] My test log : 99999994
+[2024-12-31 14:48:50.090606645] [I] [tid	21180]	[main.c:win32_thread_routine:120] My test log : 30
+33 minutes and 17 second = 1997 second
+98.3 GB (105,588,985,856 bytes)
+
+simple_c_example.exe --nthread=10 --loopcount=100000000
+
+Thời điểm này rất khắc nghiệt 60%-70% có thật không?
+
+
+
+
+
+
+
+
+
+
+
+1. Install Cmake (however, it is not mandatory. Having another way, it is more simple.)
+2. MSVC 2022
+3. Get source from git: https://github.com/thuanalg/simplelog-topic
+
+
+#For Win64
+cmake -G "Visual Studio 17 2022" -B ../win64
+cmake -G "Visual Studio 17 2022" -B win64
+
+#For Win32
+cmake -G "Visual Studio 17 2022" -A win32 -B ../win32
+
+Many thanks FPT, did give the opportunity. I hope we will work together again.
+
+Thank to @proteach
+
+https://drive.google.com/file/d/1Ls4aD8fd65qcc7qgRKns2SlWw6RAhH5l/view?usp=sharing
+
+start C:\z\simplelog-topic\win64\simplelog_topic_project.sln
+
+			}
+			memset(tmp, 0, sizeof(pthread_mutex_t));
+			pthread_mutex_init((pthread_mutex_t*)tmp, 0);
+			ret[i] = (void*)tmp;
+#else
+			pthread_spinlock_t* tmp = 0;
+			spl_malloc(sizeof(pthread_spinlock_t), tmp, pthread_spinlock_t);
+			pthread_spin_init((pthread_spinlock_t*)tmp, PTHREAD_PROCESS_PRIVATE);
+			ret[i] = (void*)tmp;
+		t->buf = (generic_dta_st*)buffer;
+		for (i = 0; i < t->ncpu; ++i) {
+			int count = t->buff_size * i;
+			char* p = buffer + count;
+			tmpBuff = (generic_dta_st*)p;
+			tmpBuff->total = t->buff_size - SPL_MEMO_PADDING;
+			tmpBuff->range = tmpBuff->total - sizeof(generic_dta_st);
+		}
+		
+spl_allocate_topics();
+spl_calculate_size(); -->> spl_win32_sync_create
+spl_init_segments();
+
+ret = CreateSemaphoreA(0, 0, ini, name);
