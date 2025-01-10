@@ -495,4 +495,10 @@ spl_allocate_topics();
 spl_calculate_size(); -->> spl_win32_sync_create
 spl_init_segments();
 
-ret = CreateSemaphoreA(0, 0, ini, name);
+10 000 000
+
+git tag v1.0.1 -m "A new stable release with new style."
+git push --tags
+git archive -o latest.zip HEAD
+
+git clone git@github.com:thuanalg/simplelog-challenge.git
