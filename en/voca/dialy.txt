@@ -502,3 +502,73 @@ git push --tags
 git archive -o latest.zip HEAD
 
 git clone git@github.com:thuanalg/simplelog-challenge.git
+
+Hãy viết lại chỉnh chu bằng tiếng Anh:
+# A group of process use the same configuring file, need the parameter to know each others.
+shared_key=__675745
+
+C:\z\simplelog-challenge\win64\Debug
+
+[2025-01-11 14:45:20.450525859] [simplelog.c:spl_gen_topics:1541] [thid: 16236] Close FILE error.
+[2025-01-11 14:45:20.450527306] [simplelog.c:spl_fclose_err:1606] [thid: 16236] ffp: 000001F94CA426A0, terr: -1, GetLastError: 0xb7,
+[2025-01-11 14:45:20.451530669] [simplelog.c:spl_written_thread_routine:858] [thid: 16236] --spl_gen_topics, ret: 14 --
+
+
+ChatGPT, tôi viết một logger mới để cạnh tranh với spdlog, của tôi có những tính năng sao:
+1. Support multithread/multi procesess.
+2. Porttable Windows, Linux, MacOs, Androids, ...
+3. Có thể tương thích từ ANSI-C 89 đến C++20. 
+4. Support từ embbeded device đến mainframe, theo config number of CPU và bộ nhớ đệm. Có cấu hình cho embbeded devices, PC, Mainframe. Ví dụ trên mainframe bộ đệm là 6MB, trên embbeded là 200KB. Cũng như tùy  chỉnh dựa trên số lượng CPU của hệ thống.
+5. Không phụ thuộc bất kỳ thư viện nào bên ngoài
+6. Khi đo tốc độ. Nếu in ra: filename, funntion, line, threadid, chạy trên nhiều process: 
+	a. Nếu trên máy laptop mới của tôi (12 CPUs), nó chạy 10 threads, 10 triệu records chỉ có 8.7 giây, tức là hơn 1.1 triệu message trên giây trên Windows 11. Nhanh hơn 4 lần so với spdlog là 44 giây.
+	b. MSVC 2022, 10 threads, 10 triệu records, trên máy tính cũ của tôi (hơn 11 năm tuổi, nhưng ổ cứng SSD mới) là 16s, của spdlog là: 66 giây. Tôi nhanh hơn gần 4 lần. 
+	c. Trên Linux, với VMWare 3CPUs spdlog và tôi là như nhau 16s, hoặc chênh lệch nhỏ spdlog nhanh hơn 5%. Nếu là VMWare 4 CPUs, của tôi là 13s, spdlog là 17 giây. Tôi nhanh hơn 30%. Nói tóm lại, càng nhiều CPU thì logger của tôi càng nhanh.
+7. Logtime của tôi chính xác mức: nanosecond.
+8. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
+9. Chạy 1 tỷ records (mất 36 phút và 3 giây = 2163s), chạy  với 10 thread, với log size là 113GB, trên máy tính cũ hơn 11 năm tuổi và có ổ cứng SSD mới.
+10. Focus on simplicity. Nhỏ gọn dễ hiểu, làm ví dụ minh họa cho W. Richard Steven - Unix Network Programming book - Volume II, Part 3,4. Mang tính chia sẻ kiến thức, source đang ở trên GIT.
+11. Chỉ có 5 APIs cho người dùng
+	- Tại đầu hàm main: 
+		+ spl_init_log(char *pathcfg), 
+		+ spl_init_log_ext(char *pathcfg)
+	- Bất kỳ đâu/thread nào khi muốn ghi log: 
+		+ spllog(level, fmt, ...); Level is: SPL_LOG_DEBUG, SPL_LOG_INFO, SPL_LOG_WARNING, SPL_LOG_ERROR, SPL_LOG_FATAL
+	- Nếu muốn log theo topic sẽ là 
+		+ spllogtopic(level, topic_index, fmt, ...);
+	- Cuối hàm main 
+		+ spl_finish_log()
+12. Về độ an toàn của một message (có thể tùy chỉnh trong file config) ví dụ: là 10000 bytes, nghĩa là nếu dưới 10000 bytes message sẽ được ghi an toàn. Nếu lớn hơn  nó có thể bị chặt cụt.
+13. Để vinh danh và tưởng nhớ W. Richard Stevens. Và Dennis Ritchie, W. Richard Stallman, Linus Toward, ...
+14. Tuân theo Unix Philosophy - KISS.
+Hãy so sánh logger của tôi và spdlog. và cho điểm theo thang điểm 10.		
+Kết quả này đáng Boeing, NASA, IBM, SpaceX, ... quan tâm không
+
+Do you know whose state "It was only supposed to be a joke, I never thought people would take the book seriously. Anyone with half a brain can see that object-oriented programming is counter-intuitive, illogical and inefficient.."? Funny right? Is it fake?
+
+ffmpeg -f concat -safe 0 -i filelist.txt -c copy output.mp4
+
+[2025-01-13 12:12:54.851124704] [I] [tid	16764]	[pid 	 11876]	[main.c:win32_thread_routine:137] Log: 999990
+[2025-01-13 12:12:39.850118220] [I] [tid	18916]	[pid 	 11876]	[main.c:win32_thread_routine:137] Log: 0
+
+hãy viết lại chuẩn bằng tiếng Anh:
+3. **Optimized for both Multithreading and multi-process**  
+With both multithreaded and processed logging support, SimpleLog-Topic performs exceptionally well in high-concurrency environments. It enables multiple threads to log messages concurrently without significant performance degradation, making it ideal for both small-scale and distributed systems.
+
+Thế nào là logging:
+	- Asynchronous mode với "Queue Overflow Policy: block"?
+	- Asynchronous mode với "Queue Overflow Policy: overrun"?
+Viết lại cho đúng bằng tiếng Anh:
+3. **Optimized for Both Multithreading and Multi-process**  
+	With support for both multithreaded and **multi-process** logging, SimpleLog-Challenge performs exceptionally well in high-concurrency environments. It allows multiple **threads/processes** to log messages concurrently without significant performance degradation, making it ideal for both small-scale and distributed systems.
+	
+SPL_MAX_SZ_MSG
+#define	SPLOG_BUFF_SIZE \
+	"buffsize="
+#define	SPL_MAX_SZ_MSG \
+	"max_sz_msg="
+#define	SPLOG_ROT_SIZE \
+	"rotation_size="
+
+1.Readme edit
+2. https://www.youtube.com/watch?v=vQJrM7HqezQ, install MAC OS Virtual Box
