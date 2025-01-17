@@ -572,3 +572,32 @@ SPL_MAX_SZ_MSG
 
 1.Readme edit
 2. https://www.youtube.com/watch?v=vQJrM7HqezQ, install MAC OS Virtual Box
+3. max_sz_msg
+
+ffmpeg -f concat -safe 0 -i filelist15.txt -c copy Linux64_15.mp4
+ffmpeg -f concat -safe 0 -i Linux64_15.txt -c copy Linux64_15.mp4
+
+file '2025-01-15T10-20-56.078333096.mp4'
+file '2025-01-15T10-21-58.378327597.mp4'
+file '2025-01-15T10-22-59.839941229.mp4'
+file '2025-01-15T10-24-01.258138728.mp4'
+file '2025-01-15T10-25-02.663184583.mp4'
+file '2025-01-15T10-26-04.054089369.mp4'
+file '2025-01-15T10-27-05.459145692.mp4'
+file '2025-01-15T10-28-06.951069762.mp4'
+file '2025-01-15T10-29-08.369234913.mp4'
+file '2025-01-15T10-30-09.760149387.mp4'
+file '2025-01-15T10-31-11.231855746.mp4'
+file '2025-01-15T10-32-12.667224810.mp4'
+file '2025-01-15T10-33-14.100561144.mp4'
+file '2025-01-15T10-34-15.494493897.mp4'
+250115-SimpleLog-Challenge-Linux64-demo
+
+git rm README3.md
+
+gdb --args ./simple_c_example --is_master=1
+
+git rm README_example_01.md
+
+[2025-01-16 17:31:10.182257709] [I] [tid	11748]	[pid 	 2696]	[main.c:win32_thread_routine:138] Log: 999995
+[2025-01-16 17:30:55.998415885] [I] [tid	6608]	[pid 	 2696]	[main.c:win32_thread_routine:138] Log: 0
