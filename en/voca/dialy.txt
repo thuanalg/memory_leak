@@ -603,3 +603,4 @@ git rm README_example_01.md
 [2025-01-16 17:30:55.998415885] [I] [tid	6608]	[pid 	 2696]	[main.c:win32_thread_routine:138] Log: 0
 
 C:/z/serialmodule/win32/serial_module_project.sln
+C:/z/serialmodule/win32/serial_module_project.sln
