@@ -80,3 +80,56 @@ Hi Hùng, Quá.
 Mình thử tìm con đường tắt từ pdf -->> Emf, vì thấy thư viện poppler/cairo làm rất giống mục tiêu của mình. Tiếc là poppler chỉ xử lý pdf khá tốt, nhưng phần print ra context lại phụ thuộc vào glib, xuất hiện vấn đề về tương thích binary (trở nên khó giải quyết).
 Mình đang nghĩ cách và xem xét kỹ lại lần nữa, nếu không OK mình sẽ nghĩ cách tiến cận khác, nó cơ bản. 
 Nếu cần code, evidence, report chi tiết hơn thì ping mình nhé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 threads, 10 triệu line
+
+[2024-12-23 16:01:08.636000000] [main.cpp:main:44] [thid: 21328] ====================Main close: Start.
+[2024-12-23 16:01:26.223000000] [main.cpp:main:46] [thid: 21328] ==================Main close: End.
+18s
+sdplog 38s
+
+[2024-12-23 16:11:14.992000000] [main.cpp:main:44] [thid: 9932] ====================Main close: Start.
+[2024-12-23 16:11:30.484000000] [main.cpp:main:46] [thid: 9932] ==================Main close: End.
+16s
+sdplog: 36s
+
+[2024-12-23 16:13:43.183000000] [main.cpp:main:44] [thid: 31912] ====================Main close: Start.
+[2024-12-23 16:13:58.357000000] [main.cpp:main:46] [thid: 31912] ==================Main close: End.
+15.2s
+sdplog: 38s
+
+[2025-01-16 17:54:47.454874234] [I] [tid	16856]	[pid 	 7016]	[main.c:win32_thread_routine:138] Log: 999993
+[2025-01-16 17:54:36.834567540] [I] [tid	12260]	[pid 	 7016]	[main.c:win32_thread_routine:138] Log: 9
+
+[2025-01-16 17:58:46.607274119] [I] [tid	8576]	[pid 	 5544]	[main.c:win32_thread_routine:138] Log: 999960
+[2025-01-16 17:58:37.612319340] [I] [tid	13652]	[pid 	 5544]	[main.c:win32_thread_routine:138] Log: 10
+
+
+[2025-01-16 18:00:59.639589000] [I] [tid	25484]	[pid 	 19008]	[main.c:win32_thread_routine:138] Log: 1
+[2025-01-16 18:01:22.936688259] [I] [tid	23100]	[pid 	 15924]	[main.c:win32_thread_routine:138] Log: 999961
+
+
+[2025-01-16 18:03:56.119384805] [I] [tid	23980]	[pid 	 21324]	[main.c:main:192] this is master process.
+[2025-01-16 18:04:01.133517632] [I] [tid	23980]	[pid 	 21324]	[main.c:main:192] this is master process.
+[2025-01-16 18:04:03.478977088] [I] [tid	7592]	[pid 	 18168]	[main.c:win32_thread_routine:138] Log: 19
+
+[2025-01-16 18:04:25.863894943] [I] [tid	11944]	[pid 	 11780]	[main.c:win32_thread_routine:138] Log: 999972
+[2025-01-16 18:04:25.863896127] [I] [tid	11944]	[pid 	 11780]	[main.c:win32_thread_routine:138] Log: 999987
