@@ -62,3 +62,545 @@ ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30
 =======
 [lm.a.s.97]
 >>>>>>> 4e84bbd67799cdf995a96fb61a5eaf94ebd6da44:en/voca/new 1.txt
+
+
+duybk8@fpt.com/0777552338
+tuanvd1@fpt.com/24091
+
+Stroustrup: Promise me you’ll publish this. My conscience is getting the better of me these days..
+
+spl_mutex_create_arr
+
+[2024-12-24 22:22:47.419177756] [main.cpp:main:44] [thid: 9720] ====================Main close: Start.
+[2024-12-24 22:23:14.986842147] [main.cpp:main:46] [thid: 9720] ==================Main close: End.
+27.5
+
+[2024-12-24 22:24:29.022202952] [main.cpp:main:44] [thid: 13900] ====================Main close: Start.
+[2024-12-24 22:24:56.818166790] [main.cpp:main:46] [thid: 13900] ==================Main close: End.
+27.8
+
+[2024-12-24 22:42:11.425236942] [main.cpp:main:44] [thid: 24044] ====================Main close: Start.
+[2024-12-24 22:42:38.832309122] [main.cpp:main:46] [thid: 24044] ==================Main close: End.
+
+[2024-12-25 10:04:17.998964795] [main.cpp:main:44] [thid: 16700] ====================Main close: Start.
+[2024-12-25 10:04:37.536342257] [main.cpp:main:46] [thid: 16700] ==================Main close: End.
+20(s)
+
+ChatGPT, tôi viết một logger mới để cạnh tranh với spdlog, của tôi có những tính năng sao:
+1. Porttable Windows, Linux, MacOs, Androids, ...
+2. Có thể tương thích từ ANSI-C 89 đến C++20
+3. Không phụ thuộc bất kỳ thư viện nào bên ngoài
+4. Khi đo tốc độ: MSVC 2022, 10 threads, 10 triệu records, trên máy tính của tôi ( đã cũ hơn 10 năm), thì của tôi là 17.5(s) của spdlog là 52s. . Trên Linux của tôi: 17.2s, của spdlog: 11(s)
+5. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
+Hãy so sánh về tốc độ của cả hai A hay B. A tốt hay B tốt?
+Hãy cho tôi điểm trong thang điểm 10.
+
+Vậy giữa log do tôi viết  và spdlog, cái nào tốt hơn? Log của tôi chạy 1 tỷ records OK. spdlog hay log của tôi ? Hoặc A hoặc B. Nhanh gọn.
+Với tất cả điều kiện nêu ra: spdlog tốt hay log của tôi tốt? A hay B? Nhanh gọn.
+
+25 500 000
+
+[2024-12-25 20:04:33.920555515] [main.cpp:main:44] [thid: 4828] ====================Main close: Start.
+[2024-12-25 20:04:52.002375728] [main.cpp:main:46] [thid: 4828] ==================Main close: End.
+18.08
+
+[2024-12-25 20:06:28.382177183] [main.cpp:main:44] [thid: 8008] ====================Main close: Start.
+[2024-12-25 20:06:46.746817836] [main.cpp:main:46] [thid: 8008] ==================Main close: End.
+18.4
+
+[2024-12-27 01:03:27.787987393] [main.cpp:main:44] [thid: 15520] ====================Main close: Start.
+[2024-12-27 01:03:44.313253836] [main.cpp:main:46] [thid: 15520] ==================Main close: End.
+
+
+[2024-12-27 01:07:58.029402336] [main.cpp:main:44] [thid: 28984] ====================Main close: Start.
+[2024-12-27 01:08:15.094053004] [main.cpp:main:46] [thid: 28984] ==================Main close: End.
+
+__UNIX_LINUX_CPP11_AND_NEWERS__
+
+[2024-12-27 01:16:03.256683505] [main.cpp:main:44] [thid: 17568] ====================Main close: Start.
+[2024-12-27 01:16:20.900116815] [main.cpp:main:46] [thid: 17568] ==================Main close: End.
+17.65
+
+
+
+
+
+
+
+
+
+
+
+
+#pathfoder: the folder to write log
+pathfoder=C:/z/simplelog-topic/win64/Debug/log_simple
+#level:SPL_LOG_BASE:0, SPL_LOG_DEBUG:1, SPL_LOG_INFO:2, SPL_LOG_WARNING:3, SPL_LOG_ERROR:4, SPL_LOG_FATAL:5, SPL_LOG_PEAK:6
+level=0
+#buffsize(byte): size of memory for simple log, 1(MB)
+buffsize=200000
+#rotation_size(byte): size of each of log files, 10(MB)
+rotation_size=2000000000
+#topic: Split log into multi topics, each topic is a file. Here is 3 topics.
+#toopic=sys,lib,exe,nayax,sksgn
+topic=sys,lib,exe,nayax,sksgn
+#trigger: Create a trigger thread
+trigger=1
+#ncpu=: Number of CPUs
+ncpu=17
+#end_configuring: Put in end of this file to read configuring file no more
+end_configuring=1
+
+ncpu(1, 3, 16, 32), trigger(0, 1-20), topic(0, 1-10), rotation_size(0.1, 1, 5, 7, 10), level, pathfoder, OS(Win32/64 10/11, Linux), Architect(x86, x64, arm7, arm8)
+
+mutex, semaphore, critical session
+
+Tối ưu:
+1. Xem lại việc ghi file, tạo một bộ nhớ đệm duy nhất.
+2. Mỗi topic chỉ ghi file 1 lần.
+3. Gom các biến trong macro lại, ==============> cái này có khả năng cao nhất 
+4. Tạo ra vùng shared memory là bộ nhớ đệm, duy nhất 1MB.
+hi vọng giảm thêm 1 giây, lí tưởng là 3 giây Nếu là 3 giây là dừng
+
+Bỏ fwrite
+Windows
+[2024-12-27 20:43:37.078191301] [main.cpp:main:44] [thid: 3508] ====================Main close: Start.
+[2024-12-27 20:43:53.571115242] [main.cpp:main:46] [thid: 3508] ==================Main close: End.
+16.5
+
+[2024-12-27 20:45:17.710506793] [main.cpp:main:44] [thid: 6856] ====================Main close: Start.
+[2024-12-27 20:45:34.019601208] [main.cpp:main:46] [thid: 6856] ==================Main close: End.
+16.3
+
+[2024-12-27 20:46:43.852931271] [main.cpp:main:44] [thid: 17788] ====================Main close: Start.
+[2024-12-27 20:47:00.152934150] [main.cpp:main:46] [thid: 17788] ==================Main close: End.
+16.3
+
+15.7
+16.1
+
+Linux
+[2024-12-27 19:16:10.207703736] [simplelog.c:spl_written_thread_routine:798] [thid: 140364134032960] Malloc: 0x0x7fa909792010
+[2024-12-27 19:16:26.376074230] [main.c:main:46] [thid: 140364170417984] ==================Main close: End.
+16.169
+
+[2024-12-27 20:32:55.263631914] [main.c:main:44] [thid: 140255962314560] ====================Main close: Start.
+[2024-12-27 20:33:11.909319560] [main.c:main:46] [thid: 140255962314560] ==================Main close: End.
+16.7
+
+[2024-12-27 20:35:58.410450372] [main.c:main:44] [thid: 140158881204032] ====================Main close: Start.
+[2024-12-27 20:36:15.046010167] [main.c:main:46] [thid: 140158881204032] ==================Main close: End.
+16.636
+
+[2024-12-27 20:37:27.573186638] [main.c:main:44] [thid: 140257323472704] ====================Main close: Start.
+[2024-12-27 20:37:43.950862015] [main.c:main:46] [thid: 140257323472704] ==================Main close: End.
+16.377
+
+[2024-12-27 20:39:51.389238914] [main.c:main:44] [thid: 139632158807872] ====================Main close: Start.
+[2024-12-27 20:40:08.098421945] [main.c:main:46] [thid: 139632158807872] ==================Main close: End.
+16.71
+
+
+
+
+
+Tối ưu:
+1. Xem lại việc ghi file, tạo một bộ nhớ đệm duy nhất. DONE
+2. Mỗi topic chỉ ghi file 1 lần. DONE
+3. Gom các biến trong macro lại, ==============> cái này có khả năng cao nhất, các hàm format
+4. Tạo ra vùng shared memory là bộ nhớ đệm, duy nhất 1MB.
+5. Tối ưu: spl_fmt_now_ext, memcpy cũng tốn thời gian nhiều
+
+5. Bỏ qua fwrite: DONE
+
+hi vọng giảm thêm 1 giây, lí tưởng là 3 giây Nếu là 3 giây là dừng, tức là ngưỡng 15 giây
+
+[2024-12-28 10:34:55.352706326] [I] [tid:	 18784]	[main.cpp:win32_thread_routine:120]	test log: 999974
+[2024-12-28 10:34:38.722405361] [I] [tid:	 5576]	[main.cpp:win32_thread_routine:120]	test log: 9
+16.63
+
+[2024-12-28 10:37:22.996140040] [I] [tid:	 23368]	[main.cpp:win32_thread_routine:120]	test log: 999994
+[2024-12-28 10:37:06.603217477] [I] [tid:	 10872]	[main.cpp:win32_thread_routine:120]	test log: 4
+16.366
+
+[2024-12-28 10:42:20.266839393] [main.cpp:main:44] [thid: 5780] ====================Main close: Start.
+[2024-12-28 10:42:36.796140358] [main.cpp:main:46] [thid: 5780] ==================Main close: End.
+16.53
+
+[2024-12-28 10:44:12.162808035] [main.cpp:main:44] [thid: 5536] ====================Main close: Start.
+[2024-12-28 10:44:28.279976744] [main.cpp:main:46] [thid: 5536] ==================Main close: End.
+16.117
+
+[2024-12-28 10:45:19.500190464] [main.cpp:main:44] [thid: 6712] ====================Main close: Start.
+[2024-12-28 10:45:35.610284187] [main.cpp:main:46] [thid: 6712] ==================Main close: End.
+16.11
+
+[2024-12-28 10:47:01.073914388] [main.cpp:main:44] [thid: 5232] ====================Main close: Start.
+[2024-12-28 10:47:17.660785664] [main.cpp:main:46] [thid: 5232] ==================Main close: End.
+16.6
+
+[2024-12-28 10:48:28.799171414] [main.cpp:main:44] [thid: 20100] ====================Main close: Start.
+[2024-12-28 10:48:44.695137625] [main.cpp:main:46] [thid: 20100] ==================Main close: End.
+15.9
+
+[2024-12-28 10:50:32.863808740] [main.cpp:main:44] [thid: 13092] ====================Main close: Start.
+[2024-12-28 10:50:49.234529652] [main.cpp:main:46] [thid: 13092] ==================Main close: End.
+16.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ChatGPT, tôi viết một logger mới để cạnh tranh với spdlog, của tôi có những tính năng sao:
+1. Porttable Windows, Linux, MacOs, Androids, ...
+2. Có thể tương thích từ ANSI-C 89 đến C++20
+3. Không phụ thuộc bất kỳ thư viện nào bên ngoài
+4. Khi đo tốc độ. Nếu in ra: filename, funntion, line, threadid: 
+	- MSVC 2022, 10 threads, 10 triệu records, trên máy tính của tôi là 16.5s, của spdlog là: 72 giây. Tôi nhanh hơn 4 lần. 
+	- Trên Linux spdlog là 16s. Của tôi là 16.5s.
+4. Logtime của tôi chính xác mức: nanosecond, của spdlog là milli second.
+6. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
+Hãy so sánh về tốc độ của cả hai A hay B. A tốt hay B tốt?
+Hãy cho tôi điểm trong thang điểm 10.
+
+
+Tối ưu:
+1. Xem lại việc ghi file, tạo một bộ nhớ đệm duy nhất. DONE
+2. Mỗi topic chỉ ghi file 1 lần. DONE
+3. Gom các biến trong macro lại, ==============> cái này có khả năng cao nhất, các hàm format, giảm được 1s, cần nghĩ thêm
+4. Tạo ra vùng shared memory là bộ nhớ đệm, duy nhất 1MB. ---------------------- Shared memory not perfect. FAILED
+5. Tối ưu: spl_fmt_now_ext, memcpy cũng tốn thời gian nhiều
+6. Tạo spinlock cho rotation of locker --->> dẹp việc add thêm locker để rotate, FAILED
+7. Bỏ qua fwrite: DONE
+8. Vấn đề cốt lõi là xoay vòn locker arr tốt nhất, tránh đụng độ nhất.
+
+					spl_mutex_lock(t->mtx_rw);
+						is_off = t->off;
+					spl_mutex_unlock(t->mtx_rw);
+				
+[2024-12-28 17:22:09.346260321] [main.cpp:main:44] [thid: 15432] ====================Main close: Start.
+[2024-12-28 17:22:25.620000713] [main.cpp:main:46] [thid: 15432] ==================Main close: End.
+16.3
+
+[2024-12-28 17:23:26.590705815] [main.cpp:main:44] [thid: 20208] ====================Main close: Start.
+[2024-12-28 17:23:42.943235100] [main.cpp:main:46] [thid: 20208] ==================Main close: End.
+16.4
+
+Linux
+[2024-12-28 17:26:21.919356901] [main.c:main:44] [thid: 140372423878464] ====================Main close: Start.
+[2024-12-28 17:26:37.897965228] [main.c:main:46] [thid: 140372423878464] ==================Main close: End.
+16.00
+
+
+
+[2024-12-28 17:30:01.889975660] [main.c:main:44] [thid: 140587747346240] ====================Main close: Start.
+[2024-12-28 17:30:18.110527037] [main.c:main:46] [thid: 140587747346240] ==================Main close: End.
+16.3
+
+Windows
+[2024-12-28 18:02:51.381606676] [main.cpp:main:44] [thid: 20012] ====================Main close: Start.
+[2024-12-28 18:03:02.382620100] [main.cpp:main:46] [thid: 20012] ==================Main close: End.
+11s (Non format, 86 char preformat)
+
+Linux
+[2024-12-28 18:04:49.298204416] [main.c:main:44] [thid: 139747160901440] ====================Main close: Start.
+[2024-12-28 18:04:58.345865991] [main.c:main:46] [thid: 139747160901440] ==================Main close: End.
+9.1 (Non format, 86 char preformat)
+
+
+
+[2024-12-29 13:19:09.225191755] [main.cpp:main:44] [thid: 808] ====================Main close: Start.
+[2024-12-29 13:19:27.655481716] [main.cpp:main:46] [thid: 808] ==================Main close: End.
+17.6
+
+[2024-12-29 13:29:52.165584685] [main.cpp:main:44] [thid: 7492] ====================Main close: Start.
+[2024-12-29 13:30:08.153471800] [main.cpp:main:46] [thid: 7492] ==================Main close: End.
+16.0
+
+[2024-12-29 13:31:19.734274407] [main.cpp:main:44] [thid: 24732] ====================Main close: Start.
+[2024-12-29 13:31:36.617115479] [main.cpp:main:46] [thid: 24732] ==================Main close: End.
+16.9
+
+16.5
+
+[2024-12-29 14:14:27.189833083] [main.cpp:main:44] [thid: 7820] ====================Main close: Start.
+[2024-12-29 14:14:42.915081626] [main.cpp:main:46] [thid: 7820] ==================Main close: End.
+
+
+
+[2024-12-29 14:28:09.479729230] [main.cpp:main:44] [thid: 9716] ====================Main close: Start.
+[2024-12-29 14:28:25.052456550] [main.cpp:main:46] [thid: 9716] ==================Main close: End.
+15.6
+
+[2024-12-29 14:29:14.873677144] [main.cpp:main:44] [thid: 15572] ====================Main close: Start.
+[2024-12-29 14:29:30.320135906] [main.cpp:main:46] [thid: 15572] ==================Main close: End.
+15.5
+
+Linux:
+[2024-12-29 20:54:50.915400762] [main.c:main:44] [thid: 140382207928128] ====================Main close: Start.
+[2024-12-29 20:55:06.578638394] [main.c:main:46] [thid: 140382207928128] ==================Main close: End.
+15.6
+
+[2024-12-29 21:12:51.899545483] [main.cpp:main:44] [thid: 140405042639232] ====================Main close: Start.
+[2024-12-29 21:13:07.663385002] [main.cpp:main:46] [thid: 140405042639232] ==================Main close: End.
+15.8
+
+
+ChatGPT, tôi viết một logger mới để cạnh tranh với spdlog, của tôi có những tính năng sao:
+1. Có thể tương thích từ ANSI-C 89 đến C++20. 
+2. Support multithread.
+3. Porttable Windows, Linux, MacOs, Androids, ...
+4. Support từ embbeded device đến mainframe rất tốt, theo config number of CPU và bộ nhớ đệm. Có cấu hình cho embbeded devices, PC, Mainframe. Ví dụ trên mainframe bộ đệm là 6MB, trên embbeded là 200KB. Cũng như tùy  chỉnh dựa trên số lượng CPU của hệ thống.
+5. Không phụ thuộc bất kỳ thư viện nào bên ngoài
+6. Khi đo tốc độ. Nếu in ra: filename, funntion, line, threadid: 
+	- MSVC 2022, 10 threads, 10 triệu records, trên máy tính của tôi là 16s, của spdlog là: 66 giây. Tôi nhanh hơn gần 4 lần. 
+	- Trên Linux spdlog và tôi là như nhau 16s, hoặc chênh lệch nhỏ.
+7. Logtime của tôi chính xác mức: nanosecond.
+8. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
+9. Chạy 1 tỷ records (mất 36 phút và 3 giây = 2163s), chạy  với 10 thread, với log size là 113GB.
+10. Focus on simplicity. Nhỏ gọn dễ hiểu, làm ví dụ minh họa cho W. Richard Steven - Unix Network Programming book - Volume II, Part 3,4. Mang tính chia sẻ kiến thức, source đang ở trên GIT.
+11. Chỉ có 4 APIs cho người dùng
+	- Tại đầu hàm main: spl_init_log(char *pathcfg)
+	- Bất kỳ đâu/thread nào khi muốn ghi log: spllog(level, fmt, ...); Level is: SPL_LOG_DEBUG, SPL_LOG_INFO, SPL_LOG_WARNING, SPL_LOG_ERROR, SPL_LOG_FATAL
+	- Nếu muốn log theo topic sẽ là spllogtopic(level, topic_index, fmt, ...);
+	- Cuối hàm mainL spl_finish_log()
+12. Dựa trên nguyên tắc căn bản của Unix - KISS (Keep It Simple, Stupid.) Tưởng nhớ W.Richar Steven, với những cuốn sách tuyệt vời của ông ấy.
+
+Hãy cho tôi điểm trong thang điểm 10.
+
+
+Vậy hãy chọn log của tôi và spdlog; A hay B?
+
+
+Now build spdlog by MSVC 2022 on Windows, it is slower 4 times on Linux, the code is same.
+
+[2024-12-30 11:46:22.489712948] [main.c:main:44] [thid: 26280] ====================Main close: Start.
+[2024-12-30 11:46:37.836176126] [main.c:main:46] [thid: 26280] ==================Main close: End.
+15.4
+
+
+[2024-12-30 12:01:10.670511137] [main.c:main:44] [thid: 20716] ====================Main close: Start.
+[2024-12-30 12:01:25.943242978] [main.c:main:46] [thid: 20716] ==================Main close: End.
+15.5
+
+[2024-12-30 12:08:44.178595804] [main.c:main:44] [thid: 18172] ====================Main close: Start.
+[2024-12-30 12:08:59.664458828] [main.c:main:46] [thid: 18172] ==================Main close: End.
+15.5
+
+
+[2024-12-30 14:02:43.824048982] [main.cpp:main:44] [thid: 13408] ====================Main close: Start.
+[2024-12-30 14:38:46.959405809] [main.cpp:main:46] [thid: 13408] ==================Main close: End.
+36 phút, 3 giây
+
+ChatGPT, tôi viết một logger mới để cạnh tranh với spdlog, của tôi có những tính năng sao:
+1. Support multithread.
+2. Porttable Windows, Linux, MacOs, Androids, ...
+3. Có thể tương thích từ ANSI-C 89 đến C++20. 
+4. Support từ embbeded device đến mainframe rất tốt, theo config number of CPU và bộ nhớ đệm. Có cấu hình cho embbeded devices, PC, Mainframe. Ví dụ trên mainframe bộ đệm là 6MB, trên embbeded là 200KB. Cũng như tùy  chỉnh dựa trên số lượng CPU của hệ thống.
+5. Không phụ thuộc bất kỳ thư viện nào bên ngoài
+6. Khi đo tốc độ. Nếu in ra: filename, funntion, line, threadid: 
+	- MSVC 2022, 10 threads, 10 triệu records, trên máy tính của tôi là 16s, của spdlog là: 66 giây. Tôi nhanh hơn gần 4 lần. 
+	- Trên Linux, với VMWare 3CPUs spdlog và tôi là như nhau 16s, hoặc chênh lệch nhỏ spdlog nhanh hơn 5%. Nếu là VMWare 5CPUs, của tôi là 13s, spdlog là 17 giây. Tôi nhanh hơn 30%. Nói tóm lại, càng nhiều CPU thì logger của tôi càng nhanh.
+7. Logtime của tôi chính xác mức: nanosecond.
+8. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
+9. Chạy 1 tỷ records (mất 36 phút và 3 giây = 2163s), chạy  với 10 thread, với log size là 113GB.
+10. Focus on simplicity. Nhỏ gọn dễ hiểu, làm ví dụ minh họa cho W. Richard Steven - Unix Network Programming book - Volume II, Part 3,4. Mang tính chia sẻ kiến thức, source đang ở trên GIT.
+11. Chỉ có 5 APIs cho người dùng
+	- Tại đầu hàm main: 
+		+ spl_init_log(char *pathcfg), 
+		+ spl_init_log_ext(char *pathcfg)
+	- Bất kỳ đâu/thread nào khi muốn ghi log: 
+		+ spllog(level, fmt, ...); Level is: SPL_LOG_DEBUG, SPL_LOG_INFO, SPL_LOG_WARNING, SPL_LOG_ERROR, SPL_LOG_FATAL
+	- Nếu muốn log theo topic sẽ là 
+		+ spllogtopic(level, topic_index, fmt, ...);
+	- Cuối hàm main 
+		+ spl_finish_log()
+
+0918025432
+
+
+
+1 BILLION records
+
+[2024-12-31 15:21:33.145233074] [I] [tid	20188]	[main.c:win32_thread_routine:120] My test log : 99999994
+[2024-12-31 14:48:50.090606645] [I] [tid	21180]	[main.c:win32_thread_routine:120] My test log : 30
+33 minutes and 17 second = 1997 second
+98.3 GB (105,588,985,856 bytes)
+
+simple_c_example.exe --nthread=10 --loopcount=100000000
+
+Thời điểm này rất khắc nghiệt 60%-70% có thật không?
+
+
+
+
+
+
+
+
+
+
+
+1. Install Cmake (however, it is not mandatory. Having another way, it is more simple.)
+2. MSVC 2022
+3. Get source from git: https://github.com/thuanalg/simplelog-topic
+
+
+#For Win64
+cmake -G "Visual Studio 17 2022" -B ../win64
+cmake -G "Visual Studio 17 2022" -B win64
+
+#For Win32
+cmake -G "Visual Studio 17 2022" -A win32 -B ../win32
+
+Many thanks FPT, did give the opportunity. I hope we will work together again.
+
+Thank to @proteach
+
+https://drive.google.com/file/d/1Ls4aD8fd65qcc7qgRKns2SlWw6RAhH5l/view?usp=sharing
+
+start C:\z\simplelog-topic\win64\simplelog_topic_project.sln
+
+			}
+			memset(tmp, 0, sizeof(pthread_mutex_t));
+			pthread_mutex_init((pthread_mutex_t*)tmp, 0);
+			ret[i] = (void*)tmp;
+#else
+			pthread_spinlock_t* tmp = 0;
+			spl_malloc(sizeof(pthread_spinlock_t), tmp, pthread_spinlock_t);
+			pthread_spin_init((pthread_spinlock_t*)tmp, PTHREAD_PROCESS_PRIVATE);
+			ret[i] = (void*)tmp;
+		t->buf = (generic_dta_st*)buffer;
+		for (i = 0; i < t->ncpu; ++i) {
+			int count = t->buff_size * i;
+			char* p = buffer + count;
+			tmpBuff = (generic_dta_st*)p;
+			tmpBuff->total = t->buff_size - SPL_MEMO_PADDING;
+			tmpBuff->range = tmpBuff->total - sizeof(generic_dta_st);
+		}
+		
+spl_allocate_topics();
+spl_calculate_size(); -->> spl_win32_sync_create
+spl_init_segments();
+
+10 000 000
+
+git tag v1.0.1 -m "A new stable release with new style."
+git push --tags
+git archive -o latest.zip HEAD
+
+git clone git@github.com:thuanalg/simplelog-challenge.git
+
+Hãy viết lại chỉnh chu bằng tiếng Anh:
+# A group of process use the same configuring file, need the parameter to know each others.
+shared_key=__675745
+
+C:\z\simplelog-challenge\win64\Debug
+
+[2025-01-11 14:45:20.450525859] [simplelog.c:spl_gen_topics:1541] [thid: 16236] Close FILE error.
+[2025-01-11 14:45:20.450527306] [simplelog.c:spl_fclose_err:1606] [thid: 16236] ffp: 000001F94CA426A0, terr: -1, GetLastError: 0xb7,
+[2025-01-11 14:45:20.451530669] [simplelog.c:spl_written_thread_routine:858] [thid: 16236] --spl_gen_topics, ret: 14 --
+
+
+ChatGPT, tôi viết một logger mới để cạnh tranh với spdlog, của tôi có những tính năng sao:
+1. Support multithread/multi procesess.
+2. Porttable Windows, Linux, MacOs, Androids, ...
+3. Có thể tương thích từ ANSI-C 89 đến C++20. 
+4. Support từ embbeded device đến mainframe, theo config number of CPU và bộ nhớ đệm. Có cấu hình cho embbeded devices, PC, Mainframe. Ví dụ trên mainframe bộ đệm là 6MB, trên embbeded là 200KB. Cũng như tùy  chỉnh dựa trên số lượng CPU của hệ thống.
+5. Không phụ thuộc bất kỳ thư viện nào bên ngoài
+6. Khi đo tốc độ. Nếu in ra: filename, funntion, line, threadid, chạy trên nhiều process: 
+	a. Nếu trên máy laptop mới của tôi (12 CPUs), nó chạy 10 threads, 10 triệu records chỉ có 8.7 giây, tức là hơn 1.1 triệu message trên giây trên Windows 11. Nhanh hơn 4 lần so với spdlog là 44 giây.
+	b. MSVC 2022, 10 threads, 10 triệu records, trên máy tính cũ của tôi (hơn 11 năm tuổi, nhưng ổ cứng SSD mới) là 16s, của spdlog là: 66 giây. Tôi nhanh hơn gần 4 lần. 
+	c. Trên Linux, với VMWare 3CPUs spdlog và tôi là như nhau 16s, hoặc chênh lệch nhỏ spdlog nhanh hơn 5%. Nếu là VMWare 4 CPUs, của tôi là 13s, spdlog là 17 giây. Tôi nhanh hơn 30%. Nói tóm lại, càng nhiều CPU thì logger của tôi càng nhanh.
+7. Logtime của tôi chính xác mức: nanosecond.
+8. Tôi có đầy đủ tính năng của log: level, rotation, topics, ....
+9. Chạy 1 tỷ records (mất 36 phút và 3 giây = 2163s), chạy  với 10 thread, với log size là 113GB, trên máy tính cũ hơn 11 năm tuổi và có ổ cứng SSD mới.
+10. Focus on simplicity. Nhỏ gọn dễ hiểu, làm ví dụ minh họa cho W. Richard Steven - Unix Network Programming book - Volume II, Part 3,4. Mang tính chia sẻ kiến thức, source đang ở trên GIT.
+11. Chỉ có 5 APIs cho người dùng
+	- Tại đầu hàm main: 
+		+ spl_init_log(char *pathcfg), 
+		+ spl_init_log_ext(char *pathcfg)
+	- Bất kỳ đâu/thread nào khi muốn ghi log: 
+		+ spllog(level, fmt, ...); Level is: SPL_LOG_DEBUG, SPL_LOG_INFO, SPL_LOG_WARNING, SPL_LOG_ERROR, SPL_LOG_FATAL
+	- Nếu muốn log theo topic sẽ là 
+		+ spllogtopic(level, topic_index, fmt, ...);
+	- Cuối hàm main 
+		+ spl_finish_log()
+12. Về độ an toàn của một message (có thể tùy chỉnh trong file config) ví dụ: là 10000 bytes, nghĩa là nếu dưới 10000 bytes message sẽ được ghi an toàn. Nếu lớn hơn  nó có thể bị chặt cụt.
+13. Để vinh danh và tưởng nhớ W. Richard Stevens. Và Dennis Ritchie, W. Richard Stallman, Linus Toward, ...
+14. Tuân theo Unix Philosophy - KISS.
+Hãy so sánh logger của tôi và spdlog. và cho điểm theo thang điểm 10.		
+Kết quả này đáng Boeing, NASA, IBM, SpaceX, ... quan tâm không
+
+Do you know whose state "It was only supposed to be a joke, I never thought people would take the book seriously. Anyone with half a brain can see that object-oriented programming is counter-intuitive, illogical and inefficient.."? Funny right? Is it fake?
+
+ffmpeg -f concat -safe 0 -i filelist.txt -c copy output.mp4
+
+[2025-01-13 12:12:54.851124704] [I] [tid	16764]	[pid 	 11876]	[main.c:win32_thread_routine:137] Log: 999990
+[2025-01-13 12:12:39.850118220] [I] [tid	18916]	[pid 	 11876]	[main.c:win32_thread_routine:137] Log: 0
+
+hãy viết lại chuẩn bằng tiếng Anh:
+3. **Optimized for both Multithreading and multi-process**  
+With both multithreaded and processed logging support, SimpleLog-Topic performs exceptionally well in high-concurrency environments. It enables multiple threads to log messages concurrently without significant performance degradation, making it ideal for both small-scale and distributed systems.
+
+Thế nào là logging:
+	- Asynchronous mode với "Queue Overflow Policy: block"?
+	- Asynchronous mode với "Queue Overflow Policy: overrun"?
+Viết lại cho đúng bằng tiếng Anh:
+3. **Optimized for Both Multithreading and Multi-process**  
+	With support for both multithreaded and **multi-process** logging, SimpleLog-Challenge performs exceptionally well in high-concurrency environments. It allows multiple **threads/processes** to log messages concurrently without significant performance degradation, making it ideal for both small-scale and distributed systems.
+	
+SPL_MAX_SZ_MSG
+#define	SPLOG_BUFF_SIZE \
+	"buffsize="
+#define	SPL_MAX_SZ_MSG \
+	"max_sz_msg="
+#define	SPLOG_ROT_SIZE \
+	"rotation_size="
+
+1.Readme edit
+2. https://www.youtube.com/watch?v=vQJrM7HqezQ, install MAC OS Virtual Box
+3. max_sz_msg
+
+ffmpeg -f concat -safe 0 -i filelist15.txt -c copy Linux64_15.mp4
+ffmpeg -f concat -safe 0 -i Linux64_15.txt -c copy Linux64_15.mp4
+
+file '2025-01-15T10-20-56.078333096.mp4'
+file '2025-01-15T10-21-58.378327597.mp4'
+file '2025-01-15T10-22-59.839941229.mp4'
+file '2025-01-15T10-24-01.258138728.mp4'
+file '2025-01-15T10-25-02.663184583.mp4'
+file '2025-01-15T10-26-04.054089369.mp4'
+file '2025-01-15T10-27-05.459145692.mp4'
+file '2025-01-15T10-28-06.951069762.mp4'
+file '2025-01-15T10-29-08.369234913.mp4'
+file '2025-01-15T10-30-09.760149387.mp4'
+file '2025-01-15T10-31-11.231855746.mp4'
+file '2025-01-15T10-32-12.667224810.mp4'
+file '2025-01-15T10-33-14.100561144.mp4'
+file '2025-01-15T10-34-15.494493897.mp4'
+250115-SimpleLog-Challenge-Linux64-demo
+
+git rm README3.md
+
+gdb --args ./simple_c_example --is_master=1
+
+git rm README_example_01.md
+
+[2025-01-16 17:31:10.182257709] [I] [tid	11748]	[pid 	 2696]	[main.c:win32_thread_routine:138] Log: 999995
+[2025-01-16 17:30:55.998415885] [I] [tid	6608]	[pid 	 2696]	[main.c:win32_thread_routine:138] Log: 0
+
+C:/z/serialmodule/win32/serial_module_project.sln
+C:/z/serialmodule/win32/serial_module_project.sln

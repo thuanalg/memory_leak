@@ -501,4 +501,172 @@ Tôi thiết kế một thư viện logger mới và thực thi thành công v�
 - Có tất cả các tính năng tiêu chuẩn của logger.
 - Thậm chí với 10 triệu, 100 triệu, có thể nhanh gấp đôi spdlog.
 - 1 tỷ records, chạy trong 10 threads, mất 55 phút, và môi trường cực đoan.
+- Nếu chạy 10 threads, 10 triệu record cùng môi trường máy ảo CentOs 64, 3 CPU. Tiếc thay spdlog nhanh hơn tôi 3 lần 1.1:3.5. Vì sao trên Windows, tôi nhanh hơn trên Windows, nhưng lại chậm trên Linux.
 Tôi thành tựu gì, theo thang điểm 10, hãy cho tôi điểm.
+
+[2024-12-21 12:57:24.847276255] [main.cpp:main:38] [thid: 140581271836480] ====================Main close: Start.
+[2024-12-21 12:57:30.367540678] [main.cpp:main:40] [thid: 140581271836480] ==================Main close: End.
+
+[2024-12-21 12:58:50.960774893] [main.cpp:main:38] [thid: 139799240124224] ====================Main close: Start.
+[2024-12-21 12:58:56.296317410] [main.cpp:main:40] [thid: 139799240124224] ==================Main close: End.
+
+[2024-12-21 13:00:38.321088760] [main.cpp:main:38] [thid: 139924473907008] ====================Main close: Start.
+[2024-12-21 13:00:43.921114571] [main.cpp:main:40] [thid: 139924473907008] ==================Main close: End.
+
+
+
+
+
+
+[2024-12-21 17:20:27.103739674] [main.cpp:main:38] [thid: 140107099608896] ====================Main close: Start.
+[2024-12-21 17:20:30.792042862] [main.cpp:main:40] [thid: 140107099608896] ==================Main close: End.
+
+
+[2024-12-21 17:25:25.632677196] [main.cpp:main:38] [thid: 140533874841408] ====================Main close: Start.
+[2024-12-21 17:25:28.940699209] [main.cpp:main:40] [thid: 140533874841408] ==================Main close: End.
+
+
+[thuannt@localhost example]$ ./example
+Test completed in 10 seconds with 10 000 000 messages logged.
+Throughput: 1e+06 messages per second.
+
+[2024-12-21 19:56:15.038273948] [main.cpp:main:38] [thid: 140206137698112] ====================Main close: Start.
+[2024-12-21 19:56:51.025085385] [main.cpp:main:40] [thid: 140206137698112] ==================Main close: End.
+
+
+
+[2024-12-21 22:18:40.843495416] [main.cpp:main:41] [thid: 140179846162240] ====================Main close: Start.
+[2024-12-21 22:19:07.710518634] [main.cpp:main:43] [thid: 140179846162240] ==================Main close: End.
+27, 37
+
+[2024-12-21 22:34:43.450489913] [main.cpp:main:41] [thid: 140570850985792] ====================Main close: Start.
+[2024-12-21 22:35:18.571870733] [main.cpp:main:43] [thid: 140570850985792] ==================Main close: End.
+
+[2024-12-21 22:37:20.135000000] [main.cpp:main:41] [thid: 12760] ====================Main close: Start.
+[2024-12-21 22:37:58.320000000] [main.cpp:main:43] [thid: 12760] ==================Main close: End.
+
+[2024-12-21 22:39:07.071000000] [main.cpp:main:41] [thid: 7984] ====================Main close: Start.
+[2024-12-21 22:39:44.605000000] [main.cpp:main:43] [thid: 7984] ==================Main close: End.
+
+[2024-12-21 22:40:32.729000000] [main.cpp:main:41] [thid: 18624] ====================Main close: Start.
+[2024-12-21 22:41:10.473000000] [main.cpp:main:43] [thid: 18624] ==================Main close: End.
+38 With __UNIX_LINUX_CPP11_AND_NEWERS__
+
+[2024-12-21 22:43:47.738000000] [main.cpp:main:41] [thid: 19588] ====================Main close: Start.
+[2024-12-21 22:44:16.628000000] [main.cpp:main:43] [thid: 19588] ==================Main close: End.
+29
+
+[2024-12-21 22:45:21.798000000] [main.cpp:main:41] [thid: 2312] ====================Main close: Start.
+[2024-12-21 22:45:50.072000000] [main.cpp:main:43] [thid: 2312] ==================Main close: End.
+29
+
+Linux C
+[2024-12-21 22:48:17.534416312] [main.c:main:41] [thid: 140091802183488] ====================Main close: Start.
+[2024-12-21 22:48:49.437256935] [main.c:main:43] [thid: 140091802183488] ==================Main close: End.
+32
+
+[2024-12-21 22:49:39.552000000] [main.cpp:main:41] [thid: 16412] ====================Main close: Start.
+[2024-12-21 22:50:07.711000000] [main.cpp:main:43] [thid: 16412] ==================Main close: End.
+Với 10 threads, 10 triệu records, windows/linux của simplelo-topic (29 + 32 = 61) của spdlog (52 + 11 = 63).
+Trên linux spdlog nó quả là danh bất hư truyền
+
+[2024-12-22 09:30:29.352000000] [main.cpp:main:41] [thid: 26948] ====================Main close: Start.
+[2024-12-22 09:30:57.543000000] [main.cpp:main:43] [thid: 26948] ==================Main close: End.
+
+[2024-12-22 09:47:47.584000000] [main.cpp:main:41] [thid: 16760] ====================Main close: Start.
+[2024-12-22 09:48:15.423000000] [main.cpp:main:43] [thid: 16760] ==================Main close: End.
+
+
+
+if(SPLCHECKOFF(t)) { __isOof = 1; break;};len = snprintf((SPLCHECKBUF(t)->data + SPLCHECKBUF(t)->pl), SLPCHECKRANGE(t), "%s"___fmttt___"\n\n", pprefmt, ##__VA_ARGS__); if(len > 0) (SPLCHECKBUF(t)->pl) += (len -1);\
+
+[2024-12-22 12:52:20.795000000] [main.cpp:main:41] [thid: 13732] ====================Main close: Start.
+[2024-12-22 12:52:47.763000000] [main.cpp:main:43] [thid: 13732] ==================Main close: End.
+27
+
+[2024-12-22 12:54:07.765000000] [main.cpp:main:41] [thid: 12324] ====================Main close: Start.
+[2024-12-22 12:54:35.953000000] [main.cpp:main:43] [thid: 12324] ==================Main close: End.
+28.2
+
+[2024-12-22 12:55:50.789000000] [main.cpp:main:41] [thid: 20652] ====================Main close: Start.
+[2024-12-22 12:56:19.289000000] [main.cpp:main:43] [thid: 20652] ==================Main close: End.
+28.5
+
+[2024-12-22 12:58:18.199000000] [main.cpp:main:41] [thid: 26160] ====================Main close: Start.
+[2024-12-22 12:58:46.285000000] [main.cpp:main:43] [thid: 26160] ==================Main close: End.
+28
+
+[2024-12-22 13:08:01.519000000] [main.cpp:main:41] [thid: 20420] ====================Main close: Start.
+[2024-12-22 13:09:42.578000000] [main.cpp:main:43] [thid: 20420] ==================Main close: End.
+
+log của tôi và spdlog, chạy 10 threads, 10 triệu records.
+- Trên windows, tôi nhanh gấp 2
+- Trên linux spdlog nhanh hơn gấp 3 
+Lí do có thể là gì?
+
+[2024-12-22 13:11:34.946000000] [main.cpp:main:41] [thid: 13480] ====================Main close: Start.
+[2024-12-22 13:13:17.875000000] [main.cpp:main:43] [thid: 13480] ==================Main close: End.
+
+120-17
+
+[2024-12-22 19:08:44.113429772] [main.cpp:main:41] [thid: 139917662140224] ====================Main close: Start.
+[2024-12-22 19:09:20.877852957] [main.cpp:main:43] [thid: 139917662140224] ==================Main close: End.
+36
+
+[2024-12-22 19:10:36.013579224] [main.c:main:41] [thid: 140031530420032] ====================Main close: Start.
+[2024-12-22 19:11:08.333669552] [main.c:main:43] [thid: 140031530420032] ==================Main close: End.
+32
+
+5 threads
+[2024-12-22 19:14:23.668463218] [main.c:main:41] [thid: 140379752638272] ====================Main close: Start.
+[2024-12-22 19:14:49.647893985] [main.c:main:43] [thid: 140379752638272] ==================Main close: End.
+26
+
+5 threads
+[2024-12-22 19:16:51.050530864] [main.c:main:41] [thid: 139644314797888] ====================Main close: Start.
+[2024-12-22 19:17:16.680550605] [main.c:main:43] [thid: 139644314797888] ==================Main close: End.
+76-51 = 25
+
+2 threads
+[2024-12-22 19:19:51.888025156] [main.c:main:41] [thid: 140128449673024] ====================Main close: Start.
+[2024-12-22 19:20:17.327606066] [main.c:main:43] [thid: 140128449673024] ==================Main close: End.
+26
+
+1 threads
+[2024-12-22 19:25:25.946073755] [main.c:main:41] [thid: 140689873143616] ====================Main close: Start.
+[2024-12-22 19:26:15.081739702] [main.c:main:43] [thid: 140689873143616] ==================Main close: End.
+50
+
+5 threads.
+[2024-12-22 19:30:33.739757827] [main.c:main:41] [thid: 140120215799616] ====================Main close: Start.
+[2024-12-22 19:30:59.515463248] [main.c:main:43] [thid: 140120215799616] ==================Main close: End.
+25.8
+
+[2024-12-22 19:32:05.058094303] [main.c:main:41] [thid: 140514821797696] ====================Main close: Start.
+[2024-12-22 19:32:30.753435489] [main.c:main:43] [thid: 140514821797696] ==================Main close: End.
+25.7
+
+[2024-12-22 19:33:19.892787700] [main.c:main:41] [thid: 140025922262848] ====================Main close: Start.
+[2024-12-22 19:33:45.976016796] [main.c:main:43] [thid: 140025922262848] ==================Main close: End.
+26.1
+
+[2024-12-22 19:40:06.386300975] [main.c:main:41] [thid: 140435718346560] ====================Main close: Start.
+[2024-12-22 19:40:31.895859046] [main.c:main:43] [thid: 140435718346560] ==================Main close: End.
+25.5
+
+ ./simple_c_example.exe --nthread=5 --loopcount=2000000
+ 
+[2024-12-22 20:07:17.175189307] [I] [tid:        140050699318848]       [main.c:posix_thread_routine:120]       test log: 0
+[2024-12-22 20:07:43.254712212] [I] [tid:        140050682533440]       [main.c:posix_thread_routine:120]       test log: 199999
+
+	"topic="
+#define	SPLOG_NCPU \
+	"ncpu="
+#define	SPLOG_TRIGGER \
+	"trigger="
+#define	SPLOG_END_CFG \
+	"end_configuring="
+	
+#ifndef  UNIX_LINUX
+#else
+#endif /*! UNIX_LINUX */ 
