@@ -604,3 +604,19 @@ git rm README_example_01.md
 
 C:/z/serialmodule/win32/serial_module_project.sln
 C:/z/serialmodule/win32/serial_module_project.sln
+Linux VM: [17athena@Owl9]
+Root MAC-OSX: "Prometheus&Apollo"
+git tag v1.0.2 -m "Apply for MacOSX."
+git push --tags
+
+git tag v1.0.0 -m "1. The first official release." -m "2. Windows." -m "3. Linux." -m "4. Apply for MacOSX."
+git push --tags
+
+git tag --delete v1.0.0
+git push --delete origin v1.0.0
+
+Hello everbody,
+I have a new release "simplelog-topic" which applies for Mac OSX: https://github.com/thuanalg/simplelog-topic/releases/tag/v1.0.2 .
+If you want to invole the project, please contact me.
+Waitting for you!
+Best regards,
