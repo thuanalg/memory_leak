@@ -1,0 +1,75 @@
+Học AI có thể bắt đầu từ nhiều hướng khác nhau, tùy vào nền tảng kiến thức của bạn. Dưới đây là một lộ trình tổng quát để học AI từ cơ bản đến nâng cao:
+
+---
+
+### **1. Nền tảng toán học (không thể bỏ qua)**
+- **Đại số tuyến tính**: Ma trận, vector, phép biến đổi tuyến tính.
+- **Giải tích**: Đạo hàm, tích phân, gradient descent.
+- **Xác suất & Thống kê**: Phân phối xác suất, kỳ vọng, phương sai, Bayes.
+- **Tối ưu hóa**: Gradient descent, hàm mất mát.
+
+📚 *Tài liệu tham khảo:*  
+- "Mathematics for Machine Learning" – Marc Peter Deisenroth
+- "Deep Learning" – Ian Goodfellow (Chương 2 về toán)
+
+---
+
+### **2. Lập trình và thư viện AI**
+- **Python**: Ngôn ngữ phổ biến nhất cho AI.
+- **Thư viện AI quan trọng**:
+  - **NumPy, Pandas** (xử lý dữ liệu)
+  - **Matplotlib, Seaborn** (trực quan hóa dữ liệu)
+  - **Scikit-learn** (Machine Learning cơ bản)
+  - **TensorFlow, PyTorch** (Deep Learning)
+
+📚 *Tài liệu tham khảo:*  
+- "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" – Aurélien Géron
+- "Deep Learning with PyTorch" – Eli Stevens
+
+---
+
+### **3. Machine Learning (ML) cơ bản**
+- Học có giám sát (Supervised Learning): Hồi quy (Regression), phân loại (Classification).
+- Học không giám sát (Unsupervised Learning): Clustering (K-Means, DBSCAN), PCA.
+- Học tăng cường (Reinforcement Learning) – DQN, A3C.
+
+📚 *Tài liệu học miễn phí:*  
+- [Machine Learning của Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
+- [Fast.ai](https://www.fast.ai/)
+
+---
+
+### **4. Deep Learning (DL)**
+- Mạng nơ-ron nhân tạo (ANN), CNN, RNN, Transformers.
+- Các ứng dụng: Xử lý ảnh, xử lý ngôn ngữ tự nhiên (NLP), AI sinh sinh (Generative AI).
+
+📚 *Tài liệu học:*  
+- [Deep Learning Specialization – Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning)
+- "Deep Learning" – Ian Goodfellow
+- [CS231n (Stanford)](http://cs231n.stanford.edu/) – Xử lý ảnh với DL
+
+---
+
+### **5. Ứng dụng AI vào thực tế**
+- AI cho Computer Vision (OpenCV, YOLO, Faster R-CNN).
+- AI cho NLP (Transformers, GPT, BERT).
+- AI cho Big Data (Spark, Hadoop).
+- Triển khai AI: Model serving (Flask, FastAPI), ONNX, TensorRT.
+
+---
+
+### **6. Các xu hướng AI mới nhất**
+- LLMs (GPT, LLaMA, Gemini).
+- AI tổng hợp (Generative AI).
+- AI tự động hóa code (AutoML, Copilot).
+- AI lượng tử.
+
+---
+
+## **Lộ trình đề xuất**
+✅ Nếu bạn **chưa biết lập trình** → Học Python trước.  
+✅ Nếu bạn đã biết Python → Học ML cơ bản (Scikit-learn).  
+✅ Nếu bạn đã biết ML → Học Deep Learning (TensorFlow, PyTorch).  
+✅ Nếu bạn đã biết DL → Học triển khai AI vào thực tế.  
+
+Bạn đang ở mức nào? Mình có thể giúp bạn chọn tài liệu hoặc hướng dẫn chi tiết hơn! 🚀
