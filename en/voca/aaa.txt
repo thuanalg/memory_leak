@@ -759,3 +759,12 @@ With all of above features, it becomes one of really good C/C++ logger until now
 - If you suspect my honesty or my result which published, please contact me to clarify your doubt.
 
 You may ask me "simplelog-topic" and "simplelog-challenge" are almost same, why do I separate them into 2 project? It has profound key meaning between C and C++ of memory. But we shall talk when we work together. Let it be as now.
+
+-----------
+CPU: 14
+RAM: 3.2
+Mainboard: 11
+SSD: 
+VGA: 5
+Case:
+Power supplier:
