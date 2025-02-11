@@ -758,7 +758,7 @@ With all of above features, it becomes one of really good C/C++ logger until now
 - I am waiting for anybody want to contribute to the projects to make it become more effective and more objective.
 - If you suspect my honesty or my result which published, please contact me to clarify your doubt.
 
-You may ask me "simplelog-topic" and "simplelog-challenge" are almost same, why do I separate them into 2 project? It has profound key meaning between C and C++ of memory. But we shall talk when we work together. Let it be as now.
+You may ask me "simplelog-topic" and "simplelog-challenge" are almost same, why do I separate them into 2 projects? It has profound key meaning between C and C++ of memory. But we shall talk when we work together. Let it be as now.
 
 -----------
 CPU: 14
