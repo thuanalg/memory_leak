@@ -133,3 +133,15 @@ sdplog: 38s
 
 [2025-01-16 18:04:25.863894943] [I] [tid	11944]	[pid 	 11780]	[main.c:win32_thread_routine:138] Log: 999972
 [2025-01-16 18:04:25.863896127] [I] [tid	11944]	[pid 	 11780]	[main.c:win32_thread_routine:138] Log: 999987
+
+-------------------------------
+@include_cpp, 
+I developed new C/C++ logger. I invite you test and feedback.
+1. For multi-threading: https://github.com/thuanalg/simplelog-topic
+2. Both multi-threaded and multi-process: https://github.com/thuanalg/simplelog-challenge
+
+-------------
+Chào bạn,
+Mình phát triển 1 logger khá cạnh tranh, bạn có muốn join không?
+1. For multi-threading: https://github.com/thuanalg/simplelog-topic
+Cám ơn!
