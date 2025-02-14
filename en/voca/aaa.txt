@@ -686,3 +686,85 @@ https://gist.github.com/jbenet/1087739
 	#ifdef __MACH__
 	#else
 	#endif
+	
+ [t]
+feeling, brain, sense, perception, conceive
+experience, practice
+sick/illed
+milestone/age
+which/that
+sight/view/distance
+
+
+Dưới đây là bài kêu gọi cộng đồng thử nghiệm **SimpleLog-Challenge** trên nhiều cấu hình CPU khác nhau. Bạn có thể đăng lên **GitHub Discussions, Reddit, hoặc diễn đàn lập trình**. Nếu cần chỉnh sửa nội dung, hãy cho tôi biết! 🚀  
+
+---
+
+## 🔥 [CALL FOR TESTERS] Benchmarking **SimpleLog-Challenge** on Different CPUs  
+
+Hello everyone! 👋  
+
+I have developed **SimpleLog-Challenge**, a high-performance C/C++ logger designed for both **multi-threading and multi-processing**. It is optimized for speed and works efficiently on **multi-core CPUs**.  
+
+### 🚀 **Why Test?**  
+From our benchmarks:  
+✅ **Windows 10 (MSVC 2022, 10 Threads, 10M Records)** → **4x faster than spdlog**  
+✅ **Linux (VM CentOS 9, 4 CPUs, 10M Records)** → **20% faster than spdlog**  
+✅ **Large-Scale Logging (1 Billion Records, 10 Threads)** → **102GB logs in 31 minutes**  
+
+However, on **macOS (2 CPU cores)**, **spdlog was 35% faster** than SimpleLog-Challenge. This suggests that **SimpleLog-Challenge performs best with more CPU cores**.  
+
+### 🛠 **How You Can Help**  
+If you have a **macOS, Linux, or Windows system with more CPU cores**, please try running the benchmark!  
+
+📌 **Repo & Benchmark Instructions**:  
+🔗 GitHub: [https://github.com/thuanalg/simplelog-challenge](https://github.com/thuanalg/simplelog-challenge)  
+
+**Test Cases:**  
+- Run with **different numbers of CPUs** (e.g., 2, 4, 8, 16+ cores)  
+- Compare against **spdlog** (or other loggers)  
+- Share your **results (CPU model, OS, execution time, logs)**  
+
+Your feedback will help optimize SimpleLog-Challenge even further! Let’s push logging performance to the next level. 🚀  
+
+Thanks in advance! 😊  
+
+---
+
+Bạn có muốn tôi bổ sung thêm chi tiết nào không? 🎯
+
+------------------------
+Các bạn có thể ngạc nhiên với câu nói này: 
+	"Anyone with half a brain can see that object-oriented programming is counter-intuitive, illogical and inefficient." 
+Bạn có biết ai đã nói không? Chính là "Bjarne Stroustrup, Jan 01 1998."
+Tôi nghĩ mọi người sẽ rất thú vị nên post lên ở đây.
+Tôi đặc biệt tôn trọng "Bjarne Stroustrup", không phải vì ông ấy tạo ra C++, mà chính ông ấy nói lên "sự thật." Tốt/xấu cũng quan trọng nhưng sự thật quan trọng hơn rất nhiều. Ông ấy nói lên và có vẻ rất tổn thương chính mình. Thật dũng cảm và đáng tôn trọng.
+Và tôi cũng dùng C++ theo các dự án outsouce mà không có vấn đề gì. Nó chỉ đơn giản là công việc.
+Ở đây, cách mà chúng ta dùng  một thứ gì đó, nên làm cảm nhận thực tế, chứ không phải là từ "trường đại học/giáo sư" hay từ một quảng cáo nào đó.
+Nguồn: https://harmful.cat-v.org/software/c++/I_did_it_for_you_all
+--------------------------------------------------
+Hi all,
+Today I have an official release for "simplelog-challenge":
+- Support C89 to any modern C/C++.
+- Support both multi-threaded and multi-process modes.
+- Cross-platform Windows/Linux/Mac OSX, ...
+- Superior performance.
+- Handy to use.
+...
+With all of above features, it becomes one of really good C/C++ logger until now.
+- Github: https://github.com/thuanalg/simplelog-challenge
+- Releasing tag v1.0.0: https://github.com/thuanalg/simplelog-challenge/releases/tag/v1.0.0
+
+- I am waiting for anybody want to contribute to the projects to make it become more effective and more objective.
+- If you suspect my honesty or my result which published, please contact me to clarify your doubt.
+
+You may ask me "simplelog-topic" and "simplelog-challenge" are almost same, why do I separate them into 2 projects? It has profound key meaning between C and C++ of memory. But we shall talk when we work together. Let it be as now.
+
+-----------
+CPU: 14
+RAM: 3.2
+Mainboard: 11
+SSD: 
+VGA: 5
+Case:
+Power supplier:
