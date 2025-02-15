@@ -746,12 +746,12 @@ Nguồn: https://harmful.cat-v.org/software/c++/I_did_it_for_you_all
 Hi all,
 Today I have an official release for "simplelog-challenge":
 - Support C89 to any modern C/C++.
-- Support both multi-threaded and multi-process modes.
+- Support (both multi-threaded and ) MULTI-PROCESS MODES.
 - Cross-platform Windows/Linux/Mac OSX, ...
 - Superior performance.
 - Handy to use.
 ...
-With all of above features, it becomes one of really good C/C++ logger until now.
+With all of above features, it deserves attention as new logger.
 - Github: https://github.com/thuanalg/simplelog-challenge
 - Releasing tag v1.0.0: https://github.com/thuanalg/simplelog-challenge/releases/tag/v1.0.0
 
@@ -768,3 +768,13 @@ SSD:
 VGA: 5
 Case:
 Power supplier:
+------------------
+Hi bạn,
+Mình là Thuận, bạn có muốn tham gia vào C/C++ logger của mình không? Nó thực sự ổn và có ích.
+GitHub: https://github.com/thuanalg/simplelog-topic
+GitHub: https://github.com/thuanalg/simplelog-challenge
+--------------------
+Em tìm hiểu xem, logger có tiềm  năng trở thành số 1 của open source không? Vì anh định phát triển và gởi kết quả cho NASA, SpaceX, IBM và Boeing, ...
+
+
+ffmpeg -f dshow -i video="Logi C310 HD WebCam":audio="Microphone (Logi C310 HD WebCam)" -t 00:01:00 -c:v libx264 -c:a aac output.mp4
