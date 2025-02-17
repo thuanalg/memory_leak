@@ -770,7 +770,7 @@ Case:
 Power supplier:
 ------------------
 Hi bạn,
-Mình là Thuận, bạn có muốn tham gia vào C/C++ logger của mình không? Nó thực sự ổn và có ích.
+Mình là Thuận, bạn có muốn tham gia vào C/C++ logger của mình không? Nó thực sự ổn và có ích. Mời dùng thử nhé:
 GitHub: https://github.com/thuanalg/simplelog-topic
 GitHub: https://github.com/thuanalg/simplelog-challenge
 --------------------
@@ -778,3 +778,12 @@ Em tìm hiểu xem, logger có tiềm  năng trở thành số 1 của open sour
 
 
 ffmpeg -f dshow -i video="Logi C310 HD WebCam":audio="Microphone (Logi C310 HD WebCam)" -t 00:01:00 -c:v libx264 -c:a aac output.mp4
+
+
+---------
+Vấ đề AI trong coding. Có người phỏng vấn hỏi tôi rằng, có  lo AI chiếm việc không? Tôi đơn giản trả lời ngay là không?
+Định lý bất toàn: https://www.youtube.com/watch?v=wxXznN1bGFU&list=PL6_2BdKTqO8PCJRLprbi_RpNrDCfEUJxC
+https://en.wikipedia.org/wiki/Paul_Cohen
+https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
+https://www.youtube.com/watch?v=VHHT6W-N0ak
+https://www.youtube.com/watch?v=VHHT6W-N0ak
