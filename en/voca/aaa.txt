@@ -790,3 +790,35 @@ https://www.youtube.com/watch?v=VHHT6W-N0ak
 ------------------------------
 AI becomes something new like another tool, and that's all.
 Linus Torvalds: "...This is whole HYPE circle in the tech industry, I hope you all realize ..."
+
+------------------------------------------
+Chứng minh của Kurt Godel
+-----------------------------------------
+Hello everybody,
+Here is the testing result of "simplelog-challenge":
+1. 10 threads, 10 billion records:
+	- "simplelog-challenge": ~3.358 seconds, speed: 2.978 million records a second. Link: https://github.com/thuanalg/simplelog-challenge/blob/main/performance/250217-CentOS-09-performance-8-Core.txt .
+	- "spdlog": ~7.051 seconds, speed: 1.418 million records a second.
+	- Here, "simplelog-challenge" is faster 2x spdlog.
+2. 1 billion, 10 threads:
+	- Time: 19 minutes = 1140 seconds
+	- Speed: 877200 message a second. Link: https://github.com/thuanalg/simplelog-challenge/blob/main/performance/250217-CentOS-09-performance-8-Core-1Billion.txt .
+	
+Please have a feedback, if you have any doubt of the honesty.
+Thanks!
+-------------------------
+Hello Mr. Karl-Heinz Schmid,
+I have a new study of logger for C/C++:
+1. Multi-threaded: https://github.com/thuanalg/simplelog-topic 
+2. Multi-threaded and multi-process: https://github.com/thuanalg/simplelog-challenge
+	I invite you to use it.
+Best regards,
+Thuan Nguyen Thai
+--------------------------------
+Hello Miss. Barno S.,
+I have a new study of logger for C/C++:
+1. Multi-threaded: https://github.com/thuanalg/simplelog-topic 
+2. Multi-threaded and multi-process: https://github.com/thuanalg/simplelog-challenge
+	I invite you to use it.
+Best regards,
+Thuan Nguyen Thai	
