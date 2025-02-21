@@ -795,7 +795,7 @@ Linus Torvalds: "...This is whole HYPE circle in the tech industry, I hope you a
 Chứng minh của Kurt Godel
 -----------------------------------------
 Hello everybody,
-Here is the testing result of "simplelog-challenge":
+Here is the high-performance test of "simplelog-challenge":
 1. 10 threads, 10 billion records:
 	- "simplelog-challenge": ~3.358 seconds, speed: 2.978 million records a second. Link: https://github.com/thuanalg/simplelog-challenge/blob/main/performance/250217-CentOS-09-performance-8-Core.txt .
 	- "spdlog": ~7.051 seconds, speed: 1.418 million records a second.
@@ -804,7 +804,7 @@ Here is the testing result of "simplelog-challenge":
 	- Time: 19 minutes = 1140 seconds
 	- Speed: 877200 message a second. Link: https://github.com/thuanalg/simplelog-challenge/blob/main/performance/250217-CentOS-09-performance-8-Core-1Billion.txt .
 	
-Please have a feedback, if you have any doubt of the honesty.
+Please feedback if you have any doubt of the honesty.
 Thanks!
 -------------------------
 Hello Mr. Karl-Heinz Schmid,
@@ -822,3 +822,10 @@ I have a new study of logger for C/C++:
 	I invite you to use it.
 Best regards,
 Thuan Nguyen Thai	
+
+
+Franz Reiner Franz Reiner
+ 
+https://www.linkedin.com/posts/thuan-t-nguyen-62571763_cat-v-harmful-stuff-activity-7294352691625959424-rfsy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA10R70B9D8ttiDb7Ff45-7Ml1DJccL_CDk
+
+https://www-users.york.ac.uk/~ss44/joke/cpp.htm
