@@ -64,8 +64,8 @@ ffmpeg -f dshow -i video="Integrated Webcam" -video_size 1920x1080 -framerate 30
 >>>>>>> 4e84bbd67799cdf995a96fb61a5eaf94ebd6da44:en/voca/new 1.txt
 
 
-duybk8@fpt.com/0777552338
-tuanvd1@fpt.com/24091
+duybk8@fpt.com/0777552338/Vice director
+tuanvd1@fpt.com/24091/Director
 
 Stroustrup: Promise me you’ll publish this. My conscience is getting the better of me these days..
 
