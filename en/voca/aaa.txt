@@ -746,12 +746,12 @@ Nguồn: https://harmful.cat-v.org/software/c++/I_did_it_for_you_all
 Hi all,
 Today I have an official release for "simplelog-challenge":
 - Support C89 to any modern C/C++.
-- Support both multi-threaded and multi-process modes.
+- Support (both multi-threaded and ) MULTI-PROCESS MODES.
 - Cross-platform Windows/Linux/Mac OSX, ...
 - Superior performance.
 - Handy to use.
 ...
-With all of above features, it becomes one of really good C/C++ logger until now.
+With all of above features, it deserves attention as new logger.
 - Github: https://github.com/thuanalg/simplelog-challenge
 - Releasing tag v1.0.0: https://github.com/thuanalg/simplelog-challenge/releases/tag/v1.0.0
 
@@ -768,3 +768,64 @@ SSD:
 VGA: 5
 Case:
 Power supplier:
+------------------
+Hi bạn,
+Mình là Thuận, bạn có muốn tham gia vào C/C++ logger của mình không? Nó thực sự ổn và có ích. Mời dùng thử nhé:
+GitHub: https://github.com/thuanalg/simplelog-topic
+GitHub: https://github.com/thuanalg/simplelog-challenge
+--------------------
+Em tìm hiểu xem, logger có tiềm  năng trở thành số 1 của open source không? Vì anh định phát triển và gởi kết quả cho NASA, SpaceX, IBM và Boeing, ...
+
+
+ffmpeg -f dshow -i video="Logi C310 HD WebCam":audio="Microphone (Logi C310 HD WebCam)" -t 00:01:00 -c:v libx264 -c:a aac output.mp4
+
+
+---------
+Vấ đề AI trong coding. Có người phỏng vấn hỏi tôi rằng, có  lo AI chiếm việc không? Tôi đơn giản trả lời ngay là không?
+Định lý bất toàn: https://www.youtube.com/watch?v=wxXznN1bGFU&list=PL6_2BdKTqO8PCJRLprbi_RpNrDCfEUJxC
+https://en.wikipedia.org/wiki/Paul_Cohen
+https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
+https://www.youtube.com/watch?v=VHHT6W-N0ak
+https://www.youtube.com/watch?v=VHHT6W-N0ak
+------------------------------
+AI becomes something new like another tool, and that's all.
+Linus Torvalds: "...This is whole HYPE circle in the tech industry, I hope you all realize ..."
+
+------------------------------------------
+Chứng minh của Kurt Godel
+-----------------------------------------
+Hello everybody,
+Here is the high-performance test of "simplelog-challenge":
+1. 10 threads, 10 billion records:
+	- "simplelog-challenge": ~3.358 seconds, speed: 2.978 million records a second. Link: https://github.com/thuanalg/simplelog-challenge/blob/main/performance/250217-CentOS-09-performance-8-Core.txt .
+	- "spdlog": ~7.051 seconds, speed: 1.418 million records a second.
+	- Here, "simplelog-challenge" is faster 2x spdlog.
+2. 1 billion, 10 threads:
+	- Time: 19 minutes = 1140 seconds
+	- Speed: 877200 message a second. Link: https://github.com/thuanalg/simplelog-challenge/blob/main/performance/250217-CentOS-09-performance-8-Core-1Billion.txt .
+	
+Please feedback if you have any doubt of the honesty.
+Thanks!
+-------------------------
+Hello Mr. Karl-Heinz Schmid,
+I have a new study of logger for C/C++:
+1. Multi-threaded: https://github.com/thuanalg/simplelog-topic 
+2. Multi-threaded and multi-process: https://github.com/thuanalg/simplelog-challenge
+	I invite you to use it.
+Best regards,
+Thuan Nguyen Thai
+--------------------------------
+Hello Miss. Barno S.,
+I have a new study of logger for C/C++:
+1. Multi-threaded: https://github.com/thuanalg/simplelog-topic 
+2. Multi-threaded and multi-process: https://github.com/thuanalg/simplelog-challenge
+	I invite you to use it.
+Best regards,
+Thuan Nguyen Thai	
+
+
+Franz Reiner Franz Reiner
+ 
+https://www.linkedin.com/posts/thuan-t-nguyen-62571763_cat-v-harmful-stuff-activity-7294352691625959424-rfsy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA10R70B9D8ttiDb7Ff45-7Ml1DJccL_CDk
+
+https://www-users.york.ac.uk/~ss44/joke/cpp.htm
