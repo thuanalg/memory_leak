@@ -883,3 +883,24 @@ Thuan Nguyen Thai
 Phone: +(084) 799324179
 Email: nguyenthaithuanalg@gmail.com
 Skype: nguyenthaithuanalg
+-------------------------------------------------
+Theo các bạn: "Những thư viện đọc cổng COM/Serial port tốt nhất bằng C/C++?"
+-------------------------------------------
+Hãy viết code với yêu cầu như sau:
+1. Hỗ trợ bất dồng bộ
+2. Tốt hơn Boost_asio
+3. Cho windows, không phụ thuộc vào thư viện nào  khác trừ Windows 32 APIs
+4. Có hàm write từ 1 thread bất kỳ
+5. Viết băng ngôn ngữ C
+6. Có thể stop/start bằng GUI/MFC
+7. Có thể add/remove một cổng COM ra khỏi danh sách đã mở
+-------------------
+Hãy viết 1  logger tốt hơn spdlog
+1. Đa luồng
+2. Nhanh hơn spdlog
+3. cho Linux/Windows/MAc
+4. Viết bằng c99
+5. Cho thông số đo lường là nhanh hơn spdlog
+6. Đưa ra thông số đo đạc cụ thể
+-----------------------
+C:/z/xlog0/simplelog.cfg
