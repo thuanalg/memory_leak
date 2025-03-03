@@ -886,7 +886,7 @@ Skype: nguyenthaithuanalg
 -------------------------------------------------
 Theo các bạn: "Những thư viện đọc cổng COM/Serial port tốt nhất bằng C/C++?"
 -------------------------------------------
-Hãy viết code với yêu cầu như sau:
+Hãy viết code để đọc serial port với yêu cầu như sau:
 1. Hỗ trợ bất dồng bộ
 2. Tốt hơn Boost_asio
 3. Cho windows, không phụ thuộc vào thư viện nào  khác trừ Windows 32 APIs
