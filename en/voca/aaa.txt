@@ -894,7 +894,7 @@ Hãy viết code để đọc serial port với yêu cầu như sau:
 5. Viết băng ngôn ngữ C
 6. Có thể stop/start bằng GUI/MFC
 7. Có thể add/remove một cổng COM ra khỏi danh sách đã mở
--------------------
+----------------------------------------------------------------------------
 Hãy viết 1  logger tốt hơn spdlog
 1. Đa luồng
 2. Nhanh hơn spdlog
@@ -902,5 +902,20 @@ Hãy viết 1  logger tốt hơn spdlog
 4. Viết bằng c99
 5. Cho thông số đo lường là nhanh hơn spdlog
 6. Đưa ra thông số đo đạc cụ thể
------------------------
+----------------------------------------------------------------------------
 C:/z/xlog0/simplelog.cfg
+----------------------------------------------------------------------------
+  libswresample   5.  4.100 /  5.  4.100
+  libpostproc    58.  4.100 / 58.  4.100
+[dshow @ 0000019c5a76f080] "Logi C310 HD WebCam" (video)
+[dshow @ 0000019c5a76f080]   Alternative name "@device_pnp_\\?\usb#vid_046d&pid_081b&mi_00#7&6f8b017&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global"
+[dshow @ 0000019c5a76f080] "Microphone (Logi C310 HD WebCam)" (audio)
+[dshow @ 0000019c5a76f080]   Alternative name "@device_cm_{33D9A762-90C8-11D0-BD43-00A0C911CE86}\wave_{3D8B148E-95ED-4C98-9CB6-462E6C0C14A4}"
+[in#0 @ 0000019c5a76ecc0] Error opening input: Immediate exit requested
+Error opening input file dummy.
+----------------------------------------------------------------------------
+ffmpeg -f dshow -i video="Logi C310 HD WebCam":audio="Microphone (Logi C310 HD WebCam)" -c:v libx264 -c:a aac -preset fast -crf 20 -t 00:01:00 output_01.mp4
+ffmpeg -f dshow -i video="Logi C310 HD WebCam":audio="Microphone (Logi C310 HD WebCam)" -c:v libx264 -c:a aac -preset fast -crf 20 -t 00:01:00 output_02.mp4
+ffmpeg -f dshow -i video="Logi C310 HD WebCam":audio="Microphone (Logi C310 HD WebCam)" -c:v libx264 -c:a aac -preset fast -crf 20 -t 00:02:00 output_03.mp4
+ffmpeg -f dshow -i video="Tên thiết bị webcam":audio="Tên thiết bị microphone" -c:v libx264 -c:a aac -preset fast -crf 20 -t 00:05:00 output.mp4
+
