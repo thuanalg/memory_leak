@@ -918,4 +918,15 @@ ffmpeg -f dshow -i video="Logi C310 HD WebCam":audio="Microphone (Logi C310 HD W
 ffmpeg -f dshow -i video="Logi C310 HD WebCam":audio="Microphone (Logi C310 HD WebCam)" -c:v libx264 -c:a aac -preset fast -crf 20 -t 00:01:00 output_02.mp4
 ffmpeg -f dshow -i video="Logi C310 HD WebCam":audio="Microphone (Logi C310 HD WebCam)" -c:v libx264 -c:a aac -preset fast -crf 20 -t 00:02:00 output_03.mp4
 ffmpeg -f dshow -i video="Tên thiết bị webcam":audio="Tên thiết bị microphone" -c:v libx264 -c:a aac -preset fast -crf 20 -t 00:05:00 output.mp4
-
+----------------------------------------------------------------------------
+	#ifdef __MACH__
+	#else
+	#endif	
+----------------------------------------------------------------------------
+Hãy viết chương trình socket UDP linux/nonblocking/epoll
+----------------------------------------------------------------------------
+Zelensky là anh hùng. Mr. Trump và Mr. Vance đã làm những gì tốt nhất có thể cho Ukraine. Châu Âu thì không có bi.
+----------------------------------------------------------------------------
+Hãy sử dụng <termios.h> viết chương trình đọc cổng Serial/COM, với non-blocking mode 
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
