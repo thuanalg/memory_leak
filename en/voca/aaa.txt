@@ -929,4 +929,9 @@ Zelensky là anh hùng. Mr. Trump và Mr. Vance đã làm những gì tốt nh�
 ----------------------------------------------------------------------------
 Hãy sử dụng <termios.h> viết chương trình đọc cổng Serial/COM, với non-blocking mode 
 ----------------------------------------------------------------------------
+Hi friends,
+It relates to the logic problem, "any logic system, always have one proposition cannot prove." Kurt Gödel, Gödel's incompleteness theorems, wiki: https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems.
+It relates to recursive, then any logger cannot log for itself. Then AI itself cannot prove what it does is correct.
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
