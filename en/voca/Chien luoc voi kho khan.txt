@@ -31,3 +31,6 @@ VPSE simulator -->> Win32 read COM
 
 
 
+C:/z/xlog0/simplelog.cfg
+COM3
+COM6
