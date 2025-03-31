@@ -10,6 +10,7 @@
 8. Yocto
 9. notification_system -->> https://github.com/obgm/libcoap/ custom, don't write new one
 10. the best library of Async IO with serial port for C/C++, Cross-platform: https://github.com/libuv/
+11. Nếu nghiên cứu về Cybersecurity 
 ============================================================
 Để học AI từ cơ bản đến nâng cao, bạn cần một kế hoạch học tập chi tiết, bắt đầu từ những kiến thức cơ bản về toán học và lập trình, sau đó dần dần đi sâu vào các thuật toán và kỹ thuật AI phức tạp. Dưới đây là một kế hoạch học tập chi tiết theo các giai đoạn:
 
