@@ -1,29 +1,29 @@
 ==============================================================================================================================
 Trong ngành tài chính, ngân hàng và chứng khoán, các công ty thường yêu cầu những bài toán phỏng vấn C/C++ để kiểm tra khả năng xử lý dữ liệu lớn, tối ưu hóa hiệu suất, và giải quyết các vấn đề thuật toán phức tạp. Dưới đây là danh sách **Top 10 bài toán** thường gặp trong các buổi phỏng vấn C/C++ trong lĩnh vực này:
 
-### 1. **Dãy con liên tiếp có tổng lớn nhất (Maximum Subarray Sum)**
+### 1. **Dãy con liên tiếp có tổng lớn nhất (Maximum Subarray Sum)** [*]
    - **Mô tả:** Tìm dãy con liên tiếp có tổng lớn nhất trong một mảng số cho trước. Đây là bài toán cổ điển và được áp dụng trong phân tích lợi nhuận từ các chỉ số tài chính, dự báo giá trị tài sản.
    - **Ứng dụng:** Tính toán lợi nhuận tối đa trong các chiến lược đầu tư.
    - **Thuật toán:** Kadane’s Algorithm (O(n)).
 
-### 2. **Tìm chuỗi con tăng dần dài nhất (Longest Increasing Subsequence)**
+### 2. **Tìm chuỗi con tăng dần dài nhất (Longest Increasing Subsequence)** [*]
    - **Mô tả:** Tìm dãy con tăng dần dài nhất trong một dãy số. Đây là bài toán quan trọng trong phân tích dữ liệu thị trường tài chính và chứng khoán.
    - **Ứng dụng:** Phân tích xu hướng tăng giá của cổ phiếu trong một khoảng thời gian.
    - **Thuật toán:** DP (O(n²)) hoặc O(n log n) với nhị phân tìm kiếm.
 
-### 3. **Dãy con liên tiếp có tổng bằng một giá trị X (Subarray Sum Equals K)**
+### 3. **Dãy con liên tiếp có tổng bằng một giá trị X (Subarray Sum Equals K)** [*]
    - **Mô tả:** Tìm các dãy con liên tiếp có tổng bằng một giá trị cho trước X. 
    - **Ứng dụng:** Trong tài chính, bài toán này có thể được sử dụng để phân tích các dãy giá trị (ví dụ: lợi nhuận trong một khoảng thời gian nhất định).
    - **Thuật toán:** Hashmap (O(n)).
 
-### 4. **Tìm các số tăng dần trong mảng (Finding Maximum Profit in Stock Trading)**
+### 4. **Tìm các số tăng dần trong mảng (Finding Maximum Profit in Stock Trading)** [*]
    - **Mô tả:** Tìm số tiền tối đa có thể kiếm được từ việc mua và bán cổ phiếu trong một ngày. Có thể bán chỉ một lần sau khi mua.
    - **Ứng dụng:** Tối ưu hóa chiến lược đầu tư chứng khoán.
    - **Thuật toán:** Tìm kiếm giá trị lớn nhất trong mảng giá cổ phiếu.
 
-### 5. **Tìm số cách phân chia mảng thành 2 phần có tổng bằng nhau (Partition Problem)**
+### 5. **Tìm số cách phân chia mảng thành 2 phần có tổng bằng nhau (Partition Problem)** [*]
    - **Mô tả:** Kiểm tra xem có thể chia một mảng thành hai phần sao cho tổng của chúng bằng nhau.
-   - **Ứng dụng:** Sử dụng trong việc phân bổ tài sản giữa các danh mục đầu tư hoặc phân bổ ngân sách.
+   - **Ứng dụng:** Sử dụng trong việc PHÂN BỔ TÀI SẢN giữa các danh mục đầu tư hoặc PHÂN BỔ NGÂN SÁCH.
    - **Thuật toán:** DP (O(nW)).
 
 ### 6. **Thuật toán tìm số nhỏ nhất / lớn nhất trong mảng theo thời gian thực (Sliding Window Minimum / Maximum)**
@@ -31,7 +31,7 @@ Trong ngành tài chính, ngân hàng và chứng khoán, các công ty thườn
    - **Ứng dụng:** Tính toán biến động thị trường hoặc phân tích giá trị cổ phiếu trong các khoảng thời gian khác nhau.
    - **Thuật toán:** Deque (O(n)).
 
-### 7. **Bài toán đồ thị - Tìm chu trình Hamilton (Hamiltonian Cycle)**
+### 7. **Bài toán đồ thị - Tìm chu trình Hamilton (Hamiltonian Cycle)** [*]
    - **Mô tả:** Tìm một chu trình đi qua mỗi đỉnh trong đồ thị đúng một lần. Đây là bài toán NP hoàn chỉnh.
    - **Ứng dụng:** Ứng dụng trong mô hình tối ưu hóa việc giao dịch, hoặc trong các hệ thống mạng tài chính.
    - **Thuật toán:** Backtracking hoặc sử dụng các thuật toán đồ thị.
@@ -63,7 +63,7 @@ Nếu bạn có thêm câu hỏi hoặc muốn tôi giải thích chi tiết v�
 ==============================================================================================================================
 Dưới đây là danh sách 10 bài toán phổ biến mà các nhà tuyển dụng trong ngành tài chính, ngân hàng và chứng khoán có thể yêu cầu trong các buổi phỏng vấn C/C++:
 
-1. **Cải tiến thuật toán tìm kiếm**:
+1. **Cải tiến thuật toán tìm kiếm**: [*]
    - **Bài toán**: Cải thiện thuật toán tìm kiếm trên danh sách dữ liệu lớn. Ví dụ, tìm kiếm trong mảng đã sắp xếp hoặc chưa sắp xếp, tìm kiếm nhị phân hoặc tìm kiếm tuyến tính.
    - **Ứng dụng**: Trong tài chính, dữ liệu thị trường lớn cần được tìm kiếm và xử lý nhanh chóng.
 
@@ -221,7 +221,7 @@ Trong ngành tài chính ngân hàng chứng khoán, các bài toán phỏng v�
    - **Mô tả**: Cài đặt một mô hình đơn giản để dự đoán xu hướng giá cổ phiếu dựa trên dữ liệu lịch sử.
    - **Kỹ năng kiểm tra**: Kỹ thuật dự báo, phân tích số liệu, tối ưu hóa mô hình.
 
-10. **Giải thuật tìm đường (Pathfinding Algorithm)**
+10. **Giải thuật tìm đường (Pathfinding Algorithm)** [*]
    - **Mô tả**: Cài đặt thuật toán tìm đường như Dijkstra hoặc A* để tính toán đường đi tối ưu cho việc phân bổ vốn hoặc tìm kiếm các cơ hội giao dịch.
    - **Kỹ năng kiểm tra**: Cài đặt thuật toán đồ thị, tối ưu hóa tìm kiếm.
 
