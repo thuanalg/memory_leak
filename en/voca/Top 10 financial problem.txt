@@ -2,12 +2,12 @@ Top 10 thuật toán trong ngành tài chính, ngân hàng và chứng khoán.
 ==============================================================================================================================
 Trong ngành tài chính, ngân hàng và chứng khoán, các công ty thường yêu cầu những bài toán phỏng vấn C/C++ để kiểm tra khả năng xử lý dữ liệu lớn, tối ưu hóa hiệu suất, và giải quyết các vấn đề thuật toán phức tạp. Dưới đây là danh sách **Top 10 bài toán** thường gặp trong các buổi phỏng vấn C/C++ trong lĩnh vực này:
 
-### 1. **Dãy con liên tiếp có tổng lớn nhất (Maximum Subarray Sum)** [*]
+### 1. **Dãy CON LIÊN TIẾP có tổng lớn nhất (Maximum Subarray Sum)** [*]
    - **Mô tả:** Tìm dãy con liên tiếp có tổng lớn nhất trong một mảng số cho trước. Đây là bài toán cổ điển và được áp dụng trong phân tích lợi nhuận từ các chỉ số tài chính, dự báo giá trị tài sản.
    - **Ứng dụng:** Tính toán lợi nhuận tối đa trong các chiến lược đầu tư.
    - **Thuật toán:** Kadane’s Algorithm (O(n)).
 
-### 2. **Tìm chuỗi con tăng dần dài nhất (Longest Increasing Subsequence)** [*]
+### 2. **Tìm chuỗi CON tăng dần dài nhất (Longest Increasing Subsequence)** [*]
    - **Mô tả:** Tìm dãy con tăng dần dài nhất trong một dãy số. Đây là bài toán quan trọng trong phân tích dữ liệu thị trường tài chính và chứng khoán.
    - **Ứng dụng:** Phân tích xu hướng tăng giá của cổ phiếu trong một khoảng thời gian.
    - **Thuật toán:** DP (O(n²)) hoặc O(n log n) với nhị phân tìm kiếm.
@@ -37,7 +37,7 @@ Trong ngành tài chính, ngân hàng và chứng khoán, các công ty thườn
    - **Ứng dụng:** Ứng dụng trong mô hình tối ưu hóa việc giao dịch, hoặc trong các hệ thống mạng tài chính.
    - **Thuật toán:** Backtracking hoặc sử dụng các thuật toán đồ thị.
 
-### 8. **Tìm các số xuất hiện nhiều lần trong mảng (Find Duplicates in Array)**
+### 8. **Tìm các số xuất hiện nhiều lần trong mảng (Find Duplicates in Array)** [*]
    - **Mô tả:** Tìm các số xuất hiện nhiều lần trong mảng với bộ nhớ hạn chế.
    - **Ứng dụng:** Phân tích lỗi trong dữ liệu tài chính hoặc giao dịch, tìm kiếm các giao dịch trùng lặp trong hệ thống ngân hàng.
    - **Thuật toán:** Hashing hoặc sử dụng kỹ thuật XOR.
@@ -47,7 +47,7 @@ Trong ngành tài chính, ngân hàng và chứng khoán, các công ty thườn
    - **Ứng dụng:** Tối ưu hóa chiến lược giao dịch trên thị trường chứng khoán.
    - **Thuật toán:** DP (O(n)).
 
-### 10. **Thuật toán tìm số cách sắp xếp các phần tử trong mảng để có tổng tối ưu (Knapsack Problem)**
+### 10. **Thuật toán tìm số cách sắp xếp các phần tử trong mảng để có tổng tối ưu (Knapsack Problem)** [*]
    - **Mô tả:** Tìm ra số cách tối ưu để phân bổ các phần tử vào các "túi" sao cho tổng giá trị tối đa trong mỗi túi là không vượt quá một giá trị cho trước.
    - **Ứng dụng:** Phân bổ tài sản trong danh mục đầu tư hoặc tối ưu hóa phân bổ ngân sách cho các khoản đầu tư.
    - **Thuật toán:** DP (O(nW)).
