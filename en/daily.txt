@@ -178,3 +178,135 @@ I am developing a C/C++ program, invite to use it:
 2. For both multi-threading and multi-process: https://github.com/thuanalg/simplelog-challenge
 Regards,
 Thuan Nguyen Thai
+
+Here are **common Linux Embedded Interview Questions**, grouped by topic and difficulty. These are frequently asked in interviews for **Embedded Systems Engineers** working on **Linux-based platforms**.
+
+---
+
+## 🔹 **Basic Level**
+
+### 1. What is an embedded Linux system?
+
+* Answer: A system where Linux is used as the OS on an embedded device. It usually has limited resources (CPU, memory) and is customized for a specific application.
+
+### 2. What are the differences between Embedded Linux and Desktop Linux?
+
+* Answer:
+
+  * Embedded Linux is minimal, tailored to the device.
+  * Desktop Linux is full-featured, supports GUI, multiple users.
+  * Different bootloaders (U-Boot vs GRUB).
+  * Embedded often runs from flash, not HDD/SSD.
+
+### 3. What are common bootloaders used in embedded systems?
+
+* U-Boot (Universal Bootloader)
+* Barebox
+* RedBoot
+
+### 4. Explain the Linux boot process.
+
+* **Bootloader** (e.g., U-Boot) → **Kernel** → **init (or systemd)** → **User space application**
+
+### 5. What is a device tree?
+
+* Answer: A data structure used by the Linux kernel to describe the hardware layout of an embedded system, especially on ARM.
+
+---
+
+## 🔹 **Intermediate Level**
+
+### 6. What is BusyBox and why is it used in embedded systems?
+
+* Answer: A single binary that includes many Unix utilities. It saves space and is widely used in embedded Linux.
+
+### 7. What is the role of init/systemd?
+
+* Answer: They are the first user-space programs started by the kernel. They initialize the system and launch services.
+
+### 8. How do you reduce the footprint of your embedded Linux system?
+
+* Answer:
+
+  * Use BusyBox
+  * Remove unused kernel modules
+  * Use compression
+  * Strip binaries
+  * Use a smaller C library (e.g., uClibc, musl)
+
+### 9. What is cross-compilation? How do you do it?
+
+* Answer: Building a binary on a host system that runs on a different target architecture.
+
+  * Use toolchains like `arm-none-eabi-gcc` or `buildroot`.
+
+### 10. How do you debug an embedded Linux system?
+
+* Answer:
+
+  * Serial console
+  * GDB over JTAG or gdbserver
+  * strace, dmesg, printk
+  * oscilloscope or logic analyzer (for HW interaction)
+
+---
+
+## 🔹 **Advanced Level**
+
+### 11. Explain how to write a Linux device driver.
+
+* Types: Character, Block, Network
+* Involves registering with kernel, implementing file operations (`open`, `read`, `write`, etc.), handling IRQs, and memory-mapped I/O.
+
+### 12. What is mmap? How is it used in embedded Linux?
+
+* Answer: Maps files or devices into memory. Often used for sharing memory between processes or accessing hardware registers.
+
+### 13. What are real-time patches (PREEMPT\_RT) in Linux?
+
+* Answer: Enhances Linux kernel's ability to meet real-time constraints by reducing latencies.
+
+### 14. Explain inter-process communication (IPC) in Linux.
+
+* Mechanisms: Pipes, FIFOs, message queues, shared memory, semaphores, sockets.
+
+### 15. What is Buildroot / Yocto Project?
+
+* **Buildroot**: Simple, fast way to generate rootfs, kernel, and bootloader for embedded systems.
+* **Yocto**: More flexible and complex, used in production-grade embedded Linux systems.
+
+---
+
+## 🔹 **Practical/Scenario-Based Questions**
+
+### 16. How do you trace a kernel panic on an embedded board?
+
+* Check serial output, use `kdump`, `dmesg`, analyze with `addr2line` and symbols.
+
+### 17. Your board is stuck at U-Boot prompt. What would you check?
+
+* Bootargs
+* Kernel image presence
+* File system image
+* Flash memory issues
+
+### 18. How would you add support for a new hardware sensor?
+
+* Write a device driver or configure existing one.
+* Update device tree.
+* Rebuild kernel/modules.
+* Test via sysfs or dev interface.
+
+---
+
+## 🔹 **Optional Deep Topics**
+
+* Linux Memory Management (slab, page frame allocator)
+* Kernel preemption and scheduling
+* GPIO / I2C / SPI subsystem
+* NAND vs NOR flash handling
+* Kernel configuration via `menuconfig`
+
+---
+
+Would you like sample answers, or would you prefer I help tailor questions based on your experience level or the specific role?
