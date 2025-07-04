@@ -310,3 +310,16 @@ Here are **common Linux Embedded Interview Questions**, grouped by topic and dif
 ---
 
 Would you like sample answers, or would you prefer I help tailor questions based on your experience level or the specific role?
+
+| Tên module                            | Giao tiếp | Hãng                                    |
+| ------------------------------------- | --------- | --------------------------------------- |
+| **Infineon OPTIGA™ SLB 9670 TPM 2.0** | SPI       | Infineon (rất phổ biến, nhiều tutorial) |
+| **ST ST33 TPM 2.0**                   | SPI       | STMicroelectronics                      |
+| **Nuvoton NPCT75x TPM 2.0**           | SPI       | Nuvoton                                 |
+| **GIGABYTE GC-TPM2.0 SPI**            | SPI       | GIGABYTE (cái bạn vừa hỏi)              |
+
+1. 2 balo:
+	- Kinh Sách: 2 kinh
+	- Quần áo, áo mưa, softfell
+2. Sang chơi với Bắp
+	- Khởi hành sau khi về
