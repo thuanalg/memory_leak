@@ -322,4 +322,70 @@ Would you like sample answers, or would you prefer I help tailor questions based
 	- Kinh Sách: 2 kinh
 	- Quần áo, áo mưa, softfell
 2. Sang chơi với Bắp
-	- Khởi hành sau khi về
+	- Khởi hành sau khi về (Member of Delta Force – elite engineering task force)
+	
+What are the differences between fork() and pthread_create()?
+
+How do you handle race conditions in a multithreaded program?
+
+What happens if you write() to a file descriptor concurrently from multiple threads?
+
+How do you implement a ring buffer in C? What is its benefit in embedded logging?
+
+What is epoll() and how is it different from select() and poll()?
+
+How would you handle serial communication with timeout in Linux (using termios)?
+
+Explain how shared memory (shm_open) works between processes.
+
+What is the difference between volatile and const in embedded C?
+
+How does your logger avoid file corruption in multiprocess mode?
+
+Why is mmap() sometimes better than reading a file with fread() in performance-critical systems?
+
+What is the difference between a Yocto layer and a recipe?
+
+Explain how you created your Yocto recipe for libserialmodule.
+
+What is inherit autotools or inherit cmake in a .bb file?
+
+How do you debug a failing Yocto build (bitbake -c compile fails)?
+
+What are the common locations for placing patches in a Yocto recipe?
+
+What’s the role of do_configure(), do_compile(), do_install() in a BitBake recipe?
+
+How would you include your logging library (libsimplelog) in another layer like meta-voltumna?
+
+What is Android Automotive OS? How is it different from Android Auto?
+
+How would you integrate a native C library (like your logger) into an Android Automotive system?
+
+How do you reduce log latency in real-time embedded systems with limited memory and high I/O pressure?
+
+
+[Layer 2 Frame]
+ ├─ Destination MAC address (6 bytes)
+ ├─ Source MAC address (6 bytes)
+ ├─ EtherType = 0x0800 (indicates IPv4)
+ └─ [Layer 3 Packet]
+       ├─ Version, Header Length
+       ├─ Source IP address
+       ├─ Destination IP address
+       └─ [Layer 4 segment (e.g., TCP)]
+            ├─ Source port
+            ├─ Destination port
+            └─ Payload (data)
+
+| Lệnh       | Quản lý gì      | Ví dụ                                    |
+| ---------- | --------------- | ---------------------------------------- |
+| `ip link`  | Interface (L2)  | `ip link set eth0 up`                    |
+| `ip addr`  | IP address (L3) | `ip addr add 192.168.1.1/24 dev eth0`    |
+| `ip route` | Routing (L3)    | `ip route add default via 192.168.1.254` |
+
+
+I'm currently looking for **remote embedded C/C++, networking jobs or freelance projects** related to:
+✔ Embedded Linux
+✔ Logging, Serial/USB drivers, networking, low-level system programming
+✔ Yocto/OpenEmbedded development
