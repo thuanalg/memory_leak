@@ -389,3 +389,11 @@ I'm currently looking for **remote embedded C/C++, networking jobs or freelance 
 ✔ Embedded Linux
 ✔ Logging, Serial/USB drivers, networking, low-level system programming
 ✔ Yocto/OpenEmbedded development
+
+STM32F407 
+
+std::map::lower_bound
+
+	void assign( K const& keyBegin, K const& keyEnd, V_forward&& val )
+		requires (std::is_same<std::remove_cvref_t<V_forward>, V>::value)
+	requires có ý nghĩa gì?
