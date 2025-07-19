@@ -397,3 +397,53 @@ std::map::lower_bound
 	void assign( K const& keyBegin, K const& keyEnd, V_forward&& val )
 		requires (std::is_same<std::remove_cvref_t<V_forward>, V>::value)
 	requires có ý nghĩa gì?
+	
+Prefer if candidate have
+● C# skills are a nice to have
+● Some basic familiarity with GIS concepts and/or addressing would also be
+nice to have, but not required
+● Crossplatform dev experience with Linux is highly desirable, preferably cross
+platform (windows/linux)
+● Familiarity with Google Cloud or other Cloud platforms would be helpful.
+● Familiarity with GIS concepts is a plus.
+● Must possess a great social and cando attitude and able to speak and understand English.
+
+Hãy viết bài giới thiệu ngắn 10-15 câu = tiếng ANh.
+
+Hello, my name is Thuận Nguyễn-Thái. I'm a passionate and experienced C/C++ developer with a deep focus on system-level programming, including logging libraries, serial/USB communication, multi-threading, and cross-platform development. My work strictly follows the C89/C++20 standards and runs reliably on Windows, Linux, macOS, and embedded platforms.
+
+I contributed 2 libraries to Yocto/Open-Embedded. One of my most notable projects is SimpleLog-Topic, a highly efficient logging library that supports multi-threading. It’s benchmarked to be 2x–4x faster than spdlog in many real-world scenarios.
+
+I don’t have experience with GIS or Google Cloud, but I’m eager to learn when needed. My strength lies in deep system programming, performance tuning, and building portable, dependency-free code. I'm also open to both remote and on-site roles and would be excited to contribute to impactful projects.
+
+I have previous experience with C#, and although I haven't used it recently, I'm fully prepared to refresh my knowledge and quickly get back up to speed whenever needed for the job.
+auto x = 0, y = 0;
+auto add = [](int a, int b) { return a + b; };
+std::cout << add(0, 0);  // Output: 0
+
+5 câu hỏi pv C++20
+10 câu hỏi pv C++20
+20 câu hỏi pv C++20
+
+Hãy nêu 10 lớp std:: dùng phổ biến trong C++20, dùng nhiều nhất như std::map, nêu version của chúng
+Hãy nêu 20 lớp std:: dùng phổ biến trong C++20, dùng nhiều nhất như std::map, nêu version của chúng
+Hãy nêu 30 lớp std:: dùng phổ biến trong C++20, dùng nhiều nhất như std::map, nêu version của chúng
+
+
+//0. Largest problem
+//1. List all islands out
+//2. List the beggest island out
+
+| Câu hỏi                                                                      | Dùng trong          | Liên quan                |
+| ---------------------------------------------------------------------------- | ------------------- | ------------------------ |
+| 🧠 Làm sao bạn thiết kế hệ thống Geocoder từ địa chỉ → tọa độ?               | Kiến trúc tổng thể  | Hash map, database       |
+| 📌 Tìm địa điểm gần nhất trong bản đồ như thế nào?                           | Tìm kiếm không gian | K-D Tree, R-Tree         |
+| 📌 Làm sao cài thuật toán Dijkstra/A\* trong bản đồ?                         | Tìm đường đi        | Graph                    |
+| 📌 Dữ liệu địa lý rất lớn, bạn sẽ tối ưu ra sao?                             | Hiệu năng           | Index, Memory            |
+| 🧠 Cấu trúc nào phù hợp để lưu dữ liệu địa điểm (city, address, coord)?      | Design              | Class + Trie/map         |
+| 📌 Làm sao so khớp chuỗi địa chỉ gần đúng (e.g., "Hanoi", "Hà Nội")?         | Fuzzy matching      | Levenshtein, BK-Tree     |
+| 🧠 Có cách nào chia bản đồ thành các vùng quản lý không?                     | Tối ưu vùng         | QuadTree, Grid           |
+| 📌 Có bao giờ dùng `std::unordered_map<std::string, Coord>` để map địa danh? | API logic           | STL                      |
+| 📌 Bạn sẽ serialize dữ liệu bản đồ như thế nào để load nhanh?                | Data format         | Binary file, FlatBuffers |
+| 🧠 Làm sao bạn làm chức năng tìm kiếm gợi ý (autocomplete)?                  | Trie, TST           | C++ string               |
+
