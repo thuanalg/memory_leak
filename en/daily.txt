@@ -450,3 +450,8 @@ Hãy nêu 30 lớp std:: dùng phổ biến trong C++20, dùng nhiều nhất nh
 Chuyển sang WebGraphviz
 
 raven
+
+	using myqueue = std::priority_queue<std::pair<int, int>, std::vector<std::pair<int, int>>, greater<>>;
+	std::unique_ptr<myqueue> ptr = std::make_unique<myqueue>(4);
+	Tại sao không thể cấp nhiều con trỏ
+{0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15}
