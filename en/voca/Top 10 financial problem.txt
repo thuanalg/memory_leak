@@ -7,20 +7,21 @@ Trong ngành tài chính, ngân hàng và chứng khoán, các công ty thườn
    - **Ứng dụng:** Tính toán lợi nhuận tối đa trong các chiến lược đầu tư.
    - **Thuật toán:** Kadane’s Algorithm (O(n)).
 
-### 2. **Tìm chuỗi CON tăng dần dài nhất (Longest Increasing Subsequence)** [*]
+### 2. **Tìm CHUỖI CON TĂNG DẦN DÀI NHẤT (Longest Increasing Subsequence)** [*]
    - **Mô tả:** Tìm dãy con tăng dần dài nhất trong một dãy số. Đây là bài toán quan trọng trong phân tích dữ liệu thị trường tài chính và chứng khoán.
    - **Ứng dụng:** Phân tích xu hướng tăng giá của cổ phiếu trong một khoảng thời gian.
    - **Thuật toán:** DP (O(n²)) hoặc O(n log n) với nhị phân tìm kiếm.
 
-### 3. **Dãy con liên tiếp có tổng bằng một giá trị X (Subarray Sum Equals K)** [*]
+### 3. **Dãy con LIÊN TIẾP có tổng bằng một giá trị X (Subarray Sum Equals K)** [*]
    - **Mô tả:** Tìm các dãy con liên tiếp có tổng bằng một giá trị cho trước X. 
    - **Ứng dụng:** Trong tài chính, bài toán này có thể được sử dụng để phân tích các dãy giá trị (ví dụ: lợi nhuận trong một khoảng thời gian nhất định).
    - **Thuật toán:** Hashmap (O(n)).
 
 ### 4. **Tìm các số tăng dần trong mảng (Finding Maximum Profit in Stock Trading)** [*]
-   - **Mô tả:** Tìm số tiền tối đa có thể kiếm được từ việc mua và bán cổ phiếu trong một ngày. Có thể bán chỉ một lần sau khi mua.
+   - **Mô tả:** Tìm số tiền tối đa có thể kiếm được từ việc mua và bán cổ phiếu trong một ngày. Có thể bán chỉ MỘT LẦN sau khi mua.
    - **Ứng dụng:** Tối ưu hóa chiến lược đầu tư chứng khoán.
    - **Thuật toán:** Tìm kiếm giá trị lớn nhất trong mảng giá cổ phiếu.
+   - Cần làm thêm cho NHIỀU LẦN.
 
 ### 5. **Tìm số cách phân chia mảng thành 2 phần có tổng bằng nhau (Partition Problem)** [*]
    - **Mô tả:** Kiểm tra xem có thể chia một mảng thành hai phần sao cho tổng của chúng bằng nhau.
