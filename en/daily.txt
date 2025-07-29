@@ -455,3 +455,6 @@ raven
 	std::unique_ptr<myqueue> ptr = std::make_unique<myqueue>(4);
 	Tại sao không thể cấp nhiều con trỏ
 {0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15}
+
+Luôn có một con đường trong khó khăn. Vì Trời không đóng mọi con đường với bất kỳ ai.
+Sông sâu sóng cả,chớ ngã tay chèo.
