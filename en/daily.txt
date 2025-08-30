@@ -484,3 +484,109 @@ Thank you for your time, and I look forward to the opportunity to discuss how I 
 
 Best regards,
 Thuan Nguyen Thai
+
+
+
+==================
+Read data on board from LIS302DL + STM32F407
+Nếu LIS302DL tích hợp sẵn trong STM32F407 thì giao tiếp qua thanh ghi hay cái gì khác?
+
+FF_WU_CFG: Free-Fall / Wake-Up Configuration Register
+FF_WU_THS: Threshold register
+FF_WU_DURATION: time
+F_WU_SRC: source register
+
+FF_WU_SRC
+
+STM32F407, 
+STM32F407, Có sẵn cảm biến gia tốc: LIS302DL, ST MEMS motion sensor, 3-axis
+Như vậy mình chỉ cần cắm cáp ST-Link và lập trình, không cần cắm cab vào các chân GPIO hả em?
+
+Đóng góp 2 thư viện C/C++ mới hoàn toàn vào gbmc.googlesource.com/Google và openBMC/Linux Foundation, meta-openembedded/Yocto: libsimplelog, libserialmodule. Trong đó libsimplelog là logger nhanh nhất. So với bằng master thế nào?
+
+Trong board STM32F407, SPI1 muốn giao tiếp với LIS302Dl (đã tích hợp sẵn trong board), chọn mode nào:
+Full-Duplex Master
+Half-Duplex Master
+Full-Duplex Slave
+Half-Duplex Slave
+Receive Only Master
+Receive Only Slave
+Transmit Only Master
+Transmit Only Slave
+
+============================
+
+Hardware NSS Signal nên chọn:
+Hardware NSS Signal Output
+Hardware NSS Signal Input
+Vì sao?
+
+PB3 SPI1_CLK
+PB4 SPI1_MISO
+PB5 SPI1_MOSI
+ Trên CubeIDE báo vậy, có chỉnh sửa gì thêm không?	
+ 
+ Trong tab GPIO nó chỉ hiện ra 3 chân thôi:
+PB3 SPI1_CLK
+PB4 SPI1_MISO
+PB5 SPI1_MOSI
+Không thất PE3, là vì sao?
+
+
+// Ghi 1 byte
+void LIS_WriteReg(uint8_t reg, uint8_t data)
+{
+    uint8_t buf[2] = { reg & 0x7F, data }; // MSB=0 for write
+    LIS_CS_LOW();
+    HAL_SPI_Transmit(&hspi1, buf, 2, HAL_MAX_DELAY);
+    LIS_CS_HIGH();
+}
+
+// Đọc 1 byte
+uint8_t LIS_ReadReg(uint8_t reg)
+{
+    uint8_t tx = reg | 0x80; // MSB=1 for read
+    uint8_t rx = 0;
+    LIS_CS_LOW();
+    HAL_SPI_Transmit(&hspi1, &tx, 1, HAL_MAX_DELAY);
+    HAL_SPI_Receive(&hspi1, &rx, 1, HAL_MAX_DELAY);
+    LIS_CS_HIGH();
+    return rx;
+}
+
+// Đọc nhiều byte (OUTX, OUTY, OUTZ)
+void LIS_ReadRegs(uint8_t reg, uint8_t* buf, uint8_t len)
+{
+    uint8_t tx = reg | 0xC0; // MSB=1 (read) + auto-increment (bit6)
+    LIS_CS_LOW();
+    HAL_SPI_Transmit(&hspi1, &tx, 1, HAL_MAX_DELAY);
+    HAL_SPI_Receive(&hspi1, buf, len, HAL_MAX_DELAY);
+    LIS_CS_HIGH();
+}
+
+int main(void)
+{
+    HAL_Init();
+    MX_GPIO_Init();
+    MX_SPI1_Init();
+
+    LIS_Init();
+
+    uint8_t id = LIS_WhoAmI();
+    printf("WHO_AM_I = 0x%X\r\n", id); // Phải ra 0x3B
+
+    int8_t x, y, z;
+
+    while(1)
+    {
+        LIS_ReadXYZ(&x, &y, &z);
+        printf("X=%d, Y=%d, Z=%d\r\n", x, y, z);
+        HAL_Delay(100);
+    }
+}
+
+LIS_WhoAmI(); không ra 0x3B
+
+
+==================================
+Nh
