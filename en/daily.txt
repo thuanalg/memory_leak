@@ -589,4 +589,7 @@ LIS_WhoAmI(); không ra 0x3B
 
 
 ==================================
-Nh
+Những sách hay về STM32F407
+
+STM32 programming ebook
+Mastering STM32 - Second Edition by Carmine Noviello
