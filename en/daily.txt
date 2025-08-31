@@ -593,3 +593,18 @@ Những sách hay về STM32F407
 
 STM32 programming ebook
 Mastering STM32 - Second Edition by Carmine Noviello
+
+A |= (1 << i), on bit thứ i.
+A &= ~(1 << i), off n bit thứ i.
+
+Lấy bit thứ i
+
+Check bit i  (A | (1 << i) )
+
+Đảo bit của 1 byte:
+	A = ((A & 0xF0) >> 4) | ((A & 0x0F) << 4);
+	A = ((A & 0xCC) >> 2) | ((A & 0x33) << 2);
+	A = ((A & 0xAA) >> 1) | ((A & 0x55) << 1);
+The principle of transmiting/receiving digital signal with square wave in an IC.
+
+Hardware NSS Output Signal vs  Hardware NSS Input Signal
