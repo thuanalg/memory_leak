@@ -589,6 +589,8 @@ LIS_WhoAmI(); không ra 0x3B
 
 
 ==================================
+Việc đóng góp thư viện C/C++ mới hoàn toàn vào openBMC/Linux Foundation, gbmc.googlesource.com, có độ khó và kỹ thuật ở mức nào?
+==================================
 Những sách hay về STM32F407
 
 STM32 programming ebook
@@ -608,3 +610,5 @@ Check bit i  (A | (1 << i) )
 The principle of transmiting/receiving digital signal with square wave in an IC.
 
 Hardware NSS Output Signal vs  Hardware NSS Input Signal
+
+(++a) %= b; viết đơn giản lại thế nào?
