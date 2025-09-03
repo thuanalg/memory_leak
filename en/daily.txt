@@ -617,3 +617,9 @@ Vui vui suy tầm, tự điển ngược:
 - Đột phá: Khỉ đột phá hoại
 - Có tâm có tầm: tâm thần, tầm bậy.
 - Bạn thân: thân ai nấy lo.
+
+COM4
+D:\reserach\serialmodule\build\Debug\simplelog.cfg
+stm32f4_discovery.*
+
+lis302dl.*
