@@ -5,8 +5,7 @@
 
 
 
-[-] splash		<-->	verb++[--0]	./splæʃ/
- /splæʃ/\
+[-] splash		<-->	verb++	[250903][001]	./splæʃ/NAmE /splæʃ/\
 	;bắn tung tóe -- (1) [intransitive] + adv./prep. (of liquid) to fall noisily onto a surface
 		;Water splashed onto the floor.
 		;Rain splashed against the windows.
@@ -37,8 +36,7 @@
 
 
 
-[-] splash		<-->	n++[--0]	./splæʃ/
- /splæʃ/
+[-] splash		<-->	n++	[250903][001]	./splæʃ/NAmE /splæʃ/\
 	;âm thanh tóe ra -- (1) [countable] the sound of something hitting liquid or of liquid hitting something
 		;We heard the splash when she fell into the pool.
 		;She jumped into the pool with a splash.
@@ -73,62 +71,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-	;;
-
-
-
-
-
-
-
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
-	;;
-
-
-
-
-
-
-
-
-
-
-
-
-[-] vvv		<-->	verb++[--0]	.
-	; -- (1) 
-	; -- (2) 
-	; -- (3) 
-	; -- (4) 
-	; -- (5) 
+[-] instead of		<-->	prep++	[250903][001]	./ɪnˈsted əv/NAmE /ɪnˈsted əv/
+	;thay vì -- (1) ​in the place of somebody/something
+		;We just had soup instead of a full meal.
+		;Now I can walk to work instead of going by car.
 	;;
 
 
