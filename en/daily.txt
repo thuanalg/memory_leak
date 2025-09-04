@@ -623,3 +623,4 @@ D:\reserach\serialmodule\build\Debug\simplelog.cfg
 stm32f4_discovery.*
 
 lis302dl.*
+I_AM_LIS302DL
