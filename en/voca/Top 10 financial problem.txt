@@ -684,3 +684,64 @@ Các thuật toán này thường được sử dụng trong kết hợp với n
 ==============================================================================================================================
 Top 10 thuật toán trong ngành tài chính, ngân hàng và chứng khoán.
 Top 10 algorithms of finance, accountant, banking, stock.
+
+
+
+
+TÌM KIẾM GIỚI HẠN - FIND A LIMITATION
+
+Đi xa hơn 1 chút bài post trước về C/C++ ( can do, cannot do,) liệu chúng ta có thể tìm kiếm tốc độ giới hạn của một logger hay không? Đặc biệt dành cho multi-process logger. 
+
+Tôi nhấn mạnh ở bài post trước, một logger thuần C++ như Boost hay spdlog KHÔNG THỂ LÀ một multi-process logger tốt. Ở đây tôi đưa ra nhưng có số cụ thể mà đo đạt được. Bạn cần kiểm chứng cho chính bạn để bảo đảm tính khách quan, nếu có sai sót hay nghi ngờ về sự trung thực, ta sẽ bàn ở đây.
+
+Chúng ta đều biết tốc độ ghi của ổ cứng có giới hạn, ví dụ 500MB/s, dù logger có tốt thế nào đi nữa cũng bị chận trên ở đây. Nhưng liệu chúng ta có thể đạt mức tiệm cận, từ 90% trở lên hay không?
+
+Các số liệu cực đại (lấy từ: https://github.com/thuanalg/simplelog-challenge/blob/main/src/linux/fork_test.txt):
+	
+	======================================
+		- 1 master-process
+		- 4 writer-processes (fork(); fork();)
+		- 10 threads for 1 writer-process.
+		- 40(forty) million records.
+	======================================
+		40M records
+		67.345 - 57.741 = 9.604, 2.401 for 10M, Speed: 4.164931279 M records a second
+		Size: (2000422560 + 2000280420 + 714856448) = 4,715,559,428 = 4497.107913971 MB 
+		Speed: 468 MB/s (Tốc độ giới hạn ở cứng là: 500MB/s , Device Model:     CT500BX500SSD1)
+	======================================
+		40M records
+		64.014679633 - 54.451305280 = 9.563374353, 2.390843588 ~ 2.4 for 10M, Speed: 4.182624096 M records a second
+		Size: (2000135464 + 2000394526 + 715030830) = 4,715,560,820 = 4497.109241486 MB 
+		Speed: 470 MB/s (Tốc độ giới hạn ở cứng là: 500MB/s , Device Model:     CT500BX500SSD1)
+	======================================
+	
+Dự theo số liệu này, có thể chứng minh việc xây dựng một multi-process logger tiệm cận với tốc độ cực đại ( 90-100% tốc độ ghi ở cứng) là khả thi. Tất nhiên nó còn phụ thuộc vào OS, phần cứng, CPU, ... Nhưng có 1 ví dụ là chắc chắn. 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Going a little further from the previous post about C/C++ (can do, cannot do,) can we find the speed limit of a logger? Especially for multi-process loggers.
+
+I emphasized in the previous post, a pure C++ logger like Boost or spdlog CANNOT BE a good multi-process logger. Here I give specific numbers that can be measured. You need to verify for yourself to ensure objectivity, if there are errors or doubts about honesty, we will discuss here.
+
+We all know that the write speed of a hard drive has a limit, for example 500MB/s, no matter how good the logger is, it will be limited here. But can we reach asymptotic levels, from 90% or more?
+
+Maximum numbers (taken from: https://github.com/thuanalg/simplelog-challenge/blob/main/src/linux/fork_test.txt):
+
+	======================================
+		- 1 master-process
+		- 4 writer-processes (fork(); fork();)
+		- 10 threads for 1 writer-process.
+		- 40(forty) million records.
+	======================================
+		40M records
+		67.345 - 57.741 = 9.604, 2.401 for 10M, Speed: 4.164931279 M records a second
+		Size: (2000422560 + 2000280420 + 714856448) = 4,715,559,428 = 4497.107913971 MB
+		Speed: 468 MB/s (The hard drive speed limit is: 500MB/s, Device Model: CT500BX500SSD1)
+	======================================
+		40M records
+		64.014679633 - 54.451305280 = 9.563374353, 2.390843588 ~ 2.4 for 10M, Speed: 4.182624096 M records a second
+		Size: (2000135464 + 2000394526 + 715030830) = 4,715,560,820 = 4497.109241486 MB
+		Speed: 470 MB/s (Hard speed limit: 500MB/s, Device Model: CT500BX500SSD1)
+	===========================================================================
+
+Based on this data, it can be proven that building a multi-process logger that approaches the maximum speed (90-100% of the hard drive write speed) is feasible. Of course it also depends on the OS, hardware, CPU, ... But there is one example that is certain.
