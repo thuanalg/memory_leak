@@ -624,3 +624,6 @@ stm32f4_discovery.*
 
 lis302dl.*
 I_AM_LIS302DL
+
+LIS3DSHTR + When I'm sending INFO_1 (0x8D) I should receive 0x21, but info1 value is 0x3F.
+
