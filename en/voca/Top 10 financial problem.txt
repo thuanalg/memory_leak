@@ -690,33 +690,34 @@ Top 10 algorithms of finance, accountant, banking, stock.
 
 									TÌM KIẾM GIỚI HẠN - FIND A LIMITATION
 
-Đi xa hơn 1 chút bài post trước về C/C++ ( C can do, C++ cannot do) tìm kiếm tốc độ giới hạn của một logger; đặc biệt dành cho multi-process logger. 
+Đi xa hơn 1 chút bài post trước (*)  về C/C++ ( C can do, C++ cannot do) tìm kiếm tốc độ giới hạn của một logger; đặc biệt dành cho multi-process logger. 
 
-Tôi nhấn mạnh ở bài post trước, một logger thuần C++ KHÔNG THỂ LÀ một multi-process logger tốt. Ở đây tôi đưa ra nhưng có số cụ thể mà đo đạt được. Bạn cần kiểm chứng cho chính bạn để bảo đảm tính khách quan, nếu có sai sót hay nghi ngờ về sự trung thực, ta sẽ bàn ở đây (***).
+Tôi nhấn mạnh ở bài post trước, một logger thuần C++ KHÔNG THỂ LÀ một multi-process logger tốt. Ở đây tôi đưa ra nhưng có số cụ thể mà đo đạt được. Bạn cần kiểm chứng cho chính bạn để bảo đảm tính khách quan, nếu có sai sót hay nghi ngờ về sự trung thực, ta sẽ bàn ở đây (**).
 
 Chúng ta đều biết tốc độ ghi của ổ cứng có giới hạn, ví dụ 500MB/s, dù logger có tốt thế nào đi nữa cũng bị chận trên ở đây. Nhưng liệu chúng ta có thể đạt mức tiệm cận, từ 90% trở lên hay không?
 
-(***) ...
+(**) ...
 
-Dự theo số liệu này, có thể chứng minh việc xây dựng một multi-process logger tiệm cận với tốc độ cực đại ( 90-100% tốc độ ghi ở cứng) là khả thi. Việc này phụ thuộc vào OS, phần cứng, CPU, ... Nhưng có 1 ví dụ là chắc chắn. 
+Dự theo số liệu này, có thể chứng minh việc xây dựng một multi-process logger tiệm cận với tốc độ cực đại ( 90-100% tốc độ ghi ở cứng) là khả thi. Việc này phụ thuộc vào OS, phần cứng, CPU, ... Vâng, có một. 
 
 
 ===================================
 
 
-This is the next post about C/C++ ( C can do, C++ cannot do); finding the speedy limitation of a logger? Especially for multi-process loggers.
+This is the next post of (*) about C/C++ ( C can do, C++ cannot do): Finding the speedy limit of a logger? Especially for multi-process loggers.
 
-I emphasized in the previous post, a pure C++ logger CANNOT BE a good multi-process logger. Here I give specific numbers that can be measured. You need to verify for yourself to ensure objectivity, if there are errors or doubts about honesty, we will discuss here (***).
+I emphasized in the previous post (*), a pure C++ logger CANNOT BE a good multi-process logger. Here I give specific numbers (**) that could be measured. You yourself need to verify to ensure objectivity, if there are errors or doubts about honesty, we will discuss here.
 
-We all know that the write speed of a hard drive has a limit, for example 500MB/s, no matter how good the logger is, it will be limited here. But can we reach close to the limitation, from 90% or more?
+We all know that the write speed of a hard drive has an upper limit, for example 500MB/s, no matter how good the logger is, it will be limited here. But can we reach close to the limitation, from 90% or more?
 
-(***) ...
+(**) ...
 
-Based on this data, it can be proven that building a multi-process logger that approaches the maximum speed (90-100% of the hard drive write speed) is feasible. Of course it also depends on the OS, hardware, CPU, ... But there is one example that is certain.
+Based on this data, it can be proven that building a multi-process logger that approaches the maximum speed (90-100% of the hard drive write speed) is feasible. Of course it also depends on the OS, hardware, CPU, ... Yes, there is one.
 
 ==============================================================================================================================
+(*) Previous post: https://www.linkedin.com/posts/thuan-nguyen-thai-62571763_cc-c-l%C3%A0m-%C4%91%C6%B0%E1%BB%A3c-nh%C6%B0ng-c-kh%C3%B4ng-th%E1%BA%BF-l%C3%A0m-activity-7366303486344364032-WJA0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA10R70B9D8ttiDb7Ff45-7Ml1DJccL_CDk
 
-(***) Số liệu (measured data): https://github.com/thuanalg/simplelog-challenge/blob/main/src/linux/fork_test.txt
+(**) Số liệu (measured data): https://github.com/thuanalg/simplelog-challenge/blob/main/src/linux/fork_test.txt
 	======================================
 		- 1 master-process
 		- 4 writer-processes (fork(); fork();)
