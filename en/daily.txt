@@ -627,4 +627,22 @@ I_AM_LIS302DL
 
 LIS3DSHTR + When I'm sending INFO_1 (0x8D) I should receive 0x21, but info1 value is 0x3F.
 
+SEMICONDUCTOR PHYSICS AND DEVICES
 
+History of Semiconductor Engineering - Short
+
+
+0xF0 >> 8 ?
+
+Crystal Fire - The Birth of the Information Age 
+
+- Embedded Software Architect
+- Embedded Software Developer
+- Linux C++ Developer
+- Embedded C++ Developer
+
+AURIX , XMC1000/4000
+
+COM4
+D:\reserach\serialmodule\build\Debug\simplelog.cfg
+https://github.com/PaxInstruments/STM32CubeF4
