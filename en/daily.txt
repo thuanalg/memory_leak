@@ -643,6 +643,12 @@ Crystal Fire - The Birth of the Information Age
 
 AURIX , XMC1000/4000
 
+cmake -G "Visual Studio 17 2022" -B build
+cmake .. -G "Visual Studio 17 2022" 
+
+
 COM4
 D:\reserach\serialmodule\build\Debug\simplelog.cfg
 https://github.com/PaxInstruments/STM32CubeF4
+
+./configure --enable-shared --enable-gpl --enable-libx264 --enable-libx265 --enable-openssl --enable-version3 --enable-openal
