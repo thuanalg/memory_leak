@@ -262,7 +262,7 @@ Here are **common Linux Embedded Interview Questions**, grouped by topic and dif
 
 * Answer: Maps files or devices into memory. Often used for sharing memory between processes or accessing hardware registers.
 
-### 13. What are real-time patches (PREEMPT\_RT) in Linux?
+### 13. What are real-time patches (PREEMPT/_RT) in Linux?
 
 * Answer: Enhances Linux kernel's ability to meet real-time constraints by reducing latencies.
 
@@ -438,7 +438,7 @@ Hãy nêu 30 lớp std:: dùng phổ biến trong C++20, dùng nhiều nhất nh
 | ---------------------------------------------------------------------------- | ------------------- | ------------------------ |
 | 🧠 Làm sao bạn thiết kế hệ thống Geocoder từ địa chỉ → tọa độ?               | Kiến trúc tổng thể  | Hash map, database       |
 | 📌 Tìm địa điểm gần nhất trong bản đồ như thế nào?                           | Tìm kiếm không gian | K-D Tree, R-Tree         |
-| 📌 Làm sao cài thuật toán Dijkstra/A\* trong bản đồ?                         | Tìm đường đi        | Graph                    |
+| 📌 Làm sao cài thuật toán Dijkstra/A/* trong bản đồ?                         | Tìm đường đi        | Graph                    |
 | 📌 Dữ liệu địa lý rất lớn, bạn sẽ tối ưu ra sao?                             | Hiệu năng           | Index, Memory            |
 | 🧠 Cấu trúc nào phù hợp để lưu dữ liệu địa điểm (city, address, coord)?      | Design              | Class + Trie/map         |
 | 📌 Làm sao so khớp chuỗi địa chỉ gần đúng (e.g., "Hanoi", "Hà Nội")?         | Fuzzy matching      | Levenshtein, BK-Tree     |
@@ -573,14 +573,14 @@ int main(void)
     LIS_Init();
 
     uint8_t id = LIS_WhoAmI();
-    printf("WHO_AM_I = 0x%X\r\n", id); // Phải ra 0x3B
+    printf("WHO_AM_I = 0x%X/r/n", id); // Phải ra 0x3B
 
     int8_t x, y, z;
 
     while(1)
     {
         LIS_ReadXYZ(&x, &y, &z);
-        printf("X=%d, Y=%d, Z=%d\r\n", x, y, z);
+        printf("X=%d, Y=%d, Z=%d/r/n", x, y, z);
         HAL_Delay(100);
     }
 }
@@ -619,7 +619,7 @@ Vui vui suy tầm, tự điển ngược:
 - Bạn thân: thân ai nấy lo.
 
 COM4
-D:\reserach\serialmodule\build\Debug\simplelog.cfg
+D:/reserach/serialmodule/build/Debug/simplelog.cfg
 stm32f4_discovery.*
 
 lis302dl.*
@@ -648,7 +648,25 @@ cmake .. -G "Visual Studio 17 2022"
 
 
 COM4
-D:\reserach\serialmodule\build\Debug\simplelog.cfg
+D:/reserach/serialmodule/build/Debug/simplelog.cfg
 https://github.com/PaxInstruments/STM32CubeF4
+make > zzmake.txt 2>&1
 
 ./configure --enable-shared --enable-gpl --enable-libx264 --enable-libx265 --enable-openssl --enable-version3 --enable-openal
+
+/d/x/algorithms_net/xffmpeg
+
+/d/x/ffmpeg64/FFmpeg
+undefined reference to `av_dict_set'
+
+D:/ProgramFiles/msys64/usr/local/include
+$(SolutionDir)/lib/static
+avcodec.lib;avformat.lib;swscale.lib;avfilter.lib;avdevice.lib;avutil.lib
+
+meson setup builddir --prefix="/D/x/algorithms_net/xgstream/gstream-win64" --buildtype=release -Ddefault_library=shared
+ https://github.com/mesonbuild/wrapdb/releases/download/pcre2_10.44-2/pcre2-10.44.tar.bz2
+ 
+/D/x/meson/meson.py
+
+meson setup builddir --prefix="/D/x/xgstream/gstream-win64" --buildtype=release -Ddefault_library=shared
+gthread-2.0.lib;gstreamer-1.0.lib;
