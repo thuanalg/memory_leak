@@ -670,3 +670,15 @@ meson setup builddir --prefix="/D/x/algorithms_net/xgstream/gstream-win64" --bui
 
 meson setup builddir --prefix="/D/x/xgstream/gstream-win64" --buildtype=release -Ddefault_library=shared
 gthread-2.0.lib;gstreamer-1.0.lib;
+	char rts; Ready to Send (RTS)
+Clear To Send / Ready To Receive
+dtr
+
+git diff e1e91339d62db5964bd47a93a0574bc6af87c3da 0a0538b2d96179d1b8cd49caf87b728c18b3a998
+
+git commit -m "Add verifing tool."; git push origin main
+git commit -m "Apply for MSYS2."; git push origin main
+
+./configure --enable-shared --enable-gpl --enable-libx264 --enable-libx265 --enable-openssl --enable-version3 --enable-openal --enable-pthreads --disable-w32threads --enable-libopus
+
+'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
