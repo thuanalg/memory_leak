@@ -679,6 +679,28 @@ git diff e1e91339d62db5964bd47a93a0574bc6af87c3da 0a0538b2d96179d1b8cd49caf87b72
 git commit -m "Add verifing tool."; git push origin main
 git commit -m "Apply for MSYS2."; git push origin main
 
-./configure --enable-shared --enable-gpl --enable-libx264 --enable-libx265 --enable-openssl --enable-version3 --enable-openal --enable-pthreads --disable-w32threads --enable-libopus
+./configure --enable-debug=3 --disable-stripping --disable-optimizations --enable-shared --enable-gpl --enable-libx264 --enable-libx265 --enable-openssl --enable-version3 --enable-openal --enable-pthreads --disable-w32threads --enable-libopus --enable-sdl2
+ > zzcfg-simplelog-250925.txt 2>&1
 
 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+
+[aac @ 000001c967cf8400] Invalid audio sample format: -1
+[2025-09-24 17:00:41.136517974] [simplelog.c:spl_calculate_size:2136] [thid: 26164] buf size: 200000, mtxsize: 0, semsize: 0
+[aac @ 000001ce3dbf8740] nb_samples (22050) > frame_size (1024)
+[dshow @ 000001ce3c2ecb80] real-time buffer [Integrated Webcam] [video input] too full or near too full (101% of size: 3041280 [rtbufsize parameter])! frame dropped!
+
+D:\x\algorithms_net\xffmpeg\ffmpeg\x64\Debug\audio_video_record.exe (process 25504) exited with code 24 (0x18).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+./ffmpeg -f dshow -i video="Integrated Webcam":audio="Microphone (2- Realtek(R) Audio)" -c:v libx264 -preset ultrafast -tune zerolatency -c:a aac -b:a 128k output.mp4
+
+./ffmpeg -f dshow -i video="Integrated Webcam":audio="Microphone (2- Realtek(R) Audio)" -t 00:01:00 -c:v libx264 -preset ultrafast -tune zerolatency -c:a aac -b:a 128k output_02.mp4 
+
+gdb --args ./ffmpeg -f dshow -i video="Integrated Webcam":audio="Microphone (2- Realtek(R) Audio)" -t 00:01:00 -c:v libx264 -preset ultrafast -tune zerolatency -c:a aac -b:a 128k output_03.mp4 
+gdb --args ./ffmpeg_g.exe -f dshow -i video="Integrated Webcam":audio="Microphone (2- Realtek(R) Audio)" -t 00:00:10 -c:v libx264 -preset ultrafast -tune zerolatency -c:a aac -b:a 128k output_04.mp4 
+
+make > zzbuil-simplelog-250925.txt 2>&1
+
+./configure --enable-debug=3 --disable-stripping --disable-optimizations --enable-shared --enable-gpl --enable-libx264 --enable-libx265 --enable-openssl --enable-version3 --enable-openal --enable-pthreads --disable-w32threads --enable-libopus --enable-sdl2 > zzcfg-simplelog-250925.txt 2>&1
