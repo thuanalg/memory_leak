@@ -699,8 +699,15 @@ Press any key to close this window . . .
 ./ffmpeg -f dshow -i video="Integrated Webcam":audio="Microphone (2- Realtek(R) Audio)" -t 00:01:00 -c:v libx264 -preset ultrafast -tune zerolatency -c:a aac -b:a 128k output_02.mp4 
 
 gdb --args ./ffmpeg -f dshow -i video="Integrated Webcam":audio="Microphone (2- Realtek(R) Audio)" -t 00:01:00 -c:v libx264 -preset ultrafast -tune zerolatency -c:a aac -b:a 128k output_03.mp4 
-gdb --args ./ffmpeg_g.exe -f dshow -i video="Integrated Webcam":audio="Microphone (2- Realtek(R) Audio)" -t 00:00:10 -c:v libx264 -preset ultrafast -tune zerolatency -c:a aac -b:a 128k output_04.mp4 
+
+
+gdb --args ./ffmpeg_g.exe -f dshow -i video="Integrated Webcam":audio="Microphone (2- Realtek(R) Audio)" -t 00:00:7 -c:v libx264 -preset ultrafast -tune zerolatency -c:a aac -b:a 128k output_04.mp4 
 
 make > zzbuil-simplelog-250925.txt 2>&1
 
 ./configure --enable-debug=3 --disable-stripping --disable-optimizations --enable-shared --enable-gpl --enable-libx264 --enable-libx265 --enable-openssl --enable-version3 --enable-openal --enable-pthreads --disable-w32threads --enable-libopus --enable-sdl2 > zzcfg-simplelog-250925.txt 2>&1
+
+ too full or near too full 
+ 
+av_read_frame, avcodec_send_packet, 
+avcodec_receive_frame, avcodec_send_frame, avcodec_receive_packet, av_packet_rescale_ts, av_interleaved_write_frame
