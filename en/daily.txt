@@ -755,100 +755,6 @@ readindex = av_read_frame(fctx, &pkt);
 gdb --args ./ffmpeg_g.exe -f dshow -i video="Integrated Webcam":audio="Microphone (2- Realtek(R) Audio)" -t 00:00:07 -c:v libx264 -preset ultrafast -tune zerolatency -c:a aac -b:a 128k output_05.mp4 
 
 
-(gdb) p *ctx
-$1 = {av_class = 0x7ffd854c2860 <av_codec_context_class>, log_level_offset = 0, codec_type = AVMEDIA_TYPE_VIDEO, codec = 0x7ffd85434100 <ff_libx264_encoder>, codec_id = AV_CODEC_ID_H264,
-  codec_tag = 0, priv_data = 0x684d00, internal = 0x686040, opaque = 0x0, bit_rate = 400000, flags = -2143289344, flags2 = 0, extradata = 0xdd3f280 "", extradata_size = 39, time_base = {num = 1,
-    den = 25}, pkt_timebase = {num = 0, den = 1}, framerate = {num = 25, den = 1}, delay = 0, width = 1920, height = 1080, coded_width = 1920, coded_height = 1080, sample_aspect_ratio = {num = 0,
-    den = 1}, pix_fmt = AV_PIX_FMT_YUV420P, sw_pix_fmt = AV_PIX_FMT_NONE, color_primaries = AVCOL_PRI_UNSPECIFIED, color_trc = AVCOL_TRC_UNSPECIFIED, colorspace = AVCOL_SPC_UNSPECIFIED,
-  color_range = AVCOL_RANGE_UNSPECIFIED, chroma_sample_location = AVCHROMA_LOC_UNSPECIFIED, field_order = AV_FIELD_UNKNOWN, refs = -1, has_b_frames = 2, slice_flags = 0, draw_horiz_band = 0x0,
-  get_format = 0x7ffd84699da3 <avcodec_default_get_format>, max_b_frames = 1, b_quant_factor = -1, b_quant_offset = 1.25, i_quant_factor = -1, i_quant_offset = 0, lumi_masking = 0,
-  temporal_cplx_masking = 0, spatial_cplx_masking = 0, p_masking = 0, dark_masking = 0, nsse_weight = 8, me_cmp = -1, me_sub_cmp = 0, mb_cmp = 0, ildct_cmp = 8, dia_size = 0,
-  last_predictor_count = 0, me_pre_cmp = 0, pre_dia_size = 0, me_subpel_quality = -1, me_range = -1, mb_decision = 0, intra_matrix = 0x0, inter_matrix = 0x0, chroma_intra_matrix = 0x0,
-  intra_dc_precision = 0, mb_lmin = 236, mb_lmax = 3658, bidir_refine = 1, keyint_min = -1, gop_size = 10, mv0_threshold = 256, slices = 0, sample_rate = 0, sample_fmt = AV_SAMPLE_FMT_NONE,
-  ch_layout = {order = AV_CHANNEL_ORDER_UNSPEC, nb_channels = 0, u = {mask = 0, map = 0x0}, opaque = 0x0}, frame_size = 0, block_align = 0, cutoff = 0,
-  audio_service_type = AV_AUDIO_SERVICE_TYPE_MAIN, request_sample_fmt = AV_SAMPLE_FMT_U8, initial_padding = 0, trailing_padding = 0, seek_preroll = 0,
-  get_buffer2 = 0x7ffd847dea78 <avcodec_default_get_buffer2>, bit_rate_tolerance = 4000000, global_quality = 0, compression_level = -1, qcompress = -1, qblur = -1, qmin = -1, qmax = -1,
-  max_qdiff = -1, rc_buffer_size = 0, rc_override_count = 0, rc_override = 0x0, rc_max_rate = 0, rc_min_rate = 0, rc_max_available_vbv_use = 0, rc_min_vbv_overflow_use = 3,
-  rc_initial_buffer_occupancy = -1, trellis = -1, stats_out = 0x0, stats_in = 0x0, workaround_bugs = 1, strict_std_compliance = 0, error_concealment = 3, debug = 0, err_recognition = 0,
-  hwaccel = 0x0, hwaccel_context = 0x0, hw_frames_ctx = 0x0, hw_device_ctx = 0x0, hwaccel_flags = 1, extra_hw_frames = -1, error = {0, 0, 0, 0, 0, 0, 0, 0}, dct_algo = 0, idct_algo = 0,
-  bits_per_coded_sample = 0, bits_per_raw_sample = 0, thread_count = 0, thread_type = 0, active_thread_type = 0, execute = 0x7ffd8452361b <avcodec_default_execute>,
-  execute2 = 0x7ffd845236b4 <avcodec_default_execute2>, profile = -99, level = -99, properties = 0, skip_loop_filter = AVDISCARD_DEFAULT, skip_idct = AVDISCARD_DEFAULT,
-  skip_frame = AVDISCARD_DEFAULT, skip_alpha = 0, skip_top = 0, skip_bottom = 0, lowres = 0, codec_descriptor = 0x7ffd85385a00 <codec_descriptors+1248>, sub_charenc = 0x0, sub_charenc_mode = 0,
-  subtitle_header_size = 0, subtitle_header = 0x0, dump_separator = 0x0, codec_whitelist = 0x0, coded_side_data = 0x74ee80, nb_coded_side_data = 1, export_side_data = 0, max_pixels = 2147483647,
-  apply_cropping = 1, discard_damaged_percentage = 95, max_samples = 0, get_encode_buffer = 0x7ffd8471db6e <avcodec_default_get_encode_buffer>, frame_num = 0, side_data_prefer_packet = 0x0,
-  nb_side_data_prefer_packet = 0, decoded_side_data = 0x0, nb_decoded_side_data = 0, alpha_mode = AVALPHA_MODE_UNSPECIFIED}
-(gdb)
-
-
-(gdb) p *ctx
-$1 = {av_class = 0x7ffd7e112860 <av_codec_context_class>, log_level_offset = 0, codec_type = AVMEDIA_TYPE_VIDEO, codec = 0x7ffd7e084100 <ff_libx264_encoder>, codec_id = AV_CODEC_ID_H264,
-  codec_tag = 0, priv_data = 0x2793e80, internal = 0x285a740, opaque = 0x0, bit_rate = 0, flags = -2143288960, flags2 = 0, extradata = 0x17bd78c0 "", extradata_size = 35, time_base = {num = 333333,
-    den = 10000000}, pkt_timebase = {num = 0, den = 1}, framerate = {num = 10000000, den = 333333}, delay = 0, width = 1920, height = 1080, coded_width = 1920, coded_height = 1080,
-  sample_aspect_ratio = {num = 0, den = 1}, pix_fmt = AV_PIX_FMT_YUV422P, sw_pix_fmt = AV_PIX_FMT_NONE, color_primaries = AVCOL_PRI_UNSPECIFIED, color_trc = AVCOL_TRC_UNSPECIFIED,
-  colorspace = AVCOL_SPC_UNSPECIFIED, color_range = AVCOL_RANGE_MPEG, chroma_sample_location = AVCHROMA_LOC_UNSPECIFIED, field_order = AV_FIELD_PROGRESSIVE, refs = -1, has_b_frames = 0,
-  slice_flags = 0, draw_horiz_band = 0x0, get_format = 0x7ffd7d2e9da3 <avcodec_default_get_format>, max_b_frames = 0, b_quant_factor = -1, b_quant_offset = 1.25, i_quant_factor = -1,
-  i_quant_offset = 0, lumi_masking = 0, temporal_cplx_masking = 0, spatial_cplx_masking = 0, p_masking = 0, dark_masking = 0, nsse_weight = 8, me_cmp = -1, me_sub_cmp = 0, mb_cmp = 0, ildct_cmp = 8,
-  dia_size = 0, last_predictor_count = 0, me_pre_cmp = 0, pre_dia_size = 0, me_subpel_quality = -1, me_range = -1, mb_decision = 0, intra_matrix = 0x0, inter_matrix = 0x0, chroma_intra_matrix = 0x0,
-  intra_dc_precision = 0, mb_lmin = 236, mb_lmax = 3658, bidir_refine = 1, keyint_min = -1, gop_size = -1, mv0_threshold = 256, slices = 0, sample_rate = 0, sample_fmt = AV_SAMPLE_FMT_NONE,
-  ch_layout = {order = AV_CHANNEL_ORDER_UNSPEC, nb_channels = 0, u = {mask = 0, map = 0x0}, opaque = 0x0}, frame_size = 0, block_align = 0, cutoff = 0,
-  audio_service_type = AV_AUDIO_SERVICE_TYPE_MAIN, request_sample_fmt = AV_SAMPLE_FMT_U8, initial_padding = 0, trailing_padding = 0, seek_preroll = 0,
-  get_buffer2 = 0x7ffd7d42ea78 <avcodec_default_get_buffer2>, bit_rate_tolerance = 4000000, global_quality = 0, compression_level = -1, qcompress = -1, qblur = -1, qmin = -1, qmax = -1,
-  max_qdiff = -1, rc_buffer_size = 0, rc_override_count = 0, rc_override = 0x0, rc_max_rate = 0, rc_min_rate = 0, rc_max_available_vbv_use = 0, rc_min_vbv_overflow_use = 3,
-  rc_initial_buffer_occupancy = -1, trellis = -1, stats_out = 0x0, stats_in = 0x0, workaround_bugs = 1, strict_std_compliance = 0, error_concealment = 3, debug = 0, err_recognition = 0,
-  hwaccel = 0x0, hwaccel_context = 0x0, hw_frames_ctx = 0x0, hw_device_ctx = 0x0, hwaccel_flags = 1, extra_hw_frames = -1, error = {0, 0, 0, 0, 0, 0, 0, 0}, dct_algo = 0, idct_algo = 0,
-  bits_per_coded_sample = 0, bits_per_raw_sample = 0, thread_count = 0, thread_type = 0, active_thread_type = 0, execute = 0x7ffd7d17361b <avcodec_default_execute>,
-  execute2 = 0x7ffd7d1736b4 <avcodec_default_execute2>, profile = -99, level = -99, properties = 0, skip_loop_filter = AVDISCARD_DEFAULT, skip_idct = AVDISCARD_DEFAULT,
-  skip_frame = AVDISCARD_DEFAULT, skip_alpha = 0, skip_top = 0, skip_bottom = 0, lowres = 0, codec_descriptor = 0x7ffd7dfd5a00 <codec_descriptors+1248>, sub_charenc = 0x0, sub_charenc_mode = 0,
-  subtitle_header_size = 0, subtitle_header = 0x0, dump_separator = 0x0, codec_whitelist = 0x0, coded_side_data = 0x10f2ef40, nb_coded_side_data = 1, export_side_data = 0, max_pixels = 2147483647,
-  apply_cropping = 1, discard_damaged_percentage = 95, max_samples = 0, get_encode_buffer = 0x7ffd7d36db6e <avcodec_default_get_encode_buffer>, frame_num = 0, side_data_prefer_packet = 0x0,
-  nb_side_data_prefer_packet = 0, decoded_side_data = 0x0, nb_decoded_side_data = 0, alpha_mode = AVALPHA_MODE_UNSPECIFIED}
-(gdb)
-
-so sánh giúp tao, cái trên là sai, dưới là đúng
-
-
-(gdb) p *pkt
-$3 = {buf = 0x0, pts = -9223372036854775808, dts = -9223372036854775808, data = 0x0, size = 0, stream_index = 0, flags = 0, side_data = 0x0, side_data_elems = 0, duration = 0, pos = -1, opaque = 0x0,
-  opaque_ref = 0x0, time_base = {num = 0, den = 1}}
-(gdb)
-
-
-
-(gdb) p *pkt
-$2 = {buf = 0x0, pts = -9223372036854775808, dts = -9223372036854775808, data = 0x0, size = 0, stream_index = 0, flags = 0, side_data = 0x0, side_data_elems = 0, duration = 0, pos = -1, opaque = 0x0,
-  opaque_ref = 0x0, time_base = {num = 0, den = 1}}
-(gdb)
-
-
-
-
-
-so sánh giúp tao, cái trên là sai, dưới là đúng
-
-(gdb) p *frame
-$2 = {data = {0xe087080 "", 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}, linesize = {3840, 0, 0, 0, 0, 0, 0, 0}, extended_data = 0x686440, width = 1920, height = 1080, nb_samples = 0, format = 0,
-  pict_type = AV_PICTURE_TYPE_I, sample_aspect_ratio = {num = 0, den = 1}, pts = 1627766434432, pkt_dts = 1627766434432, time_base = {num = 0, den = 1}, quality = 0, opaque = 0x0, repeat_pict = 0,
-  sample_rate = 0, buf = {0x669680, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}, extended_buf = 0x0, nb_extended_buf = 0, side_data = 0x0, nb_side_data = 0, flags = 2, color_range = AVCOL_RANGE_UNSPECIFIED,
-  color_primaries = AVCOL_PRI_UNSPECIFIED, color_trc = AVCOL_TRC_UNSPECIFIED, colorspace = AVCOL_SPC_UNSPECIFIED, chroma_location = AVCHROMA_LOC_UNSPECIFIED, best_effort_timestamp = 1627766434432,
-  metadata = 0x0, decode_error_flags = 0, hw_frames_ctx = 0x0, opaque_ref = 0x0, crop_top = 0, crop_bottom = 0, crop_left = 0, crop_right = 0, private_ref = 0x0, ch_layout = {
-    order = AV_CHANNEL_ORDER_UNSPEC, nb_channels = 0, u = {mask = 0, map = 0x0}, opaque = 0x0}, duration = 0, alpha_mode = AVALPHA_MODE_UNSPECIFIED}
-(gdb)
-
-(gdb) p *frame
-$3 = {data = {
-    0x10933080 "FFFFGGGGFFEEEEFGEDDCCDDDEEFGHIJJLMNMJIHIDDBA?=967655556678877;BHNQUVRPPQRVY[[Z[[\\[[[ZZZZXWVVWY\\]cfjnpty{~äåäéâààçççååäâé\201\201\200\200\177\200\200\200äàåååâ\200~{{{|~\200éä\201uINSJ[JNNONKJIIz~éé\200}\177\200àååååäé\201\200~zxwwyzzzz|~\200\201âåååååçëè"...,
-    0xcf42000 "\177\177\177\177\177\177\177\177~~~~~~~~", '\177' <repeats 16 times>, "~~\177\177\200\200\201\201", 'é' <repeats 16 times>, 'â' <repeats 16 times>, 'é' <repeats 32 times>, "~~~~~~~~\177\177\177\177\177\177\177\177~~~~~~~~\201\201\201ééââä\201\201\201\201\201\201\201\201éééééééé}}}}}}}}", '|' <repeats 24 times>, "}}}}}}}}||||||||"...,
-    0x10b300c0 'é' <repeats 32 times>, "\201\201\200\200\177\177", '~' <repeats 12 times>, "}}", '|' <repeats 12 times>, "zzzzzzzz||||||||{{{{{{{{zzzzzzzzzz|}\177\201âäààäâé\200\177\177\177\177\177\177\177\177\177\177~~\177\177\200\200\201\201éé\201\201\200\200\177\177~~~~~~~~{{{{}\200âäçççççççç", 'à' <repeats 16 times>, 'ä' <repeats 24 times>..., 0x0, 0x0, 0x0, 0x0, 0x0}, linesize = {1920, 960,
-    960, 0, 0, 0, 0, 0}, extended_data = 0x286de40, width = 1920, height = 1080, nb_samples = 0, format = 4, pict_type = AV_PICTURE_TYPE_NONE, sample_aspect_ratio = {num = 0, den = 1}, pts = 0,
-  pkt_dts = -4, time_base = {num = 333333, den = 10000000}, quality = 0, opaque = 0x0, repeat_pict = 0, sample_rate = 0, buf = {0x17bfb5c0, 0x17bfb640, 0x17bfb700, 0x0, 0x0, 0x0, 0x0, 0x0},
-  extended_buf = 0x0, nb_extended_buf = 0, side_data = 0x0, nb_side_data = 0, flags = 2, color_range = AVCOL_RANGE_MPEG, color_primaries = AVCOL_PRI_UNSPECIFIED, color_trc = AVCOL_TRC_UNSPECIFIED,
-  colorspace = AVCOL_SPC_UNSPECIFIED, chroma_location = AVCHROMA_LOC_UNSPECIFIED, best_effort_timestamp = -4, metadata = 0x0, decode_error_flags = 0, hw_frames_ctx = 0x0, opaque_ref = 0x282c4c0,
-  crop_top = 0, crop_bottom = 0, crop_left = 0, crop_right = 0, private_ref = 0x0, ch_layout = {order = AV_CHANNEL_ORDER_UNSPEC, nb_channels = 0, u = {mask = 0, map = 0x0}, opaque = 0x0},
-  duration = 1, alpha_mode = AVALPHA_MODE_UNSPECIFIED}
-(gdb)
-
-
-
 
 (gdb) p *got_packet
 $4 = 0
@@ -869,11 +775,11 @@ Thread 51 "enc0:1:aac" hit Breakpoint 3, avcodec_send_frame (avctx=0xdeae40, fra
 #2  0x00007ff6d6b19ffb in frame_encode (ost=0xdea000, frame=0xda913c0, pkt=0xe918c0) at fftools/ffmpeg_enc.c:828
 #3  0x00007ff6d6b1ac37 in encoder_thread (arg=0xdea000) at fftools/ffmpeg_enc.c:915
 #4  0x00007ff6d6b3f54f in task_wrapper (arg=0xdea720) at fftools/ffmpeg_sched.c:2534
-#5  0x00007ffeab4766fb in ?? () from D:\ProgramFiles\msys64\mingw64\bin\libwinpthread-1.dll
-#6  0x00007ffeca5df0ad in msvcrt!_beginthreadex () from C:\WINDOWS\System32\msvcrt.dll
-#7  0x00007ffeca5df17c in msvcrt!_endthreadex () from C:\WINDOWS\System32\msvcrt.dll
-#8  0x00007ffecadde8d7 in KERNEL32!BaseThreadInitThunk () from C:\WINDOWS\System32\kernel32.dll
-#9  0x00007ffecc728d9c in ntdll!RtlUserThreadStart () from C:\WINDOWS\SYSTEM32\ntdll.dll
+#5  0x00007ffeab4766fb in ?? () from D:/ProgramFiles/msys64/mingw64/bin/libwinpthread-1.dll
+#6  0x00007ffeca5df0ad in msvcrt!_beginthreadex () from C:/WINDOWS/System32/msvcrt.dll
+#7  0x00007ffeca5df17c in msvcrt!_endthreadex () from C:/WINDOWS/System32/msvcrt.dll
+#8  0x00007ffecadde8d7 in KERNEL32!BaseThreadInitThunk () from C:/WINDOWS/System32/kernel32.dll
+#9  0x00007ffecc728d9c in ntdll!RtlUserThreadStart () from C:/WINDOWS/SYSTEM32/ntdll.dll
 #10 0x0000000000000000 in ?? ()
 (gdb) c
 Continuing.
@@ -928,3 +834,22 @@ container_packet_transfer
             (frame ? frame->height : -1) : -1);
 			
 
+./ffprobe -v error -show_format -show_streams /d/output.mp4
+
+../ffprobe -v error -show_format -show_streams /d/output.mp4
+rm -f /d/output.mp4
+
+./ffprobe -v error -show_format -show_streams /D/x/ffmpeg64/FFmpeg/Aoutput_00.mp4
+
+./ffprobe -v error -show_format -show_streams /D/x/ffmpeg64/FFmpeg/Aoutput_00_d.mp4
+../ffprobe -v error -show_format -show_streams /D/x/ffmpeg64/FFmpeg/Aoutput_00_d.mp4
+D:/x/ffmpeg64/FFmpeg
+./ffprobe.exe /D/x/ffmpeg64/FFmpeg/Aoutput_00.mp4
+
+$ ./ffprobe -v error -show_format -show_streams /D/x/ffmpeg64/FFmpeg/output_00.mp4
+
+làm sao để có pix_fmt=yuv422p, và profile=High 4:2:2
+
+codec_desc.c:3819
+gdb --args ./ffplay  /D/x/ffmpeg64/FFmpeg/Aoutput_00.mp4
+./ffplay  /D/x/ffmpeg64/FFmpeg/Aoutput_00.mp4
