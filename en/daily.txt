@@ -765,78 +765,14 @@ $4 = 0
 
 sws_scale
 
-X264_frame
-
-Thread 51 "enc0:1:aac" hit Breakpoint 3, avcodec_send_frame (avctx=0xdeae40, frame=0xda913c0) at libavcodec/encode.c:517
-517         AVCodecInternal *avci = avctx->internal;
-(gdb) bt
-#0  avcodec_send_frame (avctx=0xdeae40, frame=0xda913c0) at libavcodec/encode.c:517
-#1  0x00007ff6d6b187ec in encode_frame (of=0xde21c0, ost=0xdea000, frame=0xda913c0, pkt=0xe918c0) at fftools/ffmpeg_enc.c:659
-#2  0x00007ff6d6b19ffb in frame_encode (ost=0xdea000, frame=0xda913c0, pkt=0xe918c0) at fftools/ffmpeg_enc.c:828
-#3  0x00007ff6d6b1ac37 in encoder_thread (arg=0xdea000) at fftools/ffmpeg_enc.c:915
-#4  0x00007ff6d6b3f54f in task_wrapper (arg=0xdea720) at fftools/ffmpeg_sched.c:2534
-#5  0x00007ffeab4766fb in ?? () from D:/ProgramFiles/msys64/mingw64/bin/libwinpthread-1.dll
-#6  0x00007ffeca5df0ad in msvcrt!_beginthreadex () from C:/WINDOWS/System32/msvcrt.dll
-#7  0x00007ffeca5df17c in msvcrt!_endthreadex () from C:/WINDOWS/System32/msvcrt.dll
-#8  0x00007ffecadde8d7 in KERNEL32!BaseThreadInitThunk () from C:/WINDOWS/System32/kernel32.dll
-#9  0x00007ffecc728d9c in ntdll!RtlUserThreadStart () from C:/WINDOWS/SYSTEM32/ntdll.dll
-#10 0x0000000000000000 in ?? ()
-(gdb) c
-Continuing.
-
-Thread 51 "enc0:1:aac" hit Breakpoint 3, avcodec_send_frame (avctx=0xdeae40, frame=0xda913c0) at libavcodec/encode.c:517
-517         AVCodecInternal *avci = avctx->internal;
-(gdb) c
-Continuing.
-[New Thread 21460.0x3624]
-[New Thread 21460.0x77e4]
-[New Thread 21460.0x5460]
-[New Thread 21460.0x6754]
-[New Thread 21460.0xb7c]
-[New Thread 21460.0x73a0]
-[New Thread 21460.0x358c]
-[New Thread 21460.0x7610]
-
-Thread 51 "enc0:1:aac" hit Breakpoint 3, avcodec_send_frame (avctx=0xdeae40, frame=0xda913c0) at libavcodec/encode.c:517
-517         AVCodecInternal *avci = avctx->internal;
-(gdb) c
-Continuing.
-[New Thread 21460.0x4aa4]
-[New Thread 21460.0x7810]
-[New Thread 21460.0x649c]
-[New Thread 21460.0x5fec]
-[libx264 @ 0000000000de4480] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
-
-
-
-
-[2025-09-28 23:17:14.869601884] [D] [tid	30840]	[ffmpeg_sched.c:send_to_filter:2212] 0-r frame linesize[0]: 3840
-[2025-09-28 23:17:14.885761328] [D] [tid	22588]	[ffmpeg_sched.c:send_to_enc:1807] 0-c frame linesize[0]: 640
-
-tq_send -->> av_container_fifo_write -->> callback: fifo_transfer
-tq_receive
-
-frame_transfer
-
-typedef enum {
-    FFWR_AVFRAME,
-    FFWR_AVPACKET,
-
-
-    FFWR_AVEND
-} FFWR_TYPE_DT;
-
-gdb --args ./ffmpeg_g.exe -f dshow -i video="Integrated Webcam":audio="Microphone (2- Realtek(R) Audio)" -t 00:00:07 -c:v libx264 -preset ultrafast -tune zerolatency -c:a aac -b:a 128k zzoutput_00.mp4 
-
-container_packet_transfer
-    spllog(1, "+++frame(w,h)=(%d, %d)", 
-            (frame ? frame->width : -1) : -1, 
-            (frame ? frame->height : -1) : -1);
 			
 
 ./ffprobe -v error -show_format -show_streams /d/output.mp4
+../ffprobe -v error -show_format -show_streams /d/z.mp4
 
 ../ffprobe -v error -show_format -show_streams /d/output.mp4
+../ffprobe -v error -show_format -show_streams /D/x/ffmpeg64/FFmpeg/z/ztest.mp4
+../ffprobe -v error -show_format -show_streams z.mp4
 rm -f /d/output.mp4
 
 ./ffprobe -v error -show_format -show_streams /D/x/ffmpeg64/FFmpeg/Aoutput_00.mp4
@@ -853,3 +789,12 @@ làm sao để có pix_fmt=yuv422p, và profile=High 4:2:2
 codec_desc.c:3819
 gdb --args ./ffplay  /D/x/ffmpeg64/FFmpeg/Aoutput_00.mp4
 ./ffplay  /D/x/ffmpeg64/FFmpeg/Aoutput_00.mp4
+
+void av_frame_free(AVFrame **frame)
+{
+    if (!frame || !*frame)
+        return;
+
+    av_frame_unref(*frame);
+    av_freep(frame);  
+}
