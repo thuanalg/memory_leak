@@ -772,7 +772,7 @@ sws_scale
 
 ../ffprobe -v error -show_format -show_streams /d/output.mp4
 ../ffprobe -v error -show_format -show_streams /D/x/ffmpeg64/FFmpeg/z/ztest.mp4
-../ffprobe -v error -show_format -show_streams z.mp4
+../ffprobe -v error -show_format -show_streams /C/Users/DEll/Desktop/z.mp4
 rm -f /d/output.mp4
 
 ./ffprobe -v error -show_format -show_streams /D/x/ffmpeg64/FFmpeg/Aoutput_00.mp4
@@ -798,3 +798,12 @@ void av_frame_free(AVFrame **frame)
     av_frame_unref(*frame);
     av_freep(frame);  
 }
+
+    frame->pts = ost->next_pts;
+    ost->next_pts  += frame->nb_samples;
+	
+avcodec_send_frame(c, frame);
+
+ffmpeg -f dshow -i video="Integrated Camera":audio="Microphone (Realtek)" -t 20 -f mpegts tcp://127.0.0.1:12345
+
+[IE-C1-Z07-XX-V-02]
