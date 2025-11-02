@@ -807,3 +807,4 @@ avcodec_send_frame(c, frame);
 ffmpeg -f dshow -i video="Integrated Camera":audio="Microphone (Realtek)" -t 20 -f mpegts tcp://127.0.0.1:12345
 
 [IE-C1-Z07-XX-V-02]
+https://www.facebook.com/reel/1317006157104963: chén rừng
