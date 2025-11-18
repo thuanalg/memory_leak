@@ -177,6 +177,11 @@ Cả hai công cụ này đều cực kỳ hữu ích trong việc tiền xử l
 ===============================================================================================
 
 ===============================================================================================
-C:/z/xlog0/simplelog.cfg
-COM3
-COM6
+
+===================
+1. Add message into dialog
+2. Check closing dialog: clear memory
+3. clean code
+4. runaudio
+5. mp4
+6. direct camera 

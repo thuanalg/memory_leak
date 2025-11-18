@@ -808,3 +808,22 @@ ffmpeg -f dshow -i video="Integrated Camera":audio="Microphone (Realtek)" -t 20 
 
 [IE-C1-Z07-XX-V-02]
 https://www.facebook.com/reel/1317006157104963: chén rừng
+
+		if(!obj) {
+			ret = FFWR_DEMUX_OBJS_NULL_ERR;
+			spllog(4, "FFWR_DEMUX_OBJS_NULL_ERR");
+			break;
+		}	
+
+//void (*ffwr_audio_pause_on)(unsigned int, int);
+static void 
+ffwr_SDL_PauseAudioDevice(unsigned int devid, int onoff)
+{
+	SDL_PauseAudioDevice(devid, onoff);
+}
+typedef struct AVRational{
+    int num; ///< Numerator
+    int den; ///< Denominator
+} AVRational;		
+
+FFWR_DEMUX_START_RENDER
