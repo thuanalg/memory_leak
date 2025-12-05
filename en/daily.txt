@@ -827,3 +827,34 @@ typedef struct AVRational{
 } AVRational;		
 
 FFWR_DEMUX_START_RENDER
+
+1. PyTorch
+2. ONNX
+3. Build và ví dụ
+
+  cmake .. -G "Visual Studio 17 2022" -DBUILD_PYTHON=OFF -DBUILD_TEST=OFF -DBUILD_CAFFE2_OPS=OFF -DUSE_CUDA=OFF -DUSE_DISTRIBUTED=OFF
+set USE_OPENMP=0
+set USE_CUDA=0
+set USE_OPENMP=0
+
+https://pytorch.org/get-started/locally/
+
+mkdir build_cpu_only
+cd build_cpu_only
+
+set USE_CUDA=0
+set NO_CUDA=1
+set CMAKE_GENERATOR=Visual Studio 17 2022 # Adjust the VS version if necessary (e.g., "Visual Studio 16 2019")
+set BUILD_SHARED_LIBS=ON # Recommended for standard LibTorch use
+set DEBUG=1
+
+python ..\tools\build_libtorch.py
+cmake .. -G "Visual Studio 17 2022" -DUSE_CUDA:BOOL=OFF -DBUILD_SHARED_LIBS:BOOL=ON -DCMAKE_INSTALL_PREFIX:PATH=D:\libtorch-install-cpu
+cmake --build . --target install --config Release # Use Debug for debug build
+
+D:\python3>D:\ProgramFiles\Python-3.11.8\python.exe test.py
+PyTorch version: 2.10.0a0+git65b9892
+CUDA available: False
+CUDA device count: 0
+
+D:\python3>
