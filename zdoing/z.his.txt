@@ -1,0 +1,2 @@
+export LD_LIBRARY_PATH=/usr/local/lib/
+ffmpeg -f x11grab -video_size 1920x1080 -framerate 30 -i :1 -f pulse -i default -c:v libx264 -preset fast -c:a aac -t 600 output.mp4
